@@ -6,15 +6,15 @@ The way of the slacker is like a hedge of thorns, but the path of the upright is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.18|<< Proverbs 15:18]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.20|Proverbs 15:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sluggard  | <span class="ashebrew"><big>עָ֭צֵל </big></span><small><small><sup>[[H6102]]</sup></small></small> &#8207;| 'A.tzel <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] like a hedge of  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מְשֻׂ֣כַת </big></span><small><small><sup>[[H4881A]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> m.Su.khat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thorn[s]  | <span class="ashebrew"><big>חָ֑דֶק </big></span><small><small><sup>[[H2312]]</sup></small></small> &#8207;| Cha.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] path of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֹ֖רַח </big></span><small><small><sup>[[H0734]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'O.rach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| upright [people]  | <span class="ashebrew"><big>יְשָׁרִ֣ים </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| ye.sha.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] cast up  | <span class="ashebrew"><big>סְלֻלָֽה </big></span><small><small><sup>[[H5549]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| se.lu.Lah <small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sluggard  |**<big>&#8207;[[H6102\|עָ֭צֵל]]&#8207; </big>**| 'A.tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like a hedge of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H4881A\|מְשֻׂ֣כַת]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> m.Su.khat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thorn[s]  |**<big>&#8207;[[H2312\|חָ֑דֶק]]&#8207; </big>**| Cha.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] path of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0734\|אֹ֖רַח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| upright [people]  |**<big>&#8207;[[H3477G\|יְשָׁרִ֣ים]]&#8207; </big>**| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] cast up  |**<big>&#8207;[[H5549\|סְלֻלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| se.lu.Lah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.18|<< Proverbs 15:18]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.20|Proverbs 15:20 >>]]</td></tr></table>
 
 

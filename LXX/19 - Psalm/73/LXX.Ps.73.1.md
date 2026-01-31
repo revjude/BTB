@@ -12,18 +12,18 @@ A Psalm of Asaph. Truly God [is] good to Israel, [even] to such as are of a clea
 A Psalm of Asaph. Surely God is good to Israel, to those who are pure in heart.<small><sub>**MT:**</sub></small>
 [[Ps.73.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.20|<< Psalm 72:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.2|Psalm 73:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O how | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| straight | <big><span class="asgreek">ευθέσι</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart. | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| O how | **<big>[[G5613\|ως]]</big>** |
+| good | **<big>[[G0018\|αγαθός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[is\] God | **<big>[[G2316\|θεός]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| straight | **<big>[[G2117\|ευθέσι]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| heart. | **<big>[[G2588\|καρδία]]</big>** |
 [[Ps.73.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.20|<< Psalm 72:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.2|Psalm 73:2 >>]]</td></tr></table>
 
 

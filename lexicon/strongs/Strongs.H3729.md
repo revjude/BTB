@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎כְּפַת‎</span></big> **kᵉphath** <small>*(kef-ath')*</small> ==**to bind**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+**<big><span class="asaramaic">‎כְּפַת‎</span></big>** **kᵉphath** <small>*(kef-ath')*</small> ==**to bind**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
 <small>(Aramaic) a root of uncertain correspondence</small>
 
 $\quad$ bind.

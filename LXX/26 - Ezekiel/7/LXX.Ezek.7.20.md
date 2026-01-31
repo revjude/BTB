@@ -7,28 +7,28 @@ As for the beauty of his ornament, he set it in majesty: but they made the image
 His beautiful ornaments they transformed into pride and used them to fashion their vile images and detestable idols. Therefore I will make these into something unclean for them.<small><sub>**MT:**</sub></small>
 [[Ezek.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.19|<< Ezekiel 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.21|Ezekiel 7:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A choice | <big><span class="asgreek">εκλεκτά</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| ornament | <big><span class="asgreek">κόσμου</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| pride -- | <big><span class="asgreek">υπερηφανίαν</span></big> <sup><small><small>[[G5243]]</small></small></sup> |
-| they made | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| images | <big><span class="asgreek">εικόνας</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their abominations | <big><span class="asgreek">βδελυγμάτων</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| uncleanness. | <big><span class="asgreek">ακαθαρσίαν</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
+| A choice | **<big>[[G1588\|εκλεκτά]]</big>** |
+| ornament | **<big>[[G2889\|κόσμου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| pride -- | **<big>[[G5243\|υπερηφανίαν]]</big>** |
+| they made | **<big>[[G5087\|έθεντο]]</big>** |
+| them; | **<big>[[G1473\|αυτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| images | **<big>[[G1504\|εικόνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their abominations | **<big>[[G0946\|βδελυγμάτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| uncleanness. | **<big>[[G0167\|ακαθαρσίαν]]</big>** |
 [[Ezek.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.19|<< Ezekiel 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.21|Ezekiel 7:21 >>]]</td></tr></table>
 
 

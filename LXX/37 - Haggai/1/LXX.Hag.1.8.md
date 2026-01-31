@@ -7,27 +7,27 @@ Go up to the mountain, and bring wood, and build the house; and I will take plea
 Go up into the hills, bring down lumber, and build the house, so that I may take pleasure in it and be glorified, says the LORD.<small><sub>**MT:**</sub></small>
 [[Hag.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.7|<< Haggai 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.9|Haggai 1:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ascend | <big><span class="asgreek">ανάβητε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cut | <big><span class="asgreek">κόψατε</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| wood! | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall build | <big><span class="asgreek">οικοδομήσετε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">όικον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will think well | <big><span class="asgreek">ευδοκήσω</span></big> <sup><small><small>[[G2106]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will be glorified, | <big><span class="asgreek">ενδοξασθήσομαι</span></big> <sup><small><small>[[G1740]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Ascend | **<big>[[G0305\|ανάβητε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain, | **<big>[[G3735\|όρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cut | **<big>[[G2875\|κόψατε]]</big>** |
+| wood! | **<big>[[G3586\|ξύλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall build | **<big>[[G3618\|οικοδομήσετε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house. | **<big>[[G3624\|όικον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will think well | **<big>[[G2106\|ευδοκήσω]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will be glorified, | **<big>[[G1740\|ενδοξασθήσομαι]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Hag.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.7|<< Haggai 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.9|Haggai 1:9 >>]]</td></tr></table>
 
 

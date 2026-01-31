@@ -7,42 +7,42 @@ And when Joseph saw that his father laid his right hand upon the head of Ephraim
 When Joseph saw that his father had placed his right hand on Ephraim’s head, he was displeased and took his father’s hand to move it from Ephraim’s head to Manasseh’s.<small><sub>**MT:**</sub></small>
 [[Gen.48.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.16|<< Genesis 48:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.18|Genesis 48:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| seeing | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| put | <big><span class="asgreek">επέβαλεν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his right | <big><span class="asgreek">δεξιάν</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραίμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| wrong | <big><span class="asgreek">βαρύ</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it appeared | <big><span class="asgreek">κατεφάνη</span></big> <sup><small><small>[[G7943]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joseph took hold of | <big><span class="asgreek">αντελάβετο</span></big> <sup><small><small>[[G0482]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to remove | <big><span class="asgreek">αφελείν</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραίμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| seeing | **<big>[[G1492\|ιδών]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| put | **<big>[[G1911\|επέβαλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his right | **<big>[[G1188\|δεξιάν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραίμ]]</big>** |
+| wrong | **<big>[[G0926\|βαρύ]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| it appeared | **<big>[[G7943\|κατεφάνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joseph took hold of | **<big>[[G0482\|αντελάβετο]]</big>** **<big>[[G1473\|Ιωσήφ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| hand | **<big>[[G5495\|χειρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to remove | **<big>[[G0851\|αφελείν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραίμ]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Manasseh. | **<big>[[G3128\|Μανασσή]]</big>** |
 [[Gen.48.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.16|<< Genesis 48:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.18|Genesis 48:18 >>]]</td></tr></table>
 
 

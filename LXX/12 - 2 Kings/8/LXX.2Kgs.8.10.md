@@ -7,25 +7,25 @@ And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbe
 Elisha answered, “Go and tell him, ‘You will surely recover.’ But the LORD has shown me that in fact he will die.”<small><sub>**MT:**</sub></small>
 [[2Kgs.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.9|<< 2 Kings 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.11|2 Kings 8:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| Go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| say | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| To life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| you shall live! | <big><span class="asgreek">ζήση</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| showed | <big><span class="asgreek">έδειξέ</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| he shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| Go, | **<big>[[G4198\|πορεύου]]</big>** |
+| say | **<big>[[G2036\|είπε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| To life | **<big>[[G2222\|ζωή]]</big>** |
+| you shall live! | **<big>[[G2198\|ζήση]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| showed | **<big>[[G1166\|έδειξέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| to death | **<big>[[G2288\|θανάτω]]</big>** |
+| he shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
 [[2Kgs.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.9|<< 2 Kings 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.11|2 Kings 8:11 >>]]</td></tr></table>
 
 

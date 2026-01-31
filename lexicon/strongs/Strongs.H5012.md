@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָבָא‎</span></big> **nâbâʼ** <small>*(naw-baw')*</small> ==**to prophesy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָבָא‎</span></big>** **nâbâʼ** <small>*(naw-baw')*</small> ==**to prophesy**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ prophesy(-ing), make self a prophet.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** to prophesy
 $\quad$ $\quad$ $\quad$ **1b1a)** under influence of divine spirit
 $\quad$ $\quad$ $\quad$ **1b1b)** of false prophets
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποφθέγγομαι</span><sup><small>[[G0669]]</small></sup> · <span class="asgreek">λαλέω</span><sup><small>[[G2980]]</small></sup> · <span class="asgreek">προφητεύω</span><sup><small>[[G4395]]</small></sup>
+<small>See Greek: </small>**<big>[[G0669|ἀποφθέγγομαι]]</big>** · **<big>[[G2980|λαλέω]]</big>** · **<big>[[G4395|προφητεύω]]</big>**

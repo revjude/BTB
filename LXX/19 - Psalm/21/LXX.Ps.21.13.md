@@ -7,18 +7,18 @@ Be thou exalted, LORD, in thine own strength: [so] will we sing and praise thy p
 Be exalted, O LORD, in Your strength; we will sing and praise Your power.<small><sub>**MT:**</sub></small>
 [[Ps.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.12|<< Psalm 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.1|Psalm 22:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be raised up high, | <big><span class="asgreek">υψώθητι</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your power! | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We shall sing | <big><span class="asgreek">άσομεν</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strum | <big><span class="asgreek">ψαλούμεν</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your dominations. | <big><span class="asgreek">δυναστείας</span></big> <sup><small><small>[[G6973]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Be raised up high, | **<big>[[G5312\|υψώθητι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your power! | **<big>[[G1411\|δυνάμει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| We shall sing | **<big>[[G0103\|άσομεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strum | **<big>[[G5567\|ψαλούμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of your dominations. | **<big>[[G6973\|δυναστείας]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.12|<< Psalm 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.1|Psalm 22:1 >>]]</td></tr></table>
 
 

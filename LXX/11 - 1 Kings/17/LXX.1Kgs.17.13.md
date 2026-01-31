@@ -7,38 +7,38 @@ And Elijah said unto her, Fear not; go [and] do as thou hast said: but make me t
 “Do not be afraid,” Elijah said to her. “Go and do as you have said. But first make me a small cake of bread from what you have, and bring it out to me. Afterward, make some for yourself and your son,<small><sub>**MT:**</sub></small>
 [[1Kgs.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.12|<< 1 Kings 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.14|1 Kings 17:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elijah | <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| Be of courage! | <big><span class="asgreek">θάρσει</span></big> <sup><small><small>[[G2293]]</small></small></sup> |
-| enter | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your word! | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| make | <big><span class="asgreek">ποίησόν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| cake baked in hot ashes | <big><span class="asgreek">εγκρυφίαν</span></big> <sup><small><small>[[G7030]]</small></small></sup> |
-| a small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| first, | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring it forth | <big><span class="asgreek">εξοίσεις</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and to yourself | <big><span class="asgreek">εαυτή</span></big> <sup><small><small>[[G1438]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children | <big><span class="asgreek">τέκνοις</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| last. | <big><span class="asgreek">εσχάτω</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| Elijah | **<big>[[G2243\|Ηλίας]]</big>** |
+| Be of courage! | **<big>[[G2293\|θάρσει]]</big>** |
+| enter | **<big>[[G1525\|είσελθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do | **<big>[[G4160\|ποίησον]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your word! | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| make | **<big>[[G4160\|ποίησόν]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| cake baked in hot ashes | **<big>[[G7030\|εγκρυφίαν]]</big>** |
+| a small | **<big>[[G3398\|μικρόν]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| first, | **<big>[[G4413\|πρώτοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring it forth | **<big>[[G1627\|εξοίσεις]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
+| and to yourself | **<big>[[G1438\|εαυτή]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| your children | **<big>[[G5043\|τέκνοις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| at | **<big>[[G1909\|επ΄]]</big>** |
+| last. | **<big>[[G2078\|εσχάτω]]</big>** |
 [[1Kgs.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.12|<< 1 Kings 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.14|1 Kings 17:14 >>]]</td></tr></table>
 
 

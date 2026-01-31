@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֻמְטָה‎</span></big> **Chumṭâh** <small>*(khoom-taw')*</small> ==**Humtah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חֹמֶט‎</span><sup><small>[[H2546]]</small></sup>; low</small>
+**<big><span class="ashebrew">‎חֻמְטָה‎</span></big>** **Chumṭâh** <small>*(khoom-taw')*</small> ==**Humtah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine of **<big>[[H2546|‎חֹמֶט‎]]</big>**; low</small>
 
 $\quad$ Humtah.
 - § Humtah = *"place of lizards"*

@@ -7,19 +7,19 @@ Fear, and the pit, and the snare, [shall be] upon thee, O inhabitant of Moab, sa
 Terror and pit and snare await you, O dweller of Moab,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.48.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.42|<< Jeremiah 48:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.44|Jeremiah 48:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A snare, | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fear, | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a pit, | <big><span class="asgreek">βόθυνος</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
-| \[are\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O one settled | <big><span class="asgreek">καθήμενος</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| A snare, | **<big>[[G3803\|παγίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fear, | **<big>[[G5401\|φόβος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a pit, | **<big>[[G0999\|βόθυνος]]</big>** |
+| \[are\] upon | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O one settled | **<big>[[G2521\|καθήμενος]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.48.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.42|<< Jeremiah 48:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.44|Jeremiah 48:44 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שִׁיר‎</span></big> **shîyr** <small>*(sheer)*</small> ==**to sing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or (the original form) <span class="ashebrew">שׁוּר</span> **shûwr** <small>*(shoor)*</small>; (1 Samuel 18:6), a primitive root (rather identical with <span class="ashebrew">‎שׁוּר‎</span><sup><small>[[H7788]]</small></sup> through the idea of ***strolling*** minstrelsy)</small>
+**<big><span class="ashebrew">‎שִׁיר‎</span></big>** **shîyr** <small>*(sheer)*</small> ==**to sing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or (the original form) **<big><span class="ashebrew">שׁוּר</span></big>** **shûwr** <small>*(shoor)*</small>; (1 Samuel 18:6), a primitive root (rather identical with **<big>[[H7788|‎שׁוּר‎]]</big>** through the idea of ***strolling*** minstrelsy)</small>
 
-$\quad$ behold (by mistake for <span class="ashebrew">‎שׁוּר‎</span><sup><small>[[H7789]]</small></sup>), sing(-er, -ing man, -ing woman).
+$\quad$ behold (by mistake for **<big>[[H7789|‎שׁוּר‎]]</big>**), sing(-er, -ing man, -ing woman).
 - to ***sing***
 
 **1)** to sing
@@ -13,6 +13,6 @@ $\quad$ $\quad$ **1b1)** to sing
 $\quad$ $\quad$ **1b2)** singer, songstress (participle)
 $\quad$ **1c)** (Hophal) to be sung
 ++++
-In Job 36:24, the word is translated "Behold"; in modern versions, it is translated "Sing". The old translations considered the Hebrew word to be from a different root than <span class="ashebrew">שׁוּר</span><sup><small>[[H7788]]</small></sup> hence the difference in the translations.
+In Job 36:24, the word is translated "Behold"; in modern versions, it is translated "Sing". The old translations considered the Hebrew word to be from a different root than **<big>[[H7788|שׁוּר]]</big>** hence the difference in the translations.
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ᾄδω</span><sup><small>[[G0103]]</small></sup> · <span class="asgreek">ᾄδω</span><sup><small>[[G0103]]</small></sup> · <span class="asgreek">αἰνέω</span><sup><small>[[G0134]]</small></sup> · <span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup> · <span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">θέλημα</span><sup><small>[[G2307]]</small></sup> · <span class="asgreek">φωνέω</span><sup><small>[[G5455]]</small></sup>
+<small>See Greek: </small>**<big>[[G0103|ᾄδω]]</big>** · **<big>[[G0103|ᾄδω]]</big>** · **<big>[[G0134|αἰνέω]]</big>** · **<big>[[G0757|ἄρχω]]</big>** · **<big>[[G0758|ἄρχων]]</big>** · **<big>[[G2307|θέλημα]]</big>** · **<big>[[G5455|φωνέω]]</big>**

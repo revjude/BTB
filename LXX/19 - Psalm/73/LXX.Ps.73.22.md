@@ -7,17 +7,17 @@ So foolish [was] I, and ignorant: I was [as] a beast before thee.
 I was senseless and ignorant; I was a brute beast before You.<small><sub>**MT:**</sub></small>
 [[Ps.73.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.21|<< Psalm 73:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.23|Psalm 73:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| being with contempt, | <big><span class="asgreek">εξουδενωμένος</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| knowing, | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| brutish | <big><span class="asgreek">κτηνώδης</span></big> <sup><small><small>[[G8110]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| before | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And I | **<big>[[G2504\|καγώ]]</big>** |
+| being with contempt, | **<big>[[G1847\|εξουδενωμένος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| knowing, | **<big>[[G1097\|έγνων]]</big>** |
+| brutish | **<big>[[G8110\|κτηνώδης]]</big>** |
+| became | **<big>[[G1096\|εγενήθην]]</big>** |
+| before | **<big>[[G3844\|παρά]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Ps.73.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.21|<< Psalm 73:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.23|Psalm 73:23 >>]]</td></tr></table>
 
 

@@ -7,36 +7,36 @@ Therefore now go, lead the people unto [the place] of which I have spoken unto t
 Now go, lead the people to the place I described. Behold, My angel shall go before you. But on the day I settle accounts, I will punish them for their sin.”<small><sub>**MT:**</sub></small>
 [[Exod.32.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.33|<< Exodus 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.35|Exodus 32:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| proceed, | <big><span class="asgreek">βάδιζε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| guide | <big><span class="asgreek">οδήγησον</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I told | <big><span class="asgreek">είπά</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my angel | <big><span class="asgreek">άγγελός</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">προπορεύσεται</span></big> <sup><small><small>[[G4313]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| in | <big><span class="asgreek">δ΄</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| whatever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| I should visit, | <big><span class="asgreek">επισκέπτωμαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| I will bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sin. | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And now, | **<big>[[G3568\|νυν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| proceed, | **<big>[[G6642\|βάδιζε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| guide | **<big>[[G3594\|οδήγησον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I told | **<big>[[G2036\|είπά]]</big>** |
+| to you! | **<big>[[G1473\|σοι]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my angel | **<big>[[G0032\|άγγελός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall go forth | **<big>[[G4313\|προπορεύσεται]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G3739\|η]]</big>** |
+| in | **<big>[[G1161\|δ΄]]</big>** |
+| whatever | **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| I should visit, | **<big>[[G1980\|επισκέπτωμαι]]</big>** |
+| I will bring | **<big>[[G1863\|επάξω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their sin. | **<big>[[G0266\|αμαρτίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Exod.32.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.33|<< Exodus 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.35|Exodus 32:35 >>]]</td></tr></table>
 
 

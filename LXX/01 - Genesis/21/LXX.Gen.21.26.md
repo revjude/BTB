@@ -7,25 +7,25 @@ And Abimelech said, I wot not who hath done this thing: neither didst thou tell 
 Abimelech replied, “I do not know who has done this. You did not tell me, so I have not heard about it until today.”<small><sub>**MT:**</sub></small>
 [[Gen.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.25|<< Genesis 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.27|Genesis 21:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| I do not know | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter, | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τουτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| reported \[it\] to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">απήγγειλας</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| heard -- | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| I do not know | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνων]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| did | **<big>[[G4160\|εποίησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this matter, | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τουτο]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| reported \[it\] to me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G0518\|απήγγειλας]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| heard -- | **<big>[[G0191\|ήκουσα]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
 [[Gen.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.25|<< Genesis 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.27|Genesis 21:27 >>]]</td></tr></table>
 
 

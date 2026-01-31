@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּטַח‎</span></big> **beṭach** <small>*(beh'takh)*</small> ==**security**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּטַח‎</span><sup><small>[[H0982]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶּטַח‎</span></big>** **beṭach** <small>*(beh'takh)*</small> ==**security**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0982|‎בָּטַח‎]]</big>**</small>
 
 $\quad$ assurance, boldly, (without) care(-less), confidence, hope, safe(-ly, -ty), secure, surely.
 - properly, ***a place of refuge***
@@ -11,4 +11,4 @@ n m
 adv
 **2)** securely
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσφάλεια</span><sup><small>[[G0803]]</small></sup> · <span class="asgreek">ἀσφαλῶς</span><sup><small>[[G0806]]</small></sup> · <span class="asgreek">εἰρήνη</span><sup><small>[[G1515]]</small></sup> · <span class="asgreek">ἡσυχία</span><sup><small>[[G2271]]</small></sup> · <span class="asgreek">πείθω</span><sup><small>[[G3982]]</small></sup>
+<small>See Greek: </small>**<big>[[G0803|ἀσφάλεια]]</big>** · **<big>[[G0806|ἀσφαλῶς]]</big>** · **<big>[[G1515|εἰρήνη]]</big>** · **<big>[[G2271|ἡσυχία]]</big>** · **<big>[[G3982|πείθω]]</big>**

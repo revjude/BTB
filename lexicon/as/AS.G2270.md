@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἡσυχάζω</span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">שׁקט</span> <small><sup>[[H8252]]</sup></small>;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἡσυχάζω</span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H8252|שׁקט]]</big>**;\] </span> </span>
 <span class="asitalic">to be still</span>;
 <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to rest from labour</span>: [[Luke.23.56|Lk 23:56]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to live quietly</span>: [[1Thess.4.11|I Th 4:11]];</span>

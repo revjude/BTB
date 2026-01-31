@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לוֹחֵשׁ‎</span></big> **Lôwchêsh** <small>*(lo-khashe')*</small> ==**Hallohesh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>active participle of <span class="ashebrew">‎לָחַשׁ‎</span><sup><small>[[H3907]]</small></sup>; (the) enchanter</small>
+**<big><span class="ashebrew">‎לוֹחֵשׁ‎</span></big>** **Lôwchêsh** <small>*(lo-khashe')*</small> ==**Hallohesh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>active participle of **<big>[[H3907|‎לָחַשׁ‎]]</big>**; (the) enchanter</small>
 
 $\quad$ Hallohesh, Haloshesh (includ. the article).
 - § Hallohesh = *"whisperer"*

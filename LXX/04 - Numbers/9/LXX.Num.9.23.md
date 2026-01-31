@@ -7,23 +7,23 @@ At the commandment of the LORD they rested in the tents, and at the commandment 
 They camped at the LORD’s command, and they set out at the LORD’s command; they carried out the LORD’s charge according to His command through Moses.<small><sub>**MT:**</sub></small>
 [[Num.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.22|<< Numbers 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.1|Numbers 10:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| order | <big><span class="asgreek">προστάγματος</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they shall depart. | <big><span class="asgreek">απαρούσι</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watch | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| They guarded | <big><span class="asgreek">εφύλαξαντο</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| order | <big><span class="asgreek">προστάγματος</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| order | **<big>[[G8943\|προστάγματος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| they shall depart. | **<big>[[G0522\|απαρούσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| watch | **<big>[[G5438\|φυλακήν]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| They guarded | **<big>[[G5442\|εφύλαξαντο]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| order | **<big>[[G8943\|προστάγματος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Num.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.22|<< Numbers 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.1|Numbers 10:1 >>]]</td></tr></table>
 
 

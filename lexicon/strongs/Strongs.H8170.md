@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁעַלְבֹנִי‎</span></big> **Shaʻalbônîy** <small>*(shah-al-bo-nee')*</small> ==**Shaalbonite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎שַׁעַלְבִים‎</span><sup><small>[[H8169]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁעַלְבֹנִי‎</span></big>** **Shaʻalbônîy** <small>*(shah-al-bo-nee')*</small> ==**Shaalbonite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H8169|‎שַׁעַלְבִים‎]]</big>**</small>
 
 $\quad$ Shaalbonite.
 - § Shaalbonite = *see Shaalbim "place of foxes"*

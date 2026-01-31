@@ -7,41 +7,41 @@ And all the people went to Gilgal; and there they made Saul king before the LORD
 So all the people went to Gilgal and confirmed Saul as king in the presence of the LORD. There they sacrificed peace offerings before the LORD, and Saul and all the Israelites rejoiced greatly.<small><sub>**MT:**</sub></small>
 [[1Sam.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.14|<< 1 Samuel 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.1|1 Samuel 12:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Gilgal; | <big><span class="asgreek">Γάλγαλα</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel anointed | <big><span class="asgreek">έχρισε</span></big> <sup><small><small>[[G5548]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| Saul there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gilgal. | <big><span class="asgreek">Γαλγάλοις</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sacrificed | <big><span class="asgreek">έθυσεν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| sacrifice \[offerings\] | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| peace \[offerings\] | <big><span class="asgreek">ειρηνικάς</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was glad | <big><span class="asgreek">ευφράνθη</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| greatly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Gilgal; | **<big>[[H1537\|Γάλγαλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Samuel anointed | **<big>[[G5548\|έχρισε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| Saul there | **<big>[[G1563\|εκεί]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gilgal. | **<big>[[H1537\|Γαλγάλοις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sacrificed | **<big>[[G2380\|έθυσεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| sacrifice \[offerings\] | **<big>[[G2378\|θυσίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| peace \[offerings\] | **<big>[[G1516\|ειρηνικάς]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was glad | **<big>[[G2165\|ευφράνθη]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| greatly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[1Sam.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.14|<< 1 Samuel 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.1|1 Samuel 12:1 >>]]</td></tr></table>
 
 

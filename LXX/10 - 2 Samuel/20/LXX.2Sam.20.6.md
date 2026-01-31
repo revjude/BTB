@@ -7,41 +7,41 @@ And David said to Abishai, Now shall Sheba the son of Bichri do us more harm tha
 And David said to Abishai, “Now Sheba the son of Bichri will do us more harm than Absalom. Take your lord’s servants and pursue him, or he will find fortified cities and elude us.”<small><sub>**MT:**</sub></small>
 [[2Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.5|<< 2 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.7|2 Samuel 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abishai, | <big><span class="asgreek">Αβεσσά</span></big> <sup><small><small>[[H0052]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| shall do us evil | <big><span class="asgreek">κακοποιήσει</span></big> <sup><small><small>[[G2554]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sheba | <big><span class="asgreek">Σαβεαί</span></big> <sup><small><small>[[H7652a]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Bichri | <big><span class="asgreek">Βοχορί</span></big> <sup><small><small>[[H1075]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σεαυτού</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your master, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pursue | <big><span class="asgreek">καταδίωκε</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| he should not find | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should shadow | <big><span class="asgreek">σκιάση</span></big> <sup><small><small>[[G9106]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our eyes. | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abishai, | **<big>[[H0052\|Αβεσσά]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| shall do us evil | **<big>[[G2554\|κακοποιήσει]]</big>** **<big>[[G1473\|ημάς]]</big>** |
+| Sheba | **<big>[[H7652a\|Σαβεαί]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Bichri | **<big>[[H1075\|Βοχορί]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| yourself | **<big>[[G4572\|σεαυτού]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| servants | **<big>[[G3816\|παίδας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your master, | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pursue | **<big>[[G2614\|καταδίωκε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| him! | **<big>[[G1473\|αυτού]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| he should not find | **<big>[[G3361\|μη]]</big>** **<big>[[G2147\|εύρη]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| fortified | **<big>[[G8575\|οχυράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should shadow | **<big>[[G9106\|σκιάση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| our eyes. | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[2Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.5|<< 2 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.7|2 Samuel 20:7 >>]]</td></tr></table>
 
 

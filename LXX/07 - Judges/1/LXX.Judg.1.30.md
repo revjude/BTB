@@ -7,30 +7,30 @@ Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of 
 Zebulun failed to drive out the inhabitants of Kitron and Nahalol; so the Canaanites lived among them and served as forced laborers.<small><sub>**MT:**</sub></small>
 [[Judg.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.29|<< Judges 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.31|Judges 1:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remove | <big><span class="asgreek">εξήρε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Kitron, | <big><span class="asgreek">Κετρών</span></big> <sup><small><small>[[H7003]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Nahalol. | <big><span class="asgreek">Νααλώλ</span></big> <sup><small><small>[[H5096]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκησεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite | <big><span class="asgreek">Χαναναίος</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| tribute. | <big><span class="asgreek">φόρον</span></big> <sup><small><small>[[G5411]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| remove | **<big>[[G1808\|εξήρε]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in Kitron, | **<big>[[H7003\|Κετρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| Nahalol. | **<big>[[H5096\|Νααλώλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Canaanite | **<big>[[G5477\|Χαναναίος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγένετο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| tribute. | **<big>[[G5411\|φόρον]]</big>** |
 [[Judg.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.29|<< Judges 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.31|Judges 1:31 >>]]</td></tr></table>
 
 

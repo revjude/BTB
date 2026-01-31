@@ -6,23 +6,23 @@ So Hagar gave this name to the LORD who had spoken to her: “You are the God wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.12|<< Genesis 16:12]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.14|Genesis 16:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she called  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּקְרָ֤א </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> tik.Ra' <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁם </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shem- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who spoke  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דֹּבֵ֣ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> do.Ver <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to her  | <span class="ashebrew"><big>אֵלֶ֔י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֖ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a God of  | <span class="ashebrew"><big>אֵ֣ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seeing  | <span class="ashebrew"><big>רֳאִ֑י </big></span><small><small><sup>[[H7210]]</sup></small></small> &#8207;| ro.'I <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she said  | <span class="ashebrew"><big>אָֽמְרָ֗ה </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.me.Rah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ also  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>גַ֥ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here  | <span class="ashebrew"><big>הֲלֹ֛ם </big></span><small><small><sup>[[H1988]]</sup></small></small> &#8207;| ha.Lom <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| have I seen  | <span class="ashebrew"><big>רָאִ֖יתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] back\<s> of  | <span class="ashebrew"><big>אַחֲרֵ֥י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] [one who] sees me  | <span class="ashebrew"><big>רֹאִֽ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ro.' <small><sup>[[HVqrmsc]]</sup></small> I <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|תִּקְרָ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who spoke  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1696G\|דֹּבֵ֣ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> do.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to her  |**<big>&#8207;[[H0413\|אֵלֶ֔י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a God of  |**<big>&#8207;[[H0410G\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seeing  |**<big>&#8207;[[H7210\|רֳאִ֑י]]&#8207; </big>**| ro.'I<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she said  |**<big>&#8207;[[H0559\|אָֽמְרָ֗ה]]&#8207; </big>**| 'a.me.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ also  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H1571\|גַ֥ם]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  |**<big>&#8207;[[H1988\|הֲלֹ֛ם]]&#8207; </big>**| ha.Lom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have I seen  |**<big>&#8207;[[H7200G\|רָאִ֖יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] back\<s> of  |**<big>&#8207;[[H0310A\|אַחֲרֵ֥י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] [one who] sees me  |**<big>&#8207;[[H7200G\|רֹאִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.'<small><sup>[[HVqrmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.12|<< Genesis 16:12]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.14|Genesis 16:14 >>]]</td></tr></table>
 
 

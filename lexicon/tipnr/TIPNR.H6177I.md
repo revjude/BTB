@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aroer</span>, a city in Judah that received a share of the spoils from David's victory over the Amalekites.
 - A location only mentioned at [[1Sam.30.28|1Sa.30.28]]; 
-- only referred to as Aroer<[[H6177I]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>, <span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Aroer **<big>[[H6177|עֲרוֹעֵר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.14893187321126,34.9848522498051&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from this single reference in the context of David's distribution of the A
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aroer | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>, <span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6177I) <small>*Hebrew*</small> | 1x | [1Sa.30.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aroer\*\|reference=1Sa.30.28) |
-All Strong's for **Aroer**: \[[[H6177I]]\]
+| Aroer | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>, <span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6177I) | 1x | [1Sa.30.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aroer\*\|reference=1Sa.30.28) |
+All entries for **Aroer**:  **<big>[[H6177|עֲרוֹעֵר]]</big>**

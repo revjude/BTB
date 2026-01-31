@@ -7,34 +7,34 @@ And said unto him, Dost thou certainly know that Baalis the king of the Ammonite
 and said to him, “Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?” But Gedaliah son of Ahikam did not believe them.<small><sub>**MT:**</sub></small>
 [[Jer.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.13|<< Jeremiah 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.15|Jeremiah 40:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do you | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| with knowledge | <big><span class="asgreek">γνώσει</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
-| know | <big><span class="asgreek">γινώσκεις</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Baalis | <big><span class="asgreek">Βελεισσά</span></big> <sup><small><small>[[H1185]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ishmael | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nethaniah, | <big><span class="asgreek">Ναθανία</span></big> <sup><small><small>[[H5418]]</small></small></sup> |
-| to strike | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| your life? | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not trust | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επίστευσεν</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Gedaliah | <big><span class="asgreek">Γοδολίας</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahikam | <big><span class="asgreek">Αχικάμ</span></big> <sup><small><small>[[H0296]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Do you | **<big>[[G1487\|ει]]</big>** |
+| with knowledge | **<big>[[G1108\|γνώσει]]</big>** |
+| know | **<big>[[G1097\|γινώσκεις]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Baalis | **<big>[[H1185\|Βελεισσά]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ishmael | **<big>[[H3458\|Ισμαήλ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Nethaniah, | **<big>[[H5418\|Ναθανία]]</big>** |
+| to strike | **<big>[[G3960\|πατάξαι]]</big>** |
+| your life? | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not trust | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4100\|επίστευσεν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Gedaliah | **<big>[[H1436b\|Γοδολίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Ahikam | **<big>[[H0296\|Αχικάμ]]</big>** |
 [[Jer.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.13|<< Jeremiah 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.15|Jeremiah 40:15 >>]]</td></tr></table>
 
 

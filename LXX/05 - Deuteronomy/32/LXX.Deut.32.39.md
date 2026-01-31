@@ -7,33 +7,33 @@ See now that I, [even] I, [am] he, and [there is] no god with me: I kill, and I 
 See now that I am He; there is no God besides Me. I bring death and I give life; I wound and I heal, and there is no one who can deliver from My hand.<small><sub>**MT:**</sub></small>
 [[Deut.32.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.38|<< Deuteronomy 32:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.40|Deuteronomy 32:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| behold | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am! | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall kill, | <big><span class="asgreek">αποκτενώ</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to live | <big><span class="asgreek">ζην</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| I shall make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| I shall strike, | <big><span class="asgreek">πατάξω</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| will heal. | <big><span class="asgreek">ιάσομαι</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall rescue | <big><span class="asgreek">εξελείται</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold! | **<big>[[G1492\|ίδετε]]</big>** |
+| behold | **<big>[[G1492\|ίδετε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am! | **<big>[[G1510\|ειμι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall kill, | **<big>[[G0615\|αποκτενώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to live | **<big>[[G2198\|ζην]]</big>** |
+| I shall make | **<big>[[G4160\|ποιήσω]]</big>** |
+| I shall strike, | **<big>[[G3960\|πατάξω]]</big>** |
+| and I | **<big>[[G2504\|καγώ]]</big>** |
+| will heal. | **<big>[[G2390\|ιάσομαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| one who | **<big>[[G3739\|ος]]</big>** |
+| shall rescue | **<big>[[G1807\|εξελείται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Deut.32.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.38|<< Deuteronomy 32:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.40|Deuteronomy 32:40 >>]]</td></tr></table>
 
 

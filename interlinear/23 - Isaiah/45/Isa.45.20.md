@@ -6,25 +6,25 @@ Come, gather together, and draw near, you fugitives from the nations. Ignorant a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.19|<< Isaiah 45:19]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.21|Isaiah 45:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| gather together  | <span class="ashebrew"><big>הִקָּבְצ֥וּ </big></span><small><small><sup>[[H6908]]</sup></small></small> &#8207;| hi.ka.ve.Tzu <small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and come  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֹ֛אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Vo.'u <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| draw near  | <span class="ashebrew"><big>הִֽתְנַגְּשׁ֥וּ </big></span><small><small><sup>[[H5066G]]</sup></small></small> &#8207;| hit.na.ge.Shu <small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יַחְדָּ֖ו </big></span><small><small><sup>[[H3162B]]</sup></small></small> &#8207;| yach.Dav <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O fugitives of  | <span class="ashebrew"><big>פְּלִיטֵ֣י </big></span><small><small><sup>[[H6412A]]</sup></small></small> &#8207;| pe.li.Tei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the nations  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גּוֹיִ֑ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know  | <span class="ashebrew"><big>יָדְע֗וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.de.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| those [who] carry  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נֹּֽשְׂאִים֙ </big></span><small><small><sup>[[H5375H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> no.se.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wood of  | <span class="ashebrew"><big>עֵ֣ץ </big></span><small><small><sup>[[H6086G]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| idol their  | <span class="ashebrew"><big>פִּסְלָ֔ </big></span><small><small><sup>[[H6459]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| pis.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [those who] pray  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִתְפַּלְלִ֔ים </big></span><small><small><sup>[[H6419]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mit.pa.Lim <small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a god  | <span class="ashebrew"><big>אֵ֖ל </big></span><small><small><sup>[[H0410K]]</sup></small></small> &#8207;| 'el <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will save  | <span class="ashebrew"><big>יוֹשִֽׁיעַ </big></span><small><small><sup>[[H3467]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yo.Shi.a' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gather together  |**<big>&#8207;[[H6908\|הִקָּבְצ֥וּ]]&#8207; </big>**| hi.ka.ve.Tzu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and come  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0935G\|בֹ֛אוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Vo.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| draw near  |**<big>&#8207;[[H5066G\|הִֽתְנַגְּשׁ֥וּ]]&#8207; </big>**| hit.na.ge.Shu<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַחְדָּ֖ו]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O fugitives of  |**<big>&#8207;[[H6412A\|פְּלִיטֵ֣י]]&#8207; </big>**| pe.li.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know  |**<big>&#8207;[[H3045\|יָדְע֗וּ]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] carry  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5375H\|נֹּֽשְׂאִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.se.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wood of  |**<big>&#8207;[[H6086G\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| idol their  |**<big>&#8207;[[H6459\|פִּסְלָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| pis.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [those who] pray  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6419\|מִתְפַּלְלִ֔ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mit.pa.Lim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a god  |**<big>&#8207;[[H0410K\|אֵ֖ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will save  |**<big>&#8207;[[H3467\|יוֹשִֽׁיעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.Shi.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.19|<< Isaiah 45:19]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.21|Isaiah 45:21 >>]]</td></tr></table>
 
 

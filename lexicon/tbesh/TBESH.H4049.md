@@ -1,4 +1,3 @@
-<span class="asaramaic">‎מְגַר‎</span> <small>***(me.gar)***</small> ==**to overthrow**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H4048]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H4048|מָגַר]]</big>**</small> 
 
-- Aramaic of <i>ma.gar</i> (<span class='ashebrew'>‎מ‎</span>ָ<span class='ashebrew'>‎ג‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to cast" [[H4048]])
+- Aramaic of <i>ma.gar</i> (<span class='ashebrew'>‎מ‎</span>ָ<span class='ashebrew'>‎ג‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to cast" **<big>[[H4048|מָגַר]]</big>**)

@@ -6,23 +6,23 @@ The weapons of the scoundrel are destructive; he hatches plots to destroy the po
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.6|<< Isaiah 32:6]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.8|Isaiah 32:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a scoundrel  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֵלַ֖י </big></span><small><small><sup>[[H3596]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khe.Lai <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| weapons his  | <span class="ashebrew"><big>כֵּלָ֣י </big></span><small><small><sup>[[H3627]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ke.La <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] evil  | <span class="ashebrew"><big>רָעִ֑ים </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| ra.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֚וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil purposes  | <span class="ashebrew"><big>זִמּ֣וֹת </big></span><small><small><sup>[[H2154]]</sup></small></small> &#8207;| zi.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he plans  | <span class="ashebrew"><big>יָעָ֔ץ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| ya.'Atz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to ruin  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חַבֵּ֤ל </big></span><small><small><sup>[[H2254B]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> cha.Bel <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| afflicted [people]  [^1] | <span class="ashebrew"><big>עֲנִיִּים֙ </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;[^2] | a.na.vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| with words of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אִמְרֵי </big></span><small><small><sup>[[H0561]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'im.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שֶׁ֔קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and when speaks  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דַבֵּ֥ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> da.Ber <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] needy  | <span class="ashebrew"><big>אֶבְי֖וֹן </big></span><small><small><sup>[[H0034]]</sup></small></small> &#8207;| 'ev.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּֽט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a scoundrel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3596\|כֵלַ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khe.Lai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weapons his  |**<big>&#8207;[[H3627\|כֵּלָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ke.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] evil  |**<big>&#8207;[[H7451H\|רָעִ֑ים]]&#8207; </big>**| ra.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֚וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil purposes  |**<big>&#8207;[[H2154\|זִמּ֣וֹת]]&#8207; </big>**| zi.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he plans  |**<big>&#8207;[[H3289\|יָעָ֔ץ]]&#8207; </big>**| ya.'Atz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ruin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2254B\|חַבֵּ֤ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Bel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| afflicted [people]  [^1]|**<big>&#8207;[[H6041\|עֲנִיִּים֙]]&#8207; </big>**[^2] | a.na.vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| with words of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0561\|אִמְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'im.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶׁ֔קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and when speaks  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1696G\|דַבֵּ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] needy  |**<big>&#8207;[[H0034\|אֶבְי֖וֹן]]&#8207; </big>**| 'ev.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.6|<< Isaiah 32:6]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.8|Isaiah 32:8 >>]]</td></tr></table>
 
-[^1]: ==K==: **humble [people] ** | <small><sup>[[H6035]]</sup></small> <span class="ashebrew"><big>עֲנָוִים</big></span>  | a.na.vim<small><sup>[[HAampa]]</sup></small> 
+[^1]: ==K==: humble [people]  | **<big>[[H6035|עֲנָוִים]]</big> ** | a.na.vim<small><sup>[[HAampa]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>עֲנִוִּים֙</big></span>**
 

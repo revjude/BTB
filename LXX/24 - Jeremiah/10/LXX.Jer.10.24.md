@@ -7,22 +7,22 @@ O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to
 Correct me, O LORD, but only with justice—not in Your anger, or You will bring me to nothing.<small><sub>**MT:**</sub></small>
 [[Jer.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.23|<< Jeremiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.25|Jeremiah 10:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Correct | <big><span class="asgreek">παίδευσον</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| equity, | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rage! | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| us few | <big><span class="asgreek">ολίγους</span></big> <sup><small><small>[[G3641]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| Correct | **<big>[[G3811\|παίδευσον]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| only | **<big>[[G4133\|πλην]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| equity, | **<big>[[G2920\|κρίσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rage! | **<big>[[G2372\|θυμώ]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| us few | **<big>[[G3641\|ολίγους]]</big>** **<big>[[G1473\|ημάς]]</big>** |
+| make | **<big>[[G4160\|ποιήσης]]</big>** |
 [[Jer.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.23|<< Jeremiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.25|Jeremiah 10:25 >>]]</td></tr></table>
 
 

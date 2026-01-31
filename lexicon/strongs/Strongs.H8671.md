@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּשִׁיעִי‎</span></big> **tᵉshîyʻîy** <small>*(tesh-ee-ee')*</small> ==**ninth**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>ordinal from <span class="ashebrew">‎תֵּשַׁע‎</span><sup><small>[[H8672]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּשִׁיעִי‎</span></big>** **tᵉshîyʻîy** <small>*(tesh-ee-ee')*</small> ==**ninth**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>ordinal from **<big>[[H8672|‎תֵּשַׁע‎]]</big>**</small>
 
 $\quad$ ninth.
 - ***ninth***

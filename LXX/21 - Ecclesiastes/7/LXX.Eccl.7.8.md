@@ -7,18 +7,18 @@ Better [is] the end of a thing than the beginning thereof: [and] the patient in 
 The end of a matter is better than the beginning, and a patient spirit is better than a proud one.<small><sub>**MT:**</sub></small>
 [[Eccl.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.7|<< Ecclesiastes 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.9|Ecclesiastes 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Better | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \[the\] last | <big><span class="asgreek">εσχάτη</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of matters | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| its beginning; | <big><span class="asgreek">αρχήν</span></big> <sup><small><small>[[G0746]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| better | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \[the\] lenient | <big><span class="asgreek">μακρόθυμος</span></big> <sup><small><small>[[G8235]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| spirit. | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| Better | **<big>[[G0018\|αγαθή]]</big>** |
+| \[the\] last | **<big>[[G2078\|εσχάτη]]</big>** |
+| of matters | **<big>[[G3056\|λόγων]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| its beginning; | **<big>[[G0746\|αρχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| better | **<big>[[G0018\|αγαθόν]]</big>** |
+| \[the\] lenient | **<big>[[G8235\|μακρόθυμος]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| high | **<big>[[G5308\|υψηλόν]]</big>** |
+| spirit. | **<big>[[G4151\|πνεύματι]]</big>** |
 [[Eccl.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.7|<< Ecclesiastes 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.9|Ecclesiastes 7:9 >>]]</td></tr></table>
 
 

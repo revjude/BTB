@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Sherebiah</span>, a Levite who played a significant role in assisting Ezra and Nehemiah in their respective missions.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.8.18|Ezr.8.18]]; 
-- only referred to as Sherebiah<[[H8274G]]> \(<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ר</span>ֵֽ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Sherebiah **<big>[[H8274|שֵׁרֵבְיָה]]</big>**.
 
 Sherebiah was a prominent Levite who actively assisted Ezra and Nehemiah in their efforts to restore and rebuild the Jewish community after the Babylonian exile. In [[Ezra.8.18|Ezra 8:18]], he is mentioned as one of the Levites sent to Ezra by the chief men at Casiphia to serve in the house of God. Later, in [[Ezra.8.24|Ezra 8:24]], Sherebiah is listed among the twelve leaders of the priests entrusted with the task of safeguarding the offerings and vessels for the temple during the journey to Jerusalem. 
 
@@ -14,5 +14,5 @@ These references highlight Sherebiah's significant role as a Levitical leader an
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sherebiah | [<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ר</span>ֵֽ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8274G) <small>*Hebrew*</small> | 5x | [[Ezr.8.18] ... [Neh.9.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sherebiah\*\|reference=Ezr.8.18;Ezr.8.24;Neh.8.7;Neh.9.4;Neh.9.5) |
-All Strong's for **Sherebiah**: \[[[H8274G]]\]
+| Sherebiah | [<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ר</span>ֵֽ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8274G) | 5x | [[Ezr.8.18] ... [Neh.9.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sherebiah\*\|reference=Ezr.8.18;Ezr.8.24;Neh.8.7;Neh.9.4;Neh.9.5) |
+All entries for **Sherebiah**:  **<big>[[H8274|שֵׁרֵבְיָה]]</big>**

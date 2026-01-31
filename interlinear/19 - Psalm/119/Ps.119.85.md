@@ -6,15 +6,15 @@ The arrogant have dug pits for me in violation of Your law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.85|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.84|<< Psalms 119:84]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.86|Psalms 119:86 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they have dug  | <span class="ashebrew"><big>כָּֽרוּ </big></span><small><small><sup>[[H3738B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ka.ru- <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for me  | <span class="ashebrew"><big>לִ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arrogant [people]  | <span class="ashebrew"><big>זֵדִ֣ים </big></span><small><small><sup>[[H2086]]</sup></small></small> &#8207;| ze.Dim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pits  | <span class="ashebrew"><big>שִׁיח֑וֹת </big></span><small><small><sup>[[H7882]]</sup></small></small> &#8207;| shi.Chot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲ֝שֶׁ֗ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] according to law your  | <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>תוֹרָתֶֽ </big></span><small><small><sup>[[H8451]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| khe. <small><sup>[[HR]]</sup></small> to.ra.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have dug  |**<big>&#8207;[[H3738B\|כָּֽרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.ru-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for me  |**<big>&#8207;[[H9005\|לִ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrogant [people]  |**<big>&#8207;[[H2086\|זֵדִ֣ים]]&#8207; </big>**| ze.Dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pits  |**<big>&#8207;[[H7882\|שִׁיח֑וֹת]]&#8207; </big>**| shi.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲ֝שֶׁ֗ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] according to law your  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H8451\|תוֹרָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> to.ra.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.84|<< Psalms 119:84]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.86|Psalms 119:86 >>]]</td></tr></table>
 
 

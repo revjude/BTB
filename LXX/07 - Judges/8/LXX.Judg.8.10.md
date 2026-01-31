@@ -7,42 +7,42 @@ Now Zebah and Zalmunna [were] in Karkor, and their hosts with them, about fiftee
 Now Zebah and Zalmunna were in Karkor with their army of about fifteen thousand men—all that were left of the armies of the people of the east. A hundred and twenty thousand swordsmen had already fallen.<small><sub>**MT:**</sub></small>
 [[Judg.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.9|<< Judges 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.11|Judges 8:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zebah | <big><span class="asgreek">Ζεβεέ</span></big> <sup><small><small>[[H2078]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zalmunna | <big><span class="asgreek">Σαλμανά</span></big> <sup><small><small>[[H6759]]</small></small></sup> |
-| \[were\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Karkor, | <big><span class="asgreek">Καρκάρ</span></big> <sup><small><small>[[H7174]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| about | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| fifteen | <big><span class="asgreek">δεκαπέντε</span></big> <sup><small><small>[[G1178]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left | <big><span class="asgreek">καταλειφθέντες</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of \[the\] east. | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| falling | <big><span class="asgreek">πεπτωκότες</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| unsheathing | <big><span class="asgreek">εσπασμένων</span></big> <sup><small><small>[[G4685]]</small></small></sup> |
-| \[the\] broadsword. | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Zebah | **<big>[[H2078\|Ζεβεέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zalmunna | **<big>[[H6759\|Σαλμανά]]</big>** |
+| \[were\] in | **<big>[[G1722\|εν]]</big>** |
+| Karkor, | **<big>[[H7174\|Καρκάρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their camp | **<big>[[G3925\|παρεμβολή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| about | **<big>[[G5616\|ωσεί]]</big>** |
+| fifteen | **<big>[[G1178\|δεκαπέντε]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδες]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being left | **<big>[[G2641\|καταλειφθέντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολή]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of \[the\] east. | **<big>[[G0395\|ανατολών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| falling | **<big>[[G4098\|πεπτωκότες]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| unsheathing | **<big>[[G4685\|εσπασμένων]]</big>** |
+| \[the\] broadsword. | **<big>[[G4501\|ρομφαίαν]]</big>** |
 [[Judg.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.9|<< Judges 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.11|Judges 8:11 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵילוֹת‎</span></big> **ʼÊylôwth** <small>*(ay-loth')*</small> ==**Elath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">אֵילַת</span> **ʼÊylath** <small>*(ay-lath')*</small> ; from <span class="ashebrew">‎אַיִל‎</span><sup><small>[[H0352]]</small></sup>; trees or a grove (i.e. palms)</small>
+**<big><span class="ashebrew">‎אֵילוֹת‎</span></big>** **ʼÊylôwth** <small>*(ay-loth')*</small> ==**Elath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">אֵילַת</span></big>** **ʼÊylath** <small>*(ay-lath')*</small> ; from **<big>[[H0352|‎אַיִל‎]]</big>**; trees or a grove (i.e. palms)</small>
 
 $\quad$ Elath, Eloth.
 - § Elath or Eloth = *"grove of lofty trees"*

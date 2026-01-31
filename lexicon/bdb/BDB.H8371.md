@@ -1,4 +1,4 @@
-<small>Also see: [[H7743]]</small>
+<small>Also see: **<big>[[H7743|שׁוּחַ]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎שָׁתַת‎</span>] **verb** ==set, appoint== (poetry) (\|\| form of <span class="bdbLangHebrew">‎שׁית‎</span> [[BDB#Ges|Ges]]<sup>«GKC:67ee»§ 67ee</sup>); — 
 

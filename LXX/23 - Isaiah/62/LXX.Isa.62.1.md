@@ -10,30 +10,30 @@ For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will no
 For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch.<small><sub>**MT:**</sub></small>
 [[Isa.62.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.11|<< Isaiah 61:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.2|Isaiah 62:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| keep silent; | <big><span class="asgreek">σιωπήσομαι</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare, | <big><span class="asgreek">ανήσω</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| comes forth | <big><span class="asgreek">εξέλθη</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lamp | <big><span class="asgreek">λαμπάς</span></big> <sup><small><small>[[G2985]]</small></small></sup> |
-| shall be burned | <big><span class="asgreek">καυθήσεται</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| keep silent; | **<big>[[G4623\|σιωπήσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| spare, | **<big>[[G0447\|ανήσω]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| comes forth | **<big>[[G1831\|εξέλθη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| my deliverance | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a lamp | **<big>[[G2985\|λαμπάς]]</big>** |
+| shall be burned | **<big>[[G2545\|καυθήσεται]]</big>** |
 [[Isa.62.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.11|<< Isaiah 61:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.2|Isaiah 62:2 >>]]</td></tr></table>
 
 

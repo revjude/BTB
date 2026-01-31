@@ -10,44 +10,44 @@ And it came to pass, when Moses came down from mount Sinai with the two tables o
 And when Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was unaware that his face had become radiant from speaking with the LORD.<small><sub>**MT:**</sub></small>
 [[Exod.34.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.28|<< Exodus 34:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.30|Exodus 34:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses went down | <big><span class="asgreek">κατέβαινε</span></big> <sup><small><small>[[G2597]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Sinai, | <big><span class="asgreek">Σινά</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκες</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| \[were\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| going down | <big><span class="asgreek">καταβαίνοντος</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was glorified | <big><span class="asgreek">δεδόξασται</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψις</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| complexion | <big><span class="asgreek">χρωτός</span></big> <sup><small><small>[[G5559]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his speaking | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And as | **<big>[[G5613\|ως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Moses went down | **<big>[[G2597\|κατέβαινε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Sinai, | **<big>[[H6790\|Σινά]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tablets | **<big>[[G4109\|πλάκες]]</big>** |
+| \[were\] upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| hands | **<big>[[G5495\|χειρών]]</big>** |
+| of Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
+| going down | **<big>[[G2597\|καταβαίνοντος]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| in his | **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain, | **<big>[[G3735\|όρους]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|ήδει]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| was glorified | **<big>[[G1392\|δεδόξασται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| appearance | **<big>[[G3799\|όψις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| complexion | **<big>[[G5559\|χρωτός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his speaking | **<big>[[G2980\|λαλείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Exod.34.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.28|<< Exodus 34:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.30|Exodus 34:30 >>]]</td></tr></table>
 
 

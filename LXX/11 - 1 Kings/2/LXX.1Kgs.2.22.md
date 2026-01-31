@@ -7,51 +7,51 @@ And king Solomon answered and said unto his mother, And why dost thou ask Abisha
 King Solomon answered his mother, “Why do you request Abishag the Shunammite for Adonijah? Since he is my older brother, you might as well request the kingdom for him and for Abiathar the priest and for Joab son of Zeruiah!”<small><sub>**MT:**</sub></small>
 [[1Kgs.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.21|<< 1 Kings 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.23|1 Kings 2:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother, | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| are you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| asking | <big><span class="asgreek">ήτησαι</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abishag | <big><span class="asgreek">Αβισάγ</span></big> <sup><small><small>[[H0049]]</small></small></sup> |
-| \[for\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Adonijah? | <big><span class="asgreek">Αδωνία</span></big> <sup><small><small>[[H0138]]</small></small></sup> |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ask | <big><span class="asgreek">αίτησαι</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| for him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom, | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| \[is\] my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| older | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] Abiathar | <big><span class="asgreek">Αβιάθαρ</span></big> <sup><small><small>[[G0008]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zeruiah | <big><span class="asgreek">Σαρουϊα</span></big> <sup><small><small>[[H6870]]</small></small></sup> |
-| commander-in-chief -- | <big><span class="asgreek">αρχιστράτηγος</span></big> <sup><small><small>[[G6559]]</small></small></sup> |
-| \[his\] companion. | <big><span class="asgreek">εταίρος</span></big> <sup><small><small>[[G2083]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his mother, | **<big>[[G3384\|μητρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| are you | **<big>[[G1473\|συ]]</big>** |
+| asking | **<big>[[G0154\|ήτησαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Abishag | **<big>[[H0049\|Αβισάγ]]</big>** |
+| \[for\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Adonijah? | **<big>[[H0138\|Αδωνία]]</big>** |
+| Then | **<big>[[G2532\|και]]</big>** |
+| ask | **<big>[[G0154\|αίτησαι]]</big>** |
+| for him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| kingdom, | **<big>[[G0932\|βασιλείαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| \[is\] my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| older | **<big>[[G3173\|μέγας]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[are\] Abiathar | **<big>[[G0008\|Αβιάθαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest, | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with him | **<big>[[G1473\|αυτώ]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Zeruiah | **<big>[[H6870\|Σαρουϊα]]</big>** |
+| commander-in-chief -- | **<big>[[G6559\|αρχιστράτηγος]]</big>** |
+| \[his\] companion. | **<big>[[G2083\|εταίρος]]</big>** |
 [[1Kgs.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.21|<< 1 Kings 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.23|1 Kings 2:23 >>]]</td></tr></table>
 
 

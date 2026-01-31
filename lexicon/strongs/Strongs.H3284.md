@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַעֲנָה‎</span></big> **yaʻănâh** <small>*(yah-an-aw')*</small> ==**ostrich**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎יָעֵן‎</span><sup><small>[[H3283]]</small></sup>, and meaning the same</small>
+**<big><span class="ashebrew">‎יַעֲנָה‎</span></big>** **yaʻănâh** <small>*(yah-an-aw')*</small> ==**ostrich**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H3283|‎יָעֵן‎]]</big>**, and meaning the same</small>
 
 $\quad$ [phrase] owl.
 - {***the ostrich*** (probably from its answering cry}

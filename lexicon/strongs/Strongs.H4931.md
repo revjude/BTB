@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁמֶרֶת‎</span></big> **mishmereth** <small>*(mish-mer'-reth)*</small> ==**charge**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מִשְׁמָר‎</span><sup><small>[[H4929]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁמֶרֶת‎</span></big>** **mishmereth** <small>*(mish-mer'-reth)*</small> ==**charge**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4929|‎מִשְׁמָר‎]]</big>**</small>
 
 $\quad$ charge, keep, or to be kept, office, ordinace, safeguard, ward, watch.
 - ***watch***, i.e. ***the act*** (custody), or (concretely) ***the sentry***, ***the post***
@@ -12,4 +12,4 @@ $\quad$ **1b)** keeping, preserving
 $\quad$ **1c)** charge, injunction
 $\quad$ **1d)** office, function (ceremonial)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποθήκη</span><sup><small>[[G0596]]</small></sup> · <span class="asgreek">ἐφημερία</span><sup><small>[[G2183]]</small></sup> · <span class="asgreek">παρεμβολή</span><sup><small>[[G3925]]</small></sup> · <span class="asgreek">φυλακή</span><sup><small>[[G5438]]</small></sup>
+<small>See Greek: </small>**<big>[[G0596|ἀποθήκη]]</big>** · **<big>[[G2183|ἐφημερία]]</big>** · **<big>[[G3925|παρεμβολή]]</big>** · **<big>[[G5438|φυλακή]]</big>**

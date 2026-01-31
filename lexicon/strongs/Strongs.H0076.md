@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲבַעְבֻּעָה‎</span></big> **ʼăbaʻbuʻâh** <small>*(ab-ah-boo-aw')*</small> ==**boil**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎אֲבַעְבֻּעָה‎</span></big>** **ʼăbaʻbuʻâh** <small>*(ab-ah-boo-aw')*</small> ==**boil**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>(by reduplication) from an unused root (meaning to belch forth)</small>
 
 $\quad$ blains.

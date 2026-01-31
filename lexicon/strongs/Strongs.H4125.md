@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹאָבִי‎</span></big> **Môwʼâbîy** <small>*(mo-aw-bee')*</small> ==**Moabite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>feminine <span class="ashebrew">מוֹאָבִיָּה</span> **Môwʼâbîyâh** <small>*(mo-aw-bee-yaw')*</small>; or <span class="ashebrew">מוֹאָבִית</span> **Môwʼâbîyth** <small>*(mo-awbeeth')*</small>; patronymical from <span class="ashebrew">‎מוֹאָב‎</span><sup><small>[[H4124]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹאָבִי‎</span></big>** **Môwʼâbîy** <small>*(mo-aw-bee')*</small> ==**Moabite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>feminine **<big><span class="ashebrew">מוֹאָבִיָּה</span></big>** **Môwʼâbîyâh** <small>*(mo-aw-bee-yaw')*</small>; or **<big><span class="ashebrew">מוֹאָבִית</span></big>** **Môwʼâbîyth** <small>*(mo-awbeeth')*</small>; patronymical from **<big>[[H4124|‎מוֹאָב‎]]</big>**</small>
 
 $\quad$ (woman) of Moab, Moabite(-ish, -ss).
 - § Moabite = *"from father: what father?"*

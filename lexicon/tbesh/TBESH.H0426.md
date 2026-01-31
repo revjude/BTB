@@ -1,3 +1,1 @@
-<span class="asaramaic">‎אֱלָהּ‎</span> <small>***(e.lah)***</small> ==**god**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-Aramaic of: <small>[[H0433]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H0433|אֱלוֹהַּ]]</big>**</small>

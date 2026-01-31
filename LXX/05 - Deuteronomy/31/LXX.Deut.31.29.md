@@ -7,44 +7,44 @@ For I know that after my death ye will utterly corrupt [yourselves], and turn as
 For I know that after my death you will become utterly corrupt and turn from the path I have commanded you. And in the days to come, disaster will befall you because you will do evil in the sight of the LORD to provoke Him to anger by the work of your hands.”<small><sub>**MT:**</sub></small>
 [[Deut.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.28|<< Deuteronomy 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.30|Deuteronomy 31:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[at the\] last | <big><span class="asgreek">έσχατον</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my decease, | <big><span class="asgreek">τελευτής</span></big> <sup><small><small>[[G5054]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| you shall act lawlessly, | <big><span class="asgreek">ανομήσετε</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall turn aside | <big><span class="asgreek">εκκλινείτε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall meet with | <big><span class="asgreek">συναντήσεται</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] last | <big><span class="asgreek">εσχάτων</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days; | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to provoke him to anger | <big><span class="asgreek">παροργίσαι</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For I know | **<big>[[G1492\|οίδα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[at the\] last | **<big>[[G2078\|έσχατον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my decease, | **<big>[[G5054\|τελευτής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with lawlessness | **<big>[[G0458\|ανομία]]</big>** |
+| you shall act lawlessly, | **<big>[[G6349\|ανομήσετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall turn aside | **<big>[[G1578\|εκκλινείτε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall meet with | **<big>[[G4876\|συναντήσεται]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| evils | **<big>[[G2556\|κακά]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] last | **<big>[[G2078\|εσχάτων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days; | **<big>[[G2250\|ημερών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσετε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| evil | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to provoke him to anger | **<big>[[G3949\|παροργίσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| works | **<big>[[G2041\|έργοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Deut.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.28|<< Deuteronomy 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.30|Deuteronomy 31:30 >>]]</td></tr></table>
 
 

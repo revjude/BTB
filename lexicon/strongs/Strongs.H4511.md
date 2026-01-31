@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִנִּית‎</span></big> **Minnîyth** <small>*(min-neeth')*</small> ==**Minnith**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎מֵן‎</span><sup><small>[[H4482]]</small></sup>; enumeration</small>
+**<big><span class="ashebrew">‎מִנִּית‎</span></big>** **Minnîyth** <small>*(min-neeth')*</small> ==**Minnith**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H4482|‎מֵן‎]]</big>**; enumeration</small>
 
 $\quad$ Minnith.
 - § Minnith = *"distribution"*

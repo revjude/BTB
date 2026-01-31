@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פְּרָת‎</span></big> **Pᵉrâth** <small>*(per-awth')*</small> ==**Euphrates**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎פְּרָת‎</span></big>** **Pᵉrâth** <small>*(per-awth')*</small> ==**Euphrates**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root meaning to break forth; rushing</small>
 
 $\quad$ Euphrates.
@@ -7,4 +7,4 @@ $\quad$ Euphrates.
 
 **1)** the largest and longest river of western Asia; rises from two chief sources in the Armenian mountains and flows into the Persian Gulf
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Εὐφράτης</span><sup><small>[[G2166]]</small></sup>
+<small>See Greek: </small>**<big>[[G2166|Εὐφράτης]]</big>**

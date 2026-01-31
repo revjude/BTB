@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּדַהְאֵל‎</span></big> **Pᵉdahʼêl** <small>*(ped-ah-ale')*</small> ==**Pedahel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּדָה‎</span><sup><small>[[H6299]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God has ransomed</small>
+**<big><span class="ashebrew">‎פְּדַהְאֵל‎</span></big>** **Pᵉdahʼêl** <small>*(ped-ah-ale')*</small> ==**Pedahel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6299|‎פָּדָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God has ransomed</small>
 
 $\quad$ Pedahel.
 - § Pedahel = *"ransomed by God"*

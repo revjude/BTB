@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַמְזֹם‎</span></big> **Zamzôm** <small>*(zam-zome')*</small> ==**Zamzummin**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>from <span class="ashebrew">‎זָמַם‎</span><sup><small>[[H2161]]</small></sup>; intriguing</small>
+**<big><span class="ashebrew">‎זַמְזֹם‎</span></big>** **Zamzôm** <small>*(zam-zome')*</small> ==**Zamzummin**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>from **<big>[[H2161|‎זָמַם‎]]</big>**; intriguing</small>
 
 $\quad$ Zamzummim.
 - § Zamzummims = *"plotters"*

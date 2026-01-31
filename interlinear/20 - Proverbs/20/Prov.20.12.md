@@ -6,16 +6,16 @@ Ears that hear and eyes that see—the LORD has made them both.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.11|<< Proverbs 20:11]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.13|Proverbs 20:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| an ear  | <span class="ashebrew"><big>אֹ֣זֶן </big></span><small><small><sup>[[H0241G]]</sup></small></small> &#8207;| 'O.zen <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] hears  | <span class="ashebrew"><big>שֹׁ֭מַעַת </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| Sho.ma.'at <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and an eye  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַ֣יִן </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] sees  | <span class="ashebrew"><big>רֹאָ֑ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ro.'Ah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has made  | <span class="ashebrew"><big>עָשָׂ֥ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| both of them  | <span class="ashebrew"><big>שְׁנֵי </big></span><small><small><sup>[[H8147]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.nei. <small><sup>[[HAcbdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ear  |**<big>&#8207;[[H0241G\|אֹ֣זֶן]]&#8207; </big>**| 'O.zen<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] hears  |**<big>&#8207;[[H8085G\|שֹׁ֭מַעַת]]&#8207; </big>**| Sho.ma.'at<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an eye  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עַ֣יִן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] sees  |**<big>&#8207;[[H7200G\|רֹאָ֑ה]]&#8207; </big>**| ro.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has made  |**<big>&#8207;[[H6213H\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both of them  |**<big>&#8207;[[H8147\|שְׁנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.nei.<small><sup>[[HAcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.11|<< Proverbs 20:11]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.13|Proverbs 20:13 >>]]</td></tr></table>
 
 

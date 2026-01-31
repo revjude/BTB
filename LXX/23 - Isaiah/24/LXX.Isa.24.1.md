@@ -10,26 +10,26 @@ Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it ups
 Behold, the LORD lays waste the earth and leaves it in ruins. He will twist its surface and scatter its inhabitants—<small><sub>**MT:**</sub></small>
 [[Isa.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.18|<< Isaiah 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.2|Isaiah 24:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| lays waste | <big><span class="asgreek">καταφθείρει</span></big> <sup><small><small>[[G2704]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world | <big><span class="asgreek">οικουμένην</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| whole | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will make it desolate, | <big><span class="asgreek">ερημώσει</span></big> <sup><small><small>[[G2049]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall uncover | <big><span class="asgreek">ανακαλύψει</span></big> <sup><small><small>[[G0343]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its surface, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| disperse | <big><span class="asgreek">διασπερεί</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">ενοικούντας</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| lays waste | **<big>[[G2704\|καταφθείρει]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inhabitable world | **<big>[[G3611\|οικουμένην]]</big>** |
+| whole | **<big>[[G3650\|όλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will make it desolate, | **<big>[[G2049\|ερημώσει]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall uncover | **<big>[[G0343\|ανακαλύψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its surface, | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| disperse | **<big>[[G1289\|διασπερεί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G1774\|ενοικούντας]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Isa.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.18|<< Isaiah 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.2|Isaiah 24:2 >>]]</td></tr></table>
 
 

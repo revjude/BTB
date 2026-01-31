@@ -6,15 +6,15 @@ But now listen, O Jacob My servant, Israel, whom I have chosen.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.28|<< Isaiah 43:28]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.2|Isaiah 44:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and therefore  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַתָּ֥ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| listen  | <span class="ashebrew"><big>שְׁמַ֖ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| she.Ma' <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Jacob  | <span class="ashebrew"><big>יַעֲקֹ֣ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servant my  | <span class="ashebrew"><big>עַבְדִּ֑ </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'av.D <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Israel  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [whom] I have chosen  | <span class="ashebrew"><big>בָּחַ֥רְתִּי </big></span><small><small><sup>[[H0977]]</sup></small></small> &#8207;| ba.Char.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> it  | <span class="ashebrew"><big>בֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| v <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| listen  |**<big>&#8207;[[H8085G\|שְׁמַ֖ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֣ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant my  |**<big>&#8207;[[H5650\|עַבְדִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Israel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [whom] I have chosen  |**<big>&#8207;[[H0977\|בָּחַ֥רְתִּי]]&#8207; </big>**| ba.Char.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> it  |**<big>&#8207;[[H9003\|בֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.28|<< Isaiah 43:28]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.2|Isaiah 44:2 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Δαμασκός</span></span>, <span class="asgreek">-οῦ, ἡ</span> (Heb. <span class="ashebrew">דַּמֶּשֶׂק</span> <small><sup>[[H1834]]</sup></small>), </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Δαμασκός</span></span>, <span class="asgreek">-οῦ, ἡ</span> (Heb. **<big>[[H1834|דַּמֶּשֶׂק]]</big>**), </span>
 <span class="asitalic">Damascus</span>: [[Acts.9.2|Ac 9:2]]ff. [[Acts.22.5|22:5]]ff. [[Acts.26.12|26:12]], [[Acts.26.20|20]], [[2Cor.11.32|II Co 11:32]], [[Gal.1.17|Ga 1:17]].†
 
 **Abbott-Smith References**

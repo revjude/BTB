@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְפִירָה‎</span></big> **tsᵉphîyrâh** <small>*(tsef-ee-raw')*</small> ==**diadem/doom**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine formed like <span class="ashebrew">‎צָפִיר‎</span><sup><small>[[H6842]]</small></sup></small>
+**<big><span class="ashebrew">‎צְפִירָה‎</span></big>** **tsᵉphîyrâh** <small>*(tsef-ee-raw')*</small> ==**diadem/doom**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine formed like **<big>[[H6842|‎צָפִיר‎]]</big>**</small>
 
 $\quad$ diadem, morning.
 - ***a crown*** (as encircling the head)
@@ -8,4 +8,4 @@ $\quad$ diadem, morning.
 **1)** plait, chaplet, wreath, crown
 $\quad$ **1a)** plait, coronet, diadem
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πλέκω</span><sup><small>[[G4120]]</small></sup>
+<small>See Greek: </small>**<big>[[G4120|πλέκω]]</big>**

@@ -6,24 +6,24 @@ The gatekeepers: the descendants of Shallum, the descendants of Ater, the descen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.44|<< Nehemiah 7:44]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.46|Nehemiah 7:46 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the gatekeepers  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שֹּֽׁעֲרִ֗ים </big></span><small><small><sup>[[H7778]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sho.'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shallum  | <span class="ashebrew"><big>שַׁלּ֤וּם </big></span><small><small><sup>[[H7967M]]</sup></small></small> &#8207;| sha.Lum <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ater  | <span class="ashebrew"><big>אָטֵר֙ </big></span><small><small><sup>[[H0333H]]</sup></small></small> &#8207;| 'a.Ter <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Talmon  | <span class="ashebrew"><big>טַלְמֹ֣ן </big></span><small><small><sup>[[H2929]]</sup></small></small> &#8207;| tal.Mon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Akkub  | <span class="ashebrew"><big>עַקּ֔וּב </big></span><small><small><sup>[[H6126H]]</sup></small></small> &#8207;| 'a.Kuv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hatita  | <span class="ashebrew"><big>חֲטִיטָ֖א </big></span><small><small><sup>[[H2410]]</sup></small></small> &#8207;| cha.ti.Ta' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shobai  | <span class="ashebrew"><big>שֹׁבָ֑י </big></span><small><small><sup>[[H7630]]</sup></small></small> &#8207;| sho.Vai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one hundred  | <span class="ashebrew"><big>מֵאָ֖ה </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'Ah <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֥ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and eight  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמֹנָֽה </big></span><small><small><sup>[[H8083]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.mo.Nah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gatekeepers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7778\|שֹּֽׁעֲרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shallum  |**<big>&#8207;[[H7967M\|שַׁלּ֤וּם]]&#8207; </big>**| sha.Lum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ater  |**<big>&#8207;[[H0333H\|אָטֵר֙]]&#8207; </big>**| 'a.Ter<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Talmon  |**<big>&#8207;[[H2929\|טַלְמֹ֣ן]]&#8207; </big>**| tal.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Akkub  |**<big>&#8207;[[H6126H\|עַקּ֔וּב]]&#8207; </big>**| 'a.Kuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hatita  |**<big>&#8207;[[H2410\|חֲטִיטָ֖א]]&#8207; </big>**| cha.ti.Ta'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shobai  |**<big>&#8207;[[H7630\|שֹׁבָ֑י]]&#8207; </big>**| sho.Vai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one hundred  |**<big>&#8207;[[H3967\|מֵאָ֖ה]]&#8207; </big>**| me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֥ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eight  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8083\|שְׁמֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mo.Nah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.44|<< Nehemiah 7:44]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.46|Nehemiah 7:46 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ My people are destroyed for lack of knowledge: because thou hast rejected knowle
 My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you as My priests. Since you have forgotten the law of your God, I will also forget your children.<small><sub>**MT:**</sub></small>
 [[Hos.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.5|<< Hosea 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.7|Hosea 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| are likened | <big><span class="asgreek">ωμοιώθη</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[ones\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| having | <big><span class="asgreek">έχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| knowledge. | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
-| For \[since\] | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| full knowledge | <big><span class="asgreek">επίγνωσιν</span></big> <sup><small><small>[[G1922]]</small></small></sup> |
-| thrusted away | <big><span class="asgreek">απώσω</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will thrust you away | <big><span class="asgreek">απώσομαί</span></big> <sup><small><small>[[G0683]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| \[so as\] to | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| officiate as priest | <big><span class="asgreek">ιερατεύειν</span></big> <sup><small><small>[[G2407]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And \[as\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you forgot | <big><span class="asgreek">επελάθου</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| \[the\] laws | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall forget | <big><span class="asgreek">επιλήσομαι</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| your children. | <big><span class="asgreek">τεκνών</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| are likened | **<big>[[G3666\|ωμοιώθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[ones\] not | **<big>[[G3756\|ουκ]]</big>** |
+| having | **<big>[[G2192\|έχων]]</big>** |
+| knowledge. | **<big>[[G1108\|γνώσιν]]</big>** |
+| For \[since\] | **<big>[[G3754\|ότι]]</big>** |
+| full knowledge | **<big>[[G1922\|επίγνωσιν]]</big>** |
+| thrusted away | **<big>[[G0683\|απώσω]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| will thrust you away | **<big>[[G0683\|απώσομαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| even I | **<big>[[G2504\|καγώ]]</big>** |
+| \[so as\] to | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| officiate as priest | **<big>[[G2407\|ιερατεύειν]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
+| And \[as\] | **<big>[[G2532\|και]]</big>** |
+| you forgot | **<big>[[G1950\|επελάθου]]</big>** |
+| \[the\] laws | **<big>[[G3551\|νόμον]]</big>** |
+| of your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I shall forget | **<big>[[G1950\|επιλήσομαι]]</big>** |
+| your children. | **<big>[[G5043\|τεκνών]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Hos.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.5|<< Hosea 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.7|Hosea 4:7 >>]]</td></tr></table>
 
 

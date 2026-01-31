@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָמַת לֶחִי‎</span></big> **Râmath Lechîy** <small>*(raw'-math lekh'-ee)*</small> ==**Ramath-lehi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎רָמָה‎</span><sup><small>[[H7413]]</small></sup> and <span class="ashebrew">‎לְחִי‎</span><sup><small>[[H3895]]</small></sup>; height of a jaw-bone</small>
+**<big><span class="ashebrew">‎רָמַת לֶחִי‎</span></big>** **Râmath Lechîy** <small>*(raw'-math lekh'-ee)*</small> ==**Ramath-lehi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7413|‎רָמָה‎]]</big>** and **<big>[[H3895|‎לְחִי‎]]</big>**; height of a jaw-bone</small>
 
 $\quad$ Ramath-lehi.
 - § Ramath-lehi = *"height of a jawbone"*

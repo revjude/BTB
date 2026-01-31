@@ -1,8 +1,8 @@
 <small>*Beth-pelet • Town in southern Judah, resettled after the Babylonian exile.*</small>
 
 <span class='tipnrhighlight'>Beth-pelet</span> was a town in southern Judah, allotted to Judah and later resettled by the people of Judah after the Babylonian exile. \([[Josh.15.27|Joshua 15:27]]; [[Neh.11.26|Nehemiah 11:26]]\)
-- A location near Hazar-shual<[[H2705]]> first mentioned at [[Josh.15.27|Jos.15.27]]; 
-- referred to as Beth-pelet or Beth-pelet \(KJV= Beth-phelet, NIV= Beth Pelet\) <[[H1046]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ט</span>\).
+- A location near Hazar-shual **<big>[[H2705|חֲצַר שׁוּעָל]]</big>** first mentioned at [[Josh.15.27|Jos.15.27]]; 
+- referred to as Beth-pelet or Beth-pelet \(KJV= Beth-phelet, NIV= Beth Pelet\)  **<big>[[H1046|בֵּית פֶּלֶט]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.215418,34.942986&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ No other information about Beth-pelet is provided in the Bible, and the town is 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-pelet (KJV= Beth-palet; NIV= Beth Pelet) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ט</span>](H1046) <small>*Hebrew*</small> | 1x | [Jos.15.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.27) |
-| Beth-pelet (KJV= Beth-phelet; NIV= Beth Pelet) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ט</span>](H1046) <small>*Hebrew*</small> | 1x | [Neh.11.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Neh.11.26) |
-All Strong's for **Beth-pelet**: \[[[H1046]]\]
+| Beth-pelet (KJV= Beth-palet; NIV= Beth Pelet) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ט</span>](H1046) | 1x | [Jos.15.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.27) |
+| Beth-pelet (KJV= Beth-phelet; NIV= Beth Pelet) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>פ</span>ָּ֑<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ט</span>](H1046) | 1x | [Neh.11.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Neh.11.26) |
+All entries for **Beth-pelet**:  **<big>[[H1046|בֵּית פֶּלֶט]]</big>**

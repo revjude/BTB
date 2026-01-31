@@ -10,19 +10,19 @@ When thou sittest to eat with a ruler, consider diligently what [is] before thee
 When you sit down to dine with a ruler, consider carefully what is set before you,<small><sub>**MT:**</sub></small>
 [[Prov.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.29|<< Proverbs 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.2|Proverbs 23:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should sit | <big><span class="asgreek">καθίσης</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| to have supper | <big><span class="asgreek">δειπνήσαι</span></big> <sup><small><small>[[G1172]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] table | <big><span class="asgreek">τραπέζης</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| of a monarch, | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| intelligibly | <big><span class="asgreek">νοητώς</span></big> <sup><small><small>[[G8401]]</small></small></sup> |
-| comprehend | <big><span class="asgreek">νόει</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being placed near | <big><span class="asgreek">παρατιθέμενά</span></big> <sup><small><small>[[G3908]]</small></small></sup> |
-| you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you should sit | **<big>[[G2523\|καθίσης]]</big>** |
+| to have supper | **<big>[[G1172\|δειπνήσαι]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \[the\] table | **<big>[[G5132\|τραπέζης]]</big>** |
+| of a monarch, | **<big>[[G1413\|δυνάστου]]</big>** |
+| intelligibly | **<big>[[G8401\|νοητώς]]</big>** |
+| comprehend | **<big>[[G3539\|νόει]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being placed near | **<big>[[G3908\|παρατιθέμενά]]</big>** |
+| you! | **<big>[[G1473\|σοι]]</big>** |
 [[Prov.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.29|<< Proverbs 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.2|Proverbs 23:2 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ A wicked man hardeneth his face: but [as for] the upright, he directeth his way.
 A wicked man hardens his face, but the upright man makes his way sure.<small><sub>**MT:**</sub></small>
 [[Prov.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.28|<< Proverbs 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.30|Proverbs 21:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| An impious | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| impudently | <big><span class="asgreek">αναιδώς</span></big> <sup><small><small>[[G6283]]</small></small></sup> |
-| stands | <big><span class="asgreek">υφίσταται</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
-| in front; | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| upright \[man\] | <big><span class="asgreek">ευθύς</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| perceives | <big><span class="asgreek">συνιεί</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways. | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| An impious | **<big>[[G0765\|ασεβής]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| impudently | **<big>[[G6283\|αναιδώς]]</big>** |
+| stands | **<big>[[G9609\|υφίσταται]]</big>** |
+| in front; | **<big>[[G4383\|προσώπω]]</big>** |
+| but the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| upright \[man\] | **<big>[[G2117\|ευθύς]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| perceives | **<big>[[G4920\|συνιεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his ways. | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.28|<< Proverbs 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.30|Proverbs 21:30 >>]]</td></tr></table>
 
 

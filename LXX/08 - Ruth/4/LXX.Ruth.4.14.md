@@ -7,28 +7,28 @@ And the women said unto Naomi, Blessed [be] the LORD, which hath not left thee t
 Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a kinsman-redeemer. May his name become famous in Israel.<small><sub>**MT:**</sub></small>
 [[Ruth.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.13|<< Ruth 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.15|Ruth 4:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Naomi, | <big><span class="asgreek">Νοομί</span></big> <sup><small><small>[[H5281]]</small></small></sup> |
-| Blessed \[be\] | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| rested not \[to provide\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">κατέλυσέ</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a relative; | <big><span class="asgreek">αγχιστέα</span></big> <sup><small><small>[[G6130]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may he call out | <big><span class="asgreek">καλέσαι</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| women | **<big>[[G1135\|γυναίκες]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Naomi, | **<big>[[H5281\|Νοομί]]</big>** |
+| Blessed \[be\] | **<big>[[G2128\|ευλογητός]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| rested not \[to provide\] | **<big>[[G3756\|ου]]</big>** **<big>[[G2647\|κατέλυσέ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| a relative; | **<big>[[G6130\|αγχιστέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may he call out | **<big>[[G2564\|καλέσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ruth.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.13|<< Ruth 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.15|Ruth 4:15 >>]]</td></tr></table>
 
 

@@ -1,6 +1,5 @@
-<span class="ashebrew">‎כּוּשׁ‎</span> <small>***(kush)***</small> ==**Cush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.6|Gen.10.6]]
--  son of: Ham ([[H2526]])
--  brother of: Canaan ([[H3667]]), Egypt ([[H4714]]) and Put ([[H6316]])
--  father of: Seba ([[H5434]]), Havilah ([[H2341H]]), Sabtah ([[H5454]]), Raamah ([[H7484]]), Sabteca ([[H5455]]) and Nimrod ([[H5248]])
+-  son of: Ham (**<big>[[H2526|חָם]]</big>**)
+-  brother of: Canaan (**<big>[[H3667|כְּנַעַן]]</big>**), Egypt (**<big>[[H4714|מִצְרַיִם]]</big>**) and Put (**<big>[[H6316|פּוּט]]</big>**)
+-  father of: Seba (**<big>[[H5434|סְבָא]]</big>**), Havilah (**<big>[[H2341H|חֲוִילָה]]</big>**), Sabtah (**<big>[[H5454|סַבְתָּא]]</big>**), Raamah (**<big>[[H7484|רַעְמָה]]</big>**), Sabteca (**<big>[[H5455|סַבְתְּכָא]]</big>**) and Nimrod (**<big>[[H5248|נִמְרוֹד]]</big>**)
 -  a Benjamite mentioned only in the title of [[Ps.7.1|Psa.7.1]]

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָשַׁךְ‎</span></big> **mâshak** <small>*(maw-shak')*</small> ==**to draw**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָשַׁךְ‎</span></big>** **mâshak** <small>*(maw-shak')*</small> ==**to draw**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ draw (along, out), continue, defer, extend, forbear, [idiom] give, handle, make (pro-, sound) long, [idiom] sow, scatter, stretch out.
@@ -18,4 +18,4 @@ $\quad$ **1c)** (Pual)
 $\quad$ $\quad$ **1c1)** to be drawn out, be postponed, be deferred
 $\quad$ $\quad$ **1c2)** to be tall
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">ἀπάγω</span><sup><small>[[G0520]]</small></sup> · <span class="asgreek">ἀπέρχομαι</span><sup><small>[[G0565]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">ἐκχέω</span><sup><small>[[G1632]]</small></sup> · <span class="asgreek">ἑλκύω</span><sup><small>[[G1670]]</small></sup> · <span class="asgreek">ἐνισχύω</span><sup><small>[[G1765]]</small></sup> · <span class="asgreek">ἐξέλκω</span><sup><small>[[G1828]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">ἐπισπάομαι</span><sup><small>[[G1986]]</small></sup> · <span class="asgreek">θλίβω</span><sup><small>[[G2346]]</small></sup> · <span class="asgreek">καταστρέφω</span><sup><small>[[G2690]]</small></sup> · <span class="asgreek">μηκύνω</span><sup><small>[[G3373]]</small></sup> · <span class="asgreek">παρατείνω</span><sup><small>[[G3905]]</small></sup> · <span class="asgreek">χρονίζω</span><sup><small>[[G5549]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G0520|ἀπάγω]]</big>** · **<big>[[G0565|ἀπέρχομαι]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G1632|ἐκχέω]]</big>** · **<big>[[G1670|ἑλκύω]]</big>** · **<big>[[G1765|ἐνισχύω]]</big>** · **<big>[[G1828|ἐξέλκω]]</big>** · **<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G1986|ἐπισπάομαι]]</big>** · **<big>[[G2346|θλίβω]]</big>** · **<big>[[G2690|καταστρέφω]]</big>** · **<big>[[G3373|μηκύνω]]</big>** · **<big>[[G3905|παρατείνω]]</big>** · **<big>[[G5549|χρονίζω]]</big>**

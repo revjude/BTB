@@ -7,23 +7,23 @@ Thou shalt not plant thee a grove of any trees near unto the altar of the LORD t
 Do not set up any wooden Asherah pole next to the altar you will build for the LORD your God,<small><sub>**MT:**</sub></small>
 [[Deut.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.20|<< Deuteronomy 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.22|Deuteronomy 16:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| plant | <big><span class="asgreek">φυτεύσεις</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| a sacred grove; | <big><span class="asgreek">άλσος</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| produce | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself. | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| plant | **<big>[[G5452\|φυτεύσεις]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| a sacred grove; | **<big>[[G6242\|άλσος]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| produce | **<big>[[G4160\|ποιήσεις]]</big>** |
+| for yourself. | **<big>[[G4572\|σεαυτώ]]</big>** |
 [[Deut.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.20|<< Deuteronomy 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.22|Deuteronomy 16:22 >>]]</td></tr></table>
 
 

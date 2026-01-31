@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָשֵׁר‎</span></big> **ʼÂshêr** <small>*(aw-share')*</small> ==**Asher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָשַׁר‎</span><sup><small>[[H0833]]</small></sup>,</small>
+**<big><span class="ashebrew">‎אָשֵׁר‎</span></big>** **ʼÂshêr** <small>*(aw-share')*</small> ==**Asher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0833|‎אָשַׁר‎]]</big>**,</small>
 
 $\quad$ Asher
 - § Asher = *"happy"*
@@ -11,4 +11,4 @@ $\quad$ Asher
 **2)** the tribe descended from Asher
 **3)** a city east of Shechem in Manasseh
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀσήρ</span><sup><small>[[G0768]]</small></sup>
+<small>See Greek: </small>**<big>[[G0768|Ἀσήρ]]</big>**

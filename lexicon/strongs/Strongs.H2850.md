@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִתִּי‎</span></big> **Chittîy** <small>*(khit-tee')*</small> ==**Hittite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎חֵת‎</span><sup><small>[[H2845]]</small></sup></small>
+**<big><span class="ashebrew">‎חִתִּי‎</span></big>** **Chittîy** <small>*(khit-tee')*</small> ==**Hittite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H2845|‎חֵת‎]]</big>**</small>
 
 $\quad$ Hittite, Hittities.
 - § Hittite = *"descendant of Heth"*

@@ -10,41 +10,41 @@ But when the children of Israel cried unto the LORD, the LORD raised them up a d
 And again they cried out to the LORD, and He raised up Ehud son of Gera, a left-handed Benjamite, as their deliverer. So they sent him with tribute to Eglon king of Moab.<small><sub>**MT:**</sub></small>
 [[Judg.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.14|<< Judges 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.16|Judges 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cried out | <big><span class="asgreek">εκέκραξαν</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| raised up | <big><span class="asgreek">ήγειρεν</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a deliverer -- | <big><span class="asgreek">σωτήρα</span></big> <sup><small><small>[[G4990]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ehud | <big><span class="asgreek">Αώδ</span></big> <sup><small><small>[[H0161]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gera, | <big><span class="asgreek">Γηρά</span></big> <sup><small><small>[[H1617]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Ιεμινί</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| ambidextrous. | <big><span class="asgreek">αμφοτεροδέξιον</span></big> <sup><small><small>[[G6270]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλαν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Eglon | <big><span class="asgreek">Εγλών</span></big> <sup><small><small>[[H5700]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| cried out | **<big>[[G2896\|εκέκραξαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| raised up | **<big>[[G1453\|ήγειρεν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a deliverer -- | **<big>[[G4990\|σωτήρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ehud | **<big>[[H0161\|Αώδ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Gera, | **<big>[[H1617\|Γηρά]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Ιεμινί]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| ambidextrous. | **<big>[[G6270\|αμφοτεροδέξιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| gifts | **<big>[[G1435\|δώρα]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| his hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Eglon | **<big>[[H5700\|Εγλών]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
 [[Judg.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.14|<< Judges 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.16|Judges 3:16 >>]]</td></tr></table>
 
 

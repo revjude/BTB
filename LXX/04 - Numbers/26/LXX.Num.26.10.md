@@ -7,35 +7,35 @@ And the earth opened her mouth, and swallowed them up together with Korah, when 
 And the earth opened its mouth and swallowed them along with Korah, whose followers died when the fire consumed 250 men. They serve as a warning sign.<small><sub>**MT:**</sub></small>
 [[Num.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.9|<< Numbers 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.11|Numbers 26:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| opening | <big><span class="asgreek">ανοίξασα</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| swallowed | <big><span class="asgreek">κατέπιεν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Korah | <big><span class="asgreek">Κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his congregation, | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| devoured | <big><span class="asgreek">κατέφαγε</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two hundred. | <big><span class="asgreek">διακοσίους</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were made | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a sign. | <big><span class="asgreek">σημείω</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| opening | **<big>[[G0455\|ανοίξασα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| swallowed | **<big>[[G2666\|κατέπιεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Korah | **<big>[[G2879\|Κορέ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| death | **<big>[[G2288\|θανάτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his congregation, | **<big>[[G4864\|συναγωγής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| devoured | **<big>[[G2719\|κατέφαγε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two hundred. | **<big>[[G1250\|διακοσίους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were made | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| as | **<big>[[G1722\|εν]]</big>** |
+| a sign. | **<big>[[G4592\|σημείω]]</big>** |
 [[Num.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.9|<< Numbers 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.11|Numbers 26:11 >>]]</td></tr></table>
 
 

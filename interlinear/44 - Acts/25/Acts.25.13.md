@@ -6,24 +6,24 @@ After several days had passed, King Agrippa and Bernice came down to Caesarea to
 <small><sub>**Literal:**</sub></small>
 When days now having passed some Agrippa the king and Bernice came down to Caesarea greeting <the> Festus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.12|<< Acts 25:12]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.14|Acts 25:14 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| When days |<big><span class="asgreek">Ἡμερῶν</span></big> <small><small><sup>[[G2250]]</sup></small></small> |Hēmerōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having passed |<big><span class="asgreek">διαγενομένων</span></big> <small><small><sup>[[G1230]]</sup></small></small> |diagenomenōn <small><sup>[[V-2ADP-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| some |<big><span class="asgreek">τινῶν</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tinōn <small><sup>[[X-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Agrippa |<big><span class="asgreek">Ἀγρίππας</span></big> <small><small><sup>[[G0067]]</sup></small></small> |Agrippas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| king |<big><span class="asgreek">βασιλεὺς</span></big> <small><small><sup>[[G0935]]</sup></small></small> |basileus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Bernice |<big><span class="asgreek">Βερνίκη</span></big> <small><small><sup>[[G0959]]</sup></small></small> |Bernikē <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| came down |<big><span class="asgreek">κατήντησαν</span></big> <small><small><sup>[[G2658]]</sup></small></small> |katēntēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Caesarea |<big><span class="asgreek">Καισάρειαν</span></big> <small><small><sup>[[G2542H]]</sup></small></small> [^1] |Kaisareian <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| greeting [^2] |<big><span class="asgreek">ἀσπασάμενοι</span></big> <small><small><sup>[[G0782]]</sup></small></small> |aspasamenoi <small><sup>[[V-ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Festus. |<big><span class="asgreek">Φῆστον.</span></big> <small><small><sup>[[G5347]]</sup></small></small> |Phēston <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| When days |**<big>[[G2250\|Ἡμερῶν]]</big>**  |Hēmerōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having passed |**<big>[[G1230\|διαγενομένων]]</big>**  |diagenomenōn <small><sup>[[V-2ADP-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| some |**<big>[[G5100\|τινῶν]]</big>**  |tinōn <small><sup>[[X-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Agrippa |**<big>[[G0067\|Ἀγρίππας]]</big>**  |Agrippas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| king |**<big>[[G0935\|βασιλεὺς]]</big>**  |basileus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Bernice |**<big>[[G0959\|Βερνίκη]]</big>**  |Bernikē <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| came down |**<big>[[G2658\|κατήντησαν]]</big>**  |katēntēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Caesarea |**<big>[[G2542H\|Καισάρειαν]]</big>**  [^1] |Kaisareian <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| greeting [^2] |**<big>[[G0782\|ἀσπασάμενοι]]</big>**  |aspasamenoi <small><sup>[[V-ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Festus. |**<big>[[G5347\|Φῆστον.]]</big>**  |Phēston <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.12|<< Acts 25:12]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.14|Acts 25:14 >>]]</td></tr></table>
 
-[^1]: ==WH== spelled: <span class='asgreek'>**Καισαρίαν**</span>
-[^2]: ==TR==: to be greeting | <span class="asgreek">ἀσπασόμενοι</span><small><sup>[[G0782]]</sup></small> | aspasomenoi<small><sup>[[V-FDP-NPM]]</sup></small>
+[^1]: ==WH== spelled: **<big><span class='asgreek'>Καισαρίαν</span></big>**
+[^2]: ==TR==: to be greeting | **<big>[[G0782|ἀσπασόμενοι]]</big>** | aspasomenoi<small><sup>[[V-FDP-NPM]]</sup></small>

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְבָלָה‎</span></big> **nᵉbâlâh** <small>*(neb-aw-law')*</small> ==**folly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נָבָל‎</span><sup><small>[[H5036]]</small></sup></small>
+**<big><span class="ashebrew">‎נְבָלָה‎</span></big>** **nᵉbâlâh** <small>*(neb-aw-law')*</small> ==**folly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H5036|‎נָבָל‎]]</big>**</small>
 
 $\quad$ folly, vile, villany.
 - ***foolishness***, i.e. (morally) ***wickedness***
@@ -11,4 +11,4 @@ $\quad$ **1a)** disgraceful folly
 $\quad$ $\quad$ **1a1)** of immorality, profane actions
 $\quad$ **1b)** disgrace, contumely disgrace
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄδικος</span><sup><small>[[G0094]]</small></sup> · <span class="asgreek">ἀνομία</span><sup><small>[[G0458]]</small></sup> · <span class="asgreek">ἀσχήμων</span><sup><small>[[G0809]]</small></sup> · <span class="asgreek">ἀφροσύνη</span><sup><small>[[G0877]]</small></sup> · <span class="asgreek">γυνή</span><sup><small>[[G1135]]</small></sup>
+<small>See Greek: </small>**<big>[[G0094|ἄδικος]]</big>** · **<big>[[G0458|ἀνομία]]</big>** · **<big>[[G0809|ἀσχήμων]]</big>** · **<big>[[G0877|ἀφροσύνη]]</big>** · **<big>[[G1135|γυνή]]</big>**

@@ -7,26 +7,26 @@ And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, M
 In the days of Joiakim, these were the heads of the priestly families: of the family of Seraiah, Meraiah; of Jeremiah, Hananiah;<small><sub>**MT:**</sub></small>
 [[Neh.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.11|<< Nehemiah 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.13|Nehemiah 12:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Joiakim | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3113]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| families -- | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Seraiah, | <big><span class="asgreek">Σαραϊα</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
-| Meraiah; | <big><span class="asgreek">Αμαρίας</span></big> <sup><small><small>[[H4811]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeremiah, | <big><span class="asgreek">Ιερεμία</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| Hananiah; | <big><span class="asgreek">Ανανίας</span></big> <sup><small><small>[[H2608b]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Joiakim | **<big>[[H3113\|Ιωακείμ]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| families -- | **<big>[[G3965\|πατριών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Seraiah, | **<big>[[H8304\|Σαραϊα]]</big>** |
+| Meraiah; | **<big>[[H4811\|Αμαρίας]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jeremiah, | **<big>[[G2408\|Ιερεμία]]</big>** |
+| Hananiah; | **<big>[[H2608b\|Ανανίας]]</big>** |
 [[Neh.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.11|<< Nehemiah 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.13|Nehemiah 12:13 >>]]</td></tr></table>
 
 

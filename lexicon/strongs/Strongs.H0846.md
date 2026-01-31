@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֻשַּׁרְנָא‎</span></big> **ʼushsharnâʼ** <small>*(oosh-ar-naw')*</small> ==**wall**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from a root corresponding to <span class="ashebrew">‎אָשַׁר‎</span><sup><small>[[H0833]]</small></sup></small>
+**<big><span class="asaramaic">‎אֻשַּׁרְנָא‎</span></big>** **ʼushsharnâʼ** <small>*(oosh-ar-naw')*</small> ==**wall**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from a root corresponding to **<big>[[H0833|‎אָשַׁר‎]]</big>**</small>
 
 $\quad$ wall.
 - ***a wall*** (from its uprightness)

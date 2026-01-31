@@ -7,31 +7,31 @@ And the children of Benjamin were numbered at that time out of the cities twenty
 On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah.<small><sub>**MT:**</sub></small>
 [[Judg.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.14|<< Judges 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.16|Judges 20:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| numbered | <big><span class="asgreek">επεσκέπησαν</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities, | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| unsheathing | <big><span class="asgreek">σπωμένων</span></big> <sup><small><small>[[G4685]]</small></small></sup> |
-| \[the\] broadsword, | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| apart from | <big><span class="asgreek">χωρίς</span></big> <sup><small><small>[[G5565]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in Gibeah. | <big><span class="asgreek">Γαβαά</span></big> <sup><small><small>[[H1390]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| numbered | **<big>[[G1980\|επεσκέπησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Benjamin | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cities, | **<big>[[G4172\|πόλεων]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| unsheathing | **<big>[[G4685\|σπωμένων]]</big>** |
+| \[the\] broadsword, | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| apart from | **<big>[[G5565\|χωρίς]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| in Gibeah. | **<big>[[H1390\|Γαβαά]]</big>** |
 [[Judg.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.14|<< Judges 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.16|Judges 20:16 >>]]</td></tr></table>
 
 

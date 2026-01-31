@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּעֲלָה‎</span></big> **baʻălâh** <small>*(bah-al-aw')*</small> ==**mistress**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1167]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּעֲלָה‎</span></big>** **baʻălâh** <small>*(bah-al-aw')*</small> ==**mistress**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H1167|‎בַּעַל‎]]</big>**</small>
 
 $\quad$ that hath, mistress.
 - ***a mistress***
@@ -7,4 +7,4 @@ $\quad$ that hath, mistress.
 **1)** mistress, female owner
 **2)** sorceress, necromancer (noun of relationship)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡγέομαι</span><sup><small>[[G2233]]</small></sup> · <span class="asgreek">Κυρία</span><sup><small>[[G2959]]</small></sup>
+<small>See Greek: </small>**<big>[[G2233|ἡγέομαι]]</big>** · **<big>[[G2959|Κυρία]]</big>**

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cos</span> was an island in the Aegean Sea where Paul's ship stopped during his return journey to Jerusalem.
 - A location only mentioned at [[Zech.14.10|Act.21.1]]; 
-- only referred to as Cos<[[G2972]]> \(<span class='tipnrLangGreek'>Κώς</span>\).
+- only referred to as Cos **<big>[[G2972|Κώς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.80467006054953,27.08994040521288&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Although the Bible does not provide any details about Paul's activities or exper
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cos | [<span class='tipnrLangGreek'>Κώς</span>](G2972) <small>*Greek*</small> | 1x | [Act.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cos\*\|reference=Act.21.1) |
-All Strong's for **Cos**: \[[[G2972]]\]
+| Cos | [<span class='tipnrLangGreek'>Κώς</span>](G2972) | 1x | [Act.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cos\*\|reference=Act.21.1) |
+All entries for **Cos**:  **<big>[[G2972|Κώς]]</big>**

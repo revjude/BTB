@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Joppa</span>, an ancient seaport on the Mediterranean coast, served as the main port for Jerusalem in biblical times.
 - A location first mentioned at [[Josh.19.46|Jos.19.46]]; 
-- referred to as Joppa<[[H3305]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ\), or Joppa<[[G2445]]> \(<span class='tipnrLangGreek'>Ἰόππη</span>\).
+- referred to as Joppa **<big>[[H3305|יָפוֹ]]</big>**, or Joppa **<big>[[G2445|Ἰόππη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.05351968494696,34.75042606009946&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Joppa, also known as Japho in the Old Testament and modern-day Jaffa, is one of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joppa | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ](H3305) <small>*Hebrew*</small> | 4x | [[Jos.19.46] ... [Jon.1.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joppa\*\|reference=Jos.19.46;2Ch.2.16;Ezr.3.7;Jon.1.3) |
-| Joppa | [<span class='tipnrLangGreek'>Ἰόππη</span>](G2445) <small>*Greek*</small> | 10x | [[Act.9.36] ... [Act.11.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joppa\*\|reference=Act.9.36;Act.9.38;Act.9.42;Act.9.43;Act.10.5;Act.10.8;Act.10.23;Act.10.32;Act.11.5;Act.11.13) |
-All Strong's for **Joppa**: \[[[H3305]]\] \[[[G2445]]\]
+| Joppa | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>פו</span>ֹ](H3305) | 4x | [[Jos.19.46] ... [Jon.1.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joppa\*\|reference=Jos.19.46;2Ch.2.16;Ezr.3.7;Jon.1.3) |
+| Joppa | [<span class='tipnrLangGreek'>Ἰόππη</span>](G2445) | 10x | [[Act.9.36] ... [Act.11.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joppa\*\|reference=Act.9.36;Act.9.38;Act.9.42;Act.9.43;Act.10.5;Act.10.8;Act.10.23;Act.10.32;Act.11.5;Act.11.13) |
+All entries for **Joppa**:  **<big>[[H3305|יָפוֹ]]</big>** ☩  **<big>[[G2445|Ἰόππη]]</big>**

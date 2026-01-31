@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹפֶל‎</span></big> **ʻôphel** <small>*(o'-fel)*</small> ==**hill**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָפַל‎</span><sup><small>[[H6075]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹפֶל‎</span></big>** **ʻôphel** <small>*(o'-fel)*</small> ==**hill**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6075|‎עָפַל‎]]</big>**</small>
 
 $\quad$ emerod, fort, strong hold, tower.
 - ***a tumor***

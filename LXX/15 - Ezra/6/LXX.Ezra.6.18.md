@@ -7,32 +7,32 @@ And they set the priests in their divisions, and the Levites in their courses, f
 They also appointed the priests by their divisions and the Levites by their groups to the service of God in Jerusalem, according to what is written in the Book of Moses.<small><sub>**MT:**</sub></small>
 [[Ezra.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.17|<< Ezra 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.19|Ezra 6:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they established | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their divisions, | <big><span class="asgreek">διαιρέσεσιν</span></big> <sup><small><small>[[G1243]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their distributions, | <big><span class="asgreek">μερισμοίς</span></big> <sup><small><small>[[G3311]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| service | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| writing | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
-| of \[the\] book | <big><span class="asgreek">βίβλου</span></big> <sup><small><small>[[G0976]]</small></small></sup> |
-| of Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they established | **<big>[[G2476\|έστησαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their divisions, | **<big>[[G1243\|διαιρέσεσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Levites | **<big>[[G3017\|Λευίτας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their distributions, | **<big>[[G3311\|μερισμοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| service | **<big>[[G1397\|δουλείας]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| writing | **<big>[[G1124\|γραφήν]]</big>** |
+| of \[the\] book | **<big>[[G0976\|βίβλου]]</big>** |
+| of Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Ezra.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.17|<< Ezra 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.19|Ezra 6:19 >>]]</td></tr></table>
 
 

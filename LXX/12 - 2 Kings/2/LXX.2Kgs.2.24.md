@@ -7,36 +7,36 @@ And he turned back, and looked on them, and cursed them in the name of the LORD.
 Then he turned around, looked at them, and called down a curse on them in the name of the LORD. Suddenly two female bears came out of the woods and mauled forty-two of the boys.<small><sub>**MT:**</sub></small>
 [[2Kgs.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.23|<< 2 Kings 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.25|2 Kings 2:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he turned | <big><span class="asgreek">εξένευσεν</span></big> <sup><small><small>[[G1593]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cursed | <big><span class="asgreek">κατηράσατο</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| bears | <big><span class="asgreek">άρκοι</span></big> <sup><small><small>[[G0715]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forest, | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they tore asunder | <big><span class="asgreek">ανέρρηξαν</span></big> <sup><small><small>[[G6309]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| children. | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he turned | **<big>[[G1593\|εξένευσεν]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδεν]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cursed | **<big>[[G2672\|κατηράσατο]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| bears | **<big>[[G0715\|άρκοι]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| forest, | **<big>[[G6971\|δρυμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they tore asunder | **<big>[[G6309\|ανέρρηξαν]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| children. | **<big>[[G3816\|παίδας]]</big>** |
 [[2Kgs.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.23|<< 2 Kings 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.25|2 Kings 2:25 >>]]</td></tr></table>
 
 

@@ -7,45 +7,45 @@ And the children of the Kenite, Moses’ father in law, went up out of the city 
 Now the descendants of Moses’ father-in-law, the Kenite, went up with the men of Judah from the City of Palms to the Wilderness of Judah in the Negev near Arad. They went to live among the people.<small><sub>**MT:**</sub></small>
 [[Judg.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.15|<< Judges 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.17|Judges 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jothor | <big><span class="asgreek">Ιωθώρ</span></big> <sup><small><small>[[H3503]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kenite, | <big><span class="asgreek">Κιναίου</span></big> <sup><small><small>[[H7017]]</small></small></sup> |
-| father-in-law | <big><span class="asgreek">πενθερού</span></big> <sup><small><small>[[G3995]]</small></small></sup> |
-| of Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| palms | <big><span class="asgreek">φοινίκων</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">ούσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south | <big><span class="asgreek">νότω</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] descent | <big><span class="asgreek">καταβάσεως</span></big> <sup><small><small>[[G2600]]</small></small></sup> |
-| of Arad; | <big><span class="asgreek">Αράδ</span></big> <sup><small><small>[[H0714]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκησαν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jothor | **<big>[[H3503\|Ιωθώρ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Kenite, | **<big>[[H7017\|Κιναίου]]</big>** |
+| father-in-law | **<big>[[G3995\|πενθερού]]</big>** |
+| of Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| palms | **<big>[[G5404\|φοινίκων]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness | **<big>[[G2048\|έρημον]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| being | **<big>[[G1510\|ούσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| south | **<big>[[G3558\|νότω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] descent | **<big>[[G2600\|καταβάσεως]]</big>** |
+| of Arad; | **<big>[[H0714\|Αράδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκησαν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people. | **<big>[[G2992\|λαού]]</big>** |
 [[Judg.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.15|<< Judges 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.17|Judges 1:17 >>]]</td></tr></table>
 
 

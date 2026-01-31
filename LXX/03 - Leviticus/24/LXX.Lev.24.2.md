@@ -7,24 +7,24 @@ Command the children of Israel, that they bring unto thee pure oil olive beaten 
 “Command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually.<small><sub>**MT:**</sub></small>
 [[Lev.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.1|<< Leviticus 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.3|Leviticus 24:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Give charge | <big><span class="asgreek">εντείλαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them take | <big><span class="asgreek">λαβέτωσάν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| olive | <big><span class="asgreek">ελαϊνον</span></big> <sup><small><small>[[G7173]]</small></small></sup> |
-| pure, | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| being beaten | <big><span class="asgreek">κεκομμένον</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| light! | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| to burn | <big><span class="asgreek">καύσαι</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| in a lamp | <big><span class="asgreek">λύχνον</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
-| continually, | <big><span class="asgreek">διά παντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| Give charge | **<big>[[G1781\|εντείλαι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let them take | **<big>[[G2983\|λαβέτωσάν]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| oil | **<big>[[G1637\|έλαιον]]</big>** |
+| olive | **<big>[[G7173\|ελαϊνον]]</big>** |
+| pure, | **<big>[[G2513\|καθαρόν]]</big>** |
+| being beaten | **<big>[[G2875\|κεκομμένον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| light! | **<big>[[G5457\|φως]]</big>** |
+| to burn | **<big>[[G2545\|καύσαι]]</big>** |
+| in a lamp | **<big>[[G3088\|λύχνον]]</big>** |
+| continually, | **<big>[[G1275\|διά παντός]]</big>** |
 [[Lev.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.1|<< Leviticus 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.3|Leviticus 24:3 >>]]</td></tr></table>
 
 

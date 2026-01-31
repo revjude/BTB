@@ -7,29 +7,29 @@ If it do evil in my sight, that it obey not my voice, then I will repent of the 
 and if it does evil in My sight and does not listen to My voice, then I will relent of the good I had intended for it.<small><sub>**MT:**</sub></small>
 [[Jer.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.9|<< Jeremiah 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.11|Jeremiah 18:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they do | <big><span class="asgreek">ποιήσωσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[things\] | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will change my mind | <big><span class="asgreek">μετανοήσω</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθών</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| they do | **<big>[[G4160\|ποιήσωσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wicked \[things\] | **<big>[[G4190\|πονηρά]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| hear | **<big>[[G0191\|ακούειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice, | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will change my mind | **<big>[[G3340\|μετανοήσω]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| I spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| for them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Jer.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.9|<< Jeremiah 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.11|Jeremiah 18:11 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִילַי‎</span></big> **ʻÎylay** <small>*(ee-lah'-ee)*</small> ==**Ilai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup>; elevated</small>
+**<big><span class="ashebrew">‎עִילַי‎</span></big>** **ʻÎylay** <small>*(ee-lah'-ee)*</small> ==**Ilai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5927|‎עָלָה‎]]</big>**; elevated</small>
 
 $\quad$ Ilai.
 - § Ilai = *"exalted"*

@@ -7,27 +7,27 @@ Then the king said, Cause Haman to make haste, that he may do as Esther hath sai
 “Hurry,” commanded the king, “and bring Haman, so we can do as Esther has requested.” So the king and Haman went to the banquet that Esther had prepared.<small><sub>**MT:**</sub></small>
 [[Esth.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.4|<< Esther 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.6|Esther 5:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Hasten | <big><span class="asgreek">κατασπεύσατε</span></big> <sup><small><small>[[G7926]]</small></small></sup> |
-| Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| we should do | <big><span class="asgreek">ποιήσωμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Esther! | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">παραγίνονται</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| banquet | <big><span class="asgreek">δοχήν</span></big> <sup><small><small>[[G1403]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Esther made. | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Hasten | **<big>[[G7926\|κατασπεύσατε]]</big>** |
+| Haman, | **<big>[[H2001\|Αμάν]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| we should do | **<big>[[G4160\|ποιήσωμεν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| of Esther! | **<big>[[H0635\|Εσθήρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G3854\|παραγίνονται]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| banquet | **<big>[[G1403\|δοχήν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| Esther made. | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[H0635\|Εσθήρ]]</big>** |
 [[Esth.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.4|<< Esther 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.6|Esther 5:6 >>]]</td></tr></table>
 
 

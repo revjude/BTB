@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְרוּשָׁלַ͏ִם‎</span></big> **Yᵉrûwshâlaim** <small>*(yer-oo-shaw-lah'-im)*</small> ==**Jerusalem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>rarely <span class="ashebrew">יְרוּשָׁלַיִם</span> **Yᵉrûwshâlayim** <small>*(yer-oo-shaw-lah'-yim)*</small>; a dual (in allusion to its two main hills (the true pointing, at least of the former reading, seems to be that of <span class="asaramaic">‎יְרוּשָׁלֵם‎</span><sup><small>[[H3390]]</small></sup>)); probably from (the passive participle of) <span class="ashebrew">‎יָרָה‎</span><sup><small>[[H3384]]</small></sup> and <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup>; founded peaceful</small>
+**<big><span class="ashebrew">‎יְרוּשָׁלַ͏ִם‎</span></big>** **Yᵉrûwshâlaim** <small>*(yer-oo-shaw-lah'-im)*</small> ==**Jerusalem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>rarely **<big><span class="ashebrew">יְרוּשָׁלַיִם</span></big>** **Yᵉrûwshâlayim** <small>*(yer-oo-shaw-lah'-yim)*</small>; a dual (in allusion to its two main hills (the true pointing, at least of the former reading, seems to be that of **<big>[[H3390|‎יְרוּשָׁלֵם‎]]</big>**)); probably from (the passive participle of) **<big>[[H3384|‎יָרָה‎]]</big>** and **<big>[[H7999|‎שָׁלַם‎]]</big>**; founded peaceful</small>
 
 $\quad$ Jerusalem.
 - § Jerusalem = *"teaching of peace"*
@@ -7,4 +7,4 @@ $\quad$ Jerusalem.
 
 **1)** the chief city of Palestine and capital of the united kingdom and the nation of Judah after the split
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἱεροσόλυμα</span><sup><small>[[G2414]]</small></sup> · <span class="asgreek">Ἱερουσαλήμ</span><sup><small>[[G2419]]</small></sup>
+<small>See Greek: </small>**<big>[[G2414|Ἱεροσόλυμα]]</big>** · **<big>[[G2419|Ἱερουσαλήμ]]</big>**

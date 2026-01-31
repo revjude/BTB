@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Zechariah</span> is mentioned as the father of Abijah \(or Abi\), the mother of King Hezekiah of Judah.
 - A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.18.2|2Ki.18.2]]; 
-- only referred to as Zechariah<[[H2148C]]> \(<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  father of Abi<[[H0021]]>.
+- only referred to as Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**; 
+-  father of Abi **<big>[[H0021|אֲבִי]]</big>**.
 
 Zechariah is briefly mentioned in the genealogical record of King Hezekiah of Judah. He is identified as the father of Abijah \(or Abi\), who was the mother of Hezekiah. 
 
@@ -17,7 +17,7 @@ The mention of Zechariah in the genealogy of Hezekiah also underscores the inter
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zechariah (KJV= Zachariah) | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H2148C) <small>*Hebrew*</small> | 2x | [[2Ki.18.2] & [2Ch.29.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=2Ki.18.2;2Ch.29.1) |
-All Strong's for **Zechariah**: \[[[H2148C]]\]
+| Zechariah (KJV= Zachariah) | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H2148C) | 2x | [[2Ki.18.2] & [2Ch.29.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=2Ki.18.2;2Ch.29.1) |
+All entries for **Zechariah**:  **<big>[[H2148|זְכַרְיָה]]</big>**
 #### Related Profiles:
 - **[Abi](H0021)** (child)

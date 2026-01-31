@@ -7,34 +7,34 @@ And king David said to Ornan, Nay; but I will verily buy it for the full price: 
 “No,” replied King David, “I insist on paying the full price, for I will not take for the LORD what belongs to you, nor will I offer burnt offerings that cost me nothing.”<small><sub>**MT:**</sub></small>
 [[1Chr.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.23|<< 1 Chronicles 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.25|1 Chronicles 21:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Ornan, | <big><span class="asgreek">Ορνάν</span></big> <sup><small><small>[[H0771]]</small></small></sup> |
-| Not so, | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| by buying | <big><span class="asgreek">αγοράζων</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
-| shall I buy | <big><span class="asgreek">αγοράσω</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
-| of \[its\] money's | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| worth; | <big><span class="asgreek">αξιου</span></big> <sup><small><small>[[G0514]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I take | <big><span class="asgreek">λάβω</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of yours | <big><span class="asgreek">σα</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to offer | <big><span class="asgreek">ανενεγκείν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| without charge \[to me\] | <big><span class="asgreek">δωρεάν</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Ornan, | **<big>[[H0771\|Ορνάν]]</big>** |
+| Not so, | **<big>[[G3780\|ουχί]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| by buying | **<big>[[G0059\|αγοράζων]]</big>** |
+| shall I buy | **<big>[[G0059\|αγοράσω]]</big>** |
+| of \[its\] money's | **<big>[[G0694\|αργυρίου]]</big>** |
+| worth; | **<big>[[G0514\|αξιου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I take | **<big>[[G2983\|λάβω]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of yours | **<big>[[G4674\|σα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to offer | **<big>[[G0399\|ανενεγκείν]]</big>** |
+| a whole burnt-offering | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| without charge \[to me\] | **<big>[[G1431\|δωρεάν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[1Chr.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.23|<< 1 Chronicles 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.25|1 Chronicles 21:25 >>]]</td></tr></table>
 
 

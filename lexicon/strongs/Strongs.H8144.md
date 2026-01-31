@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁנִי‎</span></big> **shânîy** <small>*(shaw-nee')*</small> ==**scarlet**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁנִי‎</span></big>** **shânîy** <small>*(shaw-nee')*</small> ==**scarlet**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ crimson, scarlet (thread).
@@ -7,4 +7,4 @@ $\quad$ crimson, scarlet (thread).
 **1)** scarlet, crimson
 $\quad$ **1a)** properly, the insect 'coccus ilicis',  the dried body of the female yielding colouring matter from which is made the dye used for cloth to colour it scarlet or crimson
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κόκκινος</span><sup><small>[[G2847]]</small></sup>
+<small>See Greek: </small>**<big>[[G2847|κόκκινος]]</big>**

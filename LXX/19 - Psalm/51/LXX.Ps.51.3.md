@@ -7,20 +7,20 @@ For I acknowledge my transgressions: and my sin [is] ever before me.
 For I know my transgressions, and my sin is always before me.<small><sub>**MT:**</sub></small>
 [[Ps.51.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.2|<< Psalm 51:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.4|Psalm 51:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">γινώσκω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my lawlessness | **<big>[[G0458\|ανομίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| know | **<big>[[G1097\|γινώσκω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my sin | **<big>[[G0266\|αμαρτία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
 [[Ps.51.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.2|<< Psalm 51:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.4|Psalm 51:4 >>]]</td></tr></table>
 
 

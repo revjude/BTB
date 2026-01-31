@@ -6,28 +6,28 @@ Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.13|<< Isaiah 46:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.2|Isaiah 47:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| go down  | <span class="ashebrew"><big>רְדִ֣י </big></span><small><small><sup>[[H3381]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| re.Di <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sit  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁבִ֣י </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.Vi <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] dust  | <span class="ashebrew"><big>עָפָ֗ר </big></span><small><small><sup>[[H6083]]</sup></small></small> &#8207;| 'a.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O virgin of  | <span class="ashebrew"><big>בְּתוּלַת֙ </big></span><small><small><sup>[[H1330]]</sup></small></small> &#8207;| be.tu.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sit  | <span class="ashebrew"><big>שְׁבִי </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| she.vi- <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the ground  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָ֥רֶץ </big></span><small><small><sup>[[H0776H]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not  | <span class="ashebrew"><big>אֵין </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ein- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a throne  | <span class="ashebrew"><big>כִּסֵּ֖א </big></span><small><small><sup>[[H3678G]]</sup></small></small> &#8207;| ki.Se' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Chaldeans  | <span class="ashebrew"><big>כַּשְׂדִּ֑ים </big></span><small><small><sup>[[H3778]]</sup></small></small> &#8207;| kas.Dim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will repeat  | <span class="ashebrew"><big>תוֹסִ֙יפִי֙ </big></span><small><small><sup>[[H3254G]]</sup></small></small> &#8207;| to.Si.fi <small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people will call  | <span class="ashebrew"><big>יִקְרְאוּ </big></span><small><small><sup>[[H7121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yik.re.'u- <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> you  | <span class="ashebrew"><big>לָ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tender  | <span class="ashebrew"><big>רַכָּ֖ה </big></span><small><small><sup>[[H7390]]</sup></small></small> &#8207;| ra.Kah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and delicate  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲנֻגָּֽה </big></span><small><small><sup>[[H6028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.nu.Gah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go down  |**<big>&#8207;[[H3381\|רְדִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.Di<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sit  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3427\|שְׁבִ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Vi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] dust  |**<big>&#8207;[[H6083\|עָפָ֗ר]]&#8207; </big>**| 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O virgin of  |**<big>&#8207;[[H1330\|בְּתוּלַת֙]]&#8207; </big>**| be.tu.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֔ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sit  |**<big>&#8207;[[H3427\|שְׁבִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.vi-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the ground  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֥רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a throne  |**<big>&#8207;[[H3678G\|כִּסֵּ֖א]]&#8207; </big>**| ki.Se'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Chaldeans  |**<big>&#8207;[[H3778\|כַּשְׂדִּ֑ים]]&#8207; </big>**| kas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will repeat  |**<big>&#8207;[[H3254G\|תוֹסִ֙יפִי֙]]&#8207; </big>**| to.Si.fi<small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will call  |**<big>&#8207;[[H7121H\|יִקְרְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yik.re.'u-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> you  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tender  |**<big>&#8207;[[H7390\|רַכָּ֖ה]]&#8207; </big>**| ra.Kah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and delicate  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6028\|עֲנֻגָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.nu.Gah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.13|<< Isaiah 46:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.2|Isaiah 47:2 >>]]</td></tr></table>
 
 

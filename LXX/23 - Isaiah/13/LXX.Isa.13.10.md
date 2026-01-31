@@ -11,37 +11,37 @@ For the stars of heaven and their constellations will not give their light. The 
 > $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24-25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| stars | <big><span class="asgreek">αστέρες</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Orion, | <big><span class="asgreek">Ωρίων</span></big> <sup><small><small>[[H3685]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cosmos | <big><span class="asgreek">κόσμος</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> <big><span class="asgreek">αυτων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">δώσουσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be made dark | <big><span class="asgreek">σκοτισθήσεται</span></big> <sup><small><small>[[G4654]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| the rising | <big><span class="asgreek">ανατέλλοντος</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her light. | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For the | **<big>[[G3588\|οι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| stars | **<big>[[G0792\|αστέρες]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Orion, | **<big>[[H3685\|Ωρίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| cosmos | **<big>[[G2889\|κόσμος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of their light | **<big>[[G5457\|φως]]</big>** **<big>[[G1473\|αυτων]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| give | **<big>[[G1325\|δώσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be made dark | **<big>[[G4654\|σκοτισθήσεται]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sun | **<big>[[G2246\|ηλίου]]</big>** |
+| the rising | **<big>[[G0393\|ανατέλλοντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| moon | **<big>[[G4582\|σελήνη]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| give | **<big>[[G1325\|δώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| her light. | **<big>[[G5457\|φως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Isa.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.9|<< Isaiah 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.11|Isaiah 13:11 >>]]</td></tr></table>
 
 

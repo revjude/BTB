@@ -7,26 +7,26 @@ And I will satiate the soul of the priests with fatness, and my people shall be 
 I will fill the souls of the priests abundantly, and will fill My people with My goodness,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.13|<< Jeremiah 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.15|Jeremiah 31:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will magnify | <big><span class="asgreek">μεγαλυνώ</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| intoxicate | <big><span class="asgreek">μεθύσω</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Levi. | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my good \[things\] | <big><span class="asgreek">αγαθών</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be filled up | <big><span class="asgreek">εμπλησθήσεται</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I will magnify | **<big>[[G3170\|μεγαλυνώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| intoxicate | **<big>[[G3184\|μεθύσω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests, | **<big>[[G2409\|ιερέων]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Levi. | **<big>[[G3017\|Λευί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my good \[things\] | **<big>[[G0018\|αγαθών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall be filled up | **<big>[[G1705\|εμπλησθήσεται]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.13|<< Jeremiah 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.15|Jeremiah 31:15 >>]]</td></tr></table>
 
 

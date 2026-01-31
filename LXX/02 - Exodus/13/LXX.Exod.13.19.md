@@ -7,31 +7,31 @@ And Moses took the bones of Joseph with him: for he had straitly sworn the child
 Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”<small><sub>**MT:**</sub></small>
 [[Exod.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.18|<< Exodus 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.20|Exodus 13:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| for with an oath | <big><span class="asgreek">όρκω</span></big> <sup><small><small>[[G3727]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| Joseph bound | <big><span class="asgreek">ώρκισεν</span></big> <sup><small><small>[[G3726]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| With a visit | <big><span class="asgreek">επισκοπή</span></big> <sup><small><small>[[G1984]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> will visit | <big><span class="asgreek">επισκέψεται</span></big> <sup><small><small>[[G1980]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall join in carrying off | <big><span class="asgreek">συνανοίσετε</span></big> <sup><small><small>[[G9294]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from here | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bones | **<big>[[G3747\|οστά]]</big>** |
+| of Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| him, | **<big>[[G1438\|εαυτού]]</big>** |
+| for with an oath | **<big>[[G3727\|όρκω]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| Joseph bound | **<big>[[G3726\|ώρκισεν]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| With a visit | **<big>[[G1984\|επισκοπή]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> will visit | **<big>[[G1980\|επισκέψεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall join in carrying off | **<big>[[G9294\|συνανοίσετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from here | **<big>[[G1782\|εντεύθεν]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you. | **<big>[[G1473\|υμών]]</big>** |
 [[Exod.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.18|<< Exodus 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.20|Exodus 13:20 >>]]</td></tr></table>
 
 

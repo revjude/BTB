@@ -7,51 +7,51 @@ Now therefore call unto me all the prophets of Baal, all his servants, and all h
 Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live.” But Jehu was acting deceptively in order to destroy the servants of Baal.<small><sub>**MT:**</sub></small>
 [[2Kgs.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.18|<< 2 Kings 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.20|2 Kings 10:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| call | <big><span class="asgreek">καλέσατε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Baal, | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants! | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Let not a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be overlooked! | <big><span class="asgreek">επισκεπήτω</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baal. | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| overlooked | <big><span class="asgreek">επισκεπή</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| live. | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehu | <big><span class="asgreek">Ιου</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| did it | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trickery, | <big><span class="asgreek">πτερνισμώ</span></big> <sup><small><small>[[G8974]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he might destroy | <big><span class="asgreek">απολέση</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">δουλούς</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Baal. | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| call | **<big>[[G2564\|καλέσατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets | **<big>[[G4396\|προφήτας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Baal, | **<big>[[G0896\|Βάαλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his priests, | **<big>[[G2409\|ιερείς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants! | **<big>[[G1401\|δούλους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Let not a man | **<big>[[G0435\|ανήρ]]</big>** **<big>[[G3361\|μη]]</big>** |
+| be overlooked! | **<big>[[G1980\|επισκεπήτω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| a great | **<big>[[G3173\|μεγάλην]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| make | **<big>[[G4160\|ποιώ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Baal. | **<big>[[G0896\|Βάαλ]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| overlooked | **<big>[[G1980\|επισκεπή]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| live. | **<big>[[G2198\|ζήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehu | **<big>[[H3058\|Ιου]]</big>** |
+| did it | **<big>[[G4160\|εποίησεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| trickery, | **<big>[[G8974\|πτερνισμώ]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he might destroy | **<big>[[G0622\|απολέση]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| servants | **<big>[[G1401\|δουλούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Baal. | **<big>[[G0896\|Βάαλ]]</big>** |
 [[2Kgs.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.18|<< 2 Kings 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.20|2 Kings 10:20 >>]]</td></tr></table>
 
 

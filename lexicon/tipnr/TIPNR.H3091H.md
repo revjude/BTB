@@ -4,7 +4,7 @@ Man living at the time of United Monarchy
 
 The ark of the covenant was placed on a rock in the field of <span class='tipnrhighlight'>Joshua</span> of Beth-shemesh.
 - A man living at the time of United Monarchy, first mentioned at [[1Sam.6.14|1Sa.6.14]]; 
-- only referred to as Joshua<[[H3091H]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ\).
+- only referred to as Joshua **<big>[[H3091|יְהוֹשׁוּעַ]]</big>**.
 
 Joshua is mentioned in [[1Sam.6.14|1 Samuel 6:14]] and 6:18 as a resident of Beth-shemesh, a town in Judah. The context of the passage is the return of the ark of the covenant to Israel after it had been captured by the Philistines \(1 Samuel 4-6\). The Philistines, afflicted by plagues because of the ark's presence, sent it back to Israel on a cart pulled by two cows \(1 Samuel 6:7-12\). 
 
@@ -14,5 +14,5 @@ The large rock in Joshua's field, where the ark was placed, is mentioned again i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joshua | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3091H) <small>*Hebrew*</small> | 2x | [[1Sa.6.14] & [1Sa.6.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joshua\*\|reference=1Sa.6.14;1Sa.6.18) |
-All Strong's for **Joshua**: \[[[H3091H]]\]
+| Joshua | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3091H) | 2x | [[1Sa.6.14] & [1Sa.6.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joshua\*\|reference=1Sa.6.14;1Sa.6.18) |
+All entries for **Joshua**:  **<big>[[H3091|יְהוֹשׁוּעַ]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָמָה‎</span></big> **râmâh** <small>*(raw-maw')*</small> ==**high place**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup></small>
+**<big><span class="ashebrew">‎רָמָה‎</span></big>** **râmâh** <small>*(raw-maw')*</small> ==**high place**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine active participle of **<big>[[H7311|‎רוּם‎]]</big>**</small>
 
 $\quad$ high place.
 - ***a height*** (as a seat of idolatry)
@@ -7,4 +7,4 @@ $\quad$ high place.
 **1)** height, high place
 $\quad$ **1a)** as place of illicit worship
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναίρεσις</span><sup><small>[[G0336]]</small></sup> · <span class="asgreek">βάσις</span><sup><small>[[G0939]]</small></sup> · <span class="asgreek">Ῥαμᾶ</span><sup><small>[[G4471]]</small></sup> · <span class="asgreek">φόβος</span><sup><small>[[G5401]]</small></sup>
+<small>See Greek: </small>**<big>[[G0336|ἀναίρεσις]]</big>** · **<big>[[G0939|βάσις]]</big>** · **<big>[[G4471|Ῥαμᾶ]]</big>** · **<big>[[G5401|φόβος]]</big>**

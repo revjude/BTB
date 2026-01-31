@@ -1,8 +1,8 @@
 <small>*Heshmon • A town in the southland of Judah.*</small>
 
 <span class='tipnrhighlight'>Heshmon</span> was a town allotted to the tribe of Judah in the Negev region.
-- A location near Hazar-shual<[[H2705]]> only mentioned at [[Josh.15.27|Jos.15.27]]; 
-- only referred to as Heshmon<[[H2829]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Hazar-shual **<big>[[H2705|חֲצַר שׁוּעָל]]</big>** only mentioned at [[Josh.15.27|Jos.15.27]]; 
+- only referred to as Heshmon **<big>[[H2829|חֶשְׁמוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.215418,34.942986&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of Heshmon in the biblical text serves to provide a detailed account
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Heshmon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2829) <small>*Hebrew*</small> | 1x | [Jos.15.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Heshmon\*\|reference=Jos.15.27) |
-All Strong's for **Heshmon**: \[[[H2829]]\]
+| Heshmon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2829) | 1x | [Jos.15.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Heshmon\*\|reference=Jos.15.27) |
+All entries for **Heshmon**:  **<big>[[H2829|חֶשְׁמוֹן]]</big>**

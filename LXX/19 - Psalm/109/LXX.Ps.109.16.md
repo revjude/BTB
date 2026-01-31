@@ -7,25 +7,25 @@ Because that he remembered not to shew mercy, but persecuted the poor and needy 
 For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death.<small><sub>**MT:**</sub></small>
 [[Ps.109.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.15|<< Psalm 109:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.17|Psalm 109:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remember | <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| to perform | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| mercy, | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pursued | <big><span class="asgreek">κατεδίωξεν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a needy | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| vexing | <big><span class="asgreek">κατανενυγμένον</span></big> <sup><small><small>[[G2660]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to kill \[him\]. | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| remember | **<big>[[G3403\|εμνήσθη]]</big>** |
+| to perform | **<big>[[G4160\|ποιήσαι]]</big>** |
+| mercy, | **<big>[[G1656\|έλεος]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| pursued | **<big>[[G2614\|κατεδίωξεν]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| a needy | **<big>[[G3993\|πένητα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| poor | **<big>[[G4434\|πτωχόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| vexing | **<big>[[G2660\|κατανενυγμένον]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to kill \[him\]. | **<big>[[G2289\|θανατώσαι]]</big>** |
 [[Ps.109.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.15|<< Psalm 109:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.17|Psalm 109:17 >>]]</td></tr></table>
 
 

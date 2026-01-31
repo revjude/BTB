@@ -7,18 +7,18 @@ They helped every one his neighbour; and [every one] said to his brother, Be of 
 Each one helps the other and says to his brother, “Be strong!”<small><sub>**MT:**</sub></small>
 [[Isa.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.5|<< Isaiah 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.7|Isaiah 41:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| judging | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| helping | <big><span class="asgreek">βοηθήσων</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say, | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| judging | **<big>[[G2919\|κρίνων]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| neighbor, | **<big>[[G4139\|πλησίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| brother | **<big>[[G0080\|αδελφώ]]</big>** |
+| helping | **<big>[[G0997\|βοηθήσων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say, | **<big>[[G2046\|ερεί]]</big>** |
 [[Isa.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.5|<< Isaiah 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.7|Isaiah 41:7 >>]]</td></tr></table>
 
 

@@ -1,3 +1,1 @@
-<span class="asaramaic">‎בְּקַר‎</span> <small>***(be.qar)***</small> ==**to enquire**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H1239]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1239|בָּקַר]]</big>**</small>

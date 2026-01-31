@@ -7,13 +7,13 @@ Of the sons of Izhar; Shelomith the chief.
 The sons of Izhar: Shelomith was the first.<small><sub>**MT:**</sub></small>
 [[1Chr.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.17|<< 1 Chronicles 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.19|1 Chronicles 23:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Izhar -- | <big><span class="asgreek">Ισσάαρ</span></big> <sup><small><small>[[H3324]]</small></small></sup> |
-| Shelomith | <big><span class="asgreek">Σαλωμήθ</span></big> <sup><small><small>[[H8019b]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler. | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| \[The\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Izhar -- | **<big>[[H3324\|Ισσάαρ]]</big>** |
+| Shelomith | **<big>[[H8019b\|Σαλωμήθ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler. | **<big>[[G0758\|άρχων]]</big>** |
 [[1Chr.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.17|<< 1 Chronicles 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.19|1 Chronicles 23:19 >>]]</td></tr></table>
 
 

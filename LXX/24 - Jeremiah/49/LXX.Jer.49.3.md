@@ -7,32 +7,32 @@ Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with s
 Wail, O Heshbon, for Ai has been destroyed; cry out, O daughters of Rabbah! Put on sackcloth and mourn; run back and forth within your walls, for Milcom will go into exile together with his priests and officials.<small><sub>**MT:**</sub></small>
 [[Jer.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shout, | <big><span class="asgreek">αλάλαξον</span></big> <sup><small><small>[[G0214]]</small></small></sup> |
-| O Heshbon! | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Ai was destroyed. | <big><span class="asgreek">ώλετο</span></big> <sup><small><small>[[G8491]]</small></small></sup> <big><span class="asgreek">Γαϊ</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| Cry out, | <big><span class="asgreek">κεκράξατε</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| O daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Rabbah! | <big><span class="asgreek">Ραββάθ</span></big> <sup><small><small>[[H7237]]</small></small></sup> |
-| Gird on | <big><span class="asgreek">περιζώσασθε</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| sackcloths! | <big><span class="asgreek">σάκκους</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| Be possessed, | <big><span class="asgreek">επιληπτεύεσθε</span></big> <sup><small><small>[[G7428]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lament | <big><span class="asgreek">κόψασθε</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Milcom! | <big><span class="asgreek">Μολχόμ</span></big> <sup><small><small>[[H4445b]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| resettlement | <big><span class="asgreek">αποικία</span></big> <sup><small><small>[[G6430]]</small></small></sup> |
-| shall proceed | <big><span class="asgreek">βαδιούνται</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| together. | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| Shout, | **<big>[[G0214\|αλάλαξον]]</big>** |
+| O Heshbon! | **<big>[[H2809\|Εσεβών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| Ai was destroyed. | **<big>[[G8491\|ώλετο]]</big>** **<big>[[H5857\|Γαϊ]]</big>** |
+| Cry out, | **<big>[[G2896\|κεκράξατε]]</big>** |
+| O daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of Rabbah! | **<big>[[H7237\|Ραββάθ]]</big>** |
+| Gird on | **<big>[[G4024\|περιζώσασθε]]</big>** |
+| sackcloths! | **<big>[[G4526\|σάκκους]]</big>** |
+| Be possessed, | **<big>[[G7428\|επιληπτεύεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lament | **<big>[[G2875\|κόψασθε]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Milcom! | **<big>[[H4445b\|Μολχόμ]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| resettlement | **<big>[[G6430\|αποικία]]</big>** |
+| shall proceed | **<big>[[G6642\|βαδιούνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his priests | **<big>[[G2409\|ιερείς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| together. | **<big>[[G0260\|άμα]]</big>** |
 [[Jer.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 
 

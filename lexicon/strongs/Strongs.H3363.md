@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָקַע‎</span></big> **yâqaʻ** <small>*(yaw-kah')*</small> ==**to dislocate/hang**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָקַע‎</span></big>** **yâqaʻ** <small>*(yaw-kah')*</small> ==**to dislocate/hang**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be alienated, depart, hang (up), be out of joint.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1b1)** to execute slowly (by exposure or impalation)
 $\quad$ $\quad$ **1b2)** to hang
 $\quad$ **1c)** (Hophal) to be executed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">παραδειγματίζω</span><sup><small>[[G3856]]</small></sup>
+<small>See Greek: </small>**<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G3856|παραδειγματίζω]]</big>**

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">αἷμα</span></span>, <span class="asgreek">ατος, τό</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">דָּם</span> <small><sup>[[H1818]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">αἷμα</span></span>, <span class="asgreek">ατος, τό</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H1818|דָּם]]</big>**;\]</span> </span>
 <span class="asitalic">blood.</span>
 <span class="asbullet"><span class="asbold">1.</span> In the ordinary sense: [[Mark.5.25|Mk 5:25]], [[Luke.8.43|Lk 8:43]], [[Luke.8.44|44]] [[Luke.22.44|22:44]], [[John.19.34|Jo 19:34]], [[Acts.15.20|Ac 15:20]], [[Acts.15.29|29]] [[Acts.21.25|21:25]], [[Rev.8.7|Re 8:7]], [[Rev.8.8|8]] [[Rev.11.6|11:6]] [[Rev.16.3|16:3]], [[Rev.16.4|4]], [[Rev.16.6|6]] [[Rev.19.13|19:13]].</span>
 <span class="asbullet"><span class="asbold">2.</span> In special senses:</span>

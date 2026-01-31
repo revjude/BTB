@@ -6,22 +6,22 @@ And the elders of Gilead said to Jephthah, “The LORD is our witness if we do n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.9|<< Judges 11:9]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.11|Judges 11:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמְר֥וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.me.Ru <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] elders of  | <span class="ashebrew"><big>זִקְנֵֽי </big></span><small><small><sup>[[H2205G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| zik.nei- <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gilead  | <span class="ashebrew"><big>גִלְעָ֖ד </big></span><small><small><sup>[[H1568G]]</sup></small></small> &#8207;| gil.'Ad <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jephthah  | <span class="ashebrew"><big>יִפְתָּ֑ח </big></span><small><small><sup>[[H3316H]]</sup></small></small> &#8207;| yif.Tach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be  | <span class="ashebrew"><big>יִהְיֶ֤ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hearing  | <span class="ashebrew"><big>שֹׁמֵ֙עַ֙ </big></span><small><small><sup>[[H8085K]]</sup></small></small> &#8207;| sho.Me.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between us  | <span class="ashebrew"><big>בֵּֽינוֹתֵ֔י </big></span><small><small><sup>[[H0996G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| bei.no.Tei. <small><sup>[[HAcfpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to word your  | <span class="ashebrew"><big>כִ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>דְבָרְ </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| khi <small><sup>[[HR]]</sup></small> d.va.re. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so  | <span class="ashebrew"><big>כֵּ֥ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will do  | <span class="ashebrew"><big>נַעֲשֶֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.'a.Seh <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| zik.nei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  |**<big>&#8207;[[H1568G\|גִלְעָ֖ד]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephthah  |**<big>&#8207;[[H3316H\|יִפְתָּ֑ח]]&#8207; </big>**| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be  |**<big>&#8207;[[H1961\|יִהְיֶ֤ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hearing  |**<big>&#8207;[[H8085K\|שֹׁמֵ֙עַ֙]]&#8207; </big>**| sho.Me.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between us  |**<big>&#8207;[[H0996G\|בֵּֽינוֹתֵ֔י]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| bei.no.Tei.<small><sup>[[HAcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to word your  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H1697G\|דְבָרְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> d.va.re.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will do  |**<big>&#8207;[[H6213A\|נַעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.'a.Seh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.9|<< Judges 11:9]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.11|Judges 11:11 >>]]</td></tr></table>
 
 

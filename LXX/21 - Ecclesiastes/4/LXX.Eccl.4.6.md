@@ -7,20 +7,20 @@ Better [is] an handful [with] quietness, than both the hands full [with] travail
 Better one handful with tranquility than two handfuls with toil and pursuit of the wind.<small><sub>**MT:**</sub></small>
 [[Eccl.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.5|<< Ecclesiastes 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.7|Ecclesiastes 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Better | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρωμα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| a handful | <big><span class="asgreek">δρακός</span></big> <sup><small><small>[[G6968]]</small></small></sup> |
-| of rest, | <big><span class="asgreek">αναπαύσεως</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| full | <big><span class="asgreek">πληρώματα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| handfuls | <big><span class="asgreek">δρακών</span></big> <sup><small><small>[[G6968]]</small></small></sup> |
-| of trouble | <big><span class="asgreek">μόχθου</span></big> <sup><small><small>[[G3449]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| resolve | <big><span class="asgreek">προαιρέσεως</span></big> <sup><small><small>[[G8886]]</small></small></sup> |
-| of spirit. | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| Better | **<big>[[G0018\|αγαθόν]]</big>** |
+| full | **<big>[[G4138\|πλήρωμα]]</big>** |
+| a handful | **<big>[[G6968\|δρακός]]</big>** |
+| of rest, | **<big>[[G0372\|αναπαύσεως]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| full | **<big>[[G4138\|πληρώματα]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| handfuls | **<big>[[G6968\|δρακών]]</big>** |
+| of trouble | **<big>[[G3449\|μόχθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| resolve | **<big>[[G8886\|προαιρέσεως]]</big>** |
+| of spirit. | **<big>[[G4151\|πνεύματος]]</big>** |
 [[Eccl.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.5|<< Ecclesiastes 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.7|Ecclesiastes 4:7 >>]]</td></tr></table>
 
 

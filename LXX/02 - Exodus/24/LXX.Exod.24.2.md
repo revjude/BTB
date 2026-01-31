@@ -7,23 +7,23 @@ And Moses alone shall come near the LORD: but they shall not come nigh; neither 
 Moses alone shall approach the LORD, but the others must not come near. And the people may not go up with him.”<small><sub>**MT:**</sub></small>
 [[Exod.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.1|<< Exodus 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.3|Exodus 24:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses shall approach | <big><span class="asgreek">εγγιεί</span></big> <sup><small><small>[[G1448]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| but they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| approach, | <big><span class="asgreek">εγγιούσιν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go up | <big><span class="asgreek">συναναβήσεται</span></big> <sup><small><small>[[G4872]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses shall approach | **<big>[[G1448\|εγγιεί]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| but they | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| approach, | **<big>[[G1448\|εγγιούσιν]]</big>** |
+| and the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| go up | **<big>[[G4872\|συναναβήσεται]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Exod.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.1|<< Exodus 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.3|Exodus 24:3 >>]]</td></tr></table>
 
 

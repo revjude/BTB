@@ -6,19 +6,19 @@ Sheol, the barren womb, land never satisfied with water, and fire that never say
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.15|<< Proverbs 30:15]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.17|Proverbs 30:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Sheol  | <span class="ashebrew"><big>שְׁאוֹל֮ </big></span><small><small><sup>[[H7585]]</sup></small></small> &#8207;| she.'Ol <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and barrenness of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֹ֪צֶ֫ר </big></span><small><small><sup>[[H6115]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'O.Tzer <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a womb  | <span class="ashebrew"><big>רָ֥חַם </big></span><small><small><sup>[[H7356A]]</sup></small></small> &#8207;| Ra.cham <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| land  | <span class="ashebrew"><big>אֶ֭רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is satisfied  | <span class="ashebrew"><big>שָׂ֣בְעָה </big></span><small><small><sup>[[H7646]]</sup></small></small> &#8207;| Sa.ve.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מַּ֑יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and fire  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֗שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it says  | <span class="ashebrew"><big>אָ֥מְרָה </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'A.me.rah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enough  | <span class="ashebrew"><big>הֽוֹן </big></span><small><small><sup>[[H1952]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  |**<big>&#8207;[[H7585\|שְׁאוֹל֮]]&#8207; </big>**| she.'Ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and barrenness of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6115\|עֹ֪צֶ֫ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'O.Tzer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a womb  |**<big>&#8207;[[H7356A\|רָ֥חַם]]&#8207; </big>**| Ra.cham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land  |**<big>&#8207;[[H0776G\|אֶ֭רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is satisfied  |**<big>&#8207;[[H7646\|שָׂ֣בְעָה]]&#8207; </big>**| Sa.ve.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מַּ֑יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fire  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H0784\|אֵ֗שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it says  |**<big>&#8207;[[H0559\|אָ֥מְרָה]]&#8207; </big>**| 'A.me.rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enough  |**<big>&#8207;[[H1952\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.15|<< Proverbs 30:15]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.17|Proverbs 30:17 >>]]</td></tr></table>
 
 

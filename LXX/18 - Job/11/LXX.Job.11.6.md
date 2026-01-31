@@ -7,28 +7,28 @@ And that he would shew thee the secrets of wisdom, that [they are] double to tha
 and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves.<small><sub>**MT:**</sub></small>
 [[Job.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.7|Job 11:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">είτα</span></big> <sup><small><small>[[G1534]]</small></small></sup> |
-| he shall announce | <big><span class="asgreek">αναγγελεί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] power | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of wisdom, | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it will be double | <big><span class="asgreek">διπλούς</span></big> <sup><small><small>[[G1362]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the \[things\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| yours? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| you shall know | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[what is\] worthy to you | <big><span class="asgreek">άξιά</span></big> <sup><small><small>[[G0514]]</small></small></sup> <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| resulted | <big><span class="asgreek">απέβη</span></big> <sup><small><small>[[G0576]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have sinned. | <big><span class="asgreek">ημάρτηκας</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| then | **<big>[[G1534\|είτα]]</big>** |
+| he shall announce | **<big>[[G0312\|αναγγελεί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] power | **<big>[[G1411\|δύναμιν]]</big>** |
+| of wisdom, | **<big>[[G4678\|σοφίας]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| it will be double | **<big>[[G1362\|διπλούς]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| to the \[things\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of | **<big>[[G2596\|κατά]]</big>** |
+| yours? | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| you shall know | **<big>[[G1097\|γνώση]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[what is\] worthy to you | **<big>[[G0514\|άξιά]]</big>** **<big>[[G1473\|σοι]]</big>** |
+| resulted | **<big>[[G0576\|απέβη]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| you have sinned. | **<big>[[G0264\|ημάρτηκας]]</big>** |
 [[Job.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.7|Job 11:7 >>]]</td></tr></table>
 
 

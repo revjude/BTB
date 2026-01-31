@@ -7,29 +7,29 @@ And I will pour out mine indignation upon thee, I will blow against thee in the 
 I will pour out My anger upon you; I will breathe the fire of My fury against you; I will hand you over to brutal men, skilled in destruction.<small><sub>**MT:**</sub></small>
 [[Ezek.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will pour out | <big><span class="asgreek">εκχεώ</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my anger. | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| of my anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will breathe | <big><span class="asgreek">εμφυσήσω</span></big> <sup><small><small>[[G1720]]</small></small></sup> |
-| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will deliver | <big><span class="asgreek">παραδώσω</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of barbaric | <big><span class="asgreek">βαρβάρων</span></big> <sup><small><small>[[G0915]]</small></small></sup> |
-| contriving | <big><span class="asgreek">τεκταινόντων</span></big> <sup><small><small>[[G9412]]</small></small></sup> |
-| corruption. | <big><span class="asgreek">διαφθοράς</span></big> <sup><small><small>[[G1312]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will pour out | **<big>[[G1632\|εκχεώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my anger. | **<big>[[G3709\|οργήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] fire | **<big>[[G4442\|πυρί]]</big>** |
+| of my anger | **<big>[[G3709\|οργής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will breathe | **<big>[[G1720\|εμφυσήσω]]</big>** |
+| against | **<big>[[G1519\|εις]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will deliver | **<big>[[G3860\|παραδώσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| of barbaric | **<big>[[G0915\|βαρβάρων]]</big>** |
+| contriving | **<big>[[G9412\|τεκταινόντων]]</big>** |
+| corruption. | **<big>[[G1312\|διαφθοράς]]</big>** |
 [[Ezek.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
 
 

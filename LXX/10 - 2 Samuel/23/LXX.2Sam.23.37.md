@@ -7,21 +7,21 @@ Zelek the Ammonite, Naharai the Beerothite, armourbearer to Joab the son of Zeru
 Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,<small><sub>**MT:**</sub></small>
 [[2Sam.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.36|<< 2 Samuel 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.38|2 Samuel 23:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Zelek | <big><span class="asgreek">Σελήκ</span></big> <sup><small><small>[[H6768]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonite. | <big><span class="asgreek">Αμωνίτης</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| Nahari | <big><span class="asgreek">Ναχαραί</span></big> <sup><small><small>[[H5171]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beerothite, | <big><span class="asgreek">Βηρωθαίος</span></big> <sup><small><small>[[H0881]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αίρων</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| equipment | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zeruiah. | <big><span class="asgreek">Σαρουϊα</span></big> <sup><small><small>[[H6870]]</small></small></sup> |
+| Zelek | **<big>[[H6768\|Σελήκ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ammonite. | **<big>[[H5983\|Αμωνίτης]]</big>** |
+| Nahari | **<big>[[H5171\|Ναχαραί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Beerothite, | **<big>[[H0881\|Βηρωθαίος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| lifting | **<big>[[G0142\|αίρων]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| equipment | **<big>[[G4632\|σκεύη]]</big>** |
+| of Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Zeruiah. | **<big>[[H6870\|Σαρουϊα]]</big>** |
 [[2Sam.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.36|<< 2 Samuel 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.38|2 Samuel 23:38 >>]]</td></tr></table>
 
 

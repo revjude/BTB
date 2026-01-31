@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַחַת‎</span></big> **Yachath** <small>*(yakh'-ath)*</small> ==**Jahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָחַד‎</span><sup><small>[[H3161]]</small></sup>; unity</small>
+**<big><span class="ashebrew">‎יַחַת‎</span></big>** **Yachath** <small>*(yakh'-ath)*</small> ==**Jahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3161|‎יָחַד‎]]</big>**; unity</small>
 
 $\quad$ Jahath.
 - § Jahath = *"He will snatch up"*

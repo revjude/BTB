@@ -1,4 +1,4 @@
-combination of: <small>[[G4308]]</small> 
+combination of: <small>**<big>[[G4308|προοράω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==προεῖδον==</span></b>, 

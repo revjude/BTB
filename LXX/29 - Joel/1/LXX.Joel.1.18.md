@@ -7,25 +7,25 @@ How do the beasts groan! the herds of cattle are perplexed, because they have no
 How the cattle groan! The herds wander in confusion because they have no pasture. Even the flocks of sheep are suffering.<small><sub>**MT:**</sub></small>
 [[Joel.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.17|<< Joel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.19|Joel 1:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall we put aside | <big><span class="asgreek">αποθήσομεν</span></big> <sup><small><small>[[G0659]]</small></small></sup> |
-| for ourselves? | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| weep | <big><span class="asgreek">έκλαυσαν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| \[The\] herds | <big><span class="asgreek">βουκόλια</span></big> <sup><small><small>[[G6690]]</small></small></sup> |
-| of oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| no | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| exists | <big><span class="asgreek">υπήρχε</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| pasture | <big><span class="asgreek">νομή</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks | <big><span class="asgreek">ποίμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| were obliterated. | <big><span class="asgreek">ηφανίσθησαν</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| What | **<big>[[G5100\|τι]]</big>** |
+| shall we put aside | **<big>[[G0659\|αποθήσομεν]]</big>** |
+| for ourselves? | **<big>[[G1438\|εαυτοίς]]</big>** |
+| weep | **<big>[[G2799\|έκλαυσαν]]</big>** |
+| \[The\] herds | **<big>[[G6690\|βουκόλια]]</big>** |
+| of oxen | **<big>[[G1016\|βοών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| no | **<big>[[G3756\|ουχ]]</big>** |
+| exists | **<big>[[G5225\|υπήρχε]]</big>** |
+| pasture | **<big>[[G3542\|νομή]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| flocks | **<big>[[G4168\|ποίμνια]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sheep | **<big>[[G4263\|προβάτων]]</big>** |
+| were obliterated. | **<big>[[G0853\|ηφανίσθησαν]]</big>** |
 [[Joel.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.17|<< Joel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.19|Joel 1:19 >>]]</td></tr></table>
 
 

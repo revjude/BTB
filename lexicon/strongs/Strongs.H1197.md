@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּעַר‎</span></big> **bâʻar** <small>*(baw-ar')*</small> ==**to burn: burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also as denominative from <span class="ashebrew">‎בַּעַר‎</span><sup><small>[[H1198]]</small></sup></small>
+**<big><span class="ashebrew">‎בָּעַר‎</span></big>** **bâʻar** <small>*(baw-ar')*</small> ==**to burn: burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also as denominative from **<big>[[H1198|‎בַּעַר‎]]</big>**</small>
 
 $\quad$ be brutish, bring (put, take) away, burn, (cause to) eat (up), feed, heat, kindle, set (on fire), waste.
 - ***to kindle***, i.e. ***consume*** (by fire or by eating)
@@ -26,4 +26,4 @@ $\quad$ **2b)** (Niphal) to be stupid, dull-hearted
 $\quad$ **2c)** (Piel) to feed, graze
 $\quad$ **2d)** (Hiphil) to cause to be grazed over
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνάπτω</span><sup><small>[[G0381]]</small></sup> · <span class="asgreek">ἀφανίζω</span><sup><small>[[G0853]]</small></sup> · <span class="asgreek">διασαφέω</span><sup><small>[[G1285]]</small></sup> · <span class="asgreek">ἐκκαθαίρω</span><sup><small>[[G1571]]</small></sup> · <span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup> · <span class="asgreek">ἐξεγείρω</span><sup><small>[[G1825]]</small></sup> · <span class="asgreek">ἐξολοθρεύω</span><sup><small>[[G1842]]</small></sup> · <span class="asgreek">ἐπιλέγομαι</span><sup><small>[[G1951]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">καίω</span><sup><small>[[G2545]]</small></sup> · <span class="asgreek">κατακαίω</span><sup><small>[[G2618]]</small></sup> · <span class="asgreek">κατεσθίω</span><sup><small>[[G2719]]</small></sup> · <span class="asgreek">καῦσις</span><sup><small>[[G2740]]</small></sup> · <span class="asgreek">ματαιόω</span><sup><small>[[G3154]]</small></sup> · <span class="asgreek">μωραίνω</span><sup><small>[[G3471]]</small></sup>
+<small>See Greek: </small>**<big>[[G0381|ἀνάπτω]]</big>** · **<big>[[G0853|ἀφανίζω]]</big>** · **<big>[[G1285|διασαφέω]]</big>** · **<big>[[G1571|ἐκκαθαίρω]]</big>** · **<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G1808|ἐξαίρω]]</big>** · **<big>[[G1825|ἐξεγείρω]]</big>** · **<big>[[G1842|ἐξολοθρεύω]]</big>** · **<big>[[G1951|ἐπιλέγομαι]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G2545|καίω]]</big>** · **<big>[[G2618|κατακαίω]]</big>** · **<big>[[G2719|κατεσθίω]]</big>** · **<big>[[G2740|καῦσις]]</big>** · **<big>[[G3154|ματαιόω]]</big>** · **<big>[[G3471|μωραίνω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲנָתוֹת‎</span></big> **ʻĂnâthôwth** <small>*(an-aw-thoth')*</small> ==**Anathoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎עֲנָת‎</span><sup><small>[[H6067]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲנָתוֹת‎</span></big>** **ʻĂnâthôwth** <small>*(an-aw-thoth')*</small> ==**Anathoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H6067|‎עֲנָת‎]]</big>**</small>
 
 $\quad$ Anathoth.
 - § Anathoth = *"answers to prayer"*

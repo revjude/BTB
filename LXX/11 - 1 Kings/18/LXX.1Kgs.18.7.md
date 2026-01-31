@@ -7,33 +7,33 @@ And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell
 Now as Obadiah went on his way, Elijah suddenly met him. When Obadiah recognized him, he fell facedown and said, “Is it you, my lord Elijah?”<small><sub>**MT:**</sub></small>
 [[1Kgs.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.6|<< 1 Kings 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.8|1 Kings 18:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obadiah was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Αβδίου</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| alone, | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Elijah | <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| \[came\] to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet with | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obadiah | <big><span class="asgreek">Αβδίου</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| hastened | <big><span class="asgreek">έσπευσε</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell | <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his face, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Are you | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O my master, | <big><span class="asgreek">κύριέ</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elijah? | <big><span class="asgreek">Ηλία</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Obadiah was | **<big>[[G1510\|ην]]</big>** **<big>[[H5662\|Αβδίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| alone, | **<big>[[G3441\|μόνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Elijah | **<big>[[G2243\|Ηλίας]]</big>** |
+| \[came\] to | **<big>[[G1519\|εις]]</big>** |
+| meet with | **<big>[[G4877\|συνάντησιν]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Obadiah | **<big>[[H5662\|Αβδίου]]</big>** |
+| hastened | **<big>[[G4692\|έσπευσε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fell | **<big>[[G4098\|έπεσεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| his face, | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Are you | **<big>[[G1487\|ει]]</big>** **<big>[[G1473\|συ]]</big>** **<big>[[G1510\|ει]]</big>** |
+| he, | **<big>[[G1473\|αυτός]]</big>** |
+| O my master, | **<big>[[G2962\|κύριέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Elijah? | **<big>[[G2243\|Ηλία]]</big>** |
 [[1Kgs.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.6|<< 1 Kings 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.8|1 Kings 18:8 >>]]</td></tr></table>
 
 

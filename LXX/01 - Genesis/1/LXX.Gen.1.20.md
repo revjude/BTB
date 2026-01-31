@@ -7,30 +7,30 @@ And God said, Let the waters bring forth abundantly the moving creature that hat
 And God said, “Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.”<small><sub>**MT:**</sub></small>
 [[Gen.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.19|<< Genesis 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.21|Genesis 1:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| bring forth | <big><span class="asgreek">εξαγαγέτω</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| reptiles | <big><span class="asgreek">ερπετά</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| lives | <big><span class="asgreek">ψυχών</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of living | <big><span class="asgreek">ζωσών</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| winged creatures | <big><span class="asgreek">πετεινά</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| flying | <big><span class="asgreek">πετόμενα</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| below | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| firmament | <big><span class="asgreek">στερέωμα</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven! | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| so. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| bring forth | **<big>[[G1806\|εξαγαγέτω]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| waters | **<big>[[G5204\|ύδατα]]</big>** |
+| reptiles | **<big>[[G2062\|ερπετά]]</big>** |
+| lives | **<big>[[G5590\|ψυχών]]</big>** |
+| of living | **<big>[[G2198\|ζωσών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| winged creatures | **<big>[[G4071\|πετεινά]]</big>** |
+| flying | **<big>[[G4072\|πετόμενα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| below | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| firmament | **<big>[[G4733\|στερέωμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven! | **<big>[[G3772\|ουρανού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was | **<big>[[G1096\|εγένετο]]</big>** |
+| so. | **<big>[[G3779\|ούτως]]</big>** |
 [[Gen.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.19|<< Genesis 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.21|Genesis 1:21 >>]]</td></tr></table>
 
 

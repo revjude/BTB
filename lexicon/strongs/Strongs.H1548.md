@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּלַח‎</span></big> **gâlach** <small>*(gaw-lakh')*</small> ==**to shave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּלַח‎</span></big>** **gâlach** <small>*(gaw-lakh')*</small> ==**to shave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ poll, shave (off).
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a3)** (fig. of devastation)
 $\quad$ **1b)**(Pual) to be shaven
 $\quad$ **1c)** (Hithpael) to shave oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κείρω</span><sup><small>[[G2751]]</small></sup> · <span class="asgreek">ξυράω</span><sup><small>[[G3587]]</small></sup>
+<small>See Greek: </small>**<big>[[G2751|κείρω]]</big>** · **<big>[[G3587|ξυράω]]</big>**

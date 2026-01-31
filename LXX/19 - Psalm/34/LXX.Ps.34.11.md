@@ -7,16 +7,16 @@ Come, ye children, hearken unto me: I will teach you the fear of the LORD.
 Come, children, listen to me; I will teach you the fear of the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.10|<< Psalm 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.12|Psalm 34:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Come | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| children, | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούσατέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I will teach | <big><span class="asgreek">διδάξω</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Come | **<big>[[G1205\|δεύτε]]</big>** |
+| children, | **<big>[[G5043\|τέκνα]]</big>** |
+| hear | **<big>[[G0191\|ακούσατέ]]</big>** |
+| me! | **<big>[[G1473\|μου]]</big>** |
+| a fear | **<big>[[G5401\|φόβον]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| I will teach | **<big>[[G1321\|διδάξω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
 [[Ps.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.10|<< Psalm 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.12|Psalm 34:12 >>]]</td></tr></table>
 
 

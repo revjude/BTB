@@ -1,4 +1,4 @@
-Greek of: <small>[[H3120G]]</small> 
+Greek of: <small>**<big>[[H3120G|יָוָן]]</big>**</small> 
 
 
 1. <b>==Ἕλλην=Ἕλλην== </b>, son of Deucalion, [<a href="javascript:void(0)" title="Hesiod">8th/7th c.BC</a>] 

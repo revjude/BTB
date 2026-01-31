@@ -7,35 +7,35 @@ It shall come to pass, when he seeth that the lad [is] not [with us], that he wi
 sees that the boy is not with us, he will die. Then your servants will have brought the gray hair of your servant our father down to Sheol in sorrow.<small><sub>**MT:**</sub></small>
 [[Gen.44.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.30|<< Genesis 44:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.32|Genesis 44:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his seeing | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will come to an end, | <big><span class="asgreek">τελευτήσει</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will lead | <big><span class="asgreek">κατάξουσιν</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">παίδές</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[to\] old age | <big><span class="asgreek">γήρας</span></big> <sup><small><small>[[G1094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παιδός</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| distress | <big><span class="asgreek">λυπης</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades. | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his seeing | **<big>[[G1492\|ιδείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| being | **<big>[[G1510\|ον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| child | **<big>[[G3813\|παιδίον]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| he will come to an end, | **<big>[[G5053\|τελευτήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will lead | **<big>[[G2609\|κατάξουσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your servants | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[to\] old age | **<big>[[G1094\|γήρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your servant | **<big>[[G3816\|παιδός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| father | **<big>[[G3962\|πατρός]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| distress | **<big>[[G3077\|λυπης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades. | **<big>[[G0086\|άδου]]</big>** |
 [[Gen.44.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.30|<< Genesis 44:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.32|Genesis 44:32 >>]]</td></tr></table>
 
 

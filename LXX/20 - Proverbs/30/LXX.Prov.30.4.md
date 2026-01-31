@@ -7,42 +7,42 @@ Who hath ascended up into heaven, or descended? who hath gathered the wind in hi
 Who has ascended to heaven and come down? Who has gathered the wind in His hands? Who has bound up the waters in His cloak? Who has established all the ends of the earth? What is His name, and what is the name of His Son—surely you know!<small><sub>**MT:**</sub></small>
 [[Prov.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.3|<< Proverbs 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.5|Proverbs 30:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came down? | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| brought together | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| \[the\] winds | <big><span class="asgreek">ανέμους</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[his\] bosom? | <big><span class="asgreek">κόλπω</span></big> <sup><small><small>[[G2859]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| bundled up | <big><span class="asgreek">συνέστρεψεν</span></big> <sup><small><small>[[G4962]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[his\] cloak? | <big><span class="asgreek">ιματίω</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| holds | <big><span class="asgreek">εκράτησε</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| extremities | <big><span class="asgreek">άκρων</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[is given\] to him? | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his children | <big><span class="asgreek">τέκνοις</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should know? | <big><span class="asgreek">γνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came down? | **<big>[[G2597\|κατέβη]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| brought together | **<big>[[G4863\|συνήγαγεν]]</big>** |
+| \[the\] winds | **<big>[[G0417\|ανέμους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[his\] bosom? | **<big>[[G2859\|κόλπω]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| bundled up | **<big>[[G4962\|συνέστρεψεν]]</big>** |
+| waters | **<big>[[G5204\|ύδωρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[his\] cloak? | **<big>[[G2440\|ιματίω]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| holds | **<big>[[G2902\|εκράτησε]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| extremities | **<big>[[G6208\|άκρων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth? | **<big>[[G1093\|γης]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \[is given\] to him? | **<big>[[G1473\|αυτώ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his children | **<big>[[G5043\|τέκνοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should know? | **<big>[[G1097\|γνως]]</big>** |
 [[Prov.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.3|<< Proverbs 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.5|Proverbs 30:5 >>]]</td></tr></table>
 
 

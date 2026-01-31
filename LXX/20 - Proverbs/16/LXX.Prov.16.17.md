@@ -7,41 +7,41 @@ The highway of the upright [is] to depart from evil: he that keepeth his way pre
 The highway of the upright leads away from evil; he who guards his way protects his life.<small><sub>**MT:**</sub></small>
 [[Prov.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] paths | <big><span class="asgreek">τρίβοι</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλίνουσιν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| evils; | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \[are\] length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of existence | <big><span class="asgreek">βίου</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
-| \[the\] ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of righteousness | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| receiving | <big><span class="asgreek">δεχόμενος</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| instruction | <big><span class="asgreek">παιδείαν</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθοίς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| one keeping | <big><span class="asgreek">φυλάσσων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| reproofs | <big><span class="asgreek">ελέγχους</span></big> <sup><small><small>[[G1650]]</small></small></sup> |
-| shall be made wise. | <big><span class="asgreek">σοφισθήσεται</span></big> <sup><small><small>[[G4679]]</small></small></sup> |
-| The one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| guards | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| gives heed to | <big><span class="asgreek">τηρεί</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| soul; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| and \[the\] one loving | <big><span class="asgreek">αγαπών</span></big> <sup><small><small>[[G0025]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| his mouth. | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] paths | **<big>[[G5147\|τρίβοι]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλίνουσιν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| evils; | **<big>[[G2556\|κακών]]</big>** |
+| \[are\] length | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| of existence | **<big>[[G0979\|βίου]]</big>** |
+| \[the\] ways | **<big>[[G3598\|οδοί]]</big>** |
+| of righteousness | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| receiving | **<big>[[G1209\|δεχόμενος]]</big>** |
+| instruction | **<big>[[G3809\|παιδείαν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθοίς]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| and the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| one keeping | **<big>[[G5442\|φυλάσσων]]</big>** |
+| reproofs | **<big>[[G1650\|ελέγχους]]</big>** |
+| shall be made wise. | **<big>[[G4679\|σοφισθήσεται]]</big>** |
+| The one who | **<big>[[G3739\|ος]]</big>** |
+| guards | **<big>[[G5442\|φυλάσσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| ways | **<big>[[G3598\|οδούς]]</big>** |
+| gives heed to | **<big>[[G5083\|τηρεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| soul; | **<big>[[G5590\|ψυχήν]]</big>** |
+| and \[the\] one loving | **<big>[[G0025\|αγαπών]]</big>** **<big>[[G1161\|δε]]</big>** |
+| his life | **<big>[[G2222\|ζωήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall spare | **<big>[[G5339\|φείσεται]]</big>** |
+| his mouth. | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 
 

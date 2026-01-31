@@ -7,21 +7,21 @@ If there be laid on him a sum of money, then he shall give for the ransom of his
 If payment is demanded of him instead, he may redeem his life by paying the full amount demanded of him.<small><sub>**MT:**</sub></small>
 [[Exod.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.29|<< Exodus 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.31|Exodus 21:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| ransoms | <big><span class="asgreek">λύτρα</span></big> <sup><small><small>[[G3083]]</small></small></sup> |
-| should be put | <big><span class="asgreek">επιβληθή</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| ransoms | <big><span class="asgreek">λύτρα</span></big> <sup><small><small>[[G3083]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| life | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as much | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should be put upon | <big><span class="asgreek">επιβάλωσιν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| ransoms | **<big>[[G3083\|λύτρα]]</big>** |
+| should be put | **<big>[[G1911\|επιβληθή]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| ransoms | **<big>[[G3083\|λύτρα]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| life | **<big>[[G5590\|ψυχής]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| as much | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G1437\|εάν]]</big>** |
+| should be put upon | **<big>[[G1911\|επιβάλωσιν]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Exod.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.29|<< Exodus 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.31|Exodus 21:31 >>]]</td></tr></table>
 
 

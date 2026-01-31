@@ -6,13 +6,13 @@ Michael, Ishpah, and Joha were the sons of Beriah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.15|<< 1 Chronicles 8:15]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.17|1 Chronicles 8:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Michael  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִיכָאֵ֧ל </big></span><small><small><sup>[[H4317L]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mi.kha.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ishpah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִשְׁפָּ֛ה </big></span><small><small><sup>[[H3472]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yish.Pah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Joha  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוֹחָ֖א </big></span><small><small><sup>[[H3109G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Cha' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beriah  | <span class="ashebrew"><big>בְרִיעָֽה </big></span><small><small><sup>[[H1283I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve.ri.'Ah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Michael  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4317L\|מִיכָאֵ֧ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.kha.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ishpah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3472\|יִשְׁפָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yish.Pah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Joha  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3109G\|יוֹחָ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Cha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beriah  |**<big>&#8207;[[H1283I\|בְרִיעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.ri.'Ah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.15|<< 1 Chronicles 8:15]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.17|1 Chronicles 8:17 >>]]</td></tr></table>
 
 

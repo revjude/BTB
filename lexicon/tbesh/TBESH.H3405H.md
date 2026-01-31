@@ -1,5 +1,4 @@
-<span class="ashebrew">‎יְרִיחוֹ‎</span> <small>***(ye.ri.cho)***</small> ==**(Plain of) Jericho**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-part of: <small>[[H3603G]]</small> 
+<small>part of:</small> <small>**<big>[[H3603G|כִּכָּר]]</big>**</small> 
 
 
-- Combined with <i>kik.kar</i> (<span class='ashebrew'>‎כ‎</span>ִּ<span class='ashebrew'>‎כ‎</span>ָּ<span class='ashebrew'>‎ר‎</span> "Plain" [[H3603]])
+- Combined with <i>kik.kar</i> (<span class='ashebrew'>‎כ‎</span>ִּ<span class='ashebrew'>‎כ‎</span>ָּ<span class='ashebrew'>‎ר‎</span> "Plain" **<big>[[H3603|כִּכָּר]]</big>**)

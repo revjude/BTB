@@ -7,17 +7,17 @@ Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto 
 Envoys will arrive from Egypt; Cush will stretch out her hands to God.<small><sub>**MT:**</sub></small>
 [[Ps.68.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.30|<< Psalm 68:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.32|Psalm 68:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall come | <big><span class="asgreek">ήξουσι</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| Ambassadors | <big><span class="asgreek">πρέσβεις</span></big> <sup><small><small>[[G8881]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| Ethiopia | <big><span class="asgreek">Αιθιοπία</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
-| shall go beforehand with | <big><span class="asgreek">προφθάσει</span></big> <sup><small><small>[[G4399]]</small></small></sup> |
-| her hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| shall come | **<big>[[G2240\|ήξουσι]]</big>** |
+| Ambassadors | **<big>[[G8881\|πρέσβεις]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| Ethiopia | **<big>[[G0128\|Αιθιοπία]]</big>** |
+| shall go beforehand with | **<big>[[G4399\|προφθάσει]]</big>** |
+| her hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God. | **<big>[[G2316\|θεώ]]</big>** |
 [[Ps.68.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.30|<< Psalm 68:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.32|Psalm 68:32 >>]]</td></tr></table>
 
 

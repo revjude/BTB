@@ -7,20 +7,20 @@ The beginning of strife [is as] when one letteth out water: therefore leave off 
 To start a quarrel is to release a flood; so abandon the dispute before it breaks out.<small><sub>**MT:**</sub></small>
 [[Prov.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.13|<< Proverbs 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.15|Proverbs 17:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| authority | <big><span class="asgreek">εξουσίαν</span></big> <sup><small><small>[[G1849]]</small></small></sup> |
-| shall give | <big><span class="asgreek">δίδωσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[The\] sovereignty | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of righteousness | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| lead | <big><span class="asgreek">προηγείται</span></big> <sup><small><small>[[G4285]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to lack | <big><span class="asgreek">ενδείας</span></big> <sup><small><small>[[G7218]]</small></small></sup> |
-| faction | <big><span class="asgreek">στάσις</span></big> <sup><small><small>[[G4714]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fighting | <big><span class="asgreek">μάχη</span></big> <sup><small><small>[[G3163]]</small></small></sup> |
+| authority | **<big>[[G1849\|εξουσίαν]]</big>** |
+| shall give | **<big>[[G1325\|δίδωσι]]</big>** |
+| to words | **<big>[[G3056\|λόγοις]]</big>** |
+| \[The\] sovereignty | **<big>[[G0746\|αρχή]]</big>** |
+| of righteousness | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| lead | **<big>[[G4285\|προηγείται]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| to lack | **<big>[[G7218\|ενδείας]]</big>** |
+| faction | **<big>[[G4714\|στάσις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fighting | **<big>[[G3163\|μάχη]]</big>** |
 [[Prov.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.13|<< Proverbs 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.15|Proverbs 17:15 >>]]</td></tr></table>
 
 

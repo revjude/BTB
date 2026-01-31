@@ -6,20 +6,20 @@ You are also to take fine flour and bake twelve loaves, using two-tenths of an e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.4|<< Leviticus 24:4]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.6|Leviticus 24:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will take  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>לָקַחְתָּ֣ </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> la.kach.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fine flour  | <span class="ashebrew"><big>סֹ֔לֶת </big></span><small><small><sup>[[H5560]]</sup></small></small> &#8207;| So.let <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will bake  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָפִיתָ֣ </big></span><small><small><sup>[[H0644]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.fi.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹתָ֔ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two [plus]  | <span class="ashebrew"><big>שְׁתֵּ֥ים </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Teim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶשְׂרֵ֖ה </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'es.Reh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| round perforated breads  | <span class="ashebrew"><big>חַלּ֑וֹת </big></span><small><small><sup>[[H2471]]</sup></small></small> &#8207;| cha.Lot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁנֵי֙ </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Nei <small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tenths  | <span class="ashebrew"><big>עֶשְׂרֹנִ֔ים </big></span><small><small><sup>[[H6241]]</sup></small></small> &#8207;| 'es.ro.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be  | <span class="ashebrew"><big>יִהְיֶ֖ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the round perforated bread  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חַלָּ֥ה </big></span><small><small><sup>[[H2471]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> cha.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> one  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֶחָֽת </big></span><small><small><sup>[[H0259]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine flour  |**<big>&#8207;[[H5560\|סֹ֔לֶת]]&#8207; </big>**| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will bake  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0644\|אָפִיתָ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.fi.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֥ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֖ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| round perforated breads  |**<big>&#8207;[[H2471\|חַלּ֑וֹת]]&#8207; </big>**| cha.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁנֵי֙]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tenths  |**<big>&#8207;[[H6241\|עֶשְׂרֹנִ֔ים]]&#8207; </big>**| 'es.ro.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  |**<big>&#8207;[[H1961\|יִהְיֶ֖ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the round perforated bread  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2471\|חַלָּ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> one  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אֶחָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.4|<< Leviticus 24:4]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.6|Leviticus 24:6 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men a
 Now the LORD had said to Moses in Midian, “Go back to Egypt, for all the men who sought to kill you are dead.”<small><sub>**MT:**</sub></small>
 [[Exod.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.18|<< Exodus 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.20|Exodus 4:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Midian, | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| Proceed, | <big><span class="asgreek">βάδιζε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| go forth | <big><span class="asgreek">άπελθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt! | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| For have died | <big><span class="asgreek">τεθνήκασι</span></big> <sup><small><small>[[G2348]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητούντές</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| life. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Midian, | **<big>[[G3099\|Μαδιάν]]</big>** |
+| Proceed, | **<big>[[G6642\|βάδιζε]]</big>** |
+| go forth | **<big>[[G0565\|άπελθε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Egypt! | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| For have died | **<big>[[G2348\|τεθνήκασι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| seeking | **<big>[[G2212\|ζητούντές]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| life. | **<big>[[G5590\|ψυχήν]]</big>** |
 [[Exod.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.18|<< Exodus 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.20|Exodus 4:20 >>]]</td></tr></table>
 
 

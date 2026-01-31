@@ -6,16 +6,16 @@ an unloved woman who marries, and a maidservant who supplants her mistress.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.22|<< Proverbs 30:22]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.24|Proverbs 30:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| under  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a hated [woman]  | <span class="ashebrew"><big>שְׂ֭נוּאָה </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| Se.nu.'ah <small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will be married  | <span class="ashebrew"><big>תִבָּעֵ֑ל </big></span><small><small><sup>[[H1166I]]</sup></small></small> &#8207;| ti.ba.'El <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a female servant  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁפְחָ֗ה </big></span><small><small><sup>[[H8198]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shif.Chah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will dispossess  | <span class="ashebrew"><big>תִירַ֥שׁ </big></span><small><small><sup>[[H3423H]]</sup></small></small> &#8207;| ti.Rash <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mistress her  | <span class="ashebrew"><big>גְּבִרְתָּֽ </big></span><small><small><sup>[[H1404]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ge.vir.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hated [woman]  |**<big>&#8207;[[H8130\|שְׂ֭נוּאָה]]&#8207; </big>**| Se.nu.'ah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be married  |**<big>&#8207;[[H1166I\|תִבָּעֵ֑ל]]&#8207; </big>**| ti.ba.'El<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a female servant  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8198\|שִׁפְחָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shif.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will dispossess  |**<big>&#8207;[[H3423H\|תִירַ֥שׁ]]&#8207; </big>**| ti.Rash<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mistress her  |**<big>&#8207;[[H1404\|גְּבִרְתָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ge.vir.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.22|<< Proverbs 30:22]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.24|Proverbs 30:24 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ What mean ye, that ye use this proverb concerning the land of Israel, saying, Th
 “What do you people mean by quoting this proverb about the land of Israel: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge’?<small><sub>**MT:**</sub></small>
 [[Ezek.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.1|<< Ezekiel 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.3|Ezekiel 18:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this parable | <big><span class="asgreek">παραβολή</span></big> <sup><small><small>[[G3850]]</small></small></sup> <big><span class="asgreek">αυτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| an unripe grape, | <big><span class="asgreek">όμφακα</span></big> <sup><small><small>[[G8515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| teeth | <big><span class="asgreek">οδόντες</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνων</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| have a toothache? | <big><span class="asgreek">εγομφίασαν</span></big> <sup><small><small>[[G6759]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| What | **<big>[[G5100\|τις]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| \[is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| this parable | **<big>[[G3850\|παραβολή]]</big>** **<big>[[G3778\|αυτη]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| fathers | **<big>[[G3962\|πατέρες]]</big>** |
+| ate | **<big>[[G2068\|έφαγον]]</big>** |
+| an unripe grape, | **<big>[[G8515\|όμφακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| teeth | **<big>[[G3588\|οδόντες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| children | **<big>[[G5043\|τέκνων]]</big>** |
+| have a toothache? | **<big>[[G6759\|εγομφίασαν]]</big>** |
 [[Ezek.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.1|<< Ezekiel 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.3|Ezekiel 18:3 >>]]</td></tr></table>
 
 

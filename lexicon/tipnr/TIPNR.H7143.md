@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Kareah</span> was the father of Johanan and Jonathan, two military leaders who joined Gedaliah after the fall of Jerusalem to the Babylonians.
 - A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.25.23|2Ki.25.23]]; 
-- only referred to as Kareah<[[H7143]]> \(<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ח</span>ַ\); 
--  father of Johanan<[[H3110G]]>, Jonathan<[[H3129L]]>.
+- only referred to as Kareah **<big>[[H7143|קָרֵחַ]]</big>**; 
+-  father of Johanan **<big>[[H3110|יוֹחָנָן]]</big>**, Jonathan **<big>[[H3129|יוֹנָתָן]]</big>**.
 
 Kareah is mentioned in 2 Kings 25 and Jeremiah 40-43 as the father of Johanan and Jonathan, two military leaders who played a significant role in the events following the fall of Jerusalem to the Babylonians in 586 BC. 
 
@@ -19,8 +19,8 @@ Throughout these passages, Kareah is consistently mentioned as the father of Joh
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kareah (KJV= Careah) | [<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ח</span>ַ](H7143) <small>*Hebrew*</small> | 14x | [[2Ki.25.23] ... [Jer.43.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kareah\*\|reference=2Ki.25.23;Jer.40.8;Jer.40.13;Jer.40.15;Jer.40.16;Jer.41.11;Jer.41.13;Jer.41.14;Jer.41.16;Jer.42.1;Jer.42.8;Jer.43.2;Jer.43.4;Jer.43.5) |
-All Strong's for **Kareah**: \[[[H7143]]\]
+| Kareah (KJV= Careah) | [<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ח</span>ַ](H7143) | 14x | [[2Ki.25.23] ... [Jer.43.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kareah\*\|reference=2Ki.25.23;Jer.40.8;Jer.40.13;Jer.40.15;Jer.40.16;Jer.41.11;Jer.41.13;Jer.41.14;Jer.41.16;Jer.42.1;Jer.42.8;Jer.43.2;Jer.43.4;Jer.43.5) |
+All entries for **Kareah**:  **<big>[[H7143|קָרֵחַ]]</big>**
 #### Related Profiles:
 - **[Johanan](H3110G)** (child)
 - **[Jonathan](H3129L)** (child)

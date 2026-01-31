@@ -7,37 +7,37 @@ And her father said, I verily thought that thou hadst utterly hated her; therefo
 “I was sure that you thoroughly hated her,” said her father, “so I gave her to one of the men who accompanied you. Is not her younger sister more beautiful than she? Please take her instead.”<small><sub>**MT:**</sub></small>
 [[Judg.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.1|<< Judges 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.3|Judges 15:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In saying, | <big><span class="asgreek">ειπών</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| By detesting | <big><span class="asgreek">μισών</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| you detested | <big><span class="asgreek">εμίσησας</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your companion. | <big><span class="asgreek">συνεταίρω σου</span></big> <sup><small><small>[[G9317]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεωτέρα</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| better | <big><span class="asgreek">κρείσσων</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
-| \[than\] she | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Let her be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| instead | <big><span class="asgreek">ανθ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| of her! | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| In saying, | **<big>[[G2036\|ειπών]]</big>** |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| By detesting | **<big>[[G3404\|μισών]]</big>** |
+| you detested | **<big>[[G3404\|εμίσησας]]</big>** |
+| her; | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| your companion. | **<big>[[G9317\|συνεταίρω σου]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| sister | **<big>[[G0079\|αδελφή]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| younger | **<big>[[G3501\|νεωτέρα]]</big>** |
+| better | **<big>[[G2908\|κρείσσων]]</big>** |
+| \[than\] she | **<big>[[G1473\|αυτής]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| Let her be | **<big>[[G1510\|έστω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| instead | **<big>[[G0473\|ανθ΄]]</big>** |
+| of her! | **<big>[[G1473\|αυτής]]</big>** |
 [[Judg.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.1|<< Judges 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.3|Judges 15:3 >>]]</td></tr></table>
 
 

@@ -12,7 +12,7 @@ $\quad$ $\quad$ **b.** [[1Chr.8.18|1Chr 8:18]], [[BDB#Sept|ᵐ5]] <span class="b
 
 <span class="bdbLangHebrew">‎יְבוּס‎</span>, <span class="bdbLangHebrew">‎יְבוּסִי‎</span>, <span class="bdbLangHebrew">‎יְבֻסִי‎</span> see below <span class="bdbLangHebrew">‎בוס‎</span> above<span class="bdbLangHebrew">‎יִבְחָר‎</span> see below <span class="bdbLangHebrew">‎בחר‎</span> above<span class="bdbLangHebrew">‎יָבִין‎</span> see below <span class="bdbLangHebrew">‎בין‎</span> above
 
-<small>Also see: [[H3104]] | [[H3105]]</small>
+<small>Also see: **<big>[[H3104|יוֹבֵל]]</big>** | **<big>[[H3105|יוּבַל]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יוֺבָב‎</span> **proper name** see  <span class="bdbLangHebrew">‎יבב‎</span>; <span class="bdbLangHebrew">‎יוֺבֵל‎</span>, <span class="bdbLangHebrew">‎יוּבַל‎</span> see  <span class="bdbLangHebrew">‎יבל‎</span>. 
 

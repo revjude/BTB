@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֳאִי‎</span></big> **rŏʼîy** <small>*(ro-ee')*</small> ==**sight**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָאָה‎</span><sup><small>[[H7200]]</small></sup></small>
+**<big><span class="ashebrew">‎רֳאִי‎</span></big>** **rŏʼîy** <small>*(ro-ee')*</small> ==**sight**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7200|‎רָאָה‎]]</big>**</small>
 
 $\quad$ gazingstock, look to, (that) see(-th).
 - ***sight***, whether abstractly (vision) or concretely (a spectacle)

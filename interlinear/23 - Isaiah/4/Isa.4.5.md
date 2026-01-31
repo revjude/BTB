@@ -6,29 +6,29 @@ Then the LORD will create over all of Mount Zion and over her assemblies a cloud
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.4|<< Isaiah 4:4]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.6|Isaiah 4:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he will create  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>בָרָ֣א </big></span><small><small><sup>[[H1254A]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> va.Ra' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֡ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל֩ </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] place of  | <span class="ashebrew"><big>מְכ֨וֹן </big></span><small><small><sup>[[H4349]]</sup></small></small> &#8207;| me.Khon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֜וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and over  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| convocations its  | <span class="ashebrew"><big>מִקְרָאֶ֗ </big></span><small><small><sup>[[H4744]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| mik.ra.'E. <small><sup>[[HNcmsc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cloud  | <span class="ashebrew"><big>עָנָ֤ן </big></span><small><small><sup>[[H6051]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.Nan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by day  | <span class="ashebrew"><big>יוֹמָם֙ </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and smoke  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָשָׁ֔ן </big></span><small><small><sup>[[H6227]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Shan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and brightness of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נֹ֛גַהּ </big></span><small><small><sup>[[H5051]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> No.gah <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fire  | <span class="ashebrew"><big>אֵ֥שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a flame  | <span class="ashebrew"><big>לֶהָבָ֖ה </big></span><small><small><sup>[[H3852]]</sup></small></small> &#8207;| le.ha.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| night  | <span class="ashebrew"><big>לָ֑יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| La.ye.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] glory  | <span class="ashebrew"><big>כָּב֖וֹד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| ka.Vod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a canopy  | <span class="ashebrew"><big>חֻפָּֽה </big></span><small><small><sup>[[H2646]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chu.Pah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will create  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1254A\|בָרָ֣א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Ra'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֡ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל֩]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place of  |**<big>&#8207;[[H4349\|מְכ֨וֹן]]&#8207; </big>**| me.Khon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֜וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| convocations its  |**<big>&#8207;[[H4744\|מִקְרָאֶ֗]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| mik.ra.'E.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cloud  |**<big>&#8207;[[H6051\|עָנָ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  |**<big>&#8207;[[H3119\|יוֹמָם֙]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and smoke  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6227\|עָשָׁ֔ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and brightness of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5051\|נֹ֛גַהּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> No.gah<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  |**<big>&#8207;[[H0784\|אֵ֥שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a flame  |**<big>&#8207;[[H3852\|לֶהָבָ֖ה]]&#8207; </big>**| le.ha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night  |**<big>&#8207;[[H3915\|לָ֑יְלָה]]&#8207; </big>**| La.ye.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] glory  |**<big>&#8207;[[H3519\|כָּב֖וֹד]]&#8207; </big>**| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a canopy  |**<big>&#8207;[[H2646\|חֻפָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chu.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.4|<< Isaiah 4:4]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.6|Isaiah 4:6 >>]]</td></tr></table>
 
 

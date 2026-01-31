@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִיעֶזֵר‎</span></big> **ʼÎyʻezêr** <small>*(ee-eh'-zer)*</small> ==**Iezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אִי‎</span><sup><small>[[H0336]]</small></sup> and <span class="ashebrew">‎עֵזֶר‎</span><sup><small>[[H5828]]</small></sup>; helpless</small>
+**<big><span class="ashebrew">‎אִיעֶזֵר‎</span></big>** **ʼÎyʻezêr** <small>*(ee-eh'-zer)*</small> ==**Iezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0336|‎אִי‎]]</big>** and **<big>[[H5828|‎עֵזֶר‎]]</big>**; helpless</small>
 
 $\quad$ Jeezer.
 - § Jeezer = *"no help"*

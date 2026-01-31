@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jahzeiah</span>, along with three others, opposed Ezra's order for Israelites to divorce their foreign wives.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.15|Ezr.10.15]]; 
-- only referred to as Jahzeiah<[[H3167]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- a son of Tikvah<[[H8616H]]>.
+- only referred to as Jahzeiah **<big>[[H3167|יַחְזְיָה]]</big>**; 
+- a son of Tikvah **<big>[[H8616|תִּקְוָה]]</big>**.
 
 Jahzeiah, son of Tikvah, is mentioned only once in the Bible, in [[Ezra.10.15|Ezra 10:15]]. He was one of the four men who opposed Ezra's command for the Israelites to divorce their foreign wives. After the Babylonian exile, Ezra led a reform to purify the Jewish community by separating from foreign influences. As part of this reform, he ordered the men of Israel to divorce their foreign wives. 
 
@@ -13,7 +13,7 @@ Jahzeiah, along with Jonathan son of Asahel, Meshullam, and Shabbethai, stood ag
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahzeiah (KJV= Jahaziah) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3167) <small>*Hebrew*</small> | 1x | [Ezr.10.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahzeiah\*\|reference=Ezr.10.15) |
-All Strong's for **Jahzeiah**: \[[[H3167]]\]
+| Jahzeiah (KJV= Jahaziah) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3167) | 1x | [Ezr.10.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahzeiah\*\|reference=Ezr.10.15) |
+All entries for **Jahzeiah**:  **<big>[[H3167|יַחְזְיָה]]</big>**
 #### Related Profiles:
 - **[Tikvah](H8616H)** (father)

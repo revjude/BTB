@@ -7,26 +7,26 @@ And they shall be broken in the purposes thereof, all that make sluices [and] po
 The workers in cloth will be dejected, and all the hired workers will be sick at heart.<small><sub>**MT:**</sub></small>
 [[Isa.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.9|<< Isaiah 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.11|Isaiah 19:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones working | <big><span class="asgreek">εργαζόμενοι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| grief; | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beer | <big><span class="asgreek">ζύθον</span></big> <sup><small><small>[[G7606]]</small></small></sup> |
-| shall be fretful; | <big><span class="asgreek">λυπηθήσονται</span></big> <sup><small><small>[[G3076]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| shall cause pain. | <big><span class="asgreek">πονέσουσι</span></big> <sup><small><small>[[G8862]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones working | **<big>[[G2038\|εργαζόμενοι]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| grief; | **<big>[[G3601\|οδύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| making | **<big>[[G4160\|ποιούντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| beer | **<big>[[G7606\|ζύθον]]</big>** |
+| shall be fretful; | **<big>[[G3076\|λυπηθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| souls | **<big>[[G5590\|ψυχάς]]</big>** |
+| shall cause pain. | **<big>[[G8862\|πονέσουσι]]</big>** |
 [[Isa.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.9|<< Isaiah 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.11|Isaiah 19:11 >>]]</td></tr></table>
 
 

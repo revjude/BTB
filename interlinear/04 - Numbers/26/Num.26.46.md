@@ -6,12 +6,12 @@ And the name of Asher’s daughter was Serah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.45|<< Numbers 26:45]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.47|Numbers 26:47 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] name of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֥ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Asher  | <span class="ashebrew"><big>אָשֵׁ֖ר </big></span><small><small><sup>[[H0836]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Serah  | <span class="ashebrew"><big>שָֽׂרַח </big></span><small><small><sup>[[H8294]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sa.rach <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asher  |**<big>&#8207;[[H0836\|אָשֵׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Serah  |**<big>&#8207;[[H8294\|שָֽׂרַח]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sa.rach<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.45|<< Numbers 26:45]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.47|Numbers 26:47 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּכְרִי‎</span></big> **Bikrîy** <small>*(bik-ree')*</small> ==**Bichri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּכַר‎</span><sup><small>[[H1069]]</small></sup>; youth-ful</small>
+**<big><span class="ashebrew">‎בִּכְרִי‎</span></big>** **Bikrîy** <small>*(bik-ree')*</small> ==**Bichri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1069|‎בָּכַר‎]]</big>**; youth-ful</small>
 
 $\quad$ Bichri.
 - § Bichri = *"youthful"*

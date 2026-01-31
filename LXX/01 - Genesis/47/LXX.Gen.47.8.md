@@ -7,18 +7,18 @@ And Pharaoh said unto Jacob, How old [art] thou?
 “How many years have you lived?” Pharaoh asked.<small><sub>**MT:**</sub></small>
 [[Gen.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.7|<< Genesis 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.9|Genesis 47:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| How many \[are the\] | <big><span class="asgreek">πόσα</span></big> <sup><small><small>[[G4214]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your life? | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| How many \[are the\] | **<big>[[G4214\|πόσα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| of days | **<big>[[G2250\|ημερών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your life? | **<big>[[G2222\|ζωής]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.7|<< Genesis 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.9|Genesis 47:9 >>]]</td></tr></table>
 
 

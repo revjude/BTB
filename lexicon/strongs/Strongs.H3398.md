@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יַרְחָע‎</span></big> **Yarchâʻ** <small>*(yar-khaw')*</small> ==**Jarha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎יַרְחָע‎</span></big>** **Yarchâʻ** <small>*(yar-khaw')*</small> ==**Jarha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of Egyptian origin</small>
 
 $\quad$ Jarha.

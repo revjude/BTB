@@ -1,9 +1,7 @@
-<span class="ashebrew">‎בַּלְעִי‎</span> <small>***(bal.i)***</small> ==**Belaite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H1106A]]</small> 
+<small>group of:</small> <small>**<big>[[H1106A|בֶּלַע]]</big>**</small> 
 
 - Someone descended from Bela who was a man of the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]
--  son of: Benjamin ([[H1144]])
--  brother of: Becher ([[H1071]]), Ashbel ([[H0788]]), Gera ([[H1617]]), Naaman ([[H5283]]), Ehi ([[H0278]]), Rosh ([[H7220]]), Muppim ([[H4649]]), Huppim ([[H2650H]]), Ard ([[H0714]]), Ahiram ([[H0297]]) and Jediael ([[H3043]])
--  father of: Ard ([[H0714H]]), Naaman ([[H5283H]]), Ezbon ([[H0675H]]), Uzzi ([[H5813I]]), Uzziel ([[H5816I]]), Jerimoth ([[H3406]]), Iri ([[H5901]]), Addar ([[H0146H]]), Gera ([[H1617I]]), Abihud ([[H0031]]), Abishua ([[H0050H]]) and Ahoah ([[H0265]])
-- Group of <i>be.la</i> (<span class='ashebrew'>‎ב‎</span>ֶּ֫<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ע‎</span> "Bela" [[H1106A]])
-
+-  son of: Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  brother of: Becher (**<big>[[H1071|בֶכֶר]]</big>**), Ashbel (**<big>[[H0788|אַשְׁבֵּל]]</big>**), Gera (**<big>[[H1617|גֵּרָא]]</big>**), Naaman (**<big>[[H5283|נַעֲמָן]]</big>**), Ehi (**<big>[[H0278|אֵחִי]]</big>**), Rosh (**<big>[[H7220|רֹאשׁ]]</big>**), Muppim (**<big>[[H4649|מֻפִּים]]</big>**), Huppim (**<big>[[H2650H|חֻפִּים]]</big>**), Ard (**<big>[[H0714|אַרְדְּ]]</big>**), Ahiram (**<big>[[H0297|אֲחִירָם]]</big>**) and Jediael (**<big>[[H3043|יְדִיעֲאֵל]]</big>**)
+-  father of: Ard (**<big>[[H0714H|אַרְדְּ]]</big>**), Naaman (**<big>[[H5283H|נַעֲמָן]]</big>**), Ezbon (**<big>[[H0675H|אֶצְבּוֹן]]</big>**), Uzzi (**<big>[[H5813I|עֻזִּי]]</big>**), Uzziel (**<big>[[H5816I|עֻזִּיאֵל]]</big>**), Jerimoth (**<big>[[H3406|יְרִימוֹת]]</big>**), Iri (**<big>[[H5901|עִירִי]]</big>**), Addar (**<big>[[H0146H|אַדָּר]]</big>**), Gera (**<big>[[H1617I|גֵּרָא]]</big>**), Abihud (**<big>[[H0031|אֲבִיהוּד]]</big>**), Abishua (**<big>[[H0050H|אֲבִישׁוּעַ]]</big>**) and Ahoah (**<big>[[H0265|אֲחוֹחַ]]</big>**)
+- Group of <i>be.la</i> (<span class='ashebrew'>‎ב‎</span>ֶּ֫<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ע‎</span> "Bela" **<big>[[H1106A|בֶּלַע]]</big>**)

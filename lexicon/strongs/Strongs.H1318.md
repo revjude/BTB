@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּשַׁס‎</span></big> **bâshaç** <small>*(baw-shas')*</small> ==**to trample**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּשַׁס‎</span></big>** **bâshaç** <small>*(baw-shas')*</small> ==**to trample**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ tread.

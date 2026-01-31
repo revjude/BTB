@@ -7,21 +7,21 @@ Let not thine heart envy sinners: but [be thou] in the fear of the LORD all the 
 Do not let your heart envy sinners, but always continue in the fear of the LORD.<small><sub>**MT:**</sub></small>
 [[Prov.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.16|<< Proverbs 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.18|Proverbs 23:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be jealous | <big><span class="asgreek">ζηλούτω</span></big> <sup><small><small>[[G2206]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of sinners, | <big><span class="asgreek">αμαρτωλούς</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] fear | <big><span class="asgreek">φόβω</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| be | <big><span class="asgreek">ίσθι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] whole | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day! | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| be jealous | **<big>[[G2206\|ζηλούτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of sinners, | **<big>[[G0268\|αμαρτωλούς]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] fear | **<big>[[G5401\|φόβω]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| be | **<big>[[G1510\|ίσθι]]</big>** |
+| \[the\] whole | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day! | **<big>[[G2250\|ημέραν]]</big>** |
 [[Prov.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.16|<< Proverbs 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.18|Proverbs 23:18 >>]]</td></tr></table>
 
 

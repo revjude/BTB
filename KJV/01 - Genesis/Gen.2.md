@@ -23,7 +23,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.2.18|18]]**<span class="e
 
 [^4]: [[Gen.1|Gen 1:31]]; [[Exod.20|Exod 20:11]], [[Exod.23|Exod 23:12]], [[Exod.31|Exod 31:17]]; [[Deut.5|Deut 5:14]]; [[Isa.58|Isa 58:13]]; [[John.5|John 5:17]]; [[Heb.4|Heb 4:4]]
 
-[^5]: The LXX, Syriac, and the Samaritan Text read the sixth day, which is probably the true reading; as <span class="asgreek"><span class='asgreek'>ε</span></span> (<span class="ashebrew">‎וָו‎</span><sup><small>[[H2053]]</small></sup>), which stands for six, might easily be changed into <span class="asgreek"><span class='asgreek'>ζ</span></span>, which denotes seven.
+[^5]: The LXX, Syriac, and the Samaritan Text read the sixth day, which is probably the true reading; as <span class="asgreek"><span class='asgreek'>ε</span></span> ( [[H2053|‎וָו‎]] ), which stands for six, might easily be changed into <span class="asgreek"><span class='asgreek'>ζ</span></span>, which denotes seven.
 
 [^6]: Or, rather, ceased, as the Hebrew word is not opposed to weariness, but to action; as the Divine Being can neither know fatigue, nor stand in need of rest.
 

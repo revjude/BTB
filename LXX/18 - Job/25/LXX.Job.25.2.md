@@ -7,20 +7,20 @@ Dominion and fear [are] with him, he maketh peace in his high places.
 “Dominion and awe belong to God; He establishes harmony in the heights of heaven.<small><sub>**MT:**</sub></small>
 [[Job.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.1|<< Job 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.3|Job 25:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| retort | <big><span class="asgreek">προοίμιον</span></big> <sup><small><small>[[G8904]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| is | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| his -- | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one making | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all things | <big><span class="asgreek">σύμπασαν</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] highest? | <big><span class="asgreek">υψίστω</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
+| For what | **<big>[[G5100\|τι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| retort | **<big>[[G8904\|προοίμιον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| fear | **<big>[[G5401\|φόβος]]</big>** |
+| is | **<big>[[G3844\|παρ΄]]</big>** |
+| his -- | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one making | **<big>[[G4160\|ποιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| all things | **<big>[[G9270\|σύμπασαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] highest? | **<big>[[G5310\|υψίστω]]</big>** |
 [[Job.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.1|<< Job 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.3|Job 25:3 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ But the field, when it goeth out in the jubile, shall be holy unto the LORD, as 
 When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it becomes the property of the priests.<small><sub>**MT:**</sub></small>
 [[Lev.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.20|<< Leviticus 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.22|Leviticus 27:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρός</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">εξεληλυθύιας</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| release | <big><span class="asgreek">αφέσεως</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being separated; | <big><span class="asgreek">αφωρισμένη</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| his possession. | <big><span class="asgreek">κατάσχεσις</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| field | **<big>[[G0068\|αγρός]]</big>** |
+| coming forth | **<big>[[G1831\|εξεληλυθύιας]]</big>** |
+| from the | **<big>[[G3588\|της]]</big>** |
+| release | **<big>[[G0859\|αφέσεως]]</big>** |
+| holy | **<big>[[G0039\|άγιος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| being separated; | **<big>[[G0873\|αφωρισμένη]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| priest | **<big>[[G2409\|ιερεί]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| his possession. | **<big>[[G2697\|κατάσχεσις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.20|<< Leviticus 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.22|Leviticus 27:22 >>]]</td></tr></table>
 
 

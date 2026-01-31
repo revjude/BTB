@@ -1,4 +1,4 @@
-<small>Also see: [[H1775]] | [[H1776]]</small>
+<small>Also see: **<big>[[H1775|דִּימוֹן]]</big>** | **<big>[[H1776|דִּימוֹנָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎דִּיבֹן‎</span>, <span class="bdbLangHebrew">‎דִּיבוֺן‎</span> **proper name, of a location** — 
 

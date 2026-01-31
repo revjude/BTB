@@ -6,19 +6,19 @@ On the day of the New Moon he shall offer a young, unblemished bull, six lambs, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.5|<< Ezekiel 46:5]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.7|Ezekiel 46:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and on [the] day of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the new moon  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חֹ֔דֶשׁ </big></span><small><small><sup>[[H2320H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Cho.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a young bull  | <span class="ashebrew"><big>פַּ֥ר </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| par <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a young one of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cattle  | <span class="ashebrew"><big>בָּקָ֖ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unblemished  | <span class="ashebrew"><big>תְּמִימִ֑ם </big></span><small><small><sup>[[H8549G]]</sup></small></small> &#8207;| te.mi.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and six  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֧שֶׁת </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lambs  | <span class="ashebrew"><big>כְּבָשִׂ֛ם </big></span><small><small><sup>[[H3532]]</sup></small></small> &#8207;| ke.va.Sim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a ram  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֖יִל </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'A.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unblemished  | <span class="ashebrew"><big>תְּמִימִ֥ם </big></span><small><small><sup>[[H8549G]]</sup></small></small> &#8207;| te.mi.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>יִהְיֽוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on [the] day of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the new moon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2320H\|חֹ֔דֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young bull  |**<big>&#8207;[[H6499\|פַּ֥ר]]&#8207; </big>**| par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young one of  |**<big>&#8207;[[H1121H\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  |**<big>&#8207;[[H1241\|בָּקָ֖ר]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unblemished  |**<big>&#8207;[[H8549G\|תְּמִימִ֑ם]]&#8207; </big>**| te.mi.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שֵׁ֧שֶׁת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  |**<big>&#8207;[[H3532\|כְּבָשִׂ֛ם]]&#8207; </big>**| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a ram  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0352A\|אַ֖יִל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unblemished  |**<big>&#8207;[[H8549G\|תְּמִימִ֥ם]]&#8207; </big>**| te.mi.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|יִהְיֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.5|<< Ezekiel 46:5]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.7|Ezekiel 46:7 >>]]</td></tr></table>
 
 

@@ -6,22 +6,22 @@ This is the service of the Merarite clans according to all their work at the Ten
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.32|<< Numbers 4:32]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.34|Numbers 4:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֹ֣את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] service of  | <span class="ashebrew"><big>עֲבֹדַ֗ת </big></span><small><small><sup>[[H5656H]]</sup></small></small> &#8207;| 'a.vo.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] clans of  | <span class="ashebrew"><big>מִשְׁפְּחֹת֙ </big></span><small><small><sup>[[H4940]]</sup></small></small> &#8207;| mish.pe.Chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Merari  | <span class="ashebrew"><big>מְרָרִ֔י </big></span><small><small><sup>[[H4847]]</sup></small></small> &#8207;| me.ra.Ri <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to all  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| service their  | <span class="ashebrew"><big>עֲבֹדָתָ֖ </big></span><small><small><sup>[[H5656H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'a.vo.da.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] tent of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֹ֣הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meeting  | <span class="ashebrew"><big>מוֹעֵ֑ד </big></span><small><small><sup>[[H4150I]]</sup></small></small> &#8207;| mo.'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] hand of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יַד֙ </big></span><small><small><sup>[[H3027H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yad <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ithamar  | <span class="ashebrew"><big>אִֽיתָמָ֔ר </big></span><small><small><sup>[[H0385]]</sup></small></small> &#8207;| 'i.ta.Mar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּֽן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aaron  | <span class="ashebrew"><big>אַהֲרֹ֖ן </big></span><small><small><sup>[[H0175]]</sup></small></small> &#8207;| 'a.ha.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the priest  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֵֽן </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.Hen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] service of  |**<big>&#8207;[[H5656H\|עֲבֹדַ֗ת]]&#8207; </big>**| 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹת֙]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Merari  |**<big>&#8207;[[H4847\|מְרָרִ֔י]]&#8207; </big>**| me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| service their  |**<big>&#8207;[[H5656H\|עֲבֹדָתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'a.vo.da.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  |**<big>&#8207;[[H4150I\|מוֹעֵ֑ד]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַד֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ithamar  |**<big>&#8207;[[H0385\|אִֽיתָמָ֔ר]]&#8207; </big>**| 'i.ta.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֖ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.32|<< Numbers 4:32]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.34|Numbers 4:34 >>]]</td></tr></table>
 
 

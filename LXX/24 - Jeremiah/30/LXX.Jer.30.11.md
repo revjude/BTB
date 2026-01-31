@@ -7,42 +7,42 @@ For I [am] with thee, saith the LORD, to save thee: though I make a full end of 
 For I am with you to save you, declares the LORD. Though I will completely destroy all the nations to which I have scattered you, I will not completely destroy you. Yet I will discipline you justly, and will by no means leave you unpunished.”<small><sub>**MT:**</sub></small>
 [[Jer.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.10|<< Jeremiah 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.12|Jeremiah 30:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώζειν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For I shall appoint | <big><span class="asgreek">ποιήσω γαρ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a consumation | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I scattered | <big><span class="asgreek">διέσπειρά</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| will I appoint | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| consumation. | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| I shall correct | <big><span class="asgreek">παιδεύσω</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cleansing | <big><span class="asgreek">καθαρίζων</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I shall cleanse | <big><span class="asgreek">καθαριώ</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| I am | **<big>[[G1510\|ειμί]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G4982\|σώζειν]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| For I shall appoint | **<big>[[G4160\|ποιήσω γαρ]]</big>** |
+| a consumation | **<big>[[G4930\|συντέλειαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| I scattered | **<big>[[G1289\|διέσπειρά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| but you | **<big>[[G1473\|σε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| will I appoint | **<big>[[G4160\|ποιήσω]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| consumation. | **<big>[[G4930\|συντέλειαν]]</big>** |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| I shall correct | **<big>[[G3811\|παιδεύσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| equity | **<big>[[G2920\|κρίσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cleansing | **<big>[[G2511\|καθαρίζων]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| I shall cleanse | **<big>[[G2511\|καθαριώ]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Jer.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.10|<< Jeremiah 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.12|Jeremiah 30:12 >>]]</td></tr></table>
 
 

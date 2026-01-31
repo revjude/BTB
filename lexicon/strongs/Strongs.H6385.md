@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּלַג‎</span></big> **pâlag** <small>*(paw-lag')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּלַג‎</span></big>** **pâlag** <small>*(paw-lag')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ divide.
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Piel)
 $\quad$ $\quad$ **1b1)** to split, cleave
 $\quad$ $\quad$ **1b2)** to divide
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαμερίζω</span><sup><small>[[G1266]]</small></sup>
+<small>See Greek: </small>**<big>[[G1266|διαμερίζω]]</big>**

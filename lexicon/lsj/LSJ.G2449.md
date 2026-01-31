@@ -1,4 +1,4 @@
-Greek of: <small>[[H3063N]]</small> 
+Greek of: <small>**<big>[[H3063N|יְהוּדָה]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἰουδαία==</span></b>, <span class='asgreek'>ὁ</span>, 

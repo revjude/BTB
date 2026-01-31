@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָדוֹן‎</span></big> **Mâdôwn** <small>*(maw-dohn')*</small> ==**Madon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מָדוֹן‎</span><sup><small>[[H4067]]</small></sup></small>
+**<big><span class="ashebrew">‎מָדוֹן‎</span></big>** **Mâdôwn** <small>*(maw-dohn')*</small> ==**Madon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H4067|‎מָדוֹן‎]]</big>**</small>
 
 $\quad$ Madon.
 - § Madon = *"strife"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁמָּא‎</span></big> **Shammâʼ** <small>*(sham-maw')*</small> ==**Shammah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁמֵם‎</span><sup><small>[[H8074]]</small></sup>; desolation</small>
+**<big><span class="ashebrew">‎שַׁמָּא‎</span></big>** **Shammâʼ** <small>*(sham-maw')*</small> ==**Shammah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8074|‎שָׁמֵם‎]]</big>**; desolation</small>
 
 $\quad$ Shamma.
 - § Shamma = *"desert"*

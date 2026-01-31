@@ -1,6 +1,5 @@
-<span class="ashebrew">‎שֶׁלֶמְיָהוּ‎</span> <small>***(she.lem.yah)***</small> ==**Shelemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H4920]]</small> 
+<small>name of:</small> <small>**<big>[[H4920|מְשֶׁלֶמְיָה]]</big>**</small> 
 
 - A man of the tribe of Levi  living at the time of Exile and Return, first mentioned at [[1Chr.9.21|1Ch.9.21]]
--  father of: Zechariah ([[H2148A]]), Jediael ([[H3043J]]), Zebadiah ([[H2069J]]), Jathniel ([[H3496]]), Elam ([[H5867H]]), Jehohanan ([[H3076I]]) and Eliehoenai ([[H0454A]]); also called Shelemiah at [[1Chr.26.14|1Ch.26.14]]
-- Another name of <i>me.she.lem.yah</i> (<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎ש‎</span>ֶׁ<span class='ashebrew'>‎ל‎</span>ֶ<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎הו‎</span>ּ "Meshelemiah" [[H4920]])
+-  father of: Zechariah (**<big>[[H2148A|זְכַרְיָה]]</big>**), Jediael (**<big>[[H3043J|יְדִיעֲאֵל]]</big>**), Zebadiah (**<big>[[H2069J|זְבַדְיָה]]</big>**), Jathniel (**<big>[[H3496|יַתְנִיאֵל]]</big>**), Elam (**<big>[[H5867H|עֵילָם]]</big>**), Jehohanan (**<big>[[H3076I|יְהוֹחָנָן]]</big>**) and Eliehoenai (**<big>[[H0454A|אֶלְיְהוֹעֵינַי]]</big>**); also called Shelemiah at [[1Chr.26.14|1Ch.26.14]]
+- Another name of <i>me.she.lem.yah</i> (<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎ש‎</span>ֶׁ<span class='ashebrew'>‎ל‎</span>ֶ<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎הו‎</span>ּ "Meshelemiah" **<big>[[H4920|מְשֶׁלֶמְיָה]]</big>**)

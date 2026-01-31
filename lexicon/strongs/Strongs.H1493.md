@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גִּזוֹנִי‎</span></big> **Gizôwnîy** <small>*(ghee-zo-nee')*</small> ==**Gizonite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎גִּזוֹנִי‎</span></big>** **Gizôwnîy** <small>*(ghee-zo-nee')*</small> ==**Gizonite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>patrial from the unused name of a place apparently in Palestine</small>
 
 $\quad$ Gizonite.

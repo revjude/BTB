@@ -1,9 +1,7 @@
-<span class="asaramaic">‎יִשְׂרָאֵל‎</span> <small>***(yis.ra.el)***</small> ==**Israel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-Aramaic of: <small>[[H3478]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3478|יִשְׂרָאֵל]]</big>**</small> 
 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.25.26|Gen.25.26]]
--  son of: Isaac ([[H3327]]) and Rebekah ([[H7259]])
--  brother of: Esau ([[H6215]]); married to Rachel ([[H7354]]), Leah ([[H3812]]), Zilpah ([[H2153]]) and Bilhah ([[H1090A]])
--  father of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Issachar ([[H3485]]), Zebulun ([[H2074]]), Dinah ([[H1783]]), Joseph ([[H3130]]) and Benjamin ([[H1144]]); also called Jacob frequently
-- Aramaic of <i>yis.ra.el</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎ש‎</span>ְׂ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "Israel" [[H3478]])
-
+-  son of: Isaac (**<big>[[H3327|יִצְחָק]]</big>**) and Rebekah (**<big>[[H7259|רִבְקָה]]</big>**)
+-  brother of: Esau (**<big>[[H6215|עֵשָׂו]]</big>**); married to Rachel (**<big>[[H7354|רָחֵל]]</big>**), Leah (**<big>[[H3812|לֵאָה]]</big>**), Zilpah (**<big>[[H2153|זִלְפָּה]]</big>**) and Bilhah (**<big>[[H1090A|בִּלְהָה]]</big>**)
+-  father of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**), Dinah (**<big>[[H1783|דִּינָה]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**); also called Jacob frequently
+- Aramaic of <i>yis.ra.el</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎ש‎</span>ְׂ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "Israel" **<big>[[H3478|יִשְׂרָאֵל]]</big>**)

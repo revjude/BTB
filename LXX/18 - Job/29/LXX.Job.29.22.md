@@ -7,18 +7,18 @@ After my words they spake not again; and my speech dropped upon them.
 After my words, they spoke no more; my speech settled on them like dew.<small><sub>**MT:**</sub></small>
 [[Job.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.21|<< Job 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.23|Job 29:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| At | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my | <big><span class="asgreek">εμώ</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήματι</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| they proceeded not; | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">προσέθεντο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| overjoyed | <big><span class="asgreek">περιχαρείς</span></big> <sup><small><small>[[G8774]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγίνοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| when | <big><span class="asgreek">οπόταν</span></big> <sup><small><small>[[G3698]]</small></small></sup> |
-| I spoke to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ελάλουν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| At | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my | **<big>[[G1699\|εμώ]]</big>** |
+| word | **<big>[[G4487\|ρήματι]]</big>** |
+| they proceeded not; | **<big>[[G3756\|ου]]</big>** **<big>[[G4369\|προσέθεντο]]</big>** |
+| overjoyed | **<big>[[G8774\|περιχαρείς]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| they became | **<big>[[G1096\|εγίνοντο]]</big>** |
+| when | **<big>[[G3698\|οπόταν]]</big>** |
+| I spoke to them. | **<big>[[G1473\|αυτοίς]]</big>** **<big>[[G2980\|ελάλουν]]</big>** |
 [[Job.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.21|<< Job 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.23|Job 29:23 >>]]</td></tr></table>
 
 

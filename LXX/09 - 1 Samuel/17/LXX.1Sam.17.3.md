@@ -7,27 +7,27 @@ And the Philistines stood on a mountain on the one side, and Israel stood on a m
 The Philistines stood on one hill and the Israelites stood on another, with the valley between them.<small><sub>**MT:**</sub></small>
 [[1Sam.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.2|<< 1 Samuel 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.4|1 Samuel 17:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| stood | <big><span class="asgreek">ίστανται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| here \[on that side\]. | <big><span class="asgreek">ενταύθα</span></big> <sup><small><small>[[G7263]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| stood | <big><span class="asgreek">ίσταται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| here \[on this side\], | <big><span class="asgreek">ενταύθα</span></big> <sup><small><small>[[G7263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| canyon | <big><span class="asgreek">αυλών</span></big> <sup><small><small>[[G6605]]</small></small></sup> |
-| \[was\] between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| stood | **<big>[[G2476\|ίστανται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain | **<big>[[G3735\|όρους]]</big>** |
+| here \[on that side\]. | **<big>[[G7263\|ενταύθα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| stood | **<big>[[G2476\|ίσταται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| mountain | **<big>[[G3735\|όρους]]</big>** |
+| here \[on this side\], | **<big>[[G7263\|ενταύθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| canyon | **<big>[[G6605\|αυλών]]</big>** |
+| \[was\] between | **<big>[[G6271\|αναμέσον]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[1Sam.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.2|<< 1 Samuel 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.4|1 Samuel 17:4 >>]]</td></tr></table>
 
 

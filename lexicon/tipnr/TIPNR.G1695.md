@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Emmaus</span>, a village approximately seven miles from Jerusalem, where Jesus appeared to two disciples after His resurrection.
 - A location only mentioned at [[Luke.24.13|Luk.24.13]]; 
-- only referred to as Emmaus<[[G1695]]> \(<span class='tipnrLangGreek'>Ἐμμαούς</span>\).
+- only referred to as Emmaus **<big>[[G1695|Ἐμμαούς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.83945022372554,34.9895293285359&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Emmaus was a village located about seven miles \(sixty stadia\) from Jerusalem \
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Emmaus | [<span class='tipnrLangGreek'>Ἐμμαούς</span>](G1695) <small>*Greek*</small> | 1x | [Luk.24.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Emmaus\*\|reference=Luk.24.13) |
-All Strong's for **Emmaus**: \[[[G1695]]\]
+| Emmaus | [<span class='tipnrLangGreek'>Ἐμμαούς</span>](G1695) | 1x | [Luk.24.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Emmaus\*\|reference=Luk.24.13) |
+All entries for **Emmaus**:  **<big>[[G1695|Ἐμμαούς]]</big>**

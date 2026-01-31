@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַחַת‎</span></big> **Nachath** <small>*(nakh'-ath)*</small> ==**Nahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נַחַת‎</span><sup><small>[[H5183]]</small></sup>; quiet</small>
+**<big><span class="ashebrew">‎נַחַת‎</span></big>** **Nachath** <small>*(nakh'-ath)*</small> ==**Nahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5183|‎נַחַת‎]]</big>**; quiet</small>
 
 $\quad$ Nahath.
 - § Nahath = *"rest"*

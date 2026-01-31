@@ -7,29 +7,29 @@ For because thou hast trusted in thy works and in thy treasures, thou shalt also
 Because you trust in your works and treasures, you too will be captured, and Chemosh will go into exile with his priests and officials.<small><sub>**MT:**</sub></small>
 [[Jer.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.6|<< Jeremiah 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.8|Jeremiah 48:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Since | <big><span class="asgreek">επειδή</span></big> <sup><small><small>[[G1894]]</small></small></sup> |
-| you had relied | <big><span class="asgreek">επεποίθεις</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your fortresses | <big><span class="asgreek">οχυρώμασί</span></big> <sup><small><small>[[G3794]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your treasures, | <big><span class="asgreek">θησαυροίς</span></big> <sup><small><small>[[G2344]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be seized. | <big><span class="asgreek">συλληφθήση</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Chemosh shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">Χαμώς</span></big> <sup><small><small>[[H3645]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| resettlement -- | <big><span class="asgreek">αποικία</span></big> <sup><small><small>[[G6430]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| together. | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| Since | **<big>[[G1894\|επειδή]]</big>** |
+| you had relied | **<big>[[G3982\|επεποίθεις]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| your fortresses | **<big>[[G3794\|οχυρώμασί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your treasures, | **<big>[[G2344\|θησαυροίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall be seized. | **<big>[[G4815\|συλληφθήση]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Chemosh shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** **<big>[[H3645\|Χαμώς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| resettlement -- | **<big>[[G6430\|αποικία]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his priests | **<big>[[G2409\|ιερείς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| together. | **<big>[[G0260\|άμα]]</big>** |
 [[Jer.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.6|<< Jeremiah 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.8|Jeremiah 48:8 >>]]</td></tr></table>
 
 

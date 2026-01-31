@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּמָה‎</span></big> **dâmâh** <small>*(daw-mam')*</small> ==**to cease**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דָּמָה‎</span></big>** **dâmâh** <small>*(daw-mam')*</small> ==**to cease**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cease, be cut down (off), destroy, be brought to silence, be undone, [idiom] utterly.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁמַעַת‎</span></big> **mishmaʻath** <small>*(mish-mah'-ath)*</small> ==**guard**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מִשְׁמָע‎</span><sup><small>[[H4926]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁמַעַת‎</span></big>** **mishmaʻath** <small>*(mish-mah'-ath)*</small> ==**guard**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4926|‎מִשְׁמָע‎]]</big>**</small>
 
 $\quad$ bidding, guard, obey.
 - ***audience***, i.e. the royal ***court***

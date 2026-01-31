@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֹשֶׁן‎</span></big> **chôshen** <small>*(kho'-shen)*</small> ==**breastpiece**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֹשֶׁן‎</span></big>** **chôshen** <small>*(kho'-shen)*</small> ==**breastpiece**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning to contain or sparkle</small>
 
 $\quad$ breastplate.
@@ -7,4 +7,4 @@ $\quad$ breastplate.
 **1)** breastplate, breastpiece
 $\quad$ **1a)** sacred pouch of the high priest designed to hold the Urim and Thummim
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποδήρης</span><sup><small>[[G4158]]</small></sup>
+<small>See Greek: </small>**<big>[[G4158|ποδήρης]]</big>**

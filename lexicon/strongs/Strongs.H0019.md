@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אִבְחָה‎</span></big> **ʼibchâh** <small>*(ib-khaw')*</small> ==**slaughter**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎אִבְחָה‎</span></big>** **ʼibchâh** <small>*(ib-khaw')*</small> ==**slaughter**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root (apparently meaning to turn)</small>
 
 $\quad$ point.

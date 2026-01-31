@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎אֲנָא‎</span></big> **ʼănâʼ** <small>*(an-aw')*</small> ==**me**==  <sup><small>[[TEHMC#A:PerP-CS|A:PerP-CS]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">אֲנָה</span> **ʼănâh** <small>*(an-aw')*</small>; (Aramaic), corresponding to <span class="ashebrew">‎אֲנִי‎</span><sup><small>[[H0589]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲנָא‎</span></big>** **ʼănâʼ** <small>*(an-aw')*</small> ==**me**==  <sup><small>[[TEHMC#A:PerP-CS|A:PerP-CS]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">אֲנָה</span></big>** **ʼănâh** <small>*(an-aw')*</small>; (Aramaic), corresponding to **<big>[[H0589|‎אֲנִי‎]]</big>**</small>
 
 $\quad$ I, as for me.
 - ***I***
 
 **1)** I (first pers. sing. -usually used for emphasis)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἰδού</span><sup><small>[[G2400]]</small></sup>
+<small>See Greek: </small>**<big>[[G2400|ἰδού]]</big>**

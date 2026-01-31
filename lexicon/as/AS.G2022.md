@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-χέω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">יָצַק</span> <small><sup>[[H3332]]</sup></small>. [[LXX.Gen.28.18|Ge 28:18]], al. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-χέω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H3332|יָצַק]]</big>**. [[LXX.Gen.28.18|Ge 28:18]], al. ;\]</span> </span>
 <span class="asitalic">to pour upon</span>: [[Luke.10.34|Lk 10:34]].†
 
 **Abbott-Smith References**

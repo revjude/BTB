@@ -7,32 +7,32 @@ What hast thou here? and whom hast thou here, that thou hast hewed thee out a se
 What are you doing here, and who authorized you to carve out a tomb for yourself here—to chisel your tomb in the height and cut your resting place in the rock?<small><sub>**MT:**</sub></small>
 [[Isa.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.15|<< Isaiah 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.17|Isaiah 22:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| are you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| here? | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is there to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| here? | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you quarried | <big><span class="asgreek">ελατόμησας</span></big> <sup><small><small>[[G2998]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| a memorial, | <big><span class="asgreek">μνημείον</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a high \[place\] | <big><span class="asgreek">υψηλώ</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| a memorial, | <big><span class="asgreek">μνημείον</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| depicted | <big><span class="asgreek">έγραψας</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] rock | <big><span class="asgreek">πέτρα</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| a dwelling | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| Why | **<big>[[G5100\|τι]]</big>** |
+| are you | **<big>[[G1473\|συ]]</big>** |
+| here? | **<big>[[G5602\|ώδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| is there to you | **<big>[[G1473\|σοι]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| here? | **<big>[[G5602\|ώδε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you quarried | **<big>[[G2998\|ελατόμησας]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| a memorial, | **<big>[[G3419\|μνημείον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| made | **<big>[[G4160\|εποίησας]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a high \[place\] | **<big>[[G5308\|υψηλώ]]</big>** |
+| a memorial, | **<big>[[G3419\|μνημείον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| depicted | **<big>[[G1125\|έγραψας]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] rock | **<big>[[G4073\|πέτρα]]</big>** |
+| a dwelling | **<big>[[G4633\|σκηνήν]]</big>** |
 [[Isa.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.15|<< Isaiah 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.17|Isaiah 22:17 >>]]</td></tr></table>
 
 

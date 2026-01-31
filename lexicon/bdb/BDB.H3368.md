@@ -13,7 +13,7 @@ $\quad$ $\quad$ **c.** <span class="bdbLangHebrew">‎אֶבֶן יְקָרָה�
 
 
 
-<small>Also see: [[H7087]]</small>
+<small>Also see: **<big>[[H7087|קָפָא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎קִפָּאוֺן‎</span> **noun [masculine]** ==congelation==; — [[Zech.14.6|Zech 14:6]] [[BDB#Qr|Qr]] [ &gt; [[BDB#Kt|Kt]] see √ **Qal** ***Imperfect***], so [[BDB#Sept|ᵐ5]] [[BDB#Syr|ᵑ6]] [[BDB#Symm|Symm]] [[BDB#We|We]] [[BDB#Now|Now]] (with other change, but see [[BDB#GASm|GASm]]), see  <span class="bdbLangHebrew">‎יָקָר‎</span>. p 429 
 

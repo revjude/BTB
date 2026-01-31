@@ -6,13 +6,13 @@ Whoever strikes his father or mother must surely be put to death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.14|<< Exodus 21:14]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.16|Exodus 21:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [one who] will strike  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַכֵּ֥ה </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Keh <small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> father his  | <span class="ashebrew"><big>אָבִ֛י </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and mother his  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִמּ֖ </big></span><small><small><sup>[[H0517]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'i.M <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to die>  | <span class="ashebrew"><big>מ֥וֹת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| Mot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be put to death  | <span class="ashebrew"><big>יוּמָֽת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yu.Mat <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] will strike  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5221\|מַכֵּ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Keh<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> father his  |**<big>&#8207;[[H0001G\|אָבִ֛י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and mother his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0517\|אִמּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to die>  |**<big>&#8207;[[H4191\|מ֥וֹת]]&#8207; </big>**| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be put to death  |**<big>&#8207;[[H4191\|יוּמָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yu.Mat<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.14|<< Exodus 21:14]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.16|Exodus 21:16 >>]]</td></tr></table>
 
 

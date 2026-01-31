@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּתַחְיָה‎</span></big> **Pᵉthachyâh** <small>*(peth-akh-yaw')*</small> ==**Pethahiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּתַח‎</span><sup><small>[[H6605]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has opened</small>
+**<big><span class="ashebrew">‎פְּתַחְיָה‎</span></big>** **Pᵉthachyâh** <small>*(peth-akh-yaw')*</small> ==**Pethahiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6605|‎פָּתַח‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has opened</small>
 
 $\quad$ Pethakiah.
 - § Pethahiah = *"freed by Jehovah"*

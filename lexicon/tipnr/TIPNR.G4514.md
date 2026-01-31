@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Rome</span> was the capital of the Roman Empire, where Paul was imprisoned and wrote several epistles \(Acts 28:16; Rom. 1:7\).
 - A location first mentioned at [[John.11.48|Jhn.11.48]]; 
-- referred to as Rome or Roman or - \(KJV= Roman\) <[[G4514]]> \(<span class='tipnrLangGreek'>Ῥωμαῖος</span>\), or - \(KJV= Rome\) or Rome<[[G4516]]> \(<span class='tipnrLangGreek'>Ῥώμη</span>\), or Roman colony<[[G2862]]> \(<span class='tipnrLangGreek'>κολωνία</span>\).
+- referred to as Rome or Roman or - \(KJV= Roman\)  **<big>[[G4514|Ῥωμαῖος]]</big>**, or - \(KJV= Rome\) or Rome **<big>[[G4516|Ῥώμη]]</big>**, or Roman colony **<big>[[G2862|κολωνία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=41.9,12.48333333333333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,11 +10,11 @@ Rome, the capital city of the Roman Empire, plays a significant role in the New 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Roman | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) <small>*Greek*</small> | 1x | [Act.23.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Roman\*\|reference=Act.23.27) |
-| Roman | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) <small>*Greek*</small> | 10x | [[Jhn.11.48] ... [Act.28.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Roman\*\|reference=Jhn.11.48;Act.16.21;Act.16.37;Act.16.38;Act.22.25;Act.22.26;Act.22.27;Act.22.29;Act.25.16;Act.28.17) |
-| - (KJV= Roman) | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) <small>*Greek*</small> | 1x | [Rom.16.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Rom.16.27) |
-| Rome | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) <small>*Greek*</small> | 1x | [Act.2.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rome\*\|reference=Act.2.10) |
-| - (KJV= Rome) | [<span class='tipnrLangGreek'>Ῥώμη</span>](G4516) <small>*Greek*</small> | 6x | [[Gal.6.18] ... [Phm.1.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Gal.6.18;Eph.6.24;Php.4.23;Col.4.18;2Ti.4.22;Phm.1.25) |
-| Rome | [<span class='tipnrLangGreek'>Ῥώμη</span>](G4516) <small>*Greek*</small> | 8x | [[Act.18.2] ... [2Ti.1.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rome\*\|reference=Act.18.2;Act.19.21;Act.23.11;Act.28.14;Act.28.16;Rom.1.7;Rom.1.15;2Ti.1.17) |
-| Roman colony | [<span class='tipnrLangGreek'>κολωνία</span>](G2862) <small>*Greek*</small> | 1x | [Act.16.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Roman\*\|reference=Act.16.12) |
-All Strong's for **Rome**: \[[[G4514]]\] \[[[G4516]]\] \[[[G2862]]\]
+| Roman | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) | 1x | [Act.23.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Roman\*\|reference=Act.23.27) |
+| Roman | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) | 10x | [[Jhn.11.48] ... [Act.28.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Roman\*\|reference=Jhn.11.48;Act.16.21;Act.16.37;Act.16.38;Act.22.25;Act.22.26;Act.22.27;Act.22.29;Act.25.16;Act.28.17) |
+| - (KJV= Roman) | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) | 1x | [Rom.16.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Rom.16.27) |
+| Rome | [<span class='tipnrLangGreek'>Ῥωμαῖος</span>](G4514) | 1x | [Act.2.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rome\*\|reference=Act.2.10) |
+| - (KJV= Rome) | [<span class='tipnrLangGreek'>Ῥώμη</span>](G4516) | 6x | [[Gal.6.18] ... [Phm.1.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Gal.6.18;Eph.6.24;Php.4.23;Col.4.18;2Ti.4.22;Phm.1.25) |
+| Rome | [<span class='tipnrLangGreek'>Ῥώμη</span>](G4516) | 8x | [[Act.18.2] ... [2Ti.1.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rome\*\|reference=Act.18.2;Act.19.21;Act.23.11;Act.28.14;Act.28.16;Rom.1.7;Rom.1.15;2Ti.1.17) |
+| Roman colony | [<span class='tipnrLangGreek'>κολωνία</span>](G2862) | 1x | [Act.16.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Roman\*\|reference=Act.16.12) |
+All entries for **Rome**:  **<big>[[G4514|Ῥωμαῖος]]</big>** ☩  **<big>[[G4516|Ῥώμη]]</big>** ☩  **<big>[[G2862|κολωνία]]</big>**

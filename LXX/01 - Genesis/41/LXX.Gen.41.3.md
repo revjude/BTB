@@ -7,34 +7,34 @@ And, behold, seven other kine came up after them out of the river, ill favoured 
 After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river.<small><sub>**MT:**</sub></small>
 [[Gen.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.2|<< Genesis 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.4|Genesis 41:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And another | <big><span class="asgreek">άλλαι</span></big> <sup><small><small>[[G0243]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτας</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river, | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| shameful | <big><span class="asgreek">αισχραί</span></big> <sup><small><small>[[G0150]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sight | <big><span class="asgreek">είδει</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thin | <big><span class="asgreek">λεπταί</span></big> <sup><small><small>[[G3016]]</small></small></sup> |
-| in the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flesh, | <big><span class="asgreek">σαρξί</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| feeding | <big><span class="asgreek">ενέμοντο</span></big> <sup><small><small>[[G8385]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βόας</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| edge | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river. | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| And another | **<big>[[G0243\|άλλαι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| oxen | **<big>[[G1016\|βόες]]</big>** |
+| ascended | **<big>[[G0305\|ανέβαινον]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these | **<big>[[G3778\|ταύτας]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| river, | **<big>[[G4215\|ποταμού]]</big>** |
+| shameful | **<big>[[G0150\|αισχραί]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| sight | **<big>[[G1491\|είδει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thin | **<big>[[G3016\|λεπταί]]</big>** |
+| in the | **<big>[[G3588\|ταις]]</big>** |
+| flesh, | **<big>[[G4561\|σαρξί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| feeding | **<big>[[G8385\|ενέμοντο]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| oxen | **<big>[[G1016\|βόας]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| edge | **<big>[[G5491\|χείλος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river. | **<big>[[G4215\|ποταμού]]</big>** |
 [[Gen.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.2|<< Genesis 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.4|Genesis 41:4 >>]]</td></tr></table>
 
 

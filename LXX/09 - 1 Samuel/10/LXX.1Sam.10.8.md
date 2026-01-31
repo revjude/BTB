@@ -7,40 +7,40 @@ And thou shalt go down before me to Gilgal; and, behold, I will come down unto t
 And you shall go before me to Gilgal, and surely I will come to you to offer burnt offerings and to sacrifice peace offerings. Wait seven days until I come to you and show you what you are to do.”<small><sub>**MT:**</sub></small>
 [[1Sam.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.7|<< 1 Samuel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.9|1 Samuel 10:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall go down | <big><span class="asgreek">καταβήση</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| in front of | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Gilgal. | <big><span class="asgreek">Γάλγαλα</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come down | <big><span class="asgreek">καταβαίνω</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to offer | <big><span class="asgreek">ανενεγκείν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to sacrifice | <big><span class="asgreek">θύσαι</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| sacrifice \[offerings\] | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of peace. | <big><span class="asgreek">ειρηνικάς</span></big> <sup><small><small>[[G1516]]</small></small></sup> |
-| Seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| you shall stop | <big><span class="asgreek">διαλείψεις</span></big> <sup><small><small>[[G1257]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to make known | <big><span class="asgreek">γνωρίσαι</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall do. | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall go down | **<big>[[G2597\|καταβήση]]</big>** |
+| in front of | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Gilgal. | **<big>[[H1537\|Γάλγαλα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| come down | **<big>[[G2597\|καταβαίνω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to offer | **<big>[[G0399\|ανενεγκείν]]</big>** |
+| a whole burnt-offering, | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to sacrifice | **<big>[[G2380\|θύσαι]]</big>** |
+| sacrifice \[offerings\] | **<big>[[G2378\|θυσίας]]</big>** |
+| of peace. | **<big>[[G1516\|ειρηνικάς]]</big>** |
+| Seven | **<big>[[G2033\|επτά]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| you shall stop | **<big>[[G1257\|διαλείψεις]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my coming | **<big>[[G2064\|ελθείν]]</big>** **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to make known | **<big>[[G1107\|γνωρίσαι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you shall do. | **<big>[[G4160\|ποιήσεις]]</big>** |
 [[1Sam.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.7|<< 1 Samuel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.9|1 Samuel 10:9 >>]]</td></tr></table>
 
 

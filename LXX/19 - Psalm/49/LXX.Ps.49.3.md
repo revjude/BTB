@@ -7,18 +7,18 @@ My mouth shall speak of wisdom; and the meditation of my heart [shall be] of und
 My mouth will impart wisdom, and the meditation of my heart will bring understanding.<small><sub>**MT:**</sub></small>
 [[Ps.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.2|<< Psalm 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.4|Psalm 49:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speaks | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| wisdom, | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meditation | <big><span class="asgreek">μελέτη</span></big> <sup><small><small>[[G8281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| understanding. | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| My mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| speaks | **<big>[[G2980\|λαλήσει]]</big>** |
+| wisdom, | **<big>[[G4678\|σοφίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| meditation | **<big>[[G8281\|μελέτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my heart | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| understanding. | **<big>[[G4907\|σύνεσιν]]</big>** |
 [[Ps.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.2|<< Psalm 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.4|Psalm 49:4 >>]]</td></tr></table>
 
 

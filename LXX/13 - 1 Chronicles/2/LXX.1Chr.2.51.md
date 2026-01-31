@@ -7,14 +7,14 @@ Salma the father of Bethlehem, Hareph the father of Bethgader.
 Salma the father of Bethlehem, and Hareph the father of Beth-gader.<small><sub>**MT:**</sub></small>
 [[1Chr.2.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.50|<< 1 Chronicles 2:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.52|1 Chronicles 2:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Salma | <big><span class="asgreek">Σαμαά</span></big> <sup><small><small>[[H8092]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Beth-lehem, | <big><span class="asgreek">Βηλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
-| Haareph | <big><span class="asgreek">Αρήφ</span></big> <sup><small><small>[[H2780]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Beth-gader. | <big><span class="asgreek">Βηθγεδδώρ</span></big> <sup><small><small>[[H1013]]</small></small></sup> |
+| Salma | **<big>[[H8092\|Σαμαά]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of Beth-lehem, | **<big>[[G0965\|Βηλεέμ]]</big>** |
+| Haareph | **<big>[[H2780\|Αρήφ]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of Beth-gader. | **<big>[[H1013\|Βηθγεδδώρ]]</big>** |
 [[1Chr.2.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.50|<< 1 Chronicles 2:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.52|1 Chronicles 2:52 >>]]</td></tr></table>
 
 

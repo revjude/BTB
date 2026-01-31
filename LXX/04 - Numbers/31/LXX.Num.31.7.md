@@ -7,19 +7,19 @@ And they warred against the Midianites, as the LORD commanded Moses; and they sl
 Then they waged war against Midian, as the LORD had commanded Moses, and they killed every male.<small><sub>**MT:**</sub></small>
 [[Num.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.6|<< Numbers 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.8|Numbers 31:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they deployed | <big><span class="asgreek">παρετάξαντο</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Midian | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| male. | <big><span class="asgreek">αρσενικόν</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they deployed | **<big>[[G8641\|παρετάξαντο]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Midian | **<big>[[G3099\|Μαδιάν]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| male. | **<big>[[G6544\|αρσενικόν]]</big>** |
 [[Num.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.6|<< Numbers 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.8|Numbers 31:8 >>]]</td></tr></table>
 
 

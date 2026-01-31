@@ -1,4 +1,4 @@
-spelling of: <small>[[G2908]]</small> 
+spelling of: <small>**<big>[[G2908|κρεῖσσον]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κρείττων==</span></b>, <span class='asgreek'>ον</span>, 

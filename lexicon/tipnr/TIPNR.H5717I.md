@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Adiel</span>, the son of Azmaveth, was one of the officials in charge of King David's treasuries \([[1Chr.27.25|1Ch.27.25]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.27.25|1Ch.27.25]]; 
-- only referred to as Adiel<[[H5717I]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
--  father of Azmaveth<[[H5820J]]>.
+- only referred to as Adiel **<big>[[H5717|עֲדִיאֵל]]</big>**; 
+-  father of Azmaveth **<big>[[H5820|עַזְמָוֶת]]</big>**.
 
 Adiel, the son of Azmaveth, is mentioned in the book of 1 Chronicles as one of the officials responsible for overseeing King David's treasuries \([[1Chr.27.25|1 Chronicles 27:25]]\). He is listed among the various administrators and leaders who were appointed to manage the king's assets and resources. 
 
@@ -19,7 +19,7 @@ The fact that Adiel is specifically named in this context suggests that he was a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adiel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5717I) <small>*Hebrew*</small> | 1x | [1Ch.27.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adiel\*\|reference=1Ch.27.25) |
-All Strong's for **Adiel**: \[[[H5717I]]\]
+| Adiel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5717I) | 1x | [1Ch.27.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adiel\*\|reference=1Ch.27.25) |
+All entries for **Adiel**:  **<big>[[H5717|עֲדִיאֵל]]</big>**
 #### Related Profiles:
 - **[Azmaveth](H5820J)** (child)

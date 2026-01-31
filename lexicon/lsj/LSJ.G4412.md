@@ -1,4 +1,4 @@
-form of: <small>[[G4413G]]</small> 
+form of: <small>**<big>[[G4413G|πρῶτος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πρῶτον==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

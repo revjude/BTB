@@ -7,35 +7,35 @@ And the children of Israel carried away captive of their brethren two hundred th
 Then the Israelites took 200,000 captives from their kinsmen—women, sons, and daughters. They also carried off a great deal of plunder and brought it to Samaria.<small><sub>**MT:**</sub></small>
 [[2Chr.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.7|<< 2 Chronicles 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.9|2 Chronicles 28:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took captive | <big><span class="asgreek">ηχμαλώτισαν</span></big> <sup><small><small>[[G0163]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίας</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| women, | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters; | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| they despoiled | <big><span class="asgreek">εσκύλευσαν</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Samaria. | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took captive | **<big>[[G0163\|ηχμαλώτισαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their brethren | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίας]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| women, | **<big>[[G1135\|γυναίκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sons, | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters; | **<big>[[G2364\|θυγατέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoils | **<big>[[G4661\|σκύλα]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| they despoiled | **<big>[[G9120\|εσκύλευσαν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| spoils | **<big>[[G4661\|σκύλα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Samaria. | **<big>[[G4540\|Σαμάρειαν]]</big>** |
 [[2Chr.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.7|<< 2 Chronicles 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.9|2 Chronicles 28:9 >>]]</td></tr></table>
 
 

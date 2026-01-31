@@ -7,17 +7,17 @@ The topaz of Ethiopia shall not equal it, neither shall it be valued with pure g
 Topaz from Cush cannot compare to it, nor can it be valued in pure gold.<small><sub>**MT:**</sub></small>
 [[Job.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.18|<< Job 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.20|Job 28:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be equal | <big><span class="asgreek">ισωθήσεται</span></big> <sup><small><small>[[G7730]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] topaz | <big><span class="asgreek">τοπάζιον</span></big> <sup><small><small>[[G5116]]</small></small></sup> |
-| of Ethiopia | <big><span class="asgreek">Αιθιοπίας</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| pure | <big><span class="asgreek">καθαρώ</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| she shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be compared with | <big><span class="asgreek">συμβασταχθήσεται</span></big> <sup><small><small>[[G9253]]</small></small></sup> |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be equal | **<big>[[G7730\|ισωθήσεται]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| \[The\] topaz | **<big>[[G5116\|τοπάζιον]]</big>** |
+| of Ethiopia | **<big>[[G0128\|Αιθιοπίας]]</big>** |
+| gold | **<big>[[G5553\|χρυσίω]]</big>** |
+| pure | **<big>[[G2513\|καθαρώ]]</big>** |
+| she shall not | **<big>[[G3756\|ου]]</big>** |
+| be compared with | **<big>[[G9253\|συμβασταχθήσεται]]</big>** |
 [[Job.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.18|<< Job 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.20|Job 28:20 >>]]</td></tr></table>
 
 

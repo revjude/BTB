@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יְאֹר‎</span></big> **yᵉʼôr** <small>*(yeh-ore')*</small> ==**Nile**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎יְאֹר‎</span></big>** **yᵉʼôr** <small>*(yeh-ore')*</small> ==**Nile**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian origin</small>
 
 $\quad$ brook, flood, river, stream.
@@ -13,4 +13,4 @@ $\quad$ **1c)** watercourses
 $\quad$ **1d)** shafts (mining)
 $\quad$ **1e)** river (in general)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποταμός</span><sup><small>[[G4215]]</small></sup>
+<small>See Greek: </small>**<big>[[G4215|ποταμός]]</big>**

@@ -1,8 +1,8 @@
 <small>*Areopagus • A hill in Athens where Paul preached the gospel.*</small>
 
 The <span class='tipnrhighlight'>Areopagus</span>, a hill in Athens where Paul addressed the philosophers and preached about the unknown God.
-- A location in Athens<[[G0116]]> first mentioned at [[Jer.51.27|Act.17.19]]; 
-- referred to as Areopagus<[[G0697]]> \(<span class='tipnrLangGreek'>Ἄρειος</span> <span class='tipnrLangGreek'>Πάγος</span>\), or Areopagite<[[G0698]]> \(<span class='tipnrLangGreek'>Ἀρεοπαγίτης</span>\).
+- A location in Athens **<big>[[G0116|Ἀθῆναι]]</big>** first mentioned at [[Jer.51.27|Act.17.19]]; 
+- referred to as Areopagus **<big>[[G0697|Ἄρειος Πάγος]]</big>**, or Areopagite **<big>[[G0698|Ἀρεοπαγίτης]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.98333333333333,23.73333333333333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The account of Paul's preaching at the Areopagus demonstrates his ability to eng
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Areopagus | [<span class='tipnrLangGreek'>Ἄρειος</span> <span class='tipnrLangGreek'>Πάγος</span>](G0697) <small>*Greek*</small> | 2x | [[Act.17.19] & [Act.17.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Areopagus\*\|reference=Act.17.19;Act.17.22) |
-| Areopagite <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀρεοπαγίτης</span>](G0698) <small>*Greek*</small> | 1x | [Act.17.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Areopagite\*\|reference=Act.17.34) |
-All Strong's for **Areopagus**: \[[[G0697]]\] \[[[G0698]]\]
+| Areopagus | [<span class='tipnrLangGreek'>Ἄρειος</span> <span class='tipnrLangGreek'>Πάγος</span>](G0697) | 2x | [[Act.17.19] & [Act.17.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Areopagus\*\|reference=Act.17.19;Act.17.22) |
+| Areopagite <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀρεοπαγίτης</span>](G0698) | 1x | [Act.17.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Areopagite\*\|reference=Act.17.34) |
+All entries for **Areopagus**:  **<big>[[G0697|Ἄρειος Πάγος]]</big>** ☩  **<big>[[G0698|Ἀρεοπαγίτης]]</big>**

@@ -7,39 +7,39 @@ If Balak would give me his house full of silver and gold, I cannot go beyond the
 that even if Balak were to give me his house full of silver and gold, I could not do anything of my own accord, good or bad, to go beyond the command of the LORD? I must speak whatever the LORD says.<small><sub>**MT:**</sub></small>
 [[Num.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.12|<< Numbers 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.14|Numbers 24:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| Balak | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρη</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to violate | <big><span class="asgreek">παραβήναι</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| bad | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| myself. | <big><span class="asgreek">εμαυτού</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| As many \[things\] | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should say | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I shall speak. | <big><span class="asgreek">ερώ</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| should give | **<big>[[G1325\|δω]]</big>** |
+| Balak | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| full | **<big>[[G4134\|πλήρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίου]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to violate | **<big>[[G3845\|παραβήναι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| bad | **<big>[[G4190\|πονηρόν]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| myself. | **<big>[[G1683\|εμαυτού]]</big>** |
+| As many \[things\] | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G1437\|εάν]]</big>** |
+| should say | **<big>[[G2036\|είπη]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| I shall speak. | **<big>[[G2046\|ερώ]]</big>** |
 [[Num.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.12|<< Numbers 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.14|Numbers 24:14 >>]]</td></tr></table>
 
 

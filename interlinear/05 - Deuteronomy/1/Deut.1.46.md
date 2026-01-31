@@ -6,15 +6,15 @@ For this reason you stayed in Kadesh for a long time—a very long time.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.45|<< Deuteronomy 1:45]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.1|Deuteronomy 2:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you remained  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּשְׁב֥וּ </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> te.she.Vu <small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at Kadesh  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קָדֵ֖שׁ </big></span><small><small><sup>[[H6946G]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> ka.Desh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֣ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּ֑ים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like the days  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>יָּמִ֖ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ka <small><sup>[[HRd]]</sup></small> i.ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you remained  | <span class="ashebrew"><big>יְשַׁבְתֶּֽם </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.shav.Tem <small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|תֵּשְׁב֥וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.she.Vu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Kadesh  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6946G\|קָדֵ֖שׁ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ka.Desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֣ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּ֑ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like the days  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֖ים]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you remained  |**<big>&#8207;[[H3427\|יְשַׁבְתֶּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.shav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.45|<< Deuteronomy 1:45]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.1|Deuteronomy 2:1 >>]]</td></tr></table>
 
 

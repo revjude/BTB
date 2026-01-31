@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דְּדָן‎</span></big> **Dᵉdân** <small>*(ded-awn')*</small> ==**Dedan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (prolonged) <span class="ashebrew">דְּדָנֶה</span> **Dᵉdâneh** <small>*(deh-daw'-neh)*</small>; (Ezekiel 25:13), of uncertain derivation</small>
+**<big><span class="ashebrew">‎דְּדָן‎</span></big>** **Dᵉdân** <small>*(ded-awn')*</small> ==**Dedan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (prolonged) **<big><span class="ashebrew">דְּדָנֶה</span></big>** **Dᵉdâneh** <small>*(deh-daw'-neh)*</small>; (Ezekiel 25:13), of uncertain derivation</small>
 
 $\quad$ Dedan.
 - § Dedan = *"low country"*

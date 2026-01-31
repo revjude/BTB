@@ -7,26 +7,26 @@ And he hath given it to be furbished, that it may be handled: this sword is shar
 The sword is appointed to be polished, to be grasped in the hand. It is sharpened and polished, to be placed in the hand of the slayer.<small><sub>**MT:**</sub></small>
 [[Ezek.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.10|<< Ezekiel 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.12|Ezekiel 21:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ready | <big><span class="asgreek">ετοίμην</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to hold | <big><span class="asgreek">κρατείν</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| for his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is made very sharp | <big><span class="asgreek">εξηκονήθη</span></big> <sup><small><small>[[G7285]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| ready | <big><span class="asgreek">ετοίμη</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to put | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of one piercing. | <big><span class="asgreek">αποκεντούντος</span></big> <sup><small><small>[[G6439]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G1325\|έδωκεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| ready | **<big>[[G2092\|ετοίμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to hold | **<big>[[G2902\|κρατείν]]</big>** |
+| for his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is made very sharp | **<big>[[G7285\|εξηκονήθη]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| it is | **<big>[[G1510\|εστίν]]</big>** |
+| ready | **<big>[[G2092\|ετοίμη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to put | **<big>[[G1325\|δούναι]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of one piercing. | **<big>[[G6439\|αποκεντούντος]]</big>** |
 [[Ezek.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.10|<< Ezekiel 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.12|Ezekiel 21:12 >>]]</td></tr></table>
 
 

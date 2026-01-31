@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Kelaiah</span>, also known as Kelita, was a Levite who had married a foreign woman and pledged to put her away during Ezra's reform.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.23|Ezr.10.23]]; 
-- referred to as Kelaiah<[[H7041]]> \(<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Kelita<[[H7042H]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- referred to as Kelaiah **<big>[[H7041|קֵלָיָה]]</big>**, or Kelita **<big>[[H7042|קְלִיטָא]]</big>**.
 
 Kelaiah, also known as Kelita, is mentioned in [[Ezra.10.23|Ezra 10:23]] as one of the Levites who had married foreign women during the time of Ezra. The context of the passage is Ezra's reform, where he addressed the issue of intermarriage between the Israelites and the pagan peoples of the land \(Ezra 9-10\). 
 
@@ -16,6 +16,6 @@ Apart from this mention in the context of Ezra's reform, no other information is
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kelaiah | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7041) <small>*Hebrew*</small> | 1x | [Ezr.10.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kelaiah\*\|reference=Ezr.10.23) |
-| Kelita | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>א</span>](H7042H) <small>*Hebrew*</small> | 1x | [Ezr.10.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kelita\*\|reference=Ezr.10.23) |
-All Strong's for **Kelaiah or Kelita**: \[[[H7041]]\] \[[[H7042H]]\]
+| Kelaiah | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7041) | 1x | [Ezr.10.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kelaiah\*\|reference=Ezr.10.23) |
+| Kelita | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>א</span>](H7042H) | 1x | [Ezr.10.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kelita\*\|reference=Ezr.10.23) |
+All entries for **Kelaiah or Kelita**:  **<big>[[H7041|קֵלָיָה]]</big>** ☩  **<big>[[H7042|קְלִיטָא]]</big>**

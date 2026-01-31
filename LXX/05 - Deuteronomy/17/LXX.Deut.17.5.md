@@ -7,31 +7,31 @@ Then shalt thou bring forth that man or that woman, which have committed that wi
 you must bring out to your gates the man or woman who has done this evil thing, and you must stone that person to death.<small><sub>**MT:**</sub></small>
 [[Deut.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.4|<< Deuteronomy 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.6|Deuteronomy 17:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall lead out | <big><span class="asgreek">εξάξεις</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that woman, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| (the ones who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wicked | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate. | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall stone | <big><span class="asgreek">λιθοβολήσετε</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| stones, | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall come to an end. | <big><span class="asgreek">τελευτήσουσιν</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall lead out | **<big>[[G1806\|εξάξεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| that man | **<big>[[G0444\|άνθρωπον]]</big>** **<big>[[G1565\|εκείνον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that woman, | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1565\|εκείνην]]</big>** |
+| (the ones who | **<big>[[G3748\|οίτινες]]</big>** |
+| made | **<big>[[G4160\|εποίησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| order | **<big>[[G8943\|πρόσταγμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this wicked | **<big>[[G4190\|πονηρόν]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| unto | **<big>[[G2089\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gate. | **<big>[[G4439\|πύλην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall stone | **<big>[[G3036\|λιθοβολήσετε]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| stones, | **<big>[[G3037\|λίθοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall come to an end. | **<big>[[G5053\|τελευτήσουσιν]]</big>** |
 [[Deut.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.4|<< Deuteronomy 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.6|Deuteronomy 17:6 >>]]</td></tr></table>
 
 

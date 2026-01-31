@@ -6,17 +6,17 @@ Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Shavsha was the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.15|<< 1 Chronicles 18:15]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.17|1 Chronicles 18:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Zadok  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צָד֧וֹק </big></span><small><small><sup>[[H6659G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tza.Dok <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahitub  | <span class="ashebrew"><big>אֲחִיט֛וּב </big></span><small><small><sup>[[H0285H]]</sup></small></small> &#8207;| 'a.chi.Tuv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Abimelech  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִימֶ֥לֶךְ </big></span><small><small><sup>[[H0040J]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abiathar  | <span class="ashebrew"><big>אֶבְיָתָ֖ר </big></span><small><small><sup>[[H0054]]</sup></small></small> &#8207;| 'ev.ya.Tar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] priests  | <span class="ashebrew"><big>כֹּהֲנִ֑ים </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| ko.ha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Shavsha  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שַׁוְשָׁ֖א </big></span><small><small><sup>[[H7798]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shav.Sha' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was the] scribe  | <span class="ashebrew"><big>סוֹפֵֽר </big></span><small><small><sup>[[H5608B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| so.Fer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zadok  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6659G\|צָד֧וֹק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahitub  |**<big>&#8207;[[H0285H\|אֲחִיט֛וּב]]&#8207; </big>**| 'a.chi.Tuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abimelech  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0040J\|אֲבִימֶ֥לֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abiathar  |**<big>&#8207;[[H0054\|אֶבְיָתָ֖ר]]&#8207; </big>**| 'ev.ya.Tar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] priests  |**<big>&#8207;[[H3548\|כֹּהֲנִ֑ים]]&#8207; </big>**| ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shavsha  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7798\|שַׁוְשָׁ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shav.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was the] scribe  |**<big>&#8207;[[H5608B\|סוֹפֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| so.Fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.15|<< 1 Chronicles 18:15]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.17|1 Chronicles 18:17 >>]]</td></tr></table>
 
 

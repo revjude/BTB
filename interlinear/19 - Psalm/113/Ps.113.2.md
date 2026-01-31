@@ -6,15 +6,15 @@ Blessed be the name of the LORD both now and forevermore.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.1|<< Psalms 113:1]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.3|Psalms 113:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may it be  | <span class="ashebrew"><big>יְהִ֤י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ye.Hi <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁ֣ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blessed  | <span class="ashebrew"><big>מְבֹרָ֑ךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| me.vo.Rakh <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from now  | <span class="ashebrew"><big>מֵֽ֝ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עַתָּ֗ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and until  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם </big></span><small><small><sup>[[H5769G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it be  |**<big>&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blessed  |**<big>&#8207;[[H1288\|מְבֹרָ֑ךְ]]&#8207; </big>**| me.vo.Rakh<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from now  |**<big>&#8207;[[H9006\|מֵֽ֝]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and until  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.1|<< Psalms 113:1]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.3|Psalms 113:3 >>]]</td></tr></table>
 
 

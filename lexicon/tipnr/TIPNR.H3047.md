@@ -4,10 +4,10 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jada</span> was the son of Onam and the brother of Shammai, from the tribe of Judah \([[1Chr.2.28|1Ch.2.28]],32\).
 - A man from the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Chr.2.28|1Ch.2.28]]; 
-- only referred to as Jada<[[H3047]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ע</span>\); 
--  son of Onam<[[H0208H]]>; 
-- a brother of Shammai<[[H8060G]]>; 
--  father of Jether<[[H3500I]]> and Jonathan<[[H3129G]]>.
+- only referred to as Jada **<big>[[H3047|יָדָע]]</big>**; 
+-  son of Onam **<big>[[H0208|אוֹנָם]]</big>**; 
+- a brother of Shammai **<big>[[H8060|שַׁמַּי]]</big>**; 
+-  father of Jether **<big>[[H3500|יֶתֶר]]</big>** and Jonathan **<big>[[H3129|יוֹנָתָן]]</big>**.
 
 Jada is mentioned in [[1Chr.2.28|1 Chronicles 2:28]] and 32 as part of the genealogy of the tribe of Judah. He is identified as the son of Onam and the brother of Shammai. 
 
@@ -21,8 +21,8 @@ The preservation of such genealogical records was important for the Israelites, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jada | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ע</span>](H3047) <small>*Hebrew*</small> | 2x | [[1Ch.2.28] & [1Ch.2.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jada\*\|reference=1Ch.2.28;1Ch.2.32) |
-All Strong's for **Jada**: \[[[H3047]]\]
+| Jada | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ע</span>](H3047) | 2x | [[1Ch.2.28] & [1Ch.2.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jada\*\|reference=1Ch.2.28;1Ch.2.32) |
+All entries for **Jada**:  **<big>[[H3047|יָדָע]]</big>**
 #### Related Profiles:
 - **[Onam](H0208H)** (father)
 - **[Shammai](H8060G)** (sibling)

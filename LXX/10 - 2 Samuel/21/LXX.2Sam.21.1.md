@@ -10,44 +10,44 @@ Then there was a famine in the days of David three years, year after year; and D
 During the reign of David there was a famine for three successive years, and David sought the face of the LORD. And the LORD said, “It is because of the blood shed by Saul and his family, because he killed the Gibeonites.”<small><sub>**MT:**</sub></small>
 [[2Sam.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.26|<< 2 Samuel 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.2|2 Samuel 21:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| for three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next to | <big><span class="asgreek">εχόμενος</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| year. | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David sought | <big><span class="asgreek">εζήτει</span></big> <sup><small><small>[[G2212]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iniquity, | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| of his blood \[shed\], | <big><span class="asgreek">αιμάτων</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he put to death | <big><span class="asgreek">εθανάτωσε</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gibeonites. | <big><span class="asgreek">Γαβαωνίτας</span></big> <sup><small><small>[[H1391]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| a famine | **<big>[[G3042\|λιμός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| for three | **<big>[[G5140\|τρία]]</big>** |
+| years, | **<big>[[G2094\|έτη]]</big>** |
+| year | **<big>[[G1763\|ενιαυτός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| next to | **<big>[[G2192\|εχόμενος]]</big>** |
+| year. | **<big>[[G1763\|ενιαυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David sought | **<big>[[G2212\|εζήτει]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| Against | **<big>[[G1909\|επί]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| iniquity, | **<big>[[G0093\|αδικία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] death | **<big>[[G2288\|θανάτω]]</big>** |
+| of his blood \[shed\], | **<big>[[G0129\|αιμάτων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| he put to death | **<big>[[G2289\|εθανάτωσε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Gibeonites. | **<big>[[H1391\|Γαβαωνίτας]]</big>** |
 [[2Sam.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.26|<< 2 Samuel 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.2|2 Samuel 21:2 >>]]</td></tr></table>
 
 

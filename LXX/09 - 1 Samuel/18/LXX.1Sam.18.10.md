@@ -7,44 +7,44 @@ And it came to pass on the morrow, that the evil spirit from God came upon Saul,
 The next day a spirit of distress sent from God came upon Saul, and he prophesied inside the house while David played the harp as usual. Now Saul was holding a spear,<small><sub>**MT:**</sub></small>
 [[1Sam.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.9|<< 1 Samuel 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.11|1 Samuel 18:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day, | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| a ferocious | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he prophesied | <big><span class="asgreek">προεφήτευσεν</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his house; | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| strummed | <big><span class="asgreek">έψαλλεν</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-|  | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G0358]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρί αυτού</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| each | <big><span class="asgreek">εκάστην</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| day; | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wooden spear | <big><span class="asgreek">δόρυ</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| \[was\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγενήθη]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| next day, | **<big>[[G1887\|επαύριον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| fell | **<big>[[G4098\|έπεσε]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| a ferocious | **<big>[[G4190\|πονηρόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he prophesied | **<big>[[G4395\|προεφήτευσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his house; | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| strummed | **<big>[[G5567\|έψαλλεν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+|  | **<big>[[G0358\|τη]]</big>** |
+| his hand | **<big>[[G5495\|χειρί αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| each | **<big>[[G1538\|εκάστην]]</big>** |
+| day; | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wooden spear | **<big>[[G6965\|δόρυ]]</big>** |
+| \[was\] in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
 [[1Sam.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.9|<< 1 Samuel 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.11|1 Samuel 18:11 >>]]</td></tr></table>
 
 

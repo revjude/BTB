@@ -7,17 +7,17 @@ Then thou shalt cut off her hand, thine eye shall not pity [her].
 you are to cut off her hand. You must show her no pity.<small><sub>**MT:**</sub></small>
 [[Deut.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.11|<< Deuteronomy 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.13|Deuteronomy 25:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| you shall cut off | <big><span class="asgreek">αποκόψεις</span></big> <sup><small><small>[[G0609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hand; | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall cut off | **<big>[[G0609\|αποκόψεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her hand; | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
 [[Deut.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.11|<< Deuteronomy 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.13|Deuteronomy 25:13 >>]]</td></tr></table>
 
 

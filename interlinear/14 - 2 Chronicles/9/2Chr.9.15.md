@@ -6,23 +6,23 @@ King Solomon made two hundred large shields of hammered gold; six hundred shekel
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.14|<< 2 Chronicles 9:14]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.16|2 Chronicles 9:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he made  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֨עַשׂ </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֶּ֧לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֛ה </big></span><small><small><sup>[[H8010]]</sup></small></small> &#8207;| she.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two hundred  | <span class="ashebrew"><big>מָאתַ֥יִם </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| ma.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| body shield[s]  | <span class="ashebrew"><big>צִנָּ֖ה </big></span><small><small><sup>[[H6793C]]</sup></small></small> &#8207;| tzi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֣ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| beaten  | <span class="ashebrew"><big>שָׁח֑וּט </big></span><small><small><sup>[[H7820]]</sup></small></small> &#8207;| sha.Chut <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שֵׁ֤שׁ </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| shesh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵאוֹת֙ </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'Ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֣ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| beaten  | <span class="ashebrew"><big>שָׁח֔וּט </big></span><small><small><sup>[[H7820]]</sup></small></small> &#8207;| sha.Chut <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he put up  | <span class="ashebrew"><big>יַעֲלֶ֖ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| ya.'a.Leh <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the body shield  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צִּנָּ֥ה </big></span><small><small><sup>[[H6793C]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> tzi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> one  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֶחָֽת </big></span><small><small><sup>[[H0259]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֨עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֧לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֛ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two hundred  |**<big>&#8207;[[H3967\|מָאתַ֥יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| body shield[s]  |**<big>&#8207;[[H6793C\|צִנָּ֖ה]]&#8207; </big>**| tzi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֣ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beaten  |**<big>&#8207;[[H7820\|שָׁח֑וּט]]&#8207; </big>**| sha.Chut<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁ֤שׁ]]&#8207; </big>**| shesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאוֹת֙]]&#8207; </big>**| me.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֣ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beaten  |**<big>&#8207;[[H7820\|שָׁח֔וּט]]&#8207; </big>**| sha.Chut<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he put up  |**<big>&#8207;[[H5927G\|יַעֲלֶ֖ה]]&#8207; </big>**| ya.'a.Leh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the body shield  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6793C\|צִּנָּ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> one  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אֶחָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.14|<< 2 Chronicles 9:14]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.16|2 Chronicles 9:16 >>]]</td></tr></table>
 
 

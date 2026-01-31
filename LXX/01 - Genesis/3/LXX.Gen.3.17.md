@@ -7,47 +7,47 @@ And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, a
 And to Adam He said: “Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life.<small><sub>**MT:**</sub></small>
 [[Gen.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.16|<< Genesis 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.18|Genesis 3:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Adam | <big><span class="asgreek">Αδάμ</span></big> <sup><small><small>[[G0076]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you hearkened to | <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your wife, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate | <big><span class="asgreek">έφαγες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλου</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you, \[saying\], | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνου</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| \[you are\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it -- | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[and\] you ate; | <big><span class="asgreek">έφαγες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| accursed | <big><span class="asgreek">επικατάρατος</span></big> <sup><small><small>[[G1944]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your works; | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| distresses | <big><span class="asgreek">λύπαις</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| you will eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your life. | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Adam | **<big>[[G0076\|Αδάμ]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Because | **<big>[[G3754\|ότι]]</big>** |
+| you hearkened to | **<big>[[G0191\|ήκουσας]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your wife, | **<big>[[G1135\|γυναικός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ate | **<big>[[G2068\|έφαγες]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| tree | **<big>[[G3586\|ξύλου]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to you, \[saying\], | **<big>[[G1473\|σοι]]</big>** |
+| This | **<big>[[G3778\|τούτου]]</big>** |
+| alone | **<big>[[G3441\|μόνου]]</big>** |
+| \[you are\] not | **<big>[[G3361\|μη]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| it -- | **<big>[[G1473\|αυτού]]</big>** |
+| \[and\] you ate; | **<big>[[G2068\|έφαγες]]</big>** |
+| accursed | **<big>[[G1944\|επικατάρατος]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your works; | **<big>[[G2041\|έργοις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| distresses | **<big>[[G3077\|λύπαις]]</big>** |
+| you will eat | **<big>[[G2068\|φαγή]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your life. | **<big>[[G2222\|ζωής]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.16|<< Genesis 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.18|Genesis 3:18 >>]]</td></tr></table>
 
 

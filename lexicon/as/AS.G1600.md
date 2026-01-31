@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐκ-πετάννυμι </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">פָּרַשׂ</span> <small><sup>[[H6566]]</sup></small>, as [[LXX.Isa.65.2|Is 65:2]] (hithp.) ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐκ-πετάννυμι </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H6566|פָּרַשׂ]]</big>**, as [[LXX.Isa.65.2|Is 65:2]] (hithp.) ;\]</span> </span>
 <span class="asitalic">to spread out</span> (as a sail), <span class="asitalic">stretch forth</span>: [[Rom.10.21|Ro 10:21]]<span class="assuperscript">(LXX)</span>.†
 
 **Abbott-Smith References**

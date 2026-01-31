@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵד‎</span></big> **ʻêd** <small>*(ayd)*</small> ==**filth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from an unused root meaning to set a period (compare <span class="ashebrew">‎עָדָה‎</span><sup><small>[[H5710]]</small></sup>, <span class="ashebrew">‎עוּד‎</span><sup><small>[[H5749]]</small></sup>)</small>
+**<big><span class="ashebrew">‎עֵד‎</span></big>** **ʻêd** <small>*(ayd)*</small> ==**filth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from an unused root meaning to set a period (compare **<big>[[H5710|‎עָדָה‎]]</big>**, **<big>[[H5749|‎עוּד‎]]</big>**)</small>
 
 $\quad$ filthy.
 - ***the menstrual flux*** (as periodical)

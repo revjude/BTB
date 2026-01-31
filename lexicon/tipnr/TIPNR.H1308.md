@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Besor</span> was a brook where David's men pursued the Amalekites who had raided Ziklag. \([[1Sam.30.9|1 Samuel 30:9]], 10, 21\)
 - A location first mentioned at [[1Sam.30.9|1Sa.30.9]]; 
-- only referred to as Besor<[[H1308]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Besor **<big>[[H1308|בְּשׂוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.398056,34.436667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Besor is a brook mentioned in 1 Samuel 30 in connection with David's pursuit
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Besor | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1308) <small>*Hebrew*</small> | 3x | [[1Sa.30.9] ... [1Sa.30.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Besor\*\|reference=1Sa.30.9;1Sa.30.10;1Sa.30.21) |
-All Strong's for **Besor**: \[[[H1308]]\]
+| Besor | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1308) | 3x | [[1Sa.30.9] ... [1Sa.30.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Besor\*\|reference=1Sa.30.9;1Sa.30.10;1Sa.30.21) |
+All entries for **Besor**:  **<big>[[H1308|בְּשׂוֹר]]</big>**

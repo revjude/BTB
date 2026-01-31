@@ -1,4 +1,4 @@
-Greek of: <small>[[H8111]]</small> 
+Greek of: <small>**<big>[[H8111|שֹׁמְרוֹן]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σαμάρεια==</span></b> [<span class='asgreek'>ᾰρ</span>], <span class='asgreek'>ἡ</span>, 

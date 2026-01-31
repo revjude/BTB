@@ -6,31 +6,31 @@ Then the LORD said to me, “Go show love to your wife again, though she is love
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.23|<< Hosea 2:23]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.2|Hosea 3:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֨אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>אֵלַ֗ </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>ע֚וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go  | <span class="ashebrew"><big>לֵ֣ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| lekh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| love  | <span class="ashebrew"><big>אֱֽהַב </big></span><small><small><sup>[[H0157G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ehav- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִשָּׁ֔ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] is loved of  | <span class="ashebrew"><big>אֲהֻ֥בַת </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'a.Hu.vat <small><sup>[[HVqsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a companion  | <span class="ashebrew"><big>רֵ֖עַ </big></span><small><small><sup>[[H7453]]</sup></small></small> &#8207;| Re.a' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [who] commits adultery  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְנָאָ֑פֶת </big></span><small><small><sup>[[H5003]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.na.'A.fet <small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as loves  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אַהֲבַ֤ת </big></span><small><small><sup>[[H0160]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> 'a.ha.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֵ֗ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] turning  | <span class="ashebrew"><big>פֹּנִים֙ </big></span><small><small><sup>[[H6437G]]</sup></small></small> &#8207;| po.Nim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִ֣ים </big></span><small><small><sup>[[H0430J]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| other  | <span class="ashebrew"><big>אֲחֵרִ֔ים </big></span><small><small><sup>[[H0312]]</sup></small></small> &#8207;| 'a.che.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [are] loving  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֹהֲבֵ֖י </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.ha.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> cakes of  | <span class="ashebrew"><big>אֲשִׁישֵׁ֥י </big></span><small><small><sup>[[H0809]]</sup></small></small> &#8207;| 'a.shi.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grapes  | <span class="ashebrew"><big>עֲנָבִֽים </big></span><small><small><sup>[[H6025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.na.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H0413\|אֵלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|ע֚וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|לֵ֣ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| love  |**<big>&#8207;[[H0157G\|אֱֽהַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ehav-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֔ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] is loved of  |**<big>&#8207;[[H0157G\|אֲהֻ֥בַת]]&#8207; </big>**| 'a.Hu.vat<small><sup>[[HVqsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a companion  |**<big>&#8207;[[H7453\|רֵ֖עַ]]&#8207; </big>**| Re.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] commits adultery  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5003\|מְנָאָ֑פֶת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.na.'A.fet<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as loves  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0160\|אַהֲבַ֤ת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'a.ha.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] turning  |**<big>&#8207;[[H6437G\|פֹּנִים֙]]&#8207; </big>**| po.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [are] loving  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0157G\|אֹהֲבֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.ha.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> cakes of  |**<big>&#8207;[[H0809\|אֲשִׁישֵׁ֥י]]&#8207; </big>**| 'a.shi.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grapes  |**<big>&#8207;[[H6025\|עֲנָבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.na.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.23|<< Hosea 2:23]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.2|Hosea 3:2 >>]]</td></tr></table>
 
 

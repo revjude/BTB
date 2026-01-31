@@ -11,29 +11,29 @@ Then they will say, ‘This land that was desolate has become like the garden of
 > $\quad$ referenced by: [[LXX.Joel.2.3|Joel 2:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| That land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being obliterated | <big><span class="asgreek">ηφανισμένη</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| was become | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a garden | <big><span class="asgreek">κήπος</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| of luxury; | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities -- | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desolate | <big><span class="asgreek">έρημοι</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones having been obliterated, | <big><span class="asgreek">ηφανισμέναι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having been razed, | <big><span class="asgreek">κατεσκαμμέναι</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| fortified | <big><span class="asgreek">οχυραί</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
-| they sat | <big><span class="asgreek">εκάθισαν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| That land, | **<big>[[G1093\|γη]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| being obliterated | **<big>[[G0853\|ηφανισμένη]]</big>** |
+| was become | **<big>[[G1096\|εγενήθη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a garden | **<big>[[G2779\|κήπος]]</big>** |
+| of luxury; | **<big>[[G5172\|τρυφής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| cities -- | **<big>[[G4172\|πόλεις]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| desolate | **<big>[[G2048\|έρημοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones having been obliterated, | **<big>[[G0853\|ηφανισμέναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| having been razed, | **<big>[[G2679\|κατεσκαμμέναι]]</big>** |
+| fortified | **<big>[[G8575\|οχυραί]]</big>** |
+| they sat | **<big>[[G2523\|εκάθισαν]]</big>** |
 [[Ezek.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
 
 

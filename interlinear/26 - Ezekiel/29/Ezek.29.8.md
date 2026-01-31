@@ -6,21 +6,21 @@ Therefore this is what the Lord GOD says: I will bring a sword against you and c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.7|<< Ezekiel 29:7]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.9|Ezekiel 29:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> therefore  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֵ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here I  | <span class="ashebrew"><big>הִנְ </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>נִ֛י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| hi. <small><sup>[[HTj]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to bring  | <span class="ashebrew"><big>מֵבִ֥יא </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| me.Vi' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on you  | <span class="ashebrew"><big>עָלַ֖יִ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| 'a.La.yi <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sword  | <span class="ashebrew"><big>חָ֑רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Cha.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will cut off  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִכְרַתִּ֥י </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hikh.ra.Ti <small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from you  | <span class="ashebrew"><big>מִמֵּ֖ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| mi.Me <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֥ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and animal[s]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְהֵמָֽה </big></span><small><small><sup>[[H0929]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.he.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֛י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to bring  |**<big>&#8207;[[H0935P\|מֵבִ֥יא]]&#8207; </big>**| me.Vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  |**<big>&#8207;[[H5921A\|עָלַ֖יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  |**<big>&#8207;[[H2719\|חָ֑רֶב]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|הִכְרַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from you  |**<big>&#8207;[[H4480A\|מִמֵּ֖]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| mi.Me<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and animal[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0929\|בְהֵמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.7|<< Ezekiel 29:7]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.9|Ezekiel 29:9 >>]]</td></tr></table>
 
 

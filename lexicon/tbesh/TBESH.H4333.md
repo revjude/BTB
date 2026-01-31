@@ -1,6 +1,4 @@
-<span class="asaramaic">‎מִישָׁאֵל‎</span> <small>***(mi.sha.el)***</small> ==**Mishael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-Aramaic of: <small>[[H4332I]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H4332I|מִישָׁאֵל]]</big>**</small> 
 
 - A man living at the time of Exile and Return, first mentioned at [[Dan.1.6|Dan.1.6]] [[Dan.1.0| a]] lso called Meshach at [[Dan.1.7|Dan.1.7]] [[Dan.2.49| 2.49]] [[Dan.3.12| 3.12]], [[Dan.3.13|13]], [[Dan.3.14|14]], [[Dan.3.16|16]], [[Dan.3.19|19]], [[Dan.3.20|20]], [[Dan.3.22|22]], [[Dan.3.23|23]], [[Dan.3.26|26]], [[Dan.3.28|28]], [[Dan.3.29|29]], [[Dan.3.30|30]]
-- Aramaic of <i>mi.sha.el</i> (<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎יש‎</span>ָׁ<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "Mishael" [[H4332I]])
-
+- Aramaic of <i>mi.sha.el</i> (<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎יש‎</span>ָׁ<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "Mishael" **<big>[[H4332I|מִישָׁאֵל]]</big>**)

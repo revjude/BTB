@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲדָיָה‎</span></big> **ʻĂdâyâh** <small>*(ad-aw-yaw')*</small> ==**Adaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עֲדָיָהוּ</span> **ʻĂdâyâhûw** <small>*(ad-aw-yaw'-hoo)*</small>; from <span class="ashebrew">‎עָדָה‎</span><sup><small>[[H5710]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has adorned</small>
+**<big><span class="ashebrew">‎עֲדָיָה‎</span></big>** **ʻĂdâyâh** <small>*(ad-aw-yaw')*</small> ==**Adaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֲדָיָהוּ</span></big>** **ʻĂdâyâhûw** <small>*(ad-aw-yaw'-hoo)*</small>; from **<big>[[H5710|‎עָדָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has adorned</small>
 
 $\quad$ Adaiah.
 - § Adaiah = *"Jehovah has adorned Himself"*

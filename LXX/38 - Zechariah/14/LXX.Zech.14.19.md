@@ -7,28 +7,28 @@ This shall be the punishment of Egypt, and the punishment of all nations that co
 This will be the punishment of Egypt and of all the nations that do not go up to celebrate the Feast of Tabernacles.<small><sub>**MT:**</sub></small>
 [[Zech.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.18|<< Zechariah 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.20|Zechariah 14:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβή</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to solemnize | <big><span class="asgreek">εορτάσαι</span></big> <sup><small><small>[[G1858]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pitching of tents. | <big><span class="asgreek">σκηνοπηγίας</span></big> <sup><small><small>[[G4634]]</small></small></sup> |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| ascend | **<big>[[G0305\|αναβή]]</big>** |
+| to solemnize | **<big>[[G1858\|εορτάσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| holiday | **<big>[[G1859\|εορτήν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| pitching of tents. | **<big>[[G4634\|σκηνοπηγίας]]</big>** |
 [[Zech.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.18|<< Zechariah 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.20|Zechariah 14:20 >>]]</td></tr></table>
 
 

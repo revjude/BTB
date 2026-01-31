@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hodaviah</span> was one of the leaders of the half-tribe of Manasseh during the time of King David.
 - A man from the tribe of Manasseh  living at the time of Divided Monarchy, only mentioned at [[1Chr.5.24|1Ch.5.24]]; 
-- only referred to as Hodaviah<[[H1938H]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Hodaviah **<big>[[H1938|הוֹדַוְיָה]]</big>**.
 
 Hodaviah is mentioned in [[1Chr.5.24|1 Chronicles 5:24]] as one of the leaders of the half-tribe of Manasseh, along with Epher, Ishi, Eliel, Azriel, Jeremiah, and Jahdiel. These men were described as brave warriors, famous men, and heads of their families. 
 
@@ -16,5 +16,5 @@ The mention of Hodaviah and the other leaders in this passage highlights the imp
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938H) <small>*Hebrew*</small> | 1x | [1Ch.5.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=1Ch.5.24) |
-All Strong's for **Hodaviah**: \[[[H1938H]]\]
+| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938H) | 1x | [1Ch.5.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=1Ch.5.24) |
+All entries for **Hodaviah**:  **<big>[[H1938|הוֹדַוְיָה]]</big>**

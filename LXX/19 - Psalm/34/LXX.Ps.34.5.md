@@ -7,18 +7,18 @@ They looked unto him, and were lightened: and their faces were not ashamed.
 Those who look to Him are radiant with joy; their faces shall never be ashamed.<small><sub>**MT:**</sub></small>
 [[Ps.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.4|<< Psalm 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.6|Psalm 34:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Come forward | <big><span class="asgreek">προσέλθατε</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be enlightened! | <big><span class="asgreek">φωτίσθητε</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your faces | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be disgraced. | <big><span class="asgreek">καταισχυνθή</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| Come forward | **<big>[[G4334\|προσέλθατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be enlightened! | **<big>[[G5461\|φωτίσθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your faces | **<big>[[G4383\|πρόσωπα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be disgraced. | **<big>[[G2617\|καταισχυνθή]]</big>** |
 [[Ps.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.4|<< Psalm 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.6|Psalm 34:6 >>]]</td></tr></table>
 
 

@@ -6,28 +6,28 @@ I will go to the powerful and speak to them. Surely they know the way of the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.4|<< Jeremiah 5:4]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.6|Jeremiah 5:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I will go  | <span class="ashebrew"><big>אֵֽלֲכָה </big></span><small><small><sup>[[H1980G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'e.la.khah- <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> myself  | <span class="ashebrew"><big>לִּ֤ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the great  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גְּדֹלִים֙ </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ge.do.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will speak  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲדַבְּרָ֣ה </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.da.be.Rah <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ֔ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'o.Ta <small><sup>[[HTo]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֗מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know  | <span class="ashebrew"><big>יָדְעוּ֙ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.de.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ordinance of  | <span class="ashebrew"><big>מִשְׁפַּ֖ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nevertheless  | <span class="ashebrew"><big>אַ֣ךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> &#8207;| 'akh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֤מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| alike  | <span class="ashebrew"><big>יַחְדָּו֙ </big></span><small><small><sup>[[H3162B]]</sup></small></small> &#8207;| yach.Dav <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had broken off  | <span class="ashebrew"><big>שָׁ֣בְרוּ </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| Sha.ve.ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a yoke  | <span class="ashebrew"><big>עֹ֔ל </big></span><small><small><sup>[[H5923]]</sup></small></small> &#8207;| 'Ol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had torn off  | <span class="ashebrew"><big>נִתְּק֖וּ </big></span><small><small><sup>[[H5423]]</sup></small></small> &#8207;| ni.te.Ku <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fetters  | <span class="ashebrew"><big>מוֹסֵרֽוֹת </big></span><small><small><sup>[[H4147]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mo.se.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go  |**<big>&#8207;[[H1980G\|אֵֽלֲכָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.la.khah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> myself  |**<big>&#8207;[[H9005\|לִּ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גְּדֹלִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will speak  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H1696G\|אֲדַבְּרָ֣ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.da.be.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֗מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know  |**<big>&#8207;[[H3045\|יָדְעוּ֙]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ordinance of  |**<big>&#8207;[[H4941H\|מִשְׁפַּ֖ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nevertheless  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֤מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alike  |**<big>&#8207;[[H3162B\|יַחְדָּו֙]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had broken off  |**<big>&#8207;[[H7665\|שָׁ֣בְרוּ]]&#8207; </big>**| Sha.ve.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a yoke  |**<big>&#8207;[[H5923\|עֹ֔ל]]&#8207; </big>**| 'Ol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had torn off  |**<big>&#8207;[[H5423\|נִתְּק֖וּ]]&#8207; </big>**| ni.te.Ku<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fetters  |**<big>&#8207;[[H4147\|מוֹסֵרֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.se.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.4|<< Jeremiah 5:4]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.6|Jeremiah 5:6 >>]]</td></tr></table>
 
 

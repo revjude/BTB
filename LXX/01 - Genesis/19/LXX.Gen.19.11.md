@@ -7,29 +7,29 @@ And they smote the men that [were] at the door of the house with blindness, both
 And they struck the men at the entrance, young and old, with blindness, so that they wearied themselves trying to find the door.<small><sub>**MT:**</sub></small>
 [[Gen.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.10|<< Genesis 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.12|Genesis 19:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντας</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| were struck | <big><span class="asgreek">επάταξαν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| inability to see, | <big><span class="asgreek">αορασία</span></big> <sup><small><small>[[G6385]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| great, | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were disabled | <big><span class="asgreek">παρελύθησαν</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
-| \[in\] seeking | <big><span class="asgreek">ζητούντες</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door. | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
+| And the | **<big>[[G3588\|τους]]</big>** **<big>[[G1161\|δε]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| being | **<big>[[G1510\|όντας]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| were struck | **<big>[[G3960\|επάταξαν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| inability to see, | **<big>[[G6385\|αορασία]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| small | **<big>[[G3398\|μικρού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| great, | **<big>[[G3173\|μεγάλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were disabled | **<big>[[G3886\|παρελύθησαν]]</big>** |
+| \[in\] seeking | **<big>[[G2212\|ζητούντες]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door. | **<big>[[G2374\|θύραν]]</big>** |
 [[Gen.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.10|<< Genesis 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.12|Genesis 19:12 >>]]</td></tr></table>
 
 

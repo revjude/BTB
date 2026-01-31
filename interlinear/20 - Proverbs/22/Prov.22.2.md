@@ -6,14 +6,14 @@ The rich and the poor have this in common: The LORD is Maker of them all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.1|<< Proverbs 22:1]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.3|Proverbs 22:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] rich  | <span class="ashebrew"><big>עָשִׁ֣יר </big></span><small><small><sup>[[H6223]]</sup></small></small> &#8207;| 'a.Shir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] poor  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רָ֣שׁ </big></span><small><small><sup>[[H7326]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Rash <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they meet together  | <span class="ashebrew"><big>נִפְגָּ֑שׁוּ </big></span><small><small><sup>[[H6298]]</sup></small></small> &#8207;| nif.Ga.shu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] maker of  | <span class="ashebrew"><big>עֹשֵׂ֖ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of them  | <span class="ashebrew"><big>כֻלָּ֣ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| khu.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rich  |**<big>&#8207;[[H6223\|עָשִׁ֣יר]]&#8207; </big>**| 'a.Shir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] poor  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7326\|רָ֣שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they meet together  |**<big>&#8207;[[H6298\|נִפְגָּ֑שׁוּ]]&#8207; </big>**| nif.Ga.shu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] maker of  |**<big>&#8207;[[H6213H\|עֹשֵׂ֖ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻלָּ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| khu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.1|<< Proverbs 22:1]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.3|Proverbs 22:3 >>]]</td></tr></table>
 
 

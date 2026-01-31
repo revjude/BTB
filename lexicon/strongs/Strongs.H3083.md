@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹנָתָן‎</span></big> **Yᵉhôwnâthân** <small>*(yeh-ho-naw-thawn')*</small> ==**Jonathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup>; Jehovah-given</small>
+**<big><span class="ashebrew">‎יְהוֹנָתָן‎</span></big>** **Yᵉhôwnâthân** <small>*(yeh-ho-naw-thawn')*</small> ==**Jonathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H5414|‎נָתַן‎]]</big>**; Jehovah-given</small>
 
-$\quad$ Jonathan. Compare <span class="ashebrew">‎יוֹנָתָן‎</span><sup><small>[[H3129]]</small></sup>.
+$\quad$ Jonathan. Compare **<big>[[H3129|‎יוֹנָתָן‎]]</big>**.
 - § Jonathan or Jehonathan = *"Jehovah has given"*
 - ***Jehonathan***, the name of four Israelites
 

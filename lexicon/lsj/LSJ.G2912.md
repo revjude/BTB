@@ -1,4 +1,4 @@
-group of: <small>[[H3731]]</small> 
+group of: <small>**<big>[[H3731|כַּפְתֹּר]]</big>**</small> 
 
 
 1. <b>==Κρής== </b>, [<a href="javascript:void(0)" title="Homer">8th/7th c.BC</a>], etc.; <i>feminine</i> <span class='asgreek'>Κρῆσσα</span>, <span class='asgreek'>ης</span>, [<a href="javascript:void(0)" title="Aeschulus Tragicus">6th/5th c.BC</a>] 

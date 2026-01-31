@@ -6,15 +6,15 @@ I rejoice in Your promise like one who finds great spoil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.162|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.161|<< Psalms 119:161]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.163|Psalms 119:163 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [am] rejoicing  | <span class="ashebrew"><big>שָׂ֣שׂ </big></span><small><small><sup>[[H7797]]</sup></small></small> &#8207;| sas <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָ֭נֹכִֽי </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'A.no.khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| word your  | <span class="ashebrew"><big>אִמְרָתֶ֑ </big></span><small><small><sup>[[H0565A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'im.ra.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [one who] brings out  | <span class="ashebrew"><big>כְּ֝ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מוֹצֵ֗א </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> mo.Tze' <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> plunder  | <span class="ashebrew"><big>שָׁלָ֥ל </big></span><small><small><sup>[[H7998]]</sup></small></small> &#8207;| sha.Lal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| much  | <span class="ashebrew"><big>רָֽב </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] rejoicing  |**<big>&#8207;[[H7797\|שָׂ֣שׂ]]&#8207; </big>**| sas<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָ֭נֹכִֽי]]&#8207; </big>**| 'A.no.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word your  |**<big>&#8207;[[H0565A\|אִמְרָתֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'im.ra.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [one who] brings out  |**<big>&#8207;[[H9004\|כְּ֝]]&#8207;&#8207;[[H4672\|מוֹצֵ֗א]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mo.Tze'<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> plunder  |**<big>&#8207;[[H7998\|שָׁלָ֥ל]]&#8207; </big>**| sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| much  |**<big>&#8207;[[H7227A\|רָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.161|<< Psalms 119:161]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.163|Psalms 119:163 >>]]</td></tr></table>
 
 

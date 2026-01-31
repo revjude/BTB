@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Hoshaiah</span> was one of the leaders who participated in the dedication of the wall of Jerusalem during the time of Nehemiah.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.12.32|Neh.12.32]]; 
-- only referred to as Hoshaiah<[[H1955G]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Hoshaiah **<big>[[H1955|הוֹשַׁעְיָה]]</big>**.
 
 Hoshaiah is mentioned in [[Neh.12.32|Nehemiah 12:32]] as one of the leaders who participated in the dedication of the wall of Jerusalem. This event took place after the completion of the rebuilding of the city wall under the leadership of Nehemiah. 
 
@@ -16,5 +16,5 @@ Although no further information is provided about Hoshaiah in the Bible, his pre
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hoshaiah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1955G) <small>*Hebrew*</small> | 1x | [Neh.12.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshaiah\*\|reference=Neh.12.32) |
-All Strong's for **Hoshaiah**: \[[[H1955G]]\]
+| Hoshaiah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1955G) | 1x | [Neh.12.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshaiah\*\|reference=Neh.12.32) |
+All entries for **Hoshaiah**:  **<big>[[H1955|הוֹשַׁעְיָה]]</big>**

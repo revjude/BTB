@@ -7,47 +7,47 @@ And the altars that [were] on the top of the upper chamber of Ahaz, which the ki
 He pulled down the altars that the kings of Judah had set up on the roof near the upper chamber of Ahaz, and the altars that Manasseh had set up in the two courtyards of the house of the LORD. The king pulverized them there and threw their dust into the Kidron Valley.<small><sub>**MT:**</sub></small>
 [[2Kgs.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.11|<< 2 Kings 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.13|2 Kings 23:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altars, | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roof | <big><span class="asgreek">δώματος</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upper room | <big><span class="asgreek">υπερώου</span></big> <sup><small><small>[[G5253]]</small></small></sup> |
-| of Ahaz, | <big><span class="asgreek">Άχαζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altars | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Manasseh made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Μανασσής</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| courtyards | <big><span class="asgreek">αυλαίς</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| demolished | <big><span class="asgreek">καθείλεν</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tore down | <big><span class="asgreek">κατέσπασεν</span></big> <sup><small><small>[[G7924]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψε</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| Kidron. | <big><span class="asgreek">Κεδρών</span></big> <sup><small><small>[[H6939]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| altars, | **<big>[[G2379\|θυσιαστήρια]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| roof | **<big>[[G1430\|δώματος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| upper room | **<big>[[G5253\|υπερώου]]</big>** |
+| of Ahaz, | **<big>[[G0881\|Άχαζ]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| made | **<big>[[G4160\|εποίησαν]]</big>** |
+| \[the\] kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| altars | **<big>[[G2379\|θυσιαστήρια]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| Manasseh made | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G3128\|Μανασσής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| courtyards | **<big>[[G0833\|αυλαίς]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| demolished | **<big>[[G2507\|καθείλεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tore down | **<big>[[G7924\|κατέσπασεν]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed | **<big>[[G4496\|έρριψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their dust | **<big>[[G5522\|χουν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rushing stream | **<big>[[G5493\|χειμάρρουν]]</big>** |
+| Kidron. | **<big>[[H6939\|Κεδρών]]</big>** |
 [[2Kgs.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.11|<< 2 Kings 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.13|2 Kings 23:13 >>]]</td></tr></table>
 
 

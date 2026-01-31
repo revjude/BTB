@@ -7,29 +7,29 @@ Then said Jonathan, My father hath troubled the land: see, I pray you, how mine 
 “My father has brought trouble to the land,” Jonathan replied. “Just look at how my eyes have brightened because I tasted a little of this honey.<small><sub>**MT:**</sub></small>
 [[1Sam.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.28|<< 1 Samuel 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.30|1 Samuel 14:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonathan knew, | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| rids | <big><span class="asgreek">απήλλαχεν</span></big> <sup><small><small>[[G0525]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| My | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| behold | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| see | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[now\] that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I tasted | <big><span class="asgreek">εγευσάμην</span></big> <sup><small><small>[[G1089]]</small></small></sup> |
-| a little | <big><span class="asgreek">βραχύ</span></big> <sup><small><small>[[G1024]]</small></small></sup> |
-| something | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this honey. | <big><span class="asgreek">μέλιτος</span></big> <sup><small><small>[[G3192]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonathan knew, | **<big>[[G1097\|έγνω]]</big>** **<big>[[H3129\|Ιωναθάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| rids | **<big>[[G0525\|απήλλαχεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| My | **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land; | **<big>[[G1093\|γην]]</big>** |
+| behold | **<big>[[G1492\|ίδε]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| see | **<big>[[G1492\|είδον]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[now\] that | **<big>[[G3754\|ότι]]</big>** |
+| I tasted | **<big>[[G1089\|εγευσάμην]]</big>** |
+| a little | **<big>[[G1024\|βραχύ]]</big>** |
+| something | **<big>[[G5100\|τι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this honey. | **<big>[[G3192\|μέλιτος]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[1Sam.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.28|<< 1 Samuel 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.30|1 Samuel 14:30 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁפַטְיָה‎</span></big> **Shᵉphaṭyâh** <small>*(shef-at-yaw')*</small> ==**Shephatiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שְׁפַטְיָהוּ</span> **Shᵉphaṭyâhûw** <small>*(shef-at-yaw'-hoo)*</small>; from <span class="ashebrew">‎שָׁפַט‎</span><sup><small>[[H8199]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has judged</small>
+**<big><span class="ashebrew">‎שְׁפַטְיָה‎</span></big>** **Shᵉphaṭyâh** <small>*(shef-at-yaw')*</small> ==**Shephatiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁפַטְיָהוּ</span></big>** **Shᵉphaṭyâhûw** <small>*(shef-at-yaw'-hoo)*</small>; from **<big>[[H8199|‎שָׁפַט‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has judged</small>
 
 $\quad$ Shephatiah.
 - § Shephatiah = *"Jehovah has judged"*

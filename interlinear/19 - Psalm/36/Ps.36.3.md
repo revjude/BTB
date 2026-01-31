@@ -6,15 +6,15 @@ The words of his mouth are wicked and deceitful; he has ceased to be wise and we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.2|<< Psalms 36:2]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.4|Psalms 36:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] words of  | <span class="ashebrew"><big>דִּבְרֵי </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| div.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth his  | <span class="ashebrew"><big>פִ֭י </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| fi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] wickedness  | <span class="ashebrew"><big>אָ֣וֶן </big></span><small><small><sup>[[H0205G]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and deceit  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִרְמָ֑ה </big></span><small><small><sup>[[H4820]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mir.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has ceased  | <span class="ashebrew"><big>חָדַ֖ל </big></span><small><small><sup>[[H2308]]</sup></small></small> &#8207;| cha.Dal <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to act prudently  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַשְׂכִּ֣יל </big></span><small><small><sup>[[H7919A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> has.Kil <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to do good  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֵיטִֽיב </big></span><small><small><sup>[[H3190]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hei.Tiv <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| div.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth his  |**<big>&#8207;[[H6310G\|פִ֭י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| fi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] wickedness  |**<big>&#8207;[[H0205G\|אָ֣וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deceit  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4820\|מִרְמָ֑ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has ceased  |**<big>&#8207;[[H2308\|חָדַ֖ל]]&#8207; </big>**| cha.Dal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to act prudently  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7919A\|הַשְׂכִּ֣יל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> has.Kil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do good  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3190\|הֵיטִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hei.Tiv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.2|<< Psalms 36:2]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.4|Psalms 36:4 >>]]</td></tr></table>
 
 

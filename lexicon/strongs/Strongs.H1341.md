@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎גֵּא‎</span></big> **gêʼ** <small>*(gay')*</small> ==**proud**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>for <span class="ashebrew">‎גֵּאֶה‎</span><sup><small>[[H1343]]</small></sup></small>
+**<big><span class="ashebrew">‎גֵּא‎</span></big>** **gêʼ** <small>*(gay')*</small> ==**proud**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>for **<big>[[H1343|‎גֵּאֶה‎]]</big>**</small>
 
 $\quad$ proud.
 - ***haughty***
 
 **1)** proud
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γέεννα</span><sup><small>[[G1067]]</small></sup> · <span class="asgreek">γέεννα</span><sup><small>[[G1067]]</small></sup> · <span class="asgreek">γέεννα</span><sup><small>[[G1067]]</small></sup> · <span class="asgreek">ὑβριστής</span><sup><small>[[G5197]]</small></sup> · <span class="asgreek">χείμαῤῥος</span><sup><small>[[G5493]]</small></sup>
+<small>See Greek: </small>**<big>[[G1067|γέεννα]]</big>** · **<big>[[G1067|γέεννα]]</big>** · **<big>[[G1067|γέεννα]]</big>** · **<big>[[G5197|ὑβριστής]]</big>** · **<big>[[G5493|χείμαῤῥος]]</big>**

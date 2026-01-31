@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּאֻלָּה‎</span></big> **gᵉʼullâh** <small>*(gheh-ool-law')*</small> ==**redemption**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine passive participle of <span class="ashebrew">‎גָּאַל‎</span><sup><small>[[H1350]]</small></sup></small>
+**<big><span class="ashebrew">‎גְּאֻלָּה‎</span></big>** **gᵉʼullâh** <small>*(gheh-ool-law')*</small> ==**redemption**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine passive participle of **<big>[[H1350|‎גָּאַל‎]]</big>**</small>
 
 $\quad$ kindred, redeem, redemption, right.
 - ***redemption*** (including the right and the object)
@@ -11,4 +11,4 @@ $\quad$ **1b)** redemption
 $\quad$ **1c)** right of redemption
 $\quad$ **1d)** price of redemption, redemption price
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λύτρον</span><sup><small>[[G3083]]</small></sup> · <span class="asgreek">λύτρωσις</span><sup><small>[[G3085]]</small></sup> · <span class="asgreek">λύτρωσις</span><sup><small>[[G3085]]</small></sup>
+<small>See Greek: </small>**<big>[[G3083|λύτρον]]</big>** · **<big>[[G3085|λύτρωσις]]</big>** · **<big>[[G3085|λύτρωσις]]</big>**

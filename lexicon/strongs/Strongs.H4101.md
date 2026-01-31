@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מָה‎</span></big> **mâh** <small>*(maw)*</small> ==**what?**==  <sup><small>[[TEHMC#A:Intg|A:Intg]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מָה‎</span><sup><small>[[H4100]]</small></sup></small>
+**<big><span class="asaramaic">‎מָה‎</span></big>** **mâh** <small>*(maw)*</small> ==**what?**==  <sup><small>[[TEHMC#A:Intg|A:Intg]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4100|‎מָה‎]]</big>**</small>
 
 $\quad$ how great (mighty), that which, what(-soever), why.
 - {properly, ***interrogative what?*** (including how? why? when?)

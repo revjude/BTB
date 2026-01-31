@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">εὐλογία</span></span>, <span class="asgreek">-ας, ἡ</span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">בְּרָכָה</span> <small><sup>[[H1293]]</sup></small> ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">εὐλογία</span></span>, <span class="asgreek">-ας, ἡ</span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H1293|בְּרָכָה]]</big>** ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">fair speaking, flattering speech</span>: <span class="asgreek">χρηστολογίας καὶ εὐ.</span>, [[Rom.16.18|Ro 16:18]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">praise</span>: of God (as in late Inscr.; LS, s.v.) and Christ, [[Rev.5.12|Re 5:12]], [[Rev.5.13|13]] [[Rev.7.12|7:12]]</span>
 <span class="asbullet"><span class="asbold">3.</span> In LXX and NT: <span class="asitalic">blessing, benediction</span>;</span>

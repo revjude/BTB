@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַבֵל מַיִם‎</span></big> **ʼAbêl Mayim** <small>*(aw-bale' mah'-yim)*</small> ==**Abel-maim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבֵל‎</span><sup><small>[[H0058]]</small></sup> and <span class="ashebrew">‎מַיִם‎</span><sup><small>[[H4325]]</small></sup>; meadow of water</small>
+**<big><span class="ashebrew">‎אַבֵל מַיִם‎</span></big>** **ʼAbêl Mayim** <small>*(aw-bale' mah'-yim)*</small> ==**Abel-maim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0058|‎אָבֵל‎]]</big>** and **<big>[[H4325|‎מַיִם‎]]</big>**; meadow of water</small>
 
 $\quad$ Abel-maim.
 - § Abel Maim = *"meadow of waters"*

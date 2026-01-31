@@ -6,7 +6,7 @@
 
 <span class="bdbLangHebrew">‎דְּדָ֫נֶה‎</span> see <span class="bdbLangHebrew">‎דְּדָןָ‎</span>. 
 
-<small>Also see: [[H1721]]</small>
+<small>Also see: **<big>[[H1721|דֹּדָנִים]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רֹדָן‎</span> **proper name, of a location or a people** ==Rhodes, Rhodians==, so read, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּנֵי ר‎</span> [[Ezek.27.15|Ezek 27:15]] (for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎בְּנֵי דְּדָן‎</span>, see <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ד‎</span> **1**), [[BDB#Sept|ᵐ5]] [[BDB#Sta|Sta]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] Toy [[BDB#Krae|Krae]]. 
 

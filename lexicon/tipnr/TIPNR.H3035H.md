@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jaddai</span> was among the Israelites who agreed to put away their foreign wives during Ezra's reforms \([[Ezra.10.43|Ezr.10.43]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.43|Ezr.10.43]]; 
-- only referred to as Jaddai<[[H3035H]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ\).
+- only referred to as Jaddai **<big>[[H3035|יִדּוֹ]]</big>**.
 
 Jaddai is mentioned briefly in [[Ezra.10.43|Ezra 10:43]] as one of the Israelites who had married foreign women. This occurred during the time of Ezra, a priest and scribe who led a significant reform movement among the Jews who had returned from Babylonian exile. 
 
@@ -16,5 +16,5 @@ No other details are provided about Jaddai's life, family, or the specific circu
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaddai (=Qere. Ketiv, KJV= Jadau) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H3035H) <small>*Hebrew*</small> | 1x | [Ezr.10.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaddai\*\|reference=Ezr.10.43) |
-All Strong's for **Jaddai**: \[[[H3035H]]\]
+| Jaddai (=Qere. Ketiv, KJV= Jadau) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H3035H) | 1x | [Ezr.10.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaddai\*\|reference=Ezr.10.43) |
+All entries for **Jaddai**:  **<big>[[H3035|יִדּוֹ]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָדַר‎</span></big> **ʼâdar** <small>*(aw-dar')*</small> ==**be glorious**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָדַר‎</span></big>** **ʼâdar** <small>*(aw-dar')*</small> ==**be glorious**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (become) glorious, honourable.

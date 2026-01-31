@@ -7,41 +7,41 @@ And the LORD delivered them into the hand of Israel, who smote them, and chased 
 and the LORD delivered them into the hand of Israel, who struck them down and pursued them all the way to Greater Sidon and Misrephoth-maim, and eastward as far as the Valley of Mizpeh. They struck them down, leaving no survivors.<small><sub>**MT:**</sub></small>
 [[Josh.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.7|<< Joshua 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.9|Joshua 11:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| delivered | <big><span class="asgreek">παρέδωκεν</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| under the hands | <big><span class="asgreek">υποχειρίους</span></big> <sup><small><small>[[G9597]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beating | <big><span class="asgreek">κόπτοντες</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they pursued | <big><span class="asgreek">κατεδίωκον</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Sidon | <big><span class="asgreek">Σιδώνος</span></big> <sup><small><small>[[G4605]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλης</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Misrephoth-maim, | <big><span class="asgreek">Μασρεφώθ μαϊν</span></big> <sup><small><small>[[H4956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plains | <big><span class="asgreek">πεδίων</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of Mizpeh | <big><span class="asgreek">Μασσηφά</span></big> <sup><small><small>[[H4709]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eastwards. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they slew them | <big><span class="asgreek">κατέκοψαν</span></big> <sup><small><small>[[G2629]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">καταλειφθήναι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| one surviving. | <big><span class="asgreek">διασεσωσμένον</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| delivered | **<big>[[G3860\|παρέδωκεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| under the hands | **<big>[[G9597\|υποχειρίους]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| beating | **<big>[[G2875\|κόπτοντες]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| they pursued | **<big>[[G2614\|κατεδίωκον]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Sidon | **<big>[[G4605\|Σιδώνος]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| great | **<big>[[G3173\|μεγάλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Misrephoth-maim, | **<big>[[H4956\|Μασρεφώθ μαϊν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| plains | **<big>[[G8676\|πεδίων]]</big>** |
+| of Mizpeh | **<big>[[H4709\|Μασσηφά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eastwards. | **<big>[[G0395\|ανατολάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they slew them | **<big>[[G2629\|κατέκοψαν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| being left behind | **<big>[[G2641\|καταλειφθήναι]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| one surviving. | **<big>[[G1295\|διασεσωσμένον]]</big>** |
 [[Josh.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.7|<< Joshua 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.9|Joshua 11:9 >>]]</td></tr></table>
 
 

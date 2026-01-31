@@ -7,25 +7,25 @@ And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to S
 Allammelech, Amad, and Mishal. On the west the border touched Carmel and Shihor-libnath,<small><sub>**MT:**</sub></small>
 [[Josh.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.25|<< Joshua 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.27|Joshua 19:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Alammelech, | <big><span class="asgreek">Ελμέλεχ</span></big> <sup><small><small>[[H0487]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amad, | <big><span class="asgreek">Αμαάδ</span></big> <sup><small><small>[[H6008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Misheal, | <big><span class="asgreek">Μασάλ</span></big> <sup><small><small>[[H4861]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall join together | <big><span class="asgreek">συνάψει</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Carmel | <big><span class="asgreek">Καρμήλω</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] west, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Shihor, | <big><span class="asgreek">Συώρ</span></big> <sup><small><small>[[H7883]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Libnath. | <big><span class="asgreek">Λαβανάθ</span></big> <sup><small><small>[[H7884]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Alammelech, | **<big>[[H0487\|Ελμέλεχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amad, | **<big>[[H6008\|Αμαάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Misheal, | **<big>[[H4861\|Μασάλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall join together | **<big>[[G9297\|συνάψει]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Carmel | **<big>[[H3760\|Καρμήλω]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] west, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Shihor, | **<big>[[H7883\|Συώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Libnath. | **<big>[[H7884\|Λαβανάθ]]</big>** |
 [[Josh.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.25|<< Joshua 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.27|Joshua 19:27 >>]]</td></tr></table>
 
 

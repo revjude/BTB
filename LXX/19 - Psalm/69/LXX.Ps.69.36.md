@@ -7,23 +7,23 @@ The seed also of his servants shall inherit it: and they that love his name shal
 The descendants of His servants will inherit it, and those who love His name will settle in it.<small><sub>**MT:**</sub></small>
 [[Ps.69.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.35|<< Psalm 69:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.70.1|Psalm 70:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall hold | <big><span class="asgreek">καθέξουσιν</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones loving | <big><span class="asgreek">αγαπώντες</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall encamp | <big><span class="asgreek">κατασκηνώσουσιν</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your servants | **<big>[[G1401\|δούλων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall hold | **<big>[[G2722\|καθέξουσιν]]</big>** |
+| her; | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones loving | **<big>[[G0025\|αγαπώντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall encamp | **<big>[[G2681\|κατασκηνώσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
 [[Ps.69.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.35|<< Psalm 69:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.70.1|Psalm 70:1 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלְקוֹשׁ‎</span></big> **malqôwsh** <small>*(mal-koshe')*</small> ==**spring rain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎לָקַשׁ‎</span><sup><small>[[H3953]]</small></sup>; (compare <span class="ashebrew">‎לֶקֶשׁ‎</span><sup><small>[[H3954]]</small></sup>)</small>
+**<big><span class="ashebrew">‎מַלְקוֹשׁ‎</span></big>** **malqôwsh** <small>*(mal-koshe')*</small> ==**spring rain**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3953|‎לָקַשׁ‎]]</big>**; (compare **<big>[[H3954|‎לֶקֶשׁ‎]]</big>**)</small>
 
 $\quad$ latter rain.
 - ***the spring rain***
@@ -8,4 +8,4 @@ $\quad$ latter rain.
 **1)** latter rain, spring rain
 $\quad$ **1a)** the March and April rains which mature the crops of Palestine
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὄψιμος</span><sup><small>[[G3797]]</small></sup>
+<small>See Greek: </small>**<big>[[G3797|ὄψιμος]]</big>**

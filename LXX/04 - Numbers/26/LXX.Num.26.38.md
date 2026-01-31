@@ -7,27 +7,27 @@ The sons of Benjamin after their families: of Bela, the family of the Belaites: 
 These were the descendants of Benjamin by their clans: The Belaite clan from Bela, the Ashbelite clan from Ashbel, the Ahiramite clan from Ahiram,<small><sub>**MT:**</sub></small>
 [[Num.26.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.37|<< Numbers 26:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.39|Numbers 26:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their peoples -- | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bela, | <big><span class="asgreek">Βαλέ</span></big> <sup><small><small>[[H1106a]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Belaites; | <big><span class="asgreek">Βαλεί</span></big> <sup><small><small>[[H1108]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashbel, | <big><span class="asgreek">Ασυβήλ</span></big> <sup><small><small>[[H0788]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashbelites; | <big><span class="asgreek">Ασυβηλί</span></big> <sup><small><small>[[H0788]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahiram, | <big><span class="asgreek">Ιχειρώμ</span></big> <sup><small><small>[[H0297]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahiramites; | <big><span class="asgreek">Αχειρωμί</span></big> <sup><small><small>[[H0297]]</small></small></sup> |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Benjamin | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their peoples -- | **<big>[[G1218\|δήμους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Bela, | **<big>[[H1106a\|Βαλέ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Belaites; | **<big>[[H1108\|Βαλεί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Ashbel, | **<big>[[H0788\|Ασυβήλ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ashbelites; | **<big>[[H0788\|Ασυβηλί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Ahiram, | **<big>[[H0297\|Ιχειρώμ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ahiramites; | **<big>[[H0297\|Αχειρωμί]]</big>** |
 [[Num.26.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.37|<< Numbers 26:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.39|Numbers 26:39 >>]]</td></tr></table>
 
 

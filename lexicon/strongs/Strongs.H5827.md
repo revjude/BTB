@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עֶזֶר‎</span></big> **ʻEzer** <small>*(eh'-zer)*</small> ==**Ezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָזַר‎</span><sup><small>[[H5826]]</small></sup>; help</small>
+**<big><span class="ashebrew">‎עֶזֶר‎</span></big>** **ʻEzer** <small>*(eh'-zer)*</small> ==**Ezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5826|‎עָזַר‎]]</big>**; help</small>
 
-$\quad$ Ezer. Compare <span class="ashebrew">‎עֵזֶר‎</span><sup><small>[[H5829]]</small></sup>.
+$\quad$ Ezer. Compare **<big>[[H5829|‎עֵזֶר‎]]</big>**.
 - § Ezer = *"treasure"*
 - ***Ezer***, the name of two Israelites
 

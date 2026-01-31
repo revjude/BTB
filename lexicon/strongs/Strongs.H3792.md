@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎כְּתָב‎</span></big> **kᵉthâb** <small>*(keth-awb')*</small> ==**inscription**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎כָּתָב‎</span><sup><small>[[H3791]]</small></sup></small>
+**<big><span class="asaramaic">‎כְּתָב‎</span></big>** **kᵉthâb** <small>*(keth-awb')*</small> ==**inscription**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3791|‎כָּתָב‎]]</big>**</small>
 
 $\quad$ prescribing, writing(-ten).
 - {***something written***, i.e. ***a writing***, ***record*** or ***book***}

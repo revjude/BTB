@@ -7,23 +7,23 @@ Thou hidest thy face, they are troubled: thou takest away their breath, they die
 When You hide Your face, they are terrified; when You take away their breath, they die and return to dust.<small><sub>**MT:**</sub></small>
 [[Ps.104.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.28|<< Psalm 104:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.30|Psalm 104:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But \[at the\] turning | <big><span class="asgreek">αποστρέψαντος</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| they shall be disturbed; | <big><span class="asgreek">ταραχθήσονται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| you shall take away in return | <big><span class="asgreek">αντανελείς</span></big> <sup><small><small>[[G6357]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their spirit, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall fail, | <big><span class="asgreek">εκλείψουσι</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall return. | <big><span class="asgreek">επιστρέψουσιν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| But \[at the\] turning | **<big>[[G0654\|αποστρέψαντος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| they shall be disturbed; | **<big>[[G5015\|ταραχθήσονται]]</big>** |
+| you shall take away in return | **<big>[[G6357\|αντανελείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their spirit, | **<big>[[G4151\|πνεύμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall fail, | **<big>[[G1587\|εκλείψουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their dust | **<big>[[G5522\|χουν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they shall return. | **<big>[[G1994\|επιστρέψουσιν]]</big>** |
 [[Ps.104.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.28|<< Psalm 104:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.30|Psalm 104:30 >>]]</td></tr></table>
 
 

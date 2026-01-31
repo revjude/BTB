@@ -6,14 +6,14 @@ In the LORD all descendants of Israel will be justified and will exult.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.24|<< Isaiah 45:24]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.1|Isaiah 46:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| by Yahweh  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be justified  | <span class="ashebrew"><big>יִצְדְּק֥וּ </big></span><small><small><sup>[[H6663]]</sup></small></small> &#8207;| yitz.de.Ku <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may boast  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִֽתְהַלְל֖וּ </big></span><small><small><sup>[[H1984H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yit.ha.Lu <small><sup>[[HVtu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] offspring of  | <span class="ashebrew"><big>זֶ֥רַע </big></span><small><small><sup>[[H2233H]]</sup></small></small> &#8207;| Ze.ra' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהוָ֛ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be justified  |**<big>&#8207;[[H6663\|יִצְדְּק֥וּ]]&#8207; </big>**| yitz.de.Ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may boast  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1984H\|יִֽתְהַלְל֖וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yit.ha.Lu<small><sup>[[HVtu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] offspring of  |**<big>&#8207;[[H2233H\|זֶ֥רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.24|<< Isaiah 45:24]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.1|Isaiah 46:1 >>]]</td></tr></table>
 
 

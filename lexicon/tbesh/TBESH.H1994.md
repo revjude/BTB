@@ -1,3 +1,1 @@
-<span class="asaramaic">‎הִמּוֹ‎</span> <small>***(him.mo)***</small> ==**they**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-Aramaic of: <small>[[H1992]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1992|הֵם]]</big>**</small>

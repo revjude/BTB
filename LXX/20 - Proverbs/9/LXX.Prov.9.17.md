@@ -7,17 +7,17 @@ Stolen waters are sweet, and bread [eaten] in secret is pleasant.
 “Stolen water is sweet, and bread eaten in secret is tasty!”<small><sub>**MT:**</sub></small>
 [[Prov.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.16|<< Proverbs 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.18|Proverbs 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Bread loaves | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| of secrets | <big><span class="asgreek">κρυφίων</span></big> <sup><small><small>[[G8107]]</small></small></sup> |
-| with pleasure | <big><span class="asgreek">ηδέως</span></big> <sup><small><small>[[G2234]]</small></small></sup> |
-| you touch | <big><span class="asgreek">άψασθε</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of fraud | <big><span class="asgreek">κλοπής</span></big> <sup><small><small>[[G2829]]</small></small></sup> |
-| sweet | <big><span class="asgreek">γλυκερού</span></big> <sup><small><small>[[G6742]]</small></small></sup> |
-| you drink | <big><span class="asgreek">πίετε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| Bread loaves | **<big>[[G0740\|άρτων]]</big>** |
+| of secrets | **<big>[[G8107\|κρυφίων]]</big>** |
+| with pleasure | **<big>[[G2234\|ηδέως]]</big>** |
+| you touch | **<big>[[G0680\|άψασθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| of fraud | **<big>[[G2829\|κλοπής]]</big>** |
+| sweet | **<big>[[G6742\|γλυκερού]]</big>** |
+| you drink | **<big>[[G4095\|πίετε]]</big>** |
 [[Prov.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.16|<< Proverbs 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.18|Proverbs 9:18 >>]]</td></tr></table>
 
 

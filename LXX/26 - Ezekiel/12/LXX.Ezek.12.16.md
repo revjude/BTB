@@ -7,39 +7,39 @@ But I will leave a few men of them from the sword, from the famine, and from the
 But I will spare a few of them from sword and famine and plague, so that in the nations to which they go, they can recount all their abominations. Then they will know that I am the LORD.”<small><sub>**MT:**</sub></small>
 [[Ezek.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.15|<< Ezekiel 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.17|Ezekiel 12:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will leave | <big><span class="asgreek">υπολείψομαι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a \[few\] men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in number | <big><span class="asgreek">αριθμώ</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] broadsword, | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| famine, | <big><span class="asgreek">λιμού</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| plague; | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| so | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| even | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they may tell in detail | <big><span class="asgreek">εκδιηγώνται</span></big> <sup><small><small>[[G1555]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lawless deeds | <big><span class="asgreek">ανομίας αυτών</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθοσαν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| there; | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will leave | **<big>[[G5275\|υπολείψομαι]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| a \[few\] men | **<big>[[G0435\|άνδρας]]</big>** |
+| in number | **<big>[[G0706\|αριθμώ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] broadsword, | **<big>[[G4501\|ρομφαίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| famine, | **<big>[[G3042\|λιμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| plague; | **<big>[[G2288\|θανάτου]]</big>** |
+| so | **<big>[[G3704\|όπως]]</big>** |
+| even | **<big>[[G0302\|αν]]</big>** |
+| they may tell in detail | **<big>[[G1555\|εκδιηγώνται]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their lawless deeds | **<big>[[G0458\|ανομίας αυτών]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσιν]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθοσαν]]</big>** |
+| there; | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.15|<< Ezekiel 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.17|Ezekiel 12:17 >>]]</td></tr></table>
 
 

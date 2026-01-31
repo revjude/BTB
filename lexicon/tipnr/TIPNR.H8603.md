@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Tophel</span>, a location mentioned in Moses' speech to the Israelites, possibly near modern-day et-Tafeleh, southeast of the Dead Sea \(Deut. 1:1\).
 - A location only mentioned at [[1Chr.4.29|Deu.1.1]]; 
-- only referred to as Tophel<[[H8603]]> \(<span class='tipnrLangHebrew'>ת</span>ֹּ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Tophel **<big>[[H8603|תֹּפֶל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.936991,35.616870&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tophel is mentioned only once in the Bible, in Deuteronomy 1:1, as one of the pl
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tophel | [<span class='tipnrLangHebrew'>ת</span>ֹּ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H8603) <small>*Hebrew*</small> | 1x | [Deu.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tophel\*\|reference=Deu.1.1) |
-All Strong's for **Tophel**: \[[[H8603]]\]
+| Tophel | [<span class='tipnrLangHebrew'>ת</span>ֹּ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H8603) | 1x | [Deu.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tophel\*\|reference=Deu.1.1) |
+All entries for **Tophel**:  **<big>[[H8603|תֹּפֶל]]</big>**

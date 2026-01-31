@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Abilene</span>, a region north of Damascus, ruled by the tetrarch Lysanias.
 - A location only mentioned at [[Luke.3.1|Luk.3.1]]; 
-- only referred to as Abilene<[[G0009]]> \(<span class='tipnrLangGreek'>Ἀβιληνή</span>\).
+- only referred to as Abilene **<big>[[G0009|Ἀβιληνή]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.587300,36.091710&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Abilene was a region located north of Damascus, Syria, mentioned in [[Luke.3.1|L
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abilene | [<span class='tipnrLangGreek'>Ἀβιληνή</span>](G0009) <small>*Greek*</small> | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abilene\*\|reference=Luk.3.1) |
-All Strong's for **Abilene**: \[[[G0009]]\]
+| Abilene | [<span class='tipnrLangGreek'>Ἀβιληνή</span>](G0009) | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abilene\*\|reference=Luk.3.1) |
+All entries for **Abilene**:  **<big>[[G0009|Ἀβιληνή]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּפַל‎</span></big> **kâphal** <small>*(kaw-fal')*</small> ==**to double**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּפַל‎</span></big>** **kâphal** <small>*(kaw-fal')*</small> ==**to double**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ double.
@@ -9,4 +9,4 @@ $\quad$ double.
 $\quad$ **1a)** (Qal) to double over
 $\quad$ **1b)** (Niphal) to be doubled
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διπλοῦς</span><sup><small>[[G1362]]</small></sup>
+<small>See Greek: </small>**<big>[[G1362|διπλοῦς]]</big>**

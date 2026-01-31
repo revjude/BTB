@@ -7,21 +7,21 @@ And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them 
 So Abraham brought sheep and cattle and gave them to Abimelech, and the two men made a covenant.<small><sub>**MT:**</sub></small>
 [[Gen.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.26|<< Genesis 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.28|Genesis 21:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abraham took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Abimelech, | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ordained | <big><span class="asgreek">διέθεντο</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abraham took | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[G0011\|Αβραάμ]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Abimelech, | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ordained | **<big>[[G1303\|διέθεντο]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
 [[Gen.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.26|<< Genesis 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.28|Genesis 21:28 >>]]</td></tr></table>
 
 

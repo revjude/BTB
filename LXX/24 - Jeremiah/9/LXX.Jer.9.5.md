@@ -7,26 +7,26 @@ And they will deceive every one his neighbour, and will not speak the truth: the
 Each one betrays his friend; no one tells the truth. They have taught their tongues to lie; they wear themselves out committing iniquity.<small><sub>**MT:**</sub></small>
 [[Jer.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.4|<< Jeremiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.6|Jeremiah 9:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his friend | <big><span class="asgreek">φίλου</span></big> <sup><small><small>[[G5384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall mock | <big><span class="asgreek">καταπαίξεται</span></big> <sup><small><small>[[G7885]]</small></small></sup> |
-| truth | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they speak | <big><span class="asgreek">λαλήσωσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| has learned | <big><span class="asgreek">μεμάθηκεν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| falsely. | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| They wronged, | <big><span class="asgreek">ηδίκησαν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stopped not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διέλιπον</span></big> <sup><small><small>[[G1257]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to turn back. | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| Each | **<big>[[G1538\|έκαστος]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his friend | **<big>[[G5384\|φίλου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall mock | **<big>[[G7885\|καταπαίξεται]]</big>** |
+| truth | **<big>[[G0225\|αλήθειαν]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they speak | **<big>[[G2980\|λαλήσωσι]]</big>** |
+| has learned | **<big>[[G3129\|μεμάθηκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Their tongue | **<big>[[G1100\|γλώσσα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to speak | **<big>[[G2980\|λαλείν]]</big>** |
+| falsely. | **<big>[[G5571\|ψευδή]]</big>** |
+| They wronged, | **<big>[[G0091\|ηδίκησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stopped not | **<big>[[G3756\|ου]]</big>** **<big>[[G1257\|διέλιπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to turn back. | **<big>[[G1994\|επιστρέψαι]]</big>** |
 [[Jer.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.4|<< Jeremiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.6|Jeremiah 9:6 >>]]</td></tr></table>
 
 

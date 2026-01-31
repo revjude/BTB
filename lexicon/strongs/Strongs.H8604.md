@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּפְלָה‎</span></big> **tiphlâh** <small>*(tif-law')*</small> ==**folly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎תָּפֵל‎</span><sup><small>[[H8602]]</small></sup></small>
+**<big><span class="ashebrew">‎תִּפְלָה‎</span></big>** **tiphlâh** <small>*(tif-law')*</small> ==**folly**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from the same as **<big>[[H8602|‎תָּפֵל‎]]</big>**</small>
 
 $\quad$ folly, foolishly.
 - ***frivolity***

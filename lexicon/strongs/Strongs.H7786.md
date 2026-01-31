@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שׂוּר‎</span></big> **sûwr** <small>*(soor)*</small> ==**to reign**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שׂוּר‎</span></big>** **sûwr** <small>*(soor)*</small> ==**to reign**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ make princes, have power, reign. See <span class="ashebrew">‎סוּר‎</span><sup><small>[[H5493]]</small></sup>.
+$\quad$ make princes, have power, reign. See **<big>[[H5493|‎סוּר‎]]</big>**.
 - properly, ***to vanquish***
 -  by implication, ***to rule*** (causatively, crown)
 

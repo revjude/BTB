@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית חׇגְלָה‎</span></big> **Bêyth Choglâh** <small>*(bayth chog-law')*</small> ==**Beth-hoglah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and the same as <span class="ashebrew">‎חׇגְלָה‎</span><sup><small>[[H2295]]</small></sup>; house of a partridge</small>
+**<big><span class="ashebrew">‎בֵּית חׇגְלָה‎</span></big>** **Bêyth Choglâh** <small>*(bayth chog-law')*</small> ==**Beth-hoglah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and the same as **<big>[[H2295|‎חׇגְלָה‎]]</big>**; house of a partridge</small>
 
 $\quad$ Beth-hoglah.
 - § Beth-hoglah = *"house of the partridge" or "place of partridge"*

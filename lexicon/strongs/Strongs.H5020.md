@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְבוּכַדְנֶצַּר‎</span></big> **Nᵉbûwkadnetstsar** <small>*(neb-oo-kad-nets-tsar')*</small> ==**Nebuchadnezzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נְבוּכַדְנֶאצַּר‎</span><sup><small>[[H5019]]</small></sup></small>
+**<big><span class="asaramaic">‎נְבוּכַדְנֶצַּר‎</span></big>** **Nᵉbûwkadnetstsar** <small>*(neb-oo-kad-nets-tsar')*</small> ==**Nebuchadnezzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5019|‎נְבוּכַדְנֶאצַּר‎]]</big>**</small>
 
 $\quad$ Nebuchadnezzar.
 - § Nebuchadnezzar = *"may Nebo protect the crown"*

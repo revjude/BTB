@@ -6,21 +6,21 @@ The LORD will turn the rain of your land into dust and powder; it will descend o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he will make  | <span class="ashebrew"><big>יִתֵּ֧ן </big></span><small><small><sup>[[H5414I]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] rain of  | <span class="ashebrew"><big>מְטַ֥ר </big></span><small><small><sup>[[H4306]]</sup></small></small> &#8207;| me.Tar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| land your  | <span class="ashebrew"><big>אַרְצְ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'ar.tze. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dust  | <span class="ashebrew"><big>אָבָ֣ק </big></span><small><small><sup>[[H0080]]</sup></small></small> &#8207;| 'a.Vak <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and dust  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עָפָ֑ר </big></span><small><small><sup>[[H6083]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the heavens  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׁמַ֙יִם֙ </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come down  | <span class="ashebrew"><big>יֵרֵ֣ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ye.Red <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on you  | <span class="ashebrew"><big>עָלֶ֔י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַ֖ד </big></span><small><small><sup>[[H5704]]</sup></small></small> &#8207;| 'ad <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| being destroyed you  | <span class="ashebrew"><big>הִשָּׁמְדָֽ </big></span><small><small><sup>[[H8045]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9041]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hi.sha.me.Da <small><sup>[[HVNcc]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make  |**<big>&#8207;[[H5414I\|יִתֵּ֧ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rain of  |**<big>&#8207;[[H4306\|מְטַ֥ר]]&#8207; </big>**| me.Tar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land your  |**<big>&#8207;[[H0776G\|אַרְצְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dust  |**<big>&#8207;[[H0080\|אָבָ֣ק]]&#8207; </big>**| 'a.Vak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and dust  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6083\|עָפָ֑ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֙יִם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come down  |**<big>&#8207;[[H3381\|יֵרֵ֣ד]]&#8207; </big>**| ye.Red<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  |**<big>&#8207;[[H5921A\|עָלֶ֔י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being destroyed you  |**<big>&#8207;[[H8045\|הִשָּׁמְדָֽ]]&#8207;&#8207;[[H9041\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hi.sha.me.Da<small><sup>[[HVNcc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 
 

@@ -1,5 +1,4 @@
-<span class="asaramaic">‎קָל‎</span> <small>***(qal)***</small> ==**voice**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H6963H]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6963H|קוֹל]]</big>**</small> 
 
 - : voice
-- Aramaic of <i>qol</i> (<span class='ashebrew'>‎קו‎</span>ֹ<span class='ashebrew'>‎ל‎</span> ": sound" [[H6963H]])
+- Aramaic of <i>qol</i> (<span class='ashebrew'>‎קו‎</span>ֹ<span class='ashebrew'>‎ל‎</span> ": sound" **<big>[[H6963H|קוֹל]]</big>**)

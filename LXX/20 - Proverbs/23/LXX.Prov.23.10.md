@@ -7,17 +7,17 @@ Remove not the old landmark; and enter not into the fields of the fatherless:
 Do not move an ancient boundary stone or encroach on the fields of the fatherless,<small><sub>**MT:**</sub></small>
 [[Prov.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.9|<< Proverbs 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.11|Proverbs 23:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| transpose | <big><span class="asgreek">μεταθής</span></big> <sup><small><small>[[G3346]]</small></small></sup> |
-| boundaries | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| \[the\] everlasting | <big><span class="asgreek">αιώνια</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] possession | <big><span class="asgreek">κτήμα</span></big> <sup><small><small>[[G2933]]</small></small></sup> |
-| of orphans | <big><span class="asgreek">ορφανών</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| enter \[to take\]; | <big><span class="asgreek">εισέλθης</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| transpose | **<big>[[G3346\|μεταθής]]</big>** |
+| boundaries | **<big>[[G3725\|όρια]]</big>** |
+| \[the\] everlasting | **<big>[[G0166\|αιώνια]]</big>** |
+| and to | **<big>[[G1519\|εις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] possession | **<big>[[G2933\|κτήμα]]</big>** |
+| of orphans | **<big>[[G3737\|ορφανών]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| enter \[to take\]; | **<big>[[G1525\|εισέλθης]]</big>** |
 [[Prov.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.9|<< Proverbs 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.11|Proverbs 23:11 >>]]</td></tr></table>
 
 

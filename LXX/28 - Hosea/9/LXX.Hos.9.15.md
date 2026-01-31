@@ -7,36 +7,36 @@ All their wickedness [is] in Gilgal: for there I hated them: for the wickedness 
 All their evil appears at Gilgal, for there I hated them. I will drive them from My house for the wickedness of their deeds. I will no longer love them; all their leaders are rebellious.<small><sub>**MT:**</sub></small>
 [[Hos.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their evils | <big><span class="asgreek">κακίαι</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gilgal, | <big><span class="asgreek">Γαλγάλ</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| I detested | <big><span class="asgreek">εμίσησα</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακίας</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their practices | <big><span class="asgreek">επιτηδευμάτων</span></big> <sup><small><small>[[G7461]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will cast | <big><span class="asgreek">εκβαλώ</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| No way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I proceed | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to love | <big><span class="asgreek">αγαπήσαι</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| resist persuasion. | <big><span class="asgreek">απειθούντες</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
+| All | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their evils | **<big>[[G2549\|κακίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| Gilgal, | **<big>[[H1537\|Γαλγάλ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| I detested | **<big>[[G3404\|εμίσησα]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| evils | **<big>[[G2549\|κακίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their practices | **<big>[[G7461\|επιτηδευμάτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my house | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will cast | **<big>[[G1544\|εκβαλώ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| No way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I proceed | **<big>[[G4369\|προσθήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to love | **<big>[[G0025\|αγαπήσαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| resist persuasion. | **<big>[[G0544\|απειθούντες]]</big>** |
 [[Hos.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 
 

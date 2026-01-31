@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אַמָּה‎</span></big> **ʼammâh** <small>*(am-maw')*</small> ==**cubit**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אַמָּה‎</span><sup><small>[[H0520]]</small></sup></small>
+**<big><span class="asaramaic">‎אַמָּה‎</span></big>** **ʼammâh** <small>*(am-maw')*</small> ==**cubit**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0520|‎אַמָּה‎]]</big>**</small>
 
 $\quad$ cubit.
 - {properly, ***a mother*** (i.e. unit of measure, or the fore-arm (below the elbow), i.e. ***a cubit***

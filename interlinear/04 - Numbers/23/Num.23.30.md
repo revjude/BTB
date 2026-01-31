@@ -6,17 +6,17 @@ So Balak did as Balaam had instructed, and he offered a bull and a ram on each a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.29|<< Numbers 23:29]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.1|Numbers 24:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he did  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֣עַשׂ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balak  | <span class="ashebrew"><big>בָּלָ֔ק </big></span><small><small><sup>[[H1111]]</sup></small></small> &#8207;| ba.Lak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had said  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balaam  | <span class="ashebrew"><big>בִּלְעָ֑ם </big></span><small><small><sup>[[H1109A]]</sup></small></small> &#8207;| bil.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he offered up  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֛עַל </big></span><small><small><sup>[[H5927I]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'al <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a young bull  | <span class="ashebrew"><big>פָּ֥ר </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| par <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a ram  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֖יִל </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'A.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the altar  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּזְבֵּֽחַ </big></span><small><small><sup>[[H4196]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> miz.Be.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  |**<big>&#8207;[[H1111\|בָּלָ֔ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֖ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had said  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  |**<big>&#8207;[[H1109A\|בִּלְעָ֑ם]]&#8207; </big>**| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he offered up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927I\|יַּ֛עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young bull  |**<big>&#8207;[[H6499\|פָּ֥ר]]&#8207; </big>**| par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a ram  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0352A\|אַ֖יִל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the altar  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4196\|מִּזְבֵּֽחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.29|<< Numbers 23:29]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.1|Numbers 24:1 >>]]</td></tr></table>
 
 

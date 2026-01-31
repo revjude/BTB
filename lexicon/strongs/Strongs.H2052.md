@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎וָהֵב‎</span></big> **Vâhêb** <small>*(vaw-habe')*</small> ==**Waheb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎וָהֵב‎</span></big>** **Vâhêb** <small>*(vaw-habe')*</small> ==**Waheb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ what he did.

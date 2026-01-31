@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎שִׁית‎</span></big> **shîyth** <small>*(sheeth)*</small> ==**garment**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שִׁית‎</span><sup><small>[[H7896]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁית‎</span></big>** **shîyth** <small>*(sheeth)*</small> ==**garment**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7896|‎שִׁית‎]]</big>**</small>
 
 $\quad$ attire.
 - ***a dress*** (as put on)
 
 **1)** garment
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εἶδος</span><sup><small>[[G1491]]</small></sup>
+<small>See Greek: </small>**<big>[[G1491|εἶδος]]</big>**

@@ -7,32 +7,32 @@ So Tamar went to her brother Amnon’s house; and he was laid down. And she took
 So Tamar went to the house of her brother Amnon, who was lying down. She took some dough, kneaded it, made cakes in his sight, and baked them.<small><sub>**MT:**</sub></small>
 [[2Sam.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.7|<< 2 Samuel 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.9|2 Samuel 13:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tamar went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Amnon | <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| her brother. | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with\] him | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being in bed, | <big><span class="asgreek">κοιμώμενος</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dough | <big><span class="asgreek">σταις</span></big> <sup><small><small>[[G9151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mixed it, | <big><span class="asgreek">εφύρασε</span></big> <sup><small><small>[[G9681]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| made biscuits | <big><span class="asgreek">εκολλύρισε</span></big> <sup><small><small>[[G8053]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| his eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| baked | <big><span class="asgreek">ήψησε</span></big> <sup><small><small>[[G7594]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| biscuits. | <big><span class="asgreek">κολλυρίδας</span></big> <sup><small><small>[[G8054]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Tamar went | **<big>[[G4198\|επορεύθη]]</big>** **<big>[[G2283\|Θαμάρ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Amnon | **<big>[[H0550\|Αμνών]]</big>** |
+| her brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[with\] him | **<big>[[G1473\|αυτός]]</big>** |
+| being in bed, | **<big>[[G2837\|κοιμώμενος]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| she took | **<big>[[G2983\|έλαβε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dough | **<big>[[G9151\|σταις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mixed it, | **<big>[[G9681\|εφύρασε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| made biscuits | **<big>[[G8053\|εκολλύρισε]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| his eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| baked | **<big>[[G7594\|ήψησε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| biscuits. | **<big>[[G8054\|κολλυρίδας]]</big>** |
 [[2Sam.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.7|<< 2 Samuel 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.9|2 Samuel 13:9 >>]]</td></tr></table>
 
 

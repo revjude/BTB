@@ -7,34 +7,34 @@ And Elisha saw [it], and he cried, My father, my father, the chariot of Israel, 
 As Elisha watched, he cried out, “My father, my father, the chariots and horsemen of Israel!” And he saw Elijah no more. So taking hold of his own clothes, he tore them in two.<small><sub>**MT:**</sub></small>
 [[2Kgs.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.11|<< 2 Kings 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.13|2 Kings 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| was beholding, | <big><span class="asgreek">εώρα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yelled, | <big><span class="asgreek">εβόα</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| O father, | <big><span class="asgreek">πάτερ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| O father, | <big><span class="asgreek">πάτερ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| \[the\] chariot | <big><span class="asgreek">άρμα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his horseman. | <big><span class="asgreek">ιππεύς</span></big> <sup><small><small>[[G2460]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took hold of | <big><span class="asgreek">επελάβετο</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his garments | <big><span class="asgreek">ιματιων</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tore | <big><span class="asgreek">διέρρηξεν</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| two. | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| was beholding, | **<big>[[G3708\|εώρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| yelled, | **<big>[[G0994\|εβόα]]</big>** |
+| O father, | **<big>[[G3962\|πάτερ]]</big>** |
+| O father, | **<big>[[G3962\|πάτερ]]</big>** |
+| \[the\] chariot | **<big>[[G0716\|άρμα]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his horseman. | **<big>[[G2460\|ιππεύς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| see | **<big>[[G1492\|είδεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| any longer. | **<big>[[G2089\|έτι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took hold of | **<big>[[G1949\|επελάβετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his garments | **<big>[[G2440\|ιματιων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tore | **<big>[[G1284\|διέρρηξεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| two. | **<big>[[G1417\|δύο]]</big>** |
 [[2Kgs.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.11|<< 2 Kings 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.13|2 Kings 2:13 >>]]</td></tr></table>
 
 

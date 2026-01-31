@@ -1,8 +1,8 @@
 <small>*Golgotha • The place where Jesus was crucified, meaning "Place of a Skull."*</small>
 
 <span class='tipnrhighlight'>Golgotha</span>, also known as the Place of a Skull, was the site outside Jerusalem where Jesus was crucified \(Matthew 27:33; Mark 15:22; [[Luke.23.33|Luke 23:33]]; [[John.19.17|John 19:17]]\).
-- A location near Jerusalem<[[H3389]]> first mentioned at Mat.27.33; 
-- referred to as Golgotha<[[G1115]]> \(<span class='tipnrLangGreek'>Γολγοθᾶ</span>\), or Skull \(KJV= Calvary\) <[[G2898]]> \(<span class='tipnrLangGreek'>κρανίον</span>\).
+- A location near Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at Mat.27.33; 
+- referred to as Golgotha **<big>[[G1115|Γολγοθᾶ]]</big>**, or Skull \(KJV= Calvary\)  **<big>[[G2898|κρανίον]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Golgotha, which means "Place of a Skull" in Aramaic, was the location outside th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Golgotha | [<span class='tipnrLangGreek'>Γολγοθᾶ</span>](G1115) <small>*Greek*</small> | 3x | [[Mat.27.33a] ... [Jhn.19.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Golgotha\*\|reference=Mat.27.33;Mrk.15.22;Jhn.19.17) |
-| Skull (KJV= Calvary) | [<span class='tipnrLangGreek'>κρανίον</span>](G2898) <small>*Greek*</small> | 4x | [[Mat.27.33b] ... [Jhn.19.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Skull\*\|reference=Luk.23.33;Jhn.19.17) |
-All Strong's for **Golgotha or Skull**: \[[[G1115]]\] \[[[G2898]]\]
+| Golgotha | [<span class='tipnrLangGreek'>Γολγοθᾶ</span>](G1115) | 3x | [[Mat.27.33a] ... [Jhn.19.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Golgotha\*\|reference=Mat.27.33;Mrk.15.22;Jhn.19.17) |
+| Skull (KJV= Calvary) | [<span class='tipnrLangGreek'>κρανίον</span>](G2898) | 4x | [[Mat.27.33b] ... [Jhn.19.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Skull\*\|reference=Luk.23.33;Jhn.19.17) |
+All entries for **Golgotha or Skull**:  **<big>[[G1115|Γολγοθᾶ]]</big>** ☩  **<big>[[G2898|κρανίον]]</big>**

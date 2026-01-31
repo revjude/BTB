@@ -7,42 +7,42 @@ And the LORD came down in a cloud, and spake unto him, and took of the spirit th
 Then the LORD came down in the cloud and spoke to him, and He took some of the Spirit that was on Moses and placed that Spirit on the seventy elders. As the Spirit rested on them, they prophesied—but they never did so again.<small><sub>**MT:**</sub></small>
 [[Num.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.24|<< Numbers 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.26|Numbers 11:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> came down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a cloud, | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he lifted | <big><span class="asgreek">παρείλατο</span></big> <sup><small><small>[[G8614]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit, | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed \[it\] | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders. | <big><span class="asgreek">πρεσβυτέρους</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| And as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| rested | <big><span class="asgreek">επανεπαύσατο</span></big> <sup><small><small>[[G1879]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they prophesied, | <big><span class="asgreek">επροφήτευσαν</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκ έτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| proceeded. | <big><span class="asgreek">προσέθεντο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> came down | **<big>[[G2597\|κατέβη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a cloud, | **<big>[[G3507\|νεφέλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he spoke | **<big>[[G2980\|ελάλησε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he lifted | **<big>[[G8614\|παρείλατο]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| spirit, | **<big>[[G4151\|πνεύματος]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed \[it\] | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| elders. | **<big>[[G4245\|πρεσβυτέρους]]</big>** |
+| And as | **<big>[[G5613\|ως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| rested | **<big>[[G1879\|επανεπαύσατο]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they prophesied, | **<big>[[G4395\|επροφήτευσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no longer | **<big>[[G3765\|ουκ έτι]]</big>** |
+| proceeded. | **<big>[[G4369\|προσέθεντο]]</big>** |
 [[Num.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.24|<< Numbers 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.26|Numbers 11:26 >>]]</td></tr></table>
 
 

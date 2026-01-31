@@ -6,16 +6,16 @@ And if there are ten men left in one house, they too will die.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.8|<< Amos 6:8]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.10|Amos 6:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָיָ֗ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.Yah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will remain  | <span class="ashebrew"><big>יִוָּ֨תְר֜וּ </big></span><small><small><sup>[[H3498]]</sup></small></small> &#8207;| yi.Va.te.Ru <small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשָׂרָ֧ה </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.sa.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men  | <span class="ashebrew"><big>אֲנָשִׁ֛ים </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'a.na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a house  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בַ֥יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Va.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֖ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will die  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>מֵֽתוּ </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Me.tu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will remain  |**<big>&#8207;[[H3498\|יִוָּ֨תְר֜וּ]]&#8207; </big>**| yi.Va.te.Ru<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשָׂרָ֧ה]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֛ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a house  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004B\|בַ֥יִת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Va.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֖ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will die  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H4191\|מֵֽתוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Me.tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.8|<< Amos 6:8]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.10|Amos 6:10 >>]]</td></tr></table>
 
 

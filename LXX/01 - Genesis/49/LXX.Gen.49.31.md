@@ -7,27 +7,27 @@ There they buried Abraham and Sarah his wife; there they buried Isaac and Rebeka
 There Abraham and his wife Sarah are buried, there Isaac and his wife Rebekah are buried, and there I buried Leah.<small><sub>**MT:**</sub></small>
 [[Gen.49.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.30|<< Genesis 49:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.32|Genesis 49:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψαν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρραν</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψαν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Rebekah | <big><span class="asgreek">Ρεβέκκαν</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψα</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| Leah, | <big><span class="asgreek">Λείαν</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
+| There | **<big>[[G1563\|εκεί]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψαν]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his wife. | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψαν]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Rebekah | **<big>[[G4479\|Ρεβέκκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his wife. | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψα]]</big>** |
+| Leah, | **<big>[[H3812\|Λείαν]]</big>** |
 [[Gen.49.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.30|<< Genesis 49:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.32|Genesis 49:32 >>]]</td></tr></table>
 
 

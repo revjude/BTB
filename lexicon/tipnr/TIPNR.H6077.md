@@ -1,8 +1,8 @@
 <small>*Ophel • A fortified area in Jerusalem*</small>
 
 <span class='tipnrhighlight'>Ophel</span> was a fortified area in Jerusalem, located near the temple, and was inhabited by temple servants during the time of Nehemiah.
-- A location in Jerusalem<[[H3389]]> first mentioned at [[2Chr.27.3|2Ch.27.3]]; 
-- only referred to as Ophel<[[H6077]]> \(<span class='tipnrLangHebrew'>ע</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[2Chr.27.3|2Ch.27.3]]; 
+- only referred to as Ophel **<big>[[H6077|עֹפֶל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ophel was a fortified area or hill in Jerusalem, located south of the temple mou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ophel | [<span class='tipnrLangHebrew'>ע</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H6077) <small>*Hebrew*</small> | 5x | [[2Ch.27.3] ... [Neh.11.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ophel\*\|reference=2Ch.27.3;2Ch.33.14;Neh.3.26;Neh.3.27;Neh.11.21) |
-All Strong's for **Ophel**: \[[[H6077]]\]
+| Ophel | [<span class='tipnrLangHebrew'>ע</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H6077) | 5x | [[2Ch.27.3] ... [Neh.11.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ophel\*\|reference=2Ch.27.3;2Ch.33.14;Neh.3.26;Neh.3.27;Neh.11.21) |
+All entries for **Ophel**:  **<big>[[H6077|עֹפֶל]]</big>**

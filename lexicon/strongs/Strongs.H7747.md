@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּחִי‎</span></big> **Shûwchîy** <small>*(shoo-khee')*</small> ==**Shuhite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎שׁוּחַ‎</span><sup><small>[[H7744]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוּחִי‎</span></big>** **Shûwchîy** <small>*(shoo-khee')*</small> ==**Shuhite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H7744|‎שׁוּחַ‎]]</big>**</small>
 
 $\quad$ Shuhite.
 - § Shuhite = *see Shua "wealth"*

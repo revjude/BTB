@@ -6,15 +6,15 @@ If only my request were granted and God would fulfill my hope:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.7|<< Job 6:7]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.9|Job 6:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִֽי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he give  | <span class="ashebrew"><big>יִ֭תֵּן </big></span><small><small><sup>[[H5414Q]]</sup></small></small> &#8207;| Yi.ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come  | <span class="ashebrew"><big>תָּב֣וֹא </big></span><small><small><sup>[[H0935M]]</sup></small></small> &#8207;| ta.Vo' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| petition my  | <span class="ashebrew"><big>שֶֽׁאֱלָתִ֑ </big></span><small><small><sup>[[H7596]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| she.'e.la.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hope my  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תִקְוָתִ֗ </big></span><small><small><sup>[[H8615B]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tik.va.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will give  | <span class="ashebrew"><big>יִתֵּ֥ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֽוֹהַּ </big></span><small><small><sup>[[H0433]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Lo.ah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he give  |**<big>&#8207;[[H5414Q\|יִ֭תֵּן]]&#8207; </big>**| Yi.ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  |**<big>&#8207;[[H0935M\|תָּב֣וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| petition my  |**<big>&#8207;[[H7596\|שֶֽׁאֱלָתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| she.'e.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hope my  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8615B\|תִקְוָתִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tik.va.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will give  |**<big>&#8207;[[H5414G\|יִתֵּ֥ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0433\|אֱלֽוֹהַּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.7|<< Job 6:7]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.9|Job 6:9 >>]]</td></tr></table>
 
 

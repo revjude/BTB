@@ -11,39 +11,39 @@ After Abram returned from defeating Chedorlaomer and the kings allied with him, 
 > $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Sodom | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his returning | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">αυτον</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slaughter | <big><span class="asgreek">κοπής</span></big> <sup><small><small>[[G2871]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Chedorlaomer, | <big><span class="asgreek">Χοδολλογομόρ</span></big> <sup><small><small>[[H3540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| valley | <big><span class="asgreek">κοιλάδα</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Shaveh -- | <big><span class="asgreek">Σαυή</span></big> <sup><small><small>[[H7740]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of \[the\] king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Sodom | **<big>[[G4670\|Σοδόμων]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his returning | **<big>[[G0654\|αποστρέψαι]]</big>** **<big>[[G1473\|αυτον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| slaughter | **<big>[[G2871\|κοπής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Chedorlaomer, | **<big>[[H3540\|Χοδολλογομόρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| valley | **<big>[[G8038\|κοιλάδα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of Shaveh -- | **<big>[[H7740\|Σαυή]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plain | **<big>[[G8676\|πεδίον]]</big>** |
+| of \[the\] king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Gen.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.16|<< Genesis 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.18|Genesis 14:18 >>]]</td></tr></table>
 
 

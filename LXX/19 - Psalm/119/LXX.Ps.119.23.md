@@ -7,22 +7,22 @@ Princes also did sit [and] speak against me: [but] thy servant did meditate in t
 Though rulers sit and slander me, Your servant meditates on Your statutes.<small><sub>**MT:**</sub></small>
 [[Ps.119.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.22|<< Psalm 119:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.24|Psalm 119:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθισαν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke ill | <big><span class="asgreek">κατελάλουν</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| meditated | <big><span class="asgreek">ηδολέσχει</span></big> <sup><small><small>[[G6139]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ordinances. | <big><span class="asgreek">δικαιώμασί</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For even | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| sat | **<big>[[G2523\|εκάθισαν]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G2596\|κατ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| spoke ill | **<big>[[G2635\|κατελάλουν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| meditated | **<big>[[G6139\|ηδολέσχει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your ordinances. | **<big>[[G1345\|δικαιώμασί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.22|<< Psalm 119:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.24|Psalm 119:24 >>]]</td></tr></table>
 
 

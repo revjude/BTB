@@ -1,4 +1,4 @@
-part of: <small>[[G2570H]]</small> 
+part of: <small>**<big>[[G2570H|καλός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==λιμήν==</span></b>, <span class='asgreek'>ένσς</span>, <span class='asgreek'>ὁ</span>, 

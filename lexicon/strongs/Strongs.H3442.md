@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יֵשׁוּעַ‎</span></big> **Yêshûwaʻ** <small>*(yay-shoo'-ah)*</small> ==**Jeshua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎יְהוֹשׁוּעַ‎</span><sup><small>[[H3091]]</small></sup>; he will save</small>
+**<big><span class="ashebrew">‎יֵשׁוּעַ‎</span></big>** **Yêshûwaʻ** <small>*(yay-shoo'-ah)*</small> ==**Jeshua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H3091|‎יְהוֹשׁוּעַ‎]]</big>**; he will save</small>
 
 $\quad$ Jeshua.
 - § Jeshua = *"he is saved"*

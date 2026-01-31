@@ -6,14 +6,14 @@ And Leah’s servant Zilpah bore Jacob a son.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.9|<< Genesis 30:9]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.11|Genesis 30:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she bore  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּ֗לֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Te.led <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zilpah  | <span class="ashebrew"><big>זִלְפָּ֛ה </big></span><small><small><sup>[[H2153]]</sup></small></small> &#8207;| zil.Pah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] maidservant of  | <span class="ashebrew"><big>שִׁפְחַ֥ת </big></span><small><small><sup>[[H8198]]</sup></small></small> &#8207;| shif.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Leah  | <span class="ashebrew"><big>לֵאָ֖ה </big></span><small><small><sup>[[H3812]]</sup></small></small> &#8207;| le.'Ah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Jacob  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יַעֲקֹ֥ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּֽן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֗לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zilpah  |**<big>&#8207;[[H2153\|זִלְפָּ֛ה]]&#8207; </big>**| zil.Pah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] maidservant of  |**<big>&#8207;[[H8198\|שִׁפְחַ֥ת]]&#8207; </big>**| shif.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Leah  |**<big>&#8207;[[H3812\|לֵאָ֖ה]]&#8207; </big>**| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֥ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.9|<< Genesis 30:9]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.11|Genesis 30:11 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ Once again the Philistines came up and spread out in the Valley of Rephaim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they repeated  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּסִ֥פוּ </big></span><small><small><sup>[[H3254G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Si.fu <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>ע֛וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֖ים </big></span><small><small><sup>[[H6430G]]</sup></small></small> &#8207;| pe.lish.Tim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to go up  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲל֑וֹת </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.Lot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they were spread out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּנָּֽטְשׁ֖וּ </big></span><small><small><sup>[[H5203]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.na.te.Shu <small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] valley of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵ֥מֶק </big></span><small><small><sup>[[H6010P]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.mek <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rephaim  | <span class="ashebrew"><big>רְפָאִֽים </big></span><small><small><sup>[[H7497G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| re.fa.'Im <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּסִ֥פוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Si.fu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|ע֛וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּ֖ים]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go up  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H5927G\|עֲל֑וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were spread out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5203\|יִּנָּֽטְשׁ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.na.te.Shu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] valley of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6010P\|עֵ֥מֶק]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.mek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rephaim  |**<big>&#8207;[[H7497G\|רְפָאִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.fa.'Im<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
 
 

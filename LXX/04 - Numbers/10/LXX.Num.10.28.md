@@ -7,17 +7,17 @@ Thus [were] the journeyings of the children of Israel according to their armies,
 This was the order of march for the Israelite divisions as they set out.<small><sub>**MT:**</sub></small>
 [[Num.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.27|<< Numbers 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.29|Numbers 10:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| militaries | <big><span class="asgreek">στρατιαί</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they lifted away | <big><span class="asgreek">εξήραν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| their force. | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| These | **<big>[[G3778\|αύται]]</big>** |
+| are the | **<big>[[G3588\|αι]]</big>** |
+| militaries | **<big>[[G4756\|στρατιαί]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they lifted away | **<big>[[G1808\|εξήραν]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| their force. | **<big>[[G1411\|δυνάμει]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.27|<< Numbers 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.29|Numbers 10:29 >>]]</td></tr></table>
 
 

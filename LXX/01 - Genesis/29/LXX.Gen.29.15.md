@@ -7,27 +7,27 @@ And Laban said unto Jacob, Because thou [art] my brother, shouldest thou therefo
 Laban said to him, “Just because you are my relative, should you work for nothing? Tell me what your wages should be.”<small><sub>**MT:**</sub></small>
 [[Gen.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.14|<< Genesis 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.16|Genesis 29:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Laban | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| you are my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be a slave | <big><span class="asgreek">δουλεύσεις</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| without charge, | <big><span class="asgreek">δωρεάν</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
-| you tell | <big><span class="asgreek">απάγγειλόν</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is? | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Laban | **<big>[[H3837b\|Λάβαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| you are my | **<big>[[G1473\|μου]]</big>** **<big>[[G1510\|ει]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| be a slave | **<big>[[G1398\|δουλεύσεις]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| without charge, | **<big>[[G1431\|δωρεάν]]</big>** |
+| you tell | **<big>[[G0518\|απάγγειλόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your wage | **<big>[[G3408\|μισθός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| is? | **<big>[[G1510\|εστί]]</big>** |
 [[Gen.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.14|<< Genesis 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.16|Genesis 29:16 >>]]</td></tr></table>
 
 

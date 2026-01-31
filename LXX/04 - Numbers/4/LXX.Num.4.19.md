@@ -7,34 +7,34 @@ But thus do unto them, that they may live, and not die, when they approach unto 
 In order that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go in and assign each man his task and what he is to carry.<small><sub>**MT:**</sub></small>
 [[Num.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.18|<< Numbers 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.20|Numbers 4:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall live, | <big><span class="asgreek">ζήσονται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall die, | <big><span class="asgreek">αποθάνωσι</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| in their going forth | <big><span class="asgreek">προπορευομένων</span></big> <sup><small><small>[[G4313]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of holies. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Let | <big><span class="asgreek">εισπορευέσθωσαν</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall place | <big><span class="asgreek">καταστήσουσιν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his office. | <big><span class="asgreek">αναφοράν</span></big> <sup><small><small>[[G6319]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| do this | **<big>[[G3778\|τούτο]]</big>** **<big>[[G4160\|ποιήσατε]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall live, | **<big>[[G2198\|ζήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall die, | **<big>[[G0599\|αποθάνωσι]]</big>** |
+| in their going forth | **<big>[[G4313\|προπορευομένων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy | **<big>[[G0039\|άγια]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of holies. | **<big>[[G0039\|αγίων]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Let | **<big>[[G1531\|εισπορευέσθωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall place | **<big>[[G2525\|καταστήσουσιν]]</big>** |
+| themselves | **<big>[[G1473\|αυτούς]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his office. | **<big>[[G6319\|αναφοράν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.18|<< Numbers 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.20|Numbers 4:20 >>]]</td></tr></table>
 
 

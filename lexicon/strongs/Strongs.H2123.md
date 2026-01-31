@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זִיז‎</span></big> **zîyz** <small>*(zeez)*</small> ==**creature**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎זִיז‎</span></big>** **zîyz** <small>*(zeez)*</small> ==**creature**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root apparently meaning to be conspicuous</small>
 
 $\quad$ abundance, wild beast.

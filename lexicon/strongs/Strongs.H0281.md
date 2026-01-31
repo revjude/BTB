@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחִיָּה‎</span></big> **ʼĂchîyâh** <small>*(akh-ee-yaw)*</small> ==**Ahijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (prolonged) <span class="ashebrew">אֲחִיָּהוּ</span> **ʼĂchîyâhûw** <small>*(akh-ee-yaw'-hoo)*</small> ; from <span class="ashebrew">‎אָח‎</span><sup><small>[[H0251]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; brother (i.e. worshipper) of Jah</small>
+**<big><span class="ashebrew">‎אֲחִיָּה‎</span></big>** **ʼĂchîyâh** <small>*(akh-ee-yaw)*</small> ==**Ahijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (prolonged) **<big><span class="ashebrew">אֲחִיָּהוּ</span></big>** **ʼĂchîyâhûw** <small>*(akh-ee-yaw'-hoo)*</small> ; from **<big>[[H0251|‎אָח‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; brother (i.e. worshipper) of Jah</small>
 
 $\quad$ Ahiah, Ahijah.
 - § Ahiah or Ahijah = *"brother of Jehovah (Yahu)"*

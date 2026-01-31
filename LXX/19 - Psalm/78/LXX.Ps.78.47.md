@@ -7,19 +7,19 @@ He destroyed their vines with hail, and their sycomore trees with frost.
 He killed their vines with hailstones and their sycamore-figs with sleet.<small><sub>**MT:**</sub></small>
 [[Ps.78.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.46|<< Psalm 78:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.48|Psalm 78:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He killed | <big><span class="asgreek">απέκτεινεν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| hail | <big><span class="asgreek">χαλάζη</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their grapevine | <big><span class="asgreek">άμπελον</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sycamine trees | <big><span class="asgreek">συκαμίνους</span></big> <sup><small><small>[[G4807]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| frost. | <big><span class="asgreek">πάχνη</span></big> <sup><small><small>[[G8672]]</small></small></sup> |
+| He killed | **<big>[[G0615\|απέκτεινεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| hail | **<big>[[G5464\|χαλάζη]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their grapevine | **<big>[[G0288\|άμπελον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their sycamine trees | **<big>[[G4807\|συκαμίνους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| frost. | **<big>[[G8672\|πάχνη]]</big>** |
 [[Ps.78.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.46|<< Psalm 78:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.48|Psalm 78:48 >>]]</td></tr></table>
 
 

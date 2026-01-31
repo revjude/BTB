@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָהַל‎</span></big> **qâhal** <small>*('kaw-hal')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָהַל‎</span></big>** **qâhal** <small>*('kaw-hal')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ assemble (selves) (together), gather (selves) (together).
@@ -12,4 +12,4 @@ $\quad$ **1b)** (Hiphil) to summon an assembly
 $\quad$ $\quad$ **1b1)** for war, judgment
 $\quad$ $\quad$ **1b2)** for religious purposes
 
-<sub><small>See Greek: </small></sub><span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">συναθροίζω</span><sup><small>[[G4867]]</small></sup> · <span class="asgreek">συναθροίζω</span><sup><small>[[G4867]]</small></sup> · <span class="asgreek">συνιστάω</span><sup><small>[[G4921]]</small></sup>
+<small>See Greek: </small>**<big>[[G4863|συνάγω]]</big>** · **<big>[[G4867|συναθροίζω]]</big>** · **<big>[[G4867|συναθροίζω]]</big>** · **<big>[[G4921|συνιστάω]]</big>**

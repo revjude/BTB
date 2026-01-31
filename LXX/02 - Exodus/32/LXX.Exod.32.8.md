@@ -7,37 +7,37 @@ They have turned aside quickly out of the way which I commanded them: they have 
 How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten calf and have bowed down to it. They have sacrificed to it and said, ‘These, O Israel, are your gods, who brought you up out of the land of Egypt.’”<small><sub>**MT:**</sub></small>
 [[Exod.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.7|<< Exodus 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.9|Exodus 32:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They violate | <big><span class="asgreek">παρέβησαν</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενέτειλω</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a calf, | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they do obeisance to | <big><span class="asgreek">προσκεκυνήκασι</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they have sacrificed | <big><span class="asgreek">τεθύκασιν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| These \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gods, | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| hauled | <big><span class="asgreek">ανεβίβασάν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| They violate | **<big>[[G3845\|παρέβησαν]]</big>** |
+| quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| I gave charge | **<big>[[G1781\|ενέτειλω]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| to themselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| a calf, | **<big>[[G3448\|μόσχον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they do obeisance to | **<big>[[G4352\|προσκεκυνήκασι]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they have sacrificed | **<big>[[G2380\|τεθύκασιν]]</big>** |
+| to it. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| These \[are\] | **<big>[[G3778\|ούτοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your gods, | **<big>[[G2316\|θεοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| who | **<big>[[G3748\|οίτινες]]</big>** |
+| hauled | **<big>[[G0307\|ανεβίβασάν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.7|<< Exodus 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.9|Exodus 32:9 >>]]</td></tr></table>
 
 

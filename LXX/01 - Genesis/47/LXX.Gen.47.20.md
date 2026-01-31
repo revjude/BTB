@@ -7,36 +7,36 @@ And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold ever
 So Joseph acquired for Pharaoh all the land in Egypt; the Egyptians, one and all, sold their fields because the famine was so severe upon them. The land became Pharaoh’s,<small><sub>**MT:**</sub></small>
 [[Gen.47.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.19|<< Genesis 47:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.21|Genesis 47:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joseph acquired | <big><span class="asgreek">εκτήσατο</span></big> <sup><small><small>[[G2932]]</small></small></sup> <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Pharaoh. | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| gave | <big><span class="asgreek">απέδοντο</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Pharaoh. | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| prevailed | <big><span class="asgreek">επεκράτησε</span></big> <sup><small><small>[[G7421]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[over\] them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Pharaoh. | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joseph acquired | **<big>[[G2932\|εκτήσατο]]</big>** **<big>[[G2501\|Ιωσήφ]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for Pharaoh. | **<big>[[G5328\|Φαραώ]]</big>** |
+| gave | **<big>[[G0591\|απέδοντο]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Pharaoh. | **<big>[[G5328\|Φαραώ]]</big>** |
+| prevailed | **<big>[[G7421\|επεκράτησε]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| \[over\] them | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| famine | **<big>[[G3042\|λιμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Pharaoh. | **<big>[[G5328\|Φαραώ]]</big>** |
 [[Gen.47.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.19|<< Genesis 47:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.21|Genesis 47:21 >>]]</td></tr></table>
 
 

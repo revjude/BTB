@@ -6,18 +6,18 @@ Before I realized it, my desire had set me among the royal chariots of my people
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.11|<< Song of Solomon 6:11]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.13|Song of Solomon 6:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I knew  | <span class="ashebrew"><big>יָדַ֔עְתִּי </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da'.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desire my  | <span class="ashebrew"><big>נַפְשִׁ֣ </big></span><small><small><sup>[[H5315L]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it set me  | <span class="ashebrew"><big>שָׂמַ֔תְ </big></span><small><small><sup>[[H7760A]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| sa.Mat. <small><sup>[[HVqp3fs]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] chariots of  | <span class="ashebrew"><big>מַרְכְּב֖וֹת </big></span><small><small><sup>[[H4818]]</sup></small></small> &#8207;| mar.ke.Vot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people of - prince  [^3] | <span class="ashebrew"><big>עַמִּי </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> <span class="ashebrew"><big>נָדִֽיב </big></span><small><small><sup>[[H5081H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;[^4] | 'a.mi <small><sup>[[HNcbsc]]</sup></small> - na.Dav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (allepo + Variant)">L(a+V)</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I knew  |**<big>&#8207;[[H3045\|יָדַ֔עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desire my  |**<big>&#8207;[[H5315L\|נַפְשִׁ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it set me  |**<big>&#8207;[[H7760A\|שָׂמַ֔תְ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sa.Mat.<small><sup>[[HVqp3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chariots of  |**<big>&#8207;[[H4818\|מַרְכְּב֖וֹת]]&#8207; </big>**| mar.ke.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people of - prince  [^3]|**<big>&#8207;[[H5971A\|עַמִּי]]&#8207;&#8207;[[H9014\|־]]&#8207;&#8207;[[H5081H\|נָדִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | 'a.mi<small><sup>[[HNcbsc]]</sup></small> - na.Dav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (allepo + Variant)">L(a+V)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.11|<< Song of Solomon 6:11]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.13|Song of Solomon 6:13 >>]]</td></tr></table>
 
-[^1]: ==V==: **Aminadav ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H5993]]</sup></small> <span class="ashebrew"><big>עַמִּינָדִֽיב</big></span>  | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==V==: **Aminadav ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H5993]]</sup></small> <span class="ashebrew"><big>עַמִּינָדִֽיב</big></span>  | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==V==: **Aminadav ** | <small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big>׃</big></span> <small><sup>[[H5993]]</sup></small> <span class="ashebrew"><big>עַמִּינָדִֽיב</big></span>  | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==V==: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==V==: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
+[^3]: ==V==: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
 [^4]: ==A== spelled: **<span class="ashebrew"><big>עַמִּי/נָדִֽיב\׃</big></span>**
 

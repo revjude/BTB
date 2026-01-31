@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַרְדְּ‎</span></big> **ʼArd** <small>*(ard)*</small> ==**Ard**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אַרְדְּ‎</span></big>** **ʼArd** <small>*(ard)*</small> ==**Ard**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root probably meaning to wander; fugitive</small>
 
 $\quad$ Ard.

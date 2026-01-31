@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מְצוֹלָה‎</span></big> **mᵉtsôwlâh** <small>*(mets-o-law')*</small> ==**depth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מְצֹלָה</span> **mᵉtsôlâh** <small>*(mets-olaw')*</small>; also <span class="ashebrew">מְצוּלָה</span> **mᵉtsûwlâh** <small>*(mets-oo-law')*</small>; or <span class="ashebrew">מְצֻלָה</span> **mᵉtsulâh** <small>*(mets-oo-law')*</small>; from the same as <span class="ashebrew">‎צוּלָה‎</span><sup><small>[[H6683]]</small></sup></small>
+**<big><span class="ashebrew">‎מְצוֹלָה‎</span></big>** **mᵉtsôwlâh** <small>*(mets-o-law')*</small> ==**depth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מְצֹלָה</span></big>** **mᵉtsôlâh** <small>*(mets-olaw')*</small>; also **<big><span class="ashebrew">מְצוּלָה</span></big>** **mᵉtsûwlâh** <small>*(mets-oo-law')*</small>; or **<big><span class="ashebrew">מְצֻלָה</span></big>** **mᵉtsulâh** <small>*(mets-oo-law')*</small>; from the same as **<big>[[H6683|‎צוּלָה‎]]</big>**</small>
 
 $\quad$ bottom, deep, depth.
 - ***a deep place*** (of water or mud)
 
 **1)** depth, the deep, the deep sea
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄβυσσος</span><sup><small>[[G0012]]</small></sup> · <span class="asgreek">βάθος</span><sup><small>[[G0899]]</small></sup> · <span class="asgreek">βυθός</span><sup><small>[[G1037]]</small></sup> · <span class="asgreek">βυθός</span><sup><small>[[G1037]]</small></sup> · <span class="asgreek">θάνατος</span><sup><small>[[G2288]]</small></sup>
+<small>See Greek: </small>**<big>[[G0012|ἄβυσσος]]</big>** · **<big>[[G0899|βάθος]]</big>** · **<big>[[G1037|βυθός]]</big>** · **<big>[[G1037|βυθός]]</big>** · **<big>[[G2288|θάνατος]]</big>**

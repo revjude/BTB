@@ -7,20 +7,20 @@ And the ten bases, and ten lavers on the bases;
 the ten stands; the ten basins on the stands;<small><sub>**MT:**</sub></small>
 [[1Kgs.7.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.42|<< 1 Kings 7:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.44|1 Kings 7:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| bases, | <big><span class="asgreek">μεχωνώθ</span></big> <sup><small><small>[[G8314]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pots | <big><span class="asgreek">χυτρογαύλους</span></big> <sup><small><small>[[G9767]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bases; | <big><span class="asgreek">μεχωνώθ</span></big> <sup><small><small>[[G8314]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| bases, | **<big>[[G8314\|μεχωνώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| pots | **<big>[[G9767\|χυτρογαύλους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| bases; | **<big>[[G8314\|μεχωνώθ]]</big>** |
 [[1Kgs.7.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.42|<< 1 Kings 7:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.44|1 Kings 7:44 >>]]</td></tr></table>
 
 

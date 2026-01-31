@@ -7,33 +7,33 @@ And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of E
 So he covertly sent messengers to Abimelech to say, “Look, Gaal son of Ebed and his brothers have come to Shechem and are stirring up the city against you.<small><sub>**MT:**</sub></small>
 [[Judg.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.30|<< Judges 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.32|Judges 9:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| bribes, | <big><span class="asgreek">δώρων</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Gaal | <big><span class="asgreek">Γαάλ</span></big> <sup><small><small>[[H1603]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ebed, | <big><span class="asgreek">Αβέδ</span></big> <sup><small><small>[[H5651]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have come | <big><span class="asgreek">παραγεγόνασιν</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shechem; | <big><span class="asgreek">Σίκημα</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| know, | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| they assault | <big><span class="asgreek">πολιορκούσι</span></big> <sup><small><small>[[G8843]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| messengers | **<big>[[G0032\|αγγέλους]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| bribes, | **<big>[[G1435\|δώρων]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Gaal | **<big>[[H1603\|Γαάλ]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Ebed, | **<big>[[H5651\|Αβέδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brothers | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| have come | **<big>[[G3854\|παραγεγόνασιν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Shechem; | **<big>[[G4966\|Σίκημα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| know, | **<big>[[G1492\|οίδε]]</big>** |
+| they assault | **<big>[[G8843\|πολιορκούσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Judg.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.30|<< Judges 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.32|Judges 9:32 >>]]</td></tr></table>
 
 

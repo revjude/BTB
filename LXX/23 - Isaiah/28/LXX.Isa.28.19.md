@@ -7,24 +7,24 @@ From the time that it goeth forth it shall take you: for morning by morning shal
 As often as it passes through, it will carry you away; it will sweep through morning after morning, by day and by night.” The understanding of this message will bring sheer terror.<small><sub>**MT:**</sub></small>
 [[Isa.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.18|<< Isaiah 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.20|Isaiah 28:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| it should go by, | <big><span class="asgreek">παρέλθη</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| it shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \[by\] morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| it shall go by | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] night | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| an evil | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| Learn | <big><span class="asgreek">μάθετε</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| to hear! | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| it should go by, | **<big>[[G3928\|παρέλθη]]</big>** |
+| it shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| Morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| \[by\] morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| it shall go by | **<big>[[G3928\|παρελεύσεται]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] night | **<big>[[G3571\|νυκτί]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| hope | **<big>[[G1680\|ελπίς]]</big>** |
+| an evil | **<big>[[G4190\|πονηρά]]</big>** |
+| Learn | **<big>[[G3129\|μάθετε]]</big>** |
+| to hear! | **<big>[[G0191\|ακούειν]]</big>** |
 [[Isa.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.18|<< Isaiah 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.20|Isaiah 28:20 >>]]</td></tr></table>
 
 

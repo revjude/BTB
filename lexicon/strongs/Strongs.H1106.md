@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּלַע‎</span></big> **Belaʻ** <small>*(beh'-lah)*</small> ==**Bela**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בֶּלַע‎</span><sup><small>[[H1105]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶּלַע‎</span></big>** **Belaʻ** <small>*(beh'-lah)*</small> ==**Bela**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1105|‎בֶּלַע‎]]</big>**</small>
 
 $\quad$ Bela.
 - § Bela = *"destruction"*

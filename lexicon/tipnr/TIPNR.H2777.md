@@ -1,8 +1,8 @@
 <small>*Potsherd Gate • A gate in Jerusalem mentioned by Jeremiah*</small>
 
 The <span class='tipnrhighlight'>Potsherd Gate</span> was a gate in Jerusalem near the Valley of Ben Hinnom, where Jeremiah was instructed to proclaim a message of judgment against Judah.
-- A location in Jerusalem<[[H3389]]> only mentioned at [[Jer.19.2|Jer.19.2]]; 
-- only referred to as Potsherd\_Gate<[[H2777]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>ת</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[Jer.19.2|Jer.19.2]]; 
+- only referred to as Potsherd\_Gate **<big>[[H2777|חַרְסוּת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Potsherd Gate, also known as the Harsith Gate, was one of the gates of Jerus
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Potsherd (Gate) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>ת</span>](H2777) <small>*Hebrew*</small> | 1x | [Jer.19.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Potsherd\*\|reference=Jer.19.2) |
-All Strong's for **Potsherd_Gate**: \[[[H2777]]\]
+| Potsherd (Gate) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>ת</span>](H2777) | 1x | [Jer.19.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Potsherd\*\|reference=Jer.19.2) |
+All entries for **Potsherd Gate**:  **<big>[[H2777|חַרְסוּת]]</big>**

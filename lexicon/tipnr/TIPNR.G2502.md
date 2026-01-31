@@ -4,10 +4,10 @@ King living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Josiah</span> was a king of Judah who instituted significant religious reforms and repaired the temple.
 - A king of Judah living at the time of Divided Monarchy, first mentioned at [[1Kgs.13.2|1Ki.13.2]]; 
-- referred to as Josiah<[[H2977G]]> \(<span class='tipnrLangHebrew'>י</span>ֹ<span class='tipnrLangHebrew'>אש</span>ִׁ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ\), or Josiah \(KJV= Josias\) <[[G2502]]> \(<span class='tipnrLangGreek'>Ἰωσίας</span>\); 
-- a son of Amon<[[H0526H]]> and Jedidah<[[H3040]]>; 
-- husband of Hamutal<[[H2537]]> and Zebidah<[[H2080]]>; 
--  father of Jehoahaz<[[H3059H]]>, Jehoiakim<[[H3079]]>, Zedekiah<[[H6667H]]> and Shallum<[[H7967J]]>.
+- referred to as Josiah **<big>[[H2977|יֹאשִׁיָּה]]</big>**, or Josiah \(KJV= Josias\)  **<big>[[G2502|Ἰωσίας]]</big>**; 
+- a son of Amon **<big>[[H0526|אָמוֹן]]</big>** and Jedidah **<big>[[H3040|יְדִידָה]]</big>**; 
+- husband of Hamutal **<big>[[H2537|חֲמוּטַל]]</big>** and Zebidah **<big>[[H2080|זְבִידָה]]</big>**; 
+-  father of Jehoahaz **<big>[[H3059|יְהוֹאָחָז]]</big>**, Jehoiakim **<big>[[H3079|יְהוֹיָקִים]]</big>**, Zedekiah **<big>[[H6667|צִדְקִיָּה]]</big>** and Shallum **<big>[[H7967|שַׁלּוּם]]</big>**.
 
 Josiah was a king of Judah who reigned from approximately 640 to 609 BC. He was the son of Amon and the grandson of Manasseh \([[2Kgs.21.24|2 Kings 21:24]], 26; [[1Chr.3.14|1 Chronicles 3:14]]\). Josiah became king at the age of eight and reigned for thirty-one years in Jerusalem \([[2Kgs.22.1|2 Kings 22:1]]; [[2Chr.34.1|2 Chronicles 34:1]]\). 
 
@@ -21,9 +21,9 @@ Despite the reforms Josiah implemented, Judah's unfaithfulness persisted, and th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Josiah | [<span class='tipnrLangHebrew'>י</span>ֹ<span class='tipnrLangHebrew'>אש</span>ִׁ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2977G) <small>*Hebrew*</small> | 52x | [[1Ki.13.2] ... [Zep.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josiah\*\|reference=1Ki.13.2;2Ki.21.24;2Ki.21.26;2Ki.22.1;2Ki.22.3;2Ki.23.16;2Ki.23.19;2Ki.23.23;2Ki.23.24;2Ki.23.28;2Ki.23.29;2Ki.23.30;2Ki.23.34;2Ki.23.34;1Ch.3.14;1Ch.3.15;2Ch.33.25;2Ch.34.1;2Ch.34.33;2Ch.35.1;2Ch.35.7;2Ch.35.16;2Ch.35.18;2Ch.35.19;2Ch.35.20;2Ch.35.20;2Ch.35.22;2Ch.35.23;2Ch.35.24;2Ch.35.25;2Ch.35.25;2Ch.35.26;2Ch.36.1;Jer.1.2;Jer.1.3;Jer.1.3;Jer.3.6;Jer.22.11;Jer.22.11;Jer.22.18) |
-| Josiah (KJV= Josias) | [<span class='tipnrLangGreek'>Ἰωσίας</span>](G2502) <small>*Greek*</small> | 2x | [[Mat.1.10] & [Mat.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josiah\*\|reference=Mat.1.10;Mat.1.11) |
-All Strong's for **Josiah**: \[[[H2977G]]\] \[[[G2502]]\]
+| Josiah | [<span class='tipnrLangHebrew'>י</span>ֹ<span class='tipnrLangHebrew'>אש</span>ִׁ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2977G) | 52x | [[1Ki.13.2] ... [Zep.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josiah\*\|reference=1Ki.13.2;2Ki.21.24;2Ki.21.26;2Ki.22.1;2Ki.22.3;2Ki.23.16;2Ki.23.19;2Ki.23.23;2Ki.23.24;2Ki.23.28;2Ki.23.29;2Ki.23.30;2Ki.23.34;2Ki.23.34;1Ch.3.14;1Ch.3.15;2Ch.33.25;2Ch.34.1;2Ch.34.33;2Ch.35.1;2Ch.35.7;2Ch.35.16;2Ch.35.18;2Ch.35.19;2Ch.35.20;2Ch.35.20;2Ch.35.22;2Ch.35.23;2Ch.35.24;2Ch.35.25;2Ch.35.25;2Ch.35.26;2Ch.36.1;Jer.1.2;Jer.1.3;Jer.1.3;Jer.3.6;Jer.22.11;Jer.22.11;Jer.22.18) |
+| Josiah (KJV= Josias) | [<span class='tipnrLangGreek'>Ἰωσίας</span>](G2502) | 2x | [[Mat.1.10] & [Mat.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josiah\*\|reference=Mat.1.10;Mat.1.11) |
+All entries for **Josiah**:  **<big>[[H2977|יֹאשִׁיָּה]]</big>** ☩  **<big>[[G2502|Ἰωσίας]]</big>**
 #### Related Profiles:
 - **[Amon](H0526H)** (father)
 - **[Jedidah](H3040)** (mother)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּדוֹן‎</span></big> **Pâdôwn** <small>*(paw-done')*</small> ==**Padon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּדָה‎</span><sup><small>[[H6299]]</small></sup>; ransom</small>
+**<big><span class="ashebrew">‎פָּדוֹן‎</span></big>** **Pâdôwn** <small>*(paw-done')*</small> ==**Padon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6299|‎פָּדָה‎]]</big>**; ransom</small>
 
 $\quad$ Padon.
 - § Padon = *"ransom"*

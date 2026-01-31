@@ -4,16 +4,16 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahijah</span> was a son of Jerahmeel, a descendant of Judah. \([[1Chr.2.25|1Ch.2.25]]\)
 - A man from the tribe of Judah living at the time of United Monarchy, only mentioned at [[1Chr.2.25|1Ch.2.25]]; 
-- only referred to as Ahijah<[[H0281J]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  son of Jerahmeel<[[H3396G]]>; 
-- a brother of Ram<[[H7410H]]>, Bunah<[[H0946]]>, Oren<[[H0767]]>, Ozem<[[H0684H]]> and Onam<[[H0208H]]>.
+- only referred to as Ahijah **<big>[[H0281|אֲחִיָּה]]</big>**; 
+-  son of Jerahmeel **<big>[[H3396|יְרַחְמְאֵל]]</big>**; 
+- a brother of Ram **<big>[[H7410|רָם]]</big>**, Bunah **<big>[[H0946|בּוּנָה]]</big>**, Oren **<big>[[H0767|אֹרֶן]]</big>**, Ozem **<big>[[H0684|אֹצֶם]]</big>** and Onam **<big>[[H0208|אוֹנָם]]</big>**.
 
 Ahijah is briefly mentioned in the genealogy of the tribe of Judah. He was one of the sons of Jerahmeel, who was a descendant of Judah through his son Hezron. The genealogy lists Ahijah among Jerahmeel's children, along with Ram, Bunah, Oren, and Ozem. No further information about Ahijah's life or role within the tribe is provided in the biblical text. \([[1Chr.2.25|1Ch.2.25]]\).
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0281J) <small>*Hebrew*</small> | 1x | [1Ch.2.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahijah\*\|reference=1Ch.2.25) |
-All Strong's for **Ahijah**: \[[[H0281J]]\]
+| Ahijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0281J) | 1x | [1Ch.2.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahijah\*\|reference=1Ch.2.25) |
+All entries for **Ahijah**:  **<big>[[H0281|אֲחִיָּה]]</big>**
 #### Related Profiles:
 - **[Jerahmeel](H3396G)** (father)
 - **[a_wife_of_Jerahmeel](H3396J)** (mother)

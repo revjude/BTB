@@ -7,34 +7,34 @@ And Adonijah and all the guests that [were] with him heard [it] as they had made
 Now Adonijah and all his guests were finishing their feast when they heard the sound of the ram’s horn. “Why is the city in such a loud uproar?” asked Joab.<small><sub>**MT:**</sub></small>
 [[1Kgs.1.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.40|<< 1 Kings 1:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.42|1 Kings 1:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Adonijah heard, | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Αδωνίας</span></big> <sup><small><small>[[H0138]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| invited ones | <big><span class="asgreek">κλητοί</span></big> <sup><small><small>[[G2822]][[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| completed | <big><span class="asgreek">συνετέλεσαν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| eating. | <big><span class="asgreek">εσθίοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab heard | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horn, | <big><span class="asgreek">κερατίνης</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| sounding? | <big><span class="asgreek">ηχούσης</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Adonijah heard, | **<big>[[G0191\|ήκουσεν]]</big>** **<big>[[H0138\|Αδωνίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| invited ones | **<big>[[G2822\|κλητοί]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| completed | **<big>[[G4931\|συνετέλεσαν]]</big>** |
+| eating. | **<big>[[G2068\|εσθίοντες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab heard | **<big>[[G0191\|ήκουσεν]]</big>** **<big>[[H3097\|Ιωάβ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| horn, | **<big>[[G7998\|κερατίνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| What | **<big>[[G5100\|τις]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| sounding? | **<big>[[G2278\|ηχούσης]]</big>** |
 [[1Kgs.1.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.40|<< 1 Kings 1:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.42|1 Kings 1:42 >>]]</td></tr></table>
 
 

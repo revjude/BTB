@@ -7,22 +7,22 @@ Seest thou a man [that is] hasty in his words? [there is] more hope of a fool th
 Do you see a man who speaks in haste? There is more hope for a fool than for him.<small><sub>**MT:**</sub></small>
 [[Prov.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.19|<< Proverbs 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.21|Proverbs 29:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should behold | <big><span class="asgreek">ίδης</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| hasty | <big><span class="asgreek">ταχύν</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| words, | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| know | <big><span class="asgreek">γίνωσκε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| has | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| rather than | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| he! | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you should behold | **<big>[[G1492\|ίδης]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| hasty | **<big>[[G5036\|ταχύν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| words, | **<big>[[G3056\|λόγοις]]</big>** |
+| know | **<big>[[G1097\|γίνωσκε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| hope | **<big>[[G1680\|ελπίδα]]</big>** |
+| has | **<big>[[G2192\|έχει]]</big>** |
+| rather than | **<big>[[G3123\|μάλλον]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fool | **<big>[[G0878\|άφρων]]</big>** |
+| he! | **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.19|<< Proverbs 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.21|Proverbs 29:21 >>]]</td></tr></table>
 
 

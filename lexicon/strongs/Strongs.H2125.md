@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִיזָה‎</span></big> **Zîyzâh** <small>*(zee-zaw')*</small> ==**Zizah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>another form for <span class="ashebrew">‎זִיזָא‎</span><sup><small>[[H2124]]</small></sup></small>
+**<big><span class="ashebrew">‎זִיזָה‎</span></big>** **Zîyzâh** <small>*(zee-zaw')*</small> ==**Zizah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>another form for **<big>[[H2124|‎זִיזָא‎]]</big>**</small>
 
 $\quad$ Zizah.
 - § Zizah = *"abundance"*

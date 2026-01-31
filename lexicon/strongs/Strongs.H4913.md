@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָשָׁל‎</span></big> **Mâshâl** <small>*(maw-shawl')*</small> ==**Mashal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>for <span class="ashebrew">‎מִשְׁאָל‎</span><sup><small>[[H4861]]</small></sup></small>
+**<big><span class="ashebrew">‎מָשָׁל‎</span></big>** **Mâshâl** <small>*(maw-shawl')*</small> ==**Mashal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>for **<big>[[H4861|‎מִשְׁאָל‎]]</big>**</small>
 
 $\quad$ Mashal.
 - § Mashal = *"entreaty"*

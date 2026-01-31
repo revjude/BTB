@@ -6,25 +6,25 @@ and a peace offering of two oxen, five rams, five male goats, and five male lamb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.16|<< Numbers 7:16]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.18|Numbers 7:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and to [the] sacrifice of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>זֶ֣בַח </big></span><small><small><sup>[[H2077]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> Ze.vach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the peace offerings  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שְּׁלָמִים֮ </big></span><small><small><sup>[[H8002]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.la.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ox[en]  | <span class="ashebrew"><big>בָּקָ֣ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁנַיִם֒ </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.na.Yim <small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rams  | <span class="ashebrew"><big>אֵילִ֤ם </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| 'ei.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חֲמִשָּׁה֙ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| goats  | <span class="ashebrew"><big>עַתּוּדִ֣ים </big></span><small><small><sup>[[H6260]]</sup></small></small> &#8207;| 'a.tu.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חֲמִשָּׁ֔ה </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lambs  | <span class="ashebrew"><big>כְּבָשִׂ֥ים </big></span><small><small><sup>[[H3532]]</sup></small></small> &#8207;| ke.va.Sim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a year  | <span class="ashebrew"><big>שָׁנָ֖ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חֲמִשָּׁ֑ה </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֛ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] [the] offering of  | <span class="ashebrew"><big>קָרְבַּ֥ן </big></span><small><small><sup>[[H7133A]]</sup></small></small> &#8207;| ka.re.Ban <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nahshon  | <span class="ashebrew"><big>נַחְשׁ֖וֹן </big></span><small><small><sup>[[H5177]]</sup></small></small> &#8207;| nach.Shon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amminadab  | <span class="ashebrew"><big>עַמִּינָדָֽב </big></span><small><small><sup>[[H5992G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| 'a.mi.na.Dav <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to [the] sacrifice of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2077\|זֶ֣בַח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the peace offerings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8002\|שְּׁלָמִים֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ox[en]  |**<big>&#8207;[[H1241\|בָּקָ֣ר]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁנַיִם֒]]&#8207; </big>**| she.na.Yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rams  |**<big>&#8207;[[H0352A\|אֵילִ֤ם]]&#8207; </big>**| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חֲמִשָּׁה֙]]&#8207; </big>**| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  |**<big>&#8207;[[H6260\|עַתּוּדִ֣ים]]&#8207; </big>**| 'a.tu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חֲמִשָּׁ֔ה]]&#8207; </big>**| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  |**<big>&#8207;[[H3532\|כְּבָשִׂ֥ים]]&#8207; </big>**| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  |**<big>&#8207;[[H1121H\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  |**<big>&#8207;[[H8141\|שָׁנָ֖ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חֲמִשָּׁ֑ה]]&#8207; </big>**| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֛ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] offering of  |**<big>&#8207;[[H7133A\|קָרְבַּ֥ן]]&#8207; </big>**| ka.re.Ban<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nahshon  |**<big>&#8207;[[H5177\|נַחְשׁ֖וֹן]]&#8207; </big>**| nach.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amminadab  |**<big>&#8207;[[H5992G\|עַמִּינָדָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.mi.na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.16|<< Numbers 7:16]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.18|Numbers 7:18 >>]]</td></tr></table>
 
 

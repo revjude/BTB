@@ -7,27 +7,27 @@ And Joseph made haste; for his bowels did yearn upon his brother: and he sought 
 Joseph hurried out because he was moved to tears for his brother, and he went to a private room to weep.<small><sub>**MT:**</sub></small>
 [[Gen.43.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.29|<< Genesis 43:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.31|Genesis 43:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| was disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| contracted | <big><span class="asgreek">συνεστρέφετο</span></big> <sup><small><small>[[G4962]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his innards | <big><span class="asgreek">έντερα</span></big> <sup><small><small>[[G7266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was seeking | <big><span class="asgreek">εζήτει</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| to weep, | <big><span class="asgreek">κλαύσαι</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| and he entered | <big><span class="asgreek">εισελθών</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| storeroom | <big><span class="asgreek">ταμείον</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| to weep | <big><span class="asgreek">έκλαυσεν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| was disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| contracted | **<big>[[G4962\|συνεστρέφετο]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his innards | **<big>[[G7266\|έντερα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was seeking | **<big>[[G2212\|εζήτει]]</big>** |
+| to weep, | **<big>[[G2799\|κλαύσαι]]</big>** |
+| and he entered | **<big>[[G1525\|εισελθών]]</big>** **<big>[[G1161\|δε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| storeroom | **<big>[[G5009\|ταμείον]]</big>** |
+| to weep | **<big>[[G2799\|έκλαυσεν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Gen.43.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.29|<< Genesis 43:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.31|Genesis 43:31 >>]]</td></tr></table>
 
 

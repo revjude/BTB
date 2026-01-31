@@ -6,15 +6,15 @@ He rejected the tent of Joseph and refused the tribe of Ephraim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.66|<< Psalms 78:66]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.68|Psalms 78:68 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he rejected  | <span class="ashebrew"><big>וַ֭ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּמְאַס </big></span><small><small><sup>[[H3988A]]</sup></small></small> &#8207;| Va <small><sup>[[Hc]]</sup></small> i.yim.'as <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> [the] tent of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֹ֣הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joseph  | <span class="ashebrew"><big>יוֹסֵ֑ף </big></span><small><small><sup>[[H3130G]]</sup></small></small> &#8207;| yo.Sef <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<in> [the] tribe of  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֥בֶט </big></span><small><small><sup>[[H7626H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> She.vet <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶ֝פְרַ֗יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he chose  | <span class="ashebrew"><big>בָחָֽר </big></span><small><small><sup>[[H0977]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va.Char <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he rejected  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H3988A\|יִּמְאַס]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yim.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֑ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<in> [the] tribe of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7626H\|שֵׁ֥בֶט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶ֝פְרַ֗יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he chose  |**<big>&#8207;[[H0977\|בָחָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.Char<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.66|<< Psalms 78:66]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.68|Psalms 78:68 >>]]</td></tr></table>
 
 

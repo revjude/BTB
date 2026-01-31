@@ -6,30 +6,30 @@ Furthermore, select capable men from among the people—God-fearing, trustworthy
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.20|<< Exodus 18:20]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.22|Exodus 18:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּ֣ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will provide  | <span class="ashebrew"><big>תֶחֱזֶ֣ה </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| te.che.Zeh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from all  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  | <span class="ashebrew"><big>הָ֠ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עָם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTd]]</sup></small> 'om <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men of  | <span class="ashebrew"><big>אַנְשֵׁי </big></span><small><small><sup>[[H0582]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'an.shei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ability  | <span class="ashebrew"><big>חַ֜יִל </big></span><small><small><sup>[[H2428G]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] fearing  | <span class="ashebrew"><big>יִרְאֵ֧י </big></span><small><small><sup>[[H3373]]</sup></small></small> &#8207;| yir.'Ei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> God  | <span class="ashebrew"><big>אֱלֹהִ֛ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men of  | <span class="ashebrew"><big>אַנְשֵׁ֥י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness  | <span class="ashebrew"><big>אֱמֶ֖ת </big></span><small><small><sup>[[H0571G]]</sup></small></small> &#8207;| 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] hate  | <span class="ashebrew"><big>שֹׂ֣נְאֵי </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| So.ne.'ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> unjust gain  | <span class="ashebrew"><big>בָ֑צַע </big></span><small><small><sup>[[H1215]]</sup></small></small> &#8207;| Va.tza' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will appoint  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שַׂמְתָּ֣ </big></span><small><small><sup>[[H7760H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> sam.Ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over them  | <span class="ashebrew"><big>עֲלֵ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶ֗ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.le. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| officials of  | <span class="ashebrew"><big>שָׂרֵ֤י </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| sa.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousands  | <span class="ashebrew"><big>אֲלָפִים֙ </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| officials of  | <span class="ashebrew"><big>שָׂרֵ֣י </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| sa.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundreds  | <span class="ashebrew"><big>מֵא֔וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| officials of  | <span class="ashebrew"><big>שָׂרֵ֥י </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| sa.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fifties  | <span class="ashebrew"><big>חֲמִשִּׁ֖ים </big></span><small><small><sup>[[H2572]]</sup></small></small> &#8207;| cha.mi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and officials of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שָׂרֵ֥י </big></span><small><small><sup>[[H8269]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sa.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tens  | <span class="ashebrew"><big>עֲשָׂרֹֽת </big></span><small><small><sup>[[H6235]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.sa.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will provide  |**<big>&#8207;[[H2372\|תֶחֱזֶ֣ה]]&#8207; </big>**| te.che.Zeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H5971A\|עָם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'om<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men of  |**<big>&#8207;[[H0582\|אַנְשֵׁי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'an.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ability  |**<big>&#8207;[[H2428G\|חַ֜יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] fearing  |**<big>&#8207;[[H3373\|יִרְאֵ֧י]]&#8207; </big>**| yir.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness  |**<big>&#8207;[[H0571G\|אֱמֶ֖ת]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] hate  |**<big>&#8207;[[H8130\|שֹׂ֣נְאֵי]]&#8207; </big>**| So.ne.'ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> unjust gain  |**<big>&#8207;[[H1215\|בָ֑צַע]]&#8207; </big>**| Va.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will appoint  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760H\|שַׂמְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over them  |**<big>&#8207;[[H5921A\|עֲלֵ]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| 'a.le.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| officials of  |**<big>&#8207;[[H8269\|שָׂרֵ֤י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousands  |**<big>&#8207;[[H0505G\|אֲלָפִים֙]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| officials of  |**<big>&#8207;[[H8269\|שָׂרֵ֣י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundreds  |**<big>&#8207;[[H3967\|מֵא֔וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| officials of  |**<big>&#8207;[[H8269\|שָׂרֵ֥י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fifties  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֖ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and officials of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tens  |**<big>&#8207;[[H6235\|עֲשָׂרֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.sa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.20|<< Exodus 18:20]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.22|Exodus 18:22 >>]]</td></tr></table>
 
 

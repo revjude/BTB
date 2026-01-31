@@ -7,35 +7,35 @@ And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bea
 But Joab replied, “You are not the man to take good news today. You may do it another day, but you must not do so today, because the king’s son is dead.”<small><sub>**MT:**</sub></small>
 [[2Sam.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of good news | <big><span class="asgreek">ευαγγελίων</span></big> <sup><small><small>[[G2098]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall announce good news | <big><span class="asgreek">ευαγγελιή</span></big> <sup><small><small>[[G2097]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλη</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| But in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall not announce good news, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευαγγελιή</span></big> <sup><small><small>[[G2097]]</small></small></sup> |
-| for | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| has died. | <big><span class="asgreek">τέθνηκε</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| of good news | **<big>[[G2098\|ευαγγελίων]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall announce good news | **<big>[[G2097\|ευαγγελιή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| another | **<big>[[G0243\|άλλη]]</big>** |
+| But in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| you shall not announce good news, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2097\|ευαγγελιή]]</big>** |
+| for | **<big>[[G3754\|οτι]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| has died. | **<big>[[G2348\|τέθνηκε]]</big>** |
 [[2Sam.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
 
 

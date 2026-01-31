@@ -7,30 +7,30 @@ It shall not be baken with leaven. I have given it [unto them for] their portion
 It must not be baked with leaven; I have assigned it as their portion of My food offerings. It is most holy, like the sin offering and the guilt offering.<small><sub>**MT:**</sub></small>
 [[Lev.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.16|<< Leviticus 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.18|Leviticus 6:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be baked | <big><span class="asgreek">πεφθήσεται</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
-| being leavened. | <big><span class="asgreek">εζυμωμένη</span></big> <sup><small><small>[[G2220]]</small></small></sup> |
-| it as a portion | <big><span class="asgreek">μερίδα</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yield \[offerings\] | <big><span class="asgreek">καρπωμάτων</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a holy | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| It is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trespass \[offering\]. | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
+| It shall not | **<big>[[G3756\|ου]]</big>** |
+| be baked | **<big>[[G8778\|πεφθήσεται]]</big>** |
+| being leavened. | **<big>[[G2220\|εζυμωμένη]]</big>** |
+| it as a portion | **<big>[[G3310\|μερίδα]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| yield \[offerings\] | **<big>[[G7806\|καρπωμάτων]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| a holy | **<big>[[G0039\|άγια]]</big>** |
+| of holies | **<big>[[G0039\|αγίων]]</big>** |
+| It is | **<big>[[G1510\|εστίν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| trespass \[offering\]. | **<big>[[G8811\|πλημμελείας]]</big>** |
 [[Lev.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.16|<< Leviticus 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.18|Leviticus 6:18 >>]]</td></tr></table>
 
 

@@ -11,25 +11,25 @@ But desert creatures will lie down there, and howling creatures will fill her ho
 > $\quad$ referenced by: [[Rev.18.2|Rev 18:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">αναπαύσονται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall fill up | <big><span class="asgreek">εμπλησθήσονται</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οικίαι</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| with a sound; | <big><span class="asgreek">ήχου</span></big> <sup><small><small>[[G2279]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">αναπαύσονται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| sirens | <big><span class="asgreek">σειρήνες</span></big> <sup><small><small>[[G9063]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| demons | <big><span class="asgreek">δαιμόνια</span></big> <sup><small><small>[[G1140]]</small></small></sup> |
-| will dance | <big><span class="asgreek">ορχήσονται</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G3738]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall rest | **<big>[[G0373\|αναπαύσονται]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall fill up | **<big>[[G1705\|εμπλησθήσονται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| houses | **<big>[[G3614\|οικίαι]]</big>** |
+| with a sound; | **<big>[[G2279\|ήχου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall rest | **<big>[[G0373\|αναπαύσονται]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| sirens | **<big>[[G9063\|σειρήνες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| demons | **<big>[[G1140\|δαιμόνια]]</big>** |
+| will dance | **<big>[[G1563\|ορχήσονται]]</big>** |
+| there. | **<big>[[G3738\|εκεί]]</big>** |
 [[Isa.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.20|<< Isaiah 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.22|Isaiah 13:22 >>]]</td></tr></table>
 
 

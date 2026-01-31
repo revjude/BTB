@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָקַם‎</span></big> **râqam** <small>*(raw-kam')*</small> ==**to weave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָקַם‎</span></big>** **râqam** <small>*(raw-kam')*</small> ==**to weave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ embroiderer, needlework, curiously work.
@@ -9,4 +9,4 @@ $\quad$ embroiderer, needlework, curiously work.
 $\quad$ **1a)** (Qal) variegator (worker in colours) (participle)
 $\quad$ **1b)** (Pual) to be skilfully wrought or woven
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὑπόστασις</span><sup><small>[[G5287]]</small></sup> · <span class="asgreek">ὑφαντός</span><sup><small>[[G5307]]</small></sup>
+<small>See Greek: </small>**<big>[[G5287|ὑπόστασις]]</big>** · **<big>[[G5307|ὑφαντός]]</big>**

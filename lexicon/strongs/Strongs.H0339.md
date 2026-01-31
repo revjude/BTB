@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִי‎</span></big> **ʼîy** <small>*(ee)*</small> ==**coastland**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָוָה‎</span><sup><small>[[H0183]]</small></sup></small>
+**<big><span class="ashebrew">‎אִי‎</span></big>** **ʼîy** <small>*(ee)*</small> ==**coastland**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0183|‎אָוָה‎]]</big>**</small>
 
 $\quad$ country, isle, island.
 - properly, ***a habitable spot*** (as desirable)
@@ -7,4 +7,4 @@ $\quad$ country, isle, island.
 
 **1)** coast, island, shore, region
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔθνος</span><sup><small>[[G1484]]</small></sup> · <span class="asgreek">θάλασσα</span><sup><small>[[G2281]]</small></sup> · <span class="asgreek">νῆσος</span><sup><small>[[G3520]]</small></sup>
+<small>See Greek: </small>**<big>[[G1484|ἔθνος]]</big>** · **<big>[[G2281|θάλασσα]]</big>** · **<big>[[G3520|νῆσος]]</big>**

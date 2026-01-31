@@ -7,33 +7,33 @@ Therefore hear now, I pray thee, O my lord the king: let my supplication, I pray
 But now please listen, O my lord the king. May my petition come before you. Do not send me back to the house of Jonathan the scribe, or I will die there.”<small><sub>**MT:**</sub></small>
 [[Jer.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.19|<< Jeremiah 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.21|Jeremiah 37:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| O lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O king! | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| fall | <big><span class="asgreek">πεσέτω</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| for me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in front of | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| you! | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you return | <big><span class="asgreek">αποστρέφης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of Jonathan | <big><span class="asgreek">Ιωνάθαν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe, | <big><span class="asgreek">γραμματέως</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should I die | <big><span class="asgreek">αποθάνω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| hear | **<big>[[G0191\|άκουσον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| O lord, | **<big>[[G2962\|κύριε]]</big>** |
+| O king! | **<big>[[G0935\|βασιλεύ]]</big>** |
+| fall | **<big>[[G4098\|πεσέτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mercy | **<big>[[G1656\|έλεός]]</big>** |
+| for me | **<big>[[G1473\|μου]]</big>** |
+| in front of | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπόν]]</big>** |
+| you! | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you return | **<big>[[G0654\|αποστρέφης]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3614\|οικίαν]]</big>** |
+| of Jonathan | **<big>[[H3129\|Ιωνάθαν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| scribe, | **<big>[[G1122\|γραμματέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should I die | **<big>[[G0599\|αποθάνω]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Jer.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.19|<< Jeremiah 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.21|Jeremiah 37:21 >>]]</td></tr></table>
 
 

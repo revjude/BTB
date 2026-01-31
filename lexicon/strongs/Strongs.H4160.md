@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מוּץ‎</span></big> **mûwts** <small>*(moots)*</small> ==**extortioner**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מוּץ‎</span></big>** **mûwts** <small>*(moots)*</small> ==**extortioner**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ extortioner.

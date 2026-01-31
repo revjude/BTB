@@ -7,35 +7,35 @@ Send one of you, and let him fetch your brother, and ye shall be kept in prison,
 Send one of your number to get your brother; the rest of you will be confined so that the truth of your words may be tested. If they are untrue, then as surely as Pharaoh lives, you are spies!”<small><sub>**MT:**</sub></small>
 [[Gen.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.15|<< Genesis 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.17|Genesis 42:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You send | <big><span class="asgreek">αποστείλατε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother! | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall be taken away | <big><span class="asgreek">απάχθητε</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparent | <big><span class="asgreek">φανερά</span></big> <sup><small><small>[[G5318]]</small></small></sup> |
-| become | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sayings | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you be truthful, | <big><span class="asgreek">αληθεύετε</span></big> <sup><small><small>[[G0226]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| But if not, | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
-| by | <big><span class="asgreek">νη</span></big> <sup><small><small>[[G3513]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| health | <big><span class="asgreek">υγίειαν</span></big> <sup><small><small>[[G9523]]</small></small></sup> |
-| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| assuredly | <big><span class="asgreek">η μην</span></big> <sup><small><small>[[G2228]][[G3361]]</small></small></sup> |
-| you are spies. | <big><span class="asgreek">κατάσκοποί</span></big> <sup><small><small>[[G2685]]</small></small></sup> <big><span class="asgreek">εστε</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| You send | **<big>[[G0649\|αποστείλατε]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your brother! | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| But you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall be taken away | **<big>[[G0520\|απάχθητε]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| apparent | **<big>[[G5318\|φανερά]]</big>** |
+| become | **<big>[[G1096\|γενέσθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your sayings | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| you be truthful, | **<big>[[G0226\|αληθεύετε]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| not. | **<big>[[G3756\|ου]]</big>** |
+| But if not, | **<big>[[G1490\|ει δε μη]]</big>** |
+| by | **<big>[[G3513\|νη]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| health | **<big>[[G9523\|υγίειαν]]</big>** |
+| of Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| assuredly | **<big>[[G2228\|η μην]]</big>**<sup><small>[[G3361\| [ • ] ]]</small></sup> |
+| you are spies. | **<big>[[G2685\|κατάσκοποί]]</big>** **<big>[[G1510\|εστε]]</big>** |
 [[Gen.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.15|<< Genesis 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.17|Genesis 42:17 >>]]</td></tr></table>
 
 

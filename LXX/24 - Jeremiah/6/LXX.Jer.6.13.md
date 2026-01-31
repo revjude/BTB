@@ -7,25 +7,25 @@ For from the least of them even unto the greatest of them every one [is] given t
 “For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.<small><sub>**MT:**</sub></small>
 [[Jer.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| have completed | <big><span class="asgreek">συνετελέσαντο</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| lawless deeds; | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| false prophet, | <big><span class="asgreek">ψευδοπροφήτου</span></big> <sup><small><small>[[G5578]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| acted | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| falsely. | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their small | **<big>[[G3398\|μικρού]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| great | **<big>[[G3173\|μεγάλου]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| have completed | **<big>[[G4931\|συνετελέσαντο]]</big>** |
+| lawless deeds; | **<big>[[G0459\|άνομα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] priest | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| false prophet, | **<big>[[G5578\|ψευδοπροφήτου]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| acted | **<big>[[G4160\|εποίησαν]]</big>** |
+| falsely. | **<big>[[G5571\|ψευδή]]</big>** |
 [[Jer.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
 
 

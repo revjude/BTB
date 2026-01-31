@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִבְיָּה‎</span></big> **Tsibyâh** <small>*(tsib-yaw')*</small> ==**Zibiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>for <span class="ashebrew">‎צְבִיָּה‎</span><sup><small>[[H6646]]</small></sup></small>
+**<big><span class="ashebrew">‎צִבְיָּה‎</span></big>** **Tsibyâh** <small>*(tsib-yaw')*</small> ==**Zibiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>for **<big>[[H6646|‎צְבִיָּה‎]]</big>**</small>
 
 $\quad$ Zibiah.
 - § Zibiah = *"roe"*

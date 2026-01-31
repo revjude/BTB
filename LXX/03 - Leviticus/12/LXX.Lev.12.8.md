@@ -11,40 +11,40 @@ But if she cannot afford a lamb, she shall bring two turtledoves or two young pi
 > $\quad$ referenced by: [[Luke.2.24|Luke 2:24]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| does not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| find | <big><span class="asgreek">ευρίσκη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enough | <big><span class="asgreek">ικανόν</span></big> <sup><small><small>[[G2425]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a lamb, | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| turtle-doves, | <big><span class="asgreek">τρυγόνας</span></big> <sup><small><small>[[G5167]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| young | <big><span class="asgreek">νεοσσούς</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
-| pigeons -- | <big><span class="asgreek">περιστερών</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\]; | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she shall be cleansed. | <big><span class="asgreek">καθαρισθήσεται</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| does not | **<big>[[G3361\|μη]]</big>** |
+| find | **<big>[[G2147\|ευρίσκη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| enough | **<big>[[G2425\|ικανόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a lamb, | **<big>[[G0286\|αμνόν]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| she shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| turtle-doves, | **<big>[[G5167\|τρυγόνας]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| young | **<big>[[G3502\|νεοσσούς]]</big>** |
+| pigeons -- | **<big>[[G4058\|περιστερών]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\]; | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she shall be cleansed. | **<big>[[G2511\|καθαρισθήσεται]]</big>** |
 [[Lev.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.7|<< Leviticus 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.1|Leviticus 13:1 >>]]</td></tr></table>
 
 

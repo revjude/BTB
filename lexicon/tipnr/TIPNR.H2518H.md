@@ -4,9 +4,9 @@ High Priest living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hilkiah</span>, the high priest during King Josiah's reign, discovered the Book of the Law in the temple, sparking a religious reform.
 - A High Priest from the tribe of Levi living at the time of Divided Monarchy, first mentioned at [[2Kgs.22.4|2Ki.22.4]]; 
-- only referred to as Hilkiah<[[H2518H]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Shallum<[[H7967L]]>; 
--  father of Azariah<[[H5838L]]> and Gemariah<[[H1587G]]>.
+- only referred to as Hilkiah **<big>[[H2518|חִלְקִיָּה]]</big>**; 
+- a son of Shallum **<big>[[H7967|שַׁלּוּם]]</big>**; 
+-  father of Azariah **<big>[[H5838|עֲזַרְיָה]]</big>** and Gemariah **<big>[[H1587|גְּמַרְיָה]]</big>**.
 
 Hilkiah was the high priest during the reign of King Josiah of Judah \(2 Kings 22-23, 2 Chronicles 34-35\). He is most notable for his discovery of the Book of the Law in the temple, which led to a significant religious reform and renewal in Judah. 
 
@@ -20,8 +20,8 @@ Hilkiah is also mentioned in the genealogies of the Levites and priests \(1 Chro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518H) <small>*Hebrew*</small> | 22x | [[2Ki.22.4] ... [Jer.29.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=2Ki.22.4;2Ki.22.8;2Ki.22.8;2Ki.22.10;2Ki.22.12;2Ki.22.14;2Ki.23.4;2Ki.23.24;1Ch.6.13;1Ch.6.13;1Ch.9.11;2Ch.34.9;2Ch.34.14;2Ch.34.15;2Ch.34.15;2Ch.34.18;2Ch.34.20;2Ch.34.22;2Ch.35.8;Ezr.7.1;Neh.11.11;Jer.29.3) |
-All Strong's for **Hilkiah**: \[[[H2518H]]\]
+| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518H) | 22x | [[2Ki.22.4] ... [Jer.29.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=2Ki.22.4;2Ki.22.8;2Ki.22.8;2Ki.22.10;2Ki.22.12;2Ki.22.14;2Ki.23.4;2Ki.23.24;1Ch.6.13;1Ch.6.13;1Ch.9.11;2Ch.34.9;2Ch.34.14;2Ch.34.15;2Ch.34.15;2Ch.34.18;2Ch.34.20;2Ch.34.22;2Ch.35.8;Ezr.7.1;Neh.11.11;Jer.29.3) |
+All entries for **Hilkiah**:  **<big>[[H2518|חִלְקִיָּה]]</big>**
 #### Related Profiles:
 - **[Shallum](H7967L)** (father)
 - **[Azariah](H5838L)** (child)

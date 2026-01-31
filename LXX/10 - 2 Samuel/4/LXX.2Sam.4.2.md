@@ -7,42 +7,42 @@ And Saul’s son had two men [that were] captains of bands: the name of the one 
 Saul’s son had two men who were leaders of raiding parties. One was named Baanah and the other Rechab; they were sons of Rimmon the Beerothite of the tribe of Benjamin—Beeroth is considered part of Benjamin,<small><sub>**MT:**</sub></small>
 [[2Sam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.1|<< 2 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.3|2 Samuel 4:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[there were\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| being leaders | <big><span class="asgreek">ηγούμενοι</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| of \[the\] confederation | <big><span class="asgreek">συστρεμμάτων</span></big> <sup><small><small>[[G9361]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ishbosheth | <big><span class="asgreek">Ισβόσεθ</span></big> <sup><small><small>[[H0378]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Saul -- | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[was\] Baanah, | <big><span class="asgreek">Βαανά</span></big> <sup><small><small>[[H1196]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second, | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| Rechab, | <big><span class="asgreek">Ρηχάβ</span></big> <sup><small><small>[[H7394]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Rimmon | <big><span class="asgreek">Ρεμμών</span></big> <sup><small><small>[[H7417c]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beerothite | <big><span class="asgreek">Βηρωθαίου</span></big> <sup><small><small>[[H0881]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin; | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beeroth | <big><span class="asgreek">Βηρόθ</span></big> <sup><small><small>[[H0881]]</small></small></sup> |
-| was considered | <big><span class="asgreek">ελογίζετο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| \[among\] the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin. | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
+| And \[there were\] | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| being leaders | **<big>[[G2233\|ηγούμενοι]]</big>** |
+| of \[the\] confederation | **<big>[[G9361\|συστρεμμάτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of Ishbosheth | **<big>[[H0378\|Ισβόσεθ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Saul -- | **<big>[[G4549\|Σαούλ]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| \[was\] Baanah, | **<big>[[H1196\|Βαανά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|τω]]</big>** |
+| second, | **<big>[[G1208\|δευτέρω]]</big>** |
+| Rechab, | **<big>[[H7394\|Ρηχάβ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Rimmon | **<big>[[H7417c\|Ρεμμών]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Beerothite | **<big>[[H0881\|Βηρωθαίου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Benjamin; | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| Beeroth | **<big>[[H0881\|Βηρόθ]]</big>** |
+| was considered | **<big>[[G3049\|ελογίζετο]]</big>** |
+| \[among\] the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Benjamin. | **<big>[[G0958\|Βενιαμίν]]</big>** |
 [[2Sam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.1|<< 2 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.3|2 Samuel 4:3 >>]]</td></tr></table>
 
 

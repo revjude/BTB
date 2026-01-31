@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹחָנָן‎</span></big> **Yᵉhôwchânân** <small>*(yeh-ho-khaw-nawn')*</small> ==**Johanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup>; Jehovah-favored</small>
+**<big><span class="ashebrew">‎יְהוֹחָנָן‎</span></big>** **Yᵉhôwchânân** <small>*(yeh-ho-khaw-nawn')*</small> ==**Johanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H2603|‎חָנַן‎]]</big>**; Jehovah-favored</small>
 
-$\quad$ Jehohanan, Johanan. Compare <span class="ashebrew">‎יוֹחָנָן‎</span><sup><small>[[H3110]]</small></sup>.
+$\quad$ Jehohanan, Johanan. Compare **<big>[[H3110|‎יוֹחָנָן‎]]</big>**.
 - § Jehohanan = *"Jehovah has graced"*
 - ***Jehochanan***, the name of eight Israelites
 

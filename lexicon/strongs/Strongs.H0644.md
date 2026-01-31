@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָפָה‎</span></big> **ʼâphâh** <small>*(aw-faw')*</small> ==**to bake**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָפָה‎</span></big>** **ʼâphâh** <small>*(aw-faw')*</small> ==**to bake**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bake(-r, (-meats)).
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to bake
 $\quad$ $\quad$ **1a2)** (subst) baker
 $\quad$ **1b)** (Niphal) to be baked, baked
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup>
+<small>See Greek: </small>**<big>[[G4160|ποιέω]]</big>**

@@ -6,19 +6,19 @@ Do not eat the bread of a stingy man, and do not crave his delicacies;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.5|<< Proverbs 23:5]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.7|Proverbs 23:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you eat  | <span class="ashebrew"><big>תִּלְחַ֗ם </big></span><small><small><sup>[[H3898B]]</sup></small></small> &#8207;| til.Cham <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] food of  | <span class="ashebrew"><big>לֶ֭חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a [person] evil of  | <span class="ashebrew"><big>רַ֣ע </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| ra' <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eye  | <span class="ashebrew"><big>עָ֑יִן </big></span><small><small><sup>[[H5869I]]</sup></small></small> &#8207;| 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and may not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you crave  [^1] | <span class="ashebrew"><big>תִּ֝תְאָ֗יו </big></span><small><small><sup>[[H0183]]</sup></small></small> &#8207;[^2] | tit.'av <small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| for dainties his  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַטְעַמֹּתָֽי </big></span><small><small><sup>[[H4303]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mat.'a.mo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you eat  |**<big>&#8207;[[H3898B\|תִּלְחַ֗ם]]&#8207; </big>**| til.Cham<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] food of  |**<big>&#8207;[[H3899H\|לֶ֭חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a [person] evil of  |**<big>&#8207;[[H7451H\|רַ֣ע]]&#8207; </big>**| ra'<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye  |**<big>&#8207;[[H5869I\|עָ֑יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you crave  [^1]|**<big>&#8207;[[H0183\|תִּ֝תְאָ֗יו]]&#8207; </big>**[^2] | tit.'av<small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| for dainties his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4303\|מַטְעַמֹּתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mat.'a.mo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.5|<< Proverbs 23:5]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.7|Proverbs 23:7 >>]]</td></tr></table>
 
-[^1]: ==K==: **you mark out ** | <small><sup>[[H8376]]</sup></small> <span class="ashebrew"><big>תְּתָאוּ</big></span>  | tit.'av<small><sup>[[HVtj2ms]]</sup></small> 
+[^1]: ==K==: you mark out  | **<big>[[H8376|תְּתָאוּ]]</big> ** | tit.'av<small><sup>[[HVtj2ms]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>תִּ֝תְאָ֗ו</big></span>**
 

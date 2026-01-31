@@ -6,17 +6,17 @@ Even zeal is no good without knowledge, and he who hurries his footsteps misses 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.1|<< Proverbs 19:1]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.3|Proverbs 19:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| also  | <span class="ashebrew"><big>גַּ֤ם </big></span><small><small><sup>[[H1571]]</sup></small></small> &#8207;| gam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with not  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דַ֣עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| Da.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>נֶ֣פֶשׁ </big></span><small><small><sup>[[H5315J]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] good  | <span class="ashebrew"><big>ט֑וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] hastens  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָ֖ץ </big></span><small><small><sup>[[H0213]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Atz <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with feet  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רַגְלַ֣יִם </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> rag.La.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] missing  | <span class="ashebrew"><big>חוֹטֵֽא </big></span><small><small><sup>[[H2398]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cho.Te' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1847\|דַ֣עַת]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H5315J\|נֶ֣פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|ט֑וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] hastens  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0213\|אָ֖ץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Atz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with feet  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7272\|רַגְלַ֣יִם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> rag.La.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] missing  |**<big>&#8207;[[H2398\|חוֹטֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cho.Te'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.1|<< Proverbs 19:1]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.3|Proverbs 19:3 >>]]</td></tr></table>
 
 

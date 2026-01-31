@@ -7,31 +7,31 @@ So Gehazi followed after Naaman. And when Naaman saw [him] running after him, he
 So Gehazi pursued Naaman. And when Naaman saw him running toward him, he got down from the chariot to meet him and asked, “Is everything all right?”<small><sub>**MT:**</sub></small>
 [[2Kgs.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.20|<< 2 Kings 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.22|2 Kings 5:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gehazi pursued | <big><span class="asgreek">εδίωξε</span></big> <sup><small><small>[[G1377]]</small></small></sup> <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Naaman. | <big><span class="asgreek">Νεεμάν</span></big> <sup><small><small>[[G3497]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Naaman | <big><span class="asgreek">Νεεμάν</span></big> <sup><small><small>[[G3497]]</small></small></sup> |
-| running | <big><span class="asgreek">τρέχοντα</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he leaped down | <big><span class="asgreek">κατεπήδησεν</span></big> <sup><small><small>[[G7894]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρματος</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meeting | <big><span class="asgreek">απάντην</span></big> <sup><small><small>[[G6398]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Peace. | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gehazi pursued | **<big>[[G1377\|εδίωξε]]</big>** **<big>[[H1522\|Γιεζί]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Naaman. | **<big>[[G3497\|Νεεμάν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| saw | **<big>[[G1492\|είδεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Naaman | **<big>[[G3497\|Νεεμάν]]</big>** |
+| running | **<big>[[G5143\|τρέχοντα]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he leaped down | **<big>[[G7894\|κατεπήδησεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| chariot | **<big>[[G0716\|άρματος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| meeting | **<big>[[G6398\|απάντην]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Peace. | **<big>[[G1515\|ειρήνη]]</big>** |
 [[2Kgs.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.20|<< 2 Kings 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.22|2 Kings 5:22 >>]]</td></tr></table>
 
 

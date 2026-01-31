@@ -7,22 +7,22 @@ I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and 
 I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses in the desert, elms and boxwood together,<small><sub>**MT:**</sub></small>
 [[Isa.41.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.18|<< Isaiah 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.20|Isaiah 41:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will put | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waterless | <big><span class="asgreek">άνυδρον</span></big> <sup><small><small>[[G0504]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the\] cedar | <big><span class="asgreek">κέδρον</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| boxwood, | <big><span class="asgreek">πύξον</span></big> <sup><small><small>[[G8990]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| myrtle, | <big><span class="asgreek">μυρσίνην</span></big> <sup><small><small>[[G8366]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cypress, | <big><span class="asgreek">κυπάρισσον</span></big> <sup><small><small>[[G8130]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| white poplar; | <big><span class="asgreek">λεύκην</span></big> <sup><small><small>[[G8187]]</small></small></sup> |
+| I will put | **<big>[[G5087\|θήσω]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| waterless | **<big>[[G0504\|άνυδρον]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| \[the\] cedar | **<big>[[G2748\|κέδρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| boxwood, | **<big>[[G8990\|πύξον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| myrtle, | **<big>[[G8366\|μυρσίνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cypress, | **<big>[[G8130\|κυπάρισσον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| white poplar; | **<big>[[G8187\|λεύκην]]</big>** |
 [[Isa.41.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.18|<< Isaiah 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.20|Isaiah 41:20 >>]]</td></tr></table>
 
 

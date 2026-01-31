@@ -11,22 +11,22 @@ On that day the wailing in Jerusalem will be as great as the wailing of Hadad-ri
 > $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| shall be magnified | <big><span class="asgreek">μεγαλυνθήσεται</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beating the breast | <big><span class="asgreek">κοπετός</span></big> <sup><small><small>[[G2870]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the beating of the breast | <big><span class="asgreek">κοπετός</span></big> <sup><small><small>[[G2870]]</small></small></sup> |
-| \[over the\] pomegranate grove | <big><span class="asgreek">ροώνος</span></big> <sup><small><small>[[G9035]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| having been cut down. | <big><span class="asgreek">εκκοπτομενου</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| shall be magnified | **<big>[[G3170\|μεγαλυνθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| beating the breast | **<big>[[G2870\|κοπετός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the beating of the breast | **<big>[[G2870\|κοπετός]]</big>** |
+| \[over the\] pomegranate grove | **<big>[[G9035\|ροώνος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] plain | **<big>[[G8676\|πεδίω]]</big>** |
+| having been cut down. | **<big>[[G1581\|εκκοπτομενου]]</big>** |
 [[Zech.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.10|<< Zechariah 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.12|Zechariah 12:12 >>]]</td></tr></table>
 
 

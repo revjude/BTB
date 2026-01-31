@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָמָה‎</span></big> **Râmâh** <small>*(raw-maw')*</small> ==**Ramah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎רָמָה‎</span><sup><small>[[H7413]]</small></sup></small>
+**<big><span class="ashebrew">‎רָמָה‎</span></big>** **Râmâh** <small>*(raw-maw')*</small> ==**Ramah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H7413|‎רָמָה‎]]</big>**</small>
 
 $\quad$ Ramah.
 - § Ramah = *"hill"*
@@ -13,4 +13,4 @@ $\quad$ Ramah.
 $\quad$ **5a)** also 'Ramoth-gilead'
 **6)** a place rehabited by the Benjamites after the return from captivity
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ῥαμᾶ</span><sup><small>[[G4471]]</small></sup> · <span class="asgreek">Ἀριμαθαία</span><sup><small>[[G0707]]</small></sup>
+<small>See Greek: </small>**<big>[[G4471|Ῥαμᾶ]]</big>** · **<big>[[G0707|Ἀριμαθαία]]</big>**

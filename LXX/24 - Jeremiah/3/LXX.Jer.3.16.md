@@ -11,41 +11,41 @@ And it shall come to pass, when ye be multiplied and increased in the land, in t
 > $\quad$ referenced by: [[1Cor.2.9|1Cor 2:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should be multiplied, | <big><span class="asgreek">πληθυνθήτε</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should grow | <big><span class="asgreek">αυξηθήτε</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| say | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| any more, | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| Ark | <big><span class="asgreek">κιβωτός</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of \[the\] covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| of holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| It shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| be named, | <big><span class="asgreek">ονομασθήσεται</span></big> <sup><small><small>[[G3687]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall it be examined, | <big><span class="asgreek">επισκεφθήσεται</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be done | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| any more. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should be multiplied, | **<big>[[G4129\|πληθυνθήτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should grow | **<big>[[G0837\|αυξηθήτε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land, | **<big>[[G1093\|γης]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| those days, | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1565\|εκείναις]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| say | **<big>[[G2046\|ερούσιν]]</big>** |
+| any more, | **<big>[[G2089\|έτι]]</big>** |
+| Ark | **<big>[[G2787\|κιβωτός]]</big>** |
+| of \[the\] covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| of holy | **<big>[[G0039\|αγίου]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| It shall not | **<big>[[G3756\|ουκ]]</big>** |
+| ascend | **<big>[[G0305\|αναβήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] heart, | **<big>[[G2588\|καρδίαν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| be named, | **<big>[[G3687\|ονομασθήσεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall it be examined, | **<big>[[G1980\|επισκεφθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| be done | **<big>[[G4160\|ποιηθήσεται]]</big>** |
+| any more. | **<big>[[G2089\|έτι]]</big>** |
 [[Jer.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.15|<< Jeremiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.17|Jeremiah 3:17 >>]]</td></tr></table>
 
 

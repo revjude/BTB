@@ -7,36 +7,36 @@ And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, an
 Moses summoned Mishael and Elzaphan, sons of Aaron’s uncle Uzziel, and said to them, “Come here; carry the bodies of your cousins outside the camp, away from the front of the sanctuary.”<small><sub>**MT:**</sub></small>
 [[Lev.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.3|<< Leviticus 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.5|Leviticus 10:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mishael | <big><span class="asgreek">Μισαήλ</span></big> <sup><small><small>[[H4333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elzaphan, | <big><span class="asgreek">Ελισαφάν</span></big> <sup><small><small>[[H0469]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Uzziel | <big><span class="asgreek">Οζιήλ</span></big> <sup><small><small>[[H5816]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Come forward | <big><span class="asgreek">προσέλθατε</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lift | <big><span class="asgreek">άρατε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| before | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp. | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses called | **<big>[[G2564\|εκάλεσε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Mishael | **<big>[[H4333\|Μισαήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Elzaphan, | **<big>[[H0469\|Ελισαφάν]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Uzziel | **<big>[[H5816\|Οζιήλ]]</big>** |
+| brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| father | **<big>[[G3962\|πατρός]]</big>** |
+| of Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Come forward | **<big>[[G4334\|προσέλθατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lift | **<big>[[G0142\|άρατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| before | **<big>[[G4383\|προσώπου]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| holies | **<big>[[G0039\|αγίων]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp. | **<big>[[G3925\|παρεμβολής]]</big>** |
 [[Lev.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.3|<< Leviticus 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.5|Leviticus 10:5 >>]]</td></tr></table>
 
 

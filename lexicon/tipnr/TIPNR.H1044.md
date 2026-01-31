@@ -1,8 +1,8 @@
 <small>*Beth-eked • Place where Jehu killed the brothers of Ahaziah.*</small>
 
 <span class='tipnrhighlight'>Beth-eked</span> was a place where Jehu killed the forty-two brothers of Ahaziah, king of Judah. \([[2Kgs.10.12|2 Kings 10:12]], 14\)
-- A location near Jezreel<[[H3157H]]> first mentioned at [[2Kgs.10.12|2Ki.10.12]]; 
-- only referred to as Beth-eked<[[H1044]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ד</span>\).
+- A location near Jezreel **<big>[[H3157|יִזְרְעֵאל]]</big>** first mentioned at [[2Kgs.10.12|2Ki.10.12]]; 
+- only referred to as Beth-eked **<big>[[H1044|בֵּית עֵקֶד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.5559631396043,35.33078927843792&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Jehu's actions at Beth-eked were part of his larger campaign to eliminate the ho
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-eked (KJV= shearing house; NIV= Beth Eked) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H1044) <small>*Hebrew*</small> | 2x | [[2Ki.10.12] & [2Ki.10.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=2Ki.10.12;2Ki.10.14) |
-All Strong's for **Beth-eked**: \[[[H1044]]\]
+| Beth-eked (KJV= shearing house; NIV= Beth Eked) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H1044) | 2x | [[2Ki.10.12] & [2Ki.10.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=2Ki.10.12;2Ki.10.14) |
+All entries for **Beth-eked**:  **<big>[[H1044|בֵּית עֵקֶד]]</big>**

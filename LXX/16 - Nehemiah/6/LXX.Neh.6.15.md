@@ -10,22 +10,22 @@ So the wall was finished in the twenty and fifth [day] of [the month] Elul, in f
 So the wall was completed in fifty-two days, on the twenty-fifth of Elul.<small><sub>**MT:**</sub></small>
 [[Neh.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.14|<< Nehemiah 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.16|Nehemiah 6:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was finished | <big><span class="asgreek">ετελέσθη</span></big> <sup><small><small>[[G5055]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| \[the\] fifth | <big><span class="asgreek">πέμπτη</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth | <big><span class="asgreek">εικάδι</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elul | <big><span class="asgreek">Ελούλ</span></big> <sup><small><small>[[H0435]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was finished | **<big>[[G5055\|ετελέσθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| \[the\] fifth | **<big>[[G3991\|πέμπτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth | **<big>[[G7051\|εικάδι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Elul | **<big>[[H0435\|Ελούλ]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[Neh.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.14|<< Nehemiah 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.16|Nehemiah 6:16 >>]]</td></tr></table>
 
 

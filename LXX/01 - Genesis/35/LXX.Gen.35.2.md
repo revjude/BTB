@@ -7,31 +7,31 @@ Then Jacob said unto his household, and to all that [were] with him, Put away th
 So Jacob told his household and all who were with him, “Get rid of the foreign gods that are among you. Purify yourselves and change your garments.<small><sub>**MT:**</sub></small>
 [[Gen.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.1|<< Genesis 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.3|Genesis 35:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to his house, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Take away | <big><span class="asgreek">άρατε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλοτρίους</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your midst, | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cleanse | <big><span class="asgreek">καθαρίσθητε</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| change | <big><span class="asgreek">αλλάξατε</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your robes! | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to his house, | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| Take away | **<big>[[G0142\|άρατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| alien | **<big>[[G0245\|αλλοτρίους]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| your midst, | **<big>[[G3319\|μέσου]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cleanse | **<big>[[G2511\|καθαρίσθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| change | **<big>[[G0236\|αλλάξατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your robes! | **<big>[[G4749\|στολάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Gen.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.1|<< Genesis 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.3|Genesis 35:3 >>]]</td></tr></table>
 
 

@@ -7,44 +7,44 @@ And I fell down before the LORD, as at the first, forty days and forty nights: I
 Then I fell down before the LORD for forty days and forty nights, as I had done the first time. I did not eat bread or drink water because of all the sin you had committed in doing what was evil in the sight of the LORD and provoking Him to anger.<small><sub>**MT:**</sub></small>
 [[Deut.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.17|<< Deuteronomy 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.19|Deuteronomy 9:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beseeched | <big><span class="asgreek">εδεήθην</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a second \[time\], | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| as also | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly, | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| nights. | <big><span class="asgreek">νύκτας</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| Bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat, | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| drink, | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you sinned, | <big><span class="asgreek">ημάρτετε</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked \[thing\] | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to provoke | <big><span class="asgreek">παροξύναι</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beseeched | **<big>[[G1189\|εδεήθην]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| a second \[time\], | **<big>[[G1208\|δεύτερον]]</big>** |
+| as also | **<big>[[G2509\|καθάπερ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| formerly, | **<big>[[G4387\|πρότερον]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| nights. | **<big>[[G3571\|νύκτας]]</big>** |
+| Bread | **<big>[[G0740\|άρτον]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| eat, | **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| drink, | **<big>[[G4095\|έπιον]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your sins | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| you sinned, | **<big>[[G0264\|ημάρτετε]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wicked \[thing\] | **<big>[[G4190\|πονηρόν]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God, | **<big>[[G2316\|θεού]]</big>** |
+| to provoke | **<big>[[G3947\|παροξύναι]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Deut.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.17|<< Deuteronomy 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.19|Deuteronomy 9:19 >>]]</td></tr></table>
 
 

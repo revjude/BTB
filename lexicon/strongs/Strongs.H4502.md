@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִנְּזָר‎</span></big> **minnᵉzâr** <small>*(min-ez-awr')*</small> ==**prince**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָזַר‎</span><sup><small>[[H5144]]</small></sup></small>
+**<big><span class="ashebrew">‎מִנְּזָר‎</span></big>** **minnᵉzâr** <small>*(min-ez-awr')*</small> ==**prince**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5144|‎נָזַר‎]]</big>**</small>
 
 $\quad$ crowned.
 - ***a prince***

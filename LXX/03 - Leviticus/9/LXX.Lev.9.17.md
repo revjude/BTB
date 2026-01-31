@@ -7,28 +7,28 @@ And he brought the meat offering, and took an handful thereof, and burnt [it] up
 Next he presented the grain offering, took a handful of it, and burned it on the altar in addition to the morning’s burnt offering.<small><sub>**MT:**</sub></small>
 [[Lev.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.16|<< Leviticus 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.18|Leviticus 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">προσήνεγκε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice \[offering\], | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he filled | <big><span class="asgreek">έπλησε</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed \[it\] | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| separate from | <big><span class="asgreek">χωρίς</span></big> <sup><small><small>[[G5565]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαυτώματος</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| early morning | <big><span class="asgreek">πρωϊνου</span></big> <sup><small><small>[[G4407]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G4374\|προσήνεγκε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice \[offering\], | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he filled | **<big>[[G4130\|έπλησε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| placed \[it\] | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| separate from | **<big>[[G5565\|χωρίς]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| whole burnt-offering | **<big>[[G3646\|ολοκαυτώματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| early morning | **<big>[[G4407\|πρωϊνου]]</big>** |
 [[Lev.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.16|<< Leviticus 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.18|Leviticus 9:18 >>]]</td></tr></table>
 
 

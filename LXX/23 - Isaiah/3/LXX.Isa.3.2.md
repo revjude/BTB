@@ -7,22 +7,22 @@ The mighty man, and the man of war, the judge, and the prophet, and the prudent,
 the mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,<small><sub>**MT:**</sub></small>
 [[Isa.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.1|<< Isaiah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.3|Isaiah 3:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] giant | <big><span class="asgreek">γίγαντα</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one prevailing, | <big><span class="asgreek">ισχύοντα</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| warrior, | <big><span class="asgreek">πολεμιστήν</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| magistrate, | <big><span class="asgreek">δικαστήν</span></big> <sup><small><small>[[G1348]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prophet, | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thinker, | <big><span class="asgreek">στοχαστήν</span></big> <sup><small><small>[[G9192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| old man, | <big><span class="asgreek">πρεσβύτην</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
+| \[the\] giant | **<big>[[G6736\|γίγαντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one prevailing, | **<big>[[G2480\|ισχύοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| warrior, | **<big>[[G8841\|πολεμιστήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| magistrate, | **<big>[[G1348\|δικαστήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prophet, | **<big>[[G4396\|προφήτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thinker, | **<big>[[G9192\|στοχαστήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| old man, | **<big>[[G4246\|πρεσβύτην]]</big>** |
 [[Isa.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.1|<< Isaiah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.3|Isaiah 3:3 >>]]</td></tr></table>
 
 

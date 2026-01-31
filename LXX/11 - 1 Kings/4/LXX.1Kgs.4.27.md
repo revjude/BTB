@@ -7,31 +7,31 @@ And those officers provided victual for king Solomon, and for all that came unto
 Each month the governors in turn provided food for King Solomon and all who came to his table. They saw to it that nothing was lacking.<small><sub>**MT:**</sub></small>
 [[1Kgs.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.26|<< 1 Kings 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.28|1 Kings 4:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| conducted | <big><span class="asgreek">εχορήγουν</span></big> <sup><small><small>[[G5524]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being placed \[in charge\] | <big><span class="asgreek">καθεστάμενοι</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Solomon, | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| declarations | <big><span class="asgreek">διαγγέλματα</span></big> <sup><small><small>[[G6820]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| each \[one in charge\] | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his month -- | <big><span class="asgreek">μήνα</span></big> <sup><small><small>[[G3376]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| alter | <big><span class="asgreek">παράλλασσουσι</span></big> <sup><small><small>[[G8624]]</small></small></sup> |
-| a word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| conducted | **<big>[[G5524\|εχορήγουν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones being placed \[in charge\] | **<big>[[G2525\|καθεστάμενοι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| Solomon, | **<big>[[G4672\|Σολομώντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| declarations | **<big>[[G6820\|διαγγέλματα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| table | **<big>[[G5132\|τράπεζαν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| each \[one in charge\] | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of his month -- | **<big>[[G3376\|μήνα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they did not | **<big>[[G3756\|ου]]</big>** |
+| alter | **<big>[[G8624\|παράλλασσουσι]]</big>** |
+| a word. | **<big>[[G3056\|λόγον]]</big>** |
 [[1Kgs.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.26|<< 1 Kings 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.28|1 Kings 4:28 >>]]</td></tr></table>
 
 

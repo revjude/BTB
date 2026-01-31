@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁכְמִי‎</span></big> **Shikmîy** <small>*(shik-mee')*</small> ==**Shechemite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎שֶׁכֶם‎</span><sup><small>[[H7928]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁכְמִי‎</span></big>** **Shikmîy** <small>*(shik-mee')*</small> ==**Shechemite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H7928|‎שֶׁכֶם‎]]</big>**</small>
 
 $\quad$ Shichemites.
 - § Shechemites = *"shoulder"*

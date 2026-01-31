@@ -6,26 +6,26 @@ Next to him, Baruch son of Zabbai diligently repaired another section, from the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.19|<< Nehemiah 3:19]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.21|Nehemiah 3:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| after him  | <span class="ashebrew"><big>אַחֲרָ֨י </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.cha.Ra <small><sup>[[HAcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| zealously  | <span class="ashebrew"><big>הֶחֱרָ֧ה </big></span><small><small><sup>[[H2734]]</sup></small></small> &#8207;| he.che.Rah <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he repaired  | <span class="ashebrew"><big>הֶחֱזִ֛יק </big></span><small><small><sup>[[H2388G]]</sup></small></small> &#8207;| he.che.Zik <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Baruch  | <span class="ashebrew"><big>בָּר֥וּךְ </big></span><small><small><sup>[[H1263G]]</sup></small></small> &#8207;| ba.Rukh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zaccai  [^1] | <span class="ashebrew"><big>זַכַּ֖י </big></span><small><small><sup>[[H2140]]</sup></small></small> &#8207;[^2] | za.kai <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| a measured portion  | <span class="ashebrew"><big>מִדָּ֣ה </big></span><small><small><sup>[[H4060A]]</sup></small></small> &#8207;| mi.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| second  | <span class="ashebrew"><big>שֵׁנִ֑ית </big></span><small><small><sup>[[H8145]]</sup></small></small> &#8207;| she.Nit <small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the buttress  | <span class="ashebrew"><big>הַ֨ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּקְצ֔וֹעַ </big></span><small><small><sup>[[H4740H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mik.Tzo.a' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] entrance of  | <span class="ashebrew"><big>פֶּ֙תַח֙ </big></span><small><small><sup>[[H6607]]</sup></small></small> &#8207;| pe.tach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliashib  | <span class="ashebrew"><big>אֶלְיָשִׁ֔יב </big></span><small><small><sup>[[H0475M]]</sup></small></small> &#8207;| 'el.ya.Shiv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the priest  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֵ֖ן </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.Hen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> great  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גָּדֽוֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֨י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| zealously  |**<big>&#8207;[[H2734\|הֶחֱרָ֧ה]]&#8207; </big>**| he.che.Rah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֛יק]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Baruch  |**<big>&#8207;[[H1263G\|בָּר֥וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zaccai  [^1]|**<big>&#8207;[[H2140\|זַכַּ֖י]]&#8207; </big>**[^2] | za.kai<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| a measured portion  |**<big>&#8207;[[H4060A\|מִדָּ֣ה]]&#8207; </big>**| mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| second  |**<big>&#8207;[[H8145\|שֵׁנִ֑ית]]&#8207; </big>**| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the buttress  |**<big>&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H4740H\|מִּקְצ֔וֹעַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mik.Tzo.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] entrance of  |**<big>&#8207;[[H6607\|פֶּ֙תַח֙]]&#8207; </big>**| pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliashib  |**<big>&#8207;[[H0475M\|אֶלְיָשִׁ֔יב]]&#8207; </big>**| 'el.ya.Shiv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.19|<< Nehemiah 3:19]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.21|Nehemiah 3:21 >>]]</td></tr></table>
 
-[^1]: ==K==: **Zabbai ** | <small><sup>[[H2079H]]</sup></small> <span class="ashebrew"><big>זַבַּי</big></span>  | za.bai<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: Zabbai  | **<big>[[H2079H|זַבַּי]]</big> ** | za.bai<small><sup>[[HNpm]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>זַבַּ֖י</big></span>**
 

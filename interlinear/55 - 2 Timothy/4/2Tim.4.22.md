@@ -6,42 +6,42 @@ The Lord be with your spirit. Grace be with you all.
 <small><sub>**Literal:**</sub></small>
 The Lord Jesus Christ [be] with the spirit of you. <the> Grace [be] with you all Amen. to Timothy second [epistle] of the Ephesian church first overseer having been chosen It was written from Rome when from second time stood Paul <the> before Caesar Nero<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.21|<< 2 Timothy 4:21]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.1|Titus 1:1 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| The |<big><span class="asgreek">Ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Lord |<big><span class="asgreek">κύριος</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jesus |<big><span class="asgreek">Ἰησοῦς</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| Christ [^1] |<big><span class="asgreek">Χριστὸς</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| [be] with |<big><span class="asgreek">μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spirit |<big><span class="asgreek">πνεύματός</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you. |<big><span class="asgreek">σου.</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Grace [be] |<big><span class="asgreek">χάρις</span></big> <small><small><sup>[[G5485]]</sup></small></small> |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<big><span class="asgreek">μεθ᾽</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you all |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Amen. |<big><span class="asgreek">ἀμήν.</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
-| to |<big><span class="asgreek">πρός</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Timothy |<big><span class="asgreek">Τιμόθεον</span></big> <small><small><sup>[[G5095]]</sup></small></small> |Timotheon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
-| second [epistle] |<big><span class="asgreek">δευτέρᾳ</span></big> <small><small><sup>[[G1208]]</sup></small></small> |deutera <small><sup>[[A-NSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Ephesian |<big><span class="asgreek">Ἐφεσίων</span></big> <small><small><sup>[[G2180]]</sup></small></small> |Ephesiōn <small><sup>[[A-GPM-LG]]</sup></small> | <abbr title="TR">K</abbr> | |
-| church |<big><span class="asgreek">ἐκκλησίας</span></big> <small><small><sup>[[G1577]]</sup></small></small> |ekklēsias <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| first |<big><span class="asgreek">πρῶτον</span></big> <small><small><sup>[[G4413G]]</sup></small></small> |prōton <small><sup>[[A-ASM-S]]</sup></small> | <abbr title="TR">K</abbr> | |
-| overseer |<big><span class="asgreek">ἐπίσκοπον</span></big> <small><small><sup>[[G1985]]</sup></small></small> |episkopon <small><sup>[[N-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| having been chosen |<big><span class="asgreek">χειροτονηθέντα</span></big> <small><small><sup>[[G5500]]</sup></small></small> |cheirotonēthenta <small><sup>[[V-APP-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| It was written |<big><span class="asgreek">ἐγράφη</span></big> <small><small><sup>[[G1125]]</sup></small></small> |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
-| from |<big><span class="asgreek">ἀπό</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Rome |<big><span class="asgreek">Ῥώμης</span></big> <small><small><sup>[[G4516]]</sup></small></small> |Rhōmēs <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr> | |
-| when |<big><span class="asgreek">ὅτε</span></big> <small><small><sup>[[G3753]]</sup></small></small> |hote <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| from |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| second time |<big><span class="asgreek">δευτέρου</span></big> <small><small><sup>[[G1208]]</sup></small></small> |deuterou <small><sup>[[A-GSN]]</sup></small> | <abbr title="TR">K</abbr> | |
-| stood |<big><span class="asgreek">παρέστη</span></big> <small><small><sup>[[G3936]]</sup></small></small> |parestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Paul |<big><span class="asgreek">Παῦλος</span></big> <small><small><sup>[[G3972G]]</sup></small></small> |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
-| \<the> |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| before Caesar |<big><span class="asgreek">Καίσαρί</span></big> <small><small><sup>[[G2541I]]</sup></small></small> |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Nero [^2] |<big><span class="asgreek">Νέρωνι¶</span></big> <small><small><sup>[[G3505]]</sup></small></small> |Nerōni <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
+| The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Lord |**<big>[[G2962G\|κύριος]]</big>**  |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| Christ [^1] |**<big>[[G5547\|Χριστὸς]]</big>**  |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| [be] with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spirit |**<big>[[G4151G\|πνεύματός]]</big>**  |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you. |**<big>[[G4771\|σου.]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Grace [be] |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |**<big>[[G3326\|μεθ᾽]]</big>**  |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you all |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Amen. |**<big>[[G0281\|ἀμήν.]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
+| to |**<big>[[G4314\|πρός]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Timothy |**<big>[[G5095\|Τιμόθεον]]</big>**  |Timotheon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
+| second [epistle] |**<big>[[G1208\|δευτέρᾳ]]</big>**  |deutera <small><sup>[[A-NSF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| of the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Ephesian |**<big>[[G2180\|Ἐφεσίων]]</big>**  |Ephesiōn <small><sup>[[A-GPM-LG]]</sup></small> | <abbr title="TR">K</abbr> | |
+| church |**<big>[[G1577\|ἐκκλησίας]]</big>**  |ekklēsias <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| first |**<big>[[G4413G\|πρῶτον]]</big>**  |prōton <small><sup>[[A-ASM-S]]</sup></small> | <abbr title="TR">K</abbr> | |
+| overseer |**<big>[[G1985\|ἐπίσκοπον]]</big>**  |episkopon <small><sup>[[N-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| having been chosen |**<big>[[G5500\|χειροτονηθέντα]]</big>**  |cheirotonēthenta <small><sup>[[V-APP-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| It was written |**<big>[[G1125\|ἐγράφη]]</big>**  |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
+| from |**<big>[[G0575\|ἀπό]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Rome |**<big>[[G4516\|Ῥώμης]]</big>**  |Rhōmēs <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr> | |
+| when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| from |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| second time |**<big>[[G1208\|δευτέρου]]</big>**  |deuterou <small><sup>[[A-GSN]]</sup></small> | <abbr title="TR">K</abbr> | |
+| stood |**<big>[[G3936\|παρέστη]]</big>**  |parestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
+| \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| before Caesar |**<big>[[G2541I\|Καίσαρί]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Nero [^2] |**<big>[[G3505\|Νέρωνι¶]]</big>**  |Nerōni <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.21|<< 2 Timothy 4:21]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.1|Titus 1:1 >>]]</td></tr></table>
 
-[^1]: Extra Text:  <span class='asgreek'>**Ἰησοῦς**</span>   <span class='asgreek'>**Χριστὸς**</span>   (<i>Iēsous Christos</i>) 'Jesus Christ' is only in traditional manuscripts (TR+Byz)
-[^2]: Extra Text (13-32):  <span class='asgreek'>**ἀμήν**</span>.   <span class='asgreek'>**πρός**</span>    <span class='asgreek'>**Τιμόθεον**</span>    <span class='asgreek'>**δευτέρᾳ**</span>    <span class='asgreek'>**τῆς**</span>    <span class='asgreek'>**Ἐφεσίων**</span>    <span class='asgreek'>**ἐκκλησίας**</span>    <span class='asgreek'>**πρῶτον**</span>    <span class='asgreek'>**ἐπίσκοπον**</span>    <span class='asgreek'>**χειροτονηθέντα**</span>    <span class='asgreek'>**ἐγράφη**</span>    <span class='asgreek'>**ἀπό**</span>    <span class='asgreek'>**Ῥώμης**</span>    <span class='asgreek'>**ὅτε**</span>    <span class='asgreek'>**ἐκ**</span>    <span class='asgreek'>**δευτέρου**</span>    <span class='asgreek'>**παρέστη**</span>    <span class='asgreek'>**Παῦλος**</span>    <span class='asgreek'>**τῷ**</span>    <span class='asgreek'>**Καίσαρί**</span>    <span class='asgreek'>**Νέρωνι**</span>¶   (<i>amēn pros Timotheon deutera tēs Ephesiōn ekklēsias prōton episkopon cheirotonēthenta egraphē apo Rhōmēs hote ek deuterou parestē Paulos tō Kaisari Nerōni</i>) 'Amen. to Timothy second [epistle] of the Ephesian church first overseer having been chosen It was written from Rome when from second time stood Paul before Caesar Nero' is only in traditional manuscripts (TR)
+[^1]: Extra Text:  **<big><span class='asgreek'>Ἰησοῦς</span></big>**   **<big><span class='asgreek'>Χριστὸς</span></big>**   (<i>Iēsous Christos</i>) 'Jesus Christ' is only in traditional manuscripts (TR+Byz)
+[^2]: Extra Text (13-32):  **<big><span class='asgreek'>ἀμήν</span></big>**.   **<big><span class='asgreek'>πρός</span></big>**    **<big><span class='asgreek'>Τιμόθεον</span></big>**    **<big><span class='asgreek'>δευτέρᾳ</span></big>**    **<big><span class='asgreek'>τῆς</span></big>**    **<big><span class='asgreek'>Ἐφεσίων</span></big>**    **<big><span class='asgreek'>ἐκκλησίας</span></big>**    **<big><span class='asgreek'>πρῶτον</span></big>**    **<big><span class='asgreek'>ἐπίσκοπον</span></big>**    **<big><span class='asgreek'>χειροτονηθέντα</span></big>**    **<big><span class='asgreek'>ἐγράφη</span></big>**    **<big><span class='asgreek'>ἀπό</span></big>**    **<big><span class='asgreek'>Ῥώμης</span></big>**    **<big><span class='asgreek'>ὅτε</span></big>**    **<big><span class='asgreek'>ἐκ</span></big>**    **<big><span class='asgreek'>δευτέρου</span></big>**    **<big><span class='asgreek'>παρέστη</span></big>**    **<big><span class='asgreek'>Παῦλος</span></big>**    **<big><span class='asgreek'>τῷ</span></big>**    **<big><span class='asgreek'>Καίσαρί</span></big>**    **<big><span class='asgreek'>Νέρωνι</span></big>**¶   (<i>amēn pros Timotheon deutera tēs Ephesiōn ekklēsias prōton episkopon cheirotonēthenta egraphē apo Rhōmēs hote ek deuterou parestē Paulos tō Kaisari Nerōni</i>) 'Amen. to Timothy second [epistle] of the Ephesian church first overseer having been chosen It was written from Rome when from second time stood Paul before Caesar Nero' is only in traditional manuscripts (TR)

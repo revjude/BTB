@@ -7,20 +7,20 @@ And Jacob stole away unawares to Laban the Syrian, in that he told him not that 
 Moreover, Jacob deceived Laban the Aramean by not telling him that he was running away.<small><sub>**MT:**</sub></small>
 [[Gen.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.19|<< Genesis 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.21|Genesis 31:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| hid \[the fact from\] | <big><span class="asgreek">έκρυψε</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| Laban | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syrian, | <big><span class="asgreek">Σύρον</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[so as\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| to announce | <big><span class="asgreek">αναγγείλαι</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he \[is\] running away. | <big><span class="asgreek">αποδιδράσκει</span></big> <sup><small><small>[[G6424]]</small></small></sup> |
+| hid \[the fact from\] | **<big>[[G2928\|έκρυψε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| Laban | **<big>[[H3837b\|Λάβαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Syrian, | **<big>[[G4947\|Σύρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[so as\] not | **<big>[[G3361\|μη]]</big>** |
+| to announce | **<big>[[G0312\|αναγγείλαι]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| he \[is\] running away. | **<big>[[G6424\|αποδιδράσκει]]</big>** |
 [[Gen.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.19|<< Genesis 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.21|Genesis 31:21 >>]]</td></tr></table>
 
 

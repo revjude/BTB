@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָנָה‎</span></big> **yânâh** <small>*(yaw-naw')*</small> ==**to oppress**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָנָה‎</span></big>** **yânâh** <small>*(yaw-naw')*</small> ==**to oppress**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ destroy, (thrust out by) oppress(-ing, -ion, -or), proud, vex, do violence.
@@ -9,4 +9,4 @@ $\quad$ destroy, (thrust out by) oppress(-ing, -ion, -or), proud, vex, do violen
 $\quad$ **1a)** (Qal) to oppress, suppress
 $\quad$ **1b)** (Hiphil) to treat violently, maltreat
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὅμοιος</span><sup><small>[[G3664]]</small></sup> · <span class="asgreek">ὅμοιος</span><sup><small>[[G3664]]</small></sup> · <span class="asgreek">Ἰαννά</span><sup><small>[[G2388]]</small></sup>
+<small>See Greek: </small>**<big>[[G3664|ὅμοιος]]</big>** · **<big>[[G3664|ὅμοιος]]</big>** · **<big>[[G2388|Ἰαννά]]</big>**

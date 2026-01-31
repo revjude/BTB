@@ -6,18 +6,18 @@ Man puts an end to the darkness; he probes the farthest recesses for ore in deep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.4|Job 28:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| an end  | <span class="ashebrew"><big>קֵ֤ץ </big></span><small><small><sup>[[H7093]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ketz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone puts  | <span class="ashebrew"><big>שָׂ֤ם </big></span><small><small><sup>[[H7760H]]</sup></small></small> &#8207;| sam <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the darkness  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חֹ֗שֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to every  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le. <small><sup>[[HR]]</sup></small> khol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| outermost part  | <span class="ashebrew"><big>תַּ֭כְלִית </big></span><small><small><sup>[[H8503]]</sup></small></small> &#8207;| Takh.lit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] searching for  | <span class="ashebrew"><big>חוֹקֵ֑ר </big></span><small><small><sup>[[H2713]]</sup></small></small> &#8207;| cho.Ker <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] stone of  | <span class="ashebrew"><big>אֶ֖בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'E.ven <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gloom  | <span class="ashebrew"><big>אֹ֣פֶל </big></span><small><small><sup>[[H0652]]</sup></small></small> &#8207;| 'O.fel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and deep darkness  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צַלְמָֽוֶת </big></span><small><small><sup>[[H6757]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tzal.Ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an end  |**<big>&#8207;[[H7093\|קֵ֤ץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone puts  |**<big>&#8207;[[H7760H\|שָׂ֤ם]]&#8207; </big>**| sam<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the darkness  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2822\|חֹ֗שֶׁךְ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to every  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| outermost part  |**<big>&#8207;[[H8503\|תַּ֭כְלִית]]&#8207; </big>**| Takh.lit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] searching for  |**<big>&#8207;[[H2713\|חוֹקֵ֑ר]]&#8207; </big>**| cho.Ker<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stone of  |**<big>&#8207;[[H0068G\|אֶ֖בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gloom  |**<big>&#8207;[[H0652\|אֹ֣פֶל]]&#8207; </big>**| 'O.fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deep darkness  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6757\|צַלְמָֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzal.Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.4|Job 28:4 >>]]</td></tr></table>
 
 

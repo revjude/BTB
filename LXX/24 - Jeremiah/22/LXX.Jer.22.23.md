@@ -7,25 +7,25 @@ O inhabitant of Lebanon, that makest thy nest in the cedars, how gracious shalt 
 O inhabitant of Lebanon, nestled in the cedars, how you will groan when pangs of anguish come upon you, agony like a woman in labor.”<small><sub>**MT:**</sub></small>
 [[Jer.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.22|<< Jeremiah 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.24|Jeremiah 22:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O one dwelling | <big><span class="asgreek">κατοικούσα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lebanon, | <big><span class="asgreek">Λιβάνω</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| nesting | <big><span class="asgreek">εννοσσεύουσα</span></big> <sup><small><small>[[G7254]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cedars, | <big><span class="asgreek">κέδροις</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| you shall groan | <big><span class="asgreek">καταστενάξεις</span></big> <sup><small><small>[[G7929]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| griefs | <big><span class="asgreek">οδύνας</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| pangs | <big><span class="asgreek">ωδίνας</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one giving birth. | <big><span class="asgreek">τικτούσης</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| O one dwelling | **<big>[[G2730\|κατοικούσα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Lebanon, | **<big>[[H3844\|Λιβάνω]]</big>** |
+| nesting | **<big>[[G7254\|εννοσσεύουσα]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| cedars, | **<big>[[G2748\|κέδροις]]</big>** |
+| you shall groan | **<big>[[G7929\|καταστενάξεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| coming | **<big>[[G2064\|ελθείν]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| griefs | **<big>[[G3601\|οδύνας]]</big>** |
+| pangs | **<big>[[G5604\|ωδίνας]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| one giving birth. | **<big>[[G5088\|τικτούσης]]</big>** |
 [[Jer.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.22|<< Jeremiah 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.24|Jeremiah 22:24 >>]]</td></tr></table>
 
 

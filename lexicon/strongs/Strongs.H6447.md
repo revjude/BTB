@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎פַּס‎</span></big> **paç** <small>*(pas)*</small> ==**palm**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from a root corresponding to <span class="ashebrew">‎פָּסַס‎</span><sup><small>[[H6461]]</small></sup></small>
+**<big><span class="asaramaic">‎פַּס‎</span></big>** **paç** <small>*(pas)*</small> ==**palm**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from a root corresponding to **<big>[[H6461|‎פָּסַס‎]]</big>**</small>
 
 $\quad$ participle
 - ***the palm*** (of the hand, as being spread out)
 
 **1)** palm of the hand
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποικίλος</span><sup><small>[[G4164]]</small></sup>
+<small>See Greek: </small>**<big>[[G4164|ποικίλος]]</big>**

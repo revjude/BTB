@@ -7,16 +7,16 @@ The ones new in the morning; great  \[is\] your trust.
 They are new every morning; great is Your faithfulness!<small><sub>**MT:**</sub></small>
 [[Lam.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.22|<< Lamentations 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.24|Lamentations 3:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| new | <big><span class="asgreek">καινά</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| morning; | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4405]]</small></small></sup> |
-| great | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] your trust. | <big><span class="asgreek">πίστις</span></big> <sup><small><small>[[G4102]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The ones | **<big>[[G3588\|τα]]</big>** |
+| new | **<big>[[G2537\|καινά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| morning; | **<big>[[G4405\|πρωϊ]]</big>** |
+| great | **<big>[[G4183\|πολλή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[is\] your trust. | **<big>[[G4102\|πίστις]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Lam.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.22|<< Lamentations 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.24|Lamentations 3:24 >>]]</td></tr></table>
 
 

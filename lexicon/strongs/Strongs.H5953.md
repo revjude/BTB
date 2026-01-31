@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָלַל‎</span></big> **ʻâlal** <small>*(aw-lal')*</small> ==**to abuse**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָלַל‎</span></big>** **ʻâlal** <small>*(aw-lal')*</small> ==**to abuse**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abuse, affect, [idiom] child, defile, do, glean, mock, practise, thoroughly, work (wonderfully).
@@ -15,4 +15,4 @@ $\quad$ **1d)** (Hithpoel) to practise practices, thrust forth (in wickedness)
 **3)** (Poel) to act or play the child
 **4)** (Poel) to insert, thrust, thrust in, thrust upon
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">εἰσπορεύομαι</span><sup><small>[[G1531]]</small></sup> · <span class="asgreek">ἐμπαίζω</span><sup><small>[[G1702]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup>
+<small>See Greek: </small>**<big>[[G1096|γίνομαι]]</big>** · **<big>[[G1531|εἰσπορεύομαι]]</big>** · **<big>[[G1702|ἐμπαίζω]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>**

@@ -7,29 +7,29 @@ Yet hear the word of the LORD, O ye women, and let your ear receive the word of 
 Now, O women, hear the word of the LORD. Open your ears to the word of His mouth. Teach your daughters to wail, and one another to lament.<small><sub>**MT:**</sub></small>
 [[Jer.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.19|<< Jeremiah 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.21|Jeremiah 9:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| O women, | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| receive | <big><span class="asgreek">δεξάσθω</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of his mouth! | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| teach | <big><span class="asgreek">διδάξατε</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a lamentation! | <big><span class="asgreek">οίκτον</span></big> <sup><small><small>[[G8459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[let every\] woman \[teach\] | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wailing! | <big><span class="asgreek">θρήνον</span></big> <sup><small><small>[[G2355]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| indeed, | **<big>[[G1211\|δη]]</big>** |
+| O women, | **<big>[[G1135\|γυναίκες]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| of God! | **<big>[[G2316\|θεού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| receive | **<big>[[G1209\|δεξάσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ears | **<big>[[G3775\|ώτα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \[the\] words | **<big>[[G3056\|λόγους]]</big>** |
+| of his mouth! | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| teach | **<big>[[G1321\|διδάξατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| a lamentation! | **<big>[[G8459\|οίκτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[let every\] woman \[teach\] | **<big>[[G1135\|γυνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her neighbor | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| wailing! | **<big>[[G2355\|θρήνον]]</big>** |
 [[Jer.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.19|<< Jeremiah 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.21|Jeremiah 9:21 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face n
 “Depart from me!” Pharaoh said to Moses. “Make sure you never see my face again, for on the day you see my face, you will die.”<small><sub>**MT:**</sub></small>
 [[Exod.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.27|<< Exodus 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.29|Exodus 10:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh says, | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">άπελθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Take heed | <big><span class="asgreek">πρόσεχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to add | <big><span class="asgreek">προσθείναι</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to see | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face! | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| for whatever | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">δ</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| you should see | <big><span class="asgreek">οφθής</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall die. | <big><span class="asgreek">αποθανή</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pharaoh says, | **<big>[[G3004\|λέγει]]</big>** **<big>[[G5328\|Φαραώ]]</big>** |
+| Go forth | **<big>[[G0565\|άπελθε]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me! | **<big>[[G1473\|εμού]]</big>** |
+| Take heed | **<big>[[G4337\|πρόσεχε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| to add | **<big>[[G4369\|προσθείναι]]</big>** |
+| to see | **<big>[[G1492\|ιδείν]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| face! | **<big>[[G4383\|πρόσωπον]]</big>** |
+| for whatever | **<big>[[G3739\|η]]</big>** **<big>[[G1161\|δ]]</big>** **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| you should see | **<big>[[G3708\|οφθής]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| you shall die. | **<big>[[G0599\|αποθανή]]</big>** |
 [[Exod.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.27|<< Exodus 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.29|Exodus 10:29 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רוּחַ‎</span></big> **rûwach** <small>*(roo'-akh)*</small> ==**spirit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רוּחַ‎</span><sup><small>[[H7306]]</small></sup></small>
+**<big><span class="ashebrew">‎רוּחַ‎</span></big>** **rûwach** <small>*(roo'-akh)*</small> ==**spirit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7306|‎רוּחַ‎]]</big>**</small>
 
 $\quad$ air, anger, blast, breath, [idiom] cool, courage, mind, [idiom] quarter, [idiom] side, spirit(-ual), tempest, [idiom] vain, (whirl-) wind(-y).
 - ***wind***
@@ -42,4 +42,4 @@ $\quad$ $\quad$ **1g5)** as energy of life
 $\quad$ $\quad$ **1g6)** as manifest in the Shekinah glory
 $\quad$ $\quad$ **1g7)** never referred to as a depersonalised force
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἷμα</span><sup><small>[[G0129]]</small></sup> · <span class="asgreek">ἄνεμος</span><sup><small>[[G0417]]</small></sup> · <span class="asgreek">ἀνήρ</span><sup><small>[[G0435]]</small></sup> · <span class="asgreek">ἡμέρα</span><sup><small>[[G2250]]</small></sup> · <span class="asgreek">θυμός</span><sup><small>[[G2372]]</small></sup> · <span class="asgreek">μέρος</span><sup><small>[[G3313]]</small></sup> · <span class="asgreek">νοῦς</span><sup><small>[[G3563]]</small></sup> · <span class="asgreek">πνεῦμα</span><sup><small>[[G4151]]</small></sup> · <span class="asgreek">πνοή</span><sup><small>[[G4157]]</small></sup> · <span class="asgreek">φρόνησις</span><sup><small>[[G5428]]</small></sup> · <span class="asgreek">ψυχή</span><sup><small>[[G5590]]</small></sup>
+<small>See Greek: </small>**<big>[[G0129|αἷμα]]</big>** · **<big>[[G0417|ἄνεμος]]</big>** · **<big>[[G0435|ἀνήρ]]</big>** · **<big>[[G2250|ἡμέρα]]</big>** · **<big>[[G2372|θυμός]]</big>** · **<big>[[G3313|μέρος]]</big>** · **<big>[[G3563|νοῦς]]</big>** · **<big>[[G4151|πνεῦμα]]</big>** · **<big>[[G4157|πνοή]]</big>** · **<big>[[G5428|φρόνησις]]</big>** · **<big>[[G5590|ψυχή]]</big>**

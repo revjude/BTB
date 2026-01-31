@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎αἷμα‎</span></big> **haîma** <small>*(hah'-ee-mah)*</small> ==**blood**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+**<big><span class="asgreek">‎αἷμα‎</span></big>** **haîma** <small>*(hah'-ee-mah)*</small> ==**blood**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ blood.

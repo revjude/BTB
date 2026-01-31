@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שְׁבָט‎</span></big> **Shᵉbâṭ** <small>*(sheb-awt')*</small> ==**Shebat**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎שְׁבָט‎</span></big>** **Shᵉbâṭ** <small>*(sheb-awt')*</small> ==**Shebat**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Sebat.

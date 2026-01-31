@@ -7,25 +7,25 @@ And Saul sware to her by the LORD, saying, [As] the LORD liveth, there shall no 
 Then Saul swore to her by the LORD: “As surely as the LORD lives, no punishment shall come upon you for this.”<small><sub>**MT:**</sub></small>
 [[1Sam.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.9|<< 1 Samuel 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.11|1 Samuel 28:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| swore by an oath | <big><span class="asgreek">ώμοσεν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| As lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| meet up | <big><span class="asgreek">απαντήσει</span></big> <sup><small><small>[[G0528]]</small></small></sup> |
-| with you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| injustice | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter? \[No!\] | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| swore by an oath | **<big>[[G3660\|ώμοσεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God, | **<big>[[G2316\|θεού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| As lives | **<big>[[G2198\|ζη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| shall | **<big>[[G1487\|ει]]</big>** |
+| meet up | **<big>[[G0528\|απαντήσει]]</big>** |
+| with you | **<big>[[G1473\|σοι]]</big>** |
+| injustice | **<big>[[G0093\|αδικία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this matter? \[No!\] | **<big>[[G3056\|λόγω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
 [[1Sam.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.9|<< 1 Samuel 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.11|1 Samuel 28:11 >>]]</td></tr></table>
 
 

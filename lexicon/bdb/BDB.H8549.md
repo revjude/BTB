@@ -1,4 +1,4 @@
-<small>Also see: [[H8537]]</small>
+<small>Also see: **<big>[[H8537|תֹּם]]</big>**</small>
 
  <span class="bdbLangHebrew">‎תָּמִים‎</span><sub>91</sub> **adjective** ==complete, sound==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ת‎</span> [[Gen.6.9|Gen 6:9]] +; feminine <span class="bdbLangHebrew">‎תְּמִימָה‎</span> [[Lev.3.9|Lev 3:9]] +; construct <span class="bdbLangHebrew">‎תְּמִים‎</span> [[Job.36.4|Job 36:4]]; [[Job.37.16|Job 37:16]] plural <span class="bdbLangHebrew">‎תְּמִימִים‎</span> [[Ezek.43.25|Ezek 43:25]] +; <span class="bdbLangHebrew">‎תְּמִימֹת‎</span> [[Lev.23.15|Lev 23:15]] construct <span class="bdbLangHebrew">‎תְּמִימֵי‎</span> [[Ps.119.1|Ps 119:1]]; [[Prov.11.20|Prov 11:20]] — 
 

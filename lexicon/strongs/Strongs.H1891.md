@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָבַל‎</span></big> **hâbal** <small>*(haw-bal')*</small> ==**to become vain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎הָבַל‎</span></big>** **hâbal** <small>*(haw-bal')*</small> ==**to become vain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (become, make) vain.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to cause to become vain
 $\quad$ $\quad$ **1b2)** to fill with vain hopes
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιβάλλω</span><sup><small>[[G1911]]</small></sup> · <span class="asgreek">ἐπιποθέω</span><sup><small>[[G1971]]</small></sup> · <span class="asgreek">κενός</span><sup><small>[[G2756]]</small></sup> · <span class="asgreek">ματαιόω</span><sup><small>[[G3154]]</small></sup>
+<small>See Greek: </small>**<big>[[G1911|ἐπιβάλλω]]</big>** · **<big>[[G1971|ἐπιποθέω]]</big>** · **<big>[[G2756|κενός]]</big>** · **<big>[[G3154|ματαιόω]]</big>**

@@ -7,19 +7,19 @@ So the realm of Jehoshaphat was quiet: for his God gave him rest round about.
 Then Jehoshaphat’s kingdom was at peace, for his God had given him rest on every side.<small><sub>**MT:**</sub></small>
 [[2Chr.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.29|<< 2 Chronicles 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.31|2 Chronicles 20:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| had peace | <big><span class="asgreek">ειρήνευσεν</span></big> <sup><small><small>[[G1514]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rested | <big><span class="asgreek">κατέπαυσεν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| had peace | **<big>[[G1514\|ειρήνευσεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| of Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rested | **<big>[[G2664\|κατέπαυσεν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
 [[2Chr.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.29|<< 2 Chronicles 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.31|2 Chronicles 20:31 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gibbethon</span>, a Levitical city in the territory of Dan, was the site of conflict during the reigns of Nadab and Baasha \([[Josh.19.44|Joshua 19:44]]; 21:23; 1 Kings 15:27; 16:15, 17\).
 - A location in Philistia first mentioned at [[Josh.19.44|Jos.19.44]]; 
-- only referred to as Gibbethon<[[H1405]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Gibbethon **<big>[[H1405|גִּבְּתוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.976623,35.004896&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gibbethon was a city allotted to the tribe of Dan \([[Josh.19.44|Joshua 19:44]]\
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gibbethon | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1405) <small>*Hebrew*</small> | 6x | [[Jos.19.44] ... [1Ki.16.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibbethon\*\|reference=Jos.19.44;Jos.21.23;1Ki.15.27;1Ki.15.27;1Ki.16.15;1Ki.16.17) |
-All Strong's for **Gibbethon**: \[[[H1405]]\]
+| Gibbethon | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1405) | 6x | [[Jos.19.44] ... [1Ki.16.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibbethon\*\|reference=Jos.19.44;Jos.21.23;1Ki.15.27;1Ki.15.27;1Ki.16.15;1Ki.16.17) |
+All entries for **Gibbethon**:  **<big>[[H1405|גִּבְּתוֹן]]</big>**

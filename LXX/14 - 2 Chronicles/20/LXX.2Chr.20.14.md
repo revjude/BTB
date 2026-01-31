@@ -7,33 +7,33 @@ Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, t
 Then the Spirit of the LORD came upon Jahaziel son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite from Asaph’s descendants, as he stood in the midst of the assembly.<small><sub>**MT:**</sub></small>
 [[2Chr.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.13|<< 2 Chronicles 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.15|2 Chronicles 20:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jahaziel | <big><span class="asgreek">Ιεζιήλ</span></big> <sup><small><small>[[H3166]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zechariah, | <big><span class="asgreek">Ζαχαρίου</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benaiah, | <big><span class="asgreek">Βαναϊου</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeiel, | <big><span class="asgreek">Ιεϊηλ</span></big> <sup><small><small>[[H3273]]</small></small></sup> |
-| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mattaniah | <big><span class="asgreek">Μαθθανίου</span></big> <sup><small><small>[[H4983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite | <big><span class="asgreek">Λευιτής</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asaph -- | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly. | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jahaziel | **<big>[[H3166\|Ιεζιήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Zechariah, | **<big>[[G2197\|Ζαχαρίου]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of Benaiah, | **<big>[[H1141\|Βαναϊου]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of Jeiel, | **<big>[[H3273\|Ιεϊηλ]]</big>** |
+| son | **<big>[[G5207\|υιού]]</big>** |
+| of Mattaniah | **<big>[[H4983\|Μαθθανίου]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Levite | **<big>[[G3017\|Λευιτής]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Asaph -- | **<big>[[H0623\|Ασάφ]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| assembly. | **<big>[[G1577\|εκκλησία]]</big>** |
 [[2Chr.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.13|<< 2 Chronicles 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.15|2 Chronicles 20:15 >>]]</td></tr></table>
 
 

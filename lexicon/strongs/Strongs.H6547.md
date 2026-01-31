@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּרְעֹה‎</span></big> **Parʻôh** <small>*(par-o')*</small> ==**Pharaoh**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
+**<big><span class="ashebrew">‎פַּרְעֹה‎</span></big>** **Parʻôh** <small>*(par-o')*</small> ==**Pharaoh**==  <sup><small>[[TEHMC#N:N--T|N:N--T]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Pharaoh.
@@ -7,4 +7,4 @@ $\quad$ Pharaoh.
 
 **1)** the common title of the king of Egypt
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Φαραώ</span><sup><small>[[G5328]]</small></sup>
+<small>See Greek: </small>**<big>[[G5328|Φαραώ]]</big>**

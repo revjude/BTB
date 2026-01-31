@@ -7,18 +7,18 @@ Then Israel sang this song, Spring up, O well; sing ye unto it:
 Then Israel sang this song: “Spring up, O well, all of you sing to it!<small><sub>**MT:**</sub></small>
 [[Num.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.16|<< Numbers 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.18|Numbers 21:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| Israel sang | <big><span class="asgreek">ήσεν</span></big> <sup><small><small>[[G0103]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this song | <big><span class="asgreek">άσμα</span></big> <sup><small><small>[[G6571]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| The | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Well, | <big><span class="asgreek">φρέατος</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| Take the lead | <big><span class="asgreek">εξάρχετε</span></big> <sup><small><small>[[G7304]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Well; | <big><span class="asgreek">φρέαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| Israel sang | **<big>[[G0103\|ήσεν]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this song | **<big>[[G6571\|άσμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| The | **<big>[[G3588\|του]]</big>** |
+| Well, | **<big>[[G5421\|φρέατος]]</big>** |
+| Take the lead | **<big>[[G7304\|εξάρχετε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| O Well; | **<big>[[G5421\|φρέαρ]]</big>** |
 [[Num.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.16|<< Numbers 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.18|Numbers 21:18 >>]]</td></tr></table>
 
 

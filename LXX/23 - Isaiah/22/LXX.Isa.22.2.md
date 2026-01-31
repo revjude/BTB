@@ -7,23 +7,23 @@ Thou that art full of stirs, a tumultuous city, a joyous city: thy slain [men ar
 O city of commotion, O town of revelry? Your slain did not die by the sword, nor were they killed in battle.<small><sub>**MT:**</sub></small>
 [[Isa.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.1|<< Isaiah 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.3|Isaiah 22:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| was filled up | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of ones yelling. | <big><span class="asgreek">βοώντων</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your slain | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| slain ones | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| swords, | <big><span class="asgreek">μαχαίραις</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dead | <big><span class="asgreek">νεκροί</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dead ones | <big><span class="asgreek">νεκροί</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| by war. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| was filled up | **<big>[[G1705\|ενεπλήσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| of ones yelling. | **<big>[[G0994\|βοώντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your slain | **<big>[[G9470\|τραυματίαι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| are not | **<big>[[G3756\|ου]]</big>** |
+| slain ones | **<big>[[G9470\|τραυματίαι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| swords, | **<big>[[G3162\|μαχαίραις]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your dead | **<big>[[G3498\|νεκροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| dead ones | **<big>[[G3498\|νεκροί]]</big>** |
+| by war. | **<big>[[G4171\|πολέμου]]</big>** |
 [[Isa.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.1|<< Isaiah 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.3|Isaiah 22:3 >>]]</td></tr></table>
 
 

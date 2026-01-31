@@ -7,38 +7,38 @@ There was nothing in the ark except the two tablets of stone, tablets of the cov
 There was nothing in the ark except the two stone tablets that Moses had placed in it at Horeb, where the LORD had made a covenant with the Israelites after they had come out of the land of Egypt.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.8|<< 1 Kings 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.10|1 Kings 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There was nothing | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτώ</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκες</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| of stone, | <big><span class="asgreek">λίθιναι</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκες</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant, | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| put | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Horeb, | <big><span class="asgreek">Χωρήβ</span></big> <sup><small><small>[[H2722]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> ordained | <big><span class="asgreek">διέθετο</span></big> <sup><small><small>[[G1303]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their going forth | <big><span class="asgreek">εκπορεύεσθαι</span></big> <sup><small><small>[[G1607]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| There was nothing | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| ark | **<big>[[G2787\|κιβωτώ]]</big>** |
+| except | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tablets | **<big>[[G4109\|πλάκες]]</big>** |
+| of stone, | **<big>[[G3035\|λίθιναι]]</big>** |
+| tablets | **<big>[[G4109\|πλάκες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant, | **<big>[[G1242\|διαθήκης]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| put | **<big>[[G5087\|έθηκεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Horeb, | **<big>[[H2722\|Χωρήβ]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> ordained | **<big>[[G1303\|διέθετο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their going forth | **<big>[[G1607\|εκπορεύεσθαι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[1Kgs.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.8|<< 1 Kings 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.10|1 Kings 8:10 >>]]</td></tr></table>
 
 

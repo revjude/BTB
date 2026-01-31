@@ -6,19 +6,19 @@ And you are to celebrate the Feast of Weeks with the firstfruits of the wheat ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.21|<< Exodus 34:21]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.23|Exodus 34:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] festival of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַ֤ג </big></span><small><small><sup>[[H2282]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Chag <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| weeks  | <span class="ashebrew"><big>שָׁבֻעֹת֙ </big></span><small><small><sup>[[H7620G]]</sup></small></small> &#8207;| sha.vu.'Ot <small><sup>[[HNtfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will celebrate  | <span class="ashebrew"><big>תַּעֲשֶׂ֣ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ta.'a.Seh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> yourself  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] first-fruits of  | <span class="ashebrew"><big>בִּכּוּרֵ֖י </big></span><small><small><sup>[[H1061]]</sup></small></small> &#8207;| bi.ku.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] harvest of  | <span class="ashebrew"><big>קְצִ֣יר </big></span><small><small><sup>[[H7105A]]</sup></small></small> &#8207;| ke.Tzir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wheat\<s>  | <span class="ashebrew"><big>חִטִּ֑ים </big></span><small><small><sup>[[H2406]]</sup></small></small> &#8207;| chi.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] festival of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַג֙ </big></span><small><small><sup>[[H2282]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Chag <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ingathering  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָסִ֔יף </big></span><small><small><sup>[[H0614]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Sif <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] circuit of  | <span class="ashebrew"><big>תְּקוּפַ֖ת </big></span><small><small><sup>[[H8622]]</sup></small></small> &#8207;| te.ku.Fat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the year  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׁנָֽה </big></span><small><small><sup>[[H8141]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] festival of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2282\|חַ֤ג]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weeks  |**<big>&#8207;[[H7620G\|שָׁבֻעֹת֙]]&#8207; </big>**| sha.vu.'Ot<small><sup>[[HNtfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will celebrate  |**<big>&#8207;[[H6213A\|תַּעֲשֶׂ֣ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] first-fruits of  |**<big>&#8207;[[H1061\|בִּכּוּרֵ֖י]]&#8207; </big>**| bi.ku.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] harvest of  |**<big>&#8207;[[H7105A\|קְצִ֣יר]]&#8207; </big>**| ke.Tzir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wheat\<s>  |**<big>&#8207;[[H2406\|חִטִּ֑ים]]&#8207; </big>**| chi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] festival of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2282\|חַג֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ingathering  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0614\|אָסִ֔יף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Sif<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] circuit of  |**<big>&#8207;[[H8622\|תְּקוּפַ֖ת]]&#8207; </big>**| te.ku.Fat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the year  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8141\|שָּׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.21|<< Exodus 34:21]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.23|Exodus 34:23 >>]]</td></tr></table>
 
 

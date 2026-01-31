@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מִכְמְתָת‎</span></big> **Mikmᵉthâth** <small>*(mik-meth-awth')*</small> ==**Michmethath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎מִכְמְתָת‎</span></big>** **Mikmᵉthâth** <small>*(mik-meth-awth')*</small> ==**Michmethath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>apparently from an unused root meaning to hide; concealment</small>
 
 $\quad$ Michmethath.

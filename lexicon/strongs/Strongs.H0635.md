@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֶסְתֵּר‎</span></big> **ʼEçtêr** <small>*(es-tare')*</small> ==**Esther**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֶסְתֵּר‎</span></big>** **ʼEçtêr** <small>*(es-tare')*</small> ==**Esther**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Esther.

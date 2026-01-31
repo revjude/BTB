@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גֶּזַע‎</span></big> **gezaʻ** <small>*(geh'-zah)*</small> ==**stock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎גֶּזַע‎</span></big>** **gezaʻ** <small>*(geh'-zah)*</small> ==**stock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to cut down (trees)</small>
 
 $\quad$ stem, stock.
@@ -6,4 +6,4 @@ $\quad$ stem, stock.
 
 **1)** stem, trunk, stock (of trees)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ῥίζα</span><sup><small>[[G4491]]</small></sup>
+<small>See Greek: </small>**<big>[[G4491|ῥίζα]]</big>**

@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H6665]]</small>
+<small>Aramaic form: **<big>[[H6665|צִדְקָה]]</big>**</small>
  [<span class="bdbLangHebrew">‎צָדֵק‎</span>, <span class="bdbLangHebrew">‎צָדֹק‎</span>] **verb denominative** ==be just, righteous==; — 
 
 **Qal** ***Perfect*** 3 feminine singular <span class="bdbLangHebrew">‎צָֽדְקָה‎</span> [[Isa.38.26|Isa 38:26]] 2 masculine singular <span class="bdbLangHebrew">‎צָדַקְתָּ‎</span> [[Job.33.12|Job 33:12]]; [[Job.35.7|Job 35:7]] etc.; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִצְדַּק‎</span> [[Job.9.2|Job 9:2]] +; <span class="bdbLangHebrew">‎יִצְדָּ֑ק‎</span> [[Job.4.17|Job 4:17]]; [[Job.11.2|Job 11:2]] 3 feminine plural <span class="bdbLangHebrew">‎תִּצְדַּקְנָה‎</span> [[Ezek.16.52|Ezek 16:52]] ([[BDB#Sept|ᵐ5]] [[BDB#Co|Co]] <span class="bdbLangHebrew">‎תְּצַדְּקִין‎</span>, not [[BDB#Berthol|Berthol]] Toy [[BDB#Krae|Krae]]), etc; — 

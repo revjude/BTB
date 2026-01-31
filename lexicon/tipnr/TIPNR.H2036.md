@@ -4,7 +4,7 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Horam</span>, the king of Gezer, came to help Lachish but was defeated by Joshua and the Israelites.
 - A man living before Israel's Monarchy, only mentioned at [[Josh.10.33|Jos.10.33]]; 
-- only referred to as Horam<[[H2036]]> \(<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Horam **<big>[[H2036|הֹרָם]]</big>**.
 
 Horam was the king of Gezer, a Canaanite city, during the time of Joshua's conquest of the Promised Land. He is mentioned briefly in [[Josh.10.33|Joshua 10:33]]. 
 
@@ -16,5 +16,5 @@ The brief mention of Horam in the Bible serves to highlight the Israelites' succ
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Horam | [<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2036) <small>*Hebrew*</small> | 1x | [Jos.10.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horam\*\|reference=Jos.10.33) |
-All Strong's for **Horam**: \[[[H2036]]\]
+| Horam | [<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2036) | 1x | [Jos.10.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horam\*\|reference=Jos.10.33) |
+All entries for **Horam**:  **<big>[[H2036|הֹרָם]]</big>**

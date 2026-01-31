@@ -10,36 +10,36 @@ But if the wicked will turn from all his sins that he hath committed, and keep a
 But if the wicked man turns from all the sins he has committed, keeps all My statutes, and does what is just and right, he will surely live; he will not die.<small><sub>**MT:**</sub></small>
 [[Ezek.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.20|<< Ezekiel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.22|Ezekiel 18:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless one, | <big><span class="asgreek">άνομος</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he should turn | <big><span class="asgreek">επιστρέψη</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his lawless deeds | <big><span class="asgreek">ανομιών</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did, | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should keep | <big><span class="asgreek">φυλάξηται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should do | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mercy; | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| to life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| he shall live, | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lawless one, | **<big>[[G0459\|άνομος]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| he should turn | **<big>[[G1994\|επιστρέψη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his lawless deeds | **<big>[[G0458\|ανομιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| he did, | **<big>[[G4160\|εποίησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should keep | **<big>[[G5442\|φυλάξηται]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should do | **<big>[[G4160\|ποιήση]]</big>** |
+| equity | **<big>[[G2917\|κρίμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mercy; | **<big>[[G1656\|έλεος]]</big>** |
+| to life | **<big>[[G2222\|ζωή]]</big>** |
+| he shall live, | **<big>[[G2198\|ζήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die. | **<big>[[G0599\|αποθανείται]]</big>** |
 [[Ezek.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.20|<< Ezekiel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.22|Ezekiel 18:22 >>]]</td></tr></table>
 
 

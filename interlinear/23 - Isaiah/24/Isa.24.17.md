@@ -10,14 +10,14 @@ Terror and pit and snare await you, O dweller of the earth.
 > $\quad$ referenced by: [[Luke.21.35|Luke 21:35]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| dread  | <span class="ashebrew"><big>פַּ֥חַד </big></span><small><small><sup>[[H6343]]</sup></small></small> &#8207;| Pa.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and pit  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פַ֖חַת </big></span><small><small><sup>[[H6354]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Fa.chat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and snare  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פָ֑ח </big></span><small><small><sup>[[H6341A]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Fach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] on you  | <span class="ashebrew"><big>עָלֶ֖י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O inhabitant of  | <span class="ashebrew"><big>יוֹשֵׁ֥ב </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.Shev <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dread  |**<big>&#8207;[[H6343\|פַּ֥חַד]]&#8207; </big>**| Pa.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pit  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6354\|פַ֖חַת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Fa.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and snare  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6341A\|פָ֑ח]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Fach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] on you  |**<big>&#8207;[[H5921A\|עָלֶ֖י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O inhabitant of  |**<big>&#8207;[[H3427\|יוֹשֵׁ֥ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.16|<< Isaiah 24:16]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.18|Isaiah 24:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,3 @@
-<span class="ashebrew">‎כְּרָ֑ן‎</span> <small>***(ke.ran)***</small> ==**Cheran**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.26|Gen.36.26]]
--  son of: Dishon ([[H1787]])
--  brother of: Eshban ([[H0790]]), Ithran ([[H3506]]) and Hemdan ([[H2533]])
-
+-  son of: Dishon (**<big>[[H1787|דִּישׁוֹן]]</big>**)
+-  brother of: Eshban (**<big>[[H0790|אֶשְׁבָּן]]</big>**), Ithran (**<big>[[H3506|יִתְרָן]]</big>**) and Hemdan (**<big>[[H2533|חֶמְדָּן]]</big>**)

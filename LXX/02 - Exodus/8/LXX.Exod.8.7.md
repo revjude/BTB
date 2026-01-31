@@ -7,26 +7,26 @@ And the magicians did so with their enchantments, and brought up frogs upon the 
 But the magicians did the same thing by their magic arts, and they also brought frogs up onto the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.6|<< Exodus 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.8|Exodus 8:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enchanters | <big><span class="asgreek">επαοιδοί</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| with | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sorceries; | <big><span class="asgreek">φαρμακείαις</span></big> <sup><small><small>[[G5331]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led | <big><span class="asgreek">ανήγαγον</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| frogs | <big><span class="asgreek">βατράχους</span></big> <sup><small><small>[[G0944]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| did | **<big>[[G4160\|εποίησαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| likewise | **<big>[[G5615\|ωσαύτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| enchanters | **<big>[[G7368\|επαοιδοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγυπτίων]]</big>** |
+| with | **<big>[[G3588\|ταις]]</big>** |
+| their sorceries; | **<big>[[G5331\|φαρμακείαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they led | **<big>[[G0321\|ανήγαγον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| frogs | **<big>[[G0944\|βατράχους]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.6|<< Exodus 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.8|Exodus 8:8 >>]]</td></tr></table>
 
 

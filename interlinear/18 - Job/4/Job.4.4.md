@@ -6,14 +6,14 @@ Your words have steadied those who stumbled; you have braced the knees that were
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.3|<< Job 4:3]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.5|Job 4:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] stumbling  | <span class="ashebrew"><big>כּ֭וֹשֵׁל </big></span><small><small><sup>[[H3782]]</sup></small></small> &#8207;| Ko.o.shel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they raised !  | <span class="ashebrew"><big>יְקִימ֣וּ </big></span><small><small><sup>[[H6965I]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| ye.ki.Mu <small><sup>[[HVhi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words your  | <span class="ashebrew"><big>מִלֶּ֑י </big></span><small><small><sup>[[H4405]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| mi.Lei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and knees  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִרְכַּ֖יִם </big></span><small><small><sup>[[H1290]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vir.Ka.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bending  | <span class="ashebrew"><big>כֹּרְע֣וֹת </big></span><small><small><sup>[[H3766]]</sup></small></small> &#8207;| ko.re.'ot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you strengthened  | <span class="ashebrew"><big>תְּאַמֵּֽץ </big></span><small><small><sup>[[H0553]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.'a.Metz <small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stumbling  |**<big>&#8207;[[H3782\|כּ֭וֹשֵׁל]]&#8207; </big>**| Ko.o.shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they raised !  |**<big>&#8207;[[H6965I\|יְקִימ֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.ki.Mu<small><sup>[[HVhi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words your  |**<big>&#8207;[[H4405\|מִלֶּ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mi.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and knees  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1290\|בִרְכַּ֖יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vir.Ka.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bending  |**<big>&#8207;[[H3766\|כֹּרְע֣וֹת]]&#8207; </big>**| ko.re.'ot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you strengthened  |**<big>&#8207;[[H0553\|תְּאַמֵּֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.'a.Metz<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.3|<< Job 4:3]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.5|Job 4:5 >>]]</td></tr></table>
 
 

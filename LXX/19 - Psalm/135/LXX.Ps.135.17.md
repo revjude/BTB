@@ -7,19 +7,19 @@ They have ears, but they hear not; neither is there [any] breath in their mouths
 they have ears, but cannot hear; nor is there breath in their mouths.<small><sub>**MT:**</sub></small>
 [[Ps.135.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.16|<< Psalm 135:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.18|Psalm 135:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| they have | <big><span class="asgreek">έχουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give ear; | <big><span class="asgreek">ενωτισθήσονται</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
-| and neither | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a breath | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth. | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ears | **<big>[[G3775\|ώτα]]</big>** |
+| they have | **<big>[[G2192\|έχουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| give ear; | **<big>[[G1801\|ενωτισθήσονται]]</big>** |
+| and neither | **<big>[[G3761\|ουδέ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| a breath | **<big>[[G4151\|πνεύμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their mouth. | **<big>[[G4750\|στόματι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.135.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.16|<< Psalm 135:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.18|Psalm 135:18 >>]]</td></tr></table>
 
 

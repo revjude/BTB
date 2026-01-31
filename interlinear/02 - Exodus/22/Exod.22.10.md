@@ -6,28 +6,28 @@ If a man gives a donkey, an ox, a sheep, or any other animal to be cared for by 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.9|<< Exodus 22:9]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.11|Exodus 22:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will give  | <span class="ashebrew"><big>יִתֵּן֩ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>אִ֨ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neighbor his  | <span class="ashebrew"><big>רֵעֵ֜ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| re.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a donkey  | <span class="ashebrew"><big>חֲמ֨וֹר </big></span><small><small><sup>[[H2543]]</sup></small></small> &#8207;| cha.Mor <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ox  | <span class="ashebrew"><big>שׁ֥וֹר </big></span><small><small><sup>[[H7794]]</sup></small></small> &#8207;| Shor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sheep  | <span class="ashebrew"><big>שֶׂ֛ה </big></span><small><small><sup>[[H7716]]</sup></small></small> &#8207;| seh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and every  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| animal  | <span class="ashebrew"><big>בְּהֵמָ֖ה </big></span><small><small><sup>[[H0929]]</sup></small></small> &#8207;| be.he.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to keep [it]  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁמֹ֑ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will die  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>מֵ֛ת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> Met <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was maimed  | <span class="ashebrew"><big>נִשְׁבַּ֥ר </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| nish.Bar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was captured  | <span class="ashebrew"><big>נִשְׁבָּ֖ה </big></span><small><small><sup>[[H7617]]</sup></small></small> &#8207;| nish.Bah <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not  | <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was one who] saw  | <span class="ashebrew"><big>רֹאֶֽה </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ro.'Eh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will give  |**<big>&#8207;[[H5414G\|יִתֵּן֩]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H0376I\|אִ֨ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  |**<big>&#8207;[[H7453\|רֵעֵ֜]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a donkey  |**<big>&#8207;[[H2543\|חֲמ֨וֹר]]&#8207; </big>**| cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ox  |**<big>&#8207;[[H7794\|שׁ֥וֹר]]&#8207; </big>**| Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sheep  |**<big>&#8207;[[H7716\|שֶׂ֛ה]]&#8207; </big>**| seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| animal  |**<big>&#8207;[[H0929\|בְּהֵמָ֖ה]]&#8207; </big>**| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to keep [it]  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8104H\|שְׁמֹ֑ר]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will die  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4191\|מֵ֛ת]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Met<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was maimed  |**<big>&#8207;[[H7665\|נִשְׁבַּ֥ר]]&#8207; </big>**| nish.Bar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was captured  |**<big>&#8207;[[H7617\|נִשְׁבָּ֖ה]]&#8207; </big>**| nish.Bah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one who] saw  |**<big>&#8207;[[H7200G\|רֹאֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.9|<< Exodus 22:9]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.11|Exodus 22:11 >>]]</td></tr></table>
 
 

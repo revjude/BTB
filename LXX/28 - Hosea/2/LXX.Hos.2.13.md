@@ -10,36 +10,36 @@ And I will visit upon her the days of Baalim, wherein she burned incense to them
 I will punish her for the days of the Baals when she burned incense to them, when she adorned herself with rings and jewelry, and went after her lovers. But Me she forgot,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Hos.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.12|<< Hosea 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.14|Hosea 2:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will take vengeance | <big><span class="asgreek">εκδικήσω</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baals, | <big><span class="asgreek">Βααλείμ</span></big> <sup><small><small>[[H1168]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she sacrificed | <big><span class="asgreek">επέθυεν</span></big> <sup><small><small>[[G7412]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put on | <big><span class="asgreek">περιετίθετο</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her ear-rings, | <big><span class="asgreek">ενώτια</span></big> <sup><small><small>[[G7278]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hanging necklaces, | <big><span class="asgreek">καθόρμια</span></big> <sup><small><small>[[G7763]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her lovers; | <big><span class="asgreek">εραστών</span></big> <sup><small><small>[[G7492]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| she forgot, | <big><span class="asgreek">επελάθετο</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will take vengeance | **<big>[[G1556\|εκδικήσω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| for the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Baals, | **<big>[[H1168\|Βααλείμ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| she sacrificed | **<big>[[G7412\|επέθυεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put on | **<big>[[G4060\|περιετίθετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her ear-rings, | **<big>[[G7278\|ενώτια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her hanging necklaces, | **<big>[[G7763\|καθόρμια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her lovers; | **<big>[[G7492\|εραστών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| but me | **<big>[[G1473\|εμού]]</big>** **<big>[[G1161\|δε]]</big>** |
+| she forgot, | **<big>[[G1950\|επελάθετο]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Hos.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.12|<< Hosea 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.14|Hosea 2:14 >>]]</td></tr></table>
 
 

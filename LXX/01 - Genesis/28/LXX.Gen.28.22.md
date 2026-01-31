@@ -7,27 +7,27 @@ And this stone, which I have set [for] a pillar, shall be God’s house: and of 
 And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”<small><sub>**MT:**</sub></small>
 [[Gen.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.21|<< Genesis 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.1|Genesis 29:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I set | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \[as a\] monument, | <big><span class="asgreek">στήλην</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all, | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever, | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should give to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a tenth | <big><span class="asgreek">δεκάτην</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| I will tithe | <big><span class="asgreek">αποδεκατώσω</span></big> <sup><small><small>[[G0586]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| this stone | **<big>[[G3037\|λίθος]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I set | **<big>[[G2476\|έστησα]]</big>** |
+| \[as a\] monument, | **<big>[[G9171\|στήλην]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a house | **<big>[[G3624\|οίκος]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all, | **<big>[[G3956\|πάντων]]</big>** |
+| what | **<big>[[G3739\|ων]]</big>** |
+| ever, | **<big>[[G1437\|εάν]]</big>** |
+| you should give to me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G1325\|δως]]</big>** |
+| a tenth | **<big>[[G1181\|δεκάτην]]</big>** |
+| I will tithe | **<big>[[G0586\|αποδεκατώσω]]</big>** |
+| of it | **<big>[[G1473\|αυτά]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Gen.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.21|<< Genesis 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.1|Genesis 29:1 >>]]</td></tr></table>
 
 

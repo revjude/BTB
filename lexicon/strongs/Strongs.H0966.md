@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּזֶק‎</span></big> **Bezeq** <small>*(beh'-zak)*</small> ==**Bezek**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּזָק‎</span><sup><small>[[H0965]]</small></sup>; lightning</small>
+**<big><span class="ashebrew">‎בֶּזֶק‎</span></big>** **Bezeq** <small>*(beh'-zak)*</small> ==**Bezek**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0965|‎בָּזָק‎]]</big>**; lightning</small>
 
 $\quad$ Bezek.
 - § Bezek = *"lightning"*

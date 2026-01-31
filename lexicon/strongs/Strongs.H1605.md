@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּעַר‎</span></big> **gâʻar** <small>*(gaw-ar')*</small> ==**to rebuke**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּעַר‎</span></big>** **gâʻar** <small>*(gaw-ar')*</small> ==**to rebuke**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ corrupt, rebuke, reprove.
@@ -6,4 +6,4 @@ $\quad$ corrupt, rebuke, reprove.
 
 **1)** (Qal) to rebuke, reprove, corrupt
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπειλέω</span><sup><small>[[G0546]]</small></sup> · <span class="asgreek">ἀπειλή</span><sup><small>[[G0547]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">ἐπιτιμάω</span><sup><small>[[G2008]]</small></sup> · <span class="asgreek">λοιδορέω</span><sup><small>[[G3058]]</small></sup>
+<small>See Greek: </small>**<big>[[G0546|ἀπειλέω]]</big>** · **<big>[[G0547|ἀπειλή]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G2008|ἐπιτιμάω]]</big>** · **<big>[[G3058|λοιδορέω]]</big>**

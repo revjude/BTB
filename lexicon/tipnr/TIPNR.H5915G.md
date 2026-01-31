@@ -4,11 +4,11 @@ Woman living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Achsah</span> was the daughter of Caleb, given in marriage to Othniel as a reward for capturing Kiriath-sepher, and she requested springs of water from her father as a blessing.
 - A woman living before Israel's Monarchy, first mentioned at [[Josh.15.16|Jos.15.16]]; 
-- only referred to as Achsah<[[H5915G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  daughter of Caleb<[[H3612G]]>; 
-- a sister of Iru<[[H5900]]>, Elah<[[H0425J]]> and Naam<[[H5277]]>; 
-- wife of Othniel<[[H6274]]>; 
-- mother of Hathath<[[H2867]]> and Meonothai<[[H4587]]>.
+- only referred to as Achsah **<big>[[H5915|עַכְסָה]]</big>**; 
+-  daughter of Caleb **<big>[[H3612|כָּלֵב]]</big>**; 
+- a sister of Iru **<big>[[H5900|עִירוּ]]</big>**, Elah **<big>[[H0425|אֵלָה]]</big>** and Naam **<big>[[H5277|נַעַם]]</big>**; 
+- wife of Othniel **<big>[[H6274|עׇתְנִיאֵל]]</big>**; 
+- mother of Hathath **<big>[[H2867|חֲתַת]]</big>** and Meonothai **<big>[[H4587|מְעוֹנֹתַי]]</big>**.
 
 Achsah was the daughter of Caleb, one of the Israelite leaders during the conquest of Canaan. When Caleb was given the city of Hebron as his inheritance, he promised to give his daughter Achsah in marriage to whoever would capture the nearby city of Kiriath-sepher \([[Josh.15.16|Joshua 15:16]]; [[Judg.1.12|Judges 1:12]]\). 
 
@@ -20,8 +20,8 @@ Achsah's story highlights the importance of water resources in the arid regions 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Achsah (NIV= Aksah) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5915G) <small>*Hebrew*</small> | 4x | [[Jos.15.16] ... [Jdg.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achsah\*\|reference=Jos.15.16;Jos.15.17;Jdg.1.12;Jdg.1.13) |
-All Strong's for **Achsah**: \[[[H5915G]]\]
+| Achsah (NIV= Aksah) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5915G) | 4x | [[Jos.15.16] ... [Jdg.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achsah\*\|reference=Jos.15.16;Jos.15.17;Jdg.1.12;Jdg.1.13) |
+All entries for **Achsah**:  **<big>[[H5915|עַכְסָה]]</big>**
 #### Related Profiles:
 - **[Caleb](H3612G)** (father)
 - **[Othniel](H6274)** (spouse)

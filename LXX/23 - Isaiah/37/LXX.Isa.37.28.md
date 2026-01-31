@@ -7,19 +7,19 @@ But I know thy abode, and thy going out, and thy coming in, and thy rage against
 But I know your sitting down, your going out and coming in, and your raging against Me.<small><sub>**MT:**</sub></small>
 [[Isa.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.27|<< Isaiah 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.29|Isaiah 37:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rest | <big><span class="asgreek">ανάπαυσίν</span></big> <sup><small><small>[[G0372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your exit | <big><span class="asgreek">έξοδόν</span></big> <sup><small><small>[[G1841]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your entrance | <big><span class="asgreek">είσοδόν</span></big> <sup><small><small>[[G1529]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">επίσταμαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
+| But now | **<big>[[G3568\|νυν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your rest | **<big>[[G0372\|ανάπαυσίν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your exit | **<big>[[G1841\|έξοδόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your entrance | **<big>[[G1529\|είσοδόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| know | **<big>[[G1987\|επίσταμαι]]</big>** |
 [[Isa.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.27|<< Isaiah 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.29|Isaiah 37:29 >>]]</td></tr></table>
 
 

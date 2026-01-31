@@ -11,26 +11,26 @@ When Jacob had finished instructing his sons, he pulled his feet into the bed an
 > $\quad$ referenced by: [[Acts.7.15|Acts 7:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob rested | <big><span class="asgreek">κατέπαυσεν</span></big> <sup><small><small>[[G2664]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| giving orders | <big><span class="asgreek">επιτάσσων</span></big> <sup><small><small>[[G2004]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons. | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifting up | <big><span class="asgreek">εξάρας</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bed | <big><span class="asgreek">κλίνην</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
-| he failed. | <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was added | <big><span class="asgreek">προσετέθη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jacob rested | **<big>[[G2664\|κατέπαυσεν]]</big>** **<big>[[G2384\|Ιακώβ]]</big>** |
+| giving orders | **<big>[[G2004\|επιτάσσων]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sons. | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| lifting up | **<big>[[G1808\|εξάρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his feet | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| bed | **<big>[[G2825\|κλίνην]]</big>** |
+| he failed. | **<big>[[G1587\|εξέλιπε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he was added | **<big>[[G4369\|προσετέθη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his people. | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.49.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.32|<< Genesis 49:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.1|Genesis 50:1 >>]]</td></tr></table>
 
 

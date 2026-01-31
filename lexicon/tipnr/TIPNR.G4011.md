@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Perga</span> was a city in Pamphylia \(modern-day Turkey\) where Paul and Barnabas preached the gospel during their first missionary journey.
 - A location first mentioned at [[1Chr.13.11|Act.13.13]]; 
-- only referred to as Perga<[[G4011]]> \(<span class='tipnrLangGreek'>Πέργη</span>\).
+- only referred to as Perga **<big>[[G4011|Πέργη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.00520811721595,30.90494591606115&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Perga was an ancient city located in the region of Pamphylia, on the southern co
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Perga | [<span class='tipnrLangGreek'>Πέργη</span>](G4011) <small>*Greek*</small> | 3x | [[Act.13.13] ... [Act.14.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Perga\*\|reference=Act.13.13;Act.13.14;Act.14.25) |
-All Strong's for **Perga**: \[[[G4011]]\]
+| Perga | [<span class='tipnrLangGreek'>Πέργη</span>](G4011) | 3x | [[Act.13.13] ... [Act.14.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Perga\*\|reference=Act.13.13;Act.13.14;Act.14.25) |
+All entries for **Perga**:  **<big>[[G4011|Πέργη]]</big>**

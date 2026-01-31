@@ -7,14 +7,14 @@ Thou [art] more glorious [and] excellent than the mountains of prey.
 You are resplendent with light, more majestic than mountains filled with game.<small><sub>**MT:**</sub></small>
 [[Ps.76.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.3|<< Psalm 76:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.5|Psalm 76:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| give light | <big><span class="asgreek">φωτίζεις</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wonderfully | <big><span class="asgreek">θαυμαστώς</span></big> <sup><small><small>[[G7644]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[the\] eternal | <big><span class="asgreek">αιωνίων</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| give light | **<big>[[G5461\|φωτίζεις]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| wonderfully | **<big>[[G7644\|θαυμαστώς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| mountains | **<big>[[G3735\|ορέων]]</big>** |
+| \[the\] eternal | **<big>[[G0166\|αιωνίων]]</big>** |
 [[Ps.76.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.3|<< Psalm 76:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.5|Psalm 76:5 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּנוּאֵל‎</span></big> **Pᵉnûwʼêl** <small>*(pen-oo-ale')*</small> ==**Peniel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (more properly,) <span class="ashebrew">פְּנִיאֵל</span> **Pᵉnîyʼêl** <small>*(pen-oo-ale')*</small>; from <span class="ashebrew">‎פָּנָה‎</span><sup><small>[[H6437]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; face of God</small>
+**<big><span class="ashebrew">‎פְּנוּאֵל‎</span></big>** **Pᵉnûwʼêl** <small>*(pen-oo-ale')*</small> ==**Peniel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (more properly,) **<big><span class="ashebrew">פְּנִיאֵל</span></big>** **Pᵉnîyʼêl** <small>*(pen-oo-ale')*</small>; from **<big>[[H6437|‎פָּנָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; face of God</small>
 
 $\quad$ Peniel, Penuel.
 - § Penuel or Peniel = *"facing God"*
@@ -12,4 +12,4 @@ n pr m
 n pr loc
 **3)** the place named by Jacob when he wrestled with God and located on the north bank of the Jabbok close to the Jordan
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Φανουήλ</span><sup><small>[[G5323]]</small></sup>
+<small>See Greek: </small>**<big>[[G5323|Φανουήλ]]</big>**

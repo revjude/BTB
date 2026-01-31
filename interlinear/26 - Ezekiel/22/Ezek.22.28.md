@@ -6,25 +6,25 @@ Her prophets whitewash these deeds by false visions and lying divinations, sayin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.27|<< Ezekiel 22:27]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.29|Ezekiel 22:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and prophets its  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְבִיאֶ֗י </big></span><small><small><sup>[[H5030]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.vi.'Ei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have plastered  | <span class="ashebrew"><big>טָח֤וּ </big></span><small><small><sup>[[H2902A]]</sup></small></small> &#8207;| ta.Chu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶם֙ </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whitewash  | <span class="ashebrew"><big>תָּפֵ֔ל </big></span><small><small><sup>[[H8602B]]</sup></small></small> &#8207;| ta.Fel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [they are] seeing  | <span class="ashebrew"><big>חֹזִ֣ים </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| cho.Zim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שָׁ֔וְא </big></span><small><small><sup>[[H7723G]]</sup></small></small> &#8207;| Shav' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [they are] divining  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קֹסְמִ֥ים </big></span><small><small><sup>[[H7080]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ko.se.Mim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>כָּזָ֑ב </big></span><small><small><sup>[[H3577]]</sup></small></small> &#8207;| ka.Zav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [they are] saying  | <span class="ashebrew"><big>אֹמְרִ֗ים </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'o.me.Rim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹּ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Yahweh  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had spoken  | <span class="ashebrew"><big>דִבֵּֽר </big></span><small><small><sup>[[H1696G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| di.Ber <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prophets its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5030\|נְבִיאֶ֗י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.vi.'Ei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have plastered  |**<big>&#8207;[[H2902A\|טָח֤וּ]]&#8207; </big>**| ta.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whitewash  |**<big>&#8207;[[H8602B\|תָּפֵ֔ל]]&#8207; </big>**| ta.Fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [they are] seeing  |**<big>&#8207;[[H2372\|חֹזִ֣ים]]&#8207; </big>**| cho.Zim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H7723G\|שָׁ֔וְא]]&#8207; </big>**| Shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [they are] divining  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7080\|קֹסְמִ֥ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ko.se.Mim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H3577\|כָּזָ֑ב]]&#8207; </big>**| ka.Zav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [they are] saying  |**<big>&#8207;[[H0559\|אֹמְרִ֗ים]]&#8207; </big>**| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had spoken  |**<big>&#8207;[[H1696G\|דִבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.27|<< Ezekiel 22:27]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.29|Ezekiel 22:29 >>]]</td></tr></table>
 
 

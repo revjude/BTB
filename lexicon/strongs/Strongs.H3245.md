@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָסַד‎</span></big> **yâçad** <small>*(yaw-sad')*</small> ==**to found**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָסַד‎</span></big>** **yâçad** <small>*(yaw-sad')*</small> ==**to found**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint, take counsel, establish, (lay the, lay for a) found(-ation), instruct, lay, ordain, set, [idiom] sure.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1c2)** to establish, appoint, ordain
 $\quad$ **1d)** (Pual) to be founded, be laid
 $\quad$ **1e)** (Hophal) to be founded
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup> · <span class="asgreek">ἐμβάλλω</span><sup><small>[[G1685]]</small></sup> · <span class="asgreek">ἐπιτάσσω</span><sup><small>[[G2004]]</small></sup> · <span class="asgreek">θέλω</span><sup><small>[[G2309]]</small></sup> · <span class="asgreek">θεμέλιος</span><sup><small>[[G2310]]</small></sup> · <span class="asgreek">θεμέλιος</span><sup><small>[[G2310]]</small></sup> · <span class="asgreek">θεμελιόω</span><sup><small>[[G2311]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">καταρτίζω</span><sup><small>[[G2675]]</small></sup> · <span class="asgreek">κτίζω</span><sup><small>[[G2936]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup>
+<small>See Greek: </small>**<big>[[G0757|ἄρχω]]</big>** · **<big>[[G1685|ἐμβάλλω]]</big>** · **<big>[[G2004|ἐπιτάσσω]]</big>** · **<big>[[G2309|θέλω]]</big>** · **<big>[[G2310|θεμέλιος]]</big>** · **<big>[[G2310|θεμέλιος]]</big>** · **<big>[[G2311|θεμελιόω]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G2675|καταρτίζω]]</big>** · **<big>[[G2936|κτίζω]]</big>** · **<big>[[G4863|συνάγω]]</big>**

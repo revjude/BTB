@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קׇרְחִי‎</span></big> **Qorchîy** <small>*(kor-khee')*</small> ==**Korahite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎קֹרַח‎</span><sup><small>[[H7141]]</small></sup></small>
+**<big><span class="ashebrew">‎קׇרְחִי‎</span></big>** **Qorchîy** <small>*(kor-khee')*</small> ==**Korahite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H7141|‎קֹרַח‎]]</big>**</small>
 
 $\quad$ Korahite, Korathite, sons of Kore, Korhite.
 - § Korahite = *"one of Korah"*

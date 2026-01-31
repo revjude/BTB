@@ -7,25 +7,25 @@ Thus speaketh the LORD of hosts, saying, Execute true judgment, and shew mercy a
 “This is what the LORD of Hosts says: ‘Administer true justice. Show loving devotion and compassion to one another.<small><sub>**MT:**</sub></small>
 [[Zech.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.8|<< Zechariah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.10|Zechariah 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| A just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| you shall judge, | <big><span class="asgreek">κρίνατε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| compassion | <big><span class="asgreek">οικτιρμόν</span></big> <sup><small><small>[[G3628]]</small></small></sup> |
-| execute | <big><span class="asgreek">ποιείτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother! | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| judgment | **<big>[[G2917\|κρίμα]]</big>** |
+| A just | **<big>[[G1342\|δίκαιον]]</big>** |
+| you shall judge, | **<big>[[G2919\|κρίνατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mercy | **<big>[[G1656\|έλεον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| compassion | **<big>[[G3628\|οικτιρμόν]]</big>** |
+| execute | **<big>[[G4160\|ποιείτε]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his brother! | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Zech.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.8|<< Zechariah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.10|Zechariah 7:10 >>]]</td></tr></table>
 
 

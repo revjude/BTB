@@ -4,9 +4,9 @@ Woman living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nahash</span>, the father of David's sisters Abigail and Zeruiah, is mentioned in the context of Amasa's lineage.
 - A woman living at the time of United Monarchy, only mentioned at [[2Sam.17.25|2Sa.17.25]]; 
-- only referred to as Nahash<[[H5176I]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  wife of Jesse<[[H3448H]]>; 
--  mother of David<[[H1732]]>, Eliab<[[H0446I]]>, Abinadab<[[H0041I]]>, Shimeah<[[H8093]]>, Nethanel<[[H5417H]]>, Raddai<[[H7288]]>, Ozem<[[H0684G]]>, Zeruiah<[[H6870G]]>, Abigail<[[H0026H]]>\(?\) and Elihu<[[H0453J]]>.
+- only referred to as Nahash **<big>[[H5176|נָחָשׁ]]</big>**; 
+-  wife of Jesse **<big>[[H3448|יִשַׁי]]</big>**; 
+-  mother of David **<big>[[H1732|דָּוִד]]</big>**, Eliab **<big>[[H0446|אֱלִיאָב]]</big>**, Abinadab **<big>[[H0041|אֲבִינָדָב]]</big>**, Shimeah **<big>[[H8093|שִׁמְעָה]]</big>**, Nethanel **<big>[[H5417|נְתַנְאֵל]]</big>**, Raddai **<big>[[H7288|רַדַּי]]</big>**, Ozem **<big>[[H0684|אֹצֶם]]</big>**, Zeruiah **<big>[[H6870|צְרוּיָה]]</big>**, Abigail **<big>[[H0026|אֲבִיגַיִל]]</big>** and Elihu **<big>[[H0453|אֱלִיהוּ]]</big>**.
 
 Nahash is mentioned in [[2Sam.17.25|2 Samuel 17:25]] as the father of Abigail and Zeruiah, who are identified as the sisters of King David. This brief reference appears in the context of describing the lineage of Amasa, the commander of Absalom's army during his rebellion against David. 
 
@@ -18,8 +18,8 @@ The fact that Abigail and Zeruiah are referred to as David's sisters indicates t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176I) <small>*Hebrew*</small> | 1x | [2Sa.17.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.17.25) |
-All Strong's for **Nahash**: \[[[H5176I]]\]
+| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176I) | 1x | [2Sa.17.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.17.25) |
+All entries for **Nahash**:  **<big>[[H5176|נָחָשׁ]]</big>**
 #### Related Profiles:
 - **[Jesse](H3448)** (spouse)
 - **[David](H1732)** (child)

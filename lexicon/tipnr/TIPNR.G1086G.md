@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gerasa</span> \(or Gadara\), a region southeast of the Sea of Galilee, was the location where Jesus healed a demon-possessed man.
 - A location first mentioned at [[Matt.8.28|Mat.8.28]]; 
-- referred to as Gerasa<[[G1086G]]> \(<span class='tipnrLangGreek'>Γερασηνός</span>\), or Gerasene \(Var, KJV= Gadarene\) <[[G1086H]]> \(<span class='tipnrLangGreek'>Γεργεσηνός</span>\), or Gadara \(Var, KJV= Gergesene\) <[[G1046]]> \(<span class='tipnrLangGreek'>Γαδαρηνός</span>\).
+- referred to as Gerasa **<big>[[G1086|Γεργεσηνός]]</big>**, or Gerasene \(Var, KJV= Gadarene\)  **<big>[[G1086|Γεργεσηνός]]</big>**, or Gadara \(Var, KJV= Gergesene\)  **<big>[[G1046|Γαδαρηνός]]</big>**.
 
 Gerasa \(or Gadara\) is mentioned in the Synoptic Gospels as the region where Jesus performed a notable miracle, healing a man \(or two men, according to Matthew\) who was possessed by demons. The accounts of this event are found in [[Mark.5.1|Mark 5:1]], [[Luke.8.26|Luke 8:26]]-37, and [[Matt.8.28|Matthew 8:28]]-34. 
 
@@ -24,7 +24,7 @@ Despite the variations in the place names, the gospel accounts agree that the he
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γερασηνός</span>](G1086G) <small>*Greek*</small> | 3x | [[Mrk.5.1] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mrk.5.1;Luk.8.26;Luk.8.37) |
-| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γεργεσηνός</span>](G1086H) <small>*Greek*</small> | 1x | [Mat.8.28 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mat.8.28) |
-| Gadara (Var, KJV= Gergesene) | [<span class='tipnrLangGreek'>Γαδαρηνός</span>](G1046) <small>*Greek*</small> | 4x | [[Mat.8.28] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gadara\|reference=Mat.8.28) |
-All Strong's for **Gerasa or Gadara**: \[[[G1086G]]\] \[[[G1086H]]\] \[[[G1046]]\]
+| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γερασηνός</span>](G1086G) | 3x | [[Mrk.5.1] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mrk.5.1;Luk.8.26;Luk.8.37) |
+| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γεργεσηνός</span>](G1086H) | 1x | [Mat.8.28 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mat.8.28) |
+| Gadara (Var, KJV= Gergesene) | [<span class='tipnrLangGreek'>Γαδαρηνός</span>](G1046) | 4x | [[Mat.8.28] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gadara\|reference=Mat.8.28) |
+All entries for **Gerasa or Gadara**:  **<big>[[G1086|Γεργεσηνός]]</big>** ☩  **<big>[[G1086|Γεργεσηνός]]</big>** ☩  **<big>[[G1046|Γαδαρηνός]]</big>**

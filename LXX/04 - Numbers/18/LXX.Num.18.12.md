@@ -7,26 +7,26 @@ All the best of the oil, and all the best of the wine, and of the wheat, the fir
 I give you all the freshest olive oil and all the finest new wine and grain that the Israelites give to the LORD as their firstfruits.<small><sub>**MT:**</sub></small>
 [[Num.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.11|<< Numbers 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.13|Numbers 18:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| first-fruit | <big><span class="asgreek">απαρχή</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of olive oil, | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| first-fruit | <big><span class="asgreek">απαρχή</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of wine, | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of grain | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| of their first-fruit | <big><span class="asgreek">απαρχή</span></big> <sup><small><small>[[G0536]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as many \[things\] | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they should give | <big><span class="asgreek">δώσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | **<big>[[G3956\|πάσα]]</big>** |
+| first-fruit | **<big>[[G0536\|απαρχή]]</big>** |
+| of olive oil, | **<big>[[G1637\|ελαίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| first-fruit | **<big>[[G0536\|απαρχή]]</big>** |
+| of wine, | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of grain | **<big>[[G4621\|σίτου]]</big>** |
+| of their first-fruit | **<big>[[G0536\|απαρχή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as many \[things\] | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| they should give | **<big>[[G1325\|δώσι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Num.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.11|<< Numbers 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.13|Numbers 18:13 >>]]</td></tr></table>
 
 

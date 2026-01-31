@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Eber</span> was a son of Shashak and a descendant of Benjamin, mentioned in the genealogy of the Benjamites. \([[1Chr.8.22|1Ch.8.22]]\)
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.22|1Ch.8.22]]; 
-- only referred to as Eber<[[H5677J]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Shashak<[[H8349]]>; 
-- a brother of Ishpan<[[H3473]]>, Eliel<[[H0447I]]>, Abdon<[[H5658I]]>, Zichri<[[H2147I]]>, Hanan<[[H2605G]]>, Hananiah<[[H2608O]]>, Elam<[[H5867G]]>, Anthothijah<[[H6070]]>, Iphdeiah<[[H3301]]> and Penuel<[[H6439I]]>.
+- only referred to as Eber **<big>[[H5677|עֵבֵר]]</big>**; 
+-  son of Shashak **<big>[[H8349|שָׁשַׁק]]</big>**; 
+- a brother of Ishpan **<big>[[H3473|יִשְׁפָּן]]</big>**, Eliel **<big>[[H0447|אֱלִיאֵל]]</big>**, Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, Zichri **<big>[[H2147|זִכְרִי]]</big>**, Hanan **<big>[[H2605|חָנָן]]</big>**, Hananiah **<big>[[H2608|חֲנַנְיָה]]</big>**, Elam **<big>[[H5867|עֵילָם]]</big>**, Anthothijah **<big>[[H6070|עַנְתֹתִיָּה]]</big>**, Iphdeiah **<big>[[H3301|יִפְדְּיָה]]</big>** and Penuel **<big>[[H6439|פְּנוּאֵל]]</big>**.
 
 Eber is mentioned briefly in [[1Chr.8.22|1 Chronicles 8:22]] as one of the sons of Shashak, a descendant of Benjamin. He is listed along with his brothers Ishpan, Heber, Eliel, Abdon, Zichri, Hanan, Hananiah, Elam, Anthothijah, Iphdeiah, and Penuel. 
 
@@ -20,8 +20,8 @@ Apart from this brief mention, no further information is provided about Eber or 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677J) <small>*Hebrew*</small> | 1x | [1Ch.8.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.8.22) |
-All Strong's for **Eber**: \[[[H5677J]]\]
+| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677J) | 1x | [1Ch.8.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.8.22) |
+All entries for **Eber**:  **<big>[[H5677|עֵבֵר]]</big>**
 #### Related Profiles:
 - **[Shashak](H8349)** (father)
 - **[Ishpan](H3473)** (sibling)

@@ -7,26 +7,26 @@ So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jer
 and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.<small><sub>**MT:**</sub></small>
 [[Jer.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.12|<< Jeremiah 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.14|Jeremiah 38:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they drew | <big><span class="asgreek">είλκυσαν</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rough cords, | <big><span class="asgreek">σχοινίοις</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led him up | <big><span class="asgreek">ανήγαγον</span></big> <sup><small><small>[[G0321]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit. | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeremiah stayed | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">Ιερεμίας</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guard. | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they drew | **<big>[[G1670\|είλκυσαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| rough cords, | **<big>[[G4979\|σχοινίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| led him up | **<big>[[G0321\|ανήγαγον]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| pit. | **<big>[[G8154\|λάκκου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeremiah stayed | **<big>[[G2523\|εκάθισεν]]</big>** **<big>[[G2408\|Ιερεμίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| guard. | **<big>[[G5438\|φυλακής]]</big>** |
 [[Jer.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.12|<< Jeremiah 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.14|Jeremiah 38:14 >>]]</td></tr></table>
 
 

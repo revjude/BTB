@@ -7,24 +7,24 @@ And now we call the proud happy; yea, they that work wickedness are set up; yea,
 So now we call the arrogant blessed. Not only do evildoers prosper, they even test God and escape.’”<small><sub>**MT:**</sub></small>
 [[Mal.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| blessed | <big><span class="asgreek">μακαρίζομεν</span></big> <sup><small><small>[[G3106]]</small></small></sup> |
-| aliens | <big><span class="asgreek">αλλοτρίους</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| are built up | <big><span class="asgreek">ανοικοδομούνται</span></big> <sup><small><small>[[G0456]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| lawless deeds | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they opposed | <big><span class="asgreek">αντέστησαν</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were preserved. | <big><span class="asgreek">εσώθησαν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| blessed | **<big>[[G3106\|μακαρίζομεν]]</big>** |
+| aliens | **<big>[[G0245\|αλλοτρίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| are built up | **<big>[[G0456\|ανοικοδομούνται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| doing | **<big>[[G4160\|ποιούντες]]</big>** |
+| lawless deeds | **<big>[[G0459\|άνομα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they opposed | **<big>[[G0436\|αντέστησαν]]</big>** |
+| God, | **<big>[[G2316\|θεώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were preserved. | **<big>[[G4982\|εσώθησαν]]</big>** |
 [[Mal.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 
 

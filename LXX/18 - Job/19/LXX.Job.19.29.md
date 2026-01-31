@@ -7,25 +7,25 @@ Be ye afraid of the sword: for wrath [bringeth] the punishments of the sword, th
 then you should fear the sword yourselves, because wrath brings punishment by the sword, so that you may know there is a judgment.”<small><sub>**MT:**</sub></small>
 [[Job.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.28|<< Job 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.1|Job 20:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Venerate | <big><span class="asgreek">ευλαβήθητε</span></big> <sup><small><small>[[G2125]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a covering! | <big><span class="asgreek">επικαλύμματος</span></big> <sup><small><small>[[G1942]]</small></small></sup> |
-| For rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] lawless ones | <big><span class="asgreek">ανόμους</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| shall come | <big><span class="asgreek">επελεύσεται</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| they shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| material | <big><span class="asgreek">ύλη</span></big> <sup><small><small>[[G5208]]</small></small></sup> |
+| Venerate | **<big>[[G2125\|ευλαβήθητε]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| to yourselves | **<big>[[G1473\|υμείς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a covering! | **<big>[[G1942\|επικαλύμματος]]</big>** |
+| For rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] lawless ones | **<big>[[G0459\|ανόμους]]</big>** |
+| shall come | **<big>[[G1904\|επελεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| they shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| material | **<big>[[G5208\|ύλη]]</big>** |
 [[Job.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.28|<< Job 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.1|Job 20:1 >>]]</td></tr></table>
 
 

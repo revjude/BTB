@@ -7,43 +7,43 @@ In that thou lovest thine enemies, and hatest thy friends. For thou hast declare
 You love those who hate you and hate those who love you! For you have made it clear today that the commanders and soldiers mean nothing to you. I know today that if Absalom were alive and all of us were dead, it would have pleased you!<small><sub>**MT:**</sub></small>
 [[2Sam.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.5|<< 2 Samuel 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.7|2 Samuel 19:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to love | <big><span class="asgreek">αγαπάν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones detesting | <big><span class="asgreek">μισούντάς</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to detest | <big><span class="asgreek">μισείν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώντάς</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you identify | <big><span class="asgreek">ανήγγειλας</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| are nothing | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| your rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \[your\] servants. | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I know | <big><span class="asgreek">οιδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Absalom, | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| he \[were\] alive | <big><span class="asgreek">έζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| even all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| had died, | <big><span class="asgreek">απεθάνομεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| it would have been pleasing | <big><span class="asgreek">ήρεσκεν</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to love | **<big>[[G0025\|αγαπάν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones detesting | **<big>[[G3404\|μισούντάς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to detest | **<big>[[G3404\|μισείν]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| loving | **<big>[[G0025\|αγαπώντάς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| that | **<big>[[G3754\|οτι]]</big>** |
+| you identify | **<big>[[G0518\|ανήγγειλας]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| are nothing | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| your rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \[your\] servants. | **<big>[[G3816\|παίδες]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I know | **<big>[[G1492\|οιδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Absalom, | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| he \[were\] alive | **<big>[[G2198\|έζη]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| even all | **<big>[[G3956\|πάντες]]</big>** **<big>[[G0302\|αν]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| had died, | **<big>[[G0599\|απεθάνομεν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| it would have been pleasing | **<big>[[G0700\|ήρεσκεν]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[2Sam.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.5|<< 2 Samuel 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.7|2 Samuel 19:7 >>]]</td></tr></table>
 
 

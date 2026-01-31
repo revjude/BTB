@@ -7,27 +7,27 @@ And I said, Should such a man as I flee? and who [is there], that, [being] as I 
 But I replied, “Should a man like me run away? Should one like me go into the temple to save his own life? I will not go!”<small><sub>**MT:**</sub></small>
 [[Neh.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.10|<< Nehemiah 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.12|Nehemiah 6:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| such as | <big><span class="asgreek">οίος</span></big> <sup><small><small>[[G3634]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that shall flee? | <big><span class="asgreek">φεύξεται</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| such as | <big><span class="asgreek">οίος</span></big> <sup><small><small>[[G3634]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall live? | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| such as | **<big>[[G3634\|οίος]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| that shall flee? | **<big>[[G5343\|φεύξεται]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| such as | **<big>[[G3634\|οίος]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall live? | **<big>[[G2198\|ζήσεται]]</big>** |
 [[Neh.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.10|<< Nehemiah 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.12|Nehemiah 6:12 >>]]</td></tr></table>
 
 

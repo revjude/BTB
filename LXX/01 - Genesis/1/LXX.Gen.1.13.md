@@ -7,20 +7,20 @@ And the evening and the morning were the third day.
 And there was evening, and there was morning—the third day.<small><sub>**MT:**</sub></small>
 [[Gen.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.12|<< Genesis 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.14|Genesis 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[it was\] good. | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρα</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God beheld | **<big>[[G1492\|είδεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[it was\] good. | **<big>[[G2570\|καλόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| evening | **<big>[[G2073\|εσπέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was | **<big>[[G1096\|εγένετο]]</big>** |
+| morning, | **<big>[[G4404\|πρωϊ]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτη]]</big>** |
 [[Gen.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.12|<< Genesis 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.14|Genesis 1:14 >>]]</td></tr></table>
 
 

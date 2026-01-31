@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרִם‎</span></big> **Chârim** <small>*(khaw-reem')*</small> ==**Harim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַם‎</span><sup><small>[[H2763]]</small></sup>; snub-nosed</small>
+**<big><span class="ashebrew">‎חָרִם‎</span></big>** **Chârim** <small>*(khaw-reem')*</small> ==**Harim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2763|‎חָרַם‎]]</big>**; snub-nosed</small>
 
 $\quad$ Harim.
 - § Harim = *"dedicated"*

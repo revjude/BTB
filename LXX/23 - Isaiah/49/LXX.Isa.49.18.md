@@ -11,34 +11,34 @@ Lift up your eyes and look around. They all gather together; they come to you. A
 > $\quad$ referenced by: [[Rom.14.11|Rom 14:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lift up | <big><span class="asgreek">άρον</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| perceive | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| all! | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| they were brought together, | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they come | <big><span class="asgreek">ήλθοσαν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| As I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| them all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an ornament | <big><span class="asgreek">κόσμον</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| You shall clothe yourself with | <big><span class="asgreek">ενδύση</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put them on | <big><span class="asgreek">περιθήση</span></big> <sup><small><small>[[G4060]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an ornament | <big><span class="asgreek">κόσμον</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
-| of a bride. | <big><span class="asgreek">νύμφη</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
+| Lift up | **<big>[[G0142\|άρον]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| perceive | **<big>[[G1492\|ίδε]]</big>** |
+| all! | **<big>[[G3956\|πάντας]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| they were brought together, | **<big>[[G4863\|συνήχθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they come | **<big>[[G2064\|ήλθοσαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| As I live, | **<big>[[G2198\|ζω]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| them all | **<big>[[G3956\|πάντας]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an ornament | **<big>[[G2889\|κόσμον]]</big>** |
+| You shall clothe yourself with | **<big>[[G1746\|ενδύση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall put them on | **<big>[[G4060\|περιθήση]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an ornament | **<big>[[G2889\|κόσμον]]</big>** |
+| of a bride. | **<big>[[G3565\|νύμφη]]</big>** |
 [[Isa.49.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.17|<< Isaiah 49:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.19|Isaiah 49:19 >>]]</td></tr></table>
 
 

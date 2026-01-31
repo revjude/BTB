@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּדוּד‎</span></big> **gᵉdûwd** <small>*(ghed-ood')*</small> ==**furrow**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>or <span class="ashebrew">גְּדֻדָה</span> **gᵉdudâh** <small>*(ghedoo-daw')*</small>; (feminine) from <span class="ashebrew">‎גָּדַד‎</span><sup><small>[[H1413]]</small></sup></small>
+**<big><span class="ashebrew">‎גְּדוּד‎</span></big>** **gᵉdûwd** <small>*(ghed-ood')*</small> ==**furrow**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>or **<big><span class="ashebrew">גְּדֻדָה</span></big>** **gᵉdudâh** <small>*(ghedoo-daw')*</small>; (feminine) from **<big>[[H1413|‎גָּדַד‎]]</big>**</small>
 
 $\quad$ furrow.
 - ***a furrow*** (as cut)

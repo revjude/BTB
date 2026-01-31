@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵפֻדָּה‎</span></big> **ʼêphuddâh** <small>*(ay-food-daw')*</small> ==**ephod**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אֵפוֹד‎</span><sup><small>[[H0646]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵפֻדָּה‎</span></big>** **ʼêphuddâh** <small>*(ay-food-daw')*</small> ==**ephod**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0646|‎אֵפוֹד‎]]</big>**</small>
 
 $\quad$ ephod, ornament.
 - ***a girding on*** (of the ephod)

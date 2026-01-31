@@ -7,40 +7,40 @@ That this shall be no grief unto thee, nor offence of heart unto my lord, either
 then my lord will have no remorse or guilt of conscience over needless bloodshed and revenge. And when the LORD has dealt well with my lord, may you remember your servant.”<small><sub>**MT:**</sub></small>
 [[1Sam.25.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.30|<< 1 Samuel 25:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.32|1 Samuel 25:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| against your | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| abomination | <big><span class="asgreek">βδελυγμός</span></big> <sup><small><small>[[G6662]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| obstacle | <big><span class="asgreek">σκάνδαλον</span></big> <sup><small><small>[[G4625]]</small></small></sup> |
-| heart, | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to pour out | <big><span class="asgreek">εκχέαι</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| innocent | <big><span class="asgreek">αθώον</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
-| without charge, | <big><span class="asgreek">δωρεάν</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">σώσαι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of my master | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">ου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for himself. | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall do good | <big><span class="asgreek">αγαθυνεί</span></big> <sup><small><small>[[G6108]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remember | <big><span class="asgreek">μνησθήση</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant, | <big><span class="asgreek">δούλης</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| well | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Then | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| against your | **<big>[[G1473\|σοι]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| abomination | **<big>[[G6662\|βδελυγμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| obstacle | **<big>[[G4625\|σκάνδαλον]]</big>** |
+| heart, | **<big>[[G2588\|καρδίας]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my master, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to pour out | **<big>[[G1632\|εκχέαι]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| innocent | **<big>[[G0121\|αθώον]]</big>** |
+| without charge, | **<big>[[G1431\|δωρεάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to deliver | **<big>[[G4982\|σώσαι]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of my master | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|ου]]</big>** |
+| for himself. | **<big>[[G1438\|εαυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall do good | **<big>[[G6108\|αγαθυνεί]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my master. | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remember | **<big>[[G3403\|μνησθήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your maidservant, | **<big>[[G1399\|δούλης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| well | **<big>[[G2573\|καλώς]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| to her. | **<big>[[G1473\|αυτή]]</big>** |
 [[1Sam.25.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.30|<< 1 Samuel 25:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.32|1 Samuel 25:32 >>]]</td></tr></table>
 
 

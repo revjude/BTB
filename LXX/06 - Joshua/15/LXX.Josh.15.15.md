@@ -7,24 +7,24 @@ And he went up thence to the inhabitants of Debir: and the name of Debir before 
 From there he marched against the inhabitants of Debir (formerly known as Kiriath-sepher).<small><sub>**MT:**</sub></small>
 [[Josh.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.14|<< Joshua 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.16|Joshua 15:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in Debir; | <big><span class="asgreek">Δαβίρ</span></big> <sup><small><small>[[H1688a]]</small></small></sup> |
-| and the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| Debir | <big><span class="asgreek">Δαβίρ</span></big> <sup><small><small>[[H1688a]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| City | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Letters. | <big><span class="asgreek">γραμμάτων</span></big> <sup><small><small>[[G1121]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in Debir; | **<big>[[H1688a\|Δαβίρ]]</big>** |
+| and the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| Debir | **<big>[[H1688a\|Δαβίρ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| formerly | **<big>[[G4387\|πρότερον]]</big>** |
+| City | **<big>[[G4172\|πόλις]]</big>** |
+| of Letters. | **<big>[[G1121\|γραμμάτων]]</big>** |
 [[Josh.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.14|<< Joshua 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.16|Joshua 15:16 >>]]</td></tr></table>
 
 

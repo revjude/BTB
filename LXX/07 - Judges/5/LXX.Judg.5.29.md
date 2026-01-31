@@ -7,19 +7,19 @@ Her wise ladies answered her, yea, she returned answer to herself,
 Her wisest ladies answer; indeed she keeps telling herself,<small><sub>**MT:**</sub></small>
 [[Judg.5.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.28|<< Judges 5:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.30|Judges 5:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| wise ladies | <big><span class="asgreek">σοφαί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| leading | <big><span class="asgreek">αρχουσών</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| Her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| answered | <big><span class="asgreek">ανταπεκρίναντο</span></big> <sup><small><small>[[G0470]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| returned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| her words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to herself. | <big><span class="asgreek">εαυτή</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| wise ladies | **<big>[[G4680\|σοφαί]]</big>** |
+| leading | **<big>[[G0756\|αρχουσών]]</big>** |
+| Her | **<big>[[G1473\|αυτής]]</big>** |
+| answered | **<big>[[G0470\|ανταπεκρίναντο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G1473\|αυτή]]</big>** |
+| returned | **<big>[[G0654\|απέστρεψε]]</big>** |
+| her words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| to herself. | **<big>[[G1438\|εαυτή]]</big>** |
 [[Judg.5.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.28|<< Judges 5:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.30|Judges 5:30 >>]]</td></tr></table>
 
 

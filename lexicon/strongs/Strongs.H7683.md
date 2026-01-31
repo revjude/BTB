@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁגַג‎</span></big> **shâgag** <small>*(shaw-gag')*</small> ==**to go astray**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁגַג‎</span></big>** **shâgag** <small>*(shaw-gag')*</small> ==**to go astray**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] also for that, deceived, err, go astray, sin ignorantly.
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Qal)
 $\quad$ $\quad$ **1a1)** to err (mentally)
 $\quad$ $\quad$ **1a2)** to sin (ignorantly or inadvertently)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγνοέω</span><sup><small>[[G0050]]</small></sup>
+<small>See Greek: </small>**<big>[[G0050|ἀγνοέω]]</big>**

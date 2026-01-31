@@ -4,9 +4,9 @@ Woman living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Naarah</span> was one of the two wives of Ashhur, the  father \(ie founder\) of Tekoa, mentioned in the genealogy of Judah.
 - A woman from the tribe of Judah  living at the time of Divided Monarchy, first mentioned at [[1Chr.4.5|1Ch.4.5]]; 
-- only referred to as Naarah<[[H5292B]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of Ashhur<[[H0806]]>; 
--  mother of Ahuzzam<[[H0275]]>, Hepher<[[H2660G]]>, Temeni<[[H8488]]> and Haahashtari<[[H0326]]>.
+- only referred to as Naarah **<big>[[H5292|נַעֲרָה]]</big>**; 
+- wife of Ashhur **<big>[[H0806|אַשְׁחוּר]]</big>**; 
+-  mother of Ahuzzam **<big>[[H0275|אֲחֻזָּם]]</big>**, Hepher **<big>[[H2660|חֵפֶר]]</big>**, Temeni **<big>[[H8488|תֵּימְנִי]]</big>** and Haahashtari **<big>[[H0326|אֲחַשְׁתָּרִי]]</big>**.
 
 Naarah is mentioned briefly in [[1Chr.4.5|1 Chronicles 4:5]]-6 as one of the two wives of Ashhur, the  father \(ie founder\) of Tekoa. This reference appears in a genealogical record that traces the descendants of Judah, providing insight into the family lines within the tribe. 
 
@@ -18,8 +18,8 @@ Apart from being listed as the wife of Ashhur and the mother of four sons, no ad
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naarah | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5292B) <small>*Hebrew*</small> | 3x | [[1Ch.4.5] ... [1Ch.4.6b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naarah\*\|reference=1Ch.4.5;1Ch.4.6;1Ch.4.6) |
-All Strong's for **Naarah**: \[[[H5292B]]\]
+| Naarah | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5292B) | 3x | [[1Ch.4.5] ... [1Ch.4.6b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naarah\*\|reference=1Ch.4.5;1Ch.4.6;1Ch.4.6) |
+All entries for **Naarah**:  **<big>[[H5292|נַעֲרָה]]</big>**
 #### Related Profiles:
 - **[Ashhur](H0806)** (spouse)
 - **[Ahuzzam](H0275)** (child)

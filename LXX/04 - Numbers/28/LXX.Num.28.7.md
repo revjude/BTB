@@ -7,25 +7,25 @@ And the drink offering thereof [shall be] the fourth [part] of an hin for the on
 The drink offering accompanying each lamb shall be a quarter hin. Pour out the offering of fermented drink to the LORD in the sanctuary area.<small><sub>**MT:**</sub></small>
 [[Num.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.6|<< Numbers 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.8|Numbers 28:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its libation -- | <big><span class="asgreek">σπονδήν</span></big> <sup><small><small>[[G9145]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth \[part\] | <big><span class="asgreek">τέταρτον</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hin | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamb | <big><span class="asgreek">αμνώ</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\] | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">σπείσεις</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| a libation \[offering\] | <big><span class="asgreek">σπονδήν</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| of liquor | <big><span class="asgreek">σικέρα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| its libation -- | **<big>[[G9145\|σπονδήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fourth \[part\] | **<big>[[G5067\|τέταρτον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hin | **<big>[[G9824\|ιν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| lamb | **<big>[[G0286\|αμνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| holy \[place\] | **<big>[[G0039\|αγίω]]</big>** |
+| you shall offer | **<big>[[G4689\|σπείσεις]]</big>** |
+| a libation \[offering\] | **<big>[[G9145\|σπονδήν]]</big>** |
+| of liquor | **<big>[[G4608\|σικέρα]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Num.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.6|<< Numbers 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.8|Numbers 28:8 >>]]</td></tr></table>
 
 

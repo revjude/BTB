@@ -7,23 +7,23 @@ And it came to pass, when she was in hard labour, that the midwife said unto her
 During her severe labor, the midwife said to her, “Do not be afraid, for you are having another son.”<small><sub>**MT:**</sub></small>
 [[Gen.35.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.16|<< Genesis 35:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.18|Genesis 35:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her harshly | <big><span class="asgreek">σκληρώς</span></big> <sup><small><small>[[G9109]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bearing, | <big><span class="asgreek">τίκτειν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midwife | <big><span class="asgreek">μαία</span></big> <sup><small><small>[[G8228]]</small></small></sup> |
-| Be of courage! | <big><span class="asgreek">θάρσει</span></big> <sup><small><small>[[G2293]]</small></small></sup> |
-| for also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her harshly | **<big>[[G9109\|σκληρώς]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| bearing, | **<big>[[G5088\|τίκτειν]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| midwife | **<big>[[G8228\|μαία]]</big>** |
+| Be of courage! | **<big>[[G2293\|θάρσει]]</big>** |
+| for also | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| this | **<big>[[G3778\|ούτός]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
 [[Gen.35.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.16|<< Genesis 35:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.18|Genesis 35:18 >>]]</td></tr></table>
 
 

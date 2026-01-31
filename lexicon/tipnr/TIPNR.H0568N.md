@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Amariah</span>, a descendant of Judah through Perez, was among those chosen to resettle in Jerusalem during Nehemiah's time. \([[Neh.11.4|Neh.11.4]]\)
 - A man living at the time of Exile and Return, only mentioned at [[Neh.11.4|Neh.11.4]]; 
-- only referred to as Amariah<[[H0568N]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Shephatiah<[[H8203N]]>; 
--  father of Zechariah<[[H2148V]]>.
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**; 
+- a son of Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**; 
+-  father of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 
 Amariah is mentioned in the list of people who were chosen to resettle in Jerusalem during the time of Nehemiah. He is identified as a descendant of Perez, who was a son of Judah. \([[Neh.11.4|Neh.11.4]]\) 
 
@@ -22,8 +22,8 @@ The mention of Amariah in this list highlights the importance of the participati
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568N) <small>*Hebrew*</small> | 1x | [Neh.11.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Neh.11.4) |
-All Strong's for **Amariah**: \[[[H0568N]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568N) | 1x | [Neh.11.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Neh.11.4) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**
 #### Related Profiles:
 - **[Shephatiah](H8203N)** (father)
 - **[Zechariah](H2148V)** (child)

@@ -7,20 +7,20 @@ Let all mine enemies be ashamed and sore vexed: let them return [and] be ashamed
 All my enemies will be ashamed and dismayed; they will turn back in sudden disgrace.<small><sub>**MT:**</sub></small>
 [[Ps.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.9|<< Psalm 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.1|Psalm 7:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May they be put to shame | <big><span class="asgreek">αισχυνθείησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may they be disturbed -- | <big><span class="asgreek">ταραχθείησαν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies; | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| may they be turned back | <big><span class="asgreek">αποστραφείησαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put to shame | <big><span class="asgreek">καταισχυνθείησαν</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| \[even\] | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| quickly. | <big><span class="asgreek">τάχους</span></big> <sup><small><small>[[G5034]]</small></small></sup> |
+| May they be put to shame | **<big>[[G0153\|αισχυνθείησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may they be disturbed -- | **<big>[[G5015\|ταραχθείησαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my enemies; | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| may they be turned back | **<big>[[G0654\|αποστραφείησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put to shame | **<big>[[G2617\|καταισχυνθείησαν]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| \[even\] | **<big>[[G1223\|διά]]</big>** |
+| quickly. | **<big>[[G5034\|τάχους]]</big>** |
 [[Ps.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.9|<< Psalm 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.1|Psalm 7:1 >>]]</td></tr></table>
 
 

@@ -1,6 +1,4 @@
-<span class="ashebrew">‎שָׁשָׁק‎</span> <small>***(sha.shaq)***</small> ==**Shashak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin  living at the time of Egypt and Wilderness, first mentioned at [[1Chr.8.14|1Ch.8.14]]
--  son of: Beriah ([[H1283I]])
--  brother of: Arad ([[H6166B]]), Ahio ([[H0283H]]), Jeremoth ([[H3406I]]), Zebadiah ([[H2069]]), Eder ([[H5738]]), Michael ([[H4317L]]), Ishpah ([[H3472]]) and Joha ([[H3109]])
--  father of: Ishpan ([[H3473]]), Eber ([[H5677J]]), Eliel ([[H0447I]]), Abdon ([[H5658I]]), Zichri ([[H2147I]]), Hanan ([[H2605]]), Hananiah ([[H2608O]]), Elam ([[H5867]]), Anthothijah ([[H6070]]), Iphdeiah ([[H3301]]), Penuel ([[H6439I]])
-
+-  son of: Beriah (**<big>[[H1283I|בְּרִיעָה]]</big>**)
+-  brother of: Arad (**<big>[[H6166B|עֲרָד]]</big>**), Ahio (**<big>[[H0283H|אַחְיוֹ]]</big>**), Jeremoth (**<big>[[H3406I|יְרִימוֹת]]</big>**), Zebadiah (**<big>[[H2069|זְבַדְיָה]]</big>**), Eder (**<big>[[H5738|עֶדֶר]]</big>**), Michael (**<big>[[H4317L|מִיכָאֵל]]</big>**), Ishpah (**<big>[[H3472|יִשְׁפָּה]]</big>**) and Joha (**<big>[[H3109|יוֹחָא]]</big>**)
+-  father of: Ishpan (**<big>[[H3473|יִשְׁפָּן]]</big>**), Eber (**<big>[[H5677J|עֵבֵר]]</big>**), Eliel (**<big>[[H0447I|אֱלִיאֵל]]</big>**), Abdon (**<big>[[H5658I|עַבְדוֹן]]</big>**), Zichri (**<big>[[H2147I|זִכְרִי]]</big>**), Hanan (**<big>[[H2605|חָנָן]]</big>**), Hananiah (**<big>[[H2608O|חֲנַנְיָה]]</big>**), Elam (**<big>[[H5867|עֵילָם]]</big>**), Anthothijah (**<big>[[H6070|עַנְתֹתִיָּה]]</big>**), Iphdeiah (**<big>[[H3301|יִפְדְּיָה]]</big>**), Penuel (**<big>[[H6439I|פְּנוּאֵל]]</big>**)

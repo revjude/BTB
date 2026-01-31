@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּזַר‎</span></big> **gâzar** <small>*(gaw-zar')*</small> ==**to cut**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּזַר‎</span></big>** **gâzar** <small>*(gaw-zar')*</small> ==**to cut**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cut down (off), decree, divide, snatch.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1b1)** to be cut off, separated, excluded
 $\quad$ $\quad$ **1b2)** to be destroyed,  cut off
 $\quad$ $\quad$ **1b3)** to be decreed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴρω</span><sup><small>[[G0142]]</small></sup> · <span class="asgreek">ἀπωθέομαι</span><sup><small>[[G0683]]</small></sup> · <span class="asgreek">διαιρέω</span><sup><small>[[G1244]]</small></sup> · <span class="asgreek">ἐκκλίνω</span><sup><small>[[G1578]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">κατακρίνω</span><sup><small>[[G2632]]</small></sup>
+<small>See Greek: </small>**<big>[[G0142|αἴρω]]</big>** · **<big>[[G0683|ἀπωθέομαι]]</big>** · **<big>[[G1244|διαιρέω]]</big>** · **<big>[[G1578|ἐκκλίνω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G2632|κατακρίνω]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּמַם‎</span></big> **tâmam** <small>*(taw-mam')*</small> ==**to finish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּמַם‎</span></big>** **tâmam** <small>*(taw-mam')*</small> ==**to finish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ accomplish, cease, be clean (pass-) ed, consume, have done, (come to an, have an, make an) end, fail, come to the full, be all gone, [idiom] be all here, be (make) perfect, be spent, sum, be (shew self) upright, be wasted, whole.
@@ -24,4 +24,4 @@ $\quad$ $\quad$ **1c4)** to destroy (uncleanness)
 $\quad$ $\quad$ **1c5)** to make sound
 $\quad$ **1d)** (Hithpael) to deal in integrity, act uprightly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄθωος</span><sup><small>[[G0121]]</small></sup> · <span class="asgreek">ἀναλίσκω</span><sup><small>[[G0355]]</small></sup> · <span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐξαίφνης</span><sup><small>[[G1810]]</small></sup> · <span class="asgreek">ἐξέρχομαι</span><sup><small>[[G1831]]</small></sup> · <span class="asgreek">ἡσυχία</span><sup><small>[[G2271]]</small></sup> · <span class="asgreek">παύω</span><sup><small>[[G3973]]</small></sup> · <span class="asgreek">πίπτω</span><sup><small>[[G4098]]</small></sup> · <span class="asgreek">πληρόω</span><sup><small>[[G4137]]</small></sup> · <span class="asgreek">συντελέω</span><sup><small>[[G4931]]</small></sup> · <span class="asgreek">σφραγίζω</span><sup><small>[[G4972]]</small></sup> · <span class="asgreek">τελειόω</span><sup><small>[[G5048]]</small></sup> · <span class="asgreek">τήκω</span><sup><small>[[G5080]]</small></sup>
+<small>See Greek: </small>**<big>[[G0121|ἄθωος]]</big>** · **<big>[[G0355|ἀναλίσκω]]</big>** · **<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1810|ἐξαίφνης]]</big>** · **<big>[[G1831|ἐξέρχομαι]]</big>** · **<big>[[G2271|ἡσυχία]]</big>** · **<big>[[G3973|παύω]]</big>** · **<big>[[G4098|πίπτω]]</big>** · **<big>[[G4137|πληρόω]]</big>** · **<big>[[G4931|συντελέω]]</big>** · **<big>[[G4972|σφραγίζω]]</big>** · **<big>[[G5048|τελειόω]]</big>** · **<big>[[G5080|τήκω]]</big>**

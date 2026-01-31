@@ -7,20 +7,20 @@ And he stood between the dead and the living; and the plague was stayed.
 He stood between the living and the dead, and the plague was halted.<small><sub>**MT:**</sub></small>
 [[Num.16.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.47|<< Numbers 16:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.49|Numbers 16:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones having died | <big><span class="asgreek">τεθνηκότων</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living, | <big><span class="asgreek">ζώντων</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| abated | <big><span class="asgreek">εκόπασεν</span></big> <sup><small><small>[[G2869]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devastation | <big><span class="asgreek">θραύσις</span></big> <sup><small><small>[[G7687]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he stood | **<big>[[G2476\|έστη]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones having died | **<big>[[G2348\|τεθνηκότων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| living, | **<big>[[G2198\|ζώντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| abated | **<big>[[G2869\|εκόπασεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| devastation | **<big>[[G7687\|θραύσις]]</big>** |
 [[Num.16.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.47|<< Numbers 16:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.49|Numbers 16:49 >>]]</td></tr></table>
 
 

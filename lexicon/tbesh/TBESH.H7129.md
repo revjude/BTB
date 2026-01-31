@@ -1,4 +1,3 @@
-<span class="asaramaic">‎קְרָב‎</span> <small>***(qe.rav)***</small> ==**war**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7128]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7128|קְרָב]]</big>**</small> 
 
-- Aramaic of <i>qe.rav</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ב‎</span> "battle" [[H7128]])
+- Aramaic of <i>qe.rav</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ב‎</span> "battle" **<big>[[H7128|קְרָב]]</big>**)

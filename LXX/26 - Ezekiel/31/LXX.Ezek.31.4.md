@@ -7,31 +7,31 @@ The waters made him great, the deep set him up on high with her rivers running r
 The waters made it grow; the deep springs made it tall, directing their streams all around its base and sending their channels to all the trees of the field.<small><sub>**MT:**</sub></small>
 [[Ezek.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.3|<< Ezekiel 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.5|Ezekiel 31:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| nourished | <big><span class="asgreek">εξέθρεψεν</span></big> <sup><small><small>[[G1625]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| deep | <big><span class="asgreek">άβυσσος</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| made him rise up high; | <big><span class="asgreek">ύψωσεν</span></big> <sup><small><small>[[G5312]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| she | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| led | <big><span class="asgreek">ήγαγε</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his plants, | <big><span class="asgreek">φυτών</span></big> <sup><small><small>[[G9687]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her collections \[of water\] | <big><span class="asgreek">συστήματα</span></big> <sup><small><small>[[G9360]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she sent forth | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field. | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| Water | **<big>[[G5204\|ύδωρ]]</big>** |
+| nourished | **<big>[[G1625\|εξέθρεψεν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| deep | **<big>[[G0012\|άβυσσος]]</big>** |
+| made him rise up high; | **<big>[[G5312\|ύψωσεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rivers | **<big>[[G4215\|ποταμούς]]</big>** |
+| she | **<big>[[G1473\|αυτής]]</big>** |
+| led | **<big>[[G0071\|ήγαγε]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his plants, | **<big>[[G9687\|φυτών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her collections \[of water\] | **<big>[[G9360\|συστήματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she sent forth | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees | **<big>[[G3586\|ξύλα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field. | **<big>[[G8676\|πεδίου]]</big>** |
 [[Ezek.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.3|<< Ezekiel 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.5|Ezekiel 31:5 >>]]</td></tr></table>
 
 

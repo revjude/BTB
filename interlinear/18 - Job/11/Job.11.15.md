@@ -6,17 +6,17 @@ then indeed you will lift up your face without blemish; you will stand firm and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.14|<< Job 11:14]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.16|Job 11:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אָ֤ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will lift up  | <span class="ashebrew"><big>תִּשָּׂ֣א </big></span><small><small><sup>[[H5375Q]]</sup></small></small> &#8207;| ti.Sa' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face your  | <span class="ashebrew"><big>פָנֶ֣י </big></span><small><small><sup>[[H6440N]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| fa.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from blemish  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מּ֑וּם </big></span><small><small><sup>[[H3971B]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Mum <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָיִ֥יתָ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.Yi.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| firmly established  | <span class="ashebrew"><big>מֻ֝צָ֗ק </big></span><small><small><sup>[[H3332J]]</sup></small></small> &#8207;| mu.Tzak <small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will fear  | <span class="ashebrew"><big>תִירָֽא </big></span><small><small><sup>[[H3372G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ti.Ra' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will lift up  |**<big>&#8207;[[H5375Q\|תִּשָּׂ֣א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  |**<big>&#8207;[[H6440N\|פָנֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from blemish  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3971B\|מּ֑וּם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Mum<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיִ֥יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firmly established  |**<big>&#8207;[[H3332J\|מֻ֝צָ֗ק]]&#8207; </big>**| mu.Tzak<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will fear  |**<big>&#8207;[[H3372G\|תִירָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ti.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.14|<< Job 11:14]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.16|Job 11:16 >>]]</td></tr></table>
 
 

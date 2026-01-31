@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Amariah</span> was a priest who sealed Nehemiah's covenant and later served as a chief priest during the high priesthood of Joiakim. \([[Neh.10.3|Neh.10.3]]; 12.2,13\)
 - A priest living at the time of Exile and Return, first mentioned at [[Neh.10.3|Neh.10.3]]; 
-- only referred to as Amariah<[[H0568M]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**.
 
 Amariah is mentioned in the context of the religious reforms and the rebuilding of Jerusalem during the time of Nehemiah. He was among the priests who sealed the covenant that Nehemiah and the people made to follow the Law of God. \(Neh.10.1-29\) 
 
@@ -16,5 +16,5 @@ The mention of Amariah in these contexts highlights the importance of the priest
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568M) <small>*Hebrew*</small> | 3x | [[Neh.10.3] ... [Neh.12.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Neh.10.3;Neh.12.2;Neh.12.13) |
-All Strong's for **Amariah**: \[[[H0568M]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568M) | 3x | [[Neh.10.3] ... [Neh.12.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Neh.10.3;Neh.12.2;Neh.12.13) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוֹרָתָא‎</span></big> **Pôwrâthâʼ** <small>*(po-raw-thaw')*</small> ==**Poratha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פּוֹרָתָא‎</span></big>** **Pôwrâthâʼ** <small>*(po-raw-thaw')*</small> ==**Poratha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Poratha.

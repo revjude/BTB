@@ -7,38 +7,38 @@ Also, thou son of man, [shall it] not [be] in the day when I take from them thei
 And you, son of man, know that on the day I take away their stronghold, their pride and joy—the desire of their eyes which uplifted their souls—and their sons and daughters as well,<small><sub>**MT:**</sub></small>
 [[Ezek.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.24|<< Ezekiel 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.26|Ezekiel 24:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[shall it\] not \[be\] | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| I take | <big><span class="asgreek">λαμβάνω</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| haughtiness | <big><span class="asgreek">έπαρσιν</span></big> <sup><small><small>[[G7371]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their boasting, | <big><span class="asgreek">καυχήσεως</span></big> <sup><small><small>[[G2746]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desirable \[things\] | <big><span class="asgreek">επιθυμήματα</span></big> <sup><small><small>[[G7410]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their eyes, | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| haughtiness | <big><span class="asgreek">έπαρσιν</span></big> <sup><small><small>[[G7371]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their soul, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| their sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their daughters, | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \[shall it\] not \[be\] | **<big>[[G3780\|ουχί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| I take | **<big>[[G2983\|λαμβάνω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their strength | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G3844\|παρ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| haughtiness | **<big>[[G7371\|έπαρσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their boasting, | **<big>[[G2746\|καυχήσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| desirable \[things\] | **<big>[[G7410\|επιθυμήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their eyes, | **<big>[[G3788\|οφθαλμών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| haughtiness | **<big>[[G7371\|έπαρσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their soul, | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| their sons, | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their daughters, | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.24|<< Ezekiel 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.26|Ezekiel 24:26 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶבְיוֹן‎</span></big> **chebyôwn** <small>*(kheb-yone')*</small> ==**hiding**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָבָה‎</span><sup><small>[[H2247]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶבְיוֹן‎</span></big>** **chebyôwn** <small>*(kheb-yone')*</small> ==**hiding**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2247|‎חָבָה‎]]</big>**</small>
 
 $\quad$ hiding.
 - ***a concealment***

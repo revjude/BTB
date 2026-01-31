@@ -9,36 +9,36 @@ For these [things] I weep; mine eye, mine eye runneth down with water, because t
 For these things I weep; my eyes flow with tears. For there is no one nearby to comfort me, no one to revive my soul. My children are destitute because the enemy has prevailed.<small><sub>**MT:**</sub></small>
 [[Lam.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.15|<< Lamentations 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.17|Lamentations 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| these things | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| weep; | <big><span class="asgreek">κλαίω</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| led down | <big><span class="asgreek">κατήγαγεν</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| far | <big><span class="asgreek">εμακρύνθη</span></big> <sup><small><small>[[G8239]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comforting | <big><span class="asgreek">παρακαλών</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| restoring | <big><span class="asgreek">επιστρέφων</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| my soul. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| My | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| obliterated, | <big><span class="asgreek">ηφανισμένοι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| conquered | <big><span class="asgreek">εκραταιώθη</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| ΑΙΝ <sup><small>[acrostic title]</small></sup> |  |
+| Over | **<big>[[G1909\|επί]]</big>** |
+| these things | **<big>[[G3778\|τούτοις]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| weep; | **<big>[[G2799\|κλαίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| led down | **<big>[[G2609\|κατήγαγεν]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| far | **<big>[[G8239\|εμακρύνθη]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| \[is\] the one | **<big>[[G3588\|ο]]</big>** |
+| comforting | **<big>[[G3870\|παρακαλών]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| restoring | **<big>[[G1994\|επιστρέφων]]</big>** |
+| my soul. | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| were | **<big>[[G1096\|εγένοντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| My | **<big>[[G1473\|μου]]</big>** |
+| obliterated, | **<big>[[G0853\|ηφανισμένοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| conquered | **<big>[[G2901\|εκραταιώθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| enemy | **<big>[[G2190\|εχθρός]]</big>** |
 [[Lam.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.15|<< Lamentations 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.17|Lamentations 1:17 >>]]</td></tr></table>
 
 

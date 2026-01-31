@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְלׇפְחָד‎</span></big> **Tsᵉlophchâd** <small>*(tsel-of-chawd')*</small> ==**Zelophehad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎צָלָף‎</span><sup><small>[[H6764]]</small></sup> and <span class="ashebrew">‎אֶחָד‎</span><sup><small>[[H0259]]</small></sup></small>
+**<big><span class="ashebrew">‎צְלׇפְחָד‎</span></big>** **Tsᵉlophchâd** <small>*(tsel-of-chawd')*</small> ==**Zelophehad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H6764|‎צָלָף‎]]</big>** and **<big>[[H0259|‎אֶחָד‎]]</big>**</small>
 
 $\quad$ Zelophehad.
 - § Zelophehad = *"first-born"*

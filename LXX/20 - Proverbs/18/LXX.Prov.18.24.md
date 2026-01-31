@@ -7,18 +7,18 @@ A man [that hath] friends must shew himself friendly: and there is a friend [tha
 A man of many companions may come to ruin, but there is a friend who stays closer than a brother.<small><sub>**MT:**</sub></small>
 [[Prov.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.23|<< Proverbs 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.1|Proverbs 19:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[having\] friends | <big><span class="asgreek">εταίρων</span></big> <sup><small><small>[[G2083]]</small></small></sup> |
-| \[is\] for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| friendship; | <big><span class="asgreek">εταιρίαν</span></big> <sup><small><small>[[G7523]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a friend | <big><span class="asgreek">φίλος</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| cleaving to | <big><span class="asgreek">προσκολληθείς</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| a brother. | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| A man | **<big>[[G0435\|ανήρ]]</big>** |
+| \[having\] friends | **<big>[[G2083\|εταίρων]]</big>** |
+| \[is\] for | **<big>[[G4314\|προς]]</big>** |
+| friendship; | **<big>[[G7523\|εταιρίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| a friend | **<big>[[G5384\|φίλος]]</big>** |
+| cleaving to | **<big>[[G4347\|προσκολληθείς]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| a brother. | **<big>[[G0080\|αδελφόν]]</big>** |
 [[Prov.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.23|<< Proverbs 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.1|Proverbs 19:1 >>]]</td></tr></table>
 
 

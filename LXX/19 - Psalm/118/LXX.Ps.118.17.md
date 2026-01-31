@@ -7,17 +7,17 @@ I shall not die, but live, and declare the works of the LORD.
 I will not die, but I will live and proclaim what the LORD has done.<small><sub>**MT:**</sub></small>
 [[Ps.118.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.16|<< Psalm 118:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.18|Psalm 118:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die, | <big><span class="asgreek">αποθανούμαι</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| I shall live; | <big><span class="asgreek">ζήσομαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall describe | <big><span class="asgreek">διηγήσομαι</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die, | **<big>[[G0599\|αποθανούμαι]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| I shall live; | **<big>[[G2198\|ζήσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall describe | **<big>[[G1334\|διηγήσομαι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ps.118.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.16|<< Psalm 118:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.18|Psalm 118:18 >>]]</td></tr></table>
 
 

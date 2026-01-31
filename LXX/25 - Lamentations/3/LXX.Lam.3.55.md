@@ -9,16 +9,16 @@ I called upon thy name, O LORD, out of the low dungeon.
 I called on Your name, O LORD, out of the depths of the Pit.<small><sub>**MT:**</sub></small>
 [[Lam.3.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.54|<< Lamentations 3:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.56|Lamentations 3:56 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΚΩΦ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΚΩΦ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| I called upon | <big><span class="asgreek">επεκαλεσάμην</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name, | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| pit | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| \[the\] lowermost | <big><span class="asgreek">κατωτάτου</span></big> <sup><small><small>[[G2737]]</small></small></sup> |
+| ΚΩΦ <sup><small>[acrostic title]</small></sup> |  |
+| I called upon | **<big>[[G1941\|επεκαλεσάμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name, | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| pit | **<big>[[G8154\|λάκκου]]</big>** |
+| \[the\] lowermost | **<big>[[G2737\|κατωτάτου]]</big>** |
 [[Lam.3.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.54|<< Lamentations 3:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.56|Lamentations 3:56 >>]]</td></tr></table>
 
 

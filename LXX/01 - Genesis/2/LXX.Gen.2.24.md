@@ -11,28 +11,28 @@ For this reason a man will leave his father and mother and be united to his wife
 > $\quad$ referenced by: [[Matt.19.5|Matt 19:5]] ☩ [[Mark.10.7|Mark 10:7-8]] ☩ [[1Cor.6.16|1Cor 6:16]] ☩ [[1Cor.6.17|1Cor 6:17]] ☩ [[Eph.5.31|Eph 5:31]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall leave | <big><span class="asgreek">καταλείψει</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother, | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall cleave to | <big><span class="asgreek">προσκολληθήσεται</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σάρκα</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| shall leave | **<big>[[G2641\|καταλείψει]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| mother, | **<big>[[G3384\|μητέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall cleave to | **<big>[[G4347\|προσκολληθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his wife, | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| flesh | **<big>[[G4561\|σάρκα]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
 [[Gen.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.23|<< Genesis 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.25|Genesis 2:25 >>]]</td></tr></table>
 
 

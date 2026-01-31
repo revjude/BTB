@@ -7,18 +7,18 @@ Go thee one way or other, [either] on the right hand, [or] on the left, whithers
 Slash to the right; set your blade to the left—wherever your blade is directed.<small><sub>**MT:**</sub></small>
 [[Ezek.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.15|<< Ezekiel 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.17|Ezekiel 21:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sharpen | <big><span class="asgreek">οξύνου</span></big> <sup><small><small>[[G8528]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left! | <big><span class="asgreek">ευωνύμων</span></big> <sup><small><small>[[G2176]]</small></small></sup> |
-| wherever | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should be aroused. | <big><span class="asgreek">εξεγείρηται</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| Sharpen | **<big>[[G8528\|οξύνου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] right | **<big>[[G1188\|δεξιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left! | **<big>[[G2176\|ευωνύμων]]</big>** |
+| wherever | **<big>[[G3739\|ου]]</big>** **<big>[[G0302\|αν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| should be aroused. | **<big>[[G1825\|εξεγείρηται]]</big>** |
 [[Ezek.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.15|<< Ezekiel 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.17|Ezekiel 21:17 >>]]</td></tr></table>
 
 

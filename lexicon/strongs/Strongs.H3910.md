@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לֹט‎</span></big> **lôṭ** <small>*(lote)*</small> ==**myrrh**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎לוּט‎</span><sup><small>[[H3874]]</small></sup></small>
+**<big><span class="ashebrew">‎לֹט‎</span></big>** **lôṭ** <small>*(lote)*</small> ==**myrrh**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H3874|‎לוּט‎]]</big>**</small>
 
 $\quad$ myrrh.
 - ***a gum*** (from its sticky nature), probably ***ladanum***

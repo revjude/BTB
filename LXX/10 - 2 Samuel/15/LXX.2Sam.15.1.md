@@ -10,25 +10,25 @@ And it came to pass after this, that Absalom prepared him chariots and horses, a
 Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him.<small><sub>**MT:**</sub></small>
 [[2Sam.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.33|<< 2 Samuel 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.2|2 Samuel 15:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prepared | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Absalom | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| horsemen, | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to run along | <big><span class="asgreek">παρατρέχειν</span></big> <sup><small><small>[[G8642]]</small></small></sup> |
-| in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| prepared | **<big>[[G4160\|εποίησεν]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| Absalom | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| chariots, | **<big>[[G0716\|άρματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| horsemen, | **<big>[[G2460\|ιππείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| to run along | **<big>[[G8642\|παρατρέχειν]]</big>** |
+| in front of | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.33|<< 2 Samuel 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.2|2 Samuel 15:2 >>]]</td></tr></table>
 
 

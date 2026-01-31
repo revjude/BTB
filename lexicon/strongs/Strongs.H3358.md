@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יַקִּיר‎</span></big> **yaqqîyr** <small>*(yak-keer')*</small> ==**honorable**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יַקִּיר‎</span><sup><small>[[H3357]]</small></sup></small>
+**<big><span class="asaramaic">‎יַקִּיר‎</span></big>** **yaqqîyr** <small>*(yak-keer')*</small> ==**honorable**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3357|‎יַקִּיר‎]]</big>**</small>
 
 $\quad$ noble, rare.
 - {***precious***}
@@ -8,4 +8,4 @@ $\quad$ noble, rare.
 $\quad$ **1a)** honourable
 $\quad$ **1b)** difficult (meton)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπητός</span><sup><small>[[G0027]]</small></sup> · <span class="asgreek">βαρύς</span><sup><small>[[G0926]]</small></sup>
+<small>See Greek: </small>**<big>[[G0027|ἀγαπητός]]</big>** · **<big>[[G0926|βαρύς]]</big>**

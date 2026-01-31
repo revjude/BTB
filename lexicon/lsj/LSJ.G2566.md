@@ -1,4 +1,4 @@
-form of: <small>[[G2570G]]</small> 
+form of: <small>**<big>[[G2570G|καλός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==καλλίον==</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

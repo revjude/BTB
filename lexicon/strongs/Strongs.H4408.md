@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלּוּחַ‎</span></big> **mallûwach** <small>*(mal-loo'-akh)*</small> ==**mallow**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָלַח‎</span><sup><small>[[H4414]]</small></sup></small>
+**<big><span class="ashebrew">‎מַלּוּחַ‎</span></big>** **mallûwach** <small>*(mal-loo'-akh)*</small> ==**mallow**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4414|‎מָלַח‎]]</big>**</small>
 
 $\quad$ mallows.
 - ***sea-purslain*** (from its saltness)

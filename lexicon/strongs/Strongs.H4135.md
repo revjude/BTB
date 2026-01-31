@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מוּל‎</span></big> **mûwl** <small>*(mool)*</small> ==**to circumcise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מוּל‎</span></big>** **mûwl** <small>*(mool)*</small> ==**to circumcise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ circumcise(-ing), selves), cut down (in pieces), destroy, [idiom] must needs.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1c1)** of destruction (fig.)
 $\quad$ **1d)** (Hithpolel) to be cut off
 $\quad$ **1e)** (Polel) cut down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀμύνομαι</span><sup><small>[[G0292]]</small></sup> · <span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">ὅριον</span><sup><small>[[G3725]]</small></sup> · <span class="asgreek">περιτέμνω</span><sup><small>[[G4059]]</small></sup> · <span class="asgreek">περιτομή</span><sup><small>[[G4061]]</small></sup>
+<small>See Greek: </small>**<big>[[G0292|ἀμύνομαι]]</big>** · **<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G3725|ὅριον]]</big>** · **<big>[[G4059|περιτέμνω]]</big>** · **<big>[[G4061|περιτομή]]</big>**

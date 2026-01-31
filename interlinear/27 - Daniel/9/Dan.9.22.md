@@ -10,17 +10,17 @@ He instructed me and spoke with me, saying: “O Daniel, I have come now to give
 > $\quad$ referenced by: [[Rev.20.4|Rev 20:4]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he gave understanding  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֖בֶן </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.ven <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he spoke  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְדַבֵּ֣ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.da.Ber <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with me  | <span class="ashebrew"><big>עִמִּ֑ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'i.M <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַ֕ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Mar <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Daniel  | <span class="ashebrew"><big>דָּנִיֵּ֕אל </big></span><small><small><sup>[[H1840G]]</sup></small></small> &#8207;| da.ni.Yel <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="ashebrew"><big>עַתָּ֥ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have come forth  | <span class="ashebrew"><big>יָצָ֖אתִי </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.Tza.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to give insight you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַשְׂכִּילְ </big></span><small><small><sup>[[H7919A]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> has.ki.le. <small><sup>[[HVhcc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding  | <span class="ashebrew"><big>בִינָֽה </big></span><small><small><sup>[[H0998]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| vi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he gave understanding  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0995\|יָּ֖בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.ven<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  |**<big>&#8207;[[H5973A\|עִמִּ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.M<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֕ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Daniel  |**<big>&#8207;[[H1840G\|דָּנִיֵּ֕אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עַתָּ֥ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have come forth  |**<big>&#8207;[[H3318G\|יָצָ֖אתִי]]&#8207; </big>**| ya.Tza.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give insight you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7919A\|הַשְׂכִּילְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> has.ki.le.<small><sup>[[HVhcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding  |**<big>&#8207;[[H0998\|בִינָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| vi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.21|<< Daniel 9:21]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.23|Daniel 9:23 >>]]</td></tr></table>
 
 

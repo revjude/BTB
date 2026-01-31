@@ -7,17 +7,17 @@ He maketh the barren woman to keep house, [and to be] a joyful mother of childre
 He settles the barren woman in her home as a joyful mother to her children. Hallelujah!<small><sub>**MT:**</sub></small>
 [[Ps.113.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.8|<< Psalm 113:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.1|Psalm 114:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| who settles | <big><span class="asgreek">κατοικίζων</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
-| \[the\] sterile \[woman\] | <big><span class="asgreek">στείραν</span></big> <sup><small><small>[[G4723]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| as a mother | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνοις</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| being glad | <big><span class="asgreek">ευφραινομένην</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| who settles | **<big>[[G6052\|κατοικίζων]]</big>** |
+| \[the\] sterile \[woman\] | **<big>[[G4723\|στείραν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a house | **<big>[[G3624\|οίκω]]</big>** |
+| as a mother | **<big>[[G3384\|μητέρα]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| children | **<big>[[G5043\|τέκνοις]]</big>** |
+| being glad | **<big>[[G2165\|ευφραινομένην]]</big>** |
 [[Ps.113.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.8|<< Psalm 113:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.1|Psalm 114:1 >>]]</td></tr></table>
 
 

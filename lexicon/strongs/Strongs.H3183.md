@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יַחְצְאֵל‎</span></big> **Yachtsᵉʼêl** <small>*(yakh-tseh-ale')*</small> ==**Jahzeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצָה‎</span><sup><small>[[H2673]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God will allot</small>
+**<big><span class="ashebrew">‎יַחְצְאֵל‎</span></big>** **Yachtsᵉʼêl** <small>*(yakh-tseh-ale')*</small> ==**Jahzeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2673|‎חָצָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God will allot</small>
 
-$\quad$ Jahzeel. Compare <span class="ashebrew">‎יַחְצִיאֵל‎</span><sup><small>[[H3185]]</small></sup>.
+$\quad$ Jahzeel. Compare **<big>[[H3185|‎יַחְצִיאֵל‎]]</big>**.
 - § Jahzeel = *"God divides"*
 - ***Jachtseel***, an Israelite
 

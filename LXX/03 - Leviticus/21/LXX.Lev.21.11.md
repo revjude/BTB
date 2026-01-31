@@ -7,21 +7,21 @@ Neither shall he go in to any dead body, nor defile himself for his father, or f
 He must not go near any dead body; he must not defile himself, even for his father or mother.<small><sub>**MT:**</sub></small>
 [[Lev.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.10|<< Leviticus 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.12|Leviticus 21:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| any | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| coming to an end | <big><span class="asgreek">τετελευτηκύια</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his mother | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not be defiled | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μιανθήσεται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| any | **<big>[[G3956\|πάση]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| coming to an end | **<big>[[G5053\|τετελευτηκύια]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| his father | **<big>[[G3962\|πατρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| his mother | **<big>[[G3384\|μητρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall not be defiled | **<big>[[G3756\|ου]]</big>** **<big>[[G3392\|μιανθήσεται]]</big>** |
 [[Lev.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.10|<< Leviticus 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.12|Leviticus 21:12 >>]]</td></tr></table>
 
 

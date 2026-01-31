@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎כָּסָה‎</span></big> **kâçâh** <small>*(kaw-saw')*</small> ==**to cover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּסָה‎</span></big>** **kâçâh** <small>*(kaw-saw')*</small> ==**to cover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ clad self, close, clothe, conceal, cover (self), (flee to) hide, overwhelm. Compare <span class="ashebrew">‎כָּשָׂה‎</span><sup><small>[[H3780]]</small></sup>.
+$\quad$ clad self, close, clothe, conceal, cover (self), (flee to) hide, overwhelm. Compare **<big>[[H3780|‎כָּשָׂה‎]]</big>**.
 - properly, ***to plump***, i.e. ***fill up hollows***
 -  by implication, ***to cover*** (for clothing or secrecy)
 
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1d1)** to be covered
 $\quad$ $\quad$ **1d2)** to be clothed
 $\quad$ **1e)** (Hithpael) to cover oneself, clothe oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναπτύσσω</span><sup><small>[[G0380]]</small></sup> · <span class="asgreek">ἐπικαλύπτω</span><sup><small>[[G1943]]</small></sup> · <span class="asgreek">ἐφίστημι</span><sup><small>[[G2186]]</small></sup> · <span class="asgreek">καλύπτω</span><sup><small>[[G2572]]</small></sup> · <span class="asgreek">κατακαλύπτω</span><sup><small>[[G2619]]</small></sup> · <span class="asgreek">καταφεύγω</span><sup><small>[[G2703]]</small></sup> · <span class="asgreek">κρυπτός</span><sup><small>[[G2927]]</small></sup> · <span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">περιβάλλω</span><sup><small>[[G4016]]</small></sup> · <span class="asgreek">περικαλύπτω</span><sup><small>[[G4028]]</small></sup> · <span class="asgreek">πλατύνω</span><sup><small>[[G4115]]</small></sup>
+<small>See Greek: </small>**<big>[[G0380|ἀναπτύσσω]]</big>** · **<big>[[G1943|ἐπικαλύπτω]]</big>** · **<big>[[G2186|ἐφίστημι]]</big>** · **<big>[[G2572|καλύπτω]]</big>** · **<big>[[G2619|κατακαλύπτω]]</big>** · **<big>[[G2703|καταφεύγω]]</big>** · **<big>[[G2927|κρυπτός]]</big>** · **<big>[[G2928|κρύπτω]]</big>** · **<big>[[G4016|περιβάλλω]]</big>** · **<big>[[G4028|περικαλύπτω]]</big>** · **<big>[[G4115|πλατύνω]]</big>**

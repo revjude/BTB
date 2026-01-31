@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-nimrah</span> \(Nimrah\) was a town allotted to the tribe of Gad, east of the Jordan River, which they built or fortified. \([[Num.32.3|Numbers 32:3]], 36; [[Josh.13.27|Joshua 13:27]]\)
 - A location first mentioned at [[Num.32.36|Num.32.36]]; 
-- referred to as Beth-nimrah<[[H1039]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Nimrah<[[H5247]]> \(<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Beth-nimrah **<big>[[H1039|בֵּית נִמְרָה]]</big>**, or Nimrah **<big>[[H5247|נִמְרָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.900811,35.625693&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ Later, in [[Num.32.36|Numbers 32:36]], Beth-nimrah is mentioned as one of the ci
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-nimrah (NIV= Beth Nimrah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1039) <small>*Hebrew*</small> | 2x | [[Num.32.36] & [Jos.13.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Num.32.36;Jos.13.27) |
-| Nimrah | [<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5247) <small>*Hebrew*</small> | 1x | [Num.32.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nimrah\*\|reference=Num.32.3) |
-All Strong's for **Beth-nimrah or Nimrah**: \[[[H1039]]\] \[[[H5247]]\]
+| Beth-nimrah (NIV= Beth Nimrah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1039) | 2x | [[Num.32.36] & [Jos.13.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Num.32.36;Jos.13.27) |
+| Nimrah | [<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5247) | 1x | [Num.32.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nimrah\*\|reference=Num.32.3) |
+All entries for **Beth-nimrah or Nimrah**:  **<big>[[H1039|בֵּית נִמְרָה]]</big>** ☩  **<big>[[H5247|נִמְרָה]]</big>**

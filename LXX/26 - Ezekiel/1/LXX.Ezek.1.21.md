@@ -7,34 +7,34 @@ When those went, [these] went; and when those stood, [these] stood; and when tho
 When the creatures moved, the wheels moved; when the creatures stood still, the wheels stood still; and when the creatures rose from the ground, the wheels rose alongside them, because the spirit of the living creatures was in the wheels.<small><sub>**MT:**</sub></small>
 [[Ezek.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their going, | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the wheels\] went; | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their standing, | <big><span class="asgreek">εστάναι</span></big> <sup><small><small>[[G2476]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the wheels\] stood; | <big><span class="asgreek">ειστήκεισαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lifting away | <big><span class="asgreek">εξαίρειν</span></big> <sup><small><small>[[G1808]]</small></small></sup> <big><span class="asgreek">αυτα</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the wheels\] lifted away | <big><span class="asgreek">εξήροντο</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wheels. | <big><span class="asgreek">τροχοίς</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their going, | **<big>[[G4198\|πορεύεσθαι]]</big>** **<big>[[G1473\|αυτά]]</big>** |
+| \[the wheels\] went; | **<big>[[G4198\|επορεύοντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their standing, | **<big>[[G2476\|εστάναι]]</big>** **<big>[[G1473\|αυτά]]</big>** |
+| \[the wheels\] stood; | **<big>[[G2476\|ειστήκεισαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their lifting away | **<big>[[G1808\|εξαίρειν]]</big>** **<big>[[G1473\|αυτα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| \[the wheels\] lifted away | **<big>[[G1808\|εξήροντο]]</big>** |
+| with | **<big>[[G4862\|συν]]</big>** |
+| them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| wheels. | **<big>[[G5164\|τροχοίς]]</big>** |
 [[Ezek.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
 
 

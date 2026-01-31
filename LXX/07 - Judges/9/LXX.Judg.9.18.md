@@ -7,40 +7,40 @@ And ye are risen up against my father’s house this day, and have slain his son
 but you have risen up against my father’s house this day and killed his seventy sons on a single stone, and you have made Abimelech, the son of his maidservant, king over the leaders of Shechem because he is your brother—<small><sub>**MT:**</sub></small>
 [[Judg.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.17|<< Judges 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.19|Judges 9:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rose up | <big><span class="asgreek">επανέστητεν</span></big> <sup><small><small>[[G1881]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you killed | <big><span class="asgreek">απεκτείνατε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you gave reign to | <big><span class="asgreek">εβασιλεύσατε</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his maidservant | <big><span class="asgreek">παιδίσκην</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Shechem, | <big><span class="asgreek">Σικήμων</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| your brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| rose up | **<big>[[G1881\|επανέστητεν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you killed | **<big>[[G0615\|απεκτείνατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his sons, | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you gave reign to | **<big>[[G0936\|εβασιλεύσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his maidservant | **<big>[[G3814\|παιδίσκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of Shechem, | **<big>[[G4966\|Σικήμων]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| your brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| he is | **<big>[[G1510\|εστι]]</big>** |
 [[Judg.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.17|<< Judges 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.19|Judges 9:19 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ And he said [unto him], Oh let not the Lord be angry, and I will speak: Peradven
 Then Abraham said, “May the Lord not be angry, but let me speak further. Suppose thirty are found there?” He replied, “If I find thirty there, I will not do it.”<small><sub>**MT:**</sub></small>
 [[Gen.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.29|<< Genesis 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.31|Genesis 18:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Much less, | <big><span class="asgreek">μη τι</span></big> <sup><small><small>[[G3385]]</small></small></sup> |
-| O Lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I may speak, | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| but if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[there\] may be found | <big><span class="asgreek">ευρεθώσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| thirty? | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| No way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| will I destroy | <big><span class="asgreek">απολέσω</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thirty. | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Much less, | **<big>[[G3385\|μη τι]]</big>** |
+| O Lord, | **<big>[[G2962\|κύριε]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| I may speak, | **<big>[[G2980\|λαλήσω]]</big>** |
+| but if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[there\] may be found | **<big>[[G2147\|ευρεθώσιν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| thirty? | **<big>[[G5144\|τριάκοντα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| No way | **<big>[[G3364\|ου μη]]</big>** |
+| will I destroy | **<big>[[G0622\|απολέσω]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| thirty. | **<big>[[G5144\|τριάκοντα]]</big>** |
 [[Gen.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.29|<< Genesis 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.31|Genesis 18:31 >>]]</td></tr></table>
 
 

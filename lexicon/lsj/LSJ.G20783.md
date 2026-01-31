@@ -1,4 +1,4 @@
-form of: <small>[[G8368]]</small> 
+form of: <small>**<big>[[G8368|μυσαρός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μυσερός==</span></b>, <span class='asgreek'>ά</span>, <span class='asgreek'>όν</span>, 

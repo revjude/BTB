@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִפֹּרֶן‎</span></big> **tsippôren** <small>*(tsip-po'-ren)*</small> ==**fingernail**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָפַר‎</span><sup><small>[[H6852]]</small></sup> (in the denominative sense (from <span class="ashebrew">‎צִפּוֹר‎</span><sup><small>[[H6833]]</small></sup>) of scratching)</small>
+**<big><span class="ashebrew">‎צִפֹּרֶן‎</span></big>** **tsippôren** <small>*(tsip-po'-ren)*</small> ==**fingernail**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6852|‎צָפַר‎]]</big>** (in the denominative sense (from **<big>[[H6833|‎צִפּוֹר‎]]</big>**) of scratching)</small>
 
 $\quad$ nail, point.
 - properly, ***a claw***, i.e. (human) ***nail***

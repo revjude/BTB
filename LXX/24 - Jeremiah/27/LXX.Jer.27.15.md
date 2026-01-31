@@ -7,34 +7,34 @@ For I have not sent them, saith the LORD, yet they prophesy a lie in my name; th
 For I have not sent them, declares the LORD, and yet they are prophesying falsely in My name; therefore I will banish you, and you will perish—you and the prophets who prophesy to you.”<small><sub>**MT:**</sub></small>
 [[Jer.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.14|<< Jeremiah 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.16|Jeremiah 27:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| send | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">φησι</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they prophesy | <big><span class="asgreek">προφητεύουσι</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| unjustly | <big><span class="asgreek">αδίκω</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| destroying | <big><span class="asgreek">απολέσαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall perish, | <big><span class="asgreek">απολείσθε</span></big> <sup><small><small>[[G0622]]</small></small></sup> <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your prophets, | <big><span class="asgreek">προφήται</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητεύοντες</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| an unjust | <big><span class="asgreek">αδίκω</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| lie. | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| send | **<big>[[G0649\|απέστειλα]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| says | **<big>[[G5346\|φησι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they prophesy | **<big>[[G4395\|προφητεύουσι]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my name | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+|  | **<big>[[G1909\|επ΄]]</big>** |
+| unjustly | **<big>[[G0094\|αδίκω]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| destroying | **<big>[[G0622\|απολέσαι]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall perish, | **<big>[[G0622\|απολείσθε]]</big>** **<big>[[G1473\|υμείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your prophets, | **<big>[[G4396\|προφήται]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| prophesying | **<big>[[G4395\|προφητεύοντες]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| an unjust | **<big>[[G0094\|αδίκω]]</big>** |
+| lie. | **<big>[[G5571\|ψευδή]]</big>** |
 [[Jer.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.14|<< Jeremiah 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.16|Jeremiah 27:16 >>]]</td></tr></table>
 
 

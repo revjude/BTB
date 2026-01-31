@@ -6,14 +6,14 @@ May you be blessed by the LORD, the Maker of heaven and earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.14|<< Psalms 115:14]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.16|Psalms 115:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [be] blessed  | <span class="ashebrew"><big>בְּרוּכִ֣ים </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| be.ru.Khim <small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֭תֶּם </big></span><small><small><sup>[[H0859D]]</sup></small></small> &#8207;| 'A.tem <small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] maker of  | <span class="ashebrew"><big>עֹ֝שֵׂ֗ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heaven  | <span class="ashebrew"><big>שָׁמַ֥יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and earth  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] blessed  |**<big>&#8207;[[H1288\|בְּרוּכִ֣ים]]&#8207; </big>**| be.ru.Khim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859D\|אַ֭תֶּם]]&#8207; </big>**| 'A.tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] maker of  |**<big>&#8207;[[H6213H\|עֹ֝שֵׂ֗ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  |**<big>&#8207;[[H8064\|שָׁמַ֥יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and earth  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.14|<< Psalms 115:14]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.16|Psalms 115:16 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ And ye shall know that I [am] the LORD: for ye have not walked in my statutes, n
 Then you will know that I am the LORD. For you have neither followed My statutes nor practiced My ordinances, but you have conformed to the ordinances of the nations around you.”<small><sub>**MT:**</sub></small>
 [[Ezek.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.11|<< Ezekiel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.13|Ezekiel 11:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| I will judge | <big><span class="asgreek">κρινώ</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know, | <big><span class="asgreek">επιγνώσεσθε</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandments | <big><span class="asgreek">εντολαίς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you did not go | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my judgments | <big><span class="asgreek">κρίματά</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you went not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| around | <big><span class="asgreek">περικύκλω</span></big> <sup><small><small>[[G8735]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you went. | <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| Unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| borders | **<big>[[G3725\|ορίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| I will judge | **<big>[[G2919\|κρινώ]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall know, | **<big>[[G1921\|επιγνώσεσθε]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| my commandments | **<big>[[G1785\|εντολαίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you did not go | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4198\|επορεύθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of my judgments | **<big>[[G2917\|κρίματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you went not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4160\|εποιήσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| judgments | **<big>[[G2917\|κρίματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations, | **<big>[[G1484\|εθνών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| around | **<big>[[G8735\|περικύκλω]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| you went. | **<big>[[G4160\|εποιήσατε]]</big>** |
 [[Ezek.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.11|<< Ezekiel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.13|Ezekiel 11:13 >>]]</td></tr></table>
 
 

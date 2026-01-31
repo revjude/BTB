@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁמְלַי‎</span></big> **Shamlay** <small>*(sham-lah'-ee)*</small> ==**Shamlai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎שַׂלְמַי‎</span><sup><small>[[H8014]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁמְלַי‎</span></big>** **Shamlay** <small>*(sham-lah'-ee)*</small> ==**Shamlai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H8014|‎שַׂלְמַי‎]]</big>**</small>
 
 $\quad$ Shalmai (from the margin).
 - § Shalmai = *"my garments"*

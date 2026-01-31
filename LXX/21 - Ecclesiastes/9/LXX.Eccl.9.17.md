@@ -7,18 +7,18 @@ The words of wise [men are] heard in quiet more than the cry of him that ruleth 
 The calm words of the wise are heeded over the shouts of a ruler among fools.<small><sub>**MT:**</sub></small>
 [[Eccl.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.16|<< Ecclesiastes 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.18|Ecclesiastes 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] wise | <big><span class="asgreek">σοφών</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| being | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| at rest | <big><span class="asgreek">αναπαύσει</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| are heard | <big><span class="asgreek">ακούονται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| a cry | <big><span class="asgreek">κραυγήν</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| of ones being in authority | <big><span class="asgreek">εξουσιαζόντων</span></big> <sup><small><small>[[G1850]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| follies. | <big><span class="asgreek">αφροσύναις</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
+| Words | **<big>[[G3056\|λόγοι]]</big>** |
+| of \[the\] wise | **<big>[[G4680\|σοφών]]</big>** |
+| being | **<big>[[G1722\|εν]]</big>** |
+| at rest | **<big>[[G0372\|αναπαύσει]]</big>** |
+| are heard | **<big>[[G0191\|ακούονται]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| a cry | **<big>[[G2906\|κραυγήν]]</big>** |
+| of ones being in authority | **<big>[[G1850\|εξουσιαζόντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| follies. | **<big>[[G0877\|αφροσύναις]]</big>** |
 [[Eccl.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.16|<< Ecclesiastes 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.18|Ecclesiastes 9:18 >>]]</td></tr></table>
 
 

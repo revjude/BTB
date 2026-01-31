@@ -7,37 +7,37 @@ The cloths of service, to do service in the holy [place], the holy garments for 
 and the woven garments for ministering in the holy place—both the holy garments for Aaron the priest and the garments for his sons to serve as priests.”<small><sub>**MT:**</sub></small>
 [[Exod.35.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.18|<< Exodus 35:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.20|Exodus 35:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparels | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they officiate | <big><span class="asgreek">λειτουργούσιν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place, | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner garments | <big><span class="asgreek">χιτώνας</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priesthood, | <big><span class="asgreek">ιερατείας</span></big> <sup><small><small>[[G2405]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anointing, | <big><span class="asgreek">χρίσματος</span></big> <sup><small><small>[[G5545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| incense | <big><span class="asgreek">θυμίαμα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| composition. | <big><span class="asgreek">συνθέσεως</span></big> <sup><small><small>[[G9324]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| apparels | **<big>[[G4749\|στολάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| they officiate | **<big>[[G3008\|λειτουργούσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυταίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| holy place, | **<big>[[G0039\|αγίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| inner garments | **<big>[[G5509\|χιτώνας]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| priesthood, | **<big>[[G2405\|ιερατείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oil | **<big>[[G1637\|έλαιον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| anointing, | **<big>[[G5545\|χρίσματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| incense | **<big>[[G2368\|θυμίαμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| composition. | **<big>[[G9324\|συνθέσεως]]</big>** |
 [[Exod.35.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.18|<< Exodus 35:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.20|Exodus 35:20 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָנוֹחַ‎</span></big> **Yânôwach** <small>*(yaw-no'-akh or (with enclitic) Yanowchah yaw-no'-khaw)*</small> ==**Janoah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָנַח‎</span><sup><small>[[H3240]]</small></sup>; quiet</small>
+**<big><span class="ashebrew">‎יָנוֹחַ‎</span></big>** **Yânôwach** <small>*(yaw-no'-akh or (with enclitic) Yanowchah yaw-no'-khaw)*</small> ==**Janoah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3240|‎יָנַח‎]]</big>**; quiet</small>
 
 $\quad$ Janoah, Janohah.
 - § Janoah or Janohah = *"He rests"*

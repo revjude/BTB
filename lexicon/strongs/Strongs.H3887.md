@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לוּץ‎</span></big> **lûwts** <small>*(loots)*</small> ==**to mock**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לוּץ‎</span></big>** **lûwts** <small>*(loots)*</small> ==**to mock**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ ambassador, have in derision, interpreter, make a mock, mocker, scorn(-er, -ful), teacher.
@@ -16,4 +16,4 @@ $\quad$ $\quad$ $\quad$ **1b2a)** interpreter (participle)
 $\quad$ $\quad$ $\quad$ **1b2b)** ambassador (fig.)
 $\quad$ **1c)** (Hithpalpel) to be inflated, scoff, act as a scorner, show oneself a mocker
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλαζών</span><sup><small>[[G0213]]</small></sup> · <span class="asgreek">ἀντιτάσσομαι</span><sup><small>[[G0498]]</small></sup> · <span class="asgreek">ἀπαίδευτος</span><sup><small>[[G0521]]</small></sup> · <span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">ἄφρων</span><sup><small>[[G0878]]</small></sup> · <span class="asgreek">ἑρμηνεύω</span><sup><small>[[G2059]]</small></sup> · <span class="asgreek">κακός</span><sup><small>[[G2556]]</small></sup> · <span class="asgreek">λοιμός</span><sup><small>[[G3061]]</small></sup> · <span class="asgreek">παρανομέω</span><sup><small>[[G3891]]</small></sup> · <span class="asgreek">πρεσβύτης</span><sup><small>[[G4246]]</small></sup> · <span class="asgreek">ὑπερήφανος</span><sup><small>[[G5244]]</small></sup>
+<small>See Greek: </small>**<big>[[G0213|ἀλαζών]]</big>** · **<big>[[G0498|ἀντιτάσσομαι]]</big>** · **<big>[[G0521|ἀπαίδευτος]]</big>** · **<big>[[G0758|ἄρχων]]</big>** · **<big>[[G0878|ἄφρων]]</big>** · **<big>[[G2059|ἑρμηνεύω]]</big>** · **<big>[[G2556|κακός]]</big>** · **<big>[[G3061|λοιμός]]</big>** · **<big>[[G3891|παρανομέω]]</big>** · **<big>[[G4246|πρεσβύτης]]</big>** · **<big>[[G5244|ὑπερήφανος]]</big>**

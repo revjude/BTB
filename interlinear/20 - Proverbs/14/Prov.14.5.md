@@ -6,16 +6,16 @@ An honest witness does not deceive, but a dishonest witness pours forth lies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.4|<< Proverbs 14:4]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.6|Proverbs 14:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a witness of  | <span class="ashebrew"><big>עֵ֣ד </big></span><small><small><sup>[[H5707]]</sup></small></small> &#8207;| 'ed <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness\<es>  | <span class="ashebrew"><big>אֱ֭מוּנִים </big></span><small><small><sup>[[H0529]]</sup></small></small> &#8207;| 'E.mu.nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he tells lies  | <span class="ashebrew"><big>יְכַזֵּ֑ב </big></span><small><small><sup>[[H3576]]</sup></small></small> &#8207;| ye.kha.Zev <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he may breathe out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָפִ֥יחַ </big></span><small><small><sup>[[H6315]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Fi.ach <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lies  | <span class="ashebrew"><big>כְּ֝זָבִ֗ים </big></span><small><small><sup>[[H3577]]</sup></small></small> &#8207;| ke.za.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a witness of  | <span class="ashebrew"><big>עֵ֣ד </big></span><small><small><sup>[[H5707]]</sup></small></small> &#8207;| 'ed <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שָֽׁקֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a witness of  |**<big>&#8207;[[H5707\|עֵ֣ד]]&#8207; </big>**| 'ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness\<es>  |**<big>&#8207;[[H0529\|אֱ֭מוּנִים]]&#8207; </big>**| 'E.mu.nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he tells lies  |**<big>&#8207;[[H3576\|יְכַזֵּ֑ב]]&#8207; </big>**| ye.kha.Zev<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may breathe out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6315\|יָפִ֥יחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Fi.ach<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lies  |**<big>&#8207;[[H3577\|כְּ֝זָבִ֗ים]]&#8207; </big>**| ke.za.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a witness of  |**<big>&#8207;[[H5707\|עֵ֣ד]]&#8207; </big>**| 'ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שָֽׁקֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.4|<< Proverbs 14:4]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.6|Proverbs 14:6 >>]]</td></tr></table>
 
 

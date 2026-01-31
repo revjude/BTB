@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טַרְפְּלַי‎</span></big> **Ṭarpᵉlay** <small>*(tar-pel-ah'-ee)*</small> ==**officials**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎טַרְפְּלַי‎</span></big>** **Ṭarpᵉlay** <small>*(tar-pel-ah'-ee)*</small> ==**officials**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>(Aramaic) from a name of foreign derivation</small>
 
 $\quad$ Tarpelites. y

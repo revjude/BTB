@@ -11,28 +11,28 @@ But first I will tell you what is inscribed in the Book of Truth. Yet no one has
 > $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| I will announce | <big><span class="asgreek">αναγγελώ</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arranging | <big><span class="asgreek">εντεταγμένον</span></big> <sup><small><small>[[G7262]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] writing | <big><span class="asgreek">γραφή</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
-| of truth. | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| holding | <big><span class="asgreek">αντεχόμενος</span></big> <sup><small><small>[[G0472]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| except | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| Michael | <big><span class="asgreek">Μιχαήλ</span></big> <sup><small><small>[[G3413]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ruler. | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| I will announce | **<big>[[G0312\|αναγγελώ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| arranging | **<big>[[G7262\|εντεταγμένον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] writing | **<big>[[G1124\|γραφή]]</big>** |
+| of truth. | **<big>[[G0225\|αληθείας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| holding | **<big>[[G0472\|αντεχόμενος]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| these \[things\], | **<big>[[G3778\|τούτων]]</big>** |
+| except | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| Michael | **<big>[[G3413\|Μιχαήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your ruler. | **<big>[[G0758\|άρχων]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Dan.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.20|<< Daniel 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.1|Daniel 11:1 >>]]</td></tr></table>
 
 

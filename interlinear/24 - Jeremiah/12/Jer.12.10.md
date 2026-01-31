@@ -6,21 +6,21 @@ Many shepherds have destroyed My vineyard; they have trampled My plot of ground.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.9|<< Jeremiah 12:9]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.11|Jeremiah 12:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| shepherds  | <span class="ashebrew"><big>רֹעִ֤ים </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| ro.'Im <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּים֙ </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have ruined  | <span class="ashebrew"><big>שִֽׁחֲת֣וּ </big></span><small><small><sup>[[H7843]]</sup></small></small> &#8207;| shi.cha.Tu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vineyard my  | <span class="ashebrew"><big>כַרְמִ֔ </big></span><small><small><sup>[[H3754]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| khar.M <small><sup>[[HNcbsc]]</sup></small> i <small><sup>[[HSp1ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have trodden down  | <span class="ashebrew"><big>בֹּסְס֖וּ </big></span><small><small><sup>[[H0947]]</sup></small></small> &#8207;| bo.se.Su <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| portion my  | <span class="ashebrew"><big>חֶלְקָתִ֑ </big></span><small><small><sup>[[H2513A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| chel.ka.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have made  | <span class="ashebrew"><big>נָֽתְנ֛וּ </big></span><small><small><sup>[[H5414I]]</sup></small></small> &#8207;| na.te.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] portion of  | <span class="ashebrew"><big>חֶלְקַ֥ת </big></span><small><small><sup>[[H2513A]]</sup></small></small> &#8207;| chel.Kat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desire my  | <span class="ashebrew"><big>חֶמְדָּתִ֖ </big></span><small><small><sup>[[H2532A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| chem.da.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into a wilderness of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מִדְבַּ֥ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mid.Bar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desolation  | <span class="ashebrew"><big>שְׁמָמָֽה </big></span><small><small><sup>[[H8077A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.ma.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shepherds  |**<big>&#8207;[[H7462B\|רֹעִ֤ים]]&#8207; </big>**| ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּים֙]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have ruined  |**<big>&#8207;[[H7843\|שִֽׁחֲת֣וּ]]&#8207; </big>**| shi.cha.Tu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyard my  |**<big>&#8207;[[H3754\|כַרְמִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| khar.M<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have trodden down  |**<big>&#8207;[[H0947\|בֹּסְס֖וּ]]&#8207; </big>**| bo.se.Su<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| portion my  |**<big>&#8207;[[H2513A\|חֶלְקָתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| chel.ka.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have made  |**<big>&#8207;[[H5414I\|נָֽתְנ֛וּ]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] portion of  |**<big>&#8207;[[H2513A\|חֶלְקַ֥ת]]&#8207; </big>**| chel.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desire my  |**<big>&#8207;[[H2532A\|חֶמְדָּתִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| chem.da.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into a wilderness of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4057B\|מִדְבַּ֥ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desolation  |**<big>&#8207;[[H8077A\|שְׁמָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.9|<< Jeremiah 12:9]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.11|Jeremiah 12:11 >>]]</td></tr></table>
 
 

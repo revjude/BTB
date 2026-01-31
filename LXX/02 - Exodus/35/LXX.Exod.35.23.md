@@ -7,36 +7,36 @@ And every man, with whom was found blue, and purple, and scarlet, and fine linen
 Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them.<small><sub>**MT:**</sub></small>
 [[Exod.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.22|<< Exodus 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.24|Exodus 35:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| choice-portions | <big><span class="asgreek">αφαιρέματα</span></big> <sup><small><small>[[G6616]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of blue, | <big><span class="asgreek">υάκινθος</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύρα</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| linen, | <big><span class="asgreek">βύσσος</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| skins | <big><span class="asgreek">δέρματα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| of rams | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| being dyed red, | <big><span class="asgreek">ηρυθροδανωμένα</span></big> <sup><small><small>[[G7510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| skins | <big><span class="asgreek">δέρματα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| of blue -- | <big><span class="asgreek">υακίνθινα</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
-| they brought. | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| as many as | **<big>[[G3745\|όσοι]]</big>** |
+| brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| choice-portions | **<big>[[G6616\|αφαιρέματα]]</big>** |
+| of gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| was found | **<big>[[G2147\|ευρέθη]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| them | **<big>[[G1473\|αυτώ]]</big>** |
+| of blue, | **<big>[[G5192\|υάκινθος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purple, | **<big>[[G4209\|πορφύρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scarlet, | **<big>[[G2847\|κόκκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| linen, | **<big>[[G1040\|βύσσος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| skins | **<big>[[G1192\|δέρματα]]</big>** |
+| of rams | **<big>[[G8096\|κριών]]</big>** |
+| being dyed red, | **<big>[[G7510\|ηρυθροδανωμένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| skins | **<big>[[G1192\|δέρματα]]</big>** |
+| of blue -- | **<big>[[G5191\|υακίνθινα]]</big>** |
+| they brought. | **<big>[[G5342\|ήνεγκαν]]</big>** |
 [[Exod.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.22|<< Exodus 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.24|Exodus 35:24 >>]]</td></tr></table>
 
 

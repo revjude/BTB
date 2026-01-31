@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִרְמָה‎</span></big> **zirmâh** <small>*(zir-maw')*</small> ==**discharge**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎זֶרֶם‎</span><sup><small>[[H2230]]</small></sup></small>
+**<big><span class="ashebrew">‎זִרְמָה‎</span></big>** **zirmâh** <small>*(zir-maw')*</small> ==**discharge**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2230|‎זֶרֶם‎]]</big>**</small>
 
 $\quad$ issue.
 - ***a gushing of fluid*** (semen)

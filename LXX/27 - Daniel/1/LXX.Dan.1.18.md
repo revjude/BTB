@@ -10,25 +10,25 @@ Now at the end of the days that the king had said he should bring them in, then 
 Now at the end of the time specified by the king, the chief official presented them to Nebuchadnezzar.<small><sub>**MT:**</sub></small>
 [[Dan.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.17|<< Daniel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.19|Daniel 1:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| end | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| told | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to bring them in, | <big><span class="asgreek">εισαγαγείν</span></big> <sup><small><small>[[G1521]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brought them in | <big><span class="asgreek">εισήγαγεν</span></big> <sup><small><small>[[G1521]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief eunuch | <big><span class="asgreek">αρχιευνούχος</span></big> <sup><small><small>[[G6553]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Nebuchadnezzar. | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| end | **<big>[[G5056\|τέλος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| told | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to bring them in, | **<big>[[G1521\|εισαγαγείν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| brought them in | **<big>[[G1521\|εισήγαγεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief eunuch | **<big>[[G6553\|αρχιευνούχος]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| Nebuchadnezzar. | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
 [[Dan.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.17|<< Daniel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.19|Daniel 1:19 >>]]</td></tr></table>
 
 

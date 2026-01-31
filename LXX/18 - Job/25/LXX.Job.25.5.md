@@ -7,19 +7,19 @@ Behold even to the moon, and it shineth not; yea, the stars are not pure in his 
 If even the moon does not shine, and the stars are not pure in His sight,<small><sub>**MT:**</sub></small>
 [[Job.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.4|<< Job 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.6|Job 25:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| \[the\] moon | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| he should order | <big><span class="asgreek">συντάσσει</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shine; | <big><span class="asgreek">επιφαύσκει</span></big> <sup><small><small>[[G2017]]</small></small></sup> |
-| and \[the\] stars | <big><span class="asgreek">άστρα</span></big> <sup><small><small>[[G0798]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[are\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pure | <big><span class="asgreek">καθαρά</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+| \[the\] moon | **<big>[[G4582\|σελήνη]]</big>** |
+| he should order | **<big>[[G4929\|συντάσσει]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| it does not | **<big>[[G3756\|ουκ]]</big>** |
+| shine; | **<big>[[G2017\|επιφαύσκει]]</big>** |
+| and \[the\] stars | **<big>[[G0798\|άστρα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[are\] not | **<big>[[G3756\|ου]]</big>** |
+| pure | **<big>[[G2513\|καθαρά]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Job.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.4|<< Job 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.6|Job 25:6 >>]]</td></tr></table>
 
 

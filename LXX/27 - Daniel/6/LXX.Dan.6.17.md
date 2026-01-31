@@ -7,39 +7,39 @@ And a stone was brought, and laid upon the mouth of the den; and the king sealed
 A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that nothing concerning Daniel could be changed.<small><sub>**MT:**</sub></small>
 [[Dan.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.16|<< Daniel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.18|Daniel 6:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they placed \[it\] | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pit, | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set seal on it | <big><span class="asgreek">εσφραγίσατο</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ring, | <big><span class="asgreek">δακτυλίω</span></big> <sup><small><small>[[G1146]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ring | <big><span class="asgreek">δακτυλίω</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his great men; | <big><span class="asgreek">μεγιστάνων</span></big> <sup><small><small>[[G3175]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be changed | <big><span class="asgreek">αλλοιωθή</span></big> <sup><small><small>[[G6231]]</small></small></sup> |
-| \[the\] thing | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| with \[regard\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Daniel. | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they placed \[it\] | **<big>[[G2007\|επέθηκαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| pit, | **<big>[[G8154\|λάκκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| set seal on it | **<big>[[G4972\|εσφραγίσατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his ring, | **<big>[[G1146\|δακτυλίω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| ring | **<big>[[G1146\|δακτυλίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his great men; | **<big>[[G3175\|μεγιστάνων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be changed | **<big>[[G6231\|αλλοιωθή]]</big>** |
+| \[the\] thing | **<big>[[G4229\|πράγμα]]</big>** |
+| with \[regard\] | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Daniel. | **<big>[[G1158\|Δανιήλ]]</big>** |
 [[Dan.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.16|<< Daniel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.18|Daniel 6:18 >>]]</td></tr></table>
 
 

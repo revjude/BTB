@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוּחַ‎</span></big> **pûwach** <small>*(poo'akh)*</small> ==**to breathe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פּוּחַ‎</span></big>** **pûwach** <small>*(poo'akh)*</small> ==**to breathe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ blow (upon), break, puff, bring into a snare, speak, utter.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b4)** to puff, pant for it
 $\quad$ $\quad$ **1b5)** to breathe out, utter
 $\quad$ $\quad$ **1b6)** to blow, blast
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνατέλλω</span><sup><small>[[G0393]]</small></sup> · <span class="asgreek">ἐγκαλέω</span><sup><small>[[G1458]]</small></sup> · <span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">ἐμφυσάω</span><sup><small>[[G1720]]</small></sup> · <span class="asgreek">ἐπιδείκνυμι</span><sup><small>[[G1925]]</small></sup> · <span class="asgreek">κατακυριεύω</span><sup><small>[[G2634]]</small></sup>
+<small>See Greek: </small>**<big>[[G0393|ἀνατέλλω]]</big>** · **<big>[[G1458|ἐγκαλέω]]</big>** · **<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G1720|ἐμφυσάω]]</big>** · **<big>[[G1925|ἐπιδείκνυμι]]</big>** · **<big>[[G2634|κατακυριεύω]]</big>**

@@ -1,8 +1,8 @@
 <small>*Hali • A town allotted to the tribe of Asher.*</small>
 
 <span class='tipnrhighlight'>Hali</span> was a town allotted to the tribe of Asher \([[Josh.19.25|Joshua 19:25]]\).
-- A location near Beten<[[H0991]]> only mentioned at [[Josh.19.25|Jos.19.25]]; 
-- only referred to as Hali<[[H2482]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- A location near Beten **<big>[[H0991|בֶּטֶן]]</big>** only mentioned at [[Josh.19.25|Jos.19.25]]; 
+- only referred to as Hali **<big>[[H2482|חֲלִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.934736,35.270799&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hali was a town mentioned in the list of cities and towns allotted to the tribe 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hali | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H2482) <small>*Hebrew*</small> | 1x | [Jos.19.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hali\*\|reference=Jos.19.25) |
-All Strong's for **Hali**: \[[[H2482]]\]
+| Hali | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H2482) | 1x | [Jos.19.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hali\*\|reference=Jos.19.25) |
+All entries for **Hali**:  **<big>[[H2482|חֲלִי]]</big>**

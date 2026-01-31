@@ -6,19 +6,19 @@ My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.8|<< Psalms 88:8]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.10|Psalms 88:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| eye my  | <span class="ashebrew"><big>עֵינִ֥ </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'ei.N <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is faint  | <span class="ashebrew"><big>דָאֲבָ֗ה </big></span><small><small><sup>[[H1669]]</sup></small></small> &#8207;| da.'a.Vah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִנִּ֫י </big></span><small><small><sup>[[H4480A]]</sup></small></small> &#8207;| mi.Ni <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| affliction  | <span class="ashebrew"><big>עֹ֥נִי </big></span><small><small><sup>[[H6040]]</sup></small></small> &#8207;| 'O.ni <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have called out to you  | <span class="ashebrew"><big>קְרָאתִ֣י </big></span><small><small><sup>[[H7121G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ke.ra.Ti. <small><sup>[[HVqp1cs]]</sup></small> cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on every  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| day  | <span class="ashebrew"><big>י֑וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have spread out  | <span class="ashebrew"><big>שִׁטַּ֖חְתִּי </big></span><small><small><sup>[[H7849]]</sup></small></small> &#8207;| shi.Tach.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>אֵלֶ֣י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'e.Lei. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands my  | <span class="ashebrew"><big>כַפָּֽ </big></span><small><small><sup>[[H3709G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kha.Pa <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye my  |**<big>&#8207;[[H5869A\|עֵינִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is faint  |**<big>&#8207;[[H1669\|דָאֲבָ֗ה]]&#8207; </big>**| da.'a.Vah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִנִּ֫י]]&#8207; </big>**| mi.Ni<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| affliction  |**<big>&#8207;[[H6040\|עֹ֥נִי]]&#8207; </big>**| 'O.ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have called out to you  |**<big>&#8207;[[H7121G\|קְרָאתִ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ke.ra.Ti.<small><sup>[[HVqp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on every  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day  |**<big>&#8207;[[H3117G\|י֑וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have spread out  |**<big>&#8207;[[H7849\|שִׁטַּ֖חְתִּי]]&#8207; </big>**| shi.Tach.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H0413\|אֵלֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands my  |**<big>&#8207;[[H3709G\|כַפָּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kha.Pa<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.8|<< Psalms 88:8]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.10|Psalms 88:10 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-spelling of: <small>[[G5489]]</small> 
+spelling of: <small>**<big>[[G5489|χάρτης]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==χαρτηρία==</span>-<span class='asgreek'>ηρία</span></b>, <span class='asgreek'>ἡ</span>, 

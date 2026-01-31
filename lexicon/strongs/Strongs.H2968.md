@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָאַב‎</span></big> **yâʼab** <small>*(yaw-ab')*</small> ==**to long**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָאַב‎</span></big>** **yâʼab** <small>*(yaw-ab')*</small> ==**to long**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ long.
@@ -6,4 +6,4 @@ $\quad$ long.
 
 **1)** (Qal) to long, long for, desire
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιποθέω</span><sup><small>[[G1971]]</small></sup>
+<small>See Greek: </small>**<big>[[G1971|ἐπιποθέω]]</big>**

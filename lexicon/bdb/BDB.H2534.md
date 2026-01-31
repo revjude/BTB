@@ -1,7 +1,7 @@
-<small>Aramaic form: [[H3179]]</small>
+<small>Aramaic form: **<big>[[H3179|יָחַם]]</big>**</small>
  <span class="bdbLangHebrew">‎חֵמָא‎</span> see  <span class="bdbLangHebrew">‎חֵמָה‎</span> below <span class="bdbLangHebrew">‎יחם‎</span>. 
 
-<small>Also see: [[H2529]] | [[H2552]]</small>
+<small>Also see: **<big>[[H2529|חֶמְאָה]]</big>** | **<big>[[H2552|חָמַם]]</big>**</small>
 
  <span class="bdbLangHebrew">‎חֵמָה‎</span> ***wrath***, see below <span class="bdbLangHebrew">‎יחם‎</span>; <span class="bdbLangHebrew">‎חֵמָה‎</span> [[Job.29.6|Job 29:6]], see  <span class="bdbLangHebrew">‎חֶמְאָה‎</span>; <span class="bdbLangHebrew">‎חַמָּה‎</span>, <span class="bdbLangHebrew">‎חַמָּן‎</span>, <span class="bdbLangHebrew">‎חַמּוֺן‎</span>, <span class="bdbLangHebrew">‎חַמַּת‎</span> see below <span class="bdbLangHebrew">‎חמם‎</span>. below 
 

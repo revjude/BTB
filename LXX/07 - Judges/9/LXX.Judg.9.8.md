@@ -7,24 +7,24 @@ The trees went forth [on a time] to anoint a king over them; and they said unto 
 One day the trees set out to anoint a king for themselves. They said to the olive tree, ‘Reign over us.’<small><sub>**MT:**</sub></small>
 [[Judg.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.7|<< Judges 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.9|Judges 9:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In going, | <big><span class="asgreek">πορευόμενα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| went forth | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to anoint | <big><span class="asgreek">χρίσαι</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive tree, | <big><span class="asgreek">ελαία</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| You reign | <big><span class="asgreek">βασίλευσον</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us! | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In going, | **<big>[[G4198\|πορευόμενα]]</big>** |
+| went forth | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees | **<big>[[G3586\|ξύλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to anoint | **<big>[[G5548\|χρίσαι]]</big>** |
+| for | **<big>[[G1909\|επ΄]]</big>** |
+| themselves | **<big>[[G1438\|αυτών]]</big>** |
+| a king. | **<big>[[G0935\|βασιλέα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπαν]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| olive tree, | **<big>[[G1636\|ελαία]]</big>** |
+| You reign | **<big>[[G0936\|βασίλευσον]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| us! | **<big>[[G1473\|ημών]]</big>** |
 [[Judg.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.7|<< Judges 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.9|Judges 9:9 >>]]</td></tr></table>
 
 

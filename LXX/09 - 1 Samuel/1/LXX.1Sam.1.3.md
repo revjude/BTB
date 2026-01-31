@@ -7,44 +7,44 @@ And this man went up out of his city yearly to worship and to sacrifice unto the
 Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD.<small><sub>**MT:**</sub></small>
 [[1Sam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.2|<< 1 Samuel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.4|1 Samuel 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβαινεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| that | <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Ramathaim | <big><span class="asgreek">Αρμαθαϊμ</span></big> <sup><small><small>[[H3117]]</small></small></sup> |
-| to do obeisance | <big><span class="asgreek">προσκυνείν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to sacrifice | <big><span class="asgreek">θύειν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">Σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shiloh. | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Eli | <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hophni | <big><span class="asgreek">Οφνί</span></big> <sup><small><small>[[H2652]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Phinehas, | <big><span class="asgreek">Φινεές</span></big> <sup><small><small>[[H6372]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβαινεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| that | **<big>[[G1565\|εκείνος]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| his city | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| Ramathaim | **<big>[[H3117\|Αρμαθαϊμ]]</big>** |
+| to do obeisance | **<big>[[G4352\|προσκυνείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to sacrifice | **<big>[[G2380\|θύειν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| of Hosts | **<big>[[G4519\|Σαβαώθ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shiloh. | **<big>[[H7887\|Συλώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| Eli | **<big>[[G2242\|Ηλί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| Hophni | **<big>[[H2652\|Οφνί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Phinehas, | **<big>[[H6372\|Φινεές]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Sam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.2|<< 1 Samuel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.4|1 Samuel 1:4 >>]]</td></tr></table>
 
 

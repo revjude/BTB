@@ -7,41 +7,41 @@ Come now therefore, I pray thee, curse me this people; for they [are] too mighty
 So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed.”<small><sub>**MT:**</sub></small>
 [[Num.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.5|<< Numbers 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.7|Numbers 22:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| curse | <big><span class="asgreek">άρασαί</span></big> <sup><small><small>[[G6522]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people! | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| stronger than me | <big><span class="asgreek">ισχυρότερός</span></big> <sup><small><small>[[G2478]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[it\] is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| we should be able | <big><span class="asgreek">δυνώμεθα</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to strike | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| at | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will cast | <big><span class="asgreek">εκβαλώ</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should bless, | <big><span class="asgreek">ευλογήσης</span></big> <sup><small><small>[[G2127]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they are blessed; | <big><span class="asgreek">ευλόγηνται</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should curse, | <big><span class="asgreek">καταράση</span></big> <sup><small><small>[[G2672]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they are cursed. | <big><span class="asgreek">κεκατήρανται</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| come, | **<big>[[G1204\|δεύρο]]</big>** |
+| curse | **<big>[[G6522\|άρασαί]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this people! | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| stronger than me | **<big>[[G2478\|ισχυρότερός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[it\] is | **<big>[[G1510\|εστίν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| we should be able | **<big>[[G1410\|δυνώμεθα]]</big>** |
+| to strike | **<big>[[G3960\|πατάξαι]]</big>** |
+| at | **<big>[[G1537\|εξ]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will cast | **<big>[[G1544\|εκβαλώ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should bless, | **<big>[[G2127\|ευλογήσης]]</big>** **<big>[[G1473\|συ]]</big>** |
+| they are blessed; | **<big>[[G2127\|ευλόγηνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should curse, | **<big>[[G2672\|καταράση]]</big>** **<big>[[G1473\|συ]]</big>** |
+| they are cursed. | **<big>[[G2672\|κεκατήρανται]]</big>** |
 [[Num.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.5|<< Numbers 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.7|Numbers 22:7 >>]]</td></tr></table>
 
 

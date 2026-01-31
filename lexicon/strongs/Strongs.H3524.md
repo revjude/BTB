@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּבִּיר‎</span></big> **kabbîyr** <small>*(kab-beer')*</small> ==**mighty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּבַר‎</span><sup><small>[[H3527]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּבִּיר‎</span></big>** **kabbîyr** <small>*(kab-beer')*</small> ==**mighty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H3527|‎כָּבַר‎]]</big>**</small>
 
 $\quad$ [phrase] feeble, mighty, most, much, strong, valiant.
 - ***vast***, whether in extent (figuratively, of power, mighty
@@ -7,4 +7,4 @@ $\quad$ [phrase] feeble, mighty, most, much, strong, valiant.
 
 **1)** mighty, great, powerful, many, much
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βαρύς</span><sup><small>[[G0926]]</small></sup> · <span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">ἔνδοξος</span><sup><small>[[G1741]]</small></sup> · <span class="asgreek">ἔντιμος</span><sup><small>[[G1784]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup>
+<small>See Greek: </small>**<big>[[G0926|βαρύς]]</big>** · **<big>[[G1415|δυνατός]]</big>** · **<big>[[G1741|ἔνδοξος]]</big>** · **<big>[[G1784|ἔντιμος]]</big>** · **<big>[[G4128|πλῆθος]]</big>**

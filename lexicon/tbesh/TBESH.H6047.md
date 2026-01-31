@@ -1,3 +1,1 @@
-<span class="ashebrew">‎עֲנָמִים‎</span> <small>***(a.na.mim)***</small> ==**Anamim**==  <sup><small>[[TEHMC#N:N-M-P / N:N-M-PG|N:N-M-P / N:N-M-PG]]</small></sup> 
-- People descended from Anam(?) of the Egyptians, first mentioned at [[Gen.10.13|Gen.10.13]] descended from Egypt ([[H4714]]); along with Ludim ([[H3866]]), Lehabim ([[H3853]]), Naphtuhim ([[H5320]]), Pathrusim ([[H6625]]), Casluhim ([[H3695]]) and Caphtorim ([[H3732]])
-
+- People descended from Anam of the Egyptians, first mentioned at [[Gen.10.13|Gen.10.13]] descended from Egypt (**<big>[[H4714|מִצְרַיִם]]</big>**); along with Ludim (**<big>[[H3866|לוּדִי]]</big>**), Lehabim (**<big>[[H3853|לְהָבִים]]</big>**), Naphtuhim (**<big>[[H5320|נַפְתֻּחִים]]</big>**), Pathrusim (**<big>[[H6625|פַּתְרֻסִי]]</big>**), Casluhim (**<big>[[H3695|כַּסְלֻחִים]]</big>**) and Caphtorim (**<big>[[H3732|כַּפְתֹּרִי]]</big>**)

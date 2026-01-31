@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּלֵתִי‎</span></big> **Pᵉlêthîy** <small>*(pel-ay-thee')*</small> ==**Pelethite**==  <sup><small>[[TEHMC#N:N--TG|N:N--TG]]</small></sup> 
-<small>from the same form as <span class="ashebrew">‎פֶּלֶת‎</span><sup><small>[[H6431]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּלֵתִי‎</span></big>** **Pᵉlêthîy** <small>*(pel-ay-thee')*</small> ==**Pelethite**==  <sup><small>[[TEHMC#N:N--TG|N:N--TG]]</small></sup> 
+<small>from the same form as **<big>[[H6431|‎פֶּלֶת‎]]</big>**</small>
 
 $\quad$ Pelethites.
 - § Pelethites = *"couriers"*

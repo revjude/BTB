@@ -7,30 +7,30 @@ For the rod of the wicked shall not rest upon the lot of the righteous; lest the
 For the scepter of the wicked will not rest upon the land allotted to the righteous, so that the righteous will not put forth their hands to injustice.<small><sub>**MT:**</sub></small>
 [[Ps.125.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.2|<< Psalm 125:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.125.4|Psalm 125:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| allow | <big><span class="asgreek">αφήσει</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinners | <big><span class="asgreek">αμαρτωλών</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just; | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| so | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| that | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| might not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| stretch out | <big><span class="asgreek">εκτείνωσιν</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| lawless deeds | <big><span class="asgreek">ανομίαις</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| with their hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| allow | **<big>[[G0863\|αφήσει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rod | **<big>[[G4464\|ράβδον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sinners | **<big>[[G0268\|αμαρτωλών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lot | **<big>[[G2819\|κλήρον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| just; | **<big>[[G1342\|δικαίων]]</big>** |
+| so | **<big>[[G3704\|όπως]]</big>** |
+| that | **<big>[[G0302\|αν]]</big>** |
+| might not | **<big>[[G3361\|μη]]</big>** |
+| stretch out | **<big>[[G1614\|εκτείνωσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| just | **<big>[[G1342\|δίκαιοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| lawless deeds | **<big>[[G0458\|ανομίαις]]</big>** |
+| with their hands. | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.125.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.2|<< Psalm 125:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.125.4|Psalm 125:4 >>]]</td></tr></table>
 
 

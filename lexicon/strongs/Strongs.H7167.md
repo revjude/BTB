@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָרַע‎</span></big> **qâraʻ** <small>*(kaw-rah')*</small> ==**to tear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָרַע‎</span></big>** **qâraʻ** <small>*(kaw-rah')*</small> ==**to tear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cut out, rend, [idiom] surely, tear.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ $\quad$ **1a3b)** to rend open (of heavens)
 $\quad$ $\quad$ **1a4)** to tear, rend (of wild beasts)
 $\quad$ **1b)** (Niphal) to be rent, be split asunder
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐγχρίω</span><sup><small>[[G1472]]</small></sup>
+<small>See Greek: </small>**<big>[[G1472|ἐγχρίω]]</big>**

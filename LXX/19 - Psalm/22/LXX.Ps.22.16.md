@@ -11,21 +11,21 @@ For dogs surround me; a band of evil men encircles me; they have pierced my hand
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| encircled | <big><span class="asgreek">εκύκλωσάν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dogs | <big><span class="asgreek">κύνες</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \[the\] gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of the ones \[acting\] wicked | <big><span class="asgreek">πονηρευομένων</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
-| compass | <big><span class="asgreek">περιέσχον</span></big> <sup><small><small>[[G4023]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They dug into | <big><span class="asgreek">ώρυξαν</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my feet. | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| encircled | **<big>[[G2944\|εκύκλωσάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| dogs | **<big>[[G2965\|κύνες]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| \[the\] gathering | **<big>[[G4864\|συναγωγή]]</big>** |
+| of the ones \[acting\] wicked | **<big>[[G8863\|πονηρευομένων]]</big>** |
+| compass | **<big>[[G4023\|περιέσχον]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| They dug into | **<big>[[G3736\|ώρυξαν]]</big>** |
+| my hands | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my feet. | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.15|<< Psalm 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.17|Psalm 22:17 >>]]</td></tr></table>
 
 

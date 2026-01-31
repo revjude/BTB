@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲגוֹרָה‎</span></big> **ʼăgôwrâh** <small>*(ag-o-raw')*</small> ==**piece**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎אָגוּר‎</span><sup><small>[[H0094]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲגוֹרָה‎</span></big>** **ʼăgôwrâh** <small>*(ag-o-raw')*</small> ==**piece**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from the same as **<big>[[H0094|‎אָגוּר‎]]</big>**</small>
 
 $\quad$ piece (of) silver.
 - properly, ***something gathered***, i.e. perhaps ***a grain*** or ***berry***

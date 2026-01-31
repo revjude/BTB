@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֵכָב‎</span></big> **Rêkâb** <small>*(ray-kawb')*</small> ==**Rechab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָכַב‎</span><sup><small>[[H7392]]</small></sup>; rider</small>
+**<big><span class="ashebrew">‎רֵכָב‎</span></big>** **Rêkâb** <small>*(ray-kawb')*</small> ==**Rechab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7392|‎רָכַב‎]]</big>**; rider</small>
 
 $\quad$ Rechab.
 - § Rechabites = *see Rechab "rider"*

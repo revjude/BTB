@@ -7,31 +7,31 @@ And they found an Egyptian in the field, and brought him to David, and gave him 
 Now his men found an Egyptian in the field and brought him to David. They gave the man water to drink and food to eat—<small><sub>**MT:**</sub></small>
 [[1Sam.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.10|<< 1 Samuel 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.12|1 Samuel 30:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they find | <big><span class="asgreek">ευρίσκουσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| an Egyptian man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">Αιγύπτιον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] field, | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they take | <big><span class="asgreek">λαμβάνουσιν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bring | <big><span class="asgreek">άγουσιν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| give | <big><span class="asgreek">διδόασιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ate, | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to drink | <big><span class="asgreek">επότισαν</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they find | **<big>[[G2147\|ευρίσκουσιν]]</big>** |
+| an Egyptian man | **<big>[[G0435\|άνδρα]]</big>** **<big>[[G0125\|Αιγύπτιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] field, | **<big>[[G0068\|αγρώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they take | **<big>[[G2983\|λαμβάνουσιν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bring | **<big>[[G0071\|άγουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| give | **<big>[[G1325\|διδόασιν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he ate, | **<big>[[G2068\|έφαγε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to drink | **<big>[[G4222\|επότισαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
 [[1Sam.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.10|<< 1 Samuel 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.12|1 Samuel 30:12 >>]]</td></tr></table>
 
 

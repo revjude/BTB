@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָרֵב‎</span></big> **ʻârêb** <small>*(aw-rabe')*</small> ==**to please**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (rather identical with <span class="ashebrew">‎עָרַב‎</span><sup><small>[[H6148]]</small></sup> through the idea of close association)</small>
+**<big><span class="ashebrew">‎עָרֵב‎</span></big>** **ʻârêb** <small>*(aw-rabe')*</small> ==**to please**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (rather identical with **<big>[[H6148|‎עָרַב‎]]</big>** through the idea of close association)</small>
 
 $\quad$ be pleasant(-ing), take pleasure in, be sweet.
 - to be ***agreeable***

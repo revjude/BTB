@@ -7,23 +7,23 @@ For we are of yesterday, and have not known; for our existence upon the earth is
 For we were born yesterday and know nothing; our days on earth are but a shadow.<small><sub>**MT:**</sub></small>
 [[Job.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.10|Job 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| of yesterday | <big><span class="asgreek">χθιζοί</span></big> <sup><small><small>[[G9726]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| we are | <big><span class="asgreek">εσμεν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| known; | <big><span class="asgreek">οίδαμεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| a shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| existence | <big><span class="asgreek">βίος</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of yesterday | **<big>[[G9726\|χθιζοί]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| we are | **<big>[[G1510\|εσμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| have not | **<big>[[G3756\|ουκ]]</big>** |
+| known; | **<big>[[G1492\|οίδαμεν]]</big>** |
+| a shadow | **<big>[[G4639\|σκιά]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| existence | **<big>[[G0979\|βίος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
 [[Job.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.10|Job 8:10 >>]]</td></tr></table>
 
 

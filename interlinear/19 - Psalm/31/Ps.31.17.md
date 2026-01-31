@@ -6,17 +6,17 @@ O LORD, let me not be ashamed, for I have called on You. Let the wicked be put t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.16|<< Psalms 31:16]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.18|Psalms 31:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O Yahweh  | <span class="ashebrew"><big>יְֽהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I be ashamed  | <span class="ashebrew"><big>אֵ֭בוֹשָׁה </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| 'E.vo.shah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have called out to you  | <span class="ashebrew"><big>קְרָאתִ֑י </big></span><small><small><sup>[[H7121G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ke.ra.Ti. <small><sup>[[HVqp1cs]]</sup></small> cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may they be ashamed  | <span class="ashebrew"><big>יֵבֹ֥שׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| ye.Vo.shu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֝שָׁעִ֗ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may they be silent  | <span class="ashebrew"><big>יִדְּמ֥וּ </big></span><small><small><sup>[[H1826H]]</sup></small></small> &#8207;| yi.de.Mu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Sheol  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁאֽוֹל </big></span><small><small><sup>[[H7585]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.'ol <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I be ashamed  |**<big>&#8207;[[H0954\|אֵ֭בוֹשָׁה]]&#8207; </big>**| 'E.vo.shah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have called out to you  |**<big>&#8207;[[H7121G\|קְרָאתִ֑י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ke.ra.Ti.<small><sup>[[HVqp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֥שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֝שָׁעִ֗ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they be silent  |**<big>&#8207;[[H1826H\|יִדְּמ֥וּ]]&#8207; </big>**| yi.de.Mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Sheol  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7585\|שְׁאֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.16|<< Psalms 31:16]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.18|Psalms 31:18 >>]]</td></tr></table>
 
 

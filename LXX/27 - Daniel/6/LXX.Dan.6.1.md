@@ -10,27 +10,27 @@ It pleased Darius to set over the kingdom an hundred and twenty princes, which s
 Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,<small><sub>**MT:**</sub></small>
 [[Dan.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.31|<< Daniel 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.2|Daniel 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was pleasing | <big><span class="asgreek">ήρεσεν</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| Darius, | <big><span class="asgreek">Δαρείου</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατράπας</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[for\] them to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was pleasing | **<big>[[G0700\|ήρεσεν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| Darius, | **<big>[[H1868\|Δαρείου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλείας]]</big>** |
+| satraps | **<big>[[G9059\|σατράπας]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[for\] them to be | **<big>[[G1510\|είναι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| entire | **<big>[[G3650\|όλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλεία]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
 [[Dan.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.31|<< Daniel 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.2|Daniel 6:2 >>]]</td></tr></table>
 
 

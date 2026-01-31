@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎עוּר‎</span></big> **ʻûwr** <small>*(oor)*</small> ==**chaff**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+**<big><span class="asaramaic">‎עוּר‎</span></big>** **ʻûwr** <small>*(oor)*</small> ==**chaff**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
 <small>(Aramaic)</small>
 
 $\quad$ chaff.

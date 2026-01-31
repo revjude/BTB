@@ -10,27 +10,27 @@ And the king of the south shall be strong, and [one] of his princes; and he shal
 The king of the South will grow strong, but one of his commanders will grow even stronger and will rule his own kingdom with great authority.<small><sub>**MT:**</sub></small>
 [[Dan.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.4|<< Daniel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.6|Daniel 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grew in strength | <big><span class="asgreek">ενισχύσει</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| south | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall grow in strength | <big><span class="asgreek">ενισχύσει</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lord over | <big><span class="asgreek">κυριεύσει</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| dominion | <big><span class="asgreek">κυρείαν</span></big> <sup><small><small>[[G6974]]</small></small></sup> |
-| a great | <big><span class="asgreek">πολλήν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his authority. | <big><span class="asgreek">εξουσίας</span></big> <sup><small><small>[[G1849]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| grew in strength | **<big>[[G1765\|ενισχύσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| south | **<big>[[G3558\|νότου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his rulers | **<big>[[G0758\|αρχόντων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall grow in strength | **<big>[[G1765\|ενισχύσει]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall lord over | **<big>[[G2961\|κυριεύσει]]</big>** |
+| dominion | **<big>[[G6974\|κυρείαν]]</big>** |
+| a great | **<big>[[G4183\|πολλήν]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| his authority. | **<big>[[G1849\|εξουσίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Dan.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.4|<< Daniel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.6|Daniel 11:6 >>]]</td></tr></table>
 
 

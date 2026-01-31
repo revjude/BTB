@@ -1,8 +1,8 @@
 <small>*Beautiful Gate • Gate of the Jerusalem temple, site of Peter's miracle.*</small>
 
 The <span class='tipnrhighlight'>Beautiful Gate</span> was a gate of the Jerusalem temple, where Peter healed a lame man. \(Acts 3:2, 10\)
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Zech.11.2|Act.3.2]]; 
-- only referred to as Beautiful\_Gate<[[G5611]]> \(<span class='tipnrLangGreek'>ὡραῖος</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Zech.11.2|Act.3.2]]; 
+- only referred to as Beautiful\_Gate **<big>[[G5611|ὡραῖος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The healing of the lame man at the Beautiful Gate was a significant event in the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beautiful (Gate) | [<span class='tipnrLangGreek'>ὡραῖος</span>](G5611) <small>*Greek*</small> | 2x | [[Act.3.2] & [Act.3.10] ⌕](https://www.stepbible.org/?q=reference=Act.3.2; Act.3.10) |
-All Strong's for **Beautiful_Gate**: \[[[G5611]]\]
+| Beautiful (Gate) | [<span class='tipnrLangGreek'>ὡραῖος</span>](G5611) | 2x | [[Act.3.2] & [Act.3.10] ⌕](https://www.stepbible.org/?q=reference=Act.3.2; Act.3.10) |
+All entries for **Beautiful Gate**:  **<big>[[G5611|ὡραῖος]]</big>**

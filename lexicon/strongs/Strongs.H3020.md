@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇגְלִי‎</span></big> **Yoglîy** <small>*(yog-lee')*</small> ==**Jogli**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּלָה‎</span><sup><small>[[H1540]]</small></sup>; exiled</small>
+**<big><span class="ashebrew">‎יׇגְלִי‎</span></big>** **Yoglîy** <small>*(yog-lee')*</small> ==**Jogli**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1540|‎גָּלָה‎]]</big>**; exiled</small>
 
 $\quad$ Jogli.
 - § Jogli = *"he is exiled"*

@@ -7,16 +7,16 @@ How say ye, We [are] mighty and strong men for the war?
 How can you say, ‘We are warriors, mighty men ready for battle’?<small><sub>**MT:**</sub></small>
 [[Jer.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.13|<< Jeremiah 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.15|Jeremiah 48:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| How | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| will you say, | <big><span class="asgreek">ερείτε</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| We are strong, | <big><span class="asgreek">ισχυροί</span></big> <sup><small><small>[[G2478]]</small></small></sup> <big><span class="asgreek">εσμέν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[each\] man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχύων</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war. | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| How | **<big>[[G4459\|πως]]</big>** |
+| will you say, | **<big>[[G2046\|ερείτε]]</big>** |
+| We are strong, | **<big>[[G2478\|ισχυροί]]</big>** **<big>[[G1510\|εσμέν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[each\] man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| strong | **<big>[[G2480\|ισχύων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war. | **<big>[[G4171\|πόλεμον]]</big>** |
 [[Jer.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.13|<< Jeremiah 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.15|Jeremiah 48:15 >>]]</td></tr></table>
 
 

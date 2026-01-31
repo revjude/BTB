@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׂעֲרָה‎</span></big> **saʻărâh** <small>*(sah-ar-aw')*</small> ==**hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שֵׂעָר‎</span><sup><small>[[H8181]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׂעֲרָה‎</span></big>** **saʻărâh** <small>*(sah-ar-aw')*</small> ==**hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H8181|‎שֵׂעָר‎]]</big>**</small>
 
 $\quad$ hair.
 - ***hairiness***

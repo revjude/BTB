@@ -7,22 +7,22 @@ Every sabbath he shall set it in order before the LORD continually, [being taken
 Every Sabbath day the bread is to be set out before the LORD on behalf of the Israelites as a permanent covenant.<small><sub>**MT:**</sub></small>
 [[Lev.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.7|<< Leviticus 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.9|Leviticus 24:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| you shall put \[them\] | <big><span class="asgreek">προσθήσετε</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| before | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel -- | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| On the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths | **<big>[[G4521\|σαββάτων]]</big>** |
+| you shall put \[them\] | **<big>[[G4369\|προσθήσετε]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
+| before | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel -- | **<big>[[G2474\|Ισραήλ]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιος]]</big>** |
 [[Lev.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.7|<< Leviticus 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.9|Leviticus 24:9 >>]]</td></tr></table>
 
 

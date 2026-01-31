@@ -1,7 +1,6 @@
-<span class="ashebrew">‎נָתָן‎</span> <small>***(na.tan)***</small> ==**Nathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of United Monarchy, first mentioned at [[2Sam.5.14|2Sa.5.14]]
--  son of: David ([[H1732]]) and Bathsheba ([[H1339]])
--  brother of: Shammua ([[H8051H]]), Shobab ([[H7727]]) and Solomon ([[H8010]])
--  half-brother of: Amnon ([[H0550]]), Chileab ([[H3609]]), Absalom ([[H0053]]), Adonijah ([[H0138]]), Shephatiah ([[H8203]]), Ithream ([[H3507]]), Ibhar ([[H2984]]), Elishua ([[H0474]]), Nepheg ([[H5298H]]), Japhia ([[H3309I]]), Elishama ([[H0476H]]), Eliada ([[H0450]]), Eliphelet ([[H0467]]), Tamar ([[H8559H]]), Elpelet ([[H0467I]]), Nogah ([[H5052]]) and Jerimoth ([[H3406N]])
--  father of: Mattatha ([[G3160]])
-- Also named: <i>Nathan</i> (<span class='asgreek'>Ναθάν</span> "Nathan" [[G3481]])
+-  son of: David (**<big>[[H1732|דָּוִד]]</big>**) and Bathsheba (**<big>[[H1339|בַּת־שֶׁבַע]]</big>**)
+-  brother of: Shammua (**<big>[[H8051H|שַׁמּוּעַ]]</big>**), Shobab (**<big>[[H7727|שׁוֹבָב]]</big>**) and Solomon (**<big>[[H8010|שְׁלֹמֹה]]</big>**)
+-  half-brother of: Amnon (**<big>[[H0550|אַמְנוֹן]]</big>**), Chileab (**<big>[[H3609|כִּלְאָב]]</big>**), Absalom (**<big>[[H0053|אֲבִישָׁלוֹם]]</big>**), Adonijah (**<big>[[H0138|אֲדֹנִיָּה]]</big>**), Shephatiah (**<big>[[H8203|שְׁפַטְיָה]]</big>**), Ithream (**<big>[[H3507|יִתְרְעָם]]</big>**), Ibhar (**<big>[[H2984|יִבְחַר]]</big>**), Elishua (**<big>[[H0474|אֱלִישׁוּעַ]]</big>**), Nepheg (**<big>[[H5298H|נֶפֶג]]</big>**), Japhia (**<big>[[H3309I|יָפִיעַ]]</big>**), Elishama (**<big>[[H0476H|אֱלִישָׁמָע]]</big>**), Eliada (**<big>[[H0450|אֶלְיָדָע]]</big>**), Eliphelet (**<big>[[H0467|אֱלִיפֶלֶט]]</big>**), Tamar (**<big>[[H8559H|תָּמָר]]</big>**), Elpelet (**<big>[[H0467I|אֱלִיפֶלֶט]]</big>**), Nogah (**<big>[[H5052|נֹגַהּ]]</big>**) and Jerimoth (**<big>[[H3406N|יְרִימוֹת]]</big>**)
+-  father of: Mattatha (**<big>[[G3160|Ματταθά]]</big>**)
+- Also named: <i>Nathan</i> (<span class='asgreek'>Ναθάν</span> "Nathan" **<big>[[G3481|Ναθάν]]</big>**)

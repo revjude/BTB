@@ -7,26 +7,26 @@ The voice of them that flee and escape out of the land of Babylon, to declare in
 Listen to the fugitives and refugees from the land of Babylon, declaring in Zion the vengeance of the LORD our God, the vengeance for His temple.<small><sub>**MT:**</sub></small>
 [[Jer.50.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.27|<< Jeremiah 50:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.29|Jeremiah 50:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of ones fleeing | <big><span class="asgreek">φευγόντων</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| escaping | <big><span class="asgreek">ανασωζομένων</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to announce | <big><span class="asgreek">αναγγείλαι</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| unto | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vengeance | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| our God -- | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| vengeance | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| of his temple. | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A sound | **<big>[[G5456\|φωνή]]</big>** |
+| of ones fleeing | **<big>[[G5343\|φευγόντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| escaping | **<big>[[G6314\|ανασωζομένων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to announce | **<big>[[G0312\|αναγγείλαι]]</big>** |
+| unto | **<big>[[G1722\|εν]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| vengeance | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| our God -- | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| vengeance | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| of his temple. | **<big>[[G3485\|ναού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.50.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.27|<< Jeremiah 50:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.29|Jeremiah 50:29 >>]]</td></tr></table>
 
 

@@ -10,47 +10,47 @@ Let not my lord, I pray thee, regard this man of Belial, [even] Nabal: for as hi
 My lord should pay no attention to this scoundrel Nabal, for he lives up to his name: His name means Fool, and folly accompanies him. I, your servant, did not see my lord’s young men whom you sent.<small><sub>**MT:**</sub></small>
 [[1Sam.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.24|<< 1 Samuel 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.26|1 Samuel 25:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| put | <big><span class="asgreek">θέσθω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κυριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this pestilent | <big><span class="asgreek">λοιμόν</span></big> <sup><small><small>[[G3061]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Nabal! | <big><span class="asgreek">Ναβάλ</span></big> <sup><small><small>[[H5037]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Nabal. | <big><span class="asgreek">Ναβάλ</span></big> <sup><small><small>[[H5037]]</small></small></sup> |
-| His name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| folly | <big><span class="asgreek">αφροσύνη</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
-| \[is\] with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your maidservant | <big><span class="asgreek">δούλη</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παιδάρια</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my master | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you sent. | <big><span class="asgreek">απέστειλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| put | **<big>[[G5087\|θέσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my master | **<big>[[G2962\|κυριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his heart | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this pestilent | **<big>[[G3061\|λοιμόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Nabal! | **<big>[[H5037\|Ναβάλ]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| Nabal. | **<big>[[H5037\|Ναβάλ]]</big>** |
+| His name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| folly | **<big>[[G0877\|αφροσύνη]]</big>** |
+| \[is\] with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your maidservant | **<big>[[G1399\|δούλη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| see | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| servants | **<big>[[G3808\|παιδάρια]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my master | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| whom | **<big>[[G3739\|α]]</big>** |
+| you sent. | **<big>[[G0649\|απέστειλας]]</big>** |
 [[1Sam.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.24|<< 1 Samuel 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.26|1 Samuel 25:26 >>]]</td></tr></table>
 
 

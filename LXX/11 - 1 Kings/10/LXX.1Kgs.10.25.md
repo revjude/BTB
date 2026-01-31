@@ -7,33 +7,33 @@ And they brought every man his present, vessels of silver, and vessels of gold, 
 Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules.<small><sub>**MT:**</sub></small>
 [[1Kgs.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.24|<< 1 Kings 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.26|1 Kings 10:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| brought | <big><span class="asgreek">έφερον</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρά</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσά</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clothes, | <big><span class="asgreek">ιματισμόν</span></big> <sup><small><small>[[G2441]]</small></small></sup> |
-| balsam | <big><span class="asgreek">στακτήν</span></big> <sup><small><small>[[G9152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spices, | <big><span class="asgreek">ηδύσματα</span></big> <sup><small><small>[[G7621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| horses, | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mules | <big><span class="asgreek">ημιόνους</span></big> <sup><small><small>[[G7629]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| by | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| year. | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to him | **<big>[[G1473\|αυτοί]]</big>** |
+| brought | **<big>[[G5342\|έφερον]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his gifts | **<big>[[G1435\|δώρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of silver, | **<big>[[G0693\|αργυρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of gold, | **<big>[[G5552\|χρυσά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clothes, | **<big>[[G2441\|ιματισμόν]]</big>** |
+| balsam | **<big>[[G9152\|στακτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spices, | **<big>[[G7621\|ηδύσματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| horses, | **<big>[[G2462\|ίππους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mules | **<big>[[G7629\|ημιόνους]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| year | **<big>[[G1763\|ενιαυτόν]]</big>** |
+| by | **<big>[[G1519\|εις]]</big>** |
+| year. | **<big>[[G1763\|ενιαυτόν]]</big>** |
 [[1Kgs.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.24|<< 1 Kings 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.26|1 Kings 10:26 >>]]</td></tr></table>
 
 

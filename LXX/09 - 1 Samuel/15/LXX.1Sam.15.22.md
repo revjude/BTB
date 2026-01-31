@@ -11,33 +11,33 @@ But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices 
 > $\quad$ referenced by: [[Mark.12.33|Mark 12:33]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| Does | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| want | <big><span class="asgreek">θελητόν</span></big> <sup><small><small>[[G7650]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacrifices, | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| as \[compared\] | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to hearing | <big><span class="asgreek">ακούσαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, \[no\]. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| hearkening | <big><span class="asgreek">ακοή</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| \[is\] better than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| sacrifice, | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heeding | <big><span class="asgreek">επακρόασις</span></big> <sup><small><small>[[G7359]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \[the\] fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| of rams. | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| Does | **<big>[[G1487\|ει]]</big>** |
+| want | **<big>[[G7650\|θελητόν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacrifices, | **<big>[[G2378\|θυσίας]]</big>** |
+| as \[compared\] | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to hearing | **<big>[[G0191\|ακούσαι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, \[no\]. | **<big>[[G2962\|κυρίου]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| hearkening | **<big>[[G0189\|ακοή]]</big>** |
+| \[is\] better than | **<big>[[G5228\|υπέρ]]</big>** |
+| sacrifice, | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| heeding | **<big>[[G7359\|επακρόασις]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \[the\] fat | **<big>[[G9155\|στέαρ]]</big>** |
+| of rams. | **<big>[[G8096\|κριών]]</big>** |
 [[1Sam.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.21|<< 1 Samuel 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.23|1 Samuel 15:23 >>]]</td></tr></table>
 
 

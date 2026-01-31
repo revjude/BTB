@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Cornelius</span>, a centurion, was the first Gentile convert to Christianity through Peter's ministry. \(Act.10\)
 - A man living at the time of the New Testament, first mentioned at [[2Chr.35.9|Act.10.1]]; 
-- only referred to as Cornelius<[[G2883]]> \(<span class='tipnrLangGreek'>Κορνήλιος</span>\).
+- only referred to as Cornelius **<big>[[G2883|Κορνήλιος]]</big>**.
 
 Cornelius was a Roman centurion stationed in Caesarea. He is described as a devout man who feared God, gave alms generously, and prayed regularly \(Acts 10:1-2\). Despite his piety, Cornelius was not a convert to Judaism. 
 
@@ -16,5 +16,5 @@ Peter then ordered that Cornelius and the other believing Gentiles be baptized \
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cornelius | [<span class='tipnrLangGreek'>Κορνήλιος</span>](G2883) <small>*Greek*</small> | 10x | [[Act.10.1] ... [Act.10.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cornelius\*\|reference=Act.10.1;Act.10.3;Act.10.7;Act.10.17;Act.10.21;Act.10.22;Act.10.24;Act.10.25;Act.10.30;Act.10.31) |
-All Strong's for **Cornelius**: \[[[G2883]]\]
+| Cornelius | [<span class='tipnrLangGreek'>Κορνήλιος</span>](G2883) | 10x | [[Act.10.1] ... [Act.10.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cornelius\*\|reference=Act.10.1;Act.10.3;Act.10.7;Act.10.17;Act.10.21;Act.10.22;Act.10.24;Act.10.25;Act.10.30;Act.10.31) |
+All entries for **Cornelius**:  **<big>[[G2883|Κορνήλιος]]</big>**

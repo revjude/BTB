@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רַב‎</span></big> **rab** <small>*(rab)*</small> ==**many**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>by contracted from <span class="ashebrew">‎רָבַב‎</span><sup><small>[[H7231]]</small></sup></small>
+**<big><span class="ashebrew">‎רַב‎</span></big>** **rab** <small>*(rab)*</small> ==**many**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>by contracted from **<big>[[H7231|‎רָבַב‎]]</big>**</small>
 
 $\quad$ (in) abound(-undance, -ant, -antly), captain, elder, enough, exceedingly, full, great(-ly, man, one), increase, long (enough, (time)), (do, have) many(-ifold, things, a time), (ship-)master, mighty, more, (too, very) much, multiply(-tude), officer, often(-times), plenteous, populous, prince, process (of time), suffice(-lent).
 - ***abundant*** (in quantity, size, age, number, rank, quality)
@@ -19,4 +19,4 @@ $\quad$ **1i)** much, exceedingly
 n m
 **2)** captain, chief
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀληθής</span><sup><small>[[G0227]]</small></sup> · <span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">ἱκανόω</span><sup><small>[[G2427]]</small></sup> · <span class="asgreek">κριτής</span><sup><small>[[G2923]]</small></sup> · <span class="asgreek">λόγχη</span><sup><small>[[G3057]]</small></sup> · <span class="asgreek">μέγας</span><sup><small>[[G3173]]</small></sup> · <span class="asgreek">οἰκονόμος</span><sup><small>[[G3623]]</small></sup> · <span class="asgreek">πονηρός</span><sup><small>[[G4190]]</small></sup> · <span class="asgreek">πονηρότερος</span><sup><small>[[G4191]]</small></sup> · <span class="asgreek">ῥαββί</span><sup><small>[[G4461]]</small></sup>
+<small>See Greek: </small>**<big>[[G0227|ἀληθής]]</big>** · **<big>[[G0758|ἄρχων]]</big>** · **<big>[[G1413|δυνάστης]]</big>** · **<big>[[G1415|δυνατός]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2427|ἱκανόω]]</big>** · **<big>[[G2923|κριτής]]</big>** · **<big>[[G3057|λόγχη]]</big>** · **<big>[[G3173|μέγας]]</big>** · **<big>[[G3623|οἰκονόμος]]</big>** · **<big>[[G4190|πονηρός]]</big>** · **<big>[[G4191|πονηρότερος]]</big>** · **<big>[[G4461|ῥαββί]]</big>**

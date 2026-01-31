@@ -7,38 +7,38 @@ Also, thou son of man, appoint thee two ways, that the sword of the king of Baby
 “Now you, son of man, mark out two roads for the sword of the king of Babylon to take, both starting from the same land. And make a signpost where the road branches off to each city.<small><sub>**MT:**</sub></small>
 [[Ezek.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.18|<< Ezekiel 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.20|Ezekiel 21:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| set in order | <big><span class="asgreek">διάταξον</span></big> <sup><small><small>[[G1299]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| ways! | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to enter | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| for \[the\] broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| place | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| companies; | <big><span class="asgreek">αρχαί</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of \[the\] street | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] corner | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of \[the\] street | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| set in order | <big><span class="asgreek">διατάξεις</span></big> <sup><small><small>[[G1299]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| set in order | **<big>[[G1299\|διάταξον]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| ways! | **<big>[[G3598\|οδούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to enter | **<big>[[G1525\|εισελθείν]]</big>** |
+| for \[the\] broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| place | **<big>[[G5561\|χώρας]]</big>** |
+| one | **<big>[[G1520\|μιάς]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσονται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| companies; | **<big>[[G0746\|αρχαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a hand | **<big>[[G5495\|χειρ]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] top | **<big>[[G0746\|αρχή]]</big>** |
+| of \[the\] street | **<big>[[G3598\|οδού]]</big>** |
+| of the city | **<big>[[G4172\|πόλεως]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] corner | **<big>[[G0746\|αρχής]]</big>** |
+| of \[the\] street | **<big>[[G3598\|οδού]]</big>** |
+| set in order | **<big>[[G1299\|διατάξεις]]</big>** |
 [[Ezek.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.18|<< Ezekiel 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.20|Ezekiel 21:20 >>]]</td></tr></table>
 
 

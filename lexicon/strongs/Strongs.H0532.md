@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָמִי‎</span></big> **ʼÂmîy** <small>*(aw-mee')*</small> ==**Ami**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>an abbreviated form for <span class="ashebrew">‎אָמוֹן‎</span><sup><small>[[H0526]]</small></sup></small>
+**<big><span class="ashebrew">‎אָמִי‎</span></big>** **ʼÂmîy** <small>*(aw-mee')*</small> ==**Ami**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>an abbreviated form for **<big>[[H0526|‎אָמוֹן‎]]</big>**</small>
 
 $\quad$ Ami.
 - § Ami = *"bond-servant"*

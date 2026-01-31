@@ -7,37 +7,37 @@ Then said they unto him, Tell us, we pray thee, for whose cause this evil [is] u
 “Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?”<small><sub>**MT:**</sub></small>
 [[Jonah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Report | <big><span class="asgreek">απάγγειλον</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| indeed! | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| for what \[reason\] | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work | <big><span class="asgreek">εργασία</span></big> <sup><small><small>[[G2039]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from where | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| have you come, | <big><span class="asgreek">έρχη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| what kind | <big><span class="asgreek">ποίας</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| of place, | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| what kind | <big><span class="asgreek">ποίου</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| of people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| are you? | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Report | **<big>[[G0518\|απάγγειλον]]</big>** |
+| indeed! | **<big>[[G1211\|δη]]</big>** |
+| for what \[reason\] | **<big>[[G5100\|τίνος]]</big>** **<big>[[G1752\|ένεκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this evil | **<big>[[G2549\|κακία]]</big>** **<big>[[G1473\|αύτη]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| us? | **<big>[[G1473\|ημίν]]</big>** |
+| What | **<big>[[G5100\|τις]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| work | **<big>[[G2039\|εργασία]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from where | **<big>[[G4159\|πόθεν]]</big>** |
+| have you come, | **<big>[[G2064\|έρχη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| what kind | **<big>[[G4169\|ποίας]]</big>** |
+| of place, | **<big>[[G5561\|χώρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| what kind | **<big>[[G4169\|ποίου]]</big>** |
+| of people | **<big>[[G2992\|λαού]]</big>** |
+| are you? | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
 [[Jonah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 
 

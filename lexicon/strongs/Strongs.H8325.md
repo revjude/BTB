@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁרַר‎</span></big> **Shârar** <small>*(shaw-rawr')*</small> ==**Sharar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁרַר‎</span><sup><small>[[H8324]]</small></sup>; hostile</small>
+**<big><span class="ashebrew">‎שָׁרַר‎</span></big>** **Shârar** <small>*(shaw-rawr')*</small> ==**Sharar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8324|‎שָׁרַר‎]]</big>**; hostile</small>
 
 $\quad$ Sharar.
 - § Sharar = *"enemy"*

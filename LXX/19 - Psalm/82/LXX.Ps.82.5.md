@@ -7,21 +7,21 @@ They know not, neither will they understand; they walk on in darkness: all the f
 They do not know or understand; they wander in the darkness; all the foundations of the earth are shaken.<small><sub>**MT:**</sub></small>
 [[Ps.82.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.4|<< Psalm 82:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.6|Psalm 82:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know, | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| perceived. | <big><span class="asgreek">συνήκαν</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| They travel | <big><span class="asgreek">διαπορεύονται</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| shall be shaken | <big><span class="asgreek">σαλευθήσονται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| They did not | **<big>[[G3756\|ουκ]]</big>** |
+| know, | **<big>[[G1097\|έγνωσαν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| perceived. | **<big>[[G4920\|συνήκαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| darkness | **<big>[[G4655\|σκότει]]</big>** |
+| They travel | **<big>[[G1279\|διαπορεύονται]]</big>** |
+| shall be shaken | **<big>[[G4531\|σαλευθήσονται]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| foundations | **<big>[[G2310\|θεμέλια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
 [[Ps.82.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.4|<< Psalm 82:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.6|Psalm 82:6 >>]]</td></tr></table>
 
 

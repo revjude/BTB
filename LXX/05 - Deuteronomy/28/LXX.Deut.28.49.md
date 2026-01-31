@@ -7,27 +7,27 @@ The LORD shall bring a nation against thee from far, from the end of the earth, 
 The LORD will bring a nation from afar, from the ends of the earth, to swoop down upon you like an eagle—a nation whose language you will not understand,<small><sub>**MT:**</sub></small>
 [[Deut.28.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.48|<< Deuteronomy 28:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.50|Deuteronomy 28:50 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall bring | <big><span class="asgreek">επάξει</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| far off | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| \[the\] impulse | <big><span class="asgreek">όρμημα</span></big> <sup><small><small>[[G3731]]</small></small></sup> |
-| of an eagle, | <big><span class="asgreek">αετού</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its voice; | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall bring | **<big>[[G1863\|επάξει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| far off | **<big>[[G3113\|μακρόθεν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] end | **<big>[[G2078\|εσχάτου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| \[the\] impulse | **<big>[[G3731\|όρμημα]]</big>** |
+| of an eagle, | **<big>[[G0105\|αετού]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| you will not | **<big>[[G3756\|ουκ]]</big>** |
+| hear | **<big>[[G0191\|ακούση]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| its voice; | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.28.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.48|<< Deuteronomy 28:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.50|Deuteronomy 28:50 >>]]</td></tr></table>
 
 

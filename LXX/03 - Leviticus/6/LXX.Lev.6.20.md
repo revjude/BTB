@@ -7,43 +7,43 @@ This [is] the offering of Aaron and of his sons, which they shall offer unto the
 “This is the offering that Aaron and his sons must present to the LORD on the day he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.<small><sub>**MT:**</sub></small>
 [[Lev.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.19|<< Leviticus 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.21|Leviticus 6:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they shall bring | <big><span class="asgreek">προσοίσουσι</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you shall anoint | <big><span class="asgreek">χρισείς</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| him -- | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ephah | <big><span class="asgreek">οίφι</span></big> <sup><small><small>[[G8467]]</small></small></sup> |
-| of fine flour | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| always, | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at dusk. | <big><span class="asgreek">δειλινόν</span></big> <sup><small><small>[[G6790]]</small></small></sup> |
+| This \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gift \[offering\] | **<big>[[G1435\|δώρον]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| they shall bring | **<big>[[G4374\|προσοίσουσι]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you shall anoint | **<big>[[G5548\|χρισείς]]</big>** |
+| him -- | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tenth | **<big>[[G1181\|δέκατον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ephah | **<big>[[G8467\|οίφι]]</big>** |
+| of fine flour | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| always, | **<big>[[G1275\|διαπαντός]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| in the morning, | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| at dusk. | **<big>[[G6790\|δειλινόν]]</big>** |
 [[Lev.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.19|<< Leviticus 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.21|Leviticus 6:21 >>]]</td></tr></table>
 
 

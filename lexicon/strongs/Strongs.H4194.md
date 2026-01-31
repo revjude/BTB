@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָוֶת‎</span></big> **mâveth** <small>*(maw'-veth)*</small> ==**death**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מוּת‎</span><sup><small>[[H4191]]</small></sup></small>
+**<big><span class="ashebrew">‎מָוֶת‎</span></big>** **mâveth** <small>*(maw'-veth)*</small> ==**death**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4191|‎מוּת‎]]</big>**</small>
 
 $\quad$ (be) dead(-ly), death, die(-d).
 - ***death*** (natural or violent)
@@ -11,4 +11,4 @@ $\quad$ **1a)** death
 $\quad$ **1b)** death by violence (as a penalty)
 $\quad$ **1c)** state of death, place of death
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ᾅδης</span><sup><small>[[G0086]]</small></sup> · <span class="asgreek">τελευτή</span><sup><small>[[G5054]]</small></sup>
+<small>See Greek: </small>**<big>[[G0086|ᾅδης]]</big>** · **<big>[[G5054|τελευτή]]</big>**

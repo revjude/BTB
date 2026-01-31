@@ -10,18 +10,18 @@ For You will not abandon my soul to Sheol, nor will You let Your Holy One see de
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[John.20.9|John 20:9]] ☩ [[Acts.2.25|Acts 2:25-28]] ☩ [[Acts.2.31|Acts 2:31]] ☩ [[Acts.13.35|Acts 13:35]] ☩ [[1Cor.15.4|1Cor 15:4]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will abandon  | <span class="ashebrew"><big>תַעֲזֹ֣ב </big></span><small><small><sup>[[H5800A]]</sup></small></small> &#8207;| ta.'a.Zo <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life my  | <span class="ashebrew"><big>נַפְשִׁ֣ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Sheol  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁא֑וֹל </big></span><small><small><sup>[[H7585]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.'ol <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will permit  | <span class="ashebrew"><big>תִתֵּ֥ן </big></span><small><small><sup>[[H5414K]]</sup></small></small> &#8207;| ti.Ten <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithful [one] your  | <span class="ashebrew"><big>חֲ֝סִידְ </big></span><small><small><sup>[[H2623]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| cha.si.de. <small><sup>[[HAamsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to see  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רְא֥וֹת </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> r.'ot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pit  | <span class="ashebrew"><big>שָֽׁחַת </big></span><small><small><sup>[[H7845G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will abandon  |**<big>&#8207;[[H5800A\|תַעֲזֹ֣ב]]&#8207; </big>**| ta.'a.Zo<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Sheol  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7585\|שְׁא֑וֹל]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will permit  |**<big>&#8207;[[H5414K\|תִתֵּ֥ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithful [one] your  |**<big>&#8207;[[H2623\|חֲ֝סִידְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| cha.si.de.<small><sup>[[HAamsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to see  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7200G\|רְא֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pit  |**<big>&#8207;[[H7845G\|שָֽׁחַת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.9|<< Psalms 16:9]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.11|Psalms 16:11 >>]]</td></tr></table>
 
 

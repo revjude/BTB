@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פִּלְדָּשׁ‎</span></big> **Pildâsh** <small>*(pil-dawsh')*</small> ==**Pildash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פִּלְדָּשׁ‎</span></big>** **Pildâsh** <small>*(pil-dawsh')*</small> ==**Pildash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Pildash.

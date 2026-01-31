@@ -7,22 +7,22 @@ He shall be as a hireling or a sojourner to you until the year of the release --
 Let him stay with you as a hired worker or temporary resident; he is to work for you until the Year of Jubilee.<small><sub>**MT:**</sub></small>
 [[Lev.25.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.39|<< Leviticus 25:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.41|Leviticus 25:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a hireling | <big><span class="asgreek">μισθωτός</span></big> <sup><small><small>[[G3411]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a sojourner | <big><span class="asgreek">πάροικος</span></big> <sup><small><small>[[G3941]]</small></small></sup> |
-| He shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">ετους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| release -- | <big><span class="asgreek">αφέσεως</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| \[thus\] he shall work | <big><span class="asgreek">εργάται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| for | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a hireling | **<big>[[G3411\|μισθωτός]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a sojourner | **<big>[[G3941\|πάροικος]]</big>** |
+| He shall be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| year | **<big>[[G2094\|ετους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| release -- | **<big>[[G0859\|αφέσεως]]</big>** |
+| \[thus\] he shall work | **<big>[[G2038\|εργάται]]</big>** |
+| for | **<big>[[G3844\|παρά]]</big>** |
+| you; | **<big>[[G1473\|σοι]]</big>** |
 [[Lev.25.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.39|<< Leviticus 25:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.41|Leviticus 25:41 >>]]</td></tr></table>
 
 

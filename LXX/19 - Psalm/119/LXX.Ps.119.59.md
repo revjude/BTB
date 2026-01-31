@@ -7,18 +7,18 @@ I thought on my ways, and turned my feet unto thy testimonies.
 I considered my ways and turned my steps to Your testimonies.<small><sub>**MT:**</sub></small>
 [[Ps.119.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.58|<< Psalm 119:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.60|Psalm 119:60 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I argued | <big><span class="asgreek">διελογισάμην</span></big> <sup><small><small>[[G1260]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I turned | <big><span class="asgreek">επέστρεψα</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your testimonies. | <big><span class="asgreek">μαρτύριά</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I argued | **<big>[[G1260\|διελογισάμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your ways, | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I turned | **<big>[[G1994\|επέστρεψα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my feet | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your testimonies. | **<big>[[G3142\|μαρτύριά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.58|<< Psalm 119:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.60|Psalm 119:60 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָעָה‎</span></big> **râʻâh** <small>*(raw-aw')*</small> ==**House of Shepherds**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎רָעָה‎</span></big>** **râʻâh** <small>*(raw-aw')*</small> ==**House of Shepherds**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] break, companion, keep company with, devour, eat up, evil entreat, feed, use as a friend, make friendship with, herdman, keep (sheep) (-er), pastor, [phrase] shearing house, shepherd, wander, waste.
@@ -24,4 +24,4 @@ $\quad$ **2a)** (Qal) to associate with
 $\quad$ **2b)** (Hithpael) to be companions
 **3)** (Piel) to be a special friend
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποιμαίνω</span><sup><small>[[G4165]]</small></sup>
+<small>See Greek: </small>**<big>[[G4165|ποιμαίνω]]</big>**

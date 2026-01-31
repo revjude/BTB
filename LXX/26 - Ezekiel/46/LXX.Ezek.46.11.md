@@ -7,38 +7,38 @@ And in the feasts and in the solemnities the meat offering shall be an ephah to 
 At the festivals and appointed feasts, the grain offering shall be an ephah with a bull, an ephah with a ram, and as much as one is able to give with the lambs, along with a hin of oil per ephah.<small><sub>**MT:**</sub></small>
 [[Ezek.46.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.10|<< Ezekiel 46:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.12|Ezekiel 46:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holidays | <big><span class="asgreek">εορταίς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| festivals | <big><span class="asgreek">πανηγύρεσιν</span></big> <sup><small><small>[[G3831]]</small></small></sup> |
-| there shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gift | <big><span class="asgreek">μαναά</span></big> <sup><small><small>[[G8246]]</small></small></sup> |
-| cake \[offering\] | <big><span class="asgreek">πέμμα</span></big> <sup><small><small>[[G8691]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf, | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a cake \[offering\] | <big><span class="asgreek">πέμμα</span></big> <sup><small><small>[[G8691]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram, | <big><span class="asgreek">κριώ</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lambs -- | <big><span class="asgreek">αμνοίς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| should furnish | <big><span class="asgreek">εκποιή</span></big> <sup><small><small>[[G7133]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of olive oil -- | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| a hin | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cake. | <big><span class="asgreek">πέμματι</span></big> <sup><small><small>[[G8691]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| holidays | **<big>[[G1859\|εορταίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| festivals | **<big>[[G3831\|πανηγύρεσιν]]</big>** |
+| there shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gift | **<big>[[G8246\|μαναά]]</big>** |
+| cake \[offering\] | **<big>[[G8691\|πέμμα]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| calf, | **<big>[[G3448\|μόσχω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a cake \[offering\] | **<big>[[G8691\|πέμμα]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| ram, | **<big>[[G8096\|κριώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| lambs -- | **<big>[[G0286\|αμνοίς]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| should furnish | **<big>[[G7133\|εκποιή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of olive oil -- | **<big>[[G1637\|ελαίου]]</big>** |
+| a hin | **<big>[[G9824\|ιν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| cake. | **<big>[[G8691\|πέμματι]]</big>** |
 [[Ezek.46.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.10|<< Ezekiel 46:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.12|Ezekiel 46:12 >>]]</td></tr></table>
 
 

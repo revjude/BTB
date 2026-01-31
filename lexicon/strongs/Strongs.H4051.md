@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִגְרוֹן‎</span></big> **Migrôwn** <small>*(mig-rone')*</small> ==**Migron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎מָגַר‎</span><sup><small>[[H4048]]</small></sup>; precipice</small>
+**<big><span class="ashebrew">‎מִגְרוֹן‎</span></big>** **Migrôwn** <small>*(mig-rone')*</small> ==**Migron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H4048|‎מָגַר‎]]</big>**; precipice</small>
 
 $\quad$ Migron.
 - § Migron = *"precipice"*

@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎κράζω‎</span></big> **krázō** <small>*(krad'-zo)*</small> ==**to cry**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎κράζω‎</span></big>** **krázō** <small>*(krad'-zo)*</small> ==**to cry**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ cry (out).

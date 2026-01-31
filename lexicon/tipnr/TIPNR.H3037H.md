@@ -4,8 +4,8 @@ Priest living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jaddua</span> served as the high priest during the reign of Darius the Persian and was contemporary with Alexander the Great \([[Neh.12.11|Neh.12.11]],22\).
 - A High Priest from the tribe of Levi living at the time of Exile and Return, first mentioned at [[Neh.12.11|Neh.12.11]]; 
-- only referred to as Jaddua<[[H3037H]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ\); 
-- a son of Johanan<[[H3110L]]>.
+- only referred to as Jaddua **<big>[[H3037|יַדּוּעַ]]</big>**; 
+- a son of Johanan **<big>[[H3110|יוֹחָנָן]]</big>**.
 
 Jaddua is mentioned in [[Neh.12.11|Nehemiah 12:11]] and 22 as a high priest who served during the reign of Darius the Persian. He was the son of Jonathan and the grandson of Joiada, who were also high priests \([[Neh.12.11|Neh.12.11]]\). 
 
@@ -19,7 +19,7 @@ Jaddua's inclusion in the genealogy of high priests in Nehemiah 12 highlights th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaddua | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3037H) <small>*Hebrew*</small> | 2x | [[Neh.12.11] & [Neh.12.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaddua\*\|reference=Neh.12.11;Neh.12.22) |
-All Strong's for **Jaddua**: \[[[H3037H]]\]
+| Jaddua | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3037H) | 2x | [[Neh.12.11] & [Neh.12.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaddua\*\|reference=Neh.12.11;Neh.12.22) |
+All entries for **Jaddua**:  **<big>[[H3037|יַדּוּעַ]]</big>**
 #### Related Profiles:
 - **[Johanan](H3110L)** (father)

@@ -7,31 +7,31 @@ And he sent Eliakim, who [was] over the household, and Shebna the scribe, and th
 And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz<small><sub>**MT:**</sub></small>
 [[Isa.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.1|<< Isaiah 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.3|Isaiah 37:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Eliakim | <big><span class="asgreek">Ελιακείμ</span></big> <sup><small><small>[[G1662]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| manager, | <big><span class="asgreek">οικονόμον</span></big> <sup><small><small>[[G3623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shebna | <big><span class="asgreek">Σομνάν</span></big> <sup><small><small>[[H7644]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe | <big><span class="asgreek">γραμματέα</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| (with | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβυτέρους</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| putting on | <big><span class="asgreek">περιβεβλημένους</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| sackcloths) | <big><span class="asgreek">σάκκους</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Isaiah | <big><span class="asgreek">Ησαϊαν</span></big> <sup><small><small>[[G2268]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Amoz | <big><span class="asgreek">Αμώς</span></big> <sup><small><small>[[H0531]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet. | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Eliakim | **<big>[[G1662\|Ελιακείμ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| manager, | **<big>[[G3623\|οικονόμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shebna | **<big>[[H7644\|Σομνάν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| scribe | **<big>[[G1122\|γραμματέα]]</big>** |
+| (with | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| elders | **<big>[[G4245\|πρεσβυτέρους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| putting on | **<big>[[G4016\|περιβεβλημένους]]</big>** |
+| sackcloths) | **<big>[[G4526\|σάκκους]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Isaiah | **<big>[[G2268\|Ησαϊαν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Amoz | **<big>[[H0531\|Αμώς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| prophet. | **<big>[[G4396\|προφήτην]]</big>** |
 [[Isa.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.1|<< Isaiah 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.3|Isaiah 37:3 >>]]</td></tr></table>
 
 

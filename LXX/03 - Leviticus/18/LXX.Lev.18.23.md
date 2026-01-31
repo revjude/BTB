@@ -7,31 +7,31 @@ Neither shalt thou lie with any beast to defile thyself therewith: neither shall
 You must not lie carnally with any animal, thus defiling yourself with it; a woman must not stand before an animal to mate with it; that is a perversion.<small><sub>**MT:**</sub></small>
 [[Lev.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.22|<< Leviticus 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.24|Leviticus 18:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| four-footed \[creature\], | <big><span class="asgreek">τετράπουν</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| your marriage-bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a discharge of semen | <big><span class="asgreek">σπερματισμόν</span></big> <sup><small><small>[[G9139]]</small></small></sup> |
-| to be thoroughly defiled | <big><span class="asgreek">εκμιανθήναι</span></big> <sup><small><small>[[G7121]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| set \[herself\] | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| four-footed \[creature\] | <big><span class="asgreek">τετράπουν</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| to breed; | <big><span class="asgreek">βιβασθήναι</span></big> <sup><small><small>[[G6671]]</small></small></sup> |
-| detestable | <big><span class="asgreek">μυσαρόν</span></big> <sup><small><small>[[G8368]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| four-footed \[creature\], | **<big>[[G5074\|τετράπουν]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| give | **<big>[[G1325\|δώσεις]]</big>** |
+| your marriage-bed | **<big>[[G2845\|κοίτην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a discharge of semen | **<big>[[G9139\|σπερματισμόν]]</big>** |
+| to be thoroughly defiled | **<big>[[G7121\|εκμιανθήναι]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| a woman | **<big>[[G1135\|γυνή]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| set \[herself\] | **<big>[[G2476\|στήσεται]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| four-footed \[creature\] | **<big>[[G5074\|τετράπουν]]</big>** |
+| to breed; | **<big>[[G6671\|βιβασθήναι]]</big>** |
+| detestable | **<big>[[G8368\|μυσαρόν]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
 [[Lev.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.22|<< Leviticus 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.24|Leviticus 18:24 >>]]</td></tr></table>
 
 

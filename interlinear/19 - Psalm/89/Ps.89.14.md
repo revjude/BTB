@@ -6,16 +6,16 @@ Righteousness and justice are the foundation of Your throne; loving devotion and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.13|<< Psalms 89:13]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.15|Psalms 89:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] righteousness  | <span class="ashebrew"><big>צֶ֣דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and justice  | <span class="ashebrew"><big>וּ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| U. <small><sup>[[HC]]</sup></small> mish.pot <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] foundation of  | <span class="ashebrew"><big>מְכ֣וֹן </big></span><small><small><sup>[[H4349]]</sup></small></small> &#8207;| me.Khon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| throne your  | <span class="ashebrew"><big>כִּסְאֶ֑ </big></span><small><small><sup>[[H3678G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| kis.'E. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covenant loyalty  | <span class="ashebrew"><big>חֶ֥סֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> &#8207;| Che.sed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and faithfulness  | <span class="ashebrew"><big>וֶ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֱמֶ֗ת </big></span><small><small><sup>[[H0571G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they come to meet  | <span class="ashebrew"><big>יְֽקַדְּמ֥וּ </big></span><small><small><sup>[[H6923]]</sup></small></small> &#8207;| ye.ka.de.Mu <small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face your  | <span class="ashebrew"><big>פָנֶֽי </big></span><small><small><sup>[[H6440G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| fa.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] righteousness  |**<big>&#8207;[[H6664G\|צֶ֣דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and justice  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H4941H\|מִשְׁפָּט]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> mish.pot<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] foundation of  |**<big>&#8207;[[H4349\|מְכ֣וֹן]]&#8207; </big>**| me.Khon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| throne your  |**<big>&#8207;[[H3678G\|כִּסְאֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| kis.'E.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֥סֶד]]&#8207; </big>**| Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and faithfulness  |**<big>&#8207;[[H9002\|וֶ֝]]&#8207;&#8207;[[H0571G\|אֱמֶ֗ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they come to meet  |**<big>&#8207;[[H6923\|יְֽקַדְּמ֥וּ]]&#8207; </big>**| ye.ka.de.Mu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  |**<big>&#8207;[[H6440G\|פָנֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.13|<< Psalms 89:13]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.15|Psalms 89:15 >>]]</td></tr></table>
 
 

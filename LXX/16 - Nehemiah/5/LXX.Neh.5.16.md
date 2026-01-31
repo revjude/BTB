@@ -7,29 +7,29 @@ Yea, also I continued in the work of this wall, neither bought we any land: and 
 Instead, I devoted myself to the construction of the wall, and all my servants were gathered there for the work; we did not acquire any land.<small><sub>**MT:**</sub></small>
 [[Neh.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.15|<< Nehemiah 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.17|Nehemiah 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] work | <big><span class="asgreek">έργω</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχους</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I repaired | <big><span class="asgreek">εκράτησα</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| fields \[of land\] | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| acquire | <big><span class="asgreek">εκτησάμην</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servants | <big><span class="asgreek">παιδάριά</span></big> <sup><small><small>[[G3808]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones gathering | <big><span class="asgreek">συνηγμένοι</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| \[were\] there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| for | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work. | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] work | **<big>[[G2041\|έργω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| wall | **<big>[[G5038\|τείχους]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτων]]</big>** |
+| I repaired | **<big>[[G2902\|εκράτησα]]</big>** |
+| fields \[of land\] | **<big>[[G0068\|αγρόν]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| acquire | **<big>[[G2932\|εκτησάμην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my servants | **<big>[[G3808\|παιδάριά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones gathering | **<big>[[G4863\|συνηγμένοι]]</big>** |
+| \[were\] there | **<big>[[G1563\|εκεί]]</big>** |
+| for | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| work. | **<big>[[G2041\|έργον]]</big>** |
 [[Neh.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.15|<< Nehemiah 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.17|Nehemiah 5:17 >>]]</td></tr></table>
 
 

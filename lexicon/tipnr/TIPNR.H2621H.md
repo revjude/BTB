@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hosah</span> was a Levite who served as a gatekeeper at the tabernacle during the reign of King David.
 - A man living at the time of Divided Monarchy, first mentioned at [[1Chr.16.38|1Ch.16.38]]; 
-- only referred to as Hosah<[[H2621H]]> \(<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  father of Shimri<[[H8113I]]>, Hilkiah<[[H2518J]]>, Tebaliah<[[H2882]]>, Zechariah<[[H2148F]]>.
+- only referred to as Hosah **<big>[[H2621|חֹסָה]]</big>**; 
+-  father of Shimri **<big>[[H8113|שִׁמְרִי]]</big>**, Hilkiah **<big>[[H2518|חִלְקִיָּה]]</big>**, Tebaliah **<big>[[H2882|טְבַלְיָהוּ]]</big>**, Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 
 Hosah was a Levite who served as a gatekeeper during the reign of King David. He is mentioned in the book of 1 Chronicles. 
 
@@ -19,8 +19,8 @@ The role of the gatekeepers was crucial in ensuring the sanctity and proper func
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hosah | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2621H) <small>*Hebrew*</small> | 4x | [[1Ch.16.38] ... [1Ch.26.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hosah\*\|reference=1Ch.16.38;1Ch.26.10;1Ch.26.11;1Ch.26.16) |
-All Strong's for **Hosah**: \[[[H2621H]]\]
+| Hosah | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2621H) | 4x | [[1Ch.16.38] ... [1Ch.26.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hosah\*\|reference=1Ch.16.38;1Ch.26.10;1Ch.26.11;1Ch.26.16) |
+All entries for **Hosah**:  **<big>[[H2621|חֹסָה]]</big>**
 #### Related Profiles:
 - **[Shimri](H8113I)** (child)
 - **[Hilkiah](H2518J)** (child)

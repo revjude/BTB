@@ -7,19 +7,19 @@ As keepers of a field, are they against her round about; because she hath been r
 They surround her like men guarding a field, because she has rebelled against Me,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.16|<< Jeremiah 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.18|Jeremiah 4:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| ones guarding | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| a field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| they have come | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about; | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you neglected me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ημέλησας</span></big> <sup><small><small>[[G0272]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| ones guarding | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| a field | **<big>[[G0068\|αγρόν]]</big>** |
+| they have come | **<big>[[G1096\|εγένοντο]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| round about; | **<big>[[G2945\|κύκλω]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you neglected me, | **<big>[[G1473\|εμού]]</big>** **<big>[[G0272\|ημέλησας]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.16|<< Jeremiah 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.18|Jeremiah 4:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָטִיעַ‎</span></big> **nâṭîyaʻ** <small>*(naw-tee'-ah)*</small> ==**plant**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָטַע‎</span><sup><small>[[H5193]]</small></sup></small>
+**<big><span class="ashebrew">‎נָטִיעַ‎</span></big>** **nâṭîyaʻ** <small>*(naw-tee'-ah)*</small> ==**plant**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5193|‎נָטַע‎]]</big>**</small>
 
 $\quad$ plant.
 - ***a plant***

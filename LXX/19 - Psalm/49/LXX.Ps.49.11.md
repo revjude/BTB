@@ -7,26 +7,26 @@ Their inward thought [is, that] their houses [shall continue] for ever, [and] th
 Their graves are their eternal homes—their dwellings for endless generations—even though their lands were their namesakes.<small><sub>**MT:**</sub></small>
 [[Ps.49.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.10|<< Psalm 49:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.12|Psalm 49:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tombs | <big><span class="asgreek">τάφοι</span></big> <sup><small><small>[[G5028]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] their houses | <big><span class="asgreek">οικίαι</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon, | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| \[and\] their tents | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| generation. | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| They call | <big><span class="asgreek">επεκαλέσαντο</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lands | <big><span class="asgreek">γαιών</span></big> <sup><small><small>[[G6710]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their tombs | **<big>[[G5028\|τάφοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] their houses | **<big>[[G3614\|οικίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon, | **<big>[[G0165\|αιώνα]]</big>** |
+| \[and\] their tents | **<big>[[G4638\|σκηνώματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| generation. | **<big>[[G1074\|γενεάν]]</big>** |
+| They call | **<big>[[G1941\|επεκαλέσαντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their names | **<big>[[G3686\|ονόματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| after | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| lands | **<big>[[G6710\|γαιών]]</big>** |
 [[Ps.49.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.10|<< Psalm 49:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.12|Psalm 49:12 >>]]</td></tr></table>
 
 

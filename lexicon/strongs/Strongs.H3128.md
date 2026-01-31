@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹנַת אֵלֶם רְחֹקִים‎</span></big> **yôwnath ʼêlem rᵉchôqîym** <small>*(yo-nath' ay'-lem rekh-o-keem')*</small> ==**Dove on Far-off Terebinths**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>from <span class="ashebrew">‎יוֹנָה‎</span><sup><small>[[H3123]]</small></sup> and <span class="ashebrew">‎אֵלֶם‎</span><sup><small>[[H0482]]</small></sup> and the plural of <span class="ashebrew">‎רָחוֹק‎</span><sup><small>[[H7350]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹנַת אֵלֶם רְחֹקִים‎</span></big>** **yôwnath ʼêlem rᵉchôqîym** <small>*(yo-nath' ay'-lem rekh-o-keem')*</small> ==**Dove on Far-off Terebinths**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>from **<big>[[H3123|‎יוֹנָה‎]]</big>** and **<big>[[H0482|‎אֵלֶם‎]]</big>** and the plural of **<big>[[H7350|‎רָחוֹק‎]]</big>**</small>
 
 $\quad$ Jonath-elem-rechokim.
 - § Jonath-elem-recho-kim = *"the silent dove of far-off places"*

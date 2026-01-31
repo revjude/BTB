@@ -7,43 +7,43 @@ Yet they shall be ministers in my sanctuary, [having] charge at the gates of the
 Yet they shall be ministers in My sanctuary, having charge of the gates of the temple and ministering there. They shall slaughter the burnt offerings and other sacrifices for the people and stand before them to minister to them.<small><sub>**MT:**</sub></small>
 [[Ezek.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.10|<< Ezekiel 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.12|Ezekiel 44:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| yet | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy ones | <big><span class="asgreek">αγίοις</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ministering | <big><span class="asgreek">λειτουργούντες</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| as doorkeepers | <big><span class="asgreek">θυρωροί</span></big> <sup><small><small>[[G2377]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates | <big><span class="asgreek">πυλών</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ministering | <big><span class="asgreek">λειτουργούντες</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| These | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall slay | <big><span class="asgreek">σφάξουσι</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifices | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \[for\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people; | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσονται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to minister | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| yet | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my holy ones | **<big>[[G0039\|αγίοις]]</big>** **<big>[[G1473\|μου]]</big>** |
+| ministering | **<big>[[G3008\|λειτουργούντες]]</big>** |
+| as doorkeepers | **<big>[[G2377\|θυρωροί]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| gates | **<big>[[G4439\|πυλών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house, | **<big>[[G3624\|οίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ministering | **<big>[[G3008\|λειτουργούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house. | **<big>[[G3624\|οίκω]]</big>** |
+| These | **<big>[[G3778\|ούτοι]]</big>** |
+| shall slay | **<big>[[G4969\|σφάξουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sacrifices | **<big>[[G2378\|θυσίας]]</big>** |
+| \[for\] the | **<big>[[G3588\|τω]]</big>** |
+| people; | **<big>[[G2992\|λαώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| shall stand | **<big>[[G2476\|στήσονται]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to minister | **<big>[[G3008\|λειτουργείν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ezek.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.10|<< Ezekiel 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.12|Ezekiel 44:12 >>]]</td></tr></table>
 
 

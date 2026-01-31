@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִלּוֹא‎</span></big> **millôwʼ** <small>*(mil-lo')*</small> ==**Millo**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">מִלֹּא</span> **mil-lôʼ** <small>*(mil-lo')*</small>; (2 Kings 12:20), from <span class="ashebrew">‎מָלֵא‎</span><sup><small>[[H4390]]</small></sup></small>
+**<big><span class="ashebrew">‎מִלּוֹא‎</span></big>** **millôwʼ** <small>*(mil-lo')*</small> ==**Millo**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִלֹּא</span></big>** **mil-lôʼ** <small>*(mil-lo')*</small>; (2 Kings 12:20), from **<big>[[H4390|‎מָלֵא‎]]</big>**</small>
 
-$\quad$ Millo. See also <span class="ashebrew">‎בֵּית מִלּוֹא‎</span><sup><small>[[H1037]]</small></sup>.
+$\quad$ Millo. See also **<big>[[H1037|‎בֵּית מִלּוֹא‎]]</big>**.
 - § Millo = *"rampart" or "mound"*
 - ***a rampart*** (as filled in), i.e. ***the citadel***
 

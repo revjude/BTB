@@ -6,22 +6,22 @@ The great Day of the LORD is near—near and coming quickly. Listen, the Day of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.13|<< Zephaniah 1:13]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.15|Zephaniah 1:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] near  | <span class="ashebrew"><big>קָר֤וֹב </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| ka.Rov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] day of  | <span class="ashebrew"><big>יוֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yom- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> great  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גָּד֔וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| near  | <span class="ashebrew"><big>קָר֖וֹב </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| ka.Rov <small><sup>[[HAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hurrying  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַהֵ֣ר </big></span><small><small><sup>[[H4118A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Her <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹ֑ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sound of  | <span class="ashebrew"><big>ק֚וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] day of  | <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bitter  | <span class="ashebrew"><big>מַ֥ר </big></span><small><small><sup>[[H4751]]</sup></small></small> &#8207;| mar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] shouting out  | <span class="ashebrew"><big>צֹרֵ֖חַ </big></span><small><small><sup>[[H6873]]</sup></small></small> &#8207;| tzo.Re.ach <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֥ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a warrior  | <span class="ashebrew"><big>גִּבּֽוֹר </big></span><small><small><sup>[[H1368]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| gi.Bor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] near  |**<big>&#8207;[[H7138\|קָר֤וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day of  |**<big>&#8207;[[H3117G\|יוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yom-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גָּד֔וֹל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| near  |**<big>&#8207;[[H7138\|קָר֖וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hurrying  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4118A\|מַהֵ֣ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Her<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֑ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963H\|ק֚וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day of  |**<big>&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bitter  |**<big>&#8207;[[H4751\|מַ֥ר]]&#8207; </big>**| mar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] shouting out  |**<big>&#8207;[[H6873\|צֹרֵ֖חַ]]&#8207; </big>**| tzo.Re.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֥ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a warrior  |**<big>&#8207;[[H1368\|גִּבּֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.13|<< Zephaniah 1:13]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.15|Zephaniah 1:15 >>]]</td></tr></table>
 
 

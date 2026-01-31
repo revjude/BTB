@@ -1,7 +1,5 @@
-<span class="ashebrew">‎שְׁמִידָ֑ע‎</span> <small>***(she.mi.da)***</small> ==**Shemida**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.32|Num.26.32]]
--  son of: Gilead ([[H1568H]])
--  brother of: Abiezer ([[H0044I]]), Helek ([[H2507]]), Asriel ([[H0844]]), Shechem ([[H7928]]) and Hepher ([[H2660A]])
--  father of: Ahian ([[H0291]]), Shechem ([[H7928H]]), Likhi ([[H3949]]) and Aniam ([[H0593]])
-- Also named: <i>she.mi.da.i</i> (<span class='ashebrew'>‎ש‎</span>ְׁ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎יד‎</span>ָ<span class='ashebrew'>‎ע‎</span>ִ<span class='ashebrew'>‎י‎</span> "Shemidaite" [[H8062]])
-
+-  son of: Gilead (**<big>[[H1568H|גִּלְעָד]]</big>**)
+-  brother of: Abiezer (**<big>[[H0044I|אֲבִיעֶזֶר]]</big>**), Helek (**<big>[[H2507|חֵלֶק]]</big>**), Asriel (**<big>[[H0844|אַשְׂרִיאֵל]]</big>**), Shechem (**<big>[[H7928|שֶׁכֶם]]</big>**) and Hepher (**<big>[[H2660A|חֵפֶר]]</big>**)
+-  father of: Ahian (**<big>[[H0291|אַחְיָן]]</big>**), Shechem (**<big>[[H7928H|שֶׁכֶם]]</big>**), Likhi (**<big>[[H3949|לִקְחִי]]</big>**) and Aniam (**<big>[[H0593|אֲנִיעָם]]</big>**)
+- Also named: <i>she.mi.da.i</i> (<span class='ashebrew'>‎ש‎</span>ְׁ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎יד‎</span>ָ<span class='ashebrew'>‎ע‎</span>ִ<span class='ashebrew'>‎י‎</span> "Shemidaite" **<big>[[H8062|שְׁמִידָעִי]]</big>**)

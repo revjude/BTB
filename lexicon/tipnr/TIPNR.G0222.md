@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Alexandria</span>, a significant port city in Egypt, played a role in Paul's journey to Rome.
 - A location first mentioned at Act.6.9; 
-- referred to as Alexandria<[[G0222]]> \(<span class='tipnrLangGreek'>Ἀλεξανδρῖνος</span>\), or Alexandrian<[[G0221]]> \(<span class='tipnrLangGreek'>Ἀλεξανδρεύς</span>\).
+- referred to as Alexandria **<big>[[G0222|Ἀλεξανδρῖνος]]</big>**, or Alexandrian **<big>[[G0221|Ἀλεξανδρεύς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.2278414761719,29.9569242709775&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Alexandria, a prominent city in Egypt, is mentioned in the book of Acts in conne
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alexandria | [<span class='tipnrLangGreek'>Ἀλεξανδρῖνος</span>](G0222) <small>*Greek*</small> | 2x | [[Act.27.6] & [Act.28.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexandria\*\|reference=Act.27.6;Act.28.11) |
-| Alexandrian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀλεξανδρεύς</span>](G0221) <small>*Greek*</small> | 2x | [[Act.6.9] & [Act.18.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexandria\*\|reference=Act.6.9;Act.18.24) |
-All Strong's for **Alexandria**: \[[[G0222]]\] \[[[G0221]]\]
+| Alexandria | [<span class='tipnrLangGreek'>Ἀλεξανδρῖνος</span>](G0222) | 2x | [[Act.27.6] & [Act.28.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexandria\*\|reference=Act.27.6;Act.28.11) |
+| Alexandrian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀλεξανδρεύς</span>](G0221) | 2x | [[Act.6.9] & [Act.18.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexandria\*\|reference=Act.6.9;Act.18.24) |
+All entries for **Alexandria**:  **<big>[[G0222|Ἀλεξανδρῖνος]]</big>** ☩  **<big>[[G0221|Ἀλεξανδρεύς]]</big>**

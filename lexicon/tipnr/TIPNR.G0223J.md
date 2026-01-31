@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Alexander</span>, along with Hymenaeus, was an opponent of Paul's teaching and was handed over to Satan by Paul. \([[1Tim.1.20|1Ti.1.20]]; [[2Tim.4.14|2Ti.4.14]]\)
 - A man living at the time of the New Testament, first mentioned at [[1Tim.1.20|1Ti.1.20]]; 
-- only referred to as Alexander<[[G0223J]]> \(<span class='tipnrLangGreek'>Ἀλέξανδρος</span>\).
+- only referred to as Alexander **<big>[[G0223|Ἀλέξανδρος]]</big>**.
 
 Alexander is mentioned by Paul in his letters to Timothy as an individual who opposed his teaching and caused him harm. In the first letter to Timothy, Paul writes that he had handed Alexander and Hymenaeus over to Satan, so that they might learn not to blaspheme. \([[1Tim.1.20|1Ti.1.20]]\) 
 
@@ -18,5 +18,5 @@ These passages highlight the challenges and opposition that Paul and the early c
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223J) <small>*Greek*</small> | 2x | [[1Ti.1.20] & [2Ti.4.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=1Ti.1.20;2Ti.4.14) |
-All Strong's for **Alexander**: \[[[G0223J]]\]
+| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223J) | 2x | [[1Ti.1.20] & [2Ti.4.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=1Ti.1.20;2Ti.4.14) |
+All entries for **Alexander**:  **<big>[[G0223|Ἀλέξανδρος]]</big>**

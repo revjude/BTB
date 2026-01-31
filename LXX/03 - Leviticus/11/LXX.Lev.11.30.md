@@ -7,17 +7,17 @@ And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
 the gecko, the monitor lizard, the common lizard, the skink, and the chameleon.<small><sub>**MT:**</sub></small>
 [[Lev.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.29|<< Leviticus 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.31|Leviticus 11:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] field-mouse, | <big><span class="asgreek">μυγάλη</span></big> <sup><small><small>[[G8353]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| chameleon, | <big><span class="asgreek">χαμαιλέων</span></big> <sup><small><small>[[G9697]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| newt, | <big><span class="asgreek">καλαβώτης</span></big> <sup><small><small>[[G7775]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lizard, | <big><span class="asgreek">σαύρα</span></big> <sup><small><small>[[G9060]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mole -- | <big><span class="asgreek">ασπάλαξ</span></big> <sup><small><small>[[G6572]]</small></small></sup> |
+| \[The\] field-mouse, | **<big>[[G8353\|μυγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| chameleon, | **<big>[[G9697\|χαμαιλέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| newt, | **<big>[[G7775\|καλαβώτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lizard, | **<big>[[G9060\|σαύρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mole -- | **<big>[[G6572\|ασπάλαξ]]</big>** |
 [[Lev.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.29|<< Leviticus 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.31|Leviticus 11:31 >>]]</td></tr></table>
 
 

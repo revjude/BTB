@@ -7,27 +7,27 @@ Bread [corn] is bruised; because he will not ever be threshing it, nor break [it
 Grain for bread must be ground, but it is not endlessly threshed. Though the wheels of the cart roll over it, the horses do not crush it.<small><sub>**MT:**</sub></small>
 [[Isa.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.27|<< Isaiah 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.29|Isaiah 28:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| cummin | <big><span class="asgreek">κύμινον</span></big> <sup><small><small>[[G2951]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| shall be eaten | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| provoked to anger | <big><span class="asgreek">οργισθήσομαι</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| against you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \[shall the\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my bitterness | <big><span class="asgreek">πικρίας</span></big> <sup><small><small>[[G4088]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| trample | <big><span class="asgreek">καταπατήσει</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| cummin | **<big>[[G2951\|κύμινον]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| bread | **<big>[[G0740\|άρτου]]</big>** |
+| shall be eaten | **<big>[[G0977\|βρωθήσεται]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| provoked to anger | **<big>[[G3710\|οργισθήσομαι]]</big>** |
+| against you | **<big>[[G1473\|υμίν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \[shall the\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my bitterness | **<big>[[G4088\|πικρίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| trample | **<big>[[G2662\|καταπατήσει]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
 [[Isa.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.27|<< Isaiah 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.29|Isaiah 28:29 >>]]</td></tr></table>
 
 

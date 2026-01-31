@@ -7,23 +7,23 @@ And the king answered them roughly; and king Rehoboam forsook the counsel of the
 And the king answered them harshly. King Rehoboam rejected the advice of the elders<small><sub>**MT:**</sub></small>
 [[2Chr.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.12|<< 2 Chronicles 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.14|2 Chronicles 10:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| hard; | <big><span class="asgreek">σκληρά</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατέλιπεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Rehoboam | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders. | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| hard; | **<big>[[G4642\|σκληρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατέλιπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Rehoboam | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| counsel | **<big>[[G1012\|βουλήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| elders. | **<big>[[G4245\|πρεσβυτέρων]]</big>** |
 [[2Chr.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.12|<< 2 Chronicles 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.14|2 Chronicles 10:14 >>]]</td></tr></table>
 
 

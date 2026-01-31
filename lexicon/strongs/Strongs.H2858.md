@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹתֶמֶת‎</span></big> **chôthemeth** <small>*(kho-the-meth)*</small> ==**ring**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎חָתַם‎</span><sup><small>[[H2856]]</small></sup></small>
+**<big><span class="ashebrew">‎חֹתֶמֶת‎</span></big>** **chôthemeth** <small>*(kho-the-meth)*</small> ==**ring**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine active participle of **<big>[[H2856|‎חָתַם‎]]</big>**</small>
 
 $\quad$ signet.
 - ***a seal***

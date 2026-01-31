@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּין‎</span></big> **dîyn** <small>*(deen)*</small> ==**judgment**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (Job 19:29) <span class="ashebrew">דּוּן</span> **dûwn** <small>*(deen)*</small>; from <span class="ashebrew">‎דִּין‎</span><sup><small>[[H1777]]</small></sup></small>
+**<big><span class="ashebrew">‎דִּין‎</span></big>** **dîyn** <small>*(deen)*</small> ==**judgment**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (Job 19:29) **<big><span class="ashebrew">דּוּן</span></big>** **dûwn** <small>*(deen)*</small>; from **<big>[[H1777|‎דִּין‎]]</big>**</small>
 
 $\quad$ cause, judgement, plea, strife.
 - ***judgement*** (the suit, justice, sentence or tribunal)
@@ -12,4 +12,4 @@ $\quad$ **1c)** condemnation, judgment
 $\quad$ **1d)** dispute, legal suit, strife
 $\quad$ **1e)** government
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δίκη</span><sup><small>[[G1349]]</small></sup> · <span class="asgreek">κρίμα</span><sup><small>[[G2917]]</small></sup> · <span class="asgreek">κρίσις</span><sup><small>[[G2920]]</small></sup> · <span class="asgreek">κριτήριον</span><sup><small>[[G2922]]</small></sup> · <span class="asgreek">συνέδριον</span><sup><small>[[G4892]]</small></sup>
+<small>See Greek: </small>**<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1349|δίκη]]</big>** · **<big>[[G2917|κρίμα]]</big>** · **<big>[[G2920|κρίσις]]</big>** · **<big>[[G2922|κριτήριον]]</big>** · **<big>[[G4892|συνέδριον]]</big>**

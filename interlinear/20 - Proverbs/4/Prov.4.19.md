@@ -6,15 +6,15 @@ But the way of the wicked is like the darkest gloom; they do not know what makes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.18|<< Proverbs 4:18]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.20|Proverbs 4:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֭שָׁעִים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Re.sha.'im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] like \<the> darkness  | <span class="ashebrew"><big>כָּֽ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲפֵלָ֑ה </big></span><small><small><sup>[[H0653]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> 'a.fe.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know  | <span class="ashebrew"><big>יָ֝דְע֗וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.de.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on what?  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מֶּ֥ה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Meh <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| are they stumbling  | <span class="ashebrew"><big>יִכָּשֵֽׁלוּ </big></span><small><small><sup>[[H3782]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| yi.ka.She.lu <small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like \<the> darkness  |**<big>&#8207;[[H9004\|כָּֽ]]&#8207;&#8207;[[H0653\|אֲפֵלָ֑ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'a.fe.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know  |**<big>&#8207;[[H3045\|יָ֝דְע֗וּ]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on what?  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4100\|מֶּ֥ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are they stumbling  |**<big>&#8207;[[H3782\|יִכָּשֵֽׁלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yi.ka.She.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.18|<< Proverbs 4:18]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.20|Proverbs 4:20 >>]]</td></tr></table>
 
 

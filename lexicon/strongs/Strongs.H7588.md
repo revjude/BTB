@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁאוֹן‎</span></big> **shâʼôwn** <small>*(shaw-one')*</small> ==**roar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁאָה‎</span><sup><small>[[H7582]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁאוֹן‎</span></big>** **shâʼôwn** <small>*(shaw-one')*</small> ==**roar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7582|‎שָׁאָה‎]]</big>**</small>
 
 $\quad$ [idiom] horrible, noise, pomp, rushing, tumult ([idiom] -uous).
 - ***uproar*** (as of rushing)
@@ -9,4 +9,4 @@ $\quad$ [idiom] horrible, noise, pomp, rushing, tumult ([idiom] -uous).
 $\quad$ **1a)** roar (of water)
 $\quad$ **1b)** uproar (of revellers)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπώλεια</span><sup><small>[[G0684]]</small></sup> · <span class="asgreek">ἦχος</span><sup><small>[[G2279]]</small></sup> · <span class="asgreek">καταφέρω</span><sup><small>[[G2702]]</small></sup> · <span class="asgreek">κραυγή</span><sup><small>[[G2906]]</small></sup> · <span class="asgreek">ταλαιπωρία</span><sup><small>[[G5004]]</small></sup> · <span class="asgreek">ὑπερηφανία</span><sup><small>[[G5243]]</small></sup>
+<small>See Greek: </small>**<big>[[G0684|ἀπώλεια]]</big>** · **<big>[[G2279|ἦχος]]</big>** · **<big>[[G2702|καταφέρω]]</big>** · **<big>[[G2906|κραυγή]]</big>** · **<big>[[G5004|ταλαιπωρία]]</big>** · **<big>[[G5243|ὑπερηφανία]]</big>**

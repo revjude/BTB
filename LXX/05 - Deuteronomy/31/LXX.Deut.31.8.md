@@ -11,23 +11,23 @@ The LORD Himself goes before you; He will be with you. He will never leave you n
 > $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">συμπορεύομενος</span></big> <sup><small><small>[[G4848]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| send | <big><span class="asgreek">ανήσει</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| you \[away\], | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor in any way | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| abandon you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εγκαταλίπη</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| be timid! | <big><span class="asgreek">δειλία</span></big> <sup><small><small>[[G1168]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| going | **<big>[[G4848\|συμπορεύομενος]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| send | **<big>[[G0447\|ανήσει]]</big>** |
+| you \[away\], | **<big>[[G1473\|σε]]</big>** |
+| nor in any way | **<big>[[G8565\|ουδέ μη]]</big>** |
+| abandon you. | **<big>[[G1473\|σε]]</big>** **<big>[[G1459\|εγκαταλίπη]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβού]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| be timid! | **<big>[[G1168\|δειλία]]</big>** |
 [[Deut.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.7|<< Deuteronomy 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.9|Deuteronomy 31:9 >>]]</td></tr></table>
 
 

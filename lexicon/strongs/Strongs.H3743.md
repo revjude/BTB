@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּרוּב‎</span></big> **Kᵉrûwb** <small>*(ker-oob')*</small> ==**Cherub**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎כְּרוּב‎</span><sup><small>[[H3742]]</small></sup></small>
+**<big><span class="ashebrew">‎כְּרוּב‎</span></big>** **Kᵉrûwb** <small>*(ker-oob')*</small> ==**Cherub**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3742|‎כְּרוּב‎]]</big>**</small>
 
 $\quad$ Cherub.
 - § Cherub = *"blessing"*

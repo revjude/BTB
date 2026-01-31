@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂעַר‎</span></big> **sâʻar** <small>*(saw-ar')*</small> ==**to shudder**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂעַר‎</span></big>** **sâʻar** <small>*(saw-ar')*</small> ==**to shudder**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (horribly) afraid, fear, hurl as a storm, be tempestuous, come like (take away as with) a whirlwind.

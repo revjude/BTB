@@ -1,4 +1,3 @@
-<span class="asaramaic">‎בִּנְיָן‎</span> <small>***(bin.yan)***</small> ==**building**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H1146]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1146|בִּנְיָן]]</big>**</small> 
 
-- Aramaic of <i>bin.yan</i> (<span class='ashebrew'>‎ב‎</span>ִּ<span class='ashebrew'>‎נ‎</span>ְ<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ן‎</span> "building" [[H1146]])
+- Aramaic of <i>bin.yan</i> (<span class='ashebrew'>‎ב‎</span>ִּ<span class='ashebrew'>‎נ‎</span>ְ<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ן‎</span> "building" **<big>[[H1146|בִּנְיָן]]</big>**)

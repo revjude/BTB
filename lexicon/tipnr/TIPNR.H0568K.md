@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Amariah</span> was a Levite who served during the reign of King Hezekiah and assisted in distributing offerings to his fellow Levites. \([[2Chr.31.15|2Ch.31.15]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.31.15|2Ch.31.15]]; 
-- only referred to as Amariah<[[H0568K]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**.
 
 Amariah is mentioned in the context of King Hezekiah's religious reforms in Judah. Hezekiah, a righteous king, sought to restore proper worship and support for the priests and Levites. \(2Ch.31.1-21\) 
 
@@ -18,5 +18,5 @@ The mention of Amariah in this context highlights the importance of the Levites 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568K) <small>*Hebrew*</small> | 1x | [2Ch.31.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=2Ch.31.15) |
-All Strong's for **Amariah**: \[[[H0568K]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568K) | 1x | [2Ch.31.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=2Ch.31.15) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**

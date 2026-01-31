@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַדְרִיאֵל‎</span></big> **ʻAdrîyʼêl** <small>*(ad-ree-ale')*</small> ==**Adriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עֵדֶר‎</span><sup><small>[[H5739]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; flock of God</small>
+**<big><span class="ashebrew">‎עַדְרִיאֵל‎</span></big>** **ʻAdrîyʼêl** <small>*(ad-ree-ale')*</small> ==**Adriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5739|‎עֵדֶר‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; flock of God</small>
 
 $\quad$ Adriel.
 - § Adriel = *"flock of God"*

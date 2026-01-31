@@ -7,28 +7,28 @@ To make their land desolate, [and] a perpetual hissing; every one that passeth t
 They have made their land a desolation, a perpetual object of scorn; all who pass by will be appalled and shake their heads.<small><sub>**MT:**</sub></small>
 [[Jer.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.15|<< Jeremiah 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.17|Jeremiah 18:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to order up | <big><span class="asgreek">τάξαι</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| extinction, | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hissing | <big><span class="asgreek">σύριγμα</span></big> <sup><small><small>[[G9347]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| everlasting | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| traveling | <big><span class="asgreek">διαπορευόμενοι</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be amazed, | <big><span class="asgreek">εκστήσονται</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall shake | <big><span class="asgreek">κινήσουσι</span></big> <sup><small><small>[[G2795]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to order up | **<big>[[G5021\|τάξαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| extinction, | **<big>[[G0854\|αφανισμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hissing | **<big>[[G9347\|σύριγμα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| everlasting | **<big>[[G0166\|αιώνιον]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| traveling | **<big>[[G1279\|διαπορευόμενοι]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| it | **<big>[[G1473\|αυτής]]</big>** |
+| shall be amazed, | **<big>[[G1839\|εκστήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall shake | **<big>[[G2795\|κινήσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.15|<< Jeremiah 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.17|Jeremiah 18:17 >>]]</td></tr></table>
 
 

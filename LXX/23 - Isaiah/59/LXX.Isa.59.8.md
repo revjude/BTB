@@ -11,29 +11,29 @@ The way of peace they have not known, and there is no justice in their tracks. T
 > $\quad$ referenced by: [[Rom.3.15|Rom 3:15-17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of peace | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know, | <big><span class="asgreek">οίδασι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ways. | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| their roads | <big><span class="asgreek">τρίβοι</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are perverted | <big><span class="asgreek">διεστραμμέναι</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they travel through | <big><span class="asgreek">διοδεύουσι</span></big> <sup><small><small>[[G1353]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">οίδασιν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| peace. | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of peace | **<big>[[G1515\|ειρήνης]]</big>** |
+| they do not | **<big>[[G3756\|ουκ]]</big>** |
+| know, | **<big>[[G1492\|οίδασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| equity | **<big>[[G2920\|κρίσις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their ways. | **<big>[[G3598\|οδοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| their roads | **<big>[[G5147\|τρίβοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| are perverted | **<big>[[G1294\|διεστραμμέναι]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| they travel through | **<big>[[G1353\|διοδεύουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they do not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|οίδασιν]]</big>** |
+| peace. | **<big>[[G1515\|ειρήνην]]</big>** |
 [[Isa.59.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.7|<< Isaiah 59:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.9|Isaiah 59:9 >>]]</td></tr></table>
 
 

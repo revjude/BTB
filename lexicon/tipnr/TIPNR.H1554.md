@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gallim</span>, a town in Benjamin, was the home of Paltiel, Michal's husband, and is mentioned in a prophecy of Isaiah.
 - A location first mentioned at [[1Sam.25.44|1Sa.25.44]]; 
-- only referred to as Gallim<[[H1554]]> \(<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ל</span>ִּ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Gallim **<big>[[H1554|גַּלִּים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.816667,35.250000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of Gallim is not specified in the Bible, but it is believed t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gallim | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ל</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H1554) <small>*Hebrew*</small> | 2x | [[1Sa.25.44] & [Isa.10.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gallim\*\|reference=1Sa.25.44;Isa.10.30) |
-All Strong's for **Gallim**: \[[[H1554]]\]
+| Gallim | [<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ל</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H1554) | 2x | [[1Sa.25.44] & [Isa.10.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gallim\*\|reference=1Sa.25.44;Isa.10.30) |
+All entries for **Gallim**:  **<big>[[H1554|גַּלִּים]]</big>**

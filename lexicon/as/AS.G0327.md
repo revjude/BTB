@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀνα-ζητέω</span></span>, <span class="asgreek">-ῶ </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.3.4|Jb 3:4]] (<span class="ashebrew">דרשׁ</span> <small><sup>[[H1875]]</sup></small>), [[LXX.Job.10.6|Jb 10:6]] (<span class="ashebrew">בּקשׁ</span> <small><sup>[[H1245]]</sup></small> pi.), [[2Macc.13.21|II Mac 13:21]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀνα-ζητέω</span></span>, <span class="asgreek">-ῶ </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.3.4|Jb 3:4]] (**<big>[[H1875|דרשׁ]]</big>**), [[LXX.Job.10.6|Jb 10:6]] (**<big>[[H1245|בּקשׁ]]</big>** pi.), [[2Macc.13.21|II Mac 13:21]]\*;\]</span> </span>
 <span class="asitalic">to look for</span> or <span class="asitalic">seek carefully</span> ("specially of searching for human beings, with an implication of difficulty": MM, <span class="asitalic">VGT</span>, s.v.): [[Luke.2.44|Lk 2:44]], [[Luke.2.45|45]], [[Acts.11.25|Ac 11:25]].†
 
 **Abbott-Smith References**

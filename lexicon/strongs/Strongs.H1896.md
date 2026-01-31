@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֵגֵא‎</span></big> **Hêgêʼ** <small>*(hay-gay')*</small> ==**Hegai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (by permutation) <span class="ashebrew">הֵגַי</span> **Hêgay** <small>*(haygah'-ee)*</small>; probably of Persian origin</small>
+**<big><span class="ashebrew">‎הֵגֵא‎</span></big>** **Hêgêʼ** <small>*(hay-gay')*</small> ==**Hegai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (by permutation) **<big><span class="ashebrew">הֵגַי</span></big>** **Hêgay** <small>*(haygah'-ee)*</small>; probably of Persian origin</small>
 
 $\quad$ Hegai, Hege.
 - § Hegai or Hege = *"eunuch"*

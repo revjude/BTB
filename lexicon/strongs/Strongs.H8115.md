@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׇׁמְרַיִן‎</span></big> **Shomrayin** <small>*(shom-rah'-yin)*</small> ==**Samaria**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שֹׁמְרוֹן‎</span><sup><small>[[H8111]]</small></sup></small>
+**<big><span class="ashebrew">‎שׇׁמְרַיִן‎</span></big>** **Shomrayin** <small>*(shom-rah'-yin)*</small> ==**Samaria**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8111|‎שֹׁמְרוֹן‎]]</big>**</small>
 
 $\quad$ Samaria.
 - § Samaria = *"watch mountain"*

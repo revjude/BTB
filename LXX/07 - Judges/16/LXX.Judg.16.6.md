@@ -7,29 +7,29 @@ And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength [li
 So Delilah said to Samson, “Please tell me the source of your great strength and how you can be tied up and subdued.”<small><sub>**MT:**</sub></small>
 [[Judg.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.5|<< Judges 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.7|Judges 16:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Delilah said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαλιλά</span></big> <sup><small><small>[[H1807]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Samson, | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| Explain | <big><span class="asgreek">απάγγειλον</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what \[means\] | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength \[is\] | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what \[means\] | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you shall be tied | <big><span class="asgreek">δεθήση</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| \[so as\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to humble | <big><span class="asgreek">ταπεινωθήναί</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Delilah said | **<big>[[G2036\|είπε]]</big>** **<big>[[H1807\|Δαλιλά]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Samson, | **<big>[[G4546\|Σαμψών]]</big>** |
+| Explain | **<big>[[G0518\|απάγγειλον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| what \[means\] | **<big>[[G5100\|τίνι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| strength \[is\] | **<big>[[G2479\|ισχύς]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| what \[means\] | **<big>[[G5100\|τίνι]]</big>** |
+| you shall be tied | **<big>[[G1210\|δεθήση]]</big>** |
+| \[so as\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| to humble | **<big>[[G5013\|ταπεινωθήναί]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
 [[Judg.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.5|<< Judges 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.7|Judges 16:7 >>]]</td></tr></table>
 
 

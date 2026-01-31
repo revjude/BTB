@@ -7,43 +7,43 @@ And it came to pass on the seventh day, that they said unto Samson’s wife, Ent
 So on the fourth day they said to Samson’s wife, “Entice your husband to explain the riddle to us, or we will burn you and your father’s household to death. Did you invite us here to rob us?”<small><sub>**MT:**</sub></small>
 [[Judg.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.16|Judges 14:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they spoke | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Samson, \[saying\], | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| Deceive | <big><span class="asgreek">απάτησον</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your husband! | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him explain | <big><span class="asgreek">απαγγειλάτω</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riddle, | <big><span class="asgreek">πρόβλημα</span></big> <sup><small><small>[[G8892]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| we should burn | <big><span class="asgreek">εμπυρίσωμέν</span></big> <sup><small><small>[[G7207]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to make us poor | <big><span class="asgreek">πτωχεύσαι</span></big> <sup><small><small>[[G4433]]</small></small></sup> |
-| did you call | <big><span class="asgreek">εκαλέσατε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they spoke | **<big>[[G2036\|είπαν]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| wife | **<big>[[G1135\|γυναικί]]</big>** |
+| of Samson, \[saying\], | **<big>[[G4546\|Σαμψών]]</big>** |
+| Deceive | **<big>[[G0538\|απάτησον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your husband! | **<big>[[G0435\|άνδρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him explain | **<big>[[G0518\|απαγγειλάτω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| riddle, | **<big>[[G8892\|πρόβλημα]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| we should burn | **<big>[[G7207\|εμπυρίσωμέν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire; | **<big>[[G4442\|πυρί]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to make us poor | **<big>[[G4433\|πτωχεύσαι]]</big>** |
+| did you call | **<big>[[G2564\|εκαλέσατε]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
 [[Judg.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.16|Judges 14:16 >>]]</td></tr></table>
 
 

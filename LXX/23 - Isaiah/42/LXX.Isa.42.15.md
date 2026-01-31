@@ -7,25 +7,25 @@ I will make waste mountains and hills, and dry up all their herbs; and I will ma
 I will lay waste the mountains and hills and dry up all their vegetation. I will turn the rivers into dry land and drain the marshes.<small><sub>**MT:**</sub></small>
 [[Isa.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.14|<< Isaiah 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.16|Isaiah 42:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| desolate | <big><span class="asgreek">ερημώσω</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hills | <big><span class="asgreek">βουνούς</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their grass | <big><span class="asgreek">χόρτον</span></big> <sup><small><small>[[G5528]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will dry out | <big><span class="asgreek">ξηρανώ</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will make | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| islands, | <big><span class="asgreek">νήσους</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| marshes | <big><span class="asgreek">έλη</span></big> <sup><small><small>[[G7186]]</small></small></sup> |
-| to dry \[land\]. | <big><span class="asgreek">ξηρανώ</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| desolate | **<big>[[G2049\|ερημώσω]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hills | **<big>[[G1015\|βουνούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their grass | **<big>[[G5528\|χόρτον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| will dry out | **<big>[[G3583\|ξηρανώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will make | **<big>[[G5087\|θήσω]]</big>** |
+| rivers | **<big>[[G4215\|ποταμούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| islands, | **<big>[[G3520\|νήσους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| marshes | **<big>[[G7186\|έλη]]</big>** |
+| to dry \[land\]. | **<big>[[G3583\|ξηρανώ]]</big>** |
 [[Isa.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.14|<< Isaiah 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.16|Isaiah 42:16 >>]]</td></tr></table>
 
 

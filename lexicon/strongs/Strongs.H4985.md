@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָתַק‎</span></big> **mâthaq** <small>*(maw-thak')*</small> ==**be sweet**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָתַק‎</span></big>** **mâthaq** <small>*(maw-thak')*</small> ==**be sweet**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (made, [idiom] take) sweet.

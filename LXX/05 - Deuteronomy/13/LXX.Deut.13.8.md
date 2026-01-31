@@ -7,29 +7,29 @@ Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye p
 you must not yield to him or listen to him. Show him no pity, and do not spare him or shield him.<small><sub>**MT:**</sub></small>
 [[Deut.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.7|<< Deuteronomy 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.9|Deuteronomy 13:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| acquiesce | <big><span class="asgreek">συνθελήσεις</span></big> <sup><small><small>[[G9322]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hear | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| show mercy | <big><span class="asgreek">ελεήσεις</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| shall you shelter | <big><span class="asgreek">σκεπάσης</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| acquiesce | **<big>[[G9322\|συνθελήσεις]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| hear | **<big>[[G1522\|εισακούση]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| show mercy | **<big>[[G1653\|ελεήσεις]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** **<big>[[G3361\|μη]]</big>** |
+| shall you shelter | **<big>[[G9095\|σκεπάσης]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Deut.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.7|<< Deuteronomy 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.9|Deuteronomy 13:9 >>]]</td></tr></table>
 
 

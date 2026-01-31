@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְרִיבָה‎</span></big> **Mᵉrîybâh** <small>*(mer-ee-baw')*</small> ==**Meribah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מְרִיבָה‎</span><sup><small>[[H4808]]</small></sup></small>
+**<big><span class="ashebrew">‎מְרִיבָה‎</span></big>** **Mᵉrîybâh** <small>*(mer-ee-baw')*</small> ==**Meribah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H4808|‎מְרִיבָה‎]]</big>**</small>
 
 $\quad$ Meribah.
 - § Meribah = *"strife" or "contention"*

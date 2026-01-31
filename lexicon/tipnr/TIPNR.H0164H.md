@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ehud</span>, a Benjamite, was one of the sons of Bilhan.
 - A man from the tribe of Benjamin living at the time of Divided Monarchy, only mentioned at [[1Chr.7.10|1Ch.7.10]]; 
-- only referred to as Ehud<[[H0164H]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>\); 
--  son of Bilhan<[[H1092H]]>; 
-- a brother of Jeush<[[H3266H]]>, Benjamin<[[H1144H]]>, Chenaanah<[[H3668H]]>, Zethan<[[H2133]]>, Tarshish<[[H8659I]]> and Ahishahar<[[H0300]]>.
+- only referred to as Ehud **<big>[[H0164|אֵהוּד]]</big>**; 
+-  son of Bilhan **<big>[[H1092|בִּלְהָן]]</big>**; 
+- a brother of Jeush **<big>[[H3266|יְעוּשׁ]]</big>**, Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**, Chenaanah **<big>[[H3668|כְּנַעֲנָה]]</big>**, Zethan **<big>[[H2133|זֵיתָן]]</big>**, Tarshish **<big>[[H8659|תַּרְשִׁישׁ]]</big>** and Ahishahar **<big>[[H0300|אֲחִישַׁחַר]]</big>**.
 
 Ehud is mentioned briefly in [[1Chr.7.10|1 Chronicles 7:10]] as one of the sons of Bilhan, a descendant of Benjamin. He is listed among the heads of families in the tribe of Benjamin. 
 
@@ -16,8 +16,8 @@ It is important to note that this Ehud is not the same person as the judge Ehud,
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ehud | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H0164H) <small>*Hebrew*</small> | 1x | [1Ch.7.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ehud\*\|reference=1Ch.7.10) |
-All Strong's for **Ehud**: \[[[H0164H]]\]
+| Ehud | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H0164H) | 1x | [1Ch.7.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ehud\*\|reference=1Ch.7.10) |
+All entries for **Ehud**:  **<big>[[H0164|אֵהוּד]]</big>**
 #### Related Profiles:
 - **[Bilhan](H1092H)** (father)
 - **[Jeush](H3266H)** (sibling)

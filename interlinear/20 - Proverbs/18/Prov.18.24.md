@@ -6,15 +6,15 @@ A man of many companions may come to ruin, but there is a friend who stays close
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.23|<< Proverbs 18:23]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.1|Proverbs 19:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a person of  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| companions  | <span class="ashebrew"><big>רֵ֭עִים </big></span><small><small><sup>[[H7453]]</sup></small></small> &#8207;| Re.'im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] to be broken  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הִתְרֹעֵ֑עַ </big></span><small><small><sup>[[H7489B]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hit.ro.'E.a' <small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֵ֥שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is one who] loves  | <span class="ashebrew"><big>אֹ֝הֵ֗ב </big></span><small><small><sup>[[H0157H]]</sup></small></small> &#8207;| 'o.Hev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cleaving  | <span class="ashebrew"><big>דָּבֵ֥ק </big></span><small><small><sup>[[H1695]]</sup></small></small> &#8207;| da.Vek <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than a brother  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָֽח </big></span><small><small><sup>[[H0251G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| companions  |**<big>&#8207;[[H7453\|רֵ֭עִים]]&#8207; </big>**| Re.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] to be broken  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7489B\|הִתְרֹעֵ֑עַ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hit.ro.'E.a'<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3426\|יֵ֥שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] loves  |**<big>&#8207;[[H0157H\|אֹ֝הֵ֗ב]]&#8207; </big>**| 'o.Hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cleaving  |**<big>&#8207;[[H1695\|דָּבֵ֥ק]]&#8207; </big>**| da.Vek<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than a brother  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0251G\|אָֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.23|<< Proverbs 18:23]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.1|Proverbs 19:1 >>]]</td></tr></table>
 
 

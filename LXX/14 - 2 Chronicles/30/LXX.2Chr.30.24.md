@@ -7,40 +7,40 @@ For Hezekiah king of Judah did give to the congregation a thousand bullocks and 
 For Hezekiah king of Judah contributed a thousand bulls and seven thousand sheep for the assembly, and the officials contributed a thousand bulls and ten thousand sheep for the assembly, and a great number of priests consecrated themselves.<small><sub>**MT:**</sub></small>
 [[2Chr.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.23|<< 2 Chronicles 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.25|2 Chronicles 30:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Hezekiah | <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| dedicated | <big><span class="asgreek">απήρξατο</span></big> <sup><small><small>[[G6404]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven thousand | <big><span class="asgreek">επτακισχίλια</span></big> <sup><small><small>[[G2035]]</small></small></sup> |
-| sheep. | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| dedicated | <big><span class="asgreek">απήρξαντο</span></big> <sup><small><small>[[G6404]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were sanctified | <big><span class="asgreek">ηγιάσθησαν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude. | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| Hezekiah | **<big>[[G1478\|Εζεκίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| dedicated | **<big>[[G6404\|απήρξατο]]</big>** |
+| to all | **<big>[[G3956\|πάση]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησία]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίους]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven thousand | **<big>[[G2035\|επτακισχίλια]]</big>** |
+| sheep. | **<big>[[G4263\|πρόβατα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| dedicated | **<big>[[G6404\|απήρξαντο]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| calves | **<big>[[G3448\|μόσχους]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep | **<big>[[G4263\|προβάτων]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were sanctified | **<big>[[G0037\|ηγιάσθησαν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| multitude. | **<big>[[G4128\|πλήθος]]</big>** |
 [[2Chr.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.23|<< 2 Chronicles 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.25|2 Chronicles 30:25 >>]]</td></tr></table>
 
 

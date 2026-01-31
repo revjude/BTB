@@ -7,45 +7,45 @@ When I say unto the wicked, Thou shalt surely die; and thou givest him not warni
 If I say to the wicked man, ‘You will surely die,’ but you do not warn him or speak out to warn him from his wicked way to save his life, that wicked man will die in his iniquity, and I will hold you responsible for his blood.<small><sub>**MT:**</sub></small>
 [[Ezek.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.17|<< Ezekiel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.19|Ezekiel 3:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my saying | <big><span class="asgreek">λέγειν</span></big> <sup><small><small>[[G3004]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless one, | <big><span class="asgreek">ανόμω</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| To death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| you shall be put to death; | <big><span class="asgreek">θανατωθήση</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give orders | <big><span class="asgreek">διεστείλω</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to give orders | <big><span class="asgreek">διαστείλασθαι</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless one, | <big><span class="asgreek">ανόμω</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to turn | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unjust | <big><span class="asgreek">αδίκων</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| so that | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he should live; | <big><span class="asgreek">ζήσαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that lawless one | <big><span class="asgreek">άνομος</span></big> <sup><small><small>[[G0459]]</small></small></sup> <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in his iniquity | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall require | <big><span class="asgreek">εκζητήσω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my saying | **<big>[[G3004\|λέγειν]]</big>** **<big>[[G1473\|με]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| lawless one, | **<big>[[G0459\|ανόμω]]</big>** |
+| To death | **<big>[[G2288\|θανάτω]]</big>** |
+| you shall be put to death; | **<big>[[G2289\|θανατωθήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you do not | **<big>[[G3756\|ου]]</big>** |
+| give orders | **<big>[[G1291\|διεστείλω]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to give orders | **<big>[[G1291\|διαστείλασθαι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| lawless one, | **<big>[[G0459\|ανόμω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to turn | **<big>[[G0654\|αποστρέψαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| ways | **<big>[[G3598\|οδών]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| unjust | **<big>[[G0094\|αδίκων]]</big>** |
+| so that | **<big>[[G3588\|του]]</big>** |
+| he should live; | **<big>[[G2198\|ζήσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| that lawless one | **<big>[[G0459\|άνομος]]</big>** **<big>[[G1565\|εκείνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in his iniquity | **<big>[[G0093\|αδικία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| your hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I shall require | **<big>[[G1567\|εκζητήσω]]</big>** |
 [[Ezek.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.17|<< Ezekiel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.19|Ezekiel 3:19 >>]]</td></tr></table>
 
 

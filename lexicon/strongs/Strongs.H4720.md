@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִקְדָּשׁ‎</span></big> **miqdâsh** <small>*(mik-dawsh')*</small> ==**sanctuary**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מִקְּדָשׁ</span> **miqqᵉdâsh** <small>*(mik-ked-awsh')*</small>; (Exodus 15:17), from <span class="ashebrew">‎קָדַשׁ‎</span><sup><small>[[H6942]]</small></sup></small>
+**<big><span class="ashebrew">‎מִקְדָּשׁ‎</span></big>** **miqdâsh** <small>*(mik-dawsh')*</small> ==**sanctuary**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִקְּדָשׁ</span></big>** **miqqᵉdâsh** <small>*(mik-ked-awsh')*</small>; (Exodus 15:17), from **<big>[[H6942|‎קָדַשׁ‎]]</big>**</small>
 
 $\quad$ chapel, hallowed part, holy place, sanctuary.
 - ***a consecrated thing*** or ***place***, especially, ***a palace***, ***sanctuary*** (whether of Jehovah or of idols) or ***asylum***
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** of the tabernacle
 $\quad$ $\quad$ **1a3)** of Ezekiel's temple
 $\quad$ $\quad$ **1a4)** of Jehovah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγιάζω</span><sup><small>[[G0037]]</small></sup> · <span class="asgreek">ἁγιασμός</span><sup><small>[[G0038]]</small></sup> · <span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">ἱερός</span><sup><small>[[G2413]]</small></sup> · <span class="asgreek">ὅσιος</span><sup><small>[[G3741]]</small></sup>
+<small>See Greek: </small>**<big>[[G0037|ἁγιάζω]]</big>** · **<big>[[G0038|ἁγιασμός]]</big>** · **<big>[[G0039|ἅγιον]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G2413|ἱερός]]</big>** · **<big>[[G3741|ὅσιος]]</big>**

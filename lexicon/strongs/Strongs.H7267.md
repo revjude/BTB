@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֹגֶז‎</span></big> **rôgez** <small>*(ro'-ghez)*</small> ==**turmoil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָגַז‎</span><sup><small>[[H7264]]</small></sup></small>
+**<big><span class="ashebrew">‎רֹגֶז‎</span></big>** **rôgez** <small>*(ro'-ghez)*</small> ==**turmoil**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7264|‎רָגַז‎]]</big>**</small>
 
 $\quad$ fear, noise, rage, trouble(-ing), wrath.
 - ***commotion***, ***restlessness*** (of a horse), ***crash*** (of thunder), ***disquiet***, ***anger***
@@ -8,4 +8,4 @@ $\quad$ fear, noise, rage, trouble(-ing), wrath.
 $\quad$ **1a)** turmoil, disquiet, raging
 $\quad$ **1b)** trembling, trepidation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup> · <span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup>
+<small>See Greek: </small>**<big>[[G3709|ὀργή]]</big>** · **<big>[[G3709|ὀργή]]</big>**

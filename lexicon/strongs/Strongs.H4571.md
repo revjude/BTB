@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָעַד‎</span></big> **mâʻad** <small>*(maw-ad')*</small> ==**to slip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָעַד‎</span></big>** **mâʻad** <small>*(maw-ad')*</small> ==**to slip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make to shake, slide, slip.
@@ -8,4 +8,4 @@ $\quad$ make to shake, slide, slip.
 $\quad$ **1a)** (Qal) to slip
 $\quad$ **1b)** (Hiphil) to cause or make to shake or totter
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">σαλεύω</span><sup><small>[[G4531]]</small></sup>
+<small>See Greek: </small>**<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G4531|σαλεύω]]</big>**

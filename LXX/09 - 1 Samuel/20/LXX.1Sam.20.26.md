@@ -7,26 +7,26 @@ Nevertheless Saul spake not any thing that day: for he thought, Something hath b
 Saul said nothing that day because he thought, “Something has happened to David to make him ceremonially unclean—surely he is unclean.”<small><sub>**MT:**</sub></small>
 [[1Sam.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.25|<< 1 Samuel 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.27|1 Samuel 20:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| say | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| anything | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| A coincidence, | <big><span class="asgreek">σύμπτωμα</span></big> <sup><small><small>[[G9283]]</small></small></sup> |
-| for he appears | <big><span class="asgreek">φαίνεται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he has not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cleansed \[himself\]. | <big><span class="asgreek">κεκάθαρισται</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| say | **<big>[[G2980\|ελάλησε]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| anything | **<big>[[G3762\|ουδέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| A coincidence, | **<big>[[G9283\|σύμπτωμα]]</big>** |
+| for he appears | **<big>[[G5316\|φαίνεται]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| clean | **<big>[[G2513\|καθαρός]]</big>** |
+| be | **<big>[[G1510\|είναι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he has not | **<big>[[G3756\|ου]]</big>** |
+| cleansed \[himself\]. | **<big>[[G2511\|κεκάθαρισται]]</big>** |
 [[1Sam.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.25|<< 1 Samuel 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.27|1 Samuel 20:27 >>]]</td></tr></table>
 
 

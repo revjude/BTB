@@ -4,11 +4,11 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Alphaeus</span> was the father of two of Jesus' apostles, James and Matthew \(also known as Levi\). \([[Matt.10.3|Mat.10.3]]; [[Mark.2.14|Mrk.2.14]]; 3.18; [[Luke.6.15|Luk.6.15]]; Act.1.13\)
 - A man living at the time of the New Testament, first mentioned at [[Matt.10.3|Mat.10.3]]; 
-- referred to as Alphaeus<[[G0256]]> \(<span class='tipnrLangGreek'>Ἀλφαῖος</span>\), or Cleopas<[[G2810]]> \(<span class='tipnrLangGreek'>Κλεόπας</span>\), or Clopas \(KJV= Cleophas\) <[[G2832]]> \(<span class='tipnrLangGreek'>Κλωπᾶς</span>\); 
--  son of Jacob<[[G2384G]]>\(?\); 
-- husband of Mary<[[G3137K]]>; 
-- a brother of: Joseph<[[G2501G]]>\(?\);
--  father of James<[[G2385H]]>, Matthew<[[G3156]]>.
+- referred to as Alphaeus **<big>[[G0256|Ἀλφαῖος]]</big>**, or Cleopas **<big>[[G2810|Κλεόπας]]</big>**, or Clopas \(KJV= Cleophas\)  **<big>[[G2832|Κλωπᾶς]]</big>**; 
+-  son of Jacob **<big>[[G2384|Ἰακώβ]]</big>**; 
+- husband of Mary **<big>[[G3137|Μαρία]]</big>**; 
+- a brother of: Joseph **<big>[[G2501|Ἰωσήφ]]</big>**;
+-  father of James **<big>[[G2385|Ἰάκωβος]]</big>**, Matthew **<big>[[G3156|Ματθαῖος]]</big>**.
 
 Alphaeus, also known as Cleopas, is mentioned in the New Testament as the father of two of Jesus' apostles, James and Matthew \(Levi\). James, the son of Alphaeus, is listed among the twelve apostles chosen by Jesus. \([[Matt.10.3|Mat.10.3]]; [[Mark.3.18|Mrk.3.18]]; [[Luke.6.15|Luk.6.15]]; Act.1.13\) He is often referred to as "James the Less" or "James the Younger" to distinguish him from James, the son of Zebedee, and James, the brother of Jesus. 
 
@@ -22,10 +22,10 @@ The limited information provided about Alphaeus in the Gospels and Acts focuses 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alphaeus | [<span class='tipnrLangGreek'>Ἀλφαῖος</span>](G0256) <small>*Greek*</small> | 5x | [[Mat.10.3] ... [Act.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alphaeus\*\|reference=Mat.10.3;Mrk.2.14;Mrk.3.18;Luk.6.15;Act.1.13) |
-| Cleopas | [<span class='tipnrLangGreek'>Κλεόπας</span>](G2810) <small>*Greek*</small> | 1x | [Luk.24.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cleopas\*\|reference=Luk.24.18) |
-| Clopas (KJV= Cleophas) | [<span class='tipnrLangGreek'>Κλωπᾶς</span>](G2832) <small>*Greek*</small> | 1x | [Jhn.19.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Clopas\*\|reference=Jhn.19.25) |
-All Strong's for **Alphaeus or Cleopas**: \[[[G0256]]\] \[[[G2810]]\] \[[[G2832]]\]
+| Alphaeus | [<span class='tipnrLangGreek'>Ἀλφαῖος</span>](G0256) | 5x | [[Mat.10.3] ... [Act.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alphaeus\*\|reference=Mat.10.3;Mrk.2.14;Mrk.3.18;Luk.6.15;Act.1.13) |
+| Cleopas | [<span class='tipnrLangGreek'>Κλεόπας</span>](G2810) | 1x | [Luk.24.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cleopas\*\|reference=Luk.24.18) |
+| Clopas (KJV= Cleophas) | [<span class='tipnrLangGreek'>Κλωπᾶς</span>](G2832) | 1x | [Jhn.19.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Clopas\*\|reference=Jhn.19.25) |
+All entries for **Alphaeus or Cleopas**:  **<big>[[G0256|Ἀλφαῖος]]</big>** ☩  **<big>[[G2810|Κλεόπας]]</big>** ☩  **<big>[[G2832|Κλωπᾶς]]</big>**
 #### Related Profiles:
 - **[Jacob](G2384G)** (father)
 - **[Mary](G3137K)** (spouse)

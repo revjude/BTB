@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎שֶׁוַע‎</span></big> **shevaʻ** <small>*(sheh'-vah)*</small> ==**to cry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁוַע‎</span><sup><small>[[H7768]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁוַע‎</span></big>** **shevaʻ** <small>*(sheh'-vah)*</small> ==**to cry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from **<big>[[H7768|‎שָׁוַע‎]]</big>**</small>
 
 $\quad$ cry.
 - ***a halloo***
 
 **1)** to cry
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὅρκος</span><sup><small>[[G3727]]</small></sup>
+<small>See Greek: </small>**<big>[[G3727|ὅρκος]]</big>**

@@ -7,39 +7,39 @@ For he sacrificed unto the gods of Damascus, which smote him: and he said, Becau
 He sacrificed to the gods of Damascus, who had defeated him, and he said, “Because the gods of the kings of Aram have helped them, I will sacrifice to them that they may help me.” But these gods were the downfall of Ahaz and of all Israel.<small><sub>**MT:**</sub></small>
 [[2Chr.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.22|<< 2 Chronicles 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.24|2 Chronicles 28:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will inquire | <big><span class="asgreek">εκζήτησω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Damascus, | <big><span class="asgreek">Δαμασκού</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones beating | <big><span class="asgreek">τύπτοντάς</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| strengthens | <big><span class="asgreek">κατισχύσουσιν</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| therefore | <big><span class="asgreek">τοίνυν</span></big> <sup><small><small>[[G5106]]</small></small></sup> |
-| I shall sacrifice | <big><span class="asgreek">θύσω</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will assist | <big><span class="asgreek">αντιλήψονταί</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as an | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| impediment, | <big><span class="asgreek">σκώλον</span></big> <sup><small><small>[[G9123]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| I will inquire | **<big>[[G1567\|εκζήτησω]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| of Damascus, | **<big>[[G1154\|Δαμασκού]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones beating | **<big>[[G5180\|τύπτοντάς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Because | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| gods | **<big>[[G2316\|θεοί]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| strengthens | **<big>[[G2729\|κατισχύσουσιν]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| therefore | **<big>[[G5106\|τοίνυν]]</big>** |
+| I shall sacrifice | **<big>[[G2380\|θύσω]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will assist | **<big>[[G0482\|αντιλήψονταί]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| became | **<big>[[G1096\|εγένοντο]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| as an | **<big>[[G1519\|εις]]</big>** |
+| impediment, | **<big>[[G9123\|σκώλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Chr.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.22|<< 2 Chronicles 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.24|2 Chronicles 28:24 >>]]</td></tr></table>
 
 

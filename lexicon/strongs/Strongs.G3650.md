@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ὅλος‎</span></big> **hólos** <small>*(hol'-os)*</small> ==**all**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+**<big><span class="asgreek">‎ὅλος‎</span></big>** **hólos** <small>*(hol'-os)*</small> ==**all**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
 <small>a primary word</small>
 
 $\quad$ all, altogether, every whit, + throughout, whole.

@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nebai</span> was one of the leaders who sealed the covenant with Nehemiah to follow God's law.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.10.19|Neh.10.19]]; 
-- only referred to as Nebai<[[H5109]]> \(<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ֑<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Nebai **<big>[[H5109|נוֹבַי]]</big>**.
 
 Nebai is mentioned in [[Neh.10.19|Nehemiah 10:19]] as one of the leaders who sealed the covenant with Nehemiah during the post-exilic period in Jerusalem. After the Israelites had returned from Babylonian captivity, Nehemiah led the people in rebuilding the walls of Jerusalem and restoring the city. 
 
@@ -16,5 +16,5 @@ Apart from this single mention, no further information is provided about Nebai's
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nebai (=Qere. Ketiv= Nobai) | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H5109) <small>*Hebrew*</small> | 1x | [Neh.10.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebai\*\|reference=Neh.10.19) |
-All Strong's for **Nebai**: \[[[H5109]]\]
+| Nebai (=Qere. Ketiv= Nobai) | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H5109) | 1x | [Neh.10.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebai\*\|reference=Neh.10.19) |
+All entries for **Nebai**:  **<big>[[H5109|נוֹבַי]]</big>**

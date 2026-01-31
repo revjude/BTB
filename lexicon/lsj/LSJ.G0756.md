@@ -1,4 +1,4 @@
-form of: <small>[[G0757]]</small> 
+form of: <small>**<big>[[G0757|ἄρχω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἄρχομαι==</span></b>, 

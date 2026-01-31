@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹרֶה‎</span></big> **Môwreh** <small>*(mo-reh')*</small> ==**Moreh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">מֹרֶה</span> **Môreh** <small>*(mo-reh')*</small>; the same as <span class="ashebrew">‎מוֹרֶה‎</span><sup><small>[[H4175]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹרֶה‎</span></big>** **Môwreh** <small>*(mo-reh')*</small> ==**Moreh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">מֹרֶה</span></big>** **Môreh** <small>*(mo-reh')*</small>; the same as **<big>[[H4175|‎מוֹרֶה‎]]</big>**</small>
 
 $\quad$ Moreh.
 - § Moreh = *"teacher"*

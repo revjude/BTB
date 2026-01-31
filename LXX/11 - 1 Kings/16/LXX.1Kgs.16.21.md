@@ -7,31 +7,31 @@ Then were the people of Israel divided into two parts: half of the people follow
 At that time the people of Israel were divided: Half of the people supported Tibni son of Ginath as king, and half supported Omri.<small><sub>**MT:**</sub></small>
 [[1Kgs.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.20|<< 1 Kings 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.22|1 Kings 16:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| parted | <big><span class="asgreek">μερίζεται</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| went | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Tibni | <big><span class="asgreek">Θαβνί</span></big> <sup><small><small>[[H8402]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ginath | <big><span class="asgreek">Γινήθ</span></big> <sup><small><small>[[H1527]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for him to reign, | <big><span class="asgreek">βασιλεύσαι</span></big> <sup><small><small>[[G0936]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| went | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| Omri. | <big><span class="asgreek">Αμβρί</span></big> <sup><small><small>[[H6018]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| parted | **<big>[[G3307\|μερίζεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| went | **<big>[[G1096\|γίνεται]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Tibni | **<big>[[H8402\|Θαβνί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Ginath | **<big>[[H1527\|Γινήθ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for him to reign, | **<big>[[G0936\|βασιλεύσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| went | **<big>[[G1096\|γίνεται]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| Omri. | **<big>[[H6018\|Αμβρί]]</big>** |
 [[1Kgs.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.20|<< 1 Kings 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.22|1 Kings 16:22 >>]]</td></tr></table>
 
 

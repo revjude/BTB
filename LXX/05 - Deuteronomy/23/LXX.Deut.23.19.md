@@ -7,24 +7,24 @@ Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals
 Do not charge your brother interest on money, food, or any other type of loan.<small><sub>**MT:**</sub></small>
 [[Deut.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.18|<< Deuteronomy 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.20|Deuteronomy 23:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lend | <big><span class="asgreek">εκτοκιείς</span></big> <sup><small><small>[[G7156]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with interest | <big><span class="asgreek">τόκον</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| interest | <big><span class="asgreek">τόκον</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
-| of foods, | <big><span class="asgreek">βρωμάτων</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| interest | <big><span class="asgreek">τόκον</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
-| of any | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| thing | <big><span class="asgreek">πράγματος</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should lend. | <big><span class="asgreek">εκδανείσης</span></big> <sup><small><small>[[G7085]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| lend | **<big>[[G7156\|εκτοκιείς]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your brother | **<big>[[G0080\|αδελφώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with interest | **<big>[[G5110\|τόκον]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| interest | **<big>[[G5110\|τόκον]]</big>** |
+| of foods, | **<big>[[G1033\|βρωμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| interest | **<big>[[G5110\|τόκον]]</big>** |
+| of any | **<big>[[G3956\|παντός]]</big>** |
+| thing | **<big>[[G4229\|πράγματος]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should lend. | **<big>[[G7085\|εκδανείσης]]</big>** |
 [[Deut.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.18|<< Deuteronomy 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.20|Deuteronomy 23:20 >>]]</td></tr></table>
 
 

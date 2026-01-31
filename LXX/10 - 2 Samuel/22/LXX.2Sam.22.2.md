@@ -11,17 +11,17 @@ He said: “The LORD is my rock, my fortress, and my deliverer.<small><sub>**MT
 > $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| my rock, | <big><span class="asgreek">πέτρα</span></big> <sup><small><small>[[G4073]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my fortress, | <big><span class="asgreek">οχύρωμά</span></big> <sup><small><small>[[G3794]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] one rescuing | <big><span class="asgreek">εξαιρούμενός</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| my rock, | **<big>[[G4073\|πέτρα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my fortress, | **<big>[[G3794\|οχύρωμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] one rescuing | **<big>[[G1807\|εξαιρούμενός]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[2Sam.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.1|<< 2 Samuel 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.3|2 Samuel 22:3 >>]]</td></tr></table>
 
 

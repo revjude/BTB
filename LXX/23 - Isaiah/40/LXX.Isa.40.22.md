@@ -7,32 +7,32 @@
 He sits enthroned above the circle of the earth; its dwellers are like grasshoppers. He stretches out the heavens like a curtain, and spreads them out like a tent to dwell in.<small><sub>**MT:**</sub></small>
 [[Isa.40.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.21|<< Isaiah 40:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.23|Isaiah 40:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[He is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| controlling | <big><span class="asgreek">κατέχων</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curve | <big><span class="asgreek">γύρον</span></big> <sup><small><small>[[G6776]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">ενοικούντες</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| locusts; | <big><span class="asgreek">ακρίδες</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
-| \[He is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| establishing | <big><span class="asgreek">στήσας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a vault | <big><span class="asgreek">καμάραν</span></big> <sup><small><small>[[G7788]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| extending it out | <big><span class="asgreek">διατείνας</span></big> <sup><small><small>[[G6887]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| to dwell in; | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| \[He is\] the one | **<big>[[G3588\|ο]]</big>** |
+| controlling | **<big>[[G2722\|κατέχων]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| curve | **<big>[[G6776\|γύρον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G1774\|ενοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| locusts; | **<big>[[G0200\|ακρίδες]]</big>** |
+| \[He is\] the one | **<big>[[G3588\|ο]]</big>** |
+| establishing | **<big>[[G2476\|στήσας]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a vault | **<big>[[G7788\|καμάραν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| extending it out | **<big>[[G6887\|διατείνας]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| to dwell in; | **<big>[[G2730\|κατοικείν]]</big>** |
 [[Isa.40.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.21|<< Isaiah 40:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.23|Isaiah 40:23 >>]]</td></tr></table>
 
 

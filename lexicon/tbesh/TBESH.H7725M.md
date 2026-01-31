@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שׁוּב‎</span> <small>***(shuv)***</small> ==**to return: reply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H7725G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H7725G|שׁוּב]]</big>**</small> 
 
 - : reply

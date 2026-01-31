@@ -7,17 +7,17 @@ LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in
 O LORD, You will establish peace for us. For all that we have accomplished, You have done for us.<small><sub>**MT:**</sub></small>
 [[Isa.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.11|<< Isaiah 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.13|Isaiah 26:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us! | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| you rendered | <big><span class="asgreek">απέδωκας</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| give | **<big>[[G1325\|δος]]</big>** |
+| to us! | **<big>[[G1473\|ημίν]]</big>** |
+| for all \[things\] | **<big>[[G3956\|πάντα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| you rendered | **<big>[[G0591\|απέδωκας]]</big>** |
+| to us. | **<big>[[G1473\|ημίν]]</big>** |
 [[Isa.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.11|<< Isaiah 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.13|Isaiah 26:13 >>]]</td></tr></table>
 
 

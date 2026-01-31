@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁלֹמִי‎</span></big> **Shᵉlômîy** <small>*(shel-o-mee')*</small> ==**Shelomi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלוֹם‎</span><sup><small>[[H7965]]</small></sup>; peaceable</small>
+**<big><span class="ashebrew">‎שְׁלֹמִי‎</span></big>** **Shᵉlômîy** <small>*(shel-o-mee')*</small> ==**Shelomi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7965|‎שָׁלוֹם‎]]</big>**; peaceable</small>
 
 $\quad$ Shelomi.
 - § Shelomi = *"peaceful"*

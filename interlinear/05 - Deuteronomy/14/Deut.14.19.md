@@ -6,16 +6,16 @@ All flying insects are unclean for you; they may not be eaten.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.18|<< Deuteronomy 14:18]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.20|Deuteronomy 14:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and every  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֹל֙ </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> swarming thing of  | <span class="ashebrew"><big>שֶׁ֣רֶץ </big></span><small><small><sup>[[H8318]]</sup></small></small> &#8207;| She.retz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the insect  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>ע֔וֹף </big></span><small><small><sup>[[H5775]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'of <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] unclean  | <span class="ashebrew"><big>טָמֵ֥א </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| ta.Me' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֖א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be eaten  | <span class="ashebrew"><big>יֵאָכֵֽלוּ </big></span><small><small><sup>[[H0398]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.'a.Khe.lu <small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> swarming thing of  |**<big>&#8207;[[H8318\|שֶׁ֣רֶץ]]&#8207; </big>**| She.retz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the insect  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5775\|ע֔וֹף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'of<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] unclean  |**<big>&#8207;[[H2931\|טָמֵ֥א]]&#8207; </big>**| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֑ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be eaten  |**<big>&#8207;[[H0398\|יֵאָכֵֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.'a.Khe.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.18|<< Deuteronomy 14:18]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.20|Deuteronomy 14:20 >>]]</td></tr></table>
 
 

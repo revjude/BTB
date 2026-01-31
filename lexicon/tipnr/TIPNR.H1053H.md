@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-shemesh</span> was a border town in the territory of Issachar. \([[Josh.19.22|Joshua 19:22]]\)
 - A location only mentioned at [[Josh.19.22|Jos.19.22]]; 
-- only referred to as Beth-shemesh<[[H1053H]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- only referred to as Beth-shemesh **<big>[[H1053|בֵּית שֶׁמֶשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.406430,35.504628&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of Beth-shemesh in Issachar is uncertain, but it was likely s
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-shemesh (NIV= Beth Shemesh) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H1053H) <small>*Hebrew*</small> | 1x | [Jos.19.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.22) |
-All Strong's for **Beth-shemesh**: \[[[H1053H]]\]
+| Beth-shemesh (NIV= Beth Shemesh) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H1053H) | 1x | [Jos.19.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.22) |
+All entries for **Beth-shemesh**:  **<big>[[H1053|בֵּית שֶׁמֶשׁ]]</big>**

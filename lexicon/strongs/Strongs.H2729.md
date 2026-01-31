@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָרַד‎</span></big> **chârad** <small>*(khaw-rad')*</small> ==**to tremble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָרַד‎</span></big>** **chârad** <small>*(khaw-rad')*</small> ==**to tremble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (make) afraid, be careful, discomfit, fray (away), quake, tremble.
@@ -16,4 +16,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to cause to tremble
 $\quad$ $\quad$ **1b2)** to drive in terror, rout (an army)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διώκω</span><sup><small>[[G1377]]</small></sup>
+<small>See Greek: </small>**<big>[[G1377|διώκω]]</big>**

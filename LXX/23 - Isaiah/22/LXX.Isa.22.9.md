@@ -7,32 +7,32 @@ Ye have seen also the breaches of the city of David, that they are many: and ye 
 You saw that there were many breaches in the walls of the City of David. You collected water from the lower pool.<small><sub>**MT:**</sub></small>
 [[Isa.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.8|<< Isaiah 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.10|Isaiah 22:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall uncover | <big><span class="asgreek">ανακαλύψουσι</span></big> <sup><small><small>[[G0343]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hidden \[places\] | <big><span class="asgreek">κρυπτά</span></big> <sup><small><small>[[G2927]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Akra | <big><span class="asgreek">άκρας</span></big> <sup><small><small>[[G6202]]</small></small></sup> |
-| of David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they saw | <big><span class="asgreek">ειδοσαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| many more | <big><span class="asgreek">πλείους</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| there were | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they turned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ancient | <big><span class="asgreek">αρχαίας</span></big> <sup><small><small>[[G0744]]</small></small></sup> |
-| pool | <big><span class="asgreek">κολυμβήθρας</span></big> <sup><small><small>[[G2861]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city; | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall uncover | **<big>[[G0343\|ανακαλύψουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| hidden \[places\] | **<big>[[G2927\|κρυπτά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| houses | **<big>[[G3624\|οίκων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| Akra | **<big>[[G6202\|άκρας]]</big>** |
+| of David. | **<big>[[G1138\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they saw | **<big>[[G1492\|ειδοσαν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| many more | **<big>[[G4183\|πλείους]]</big>** |
+| there were | **<big>[[G1510\|εισί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they turned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ancient | **<big>[[G0744\|αρχαίας]]</big>** |
+| pool | **<big>[[G2861\|κολυμβήθρας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city; | **<big>[[G4172\|πόλιν]]</big>** |
 [[Isa.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.8|<< Isaiah 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.10|Isaiah 22:10 >>]]</td></tr></table>
 
 

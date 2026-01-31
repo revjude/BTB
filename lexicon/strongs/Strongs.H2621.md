@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹסָה‎</span></big> **Chôçâh** <small>*(kho-saw')*</small> ==**Hosah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חָסָה‎</span><sup><small>[[H2620]]</small></sup>; hopeful</small>
+**<big><span class="ashebrew">‎חֹסָה‎</span></big>** **Chôçâh** <small>*(kho-saw')*</small> ==**Hosah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2620|‎חָסָה‎]]</big>**; hopeful</small>
 
 $\quad$ Hosah.
 - § Hosah = *"refuge"*

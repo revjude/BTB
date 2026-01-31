@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יַצִּיב‎</span></big> **yatstsîyb** <small>*(yats-tseeb')*</small> ==**certain**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎יְצַב‎</span><sup><small>[[H3321]]</small></sup></small>
+**<big><span class="asaramaic">‎יַצִּיב‎</span></big>** **yatstsîyb** <small>*(yats-tseeb')*</small> ==**certain**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) from **<big>[[H3321|‎יְצַב‎]]</big>**</small>
 
 $\quad$ certain(-ty), true, truth.
 - ***fixed***, ***sure***
@@ -12,4 +12,4 @@ adv
 adj
 **3)** reliable, true, certain, sure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκρίβεια</span><sup><small>[[G0195]]</small></sup> · <span class="asgreek">ἀκριβέστατος</span><sup><small>[[G0196]]</small></sup> · <span class="asgreek">ἀκριβέστερον</span><sup><small>[[G0197]]</small></sup> · <span class="asgreek">ἀλήθεια</span><sup><small>[[G0225]]</small></sup> · <span class="asgreek">ἀληθινός</span><sup><small>[[G0228]]</small></sup> · <span class="asgreek">ἀληθῶς</span><sup><small>[[G0230]]</small></sup>
+<small>See Greek: </small>**<big>[[G0195|ἀκρίβεια]]</big>** · **<big>[[G0196|ἀκριβέστατος]]</big>** · **<big>[[G0197|ἀκριβέστερον]]</big>** · **<big>[[G0225|ἀλήθεια]]</big>** · **<big>[[G0228|ἀληθινός]]</big>** · **<big>[[G0230|ἀληθῶς]]</big>**

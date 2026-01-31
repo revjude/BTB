@@ -1,5 +1,3 @@
-<span class="ashebrew">‎הַצְּלֶלְפּוֹנִי‎</span> <small>***(tse.lel.po.ni)***</small> ==**Hazzelelponi**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.4.3|1Ch.4.3]]
--  daughter of: Hur ([[H2354]])
--  sister of: Uri ([[H0221]]), Shobal ([[H7732H]]), Salma ([[H8007H]]), Hareph ([[H2780]]), Jezreel ([[H3157J]]), Ishma ([[H3457]]), Idbash ([[H3031]]), Penuel ([[H6439H]]) and Ezer ([[H5829]])
-
+-  daughter of: Hur (**<big>[[H2354|חוּר]]</big>**)
+-  sister of: Uri (**<big>[[H0221|אוּרִי]]</big>**), Shobal (**<big>[[H7732H|שׁוֹבָל]]</big>**), Salma (**<big>[[H8007H|שַׂלְמָא]]</big>**), Hareph (**<big>[[H2780|חָרֵף]]</big>**), Jezreel (**<big>[[H3157J|יִזְרְעֵאל]]</big>**), Ishma (**<big>[[H3457|יִשְׁמָא]]</big>**), Idbash (**<big>[[H3031|יִדְבָּשׁ]]</big>**), Penuel (**<big>[[H6439H|פְּנוּאֵל]]</big>**) and Ezer (**<big>[[H5829|עֵזֶר]]</big>**)

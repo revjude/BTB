@@ -7,37 +7,37 @@ And forty sockets of silver he made under the twenty boards; two sockets under o
 with forty silver bases to put under the twenty frames—two bases for each frame, one under each tenon.<small><sub>**MT:**</sub></small>
 [[Exod.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.23|<< Exodus 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.25|Exodus 36:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| bases | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυράς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| posts. | <big><span class="asgreek">στύλοις</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| Two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| bases | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| post | <big><span class="asgreek">στύλω</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότερα</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] parts. | <big><span class="asgreek">μέρη</span></big> <sup><small><small>[[G3313]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| bases | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> |
-| to the \[other\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| post | <big><span class="asgreek">στύλω</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότερα</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] parts. | <big><span class="asgreek">μέρη</span></big> <sup><small><small>[[G3313]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| bases | **<big>[[G0939\|βάσεις]]</big>** |
+| of silver | **<big>[[G0693\|αργυράς]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| posts. | **<big>[[G4769\|στύλοις]]</big>** |
+| Two | **<big>[[G1417\|δύο]]</big>** |
+| bases | **<big>[[G0939\|βάσεις]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| post | **<big>[[G4769\|στύλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| both | **<big>[[G0297\|αμφότερα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[its\] parts. | **<big>[[G3313\|μέρη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| bases | **<big>[[G0939\|βάσεις]]</big>** |
+| to the \[other\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| post | **<big>[[G4769\|στύλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| both | **<big>[[G0297\|αμφότερα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[its\] parts. | **<big>[[G3313\|μέρη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.23|<< Exodus 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.25|Exodus 36:25 >>]]</td></tr></table>
 
 

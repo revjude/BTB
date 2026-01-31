@@ -1,4 +1,4 @@
-Greek of: <small>[[H6939]]</small> 
+Greek of: <small>**<big>[[H6939|קִדְרוֹן]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κέδρος==</span></b>, <span class='asgreek'>ἡ</span>, 

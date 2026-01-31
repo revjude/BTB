@@ -7,25 +7,25 @@ And the children of Israel repented them for Benjamin their brother, and said, T
 And the Israelites grieved for their brothers, the Benjamites, and said, “Today a tribe is cut off from Israel.<small><sub>**MT:**</sub></small>
 [[Judg.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.5|<< Judges 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.7|Judges 21:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| relented | <big><span class="asgreek">παρεκλήθησαν</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Benjamin | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| is removed | <big><span class="asgreek">αφήρηται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| relented | **<big>[[G3870\|παρεκλήθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Benjamin | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπαν]]</big>** |
+| is removed | **<big>[[G0851\|αφήρηται]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| tribe | **<big>[[G5443\|φυλή]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| from | **<big>[[G1437\|εξ]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Judg.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.5|<< Judges 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.7|Judges 21:7 >>]]</td></tr></table>
 
 

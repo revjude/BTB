@@ -7,27 +7,27 @@ For [this] deed of the queen shall come abroad unto all women, so that they shal
 For the conduct of the queen will become known to all women, causing them to despise their husbands and say, ‘King Xerxes ordered Queen Vashti to be brought before him, but she did not come.’<small><sub>**MT:**</sub></small>
 [[Esth.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.16|<< Esther 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.18|Esther 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| (for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he described | <big><span class="asgreek">διηγήσατο</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sayings | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen) | <big><span class="asgreek">βασιλίσσης</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| how | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| she contradicted | <big><span class="asgreek">αντείπε</span></big> <sup><small><small>[[G0471]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| she did contradict | <big><span class="asgreek">αντείπε</span></big> <sup><small><small>[[G0471]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Artaxerxes, | <big><span class="asgreek">Αρταξέρξη</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
+| (for | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he described | **<big>[[G1334\|διηγήσατο]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sayings | **<big>[[G4487\|ρήματα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| queen) | **<big>[[G0938\|βασιλίσσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| how | **<big>[[G5613\|ως]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| she contradicted | **<big>[[G0471\|αντείπε]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| she did contradict | **<big>[[G0471\|αντείπε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| Artaxerxes, | **<big>[[H0783b\|Αρταξέρξη]]</big>** |
 [[Esth.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.16|<< Esther 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.18|Esther 1:18 >>]]</td></tr></table>
 
 

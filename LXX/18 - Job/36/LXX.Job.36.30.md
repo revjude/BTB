@@ -7,18 +7,18 @@ Behold, he spreadeth his light upon it, and covereth the bottom of the sea.
 See how He scatters His lightning around Him and covers the depths of the sea.<small><sub>**MT:**</sub></small>
 [[Job.36.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.29|<< Job 36:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.31|Job 36:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he stretches out | <big><span class="asgreek">εκτένει</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| light | <big><span class="asgreek">ηδώ</span></big> <sup><small><small>[[G7624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] root | <big><span class="asgreek">ριζώματα</span></big> <sup><small><small>[[G9026]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| he covers | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he stretches out | **<big>[[G1614\|εκτένει]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| light | **<big>[[G7624\|ηδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] root | **<big>[[G9026\|ριζώματα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| he covers | **<big>[[G2572\|εκάλυψεν]]</big>** |
 [[Job.36.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.29|<< Job 36:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.31|Job 36:31 >>]]</td></tr></table>
 
 

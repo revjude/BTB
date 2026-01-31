@@ -7,24 +7,24 @@ And the wild asses did stand in the high places, they snuffed up the wind like d
 Wild donkeys stand on barren heights; they pant for air like jackals; their eyes fail for lack of pasture.”<small><sub>**MT:**</sub></small>
 [[Jer.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.5|<< Jeremiah 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.7|Jeremiah 14:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| \[The\] wild | <big><span class="asgreek">άγριοι</span></big> <sup><small><small>[[G0066]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] groves, | <big><span class="asgreek">νάπας</span></big> <sup><small><small>[[G8375]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drew | <big><span class="asgreek">είλκυσαν</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
-| wind | <big><span class="asgreek">ανέμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dragons; | <big><span class="asgreek">δράκοντες</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| grass. | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| \[The\] wild | **<big>[[G0066\|άγριοι]]</big>** |
+| stood | **<big>[[G2476\|έστησαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] groves, | **<big>[[G8375\|νάπας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drew | **<big>[[G1670\|είλκυσαν]]</big>** |
+| wind | **<big>[[G0417\|ανέμον]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dragons; | **<big>[[G1404\|δράκοντες]]</big>** |
+| failed | **<big>[[G1587\|εξέλιπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| grass. | **<big>[[G5528\|χόρτος]]</big>** |
 [[Jer.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.5|<< Jeremiah 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.7|Jeremiah 14:7 >>]]</td></tr></table>
 
 

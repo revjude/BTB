@@ -14,27 +14,27 @@ And the LORD went before them in a pillar of cloud to guide their way by day, an
 > $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| led | <big><span class="asgreek">ηγείτο</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-|  | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a column | <big><span class="asgreek">στύλω</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| of cloud, | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| to show | <big><span class="asgreek">δείξαι</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way; | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| but in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| night | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a column | <big><span class="asgreek">στύλω</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| of fire. | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| led | **<big>[[G2233\|ηγείτο]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| by day | **<big>[[G2250\|ημέρας]]</big>** |
+|  | **<big>[[G3303\|μεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a column | **<big>[[G4769\|στύλω]]</big>** |
+| of cloud, | **<big>[[G3507\|νεφέλης]]</big>** |
+| to show | **<big>[[G1166\|δείξαι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way; | **<big>[[G3598\|οδόν]]</big>** |
+| but in the | **<big>[[G3588\|την]]</big>** **<big>[[G1161\|δε]]</big>** |
+| night | **<big>[[G3571\|νύκτα]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a column | **<big>[[G4769\|στύλω]]</big>** |
+| of fire. | **<big>[[G4442\|πυρός]]</big>** |
 [[Exod.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.20|<< Exodus 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.22|Exodus 13:22 >>]]</td></tr></table>
 
 

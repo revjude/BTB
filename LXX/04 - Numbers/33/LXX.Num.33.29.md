@@ -7,16 +7,16 @@ And they went from Mithcah, and pitched in Hashmonah.
 They set out from Mithkah and camped at Hashmonah.<small><sub>**MT:**</sub></small>
 [[Num.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.28|<< Numbers 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.30|Numbers 33:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| departing | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Mithcah, | <big><span class="asgreek">Μαθεκκά</span></big> <sup><small><small>[[H4989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they camped | <big><span class="asgreek">παρενέβαλον</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hashmonah. | <big><span class="asgreek">Ασσεμωνά</span></big> <sup><small><small>[[H2832]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| departing | **<big>[[G0522\|απήραν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Mithcah, | **<big>[[H4989\|Μαθεκκά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they camped | **<big>[[G6070\|παρενέβαλον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Hashmonah. | **<big>[[H2832\|Ασσεμωνά]]</big>** |
 [[Num.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.28|<< Numbers 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.30|Numbers 33:30 >>]]</td></tr></table>
 
 

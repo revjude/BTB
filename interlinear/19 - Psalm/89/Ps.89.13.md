@@ -6,16 +6,16 @@ Mighty is Your arm; strong is Your hand. Your right hand is exalted.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.12|<< Psalms 89:12]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.14|Psalms 89:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [belongs] to you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an arm  | <span class="ashebrew"><big>זְ֭רוֹעַ </big></span><small><small><sup>[[H2220]]</sup></small></small> &#8207;| Ze.ro.a' <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength  | <span class="ashebrew"><big>גְּבוּרָ֑ה </big></span><small><small><sup>[[H1369]]</sup></small></small> &#8207;| ge.vu.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is strong  | <span class="ashebrew"><big>תָּעֹ֥ז </big></span><small><small><sup>[[H5810]]</sup></small></small> &#8207;| ta.'Oz <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand your  | <span class="ashebrew"><big>יָ֝דְ </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ya.de. <small><sup>[[HNcbsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is exalted  | <span class="ashebrew"><big>תָּר֥וּם </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ta.Rum <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| right [hand] your  | <span class="ashebrew"><big>יְמִינֶֽ </big></span><small><small><sup>[[H3225G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.mi.Ne. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an arm  |**<big>&#8207;[[H2220\|זְ֭רוֹעַ]]&#8207; </big>**| Ze.ro.a'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  |**<big>&#8207;[[H1369\|גְּבוּרָ֑ה]]&#8207; </big>**| ge.vu.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is strong  |**<big>&#8207;[[H5810\|תָּעֹ֥ז]]&#8207; </big>**| ta.'Oz<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand your  |**<big>&#8207;[[H3027H\|יָ֝דְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| ya.de.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is exalted  |**<big>&#8207;[[H7311A\|תָּר֥וּם]]&#8207; </big>**| ta.Rum<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| right [hand] your  |**<big>&#8207;[[H3225G\|יְמִינֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.mi.Ne.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.12|<< Psalms 89:12]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.14|Psalms 89:14 >>]]</td></tr></table>
 
 

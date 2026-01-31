@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חַד‎</span></big> **chad** <small>*(khad)*</small> ==**one**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎חַד‎</span><sup><small>[[H2297]]</small></sup></small>
+**<big><span class="asaramaic">‎חַד‎</span></big>** **chad** <small>*(khad)*</small> ==**one**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2297|‎חַד‎]]</big>**</small>
 
 $\quad$ a, first, one, together.
 - ***as card***. ***one***

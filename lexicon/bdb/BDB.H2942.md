@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H2940]]</small>
+<small>Hebrew form: **<big>[[H2940|טַעַם]]</big>**</small>
  <span class="bdbLangAramaic">‎טְעֵם‎</span><sub>30</sub> **noun masculine**<sup>[[Ezra.4.21|Ezra 4:21]]</sup> ==taste, judgement, command== (Biblical Hebrew <span class="bdbLangAramaic">‎טַ֫עַס‎</span> (late sense)); — absolute <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ט‎</span> [[Dan.3.10|Dan 3:10]] +, construct <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ט‎</span> [[Dan.5.2|Dan 5:2]]; [[Ezra.6.14|Ezra 6:14]], <span class="bdbLangAramaic">‎טַ֫עַס‎</span> (of God, mere scribal distinction [[BDB#Nö|Nö]]<sup>LCB 1896, 305</sup> [[BDB#Str|Str]]<sup>§ 8 c</sup> [[BDB#Kau|K]]<sup>Aramaismen 40</sup>) [[Ezra.6.14|Ezra 6:14]]; [[Ezra.7.23|Ezra 7:23]] emphatic <span class="bdbLangAramaic">‎טַעְמָא‎</span> [[Ezra.4.21|Ezra 4:21]] — 
 
 **1.** [[Dan.5.2|Dan 5:2]] in ***the taste*** of the wine (while they were enjoying it). 

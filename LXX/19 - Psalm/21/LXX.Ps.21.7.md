@@ -7,22 +7,22 @@ For the king trusteth in the LORD, and through the mercy of the most High he sha
 For the king trusts in the LORD; through the loving devotion of the Most High, he will not be shaken.<small><sub>**MT:**</sub></small>
 [[Ps.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.6|<< Psalm 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.8|Psalm 21:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| hopes | <big><span class="asgreek">ελπίζει</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mercy | <big><span class="asgreek">ελέει</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest | <big><span class="asgreek">υψίστου</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he be shaken. | <big><span class="asgreek">σαλευθή</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| hopes | **<big>[[G1679\|ελπίζει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mercy | **<big>[[G1656\|ελέει]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| highest | **<big>[[G5310\|υψίστου]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he be shaken. | **<big>[[G4531\|σαλευθή]]</big>** |
 [[Ps.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.6|<< Psalm 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.8|Psalm 21:8 >>]]</td></tr></table>
 
 

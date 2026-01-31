@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎רִמָּה‎</span></big> **rimmâh** <small>*(rim-maw')*</small> ==**worm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎רָמַם‎</span><sup><small>[[H7426]]</small></sup> in the sense of breading (compare <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup>)</small>
+**<big><span class="ashebrew">‎רִמָּה‎</span></big>** **rimmâh** <small>*(rim-maw')*</small> ==**worm**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7426|‎רָמַם‎]]</big>** in the sense of breading (compare **<big>[[H7311|‎רוּם‎]]</big>**)</small>
 
 $\quad$ worm.
 - ***a maggot*** (as rapidly bred), literally or figuratively
 
 **1)** maggot, worm (as cause and sign of decay)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σκώληξ</span><sup><small>[[G4663]]</small></sup>
+<small>See Greek: </small>**<big>[[G4663|σκώληξ]]</big>**

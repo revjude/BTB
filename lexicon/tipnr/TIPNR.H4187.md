@@ -4,10 +4,10 @@ Levite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Mushi</span> was a son of Merari and a grandson of Levi, who became the head of the Mushite clan within the Levitical tribe.
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.19|Exo.6.19]]; 
-- referred to as Mushi<[[H4187]]> \(<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>\), or Mushite<[[H4188]]> \(<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Merari<[[H4847]]>; 
-- a brother of Mahli<[[H4249G]]> and Jaaziah<[[H3269]]>; 
--  father of Mahli<[[H4249H]]>, Eder<[[H5740A]]> and Jerimoth<[[H3406K]]>.
+- referred to as Mushi **<big>[[H4187|מוּשִׁי]]</big>**, or Mushite **<big>[[H4188|מוּשִׁי]]</big>**; 
+-  son of Merari **<big>[[H4847|מְרָרִי]]</big>**; 
+- a brother of Mahli **<big>[[H4249|מַחְלִי]]</big>** and Jaaziah **<big>[[H3269|יַעֲזִיָּהוּ]]</big>**; 
+-  father of Mahli **<big>[[H4249|מַחְלִי]]</big>**, Eder **<big>[[H5740|עֵדֶר]]</big>** and Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**.
 
 Mushi was a Levite who lived during the time of Moses and the Exodus. He was the son of Merari, one of the three sons of Levi, and the grandson of Levi himself \([[Exod.6.19|Exodus 6:19]]; [[Num.3.20|Numbers 3:20]]; [[1Chr.6.19|1 Chronicles 6:19]],47\). Mushi's descendants formed a clan within the Levitical tribe known as the Mushites \([[Num.3.33|Numbers 3:33]]; 26:58\). 
 
@@ -19,9 +19,9 @@ Mushi's role as the head of a Levitical clan emphasizes the hereditary nature of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mushi | [<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H4187) <small>*Hebrew*</small> | 8x | [[Exo.6.19] ... [1Ch.24.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mushi\*\|reference=Exo.6.19;Num.3.20;1Ch.6.19;1Ch.6.47;1Ch.23.21;1Ch.23.23;1Ch.24.26;1Ch.24.30) |
-| Mushite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H4188) <small>*Hebrew*</small> | 2x | [[Num.3.33] & [Num.26.58] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mushite\*\|reference=Num.3.33;Num.26.58) |
-All Strong's for **Mushi**: \[[[H4187]]\] \[[[H4188]]\]
+| Mushi | [<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H4187) | 8x | [[Exo.6.19] ... [1Ch.24.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mushi\*\|reference=Exo.6.19;Num.3.20;1Ch.6.19;1Ch.6.47;1Ch.23.21;1Ch.23.23;1Ch.24.26;1Ch.24.30) |
+| Mushite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H4188) | 2x | [[Num.3.33] & [Num.26.58] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mushite\*\|reference=Num.3.33;Num.26.58) |
+All entries for **Mushi**:  **<big>[[H4187|מוּשִׁי]]</big>** ☩  **<big>[[H4188|מוּשִׁי]]</big>**
 #### Related Profiles:
 - **[Merari](H4847)** (father)
 - **[Mahli](H4249G)** (sibling)

@@ -7,36 +7,36 @@ They shall not build, and another inhabit; they shall not plant, and another eat
 No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands.<small><sub>**MT:**</sub></small>
 [[Isa.65.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.21|<< Isaiah 65:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.23|Isaiah 65:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they build | <big><span class="asgreek">οικοδομήσουσι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλοι</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| dwell therein. | <big><span class="asgreek">ενοικήσουσι</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they plant | <big><span class="asgreek">φυτεύσουσι</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλοι</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| eat \[of it\]. | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| For according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of a tree | <big><span class="asgreek">ξύλου</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall grow old. | <big><span class="asgreek">παλαιώσουσιν</span></big> <sup><small><small>[[G3822]]</small></small></sup> |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they build | **<big>[[G3618\|οικοδομήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| another | **<big>[[G0243\|άλλοι]]</big>** |
+| dwell therein. | **<big>[[G1774\|ενοικήσουσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they plant | **<big>[[G5452\|φυτεύσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| another | **<big>[[G0243\|άλλοι]]</big>** |
+| eat \[of it\]. | **<big>[[G2068\|φάγονται]]</big>** |
+| For according to | **<big>[[G2596\|κατά]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| of a tree | **<big>[[G3586\|ξύλου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| life | **<big>[[G2222\|ζωής]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for the | **<big>[[G3588\|τα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their hands | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall grow old. | **<big>[[G3822\|παλαιώσουσιν]]</big>** |
 [[Isa.65.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.21|<< Isaiah 65:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.23|Isaiah 65:23 >>]]</td></tr></table>
 
 

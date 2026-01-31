@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מֻפִּים‎</span></big> **Muppîym** <small>*(moop-peem')*</small> ==**Muppim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a plural apparently from <span class="ashebrew">‎נוּף‎</span><sup><small>[[H5130]]</small></sup>; wavings</small>
+**<big><span class="ashebrew">‎מֻפִּים‎</span></big>** **Muppîym** <small>*(moop-peem')*</small> ==**Muppim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a plural apparently from **<big>[[H5130|‎נוּף‎]]</big>**; wavings</small>
 
-$\quad$ Muppim. Compare <span class="ashebrew">‎שֻׁפִּים‎</span><sup><small>[[H8206]]</small></sup>.
+$\quad$ Muppim. Compare **<big>[[H8206|‎שֻׁפִּים‎]]</big>**.
 - § Muppim = *"serpent"*
 - ***Muppim***, an Israelite
 

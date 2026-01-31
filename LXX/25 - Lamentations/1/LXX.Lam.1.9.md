@@ -9,30 +9,30 @@ Her filthiness [is] in her skirts; she remembereth not her last end; therefore s
 Her uncleanness stains her skirts; she did not consider her end. Her downfall was astounding; there was no one to comfort her. Look, O LORD, on my affliction, for the enemy has triumphed!<small><sub>**MT:**</sub></small>
 [[Lam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.8|<< Lamentations 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.10|Lamentations 1:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΤΗΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΤΗΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Her uncleanness | <big><span class="asgreek">ακαθαρσία</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] before | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her feet, | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| remember | <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| her end, | <big><span class="asgreek">έσχατα</span></big> <sup><small><small>[[G2078]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she brought down | <big><span class="asgreek">κατεβίβασεν</span></big> <sup><small><small>[[G2601]]</small></small></sup> |
-| enormously. | <big><span class="asgreek">υπέρογκα</span></big> <sup><small><small>[[G5246]]</small></small></sup> |
-| There is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comforting | <big><span class="asgreek">παρακαλών</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my humiliation, | <big><span class="asgreek">ταπείνωσίν</span></big> <sup><small><small>[[G5014]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was magnified | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| ΤΗΘ <sup><small>[acrostic title]</small></sup> |  |
+| Her uncleanness | **<big>[[G0167\|ακαθαρσία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[is\] before | **<big>[[G4314\|προς]]</big>** |
+| her feet, | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she did not | **<big>[[G3756\|ουκ]]</big>** |
+| remember | **<big>[[G3403\|εμνήσθη]]</big>** |
+| her end, | **<big>[[G2078\|έσχατα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she brought down | **<big>[[G2601\|κατεβίβασεν]]</big>** |
+| enormously. | **<big>[[G5246\|υπέρογκα]]</big>** |
+| There is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| comforting | **<big>[[G3870\|παρακαλών]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| Behold | **<big>[[G1492\|ίδε]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my humiliation, | **<big>[[G5014\|ταπείνωσίν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| was magnified | **<big>[[G3170\|εμεγαλύνθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| enemy | **<big>[[G2190\|εχθρός]]</big>** |
 [[Lam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.8|<< Lamentations 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.10|Lamentations 1:10 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ My heart is smitten, and withered like grass; so that I forget to eat my bread.
 My heart is afflicted, and withered like grass; I even forget to eat my bread.<small><sub>**MT:**</sub></small>
 [[Ps.102.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.3|<< Psalm 102:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.5|Psalm 102:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] struck down | <big><span class="asgreek">επλήγην</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is dried up | <big><span class="asgreek">εξηράνθη</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I forgot | <big><span class="asgreek">επελαθόμην</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bread. | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] struck down | **<big>[[G4141\|επλήγην]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| grass | **<big>[[G5528\|χόρτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is dried up | **<big>[[G3583\|εξηράνθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| so that | **<big>[[G3754\|ότι]]</big>** |
+| I forgot | **<big>[[G1950\|επελαθόμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my bread. | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.102.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.3|<< Psalm 102:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.5|Psalm 102:5 >>]]</td></tr></table>
 
 

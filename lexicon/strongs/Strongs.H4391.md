@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מְלָא‎</span></big> **mᵉlâʼ** <small>*(mel-aw')*</small> ==**to fill**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מָלֵא‎</span><sup><small>[[H4390]]</small></sup></small>
+**<big><span class="asaramaic">‎מְלָא‎</span></big>** **mᵉlâʼ** <small>*(mel-aw')*</small> ==**to fill**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4390|‎מָלֵא‎]]</big>**</small>
 
 $\quad$ fill, be full.
 - ***to fill***

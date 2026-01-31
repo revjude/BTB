@@ -1,5 +1,4 @@
-<span class="asaramaic">‎לָהֵן‎</span> <small>***(la.hen)***</small> ==**therefore**==  <sup><small>[[TEHMC#A:Conj|A:Conj]]</small></sup> 
-Aramaic of: <small>[[H3860]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3860|לָהֵן]]</big>**</small> 
 
 - therefore
-- Aramaic of <i>la.hen</i> (<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ה‎</span>ֵ<span class='ashebrew'>‎ן‎</span> "therefore" [[H3860]])
+- Aramaic of <i>la.hen</i> (<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ה‎</span>ֵ<span class='ashebrew'>‎ן‎</span> "therefore" **<big>[[H3860|לָהֵן]]</big>**)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָצַח‎</span></big> **nâtsach** <small>*(naw-tsakh')*</small> ==**to conduct**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root;  also as denominative from <span class="ashebrew">‎נֶצַח‎</span><sup><small>[[H5331]]</small></sup></small>
+**<big><span class="ashebrew">‎נָצַח‎</span></big>** **nâtsach** <small>*(naw-tsakh')*</small> ==**to conduct**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root;  also as denominative from **<big>[[H5331|‎נֶצַח‎]]</big>**</small>
 
 $\quad$ excel, chief musician (singer), oversee(-r), set forward.
 - properly, ***to glitter from afar***, i.e. ***to be eminent*** (as a superintendent, especially of the Temple services and its music)
@@ -9,4 +9,4 @@ $\quad$ excel, chief musician (singer), oversee(-r), set forward.
 $\quad$ **1a)** (Niphal) enduring (participle)
 $\quad$ **1b)** (Piel) to act as overseer or superintendent or director or chief
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐνισχύω</span><sup><small>[[G1765]]</small></sup> · <span class="asgreek">ἐπισκοπέω</span><sup><small>[[G1983]]</small></sup> · <span class="asgreek">ἐπιστάτης</span><sup><small>[[G1988]]</small></sup> · <span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup> · <span class="asgreek">νικάω</span><sup><small>[[G3528]]</small></sup>
+<small>See Greek: </small>**<big>[[G1765|ἐνισχύω]]</big>** · **<big>[[G1983|ἐπισκοπέω]]</big>** · **<big>[[G1988|ἐπιστάτης]]</big>** · **<big>[[G2480|ἰσχύω]]</big>** · **<big>[[G3528|νικάω]]</big>**

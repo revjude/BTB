@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָלַץ‎</span></big> **ʼâlats** <small>*(aw-lats')*</small> ==**to urge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָלַץ‎</span></big>** **ʼâlats** <small>*(aw-lats')*</small> ==**to urge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ urge.
@@ -6,4 +6,4 @@ $\quad$ urge.
 
 **1)** (Piel) to urge
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παρενοχλέω</span><sup><small>[[G3926]]</small></sup> · <span class="asgreek">στενοχωρέω</span><sup><small>[[G4729]]</small></sup>
+<small>See Greek: </small>**<big>[[G3926|παρενοχλέω]]</big>** · **<big>[[G4729|στενοχωρέω]]</big>**

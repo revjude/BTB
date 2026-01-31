@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּמִיד‎</span></big> **tâmîyd** <small>*(taw-meed')*</small> ==**continually**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎תָּמִיד‎</span></big>** **tâmîyd** <small>*(taw-meed')*</small> ==**continually**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to ***stretch***</small>
 
 $\quad$ alway(-s), continual (employment, -ly), daily, (n-)ever(-more), perpetual.
@@ -10,4 +10,4 @@ $\quad$ alway(-s), continual (employment, -ly), daily, (n-)ever(-more), perpetua
 $\quad$ **1a)** continually, continuously (as adverb)
 $\quad$ **1b)** continuity (subst)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀεί</span><sup><small>[[G0104]]</small></sup> · <span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">θυσία</span><sup><small>[[G2378]]</small></sup> · <span class="asgreek">ὅλος</span><sup><small>[[G3650]]</small></sup> · <span class="asgreek">πᾶς</span><sup><small>[[G3956]]</small></sup> · <span class="asgreek">πᾶς</span><sup><small>[[G3956]]</small></sup> · <span class="asgreek">τέλος</span><sup><small>[[G5056]]</small></sup>
+<small>See Greek: </small>**<big>[[G0104|ἀεί]]</big>** · **<big>[[G0165|αἰών]]</big>** · **<big>[[G2378|θυσία]]</big>** · **<big>[[G3650|ὅλος]]</big>** · **<big>[[G3956|πᾶς]]</big>** · **<big>[[G3956|πᾶς]]</big>** · **<big>[[G5056|τέλος]]</big>**

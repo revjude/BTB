@@ -7,37 +7,37 @@ And [there were] narrow windows to the little chambers, and to their posts withi
 The gate chambers and their side pillars had beveled windows all around the inside of the gateway. The porticos also had windows all around on the inside. Each side pillar was decorated with palm trees.<small><sub>**MT:**</sub></small>
 [[Ezek.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.15|<< Ezekiel 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.17|Ezekiel 40:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[there were\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| windows | <big><span class="asgreek">θυρίδες</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
-| hidden | <big><span class="asgreek">κρυπταί</span></big> <sup><small><small>[[G2927]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vestibules, | <big><span class="asgreek">θεείμ</span></big> <sup><small><small>[[G7645]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porches | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| inside | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
-| of the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pediments | <big><span class="asgreek">αιλαμώθ</span></big> <sup><small><small>[[G6162]]</small></small></sup> |
-| windows | <big><span class="asgreek">θυρίδας</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| inside; | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| \[there were\] palms | <big><span class="asgreek">φοίνικες</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
-| on this side and that side. | <big><span class="asgreek">ένθεν και ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
+| And \[there were\] | **<big>[[G2532\|και]]</big>** |
+| windows | **<big>[[G2376\|θυρίδες]]</big>** |
+| hidden | **<big>[[G2927\|κρυπταί]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| vestibules, | **<big>[[G7645\|θεείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| columned porches | **<big>[[G6161\|αιλάμ]]</big>** |
+| inside | **<big>[[G2081\|έσωθεν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| round about, | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| likewise | **<big>[[G5615\|ωσαύτως]]</big>** |
+| of the | **<big>[[G3588\|τοις]]</big>** |
+| pediments | **<big>[[G6162\|αιλαμώθ]]</big>** |
+| windows | **<big>[[G2376\|θυρίδας]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| inside; | **<big>[[G2081\|έσωθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| \[there were\] palms | **<big>[[G5404\|φοίνικες]]</big>** |
+| on this side and that side. | **<big>[[G6033\|ένθεν και ένθεν]]</big>** |
 [[Ezek.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.15|<< Ezekiel 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.17|Ezekiel 40:17 >>]]</td></tr></table>
 
 

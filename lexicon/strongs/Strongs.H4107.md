@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָהַל‎</span></big> **mâhal** <small>*(maw-hal')*</small> ==**to weaken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָהַל‎</span></big>** **mâhal** <small>*(maw-hal')*</small> ==**to weaken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ mixed.

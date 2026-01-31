@@ -7,36 +7,36 @@ And the asses of Kish Saul’s father were lost. And Kish said to Saul his son, 
 One day the donkeys of Saul’s father Kish wandered off, and Kish said to his son Saul, “Take one of the servants and go look for the donkeys.”<small><sub>**MT:**</sub></small>
 [[1Sam.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.2|<< 1 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.4|1 Samuel 9:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were lost | <big><span class="asgreek">απώλοντο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| of Kish | <big><span class="asgreek">Κις</span></big> <sup><small><small>[[G2797]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Kish said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Κις</span></big> <sup><small><small>[[G2797]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σεαυτού</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant-lads, | <big><span class="asgreek">παιδαρίων</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rise up | <big><span class="asgreek">ανάστητε</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seek | <big><span class="asgreek">ζητήσατε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys! | <big><span class="asgreek">όνους</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were lost | **<big>[[G0622\|απώλοντο]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| of Kish | **<big>[[G2797\|Κις]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| father | **<big>[[G3962\|πατρός]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Kish said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2797\|Κις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his son, | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| yourself | **<big>[[G4572\|σεαυτού]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| servant-lads, | **<big>[[G3808\|παιδαρίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rise up | **<big>[[G0450\|ανάστητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go | **<big>[[G4198\|πορεύθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seek | **<big>[[G2212\|ζητήσατε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| donkeys! | **<big>[[G3688\|όνους]]</big>** |
 [[1Sam.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.2|<< 1 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.4|1 Samuel 9:4 >>]]</td></tr></table>
 
 

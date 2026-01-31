@@ -7,19 +7,19 @@ And the elders of that city shall take that man and chastise him;
 Then the elders of that city shall take the man and punish him.<small><sub>**MT:**</sub></small>
 [[Deut.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.17|<< Deuteronomy 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.19|Deuteronomy 22:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| council of elders | <big><span class="asgreek">γερουσία</span></big> <sup><small><small>[[G1087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνον</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall correct | <big><span class="asgreek">παιδεύσουσιν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| council of elders | **<big>[[G1087\|γερουσία]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of that city | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| that man, | **<big>[[G0444\|άνθρωπον]]</big>** **<big>[[G1473\|εκείνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall correct | **<big>[[G3811\|παιδεύσουσιν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
 [[Deut.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.17|<< Deuteronomy 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.19|Deuteronomy 22:19 >>]]</td></tr></table>
 
 

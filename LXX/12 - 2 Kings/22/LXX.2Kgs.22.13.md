@@ -7,55 +7,55 @@ Go ye, inquire of the LORD for me, and for the people, and for all Judah, concer
 “Go and inquire of the LORD for me, for the people, and for all Judah concerning the words in this book that has been found. For great is the wrath of the LORD that burns against us because our fathers have not obeyed the words of this book by doing all that is written about us.”<small><sub>**MT:**</sub></small>
 [[2Kgs.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.12|<< 2 Kings 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.14|2 Kings 22:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Go, | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| seek after | <big><span class="asgreek">εκζητήσατε</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περι</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this scroll | <big><span class="asgreek">βιβλίου</span></big> <sup><small><small>[[G0975]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being found; | <big><span class="asgreek">ευρεθέντος</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burning away | <big><span class="asgreek">εκκεκαυμένη</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| hearkened not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[concerning\] the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this scroll, | <big><span class="asgreek">βιβλίου</span></big> <sup><small><small>[[G0975]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being written | <big><span class="asgreek">γεγραμμένα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| concerning | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Go, | **<big>[[G1205\|δεύτε]]</big>** |
+| seek after | **<big>[[G1567\|εκζητήσατε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| me! | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| concerning | **<big>[[G4012\|περι]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this scroll | **<big>[[G0975\|βιβλίου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| being found; | **<big>[[G2147\|ευρεθέντος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| burning away | **<big>[[G1572\|εκκεκαυμένη]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| us, | **<big>[[G1473\|ημίν]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| hearkened not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| our fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[concerning\] the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this scroll, | **<big>[[G0975\|βιβλίου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| being written | **<big>[[G1125\|γεγραμμένα]]</big>** |
+| concerning | **<big>[[G2596\|καθ΄]]</big>** |
+| us. | **<big>[[G1473\|ημών]]</big>** |
 [[2Kgs.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.12|<< 2 Kings 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.14|2 Kings 22:14 >>]]</td></tr></table>
 
 

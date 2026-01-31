@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָדַד‎</span></big> **nâdad** <small>*(naw-dad')*</small> ==**to wander**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָדַד‎</span></big>** **nâdad** <small>*(naw-dad')*</small> ==**to wander**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ chase (away), [idiom] could not, depart, flee ([idiom] apace, away), (re-) move, thrust away, wander (abroad, -er, -ing).
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Hiphil) to chase away
 $\quad$ **1d)** (Hophal) to be chased away
 $\quad$ **1e)** (Hithpolel) to flee away
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">βδελύσσω</span><sup><small>[[G0948]]</small></sup> · <span class="asgreek">διαφεύγω</span><sup><small>[[G1309]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup> · <span class="asgreek">ἐξωθέω</span><sup><small>[[G1856]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup> · <span class="asgreek">εὔχομαι</span><sup><small>[[G2172]]</small></sup> · <span class="asgreek">καταβαίνω</span><sup><small>[[G2597]]</small></sup> · <span class="asgreek">πέτομαι</span><sup><small>[[G4072]]</small></sup> · <span class="asgreek">πλανήτης</span><sup><small>[[G4107]]</small></sup> · <span class="asgreek">πτοέω</span><sup><small>[[G4422]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup> · <span class="asgreek">φεύγω</span><sup><small>[[G5343]]</small></sup>
+<small>See Greek: </small>**<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G0948|βδελύσσω]]</big>** · **<big>[[G1309|διαφεύγω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>** · **<big>[[G1856|ἐξωθέω]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>** · **<big>[[G2172|εὔχομαι]]</big>** · **<big>[[G2597|καταβαίνω]]</big>** · **<big>[[G4072|πέτομαι]]</big>** · **<big>[[G4107|πλανήτης]]</big>** · **<big>[[G4422|πτοέω]]</big>** · **<big>[[G5015|ταράσσω]]</big>** · **<big>[[G5343|φεύγω]]</big>**

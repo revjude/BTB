@@ -7,27 +7,27 @@ And it shall be upon Aaron to minister: and his sound shall be heard when he goe
 Aaron must wear the robe whenever he ministers, and its sound will be heard when he enters or exits the sanctuary before the LORD, so that he will not die.<small><sub>**MT:**</sub></small>
 [[Exod.28.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.34|<< Exodus 28:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.36|Exodus 28:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| officiating | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| \[will be\] audible | <big><span class="asgreek">ακουστή</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισιόντι</span></big> <sup><small><small>[[G1524]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[his\] exiting, | <big><span class="asgreek">εξίοντι</span></big> <sup><small><small>[[G1826]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he might not die. | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| officiating | **<big>[[G3008\|λειτουργείν]]</big>** |
+| \[will be\] audible | **<big>[[G6200\|ακουστή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his sound | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| entering | **<big>[[G1524\|εισιόντι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| holy place | **<big>[[G0039\|άγιον]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[his\] exiting, | **<big>[[G1826\|εξίοντι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he might not die. | **<big>[[G3361\|μη]]</big>** **<big>[[G0599\|αποθάνη]]</big>** |
 [[Exod.28.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.34|<< Exodus 28:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.36|Exodus 28:36 >>]]</td></tr></table>
 
 

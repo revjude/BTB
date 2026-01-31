@@ -7,57 +7,57 @@ For thus hath the LORD spoken unto me, Like as the lion and the young lion roari
 For this is what the LORD has said to me: “Like a lion roaring or a young lion over its prey—and though a band of shepherds is called out against it, it is not terrified by their shouting or subdued by their clamor—so the LORD of Hosts will come down to do battle on Mount Zion and its heights.<small><sub>**MT:**</sub></small>
 [[Isa.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.3|<< Isaiah 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.5|Isaiah 31:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| In which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should yell out | <big><span class="asgreek">βοήση</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cub | <big><span class="asgreek">σκύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| game | <big><span class="asgreek">θήρα</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he took, | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall cry out | <big><span class="asgreek">κεκράξη</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be filled up | <big><span class="asgreek">εμπλησθή</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the prey\] are vanquished, | <big><span class="asgreek">ηττήθησαν</span></big> <sup><small><small>[[G2274]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| magnitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| they are scared; | <big><span class="asgreek">επτοήθησαν</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall go down | <big><span class="asgreek">καταβήσεται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| to march | <big><span class="asgreek">επιστρατεύσαι</span></big> <sup><small><small>[[G7457]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her mountains. | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπέ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> to me, | **<big>[[G1473\|μοι]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| In which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should yell out | **<big>[[G0994\|βοήση]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lion | **<big>[[G3023\|λέων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| cub | **<big>[[G9121\|σκύμνος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| game | **<big>[[G2339\|θήρα]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| he took, | **<big>[[G2983\|έλαβε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall cry out | **<big>[[G2896\|κεκράξη]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should be filled up | **<big>[[G1705\|εμπλησθή]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his voice, | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the prey\] are vanquished, | **<big>[[G2274\|ηττήθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by the | **<big>[[G3588\|το]]</big>** |
+| magnitude | **<big>[[G4128\|πλήθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of rage | **<big>[[G2372\|θυμού]]</big>** |
+| they are scared; | **<big>[[G4422\|επτοήθησαν]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shall go down | **<big>[[G2597\|καταβήσεται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| to march | **<big>[[G7457\|επιστρατεύσαι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her mountains. | **<big>[[G3735\|όρη]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Isa.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.3|<< Isaiah 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.5|Isaiah 31:5 >>]]</td></tr></table>
 
 

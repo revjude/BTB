@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֵּרָה‎</span></big> **gêrâh** <small>*(gay-raw')*</small> ==**gerah**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּרַר‎</span><sup><small>[[H1641]]</small></sup> (as in <span class="ashebrew">‎גֵּרָה‎</span><sup><small>[[H1625]]</small></sup>); properly, (like <span class="ashebrew">‎גַּרְגַּר‎</span><sup><small>[[H1620]]</small></sup>) a kernel (round as if scraped), i.e.</small>
+**<big><span class="ashebrew">‎גֵּרָה‎</span></big>** **gêrâh** <small>*(gay-raw')*</small> ==**gerah**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1641|‎גָּרַר‎]]</big>** (as in **<big>[[H1625|‎גֵּרָה‎]]</big>**); properly, (like **<big>[[H1620|‎גַּרְגַּר‎]]</big>**) a kernel (round as if scraped), i.e.</small>
 
 $\quad$ gerah.
 - ***a gerah*** or ***small weight*** (and coin)

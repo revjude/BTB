@@ -7,26 +7,26 @@ And ye shall have on the tenth [day] of this seventh month an holy convocation; 
 On the tenth day of this seventh month, you are to hold a sacred assembly, and you shall humble yourselves; you must not do any work.<small><sub>**MT:**</sub></small>
 [[Num.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.6|<< Numbers 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.8|Numbers 29:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenth | <big><span class="asgreek">δεκάτη</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| summoning | <big><span class="asgreek">επίκλητος</span></big> <sup><small><small>[[G7415]]</small></small></sup> |
-| a holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| there shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall afflict | <big><span class="asgreek">κακώσετε</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your souls, | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do. | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| tenth | **<big>[[G1181\|δεκάτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this month | **<big>[[G3376\|μηνός]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| summoning | **<big>[[G7415\|επίκλητος]]</big>** |
+| a holy | **<big>[[G0039\|αγία]]</big>** |
+| there shall be | **<big>[[G1510\|έσται]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall afflict | **<big>[[G2559\|κακώσετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your souls, | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| do. | **<big>[[G4160\|ποιήσετε]]</big>** |
 [[Num.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.6|<< Numbers 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.8|Numbers 29:8 >>]]</td></tr></table>
 
 

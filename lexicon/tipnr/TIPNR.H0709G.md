@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Argob</span>, a region in Bashan, conquered by the Israelites and known for its many fortified cities.
 - A location first mentioned at [[Jer.51.27|Deu.3.4]]; 
-- only referred to as Argob<[[H0709G]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>\).
+- only referred to as Argob **<big>[[H0709|אַרְגֹּב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.144,36.136&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The biblical references to Argob highlight its significance as a fortified and s
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Argob | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>](H0709G) <small>*Hebrew*</small> | 4x | [[Deu.3.4] ... [1Ki.4.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Argob\*\|reference=Deu.3.4;Deu.3.13;Deu.3.14;1Ki.4.13) |
-All Strong's for **Argob**: \[[[H0709G]]\]
+| Argob | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>](H0709G) | 4x | [[Deu.3.4] ... [1Ki.4.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Argob\*\|reference=Deu.3.4;Deu.3.13;Deu.3.14;1Ki.4.13) |
+All entries for **Argob**:  **<big>[[H0709|אַרְגֹּב]]</big>**

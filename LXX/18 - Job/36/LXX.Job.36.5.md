@@ -7,19 +7,19 @@ Behold, God [is] mighty, and despiseth not [any: he is] mighty in strength [and]
 Indeed, God is mighty, but He despises no one; He is mighty in strength of understanding.<small><sub>**MT:**</sub></small>
 [[Job.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.4|<< Job 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.6|Job 36:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But know! | <big><span class="asgreek">γίνωσκε</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall undo | <big><span class="asgreek">αποποιήσηται</span></big> <sup><small><small>[[G6469]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guileless \[man\]; | <big><span class="asgreek">άκακον</span></big> <sup><small><small>[[G0172]]</small></small></sup> |
-| \[the\] mighty | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| in strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of heart. | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| But know! | **<big>[[G1097\|γίνωσκε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall undo | **<big>[[G6469\|αποποιήσηται]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| guileless \[man\]; | **<big>[[G0172\|άκακον]]</big>** |
+| \[the\] mighty | **<big>[[G1415\|δυνατός]]</big>** |
+| in strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| of heart. | **<big>[[G2588\|καρδίαν]]</big>** |
 [[Job.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.4|<< Job 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.6|Job 36:6 >>]]</td></tr></table>
 
 

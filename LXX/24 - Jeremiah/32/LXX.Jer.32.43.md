@@ -7,28 +7,28 @@ And fields shall be bought in this land, whereof ye say, [It is] desolate withou
 And fields will be bought in this land about which you are saying, ‘It is a desolation, without man or beast; it has been delivered into the hands of the Chaldeans.’<small><sub>**MT:**</sub></small>
 [[Jer.32.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.42|<< Jeremiah 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.44|Jeremiah 32:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall be acquired | <big><span class="asgreek">κτηθήσονται</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| fields | <big><span class="asgreek">αγροί</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| say, | <big><span class="asgreek">λέγεις</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| It is untrodden | <big><span class="asgreek">άβατός</span></big> <sup><small><small>[[G6101]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beast; | <big><span class="asgreek">κτήνους</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were delivered up | <big><span class="asgreek">παρεδόθησαν</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Chaldeans. | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall be acquired | **<big>[[G2932\|κτηθήσονται]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| fields | **<big>[[G0068\|αγροί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| say, | **<big>[[G3004\|λέγεις]]</big>** |
+| It is untrodden | **<big>[[G6101\|άβατός]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| men | **<big>[[G0444\|ανθρώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beast; | **<big>[[G2934\|κτήνους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were delivered up | **<big>[[G3860\|παρεδόθησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of Chaldeans. | **<big>[[G5466\|Χαλδαίων]]</big>** |
 [[Jer.32.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.42|<< Jeremiah 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.44|Jeremiah 32:44 >>]]</td></tr></table>
 
 

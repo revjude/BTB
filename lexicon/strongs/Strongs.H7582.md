@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁאָה‎</span></big> **shâʼâh** <small>*(shaw-aw')*</small> ==**to crash**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁאָה‎</span></big>** **shâʼâh** <small>*(shaw-aw')*</small> ==**to crash**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be desolate, (make a) rush(-ing), (lay) waste.
@@ -15,4 +15,4 @@ $\quad$ **1c)** (Hiphil)
 $\quad$ $\quad$ **1c1)** to cause to crash
 $\quad$ $\quad$ **1c2)** to cause to be desolated
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἠχέω</span><sup><small>[[G2278]]</small></sup> · <span class="asgreek">καταλείπω</span><sup><small>[[G2641]]</small></sup>
+<small>See Greek: </small>**<big>[[G2278|ἠχέω]]</big>** · **<big>[[G2641|καταλείπω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲזַרְיָה‎</span></big> **ʻĂzaryâh** <small>*(az-ar-yaw')*</small> ==**Azariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עֲזַרְיָהוּ</span> **ʻĂzaryâhûw** <small>*(az-aryaw'-hoo)*</small>; from <span class="ashebrew">‎עָזַר‎</span><sup><small>[[H5826]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has helped</small>
+**<big><span class="ashebrew">‎עֲזַרְיָה‎</span></big>** **ʻĂzaryâh** <small>*(az-ar-yaw')*</small> ==**Azariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֲזַרְיָהוּ</span></big>** **ʻĂzaryâhûw** <small>*(az-aryaw'-hoo)*</small>; from **<big>[[H5826|‎עָזַר‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has helped</small>
 
 $\quad$ Azariah.
 - § Azariah = *"Jehovah has helped"*
@@ -7,7 +7,7 @@ $\quad$ Azariah.
 
 **1)** son of king Amaziah of Judah and king of Judah himself for 52 years; also 'Uzziah'
 **2)** the godly friend of Daniel who Nebuchadnezzar renamed Abednego; one of the three friends who with Daniel refused to make themselves unclean by eating food from the king's table which went against the dietary laws which God had given the Jews; also one of the three who were thrown into the fiery furnace for refusing to bow down to a graven image of Nebuchadnezzar and who were saved by the angel of the Lord
-$\quad$ **2a)** also, 'Abednego' (<span class="ashebrew">עֲבֵד נְגוֹ</span><sup><small>[[H5664]]</small></sup> or <span class="ashebrew">עֲבֵד נְגוֹא</span><sup><small>[[H5665]]</small></sup>)
+$\quad$ **2a)** also, 'Abednego' (**<big>[[H5664|עֲבֵד נְגוֹ]]</big>** or **<big>[[H5665|עֲבֵד נְגוֹא]]</big>**)
 **3)** son of Nathan and an officer of Solomon; perhaps David's grandson and Solomon's nephew
 **4)** a prophet in the days of king Asa of Judah
 **5)** son of king Jehoshaphat of Judah and brother to 5

@@ -7,22 +7,22 @@ I will bless the LORD, who hath given me counsel: my reins also instruct me in t
 I will bless the LORD who counsels me; even at night my conscience instructs me.<small><sub>**MT:**</sub></small>
 [[Ps.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.6|<< Psalm 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.8|Psalm 16:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will bless | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one bringing understanding to | <big><span class="asgreek">συνετίσαντά</span></big> <sup><small><small>[[G9318]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| corrected | <big><span class="asgreek">επαίδευσάν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my kidneys | <big><span class="asgreek">νεφροί</span></big> <sup><small><small>[[G3510]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will bless | **<big>[[G2127\|ευλογήσω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one bringing understanding to | **<big>[[G9318\|συνετίσαντά]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| but still | **<big>[[G2089\|έτι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| night | **<big>[[G3571\|νυκτός]]</big>** |
+| corrected | **<big>[[G3811\|επαίδευσάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my kidneys | **<big>[[G3510\|νεφροί]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.6|<< Psalm 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.8|Psalm 16:8 >>]]</td></tr></table>
 
 

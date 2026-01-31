@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָאִרִי‎</span></big> **Yâʼirîy** <small>*(yaw-ee-ree')*</small> ==**Jairite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎יָאִיר‎</span><sup><small>[[H2971]]</small></sup></small>
+**<big><span class="ashebrew">‎יָאִרִי‎</span></big>** **Yâʼirîy** <small>*(yaw-ee-ree')*</small> ==**Jairite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H2971|‎יָאִיר‎]]</big>**</small>
 
 $\quad$ Jairite.
 - § Jairite = *"descendant of Jair"*

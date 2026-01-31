@@ -7,17 +7,17 @@ And the children of Heth answered Abraham, saying unto him,
 The Hittites replied to Abraham,<small><sub>**MT:**</sub></small>
 [[Gen.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.4|<< Genesis 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.6|Genesis 23:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And answered | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Heth | <big><span class="asgreek">Χετ</span></big> <sup><small><small>[[H2845]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| No, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| O lord. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And answered | **<big>[[G0611\|απεκρίθησαν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Heth | **<big>[[H2845\|Χετ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| No, | **<big>[[G3361\|μη]]</big>** |
+| O lord. | **<big>[[G2962\|κύριε]]</big>** |
 [[Gen.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.4|<< Genesis 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.6|Genesis 23:6 >>]]</td></tr></table>
 
 

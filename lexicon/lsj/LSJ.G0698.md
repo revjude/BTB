@@ -1,4 +1,4 @@
-group of: <small>[[G0697]]</small> 
+group of: <small>**<big>[[G0697|Ἄρειος Πάγος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἀρεοπαγίτης==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>ον</span>, 

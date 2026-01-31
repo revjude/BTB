@@ -1,4 +1,4 @@
-<small>Also see: [[H1961]] | [[H0430]] | [[H0589]] | [[H2022]] | [[H6635]]</small>
+<small>Also see: **<big>[[H1961|הָיָה]]</big>** | **<big>[[H0430|אֱלֹהִים]]</big>** | **<big>[[H0589|אֲנִי]]</big>** | **<big>[[H2022|הַר]]</big>** | **<big>[[H6635|צָבָא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יהוה‎</span><sub>c. 6823</sub> i.e. <span class="bdbLangHebrew">‎יַהְוֶה‎</span> **proper name, of deity** ==Yahweh==, the proper name of the God of Israel — (
 
@@ -35,7 +35,7 @@ $\quad$ $\quad$ **d.** emphatic [[Exod.6.8|Exod 6:8]]; [[Exod.12.12|Exod 12:12]]
 
  <span class="bdbLangHebrew">‎יהוה‎</span> **proper name, of deity**, see below <span class="bdbLangHebrew">‎הוה‎</span>. 
 
-<small>Also see: [[H3097]]</small>
+<small>Also see: **<big>[[H3097|יוֹאָב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יו‎</span> = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יְהוֺ‎</span> **proper name** compounded with, see below <span class="bdbLangHebrew">‎יהוה‎</span> above: — namely <span class="bdbLangHebrew">‎יוֺאָב‎</span>, <span class="bdbLangHebrew">‎יוֺאָח‎</span>, <span class="bdbLangHebrew">‎יוֺאָחָז‎</span>, <span class="bdbLangHebrew">‎יוֺאֵל‎</span>, <span class="bdbLangHebrew">‎יוֺאָשׁ‎</span>, <span class="bdbLangHebrew">‎יוֺיָכִין‎</span>, <span class="bdbLangHebrew">‎יוֺיָקִים‎</span>, <span class="bdbLangHebrew">‎יוֺיָרִיב‎</span>, <span class="bdbLangHebrew">‎יוֺעֵד‎</span>, <span class="bdbLangHebrew">‎יוֺעָשׁ‎</span>, <span class="bdbLangHebrew">‎יוֺקִים‎</span>, <span class="bdbLangHebrew">‎יוֺרָם‎</span>, <span class="bdbLangHebrew">‎יוֺתָם‎</span>, etc. 
 

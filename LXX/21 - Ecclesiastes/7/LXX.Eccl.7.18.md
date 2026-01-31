@@ -7,26 +7,26 @@
 It is good to grasp the one and not let the other slip from your hand. For he who fears God will follow both warnings.<small><sub>**MT:**</sub></small>
 [[Eccl.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.17|<< Ecclesiastes 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.19|Ecclesiastes 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[It is\] good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for you to hold fast | <big><span class="asgreek">αντέχεσθαί</span></big> <sup><small><small>[[G0472]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this; | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| defile | <big><span class="asgreek">μιάνης</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand. | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[to the\] ones fearing | <big><span class="asgreek">φοβουμένοις</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| all \[things\] shall go forth. | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \[It is\] good | **<big>[[G0018\|αγαθόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| for you to hold fast | **<big>[[G0472\|αντέχεσθαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| this; | **<big>[[G3778\|τούτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| defile | **<big>[[G3392\|μιάνης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your hand. | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[to the\] ones fearing | **<big>[[G5399\|φοβουμένοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| all \[things\] shall go forth. | **<big>[[G1831\|εξελεύσεται]]</big>** **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
 [[Eccl.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.17|<< Ecclesiastes 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.19|Ecclesiastes 7:19 >>]]</td></tr></table>
 
 

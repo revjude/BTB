@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָבַל‎</span></big> **zâbal** <small>*(zaw-bal')*</small> ==**to honour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָבַל‎</span></big>** **zâbal** <small>*(zaw-bal')*</small> ==**to honour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root; apparently properly, to inclose, i.e.</small>
 
 $\quad$ dwell with.
@@ -6,4 +6,4 @@ $\quad$ dwell with.
 
 **1)** (Qal) to exalt, honour, (possible) dwell exaltedly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἱρετίζω</span><sup><small>[[G0140]]</small></sup>
+<small>See Greek: </small>**<big>[[G0140|αἱρετίζω]]</big>**

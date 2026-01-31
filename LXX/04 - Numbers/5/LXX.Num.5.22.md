@@ -7,28 +7,28 @@ And this water that causeth the curse shall go into thy bowels, to make [thy] be
 May this water that brings a curse enter your stomach and cause your belly to swell and your thigh to shrivel.’ Then the woman is to say, ‘Amen, Amen.’<small><sub>**MT:**</sub></small>
 [[Num.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.21|<< Numbers 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.23|Numbers 5:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this accursing | <big><span class="asgreek">επικαταρώμενον</span></big> <sup><small><small>[[G7414]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your belly | <big><span class="asgreek">κοιλίαν</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to bloat | <big><span class="asgreek">πρήσαι</span></big> <sup><small><small>[[G8882]]</small></small></sup> |
-| pregnant | <big><span class="asgreek">γαστέρα</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to miscarry | <big><span class="asgreek">διαπεσείν</span></big> <sup><small><small>[[G6863]]</small></small></sup> |
-| by your thigh. | <big><span class="asgreek">μηρόν</span></big> <sup><small><small>[[G3382]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| May it be. | <big><span class="asgreek">γένοιτο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| May it be. | <big><span class="asgreek">γένοιτο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this accursing | **<big>[[G7414\|επικαταρώμενον]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your belly | **<big>[[G2836\|κοιλίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to bloat | **<big>[[G8882\|πρήσαι]]</big>** |
+| pregnant | **<big>[[G1064\|γαστέρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to miscarry | **<big>[[G6863\|διαπεσείν]]</big>** |
+| by your thigh. | **<big>[[G3382\|μηρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall say | **<big>[[G2046\|ερεί]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| May it be. | **<big>[[G1096\|γένοιτο]]</big>** |
+| May it be. | **<big>[[G1096\|γένοιτο]]</big>** |
 [[Num.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.21|<< Numbers 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.23|Numbers 5:23 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוֹבָל‎</span></big> **Shôwbâl** <small>*(sho-bawl')*</small> ==**Shobal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎שֹׁבֶל‎</span><sup><small>[[H7640]]</small></sup>; overflowing</small>
+**<big><span class="ashebrew">‎שׁוֹבָל‎</span></big>** **Shôwbâl** <small>*(sho-bawl')*</small> ==**Shobal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H7640|‎שֹׁבֶל‎]]</big>**; overflowing</small>
 
 $\quad$ Shobal.
 - § Shobal = *"flowing"*

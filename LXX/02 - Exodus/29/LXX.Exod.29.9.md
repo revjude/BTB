@@ -7,36 +7,36 @@ And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets o
 Wrap the sashes around Aaron and his sons and tie headbands on them. The priesthood shall be theirs by a permanent statute. In this way you are to ordain Aaron and his sons.<small><sub>**MT:**</sub></small>
 [[Exod.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.8|<< Exodus 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.10|Exodus 29:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall tie around | <big><span class="asgreek">ζώσεις</span></big> <sup><small><small>[[G2224]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| belts, | <big><span class="asgreek">ζώναις</span></big> <sup><small><small>[[G2223]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall put on | <big><span class="asgreek">περιθήσεις</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turbans, | <big><span class="asgreek">κιδάρεις</span></big> <sup><small><small>[[G8010]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a priesthood | <big><span class="asgreek">ιερατεία</span></big> <sup><small><small>[[G2405]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall perfect | <big><span class="asgreek">τελειώσεις</span></big> <sup><small><small>[[G5048]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons. | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall tie around | **<big>[[G2224\|ζώσεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| belts, | **<big>[[G2223\|ζώναις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall put on | **<big>[[G4060\|περιθήσεις]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| turbans, | **<big>[[G8010\|κιδάρεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| for them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a priesthood | **<big>[[G2405\|ιερατεία]]</big>** |
+| to me | **<big>[[G1699\|εμοί]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon. | **<big>[[G0165\|αιώνα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall perfect | **<big>[[G5048\|τελειώσεις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| of Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons. | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.8|<< Exodus 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.10|Exodus 29:10 >>]]</td></tr></table>
 
 

@@ -6,21 +6,21 @@ Now this is the law of the Nazirite when his time of separation is complete: He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.12|<< Numbers 6:12]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.14|Numbers 6:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and this  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זֹ֥את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] law of  | <span class="ashebrew"><big>תּוֹרַ֖ת </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| to.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Nazirite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נָּזִ֑יר </big></span><small><small><sup>[[H5139]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> na.Zir <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֗וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| are completed  | <span class="ashebrew"><big>מְלֹאת֙ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| me.loT <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ye.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nazirite vow his  | <span class="ashebrew"><big>נִזְר֔ </big></span><small><small><sup>[[H5145G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| niz.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone will bring  | <span class="ashebrew"><big>יָבִ֣יא </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| ya.Vi' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת֔ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] entrance of  | <span class="ashebrew"><big>פֶּ֖תַח </big></span><small><small><sup>[[H6607]]</sup></small></small> &#8207;| Pe.tach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tent of  | <span class="ashebrew"><big>אֹ֥הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meeting  | <span class="ashebrew"><big>מוֹעֵֽד </big></span><small><small><sup>[[H4150I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mo.'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֖ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Nazirite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5139\|נָּזִ֑יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Zir<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֗וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are completed  |**<big>&#8207;[[H4390\|מְלֹאת֙]]&#8207; </big>**| me.loT<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֣י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nazirite vow his  |**<big>&#8207;[[H5145G\|נִזְר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| niz.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will bring  |**<big>&#8207;[[H0935P\|יָבִ֣יא]]&#8207; </big>**| ya.Vi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] entrance of  |**<big>&#8207;[[H6607\|פֶּ֖תַח]]&#8207; </big>**| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֥הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  |**<big>&#8207;[[H4150I\|מוֹעֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.12|<< Numbers 6:12]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.14|Numbers 6:14 >>]]</td></tr></table>
 
 

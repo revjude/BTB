@@ -2,7 +2,7 @@
 
 Mount Seir refers to the mountainous region within Seir, often associated with the Edomites \(Deut. 1:2; 2:1, 5; 1 Chr. 4:42; Ezek. 35:2, 3, 7, 15\).
 - A location first mentioned at [[Ezek.25.8|Deu.1.2]]; 
-- only referred to as Seir\_Mount<[[H8165G]]> \(<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- only referred to as Seir\_Mount **<big>[[H8165|שֵׂעִיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.734691,35.606250&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The specific location of Mount Seir within the region of Seir is not clearly def
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Seir | [<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>](H8165G) <small>*Hebrew*</small> | 11x | [[Deu.1.2] ... [Ezk.35.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seir\*\|reference=Deu.1.2;Deu.2.1;Deu.2.5;1Ch.4.42;2Ch.20.10;2Ch.20.22;2Ch.20.23;Ezk.35.2;Ezk.35.3;Ezk.35.7;Ezk.35.15) |
-All Strong's for **Seir_Mount**: \[[[H8165G]]\]
+| (Mount )Seir | [<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>](H8165G) | 11x | [[Deu.1.2] ... [Ezk.35.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seir\*\|reference=Deu.1.2;Deu.2.1;Deu.2.5;1Ch.4.42;2Ch.20.10;2Ch.20.22;2Ch.20.23;Ezk.35.2;Ezk.35.3;Ezk.35.7;Ezk.35.15) |
+All entries for **Seir Mount**:  **<big>[[H8165|שֵׂעִיר]]</big>**

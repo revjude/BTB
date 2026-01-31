@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַכַּי‎</span></big> **Zakkay** <small>*(zak-kah'-ee)*</small> ==**Zaccai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זָכַךְ‎</span><sup><small>[[H2141]]</small></sup>; pure</small>
+**<big><span class="ashebrew">‎זַכַּי‎</span></big>** **Zakkay** <small>*(zak-kah'-ee)*</small> ==**Zaccai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2141|‎זָכַךְ‎]]</big>**; pure</small>
 
 $\quad$ Zaccai.
 - § Zaccai = *"pure"*
@@ -7,4 +7,4 @@ $\quad$ Zaccai.
 
 **1)** the head of a family of 760 exiles returning with Zerubbabel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ζακχαῖος</span><sup><small>[[G2195]]</small></sup>
+<small>See Greek: </small>**<big>[[G2195|Ζακχαῖος]]</big>**

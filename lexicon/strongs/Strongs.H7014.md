@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַיִן‎</span></big> **Qayin** <small>*(kah'-yin)*</small> ==**Kain**==  <sup><small>[[TEHMC#N:N-M-PG|N:N-M-PG]]</small></sup> 
-<small>the same as <span class="ashebrew">‎קַיִן‎</span><sup><small>[[H7013]]</small></sup> (with a play upon the affinity to <span class="ashebrew">‎קָנָה‎</span><sup><small>[[H7069]]</small></sup>)</small>
+**<big><span class="ashebrew">‎קַיִן‎</span></big>** **Qayin** <small>*(kah'-yin)*</small> ==**Kain**==  <sup><small>[[TEHMC#N:N-M-PG|N:N-M-PG]]</small></sup> 
+<small>the same as **<big>[[H7013|‎קַיִן‎]]</big>** (with a play upon the affinity to **<big>[[H7069|‎קָנָה‎]]</big>**)</small>
 
 $\quad$ Cain, Kenite(-s).
 - § Kenite = *"smiths"*
@@ -10,4 +10,4 @@ n pr m
 n pr gent
 **2)** the tribe from which the father-in-law of Moses was a member and which lived in the area between southern Palestine and the mountains of Sinai
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Κάϊν</span><sup><small>[[G2535]]</small></sup>
+<small>See Greek: </small>**<big>[[G2535|Κάϊν]]</big>**

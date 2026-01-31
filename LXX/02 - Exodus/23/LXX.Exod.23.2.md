@@ -7,20 +7,20 @@ Thou shalt not follow a multitude to [do] evil; neither shalt thou speak in a ca
 You shall not follow the crowd in wrongdoing. When you testify in a lawsuit, do not pervert justice by siding with the crowd.<small><sub>**MT:**</sub></small>
 [[Exod.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.1|<< Exodus 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.3|Exodus 23:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| many \[people\] | <big><span class="asgreek">πλειόνων</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| evil. | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be added | <big><span class="asgreek">προστεθήση</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| to turn aside | <big><span class="asgreek">εκκλίναι</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| a judgment. | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έση]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| many \[people\] | **<big>[[G4183\|πλειόνων]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| evil. | **<big>[[G2549\|κακία]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| be added | **<big>[[G4369\|προστεθήση]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a multitude | **<big>[[G4128\|πλήθους]]</big>** |
+| to turn aside | **<big>[[G1578\|εκκλίναι]]</big>** |
+| a judgment. | **<big>[[G2920\|κρίσιν]]</big>** |
 [[Exod.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.1|<< Exodus 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.3|Exodus 23:3 >>]]</td></tr></table>
 
 

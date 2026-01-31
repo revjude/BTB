@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נִרְגָּן‎</span></big> **nirgân** <small>*(neer-gawn')*</small> ==**whisperer**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נִרְגָּן‎</span></big>** **nirgân** <small>*(neer-gawn')*</small> ==**whisperer**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>from an unused root meaning to roll to pieces</small>
 
 $\quad$ talebearer, whisperer.

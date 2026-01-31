@@ -4,16 +4,16 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Elam</span> was a son of Shashak, from the tribe of Benjamin.
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.24|1Ch.8.24]]; 
-- only referred to as Elam<[[H5867G]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>\); 
--  son of Shashak<[[H8349]]>; 
-- a brother of Ishpan<[[H3473]]>, Eber<[[H5677J]]>, Eliel<[[H0447I]]>, Abdon<[[H5658I]]>, Zichri<[[H2147I]]>, Hanan<[[H2605G]]>, Hananiah<[[H2608O]]>, Anthothijah<[[H6070]]>, Iphdeiah<[[H3301]]> and Penuel<[[H6439I]]>.
+- only referred to as Elam **<big>[[H5867|עֵילָם]]</big>**; 
+-  son of Shashak **<big>[[H8349|שָׁשַׁק]]</big>**; 
+- a brother of Ishpan **<big>[[H3473|יִשְׁפָּן]]</big>**, Eber **<big>[[H5677|עֵבֵר]]</big>**, Eliel **<big>[[H0447|אֱלִיאֵל]]</big>**, Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, Zichri **<big>[[H2147|זִכְרִי]]</big>**, Hanan **<big>[[H2605|חָנָן]]</big>**, Hananiah **<big>[[H2608|חֲנַנְיָה]]</big>**, Anthothijah **<big>[[H6070|עַנְתֹתִיָּה]]</big>**, Iphdeiah **<big>[[H3301|יִפְדְּיָה]]</big>** and Penuel **<big>[[H6439|פְּנוּאֵל]]</big>**.
 
 Elam is mentioned in [[1Chr.8.24|1 Chronicles 8:24]] as one of the sons of Shashak, a descendant of Benjamin. He is listed among the heads of families living in Jerusalem.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5867G) <small>*Hebrew*</small> | 1x | [1Ch.8.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elam\*\|reference=1Ch.8.24) |
-All Strong's for **Elam**: \[[[H5867G]]\]
+| Elam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5867G) | 1x | [1Ch.8.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elam\*\|reference=1Ch.8.24) |
+All entries for **Elam**:  **<big>[[H5867|עֵילָם]]</big>**
 #### Related Profiles:
 - **[Shashak](H8349)** (father)
 - **[Ishpan](H3473)** (sibling)

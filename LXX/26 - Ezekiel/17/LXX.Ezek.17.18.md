@@ -7,26 +7,26 @@ Seeing he despised the oath by breaking the covenant, when, lo, he had given his
 He despised the oath by breaking the covenant. Seeing that he gave his hand in pledge yet did all these things, he will not escape!’<small><sub>**MT:**</sub></small>
 [[Ezek.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.17|<< Ezekiel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.19|Ezekiel 17:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he disgraced | <big><span class="asgreek">ητίμωσεν</span></big> <sup><small><small>[[G0821]]</small></small></sup> |
-| \[the\] swearing of an oath | <big><span class="asgreek">ορκωμοσίαν</span></big> <sup><small><small>[[G3728]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| violating | <big><span class="asgreek">παραβήναι</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
-| \[the\] covenant; | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he appointed | <big><span class="asgreek">δέδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| he did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| escape. | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he disgraced | **<big>[[G0821\|ητίμωσεν]]</big>** |
+| \[the\] swearing of an oath | **<big>[[G3728\|ορκωμοσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| violating | **<big>[[G3845\|παραβήναι]]</big>** |
+| \[the\] covenant; | **<big>[[G1242\|διαθήκην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he appointed | **<big>[[G1325\|δέδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand, | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| he did | **<big>[[G4160\|εποίησεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| he shall not | **<big>[[G3361\|μη]]</big>** |
+| escape. | **<big>[[G4982\|σωθήσεται]]</big>** |
 [[Ezek.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.17|<< Ezekiel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.19|Ezekiel 17:19 >>]]</td></tr></table>
 
 

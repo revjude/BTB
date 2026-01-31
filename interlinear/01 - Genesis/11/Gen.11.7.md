@@ -6,19 +6,19 @@ Come, let Us go down and confuse their language, so that they will not understan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| give !  | <span class="ashebrew"><big>הָ֚בָ </big></span><small><small><sup>[[H3051]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| Ha.va <small><sup>[[HVqv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us go down  | <span class="ashebrew"><big>נֵֽרְדָ֔ה </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ne.re.Dah <small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and let us confuse  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָבְלָ֥ה </big></span><small><small><sup>[[H1101A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.ve.Lah <small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>שָׁ֖ם </big></span><small><small><sup>[[H8033G]]</sup></small></small> &#8207;| sham <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| language their  | <span class="ashebrew"><big>שְׂפָתָ֑ </big></span><small><small><sup>[[H8193K]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| se.fa.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁר֙ </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will hear  | <span class="ashebrew"><big>יִשְׁמְע֔וּ </big></span><small><small><sup>[[H8085J]]</sup></small></small> &#8207;| yish.me.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| each  | <span class="ashebrew"><big>אִ֖ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] language of  | <span class="ashebrew"><big>שְׂפַ֥ת </big></span><small><small><sup>[[H8193H]]</sup></small></small> &#8207;| se.Fat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neighbor his  | <span class="ashebrew"><big>רֵעֵֽ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| re.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give !  |**<big>&#8207;[[H3051\|הָ֚בָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ha.va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us go down  |**<big>&#8207;[[H3381\|נֵֽרְדָ֔ה]]&#8207; </big>**| ne.re.Dah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let us confuse  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1101A\|נָבְלָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.ve.Lah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָׁ֖ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| language their  |**<big>&#8207;[[H8193K\|שְׂפָתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| se.fa.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will hear  |**<big>&#8207;[[H8085J\|יִשְׁמְע֔וּ]]&#8207; </big>**| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  |**<big>&#8207;[[H0376I\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] language of  |**<big>&#8207;[[H8193H\|שְׂפַ֥ת]]&#8207; </big>**| se.Fat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  |**<big>&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ And if a leprosy break out abroad in the skin, and the leprosy cover all the ski
 But if the skin disease breaks out all over his skin so that it covers all the skin of the infected person from head to foot, as far as the priest can see,<small><sub>**MT:**</sub></small>
 [[Lev.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.11|<< Leviticus 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.13|Leviticus 13:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| blooming | <big><span class="asgreek">εξανθούσα</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
-| shall break out | <big><span class="asgreek">εξανθήσει</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
-| leprosy | <big><span class="asgreek">λέπρα</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall cover | <big><span class="asgreek">καλύψει</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leprosy | <big><span class="asgreek">λέπρα</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| with the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection, | <big><span class="asgreek">αφής</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| his feet, | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] whole | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest; | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| blooming | **<big>[[G7296\|εξανθούσα]]</big>** |
+| shall break out | **<big>[[G7296\|εξανθήσει]]</big>** |
+| leprosy | **<big>[[G3014\|λέπρα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| skin, | **<big>[[G1192\|δέρματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall cover | **<big>[[G2572\|καλύψει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| leprosy | **<big>[[G3014\|λέπρα]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| skin | **<big>[[G1192\|δέρμα]]</big>** |
+| with the | **<big>[[G3588\|της]]</big>** |
+| infection, | **<big>[[G0860\|αφής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| his feet, | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| \[the\] whole | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| vision | **<big>[[G3706\|όρασιν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| priest; | **<big>[[G2409\|ιερέως]]</big>** |
 [[Lev.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.11|<< Leviticus 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.13|Leviticus 13:13 >>]]</td></tr></table>
 
 

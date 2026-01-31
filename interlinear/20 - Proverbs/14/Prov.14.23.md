@@ -6,16 +6,16 @@ There is profit in all labor, but mere talk leads only to poverty.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.22|<< Proverbs 14:22]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.24|Proverbs 14:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hard labor  | <span class="ashebrew"><big>עֶ֭צֶב </big></span><small><small><sup>[[H6089A]]</sup></small></small> &#8207;| 'E.tzev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is  | <span class="ashebrew"><big>יִהְיֶ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| profit  | <span class="ashebrew"><big>מוֹתָ֑ר </big></span><small><small><sup>[[H4195]]</sup></small></small> &#8207;| mo.Tar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and word of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דְבַר </big></span><small><small><sup>[[H1697M]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> de.va.rS- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips  | <span class="ashebrew"><big>שְׂ֝פָתַ֗יִם </big></span><small><small><sup>[[H8193H]]</sup></small></small> &#8207;| Se.fa.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| only  | <span class="ashebrew"><big>אַךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'akh- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to poverty  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַחְסֽוֹר </big></span><small><small><sup>[[H4270]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mach.Sor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hard labor  |**<big>&#8207;[[H6089A\|עֶ֭צֶב]]&#8207; </big>**| 'E.tzev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is  |**<big>&#8207;[[H1961\|יִהְיֶ֣ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| profit  |**<big>&#8207;[[H4195\|מוֹתָ֑ר]]&#8207; </big>**| mo.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and word of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1697M\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.va.rS-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips  |**<big>&#8207;[[H8193H\|שְׂ֝פָתַ֗יִם]]&#8207; </big>**| Se.fa.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to poverty  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4270\|מַחְסֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mach.Sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.22|<< Proverbs 14:22]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.24|Proverbs 14:24 >>]]</td></tr></table>
 
 

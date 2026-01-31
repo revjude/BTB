@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H3769]]</small>
+<small>Aramaic form: **<big>[[H3769|כָּרַר]]</big>**</small>
  <span class="bdbLangHebrew">‎כִּכָּר‎</span> **noun feminine**<sup>[[Gen.13.10|Gen 13:10]]</sup> [[Exod.29.32|Exod 29:32]] ==a round== : hence 
 
 **1.** a round district. 

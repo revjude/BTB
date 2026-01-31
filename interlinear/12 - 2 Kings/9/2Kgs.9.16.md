@@ -6,23 +6,23 @@ Then Jehu got into his chariot and went to Jezreel, because Joram was laid up th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.15|<< 2 Kings 9:15]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.17|2 Kings 9:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he rode in a chariot  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּרְכַּ֤ב </big></span><small><small><sup>[[H7392]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yir.Kav <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehu  | <span class="ashebrew"><big>יֵהוּא֙ </big></span><small><small><sup>[[H3058H]]</sup></small></small> &#8207;| ye.Hu' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he went  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֣לֶךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.lekh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jezreel towards  | <span class="ashebrew"><big>יִזְרְעֶ֔אלָ </big></span><small><small><sup>[[H3157H]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| yiz.re.'E.la <small><sup>[[HNpl]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joram  | <span class="ashebrew"><big>יוֹרָ֖ם </big></span><small><small><sup>[[H3141H]]</sup></small></small> &#8207;| yo.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] lying  | <span class="ashebrew"><big>שֹׁכֵ֣ב </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| sho.Khev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there \<towards>  | <span class="ashebrew"><big>שָׁ֑מָּ </big></span><small><small><sup>[[H8033G]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| Sha.ma <small><sup>[[HD]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ahaziah  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲחַזְיָה֙ </big></span><small><small><sup>[[H0274H]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.chaz.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had come down  | <span class="ashebrew"><big>יָרַ֖ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ya.Rad <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to see  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רְא֥וֹת </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> r.'ot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joram  | <span class="ashebrew"><big>יוֹרָֽם </big></span><small><small><sup>[[H3141H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yo.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he rode in a chariot  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7392\|יִּרְכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  |**<big>&#8207;[[H3058H\|יֵהוּא֙]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֣לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jezreel towards  |**<big>&#8207;[[H3157H\|יִזְרְעֶ֔אלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| yiz.re.'E.la<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joram  |**<big>&#8207;[[H3141H\|יוֹרָ֖ם]]&#8207; </big>**| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] lying  |**<big>&#8207;[[H7901G\|שֹׁכֵ֣ב]]&#8207; </big>**| sho.Khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֑מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ahaziah  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H0274H\|אֲחַזְיָה֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chaz.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had come down  |**<big>&#8207;[[H3381\|יָרַ֖ד]]&#8207; </big>**| ya.Rad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to see  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7200G\|רְא֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joram  |**<big>&#8207;[[H3141H\|יוֹרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.15|<< 2 Kings 9:15]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.17|2 Kings 9:17 >>]]</td></tr></table>
 
 

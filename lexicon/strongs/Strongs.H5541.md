@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָלָה‎</span></big> **çâlâh** <small>*(saw-law')*</small> ==**to reject**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָלָה‎</span></big>** **çâlâh** <small>*(saw-law')*</small> ==**to reject**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ tread down (under foot), value.
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Piel) to flout, reject
 **2)** to weigh, balance
 $\quad$ **2a)** (Pual) to be weighed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup>
+<small>See Greek: </small>**<big>[[G1808|ἐξαίρω]]</big>**

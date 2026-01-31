@@ -7,30 +7,30 @@ And the man Jeroboam [was] a mighty man of valour: and Solomon seeing the young 
 Now Jeroboam was a mighty man of valor. So when Solomon noticed that the young man was industrious, he put him in charge of the whole labor force of the house of Joseph.<small><sub>**MT:**</sub></small>
 [[1Kgs.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.27|<< 1 Kings 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.29|1 Kings 11:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| Jeroboam \[was\] | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| in power. | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Solomon saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young man | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of works | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| he is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribute | <big><span class="asgreek">άρσεις</span></big> <sup><small><small>[[G6545]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Joseph. | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| Jeroboam \[was\] | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| strong | **<big>[[G2478\|ισχυρός]]</big>** |
+| in power. | **<big>[[G1411\|δυνάμει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Solomon saw | **<big>[[G1492\|είδε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| young man | **<big>[[G3808\|παιδάριον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| of works | **<big>[[G2041\|έργων]]</big>** |
+| he is | **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tribute | **<big>[[G6545\|άρσεις]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Joseph. | **<big>[[G2501\|Ιωσήφ]]</big>** |
 [[1Kgs.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.27|<< 1 Kings 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.29|1 Kings 11:29 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּרָא‎</span></big> **bârâʼ** <small>*(baw-raw')*</small> ==**to create**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּרָא‎</span></big>** **bârâʼ** <small>*(baw-raw')*</small> ==**to create**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ choose, create (creator), cut down, dispatch, do, make (fat).
@@ -22,4 +22,4 @@ $\quad$ $\quad$ **1c2)** to cut out
 **2)** to be fat
 $\quad$ **2a)** (Hiphil) to make yourselves fat
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup> · <span class="asgreek">γέννημα</span><sup><small>[[G1081]]</small></sup> · <span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">δεικνύω</span><sup><small>[[G1166]]</small></sup> · <span class="asgreek">διατάσσω</span><sup><small>[[G1299]]</small></sup> · <span class="asgreek">ἐκκαθαίρω</span><sup><small>[[G1571]]</small></sup> · <span class="asgreek">ἐνευλογέω</span><sup><small>[[G1757]]</small></sup> · <span class="asgreek">ἑτοιμάζω</span><sup><small>[[G2090]]</small></sup> · <span class="asgreek">κατασκευάζω</span><sup><small>[[G2680]]</small></sup> · <span class="asgreek">κτίζω</span><sup><small>[[G2936]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup>
+<small>See Greek: </small>**<big>[[G0757|ἄρχω]]</big>** · **<big>[[G1081|γέννημα]]</big>** · **<big>[[G1096|γίνομαι]]</big>** · **<big>[[G1166|δεικνύω]]</big>** · **<big>[[G1299|διατάσσω]]</big>** · **<big>[[G1571|ἐκκαθαίρω]]</big>** · **<big>[[G1757|ἐνευλογέω]]</big>** · **<big>[[G2090|ἑτοιμάζω]]</big>** · **<big>[[G2680|κατασκευάζω]]</big>** · **<big>[[G2936|κτίζω]]</big>** · **<big>[[G4160|ποιέω]]</big>**

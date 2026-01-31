@@ -7,27 +7,27 @@ In transgressing and lying against the LORD, and departing away from our God, sp
 rebelling and denying the LORD, turning away from our God, speaking oppression and revolt, conceiving and uttering lies from the heart.<small><sub>**MT:**</sub></small>
 [[Isa.59.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.12|<< Isaiah 59:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.14|Isaiah 59:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We were impious, | <big><span class="asgreek">ησεβήσαμεν</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lied, | <big><span class="asgreek">εψευσάμεθα</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| departed | <big><span class="asgreek">απέστημεν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We spoke | <big><span class="asgreek">ελαλήσαμεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| unjustly, | <big><span class="asgreek">άδικα</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we resisted persuasion. | <big><span class="asgreek">ηπειθήσαμεν</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
-| We sired, | <big><span class="asgreek">εκύομεν</span></big> <sup><small><small>[[G8137]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| meditated | <big><span class="asgreek">εμελετήσαμεν</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| our heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| unjust | <big><span class="asgreek">αδίκους</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| We were impious, | **<big>[[G0764\|ησεβήσαμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lied, | **<big>[[G5574\|εψευσάμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| departed | **<big>[[G0868\|απέστημεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| We spoke | **<big>[[G2980\|ελαλήσαμεν]]</big>** |
+| unjustly, | **<big>[[G0094\|άδικα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we resisted persuasion. | **<big>[[G0544\|ηπειθήσαμεν]]</big>** |
+| We sired, | **<big>[[G8137\|εκύομεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| meditated | **<big>[[G3191\|εμελετήσαμεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| our heart | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| unjust | **<big>[[G0094\|αδίκους]]</big>** |
 [[Isa.59.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.12|<< Isaiah 59:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.14|Isaiah 59:14 >>]]</td></tr></table>
 
 

@@ -7,36 +7,36 @@ But [when] ye go over Jordan, and dwell in the land which the LORD your God give
 When you cross the Jordan and live in the land that the LORD your God is giving you as an inheritance, and He gives you rest from all the enemies around you and you dwell securely,<small><sub>**MT:**</sub></small>
 [[Deut.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.9|<< Deuteronomy 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.11|Deuteronomy 12:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall pass over | <big><span class="asgreek">διαβήσεσθε</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall dwell | <big><span class="asgreek">κατοικήσετε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall inherit | <big><span class="asgreek">κατακληρονομήσει</span></big> <sup><small><small>[[G7853]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall rest | <big><span class="asgreek">καταπαύσει</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| round about; | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall dwell | <big><span class="asgreek">κατοικήσετε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| safety. | <big><span class="asgreek">ασφαλείας</span></big> <sup><small><small>[[G0803]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| you shall pass over | **<big>[[G1224\|διαβήσεσθε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall dwell | **<big>[[G2730\|κατοικήσετε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| shall inherit | **<big>[[G7853\|κατακληρονομήσει]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall rest | **<big>[[G2664\|καταπαύσει]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your enemies | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| round about; | **<big>[[G2945\|κύκλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall dwell | **<big>[[G2730\|κατοικήσετε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| safety. | **<big>[[G0803\|ασφαλείας]]</big>** |
 [[Deut.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.9|<< Deuteronomy 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.11|Deuteronomy 12:11 >>]]</td></tr></table>
 
 

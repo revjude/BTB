@@ -7,42 +7,42 @@ And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hat
 but he said to Daniel, “I fear my lord the king, who has assigned your food and drink. For why should he see your faces looking thinner than those of the other young men your age? You would endanger my head before the king!”<small><sub>**MT:**</sub></small>
 [[Dan.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.9|<< Daniel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.11|Daniel 1:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief eunuch | <big><span class="asgreek">αρχιευνούχος</span></big> <sup><small><small>[[G6553]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Daniel, | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| I fear | <big><span class="asgreek">φοβούμαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lord | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arraying | <big><span class="asgreek">εκτάξαντα</span></big> <sup><small><small>[[G7150]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your food | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your drink, | <big><span class="asgreek">πόσιν</span></big> <sup><small><small>[[G4213]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| he should behold | <big><span class="asgreek">είδη</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your faces | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| looking downcast | <big><span class="asgreek">σκυθρωπά</span></big> <sup><small><small>[[G4659]]</small></small></sup> |
-| more than | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boys, | <big><span class="asgreek">παιδάρια</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your contemporaries; | <big><span class="asgreek">συνήλικα</span></big> <sup><small><small>[[G9321]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should condemn | <big><span class="asgreek">καταδικάσητε</span></big> <sup><small><small>[[G2613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief eunuch | **<big>[[G6553\|αρχιευνούχος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Daniel, | **<big>[[G1158\|Δανιήλ]]</big>** |
+| I fear | **<big>[[G5399\|φοβούμαι]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my lord | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king, | **<big>[[G0935\|βασιλέα]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| arraying | **<big>[[G7150\|εκτάξαντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your food | **<big>[[G1035\|βρώσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your drink, | **<big>[[G4213\|πόσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| he should behold | **<big>[[G1492\|είδη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your faces | **<big>[[G4383\|πρόσωπα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| looking downcast | **<big>[[G4659\|σκυθρωπά]]</big>** |
+| more than | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| boys, | **<big>[[G3808\|παιδάρια]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| of your contemporaries; | **<big>[[G9321\|συνήλικα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should condemn | **<big>[[G2613\|καταδικάσητε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my head | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king. | **<big>[[G0935\|βασιλεί]]</big>** |
 [[Dan.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.9|<< Daniel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.11|Daniel 1:11 >>]]</td></tr></table>
 
 

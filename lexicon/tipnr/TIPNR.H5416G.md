@@ -4,11 +4,11 @@ David's son living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nathan</span>, a son of David and Bathsheba, is mentioned in the genealogy of Jesus Christ.
 - David's son from the tribe of Judah living at the time of United Monarchy, first mentioned at [[2Sam.5.14|2Sa.5.14]]; 
-- referred to as Nathan<[[H5416G]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Nathan<[[G3481]]> \(<span class='tipnrLangGreek'>Ναθάν</span>\); 
--  son of David<[[H1732]]> and Bathsheba<[[H1339]]>; 
-- a brother of Shammua<[[H8051H]]>, Shobab<[[H7727G]]> and Solomon<[[H8010]]>; 
--  half-brother of: Amnon<[[H0550G]]>, Chileab<[[H3609]]>, Absalom<[[H0053]]>, Adonijah<[[H0138G]]>, Shephatiah<[[H8203G]]>, Ithream<[[H3507]]>, Ibhar<[[H2984]]>, Elishua<[[H0474]]>, Nepheg<[[H5298H]]>, Japhia<[[H3309I]]>, Elishama<[[H0476H]]>, Eliada<[[H0450G]]>, Eliphelet<[[H0467G]]>, Tamar<[[H8559H]]>, Elpelet<[[H0467I]]>, Nogah<[[H5052]]> and Jerimoth<[[H3406N]]>; 
--  father of Mattatha<[[G3160]]>.
+- referred to as Nathan **<big>[[H5416|נָתָן]]</big>**, or Nathan **<big>[[G3481|Ναθάν]]</big>**; 
+-  son of David **<big>[[H1732|דָּוִד]]</big>** and Bathsheba **<big>[[H1339|בַּת־שֶׁבַע]]</big>**; 
+- a brother of Shammua **<big>[[H8051|שַׁמּוּעַ]]</big>**, Shobab **<big>[[H7727|שׁוֹבָב]]</big>** and Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**; 
+-  half-brother of: Amnon **<big>[[H0550|אַמְנוֹן]]</big>**, Chileab **<big>[[H3609|כִּלְאָב]]</big>**, Absalom **<big>[[H0053|אֲבִישָׁלוֹם]]</big>**, Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**, Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**, Ithream **<big>[[H3507|יִתְרְעָם]]</big>**, Ibhar **<big>[[H2984|יִבְחַר]]</big>**, Elishua **<big>[[H0474|אֱלִישׁוּעַ]]</big>**, Nepheg **<big>[[H5298|נֶפֶג]]</big>**, Japhia **<big>[[H3309|יָפִיעַ]]</big>**, Elishama **<big>[[H0476|אֱלִישָׁמָע]]</big>**, Eliada **<big>[[H0450|אֶלְיָדָע]]</big>**, Eliphelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Tamar **<big>[[H8559|תָּמָר]]</big>**, Elpelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Nogah **<big>[[H5052|נֹגַהּ]]</big>** and Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**; 
+-  father of Mattatha **<big>[[G3160|Ματταθά]]</big>**.
 
 Nathan was one of the sons of King David and Bathsheba, born in Jerusalem \([[2Sam.5.14|2 Samuel 5:14]]; [[1Chr.3.5|1 Chronicles 3:5]]; 14:4\). He was a younger brother of Solomon, who would succeed David as king. 
 
@@ -20,9 +20,9 @@ As a son of David, Nathan would have been part of the royal family during a time
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416G) <small>*Hebrew*</small> | 4x | [[2Sa.5.14] ... [Zec.12.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=2Sa.5.14;1Ch.3.5;1Ch.14.4;Zec.12.12) |
-| Nathan | [<span class='tipnrLangGreek'>Ναθάν</span>](G3481) <small>*Greek*</small> | 1x | [Luk.3.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Luk.3.31) |
-All Strong's for **Nathan**: \[[[H5416G]]\] \[[[G3481]]\]
+| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416G) | 4x | [[2Sa.5.14] ... [Zec.12.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=2Sa.5.14;1Ch.3.5;1Ch.14.4;Zec.12.12) |
+| Nathan | [<span class='tipnrLangGreek'>Ναθάν</span>](G3481) | 1x | [Luk.3.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Luk.3.31) |
+All entries for **Nathan**:  **<big>[[H5416|נָתָן]]</big>** ☩  **<big>[[G3481|Ναθάν]]</big>**
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Bathsheba](H1339)** (mother)

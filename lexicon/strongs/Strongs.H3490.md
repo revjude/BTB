@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָתוֹם‎</span></big> **yâthôwm** <small>*(yaw-thome')*</small> ==**orphan**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יָתוֹם‎</span></big>** **yâthôwm** <small>*(yaw-thome')*</small> ==**orphan**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to be lonely</small>
 
 $\quad$ fatherless (child), orphan.
@@ -6,4 +6,4 @@ $\quad$ fatherless (child), orphan.
 
 **1)** an orphan, fatherless
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀρφανός</span><sup><small>[[G3737]]</small></sup>
+<small>See Greek: </small>**<big>[[G3737|ὀρφανός]]</big>**

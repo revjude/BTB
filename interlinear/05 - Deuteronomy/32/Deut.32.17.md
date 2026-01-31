@@ -10,21 +10,21 @@ They sacrificed to demons, not to God, to gods they had not known, to newly arri
 > $\quad$ referenced by: [[1Cor.10.20|1Cor 10:20]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they sacrificed  | <span class="ashebrew"><big>יִזְבְּח֗וּ </big></span><small><small><sup>[[H2076]]</sup></small></small> &#8207;| yiz.be.Chu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the demons  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֵּׁדִים֙ </big></span><small><small><sup>[[H7700]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> she.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] God  | <span class="ashebrew"><big>אֱלֹ֔הַ </big></span><small><small><sup>[[H0433]]</sup></small></small> &#8207;| 'e.Lo.ha <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִ֖ים </big></span><small><small><sup>[[H0430J]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had known them  | <span class="ashebrew"><big>יְדָע֑וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| ye.da.'U <small><sup>[[HVqp3cp]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new [gods]  | <span class="ashebrew"><big>חֲדָשִׁים֙ </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| cha.da.Shim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] from near  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קָּרֹ֣ב </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ka.Ro <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had come  | <span class="ashebrew"><big>בָּ֔אוּ </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ba.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had known about them  | <span class="ashebrew"><big>שְׂעָר֖וּ </big></span><small><small><sup>[[H8175C]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| se.'a.Ru <small><sup>[[HVqp3cp]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors your  | <span class="ashebrew"><big>אֲבֹתֵי </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.vo.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sacrificed  |**<big>&#8207;[[H2076\|יִזְבְּח֗וּ]]&#8207; </big>**| yiz.be.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the demons  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7700\|שֵּׁדִים֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> she.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] God  |**<big>&#8207;[[H0433\|אֱלֹ֔הַ]]&#8207; </big>**| 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had known them  |**<big>&#8207;[[H3045\|יְדָע֑וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ye.da.'U<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new [gods]  |**<big>&#8207;[[H2319H\|חֲדָשִׁים֙]]&#8207; </big>**| cha.da.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] from near  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7138\|קָּרֹ֣ב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Ro<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had come  |**<big>&#8207;[[H0935G\|בָּ֔אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had known about them  |**<big>&#8207;[[H8175C\|שְׂעָר֖וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| se.'a.Ru<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors your  |**<big>&#8207;[[H0001G\|אֲבֹתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.16|<< Deuteronomy 32:16]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.18|Deuteronomy 32:18 >>]]</td></tr></table>
 
 

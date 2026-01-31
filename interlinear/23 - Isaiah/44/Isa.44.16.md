@@ -6,26 +6,26 @@ He burns half of it in the fire, and he roasts meat on that half. He eats the ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.15|<< Isaiah 44:15]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.17|Isaiah 44:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| half of it  | <span class="ashebrew"><big>חֶצְי </big></span><small><small><sup>[[H2677]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| chetz.Y <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he burns  | <span class="ashebrew"><big>שָׂרַ֣ף </big></span><small><small><sup>[[H8313]]</sup></small></small> &#8207;| sa.Raf <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in  | <span class="ashebrew"><big>בְּמוֹ </big></span><small><small><sup>[[H1119]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֵ֔שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| half of it  | <span class="ashebrew"><big>חֶצְי </big></span><small><small><sup>[[H2677]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| chetz.Y <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meat  | <span class="ashebrew"><big>בָּשָׂ֣ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| ba.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he eats  | <span class="ashebrew"><big>יֹאכֵ֔ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| yo.Khel <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he roasts  | <span class="ashebrew"><big>יִצְלֶ֥ה </big></span><small><small><sup>[[H6740]]</sup></small></small> &#8207;| yitz.Leh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| roasted meat  | <span class="ashebrew"><big>צָלִ֖י </big></span><small><small><sup>[[H6748]]</sup></small></small> &#8207;| tza.Li <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so he may be satisfied  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִשְׂבָּ֑ע </big></span><small><small><sup>[[H7646]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yis.Ba' <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0637]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is warm  | <span class="ashebrew"><big>יָחֹם֙ </big></span><small><small><sup>[[H2552]]</sup></small></small> &#8207;| ya.Chom <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he may say  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹאמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Mar <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| aha!  | <span class="ashebrew"><big>הֶאָ֔ח </big></span><small><small><sup>[[H1889]]</sup></small></small> &#8207;| he.'Ach <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am warm  | <span class="ashebrew"><big>חַמּוֹתִ֖י </big></span><small><small><sup>[[H2552]]</sup></small></small> &#8207;| cha.mo.Ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I see  | <span class="ashebrew"><big>רָאִ֥יתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֽוּר </big></span><small><small><sup>[[H0217A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'Ur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| half of it  |**<big>&#8207;[[H2677\|חֶצְי]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| chetz.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he burns  |**<big>&#8207;[[H8313\|שָׂרַ֣ף]]&#8207; </big>**| sa.Raf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in  |**<big>&#8207;[[H1119\|בְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0784\|אֵ֔שׁ]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| half of it  |**<big>&#8207;[[H2677\|חֶצְי]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| chetz.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meat  |**<big>&#8207;[[H1320\|בָּשָׂ֣ר]]&#8207; </big>**| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he eats  |**<big>&#8207;[[H0398\|יֹאכֵ֔ל]]&#8207; </big>**| yo.Khel<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he roasts  |**<big>&#8207;[[H6740\|יִצְלֶ֥ה]]&#8207; </big>**| yitz.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| roasted meat  |**<big>&#8207;[[H6748\|צָלִ֖י]]&#8207; </big>**| tza.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so he may be satisfied  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7646\|יִשְׂבָּ֑ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yis.Ba'<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is warm  |**<big>&#8207;[[H2552\|יָחֹם֙]]&#8207; </big>**| ya.Chom<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may say  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0559\|יֹאמַ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Mar<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| aha!  |**<big>&#8207;[[H1889\|הֶאָ֔ח]]&#8207; </big>**| he.'Ach<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am warm  |**<big>&#8207;[[H2552\|חַמּוֹתִ֖י]]&#8207; </big>**| cha.mo.Ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I see  |**<big>&#8207;[[H7200G\|רָאִ֥יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0217A\|אֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Ur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.15|<< Isaiah 44:15]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.17|Isaiah 44:17 >>]]</td></tr></table>
 
 

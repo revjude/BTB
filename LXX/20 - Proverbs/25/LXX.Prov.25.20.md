@@ -7,30 +7,30 @@ As vinegar draws hurtful; so passion falling on a body distresses \[the\] heart.
 Like one who removes a garment on a cold day or vinegar poured on a wound is one who sings songs to a heavy heart.<small><sub>**MT:**</sub></small>
 [[Prov.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.19|<< Proverbs 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.21|Proverbs 25:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| vinegar | <big><span class="asgreek">όξος</span></big> <sup><small><small>[[G3690]]</small></small></sup> |
-| draws | <big><span class="asgreek">έλκει</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
-| hurtful; | <big><span class="asgreek">ασύμφορον</span></big> <sup><small><small>[[G6578]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| falling | <big><span class="asgreek">προσπεσόν</span></big> <sup><small><small>[[G4363]]</small></small></sup> |
-| passion | <big><span class="asgreek">πάθος</span></big> <sup><small><small>[[G3806]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a body | <big><span class="asgreek">σώματι</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| distresses | <big><span class="asgreek">λυπεί</span></big> <sup><small><small>[[G3076]]</small></small></sup> |
-| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a moth | <big><span class="asgreek">σης</span></big> <sup><small><small>[[G4597]]</small></small></sup> |
-| in a garment, | <big><span class="asgreek">ιματίω</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a worm | <big><span class="asgreek">σκώληξ</span></big> <sup><small><small>[[G4663]]</small></small></sup> |
-| in wood, | <big><span class="asgreek">ξύλω</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| distress | <big><span class="asgreek">λύπη</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| of a man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| hurts | <big><span class="asgreek">βλάπτει</span></big> <sup><small><small>[[G0984]]</small></small></sup> |
-| \[the\] heart. | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| As | **<big>[[G5618\|ώσπερ]]</big>** |
+| vinegar | **<big>[[G3690\|όξος]]</big>** |
+| draws | **<big>[[G1670\|έλκει]]</big>** |
+| hurtful; | **<big>[[G6578\|ασύμφορον]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| falling | **<big>[[G4363\|προσπεσόν]]</big>** |
+| passion | **<big>[[G3806\|πάθος]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| a body | **<big>[[G4983\|σώματι]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| distresses | **<big>[[G3076\|λυπεί]]</big>** |
+| As | **<big>[[G5618\|ώσπερ]]</big>** |
+| a moth | **<big>[[G4597\|σης]]</big>** |
+| in a garment, | **<big>[[G2440\|ιματίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a worm | **<big>[[G4663\|σκώληξ]]</big>** |
+| in wood, | **<big>[[G3586\|ξύλω]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| distress | **<big>[[G3077\|λύπη]]</big>** |
+| of a man | **<big>[[G0435\|ανδρός]]</big>** |
+| hurts | **<big>[[G0984\|βλάπτει]]</big>** |
+| \[the\] heart. | **<big>[[G2588\|καρδίαν]]</big>** |
 [[Prov.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.19|<< Proverbs 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.21|Proverbs 25:21 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָשָׁה‎</span></big> **nâshâh** <small>*(naw-shaw')*</small> ==**to lend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (rather identical with <span class="ashebrew">‎נָשָׁה‎</span><sup><small>[[H5382]]</small></sup>, in the sense of <span class="ashebrew">‎נָשָׁא‎</span><sup><small>[[H5378]]</small></sup>)</small>
+**<big><span class="ashebrew">‎נָשָׁה‎</span></big>** **nâshâh** <small>*(naw-shaw')*</small> ==**to lend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (rather identical with **<big>[[H5382|‎נָשָׁה‎]]</big>**, in the sense of **<big>[[H5378|‎נָשָׁא‎]]</big>**)</small>
 
 $\quad$ creditor, exact, extortioner, lend, usurer, lend on (taker on) usury.
 - ***to lend*** or (by reciprocity) ***borrow on security*** or ***interest***

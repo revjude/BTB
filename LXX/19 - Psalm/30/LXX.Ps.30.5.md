@@ -7,26 +7,26 @@ For his anger [endureth but] a moment; in his favour [is] life: weeping may endu
 For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the night, but joy comes in the morning.<small><sub>**MT:**</sub></small>
 [[Ps.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.4|<< Psalm 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.6|Psalm 30:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| wrath | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rage, | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his will. | <big><span class="asgreek">θελήματι</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| shall lodge | <big><span class="asgreek">αυλισθήσεται</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| Weeping | <big><span class="asgreek">κλαυθμός</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| exultation. | <big><span class="asgreek">αγαλλίασις</span></big> <sup><small><small>[[G0020]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| wrath | **<big>[[G3709\|οργή]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his rage, | **<big>[[G2372\|θυμώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| life | **<big>[[G2222\|ζωή]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his will. | **<big>[[G2307\|θελήματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| shall lodge | **<big>[[G0835\|αυλισθήσεται]]</big>** |
+| Weeping | **<big>[[G2805\|κλαυθμός]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the morning, | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| exultation. | **<big>[[G0020\|αγαλλίασις]]</big>** |
 [[Ps.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.4|<< Psalm 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.6|Psalm 30:6 >>]]</td></tr></table>
 
 

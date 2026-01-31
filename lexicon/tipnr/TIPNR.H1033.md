@@ -1,8 +1,8 @@
 <small>*Beth-car • Place where the Israelites pursued the Philistines.*</small>
 
 <span class='tipnrhighlight'>Beth-car</span> was the place where the Israelites pursued the Philistines after the return of the Ark of the Covenant. \([[1Sam.7.11|1 Samuel 7:11]]\)
-- A location near Mizpah<[[H4709G]]> only mentioned at [[1Sam.7.11|1Sa.7.11]]; 
-- only referred to as Beth-car<[[H1033]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>כ</span>ָּ֑<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Mizpah **<big>[[H4709|מִצְפָּה]]</big>** only mentioned at [[1Sam.7.11|1Sa.7.11]]; 
+- only referred to as Beth-car **<big>[[H1033|בֵּית כַּר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.83273947023218,35.1801628605877&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The victory at Beth-car was significant for the Israelites, as it marked the beg
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-car (NIV= Beth Kar) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>כ</span>ָּ֑<span class='tipnrLangHebrew'>ר</span>](H1033) <small>*Hebrew*</small> | 1x | [1Sa.7.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Sa.7.11) |
-All Strong's for **Beth-car**: \[[[H1033]]\]
+| Beth-car (NIV= Beth Kar) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>כ</span>ָּ֑<span class='tipnrLangHebrew'>ר</span>](H1033) | 1x | [1Sa.7.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Sa.7.11) |
+All entries for **Beth-car**:  **<big>[[H1033|בֵּית כַּר]]</big>**

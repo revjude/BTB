@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כֹּתֶל‎</span></big> **kôthel** <small>*(ko'-thel)*</small> ==**wall**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎כֹּתֶל‎</span></big>** **kôthel** <small>*(ko'-thel)*</small> ==**wall**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to compact</small>
 
 $\quad$ wall.
@@ -6,4 +6,4 @@ $\quad$ wall.
 
 **1)** wall (of house)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τοῖχος</span><sup><small>[[G5109]]</small></sup>
+<small>See Greek: </small>**<big>[[G5109|τοῖχος]]</big>**

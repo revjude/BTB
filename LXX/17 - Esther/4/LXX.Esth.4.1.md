@@ -10,37 +10,37 @@ When Mordecai perceived all that was done, Mordecai rent his clothes, and put on
 When Mordecai learned of all that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the middle of the city, wailing loudly and bitterly.<small><sub>**MT:**</sub></small>
 [[Esth.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.15|<< Esther 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.2|Esther 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Mordecai | <big><span class="asgreek">Μαρδοχαίος</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| realizing | <big><span class="asgreek">επιγνούς</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| end, | <big><span class="asgreek">συντελούμενον</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| tore | <big><span class="asgreek">διέρρηξε</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his garments, | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put on | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| sackcloth, | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strewed | <big><span class="asgreek">κατεπάσατο</span></big> <sup><small><small>[[G7887]]</small></small></sup> |
-| ashes; | <big><span class="asgreek">σποδόν</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rushing | <big><span class="asgreek">εκπηδήσας</span></big> <sup><small><small>[[G6030]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| square | <big><span class="asgreek">πλατείας</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| he yelled | <big><span class="asgreek">εβόα</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| with a great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \[is going\] to be taken away | <big><span class="asgreek">αίρεται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| A nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| no one | <big><span class="asgreek">μηδέν</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| having wronged | <big><span class="asgreek">ηδικηκός</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| Mordecai | **<big>[[H4782\|Μαρδοχαίος]]</big>** |
+| realizing | **<big>[[G1921\|επιγνούς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| end, | **<big>[[G4931\|συντελούμενον]]</big>** |
+| tore | **<big>[[G1284\|διέρρηξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his garments, | **<big>[[G2440\|ιμάτια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put on | **<big>[[G1746\|ενεδύσατο]]</big>** |
+| sackcloth, | **<big>[[G4526\|σάκκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strewed | **<big>[[G7887\|κατεπάσατο]]</big>** |
+| ashes; | **<big>[[G4700\|σποδόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rushing | **<big>[[G6030\|εκπηδήσας]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| square | **<big>[[G4113\|πλατείας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| he yelled | **<big>[[G0994\|εβόα]]</big>** |
+| voice | **<big>[[G5456\|φωνή]]</big>** |
+| with a great | **<big>[[G3173\|μεγάλη]]</big>** |
+| \[is going\] to be taken away | **<big>[[G0142\|αίρεται]]</big>** |
+| A nation | **<big>[[G1484\|έθνος]]</big>** |
+| no one | **<big>[[G3367\|μηδέν]]</big>** |
+| having wronged | **<big>[[G0091\|ηδικηκός]]</big>** |
 [[Esth.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.15|<< Esther 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.2|Esther 4:2 >>]]</td></tr></table>
 
 

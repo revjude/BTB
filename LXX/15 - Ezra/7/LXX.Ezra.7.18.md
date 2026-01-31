@@ -7,28 +7,28 @@ And whatsoever shall seem good to thee, and to thy brethren, to do with the rest
 You and your brothers may do whatever seems best with the rest of the silver and gold, according to the will of your God.<small><sub>**MT:**</sub></small>
 [[Ezra.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if anything | <big><span class="asgreek">ει τι</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should seem good | <big><span class="asgreek">αγαθυνθή</span></big> <sup><small><small>[[G6108]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] rest | <big><span class="asgreek">καταλοίπω</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| to do, | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| it pleases | <big><span class="asgreek">αρεστόν</span></big> <sup><small><small>[[G0701]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you do it! | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if anything | **<big>[[G1536\|ει τι]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| should seem good | **<big>[[G6108\|αγαθυνθή]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] rest | **<big>[[G2645\|καταλοίπω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| to do, | **<big>[[G4160\|ποιήσαι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| it pleases | **<big>[[G0701\|αρεστόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God, | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you do it! | **<big>[[G4160\|ποιήσατε]]</big>** |
 [[Ezra.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
 
 

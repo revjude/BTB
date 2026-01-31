@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aphek</span>, a city in the north, where the Arameans fought against Israel.
 - A location first mentioned at [[1Kgs.20.26|1Ki.20.26]]; 
-- only referred to as Aphek<[[H0663I]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Aphek **<big>[[H0663|אֲפֵק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.77826806589006,35.69874935270775&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The precise location of this Aphek is uncertain, but it is generally identified 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aphek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H0663I) <small>*Hebrew*</small> | 3x | [[1Ki.20.26] ... [2Ki.13.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aphek\*\|reference=1Ki.20.26;1Ki.20.30;2Ki.13.17) |
-All Strong's for **Aphek**: \[[[H0663I]]\]
+| Aphek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H0663I) | 3x | [[1Ki.20.26] ... [2Ki.13.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aphek\*\|reference=1Ki.20.26;1Ki.20.30;2Ki.13.17) |
+All entries for **Aphek**:  **<big>[[H0663|אֲפֵק]]</big>**

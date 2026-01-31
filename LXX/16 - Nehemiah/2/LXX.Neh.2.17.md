@@ -7,39 +7,39 @@ Then said I unto them, Ye see the distress that we [are] in, how Jerusalem [liet
 Then I said to them, “You see the trouble we are in. Jerusalem lies in ruins, and its gates have been burned down. Come, let us rebuild the wall of Jerusalem, so that we will no longer be a disgrace.”<small><sub>**MT:**</sub></small>
 [[Neh.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.16|<< Nehemiah 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.18|Nehemiah 2:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see | <big><span class="asgreek">βλέπετε</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wickedness | <big><span class="asgreek">πονηρίαν</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we are | <big><span class="asgreek">εσμέν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in it, | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \[is\] desolate, | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were given | <big><span class="asgreek">εδόθησαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to fire. | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| Come, | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let us build throughout | <big><span class="asgreek">διοικοδομήσωμεν</span></big> <sup><small><small>[[G6934]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">εσόμεθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| for scorn. | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
+| Then | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| see | **<big>[[G0991\|βλέπετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this wickedness | **<big>[[G4189\|πονηρίαν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| we are | **<big>[[G1510\|εσμέν]]</big>** |
+| in it, | **<big>[[G1722\|εν]]</big>** **<big>[[G1473\|αυτή]]</big>** |
+| how | **<big>[[G4459\|πως]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \[is\] desolate, | **<big>[[G2048\|έρημος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| its gates | **<big>[[G4439\|πύλαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| were given | **<big>[[G1325\|εδόθησαν]]</big>** |
+| to fire. | **<big>[[G4442\|πυρί]]</big>** |
+| Come, | **<big>[[G1205\|δεύτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let us build throughout | **<big>[[G6934\|διοικοδομήσωμεν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| of Jerusalem! | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|εσόμεθα]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| for scorn. | **<big>[[G3681\|όνειδος]]</big>** |
 [[Neh.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.16|<< Nehemiah 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.18|Nehemiah 2:18 >>]]</td></tr></table>
 
 

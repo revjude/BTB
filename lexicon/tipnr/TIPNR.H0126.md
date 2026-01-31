@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Admah</span>, one of the "cities of the plain" destroyed along with Sodom and Gomorrah.
 - A location first mentioned at [[Gen.10.19|Gen.10.19]]; 
-- only referred to as Admah<[[H0126]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Admah **<big>[[H0126|אַדְמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.11942270162137,35.41253049195169&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ Later, Admah was destroyed by God along with Sodom and Gomorrah because of their
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Admah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0126) <small>*Hebrew*</small> | 5x | [[Gen.10.19] ... [Hos.11.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Admah\*\|reference=Gen.10.19;Gen.14.2;Gen.14.8;Deu.29.23;Hos.11.8) |
-All Strong's for **Admah**: \[[[H0126]]\]
+| Admah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0126) | 5x | [[Gen.10.19] ... [Hos.11.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Admah\*\|reference=Gen.10.19;Gen.14.2;Gen.14.8;Deu.29.23;Hos.11.8) |
+All entries for **Admah**:  **<big>[[H0126|אַדְמָה]]</big>**

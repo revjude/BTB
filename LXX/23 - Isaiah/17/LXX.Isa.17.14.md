@@ -7,28 +7,28 @@ And behold at eveningtide trouble; [and] before the morning he [is] not. This [i
 In the evening, there is sudden terror! Before morning, they are no more! This is the portion of those who loot us and the lot of those who plunder us.<small><sub>**MT:**</sub></small>
 [[Isa.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.13|<< Isaiah 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.1|Isaiah 18:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέραν</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| mourning; | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| before | <big><span class="asgreek">πρινή</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-| morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be. | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones despoiling | <big><span class="asgreek">προνομευσάντων</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having inherited | <big><span class="asgreek">κληρονομήσασιν</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Towards | **<big>[[G4314\|προς]]</big>** |
+| evening | **<big>[[G2073\|εσπέραν]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| mourning; | **<big>[[G3997\|πένθος]]</big>** |
+| before | **<big>[[G4250\|πρινή]]</big>** |
+| morning, | **<big>[[G4404\|πρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will not | **<big>[[G3756\|ουκ]]</big>** |
+| be. | **<big>[[G1510\|έσται]]</big>** |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones despoiling | **<big>[[G8902\|προνομευσάντων]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] inheritance | **<big>[[G2817\|κληρονομία]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| having inherited | **<big>[[G2816\|κληρονομήσασιν]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
 [[Isa.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.13|<< Isaiah 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.1|Isaiah 18:1 >>]]</td></tr></table>
 
 

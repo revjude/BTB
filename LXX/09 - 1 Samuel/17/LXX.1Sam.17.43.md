@@ -7,32 +7,32 @@ And the Philistine said unto David, [Am] I a dog, that thou comest to me with st
 “Am I a dog,” he said to David, “that you come at me with sticks?” And the Philistine cursed David by his gods.<small><sub>**MT:**</sub></small>
 [[1Sam.17.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.42|<< 1 Samuel 17:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.44|1 Samuel 17:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistine | <big><span class="asgreek">αλλόφυλος</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| As | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a dog | <big><span class="asgreek">κύων</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
-| Am I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you come | <big><span class="asgreek">εξήλθες</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδω</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stones? | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cursed | <big><span class="asgreek">κατηράσατο</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistine | <big><span class="asgreek">αλλόφυλος</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gods. | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Philistine | **<big>[[G0246\|αλλόφυλος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| As | **<big>[[G5616\|ωσεί]]</big>** |
+| a dog | **<big>[[G2965\|κύων]]</big>** |
+| Am I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1510\|ειμι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you come | **<big>[[G1831\|εξήλθες]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a rod | **<big>[[G4464\|ράβδω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stones? | **<big>[[G3037\|λίθοις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| cursed | **<big>[[G2672\|κατηράσατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Philistine | **<big>[[G0246\|αλλόφυλος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his gods. | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.17.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.42|<< 1 Samuel 17:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.44|1 Samuel 17:44 >>]]</td></tr></table>
 
 

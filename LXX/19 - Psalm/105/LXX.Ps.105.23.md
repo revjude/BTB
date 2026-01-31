@@ -7,18 +7,18 @@ Israel also came into Egypt; and Jacob sojourned in the land of Ham.
 Then Israel entered Egypt; Jacob dwelt in the land of Ham.<small><sub>**MT:**</sub></small>
 [[Ps.105.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.22|<< Psalm 105:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.24|Psalm 105:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| sojourned | <big><span class="asgreek">παρώκησεν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Ham. | <big><span class="asgreek">Χαμ</span></big> <sup><small><small>[[H2526]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel entered | **<big>[[G1525\|εισήλθεν]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| sojourned | **<big>[[G3939\|παρώκησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Ham. | **<big>[[H2526\|Χαμ]]</big>** |
 [[Ps.105.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.22|<< Psalm 105:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.24|Psalm 105:24 >>]]</td></tr></table>
 
 

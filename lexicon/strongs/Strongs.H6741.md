@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִלָּה‎</span></big> **Tsillâh** <small>*(tsil-law')*</small> ==**Zillah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎צֵל‎</span><sup><small>[[H6738]]</small></sup></small>
+**<big><span class="ashebrew">‎צִלָּה‎</span></big>** **Tsillâh** <small>*(tsil-law')*</small> ==**Zillah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H6738|‎צֵל‎]]</big>**</small>
 
 $\quad$ Zillah.
 - § Zillah = *"shade"*

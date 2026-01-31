@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּנַעַנִי‎</span></big> **Kᵉnaʻanîy** <small>*(ken-ah-an-ee')*</small> ==**Canaanite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎כְּנַעַן‎</span><sup><small>[[H3667]]</small></sup></small>
+**<big><span class="ashebrew">‎כְּנַעַנִי‎</span></big>** **Kᵉnaʻanîy** <small>*(ken-ah-an-ee')*</small> ==**Canaanite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H3667|‎כְּנַעַן‎]]</big>**</small>
 
 $\quad$ Canaanite, merchant, trafficker.
 - § Canaanite = *see Cana "zealous"*

@@ -7,26 +7,26 @@ Say among the heathen [that] the LORD reigneth: the world also shall be establis
 Declare among the nations: “The LORD reigns!” The world is firmly established; it cannot be moved; He will judge the peoples with equity.<small><sub>**MT:**</sub></small>
 [[Ps.96.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.9|<< Psalm 96:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.11|Psalm 96:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Say | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| reigns! | <big><span class="asgreek">εβασίλευσε</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| For even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he set up | <big><span class="asgreek">κατώρθωσε</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world | <big><span class="asgreek">οικουμένην</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be shaken. | <big><span class="asgreek">σαλευθήσεται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| He shall judge | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| straightness. | <big><span class="asgreek">ευθύτητι</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
+| Say | **<big>[[G2036\|είπατε]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσιν]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| reigns! | **<big>[[G0936\|εβασίλευσε]]</big>** |
+| For even | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he set up | **<big>[[G7976\|κατώρθωσε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inhabitable world | **<big>[[G3611\|οικουμένην]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| will not | **<big>[[G3756\|ου]]</big>** |
+| be shaken. | **<big>[[G4531\|σαλευθήσεται]]</big>** |
+| He shall judge | **<big>[[G2919\|κρινεί]]</big>** |
+| peoples | **<big>[[G2992\|λαούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| straightness. | **<big>[[G2118\|ευθύτητι]]</big>** |
 [[Ps.96.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.9|<< Psalm 96:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.11|Psalm 96:11 >>]]</td></tr></table>
 
 

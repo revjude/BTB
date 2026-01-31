@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֲדַר‎</span></big> **ʻădar** <small>*(aw-dar')*</small> ==**to help**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עֲדַר‎</span></big>** **ʻădar** <small>*(aw-dar')*</small> ==**to help**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ dig, fail, keep (rank), lack.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **3b1)** to be lacking
 $\quad$ $\quad$ **3b1)** to leave lacking
 $\quad$ **3b)** (Piel) to leave lacking
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴρω</span><sup><small>[[G0142]]</small></sup> · <span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">ἀροτριόω</span><sup><small>[[G0722]]</small></sup> · <span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup> · <span class="asgreek">λανθάνω</span><sup><small>[[G2990]]</small></sup> · <span class="asgreek">σκάπτω</span><sup><small>[[G4626]]</small></sup>
+<small>See Greek: </small>**<big>[[G0142|αἴρω]]</big>** · **<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G0722|ἀροτριόω]]</big>** · **<big>[[G1392|δοξάζω]]</big>** · **<big>[[G2990|λανθάνω]]</big>** · **<big>[[G4626|σκάπτω]]</big>**

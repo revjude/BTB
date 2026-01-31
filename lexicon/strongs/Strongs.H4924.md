@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַשְׁמָן‎</span></big> **mashmân** <small>*(mash-mawn')*</small> ==**fat**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁמַן‎</span><sup><small>[[H8080]]</small></sup></small>
+**<big><span class="ashebrew">‎מַשְׁמָן‎</span></big>** **mashmân** <small>*(mash-mawn')*</small> ==**fat**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8080|‎שָׁמַן‎]]</big>**</small>
 
 $\quad$ fat (one, -ness, -test, -test place).
 - ***fat***, i.e. (literally and abstractly) ***fatness***

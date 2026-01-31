@@ -10,20 +10,20 @@ The words of king Lemuel, the prophecy that his mother taught him.
 These are the words of King Lemuel—the burden that his mother taught him:<small><sub>**MT:**</sub></small>
 [[Prov.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.33|<< Proverbs 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.2|Proverbs 31:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| have been spoken | <big><span class="asgreek">είρηνται</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| by a king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[the\] divine answer | <big><span class="asgreek">χρηματισμός</span></big> <sup><small><small>[[G5538]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| instructed | <big><span class="asgreek">επαίδευσεν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| My | **<big>[[G1699\|εμοί]]</big>** |
+| words | **<big>[[G3056\|λόγοι]]</big>** |
+| have been spoken | **<big>[[G2046\|είρηνται]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| God; | **<big>[[G2316\|θεού]]</big>** |
+| by a king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \[the\] divine answer | **<big>[[G5538\|χρηματισμός]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| instructed | **<big>[[G3811\|επαίδευσεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his mother | **<big>[[G3384\|μήτηρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.33|<< Proverbs 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.2|Proverbs 31:2 >>]]</td></tr></table>
 
 

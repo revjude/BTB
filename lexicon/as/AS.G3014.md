@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">λέπρα</span></span>, <span class="asgreek">-ας, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">λεπρός</span>),</span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">צָרַעַת</span> <small><sup>[[H6883]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">λέπρα</span></span>, <span class="asgreek">-ας, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">λεπρός</span>),</span>  <span class="asseptuagint">\[in LXX for **<big>[[H6883|צָרַעַת]]</big>**;\]</span> </span>
 <span class="asitalic">leprosy</span>: [[Matt.8.3|Mt 8:3]], [[Mark.1.42|Mk 1:42]], [[Luke.5.12|Lk 5:12]], [[Luke.5.13|13]].†
 
 **Abbott-Smith References**

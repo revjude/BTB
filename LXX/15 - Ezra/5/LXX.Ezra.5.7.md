@@ -10,21 +10,21 @@ They sent a letter unto him, wherein was written thus; Unto Darius the king, all
 The report they sent him read as follows: To King Darius: All peace.<small><sub>**MT:**</sub></small>
 [[Ezra.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.6|<< Ezra 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.8|Ezra 5:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a word | <big><span class="asgreek">ρήμασιν</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| They sent | <big><span class="asgreek">απέστειλαν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| was written | <big><span class="asgreek">γέγραπται</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| To Darius | <big><span class="asgreek">Δαρείω</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| all peace. | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| a word | **<big>[[G4487\|ρήμασιν]]</big>** |
+| They sent | **<big>[[G0649\|απέστειλαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| was written | **<big>[[G1125\|γέγραπται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| To Darius | **<big>[[H1868\|Δαρείω]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| all peace. | **<big>[[G1515\|ειρήνη]]</big>** **<big>[[G3956\|πάσα]]</big>** |
 [[Ezra.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.6|<< Ezra 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.8|Ezra 5:8 >>]]</td></tr></table>
 
 

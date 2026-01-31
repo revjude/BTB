@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁאֵל‎</span></big> **shᵉʼêl** <small>*(sheh-ale')*</small> ==**to ask**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁאַל‎</span><sup><small>[[H7592]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁאֵל‎</span></big>** **shᵉʼêl** <small>*(sheh-ale')*</small> ==**to ask**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7592|‎שָׁאַל‎]]</big>**</small>
 
 $\quad$ ask, demand, require.
 - {***to inquire***

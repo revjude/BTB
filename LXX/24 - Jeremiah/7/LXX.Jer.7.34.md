@@ -11,34 +11,34 @@ I will remove from the cities of Judah and the streets of Jerusalem the sounds o
 > $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will depose | <big><span class="asgreek">καταλύσω</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] corridors | <big><span class="asgreek">διόδων</span></big> <sup><small><small>[[G6932]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of ones being glad, | <big><span class="asgreek">ευφραινομένων</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of ones rejoicing, | <big><span class="asgreek">χαιρόντων</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] groom, | <big><span class="asgreek">νυμφίου</span></big> <sup><small><small>[[G3566]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] bride; | <big><span class="asgreek">νύμφης</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| desolation | <big><span class="asgreek">ερήμωσιν</span></big> <sup><small><small>[[G2050]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will depose | **<big>[[G2647\|καταλύσω]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] cities | **<big>[[G4172\|πόλεων]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] corridors | **<big>[[G6932\|διόδων]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of ones being glad, | **<big>[[G2165\|ευφραινομένων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of ones rejoicing, | **<big>[[G5463\|χαιρόντων]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of \[the\] groom, | **<big>[[G3566\|νυμφίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of \[the\] bride; | **<big>[[G3565\|νύμφης]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| desolation | **<big>[[G2050\|ερήμωσιν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
 [[Jer.7.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.33|<< Jeremiah 7:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.1|Jeremiah 8:1 >>]]</td></tr></table>
 
 

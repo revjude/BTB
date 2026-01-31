@@ -7,35 +7,35 @@ With my soul have I desired thee in the night; yea, with my spirit within me wil
 My soul longs for You in the night; indeed, my spirit seeks You at dawn. For when Your judgments come upon the earth, the people of the world learn righteousness.<small><sub>**MT:**</sub></small>
 [[Isa.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.8|<< Isaiah 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.10|Isaiah 26:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| desires | <big><span class="asgreek">επιθύμει</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| rises early | <big><span class="asgreek">ορθρίζει</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spirit | <big><span class="asgreek">πνεύμά</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[are\] light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your orders | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| Learn | <big><span class="asgreek">μάθετε</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">ενοικούντες</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| which | **<big>[[G3739\|η]]</big>** |
+| desires | **<big>[[G1937\|επιθύμει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| our soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] night | **<big>[[G3571\|νυκτός]]</big>** |
+| rises early | **<big>[[G3719\|ορθρίζει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my spirit | **<big>[[G4151\|πνεύμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| \[are\] light | **<big>[[G5457\|φως]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your orders | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| Learn | **<big>[[G3129\|μάθετε]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G1774\|ενοικούντες]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth! | **<big>[[G1093\|γης]]</big>** |
 [[Isa.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.8|<< Isaiah 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.10|Isaiah 26:10 >>]]</td></tr></table>
 
 

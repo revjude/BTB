@@ -6,21 +6,21 @@ Alas, the tumult of many peoples; they rage like the roaring seas and clamoring 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.11|<< Isaiah 17:11]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.13|Isaiah 17:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| woe to!  | <span class="ashebrew"><big>ה֗וֹי </big></span><small><small><sup>[[H1945]]</sup></small></small> &#8207;| Ho <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tumult of  | <span class="ashebrew"><big>הֲמוֹן֙ </big></span><small><small><sup>[[H1995A]]</sup></small></small> &#8207;| ha.mOn <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַמִּ֣ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּ֔ים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as roar  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>הֲמ֥וֹת </big></span><small><small><sup>[[H1993]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> ha.Mot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] seas  | <span class="ashebrew"><big>יַמִּ֖ים </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they roar !  | <span class="ashebrew"><big>יֶהֱמָי֑וּ </big></span><small><small><sup>[[H1993]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| ye.he.ma.Yu <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] uproar of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁא֣וֹן </big></span><small><small><sup>[[H7588]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.'on <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>לְאֻמִּ֔ים </big></span><small><small><sup>[[H3816]]</sup></small></small> &#8207;| le.'u.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] uproar of  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>שְׁא֛וֹן </big></span><small><small><sup>[[H7588]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> sh.'on <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| waters  | <span class="ashebrew"><big>מַ֥יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty  | <span class="ashebrew"><big>כַּבִּירִ֖ים </big></span><small><small><sup>[[H3524]]</sup></small></small> &#8207;| ka.bi.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are in an uproar !  | <span class="ashebrew"><big>יִשָּׁאֽוּ </big></span><small><small><sup>[[H7582]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.sha.'U <small><sup>[[HVNi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| woe to!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tumult of  |**<big>&#8207;[[H1995A\|הֲמוֹן֙]]&#8207; </big>**| ha.mOn<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַמִּ֣ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּ֔ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as roar  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1993\|הֲמ֥וֹת]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> ha.Mot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  |**<big>&#8207;[[H3220G\|יַמִּ֖ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they roar !  |**<big>&#8207;[[H1993\|יֶהֱמָי֑וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.he.ma.Yu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] uproar of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7588\|שְׁא֣וֹן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H3816\|לְאֻמִּ֔ים]]&#8207; </big>**| le.'u.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] uproar of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7588\|שְׁא֛וֹן]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waters  |**<big>&#8207;[[H4325G\|מַ֥יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty  |**<big>&#8207;[[H3524\|כַּבִּירִ֖ים]]&#8207; </big>**| ka.bi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are in an uproar !  |**<big>&#8207;[[H7582\|יִשָּׁאֽוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.sha.'U<small><sup>[[HVNi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.11|<< Isaiah 17:11]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.13|Isaiah 17:13 >>]]</td></tr></table>
 
 

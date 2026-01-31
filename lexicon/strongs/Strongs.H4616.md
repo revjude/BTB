@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעַן‎</span></big> **maʻan** <small>*(mah'-an)*</small> ==**because**==  <sup><small>[[TEHMC#H:Prep / H:Conj|H:Prep / H:Conj]]</small></sup> 
-<small>from <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6030]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעַן‎</span></big>** **maʻan** <small>*(mah'-an)*</small> ==**because**==  <sup><small>[[TEHMC#H:Prep / H:Conj|H:Prep / H:Conj]]</small></sup> 
+<small>from **<big>[[H6030|‎עָנָה‎]]</big>**</small>
 
 $\quad$ because of, to the end (intent) that, for (to,... 's sake), [phrase] lest, that, to.
 - properly, ***heed***, i.e. ***purpose***

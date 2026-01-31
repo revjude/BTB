@@ -7,50 +7,50 @@ And they shall come against thee with chariots, wagons, and wheels, and with an 
 They will come against you with a host of peoples, with weapons, chariots, and wagons. They will array themselves against you on every side with buckler and shield and helmet. I will delegate judgment to them, and they will punish you according to their own standards.<small><sub>**MT:**</sub></small>
 [[Ezek.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.23|<< Ezekiel 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.25|Ezekiel 23:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall come | <big><span class="asgreek">ήξουσιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| weapons, | <big><span class="asgreek">όπλων</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wheels, | <big><span class="asgreek">τροχών</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of peoples, | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| chest \[plates\], | <big><span class="asgreek">θώρακας</span></big> <sup><small><small>[[G2382]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shields, | <big><span class="asgreek">ασπίδας</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| helmets -- | <big><span class="asgreek">περικεφαλαίας</span></big> <sup><small><small>[[G4030]]</small></small></sup> |
-| they shall be placed around | <big><span class="asgreek">περιθήσονται</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| about | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall throw | <big><span class="asgreek">βαλούσιν</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a watch | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will impute | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| their face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall punish | <big><span class="asgreek">εκδικήσουσί</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their judgments. | <big><span class="asgreek">κρίμασιν</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall come | **<big>[[G2240\|ήξουσιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north | **<big>[[G1005\|βορρά]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| weapons, | **<big>[[G3696\|όπλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| chariots, | **<big>[[G0716\|αρμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wheels, | **<big>[[G5164\|τροχών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a multitude | **<big>[[G4128\|πλήθους]]</big>** |
+| of peoples, | **<big>[[G2992\|λαών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| chest \[plates\], | **<big>[[G2382\|θώρακας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shields, | **<big>[[G0785\|ασπίδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| helmets -- | **<big>[[G4030\|περικεφαλαίας]]</big>** |
+| they shall be placed around | **<big>[[G4060\|περιθήσονται]]</big>** |
+| about | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall throw | **<big>[[G0906\|βαλούσιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| a watch | **<big>[[G5438\|φυλακήν]]</big>** |
+| round about. | **<big>[[G2945\|κύκλω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will impute | **<big>[[G1325\|δώσω]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| their face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| judgment | **<big>[[G2917\|κρίμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall punish | **<big>[[G1556\|εκδικήσουσί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their judgments. | **<big>[[G2917\|κρίμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.23|<< Ezekiel 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.25|Ezekiel 23:25 >>]]</td></tr></table>
 
 

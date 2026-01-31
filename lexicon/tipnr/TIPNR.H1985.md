@@ -4,8 +4,8 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Hillel</span> the Pirathonite, a judge of Israel, led the nation for ten years.
 - A man living before Israel's Monarchy, first mentioned at [[Judg.12.13|Jdg.12.13]]; 
-- only referred to as Hillel<[[H1985]]> \(<span class='tipnrLangHebrew'>ה</span>ִ<span class='tipnrLangHebrew'>ל</span>ֵּ<span class='tipnrLangHebrew'>ל</span>\); 
--  father of Abdon<[[H5658H]]>.
+- only referred to as Hillel **<big>[[H1985|הִלֵּל]]</big>**; 
+-  father of Abdon **<big>[[H5658|עַבְדוֹן]]</big>**.
 
 Hillel the Pirathonite is mentioned in [[Judg.12.13|Judges 12:13]]-15 as a judge of Israel who succeeded Elon. He was from Pirathon, a town in the land of Ephraim, located in the hill country of the Amalekites. 
 
@@ -15,7 +15,7 @@ After his death, Hillel was buried in his hometown of Pirathon. His judgeship is
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hillel | [<span class='tipnrLangHebrew'>ה</span>ִ<span class='tipnrLangHebrew'>ל</span>ֵּ<span class='tipnrLangHebrew'>ל</span>](H1985) <small>*Hebrew*</small> | 2x | [[Jdg.12.13] & [Jdg.12.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hillel\*\|reference=Jdg.12.13;Jdg.12.15) |
-All Strong's for **Hillel**: \[[[H1985]]\]
+| Hillel | [<span class='tipnrLangHebrew'>ה</span>ִ<span class='tipnrLangHebrew'>ל</span>ֵּ<span class='tipnrLangHebrew'>ל</span>](H1985) | 2x | [[Jdg.12.13] & [Jdg.12.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hillel\*\|reference=Jdg.12.13;Jdg.12.15) |
+All entries for **Hillel**:  **<big>[[H1985|הִלֵּל]]</big>**
 #### Related Profiles:
 - **[Abdon](H5658H)** (child)

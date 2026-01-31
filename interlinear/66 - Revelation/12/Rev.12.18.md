@@ -6,20 +6,20 @@
 <small><sub>**Literal:**</sub></small>
 [13.1] And he stood upon the sand of the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.17|<< Revelation 12:17]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.1|Revelation 13:1 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [13.1] And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
-| he stood [^2] [^3] |<big><span class="asgreek">ἐστάθη</span></big> <small><small><sup>[[G2476]]</sup></small></small> |estathē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr>[^4] | |
-| upon |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^5] | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^6] | |
-| sand |<big><span class="asgreek">ἄμμον</span></big> <small><small><sup>[[G0285]]</sup></small></small> |ammon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^7] | |
-| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^8] | |
-| sea. |<big><span class="asgreek">θαλάσσης.¶</span></big> <small><small><sup>[[G2281]]</sup></small></small> |thalassēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^9] | |
+| [13.1] And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
+| he stood [^2] [^3] |**<big>[[G2476\|ἐστάθη]]</big>**  |estathē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr>[^4] | |
+| upon |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^5] | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^6] | |
+| sand |**<big>[[G0285\|ἄμμον]]</big>**  |ammon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^7] | |
+| of the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^8] | |
+| sea. |**<big>[[G2281\|θαλάσσης.¶]]</big>**  |thalassēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^9] | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.17|<< Revelation 12:17]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.1|Revelation 13:1 >>]]</td></tr></table>
 
 [^1]: In KJV this word occurs in verse 13.1
-[^2]: Variant:  <span class='asgreek'>**ἐστάθην**</span>  (<i>estathēn</i>) 'I stood' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἐστάθη**</span>  (<i>estathē</i>) 'he stood' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^3]: ==TR+Byz==: I stood | <span class="asgreek">ἐστάθην</span><small><sup>[[G2476]]</sup></small> | estathēn<small><sup>[[V-API-1S]]</sup></small>
+[^2]: Variant:  **<big><span class='asgreek'>ἐστάθην</span></big>**  (<i>estathēn</i>) 'I stood' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>ἐστάθη</span></big>**  (<i>estathē</i>) 'he stood' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^3]: ==TR+Byz==: I stood | **<big>[[G2476|ἐστάθην]]</big>** | estathēn<small><sup>[[V-API-1S]]</sup></small>
 [^4]: In KJV this word occurs in verse 13.1
 [^5]: In KJV this word occurs in verse 13.1
 [^6]: In KJV this word occurs in verse 13.1

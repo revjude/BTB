@@ -7,25 +7,25 @@ And they made bells [of] pure gold, and put the bells between the pomegranates u
 They also made bells of pure gold and attached them around the hem between the pomegranates,<small><sub>**MT:**</sub></small>
 [[Exod.39.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.24|<< Exodus 39:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.26|Exodus 39:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| bells | <big><span class="asgreek">κώδωνας</span></big> <sup><small><small>[[G8138]]</small></small></sup> |
-| of gold. | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they placed | <big><span class="asgreek">επέθηκαν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bells | <big><span class="asgreek">κώδωνας</span></big> <sup><small><small>[[G8138]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hems | <big><span class="asgreek">λώματα</span></big> <sup><small><small>[[G8215]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| undergarment | <big><span class="asgreek">υποδύτου</span></big> <sup><small><small>[[G9571]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| figures of pomegranates. | <big><span class="asgreek">ροϊσκων</span></big> <sup><small><small>[[G9032]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| bells | **<big>[[G8138\|κώδωνας]]</big>** |
+| of gold. | **<big>[[G5552\|χρυσούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they placed | **<big>[[G2007\|επέθηκαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bells | **<big>[[G8138\|κώδωνας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| hems | **<big>[[G8215\|λώματα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| undergarment | **<big>[[G9571\|υποδύτου]]</big>** |
+| round about, | **<big>[[G2945\|κύκλω]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| figures of pomegranates. | **<big>[[G9032\|ροϊσκων]]</big>** |
 [[Exod.39.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.24|<< Exodus 39:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.26|Exodus 39:26 >>]]</td></tr></table>
 
 

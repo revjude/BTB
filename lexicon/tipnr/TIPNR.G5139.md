@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Trachonitis</span>, a rugged, rocky region northeast of the Jordan River, part of Philip's tetrarchy during the time of John the Baptist \([[Luke.3.1|Luke 3:1]]\).
 - A location only mentioned at [[Luke.3.1|Luk.3.1]]; 
-- only referred to as Trachonitis<[[G5139]]> \(<span class='tipnrLangGreek'>Τραχωνῖτις</span>\).
+- only referred to as Trachonitis **<big>[[G5139|Τραχωνῖτις]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.833333,36.5&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Trachonitis was a rugged, rocky region located northeast of the Jordan River, kn
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Trachonitis | [<span class='tipnrLangGreek'>Τραχωνῖτις</span>](G5139) <small>*Greek*</small> | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Trachonitis\*\|reference=Luk.3.1) |
-All Strong's for **Trachonitis**: \[[[G5139]]\]
+| Trachonitis | [<span class='tipnrLangGreek'>Τραχωνῖτις</span>](G5139) | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Trachonitis\*\|reference=Luk.3.1) |
+All entries for **Trachonitis**:  **<big>[[G5139|Τραχωνῖτις]]</big>**

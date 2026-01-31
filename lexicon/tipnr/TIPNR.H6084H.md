@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ophrah</span>, also known as Hapharaim, was Gideon's hometown in Manasseh and the site of important events during his time as a judge, as well as a town allotted to the tribe of Issachar.
 - A location first mentioned at [[Judg.6.11|Jdg.6.11]]; 
-- referred to as Ophrah<[[H6084H]]> \(<span class='tipnrLangHebrew'>ע</span>ׇ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Hapharaim<[[H2663]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as Ophrah **<big>[[H6084|עׇפְרָה]]</big>**, or Hapharaim **<big>[[H2663|חֲפָרַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.60868269540592,35.28826433084549&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ Ophrah of Issachar: This Ophrah was a town allotted to the tribe of Issachar dur
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ophrah | [<span class='tipnrLangHebrew'>ע</span>ׇ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6084H) <small>*Hebrew*</small> | 5x | [[Jdg.6.11] ... [Jdg.9.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ophrah\*\|reference=Jdg.6.11;Jdg.6.24;Jdg.8.27;Jdg.8.32;Jdg.9.5) |
-| Hapharaim | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H2663) <small>*Hebrew*</small> | 1x | [Jos.19.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hapharaim\*\|reference=Jos.19.19) |
-All Strong's for **Ophrah or Hapharaim**: \[[[H6084H]]\] \[[[H2663]]\]
+| Ophrah | [<span class='tipnrLangHebrew'>ע</span>ׇ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6084H) | 5x | [[Jdg.6.11] ... [Jdg.9.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ophrah\*\|reference=Jdg.6.11;Jdg.6.24;Jdg.8.27;Jdg.8.32;Jdg.9.5) |
+| Hapharaim | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H2663) | 1x | [Jos.19.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hapharaim\*\|reference=Jos.19.19) |
+All entries for **Ophrah or Hapharaim**:  **<big>[[H6084|עׇפְרָה]]</big>** ☩  **<big>[[H2663|חֲפָרַיִם]]</big>**

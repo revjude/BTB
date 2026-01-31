@@ -7,52 +7,52 @@ And the cook took up the shoulder, and [that] which [was] upon it, and set [it] 
 So the cook picked up the leg and what was attached to it and set it before Saul. Then Samuel said, “Here is what was kept back. It was set apart for you. Eat, for it has been kept for you for this occasion, from the time I said, ‘I have invited the people.’” So Saul dined with Samuel that day.<small><sub>**MT:**</sub></small>
 [[1Sam.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.23|<< 1 Samuel 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.25|1 Samuel 9:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">ήρεν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cook | <big><span class="asgreek">μάγειρος</span></big> <sup><small><small>[[G8221]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hind quarter, | <big><span class="asgreek">κωλέαν</span></big> <sup><small><small>[[G8141]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[part\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed | <big><span class="asgreek">παρέθηκεν</span></big> <sup><small><small>[[G3908]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leftover; | <big><span class="asgreek">υπόλειμμα</span></big> <sup><small><small>[[G9577]]</small></small></sup> |
-| place | <big><span class="asgreek">παράθες</span></big> <sup><small><small>[[G3908]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eat! | <big><span class="asgreek">φάγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a testimony | <big><span class="asgreek">μαρτύριον</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| it is placed | <big><span class="asgreek">τέθειταί</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people -- | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| pull it off! | <big><span class="asgreek">απόκνιζε</span></big> <sup><small><small>[[G6447]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul ate | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G0142\|ήρεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| cook | **<big>[[G8221\|μάγειρος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hind quarter, | **<big>[[G8141\|κωλέαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[part\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| placed | **<big>[[G3908\|παρέθηκεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| leftover; | **<big>[[G9577\|υπόλειμμα]]</big>** |
+| place | **<big>[[G3908\|παράθες]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eat! | **<big>[[G2068\|φάγε]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| a testimony | **<big>[[G3142\|μαρτύριον]]</big>** |
+| it is placed | **<big>[[G5087\|τέθειταί]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| over | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people -- | **<big>[[G2992\|λαού]]</big>** |
+| pull it off! | **<big>[[G6447\|απόκνιζε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul ate | **<big>[[G2068\|έφαγε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Samuel | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 [[1Sam.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.23|<< 1 Samuel 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.25|1 Samuel 9:25 >>]]</td></tr></table>
 
 

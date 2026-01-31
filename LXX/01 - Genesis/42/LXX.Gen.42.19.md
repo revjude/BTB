@@ -7,24 +7,24 @@ If ye [be] true [men], let one of your brethren be bound in the house of your pr
 If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households.<small><sub>**MT:**</sub></small>
 [[Gen.42.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.18|<< Genesis 42:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.20|Genesis 42:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you are peaceable, | <big><span class="asgreek">ειρηνικοί</span></big> <sup><small><small>[[G1516]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of your brothers | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be held | <big><span class="asgreek">κατασχεθήτω</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prison! | <big><span class="asgreek">φυλακή</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| but you yourselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| proceed, | <big><span class="asgreek">βαδίσατε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take back | <big><span class="asgreek">απαγάγετε</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| purchase | <big><span class="asgreek">αγορασμόν</span></big> <sup><small><small>[[G6123]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your provision! | <big><span class="asgreek">σιτοδοσίας</span></big> <sup><small><small>[[G9087]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+| you are peaceable, | **<big>[[G1516\|ειρηνικοί]]</big>** **<big>[[G1510\|εστέ]]</big>** |
+| of your brothers | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| be held | **<big>[[G2722\|κατασχεθήτω]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| prison! | **<big>[[G5438\|φυλακή]]</big>** |
+| but you yourselves | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| proceed, | **<big>[[G6642\|βαδίσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take back | **<big>[[G0520\|απαγάγετε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| purchase | **<big>[[G6123\|αγορασμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your provision! | **<big>[[G9087\|σιτοδοσίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Gen.42.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.18|<< Genesis 42:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.20|Genesis 42:20 >>]]</td></tr></table>
 
 

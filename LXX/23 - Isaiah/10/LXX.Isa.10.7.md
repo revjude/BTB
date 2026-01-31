@@ -7,28 +7,28 @@ Howbeit he meaneth not so, neither doth his heart think so; but [it is] in his h
 But this is not his intention; this is not his plan. For it is in his heart to destroy and cut off many nations.<small><sub>**MT:**</sub></small>
 [[Isa.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.6|<< Isaiah 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.8|Isaiah 10:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| ponder | <big><span class="asgreek">ενεθυμήθη</span></big> <sup><small><small>[[G1760]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| consider | <big><span class="asgreek">λελόγισται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| he shall dismiss | <big><span class="asgreek">απαλλάξει</span></big> <sup><small><small>[[G0525]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mind | <big><span class="asgreek">νους</span></big> <sup><small><small>[[G3563]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| nations -- | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| a few. | <big><span class="asgreek">ολίγα</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| But he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| did not | **<big>[[G3756\|ουχ]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| ponder | **<big>[[G1760\|ενεθυμήθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| did not | **<big>[[G3756\|ουχ]]</big>** |
+| thus | **<big>[[G3779\|ούτω]]</big>** |
+| consider | **<big>[[G3049\|λελόγισται]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| he shall dismiss | **<big>[[G0525\|απαλλάξει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his mind | **<big>[[G3563\|νους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to utterly destroy | **<big>[[G1842\|εξολοθρεύσαι]]</big>** |
+| nations -- | **<big>[[G1484\|έθνη]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| a few. | **<big>[[G3641\|ολίγα]]</big>** |
 [[Isa.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.6|<< Isaiah 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.8|Isaiah 10:8 >>]]</td></tr></table>
 
 

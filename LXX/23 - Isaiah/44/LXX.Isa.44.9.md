@@ -10,47 +10,47 @@ They that make a graven image [are] all of them vanity; and their delectable thi
 All makers of idols are nothing, and the things they treasure are worthless. Their witnesses fail to see or comprehend, so they are put to shame.<small><sub>**MT:**</sub></small>
 [[Isa.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.8|<< Isaiah 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.10|Isaiah 44:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not hearkening | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| then, | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shaping | <big><span class="asgreek">πλάσσοντες</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carving | <big><span class="asgreek">γλύφοντες</span></big> <sup><small><small>[[G6747]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] vain \[idols\], | <big><span class="asgreek">μάταιοι</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wishes | <big><span class="asgreek">καταθύμια</span></big> <sup><small><small>[[G7843]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| benefit | <big><span class="asgreek">ωφελήσει</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their own witnesses | <big><span class="asgreek">μάρτυρες</span></big> <sup><small><small>[[G3144]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| They shall not see, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not know, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should be ashamed -- | <big><span class="asgreek">αισχυνθώσι</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| he who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shapes | <big><span class="asgreek">πλάσσει</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| mighty | <big><span class="asgreek">ισχυρόν</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a carved | <big><span class="asgreek">γλυπτόν</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| molten casting | <big><span class="asgreek">χωνεύσει</span></big> <sup><small><small>[[G9775]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| unprofitable \[things\]. | <big><span class="asgreek">ανωφελή</span></big> <sup><small><small>[[G0512]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| partaking | <big><span class="asgreek">κοινωνούντες</span></big> <sup><small><small>[[G2841]]</small></small></sup> |
-| with him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be ashamed -- | <big><span class="asgreek">αισχυνθήσονται</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were not hearkening | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσαν]]</big>** |
+| then, | **<big>[[G5119\|τότε]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| shaping | **<big>[[G4111\|πλάσσοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| carving | **<big>[[G6747\|γλύφοντες]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \[the\] vain \[idols\], | **<big>[[G3152\|μάταιοι]]</big>** |
+| doing | **<big>[[G4160\|ποιούντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their wishes | **<big>[[G7843\|καταθύμια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| benefit | **<big>[[G5623\|ωφελήσει]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| their own witnesses | **<big>[[G3144\|μάρτυρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they are | **<big>[[G1510\|εισιν]]</big>** |
+| They shall not see, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3708\|όψονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not know, | **<big>[[G3756\|ου]]</big>** **<big>[[G1097\|γνώσονται]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should be ashamed -- | **<big>[[G0153\|αισχυνθώσι]]</big>** |
+| he who | **<big>[[G5100\|τις]]</big>** |
+| shapes | **<big>[[G4111\|πλάσσει]]</big>** |
+| mighty | **<big>[[G2478\|ισχυρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a carved | **<big>[[G6745\|γλυπτόν]]</big>** |
+| molten casting | **<big>[[G9775\|χωνεύσει]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| unprofitable \[things\]. | **<big>[[G0512\|ανωφελή]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| partaking | **<big>[[G2841\|κοινωνούντες]]</big>** |
+| with him | **<big>[[G1473\|αυτώ]]</big>** |
+| shall be ashamed -- | **<big>[[G0153\|αισχυνθήσονται]]</big>** |
 [[Isa.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.8|<< Isaiah 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.10|Isaiah 44:10 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ But thou shalt surely kill him; thine hand shall be first upon him to put him to
 Instead, you must surely kill him. Your hand must be the first against him to put him to death, and then the hands of all the people.<small><sub>**MT:**</sub></small>
 [[Deut.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.8|<< Deuteronomy 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.10|Deuteronomy 13:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Announcing, | <big><span class="asgreek">αναγγέλλων</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| you shall announce | <big><span class="asgreek">αναγγελείς</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| to kill | <big><span class="asgreek">αποκτείναι</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| upon \[him\] | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| last. | <big><span class="asgreek">εσχάτω</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| Announcing, | **<big>[[G0312\|αναγγέλλων]]</big>** |
+| you shall announce | **<big>[[G0312\|αναγγελείς]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| as | **<big>[[G1722\|εν]]</big>** |
+| first | **<big>[[G4413\|πρώτοις]]</big>** |
+| to kill | **<big>[[G0615\|αποκτείναι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| of all | **<big>[[G3956\|παντός]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| upon \[him\] | **<big>[[G1909\|επ΄]]</big>** |
+| last. | **<big>[[G2078\|εσχάτω]]</big>** |
 [[Deut.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.8|<< Deuteronomy 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.10|Deuteronomy 13:10 >>]]</td></tr></table>
 
 

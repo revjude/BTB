@@ -6,32 +6,32 @@ to console the mourners in Zion—to give them a crown of beauty for ashes, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.2|<< Isaiah 61:2]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.4|Isaiah 61:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to put  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שׂ֣וּם </big></span><small><small><sup>[[H7760H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Sum <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] mourners of  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֲבֵלֵ֣י </big></span><small><small><sup>[[H0057]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.ve.Lei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֗וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to give  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>תֵת֩ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Tet <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֨ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a turban  | <span class="ashebrew"><big>פְּאֵ֜ר </big></span><small><small><sup>[[H6287]]</sup></small></small> &#8207;| pe.'Er <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ash[es]  | <span class="ashebrew"><big>אֵ֗פֶר </big></span><small><small><sup>[[H0665]]</sup></small></small> &#8207;| 'E.fer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| oil of  | <span class="ashebrew"><big>שֶׁ֤מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| She.men <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| joy  | <span class="ashebrew"><big>שָׂשׂוֹן֙ </big></span><small><small><sup>[[H8342]]</sup></small></small> &#8207;| sa.sOn <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mourning  | <span class="ashebrew"><big>אֵ֔בֶל </big></span><small><small><sup>[[H0060]]</sup></small></small> &#8207;| 'E.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mantle of  | <span class="ashebrew"><big>מַעֲטֵ֣ה </big></span><small><small><sup>[[H4594]]</sup></small></small> &#8207;| ma.'a.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| praise  | <span class="ashebrew"><big>תְהִלָּ֔ה </big></span><small><small><sup>[[H8416]]</sup></small></small> &#8207;| te.hi.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֖חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit  | <span class="ashebrew"><big>ר֣וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faint  | <span class="ashebrew"><big>כֵּהָ֑ה </big></span><small><small><sup>[[H3544]]</sup></small></small> &#8207;| ke.Hah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will be called  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>קֹרָ֤א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ko.Ra' <small><sup>[[HVPq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶם֙ </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] oaks of  | <span class="ashebrew"><big>אֵילֵ֣י </big></span><small><small><sup>[[H0352D]]</sup></small></small> &#8207;| 'ei.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> righteousness  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צֶּ֔דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] planting of  | <span class="ashebrew"><big>מַטַּ֥ע </big></span><small><small><sup>[[H4302]]</sup></small></small> &#8207;| ma.Ta' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to glorify himself  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הִתְפָּאֵֽר </big></span><small><small><sup>[[H6286A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hit.pa.'Er <small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to put  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7760H\|שׂ֣וּם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Sum<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] mourners of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0057\|אֲבֵלֵ֣י]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.ve.Lei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֗וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5414G\|תֵת֩]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֨ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a turban  |**<big>&#8207;[[H6287\|פְּאֵ֜ר]]&#8207; </big>**| pe.'Er<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ash[es]  |**<big>&#8207;[[H0665\|אֵ֗פֶר]]&#8207; </big>**| 'E.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oil of  |**<big>&#8207;[[H8081\|שֶׁ֤מֶן]]&#8207; </big>**| She.men<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| joy  |**<big>&#8207;[[H8342\|שָׂשׂוֹן֙]]&#8207; </big>**| sa.sOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mourning  |**<big>&#8207;[[H0060\|אֵ֔בֶל]]&#8207; </big>**| 'E.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mantle of  |**<big>&#8207;[[H4594\|מַעֲטֵ֣ה]]&#8207; </big>**| ma.'a.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  |**<big>&#8207;[[H8416\|תְהִלָּ֔ה]]&#8207; </big>**| te.hi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֖חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit  |**<big>&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faint  |**<big>&#8207;[[H3544\|כֵּהָ֑ה]]&#8207; </big>**| ke.Hah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be called  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121H\|קֹרָ֤א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ko.Ra'<small><sup>[[HVPq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oaks of  |**<big>&#8207;[[H0352D\|אֵילֵ֣י]]&#8207; </big>**| 'ei.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> righteousness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6664G\|צֶּ֔דֶק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] planting of  |**<big>&#8207;[[H4302\|מַטַּ֥ע]]&#8207; </big>**| ma.Ta'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to glorify himself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6286A\|הִתְפָּאֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hit.pa.'Er<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.2|<< Isaiah 61:2]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.4|Isaiah 61:4 >>]]</td></tr></table>
 
 

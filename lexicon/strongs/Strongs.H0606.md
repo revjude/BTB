@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֱנָשׁ‎</span></big> **ʼĕnâsh** <small>*(en-awsh')*</small> ==**man**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">אֱנַשׁ</span> **ʼĕnash** <small>*(enash')*</small>; (Aramaic), corresponding to <span class="ashebrew">‎אֱנוֹשׁ‎</span><sup><small>[[H0582]]</small></sup></small>
+**<big><span class="asaramaic">‎אֱנָשׁ‎</span></big>** **ʼĕnâsh** <small>*(en-awsh')*</small> ==**man**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">אֱנַשׁ</span></big>** **ʼĕnash** <small>*(enash')*</small>; (Aramaic), corresponding to **<big>[[H0582|‎אֱנוֹשׁ‎]]</big>**</small>
 
 $\quad$ man, [phrase] whosoever.
 - ***a man***

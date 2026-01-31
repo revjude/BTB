@@ -7,29 +7,29 @@ To what purpose cometh there to me incense from Sheba, and the sweet cane from a
 What use to Me is frankincense from Sheba or sweet cane from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please Me.”<small><sub>**MT:**</sub></small>
 [[Jer.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.19|<< Jeremiah 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.21|Jeremiah 6:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| frankincense | <big><span class="asgreek">λίβανον</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Sheba | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
-| do you bring | <big><span class="asgreek">φέρετε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cinnamon | <big><span class="asgreek">κιννάμωμον</span></big> <sup><small><small>[[G2792]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| far off? | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| acceptable, | <big><span class="asgreek">δεκτά</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sacrifices | <big><span class="asgreek">θυσίαι</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| delighted | <big><span class="asgreek">ήδυνάν</span></big> <sup><small><small>[[G7619]]</small></small></sup> |
-| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| frankincense | **<big>[[G3030\|λίβανον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Sheba | **<big>[[H7614\|Σαβά]]</big>** |
+| do you bring | **<big>[[G5342\|φέρετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cinnamon | **<big>[[G2792\|κιννάμωμον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| far off? | **<big>[[G3113\|μακρόθεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| Your whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| are not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισί]]</big>** |
+| acceptable, | **<big>[[G1184\|δεκτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your sacrifices | **<big>[[G2378\|θυσίαι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| have not | **<big>[[G3756\|ουχ]]</big>** |
+| delighted | **<big>[[G7619\|ήδυνάν]]</big>** |
+| me. | **<big>[[G1473\|μοι]]</big>** |
 [[Jer.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.19|<< Jeremiah 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.21|Jeremiah 6:21 >>]]</td></tr></table>
 
 

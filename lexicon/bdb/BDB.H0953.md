@@ -14,7 +14,7 @@
 
  <span class="bdbLangHebrew">‎בּוֺר הַסִּרָה‎</span> **proper name, of a location** [[2Sam.3.26|2Sam 3:26]] (***cistern of Sirah***, [[BDB#Thes|Thes]] ***cist. declinationis***, [[BDB#MV|MV]] ***of the pot***, see <span class="bdbLangHebrew">‎סיר‎</span>). 
 
-<small>Also see: [[H6228]]</small>
+<small>Also see: **<big>[[H6228|עָשָׁן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎בּוֺר עָשָׁן‎</span> (so read for ordinary <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כור ע‎</span>, see [[BDB#BD|BD]]<sup>Gn, p. vi.</sup> [[BDB#Sept|ᵐ5]] [[BDB#Syr|ᵑ6]]) **proper name, of a location** [[1Sam.30.30|1Sam 30:30]] (***smoking pit***), in southwest of Judah; elsewhere  <span class="bdbLangHebrew">‎עָשָׁן‎</span> q. v. 
 

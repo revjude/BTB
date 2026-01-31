@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Apollonia</span>, a city in Macedonia through which Paul passed on his way to Thessalonica.
 - A location only mentioned at [[Josh.15.53|Act.17.1]]; 
-- only referred to as Apollonia<[[G0624]]> \(<span class='tipnrLangGreek'>Ἀπολλωνία</span>\).
+- only referred to as Apollonia **<big>[[G0624|Ἀπολλωνία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.58763251343323,23.35335168557556&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of Apollonia in the context of Paul's journey highlights the apostle
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Apollonia | [<span class='tipnrLangGreek'>Ἀπολλωνία</span>](G0624) <small>*Greek*</small> | 1x | [Act.17.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Apollonia\*\|reference=Act.17.1) |
-All Strong's for **Apollonia**: \[[[G0624]]\]
+| Apollonia | [<span class='tipnrLangGreek'>Ἀπολλωνία</span>](G0624) | 1x | [Act.17.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Apollonia\*\|reference=Act.17.1) |
+All entries for **Apollonia**:  **<big>[[G0624|Ἀπολλωνία]]</big>**

@@ -7,29 +7,29 @@ Without me they shall bow down under the prisoners, and they shall fall under th
 Nothing will remain but to crouch among the captives or fall among the slain. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
 [[Isa.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.3|<< Isaiah 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.5|Isaiah 10:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fall | <big><span class="asgreek">εμπεσείν</span></big> <sup><small><small>[[G1706]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| enslavement? | <big><span class="asgreek">απαγωγήν</span></big> <sup><small><small>[[G6387]]</small></small></sup> |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| the ones being done away with | <big><span class="asgreek">ανηρημένων</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| they shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall not turn | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] high. | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| fall | **<big>[[G1706\|εμπεσείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| enslavement? | **<big>[[G6387\|απαγωγήν]]</big>** |
+| For | **<big>[[G2532\|και]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| the ones being done away with | **<big>[[G0337\|ανηρημένων]]</big>** |
+| they shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτοις]]</big>** |
+| shall not turn | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0654\|απεστράφη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his anger | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] high. | **<big>[[G5308\|υψηλή]]</big>** |
 [[Isa.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.3|<< Isaiah 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.5|Isaiah 10:5 >>]]</td></tr></table>
 
 

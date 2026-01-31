@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָבַט‎</span></big> **ʻâbaṭ** <small>*(aw-bat')*</small> ==**to lend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָבַט‎</span></big>** **ʻâbaṭ** <small>*(aw-bat')*</small> ==**to lend**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ borrow, break (ranks), fetch (a pledge), lend, [idiom] surely.

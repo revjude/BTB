@@ -7,28 +7,28 @@ Then shalt thou bring forth thy stuff by day in their sight, as stuff for removi
 Bring out your baggage for exile by day, as they watch. Then in the evening, as they watch, go out like those who go into exile.<small><sub>**MT:**</sub></small>
 [[Ezek.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.3|<< Ezekiel 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.5|Ezekiel 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring forth | <big><span class="asgreek">εξοίσεις</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your items, | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of captivity | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| for a day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their eyes. | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">εξελεύση</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| at evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| goes forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| a captive | <big><span class="asgreek">αιχμάλωτος</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall bring forth | **<big>[[G1627\|εξοίσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your items, | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| of captivity | **<big>[[G0161\|αιχμαλωσίας]]</big>** |
+| for a day | **<big>[[G2250\|ημέρας]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| their eyes. | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall go forth | **<big>[[G1831\|εξελεύση]]</big>** |
+| at evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| goes forth | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| a captive | **<big>[[G0164\|αιχμάλωτος]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.3|<< Ezekiel 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.5|Ezekiel 12:5 >>]]</td></tr></table>
 
 

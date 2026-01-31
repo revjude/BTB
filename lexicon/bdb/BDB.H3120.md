@@ -1,4 +1,4 @@
-<small>Also see: [[H1835]]</small>
+<small>Also see: **<big>[[H1835|דָּן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎ארנבן‎</span> **proper name, of a location** ==whence wine==, so [[BDB#Co|Co]] [[Ezek.27.19|Ezek 27:19]] for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎וְדָן וְיָוָן‎</span>; compare Assyrian <abbr title="transliteration"><u>***wine of Aranabanim***</u></abbr>. 
 

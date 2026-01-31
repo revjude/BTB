@@ -1,5 +1,4 @@
-<span class="asaramaic">‎עֲנָי‎</span> <small>***(a.nah)***</small> ==**to afflict**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H6031B]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6031B|עָנָה]]</big>**</small> 
 
 - v
 - adj

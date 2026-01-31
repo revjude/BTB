@@ -7,39 +7,39 @@ And if the priest look, and, behold, the plague [be] somewhat dark after the was
 If the priest examines it and the mildew has faded after it has been washed, he must cut the contaminated section out of the fabric, leather, weave, or knit.<small><sub>**MT:**</sub></small>
 [[Lev.13.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.55|<< Leviticus 13:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.57|Leviticus 13:57 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should look | <big><span class="asgreek">ίδη</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| faint | <big><span class="asgreek">αμαυρά</span></big> <sup><small><small>[[G6252]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| washing | <big><span class="asgreek">πλυθήναι</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall rip | <big><span class="asgreek">απορρήξει</span></big> <sup><small><small>[[G6473]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garment, | <big><span class="asgreek">ιματίου</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warp, | <big><span class="asgreek">στήμονος</span></big> <sup><small><small>[[G9175]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woof, | <big><span class="asgreek">κρόκης</span></big> <sup><small><small>[[G8097]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin. | <big><span class="asgreek">δέρματος</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should look | **<big>[[G1492\|ίδη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be | **<big>[[G1510\|η]]</big>** |
+| faint | **<big>[[G6252\|αμαυρά]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| washing | **<big>[[G4150\|πλυθήναι]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| he shall rip | **<big>[[G6473\|απορρήξει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| garment, | **<big>[[G2440\|ιματίου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| warp, | **<big>[[G9175\|στήμονος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| woof, | **<big>[[G8097\|κρόκης]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| skin. | **<big>[[G1192\|δέρματος]]</big>** |
 [[Lev.13.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.55|<< Leviticus 13:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.57|Leviticus 13:57 >>]]</td></tr></table>
 
 

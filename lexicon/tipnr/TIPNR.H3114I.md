@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Joiarib</span>, a descendant of Judah through Perez, settled in Jerusalem after the Babylonian exile \([[Neh.11.5|Neh.11.5]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Neh.11.5|Neh.11.5]]; 
-- only referred to as Joiarib<[[H3114I]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>\); 
-- a son of Zechariah<[[H2148W]]>; 
--  father of Adaiah<[[H5718M]]>.
+- only referred to as Joiarib **<big>[[H3114|יוֹיָרִיב]]</big>**; 
+- a son of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**; 
+-  father of Adaiah **<big>[[H5718|עֲדָיָה]]</big>**.
 
 Joiarib is mentioned in [[Neh.11.5|Nehemiah 11:5]] as one of the descendants of Judah who settled in Jerusalem after the Babylonian exile. He is specifically identified as a descendant of Perez, one of the twin sons of Judah and Tamar \(Gen.38.29\). 
 
@@ -18,8 +18,8 @@ No additional information is provided about Joiarib's life, occupation, or speci
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joiarib | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3114I) <small>*Hebrew*</small> | 1x | [Neh.11.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiarib\*\|reference=Neh.11.5) |
-All Strong's for **Joiarib**: \[[[H3114I]]\]
+| Joiarib | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3114I) | 1x | [Neh.11.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiarib\*\|reference=Neh.11.5) |
+All entries for **Joiarib**:  **<big>[[H3114|יוֹיָרִיב]]</big>**
 #### Related Profiles:
 - **[Zechariah](H2148W)** (father)
 - **[Adaiah](H5718M)** (child)

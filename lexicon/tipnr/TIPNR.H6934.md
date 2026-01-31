@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Kadmiel</span> was a Levite who returned from Babylonian exile and played a significant role in the rebuilding of the temple and the spiritual renewal of the people.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.40|Ezr.2.40]]; 
-- only referred to as Kadmiel<[[H6934]]> \(<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
--  father of Jeshua<[[H3442N]]>.
+- only referred to as Kadmiel **<big>[[H6934|קַדְמִיאֵל]]</big>**; 
+-  father of Jeshua **<big>[[H3442|יֵשׁוּעַ]]</big>**.
 
 Kadmiel is mentioned several times in the books of Ezra and Nehemiah as a Levite who returned from the Babylonian exile. He is first listed among the Levites who returned with Zerubbabel \([[Ezra.2.40|Ezra 2:40]]; [[Neh.7.43|Nehemiah 7:43]]\). 
 
@@ -19,7 +19,7 @@ Throughout these passages, Kadmiel emerges as a prominent Levite who played a si
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kadmiel | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6934) <small>*Hebrew*</small> | 8x | [[Ezr.2.40] ... [Neh.12.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kadmiel\*\|reference=Ezr.2.40;Ezr.3.9;Neh.7.43;Neh.9.4;Neh.9.5;Neh.10.9;Neh.12.8;Neh.12.24) |
-All Strong's for **Kadmiel**: \[[[H6934]]\]
+| Kadmiel | [<span class='tipnrLangHebrew'>ק</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6934) | 8x | [[Ezr.2.40] ... [Neh.12.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kadmiel\*\|reference=Ezr.2.40;Ezr.3.9;Neh.7.43;Neh.9.4;Neh.9.5;Neh.10.9;Neh.12.8;Neh.12.24) |
+All entries for **Kadmiel**:  **<big>[[H6934|קַדְמִיאֵל]]</big>**
 #### Related Profiles:
 - **[Jeshua](H3442N)** (child)

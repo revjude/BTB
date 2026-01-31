@@ -7,29 +7,29 @@ But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem [h
 You must redeem the firstborn of a donkey with a lamb; but if you do not redeem it, you are to break its neck. You must redeem all the firstborn of your sons. No one shall appear before Me empty-handed.<small><sub>**MT:**</sub></small>
 [[Exod.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.19|<< Exodus 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.21|Exodus 34:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a first-born | <big><span class="asgreek">πρωτότοκον</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| beast of burden | <big><span class="asgreek">υποζυγίου</span></big> <sup><small><small>[[G5268]]</small></small></sup> |
-| you shall ransom | <big><span class="asgreek">λυτρώση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| \[with a\] sheep. | <big><span class="asgreek">προβάτω</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you will not ransom | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">λυτρώση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| value | <big><span class="asgreek">τιμήν</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκον</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall ransom. | <big><span class="asgreek">λυτρωση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| appear | <big><span class="asgreek">οφθήση</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| empty. | <big><span class="asgreek">κενός</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a first-born | **<big>[[G4416\|πρωτότοκον]]</big>** |
+| beast of burden | **<big>[[G5268\|υποζυγίου]]</big>** |
+| you shall ransom | **<big>[[G3084\|λυτρώση]]</big>** |
+| \[with a\] sheep. | **<big>[[G4263\|προβάτω]]</big>** |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you will not ransom | **<big>[[G3361\|μη]]</big>** **<big>[[G3084\|λυτρώση]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| value | **<big>[[G5092\|τιμήν]]</big>** |
+| you shall give | **<big>[[G1325\|δώσεις]]</big>** |
+| for it. | **<big>[[G1473\|αυτού]]</big>** |
+| Every | **<big>[[G3956\|παν]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall ransom. | **<big>[[G3084\|λυτρωση]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| appear | **<big>[[G3708\|οφθήση]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| empty. | **<big>[[G2756\|κενός]]</big>** |
 [[Exod.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.19|<< Exodus 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.21|Exodus 34:21 >>]]</td></tr></table>
 
 

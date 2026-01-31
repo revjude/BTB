@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Secacah</span> was a town located in the wilderness region of Judah \(Josh. 15:61\).
 - A location only mentioned at [[Josh.15.61|Jos.15.61]]; 
-- only referred to as Secacah<[[H5527]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Secacah **<big>[[H5527|סְכָכָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.766667,35.283333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Secacah is mentioned only once in the Bible, in the list of towns allotted to th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Secacah (NIV= Sekakah) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5527) <small>*Hebrew*</small> | 1x | [Jos.15.61 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Secacah\*\|reference=Jos.15.61) |
-All Strong's for **Secacah**: \[[[H5527]]\]
+| Secacah (NIV= Sekakah) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5527) | 1x | [Jos.15.61 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Secacah\*\|reference=Jos.15.61) |
+All entries for **Secacah**:  **<big>[[H5527|סְכָכָה]]</big>**

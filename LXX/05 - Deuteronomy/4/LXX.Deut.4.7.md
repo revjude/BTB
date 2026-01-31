@@ -7,26 +7,26 @@ For what nation [is there so] great, who [hath] God [so] nigh unto them, as the 
 For what nation is great enough to have a god as near to them as the LORD our God is to us whenever we call on Him?<small><sub>**MT:**</sub></small>
 [[Deut.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.6|<< Deuteronomy 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.8|Deuteronomy 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| what | <big><span class="asgreek">ποίον</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| near | <big><span class="asgreek">εγγίζων</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| in which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we should call upon him? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">επικαλεσώμεθα</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| what | **<big>[[G4169\|ποίον]]</big>** |
+| nation | **<big>[[G1484\|έθνος]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| there is | **<big>[[G1510\|έστιν]]</big>** |
+| to it | **<big>[[G1473\|αυτώ]]</big>** |
+| a God | **<big>[[G2316\|θεός]]</big>** |
+| near | **<big>[[G1448\|εγγίζων]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάσιν]]</big>** |
+| in which | **<big>[[G3739\|οις]]</big>** |
+| we should call upon him? | **<big>[[G1473\|αυτόν]]</big>** **<big>[[G1941\|επικαλεσώμεθα]]</big>** |
 [[Deut.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.6|<< Deuteronomy 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.8|Deuteronomy 4:8 >>]]</td></tr></table>
 
 

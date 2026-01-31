@@ -7,25 +7,25 @@ And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to 
 “Please do not leave us,” Moses said, “since you know where we should camp in the wilderness, and you can serve as our eyes.<small><sub>**MT:**</sub></small>
 [[Num.10.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.30|<< Numbers 10:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.32|Numbers 10:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκαταλίπης</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| you were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as\] an ambassador. | <big><span class="asgreek">πρεσβύτης</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| abandon | **<big>[[G1459\|εγκαταλίπης]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| because | **<big>[[G3739\|ου]]</big>** **<big>[[G1752\|ένεκεν]]</big>** |
+| you were | **<big>[[G1510\|ήσθα]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| \[as\] an ambassador. | **<big>[[G4246\|πρεσβύτης]]</big>** |
 [[Num.10.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.30|<< Numbers 10:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.32|Numbers 10:32 >>]]</td></tr></table>
 
 

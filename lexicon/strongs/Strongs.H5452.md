@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎סְבַר‎</span></big> **çᵉbar** <small>*(seb-ar')*</small> ==**to intend**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+**<big><span class="asaramaic">‎סְבַר‎</span></big>** **çᵉbar** <small>*(seb-ar')*</small> ==**to intend**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
 <small>(Aramaic) a primitive root</small>
 
 $\quad$ think.
@@ -6,4 +6,4 @@ $\quad$ think.
 
 **1)** (P'al) to think, intend
 
-<sub><small>See Greek: </small></sub><span class="asgreek">προσδέχομαι</span><sup><small>[[G4327]]</small></sup>
+<small>See Greek: </small>**<big>[[G4327|προσδέχομαι]]</big>**

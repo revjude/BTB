@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נֹפֶךְ‎</span></big> **nôphek** <small>*(no'-fek)*</small> ==**emerald**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎נֹפֶךְ‎</span></big>** **nôphek** <small>*(no'-fek)*</small> ==**emerald**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to glisten</small>
 
 $\quad$ emerald.
@@ -9,4 +9,4 @@ $\quad$ emerald.
 $\quad$ **1a)** perhaps an emerald, turquoise, ruby, or carbuncle
 **2)** jewels imported from Tyre
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνθραξ</span><sup><small>[[G0440]]</small></sup>
+<small>See Greek: </small>**<big>[[G0440|ἄνθραξ]]</big>**

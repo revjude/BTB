@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hoshama</span> was a descendant of Jeconiah, the exiled king of Judah, according to the genealogy in 1 Chronicles.
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.3.18|1Ch.3.18]]; 
-- only referred to as Hoshama<[[H1953]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>\); 
--  son of Shealtiel<[[H7597A]]>\(?\); 
-- a brother of Malchiram<[[H4443]]>, Pedaiah<[[H6305H]]>, Shenazzar<[[H8137]]>, Jekamiah<[[H3359H]]> and Nedabiah<[[H5072]]>.
+- only referred to as Hoshama **<big>[[H1953|הוֹשָׁמָע]]</big>**; 
+-  son of Shealtiel **<big>[[H7597|שְׁאַלְתִּיאֵל]]</big>**; 
+- a brother of Malchiram **<big>[[H4443|מַלְכִּירָם]]</big>**, Pedaiah **<big>[[H6305|פְּדָיָה]]</big>**, Shenazzar **<big>[[H8137|שֶׁנְאַצַּר]]</big>**, Jekamiah **<big>[[H3359|יְקַמְיָה]]</big>** and Nedabiah **<big>[[H5072|נְדַבְיָה]]</big>**.
 
 Hoshama is mentioned in [[1Chr.3.18|1 Chronicles 3:18]] as one of the descendant of Jeconiah, the king of Judah who was exiled to Babylon. Jeconiah, also known as Jehoiachin, though the genealogy is complex. He was taken captive by Nebuchadnezzar in 597 BC and spent many years in captivity \(2 Kings 24:10-16\). 
 
@@ -16,8 +16,8 @@ His inclusion in the genealogy suggests that he was part of the royal line of Da
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hoshama | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H1953) <small>*Hebrew*</small> | 1x | [1Ch.3.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshama\*\|reference=1Ch.3.18) |
-All Strong's for **Hoshama**: \[[[H1953]]\]
+| Hoshama | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H1953) | 1x | [1Ch.3.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshama\*\|reference=1Ch.3.18) |
+All entries for **Hoshama**:  **<big>[[H1953|הוֹשָׁמָע]]</big>**
 #### Related Profiles:
 - **[Shealtiel](H7597A)** (father)
 - **[Malchiram](H4443)** (sibling)

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎צִיר‎</span></big> **tsîyr** <small>*(tseer)*</small> ==**envoy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צוּר‎</span><sup><small>[[H6696]]</small></sup></small>
+**<big><span class="ashebrew">‎צִיר‎</span></big>** **tsîyr** <small>*(tseer)*</small> ==**envoy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6696|‎צוּר‎]]</big>**</small>
 
-$\quad$ ambassador, hinge, messenger, pain, pang, sorrow. Compare <span class="ashebrew">‎צִיר‎</span><sup><small>[[H6736]]</small></sup>.
+$\quad$ ambassador, hinge, messenger, pain, pang, sorrow. Compare **<big>[[H6736|‎צִיר‎]]</big>**.
 - ***a hinge*** (as pressed in turning)
 -  also ***a throe*** (as a phys. or mental pressure)
 -  also ***a herald*** or ***erranddoer*** (as constrained by the principal)
@@ -10,4 +10,4 @@ $\quad$ ambassador, hinge, messenger, pain, pang, sorrow. Compare <span class="a
 **2)** pivot of door, hinge
 **3)** pang, distress
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγγελος</span><sup><small>[[G0032]]</small></sup> · <span class="asgreek">ὠδίν</span><sup><small>[[G5604]]</small></sup>
+<small>See Greek: </small>**<big>[[G0032|ἄγγελος]]</big>** · **<big>[[G5604|ὠδίν]]</big>**

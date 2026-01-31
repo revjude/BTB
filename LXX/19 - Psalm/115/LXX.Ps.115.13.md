@@ -11,18 +11,18 @@ He will bless those who fear the LORD—small and great alike.<small><sub>**MT:
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]] ☩ [[Rev.19.5|Rev 19:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| he blessed | <big><span class="asgreek">ευλόγησε</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένους</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρούς</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great. | <big><span class="asgreek">μεγάλων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| he blessed | **<big>[[G2127\|ευλόγησε]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένους]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| small | **<big>[[G3398\|μικρούς]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| great. | **<big>[[G3173\|μεγάλων]]</big>** |
 [[Ps.115.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.12|<< Psalm 115:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.14|Psalm 115:14 >>]]</td></tr></table>
 
 

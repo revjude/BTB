@@ -6,14 +6,14 @@ As fire consumes a forest, as a flame sets the mountains ablaze,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.13|<< Psalms 83:13]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.15|Psalms 83:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| like a fire  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֵ֥שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] it burns  | <span class="ashebrew"><big>תִּבְעַר </big></span><small><small><sup>[[H1197A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tiv.'ar- <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a forest  | <span class="ashebrew"><big>יָ֑עַר </big></span><small><small><sup>[[H3293A]]</sup></small></small> &#8207;| Ya.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like a flame  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לֶהָבָ֗ה </big></span><small><small><sup>[[H3852]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe. <small><sup>[[HR]]</sup></small> le.ha.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] it sets ablaze  | <span class="ashebrew"><big>תְּלַהֵ֥ט </big></span><small><small><sup>[[H3857]]</sup></small></small> &#8207;| te.la.Het <small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountains  | <span class="ashebrew"><big>הָרִֽים </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a fire  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0784\|אֵ֥שׁ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it burns  |**<big>&#8207;[[H1197A\|תִּבְעַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tiv.'ar-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a forest  |**<big>&#8207;[[H3293A\|יָ֑עַר]]&#8207; </big>**| Ya.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like a flame  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H3852\|לֶהָבָ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> le.ha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it sets ablaze  |**<big>&#8207;[[H3857\|תְּלַהֵ֥ט]]&#8207; </big>**| te.la.Het<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  |**<big>&#8207;[[H2022G\|הָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.13|<< Psalms 83:13]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.15|Psalms 83:15 >>]]</td></tr></table>
 
 

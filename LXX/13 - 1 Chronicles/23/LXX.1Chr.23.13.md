@@ -11,39 +11,39 @@ The sons of Amram: Aaron and Moses. Aaron and his descendants were set apart for
 > $\quad$ referenced by: [[Heb.5.4|Heb 5:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Amram -- | <big><span class="asgreek">Αμράμ</span></big> <sup><small><small>[[H6019]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron was separated | <big><span class="asgreek">διεστάλη</span></big> <sup><small><small>[[G1291]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιασθήναι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| \[the\] holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of holies, | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] eon, | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to burn incense | <big><span class="asgreek">θυμιάν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to officiate | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to invoke | <big><span class="asgreek">επεύχεσθαι</span></big> <sup><small><small>[[G7384]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| \[The\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Amram -- | **<big>[[H6019\|Αμράμ]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Aaron was separated | **<big>[[G1291\|διεστάλη]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιασθήναι]]</big>** |
+| \[the\] holy | **<big>[[G0039\|άγιον]]</big>** |
+| of holies, | **<big>[[G0039\|αγίων]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] eon, | **<big>[[G0165\|αιώνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to burn incense | **<big>[[G2370\|θυμιάν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to officiate | **<big>[[G3008\|λειτουργείν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to invoke | **<big>[[G7384\|επεύχεσθαι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his name | **<big>[[G3686\|ονόματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
 [[1Chr.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.12|<< 1 Chronicles 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.14|1 Chronicles 23:14 >>]]</td></tr></table>
 
 

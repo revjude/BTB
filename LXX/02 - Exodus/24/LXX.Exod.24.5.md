@@ -7,25 +7,25 @@ And he sent young men of the children of Israel, which offered burnt offerings, 
 Then he sent out some young men of Israel, and they offered burnt offerings and sacrificed young bulls as peace offerings to the LORD.<small><sub>**MT:**</sub></small>
 [[Exod.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.4|<< Exodus 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.6|Exodus 24:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent out | <big><span class="asgreek">εξαπέστειλε</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young men | <big><span class="asgreek">νεανίσκους</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they offered | <big><span class="asgreek">ανήνεγκαν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| whole burnt-offerings, | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sacrificed | <big><span class="asgreek">έθυσαν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of deliverance | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God -- | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of young calves. | <big><span class="asgreek">μοσχάρια</span></big> <sup><small><small>[[G8349]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent out | **<big>[[G1821\|εξαπέστειλε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| young men | **<big>[[G3495\|νεανίσκους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they offered | **<big>[[G0399\|ανήνεγκαν]]</big>** |
+| whole burnt-offerings, | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they sacrificed | **<big>[[G2380\|έθυσαν]]</big>** |
+| a sacrifice | **<big>[[G2378\|θυσίαν]]</big>** |
+| of deliverance | **<big>[[G4992\|σωτηρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God -- | **<big>[[G2316\|θεώ]]</big>** |
+| of young calves. | **<big>[[G8349\|μοσχάρια]]</big>** |
 [[Exod.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.4|<< Exodus 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.6|Exodus 24:6 >>]]</td></tr></table>
 
 

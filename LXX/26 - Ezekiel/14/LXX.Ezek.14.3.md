@@ -7,30 +7,30 @@ Son of man, these men have set up their idols in their heart, and put the stumbl
 “Son of man, these men have set up idols in their hearts and put wicked stumbling blocks before their faces. Should I consult with them in any way?<small><sub>**MT:**</sub></small>
 [[Ezek.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.2|<< Ezekiel 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.4|Ezekiel 14:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| set | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their thoughts | <big><span class="asgreek">διανοήματα</span></big> <sup><small><small>[[G1270]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hearts, | <big><span class="asgreek">καρδίας αυτών</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| punishment | <big><span class="asgreek">κόλασιν</span></big> <sup><small><small>[[G2851]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their iniquities | <big><span class="asgreek">αδικιών αυτών</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| set | <big><span class="asgreek">έθηκαν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| their face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| in answering | <big><span class="asgreek">αποκρινόμενος</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| I answer | <big><span class="asgreek">αποκριθώ</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| them, \[no\]. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| set | **<big>[[G5087\|έθεντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their thoughts | **<big>[[G1270\|διανοήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hearts, | **<big>[[G2588\|καρδίας αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| punishment | **<big>[[G2851\|κόλασιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their iniquities | **<big>[[G0093\|αδικιών αυτών]]</big>** |
+| set | **<big>[[G5087\|έθηκαν]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| their face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| in answering | **<big>[[G0611\|αποκρινόμενος]]</big>** |
+| I answer | **<big>[[G0611\|αποκριθώ]]</big>** |
+| them, \[no\]. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ezek.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.2|<< Ezekiel 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.4|Ezekiel 14:4 >>]]</td></tr></table>
 
 

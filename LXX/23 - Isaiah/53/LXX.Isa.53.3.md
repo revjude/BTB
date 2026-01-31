@@ -7,34 +7,34 @@ He is despised and rejected of men; a man of sorrows, and acquainted with grief:
 He was despised and rejected by men, a man of sorrows, acquainted with grief. Like one from whom men hide their faces, He was despised, and we esteemed Him not.<small><sub>**MT:**</sub></small>
 [[Isa.53.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.2|<< Isaiah 53:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.4|Isaiah 53:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his appearance | <big><span class="asgreek">είδος</span></big> <sup><small><small>[[G1491]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] without honor, | <big><span class="asgreek">άτιμον</span></big> <sup><small><small>[[G0820]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wanting | <big><span class="asgreek">εκλείπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| A man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| knowing \[how\] | <big><span class="asgreek">ειδώς</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| to bear | <big><span class="asgreek">φέρειν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| infirmity. | <big><span class="asgreek">μαλακίαν</span></big> <sup><small><small>[[G3119]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he turned | <big><span class="asgreek">απέστραπται</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face; | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he was dishonored | <big><span class="asgreek">ητιμάσθη</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| considered. | <big><span class="asgreek">ελογίσθη</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his appearance | **<big>[[G1491\|είδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] without honor, | **<big>[[G0820\|άτιμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wanting | **<big>[[G1587\|εκλείπον]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men. | **<big>[[G0444\|ανθρώπων]]</big>** |
+| A man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| calamity | **<big>[[G4127\|πληγή]]</big>** |
+| being | **<big>[[G1510\|ων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| knowing \[how\] | **<big>[[G1492\|ειδώς]]</big>** |
+| to bear | **<big>[[G5342\|φέρειν]]</big>** |
+| infirmity. | **<big>[[G3119\|μαλακίαν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he turned | **<big>[[G0654\|απέστραπται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face; | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he was dishonored | **<big>[[G0818\|ητιμάσθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was not | **<big>[[G3756\|ουκ]]</big>** |
+| considered. | **<big>[[G3049\|ελογίσθη]]</big>** |
 [[Isa.53.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.2|<< Isaiah 53:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.4|Isaiah 53:4 >>]]</td></tr></table>
 
 

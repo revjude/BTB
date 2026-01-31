@@ -7,19 +7,19 @@ Ye shall not make with me gods of silver, neither shall ye make unto you gods of
 You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold.<small><sub>**MT:**</sub></small>
 [[Exod.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.22|<< Exodus 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.24|Exodus 20:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρούς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of gold; | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them to yourselves. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| make | **<big>[[G4160\|ποιήσετε]]</big>** |
+| to yourselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| of silver, | **<big>[[G0693\|αργυρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| of gold; | **<big>[[G5552\|χρυσούς]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| make | **<big>[[G4160\|ποιήσετε]]</big>** |
+| them to yourselves. | **<big>[[G1473\|υμίν]]</big>** **<big>[[G1473\|αυτοίς]]</big>** |
 [[Exod.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.22|<< Exodus 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.24|Exodus 20:24 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ O LORD, I know that the way of man [is] not in himself: [it is] not in man that 
 I know, O LORD, that a man’s way is not his own; no one who walks directs his own steps.<small><sub>**MT:**</sub></small>
 [[Jer.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.22|<< Jeremiah 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.24|Jeremiah 10:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I know, | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| his \[own\]; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| straight | <big><span class="asgreek">κατορθώσει</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
-| his goings | <big><span class="asgreek">πορείαν</span></big> <sup><small><small>[[G4197]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I know, | **<big>[[G1492\|οίδα]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] not | **<big>[[G3780\|ουχί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| way | **<big>[[G3598\|οδός]]</big>** |
+| his \[own\]; | **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall a man | **<big>[[G0435\|ανήρ]]</big>** |
+| go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| straight | **<big>[[G7976\|κατορθώσει]]</big>** |
+| his goings | **<big>[[G4197\|πορείαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Jer.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.22|<< Jeremiah 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.24|Jeremiah 10:24 >>]]</td></tr></table>
 
 

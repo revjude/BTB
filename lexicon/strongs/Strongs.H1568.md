@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּלְעָד‎</span></big> **Gilʻâd** <small>*(ghil-awd')*</small> ==**Gilead**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from <span class="ashebrew">‎גַּלְעֵד‎</span><sup><small>[[H1567]]</small></sup></small>
+**<big><span class="ashebrew">‎גִּלְעָד‎</span></big>** **Gilʻâd** <small>*(ghil-awd')*</small> ==**Gilead**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from **<big>[[H1567|‎גַּלְעֵד‎]]</big>**</small>
 
 $\quad$ Gilead, Gileadite.
 - § n pr loc Gilead = *"rocky region"*

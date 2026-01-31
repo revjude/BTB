@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָנָה‎</span></big> **ʼânâh** <small>*(aw-naw')*</small> ==**to meet**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (perhaps rather identical with <span class="ashebrew">‎אָנָה‎</span><sup><small>[[H0578]]</small></sup> through the idea of contraction in anguish)</small>
+**<big><span class="ashebrew">‎אָנָה‎</span></big>** **ʼânâh** <small>*(aw-naw')*</small> ==**to meet**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (perhaps rather identical with **<big>[[H0578|‎אָנָה‎]]</big>** through the idea of contraction in anguish)</small>
 
 $\quad$ befall, deliver, happen, seek a quarrel.
 - ***to approach***

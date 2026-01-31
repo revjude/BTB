@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָפַד‎</span></big> **tsâphad** <small>*(tsaw-fad')*</small> ==**to shrivel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָפַד‎</span></big>** **tsâphad** <small>*(tsaw-fad')*</small> ==**to shrivel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cleave.
@@ -7,4 +7,4 @@ $\quad$ cleave.
 **1)** to draw together, contract, draw up
 $\quad$ **1a)** (Qal) to draw up, contract, shrivel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πήγνυμι</span><sup><small>[[G4078]]</small></sup>
+<small>See Greek: </small>**<big>[[G4078|πήγνυμι]]</big>**

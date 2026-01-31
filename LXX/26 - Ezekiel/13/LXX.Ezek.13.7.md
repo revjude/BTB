@@ -7,23 +7,23 @@ Have ye not seen a vain vision, and have ye not spoken a lying divination, where
 Haven’t you seen a false vision and spoken a lying divination when you proclaim, ‘Thus declares the LORD,’ even though I have not spoken?<small><sub>**MT:**</sub></small>
 [[Ezek.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.6|<< Ezekiel 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.8|Ezekiel 13:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Have you not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| a false | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| seen | <big><span class="asgreek">εωράκατε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| divinations | <big><span class="asgreek">μαντείας</span></big> <sup><small><small>[[G8252]]</small></small></sup> |
-| vain | <big><span class="asgreek">ματαίας</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| spoken | <big><span class="asgreek">ειρήκατε</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you speak, | <big><span class="asgreek">λέγετε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| Have you not | **<big>[[G3780\|ουχί]]</big>** |
+| vision | **<big>[[G3706\|όρασιν]]</big>** |
+| a false | **<big>[[G5571\|ψευδή]]</big>** |
+| seen | **<big>[[G3708\|εωράκατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| divinations | **<big>[[G8252\|μαντείας]]</big>** |
+| vain | **<big>[[G3152\|ματαίας]]</big>** |
+| spoken | **<big>[[G2046\|ειρήκατε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you speak, | **<big>[[G3004\|λέγετε]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| spoke not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2980\|ελάλησα]]</big>** |
 [[Ezek.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.6|<< Ezekiel 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.8|Ezekiel 13:8 >>]]</td></tr></table>
 
 

@@ -10,12 +10,12 @@ Do not muzzle an ox while it is treading out the grain.
 > $\quad$ referenced by: [[Luke.10.7|Luke 10:7]] ☩ [[1Cor.9.9|1Cor 9:9]] ☩ [[1Tim.5.18|1Tim 5:18]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will muzzle  | <span class="ashebrew"><big>תַחְסֹ֥ם </big></span><small><small><sup>[[H2629]]</sup></small></small> &#8207;| tach.Som <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ox  | <span class="ashebrew"><big>שׁ֖וֹר </big></span><small><small><sup>[[H7794]]</sup></small></small> &#8207;| Shor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when threshes it  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דִישֽׁ </big></span><small><small><sup>[[H1758]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9043]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> di.Sh <small><sup>[[HVqcc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will muzzle  |**<big>&#8207;[[H2629\|תַחְסֹ֥ם]]&#8207; </big>**| tach.Som<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ox  |**<big>&#8207;[[H7794\|שׁ֖וֹר]]&#8207; </big>**| Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when threshes it  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1758\|דִישֽׁ]]&#8207;&#8207;[[H9043\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> di.Sh<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.3|<< Deuteronomy 25:3]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.5|Deuteronomy 25:5 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ Behold, all they that were incensed against thee shall be ashamed and confounded
 Behold, all who rage against you will be ashamed and disgraced; those who contend with you will be reduced to nothing and will perish.<small><sub>**MT:**</sub></small>
 [[Isa.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.10|<< Isaiah 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.12|Isaiah 41:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| shall be ashamed | <big><span class="asgreek">αισχυνθήσονται</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be respectful | <big><span class="asgreek">εντραπήσονται</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your adversaries | <big><span class="asgreek">αντικείμενοί</span></big> <sup><small><small>[[G0480]]</small></small></sup> <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| existing; | <big><span class="asgreek">υπάρχοντες</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall perish | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your opponents | <big><span class="asgreek">αντίδικοί</span></big> <sup><small><small>[[G0476]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| shall be ashamed | **<big>[[G0153\|αισχυνθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be respectful | **<big>[[G1788\|εντραπήσονται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your adversaries | **<big>[[G0480\|αντικείμενοί]]</big>** **<big>[[G1473\|σοι]]</big>** |
+| for they will be | **<big>[[G1510\|έσονται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| existing; | **<big>[[G5225\|υπάρχοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall perish | **<big>[[G0622\|απολούνται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your opponents | **<big>[[G0476\|αντίδικοί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Isa.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.10|<< Isaiah 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.12|Isaiah 41:12 >>]]</td></tr></table>
 
 

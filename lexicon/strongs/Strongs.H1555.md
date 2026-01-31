@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גׇּלְיַת‎</span></big> **Golyath** <small>*(gol-yath')*</small> ==**Goliath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎גָּלָה‎</span><sup><small>[[H1540]]</small></sup>; exile</small>
+**<big><span class="ashebrew">‎גׇּלְיַת‎</span></big>** **Golyath** <small>*(gol-yath')*</small> ==**Goliath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps from **<big>[[H1540|‎גָּלָה‎]]</big>**; exile</small>
 
 $\quad$ Goliath.
 - § Goliath = *"splendour"*

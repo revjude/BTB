@@ -7,27 +7,27 @@ Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother t
 So now, my son, obey my voice and flee at once to my brother Laban in Haran.<small><sub>**MT:**</sub></small>
 [[Gen.27.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.42|<< Genesis 27:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.44|Genesis 27:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| child, | <big><span class="asgreek">τέκνον</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| hear | <big><span class="asgreek">άκουσόν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice! | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rising up | <big><span class="asgreek">αναστάς</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| run away | <big><span class="asgreek">απόδραθι</span></big> <sup><small><small>[[G6424]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mesopotamia | <big><span class="asgreek">Μεσοποταμίαν</span></big> <sup><small><small>[[G3318]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Laban | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Haran! | <big><span class="asgreek">Χαρράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| child, | **<big>[[G5043\|τέκνον]]</big>** |
+| hear | **<big>[[G0191\|άκουσόν]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| voice! | **<big>[[G5456\|φωνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rising up | **<big>[[G0450\|αναστάς]]</big>** |
+| run away | **<big>[[G6424\|απόδραθι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Mesopotamia | **<big>[[G3318\|Μεσοποταμίαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Laban | **<big>[[H3837b\|Λάβαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Haran! | **<big>[[G5488\|Χαρράν]]</big>** |
 [[Gen.27.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.42|<< Genesis 27:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.44|Genesis 27:44 >>]]</td></tr></table>
 
 

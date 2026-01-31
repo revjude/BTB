@@ -6,15 +6,15 @@ Then a woman came out to meet him, with the attire of a harlot and cunning of he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.9|<< Proverbs 7:9]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.11|Proverbs 7:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and there!  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִ֭שָּׁה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'I.shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to meet him  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>קְרָאת֑ </big></span><small><small><sup>[[H7122G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> k.ra.T <small><sup>[[HVqcc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] garment of  | <span class="ashebrew"><big>שִׁ֥ית </big></span><small><small><sup>[[H7897]]</sup></small></small> &#8207;| shit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a prostitute  | <span class="ashebrew"><big>ז֝וֹנָ֗ה </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| zo.Nah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and guarded of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְצֻ֥רַת </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.Tzu.rat <small><sup>[[HVqsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵֽב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אִ֭שָּׁה]]&#8207; </big>**| 'I.shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to meet him  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרָאת֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.ra.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] garment of  |**<big>&#8207;[[H7897\|שִׁ֥ית]]&#8207; </big>**| shit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prostitute  |**<big>&#8207;[[H2181\|ז֝וֹנָ֗ה]]&#8207; </big>**| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and guarded of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5341\|נְצֻ֥רַת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.Tzu.rat<small><sup>[[HVqsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.9|<< Proverbs 7:9]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.11|Proverbs 7:11 >>]]</td></tr></table>
 
 

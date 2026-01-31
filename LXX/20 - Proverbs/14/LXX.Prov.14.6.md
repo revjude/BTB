@@ -7,19 +7,19 @@ A scorner seeketh wisdom, and [findeth it] not: but knowledge [is] easy unto him
 A mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.<small><sub>**MT:**</sub></small>
 [[Prov.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.5|<< Proverbs 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.7|Proverbs 14:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall seek | <big><span class="asgreek">ζητήσεις</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| bad men, | <big><span class="asgreek">κακοίς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find \[it\]; | <big><span class="asgreek">ευρήσεις</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| but good sense | <big><span class="asgreek">αίσθησις</span></big> <sup><small><small>[[G0144]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] intelligent | <big><span class="asgreek">φρονίμοις</span></big> <sup><small><small>[[G5429]]</small></small></sup> |
-| \[is\] easily managed. | <big><span class="asgreek">ευχερής</span></big> <sup><small><small>[[G7572]]</small></small></sup> |
+| You shall seek | **<big>[[G2212\|ζητήσεις]]</big>** |
+| wisdom | **<big>[[G4678\|σοφίαν]]</big>** |
+| with | **<big>[[G3844\|παρά]]</big>** |
+| bad men, | **<big>[[G2556\|κακοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουχ]]</big>** |
+| find \[it\]; | **<big>[[G2147\|ευρήσεις]]</big>** |
+| but good sense | **<big>[[G0144\|αίσθησις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] intelligent | **<big>[[G5429\|φρονίμοις]]</big>** |
+| \[is\] easily managed. | **<big>[[G7572\|ευχερής]]</big>** |
 [[Prov.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.5|<< Proverbs 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.7|Proverbs 14:7 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּדַל‎</span></big> **bâdal** <small>*(baw-dal')*</small> ==**to separate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּדַל‎</span></big>** **bâdal** <small>*(baw-dal')*</small> ==**to separate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (make, put) difference, divide (asunder), (make) separate (self, -ation), sever (out), [idiom] utterly.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **1b4)** to be separated
 $\quad$ $\quad$ **1b5)** to be excluded
 $\quad$ $\quad$ **1b6)** to be set apart
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">διαιρέω</span><sup><small>[[G1244]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">διαχωρίζομαι</span><sup><small>[[G1316]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">χωρίζω</span><sup><small>[[G5563]]</small></sup>
+<small>See Greek: </small>**<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G1244|διαιρέω]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1316|διαχωρίζομαι]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G5563|χωρίζω]]</big>**

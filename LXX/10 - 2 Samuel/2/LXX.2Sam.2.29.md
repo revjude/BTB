@@ -7,32 +7,32 @@ And Abner and his men walked all that night through the plain, and passed over J
 And all that night Abner and his men marched through the Arabah. They crossed the Jordan, marched all morning, and arrived at Mahanaim.<small><sub>**MT:**</sub></small>
 [[2Sam.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.28|<< 2 Samuel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.30|2 Samuel 2:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went forth | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] descent \[of the sun\], | <big><span class="asgreek">δυσμάς</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| \[and went\] all | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that night, | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνην</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| passed over | <big><span class="asgreek">διέβαινον</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| extent, | <big><span class="asgreek">παρατείνουσαν</span></big> <sup><small><small>[[G3905]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Camp. | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abner | **<big>[[H0074\|Αβενήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| went forth | **<big>[[G0565\|απήλθον]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| \[the\] descent \[of the sun\], | **<big>[[G1424\|δυσμάς]]</big>** |
+| \[and went\] all | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that night, | **<big>[[G3571\|νύκτα]]</big>** **<big>[[G1565\|εκείνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| passed over | **<big>[[G1224\|διέβαινον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| extent, | **<big>[[G3905\|παρατείνουσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|έρχονται]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Camp. | **<big>[[G3925\|παρεμβολάς]]</big>** |
 [[2Sam.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.28|<< 2 Samuel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.30|2 Samuel 2:30 >>]]</td></tr></table>
 
 

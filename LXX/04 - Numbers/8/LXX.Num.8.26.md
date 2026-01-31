@@ -7,30 +7,30 @@ But shall minister with their brethren in the tabernacle of the congregation, to
 After that, they may assist their brothers in fulfilling their duties at the Tent of Meeting, but they themselves are not to do the work. This is how you are to assign responsibilities to the Levites.”<small><sub>**MT:**</sub></small>
 [[Num.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.25|<< Numbers 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.1|Numbers 9:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall officiate | <big><span class="asgreek">λειτουργησεί</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| his brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \[the\] watches; | <big><span class="asgreek">φυλακάς</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| \[the\] works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| work | <big><span class="asgreek">εργάται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall you do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their watches. | <big><span class="asgreek">φυλακαίς</span></big> <sup><small><small>[[G5438]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall officiate | **<big>[[G3008\|λειτουργησεί]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| his brethren | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| tent | **<big>[[G4633\|σκηνή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| to guard | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| \[the\] watches; | **<big>[[G5438\|φυλακάς]]</big>** |
+| \[the\] works | **<big>[[G2041\|έργα]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| work | **<big>[[G2038\|εργάται]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shall you do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites | **<big>[[G3017\|Λευίταις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their watches. | **<big>[[G5438\|φυλακαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.25|<< Numbers 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.1|Numbers 9:1 >>]]</td></tr></table>
 
 

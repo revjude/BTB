@@ -4,9 +4,9 @@ Arabian living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Nebaioth</span>, the firstborn son of Ishmael, was the ancestor of a tribe known for their flocks and mentioned in Isaiah's prophecy of future blessing.
 - A man of the Arabs living at the time of the Patriarchs, first mentioned at [[Gen.25.13|Gen.25.13]]; 
-- only referred to as Nebaioth<[[H5032]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\); 
--  son of Ishmael<[[H3458G]]>; 
-- a brother of Kedar<[[H6938]]>, Adbeel<[[H0110]]>, Mibsam<[[H4017G]]>, Mishma<[[H4927G]]>, Dumah<[[H1746G]]>, Massa<[[H4854]]>, Hadad<[[H2301]]>, Tema<[[H8485G]]>, Jetur<[[H3195G]]>, Naphish<[[H5305]]>, Kedemah<[[H6929]]> and Mahalath<[[H4258G]]>.
+- only referred to as Nebaioth **<big>[[H5032|נְבָיוֹת]]</big>**; 
+-  son of Ishmael **<big>[[H3458|יִשְׁמָעֵאל]]</big>**; 
+- a brother of Kedar **<big>[[H6938|קֵדָר]]</big>**, Adbeel **<big>[[H0110|אַדְבְּאֵל]]</big>**, Mibsam **<big>[[H4017|מִבְשָׂם]]</big>**, Mishma **<big>[[H4927|מִשְׁמָע]]</big>**, Dumah **<big>[[H1746|דּוּמָה]]</big>**, Massa **<big>[[H4854|מַשָּׂא]]</big>**, Hadad **<big>[[H2301|חֲדַד]]</big>**, Tema **<big>[[H8485|תֵּימָא]]</big>**, Jetur **<big>[[H3195|יְטוּר]]</big>**, Naphish **<big>[[H5305|נָפִישׁ]]</big>**, Kedemah **<big>[[H6929|קֵדְמָה]]</big>** and Mahalath **<big>[[H4258|מַחֲלַת]]</big>**.
 
 Nebaioth was the firstborn son of Ishmael, the son of Abraham and Hagar \([[Gen.25.13|Genesis 25:13]]; [[1Chr.1.29|1 Chronicles 1:29]]\). As a descendant of Abraham through Ishmael, Nebaioth became the ancestor of a nomadic tribe that bore his name. 
 
@@ -20,8 +20,8 @@ While little is known about Nebaioth as an individual, his legacy as the ancesto
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nebaioth (KJV= Nebajoth) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H5032) <small>*Hebrew*</small> | 5x | [[Gen.25.13] ... [Isa.60.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebaioth\*\|reference=Gen.25.13;Gen.28.9;Gen.36.3;1Ch.1.29;Isa.60.7) |
-All Strong's for **Nebaioth**: \[[[H5032]]\]
+| Nebaioth (KJV= Nebajoth) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H5032) | 5x | [[Gen.25.13] ... [Isa.60.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebaioth\*\|reference=Gen.25.13;Gen.28.9;Gen.36.3;1Ch.1.29;Isa.60.7) |
+All entries for **Nebaioth**:  **<big>[[H5032|נְבָיוֹת]]</big>**
 #### Related Profiles:
 - **[Ishmael](H3458G)** (father)
 - **[Kedar](H6938)** (sibling)

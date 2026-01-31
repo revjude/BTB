@@ -6,16 +6,16 @@ Then the servant told Isaac all that he had done.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.65|<< Genesis 24:65]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.67|Genesis 24:67 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he recounted  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְסַפֵּ֥ר </big></span><small><small><sup>[[H5608A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.sa.Per <small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the servant  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֶ֖בֶד </big></span><small><small><sup>[[H5650]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'E.ved <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Isaac  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יִצְחָ֑ק </big></span><small><small><sup>[[H3327]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> yitz.Chak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֥ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the things  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דְּבָרִ֖ים </big></span><small><small><sup>[[H1697I]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> de.va.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had done  | <span class="ashebrew"><big>עָשָֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he recounted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5608A\|יְסַפֵּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Per<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the servant  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5650\|עֶ֖בֶד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Isaac  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3327\|יִצְחָ֑ק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the things  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דְּבָרִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had done  |**<big>&#8207;[[H6213A\|עָשָֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.65|<< Genesis 24:65]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.67|Genesis 24:67 >>]]</td></tr></table>
 
 

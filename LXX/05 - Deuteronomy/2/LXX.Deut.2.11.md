@@ -7,22 +7,22 @@ Which also were accounted giants, as the Anakims; but the Moabites call them Emi
 Like the Anakites, they were also regarded as Rephaim, though the Moabites called them Emites.<small><sub>**MT:**</sub></small>
 [[Deut.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.10|<< Deuteronomy 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.12|Deuteronomy 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| of the Raphaim | <big><span class="asgreek">Ραφαϊμ</span></big> <sup><small><small>[[H7497b]]</small></small></sup> |
-| shall be considered | <big><span class="asgreek">λογισθήσονται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Anakim; | <big><span class="asgreek">Ενακίμ</span></big> <sup><small><small>[[H6062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moabites | <big><span class="asgreek">Μωαβίται</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
-| named | <big><span class="asgreek">επονομάζουσιν</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Emim. | <big><span class="asgreek">Σομμίν</span></big> <sup><small><small>[[H0368]]</small></small></sup> |
+| of the Raphaim | **<big>[[H7497b\|Ραφαϊμ]]</big>** |
+| shall be considered | **<big>[[G3049\|λογισθήσονται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Anakim; | **<big>[[H6062\|Ενακίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Moabites | **<big>[[H4124\|Μωαβίται]]</big>** |
+| named | **<big>[[G2028\|επονομάζουσιν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Emim. | **<big>[[H0368\|Σομμίν]]</big>** |
 [[Deut.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.10|<< Deuteronomy 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.12|Deuteronomy 2:12 >>]]</td></tr></table>
 
 

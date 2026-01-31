@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁבוּעַ‎</span></big> **shâbûwaʻ** <small>*(shaw-boo'-ah)*</small> ==**Weeks**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">שָׁבֻעַ</span> **shâbuaʻ** <small>*(shawboo'-ah)*</small>; also (feminine) <span class="ashebrew">שְׁבֻעָה</span> **shᵉbuʻâh** <small>*(sheb-oo-aw')*</small>; properly, passive participle of <span class="ashebrew">‎שָׁבַע‎</span><sup><small>[[H7650]]</small></sup> as a denominative of <span class="ashebrew">‎שֶׁבַע‎</span><sup><small>[[H7651]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁבוּעַ‎</span></big>** **shâbûwaʻ** <small>*(shaw-boo'-ah)*</small> ==**Weeks**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׁבֻעַ</span></big>** **shâbuaʻ** <small>*(shawboo'-ah)*</small>; also (feminine) **<big><span class="ashebrew">שְׁבֻעָה</span></big>** **shᵉbuʻâh** <small>*(sheb-oo-aw')*</small>; properly, passive participle of **<big>[[H7650|‎שָׁבַע‎]]</big>** as a denominative of **<big>[[H7651|‎שֶׁבַע‎]]</big>**</small>
 
 $\quad$ seven, week.
 - literally, ***sevened***, i.e. ***a week*** (specifically, of years)

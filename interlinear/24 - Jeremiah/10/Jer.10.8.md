@@ -6,15 +6,15 @@ But they are altogether senseless and foolish, instructed by worthless idols mad
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.7|<< Jeremiah 10:7]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.9|Jeremiah 10:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and in one  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אַחַ֖ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'a.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are stupid  | <span class="ashebrew"><big>יִבְעֲר֣וּ </big></span><small><small><sup>[[H1197B]]</sup></small></small> &#8207;| yiv.'a.Ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may be foolish  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִכְסָ֑לוּ </big></span><small><small><sup>[[H3688]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yikh.Sa.lu <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] correction of  | <span class="ashebrew"><big>מוּסַ֥ר </big></span><small><small><sup>[[H4148H]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| futilities  | <span class="ashebrew"><big>הֲבָלִ֖ים </big></span><small><small><sup>[[H1892]]</sup></small></small> &#8207;| ha.va.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] wood  | <span class="ashebrew"><big>עֵ֥ץ </big></span><small><small><sup>[[H6086G]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in one  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0259\|אַחַ֖ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are stupid  |**<big>&#8207;[[H1197B\|יִבְעֲר֣וּ]]&#8207; </big>**| yiv.'a.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may be foolish  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3688\|יִכְסָ֑לוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yikh.Sa.lu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] correction of  |**<big>&#8207;[[H4148H\|מוּסַ֥ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| futilities  |**<big>&#8207;[[H1892\|הֲבָלִ֖ים]]&#8207; </big>**| ha.va.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] wood  |**<big>&#8207;[[H6086G\|עֵ֥ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.7|<< Jeremiah 10:7]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.9|Jeremiah 10:9 >>]]</td></tr></table>
 
 

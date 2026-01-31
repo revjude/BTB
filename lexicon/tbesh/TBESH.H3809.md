@@ -1,4 +1,3 @@
-<span class="asaramaic">‎לָא‎</span> <small>***(la)***</small> ==**not**==  <sup><small>[[TEHMC#A:Neg|A:Neg]]</small></sup> 
-Aramaic of: <small>[[H3808]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3808|לֹא]]</big>**</small> 
 
-- Aramaic of <i>lo</i> (<span class='ashebrew'>‎ל‎</span>ֹ<span class='ashebrew'>‎א‎</span> "not" [[H3808]])
+- Aramaic of <i>lo</i> (<span class='ashebrew'>‎ל‎</span>ֹ<span class='ashebrew'>‎א‎</span> "not" **<big>[[H3808|לֹא]]</big>**)

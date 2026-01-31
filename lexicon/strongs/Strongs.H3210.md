@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָלוֹן‎</span></big> **Yâlôwn** <small>*(yaw-lone')*</small> ==**Jalon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎לוּן‎</span><sup><small>[[H3885]]</small></sup>; lodging</small>
+**<big><span class="ashebrew">‎יָלוֹן‎</span></big>** **Yâlôwn** <small>*(yaw-lone')*</small> ==**Jalon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3885|‎לוּן‎]]</big>**; lodging</small>
 
 $\quad$ Jalon.
 - § Jalon = *"Jehovah lodges"*

@@ -7,22 +7,22 @@ He shall lend to thee, and thou shalt not lend to him: he shall be the head, and
 He will lend to you, but you will not lend to him. He will be the head, and you will be the tail.<small><sub>**MT:**</sub></small>
 [[Deut.28.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.43|<< Deuteronomy 28:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.45|Deuteronomy 28:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall lend | <big><span class="asgreek">δανιεί</span></big> <sup><small><small>[[G1155]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to this one | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall not lend | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δανειείς</span></big> <sup><small><small>[[G1155]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] head, | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| and you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] tail. | <big><span class="asgreek">ουράν</span></big> <sup><small><small>[[G3769]]</small></small></sup> |
+| This one | **<big>[[G3778\|ούτος]]</big>** |
+| shall lend | **<big>[[G1155\|δανιεί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| but you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to this one | **<big>[[G3778\|τούτω]]</big>** |
+| shall not lend | **<big>[[G3756\|ου]]</big>** **<big>[[G1155\|δανειείς]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] head, | **<big>[[G2776\|κεφαλήν]]</big>** |
+| and you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will be | **<big>[[G1510\|έση]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] tail. | **<big>[[G3769\|ουράν]]</big>** |
 [[Deut.28.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.43|<< Deuteronomy 28:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.45|Deuteronomy 28:45 >>]]</td></tr></table>
 
 

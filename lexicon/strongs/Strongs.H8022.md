@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שַׁלְמַנְאֶסֶר‎</span></big> **Shalmanʼeçer** <small>*(shal-man-eh'-ser)*</small> ==**Shalmaneser**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שַׁלְמַנְאֶסֶר‎</span></big>** **Shalmanʼeçer** <small>*(shal-man-eh'-ser)*</small> ==**Shalmaneser**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign derivation</small>
 
-$\quad$ Shalmaneser. Comp <span class="ashebrew">‎שַׁלְמַן‎</span><sup><small>[[H8020]]</small></sup>.
+$\quad$ Shalmaneser. Comp **<big>[[H8020|‎שַׁלְמַן‎]]</big>**.
 - § Shalmaneser = *"fire-worshipper"*
 - ***Shalmaneser***, an Assyrian king
 

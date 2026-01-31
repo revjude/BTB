@@ -7,38 +7,38 @@ And he took their king’s crown from off his head, the weight whereof [was] a t
 Then he took the crown from the head of their king. It weighed a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.<small><sub>**MT:**</sub></small>
 [[2Sam.12.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.29|<< 2 Samuel 12:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.31|2 Samuel 12:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crown | <big><span class="asgreek">στέφανον</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its weight | <big><span class="asgreek">σταθμός</span></big> <sup><small><small>[[G9150]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was a talent | <big><span class="asgreek">τάλαντον</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of precious | <big><span class="asgreek">τιμίου</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| he brought forth | <big><span class="asgreek">εξήνεγκε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| crown | **<big>[[G4735\|στέφανον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their king | **<big>[[G0935\|βασιλέως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his head. | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| its weight | **<big>[[G9150\|σταθμός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was a talent | **<big>[[G5007\|τάλαντον]]</big>** |
+| of gold, | **<big>[[G5553\|χρυσίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stone | **<big>[[G3037\|λίθου]]</big>** |
+| of precious | **<big>[[G5093\|τιμίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was | **<big>[[G1510\|ην]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of David. | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoils | **<big>[[G4661\|σκύλα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| he brought forth | **<big>[[G1627\|εξήνεγκε]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
 [[2Sam.12.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.29|<< 2 Samuel 12:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.31|2 Samuel 12:31 >>]]</td></tr></table>
 
 

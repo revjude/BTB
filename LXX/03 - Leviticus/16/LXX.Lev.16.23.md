@@ -7,30 +7,30 @@ And Aaron shall come into the tabernacle of the congregation, and shall put off 
 Then Aaron is to enter the Tent of Meeting, take off the linen garments he put on before entering the Most Holy Place, and leave them there.<small><sub>**MT:**</sub></small>
 [[Lev.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.22|<< Leviticus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.24|Leviticus 16:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony, | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall take off | <big><span class="asgreek">εκδύσεται</span></big> <sup><small><small>[[G1562]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparel | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flaxen linen | <big><span class="asgreek">λινήν</span></big> <sup><small><small>[[G8200]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he put on | <big><span class="asgreek">ενεδεδύκει</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| of his entering | <big><span class="asgreek">εισπορευόμενου</span></big> <sup><small><small>[[G1531]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\]. | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall put it aside | <big><span class="asgreek">αποθήσει</span></big> <sup><small><small>[[G0659]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Aaron shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony, | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall take off | **<big>[[G1562\|εκδύσεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| apparel | **<big>[[G4749\|στολήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| flaxen linen | **<big>[[G8200\|λινήν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he put on | **<big>[[G1746\|ενεδεδύκει]]</big>** |
+| of his entering | **<big>[[G1531\|εισπορευόμενου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| holy \[place\]. | **<big>[[G0039\|άγιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall put it aside | **<big>[[G0659\|αποθήσει]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Lev.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.22|<< Leviticus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.24|Leviticus 16:24 >>]]</td></tr></table>
 
 

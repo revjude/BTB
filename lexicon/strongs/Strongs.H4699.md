@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְצֻלָּה‎</span></big> **mᵉtsullâh** <small>*(mets-ool-law')*</small> ==**ravine**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָלַל‎</span><sup><small>[[H6751]]</small></sup></small>
+**<big><span class="ashebrew">‎מְצֻלָּה‎</span></big>** **mᵉtsullâh** <small>*(mets-ool-law')*</small> ==**ravine**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6751|‎צָלַל‎]]</big>**</small>
 
 $\quad$ bottom.
 - ***shade***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחִירָמִי‎</span></big> **ʼĂchîyrâmîy** <small>*(akh-ee-raw-mee')*</small> ==**Ahiramite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎אֲחִירָם‎</span><sup><small>[[H0297]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲחִירָמִי‎</span></big>** **ʼĂchîyrâmîy** <small>*(akh-ee-raw-mee')*</small> ==**Ahiramite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H0297|‎אֲחִירָם‎]]</big>**</small>
 
 $\quad$ Ahiramites.
 - § Ahiramite = *"brother of mother"*

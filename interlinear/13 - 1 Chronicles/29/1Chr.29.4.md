@@ -6,22 +6,22 @@ three thousand talents of gold (the gold of Ophir) and seven thousand talents of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.3|<< 1 Chronicles 29:3]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.5|1 Chronicles 29:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| three  | <span class="ashebrew"><big>שְׁלֹ֧שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Lo.shet <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֛ים </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| talents of  | <span class="ashebrew"><big>כִּכְּרֵ֥י </big></span><small><small><sup>[[H3603H]]</sup></small></small> &#8207;| ki.ke.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֖ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] gold of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>זְּהַ֣ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ze.Hav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ophir  | <span class="ashebrew"><big>אוֹפִ֑יר </big></span><small><small><sup>[[H0211H]]</sup></small></small> &#8207;| 'o.Fir <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and seven  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁבְעַ֨ת </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shiv.'At <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֤ים </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| talent[s] of  | <span class="ashebrew"><big>כִּכַּר </big></span><small><small><sup>[[H3603H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki.kar- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כֶּ֙סֶף֙ </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| ke.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| purified  | <span class="ashebrew"><big>מְזֻקָּ֔ק </big></span><small><small><sup>[[H2212]]</sup></small></small> &#8207;| me.zu.Kak <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to overlay  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ט֖וּחַ </big></span><small><small><sup>[[H2902A]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Tu.ach <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] walls of  | <span class="ashebrew"><big>קִיר֥וֹת </big></span><small><small><sup>[[H7023]]</sup></small></small> &#8207;| ki.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the houses  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּתִּֽים </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ba.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֧שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֛ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| talents of  |**<big>&#8207;[[H3603H\|כִּכְּרֵ֥י]]&#8207; </big>**| ki.ke.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] gold of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2091\|זְּהַ֣ב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ze.Hav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ophir  |**<big>&#8207;[[H0211H\|אוֹפִ֑יר]]&#8207; </big>**| 'o.Fir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שִׁבְעַ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֤ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| talent[s] of  |**<big>&#8207;[[H3603H\|כִּכַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki.kar-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כֶּ֙סֶף֙]]&#8207; </big>**| ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purified  |**<big>&#8207;[[H2212\|מְזֻקָּ֔ק]]&#8207; </big>**| me.zu.Kak<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to overlay  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H2902A\|ט֖וּחַ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Tu.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] walls of  |**<big>&#8207;[[H7023\|קִיר֥וֹת]]&#8207; </big>**| ki.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the houses  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.3|<< 1 Chronicles 29:3]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.5|1 Chronicles 29:5 >>]]</td></tr></table>
 
 

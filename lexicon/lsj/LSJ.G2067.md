@@ -1,4 +1,4 @@
-form of: <small>[[G2066]]</small> 
+form of: <small>**<big>[[G2066|ἐσθής]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἔσθησις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 

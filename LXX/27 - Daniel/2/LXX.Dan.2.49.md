@@ -7,35 +7,35 @@ Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, o
 And at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego to manage the province of Babylon, while Daniel remained in the king’s court.<small><sub>**MT:**</sub></small>
 [[Dan.2.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.48|<< Daniel 2:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.1|Daniel 3:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| asked | <big><span class="asgreek">ητήσατο</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| region | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| Meshach | <big><span class="asgreek">Μισάχ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abed-nego. | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Daniel | **<big>[[G1158\|Δανιήλ]]</big>** |
+| asked | **<big>[[G0154\|ητήσατο]]</big>** |
+| of | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| region | **<big>[[G5561\|χώρας]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| Meshach | **<big>[[H4336\|Μισάχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abed-nego. | **<big>[[H5665\|Αβδεναγώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Daniel | **<big>[[G1158\|Δανιήλ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[Dan.2.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.48|<< Daniel 2:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.1|Daniel 3:1 >>]]</td></tr></table>
 
 

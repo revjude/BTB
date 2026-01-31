@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סָכַל‎</span></big> **çâkal** <small>*(saw-kal')*</small> ==**be foolish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>for <span class="ashebrew">‎כָּסַל‎</span><sup><small>[[H3688]]</small></sup></small>
+**<big><span class="ashebrew">‎סָכַל‎</span></big>** **çâkal** <small>*(saw-kal')*</small> ==**be foolish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>for **<big>[[H3688|‎כָּסַל‎]]</big>**</small>
 
 $\quad$ do (make, play the, turn into) fool(-ish, -ishly, -ishness).
 - ***to be silly***

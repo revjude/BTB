@@ -1,8 +1,8 @@
 <small>*Alush • A campsite during Israel's wilderness journey.*</small>
 
 <span class='tipnrhighlight'>Alush</span>, an Israelite encampment between Dophkah and Rephidim during the Exodus.
-- A location near Dophkah<[[H1850]]> first mentioned at [[Num.33.13|Num.33.13]]; 
-- only referred to as Alush<[[H0442]]> \(<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>לו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- A location near Dophkah **<big>[[H1850|דׇּפְקָה]]</big>** first mentioned at [[Num.33.13|Num.33.13]]; 
+- only referred to as Alush **<big>[[H0442|אָלוּשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=28.770015,33.400460&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Alush was one of the places where the Israelites camped during their journey thr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alush | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>לו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ](H0442) <small>*Hebrew*</small> | 2x | [[Num.33.13] & [Num.33.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alush\*\|reference=Num.33.13;Num.33.14) |
-All Strong's for **Alush**: \[[[H0442]]\]
+| Alush | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>לו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ](H0442) | 2x | [[Num.33.13] & [Num.33.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alush\*\|reference=Num.33.13;Num.33.14) |
+All entries for **Alush**:  **<big>[[H0442|אָלוּשׁ]]</big>**

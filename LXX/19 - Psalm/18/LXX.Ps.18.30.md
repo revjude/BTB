@@ -7,23 +7,23 @@
 As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.<small><sub>**MT:**</sub></small>
 [[Ps.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.29|<< Psalm 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.31|Psalm 18:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My God -- | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unblemished \[is\] | <big><span class="asgreek">άμωμος</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way. | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracles | <big><span class="asgreek">λόγια</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| are tried by fire. | <big><span class="asgreek">πεπυρωμένα</span></big> <sup><small><small>[[G4448]]</small></small></sup> |
-| He is a defender | <big><span class="asgreek">υπερασπιστής</span></big> <sup><small><small>[[G9544]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hoping | <big><span class="asgreek">ελπιζόντων</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My God -- | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| unblemished \[is\] | **<big>[[G0299\|άμωμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his way. | **<big>[[G3598\|οδός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| oracles | **<big>[[G3051\|λόγια]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| are tried by fire. | **<big>[[G4448\|πεπυρωμένα]]</big>** |
+| He is a defender | **<big>[[G9544\|υπερασπιστής]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| hoping | **<big>[[G1679\|ελπιζόντων]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ps.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.29|<< Psalm 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.31|Psalm 18:31 >>]]</td></tr></table>
 
 

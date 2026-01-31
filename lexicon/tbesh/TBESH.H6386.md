@@ -1,3 +1,1 @@
-<span class="asaramaic">‎פְּלַג‎</span> <small>***(pe.lag)***</small> ==**to divide**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H6385]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H6385|פָּלַג]]</big>**</small>

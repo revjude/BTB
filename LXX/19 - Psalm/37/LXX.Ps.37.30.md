@@ -7,17 +7,17 @@ The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
 The mouth of the righteous man utters wisdom, and his tongue speaks justice.<small><sub>**MT:**</sub></small>
 [[Ps.37.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.29|<< Psalm 37:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.31|Psalm 37:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] just | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| shall meditate upon | <big><span class="asgreek">μελετήσει</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
-| wisdom, | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall speak | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| equity. | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| \[The\] mouth | **<big>[[G4750\|στόμα]]</big>** |
+| of \[the\] just | **<big>[[G1342\|δικαίου]]</big>** |
+| shall meditate upon | **<big>[[G3191\|μελετήσει]]</big>** |
+| wisdom, | **<big>[[G4678\|σοφίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his tongue | **<big>[[G1100\|γλώσσα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall speak | **<big>[[G2980\|λαλήσει]]</big>** |
+| equity. | **<big>[[G2920\|κρίσιν]]</big>** |
 [[Ps.37.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.29|<< Psalm 37:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.31|Psalm 37:31 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ And the destruction of the transgressors and of the sinners [shall be] together,
 But rebels and sinners will together be shattered, and those who forsake the LORD will perish.<small><sub>**MT:**</sub></small>
 [[Isa.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.27|<< Isaiah 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.29|Isaiah 1:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be broken | <big><span class="asgreek">συντριβήσονται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| together; | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones abandoning | <big><span class="asgreek">εγκαταλιπόντες</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall be finished off entirely. | <big><span class="asgreek">συντελεσθήσονται</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be broken | **<big>[[G4937\|συντριβήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| lawless ones | **<big>[[G0459\|άνομοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| together; | **<big>[[G0260\|άμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones abandoning | **<big>[[G1459\|εγκαταλιπόντες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| shall be finished off entirely. | **<big>[[G4931\|συντελεσθήσονται]]</big>** |
 [[Isa.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.27|<< Isaiah 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.29|Isaiah 1:29 >>]]</td></tr></table>
 
 

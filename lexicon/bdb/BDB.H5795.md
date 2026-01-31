@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H6049]]</small>
+<small>Aramaic form: **<big>[[H6049|עָנַן]]</big>**</small>
  <span class="bdbLangHebrew">‎עֵז‎</span><sub>74</sub> **noun feminine**<sup>[[Gen.15.9|Gen 15:9]]</sup> **she-goat**; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Gen.15.9|Gen 15:9]] + 6 t.; plural <span class="bdbLangHebrew">‎עַזִּים‎</span> [[Gen.27.9|Gen 27:9]] + 65 t.; suffix <span class="bdbLangHebrew">‎עִזֶּיךָ‎</span> [[Gen.31.38|Gen 31:38]] — 
 
 **1.** as property [[Gen.30.32|Gen 30:32]]; [[Gen.30.33|Gen 30:33]]; [[Gen.30.35|Gen 30:35]] ([[BDB#J|J]]), [[Gen.31.15|Gen 31:15]]; [[Gen.31.38|Gen 31:38]] ([[BDB#E|E]]), [[1Sam.25.2|1Sam 25:2]]. 

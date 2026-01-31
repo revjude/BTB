@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָבַט‎</span></big> **lâbaṭ** <small>*(law-bat')*</small> ==**to ruin**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָבַט‎</span></big>** **lâbaṭ** <small>*(law-bat')*</small> ==**to ruin**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fall.

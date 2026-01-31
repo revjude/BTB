@@ -7,29 +7,29 @@ And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another pi
 And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory, near the angle in the wall.<small><sub>**MT:**</sub></small>
 [[Neh.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| repaired | <big><span class="asgreek">εκράτησεν</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ezer | <big><span class="asgreek">Αζούρ</span></big> <sup><small><small>[[H0687]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeshua | <big><span class="asgreek">Ιησού</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Mizpah | <big><span class="asgreek">Μασσηφά</span></big> <sup><small><small>[[H4709]]</small></small></sup> |
-| measured \[section\] | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| a second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| \[the\] ascending | <big><span class="asgreek">αναβάσεως</span></big> <sup><small><small>[[G6273]]</small></small></sup> |
-| \[unto\] the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weapons \[site\], | <big><span class="asgreek">όπλων</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| joining together | <big><span class="asgreek">συναπτούσης</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| corner. | <big><span class="asgreek">γωνίαν</span></big> <sup><small><small>[[G1137]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| repaired | **<big>[[G2902\|εκράτησεν]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Ezer | **<big>[[H0687\|Αζούρ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jeshua | **<big>[[G2424\|Ιησού]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Mizpah | **<big>[[H4709\|Μασσηφά]]</big>** |
+| measured \[section\] | **<big>[[G3358\|μέτρον]]</big>** |
+| a second | **<big>[[G1208\|δεύτερον]]</big>** |
+| right opposite | **<big>[[G7295\|εξεναντίας]]</big>** |
+| \[the\] ascending | **<big>[[G6273\|αναβάσεως]]</big>** |
+| \[unto\] the | **<big>[[G3588\|των]]</big>** |
+| weapons \[site\], | **<big>[[G3696\|όπλων]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| joining together | **<big>[[G9297\|συναπτούσης]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| corner. | **<big>[[G1137\|γωνίαν]]</big>** |
 [[Neh.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
 
 

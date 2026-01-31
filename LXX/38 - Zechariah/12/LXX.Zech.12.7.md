@@ -7,31 +7,31 @@ The LORD also shall save the tents of Judah first, that the glory of the house o
 The LORD will save the tents of Judah first, so that the glory of the house of David and of the people of Jerusalem may not be greater than that of Judah.<small><sub>**MT:**</sub></small>
 [[Zech.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.6|<< Zechariah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.8|Zechariah 12:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall deliver | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tents | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| at | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning, | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| magnify | <big><span class="asgreek">μεγαλύνηται</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| their boasting | <big><span class="asgreek">καύχημα</span></big> <sup><small><small>[[G2745]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] haughtiness | <big><span class="asgreek">επαρσις</span></big> <sup><small><small>[[G7371]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah. | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall deliver | **<big>[[G4982\|σώσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| tents | **<big>[[G4638\|σκηνώματα]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| at | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning, | **<big>[[G0746\|αρχής]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| magnify | **<big>[[G3170\|μεγαλύνηται]]</big>** |
+| their boasting | **<big>[[G2745\|καύχημα]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of David | **<big>[[G1138\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] haughtiness | **<big>[[G7371\|επαρσις]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Judah. | **<big>[[G2448\|Ιούδαν]]</big>** |
 [[Zech.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.6|<< Zechariah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.8|Zechariah 12:8 >>]]</td></tr></table>
 
 

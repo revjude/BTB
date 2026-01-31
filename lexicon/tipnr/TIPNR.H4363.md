@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Michmash</span>, a town in Benjamin where Saul camped \([[1Sam.13.2|1 Samuel 13:2]], 5, 11, 16, 23\) and near which Jonathan defeated a Philistine garrison \([[1Sam.14.5|1 Samuel 14:5]], 31\).
 - A location first mentioned at [[1Sam.13.2|1Sa.13.2]]; 
-- referred to as Michmash or Michmas \(NIV= Mikmash\) <[[H4363]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ס</span>, <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ׂ\).
+- referred to as Michmash or Michmas \(NIV= Mikmash\)  **<big>[[H4363|מִכְמָס]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.87018434231688,35.27923581936973&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Michmash was a town in the territory of Benjamin, located about 7 miles north of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Michmash (NIV= Mikmash) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ס</span>, <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ׂ](H4363) <small>*Hebrew*</small> | 9x | [[1Sa.13.2] ... [Isa.10.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michmash\*\|reference=1Sa.13.2;1Sa.13.5;1Sa.13.11;1Sa.13.16;1Sa.13.23;1Sa.14.5;1Sa.14.31;Neh.11.31;Isa.10.28) |
-| Michmas (NIV= Mikmash) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ס</span>, <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ׂ](H4363) <small>*Hebrew*</small> | 2x | [[Ezr.2.27] & [Neh.7.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michmas\*\|reference=Ezr.2.27;Neh.7.31) |
-All Strong's for **Michmash or Michmas**: \[[[H4363]]\]
+| Michmash (NIV= Mikmash) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ס</span>, <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ׂ](H4363) | 9x | [[1Sa.13.2] ... [Isa.10.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michmash\*\|reference=1Sa.13.2;1Sa.13.5;1Sa.13.11;1Sa.13.16;1Sa.13.23;1Sa.14.5;1Sa.14.31;Neh.11.31;Isa.10.28) |
+| Michmas (NIV= Mikmash) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ס</span>, <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ׂ](H4363) | 2x | [[Ezr.2.27] & [Neh.7.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Michmas\*\|reference=Ezr.2.27;Neh.7.31) |
+All entries for **Michmash or Michmas**:  **<big>[[H4363|מִכְמָס]]</big>**

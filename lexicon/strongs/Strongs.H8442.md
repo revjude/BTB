@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תּוֹעָה‎</span></big> **tôwʻâh** <small>*(to-aw')*</small> ==**error**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎תָּעָה‎</span><sup><small>[[H8582]]</small></sup></small>
+**<big><span class="ashebrew">‎תּוֹעָה‎</span></big>** **tôwʻâh** <small>*(to-aw')*</small> ==**error**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine active participle of **<big>[[H8582|‎תָּעָה‎]]</big>**</small>
 
 $\quad$ error, hinder.
 - ***mistake***, i.e. (morally) ***impiety***, or (political) ***injury***
@@ -8,4 +8,4 @@ $\quad$ error, hinder.
 $\quad$ **1a)** error (in morals and religion)
 $\quad$ **1b)** confusion, disturbance
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σείω</span><sup><small>[[G4579]]</small></sup>
+<small>See Greek: </small>**<big>[[G4579|σείω]]</big>**

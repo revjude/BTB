@@ -7,22 +7,22 @@ Leah [was] tender eyed; but Rachel was beautiful and well favoured.
 Leah had weak eyes, but Rachel was shapely and beautiful.<small><sub>**MT:**</sub></small>
 [[Gen.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.16|<< Genesis 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.18|Genesis 29:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of Leah | <big><span class="asgreek">Λείας</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| \[were\] weak, | <big><span class="asgreek">ασθενείς</span></big> <sup><small><small>[[G0772]]</small></small></sup> |
-| but Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| good | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sight, | <big><span class="asgreek">είδει</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραία</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in appearance -- | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| But the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοί]]</big>** |
+| of Leah | **<big>[[H3812\|Λείας]]</big>** |
+| \[were\] weak, | **<big>[[G0772\|ασθενείς]]</big>** |
+| but Rachel | **<big>[[G4478\|Ραχήλ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| good | **<big>[[G2570\|καλή]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| sight, | **<big>[[G1491\|είδει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beautiful | **<big>[[G5611\|ωραία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in appearance -- | **<big>[[G3799\|όψει]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Gen.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.16|<< Genesis 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.18|Genesis 29:18 >>]]</td></tr></table>
 
 

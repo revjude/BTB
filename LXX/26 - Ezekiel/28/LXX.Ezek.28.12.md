@@ -7,31 +7,31 @@ Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus
 “Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty.<small><sub>**MT:**</sub></small>
 [[Ezek.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.11|<< Ezekiel 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.13|Ezekiel 28:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a lamentation | <big><span class="asgreek">θρήνον</span></big> <sup><small><small>[[G2355]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of Tyre, | <big><span class="asgreek">Τύρου</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You \[are\] | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a seal | <big><span class="asgreek">αποσφράγισμα</span></big> <sup><small><small>[[G6497]]</small></small></sup> |
-| of likeness | <big><span class="asgreek">ομοιώσεως</span></big> <sup><small><small>[[G3669]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| of wisdom, | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a crown | <big><span class="asgreek">στέφανος</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| of beauty. | <big><span class="asgreek">κάλλους</span></big> <sup><small><small>[[G7782]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| a lamentation | **<big>[[G2355\|θρήνον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| of Tyre, | **<big>[[G5184\|Τύρου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|ειπέ]]</big>** |
+| to him! | **<big>[[G1473\|αυτώ]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| You \[are\] | **<big>[[G1473\|συ]]</big>** |
+| a seal | **<big>[[G6497\|αποσφράγισμα]]</big>** |
+| of likeness | **<big>[[G3669\|ομοιώσεως]]</big>** |
+| full | **<big>[[G4134\|πλήρης]]</big>** |
+| of wisdom, | **<big>[[G4678\|σοφίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a crown | **<big>[[G4735\|στέφανος]]</big>** |
+| of beauty. | **<big>[[G7782\|κάλλους]]</big>** |
 [[Ezek.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.11|<< Ezekiel 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.13|Ezekiel 28:13 >>]]</td></tr></table>
 
 

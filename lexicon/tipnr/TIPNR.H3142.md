@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jushab-hesed</span> was one of the sons of Zerubbabel, a descendant of King Jehoiachin of Judah.
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.3.20|1Ch.3.20]]; 
-- only referred to as Jushab-hesed<[[H3142]]> \(<span class='tipnrLangHebrew'>י</span>֥<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ב</span> <span class='tipnrLangHebrew'>ח</span>ֶ֖<span class='tipnrLangHebrew'>ס</span>ֶ<span class='tipnrLangHebrew'>ד</span>\); 
--  son of Zerubbabel<[[H2216]]>; 
-- a brother of Meshullam<[[H4918H]]>, Hananiah<[[H2608L]]>, Shelomith<[[H8019I]]>, Hashubah<[[H2807]]>, Ohel<[[H0169]]>, Berechiah<[[H1296G]]>, Hasadiah<[[H2619]]> and Abiud<[[G0010]]>.
+- only referred to as Jushab-hesed **<big>[[H3142|יוּשַׁב חֶסֶד]]</big>**; 
+-  son of Zerubbabel **<big>[[H2216|זְרֻבָּבֶל]]</big>**; 
+- a brother of Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Hananiah **<big>[[H2608|חֲנַנְיָה]]</big>**, Shelomith **<big>[[H8019|שְׁלֹמִית]]</big>**, Hashubah **<big>[[H2807|חֲשֻׁבָה]]</big>**, Ohel **<big>[[H0169|אֹהֶל]]</big>**, Berechiah **<big>[[H1296|בֶּרֶכְיָה]]</big>**, Hasadiah **<big>[[H2619|חֲסַדְיָה]]</big>** and Abiud **<big>[[G0010|Ἀβιούδ]]</big>**.
 
 Jushab-hesed is mentioned in [[1Chr.3.20|1 Chronicles 3:20]] as one of the sons of Zerubbabel, a descendant of King Jehoiachin of Judah. The context of the passage is the genealogy of the royal line of David, focusing on the descendants of Jehoiachin after the Babylonian exile \(1 Chronicles 3:17-24\). 
 
@@ -18,8 +18,8 @@ The inclusion of Jushab-hesed in the genealogy of David's descendants demonstrat
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jushab-hesed | [<span class='tipnrLangHebrew'>י</span>֥<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ב</span> <span class='tipnrLangHebrew'>ח</span>ֶ֖<span class='tipnrLangHebrew'>ס</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H3142) <small>*Hebrew*</small> | 1x | [1Ch.3.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jushab\*\|reference=1Ch.3.20) |
-All Strong's for **Jushab-hesed**: \[[[H3142]]\]
+| Jushab-hesed | [<span class='tipnrLangHebrew'>י</span>֥<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ב</span> <span class='tipnrLangHebrew'>ח</span>ֶ֖<span class='tipnrLangHebrew'>ס</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H3142) | 1x | [1Ch.3.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jushab\*\|reference=1Ch.3.20) |
+All entries for **Jushab-hesed**:  **<big>[[H3142|יוּשַׁב חֶסֶד]]</big>**
 #### Related Profiles:
 - **[Zerubbabel](H2216)** (father)
 - **[Meshullam](H4918H)** (sibling)

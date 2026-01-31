@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּמַרְיָה‎</span></big> **Gᵉmaryâh** <small>*(ghem-ar-yaw')*</small> ==**Gemariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">גְּמַרְיָהוּ</span> **Gᵉmaryâhûw** <small>*(ghem-ar-yaw'-hoo)*</small>; from <span class="ashebrew">‎גָּמַר‎</span><sup><small>[[H1584]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has perfected</small>
+**<big><span class="ashebrew">‎גְּמַרְיָה‎</span></big>** **Gᵉmaryâh** <small>*(ghem-ar-yaw')*</small> ==**Gemariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">גְּמַרְיָהוּ</span></big>** **Gᵉmaryâhûw** <small>*(ghem-ar-yaw'-hoo)*</small>; from **<big>[[H1584|‎גָּמַר‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has perfected</small>
 
 $\quad$ Gemariah.
 - § Gemariah = *"Jehovah has accomplished"*

@@ -1,8 +1,8 @@
 <small>*Zeredah\_1 • The hometown of Jeroboam, first king of Israel*</small>
 
 <span class='tipnrhighlight'>Zeredah</span> was the hometown of Jeroboam, who became the first king of the northern kingdom of Israel \([[1Kgs.11.26|1Ki.11.26]]\).
-- A location near Ebal\_Mount<[[H5858C]]> only mentioned at [[1Kgs.11.26|1Ki.11.26]]; 
-- only referred to as Zeredah<[[H6868G]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Ebal\_Mount **<big>[[H5858|עֵיבָל]]</big>** only mentioned at [[1Kgs.11.26|1Ki.11.26]]; 
+- only referred to as Zeredah **<big>[[H6868|צְרֵדָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.23293813761263,35.27304180036391&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Zeredah is mentioned in the Bible as the hometown of Jeroboam, the first king of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zeredah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6868G) <small>*Hebrew*</small> | 1x | [1Ki.11.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeredah\*\|reference=1Ki.11.26) |
-All Strong's for **Zeredah**: \[[[H6868G]]\]
+| Zeredah | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6868G) | 1x | [1Ki.11.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeredah\*\|reference=1Ki.11.26) |
+All entries for **Zeredah**:  **<big>[[H6868|צְרֵדָה]]</big>**

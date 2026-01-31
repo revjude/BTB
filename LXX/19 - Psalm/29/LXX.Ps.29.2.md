@@ -7,19 +7,19 @@ Give unto the LORD the glory due unto his name; worship the LORD in the beauty o
 Ascribe to the LORD the glory due His name; worship the LORD in the splendor of His holiness.<small><sub>**MT:**</sub></small>
 [[Ps.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.1|<< Psalm 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.3|Psalm 29:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of his name! | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do obeisance | <big><span class="asgreek">προσκυνήσατε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| his holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Bring | **<big>[[G5342\|ενέγκατε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \[the\] glory | **<big>[[G1391\|δόξαν]]</big>** |
+| of his name! | **<big>[[G3686\|ονόματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Do obeisance | **<big>[[G4352\|προσκυνήσατε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| his holy | **<big>[[G0039\|αγία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.1|<< Psalm 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.3|Psalm 29:3 >>]]</td></tr></table>
 
 

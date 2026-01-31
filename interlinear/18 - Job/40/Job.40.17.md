@@ -6,18 +6,18 @@ His tail sways like a cedar; the sinews of his thighs are tightly knit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.16|<< Job 40:16]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.18|Job 40:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it stiffens  | <span class="ashebrew"><big>יַחְפֹּ֣ץ </big></span><small><small><sup>[[H2654B]]</sup></small></small> &#8207;| yach.Potz <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tail its  | <span class="ashebrew"><big>זְנָב֣ </big></span><small><small><sup>[[H2180]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ze.na.V <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khe.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cedar  | <span class="ashebrew"><big>אָ֑רֶז </big></span><small><small><sup>[[H0730]]</sup></small></small> &#8207;| 'A.rez <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sinews of  | <span class="ashebrew"><big>גִּידֵ֖י </big></span><small><small><sup>[[H1517]]</sup></small></small> &#8207;| gi.Dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thighs its  [^2] | <span class="ashebrew"><big>פַחֲדָ֣י </big></span><small><small><sup>[[H6344]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;[^3] | fa.cha.do <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| they are intertwined  | <span class="ashebrew"><big>יְשֹׂרָֽגוּ </big></span><small><small><sup>[[H8276]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.so.Ra.gu <small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it stiffens  |**<big>&#8207;[[H2654B\|יַחְפֹּ֣ץ]]&#8207; </big>**| yach.Potz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tail its  |**<big>&#8207;[[H2180\|זְנָב֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ze.na.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khe.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cedar  |**<big>&#8207;[[H0730\|אָ֑רֶז]]&#8207; </big>**| 'A.rez<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sinews of  |**<big>&#8207;[[H1517\|גִּידֵ֖י]]&#8207; </big>**| gi.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thighs its  [^2]|**<big>&#8207;[[H6344\|פַחֲדָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^3] | fa.cha.do<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| they are intertwined  |**<big>&#8207;[[H8276\|יְשֹׂרָֽגוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.so.Ra.gu<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.16|<< Job 40:16]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.18|Job 40:18 >>]]</td></tr></table>
 
-[^1]: ==K==: **thigh its ** | <small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H6344]]</sup></small> <span class="ashebrew"><big>פַחֲד</big></span>  | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: **thigh its ** | <small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H6344]]</sup></small> <span class="ashebrew"><big>פַחֲד</big></span>  | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^1]: ==K==: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>פַחֲדָ֣ו</big></span>**
 

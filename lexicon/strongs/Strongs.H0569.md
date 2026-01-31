@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַמְרָפֶל‎</span></big> **ʼAmrâphel** <small>*(am-raw-fel')*</small> ==**Amraphel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אַמְרָפֶל‎</span></big>** **ʼAmrâphel** <small>*(am-raw-fel')*</small> ==**Amraphel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain (perhaps foreign) derivation</small>
 
 $\quad$ Amraphel.

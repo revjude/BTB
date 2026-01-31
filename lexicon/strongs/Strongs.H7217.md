@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎רֵאשׁ‎</span></big> **rêʼsh** <small>*(raysh)*</small> ==**head**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎רֹאשׁ‎</span><sup><small>[[H7218]]</small></sup></small>
+**<big><span class="asaramaic">‎רֵאשׁ‎</span></big>** **rêʼsh** <small>*(raysh)*</small> ==**head**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7218|‎רֹאשׁ‎]]</big>**</small>
 
 $\quad$ chief, head, sum.
 - ***the head***

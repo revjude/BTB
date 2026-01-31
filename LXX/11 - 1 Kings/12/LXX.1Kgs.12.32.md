@@ -7,54 +7,54 @@ And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the m
 And Jeroboam ordained a feast on the fifteenth day of the eighth month, like the feast that was in Judah, and he offered sacrifices on the altar; he made this offering in Bethel to sacrifice to the calves he had set up, and he installed priests in Bethel for the high places he had set up.<small><sub>**MT:**</sub></small>
 [[1Kgs.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.31|<< 1 Kings 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.33|1 Kings 12:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeroboam made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| a holiday \[feast\] | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eighth | <big><span class="asgreek">ογδόω</span></big> <sup><small><small>[[G3590]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifteenth | <big><span class="asgreek">πεντεκαιδεκάτη</span></big> <sup><small><small>[[G4003]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday, | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah. | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sacrifice | <big><span class="asgreek">θύειν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heifers | <big><span class="asgreek">δαμάλεσιν</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he made. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">παρέστησεν</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Beth-el | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\] | <big><span class="asgreek">υψηλών</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he made. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeroboam made | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| a holiday \[feast\] | **<big>[[G1859\|εορτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| eighth | **<big>[[G3590\|ογδόω]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| fifteenth | **<big>[[G4003\|πεντεκαιδεκάτη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| holiday, | **<big>[[G1859\|εορτήν]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Beth-el, | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sacrifice | **<big>[[G2380\|θύειν]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| heifers | **<big>[[G1151\|δαμάλεσιν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| he made. | **<big>[[G4160\|εποίησε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G3936\|παρέστησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Beth-el | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| high \[places\] | **<big>[[G5308\|υψηλών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| he made. | **<big>[[G4160\|εποίησε]]</big>** |
 [[1Kgs.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.31|<< 1 Kings 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.33|1 Kings 12:33 >>]]</td></tr></table>
 
 

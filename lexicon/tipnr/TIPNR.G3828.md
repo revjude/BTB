@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pamphylia</span> was a Roman province on the southern coast of Asia Minor, visited by Paul and Barnabas during their missionary journeys.
 - A location first mentioned at [[Gen.31.24|Act.2.10]]; 
-- only referred to as Pamphylia<[[G3828]]> \(<span class='tipnrLangGreek'>Παμφυλία</span>\).
+- only referred to as Pamphylia **<big>[[G3828|Παμφυλία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.00520811721595,30.90494591606115&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The province of Pamphylia was known for its coastal cities, such as Perga and At
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pamphylia | [<span class='tipnrLangGreek'>Παμφυλία</span>](G3828) <small>*Greek*</small> | 5x | [[Act.2.10] ... [Act.27.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pamphylia\*\|reference=Act.2.10;Act.13.13;Act.14.24;Act.15.38;Act.27.5) |
-All Strong's for **Pamphylia**: \[[[G3828]]\]
+| Pamphylia | [<span class='tipnrLangGreek'>Παμφυλία</span>](G3828) | 5x | [[Act.2.10] ... [Act.27.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pamphylia\*\|reference=Act.2.10;Act.13.13;Act.14.24;Act.15.38;Act.27.5) |
+All entries for **Pamphylia**:  **<big>[[G3828|Παμφυλία]]</big>**

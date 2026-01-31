@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כֹּהֵן‎</span></big> **kôhên** <small>*(ko-hane')*</small> ==**priest**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>active participle of <span class="ashebrew">‎כָּהַן‎</span><sup><small>[[H3547]]</small></sup></small>
+**<big><span class="ashebrew">‎כֹּהֵן‎</span></big>** **kôhên** <small>*(ko-hane')*</small> ==**priest**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>active participle of **<big>[[H3547|‎כָּהַן‎]]</big>**</small>
 
 $\quad$ chief ruler, [idiom] own, priest, prince, principal officer.
 - literally ***one officiating***, ***a priest***

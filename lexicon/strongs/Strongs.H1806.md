@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דְּלָיָה‎</span></big> **Dᵉlâyâh** <small>*(del-aw-yaw')*</small> ==**Delaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (prolonged) <span class="ashebrew">דְּלָיָהוּ</span> **Dᵉlâyâhûw** <small>*(del-aw-yaw'-hoo)*</small>; from <span class="ashebrew">‎דָּלָה‎</span><sup><small>[[H1802]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has delivered</small>
+**<big><span class="ashebrew">‎דְּלָיָה‎</span></big>** **Dᵉlâyâh** <small>*(del-aw-yaw')*</small> ==**Delaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (prolonged) **<big><span class="ashebrew">דְּלָיָהוּ</span></big>** **Dᵉlâyâhûw** <small>*(del-aw-yaw'-hoo)*</small>; from **<big>[[H1802|‎דָּלָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has delivered</small>
 
 $\quad$ Dalaiah, Delaiah.
 - § Dalaiah or Delaiah = *"Jehovah has drawn"*

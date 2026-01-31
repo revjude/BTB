@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁמַע‎</span></big> **shᵉmaʻ** <small>*(shem-ah')*</small> ==**to hear**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁמַע‎</span></big>** **shᵉmaʻ** <small>*(shem-ah')*</small> ==**to hear**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8085|‎שָׁמַע‎]]</big>**</small>
 
 $\quad$ hear, obey.
 - {***to hear intelligently*** (often with implication of attention, obedience, etc.
@@ -9,4 +9,4 @@ $\quad$ hear, obey.
 $\quad$ **1a)** (P'al) to hear, have a sense of hearing
 $\quad$ **1b)** (Ithpael) to show oneself obedient
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πειθαρχέω</span><sup><small>[[G3980]]</small></sup>
+<small>See Greek: </small>**<big>[[G3980|πειθαρχέω]]</big>**

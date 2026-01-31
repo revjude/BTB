@@ -6,20 +6,20 @@ The rabbit, though it chews the cud, does not have a divided hoof; it is unclean
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.5|<< Leviticus 11:5]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.7|Leviticus 11:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the hare  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אַרְנֶ֗בֶת </big></span><small><small><sup>[[H0768]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'ar.Ne.vet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] bringing up  | <span class="ashebrew"><big>מַעֲלַ֤ת </big></span><small><small><sup>[[H5927M]]</sup></small></small> &#8207;| ma.'a.Lat <small><sup>[[HVhrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> cud  | <span class="ashebrew"><big>גֵּרָה֙ </big></span><small><small><sup>[[H1625]]</sup></small></small> &#8207;| ge.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֔וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a hoof  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פַרְסָ֖ה </big></span><small><small><sup>[[H6541]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> far.Sah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it divides in two  | <span class="ashebrew"><big>הִפְרִ֑יסָה </big></span><small><small><sup>[[H6536]]</sup></small></small> &#8207;| hif.Ri.sah <small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] unclean  | <span class="ashebrew"><big>טְמֵאָ֥ה </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| te.me.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֖וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hare  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0768\|אַרְנֶ֗בֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'ar.Ne.vet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] bringing up  |**<big>&#8207;[[H5927M\|מַעֲלַ֤ת]]&#8207; </big>**| ma.'a.Lat<small><sup>[[HVhrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> cud  |**<big>&#8207;[[H1625\|גֵּרָה֙]]&#8207; </big>**| ge.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֔וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a hoof  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6541\|פַרְסָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> far.Sah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it divides in two  |**<big>&#8207;[[H6536\|הִפְרִ֑יסָה]]&#8207; </big>**| hif.Ri.sah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] unclean  |**<big>&#8207;[[H2931\|טְמֵאָ֥ה]]&#8207; </big>**| te.me.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֖וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.5|<< Leviticus 11:5]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.7|Leviticus 11:7 >>]]</td></tr></table>
 
 

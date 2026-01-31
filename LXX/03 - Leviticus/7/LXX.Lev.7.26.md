@@ -7,24 +7,24 @@ Moreover ye shall eat no manner of blood, [whether it be] of fowl or of beast, i
 You must not eat the blood of any bird or animal in any of your dwellings.<small><sub>**MT:**</sub></small>
 [[Lev.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.25|<< Leviticus 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.27|Leviticus 7:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your house, | <big><span class="asgreek">κατοικία</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| either | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| \[or\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| birds. | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
+| All | **<big>[[G3956\|παν]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| eat | **<big>[[G2068\|έδεσθε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| of your house, | **<big>[[G2733\|κατοικία]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| either | **<big>[[G5037\|τε]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cattle | **<big>[[G2934\|κτηνών]]</big>** |
+| \[or\] | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| birds. | **<big>[[G4071\|πετεινών]]</big>** |
 [[Lev.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.25|<< Leviticus 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.27|Leviticus 7:27 >>]]</td></tr></table>
 
 

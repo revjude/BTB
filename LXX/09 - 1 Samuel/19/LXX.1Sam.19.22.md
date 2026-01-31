@@ -7,43 +7,43 @@ Then went he also to Ramah, and came to a great well that [is] in Sechu: and he 
 Finally, Saul himself left for Ramah and came to the large cistern at Secu, where he asked, “Where are Samuel and David?” “At Naioth in Ramah,” he was told.<small><sub>**MT:**</sub></small>
 [[1Sam.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.21|<< 1 Samuel 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.23|1 Samuel 19:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was enraged | <big><span class="asgreek">εθυμώθη</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
-| in anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ramah. | <big><span class="asgreek">Αρμαθαϊμ</span></big> <sup><small><small>[[H3117]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he comes | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| well | <big><span class="asgreek">φρέατος</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshing-floor | <big><span class="asgreek">άλω</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sechu. | <big><span class="asgreek">Σεχί</span></big> <sup><small><small>[[H7906]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he asked | <big><span class="asgreek">ηρώτησε</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Where \[are\] | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David? | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Naioth | <big><span class="asgreek">Ναβάθ</span></big> <sup><small><small>[[H5121]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Ramah. | <big><span class="asgreek">Ραμά</span></big> <sup><small><small>[[G4471]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was enraged | **<big>[[G2373\|εθυμώθη]]</big>** |
+| in anger | **<big>[[G3709\|οργή]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Ramah. | **<big>[[H3117\|Αρμαθαϊμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he comes | **<big>[[G2064\|έρχεται]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| well | **<big>[[G5421\|φρέατος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| threshing-floor | **<big>[[G0257\|άλω]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Sechu. | **<big>[[H7906\|Σεχί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he asked | **<big>[[G2065\|ηρώτησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| Where \[are\] | **<big>[[G4226\|που]]</big>** |
+| Samuel | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| David? | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Naioth | **<big>[[H5121\|Ναβάθ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Ramah. | **<big>[[G4471\|Ραμά]]</big>** |
 [[1Sam.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.21|<< 1 Samuel 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.23|1 Samuel 19:23 >>]]</td></tr></table>
 
 

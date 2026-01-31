@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אַרְכֻבָּה‎</span> <small>***(ar.khu.vah)***</small> ==**knee**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-Aramaic of: <small>[[H0086]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H0086|אַבְרֵךְ]]</big>**</small> 
 
-- Aramaic of <i>av.rekh</i> (<span class='ashebrew'>‎א‎</span>ַ<span class='ashebrew'>‎ב‎</span>ְ<span class='ashebrew'>‎ר‎</span>ֵ<span class='ashebrew'>‎ך‎</span>ְ "to bow" [[H0086]])
+- Aramaic of <i>av.rekh</i> (<span class='ashebrew'>‎א‎</span>ַ<span class='ashebrew'>‎ב‎</span>ְ<span class='ashebrew'>‎ר‎</span>ֵ<span class='ashebrew'>‎ך‎</span>ְ "to bow" **<big>[[H0086|אַבְרֵךְ]]</big>**)

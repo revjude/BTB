@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Μελχισεδέκ</span></span>, indecl., <span class="asgreek">ὁ</span> (Heb. <span class="ashebrew">מַלְכִּי צֶדֶק</span> <small><sup>[[H4442]]</sup></small>),</span>
+<span class="asform"><span class="asgreek"><span class="asbold">Μελχισεδέκ</span></span>, indecl., <span class="asgreek">ὁ</span> (Heb. **<big>[[H4442|מַלְכִּי צֶדֶק]]</big>**),</span>
 <span class="asitalic">Melchizedek</span>: [[Heb.5.6|He 5:6]], [[Heb.5.10|10]] [[Heb.6.20|6:20]] [[Heb.7.1|7:1]], [[Heb.7.10|10]], [[Heb.7.11|11]], [[Heb.7.15|15]], [[Heb.7.17|17]].†
 
 **Abbott-Smith References**

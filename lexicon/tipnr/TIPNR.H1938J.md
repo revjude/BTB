@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Hodaviah</span> \(also known as Hodevah or Judah\) was a Levite who returned to Jerusalem from Babylonian captivity and assisted in rebuilding the temple.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.40|Ezr.2.40]]; 
-- referred to as Hodaviah<[[H1938J]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Hodevah<[[H1937]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Judah \(NIV= Hodaviah\) <[[H3063L]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Hodaviah **<big>[[H1938|הוֹדַוְיָה]]</big>**, or Hodevah **<big>[[H1937|הוֹדְוָה]]</big>**, or Judah \(NIV= Hodaviah\)  **<big>[[H3063|יְהוּדָה]]</big>**.
 
 Hodaviah, also known as Hodevah or Judah, is mentioned in [[Ezra.2.40|Ezra 2:40]], [[Neh.7.43|Nehemiah 7:43]], and [[Ezra.3.9|Ezra 3:9]] as one of the Levites who returned to Jerusalem from Babylonian captivity. The Levites were the tribe responsible for assisting the priests in the temple service and worship. 
 
@@ -16,7 +16,7 @@ The variations in the name \(Hodaviah, Hodevah, and Judah\) may indicate differe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938J) <small>*Hebrew*</small> | 1x | [Ezr.2.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=Ezr.2.40) |
-| Hodevah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1937) <small>*Hebrew*</small> | 1x | [Neh.7.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodevah\*\|reference=Neh.7.43) |
-| Judah (NIV= Hodaviah) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3063L) <small>*Hebrew*</small> | 1x | [Ezr.3.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judah\*\|reference=Ezr.3.9) |
-All Strong's for **Hodaviah or Hodevah or Judah**: \[[[H1938J]]\] \[[[H1937]]\] \[[[H3063L]]\]
+| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938J) | 1x | [Ezr.2.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=Ezr.2.40) |
+| Hodevah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1937) | 1x | [Neh.7.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodevah\*\|reference=Neh.7.43) |
+| Judah (NIV= Hodaviah) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3063L) | 1x | [Ezr.3.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judah\*\|reference=Ezr.3.9) |
+All entries for **Hodaviah or Hodevah or Judah**:  **<big>[[H1938|הוֹדַוְיָה]]</big>** ☩  **<big>[[H1937|הוֹדְוָה]]</big>** ☩  **<big>[[H3063|יְהוּדָה]]</big>**

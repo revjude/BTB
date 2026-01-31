@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nehemiah</span>, the son of Azbuk, was a leader who repaired a section of Jerusalem's wall near the tombs of David during the rebuilding process led by Nehemiah the governor.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.3.16|Neh.3.16]]; 
-- only referred to as Nehemiah<[[H5166I]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- a son of Azbuk<[[H5802]]>.
+- only referred to as Nehemiah **<big>[[H5166|נְחֶמְיָה]]</big>**; 
+- a son of Azbuk **<big>[[H5802|עַזְבּוּק]]</big>**.
 
 Nehemiah, the son of Azbuk, is mentioned briefly in [[Neh.3.16|Nehemiah 3:16]] as one of the individuals who participated in the rebuilding of Jerusalem's walls under the leadership of Nehemiah, the governor of Judah. This event took place in the mid-5th century BC, following the return of the Jews from Babylonian exile. 
 
@@ -17,7 +17,7 @@ Apart from this single mention in [[Neh.3.16|Nehemiah 3:16]], no further informa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166I) <small>*Hebrew*</small> | 1x | [Neh.3.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Neh.3.16) |
-All Strong's for **Nehemiah**: \[[[H5166I]]\]
+| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166I) | 1x | [Neh.3.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Neh.3.16) |
+All entries for **Nehemiah**:  **<big>[[H5166|נְחֶמְיָה]]</big>**
 #### Related Profiles:
 - **[Azbuk](H5802)** (father)

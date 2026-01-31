@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Corinth</span>, an important city in ancient Greece, was the location of a Christian church to which Paul wrote two epistles.
 - A location first mentioned at [[Matt.27.6|Act.18.1]]; 
-- referred to as Corinth or Corinthus \(ESV, NIV= -\) <[[G2882]]> \(<span class='tipnrLangGreek'>Κόρινθος</span>\), or Corinthian<[[G2881]]> \(<span class='tipnrLangGreek'>Κορίνθιος</span>\).
+- referred to as Corinth or Corinthus \(ESV, NIV= -\)  **<big>[[G2882|Κόρινθος]]</big>**, or Corinthian **<big>[[G2881|Κορίνθιος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.9059573586561,22.87788175588845&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,7 +18,7 @@ Throughout the epistles, Paul refers to the Corinthian believers with affection,
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Corinth | [<span class='tipnrLangGreek'>Κόρινθος</span>](G2882) <small>*Greek*</small> | 6x | [[Act.18.1] ... [2Ti.4.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Corinth\*\|reference=Act.18.1;Act.19.1;1Co.1.2;2Co.1.1;2Co.1.23;2Ti.4.20) |
-| Corinthus (ESV, NIV= -) | [<span class='tipnrLangGreek'>Κόρινθος</span>](G2882) <small>*Greek*</small> | 1x | [Rom.16.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Corinthus\*\|reference=Rom.16.27) |
-| Corinthian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κορίνθιος</span>](G2881) <small>*Greek*</small> | 5x | [[Act.18.8] ... [2Co.13.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Corinthian\*\|reference=Act.18.8;1Co.16.24;2Co.6.11;2Co.13.14) |
-All Strong's for **Corinth or Corinthus or Corinthian**: \[[[G2882]]\] \[[[G2881]]\]
+| Corinth | [<span class='tipnrLangGreek'>Κόρινθος</span>](G2882) | 6x | [[Act.18.1] ... [2Ti.4.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Corinth\*\|reference=Act.18.1;Act.19.1;1Co.1.2;2Co.1.1;2Co.1.23;2Ti.4.20) |
+| Corinthus (ESV, NIV= -) | [<span class='tipnrLangGreek'>Κόρινθος</span>](G2882) | 1x | [Rom.16.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Corinthus\*\|reference=Rom.16.27) |
+| Corinthian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κορίνθιος</span>](G2881) | 5x | [[Act.18.8] ... [2Co.13.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Corinthian\*\|reference=Act.18.8;1Co.16.24;2Co.6.11;2Co.13.14) |
+All entries for **Corinth or Corinthus or Corinthian**:  **<big>[[G2882|Κόρινθος]]</big>** ☩  **<big>[[G2881|Κορίνθιος]]</big>**

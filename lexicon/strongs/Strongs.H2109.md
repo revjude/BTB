@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זוּן‎</span></big> **zûwn** <small>*(zoon)*</small> ==**to feed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זוּן‎</span></big>** **zûwn** <small>*(zoon)*</small> ==**to feed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ feed.

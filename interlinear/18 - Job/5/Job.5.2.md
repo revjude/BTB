@@ -6,15 +6,15 @@ For resentment kills a fool, and envy slays the simple.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.1|<< Job 5:1]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.3|Job 5:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> a fool  | <span class="ashebrew"><big>לֶֽ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֱוִיל </big></span><small><small><sup>[[H0191]]</sup></small></small> &#8207;| Le. <small><sup>[[HR]]</sup></small> 'e.vil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it slays  | <span class="ashebrew"><big>יַהֲרָג </big></span><small><small><sup>[[H2026]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.ha.rog- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vexation  | <span class="ashebrew"><big>כָּ֑עַשׂ </big></span><small><small><sup>[[H3708B]]</sup></small></small> &#8207;| Ka.'as <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a simple [one]  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פֹתֶ֗ה </big></span><small><small><sup>[[H6601B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fo.Teh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it kills  | <span class="ashebrew"><big>תָּמִ֥ית </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| ta.Mit <small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jealousy  | <span class="ashebrew"><big>קִנְאָֽה </big></span><small><small><sup>[[H7068]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| kin.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> a fool  |**<big>&#8207;[[H9005\|לֶֽ֭]]&#8207;&#8207;[[H0191\|אֱוִיל]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> 'e.vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it slays  |**<big>&#8207;[[H2026\|יַהֲרָג]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.ha.rog-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vexation  |**<big>&#8207;[[H3708B\|כָּ֑עַשׂ]]&#8207; </big>**| Ka.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a simple [one]  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H6601B\|פֹתֶ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fo.Teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it kills  |**<big>&#8207;[[H4191\|תָּמִ֥ית]]&#8207; </big>**| ta.Mit<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jealousy  |**<big>&#8207;[[H7068\|קִנְאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.1|<< Job 5:1]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.3|Job 5:3 >>]]</td></tr></table>
 
 

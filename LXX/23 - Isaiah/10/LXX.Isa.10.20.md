@@ -10,42 +10,42 @@ And it shall come to pass in that day, [that] the remnant of Israel, and such as
 On that day the remnant of Israel and the survivors of the house of Jacob will no longer depend on him who struck them, but they will truly rely on the LORD, the Holy One of Israel.<small><sub>**MT:**</sub></small>
 [[Isa.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.19|<< Isaiah 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.21|Isaiah 10:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| will the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being left behind | <big><span class="asgreek">καταλειφθέν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being preserved | <big><span class="asgreek">σωθέντες</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be yielding | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> <big><span class="asgreek">ώσιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wronging | <big><span class="asgreek">αδικήσαντας</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| yielding | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy one | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| truth. | <big><span class="asgreek">αληθέια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| proceed | **<big>[[G4369\|προστεθήσεται]]</big>** |
+| will the | **<big>[[G3588\|το]]</big>** |
+| one being left behind | **<big>[[G2641\|καταλειφθέν]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being preserved | **<big>[[G4982\|σωθέντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| should | **<big>[[G3361\|μη]]</big>** |
+| be yielding | **<big>[[G3982\|πεποιθότες]]</big>** **<big>[[G1510\|ώσιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| wronging | **<big>[[G0091\|αδικήσαντας]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| yielding | **<big>[[G3982\|πεποιθότες]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| holy one | **<big>[[G0039\|άγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| truth. | **<big>[[G0225\|αληθέια]]</big>** |
 [[Isa.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.19|<< Isaiah 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.21|Isaiah 10:21 >>]]</td></tr></table>
 
 

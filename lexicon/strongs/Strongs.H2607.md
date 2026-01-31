@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲנָנִי‎</span></big> **Chănânîy** <small>*(khan-aw-nee')*</small> ==**Hanani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup>; gracious</small>
+**<big><span class="ashebrew">‎חֲנָנִי‎</span></big>** **Chănânîy** <small>*(khan-aw-nee')*</small> ==**Hanani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2603|‎חָנַן‎]]</big>**; gracious</small>
 
 $\quad$ Hanani.
 - § Hanani = *"gracious"*

@@ -10,18 +10,18 @@ But Samuel ministered before the LORD, [being] a child, girded with a linen epho
 Now Samuel was ministering before the LORD—a boy wearing a linen ephod.<small><sub>**MT:**</sub></small>
 [[1Sam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.17|<< 1 Samuel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.19|1 Samuel 2:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| officiating | <big><span class="asgreek">λειτουργών</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a boy | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| being girded | <big><span class="asgreek">περιεζωσμένον</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| ephod | <big><span class="asgreek">εφούδ</span></big> <sup><small><small>[[G7587]]</small></small></sup> |
-| with a linen | <big><span class="asgreek">βαρ</span></big> <sup><small><small>[[G6652]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| officiating | **<big>[[G3008\|λειτουργών]]</big>** |
+| in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| a boy | **<big>[[G3808\|παιδάριον]]</big>** |
+| being girded | **<big>[[G4024\|περιεζωσμένον]]</big>** |
+| ephod | **<big>[[G7587\|εφούδ]]</big>** |
+| with a linen | **<big>[[G6652\|βαρ]]</big>** |
 [[1Sam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.17|<< 1 Samuel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.19|1 Samuel 2:19 >>]]</td></tr></table>
 
 

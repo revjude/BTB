@@ -7,47 +7,47 @@ Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife,
 Moreover, I have acquired Ruth the Moabitess, Mahlon’s widow, as my wife, to raise up the name of the deceased through his inheritance, so that his name will not disappear from among his brothers or from the gate of his home. You are witnesses today.”<small><sub>**MT:**</sub></small>
 [[Ruth.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.9|<< Ruth 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.11|Ruth 4:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| Ruth | <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moabitess, | <big><span class="asgreek">Μωαβίτιν</span></big> <sup><small><small>[[H4125]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Mahlon | <big><span class="asgreek">Μααλών</span></big> <sup><small><small>[[H4248]]</small></small></sup> |
-| I have acquired | <big><span class="asgreek">κέκτημαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| for myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to raise up | <big><span class="asgreek">αναστήσαι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having died, | <big><span class="asgreek">τεθνηκότος</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inheritance, | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be utterly destroyed | <big><span class="asgreek">εξολοθρευθήσεται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having died | <big><span class="asgreek">τεθνηκότος</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| from among | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his place -- | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you \[are\] witnesses | <big><span class="asgreek">μάρτυρες</span></big> <sup><small><small>[[G3144]]</small></small></sup> <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today. | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed, | **<big>[[G1065\|γε]]</big>** |
+| Ruth | **<big>[[G4503\|Ρουθ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| Moabitess, | **<big>[[H4125\|Μωαβίτιν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| of Mahlon | **<big>[[H4248\|Μααλών]]</big>** |
+| I have acquired | **<big>[[G2932\|κέκτημαι]]</big>** |
+| for myself | **<big>[[G1683\|εμαυτώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| wife, | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to raise up | **<big>[[G0450\|αναστήσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| having died, | **<big>[[G2348\|τεθνηκότος]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his inheritance, | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be utterly destroyed | **<big>[[G1842\|εξολοθρευθήσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| having died | **<big>[[G2348\|τεθνηκότος]]</big>** |
+| from among | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his brethren, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his place -- | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| you \[are\] witnesses | **<big>[[G3144\|μάρτυρες]]</big>** **<big>[[G1473\|υμείς]]</big>** |
+| today. | **<big>[[G4594\|σήμερον]]</big>** |
 [[Ruth.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.9|<< Ruth 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.11|Ruth 4:11 >>]]</td></tr></table>
 
 

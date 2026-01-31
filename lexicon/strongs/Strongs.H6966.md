@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קוּם‎</span></big> **qûwm** <small>*(koom)*</small> ==**to stand: rise**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup></small>
+**<big><span class="asaramaic">‎קוּם‎</span></big>** **qûwm** <small>*(koom)*</small> ==**to stand: rise**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6965|‎קוּם‎]]</big>**</small>
 
 $\quad$ appoint, establish, make, raise up self, (a-) rise (up), (make to) stand, set (up).
 - {***to rise*** (in various applications, literal, figurative, intensive and causative)}
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1c3)** to establish
 $\quad$ $\quad$ **1c4)** to appoint
 $\quad$ **1d)** (Hophal) to be made to stand
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">κοῦμι</span><sup><small>[[G2891]]</small></sup>
+<small>See Greek: </small>**<big>[[G1325|δίδωμι]]</big>** · **<big>[[G2891|κοῦμι]]</big>**

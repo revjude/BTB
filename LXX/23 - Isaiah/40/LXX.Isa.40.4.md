@@ -11,30 +11,30 @@ Every valley shall be lifted up, and every mountain and hill made low; the uneve
 > $\quad$ referenced by: [[Luke.3.4|Luke 3:4-6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγξ</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| shall be filled, | <big><span class="asgreek">πληρωθήσεται</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hill | <big><span class="asgreek">βουνός</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| shall be lowered; | <big><span class="asgreek">ταπεινωθήσεται</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crooked \[paths\] | <big><span class="asgreek">σκολιά</span></big> <sup><small><small>[[G4646]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| straight, | <big><span class="asgreek">ευθεία</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rough | <big><span class="asgreek">τραχεία</span></big> <sup><small><small>[[G5138]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plains | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| smooth | <big><span class="asgreek">λεία</span></big> <sup><small><small>[[G3006]]</small></small></sup> |
+| Every | **<big>[[G3956\|πάσα]]</big>** |
+| ravine | **<big>[[G5327\|φάραγξ]]</big>** |
+| shall be filled, | **<big>[[G4137\|πληρωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hill | **<big>[[G1015\|βουνός]]</big>** |
+| shall be lowered; | **<big>[[G5013\|ταπεινωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| crooked \[paths\] | **<big>[[G4646\|σκολιά]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| straight, | **<big>[[G2117\|ευθεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rough | **<big>[[G5138\|τραχεία]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| plains | **<big>[[G8676\|πεδία]]</big>** |
+| smooth | **<big>[[G3006\|λεία]]</big>** |
 [[Isa.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.3|<< Isaiah 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.5|Isaiah 40:5 >>]]</td></tr></table>
 
 

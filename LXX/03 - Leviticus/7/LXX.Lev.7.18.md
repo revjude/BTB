@@ -7,37 +7,37 @@ And if [any] of the flesh of the sacrifice of his peace offerings be eaten at al
 If any of the meat from his peace offering is eaten on the third day, it will not be accepted. It will not be credited to the one who presented it; it shall be an abomination, and the one who eats of it shall bear his iniquity.<small><sub>**MT:**</sub></small>
 [[Lev.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.17|<< Leviticus 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.19|Leviticus 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in eating | <big><span class="asgreek">φαγών</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| he should eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
-| of the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be accepted | <big><span class="asgreek">δεχθήσεται</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offering | <big><span class="asgreek">προσφέροντι</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be imputed | <big><span class="asgreek">λογισθήσεται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| to him -- | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is a defilement, | <big><span class="asgreek">μίασμά</span></big> <sup><small><small>[[G3393]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| who | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| should | <big><span class="asgreek">εαν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| he shall bear | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in eating | **<big>[[G2068\|φαγών]]</big>** |
+| he should eat | **<big>[[G2068\|φαγή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| meats | **<big>[[G2907\|κρεών]]</big>** |
+| of the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| third | **<big>[[G5154\|τρίτη]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| be accepted | **<big>[[G1209\|δεχθήσεται]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| offering | **<big>[[G4374\|προσφέροντι]]</big>** |
+| it; | **<big>[[G1473\|αυτό]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| be imputed | **<big>[[G3049\|λογισθήσεται]]</big>** |
+| to him -- | **<big>[[G1473\|αυτώ]]</big>** |
+| it is a defilement, | **<big>[[G3393\|μίασμά]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| and the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| who | **<big>[[G3748\|ήτις]]</big>** |
+| should | **<big>[[G0302\|εαν]]</big>** |
+| eat | **<big>[[G2068\|φαγή]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| he shall bear | **<big>[[G2983\|λήψεται]]</big>** |
 [[Lev.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.17|<< Leviticus 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.19|Leviticus 7:19 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁיר‎</span></big> **shîyr** <small>*(sheer)*</small> ==**song**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or feminine <span class="ashebrew">שִׁירָה</span> **shîyrâh** <small>*(shee-raw')*</small>; from <span class="ashebrew">‎שִׁיר‎</span><sup><small>[[H7891]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁיר‎</span></big>** **shîyr** <small>*(sheer)*</small> ==**song**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or feminine **<big><span class="ashebrew">שִׁירָה</span></big>** **shîyrâh** <small>*(shee-raw')*</small>; from **<big>[[H7891|‎שִׁיר‎]]</big>**</small>
 
 $\quad$ musical(-ick), [idiom] sing(-er, -ing), song.
 - ***a song***
@@ -14,4 +14,4 @@ n f
 **2)** song
 $\quad$ **2a)** song, ode
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μουσικός</span><sup><small>[[G3451]]</small></sup> · <span class="asgreek">ὑμνέω</span><sup><small>[[G5214]]</small></sup> · <span class="asgreek">ὕμνος</span><sup><small>[[G5215]]</small></sup> · <span class="asgreek">ψαλμός</span><sup><small>[[G5568]]</small></sup> · <span class="asgreek">ᾠδή</span><sup><small>[[G5603]]</small></sup>
+<small>See Greek: </small>**<big>[[G3451|μουσικός]]</big>** · **<big>[[G5214|ὑμνέω]]</big>** · **<big>[[G5215|ὕμνος]]</big>** · **<big>[[G5568|ψαλμός]]</big>** · **<big>[[G5603|ᾠδή]]</big>**

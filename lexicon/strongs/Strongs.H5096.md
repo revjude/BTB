@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַהֲלָל‎</span></big> **Nahălâl** <small>*(nah-hal-awl')*</small> ==**Nahalol**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">נַהֲלֹל</span> **Nahălôl** <small>*(nah-halole')*</small>; the same as <span class="ashebrew">‎נַהֲלֹל‎</span><sup><small>[[H5097]]</small></sup></small>
+**<big><span class="ashebrew">‎נַהֲלָל‎</span></big>** **Nahălâl** <small>*(nah-hal-awl')*</small> ==**Nahalol**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">נַהֲלֹל</span></big>** **Nahălôl** <small>*(nah-halole')*</small>; the same as **<big>[[H5097|‎נַהֲלֹל‎]]</big>**</small>
 
 $\quad$ Nahalal, Nahallal, Nahalol.
 - § Nahalal or Nahallal or Nahalol = *"pasture"*

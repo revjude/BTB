@@ -7,21 +7,21 @@ The God of my mercy shall prevent me: God shall let me see [my desire] upon mine
 My God of loving devotion will come to meet me; God will let me stare down my foes.<small><sub>**MT:**</sub></small>
 [[Ps.59.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.9|<< Psalm 59:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.11|Psalm 59:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go beforehand with | <big><span class="asgreek">προφθάσει</span></big> <sup><small><small>[[G4399]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall show | <big><span class="asgreek">δείξει</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to me \[my desire\] | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies. | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mercy | **<big>[[G1656\|έλεος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall go beforehand with | **<big>[[G4399\|προφθάσει]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall show | **<big>[[G1166\|δείξει]]</big>** |
+| to me \[my desire\] | **<big>[[G1473\|μοι]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my enemies. | **<big>[[G2190\|εχθροίς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.59.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.9|<< Psalm 59:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.11|Psalm 59:11 >>]]</td></tr></table>
 
 

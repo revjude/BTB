@@ -11,39 +11,39 @@ And He was given dominion, glory, and kingship, that the people of every nation 
 > $\quad$ referenced by: [[Matt.28.18|Matt 28:18]] ☩ [[Rev.11.15|Rev 11:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was given | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rule, | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| honor, | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom; | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| tribes, | <big><span class="asgreek">φυλαί</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| languages | <big><span class="asgreek">γλώσσαι</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| shall serve to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δουλευσουσιν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His authority | <big><span class="asgreek">εξουσία</span></big> <sup><small><small>[[G1849]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| authority | <big><span class="asgreek">εξουσία</span></big> <sup><small><small>[[G1849]]</small></small></sup> |
-| \[is\] an eternal | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pass away, | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be destroyed. | <big><span class="asgreek">διαφθαρήσεται</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| was given | **<big>[[G1325\|εδόθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rule, | **<big>[[G0746\|αρχή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| honor, | **<big>[[G5092\|τιμή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| kingdom; | **<big>[[G0932\|βασιλεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples, | **<big>[[G2992\|λαοί]]</big>** |
+| tribes, | **<big>[[G5443\|φυλαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| languages | **<big>[[G1100\|γλώσσαι]]</big>** |
+| shall serve to him. | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1398\|δουλευσουσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| His authority | **<big>[[G1849\|εξουσία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| authority | **<big>[[G1849\|εξουσία]]</big>** |
+| \[is\] an eternal | **<big>[[G0166\|αιώνιος]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| pass away, | **<big>[[G3928\|παρελεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be destroyed. | **<big>[[G1311\|διαφθαρήσεται]]</big>** |
 [[Dan.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.13|<< Daniel 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.15|Daniel 7:15 >>]]</td></tr></table>
 
 

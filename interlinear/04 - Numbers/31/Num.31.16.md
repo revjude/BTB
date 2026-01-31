@@ -10,25 +10,25 @@ Behold, these caused the children of Israel, through the counsel of Balaam, to c
 > $\quad$ referenced by: [[Rev.2.14|Rev 2:14]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הֵ֣ן </big></span><small><small><sup>[[H2005]]</sup></small></small> &#8207;| hen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֜נָּה </big></span><small><small><sup>[[H2007]]</sup></small></small> &#8207;| He.nah <small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were  | <span class="ashebrew"><big>הָי֨וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] people of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֤י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙ </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] word of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דְבַ֣ר </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> d.Var <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Balaam  | <span class="ashebrew"><big>בִּלְעָ֔ם </big></span><small><small><sup>[[H1109A]]</sup></small></small> &#8207;| bil.'Am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to offer  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מְסָר </big></span><small><small><sup>[[H4560]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> m.sor- <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unfaithfulness  | <span class="ashebrew"><big>מַ֥עַל </big></span><small><small><sup>[[H4604]]</sup></small></small> &#8207;| Ma.'al <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Yahweh  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] matter of  | <span class="ashebrew"><big>דְּבַר </big></span><small><small><sup>[[H1697I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| de.var- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Peor  | <span class="ashebrew"><big>פְּע֑וֹר </big></span><small><small><sup>[[H6465]]</sup></small></small> &#8207;| pe.'or <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it was  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תְּהִ֥י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> te.Hi <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the plague  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּגֵּפָ֖ה </big></span><small><small><sup>[[H4046]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.ge.Fah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among [the] congregation of  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֲדַ֥ת </big></span><small><small><sup>[[H5712]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> 'a.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H2007\|הֵ֜נָּה]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were  |**<big>&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֤י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] word of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1697G\|דְבַ֣ר]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> d.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  |**<big>&#8207;[[H1109A\|בִּלְעָ֔ם]]&#8207; </big>**| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to offer  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4560\|מְסָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.sor-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unfaithfulness  |**<big>&#8207;[[H4604\|מַ֥עַל]]&#8207; </big>**| Ma.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] matter of  |**<big>&#8207;[[H1697I\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Peor  |**<big>&#8207;[[H6465\|פְּע֑וֹר]]&#8207; </big>**| pe.'or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the plague  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4046\|מַּגֵּפָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.ge.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among [the] congregation of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5712\|עֲדַ֥ת]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.15|<< Numbers 31:15]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.17|Numbers 31:17 >>]]</td></tr></table>
 
 

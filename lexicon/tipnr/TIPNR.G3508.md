@@ -4,11 +4,11 @@ Jacob's son living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Naphtali</span>, the sixth son of Jacob and second son of Bilhah, was the founder of the Israelite tribe that bore his name.
 - Jacob's son who founded the tribe of Naphtali  living at the time of the Patriarchs, first mentioned at [[Gen.30.8|Gen.30.8]]; 
-- referred to as Naphtali<[[H5321G]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Naphtali \(KJV= Nephtali\) <[[G3508]]> \(<span class='tipnrLangGreek'>Νεφθαλείμ</span>\); 
--  son of Israel<[[H3478]]> and Bilhah<[[H1090A]]>; 
-- a brother of Dan<[[H1835H]]>; 
--  half-brother of: Reuben<[[H7205]]>, Simeon<[[H8095G]]>, Levi<[[H3878]]>, Judah<[[H3063G]]>, Gad<[[H1410G]]>, Asher<[[H0836]]>, Issachar<[[H3485G]]>, Zebulun<[[H2074]]>, Dinah<[[H1783]]>, Joseph<[[H3130G]]> and Benjamin<[[H1144G]]>; 
--  father of Jahzeel<[[H3183]]>, Guni<[[H1476G]]>, Jezer<[[H3337]]> and Shillem<[[H8006]]>.
+- referred to as Naphtali **<big>[[H5321|נַפְתָּלִי]]</big>**, or Naphtali \(KJV= Nephtali\)  **<big>[[G3508|Νεφθαλείμ]]</big>**; 
+-  son of Israel **<big>[[H3478|יִשְׂרָאֵל]]</big>** and Bilhah **<big>[[H1090|בִּלְהָה]]</big>**; 
+- a brother of Dan **<big>[[H1835|דָּן]]</big>**; 
+-  half-brother of: Reuben **<big>[[H7205|רְאוּבֵן]]</big>**, Simeon **<big>[[H8095|שִׁמְעוֹן]]</big>**, Levi **<big>[[H3878|לֵוִי]]</big>**, Judah **<big>[[H3063|יְהוּדָה]]</big>**, Gad **<big>[[H1410|גָּד]]</big>**, Asher **<big>[[H0836|אָשֵׁר]]</big>**, Issachar **<big>[[H3485|יִשָּׂשכָר]]</big>**, Zebulun **<big>[[H2074|זְבוּלוּן]]</big>**, Dinah **<big>[[H1783|דִּינָה]]</big>**, Joseph **<big>[[H3130|יוֹסֵף]]</big>** and Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**; 
+-  father of Jahzeel **<big>[[H3183|יַחְצְאֵל]]</big>**, Guni **<big>[[H1476|גּוּנִי]]</big>**, Jezer **<big>[[H3337|יֵצֶר]]</big>** and Shillem **<big>[[H8006|שִׁלֵּם]]</big>**.
 
 Naphtali was the sixth son of Israel \(or 'Jacob'\) and the second son of Bilhah, Rachel's maidservant \([[Gen.30.8|Genesis 30:8]]; 35:25\). His birth was celebrated by Rachel, who had been struggling with infertility. She named him Naphtali, saying, "With mighty wrestlings I have wrestled with my sister and have prevailed" \([[Gen.30.8|Genesis 30:8]]\). 
 
@@ -24,9 +24,9 @@ In the New Testament, Naphtali is mentioned in connection with Jesus' ministry i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naphtali | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H5321G) <small>*Hebrew*</small> | 50x | [[Gen.30.8] ... [Ezk.48.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphtali\*\|reference=Gen.30.8;Gen.35.25;Gen.46.24;Gen.49.21;Exo.1.4;Num.1.15;Num.1.42;Num.1.43;Num.2.29;Num.2.29;Num.7.78;Num.10.27;Num.13.14;Num.26.48;Num.26.50;Num.34.28;Deu.27.13;Deu.33.23;Deu.33.23;Deu.34.2;Jos.19.32;Jos.19.32;Jos.19.39;Jos.20.7;Jos.21.6;Jos.21.32;Jdg.1.33;Jdg.4.6;Jdg.4.10;Jdg.5.18;Jdg.6.35;Jdg.7.23;1Ki.4.15;1Ki.7.14;1Ki.15.20;2Ki.15.29;1Ch.2.2;1Ch.6.62;1Ch.6.76;1Ch.7.13) |
-| Naphtali (KJV= Nephtali) | [<span class='tipnrLangGreek'>Νεφθαλείμ</span>](G3508) <small>*Greek*</small> | 3x | [[Mat.4.13] ... [Rev.7.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphtali\*\|reference=Mat.4.13;Mat.4.15;Rev.7.6) |
-All Strong's for **Naphtali**: \[[[H5321G]]\] \[[[G3508]]\]
+| Naphtali | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H5321G) | 50x | [[Gen.30.8] ... [Ezk.48.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphtali\*\|reference=Gen.30.8;Gen.35.25;Gen.46.24;Gen.49.21;Exo.1.4;Num.1.15;Num.1.42;Num.1.43;Num.2.29;Num.2.29;Num.7.78;Num.10.27;Num.13.14;Num.26.48;Num.26.50;Num.34.28;Deu.27.13;Deu.33.23;Deu.33.23;Deu.34.2;Jos.19.32;Jos.19.32;Jos.19.39;Jos.20.7;Jos.21.6;Jos.21.32;Jdg.1.33;Jdg.4.6;Jdg.4.10;Jdg.5.18;Jdg.6.35;Jdg.7.23;1Ki.4.15;1Ki.7.14;1Ki.15.20;2Ki.15.29;1Ch.2.2;1Ch.6.62;1Ch.6.76;1Ch.7.13) |
+| Naphtali (KJV= Nephtali) | [<span class='tipnrLangGreek'>Νεφθαλείμ</span>](G3508) | 3x | [[Mat.4.13] ... [Rev.7.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphtali\*\|reference=Mat.4.13;Mat.4.15;Rev.7.6) |
+All entries for **Naphtali**:  **<big>[[H5321|נַפְתָּלִי]]</big>** ☩  **<big>[[G3508|Νεφθαλείμ]]</big>**
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Bilhah](H1090A)** (mother)

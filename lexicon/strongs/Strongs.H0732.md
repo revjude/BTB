@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָרַח‎</span></big> **ʼârach** <small>*(aw-rakh')*</small> ==**to journey**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָרַח‎</span></big>** **ʼârach** <small>*(aw-rakh')*</small> ==**to journey**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ go, wayfaring (man).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ $\quad$ **1a2a)** wandering, wayfarer, journeying
 $\quad$ $\quad$ **1a3)** (subst.)
 $\quad$ $\quad$ $\quad$ **1a3a)** wanderer, wayfarer, traveller
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔσχατος</span><sup><small>[[G2078]]</small></sup> · <span class="asgreek">ξένος</span><sup><small>[[G3581]]</small></sup>
+<small>See Greek: </small>**<big>[[G2078|ἔσχατος]]</big>** · **<big>[[G3581|ξένος]]</big>**

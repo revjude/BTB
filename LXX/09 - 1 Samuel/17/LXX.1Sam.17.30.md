@@ -7,26 +7,26 @@ And he turned from him toward another, and spake after the same manner: and the 
 Then he turned from him toward another and asked about the offer, and those people answered him just as the first ones had answered.<small><sub>**MT:**</sub></small>
 [[1Sam.17.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.29|<< 1 Samuel 17:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.31|1 Samuel 17:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he turned | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| rank | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| thus. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they answered | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly. | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he turned | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| rank | **<big>[[G3313\|μέρος]]</big>** |
+| another | **<big>[[G2087\|έτερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| thus. | **<big>[[G3779\|ούτως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they answered | **<big>[[G0611\|απεκρίθησαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| formerly. | **<big>[[G4387\|πρότερον]]</big>** |
 [[1Sam.17.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.29|<< 1 Samuel 17:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.31|1 Samuel 17:31 >>]]</td></tr></table>
 
 

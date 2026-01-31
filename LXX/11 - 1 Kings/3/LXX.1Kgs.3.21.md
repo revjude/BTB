@@ -7,30 +7,30 @@ And when I rose in the morning to give my child suck, behold, it was dead: but w
 The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne.”<small><sub>**MT:**</sub></small>
 [[1Kgs.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.20|<< 1 Kings 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.22|1 Kings 3:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I rose up | <big><span class="asgreek">ανέστην</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| to nurse | <big><span class="asgreek">θηλάσαι</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that one | <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] one having died. | <big><span class="asgreek">τεθνηκώς</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I contemplated | <big><span class="asgreek">κατενόησα</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the morning; | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave birth. | <big><span class="asgreek">έτεκον</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I rose up | **<big>[[G0450\|ανέστην]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| to nurse | **<big>[[G2337\|θηλάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my son, | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that one | **<big>[[G1565\|εκείνος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \[the\] one having died. | **<big>[[G2348\|τεθνηκώς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I contemplated | **<big>[[G2657\|κατενόησα]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in the morning; | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| I gave birth. | **<big>[[G5088\|έτεκον]]</big>** |
 [[1Kgs.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.20|<< 1 Kings 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.22|1 Kings 3:22 >>]]</td></tr></table>
 
 

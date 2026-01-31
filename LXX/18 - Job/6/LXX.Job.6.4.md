@@ -7,27 +7,27 @@ For the arrows of the Almighty [are] within me, the poison whereof drinketh up m
 For the arrows of the Almighty have pierced me; my spirit drinks in their poison; the terrors of God are arrayed against me.<small><sub>**MT:**</sub></small>
 [[Job.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.5|Job 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For arrows | <big><span class="asgreek">βέλη</span></big> <sup><small><small>[[G0956]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| worthy one | <big><span class="asgreek">ικανού</span></big> <sup><small><small>[[G2425]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my body | <big><span class="asgreek">σώματί</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| drinks up | <big><span class="asgreek">εκπίνει</span></big> <sup><small><small>[[G7130]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood. | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| I begin | <big><span class="asgreek">άρξωμαι</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| to speak, | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| they sting | <big><span class="asgreek">κεντουσί</span></big> <sup><small><small>[[G7993]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For arrows | **<big>[[G0956\|βέλη]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| worthy one | **<big>[[G2425\|ικανού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my body | **<big>[[G4983\|σώματί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| are | **<big>[[G1510\|εστίν]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| drinks up | **<big>[[G7130\|εκπίνει]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| blood. | **<big>[[G0129\|αίμα]]</big>** |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| I begin | **<big>[[G0756\|άρξωμαι]]</big>** |
+| to speak, | **<big>[[G2980\|λαλείν]]</big>** |
+| they sting | **<big>[[G7993\|κεντουσί]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Job.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.5|Job 6:5 >>]]</td></tr></table>
 
 

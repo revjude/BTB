@@ -7,19 +7,19 @@ And thou shalt put oil upon it, and lay frankincense thereon: it [is] a meat off
 And you are to put oil and frankincense on it; it is a grain offering.<small><sub>**MT:**</sub></small>
 [[Lev.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.14|<< Leviticus 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.16|Leviticus 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall pour | <big><span class="asgreek">επιχεείς</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| olive oil. | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall put | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| frankincense. | <big><span class="asgreek">λίβανον</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
-| It is a sacrifice \[offering\]. | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall pour | **<big>[[G2022\|επιχεείς]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| olive oil. | **<big>[[G1637\|έλαιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall put | **<big>[[G2007\|επιθήσεις]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| frankincense. | **<big>[[G3030\|λίβανον]]</big>** |
+| It is a sacrifice \[offering\]. | **<big>[[G2378\|θυσία]]</big>** **<big>[[G1510\|εστί]]</big>** |
 [[Lev.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.14|<< Leviticus 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.16|Leviticus 2:16 >>]]</td></tr></table>
 
 

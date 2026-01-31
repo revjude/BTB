@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחְשֹׂף‎</span></big> **machsôph** <small>*(makh-sofe')*</small> ==**exposing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָשַׂף‎</span><sup><small>[[H2834]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחְשֹׂף‎</span></big>** **machsôph** <small>*(makh-sofe')*</small> ==**exposing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2834|‎חָשַׂף‎]]</big>**</small>
 
 $\quad$ made appear.
 - ***a peeling***

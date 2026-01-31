@@ -7,23 +7,23 @@ And the land shall yield her fruit, and ye shall eat your fill, and dwell therei
 Then the land will yield its fruit, so that you can eat your fill and dwell in safety in the land.<small><sub>**MT:**</sub></small>
 [[Lev.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.18|<< Leviticus 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.20|Leviticus 25:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its resources, | <big><span class="asgreek">εκφόρια</span></big> <sup><small><small>[[G7169]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| fullness, | <big><span class="asgreek">πλησμονήν</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall dwell | <big><span class="asgreek">κατοικήσετε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| complying | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall give | **<big>[[G1325\|δώσει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its resources, | **<big>[[G7169\|εκφόρια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| fullness, | **<big>[[G4140\|πλησμονήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall dwell | **<big>[[G2730\|κατοικήσετε]]</big>** |
+| complying | **<big>[[G3982\|πεποιθότες]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.18|<< Leviticus 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.20|Leviticus 25:20 >>]]</td></tr></table>
 
 

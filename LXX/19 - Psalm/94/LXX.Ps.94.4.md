@@ -7,18 +7,18 @@ They will utter and speak injustice; all the ones practicing iniquity shall spea
 They pour out arrogant words; all workers of iniquity boast.<small><sub>**MT:**</sub></small>
 [[Ps.94.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.3|<< Psalm 94:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.5|Psalm 94:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They will utter | <big><span class="asgreek">φθέγξονται</span></big> <sup><small><small>[[G5350]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| speak | <big><span class="asgreek">λαλήσουσιν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| injustice; | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| shall speak | <big><span class="asgreek">λαλήσουσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| practicing | <big><span class="asgreek">εργαζόμενοι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iniquity | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| They will utter | **<big>[[G5350\|φθέγξονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| speak | **<big>[[G2980\|λαλήσουσιν]]</big>** |
+| injustice; | **<big>[[G0093\|αδικίαν]]</big>** |
+| shall speak | **<big>[[G2980\|λαλήσουσι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| practicing | **<big>[[G2038\|εργαζόμενοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| iniquity | **<big>[[G0458\|ανομίαν]]</big>** |
 [[Ps.94.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.3|<< Psalm 94:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.5|Psalm 94:5 >>]]</td></tr></table>
 
 

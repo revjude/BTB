@@ -7,20 +7,20 @@ The earth mourneth [and] fadeth away, the world languisheth [and] fadeth away, t
 The earth mourns and withers; the world languishes and fades; the exalted of the earth waste away.<small><sub>**MT:**</sub></small>
 [[Isa.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.3|<< Isaiah 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.5|Isaiah 24:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| mourns | <big><span class="asgreek">επένθησεν</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[is\] corrupted | <big><span class="asgreek">εφθάρη</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| world | <big><span class="asgreek">οικουμένη</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| mourn | <big><span class="asgreek">επένθησαν</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lofty ones | <big><span class="asgreek">υψηλοί</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| mourns | **<big>[[G3996\|επένθησεν]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[is\] corrupted | **<big>[[G5351\|εφθάρη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| world | **<big>[[G3611\|οικουμένη]]</big>** |
+| mourn | **<big>[[G3996\|επένθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| lofty ones | **<big>[[G5308\|υψηλοί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
 [[Isa.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.3|<< Isaiah 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.5|Isaiah 24:5 >>]]</td></tr></table>
 
 

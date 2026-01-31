@@ -1,8 +1,8 @@
 <small>*Hall of the Throne • Another name for the Hall of Judgment in Solomon's palace.*</small>
 
 The <span class='tipnrhighlight'>Hall of the Throne</span> was another name for the Hall of Judgment in Solomon's palace, where he sat to administer justice \(1 Kings 7:7\).
-- A location in Jerusalem<[[H3389]]> only mentioned at 1Ki.7.7; 
-- only referred to as Hall\_of\_the\_Throne<[[H0197I]]><[[H0197I]]> \(<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ֵּ<span class='tipnrLangHebrew'>א</span> <span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at 1Ki.7.7; 
+- only referred to as Hall\_of\_the\_Throne **<big>[[H0197|אוּלָם]]</big>** **<big>[[H0197|אוּלָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Hall of the Throne is mentioned in the description of King Solomon's palace 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hall/ of the Throne (KJV= porch for judgment) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ֵּ<span class='tipnrLangHebrew'>א</span>](H3678H)[<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0197I) <small>*Hebrew*</small> | 1x | [1Ki.7.7b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hall\*\|reference=1Ki.7.7) |
-All Strong's for **Hall_of_the_Throne**: \[[[H3678H]]\] \[[[H0197I]]\]
+| Hall/ of the Throne (KJV= porch for judgment) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ֵּ<span class='tipnrLangHebrew'>א</span>](H3678H)[<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0197I) | 1x | [1Ki.7.7b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hall\*\|reference=1Ki.7.7) |
+All entries for **Hall of the Throne**:  **<big>[[H3678|כִּסֵּא]]</big>** ☩  **<big>[[H0197|אוּלָם]]</big>**

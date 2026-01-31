@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָקַץ‎</span></big> **Mâqats** <small>*(maw-kats')*</small> ==**Makaz**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָצַץ‎</span><sup><small>[[H7112]]</small></sup>; end</small>
+**<big><span class="ashebrew">‎מָקַץ‎</span></big>** **Mâqats** <small>*(maw-kats')*</small> ==**Makaz**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7112|‎קָצַץ‎]]</big>**; end</small>
 
 $\quad$ Makaz.
 - § Makaz = *"end"*

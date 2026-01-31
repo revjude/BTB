@@ -7,35 +7,35 @@ And when the Syrians saw that they were put to the worse before Israel, they sen
 When the Arameans saw that they had been defeated by Israel, they sent messengers to bring more Arameans from beyond the Euphrates, with Shophach the commander of Hadadezer’s army leading them.<small><sub>**MT:**</sub></small>
 [[1Chr.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.15|<< 1 Chronicles 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.17|1 Chronicles 19:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syrian | <big><span class="asgreek">Σύρος</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| put him to flight | <big><span class="asgreek">ετροπώσατο</span></big> <sup><small><small>[[G9501]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| messengers, | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought | <big><span class="asgreek">εξήγαγε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Syrian | <big><span class="asgreek">Σύρον</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river. | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shophach | <big><span class="asgreek">Σωφάχ</span></big> <sup><small><small>[[H7780]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commander-in-chief | <big><span class="asgreek">αρχιστράτηγος</span></big> <sup><small><small>[[G6559]]</small></small></sup> |
-| of \[the\] force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of Hadarezer | <big><span class="asgreek">Αδαδεζέρ</span></big> <sup><small><small>[[H1928]]</small></small></sup> |
-| \[was\] in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| saw | **<big>[[G1492\|είδεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Syrian | **<big>[[G4947\|Σύρος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| put him to flight | **<big>[[G9501\|ετροπώσατο]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| messengers, | **<big>[[G0032\|αγγέλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they brought | **<big>[[G1806\|εξήγαγε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Syrian | **<big>[[G4947\|Σύρον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river. | **<big>[[G4215\|ποταμού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shophach | **<big>[[H7780\|Σωφάχ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| commander-in-chief | **<big>[[G6559\|αρχιστράτηγος]]</big>** |
+| of \[the\] force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| of Hadarezer | **<big>[[H1928\|Αδαδεζέρ]]</big>** |
+| \[was\] in front of | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[1Chr.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.15|<< 1 Chronicles 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.17|1 Chronicles 19:17 >>]]</td></tr></table>
 
 

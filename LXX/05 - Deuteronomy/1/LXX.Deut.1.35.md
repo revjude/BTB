@@ -7,24 +7,24 @@ Surely there shall not one of these men of this evil generation see that good la
 “Not one of the men of this evil generation shall see the good land I swore to give your fathers,<small><sub>**MT:**</sub></small>
 [[Deut.1.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[Shall\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| see | <big><span class="asgreek">όψεταί</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of these | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I swore by an oath | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers, \[no\]. | <big><span class="asgreek">πατράσιν</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[Shall\] | **<big>[[G1487\|ει]]</big>** |
+| see | **<big>[[G3708\|όψεταί]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| of these | **<big>[[G3778\|τούτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| wicked | **<big>[[G4190\|πονηρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| good | **<big>[[G0018\|αγαθήν]]</big>** |
+| this | **<big>[[G3778\|ταύτην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I swore by an oath | **<big>[[G3660\|ώμοσα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their fathers, \[no\]. | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Deut.1.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵרוֹם‎</span></big> **Mêrôwm** <small>*(may-rome')*</small> ==**Merom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>formed like <span class="ashebrew">‎מָרוֹם‎</span><sup><small>[[H4791]]</small></sup>; height</small>
+**<big><span class="ashebrew">‎מֵרוֹם‎</span></big>** **Mêrôwm** <small>*(may-rome')*</small> ==**Merom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>formed like **<big>[[H4791|‎מָרוֹם‎]]</big>**; height</small>
 
 $\quad$ Merom.
 - § Merom = *"high place"*

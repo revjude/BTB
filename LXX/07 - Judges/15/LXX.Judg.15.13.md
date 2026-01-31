@@ -7,38 +7,38 @@ And they spake unto him, saying, No; but we will bind thee fast, and deliver the
 “No,” they answered, “we will not kill you, but we will tie you up securely and hand you over to them.” So they bound him with two new ropes and led him up from the rock.<small><sub>**MT:**</sub></small>
 [[Judg.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.12|<< Judges 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.14|Judges 15:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they swore by an oath | <big><span class="asgreek">ώμοσαν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| No, | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| by a bond | <big><span class="asgreek">δεσμώ</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| will we tie | <big><span class="asgreek">δήσομέν</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should deliver | <big><span class="asgreek">παραδώσομέν</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| you up | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their hands; | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| we will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| kill you. | <big><span class="asgreek">θανατώσομέν</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they tied | <big><span class="asgreek">έδησαν</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| ropes | <big><span class="asgreek">καλωδίοις</span></big> <sup><small><small>[[G7787]]</small></small></sup> |
-| new | <big><span class="asgreek">καινοίς</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bore | <big><span class="asgreek">ανήνεγκαν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rock. | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they swore by an oath | **<big>[[G3660\|ώμοσαν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| No, | **<big>[[G3780\|ουχί]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| by a bond | **<big>[[G1199\|δεσμώ]]</big>** |
+| will we tie | **<big>[[G1210\|δήσομέν]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| we should deliver | **<big>[[G3860\|παραδώσομέν]]</big>** |
+| you up | **<big>[[G1473\|σε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| their hands; | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| but to death | **<big>[[G2288\|θανάτω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| we will not | **<big>[[G3756\|ου]]</big>** |
+| kill you. | **<big>[[G2289\|θανατώσομέν]]</big>** **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they tied | **<big>[[G1210\|έδησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| ropes | **<big>[[G7787\|καλωδίοις]]</big>** |
+| new | **<big>[[G2537\|καινοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bore | **<big>[[G0399\|ανήνεγκαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| rock. | **<big>[[G4073\|πέτρας]]</big>** |
 [[Judg.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.12|<< Judges 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.14|Judges 15:14 >>]]</td></tr></table>
 
 

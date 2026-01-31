@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כּוּל‎</span></big> **kûwl** <small>*(kool)*</small> ==**to sustain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כּוּל‎</span></big>** **kûwl** <small>*(kool)*</small> ==**to sustain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (be able to, can) abide, bear, comprehend, contain, feed, forbearing, guide, hold(-ing in), nourish(-er), be present, make provision, receive, sustain, provide sustenance (victuals).
@@ -17,4 +17,4 @@ $\quad$ **1d)** (Hilpil) to contain, hold, hold in, endure
 $\quad$ $\quad$ **1d1)** to contain
 $\quad$ $\quad$ **1d2)** to sustain, endure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρκέω</span><sup><small>[[G0714]]</small></sup> · <span class="asgreek">δέχομαι</span><sup><small>[[G1209]]</small></sup> · <span class="asgreek">δύναμαι</span><sup><small>[[G1410]]</small></sup> · <span class="asgreek">ἐκτρέφω</span><sup><small>[[G1625]]</small></sup> · <span class="asgreek">ἱκανός</span><sup><small>[[G2425]]</small></sup> · <span class="asgreek">κατευθύνω</span><sup><small>[[G2720]]</small></sup> · <span class="asgreek">οἰκονομέω</span><sup><small>[[G3621]]</small></sup> · <span class="asgreek">συνέχω</span><sup><small>[[G4912]]</small></sup> · <span class="asgreek">τρέφω</span><sup><small>[[G5142]]</small></sup> · <span class="asgreek">ὑπομένω</span><sup><small>[[G5278]]</small></sup> · <span class="asgreek">ὑποφέρω</span><sup><small>[[G5297]]</small></sup> · <span class="asgreek">φέρω</span><sup><small>[[G5342]]</small></sup> · <span class="asgreek">χορηγέω</span><sup><small>[[G5524]]</small></sup> · <span class="asgreek">χωρέω</span><sup><small>[[G5562]]</small></sup>
+<small>See Greek: </small>**<big>[[G0714|ἀρκέω]]</big>** · **<big>[[G1209|δέχομαι]]</big>** · **<big>[[G1410|δύναμαι]]</big>** · **<big>[[G1625|ἐκτρέφω]]</big>** · **<big>[[G2425|ἱκανός]]</big>** · **<big>[[G2720|κατευθύνω]]</big>** · **<big>[[G3621|οἰκονομέω]]</big>** · **<big>[[G4912|συνέχω]]</big>** · **<big>[[G5142|τρέφω]]</big>** · **<big>[[G5278|ὑπομένω]]</big>** · **<big>[[G5297|ὑποφέρω]]</big>** · **<big>[[G5342|φέρω]]</big>** · **<big>[[G5524|χορηγέω]]</big>** · **<big>[[G5562|χωρέω]]</big>**

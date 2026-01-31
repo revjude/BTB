@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחֲצִית‎</span></big> **machătsîyth** <small>*(makh-ats-eeth')*</small> ==**half**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצָה‎</span><sup><small>[[H2673]]</small></sup></small>
+**<big><span class="ashebrew">‎מַחֲצִית‎</span></big>** **machătsîyth** <small>*(makh-ats-eeth')*</small> ==**half**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2673|‎חָצָה‎]]</big>**</small>
 
 $\quad$ half (so much), mid(-day).
 - ***a halving*** or ***the middle***
@@ -8,4 +8,4 @@ $\quad$ half (so much), mid(-day).
 $\quad$ **1a)** half
 $\quad$ **1b)** middle, midday, noon
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἥμισυ</span><sup><small>[[G2255]]</small></sup>
+<small>See Greek: </small>**<big>[[G2255|ἥμισυ]]</big>**

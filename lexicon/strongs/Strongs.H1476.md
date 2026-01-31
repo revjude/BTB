@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גּוּנִי‎</span></big> **Gûwnîy** <small>*(goo-nee')*</small> ==**Guni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎גָּנַן‎</span><sup><small>[[H1598]]</small></sup>; protected</small>
+**<big><span class="ashebrew">‎גּוּנִי‎</span></big>** **Gûwnîy** <small>*(goo-nee')*</small> ==**Guni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H1598|‎גָּנַן‎]]</big>**; protected</small>
 
 $\quad$ Guni.
 - § Guni = *"my defender (?)"*

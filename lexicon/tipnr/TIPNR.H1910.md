@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hadad-rimmon</span> was a place near Megiddo where a great lamentation was held for King Josiah, who was mortally wounded there.
 - A location only mentioned at [[Zech.12.11|Zec.12.11]]; 
-- only referred to as Hadad-rimmon<[[H1910]]> \(<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Hadad-rimmon **<big>[[H1910|הֲדַדְרִמּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.524106,35.205136&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Zechariah's prophecy uses this historic event as a metaphor for the intense mour
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hadad-rimmon (KJV= Hadadrimmon; NIV= Hadad Rimmon) | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1910) <small>*Hebrew*</small> | 1x | [Zec.12.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hadad\*\|reference=Zec.12.11) |
-All Strong's for **Hadad-rimmon**: \[[[H1910]]\]
+| Hadad-rimmon (KJV= Hadadrimmon; NIV= Hadad Rimmon) | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1910) | 1x | [Zec.12.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hadad\*\|reference=Zec.12.11) |
+All entries for **Hadad-rimmon**:  **<big>[[H1910|הֲדַדְרִמּוֹן]]</big>**

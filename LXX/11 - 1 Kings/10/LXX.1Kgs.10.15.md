@@ -7,27 +7,27 @@ Beside [that he had] of the merchantmen, and of the traffick of the spice mercha
 not including the revenue from the merchants, traders, and all the Arabian kings and governors of the land.<small><sub>**MT:**</sub></small>
 [[1Kgs.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.14|<< 1 Kings 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.16|1 Kings 10:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| apart from | <big><span class="asgreek">χωρίς</span></big> <sup><small><small>[[G5565]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribute | <big><span class="asgreek">φόρων</span></big> <sup><small><small>[[G5411]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones submitting, | <big><span class="asgreek">υποτεταγμένων</span></big> <sup><small><small>[[G5293]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| merchants, | <big><span class="asgreek">εμπόρων</span></big> <sup><small><small>[[G1713]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side \[of the Jordan\], | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satraps | <big><span class="asgreek">σατραπών</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| apart from | **<big>[[G5565\|χωρίς]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| tribute | **<big>[[G5411\|φόρων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones submitting, | **<big>[[G5293\|υποτεταγμένων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| merchants, | **<big>[[G1713\|εμπόρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| other side \[of the Jordan\], | **<big>[[G4008\|πέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| satraps | **<big>[[G9059\|σατραπών]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[1Kgs.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.14|<< 1 Kings 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.16|1 Kings 10:16 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ And they blessed Rebekah, and said unto her, Thou [art] our sister, be thou [the
 And they blessed Rebekah and said to her, “Our sister, may you become the mother of thousands upon thousands. May your offspring possess the gates of their enemies.”<small><sub>**MT:**</sub></small>
 [[Gen.24.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.59|<< Genesis 24:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.61|Genesis 24:61 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they blessed | <big><span class="asgreek">ευλόγησαν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| Rebekah, | <big><span class="asgreek">Ρεβέκκαν</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| become | <big><span class="asgreek">γίνου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| myriads, | <big><span class="asgreek">μυριάδων</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| inherit | <big><span class="asgreek">κληρονομησάτω</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[let\] your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of \[your\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| opponents! | <big><span class="asgreek">υπεναντίων</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they blessed | **<big>[[G2127\|ευλόγησαν]]</big>** |
+| Rebekah, | **<big>[[G4479\|Ρεβέκκαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| sister | **<big>[[G0079\|αδελφή]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| You are | **<big>[[G1510\|ει]]</big>** |
+| become | **<big>[[G1096\|γίνου]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| myriads, | **<big>[[G3461\|μυριάδων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| inherit | **<big>[[G2816\|κληρονομησάτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[let\] your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of \[your\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| opponents! | **<big>[[G5227\|υπεναντίων]]</big>** |
 [[Gen.24.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.59|<< Genesis 24:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.61|Genesis 24:61 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַרְכְּוַי‎</span></big> **ʼArkᵉvay** <small>*(ar-kev-ah'ee)*</small> ==**Erech**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>(Aramaic) patrial from <span class="ashebrew">‎אֶרֶךְ‎</span><sup><small>[[H0751]]</small></sup></small>
+**<big><span class="ashebrew">‎אַרְכְּוַי‎</span></big>** **ʼArkᵉvay** <small>*(ar-kev-ah'ee)*</small> ==**Erech**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>(Aramaic) patrial from **<big>[[H0751|‎אֶרֶךְ‎]]</big>**</small>
 
 $\quad$ Archevite.
 - § Archevites = *"lengthy"*

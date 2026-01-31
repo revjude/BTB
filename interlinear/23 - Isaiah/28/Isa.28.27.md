@@ -6,24 +6,24 @@ Surely caraway is not threshed with a sledge, and the wheel of a cart is not rol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.26|<< Isaiah 28:26]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.28|Isaiah 28:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> threshing sledge  | <span class="ashebrew"><big>בֶֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חָרוּץ֙ </big></span><small><small><sup>[[H2742A]]</sup></small></small> &#8207;| ve. <small><sup>[[HRd]]</sup></small> cha.Rutz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is threshed  | <span class="ashebrew"><big>י֣וּדַשׁ </big></span><small><small><sup>[[H1758]]</sup></small></small> &#8207;| Yu.dash <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| black cumin  | <span class="ashebrew"><big>קֶ֔צַח </big></span><small><small><sup>[[H7100]]</sup></small></small> &#8207;| Ke.tzach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a wheel of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אוֹפַ֣ן </big></span><small><small><sup>[[H0212]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.Fan <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cart  | <span class="ashebrew"><big>עֲגָלָ֔ה </big></span><small><small><sup>[[H5699]]</sup></small></small> &#8207;| 'a.ga.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cumin  | <span class="ashebrew"><big>כַּמֹּ֖ן </big></span><small><small><sup>[[H3646]]</sup></small></small> &#8207;| ka.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is turned  | <span class="ashebrew"><big>יוּסָּ֑ב </big></span><small><small><sup>[[H5437G]]</sup></small></small> &#8207;| yu.Sav <small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֧י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> staff  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מַּטֶּ֛ה </big></span><small><small><sup>[[H4294J]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> ma.Teh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is beaten out  | <span class="ashebrew"><big>יֵחָ֥בֶט </big></span><small><small><sup>[[H2251]]</sup></small></small> &#8207;| ye.Cha.vet <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| black cumin  | <span class="ashebrew"><big>קֶ֖צַח </big></span><small><small><sup>[[H7100]]</sup></small></small> &#8207;| Ke.tzach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and cumin  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כַמֹּ֥ן </big></span><small><small><sup>[[H3646]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> rod  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שָּֽׁבֶט </big></span><small><small><sup>[[H7626G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Sha.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> threshing sledge  |**<big>&#8207;[[H9003\|בֶֽ]]&#8207;&#8207;[[H2742A\|חָרוּץ֙]]&#8207; </big>**| ve.<small><sup>[[HRd]]</sup></small> cha.Rutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is threshed  |**<big>&#8207;[[H1758\|י֣וּדַשׁ]]&#8207; </big>**| Yu.dash<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| black cumin  |**<big>&#8207;[[H7100\|קֶ֔צַח]]&#8207; </big>**| Ke.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a wheel of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0212\|אוֹפַ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Fan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cart  |**<big>&#8207;[[H5699\|עֲגָלָ֔ה]]&#8207; </big>**| 'a.ga.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cumin  |**<big>&#8207;[[H3646\|כַּמֹּ֖ן]]&#8207; </big>**| ka.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is turned  |**<big>&#8207;[[H5437G\|יוּסָּ֑ב]]&#8207; </big>**| yu.Sav<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> staff  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H4294J\|מַּטֶּ֛ה]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ma.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is beaten out  |**<big>&#8207;[[H2251\|יֵחָ֥בֶט]]&#8207; </big>**| ye.Cha.vet<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| black cumin  |**<big>&#8207;[[H7100\|קֶ֖צַח]]&#8207; </big>**| Ke.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cumin  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3646\|כַמֹּ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> rod  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7626G\|שָּֽׁבֶט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sha.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.26|<< Isaiah 28:26]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.28|Isaiah 28:28 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סִינִי‎</span></big> **Çîynîy** <small>*(see-nee')*</small> ==**Sinite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+**<big><span class="ashebrew">‎סִינִי‎</span></big>** **Çîynîy** <small>*(see-nee')*</small> ==**Sinite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
 <small>from an otherwise unknown name of a man</small>
 
 $\quad$ Sinite.

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מֵשָׁא‎</span></big> **Mêshâʼ** <small>*(may-shaw')*</small> ==**Mesha**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎מֵשָׁא‎</span></big>** **Mêshâʼ** <small>*(may-shaw')*</small> ==**Mesha**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Mesha.

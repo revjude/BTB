@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְחֻבָּה‎</span></big> **Yᵉchubbâh** <small>*(yekh-oob-baw')*</small> ==**Jehubbah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָבָה‎</span><sup><small>[[H2247]]</small></sup>; hidden</small>
+**<big><span class="ashebrew">‎יְחֻבָּה‎</span></big>** **Yᵉchubbâh** <small>*(yekh-oob-baw')*</small> ==**Jehubbah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2247|‎חָבָה‎]]</big>**; hidden</small>
 
 $\quad$ Jehubbah.
 - § Jehubbah = *"hidden"*

@@ -6,17 +6,17 @@ Judah mourneth, and the gates thereof languish; they are black unto the ground; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.1|<< Jeremiah 14:1]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.3|Jeremiah 14:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it is in mourning  | <span class="ashebrew"><big>אָבְלָ֣ה </big></span><small><small><sup>[[H0056]]</sup></small></small> &#8207;| 'a.ve.Lah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gates its  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁעָרֶ֥י </big></span><small><small><sup>[[H8179G]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.'a.Rei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are languishing  | <span class="ashebrew"><big>אֻמְלְל֖וּ </big></span><small><small><sup>[[H0535]]</sup></small></small> &#8207;| 'um.le.Lu <small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are in mourning  | <span class="ashebrew"><big>קָדְר֣וּ </big></span><small><small><sup>[[H6937]]</sup></small></small> &#8207;| ka.de.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the earth  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776H]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] outcry of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צִוְחַ֥ת </big></span><small><small><sup>[[H6682]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tziv.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֖ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has gone up  | <span class="ashebrew"><big>עָלָֽתָה </big></span><small><small><sup>[[H5927G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.La.tah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is in mourning  |**<big>&#8207;[[H0056\|אָבְלָ֣ה]]&#8207; </big>**| 'a.ve.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gates its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8179G\|שְׁעָרֶ֥י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are languishing  |**<big>&#8207;[[H0535\|אֻמְלְל֖וּ]]&#8207; </big>**| 'um.le.Lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are in mourning  |**<big>&#8207;[[H6937\|קָדְר֣וּ]]&#8207; </big>**| ka.de.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the earth  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֑רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] outcry of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6682\|צִוְחַ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tziv.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֖ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone up  |**<big>&#8207;[[H5927G\|עָלָֽתָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.La.tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.1|<< Jeremiah 14:1]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.3|Jeremiah 14:3 >>]]</td></tr></table>
 
 

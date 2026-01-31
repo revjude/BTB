@@ -7,40 +7,40 @@ The snorting of his horses was heard from Dan: the whole land trembled at the so
 The snorting of enemy horses is heard from Dan. At the sound of the neighing of mighty steeds, the whole land quakes. They come to devour the land and everything in it, the city and all who dwell in it.<small><sub>**MT:**</sub></small>
 [[Jer.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.15|<< Jeremiah 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.17|Jeremiah 8:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| we shall hear | <big><span class="asgreek">ακουσόμεθα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| swift | <big><span class="asgreek">οξύτηρος</span></big> <sup><small><small>[[G8529]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| of his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of snorting | <big><span class="asgreek">χρεμετισμού</span></big> <sup><small><small>[[G9755]]</small></small></sup> |
-| of \[the ones\] riding | <big><span class="asgreek">ιππασίας</span></big> <sup><small><small>[[G7727]]</small></small></sup> |
-| his horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be shaken | <big><span class="asgreek">εσείσθη</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fullness | <big><span class="asgreek">πλήρωμα</span></big> <sup><small><small>[[G4138]]</small></small></sup> |
-| of it -- | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| Dan | **<big>[[H1835\|Δαν]]</big>** |
+| we shall hear | **<big>[[G0191\|ακουσόμεθα]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνήν]]</big>** |
+| swift | **<big>[[G8529\|οξύτηρος]]</big>** |
+| horses | **<big>[[G2462\|ίππων]]</big>** |
+| of his | **<big>[[G1473\|αυτού]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνής]]</big>** |
+| of snorting | **<big>[[G9755\|χρεμετισμού]]</big>** |
+| of \[the ones\] riding | **<big>[[G7727\|ιππασίας]]</big>** |
+| his horses | **<big>[[G2462\|ίππων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall be shaken | **<big>[[G4579\|εσείσθη]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall come | **<big>[[G2240\|ήξει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| fullness | **<big>[[G4138\|πλήρωμα]]</big>** |
+| of it -- | **<big>[[G1473\|αυτής]]</big>** |
+| \[the\] city, | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Jer.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.15|<< Jeremiah 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.17|Jeremiah 8:17 >>]]</td></tr></table>
 
 

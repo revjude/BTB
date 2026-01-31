@@ -6,27 +6,27 @@ with curds from the herd and milk from the flock, with the fat of lambs, with ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.13|<< Deuteronomy 32:13]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.15|Deuteronomy 32:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| curd\<s> of  | <span class="ashebrew"><big>חֶמְאַ֨ת </big></span><small><small><sup>[[H2529A]]</sup></small></small> &#8207;| chem.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] herd  | <span class="ashebrew"><big>בָּקָ֜ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| ba.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and milk of  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲלֵ֣ב </big></span><small><small><sup>[[H2461]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.Lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] flock  | <span class="ashebrew"><big>צֹ֗אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| Tzon <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fat of  | <span class="ashebrew"><big>חֵ֨לֶב </big></span><small><small><sup>[[H2459]]</sup></small></small> &#8207;| Che.lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lambs  | <span class="ashebrew"><big>כָּרִ֜ים </big></span><small><small><sup>[[H3733C]]</sup></small></small> &#8207;| ka.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and rams  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵילִ֤ים </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bashan  | <span class="ashebrew"><big>בָשָׁן֙ </big></span><small><small><sup>[[H1316]]</sup></small></small> &#8207;| va.Shan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and goats  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַתּוּדִ֔ים </big></span><small><small><sup>[[H6260]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.tu.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fat of  | <span class="ashebrew"><big>חֵ֖לֶב </big></span><small><small><sup>[[H2459]]</sup></small></small> &#8207;| Che.lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] kidneys of  | <span class="ashebrew"><big>כִּלְי֣וֹת </big></span><small><small><sup>[[H3629]]</sup></small></small> &#8207;| kil.Yot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wheat  | <span class="ashebrew"><big>חִטָּ֑ה </big></span><small><small><sup>[[H2406]]</sup></small></small> &#8207;| chi.Tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and blood of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דַם </big></span><small><small><sup>[[H1818]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> dam- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grape[s]  | <span class="ashebrew"><big>עֵנָ֖ב </big></span><small><small><sup>[[H6025]]</sup></small></small> &#8207;| 'e.Nav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you drank  | <span class="ashebrew"><big>תִּשְׁתֶּה </big></span><small><small><sup>[[H8354]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tish.teh- <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wine  | <span class="ashebrew"><big>חָֽמֶר </big></span><small><small><sup>[[H2561]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.mer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| curd\<s> of  |**<big>&#8207;[[H2529A\|חֶמְאַ֨ת]]&#8207; </big>**| chem.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] herd  |**<big>&#8207;[[H1241\|בָּקָ֜ר]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and milk of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2461\|חֲלֵ֣ב]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] flock  |**<big>&#8207;[[H6629G\|צֹ֗אן]]&#8207; </big>**| Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fat of  |**<big>&#8207;[[H2459\|חֵ֨לֶב]]&#8207; </big>**| Che.lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  |**<big>&#8207;[[H3733C\|כָּרִ֜ים]]&#8207; </big>**| ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rams  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0352A\|אֵילִ֤ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121H\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bashan  |**<big>&#8207;[[H1316\|בָשָׁן֙]]&#8207; </big>**| va.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and goats  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6260\|עַתּוּדִ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.tu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fat of  |**<big>&#8207;[[H2459\|חֵ֖לֶב]]&#8207; </big>**| Che.lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kidneys of  |**<big>&#8207;[[H3629\|כִּלְי֣וֹת]]&#8207; </big>**| kil.Yot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wheat  |**<big>&#8207;[[H2406\|חִטָּ֑ה]]&#8207; </big>**| chi.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and blood of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1818\|דַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> dam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grape[s]  |**<big>&#8207;[[H6025\|עֵנָ֖ב]]&#8207; </big>**| 'e.Nav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you drank  |**<big>&#8207;[[H8354\|תִּשְׁתֶּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tish.teh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  |**<big>&#8207;[[H2561\|חָֽמֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.13|<< Deuteronomy 32:13]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.15|Deuteronomy 32:15 >>]]</td></tr></table>
 
 

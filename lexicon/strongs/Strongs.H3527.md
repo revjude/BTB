@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּבַר‎</span></big> **kâbar** <small>*(kaw-bar')*</small> ==**to multiply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּבַר‎</span></big>** **kâbar** <small>*(kaw-bar')*</small> ==**to multiply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ in abundance, multiply.
@@ -7,4 +7,4 @@ $\quad$ in abundance, multiply.
 **1)** to be much, be many, be in abundance, intertwine, multiply
 $\quad$ **1a)** (Hiphil) to make many, make great
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup>
+<small>See Greek: </small>**<big>[[G2480|ἰσχύω]]</big>**

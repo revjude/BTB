@@ -7,18 +7,18 @@ Send thee help from the sanctuary, and strengthen thee out of Zion;
 May He send you help from the sanctuary and sustain you from Zion.<small><sub>**MT:**</sub></small>
 [[Ps.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.1|<< Psalm 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.3|Psalm 20:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May he send | <big><span class="asgreek">εξαποστείλαι</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| help | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] holy place, | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| may he assist | <big><span class="asgreek">αντιλάβοιτό</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May he send | **<big>[[G1821\|εξαποστείλαι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| help | **<big>[[G0996\|βοήθειαν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] holy place, | **<big>[[G0039\|αγίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| may he assist | **<big>[[G0482\|αντιλάβοιτό]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Ps.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.1|<< Psalm 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.3|Psalm 20:3 >>]]</td></tr></table>
 
 

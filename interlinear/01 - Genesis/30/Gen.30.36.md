@@ -6,21 +6,21 @@ Then he put a three-day journey between himself and Jacob, while Jacob was sheph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.35|<< Genesis 30:35]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.37|Genesis 30:37 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he put  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֗שֶׂם </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.sem <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a journey of  | <span class="ashebrew"><big>דֶּ֚רֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹ֣שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Lo.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֔ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between himself  | <span class="ashebrew"><big>בֵּינ֖ </big></span><small><small><sup>[[H0996G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| bei.N <small><sup>[[HAcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and between  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֣ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Vein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֑ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jacob  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַעֲקֹ֗ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] pasturing  | <span class="ashebrew"><big>רֹעֶ֛ה </big></span><small><small><sup>[[H7462B]]</sup></small></small> &#8207;| ro.'Eh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] flock of  | <span class="ashebrew"><big>צֹ֥אן </big></span><small><small><sup>[[H6629G]]</sup></small></small> &#8207;| tzon <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Laban  | <span class="ashebrew"><big>לָבָ֖ן </big></span><small><small><sup>[[H3837A]]</sup></small></small> &#8207;| la.Van <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which remained  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נּוֹתָרֹֽת </big></span><small><small><sup>[[H3498]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> no.ta.Rot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּ֗שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a journey of  |**<big>&#8207;[[H1870L\|דֶּ֚רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֣שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֔ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between himself  |**<big>&#8207;[[H0996G\|בֵּינ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| bei.N<small><sup>[[HAcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֣ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֑ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jacob  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֗ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] pasturing  |**<big>&#8207;[[H7462B\|רֹעֶ֛ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] flock of  |**<big>&#8207;[[H6629G\|צֹ֥אן]]&#8207; </big>**| tzon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which remained  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3498\|נּוֹתָרֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.ta.Rot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.35|<< Genesis 30:35]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.37|Genesis 30:37 >>]]</td></tr></table>
 
 

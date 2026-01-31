@@ -6,15 +6,15 @@ A fool rejects his father’s discipline, but whoever heeds correction is pruden
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.4|<< Proverbs 15:4]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.6|Proverbs 15:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a fool  | <span class="ashebrew"><big>אֱוִ֗יל </big></span><small><small><sup>[[H0191]]</sup></small></small> &#8207;| 'e.Vil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he spurns  | <span class="ashebrew"><big>יִ֭נְאַץ </big></span><small><small><sup>[[H5006]]</sup></small></small> &#8207;| Yin.'atz <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] discipline of  | <span class="ashebrew"><big>מוּסַ֣ר </big></span><small><small><sup>[[H4148G]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  | <span class="ashebrew"><big>אָבִ֑י </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] keeps  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁמֵ֖ר </big></span><small><small><sup>[[H8104I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| correction  | <span class="ashebrew"><big>תּוֹכַ֣חַת </big></span><small><small><sup>[[H8433B]]</sup></small></small> &#8207;| to.Kha.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is prudent  | <span class="ashebrew"><big>יַעְרִֽם </big></span><small><small><sup>[[H6191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya'.Rim <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fool  |**<big>&#8207;[[H0191\|אֱוִ֗יל]]&#8207; </big>**| 'e.Vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he spurns  |**<big>&#8207;[[H5006\|יִ֭נְאַץ]]&#8207; </big>**| Yin.'atz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] discipline of  |**<big>&#8207;[[H4148G\|מוּסַ֣ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] keeps  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104I\|שֹׁמֵ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| correction  |**<big>&#8207;[[H8433B\|תּוֹכַ֣חַת]]&#8207; </big>**| to.Kha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is prudent  |**<big>&#8207;[[H6191\|יַעְרִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya'.Rim<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.4|<< Proverbs 15:4]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.6|Proverbs 15:6 >>]]</td></tr></table>
 
 

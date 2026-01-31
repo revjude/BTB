@@ -6,24 +6,24 @@ Elisha answered, “Go and tell him, ‘You will surely recover.’ But the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.9|<< 2 Kings 8:9]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.11|2 Kings 8:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֤אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָי </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elisha  | <span class="ashebrew"><big>אֱלִישָׁ֔ע </big></span><small><small><sup>[[H0477]]</sup></small></small> &#8207;| 'e.li.Sha' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go  | <span class="ashebrew"><big>לֵ֥ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| lekh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אֱמָר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'e.mor- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  [^2] | <span class="ashebrew"><big>ל֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;[^3] | l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| certainly \<to live>  | <span class="ashebrew"><big>חָיֹ֣ה </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| cha.Yoh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will live  | <span class="ashebrew"><big>תִחְיֶ֑ה </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| tich.Yeh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he has shown me  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִרְאַ֥ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hir.'A. <small><sup>[[HVhq3ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to die>  | <span class="ashebrew"><big>מ֥וֹת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| Mot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will die  | <span class="ashebrew"><big>יָמֽוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mut <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elisha  |**<big>&#8207;[[H0477\|אֱלִישָׁ֔ע]]&#8207; </big>**| 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|לֵ֥ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אֱמָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.mor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  [^2]|**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**[^3] | l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| certainly \<to live>  |**<big>&#8207;[[H2421\|חָיֹ֣ה]]&#8207; </big>**| cha.Yoh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will live  |**<big>&#8207;[[H2421\|תִחְיֶ֑ה]]&#8207; </big>**| tich.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has shown me  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|הִרְאַ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hir.'A.<small><sup>[[HVhq3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to die>  |**<big>&#8207;[[H4191\|מ֥וֹת]]&#8207; </big>**| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will die  |**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.9|<< 2 Kings 8:9]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.11|2 Kings 8:11 >>]]</td></tr></table>
 
-[^1]: ==K==: **not ** | <small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>לֹא</big></span>  | lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: **not ** | <small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>לֹא</big></span>  | lo'<small><sup>[[HTn]]</sup></small> 
+[^1]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
+[^2]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֖א</big></span>**
 

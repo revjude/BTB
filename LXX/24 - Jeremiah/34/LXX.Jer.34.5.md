@@ -7,34 +7,34 @@ In peace you shall die, and as they burned odors  for your fathers  reigning pri
 you will die in peace. As spices were burned for your fathers, the former kings who preceded you, so people will burn spices for you and lament, ‘Alas, O master!’ For I Myself have spoken this word, declares the LORD.”<small><sub>**MT:**</sub></small>
 [[Jer.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.4|<< Jeremiah 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.6|Jeremiah 34:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| you shall die, | <big><span class="asgreek">αποθανή</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| they burned odors | <big><span class="asgreek">έκαυσαν</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your fathers | <big><span class="asgreek">πατέρας</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reigning | <big><span class="asgreek">βασιλεύσαντας</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| prior | <big><span class="asgreek">πρότερόν</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| of you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[so\] they shall burn | <big><span class="asgreek">καύσονται</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for you, \[saying\], | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| Lord. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall lament | <big><span class="asgreek">κόψονταί</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
+| you shall die, | **<big>[[G0599\|αποθανή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| they burned odors | **<big>[[G1572\|έκαυσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| for your fathers | **<big>[[G3962\|πατέρας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| reigning | **<big>[[G0936\|βασιλεύσαντας]]</big>** |
+| prior | **<big>[[G4387\|πρότερόν]]</big>** |
+| of you, | **<big>[[G1473\|σου]]</big>** |
+| \[so\] they shall burn | **<big>[[G1572\|καύσονται]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| for you, \[saying\], | **<big>[[G1473\|σε]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| Lord. | **<big>[[G2962\|κύριε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall lament | **<big>[[G2875\|κόψονταί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.4|<< Jeremiah 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.6|Jeremiah 34:6 >>]]</td></tr></table>
 
 

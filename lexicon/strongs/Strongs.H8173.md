@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שָׁעַע‎</span></big> **shâʻaʻ** <small>*(shaw-ah')*</small> ==**to smear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁעַע‎</span></big>** **shâʻaʻ** <small>*(shaw-ah')*</small> ==**to smear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ cry (out) (by confusion with <span class="ashebrew">‎שָׁוַע‎</span><sup><small>[[H7768]]</small></sup>), dandle, delight (self), play, shut.
+$\quad$ cry (out) (by confusion with **<big>[[H7768|‎שָׁוַע‎]]</big>**), dandle, delight (self), play, shut.
 - (in a good acceptation) ***to look upon*** (with complacency), i.e. ***fondle***, ***please*** or ***amuse*** (self)
 -  (in a bad one) ***to look about*** (in dismay), i.e. ***stare***
 
@@ -16,4 +16,4 @@ $\quad$ **2a)** (Pilpel) to sport, delight in, take delight in, delight oneself
 $\quad$ **2b)** (Palpal) to be fondled
 $\quad$ **2c)** (Hithpalpel) to delight oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">καμμύω</span><sup><small>[[G2576]]</small></sup> · <span class="asgreek">μελετάω</span><sup><small>[[G3191]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G2576|καμμύω]]</big>** · **<big>[[G3191|μελετάω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>**

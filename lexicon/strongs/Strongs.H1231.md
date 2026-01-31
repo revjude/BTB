@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֻּקִּי‎</span></big> **Buqqîy** <small>*(book-kee')*</small> ==**Bukki**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּקַק‎</span><sup><small>[[H1238]]</small></sup>; wasteful</small>
+**<big><span class="ashebrew">‎בֻּקִּי‎</span></big>** **Buqqîy** <small>*(book-kee')*</small> ==**Bukki**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1238|‎בָּקַק‎]]</big>**; wasteful</small>
 
 $\quad$ Bukki.
 - § Bukki = *"wasting"*

@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H8281]]</small>
+<small>Hebrew form: **<big>[[H8281|שָׁרָה]]</big>**</small>
  [<span class="bdbLangAramaic">‎שְׁרָא‎</span>] 
 
 **verb 1.** ==loosen==. 

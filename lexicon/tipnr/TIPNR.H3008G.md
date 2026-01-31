@@ -4,8 +4,8 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Igal</span> son of Joseph, from the tribe of Issachar, was one of the twelve scouts sent by Moses to explore Canaan.
 - A man living at the time of Egypt and Wilderness, only mentioned at [[Num.13.7|Num.13.7]]; 
-- only referred to as Igal<[[H3008G]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>\); 
-- a son of Joseph<[[H3130H]]>.
+- only referred to as Igal **<big>[[H3008|יִגְאָל]]</big>**; 
+- a son of Joseph **<big>[[H3130|יוֹסֵף]]</big>**.
 
 Igal, the son of Joseph, is mentioned in [[Num.13.7|Numbers 13:7]] as one of the twelve scouts sent by Moses to explore the land of Canaan. He was chosen as the representative from the tribe of Issachar. 
 
@@ -21,7 +21,7 @@ Although Igal's specific role in the scouting mission is not elaborated upon, hi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Igal | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>](H3008G) <small>*Hebrew*</small> | 1x | [Num.13.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igal\*\|reference=Num.13.7) |
-All Strong's for **Igal**: \[[[H3008G]]\]
+| Igal | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>](H3008G) | 1x | [Num.13.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igal\*\|reference=Num.13.7) |
+All entries for **Igal**:  **<big>[[H3008|יִגְאָל]]</big>**
 #### Related Profiles:
 - **[Joseph](H3130H)** (father)

@@ -1,8 +1,8 @@
 <small>*Riblah\_2 • Place on the eastern border of the Promised Land*</small>
 
 <span class='tipnrhighlight'>Riblah</span> was a place mentioned in the description of the eastern border of the Promised Land \(Num. 34:11\).
-- A location near Ain<[[H5871G]]> only mentioned at [[Num.34.11|Num.34.11]]; 
-- only referred to as Riblah<[[H7247G]]> \(<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Ain **<big>[[H5871|עַיִן]]</big>** only mentioned at [[Num.34.11|Num.34.11]]; 
+- only referred to as Riblah **<big>[[H7247|רִבְלָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.353071,36.385705&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Riblah is mentioned in the Bible as a place on the eastern border of the Promise
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Riblah | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7247G) <small>*Hebrew*</small> | 1x | [Num.34.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Riblah\*\|reference=Num.34.11) |
-All Strong's for **Riblah**: \[[[H7247G]]\]
+| Riblah | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7247G) | 1x | [Num.34.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Riblah\*\|reference=Num.34.11) |
+All entries for **Riblah**:  **<big>[[H7247|רִבְלָה]]</big>**

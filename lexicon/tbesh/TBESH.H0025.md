@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אֲבִי גִבְעוֹן‎</span> <small>***(a.vi giv.on)***</small> ==**Abi-gibeon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-combination of: <small>[[H0022G]] ([[H0001I]]+[[H1391]])</small> 
+<small>combination of:</small> <small>**<big>[[H0022G|אֲבִיאֵל]]</big>** (**<big>[[H0001I|אָב]]</big>**+**<big>[[H1391|גִּבְעוֹן]]</big>**)</small> 
 
 - Abi Gibon = "father of Gibeon"

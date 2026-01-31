@@ -7,27 +7,27 @@ And Elkanah went to Ramah to his house. And the child did minister unto the LORD
 Then Elkanah went home to Ramah, but the boy began ministering to the LORD before Eli the priest.<small><sub>**MT:**</sub></small>
 [[1Sam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.10|<< 1 Samuel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.12|1 Samuel 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went forth | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ramah | <big><span class="asgreek">Αραμαθαϊμ</span></big> <sup><small><small>[[G4471]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| officiating | <big><span class="asgreek">λειτουργών</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the face | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Eli | <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest. | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they went forth | **<big>[[G0565\|απήλθον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Ramah | **<big>[[G4471\|Αραμαθαϊμ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their house. | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| boy | **<big>[[G3808\|παιδάριον]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| officiating | **<big>[[G3008\|λειτουργών]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the face | **<big>[[G4383\|προσώπω]]</big>** |
+| of Eli | **<big>[[G2242\|Ηλί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest. | **<big>[[G2409\|ιερέως]]</big>** |
 [[1Sam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.10|<< 1 Samuel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.12|1 Samuel 2:12 >>]]</td></tr></table>
 
 

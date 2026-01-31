@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִישׁוּעַ‎</span></big> **ʼĂbîyshûwaʻ** <small>*(ab-ee-shoo'-ah)*</small> ==**Abishua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎שׁוֹעַ‎</span><sup><small>[[H7771]]</small></sup>; father of plenty (i.e. prosperous)</small>
+**<big><span class="ashebrew">‎אֲבִישׁוּעַ‎</span></big>** **ʼĂbîyshûwaʻ** <small>*(ab-ee-shoo'-ah)*</small> ==**Abishua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H7771|‎שׁוֹעַ‎]]</big>**; father of plenty (i.e. prosperous)</small>
 
 $\quad$ Abishua.
 - § Abishua = *"my father is rescue (safety), or is opulence"*

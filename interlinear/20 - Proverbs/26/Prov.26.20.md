@@ -6,16 +6,16 @@ Without wood, a fire goes out; without gossip, a conflict ceases.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.19|<< Proverbs 26:19]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.21|Proverbs 26:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| with not  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֣פֶס </big></span><small><small><sup>[[H0657A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.fes <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wood\<s>  | <span class="ashebrew"><big>עֵ֭צִים </big></span><small><small><sup>[[H6086G]]</sup></small></small> &#8207;| 'E.tzim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is extinguished  | <span class="ashebrew"><big>תִּכְבֶּה </big></span><small><small><sup>[[H3518]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tikh.beh- <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֵ֑שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and with not  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a slanderer  | <span class="ashebrew"><big>נִ֝רְגָּ֗ן </big></span><small><small><sup>[[H7279]]</sup></small></small> &#8207;| nir.Gan <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it becomes quiet  | <span class="ashebrew"><big>יִשְׁתֹּ֥ק </big></span><small><small><sup>[[H8367]]</sup></small></small> &#8207;| yish.Tok <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strife  | <span class="ashebrew"><big>מָדֽוֹן </big></span><small><small><sup>[[H4066]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.Don <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0657A\|אֶ֣פֶס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.fes<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood\<s>  |**<big>&#8207;[[H6086G\|עֵ֭צִים]]&#8207; </big>**| 'E.tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is extinguished  |**<big>&#8207;[[H3518\|תִּכְבֶּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tikh.beh-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0784\|אֵ֑שׁ]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with not  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a slanderer  |**<big>&#8207;[[H7279\|נִ֝רְגָּ֗ן]]&#8207; </big>**| nir.Gan<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it becomes quiet  |**<big>&#8207;[[H8367\|יִשְׁתֹּ֥ק]]&#8207; </big>**| yish.Tok<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strife  |**<big>&#8207;[[H4066\|מָדֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.19|<< Proverbs 26:19]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.21|Proverbs 26:21 >>]]</td></tr></table>
 
 

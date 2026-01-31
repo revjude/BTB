@@ -10,37 +10,37 @@ And Absalom made Amasa captain of the host instead of Joab: which Amasa [was] a 
 Absalom had appointed Amasa over the army in place of Joab. Amasa was the son of a man named Ithra, the Ishmaelite who had married Abigail, the daughter of Nahash and sister of Zeruiah the mother of Joab.<small><sub>**MT:**</sub></small>
 [[2Sam.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.24|<< 2 Samuel 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.26|2 Samuel 17:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amasa | <big><span class="asgreek">Αμεσσά</span></big> <sup><small><small>[[H6021]]</small></small></sup> |
-| placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| Absalom | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force. | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amasa | <big><span class="asgreek">Αμεσσά</span></big> <sup><small><small>[[H6021]]</small></small></sup> |
-| \[was\] a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of a man, | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name to him | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Ithra | <big><span class="asgreek">Ιεθέρ</span></big> <sup><small><small>[[H3501]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israelite. | <big><span class="asgreek">Ισραελίτου</span></big> <sup><small><small>[[G2475]]</small></small></sup> |
-| This one | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abigail, | <big><span class="asgreek">Αβιγαϊλ</span></big> <sup><small><small>[[H0026]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Nahash, | <big><span class="asgreek">Νάας</span></big> <sup><small><small>[[H5176]]</small></small></sup> |
-| sister | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| of Zeruiah, | <big><span class="asgreek">Σαρουϊα</span></big> <sup><small><small>[[H6870]]</small></small></sup> |
-| mother | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| of Joab. | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Amasa | **<big>[[H6021\|Αμεσσά]]</big>** |
+| placed | **<big>[[G2525\|κατέστησεν]]</big>** |
+| Absalom | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| force. | **<big>[[G1411\|δυνάμεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Amasa | **<big>[[H6021\|Αμεσσά]]</big>** |
+| \[was\] a son | **<big>[[G5207\|υιός]]</big>** |
+| of a man, | **<big>[[G0435\|ανδρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name to him | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
+| \[was\] Ithra | **<big>[[H3501\|Ιεθέρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Israelite. | **<big>[[G2475\|Ισραελίτου]]</big>** |
+| This one | **<big>[[G3778\|ος]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abigail, | **<big>[[H0026\|Αβιγαϊλ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Nahash, | **<big>[[H5176\|Νάας]]</big>** |
+| sister | **<big>[[G0079\|αδελφήν]]</big>** |
+| of Zeruiah, | **<big>[[H6870\|Σαρουϊα]]</big>** |
+| mother | **<big>[[G3384\|μητρός]]</big>** |
+| of Joab. | **<big>[[H3097\|Ιωάβ]]</big>** |
 [[2Sam.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.24|<< 2 Samuel 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.26|2 Samuel 17:26 >>]]</td></tr></table>
 
 

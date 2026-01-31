@@ -7,24 +7,24 @@ And he called the name of that place Bethel: but the name of that city [was call
 and he called that place Bethel, though previously the city had been named Luz.<small><sub>**MT:**</sub></small>
 [[Gen.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.18|<< Genesis 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.20|Genesis 28:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that place, | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| House | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lam-luz | <big><span class="asgreek">Λαμμαούς</span></big> <sup><small><small>[[H3870]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly. | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of that place, | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
+| House | **<big>[[G3624\|οίκος]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Lam-luz | **<big>[[H3870\|Λαμμαούς]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| city | **<big>[[G4172\|πόλει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| formerly. | **<big>[[G4387\|πρότερον]]</big>** |
 [[Gen.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.18|<< Genesis 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.20|Genesis 28:20 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ And when the tabernacle setteth forward, the Levites shall take it down: and whe
 Whenever the tabernacle is to move, the Levites are to take it down, and whenever it is to be pitched, the Levites are to set it up. Any outsider who goes near it must be put to death.<small><sub>**MT:**</sub></small>
 [[Num.1.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.50|<< Numbers 1:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.52|Numbers 1:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting away | <big><span class="asgreek">εξαίρειν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| shall lower | <big><span class="asgreek">καθελούσιν</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pitching | <big><span class="asgreek">παρεμβάλλειν</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| they shall raise it up. | <big><span class="asgreek">αναστήσουσι</span></big> <sup><small><small>[[G0450]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">αλλογενής</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going in it, | <big><span class="asgreek">προσπορευόμενος</span></big> <sup><small><small>[[G4365]]</small></small></sup> |
-| let him die! | <big><span class="asgreek">αποθανέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| lifting away | **<big>[[G1808\|εξαίρειν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent, | **<big>[[G4633\|σκηνήν]]</big>** |
+| shall lower | **<big>[[G2507\|καθελούσιν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| pitching | **<big>[[G6070\|παρεμβάλλειν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent, | **<big>[[G4633\|σκηνήν]]</big>** |
+| they shall raise it up. | **<big>[[G0450\|αναστήσουσι]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| foreigner | **<big>[[G0241\|αλλογενής]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| going in it, | **<big>[[G4365\|προσπορευόμενος]]</big>** |
+| let him die! | **<big>[[G0599\|αποθανέτω]]</big>** |
 [[Num.1.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.50|<< Numbers 1:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.52|Numbers 1:52 >>]]</td></tr></table>
 
 

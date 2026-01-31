@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁפִיר‎</span></big> **Shâphîyr** <small>*(shaf-eer')*</small> ==**Shaphir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפַר‎</span><sup><small>[[H8231]]</small></sup>; beautiful</small>
+**<big><span class="ashebrew">‎שָׁפִיר‎</span></big>** **Shâphîyr** <small>*(shaf-eer')*</small> ==**Shaphir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H8231|‎שָׁפַר‎]]</big>**; beautiful</small>
 
 $\quad$ Saphir.
 - § Saphir = *"fair"*

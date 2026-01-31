@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δια-τίθημι </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">כּרת</span> <small><sup>[[H3772]]</sup></small>, freq. <span class="asgreek">δ. διαθήκην</span> (<span class="ashebrew">כָּרַת בְּרִית</span> <small><sup>[[H3772]]</sup></small>) ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δια-τίθημι </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H3772|כּרת]]</big>**, freq. <span class="asgreek">δ. διαθήκην</span> (**<big>[[H3772|כָּרַת בְּרִית]]</big>**) ;\] </span> </span>
 <span class="asitalic">to place separately, arrange, dispose</span>. Mid, only in NT;
 <span class="asbullet"><span class="asbold">1.</span> </span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> in general, <span class="asitalic">to dispose of</span>; c. dat. pers., <span class="asitalic">to assign to one</span>, [[Luke.22.29|Lk 22:29]];</span>

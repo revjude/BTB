@@ -7,24 +7,24 @@ But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt n
 But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a thing! What you are saying about Ishmael is a lie.”<small><sub>**MT:**</sub></small>
 [[Jer.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.15|<< Jeremiah 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.1|Jeremiah 41:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gedaliah said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Γοδολίας</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Johanan | <big><span class="asgreek">Ιωάναν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kareah, | <big><span class="asgreek">Καριέ</span></big> <sup><small><small>[[H7143]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing, | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> <big><span class="asgreek">τουτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| lies | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speak | <big><span class="asgreek">λέγεις</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| concerning | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| Ishmael. | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gedaliah said | **<big>[[G2036\|είπε]]</big>** **<big>[[H1436b\|Γοδολίας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Johanan | **<big>[[H3110\|Ιωάναν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Kareah, | **<big>[[H7143\|Καριέ]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| do | **<big>[[G4160\|ποιήσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing, | **<big>[[G4229\|πράγμα]]</big>** **<big>[[G3778\|τουτο]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| lies | **<big>[[G5571\|ψευδή]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| speak | **<big>[[G3004\|λέγεις]]</big>** |
+| concerning | **<big>[[G5228\|υπέρ]]</big>** |
+| Ishmael. | **<big>[[H3458\|Ισμαήλ]]</big>** |
 [[Jer.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.15|<< Jeremiah 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.1|Jeremiah 41:1 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ Whosoever [he be] that doth rebel against thy commandment, and will not hearken 
 Anyone who rebels against your order and does not obey your words, all that you command him, will be put to death. Above all, be strong and courageous!”<small><sub>**MT:**</sub></small>
 [[Josh.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.17|<< Joshua 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.1|Joshua 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should resist | <big><span class="asgreek">απειθήση</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your words, | <big><span class="asgreek">ρημάτων</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in so far | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should give charge | <big><span class="asgreek">εντείλη</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let him die! | <big><span class="asgreek">αποθανέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| be strong | <big><span class="asgreek">ίσχυε</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be manly! | <big><span class="asgreek">ανδρίζου</span></big> <sup><small><small>[[G0407]]</small></small></sup> |
+| And the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should resist | **<big>[[G0544\|απειθήση]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| hearken to | **<big>[[G0191\|ακούση]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your words, | **<big>[[G4487\|ρημάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in so far | **<big>[[G2530\|καθότι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| you should give charge | **<big>[[G1781\|εντείλη]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| let him die! | **<big>[[G0599\|αποθανέτω]]</big>** |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| be strong | **<big>[[G2480\|ίσχυε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be manly! | **<big>[[G0407\|ανδρίζου]]</big>** |
 [[Josh.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.17|<< Joshua 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.1|Joshua 2:1 >>]]</td></tr></table>
 
 

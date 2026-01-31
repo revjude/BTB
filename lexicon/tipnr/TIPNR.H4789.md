@@ -1,8 +1,8 @@
 <small>*Meroz • A place cursed for not helping against Sisera*</small>
 
 <span class='tipnrhighlight'>Meroz</span>, a place cursed by the angel of the Lord for not coming to help fight against Sisera \([[Judg.5.23|Judges 5:23]]\).
-- A location near Tabor\_Mount<[[H8396G]]> only mentioned at [[Judg.5.23|Jdg.5.23]]; 
-- only referred to as Meroz<[[H4789]]> \(<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ז</span>\).
+- A location near Tabor\_Mount **<big>[[H8396|תָּבוֹר]]</big>** only mentioned at [[Judg.5.23|Jdg.5.23]]; 
+- only referred to as Meroz **<big>[[H4789|מֵרוֹז]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.68695640243183,35.39091304299688&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Meroz is a place mentioned only once in the Bible, in the Song of Deborah and Ba
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Meroz | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ז</span>](H4789) <small>*Hebrew*</small> | 1x | [Jdg.5.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meroz\*\|reference=Jdg.5.23) |
-All Strong's for **Meroz**: \[[[H4789]]\]
+| Meroz | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ז</span>](H4789) | 1x | [Jdg.5.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meroz\*\|reference=Jdg.5.23) |
+All entries for **Meroz**:  **<big>[[H4789|מֵרוֹז]]</big>**

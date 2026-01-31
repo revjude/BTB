@@ -6,24 +6,24 @@ Next to him, Meremoth son of Uriah, the son of Hakkoz, repaired another section,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.20|<< Nehemiah 3:20]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.22|Nehemiah 3:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| after him  | <span class="ashebrew"><big>אַחֲרָ֣י </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.cha.Ra <small><sup>[[HAcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he repaired  | <span class="ashebrew"><big>הֶחֱזִ֗יק </big></span><small><small><sup>[[H2388G]]</sup></small></small> &#8207;| he.che.Zik <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Meremoth  | <span class="ashebrew"><big>מְרֵמ֧וֹת </big></span><small><small><sup>[[H4822G]]</sup></small></small> &#8207;| me.re.Mot <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Uriah  | <span class="ashebrew"><big>אוּרִיָּ֛ה </big></span><small><small><sup>[[H0223H]]</sup></small></small> &#8207;| 'u.ri.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hakkoz  | <span class="ashebrew"><big>הַקּ֖וֹץ </big></span><small><small><sup>[[H6976J]]</sup></small></small> &#8207;| ha.Kotz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a measured portion  | <span class="ashebrew"><big>מִדָּ֣ה </big></span><small><small><sup>[[H4060A]]</sup></small></small> &#8207;| mi.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| second  | <span class="ashebrew"><big>שֵׁנִ֑ית </big></span><small><small><sup>[[H8145]]</sup></small></small> &#8207;| she.Nit <small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] entrance of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פֶּ֙תַח֙ </big></span><small><small><sup>[[H6607]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Pe.tach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliashib  | <span class="ashebrew"><big>אֶלְיָשִׁ֔יב </big></span><small><small><sup>[[H0475M]]</sup></small></small> &#8207;| 'el.ya.Shiv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] end of  | <span class="ashebrew"><big>תַּכְלִ֖ית </big></span><small><small><sup>[[H8503]]</sup></small></small> &#8207;| takh.Lit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| beit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliashib  | <span class="ashebrew"><big>אֶלְיָשִֽׁיב </big></span><small><small><sup>[[H0475M]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'el.ya.Shiv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֗יק]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meremoth  |**<big>&#8207;[[H4822G\|מְרֵמ֧וֹת]]&#8207; </big>**| me.re.Mot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uriah  |**<big>&#8207;[[H0223H\|אוּרִיָּ֛ה]]&#8207; </big>**| 'u.ri.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hakkoz  |**<big>&#8207;[[H6976J\|הַקּ֖וֹץ]]&#8207; </big>**| ha.Kotz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a measured portion  |**<big>&#8207;[[H4060A\|מִדָּ֣ה]]&#8207; </big>**| mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| second  |**<big>&#8207;[[H8145\|שֵׁנִ֑ית]]&#8207; </big>**| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] entrance of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6607\|פֶּ֙תַח֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliashib  |**<big>&#8207;[[H0475M\|אֶלְיָשִׁ֔יב]]&#8207; </big>**| 'el.ya.Shiv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] end of  |**<big>&#8207;[[H8503\|תַּכְלִ֖ית]]&#8207; </big>**| takh.Lit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliashib  |**<big>&#8207;[[H0475M\|אֶלְיָשִֽׁיב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'el.ya.Shiv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.20|<< Nehemiah 3:20]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.22|Nehemiah 3:22 >>]]</td></tr></table>
 
 

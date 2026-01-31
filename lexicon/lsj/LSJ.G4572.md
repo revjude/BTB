@@ -1,4 +1,4 @@
-form of: <small>[[G4771]]</small> 
+form of: <small>**<big>[[G4771|σύ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σεαυτοῦ==</span></b>, -<span class='asgreek'>ῆς</span>, 

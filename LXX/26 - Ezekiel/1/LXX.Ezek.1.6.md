@@ -7,18 +7,18 @@ And every one had four faces, and every one had four wings.
 but each had four faces and four wings.<small><sub>**MT:**</sub></small>
 [[Ezek.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.5|<< Ezekiel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.7|Ezekiel 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there were\] four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| faces | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one, | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτέρυγες</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one. | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[there were\] four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| faces | **<big>[[G4383\|πρόσωπα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one, | **<big>[[G1520\|ενί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| wings | **<big>[[G4420\|πτέρυγες]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one. | **<big>[[G1520\|ενί]]</big>** |
 [[Ezek.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.5|<< Ezekiel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.7|Ezekiel 1:7 >>]]</td></tr></table>
 
 

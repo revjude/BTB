@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Asia</span>, a Roman province in western Asia Minor, with Ephesus as its capital.
 - A location first mentioned at [[Gen.14.5|Act.2.9]]; 
-- referred to as Asia<[[G0773]]> \(<span class='tipnrLangGreek'>Ἀσία</span>\), or Asian<[[G0774]]> \(<span class='tipnrLangGreek'>Ἀσιανός</span>\).
+- referred to as Asia **<big>[[G0773|Ἀσία]]</big>**, or Asian **<big>[[G0774|Ἀσιανός]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.23,32.73&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ These references to Asia in the New Testament provide insight into the early spr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Asia | [<span class='tipnrLangGreek'>Ἀσία</span>](G0773) <small>*Greek*</small> | 21x | [[Act.2.9] ... [Rev.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Asia\*\|reference=Act.2.9;Act.6.9;Act.16.6;Act.19.10;Act.19.22;Act.19.26;Act.19.27;Act.20.4;Act.20.16;Act.20.18;Act.21.27;Act.24.18;Act.24.19;Act.27.2;Rom.16.5;1Co.16.19;2Co.1.8;2Ti.1.15;1Pe.1.1;Rev.1.4;Rev.1.11) |
-| Asian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀσιανός</span>](G0774) <small>*Greek*</small> | 1x | [Act.20.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Asian\*\|reference=Act.20.4) |
-All Strong's for **Asia**: \[[[G0773]]\] \[[[G0774]]\]
+| Asia | [<span class='tipnrLangGreek'>Ἀσία</span>](G0773) | 21x | [[Act.2.9] ... [Rev.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Asia\*\|reference=Act.2.9;Act.6.9;Act.16.6;Act.19.10;Act.19.22;Act.19.26;Act.19.27;Act.20.4;Act.20.16;Act.20.18;Act.21.27;Act.24.18;Act.24.19;Act.27.2;Rom.16.5;1Co.16.19;2Co.1.8;2Ti.1.15;1Pe.1.1;Rev.1.4;Rev.1.11) |
+| Asian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀσιανός</span>](G0774) | 1x | [Act.20.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Asian\*\|reference=Act.20.4) |
+All entries for **Asia**:  **<big>[[G0773|Ἀσία]]</big>** ☩  **<big>[[G0774|Ἀσιανός]]</big>**

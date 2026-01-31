@@ -7,26 +7,26 @@ And he commanded them, saying, Behold, ye shall lie in wait against the city, [e
 with these orders: “Pay attention. You are to lie in ambush behind the city, not too far from it. All of you must be ready.<small><sub>**MT:**</sub></small>
 [[Josh.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.3|<< Joshua 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.5|Joshua 8:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| See | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lie in wait | <big><span class="asgreek">ενεδρεύσατε</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| greatly! | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall | <big><span class="asgreek">έσεσθε</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| be prepared. | <big><span class="asgreek">έτοιμοι</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| See | **<big>[[G1492\|ίδετε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| lie in wait | **<big>[[G1748\|ενεδρεύσατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| behind | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| greatly! | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall | **<big>[[G1510\|έσεσθε]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| be prepared. | **<big>[[G2092\|έτοιμοι]]</big>** |
 [[Josh.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.3|<< Joshua 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.5|Joshua 8:5 >>]]</td></tr></table>
 
 

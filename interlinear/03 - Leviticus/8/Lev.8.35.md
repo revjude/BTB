@@ -6,25 +6,25 @@ You must remain at the entrance to the Tent of Meeting day and night for seven d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.34|<< Leviticus 8:34]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.36|Leviticus 8:36 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] entrance of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פֶתַח֩ </big></span><small><small><sup>[[H6607]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fe.Tach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tent of  | <span class="ashebrew"><big>אֹ֨הֶל </big></span><small><small><sup>[[H0168G]]</sup></small></small> &#8207;| 'O.hel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| meeting  | <span class="ashebrew"><big>מוֹעֵ֜ד </big></span><small><small><sup>[[H4150I]]</sup></small></small> &#8207;| mo.'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will remain  | <span class="ashebrew"><big>תֵּשְׁב֨וּ </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| te.she.Vu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by day  | <span class="ashebrew"><big>יוֹמָ֤ם </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and night  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לַ֙יְלָה֙ </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שִׁבְעַ֣ת </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'At <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֔ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will keep  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שְׁמַרְתֶּ֛ם </big></span><small><small><sup>[[H8104G]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> she.mar.Tem <small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] duty of  | <span class="ashebrew"><big>מִשְׁמֶ֥רֶת </big></span><small><small><sup>[[H4931]]</sup></small></small> &#8207;| mish.Me.ret <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will die  | <span class="ashebrew"><big>תָמ֑וּתוּ </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| ta.Mu.tu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֵ֖ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| khen <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have been commanded  | <span class="ashebrew"><big>צֻוֵּֽיתִי </big></span><small><small><sup>[[H6680]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzu.Vei.ti <small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] entrance of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6607\|פֶתַח֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.Tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֨הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  |**<big>&#8207;[[H4150I\|מוֹעֵ֜ד]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will remain  |**<big>&#8207;[[H3427\|תֵּשְׁב֨וּ]]&#8207; </big>**| te.she.Vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  |**<big>&#8207;[[H3119\|יוֹמָ֤ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and night  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3915\|לַ֙יְלָה֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעַ֣ת]]&#8207; </big>**| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֔ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will keep  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8104G\|שְׁמַרְתֶּ֛ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] duty of  |**<big>&#8207;[[H4931\|מִשְׁמֶ֥רֶת]]&#8207; </big>**| mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will die  |**<big>&#8207;[[H4191\|תָמ֑וּתוּ]]&#8207; </big>**| ta.Mu.tu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651C\|כֵ֖ן]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have been commanded  |**<big>&#8207;[[H6680\|צֻוֵּֽיתִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzu.Vei.ti<small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.34|<< Leviticus 8:34]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.36|Leviticus 8:36 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רוּר‎</span></big> **rûwr** <small>*(roor)*</small> ==**to run**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רוּר‎</span></big>** **rûwr** <small>*(roor)*</small> ==**to run**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ run.

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בֵּרִי‎</span></big> **Bêrîy** <small>*(bay-ree')*</small> ==**Bichrites**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+**<big><span class="ashebrew">‎בֵּרִי‎</span></big>** **Bêrîy** <small>*(bay-ree')*</small> ==**Bichrites**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Berites.

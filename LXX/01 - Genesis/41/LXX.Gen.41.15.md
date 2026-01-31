@@ -7,29 +7,29 @@ And Pharaoh said unto Joseph, I have dreamed a dream, and [there is] none that c
 Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”<small><sub>**MT:**</sub></small>
 [[Gen.41.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.14|<< Genesis 41:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.16|Genesis 41:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| a dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| I have seen | <big><span class="asgreek">εώρακα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not \[one\] interpreting | <big><span class="asgreek">συγκρίνων</span></big> <sup><small><small>[[G4793]]</small></small></sup> <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| have heard | <big><span class="asgreek">ακήκοα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λεγόντων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In your hearing | <big><span class="asgreek">ακούσαντά</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dreams | <big><span class="asgreek">ενύπνια</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| \[you\] interpret | <big><span class="asgreek">συγκρίναι</span></big> <sup><small><small>[[G4793]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| a dream | **<big>[[G1798\|ενύπνιον]]</big>** |
+| I have seen | **<big>[[G3708\|εώρακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| not \[one\] interpreting | **<big>[[G4793\|συγκρίνων]]</big>** **<big>[[G3756\|ουκ]]</big>** |
+| there is | **<big>[[G1510\|έστιν]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| have heard | **<big>[[G0191\|ακήκοα]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| saying, | **<big>[[G3004\|λεγόντων]]</big>** |
+| In your hearing | **<big>[[G0191\|ακούσαντά]]</big>** **<big>[[G1473\|σε]]</big>** |
+| dreams | **<big>[[G1798\|ενύπνια]]</big>** |
+| \[you\] interpret | **<big>[[G4793\|συγκρίναι]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Gen.41.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.14|<< Genesis 41:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.16|Genesis 41:16 >>]]</td></tr></table>
 
 

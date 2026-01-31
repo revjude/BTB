@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hadashah</span> was a town allotted to the tribe of Judah, located in the Shephelah region \([[Josh.15.37|Joshua 15:37]]\).
 - A location only mentioned at [[Josh.15.37|Jos.15.37]]; 
-- only referred to as Hadashah<[[H2322]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Hadashah **<big>[[H2322|חֲדָשָׁה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.679512,34.695903&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hadashah was a town mentioned in the list of cities and towns allotted to the tr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hadashah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H2322) <small>*Hebrew*</small> | 1x | [Jos.15.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hadashah\*\|reference=Jos.15.37) |
-All Strong's for **Hadashah**: \[[[H2322]]\]
+| Hadashah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H2322) | 1x | [Jos.15.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hadashah\*\|reference=Jos.15.37) |
+All entries for **Hadashah**:  **<big>[[H2322|חֲדָשָׁה]]</big>**

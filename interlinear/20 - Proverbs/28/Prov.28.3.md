@@ -6,16 +6,16 @@ A destitute leader who oppresses the poor is like a driving rain that leaves no 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.2|<< Proverbs 28:2]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.4|Proverbs 28:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a man  | <span class="ashebrew"><big>גֶּ֣בֶר </big></span><small><small><sup>[[H1397]]</sup></small></small> &#8207;| Ge.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor  | <span class="ashebrew"><big>רָ֭שׁ </big></span><small><small><sup>[[H7326]]</sup></small></small> &#8207;| rash <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [who] oppresses  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֹשֵׁ֣ק </big></span><small><small><sup>[[H6231]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.Shek <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor [people]  | <span class="ashebrew"><big>דַּלִּ֑ים </big></span><small><small><sup>[[H1800]]</sup></small></small> &#8207;| da.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rain  | <span class="ashebrew"><big>מָטָ֥ר </big></span><small><small><sup>[[H4306]]</sup></small></small> &#8207;| ma.Tar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] washes away  | <span class="ashebrew"><big>סֹ֝חֵ֗ף </big></span><small><small><sup>[[H5502]]</sup></small></small> &#8207;| so.Chef <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] food  | <span class="ashebrew"><big>לָֽחֶם </big></span><small><small><sup>[[H3899G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H1397\|גֶּ֣בֶר]]&#8207; </big>**| Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor  |**<big>&#8207;[[H7326\|רָ֭שׁ]]&#8207; </big>**| rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] oppresses  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6231\|עֹשֵׁ֣ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Shek<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor [people]  |**<big>&#8207;[[H1800\|דַּלִּ֑ים]]&#8207; </big>**| da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rain  |**<big>&#8207;[[H4306\|מָטָ֥ר]]&#8207; </big>**| ma.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] washes away  |**<big>&#8207;[[H5502\|סֹ֝חֵ֗ף]]&#8207; </big>**| so.Chef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] food  |**<big>&#8207;[[H3899G\|לָֽחֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.2|<< Proverbs 28:2]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.4|Proverbs 28:4 >>]]</td></tr></table>
 
 

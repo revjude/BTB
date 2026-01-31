@@ -1,4 +1,4 @@
-combination of: <small>[[G1565]] ([[G2532]]+[[G1565]])</small> 
+combination of: <small>**<big>[[G1565|ἐκεῖνος]]</big>** (**<big>[[G2532|καί]]</big>**+**<big>[[G1565|ἐκεῖνος]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==κἀκεῖνος==</span></b>, <span class='asgreek'>ἐκείνη</span>, <span class='asgreek'>ἐκεῖνο</span>, 

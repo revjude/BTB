@@ -7,30 +7,30 @@ But thou shalt say unto them, This [is] a nation that obeyeth not the voice of t
 Therefore you must say to them, ‘This is the nation that would not listen to the voice of the LORD their God and would not receive correction. Truth has perished; it has disappeared from their lips.<small><sub>**MT:**</sub></small>
 [[Jer.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.27|<< Jeremiah 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.29|Jeremiah 7:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| hearkened not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| to the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| received | <big><span class="asgreek">εδέξατο</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| instruction. | <big><span class="asgreek">παιδείαν</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Trust | <big><span class="asgreek">πίστις</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| their mouth. | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| nation | **<big>[[G1484\|έθνος]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| hearkened not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσε]]</big>** |
+| to the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| received | **<big>[[G1209\|εδέξατο]]</big>** |
+| instruction. | **<big>[[G3809\|παιδείαν]]</big>** |
+| failed | **<big>[[G1587\|εξέλιπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Trust | **<big>[[G4102\|πίστις]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| their mouth. | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.27|<< Jeremiah 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.29|Jeremiah 7:29 >>]]</td></tr></table>
 
 

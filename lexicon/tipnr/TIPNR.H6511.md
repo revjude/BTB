@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Parah</span> was a city allotted to the tribe of Benjamin, located between Avvim and Ophrah.
 - A location only mentioned at [[Josh.18.23|Jos.18.23]]; 
-- only referred to as Parah<[[H6511]]> \(<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Parah **<big>[[H6511|פָּרָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.833333,35.300000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Parah was a city in the territory of Benjamin, mentioned only once in the Bible 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Parah | [<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6511) <small>*Hebrew*</small> | 1x | [Jos.18.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Parah\*\|reference=Jos.18.23) |
-All Strong's for **Parah**: \[[[H6511]]\]
+| Parah | [<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6511) | 1x | [Jos.18.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Parah\*\|reference=Jos.18.23) |
+All entries for **Parah**:  **<big>[[H6511|פָּרָה]]</big>**

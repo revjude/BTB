@@ -7,30 +7,30 @@ Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants th
 ‘Curse Meroz,’ says the angel of the LORD. ‘Bitterly curse her inhabitants; for they did not come to help the LORD, to help the LORD against the mighty.’<small><sub>**MT:**</sub></small>
 [[Judg.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.22|<< Judges 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.24|Judges 5:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Curse | <big><span class="asgreek">καταράσθε</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| Meroz! | <big><span class="asgreek">Μηρώζ</span></big> <sup><small><small>[[H4789]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[With\] a curse, | <big><span class="asgreek">καταράσει</span></big> <sup><small><small>[[G7906]]</small></small></sup> |
-| curse | <big><span class="asgreek">καταράσασθε</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικών</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in it! | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they came not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| help | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] a helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| warriors. | <big><span class="asgreek">μαχηταίς</span></big> <sup><small><small>[[G8263]]</small></small></sup> |
+| Curse | **<big>[[G2672\|καταράσθε]]</big>** |
+| Meroz! | **<big>[[H4789\|Μηρώζ]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G2532\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| \[With\] a curse, | **<big>[[G7906\|καταράσει]]</big>** |
+| curse | **<big>[[G2672\|καταράσασθε]]</big>** |
+| every one | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικών]]</big>** |
+| in it! | **<big>[[G1473\|αυτήν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they came not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2064\|ήλθον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| help | **<big>[[G0996\|βοήθειαν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] a helper | **<big>[[G0998\|βοηθός]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| warriors. | **<big>[[G8263\|μαχηταίς]]</big>** |
 [[Judg.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.22|<< Judges 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.24|Judges 5:24 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּחַד‎</span></big> **pâchad** <small>*(paw-kkad')*</small> ==**to dread**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּחַד‎</span></big>** **pâchad** <small>*(paw-kkad')*</small> ==**to dread**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be afraid, stand in awe, (be in) fear, make to shake.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** to be in awe
 $\quad$ **1b)** (Piel) to be in great dread
 $\quad$ **1c)** (Hiphil) to cause to dread
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">δειλιάω</span><sup><small>[[G1168]]</small></sup> · <span class="asgreek">διασείω</span><sup><small>[[G1286]]</small></sup> · <span class="asgreek">ἐντρέπω</span><sup><small>[[G1788]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup> · <span class="asgreek">εὐλαβέομαι</span><sup><small>[[G2125]]</small></sup> · <span class="asgreek">παρακαλύπτω</span><sup><small>[[G3871]]</small></sup> · <span class="asgreek">πτοέω</span><sup><small>[[G4422]]</small></sup> · <span class="asgreek">φοβέω</span><sup><small>[[G5399]]</small></sup> · <span class="asgreek">φροντίζω</span><sup><small>[[G5431]]</small></sup>
+<small>See Greek: </small>**<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G1168|δειλιάω]]</big>** · **<big>[[G1286|διασείω]]</big>** · **<big>[[G1788|ἐντρέπω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>** · **<big>[[G2125|εὐλαβέομαι]]</big>** · **<big>[[G3871|παρακαλύπτω]]</big>** · **<big>[[G4422|πτοέω]]</big>** · **<big>[[G5399|φοβέω]]</big>** · **<big>[[G5431|φροντίζω]]</big>**

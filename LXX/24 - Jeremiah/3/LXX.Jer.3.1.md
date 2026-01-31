@@ -10,44 +10,44 @@ They say, If a man put away his wife, and she go from him, and become another ma
 “If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such a land be completely defiled? But you have played the harlot with many lovers—and you would return to Me?” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.37|<< Jeremiah 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.2|Jeremiah 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should send away | <big><span class="asgreek">εξαποστείλη</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| a husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she should go forth | <big><span class="asgreek">απέλθη</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| becomes | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to another | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| by returning | <big><span class="asgreek">ανακάμπτουσα</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
-| she return | <big><span class="asgreek">ανακάμψει</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yet \[again\]? | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| Shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| by defiling | <big><span class="asgreek">μιαινομένη</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| be defiled | <big><span class="asgreek">μιανθήσεται</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fornicated | <big><span class="asgreek">εξεπόρνευσας</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμέσι</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you have returned | <big><span class="asgreek">ανέκαμπτες</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| should send away | **<big>[[G1821\|εξαποστείλη]]</big>** |
+| a husband | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his wife, | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she should go forth | **<big>[[G0565\|απέλθη]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| becomes | **<big>[[G1096\|γένηται]]</big>** |
+| man | **<big>[[G0435\|ανδρί]]</big>** |
+| to another | **<big>[[G2087\|ετέρω]]</big>** |
+| shall | **<big>[[G3361\|μη]]</big>** |
+| by returning | **<big>[[G0344\|ανακάμπτουσα]]</big>** |
+| she return | **<big>[[G0344\|ανακάμψει]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| yet \[again\]? | **<big>[[G2089\|έτι]]</big>** |
+| Shall not | **<big>[[G3756\|ου]]</big>** |
+| by defiling | **<big>[[G3392\|μιαινομένη]]</big>** |
+| be defiled | **<big>[[G3392\|μιανθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that woman | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| fornicated | **<big>[[G1608\|εξεπόρνευσας]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμέσι]]</big>** |
+| many | **<big>[[G4183\|πολλοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you have returned | **<big>[[G0344\|ανέκαμπτες]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.37|<< Jeremiah 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.2|Jeremiah 3:2 >>]]</td></tr></table>
 
 

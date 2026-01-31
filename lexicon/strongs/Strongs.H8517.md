@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎תְּלַג‎</span></big> **tᵉlag** <small>*(tel-ag')*</small> ==**snow**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שֶׁלֶג‎</span><sup><small>[[H7950]]</small></sup></small>
+**<big><span class="asaramaic">‎תְּלַג‎</span></big>** **tᵉlag** <small>*(tel-ag')*</small> ==**snow**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7950|‎שֶׁלֶג‎]]</big>**</small>
 
 $\quad$ snow.
 - ***snow***
 
 **1)** snow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">χιών</span><sup><small>[[G5510]]</small></sup>
+<small>See Greek: </small>**<big>[[G5510|χιών]]</big>**

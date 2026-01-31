@@ -1,10 +1,8 @@
-<span class="asaramaic">‎לֵוָי‎</span> <small>***(le.vi)***</small> ==**Levite**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H3878]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3878|לֵוִי]]</big>**</small> 
 
 - A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at [[Gen.29.34|Gen.29.34]]
--  son of: Israel ([[H3478]]) and Leah ([[H3812]])
--  brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Judah ([[H3063]]), Issachar ([[H3485]]), Zebulun ([[H2074]]) and Dinah ([[H1783]])
--  half-brother of: Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Joseph ([[H3130]]) and Benjamin ([[H1144]])
--  father of: Gershon ([[H1648]]), Kohath ([[H6955]]), Merari ([[H4847]]) and Jochebed ([[H3115]])
-- Aramaic of <i>le.vi</i> (<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ו‎</span>ִ<span class='ashebrew'>‎י‎</span> "Levi" [[H3878]])
-
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Leah (**<big>[[H3812|לֵאָה]]</big>**)
+-  brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**) and Dinah (**<big>[[H1783|דִּינָה]]</big>**)
+-  half-brother of: Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  father of: Gershon (**<big>[[H1648|גֵּרְשׁוֹן]]</big>**), Kohath (**<big>[[H6955|קְהָת]]</big>**), Merari (**<big>[[H4847|מְרָרִי]]</big>**) and Jochebed (**<big>[[H3115|יוֹכֶבֶד]]</big>**)
+- Aramaic of <i>le.vi</i> (<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ו‎</span>ִ<span class='ashebrew'>‎י‎</span> "Levi" **<big>[[H3878|לֵוִי]]</big>**)

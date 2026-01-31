@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוֹדוֹ‎</span></big> **Dôwdôw** <small>*(do-do')*</small> ==**Dodo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎דּוֹד‎</span><sup><small>[[H1730]]</small></sup>; loving</small>
+**<big><span class="ashebrew">‎דּוֹדוֹ‎</span></big>** **Dôwdôw** <small>*(do-do')*</small> ==**Dodo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1730|‎דּוֹד‎]]</big>**; loving</small>
 
 $\quad$ Dodo.
 - § Dodo = *"his beloved"*

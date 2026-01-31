@@ -6,20 +6,20 @@ Do not charge your brother interest on money, food, or any other type of loan.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.18|<< Deuteronomy 23:18]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.20|Deuteronomy 23:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will charge interest  | <span class="ashebrew"><big>תַשִּׁ֣יךְ </big></span><small><small><sup>[[H5391B]]</sup></small></small> &#8207;| ta.Shikh <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to countryman your  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָחִ֔י </big></span><small><small><sup>[[H0251I]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'a.Chi. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| interest of  | <span class="ashebrew"><big>נֶ֥שֶׁךְ </big></span><small><small><sup>[[H5392]]</sup></small></small> &#8207;| Ne.shekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| money  | <span class="ashebrew"><big>כֶּ֖סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| Ke.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| interest of  | <span class="ashebrew"><big>נֶ֣שֶׁךְ </big></span><small><small><sup>[[H5392]]</sup></small></small> &#8207;| Ne.shekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>אֹ֑כֶל </big></span><small><small><sup>[[H0400]]</sup></small></small> &#8207;| 'O.khel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| interest of  | <span class="ashebrew"><big>נֶ֕שֶׁךְ </big></span><small><small><sup>[[H5392]]</sup></small></small> &#8207;| Ne.shekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thing  | <span class="ashebrew"><big>דָּבָ֖ר </big></span><small><small><sup>[[H1697I]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| someone will pay interest  | <span class="ashebrew"><big>יִשָּֽׁךְ </big></span><small><small><sup>[[H5391B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.Shakh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will charge interest  |**<big>&#8207;[[H5391B\|תַשִּׁ֣יךְ]]&#8207; </big>**| ta.Shikh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to countryman your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0251I\|אָחִ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| interest of  |**<big>&#8207;[[H5392\|נֶ֥שֶׁךְ]]&#8207; </big>**| Ne.shekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| money  |**<big>&#8207;[[H3701G\|כֶּ֖סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| interest of  |**<big>&#8207;[[H5392\|נֶ֣שֶׁךְ]]&#8207; </big>**| Ne.shekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H0400\|אֹ֑כֶל]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| interest of  |**<big>&#8207;[[H5392\|נֶ֕שֶׁךְ]]&#8207; </big>**| Ne.shekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thing  |**<big>&#8207;[[H1697I\|דָּבָ֖ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will pay interest  |**<big>&#8207;[[H5391B\|יִשָּֽׁךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.Shakh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.18|<< Deuteronomy 23:18]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.20|Deuteronomy 23:20 >>]]</td></tr></table>
 
 

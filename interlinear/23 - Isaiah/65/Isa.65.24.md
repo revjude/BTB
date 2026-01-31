@@ -6,18 +6,18 @@ Even before they call, I will answer, and while they are still speaking, I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.23|<< Isaiah 65:23]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.25|Isaiah 65:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָיָ֥ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.Yah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| before  | <span class="ashebrew"><big>טֶֽרֶם </big></span><small><small><sup>[[H2962]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| te.rem- <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will call  | <span class="ashebrew"><big>יִקְרָ֖אוּ </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| yik.Ra.'u <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנִ֣י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will answer  | <span class="ashebrew"><big>אֶעֱנֶ֑ה </big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| 'e.'e.Neh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still  | <span class="ashebrew"><big>ע֛וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֥ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] speaking  | <span class="ashebrew"><big>מְדַבְּרִ֖ים </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| me.da.be.Rim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנִ֥י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will hear  | <span class="ashebrew"><big>אֶשְׁמָֽע </big></span><small><small><sup>[[H8085G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'esh.Ma' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  |**<big>&#8207;[[H2962\|טֶֽרֶם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.rem-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will call  |**<big>&#8207;[[H7121G\|יִקְרָ֖אוּ]]&#8207; </big>**| yik.Ra.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will answer  |**<big>&#8207;[[H6030B\|אֶעֱנֶ֑ה]]&#8207; </big>**| 'e.'e.Neh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|ע֛וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֥ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] speaking  |**<big>&#8207;[[H1696G\|מְדַבְּרִ֖ים]]&#8207; </big>**| me.da.be.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will hear  |**<big>&#8207;[[H8085G\|אֶשְׁמָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'esh.Ma'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.23|<< Isaiah 65:23]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.25|Isaiah 65:25 >>]]</td></tr></table>
 
 

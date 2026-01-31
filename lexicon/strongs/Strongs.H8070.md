@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמִירָמוֹת‎</span></big> **Shᵉmîyrâmôwth** <small>*(shem-ee-raw-moth')*</small> ==**Shemiramoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שְׁמָרִימוֹת</span> **Shᵉmârîymôwth** <small>*(shem-aw-ree-moth')*</small>; probably from <span class="ashebrew">‎שֵׁם‎</span><sup><small>[[H8034]]</small></sup> and plural of <span class="ashebrew">‎רָמָה‎</span><sup><small>[[H7413]]</small></sup>; name of heights</small>
+**<big><span class="ashebrew">‎שְׁמִירָמוֹת‎</span></big>** **Shᵉmîyrâmôwth** <small>*(shem-ee-raw-moth')*</small> ==**Shemiramoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁמָרִימוֹת</span></big>** **Shᵉmârîymôwth** <small>*(shem-aw-ree-moth')*</small>; probably from **<big>[[H8034|‎שֵׁם‎]]</big>** and plural of **<big>[[H7413|‎רָמָה‎]]</big>**; name of heights</small>
 
 $\quad$ Shemiramoth.
 - § Shemiramoth = *"name of heights"*

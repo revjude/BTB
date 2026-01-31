@@ -7,21 +7,21 @@ LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, t
 You have heard, O LORD, the desire of the humble; You will strengthen their hearts. You will incline Your ear,<small><sub>**MT:**</sub></small>
 [[Ps.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.16|<< Psalm 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.18|Psalm 10:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| desire | <big><span class="asgreek">επιθυμίαν</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy | <big><span class="asgreek">πενήτων</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| You heard | <big><span class="asgreek">εισήκουσας</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| preparation | <big><span class="asgreek">ετοιμασία</span></big> <sup><small><small>[[G2091]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| took heed to | <big><span class="asgreek">προσέσχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | **<big>[[G3588\|την]]</big>** |
+| desire | **<big>[[G1939\|επιθυμίαν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| needy | **<big>[[G3993\|πενήτων]]</big>** |
+| You heard | **<big>[[G1522\|εισήκουσας]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| preparation | **<big>[[G2091\|ετοιμασία]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of their heart | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| took heed to | **<big>[[G4337\|προσέσχε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.16|<< Psalm 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.18|Psalm 10:18 >>]]</td></tr></table>
 
 

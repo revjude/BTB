@@ -11,25 +11,25 @@ because of the many harlotries of the harlot, the seductive mistress of sorcery,
 > $\quad$ referenced by: [[Rev.18.3|Rev 18:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| harlot | <big><span class="asgreek">πόρνη</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| a good | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gratifying, | <big><span class="asgreek">επιχαρής</span></big> <sup><small><small>[[G7472]]</small></small></sup> |
-| taking the lead | <big><span class="asgreek">ηγουμένη</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| \[in\] potions; | <big><span class="asgreek">φαρμάκων</span></big> <sup><small><small>[[G9619]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| selling | <big><span class="asgreek">πωλούσα</span></big> <sup><small><small>[[G4453]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her harlotry, | <big><span class="asgreek">πορνεία</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her potions. | <big><span class="asgreek">φαρμάκοις</span></big> <sup><small><small>[[G9619]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| harlot | **<big>[[G4204\|πόρνη]]</big>** |
+| a good | **<big>[[G2570\|καλή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gratifying, | **<big>[[G7472\|επιχαρής]]</big>** |
+| taking the lead | **<big>[[G2233\|ηγουμένη]]</big>** |
+| \[in\] potions; | **<big>[[G9619\|φαρμάκων]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| selling | **<big>[[G4453\|πωλούσα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her harlotry, | **<big>[[G4202\|πορνεία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| her potions. | **<big>[[G9619\|φαρμάκοις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Nah.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.3|<< Nahum 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.5|Nahum 3:5 >>]]</td></tr></table>
 
 

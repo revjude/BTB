@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cnidus</span> was a city on the southwest coast of Asia Minor, where Paul's ship stopped during his journey to Rome.
 - A location only mentioned at [[Josh.15.62|Act.27.7]]; 
-- only referred to as Cnidus<[[G2834]]> \(<span class='tipnrLangGreek'>Κνίδος</span>\).
+- only referred to as Cnidus **<big>[[G2834|Κνίδος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.68502255790917,27.37439432376754&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of Cnidus in Acts 27 provides insight into the route taken by Paul a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cnidus | [<span class='tipnrLangGreek'>Κνίδος</span>](G2834) <small>*Greek*</small> | 1x | [Act.27.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cnidus\*\|reference=Act.27.7) |
-All Strong's for **Cnidus**: \[[[G2834]]\]
+| Cnidus | [<span class='tipnrLangGreek'>Κνίδος</span>](G2834) | 1x | [Act.27.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cnidus\*\|reference=Act.27.7) |
+All entries for **Cnidus**:  **<big>[[G2834|Κνίδος]]</big>**

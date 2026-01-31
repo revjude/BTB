@@ -7,21 +7,21 @@ Lo, let that night be solitary, let no joyful voice come therein.
 Behold, may that night be barren; may no joyful voice come into it.<small><sub>**MT:**</sub></small>
 [[Job.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.6|<< Job 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.8|Job 3:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that night | <big><span class="asgreek">νυξ</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| may | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| grief, | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| come | <big><span class="asgreek">έλθοι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| a cause for joy. | <big><span class="asgreek">χαρμονή</span></big> <sup><small><small>[[G9704]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that night | **<big>[[G3571\|νυξ]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| may | **<big>[[G1510\|είη]]</big>** |
+| grief, | **<big>[[G3601\|οδύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| come | **<big>[[G2064\|έλθοι]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| a cause for joy. | **<big>[[G9704\|χαρμονή]]</big>** |
 [[Job.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.6|<< Job 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.8|Job 3:8 >>]]</td></tr></table>
 
 

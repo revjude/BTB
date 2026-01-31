@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סִינִים‎</span></big> **Çîynîym** <small>*(see-neem')*</small> ==**Syene**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎סִינִים‎</span></big>** **Çîynîym** <small>*(see-neem')*</small> ==**Syene**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>plural of an otherwise unknown name</small>
 
 $\quad$ Sinim.

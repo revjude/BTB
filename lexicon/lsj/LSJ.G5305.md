@@ -1,4 +1,4 @@
-form of: <small>[[G5306]]</small> 
+form of: <small>**<big>[[G5306|ὕστερος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ὕστερον==</span></b>, <span class='asgreek'>τό</span>, 

@@ -7,31 +7,31 @@ Then he remembered the days of old, Moses, [and] his people, [saying], Where [is
 Then His people remembered the days of old, the days of Moses. Where is He who brought them through the sea with the shepherds of His flock? Where is the One who set His Holy Spirit among them,<small><sub>**MT:**</sub></small>
 [[Isa.63.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.10|<< Isaiah 63:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.12|Isaiah 63:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he remembered | <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| everlasting | <big><span class="asgreek">αιωνίων</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bringing up | <big><span class="asgreek">αναβιβάσας</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherd | <big><span class="asgreek">ποιμένα</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| putting | <big><span class="asgreek">θεις</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he remembered | **<big>[[G3403\|εμνήσθη]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| everlasting | **<big>[[G0166\|αιωνίων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| bringing up | **<big>[[G0307\|αναβιβάσας]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shepherd | **<big>[[G4166\|ποιμένα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sheep. | **<big>[[G4263\|προβάτων]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| putting | **<big>[[G5087\|θεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
 [[Isa.63.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.10|<< Isaiah 63:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.12|Isaiah 63:12 >>]]</td></tr></table>
 
 

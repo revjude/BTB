@@ -7,20 +7,20 @@ Ahimaaz [was] in Naphtali; he also took Basmath the daughter of Solomon to wife:
 Ahimaaz in Naphtali (he had married Basemath, a daughter of Solomon);<small><sub>**MT:**</sub></small>
 [[1Kgs.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.14|<< 1 Kings 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.16|1 Kings 4:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ahimaaz \[was\] | <big><span class="asgreek">Αχιμαάς</span></big> <sup><small><small>[[H0290]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Naphtali, | <big><span class="asgreek">Νεφθαλί</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Basmath | <big><span class="asgreek">Βασεμμάθ</span></big> <sup><small><small>[[H1315]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| Ahimaaz \[was\] | **<big>[[H0290\|Αχιμαάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Naphtali, | **<big>[[G3508\|Νεφθαλί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G3778\|ούτος]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Basmath | **<big>[[H1315\|Βασεμμάθ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[1Kgs.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.14|<< 1 Kings 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.16|1 Kings 4:16 >>]]</td></tr></table>
 
 

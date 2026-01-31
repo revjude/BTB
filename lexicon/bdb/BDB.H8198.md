@@ -1,4 +1,4 @@
-<small>Also see: [[H0519]]</small>
+<small>Also see: **<big>[[H0519|אָמָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שִׁפְחָה‎</span> **noun feminine** ==maid, maid-servant== (synonym  <span class="bdbLangHebrew">‎אָמָה‎</span>, q. v.; originally = ***concubine ?*** compare √); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[Gen.16.1|Gen 16:1]] +; construct <span class="bdbLangHebrew">‎שִׁפְחַת‎</span> v[[Gen.16.2|Gen 16:2]] +; suffix <span class="bdbLangHebrew">‎שִׁפְחָתִי‎</span> v[[Gen.16.2|Gen 16:2]] +, etc.; plural absolute <span class="bdbLangHebrew">‎שְׁפָחוֺת‎</span> [[Gen.12.16|Gen 12:16]] +; suffix <span class="bdbLangHebrew">‎שִׁפְחֹתֶ֑ךָ‎</span> [[Ruth.2.13|Ruth 2:13]], etc.; — 
 

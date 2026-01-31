@@ -1,8 +1,8 @@
 <small>*Tower of the Ovens • A tower in Jerusalem's wall, rebuilt by Nehemiah*</small>
 
 The <span class='tipnrhighlight'>Tower of the Ovens</span>, a tower in Jerusalem's wall, rebuilt during Nehemiah's restoration of the city \(Neh. 3:11; 12:38\).
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Neh.3.11|Neh.3.11]]; 
-- only referred to as Tower\_of\_the\_Ovens<[[H4026I]]><[[H4026I]]> \(<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>נ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ל</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Neh.3.11|Neh.3.11]]; 
+- only referred to as Tower\_of\_the\_Ovens **<big>[[H4026|מִגְדָּל]]</big>** **<big>[[H4026|מִגְדָּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Tower of the Ovens, also known as the Tower of the Furnaces, is mentioned tw
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tower/ of the Ovens | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>נ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H8574G)[<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ל</span>](H4026I) <small>*Hebrew*</small> | 2x | [[Neh.3.11] & [Neh.12.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tower\*\|reference=Neh.3.11;Neh.12.38) |
-All Strong's for **Tower_of_the_Ovens**: \[[[H8574G]]\] \[[[H4026I]]\]
+| Tower/ of the Ovens | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>נ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H8574G)[<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ל</span>](H4026I) | 2x | [[Neh.3.11] & [Neh.12.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tower\*\|reference=Neh.3.11;Neh.12.38) |
+All entries for **Tower of the Ovens**:  **<big>[[H8574|תַּנּוּר]]</big>** ☩  **<big>[[H4026|מִגְדָּל]]</big>**

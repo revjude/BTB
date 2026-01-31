@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָנֵס‎</span></big> **Chânêç** <small>*(khaw-nace')*</small> ==**Hanes**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎חָנֵס‎</span></big>** **Chânêç** <small>*(khaw-nace')*</small> ==**Hanes**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Hanes.

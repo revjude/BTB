@@ -6,20 +6,20 @@ For all the silver and gold and all the articles of bronze and iron are holy to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.18|<< Joshua 6:18]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.20|Joshua 6:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֹ֣ל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כֶּ֣סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| Ke.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gold  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זָהָ֗ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and articles of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְלֵ֤י </big></span><small><small><sup>[[H3627]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bronze  | <span class="ashebrew"><big>נְחֹ֙שֶׁת֙ </big></span><small><small><sup>[[H5178A]]</sup></small></small> &#8207;| ne.Cho.shet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and iron  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בַרְזֶ֔ל </big></span><small><small><sup>[[H1270]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> var.Zel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a holy thing  | <span class="ashebrew"><big>קֹ֥דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] treasury of  | <span class="ashebrew"><big>אוֹצַ֥ר </big></span><small><small><sup>[[H0214]]</sup></small></small> &#8207;| 'o.Tzar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go  | <span class="ashebrew"><big>יָבֽוֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gold  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2091\|זָהָ֗ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and articles of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3627\|כְלֵ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  |**<big>&#8207;[[H5178A\|נְחֹ֙שֶׁת֙]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and iron  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1270\|בַרְזֶ֔ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> var.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a holy thing  |**<big>&#8207;[[H6944G\|קֹ֥דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] treasury of  |**<big>&#8207;[[H0214\|אוֹצַ֥ר]]&#8207; </big>**| 'o.Tzar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go  |**<big>&#8207;[[H0935G\|יָבֽוֹא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.18|<< Joshua 6:18]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.20|Joshua 6:20 >>]]</td></tr></table>
 
 

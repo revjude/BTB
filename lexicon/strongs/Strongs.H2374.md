@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹזֶה‎</span></big> **chôzeh** <small>*(kho-zeh')*</small> ==**seer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>active participle of <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup></small>
+**<big><span class="ashebrew">‎חֹזֶה‎</span></big>** **chôzeh** <small>*(kho-zeh')*</small> ==**seer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>active participle of **<big>[[H2372|‎חָזָה‎]]</big>**</small>
 
 $\quad$ agreement, prophet, see that, seer, (star-) gazer.
 - ***a beholder in vision***

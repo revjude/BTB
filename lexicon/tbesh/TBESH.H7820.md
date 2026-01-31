@@ -1,3 +1,1 @@
-<span class="ashebrew">‎שָׁחוּט‎</span> <small>***(sha.chat)***</small> ==**beaten**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-form of: <small>[[H7819A]]</small> 
-
+<small>form of:</small> <small>**<big>[[H7819A|שָׁחַט]]</big>**</small>

@@ -7,26 +7,26 @@ And they shall take other stones, and put [them] in the place of those stones; a
 So different stones must be obtained to replace the contaminated ones, as well as additional mortar to replaster the house.<small><sub>**MT:**</sub></small>
 [[Lev.14.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.41|<< Leviticus 14:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.43|Leviticus 14:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| being scraped | <big><span class="asgreek">απεξυσμένους</span></big> <sup><small><small>[[G6463]]</small></small></sup> |
-| of another, | <big><span class="asgreek">ετέρους</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall substitute | <big><span class="asgreek">αντιθήσουσιν</span></big> <sup><small><small>[[G6375]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stones, | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dust \[for plaster\] | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| other | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| they shall take, | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall plaster | <big><span class="asgreek">εξαλείψουσι</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall take | **<big>[[G2983\|λήψονται]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| being scraped | **<big>[[G6463\|απεξυσμένους]]</big>** |
+| of another, | **<big>[[G2087\|ετέρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall substitute | **<big>[[G6375\|αντιθήσουσιν]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| stones, | **<big>[[G3037\|λίθων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dust \[for plaster\] | **<big>[[G5522\|χουν]]</big>** |
+| other | **<big>[[G2087\|έτερον]]</big>** |
+| they shall take, | **<big>[[G2983\|λήψονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall plaster | **<big>[[G1813\|εξαλείψουσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house. | **<big>[[G3614\|οικίαν]]</big>** |
 [[Lev.14.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.41|<< Leviticus 14:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.43|Leviticus 14:43 >>]]</td></tr></table>
 
 

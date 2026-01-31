@@ -7,20 +7,20 @@ As for thee also, by the blood of thy covenant I have sent forth thy prisoners o
 As for you, because of the blood of My covenant, I will release your prisoners from the waterless pit.<small><sub>**MT:**</sub></small>
 [[Zech.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.10|<< Zechariah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.12|Zechariah 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] blood | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of your covenant, | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sent out | <big><span class="asgreek">εξαπέστειλας</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| your prisoners | <big><span class="asgreek">δεσμίους</span></big> <sup><small><small>[[G1198]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] pit | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| having | <big><span class="asgreek">έχοντος</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] blood | **<big>[[G0129\|αίματι]]</big>** |
+| of your covenant, | **<big>[[G1242\|διαθήκης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| sent out | **<big>[[G1821\|εξαπέστειλας]]</big>** |
+| your prisoners | **<big>[[G1198\|δεσμίους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] pit | **<big>[[G8154\|λάκκου]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| having | **<big>[[G2192\|έχοντος]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Zech.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.10|<< Zechariah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.12|Zechariah 9:12 >>]]</td></tr></table>
 
 

@@ -14,41 +14,41 @@ A lone witness is not sufficient to establish any wrongdoing or sin against a ma
 > $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[2Cor.13.1|2Cor 13:1]] ☩ [[1Tim.5.19|1Tim 5:19]] ☩ [[Heb.10.28|Heb 10:28]] ☩ [[John.8.17|John 8:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| adhere to | <big><span class="asgreek">εμμενεί</span></big> <sup><small><small>[[G1696]]</small></small></sup> |
-| witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| in witnessing | <big><span class="asgreek">μαρτυρήσαι</span></big> <sup><small><small>[[G3140]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| for | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| any | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| injustice, | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sin, | <big><span class="asgreek">αμάρτημα</span></big> <sup><small><small>[[G0265]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| any | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should have sinned. | <big><span class="asgreek">αμάρτη</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| By | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| witnesses, | <big><span class="asgreek">μαρτύρων</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| witnesses | <big><span class="asgreek">μαρτύρων</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| shall be established | <big><span class="asgreek">σταθήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| adhere to | **<big>[[G1696\|εμμενεί]]</big>** |
+| witness | **<big>[[G3144\|μάρτυς]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| in witnessing | **<big>[[G3140\|μαρτυρήσαι]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| a man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| for | **<big>[[G2596\|κατά]]</big>** |
+| any | **<big>[[G3956\|πάσαν]]</big>** |
+| injustice, | **<big>[[G0093\|αδικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G2596\|κατά]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| sin, | **<big>[[G0265\|αμάρτημα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G2596\|κατά]]</big>** |
+| any | **<big>[[G3956\|πάσαν]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| he should have sinned. | **<big>[[G0264\|αμάρτη]]</big>** |
+| By | **<big>[[G1909\|επί]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of two | **<big>[[G1417\|δύο]]</big>** |
+| witnesses, | **<big>[[G3144\|μαρτύρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] mouth | **<big>[[G4750\|στόματος]]</big>** |
+| of three | **<big>[[G5140\|τριών]]</big>** |
+| witnesses | **<big>[[G3144\|μαρτύρων]]</big>** |
+| shall be established | **<big>[[G2476\|σταθήσεται]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
 [[Deut.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
 
 

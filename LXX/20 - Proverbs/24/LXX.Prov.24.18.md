@@ -7,19 +7,19 @@ Lest the LORD see [it], and it displease him, and he turn away his wrath from hi
 or the LORD will see and disapprove, and turn His wrath away from him.<small><sub>**MT:**</sub></small>
 [[Prov.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.17|<< Proverbs 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.19|Proverbs 24:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall see \[it\], | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| please | <big><span class="asgreek">αρέσει</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will return | <big><span class="asgreek">αποστρέψει</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon him. | <big><span class="asgreek">απ</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall see \[it\], | **<big>[[G3708\|όψεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will not | **<big>[[G3756\|ουκ]]</big>** |
+| please | **<big>[[G0700\|αρέσει]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will return | **<big>[[G0654\|αποστρέψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his rage | **<big>[[G2372\|θυμόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon him. | **<big>[[G0575\|απ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.17|<< Proverbs 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.19|Proverbs 24:19 >>]]</td></tr></table>
 
 

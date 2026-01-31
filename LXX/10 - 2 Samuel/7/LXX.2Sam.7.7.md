@@ -7,37 +7,37 @@ In all [the places] wherein I have walked with all the children of Israel spake 
 In all My journeys with all the Israelites, have I ever asked any of the leaders I appointed to shepherd My people Israel, ‘Why haven’t you built Me a house of cedar?’<small><sub>**MT:**</sub></small>
 [[2Sam.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.6|<< 2 Samuel 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.8|2 Samuel 7:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all \[the places\] | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| went | <big><span class="asgreek">διήλθον</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[have I\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| in speaking | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλήν</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to tend | <big><span class="asgreek">ποιμαίνειν</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| do you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| build | <big><span class="asgreek">ωκοδομήκατέ</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of cedar? | <big><span class="asgreek">κέδρινον</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| all \[the places\] | **<big>[[G3956\|πάσιν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| went | **<big>[[G1330\|διήλθον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[have I\] | **<big>[[G1487\|ει]]</big>** |
+| in speaking | **<big>[[G2980\|λαλών]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| tribe | **<big>[[G5443\|φυλήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to tend | **<big>[[G4165\|ποιμαίνειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| do you not | **<big>[[G3756\|ουκ]]</big>** |
+| build | **<big>[[G3618\|ωκοδομήκατέ]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| a house | **<big>[[G3624\|οίκον]]</big>** |
+| of cedar? | **<big>[[G7989\|κέδρινον]]</big>** |
 [[2Sam.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.6|<< 2 Samuel 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.8|2 Samuel 7:8 >>]]</td></tr></table>
 
 

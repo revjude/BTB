@@ -7,34 +7,34 @@ All these [were] the children of Asher, heads of [their] father’s house, choic
 All these were the descendants of Asher—heads of their families, choice and mighty men of valor, and chiefs among the leaders. The number of men fit for battle, recorded in their genealogies, was 26,000.<small><sub>**MT:**</sub></small>
 [[1Chr.7.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.39|<< 1 Chronicles 7:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.1|1 Chronicles 8:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asher, | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| families, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| choice \[men\], | <big><span class="asgreek">εκλεκτοί</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| strong \[men\] | <big><span class="asgreek">ισχυροί</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| in power, | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| heads | <big><span class="asgreek">αρχηγοί</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
-| of \[the\] rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones tracing descent | <big><span class="asgreek">γενεαλογηθέντων</span></big> <sup><small><small>[[G1075]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| position | <big><span class="asgreek">στάσει</span></big> <sup><small><small>[[G4714]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle, | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[was\] twenty-six | <big><span class="asgreek">εικοσιέξ</span></big> <sup><small><small>[[G7056]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| \[were\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Asher, | **<big>[[G0768\|Ασήρ]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| families, | **<big>[[G3965\|πατριών]]</big>** |
+| choice \[men\], | **<big>[[G1588\|εκλεκτοί]]</big>** |
+| strong \[men\] | **<big>[[G2478\|ισχυροί]]</big>** |
+| in power, | **<big>[[G1411\|δυνάμει]]</big>** |
+| heads | **<big>[[G0747\|αρχηγοί]]</big>** |
+| of \[the\] rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones tracing descent | **<big>[[G1075\|γενεαλογηθέντων]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| position | **<big>[[G4714\|στάσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| battle, | **<big>[[G4171\|πολέμω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their number | **<big>[[G0706\|αριθμός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \[was\] twenty-six | **<big>[[G7056\|εικοσιέξ]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
 [[1Chr.7.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.39|<< 1 Chronicles 7:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.1|1 Chronicles 8:1 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ But they shall fly upon the shoulders of the Philistines toward the west; they s
 They will swoop down on the slopes of the Philistines to the west; together they will plunder the sons of the east. They will lay their hands on Edom and Moab, and the Ammonites will be subject to them.<small><sub>**MT:**</sub></small>
 [[Isa.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.13|<< Isaiah 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.15|Isaiah 11:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall fly | <big><span class="asgreek">πετασθήσονται</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] boast | <big><span class="asgreek">πλοίοις</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| of \[the\] Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| west; | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| they shall despoil | <big><span class="asgreek">προνομεύσουσι</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of \[the\] sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| \[the\] dawn | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Edom; | <big><span class="asgreek">Ιδουμαίαν</span></big> <sup><small><small>[[G2401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτον</span></big> <sup><small><small>[[G4412]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| they shall put | <big><span class="asgreek">επιβαλούσιν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| but the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| at first | <big><span class="asgreek">πρώτοι</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| shall obey. | <big><span class="asgreek">υπακούσονται</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall fly | **<big>[[G4072\|πετασθήσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] boast | **<big>[[G4143\|πλοίοις]]</big>** |
+| of \[the\] Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| west; | **<big>[[G2281\|θάλασσαν]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| they shall despoil | **<big>[[G8902\|προνομεύσουσι]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| of \[the\] sun | **<big>[[G2246\|ηλίου]]</big>** |
+| \[the\] dawn | **<big>[[G0395\|ανατολών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Edom; | **<big>[[G2401\|Ιδουμαίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| first | **<big>[[G4412\|πρώτον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| they shall put | **<big>[[G1911\|επιβαλούσιν]]</big>** |
+| but the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| at first | **<big>[[G4413\|πρώτοι]]</big>** |
+| shall obey. | **<big>[[G5219\|υπακούσονται]]</big>** |
 [[Isa.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.13|<< Isaiah 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.15|Isaiah 11:15 >>]]</td></tr></table>
 
 

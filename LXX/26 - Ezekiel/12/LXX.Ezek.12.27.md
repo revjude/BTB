@@ -7,32 +7,32 @@ Son of man, behold, [they of] the house of Israel say, The vision that he seeth 
 “Son of man, take note that the house of Israel is saying, ‘The vision that he sees is for many years from now; he prophesies about the distant future.’<small><sub>**MT:**</sub></small>
 [[Ezek.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.26|<< Ezekiel 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.28|Ezekiel 12:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rebelling. | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| In saying | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| they say, | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| this \[man\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| sees | <big><span class="asgreek">ορά</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \[is\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| times | <big><span class="asgreek">καιρούς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| long | <big><span class="asgreek">μακρούς</span></big> <sup><small><small>[[G3117]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| prophesies | <big><span class="asgreek">προφητεύει</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| rebelling. | **<big>[[G3893\|παραπικραίνων]]</big>** |
+| In saying | **<big>[[G3004\|λέγοντες]]</big>** |
+| they say, | **<big>[[G3004\|λέγουσιν]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| this \[man\] | **<big>[[G3778\|ούτος]]</big>** |
+| sees | **<big>[[G3708\|ορά]]</big>** |
+| \[is\] for | **<big>[[G1519\|εις]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| many | **<big>[[G4183\|πολλάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| times | **<big>[[G2540\|καιρούς]]</big>** |
+| long | **<big>[[G3117\|μακρούς]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| prophesies | **<big>[[G4395\|προφητεύει]]</big>** |
 [[Ezek.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.26|<< Ezekiel 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.28|Ezekiel 12:28 >>]]</td></tr></table>
 
 

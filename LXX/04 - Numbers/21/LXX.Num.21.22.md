@@ -7,21 +7,21 @@ Let me pass through thy land: we will not turn into the fields, or into the vine
 “Let us pass through your land. We will not turn aside into any field or vineyard, or drink water from any well. We will stay on the King’s Highway until we have passed through your territory.”<small><sub>**MT:**</sub></small>
 [[Num.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.21|<< Numbers 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.23|Numbers 21:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| shall we drink | <big><span class="asgreek">πιόμεθα</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your well. | <big><span class="asgreek">φρέατός</span></big> <sup><small><small>[[G5421]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[the\] royal | <big><span class="asgreek">βασιλική</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
-| We will go by | <big><span class="asgreek">πορευσόμεθα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| we pass by | <big><span class="asgreek">παρέλθωμεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your borders. | <big><span class="asgreek">όριά</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| shall we drink | **<big>[[G4095\|πιόμεθα]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| your well. | **<big>[[G5421\|φρέατός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| \[the\] royal | **<big>[[G0937\|βασιλική]]</big>** |
+| We will go by | **<big>[[G4198\|πορευσόμεθα]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| we pass by | **<big>[[G3928\|παρέλθωμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your borders. | **<big>[[G3725\|όριά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Num.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.21|<< Numbers 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.23|Numbers 21:23 >>]]</td></tr></table>
 
 

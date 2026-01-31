@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּל‎</span></big> **gal** <small>*(gal)*</small> ==**heap**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּלַל‎</span><sup><small>[[H1556]]</small></sup></small>
+**<big><span class="ashebrew">‎גַּל‎</span></big>** **gal** <small>*(gal)*</small> ==**heap**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1556|‎גָּלַל‎]]</big>**</small>
 
 $\quad$ billow, heap, spring, wave.
 - ***something rolled***, i.e. ***a heap of stone*** or ***dung*** (plural ruins), by analogy, ***a spring of water*** (plural waves)
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a3)** used in ratifying a covenant
 $\quad$ **1b)** waves (fig. of chastisement of Jehovah)
 $\quad$ **1c)** spring
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφανισμός</span><sup><small>[[G0854]]</small></sup> · <span class="asgreek">βουνός</span><sup><small>[[G1015]]</small></sup> · <span class="asgreek">κῦμα</span><sup><small>[[G2949]]</small></sup> · <span class="asgreek">συναγωγή</span><sup><small>[[G4864]]</small></sup>
+<small>See Greek: </small>**<big>[[G0854|ἀφανισμός]]</big>** · **<big>[[G1015|βουνός]]</big>** · **<big>[[G2949|κῦμα]]</big>** · **<big>[[G4864|συναγωγή]]</big>**

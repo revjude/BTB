@@ -7,22 +7,22 @@ I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast 
 I laid a snare for you, O Babylon, and you were caught before you knew it. You were found and captured because you challenged the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.50.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.23|<< Jeremiah 50:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.25|Jeremiah 50:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They shall attack | <big><span class="asgreek">επιθήσονταί</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be captured, | <big><span class="asgreek">αλώση</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
-| O Babylon, | <big><span class="asgreek">Βαβυλών</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did not know. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| You shall be found | <big><span class="asgreek">ευρέθης</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| taken, | <big><span class="asgreek">ελήφθης</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| against the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| you opposed. | <big><span class="asgreek">αντέστης</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
+| They shall attack | **<big>[[G2007\|επιθήσονταί]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be captured, | **<big>[[G6226\|αλώση]]</big>** |
+| O Babylon, | **<big>[[G0897\|Βαβυλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you did not know. | **<big>[[G3756\|ου]]</big>** **<big>[[G1097\|γνώση]]</big>** |
+| You shall be found | **<big>[[G2147\|ευρέθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| taken, | **<big>[[G2983\|ελήφθης]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| against the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| you opposed. | **<big>[[G0436\|αντέστης]]</big>** |
 [[Jer.50.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.23|<< Jeremiah 50:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.25|Jeremiah 50:25 >>]]</td></tr></table>
 
 

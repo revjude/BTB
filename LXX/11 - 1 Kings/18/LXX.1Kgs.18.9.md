@@ -7,23 +7,23 @@ And he said, What have I sinned, that thou wouldest deliver thy servant into the
 But Obadiah replied, “How have I sinned, that you are handing your servant over to Ahab to put me to death?<small><sub>**MT:**</sub></small>
 [[1Kgs.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.8|<< 1 Kings 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.10|1 Kings 18:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obadiah said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αβδίου</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| How | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| have I sinned | <big><span class="asgreek">ημάρτηκα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| appoint | <big><span class="asgreek">δίδως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλόν</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to kill | <big><span class="asgreek">θανατώσαί</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| me? | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Obadiah said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H5662\|Αβδίου]]</big>** |
+| How | **<big>[[G5100\|τι]]</big>** |
+| have I sinned | **<big>[[G0264\|ημάρτηκα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| appoint | **<big>[[G1325\|δίδως]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your servant | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of Ahab | **<big>[[H0256\|Αχαάβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to kill | **<big>[[G2289\|θανατώσαί]]</big>** |
+| me? | **<big>[[G1473\|με]]</big>** |
 [[1Kgs.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.8|<< 1 Kings 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.10|1 Kings 18:10 >>]]</td></tr></table>
 
 

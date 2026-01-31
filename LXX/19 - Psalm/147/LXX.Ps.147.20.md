@@ -11,17 +11,17 @@ He has done this for no other nation; they do not know His judgments. Hallelujah
 > $\quad$ related to: [[LXX.Amos.3.2|Amos 3:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He did not do | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| to every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| nation, | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he manifested not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εδήλωσεν</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He did not do | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4160\|εποίησεν]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| to every | **<big>[[G3956\|παντί]]</big>** |
+| nation, | **<big>[[G1484\|έθνει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his judgments | **<big>[[G2917\|κρίματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he manifested not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1213\|εδήλωσεν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Ps.147.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.19|<< Psalm 147:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.1|Psalm 148:1 >>]]</td></tr></table>
 
 

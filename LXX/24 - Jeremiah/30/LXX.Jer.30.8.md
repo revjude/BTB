@@ -7,31 +7,31 @@ For it shall come to pass in that day, saith the LORD of hosts, [that] I will br
 On that day, declares the LORD of Hosts, I will break the yoke off their necks and tear off their bonds, and no longer will strangers enslave them.<small><sub>**MT:**</sub></small>
 [[Jer.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.7|<< Jeremiah 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.9|Jeremiah 30:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| I will break | <big><span class="asgreek">συντρίψω</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yoke | <big><span class="asgreek">ζυγόν</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their neck, | <big><span class="asgreek">τραχήλου</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bonds | <big><span class="asgreek">δεσμούς</span></big> <sup><small><small>[[G1199]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will tear up, | <big><span class="asgreek">διαρρήξω</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| work | <big><span class="asgreek">εργώνται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| for strangers. | <big><span class="asgreek">αλλοτρίοις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| I will break | **<big>[[G4937\|συντρίψω]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| yoke | **<big>[[G2218\|ζυγόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their neck, | **<big>[[G5137\|τραχήλου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their bonds | **<big>[[G1199\|δεσμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| I will tear up, | **<big>[[G1284\|διαρρήξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| work | **<big>[[G2038\|εργώνται]]</big>** |
+| themselves | **<big>[[G1473\|αυτοί]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| for strangers. | **<big>[[G0245\|αλλοτρίοις]]</big>** |
 [[Jer.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.7|<< Jeremiah 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.9|Jeremiah 30:9 >>]]</td></tr></table>
 
 

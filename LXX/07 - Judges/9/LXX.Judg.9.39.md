@@ -10,19 +10,19 @@ And Gaal went out before the men of Shechem, and fought with Abimelech.
 So Gaal went out before the leaders of Shechem and fought against Abimelech,<small><sub>**MT:**</sub></small>
 [[Judg.9.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.38|<< Judges 9:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.40|Judges 9:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gaal went forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">Γαάλ</span></big> <sup><small><small>[[H1603]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] presence | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Shechem, | <big><span class="asgreek">Σικήμων</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made war | <big><span class="asgreek">επολέμησε</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abimelech. | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gaal went forth | **<big>[[G1831\|εξήλθε]]</big>** **<big>[[H1603\|Γαάλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] presence | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| of Shechem, | **<big>[[G4966\|Σικήμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he made war | **<big>[[G4170\|επολέμησε]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| Abimelech. | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
 [[Judg.9.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.38|<< Judges 9:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.40|Judges 9:40 >>]]</td></tr></table>
 
 

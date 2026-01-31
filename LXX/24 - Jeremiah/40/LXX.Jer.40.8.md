@@ -7,40 +7,40 @@ Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Joh
 they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite—they and their men.<small><sub>**MT:**</sub></small>
 [[Jer.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.7|<< Jeremiah 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.9|Jeremiah 40:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Gedaliah | <big><span class="asgreek">Γοδολίαν</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Mizpah, | <big><span class="asgreek">Μασσηφάθ</span></big> <sup><small><small>[[H4708]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ishmael | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nethaniah, | <big><span class="asgreek">Ναθανίου</span></big> <sup><small><small>[[H5418]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Johanan | <big><span class="asgreek">Ιωάναν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kareah, | <big><span class="asgreek">Καρεέ</span></big> <sup><small><small>[[H7143]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Seraiah | <big><span class="asgreek">Σαραϊας</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Tanhumeth, | <big><span class="asgreek">Θαναεμέθ</span></big> <sup><small><small>[[H8576]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ephai | <big><span class="asgreek">Οφεί</span></big> <sup><small><small>[[H5778]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Netophathite, | <big><span class="asgreek">Νετοφατί</span></big> <sup><small><small>[[H5199]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jezaniah | <big><span class="asgreek">Ιεζωνίας</span></big> <sup><small><small>[[H3153]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Maachathite -- | <big><span class="asgreek">Μααχαθί</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their men. | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Gedaliah | **<big>[[H1436b\|Γοδολίαν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Mizpah, | **<big>[[H4708\|Μασσηφάθ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| Ishmael | **<big>[[H3458\|Ισμαήλ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Nethaniah, | **<big>[[H5418\|Ναθανίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Johanan | **<big>[[H3110\|Ιωάναν]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Kareah, | **<big>[[H7143\|Καρεέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Seraiah | **<big>[[H8304\|Σαραϊας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Tanhumeth, | **<big>[[H8576\|Θαναεμέθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ephai | **<big>[[H5778\|Οφεί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Netophathite, | **<big>[[H5199\|Νετοφατί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jezaniah | **<big>[[H3153\|Ιεζωνίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Maachathite -- | **<big>[[H4601\|Μααχαθί]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their men. | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.7|<< Jeremiah 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.9|Jeremiah 40:9 >>]]</td></tr></table>
 
 

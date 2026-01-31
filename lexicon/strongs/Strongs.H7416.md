@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רִמּוֹן‎</span></big> **rimmôwn** <small>*(rim-mone')*</small> ==**pomegranate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">רִמֹּן</span> **rimmôn** <small>*(rim-mone')*</small>; from <span class="ashebrew">‎רָמַם‎</span><sup><small>[[H7426]]</small></sup></small>
+**<big><span class="ashebrew">‎רִמּוֹן‎</span></big>** **rimmôwn** <small>*(rim-mone')*</small> ==**pomegranate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">רִמֹּן</span></big>** **rimmôn** <small>*(rim-mone')*</small>; from **<big>[[H7426|‎רָמַם‎]]</big>**</small>
 
 $\quad$ pomegranate.
 - ***a pomegranate***, ***the tree*** (from its upright growth) or ***the fruit*** (also an artificial ornament)

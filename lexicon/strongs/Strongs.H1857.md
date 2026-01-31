@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֶּקֶר‎</span></big> **Deqer** <small>*(deh'-ker)*</small> ==**Dekar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּקַר‎</span><sup><small>[[H1856]]</small></sup>; a stab</small>
+**<big><span class="ashebrew">‎דֶּקֶר‎</span></big>** **Deqer** <small>*(deh'-ker)*</small> ==**Dekar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1856|‎דָּקַר‎]]</big>**; a stab</small>
 
 $\quad$ Dekar.
 - § Dekar = *"piercing"*

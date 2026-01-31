@@ -7,42 +7,42 @@ For he shall be as a tree planted by the waters, and [that] spreadeth out her ro
 He is like a tree planted by the waters that sends out its roots toward the stream. It does not fear when the heat comes, and its leaves are always green. It does not worry in a year of drought, nor does it cease to produce fruit.<small><sub>**MT:**</sub></small>
 [[Jer.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.7|<< Jeremiah 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.9|Jeremiah 17:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| prospering | <big><span class="asgreek">ευθηνούν</span></big> <sup><small><small>[[G7541]]</small></small></sup> |
-| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| waters; | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a moist \[place\] | <big><span class="asgreek">ικμάδα</span></big> <sup><small><small>[[G2429]]</small></small></sup> |
-| he shall shoot | <big><span class="asgreek">βάλει</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| his roots; | <big><span class="asgreek">ρίζας</span></big> <sup><small><small>[[G4491]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be fearful | <big><span class="asgreek">φοβηθήσεται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| comes | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| sweltering heat | <big><span class="asgreek">καύμα</span></big> <sup><small><small>[[G2738]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[tree\] trunks | <big><span class="asgreek">στελέχη</span></big> <sup><small><small>[[G9159]]</small></small></sup> |
-| of \[the\] woods. | <big><span class="asgreek">αλσώδη</span></big> <sup><small><small>[[G6243]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] year | <big><span class="asgreek">ενιαυτώ</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| of drought | <big><span class="asgreek">αβροχίας</span></big> <sup><small><small>[[G6106]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be fearful, | <big><span class="asgreek">φοβηθήσεται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stop | <big><span class="asgreek">διαλείψει</span></big> <sup><small><small>[[G1257]]</small></small></sup> |
-| producing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| fruit. | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall be | **<big>[[G1510\|έσται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a tree | **<big>[[G3586\|ξύλον]]</big>** |
+| prospering | **<big>[[G7541\|ευθηνούν]]</big>** |
+| by | **<big>[[G3844\|παρ΄]]</big>** |
+| waters; | **<big>[[G5204\|ύδατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a moist \[place\] | **<big>[[G2429\|ικμάδα]]</big>** |
+| he shall shoot | **<big>[[G0906\|βάλει]]</big>** |
+| his roots; | **<big>[[G4491\|ρίζας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| be fearful | **<big>[[G5399\|φοβηθήσεται]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| comes | **<big>[[G2064\|έλθη]]</big>** |
+| sweltering heat | **<big>[[G2738\|καύμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[tree\] trunks | **<big>[[G9159\|στελέχη]]</big>** |
+| of \[the\] woods. | **<big>[[G6243\|αλσώδη]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] year | **<big>[[G1763\|ενιαυτώ]]</big>** |
+| of drought | **<big>[[G6106\|αβροχίας]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| be fearful, | **<big>[[G5399\|φοβηθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| stop | **<big>[[G1257\|διαλείψει]]</big>** |
+| producing | **<big>[[G4160\|ποιών]]</big>** |
+| fruit. | **<big>[[G2590\|καρπόν]]</big>** |
 [[Jer.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.7|<< Jeremiah 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.9|Jeremiah 17:9 >>]]</td></tr></table>
 
 

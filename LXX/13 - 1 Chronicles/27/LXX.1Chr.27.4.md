@@ -7,34 +7,34 @@ And over the course of the second month [was] Dodai an Ahohite, and of his cours
 Dodai the Ahohite was in charge of the division for the second month, and Mikloth was the leader. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
 [[1Chr.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.3|<< 1 Chronicles 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.5|1 Chronicles 27:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| division | <big><span class="asgreek">διαιρέσεως</span></big> <sup><small><small>[[G1243]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρου</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| \[was\] Dodai | <big><span class="asgreek">Δωδαϊ</span></big> <sup><small><small>[[H1737]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahohite, | <big><span class="asgreek">Αχωχεί</span></big> <sup><small><small>[[H0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his division, | <big><span class="asgreek">διαιρέσις</span></big> <sup><small><small>[[G1243]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mikloth | <big><span class="asgreek">Μακελλώθ</span></big> <sup><small><small>[[H4732]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler; | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his division | <big><span class="asgreek">διαιρέσεως</span></big> <sup><small><small>[[G1243]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| division | **<big>[[G1243\|διαιρέσεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| second | **<big>[[G1208\|δευτέρου]]</big>** |
+| \[was\] Dodai | **<big>[[H1737\|Δωδαϊ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ahohite, | **<big>[[H0266\|Αχωχεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| of his division, | **<big>[[G1243\|διαιρέσις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Mikloth | **<big>[[H4732\|Μακελλώθ]]</big>** |
+| \[was\] the | **<big>[[G3588\|ο]]</big>** |
+| ruler; | **<big>[[G2233\|ηγούμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his division | **<big>[[G1243\|διαιρέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδες]]</big>** |
 [[1Chr.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.3|<< 1 Chronicles 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.5|1 Chronicles 27:5 >>]]</td></tr></table>
 
 

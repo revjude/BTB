@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָפַן‎</span></big> **tsâphan** <small>*(tsaw-fan')*</small> ==**to treasure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָפַן‎</span></big>** **tsâphan** <small>*(tsaw-fan')*</small> ==**to treasure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ esteem, hide(-den one, self), lay up, lurk (be set) privily, (keep) secret(-ly, place).
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a2)** to lie hidden, lurk
 $\quad$ **1b)** (Niphal) to be hidden, be stored up
 $\quad$ **1c)** (Hiphil) to hide, hide from discovery
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">ἀποβλέπω</span><sup><small>[[G0578]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">ἐγκρύπτω</span><sup><small>[[G1470]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐπισκοπή</span><sup><small>[[G1984]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">θησαυρίζω</span><sup><small>[[G2343]]</small></sup> · <span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">τηρέω</span><sup><small>[[G5083]]</small></sup>
+<small>See Greek: </small>**<big>[[G0039|ἅγιον]]</big>** · **<big>[[G0578|ἀποβλέπω]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G1470|ἐγκρύπτω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1984|ἐπισκοπή]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2343|θησαυρίζω]]</big>** · **<big>[[G2928|κρύπτω]]</big>** · **<big>[[G5083|τηρέω]]</big>**

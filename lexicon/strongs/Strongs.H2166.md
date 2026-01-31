@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎זְמָן‎</span></big> **zᵉmân** <small>*(zem-awn')*</small> ==**time**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="ashebrew">‎זְמָן‎</span><sup><small>[[H2165]]</small></sup>; the same as <span class="ashebrew">‎זְמָן‎</span><sup><small>[[H2165]]</small></sup></small>
+**<big><span class="asaramaic">‎זְמָן‎</span></big>** **zᵉmân** <small>*(zem-awn')*</small> ==**time**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H2165|‎זְמָן‎]]</big>**; the same as **<big>[[H2165|‎זְמָן‎]]</big>**</small>
 
 $\quad$ season, time.
 - {***an appointed occasion***}

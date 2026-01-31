@@ -6,16 +6,16 @@ and Ahira son of Enan was over the division of the tribe of Naphtali.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.26|<< Numbers 10:26]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.28|Numbers 10:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [was] over  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַ֨ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] military group of  | <span class="ashebrew"><big>צְבָ֔א </big></span><small><small><sup>[[H6635A]]</sup></small></small> &#8207;| tze.Va' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tribe of  | <span class="ashebrew"><big>מַטֵּ֖ה </big></span><small><small><sup>[[H4294H]]</sup></small></small> &#8207;| ma.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Naphtali  | <span class="ashebrew"><big>נַפְתָּלִ֑י </big></span><small><small><sup>[[H5321G]]</sup></small></small> &#8207;| naf.ta.Li <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahira  | <span class="ashebrew"><big>אֲחִירַ֖ע </big></span><small><small><sup>[[H0299]]</sup></small></small> &#8207;| 'a.chi.Ra' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Enan  | <span class="ashebrew"><big>עֵינָֽן </big></span><small><small><sup>[[H5881]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ei.Nan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֨ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] military group of  |**<big>&#8207;[[H6635A\|צְבָ֔א]]&#8207; </big>**| tze.Va'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribe of  |**<big>&#8207;[[H4294H\|מַטֵּ֖ה]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֑י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahira  |**<big>&#8207;[[H0299\|אֲחִירַ֖ע]]&#8207; </big>**| 'a.chi.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Enan  |**<big>&#8207;[[H5881\|עֵינָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.26|<< Numbers 10:26]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.28|Numbers 10:28 >>]]</td></tr></table>
 
 

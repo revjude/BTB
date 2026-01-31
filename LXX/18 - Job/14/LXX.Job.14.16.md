@@ -7,19 +7,19 @@ For now thou numberest my steps: dost thou not watch over my sin?
 For then You would count my steps, but would not keep track of my sin.<small><sub>**MT:**</sub></small>
 [[Job.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.15|<< Job 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.17|Job 14:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you counted | <big><span class="asgreek">ηρίθμησας</span></big> <sup><small><small>[[G0705]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| practices, | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall there go by | <big><span class="asgreek">παρέλθη</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even one | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my sins. | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But you counted | **<big>[[G0705\|ηρίθμησας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| practices, | **<big>[[G7461\|επιτηδεύματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall there go by | **<big>[[G3928\|παρέλθη]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| even one | **<big>[[G3762\|ουδέν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my sins. | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Job.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.15|<< Job 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.17|Job 14:17 >>]]</td></tr></table>
 
 

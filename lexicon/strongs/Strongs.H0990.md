@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בֶּטֶן‎</span></big> **beṭen** <small>*(beh'-ten)*</small> ==**belly: abdomen**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎בֶּטֶן‎</span></big>** **beṭen** <small>*(beh'-ten)*</small> ==**belly: abdomen**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root probably meaning to be hollow</small>
 
 $\quad$ belly, body, [phrase] as they be born, [phrase] within, womb.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** as seat of mental faculties
 $\quad$ $\quad$ **1a3)** of depth of Sheol (fig.)
 $\quad$ **1b)** womb
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γαστήρ</span><sup><small>[[G1064]]</small></sup> · <span class="asgreek">καρδία</span><sup><small>[[G2588]]</small></sup> · <span class="asgreek">κοιλία</span><sup><small>[[G2836]]</small></sup> · <span class="asgreek">σπλάγχνον</span><sup><small>[[G4698]]</small></sup>
+<small>See Greek: </small>**<big>[[G1064|γαστήρ]]</big>** · **<big>[[G2588|καρδία]]</big>** · **<big>[[G2836|κοιλία]]</big>** · **<big>[[G4698|σπλάγχνον]]</big>**

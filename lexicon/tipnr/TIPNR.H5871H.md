@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ain</span> or En-rimmon, a city in Judah's Negev region, given to the Levites.
 - A location first mentioned at [[Josh.15.32|Jos.15.32]]; 
-- referred to as Ain<[[H5871H]]> \(<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>\), or En-rimmon \(NIV= En Rimmon\) <[[H5884]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Ain **<big>[[H5871|עַיִן]]</big>**, or En-rimmon \(NIV= En Rimmon\)  **<big>[[H5884|עֵין רִמּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.370835,34.860665&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ The exact location of Ain or En-rimmon is uncertain, but it is generally associa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ain | [<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H5871H) <small>*Hebrew*</small> | 4x | [[Jos.15.32] ... [1Ch.4.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ain\*\|reference=Jos.15.32;Jos.19.7;Jos.21.16;1Ch.4.32) |
-| En-rimmon (NIV= En Rimmon) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5884) <small>*Hebrew*</small> | 1x | [Neh.11.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Neh.11.29) |
-All Strong's for **Ain or En-rimmon**: \[[[H5871H]]\] \[[[H5884]]\]
+| Ain | [<span class='tipnrLangHebrew'>ע</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H5871H) | 4x | [[Jos.15.32] ... [1Ch.4.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ain\*\|reference=Jos.15.32;Jos.19.7;Jos.21.16;1Ch.4.32) |
+| En-rimmon (NIV= En Rimmon) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5884) | 1x | [Neh.11.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Neh.11.29) |
+All entries for **Ain or En-rimmon**:  **<big>[[H5871|עַיִן]]</big>** ☩  **<big>[[H5884|עֵין רִמּוֹן]]</big>**

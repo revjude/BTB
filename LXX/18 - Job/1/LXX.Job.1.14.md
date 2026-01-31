@@ -10,29 +10,29 @@ And there came a messenger unto Job, and said, The oxen were plowing, and the as
 a messenger came and reported to Job: “While the oxen were plowing and the donkeys were grazing nearby,<small><sub>**MT:**</sub></small>
 [[Job.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.13|<< Job 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.15|Job 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a messenger | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Job, | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| teams | <big><span class="asgreek">ζεύγη</span></big> <sup><small><small>[[G2201]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| were plowing, | <big><span class="asgreek">ηροτρία</span></big> <sup><small><small>[[G0722]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| female | <big><span class="asgreek">θήλειαι</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| were grazing | <big><span class="asgreek">εβόσκοντο</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| next to | <big><span class="asgreek">εχόμεναι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a messenger | **<big>[[G0032\|άγγελος]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Job, | **<big>[[G2492\|Ιωβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| teams | **<big>[[G2201\|ζεύγη]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of oxen | **<big>[[G1016\|βοών]]</big>** |
+| were plowing, | **<big>[[G0722\|ηροτρία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| female | **<big>[[G2338\|θήλειαι]]</big>** |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| were grazing | **<big>[[G1006\|εβόσκοντο]]</big>** |
+| next to | **<big>[[G2192\|εχόμεναι]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Job.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.13|<< Job 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.15|Job 1:15 >>]]</td></tr></table>
 
 

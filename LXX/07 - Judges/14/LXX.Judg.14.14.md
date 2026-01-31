@@ -7,29 +7,29 @@ And he said unto them, Out of the eater came forth meat, and out of the strong c
 So he said to them: “Out of the eater came something to eat, and out of the strong came something sweet.” For three days they were unable to explain the riddle.<small><sub>**MT:**</sub></small>
 [[Judg.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.13|<< Judges 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.15|Judges 14:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eating | <big><span class="asgreek">έσθοντος</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| food, | <big><span class="asgreek">βρώσις</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] strong | <big><span class="asgreek">ισχυρού</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| sweetness. | <big><span class="asgreek">γλυκύ</span></big> <sup><small><small>[[G1099]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not able | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to explain | <big><span class="asgreek">απαγγείλαι</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riddle | <big><span class="asgreek">πρόβλημα</span></big> <sup><small><small>[[G8892]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| eating | **<big>[[G2068\|έσθοντος]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| food, | **<big>[[G1035\|βρώσις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] strong | **<big>[[G2478\|ισχυρού]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| sweetness. | **<big>[[G1099\|γλυκύ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were not able | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1410\|ηδυνήθησαν]]</big>** |
+| to explain | **<big>[[G0518\|απαγγείλαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| riddle | **<big>[[G8892\|πρόβλημα]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[Judg.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.13|<< Judges 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.15|Judges 14:15 >>]]</td></tr></table>
 
 

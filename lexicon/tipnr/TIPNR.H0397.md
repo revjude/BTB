@@ -4,8 +4,8 @@ King living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Achish</span>, also referred to as Abimelech, was the Philistine king of Gath who granted refuge to David when he fled from King Saul, but later dismissed him due to the suspicion of his servants.
 - A king in Philistia living at the time of United Monarchy, first mentioned at [[1Sam.21.10|1Sa.21.10]]; 
-- referred to as Achish<[[H0397]]> \(<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ\), or Abimelech \(NIV= Abimelek\) <[[H0040I]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\); 
-- a son of Maoch<[[H4582]]>.
+- referred to as Achish **<big>[[H0397|אֲכִישׁ]]</big>**, or Abimelech \(NIV= Abimelek\)  **<big>[[H0040|אֲבִימֶלֶךְ]]</big>**; 
+- a son of Maoch **<big>[[H4582|מָעוֹךְ]]</big>**.
 
 Achish, also known as Abimelech, was the Philistine king of Gath during the time of King Saul and King David. When David fled from Saul, he sought refuge in Gath, pretending to be insane to avoid being perceived as a threat \([[1Sam.21.10|1 Samuel 21:10]]-15\). Achish's servants recognized David as the celebrated Israelite warrior, but David's act of insanity convinced Achish to dismiss him \([[1Sam.21.11|1 Samuel 21:11]]-15\). 
 
@@ -19,8 +19,8 @@ Psalm 34 is attributed to David when he pretended to be insane before Abimelech 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Achish | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H0397) <small>*Hebrew*</small> | 21x | [[1Sa.21.10] ... [1Ki.2.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achish\*\|reference=1Sa.21.10;1Sa.21.11;1Sa.21.12;1Sa.21.14;1Sa.27.2;1Sa.27.3;1Sa.27.5;1Sa.27.6;1Sa.27.9;1Sa.27.10;1Sa.27.12;1Sa.28.1;1Sa.28.2;1Sa.28.2;1Sa.29.2;1Sa.29.3;1Sa.29.6;1Sa.29.8;1Sa.29.9;1Ki.2.39;1Ki.2.40) |
-| Abimelech (NIV= Abimelek) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0040I) <small>*Hebrew*</small> | 1x | [Psa.34.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abimelech\*\|reference=Psa.34.1) |
-All Strong's for **Achish or Abimelech**: \[[[H0397]]\] \[[[H0040I]]\]
+| Achish | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H0397) | 21x | [[1Sa.21.10] ... [1Ki.2.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achish\*\|reference=1Sa.21.10;1Sa.21.11;1Sa.21.12;1Sa.21.14;1Sa.27.2;1Sa.27.3;1Sa.27.5;1Sa.27.6;1Sa.27.9;1Sa.27.10;1Sa.27.12;1Sa.28.1;1Sa.28.2;1Sa.28.2;1Sa.29.2;1Sa.29.3;1Sa.29.6;1Sa.29.8;1Sa.29.9;1Ki.2.39;1Ki.2.40) |
+| Abimelech (NIV= Abimelek) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0040I) | 1x | [Psa.34.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abimelech\*\|reference=Psa.34.1) |
+All entries for **Achish or Abimelech**:  **<big>[[H0397|אֲכִישׁ]]</big>** ☩  **<big>[[H0040|אֲבִימֶלֶךְ]]</big>**
 #### Related Profiles:
 - **[Maoch](H4582)** (father)

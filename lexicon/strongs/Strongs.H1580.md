@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּמַל‎</span></big> **gâmal** <small>*(gaw-mal')*</small> ==**to wean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּמַל‎</span></big>** **gâmal** <small>*(gaw-mal')*</small> ==**to wean**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bestow on, deal bountifully, do (good), recompense, requite, reward, ripen, [phrase] serve, mean, yield.
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a3)** to recompense, repay, requite
 **2)** (Qal) to wean a child (Niphal) to be weaned
 **3)** (Qal) to ripen, bear ripe (almonds)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνταποδίδωμι</span><sup><small>[[G0467]]</small></sup> · <span class="asgreek">βλαστάνω</span><sup><small>[[G0985]]</small></sup> · <span class="asgreek">βουλεύω</span><sup><small>[[G1011]]</small></sup> · <span class="asgreek">ἐκτρέφω</span><sup><small>[[G1625]]</small></sup> · <span class="asgreek">ἐνδείκνυμι</span><sup><small>[[G1731]]</small></sup> · <span class="asgreek">ἐνεργέω</span><sup><small>[[G1754]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">ἐπιχειρέω</span><sup><small>[[G2021]]</small></sup> · <span class="asgreek">ἐργάζομαι</span><sup><small>[[G2038]]</small></sup> · <span class="asgreek">εὐεργετέω</span><sup><small>[[G2109]]</small></sup> · <span class="asgreek">κάμηλος</span><sup><small>[[G2574]]</small></sup>
+<small>See Greek: </small>**<big>[[G0467|ἀνταποδίδωμι]]</big>** · **<big>[[G0985|βλαστάνω]]</big>** · **<big>[[G1011|βουλεύω]]</big>** · **<big>[[G1625|ἐκτρέφω]]</big>** · **<big>[[G1731|ἐνδείκνυμι]]</big>** · **<big>[[G1754|ἐνεργέω]]</big>** · **<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G2021|ἐπιχειρέω]]</big>** · **<big>[[G2038|ἐργάζομαι]]</big>** · **<big>[[G2109|εὐεργετέω]]</big>** · **<big>[[G2574|κάμηλος]]</big>**

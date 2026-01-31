@@ -11,29 +11,29 @@ On the first day of his journey, Jonah set out into the city and proclaimed, “
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonah began | <big><span class="asgreek">ήρξατο</span></big> <sup><small><small>[[G0756]]</small></small></sup> <big><span class="asgreek">Ιωνάς</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go | <big><span class="asgreek">επορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| \[the\] going | <big><span class="asgreek">πορείαν</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he proclaimed | <big><span class="asgreek">εκήρυξε</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| three | <big><span class="asgreek">τρείς</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nineveh | <big><span class="asgreek">Νινευϊ</span></big> <sup><small><small>[[G3535]]</small></small></sup> |
-| shall be eradicated. | <big><span class="asgreek">καταστραφήσεται</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonah began | **<big>[[G0756\|ήρξατο]]</big>** **<big>[[G2495\|Ιωνάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go | **<big>[[G4198\|επορεύεσθαι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| \[the\] going | **<big>[[G4197\|πορείαν]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| of one | **<big>[[G1520\|μιάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he proclaimed | **<big>[[G2784\|εκήρυξε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Yet | **<big>[[G2089\|έτι]]</big>** |
+| three | **<big>[[G5140\|τρείς]]</big>** |
+| days, | **<big>[[G2250\|ημέραι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nineveh | **<big>[[G3535\|Νινευϊ]]</big>** |
+| shall be eradicated. | **<big>[[G2690\|καταστραφήσεται]]</big>** |
 [[Jonah.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.3|<< Jonah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.5|Jonah 3:5 >>]]</td></tr></table>
 
 

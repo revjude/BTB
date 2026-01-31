@@ -7,39 +7,39 @@ Though he be fruitful among [his] brethren, an east wind shall come, the wind of
 Although he flourishes among his brothers, an east wind will come—a wind from the LORD rising up from the desert. His fountain will fail, and his spring will run dry. The wind will plunder his treasury of every precious article.<small><sub>**MT:**</sub></small>
 [[Hos.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| this, | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]][[G1473]]</small></small></sup> |
-| he will separate | <big><span class="asgreek">διαστελεί</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| will bring up | <big><span class="asgreek">επάξει</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| a burning | <big><span class="asgreek">καύσωνα</span></big> <sup><small><small>[[G2742]]</small></small></sup> |
-| wind | <big><span class="asgreek">άνεμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall dry up | <big><span class="asgreek">αναξηρανεί</span></big> <sup><small><small>[[G6298]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his arteries; | <big><span class="asgreek">φλέβας</span></big> <sup><small><small>[[G9646]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall make quite desolate | <big><span class="asgreek">εξερημώσει</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his springs; | <big><span class="asgreek">πηγάς</span></big> <sup><small><small>[[G4077]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall totally dry up | <big><span class="asgreek">καταξηρανεί</span></big> <sup><small><small>[[G7883]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his desirable | <big><span class="asgreek">επιθυμητά</span></big> <sup><small><small>[[G7411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| this, | **<big>[[G3778\|ούτος]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| brethren | **<big>[[G0080\|αδελφών]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
+| he will separate | **<big>[[G1291\|διαστελεί]]</big>** |
+| will bring up | **<big>[[G1863\|επάξει]]</big>** |
+| a burning | **<big>[[G2742\|καύσωνα]]</big>** |
+| wind | **<big>[[G0417\|άνεμον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall dry up | **<big>[[G6298\|αναξηρανεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his arteries; | **<big>[[G9646\|φλέβας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he shall make quite desolate | **<big>[[G7315\|εξερημώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his springs; | **<big>[[G4077\|πηγάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall totally dry up | **<big>[[G7883\|καταξηρανεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his land, | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his desirable | **<big>[[G7411\|επιθυμητά]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Hos.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 
 

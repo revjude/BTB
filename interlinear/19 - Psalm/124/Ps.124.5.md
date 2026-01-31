@@ -6,14 +6,14 @@ then the raging waters would have swept us away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.124.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124.4|<< Psalms 124:4]]</td><td align="center" style="border:none;">[[Ps.124|Psalms 124]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124.6|Psalms 124:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| then  | <span class="ashebrew"><big>אֲ֭זַי </big></span><small><small><sup>[[H0233]]</sup></small></small> &#8207;| 'A.zai <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had passed  | <span class="ashebrew"><big>עָבַ֣ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.Var <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self our  | <span class="ashebrew"><big>נַפְשֵׁ֑ </big></span><small><small><sup>[[H5315I]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| naf.She. <small><sup>[[HNcfsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the waters  | <span class="ashebrew"><big>הַ֝ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּ֗יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> raging  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֵּֽידוֹנִֽים </big></span><small><small><sup>[[H2121]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zei.do.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0233\|אֲ֭זַי]]&#8207; </big>**| 'A.zai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had passed  |**<big>&#8207;[[H5674A\|עָבַ֣ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self our  |**<big>&#8207;[[H5315I\|נַפְשֵׁ֑]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| naf.She.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the waters  |**<big>&#8207;[[H9009\|הַ֝]]&#8207;&#8207;[[H4325G\|מַּ֗יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> raging  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2121\|זֵּֽידוֹנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zei.do.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124.4|<< Psalms 124:4]]</td><td align="center" style="border:none;">[[Ps.124|Psalms 124]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124.6|Psalms 124:6 >>]]</td></tr></table>
 
 

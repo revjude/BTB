@@ -7,26 +7,26 @@ And Hadad found great favour in the sight of Pharaoh, so that he gave him to wif
 There Hadad found such great favor in the sight of Pharaoh that he gave to him in marriage the sister of Queen Tahpenes, his own wife.<small><sub>**MT:**</sub></small>
 [[1Kgs.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.18|<< 1 Kings 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.20|1 Kings 11:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hadad found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[the\] sister | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his wife -- | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sister | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| of Tahpenes | <big><span class="asgreek">Θεχεφενής</span></big> <sup><small><small>[[H8472]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] older | <big><span class="asgreek">μείζω</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hadad found | **<big>[[G2147\|εύρεν]]</big>** **<big>[[H2301\|Αδάρ]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a wife, | **<big>[[G1135\|γυναίκα]]</big>** |
+| \[the\] sister | **<big>[[G0079\|αδελφήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his wife -- | **<big>[[G1135\|γυναικός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sister | **<big>[[G0079\|αδελφήν]]</big>** |
+| of Tahpenes | **<big>[[H8472\|Θεχεφενής]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| \[the\] older | **<big>[[G3173\|μείζω]]</big>** |
 [[1Kgs.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.18|<< 1 Kings 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.20|1 Kings 11:20 >>]]</td></tr></table>
 
 

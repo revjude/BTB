@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵין רֹגֵל‎</span></big> **ʻÊyn Rôgêl** <small>*(ane ro-gale')*</small> ==**En-rogel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup> and the active participle of <span class="ashebrew">‎רָגַל‎</span><sup><small>[[H7270]]</small></sup>; fountain of a traveller</small>
+**<big><span class="ashebrew">‎עֵין רֹגֵל‎</span></big>** **ʻÊyn Rôgêl** <small>*(ane ro-gale')*</small> ==**En-rogel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5869|‎עַיִן‎]]</big>** and the active participle of **<big>[[H7270|‎רָגַל‎]]</big>**; fountain of a traveller</small>
 
 $\quad$ En-rogel.
 - § En-rogel = *"fount of the fuller"*

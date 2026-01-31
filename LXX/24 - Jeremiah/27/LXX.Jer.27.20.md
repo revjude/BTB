@@ -7,32 +7,32 @@ Which Nebuchadnezzar king of Babylon took not, when he carried away captive Jeco
 which Nebuchadnezzar king of Babylon did not take when he carried Jeconiah son of Jehoiakim king of Judah into exile from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem.<small><sub>**MT:**</sub></small>
 [[Jer.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.19|<< Jeremiah 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.21|Jeremiah 27:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| he resettled | <big><span class="asgreek">απώκισε</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeconiah | <big><span class="asgreek">Ιεχονίαν</span></big> <sup><small><small>[[G2423]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoiakim | <big><span class="asgreek">Ιωακίμ</span></big> <sup><small><small>[[H3079]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Babylon, | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| which | **<big>[[G3739\|ων]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| take | **<big>[[G2983\|έλαβεν]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| he resettled | **<big>[[G6442\|απώκισε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jeconiah | **<big>[[G2423\|Ιεχονίαν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Jehoiakim | **<big>[[H3079\|Ιωακίμ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Babylon, | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Jer.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.19|<< Jeremiah 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.21|Jeremiah 27:21 >>]]</td></tr></table>
 
 

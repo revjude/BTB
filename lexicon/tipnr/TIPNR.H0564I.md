@@ -1,8 +1,8 @@
 <small>*Immer • A place from which exiles returned to Jerusalem*</small>
 
 <span class='tipnrhighlight'>Immer</span>, a place from which exiles returned to Jerusalem \([[Ezra.2.59|Ezra 2:59]]; [[Neh.7.61|Nehemiah 7:61]]\).
-- A location near Nineveh<[[H5210]]> first mentioned at [[Ezra.2.59|Ezr.2.59]]; 
-- only referred to as Immer<[[H0564I]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Nineveh **<big>[[H5210|נִינְוֵה]]</big>** first mentioned at [[Ezra.2.59|Ezr.2.59]]; 
+- only referred to as Immer **<big>[[H0564|אִמֵּר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.359410,43.152887&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Immer is mentioned in the lists of people who returned to Jerusalem from the Bab
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564I) <small>*Hebrew*</small> | 2x | [[Ezr.2.59] & [Neh.7.61] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=Ezr.2.59;Neh.7.61) |
-All Strong's for **Immer**: \[[[H0564I]]\]
+| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564I) | 2x | [[Ezr.2.59] & [Neh.7.61] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=Ezr.2.59;Neh.7.61) |
+All entries for **Immer**:  **<big>[[H0564|אִמֵּר]]</big>**

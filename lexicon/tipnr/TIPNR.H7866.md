@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shion</span> was a town allotted to the tribe of Issachar, mentioned along with Shunem, Hapharaim, and Anaharath \(Josh. 19:19\).
 - A location only mentioned at [[Josh.19.19|Jos.19.19]]; 
-- only referred to as Shion<[[H7866]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יאו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Shion **<big>[[H7866|שִׁיאוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.716666,35.333334&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shion is mentioned only once in the Bible, in the list of towns allotted to the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shion | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יאו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H7866) <small>*Hebrew*</small> | 1x | [Jos.19.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shion\*\|reference=Jos.19.19) |
-All Strong's for **Shion**: \[[[H7866]]\]
+| Shion | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יאו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H7866) | 1x | [Jos.19.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shion\*\|reference=Jos.19.19) |
+All entries for **Shion**:  **<big>[[H7866|שִׁיאוֹן]]</big>**

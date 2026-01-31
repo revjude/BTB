@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּמְהָם‎</span></big> **Kimhâm** <small>*(kim-hawm')*</small> ==**Chimham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּמַהּ‎</span><sup><small>[[H3642]]</small></sup>; pining</small>
+**<big><span class="ashebrew">‎כִּמְהָם‎</span></big>** **Kimhâm** <small>*(kim-hawm')*</small> ==**Chimham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3642|‎כָּמַהּ‎]]</big>**; pining</small>
 
 $\quad$ Chimham.
 - § Chimham = *"their longing"*

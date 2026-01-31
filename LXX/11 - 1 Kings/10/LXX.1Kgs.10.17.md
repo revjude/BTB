@@ -7,33 +7,33 @@ And [he made] three hundred shields [of] beaten gold; three pound of gold went t
 He also made three hundred small shields of hammered gold; three minas of gold went into each shield. And the king put them in the House of the Forest of Lebanon.<small><sub>**MT:**</sub></small>
 [[1Kgs.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.16|<< 1 Kings 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.18|1 Kings 10:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακοσίους</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| oblong shields | <big><span class="asgreek">θυρεούς</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5557]]</small></small></sup> |
-| hammered out. | <big><span class="asgreek">ελατούς</span></big> <sup><small><small>[[G7179]]</small></small></sup> |
-| Three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| minas | <big><span class="asgreek">μναι</span></big> <sup><small><small>[[G3414]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| \[were\] used | <big><span class="asgreek">επήσαν</span></big> <sup><small><small>[[G7376]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oblong shield | <big><span class="asgreek">θυρεόν</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] forest | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon. | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| three hundred | **<big>[[G5145\|τριακοσίους]]</big>** |
+| oblong shields | **<big>[[G2375\|θυρεούς]]</big>** |
+| of gold | **<big>[[G5557\|χρυσούς]]</big>** |
+| hammered out. | **<big>[[G7179\|ελατούς]]</big>** |
+| Three | **<big>[[G5140\|τρεις]]</big>** |
+| minas | **<big>[[G3414\|μναι]]</big>** |
+| of gold | **<big>[[G5553\|χρυσίου]]</big>** |
+| \[were\] used | **<big>[[G7376\|επήσαν]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oblong shield | **<big>[[G2375\|θυρεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1325\|έδωκεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] forest | **<big>[[G6971\|δρυμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon. | **<big>[[H3844\|Λιβάνου]]</big>** |
 [[1Kgs.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.16|<< 1 Kings 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.18|1 Kings 10:18 >>]]</td></tr></table>
 
 

@@ -6,14 +6,14 @@ I hate them with perfect hatred; I count them as my enemies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.21|<< Psalms 139:21]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.23|Psalms 139:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| completeness of  | <span class="ashebrew"><big>תַּכְלִ֣ית </big></span><small><small><sup>[[H8503]]</sup></small></small> &#8207;| takh.Lit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hatred  | <span class="ashebrew"><big>שִׂנְאָ֣ה </big></span><small><small><sup>[[H8135]]</sup></small></small> &#8207;| sin.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I hate them  | <span class="ashebrew"><big>שְׂנֵאתִ֑י </big></span><small><small><sup>[[H8130]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| se.ne.Ti <small><sup>[[HVqp1cs]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> enemies  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אוֹיְבִ֗ים </big></span><small><small><sup>[[H0341]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'oy.Vim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have become  | <span class="ashebrew"><big>הָ֣יוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| Ha.yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of me  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| L <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completeness of  |**<big>&#8207;[[H8503\|תַּכְלִ֣ית]]&#8207; </big>**| takh.Lit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hatred  |**<big>&#8207;[[H8135\|שִׂנְאָ֣ה]]&#8207; </big>**| sin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I hate them  |**<big>&#8207;[[H8130\|שְׂנֵאתִ֑י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| se.ne.Ti<small><sup>[[HVqp1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> enemies  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H0341\|אוֹיְבִ֗ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'oy.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become  |**<big>&#8207;[[H1961\|הָ֣יוּ]]&#8207; </big>**| Ha.yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.21|<< Psalms 139:21]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.23|Psalms 139:23 >>]]</td></tr></table>
 
 

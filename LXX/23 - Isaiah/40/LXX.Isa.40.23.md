@@ -7,20 +7,20 @@ That bringeth the princes to nothing; he maketh the judges of the earth as vanit
 He brings the princes to nothing and makes the rulers of the earth meaningless.<small><sub>**MT:**</sub></small>
 [[Isa.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.22|<< Isaiah 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.24|Isaiah 40:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| establishing | <big><span class="asgreek">διδούς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| nothing | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| to rule | <big><span class="asgreek">άρχειν</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| nothing | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| establishing | **<big>[[G1325\|διδούς]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| nothing | **<big>[[G3762\|ουδέν]]</big>** |
+| to rule | **<big>[[G0756\|άρχειν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| and | **<big>[[G1473\|δε]]</big>** |
+| earth | **<big>[[G1093\|γην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| nothing | **<big>[[G3762\|ουδέν]]</big>** |
+| he made | **<big>[[G4160\|εποίησεν]]</big>** |
 [[Isa.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.22|<< Isaiah 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.24|Isaiah 40:24 >>]]</td></tr></table>
 
 

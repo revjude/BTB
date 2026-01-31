@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁפָן‎</span></big> **shâphân** <small>*(shaw-fawn')*</small> ==**rock badger**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂפַן‎</span><sup><small>[[H8226]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁפָן‎</span></big>** **shâphân** <small>*(shaw-fawn')*</small> ==**rock badger**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8226|‎שָׂפַן‎]]</big>**</small>
 
 $\quad$ coney.
 - ***a species of rockrabbit*** (from its hiding), i.e. probably ***the hyrax***

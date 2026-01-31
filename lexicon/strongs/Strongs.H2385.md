@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֲזִיז‎</span></big> **chăzîyz** <small>*(khaw-zeez')*</small> ==**lightning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֲזִיז‎</span></big>** **chăzîyz** <small>*(khaw-zeez')*</small> ==**lightning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to glare</small>
 
 $\quad$ bright cloud, lightning.
@@ -6,4 +6,4 @@ $\quad$ bright cloud, lightning.
 
 **1)** thunderbolt, lightning flash, lightning, storm, cloud
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φαντασία</span><sup><small>[[G5325]]</small></sup>
+<small>See Greek: </small>**<big>[[G5325|φαντασία]]</big>**

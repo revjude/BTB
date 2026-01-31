@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִזְרְעֵאלִית‎</span></big> **Yizrᵉʻêʼlîyth** <small>*(yiz-reh-ay-leeth')*</small> ==**Jezreelitess**==  <sup><small>[[TEHMC#N:N-F-L|N:N-F-L]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎יִזְרְעֵאלִי‎</span><sup><small>[[H3158]]</small></sup></small>
+**<big><span class="ashebrew">‎יִזְרְעֵאלִית‎</span></big>** **Yizrᵉʻêʼlîyth** <small>*(yiz-reh-ay-leeth')*</small> ==**Jezreelitess**==  <sup><small>[[TEHMC#N:N-F-L|N:N-F-L]]</small></sup> 
+<small>feminine of **<big>[[H3158|‎יִזְרְעֵאלִי‎]]</big>**</small>
 
 $\quad$ Jezreelitess.
 - § Jezreelitess = *see Jezreel "sown of God"*

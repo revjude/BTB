@@ -7,53 +7,53 @@ And Ahab came into his house heavy and displeased because of the word which Nabo
 So Ahab went to his palace, sullen and angry because Naboth the Jezreelite had told him, “I will not give you the inheritance of my fathers.” He lay down on his bed, turned his face away, and refused to eat.<small><sub>**MT:**</sub></small>
 [[1Kgs.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.3|<< 1 Kings 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.5|1 Kings 21:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahab went | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| his house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being in a tumult | <big><span class="asgreek">συγκεχυμένος</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| loosened | <big><span class="asgreek">εκλελυμένος</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Naboth | <big><span class="asgreek">Ναβούθ</span></big> <sup><small><small>[[H5022]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jezreelite | <big><span class="asgreek">Ιεσραηλίτης</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
-| as | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will not give | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of Ahab | <big><span class="asgreek">Αχάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| disturbed, | <big><span class="asgreek">τεταραγμένον</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went to sleep | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his bed, | <big><span class="asgreek">κλίνης</span></big> <sup><small><small>[[G2825]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| covered up | <big><span class="asgreek">συνεκάλυψε</span></big> <sup><small><small>[[G4780]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">έφαγεν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| bread. | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ahab went | **<big>[[G2064\|ήλθεν]]</big>** **<big>[[H0256\|Αχαάβ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| his house | **<big>[[G3624\|οίκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| being in a tumult | **<big>[[G4797\|συγκεχυμένος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| loosened | **<big>[[G1590\|εκλελυμένος]]</big>** |
+| over | **<big>[[G2089\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| word | **<big>[[G3056\|λόγω]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| Naboth | **<big>[[H5022\|Ναβούθ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jezreelite | **<big>[[H3157\|Ιεσραηλίτης]]</big>** |
+| as | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I will not give | **<big>[[G3756\|ου]]</big>** **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of Ahab | **<big>[[H0256\|Αχάβ]]</big>** |
+| disturbed, | **<big>[[G5015\|τεταραγμένον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went to sleep | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his bed, | **<big>[[G2825\|κλίνης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| covered up | **<big>[[G4780\|συνεκάλυψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face, | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| eat | **<big>[[G2068\|έφαγεν]]</big>** |
+| bread. | **<big>[[G0740\|άρτον]]</big>** |
 [[1Kgs.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.3|<< 1 Kings 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.5|1 Kings 21:5 >>]]</td></tr></table>
 
 

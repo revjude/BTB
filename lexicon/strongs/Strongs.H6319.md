@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוֹטִי פֶרַע‎</span></big> **Pôwṭîy Pheraʻ** <small>*(po-tee feh'-rah)*</small> ==**Potiphera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פּוֹטִי פֶרַע‎</span></big>** **Pôwṭîy Pheraʻ** <small>*(po-tee feh'-rah)*</small> ==**Potiphera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Poti-pherah.

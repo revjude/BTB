@@ -7,14 +7,14 @@ The children of Asnah, the children of Mehunim, the children of Nephusim,
 the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim,<small><sub>**MT:**</sub></small>
 [[Ezra.2.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.49|<< Ezra 2:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.51|Ezra 2:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asnah | <big><span class="asgreek">Ασενά</span></big> <sup><small><small>[[H0619]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mehunim, | <big><span class="asgreek">Μοουνίμ</span></big> <sup><small><small>[[H4586]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nephusim, | <big><span class="asgreek">Νεφουσείμ</span></big> <sup><small><small>[[H5304]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Asnah | **<big>[[H0619\|Ασενά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Mehunim, | **<big>[[H4586\|Μοουνίμ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Nephusim, | **<big>[[H5304\|Νεφουσείμ]]</big>** |
 [[Ezra.2.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.49|<< Ezra 2:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.51|Ezra 2:51 >>]]</td></tr></table>
 
 

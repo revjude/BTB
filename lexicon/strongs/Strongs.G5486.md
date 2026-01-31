@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎χάρισμα‎</span></big> **chárisma** <small>*(khar'-is-mah)*</small> ==**gift**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
-<small>from <span class="asgreek">χαρίζομαι</span><sup><small>[[G5483]]</small></sup></small>
+**<big><span class="asgreek">‎χάρισμα‎</span></big>** **chárisma** <small>*(khar'-is-mah)*</small> ==**gift**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+<small>from **<big>[[G5483|‎χαρίζομαι‎]]</big>**</small>
 
 $\quad$ (free) gift.
 - a (divine) gratuity, i.e. deliverance (from danger or passion)

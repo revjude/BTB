@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎μόνος‎</span></big> **mónos** <small>*(mon'-os)*</small> ==**alone**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-<small>probably from <span class="asgreek">μένω</span><sup><small>[[G3306]]</small></sup></small>
+**<big><span class="asgreek">‎μόνος‎</span></big>** **mónos** <small>*(mon'-os)*</small> ==**alone**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+<small>probably from **<big>[[G3306|‎μένω‎]]</big>**</small>
 
 $\quad$ alone, only, by themselves.
 - remaining, i.e. sole or single

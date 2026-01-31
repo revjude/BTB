@@ -7,24 +7,24 @@ And he shall wave the sheaf before the LORD, to be accepted for you: on the morr
 And he shall wave the sheaf before the LORD so that it may be accepted on your behalf; the priest is to wave it on the day after the Sabbath.<small><sub>**MT:**</sub></small>
 [[Lev.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.10|<< Leviticus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.12|Leviticus 23:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall offer | <big><span class="asgreek">ανοίσει</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheaf | <big><span class="asgreek">δράγμα</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| accepted | <big><span class="asgreek">δεκτόν</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
-| for you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| On the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτης</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| shall offer | <big><span class="asgreek">ανοίσει</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall offer | **<big>[[G0399\|ανοίσει]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| sheaf | **<big>[[G6967\|δράγμα]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| accepted | **<big>[[G1184\|δεκτόν]]</big>** |
+| for you. | **<big>[[G1473\|υμίν]]</big>** |
+| On the | **<big>[[G3588\|τη]]</big>** |
+| next day | **<big>[[G1887\|επαύριον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| first | **<big>[[G4413\|πρώτης]]</big>** |
+| shall offer | **<big>[[G0399\|ανοίσει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
 [[Lev.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.10|<< Leviticus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.12|Leviticus 23:12 >>]]</td></tr></table>
 
 

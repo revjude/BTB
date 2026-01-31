@@ -1,4 +1,4 @@
-<small>Also see: [[H5637]] | [[H8269]]</small>
+<small>Also see: **<big>[[H5637|סָרַר]]</big>** | **<big>[[H8269|שַׂר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎סוּר‎</span> and ([[Hos.9.12|Hos 9:12]]) [<span class="bdbLangHebrew">‎שׂוּד‎</span>]<sub>300</sub> **verb** ==turn aside== (Late Hebrew Hiph\`il ***cause to turn aside***, or ***apostatize***; Tel Amarna <abbr title="transliteration"><u>***sûru***</u></abbr>, noun ***rebel*** [[BDB#Wkl|Wkl]]<sup>Gloss</sup>); — 
 

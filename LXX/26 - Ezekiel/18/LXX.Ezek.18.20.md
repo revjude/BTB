@@ -7,40 +7,40 @@ The soul that sinneth, it shall die. The son shall not bear the iniquity of the 
 The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him.<small><sub>**MT:**</sub></small>
 [[Ezek.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinning, | <big><span class="asgreek">αμαρτάνουσα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| And the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| shall not take | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iniquity | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| shall not take | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iniquity | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son. | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \[The\] righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| of \[the\] just one | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| of \[the\] lawless one | <big><span class="asgreek">ανόμου</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| But the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| sinning, | **<big>[[G0264\|αμαρτάνουσα]]</big>** |
+| it | **<big>[[G1473\|αυτη]]</big>** |
+| shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
+| And the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| shall not take | **<big>[[G3756\|ου]]</big>** **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| iniquity | **<big>[[G0093\|αδικίαν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| father. | **<big>[[G3962\|πατρός]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| shall not take | **<big>[[G3756\|ου]]</big>** **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| iniquity | **<big>[[G0093\|αδικίαν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| son. | **<big>[[G5207\|υιόυ]]</big>** |
+| \[The\] righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| of \[the\] just one | **<big>[[G1342\|δικαίου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] lawlessness | **<big>[[G0458\|ανομία]]</big>** |
+| of \[the\] lawless one | **<big>[[G0459\|ανόμου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
 [[Ezek.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ Let my mouth be filled [with] thy praise [and with] thy honour all the day.
 My mouth is filled with Your praise and with Your splendor all day long.<small><sub>**MT:**</sub></small>
 [[Ps.71.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.7|<< Psalm 71:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.9|Psalm 71:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be filled | <big><span class="asgreek">πληρωθήτω</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of praise! | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| I may praise in song | <big><span class="asgreek">υμνήσω</span></big> <sup><small><small>[[G5214]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your glory; | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your majesty. | <big><span class="asgreek">μεγαλοπρέπειάν</span></big> <sup><small><small>[[G8266]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be filled | **<big>[[G4137\|πληρωθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| of praise! | **<big>[[G0133\|αινέσεως]]</big>** |
+| that | **<big>[[G3704\|όπως]]</big>** |
+| I may praise in song | **<big>[[G5214\|υμνήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your glory; | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your majesty. | **<big>[[G8266\|μεγαλοπρέπειάν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.71.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.7|<< Psalm 71:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.9|Psalm 71:9 >>]]</td></tr></table>
 
 

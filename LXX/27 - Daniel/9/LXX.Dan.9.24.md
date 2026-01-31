@@ -7,51 +7,51 @@ Seventy weeks are determined upon thy people and upon thy holy city, to finish t
 Seventy weeks are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place.<small><sub>**MT:**</sub></small>
 [[Dan.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.23|<< Daniel 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.25|Daniel 9:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| periods of seven | <big><span class="asgreek">εβδομάδες</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| were rendered concise | <big><span class="asgreek">συνετμήθησαν</span></big> <sup><small><small>[[G4932]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίαν</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to finish off | <big><span class="asgreek">συντελεσθήναι</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| sin, | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to set a seal upon | <big><span class="asgreek">σφραγίσαι</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| sins, | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to wipe out | <big><span class="asgreek">απαλείψαι</span></big> <sup><small><small>[[G6390]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless deeds, | <big><span class="asgreek">ανομίαις</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to atone | <big><span class="asgreek">εξιλάσασθαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for iniquities, | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">αγαγείν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to set a seal upon | <big><span class="asgreek">σφραγίσαι</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prophecy, | <big><span class="asgreek">προφητείαν</span></big> <sup><small><small>[[G4394]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to anoint | <big><span class="asgreek">χρίσαι</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| \[the\] holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of holies. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| Seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| periods of seven | **<big>[[G6988\|εβδομάδες]]</big>** |
+| were rendered concise | **<big>[[G4932\|συνετμήθησαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your people, | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| holy | **<big>[[G0039\|αγίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to finish off | **<big>[[G4931\|συντελεσθήναι]]</big>** |
+| sin, | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to set a seal upon | **<big>[[G4972\|σφραγίσαι]]</big>** |
+| sins, | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to wipe out | **<big>[[G6390\|απαλείψαι]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| lawless deeds, | **<big>[[G0458\|ανομίαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to atone | **<big>[[G7331\|εξιλάσασθαι]]</big>** |
+| for iniquities, | **<big>[[G0093\|αδικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G0071\|αγαγείν]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to set a seal upon | **<big>[[G4972\|σφραγίσαι]]</big>** |
+| vision | **<big>[[G3706\|όρασιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prophecy, | **<big>[[G4394\|προφητείαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to anoint | **<big>[[G5548\|χρίσαι]]</big>** |
+| \[the\] holy | **<big>[[G0039\|άγιον]]</big>** |
+| of holies. | **<big>[[G0039\|αγίων]]</big>** |
 [[Dan.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.23|<< Daniel 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.25|Daniel 9:25 >>]]</td></tr></table>
 
 

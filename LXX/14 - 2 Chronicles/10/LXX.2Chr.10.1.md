@@ -10,20 +10,20 @@ And Rehoboam went to Shechem: for to Shechem were all Israel come to make him ki
 Then Rehoboam went to Shechem, for all Israel had gone there to make him king.<small><sub>**MT:**</sub></small>
 [[2Chr.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.31|<< 2 Chronicles 9:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.2|2 Chronicles 10:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Rehoboam came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shechem, | <big><span class="asgreek">Συχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shechem | <big><span class="asgreek">Συχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| came | <big><span class="asgreek">ήρχετο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to give reign | <big><span class="asgreek">βασιλεύσαι</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Rehoboam came | **<big>[[G2064\|ήλθε]]</big>** **<big>[[G4497\|Ροβοάμ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Shechem, | **<big>[[G4966\|Συχέμ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Shechem | **<big>[[G4966\|Συχέμ]]</big>** |
+| came | **<big>[[G2064\|ήρχετο]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to give reign | **<big>[[G0936\|βασιλεύσαι]]</big>** |
+| to him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[2Chr.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.31|<< 2 Chronicles 9:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.2|2 Chronicles 10:2 >>]]</td></tr></table>
 
 

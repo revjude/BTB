@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָלָף‎</span></big> **Tsâlâph** <small>*(tsaw-lawf')*</small> ==**Zalaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎צָלָף‎</span></big>** **Tsâlâph** <small>*(tsaw-lawf')*</small> ==**Zalaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root of unknown meaning</small>
 
 $\quad$ Zalaph.

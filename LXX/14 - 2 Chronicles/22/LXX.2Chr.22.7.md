@@ -7,41 +7,41 @@ And the destruction of Ahaziah was of God by coming to Joram: for when he was co
 Ahaziah’s downfall came from God when he went to visit Joram. When Ahaziah arrived, he went out with Joram to meet Jehu son of Nimshi, whom the LORD had anointed to destroy the house of Ahab.<small><sub>**MT:**</sub></small>
 [[2Chr.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.6|<< 2 Chronicles 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.8|2 Chronicles 22:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] final event | <big><span class="asgreek">καταστροφή</span></big> <sup><small><small>[[G2692]]</small></small></sup> |
-| of Ahaziah | <big><span class="asgreek">Οχοζίου</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[in\] his coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jehoram. | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his coming, | <big><span class="asgreek">ελθειν</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jehoram went forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jehu | <big><span class="asgreek">Ιού</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nimshi, | <big><span class="asgreek">Ναμεσεί</span></big> <sup><small><small>[[H5250]]</small></small></sup> |
-| \[the\] anointed | <big><span class="asgreek">χριστόν</span></big> <sup><small><small>[[G5547]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| anointed | <big><span class="asgreek">έχρισεν</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ahab. | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] final event | **<big>[[G2692\|καταστροφή]]</big>** |
+| of Ahaziah | **<big>[[H0274\|Οχοζίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[in\] his coming | **<big>[[G2064\|ελθείν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jehoram. | **<big>[[G2496\|Ιωράμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his coming, | **<big>[[G2064\|ελθειν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| Jehoram went forth | **<big>[[G1831\|εξήλθε]]</big>** **<big>[[G2496\|Ιωράμ]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| Jehu | **<big>[[H3058\|Ιού]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Nimshi, | **<big>[[H5250\|Ναμεσεί]]</big>** |
+| \[the\] anointed | **<big>[[G5547\|χριστόν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| anointed | **<big>[[G5548\|έχρισεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to utterly destroy | **<big>[[G1842\|εξολοθρεύσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of Ahab. | **<big>[[H0256\|Αχαάβ]]</big>** |
 [[2Chr.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.6|<< 2 Chronicles 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.8|2 Chronicles 22:8 >>]]</td></tr></table>
 
 

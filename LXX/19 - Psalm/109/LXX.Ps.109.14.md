@@ -7,22 +7,22 @@ Let the iniquity of his fathers be remembered with the LORD; and let not the sin
 May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out.<small><sub>**MT:**</sub></small>
 [[Ps.109.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.13|<< Psalm 109:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.15|Psalm 109:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be called to mind | <big><span class="asgreek">αναμνησθείη</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his mother | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| may | <big><span class="asgreek">εξαλειφθείη</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
+| be called to mind | **<big>[[G0363\|αναμνησθείη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομία]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his fathers | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his mother | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| may | **<big>[[G1813\|εξαλειφθείη]]</big>** |
 [[Ps.109.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.13|<< Psalm 109:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.15|Psalm 109:15 >>]]</td></tr></table>
 
 

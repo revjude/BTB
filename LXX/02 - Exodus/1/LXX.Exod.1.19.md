@@ -7,30 +7,30 @@ And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Eg
 The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.”<small><sub>**MT:**</sub></small>
 [[Exod.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midwives | <big><span class="asgreek">μαίαι</span></big> <sup><small><small>[[G8228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebrews, | <big><span class="asgreek">Εβραίαι</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| for they give birth | <big><span class="asgreek">τίκτουσι</span></big> <sup><small><small>[[G5088]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-|  | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midwives | <big><span class="asgreek">μαίας</span></big> <sup><small><small>[[G8228]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they bear. | <big><span class="asgreek">έτικτον</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| midwives | **<big>[[G8228\|μαίαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| Not | **<big>[[G3756\|ουχ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] women | **<big>[[G1135\|γυναίκες]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| \[are\] the | **<big>[[G3588\|αι]]</big>** |
+| Hebrews, | **<big>[[G1444\|Εβραίαι]]</big>** |
+| for they give birth | **<big>[[G5088\|τίκτουσι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| before | **<big>[[G4250\|πριν]]</big>** |
+|  | **<big>[[G2228\|η]]</big>** |
+| entered | **<big>[[G1525\|εισελθείν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| midwives | **<big>[[G8228\|μαίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they bear. | **<big>[[G5088\|έτικτον]]</big>** |
 [[Exod.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
 
 

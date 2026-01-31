@@ -6,27 +6,27 @@ Thou therefore, son of man, prophesy, and smite [thine] hands together, and let 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.13|<< Ezekiel 21:13]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.15|Ezekiel 21:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתָּ֣ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֔ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prophesy  | <span class="ashebrew"><big>הִנָּבֵ֕א </big></span><small><small><sup>[[H5012]]</sup></small></small> &#8207;| hi.na.Ve' <small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and strike  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַ֖ךְ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hakh <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| palm  | <span class="ashebrew"><big>כַּ֣ף </big></span><small><small><sup>[[H3709G]]</sup></small></small> &#8207;| kaf <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| palm  | <span class="ashebrew"><big>כָּ֑ף </big></span><small><small><sup>[[H3709G]]</sup></small></small> &#8207;| Kaf <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so it may be doubled  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תִכָּפֵ֞ל </big></span><small><small><sup>[[H3717]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ti.ka.Fel <small><sup>[[HVNu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sword  | <span class="ashebrew"><big>חֶ֤רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Che.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a third  | <span class="ashebrew"><big>שְׁלִישִׁ֙תָה֙ </big></span><small><small><sup>[[H7992]]</sup></small></small> &#8207;| she.li.Shi.tah <small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sword of  | <span class="ashebrew"><big>חֶ֣רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Che.rev <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] slain  | <span class="ashebrew"><big>חֲלָלִ֔ים </big></span><small><small><sup>[[H2491A]]</sup></small></small> &#8207;| cha.la.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֗יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a sword of  | <span class="ashebrew"><big>חֶ֚רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Che.rev <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] slain  | <span class="ashebrew"><big>חָלָ֣ל </big></span><small><small><sup>[[H2491A]]</sup></small></small> &#8207;| cha.Lal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> great  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גָּד֔וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which surrounds  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חֹדֶ֖רֶת </big></span><small><small><sup>[[H2314]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> cho.De.ret <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֔ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prophesy  |**<big>&#8207;[[H5012\|הִנָּבֵ֕א]]&#8207; </big>**| hi.na.Ve'<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and strike  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5221\|הַ֖ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hakh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| palm  |**<big>&#8207;[[H3709G\|כַּ֣ף]]&#8207; </big>**| kaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| palm  |**<big>&#8207;[[H3709G\|כָּ֑ף]]&#8207; </big>**| Kaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so it may be doubled  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3717\|תִכָּפֵ֞ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ti.ka.Fel<small><sup>[[HVNu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  |**<big>&#8207;[[H2719\|חֶ֤רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a third  |**<big>&#8207;[[H7992\|שְׁלִישִׁ֙תָה֙]]&#8207; </big>**| she.li.Shi.tah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword of  |**<big>&#8207;[[H2719\|חֶ֣רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] slain  |**<big>&#8207;[[H2491A\|חֲלָלִ֔ים]]&#8207; </big>**| cha.la.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֗יא]]&#8207; </big>**| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a sword of  |**<big>&#8207;[[H2719\|חֶ֚רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] slain  |**<big>&#8207;[[H2491A\|חָלָ֣ל]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גָּד֔וֹל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which surrounds  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2314\|חֹדֶ֖רֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.De.ret<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.13|<< Ezekiel 21:13]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.15|Ezekiel 21:15 >>]]</td></tr></table>
 
 

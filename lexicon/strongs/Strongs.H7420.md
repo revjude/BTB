@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רֹמַח‎</span></big> **rômach** <small>*(ro'-makh)*</small> ==**spear**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎רֹמַח‎</span></big>** **rômach** <small>*(ro'-makh)*</small> ==**spear**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to hurl</small>
 
 $\quad$ buckler, javelin, lancet, spear.
@@ -7,4 +7,4 @@ $\quad$ buckler, javelin, lancet, spear.
 
 **1)** spear, lance
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λόγχη</span><sup><small>[[G3057]]</small></sup>
+<small>See Greek: </small>**<big>[[G3057|λόγχη]]</big>**

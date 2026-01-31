@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎וַשְׁתִּי‎</span></big> **Vashtîy** <small>*(vash-tee')*</small> ==**Vashti**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎וַשְׁתִּי‎</span></big>** **Vashtîy** <small>*(vash-tee')*</small> ==**Vashti**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Vashti. z

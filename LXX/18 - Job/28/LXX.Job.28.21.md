@@ -7,17 +7,17 @@ Seeing it is hid from the eyes of all living, and kept close from the fowls of t
 It is hidden from the eyes of every living thing and concealed from the birds of the air.<small><sub>**MT:**</sub></small>
 [[Job.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.20|<< Job 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.22|Job 28:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| She has escaped notice | <big><span class="asgreek">λέληθε</span></big> <sup><small><small>[[G2990]]</small></small></sup> |
-| of every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man; | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] birds | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| she was hid. | <big><span class="asgreek">εκρύβη</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| She has escaped notice | **<big>[[G2990\|λέληθε]]</big>** |
+| of every | **<big>[[G3956\|πάντα]]</big>** |
+| man; | **<big>[[G0444\|άνθρωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] birds | **<big>[[G4071\|πετεινών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| she was hid. | **<big>[[G2928\|εκρύβη]]</big>** |
 [[Job.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.20|<< Job 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.22|Job 28:22 >>]]</td></tr></table>
 
 

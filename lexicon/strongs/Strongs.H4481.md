@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מִן‎</span></big> **min** <small>*(min)*</small> ==**from**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מִן‎</span><sup><small>[[H4480]]</small></sup></small>
+**<big><span class="asaramaic">‎מִן‎</span></big>** **min** <small>*(min)*</small> ==**from**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4480|‎מִן‎]]</big>**</small>
 
 $\quad$ according, after, [phrase] because, [phrase] before, by, for, from, [idiom] him, [idiom] more than, (out) of, part, since, [idiom] these, to, upon, [phrase] when.
 - {properly, ***a part of***

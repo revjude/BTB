@@ -7,21 +7,21 @@ I will sing unto the LORD, because he hath dealt bountifully with me.
 I will sing to the LORD, for He has been good to me.<small><sub>**MT:**</sub></small>
 [[Ps.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.5|<< Psalm 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.1|Psalm 14:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall sing | <big><span class="asgreek">άσω</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one benefiting | <big><span class="asgreek">ευεργετήσαντί</span></big> <sup><small><small>[[G2109]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will strum | <big><span class="asgreek">ψαλώ</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest. | <big><span class="asgreek">υψίστου</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
+| I shall sing | **<big>[[G0103\|άσω]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one benefiting | **<big>[[G2109\|ευεργετήσαντί]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will strum | **<big>[[G5567\|ψαλώ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| highest. | **<big>[[G5310\|υψίστου]]</big>** |
 [[Ps.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.5|<< Psalm 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.1|Psalm 14:1 >>]]</td></tr></table>
 
 

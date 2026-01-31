@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H0751]]</small>
+<small>Hebrew form: **<big>[[H0751|אֶרֶךְ]]</big>**</small>
  <span class="bdbLangAramaic">‎אַרְכְּוָיֵ֯‎</span> **proper name, of a people** ==people of Erech== (Biblical Hebrew <span class="bdbLangAramaic">‎אֶרֶךְ‎</span>; so also [[BDB#Mey|Mey]]<sup>EJud. 40</sup>); — plural emphatic [[Ezra.4.9|Ezra 4:9]] ([[BDB#Qr|Qr]] <span class="bdbLangAramaic">‎אַרְכְּוָיֵא‎</span>; compare [[BDB#Kau|K]]<sup>§ 61, 6</sup>). 
 
 **Brown-Driver-Briggs References**

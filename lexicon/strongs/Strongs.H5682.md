@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲבָרִים‎</span></big> **ʻĂbârîym** <small>*(ab-aw-reem')*</small> ==**Abarim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎עֵבֶר‎</span><sup><small>[[H5676]]</small></sup>; regions beyond</small>
+**<big><span class="ashebrew">‎עֲבָרִים‎</span></big>** **ʻĂbârîym** <small>*(ab-aw-reem')*</small> ==**Abarim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H5676|‎עֵבֶר‎]]</big>**; regions beyond</small>
 
 $\quad$ Abarim, passages.
 - § Abarim = *"regions beyond"*

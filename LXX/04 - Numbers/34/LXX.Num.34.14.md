@@ -7,31 +7,31 @@ For the tribe of the children of Reuben according to the house of their fathers,
 For the tribes of the Reubenites and Gadites, along with the half-tribe of Manasseh, have already received their inheritance.<small><sub>**MT:**</sub></small>
 [[Num.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.13|<< Numbers 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.15|Numbers 34:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| received \[it\] | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \[the\] tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Reuben | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of their patrimony, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gad | <big><span class="asgreek">Γαδ</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of their patrimony, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| took | <big><span class="asgreek">απέλαβον</span></big> <sup><small><small>[[G0618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lots. | <big><span class="asgreek">κλήρους</span></big> <sup><small><small>[[G2819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| received \[it\] | **<big>[[G2983\|έλαβε]]</big>** |
+| \[the\] tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Reuben | **<big>[[G4502\|Ρουβήν]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| of their patrimony, | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Gad | **<big>[[G1045\|Γαδ]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| of their patrimony, | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| took | **<big>[[G0618\|απέλαβον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their lots. | **<big>[[G2819\|κλήρους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.13|<< Numbers 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.15|Numbers 34:15 >>]]</td></tr></table>
 
 

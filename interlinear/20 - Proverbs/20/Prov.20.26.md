@@ -6,15 +6,15 @@ A wise king separates out the wicked and drives the threshing wheel over them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.25|<< Proverbs 20:25]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.27|Proverbs 20:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] winnowing  | <span class="ashebrew"><big>מְזָרֶ֣ה </big></span><small><small><sup>[[H2219]]</sup></small></small> &#8207;| me.za.Reh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֭שָׁעִים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Re.sha.'im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a king  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise  | <span class="ashebrew"><big>חָכָ֑ם </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.Kham <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he brought back  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֖שֶׁב </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.shev <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over them  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶ֣ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wheel  | <span class="ashebrew"><big>אוֹפָֽן </big></span><small><small><sup>[[H0212]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'o.Fan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] winnowing  |**<big>&#8207;[[H2219\|מְזָרֶ֣ה]]&#8207; </big>**| me.za.Reh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a king  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise  |**<big>&#8207;[[H2450\|חָכָ֑ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he brought back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֖שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wheel  |**<big>&#8207;[[H0212\|אוֹפָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Fan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.25|<< Proverbs 20:25]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.27|Proverbs 20:27 >>]]</td></tr></table>
 
 

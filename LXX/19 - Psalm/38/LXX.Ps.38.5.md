@@ -7,17 +7,17 @@ My wounds stink [and] are corrupt because of my foolishness.
 My wounds are foul and festering because of my sinful folly.<small><sub>**MT:**</sub></small>
 [[Ps.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.4|<< Psalm 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.6|Psalm 38:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| give out an odor | <big><span class="asgreek">προσώζεσαν</span></big> <sup><small><small>[[G8936]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fester | <big><span class="asgreek">εσάπησαν</span></big> <sup><small><small>[[G4595]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My stripes | <big><span class="asgreek">μώλωπές</span></big> <sup><small><small>[[G3468]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my folly. | <big><span class="asgreek">αφροσύνης</span></big> <sup><small><small>[[G0877]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| give out an odor | **<big>[[G8936\|προσώζεσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fester | **<big>[[G4595\|εσάπησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| My stripes | **<big>[[G3468\|μώλωπές]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my folly. | **<big>[[G0877\|αφροσύνης]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.4|<< Psalm 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.6|Psalm 38:6 >>]]</td></tr></table>
 
 

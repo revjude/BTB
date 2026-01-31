@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כּוּשִׁית‎</span></big> **Kûwshîyth** <small>*(koo-sheeth')*</small> ==**Cushitess**==  <sup><small>[[TEHMC#N:N-F-PG|N:N-F-PG]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎כּוּשִׁי‎</span><sup><small>[[H3569]]</small></sup></small>
+**<big><span class="ashebrew">‎כּוּשִׁית‎</span></big>** **Kûwshîyth** <small>*(koo-sheeth')*</small> ==**Cushitess**==  <sup><small>[[TEHMC#N:N-F-PG|N:N-F-PG]]</small></sup> 
+<small>feminine of **<big>[[H3569|‎כּוּשִׁי‎]]</big>**</small>
 
 $\quad$ Ethiopian.
 - ***a Cushite woman***

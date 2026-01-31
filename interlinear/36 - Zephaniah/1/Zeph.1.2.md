@@ -6,16 +6,16 @@ I will utterly consume all [things] from off the land, saith the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.1|<< Zephaniah 1:1]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.3|Zephaniah 1:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| utterly \<destroy>  | <span class="ashebrew"><big>אָסֹ֨ף </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| 'a.Sof <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will bring to an end  | <span class="ashebrew"><big>אָסֵ֜ף </big></span><small><small><sup>[[H5486]]</sup></small></small> &#8207;| 'a.Sef <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everything  | <span class="ashebrew"><big>כֹּ֗ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from on  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עַ֛ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] surface of  | <span class="ashebrew"><big>פְּנֵ֥י </big></span><small><small><sup>[[H6440J]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ground  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֲדָמָ֖ה </big></span><small><small><sup>[[H0127I]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.da.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻם </big></span><small><small><sup>[[H5002]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ne.'um- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| utterly \<destroy>  |**<big>&#8207;[[H0622\|אָסֹ֨ף]]&#8207; </big>**| 'a.Sof<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will bring to an end  |**<big>&#8207;[[H5486\|אָסֵ֜ף]]&#8207; </big>**| 'a.Sef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everything  |**<big>&#8207;[[H3605\|כֹּ֗ל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֛ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] surface of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.1|<< Zephaniah 1:1]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.3|Zephaniah 1:3 >>]]</td></tr></table>
 
 

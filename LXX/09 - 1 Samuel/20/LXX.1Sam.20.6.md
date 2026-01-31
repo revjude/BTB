@@ -7,35 +7,35 @@ If thy father at all miss me, then say, David earnestly asked [leave] of me that
 If your father misses me at all, tell him, ‘David urgently requested my permission to hurry to Bethlehem, his hometown, because there is an annual sacrifice for his whole clan.’<small><sub>**MT:**</sub></small>
 [[1Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.5|<< 1 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.7|1 Samuel 20:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| in numbering | <big><span class="asgreek">επισκεπτόμενος</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| should number | <big><span class="asgreek">επισκέψηταί</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| me \[missing\] | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| In asking pardon | <big><span class="asgreek">παραιτούμενος</span></big> <sup><small><small>[[G3868]]</small></small></sup> |
-| asks pardon | <big><span class="asgreek">παρητήσατο</span></big> <sup><small><small>[[G3868]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to run | <big><span class="asgreek">δραμείν</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-|  | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Beth-lehem | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[feast\] days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[is\] there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| \[for the\] entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe. | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| in numbering | **<big>[[G1980\|επισκεπτόμενος]]</big>** |
+| should number | **<big>[[G1980\|επισκέψηταί]]</big>** |
+| me \[missing\] | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| you shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| In asking pardon | **<big>[[G3868\|παραιτούμενος]]</big>** |
+| asks pardon | **<big>[[G3868\|παρητήσατο]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| to run | **<big>[[G5143\|δραμείν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+|  | **<big>[[G1519\|εις]]</big>** |
+| Beth-lehem | **<big>[[G0965\|Βηθλεέμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his city, | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] sacrifice | **<big>[[G2378\|θυσία]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| \[feast\] days | **<big>[[G2250\|ημερών]]</big>** |
+| \[is\] there | **<big>[[G1563\|εκεί]]</big>** |
+| \[for the\] entire | **<big>[[G3650\|όλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| tribe. | **<big>[[G5443\|φυλή]]</big>** |
 [[1Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.5|<< 1 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.7|1 Samuel 20:7 >>]]</td></tr></table>
 
 

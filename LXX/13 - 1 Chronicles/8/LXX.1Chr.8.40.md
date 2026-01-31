@@ -7,31 +7,31 @@ And the sons of Ulam were mighty men of valour, archers, and had many sons, and 
 The sons of Ulam were mighty men of valor, archers, and they had many sons and grandsons—150 in all. All these were the descendants of Benjamin.<small><sub>**MT:**</sub></small>
 [[1Chr.8.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.39|<< 1 Chronicles 8:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.1|1 Chronicles 9:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ulam | <big><span class="asgreek">Ουλάμ</span></big> <sup><small><small>[[H0198]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| in strength, | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| stretching | <big><span class="asgreek">τείνοντες</span></big> <sup><small><small>[[G9407]]</small></small></sup> |
-| \[the\] bow, | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| multiplying | <big><span class="asgreek">πληθύνοντες</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons -- | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty; | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin. | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγένοντο]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ulam | **<big>[[H0198\|Ουλάμ]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| mighty | **<big>[[G1415\|δυνατοί]]</big>** |
+| in strength, | **<big>[[G2479\|ισχύϊ]]</big>** |
+| stretching | **<big>[[G9407\|τείνοντες]]</big>** |
+| \[the\] bow, | **<big>[[G5115\|τόξον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| multiplying | **<big>[[G4129\|πληθύνοντες]]</big>** |
+| sons, | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons -- | **<big>[[G5207\|υιών]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty; | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Benjamin. | **<big>[[G0958\|Βενιαμίν]]</big>** |
 [[1Chr.8.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.39|<< 1 Chronicles 8:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.1|1 Chronicles 9:1 >>]]</td></tr></table>
 
 

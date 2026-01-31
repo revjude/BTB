@@ -6,15 +6,15 @@ The city of chaos is shattered; every house is closed to entry.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.9|<< Isaiah 24:9]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.11|Isaiah 24:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has been broken  | <span class="ashebrew"><big>נִשְׁבְּרָ֖ה </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| nish.be.Rah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] town of  | <span class="ashebrew"><big>קִרְיַת </big></span><small><small><sup>[[H7151]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kir.yat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| formlessness  | <span class="ashebrew"><big>תֹּ֑הוּ </big></span><small><small><sup>[[H8414]]</sup></small></small> &#8207;| To.hu <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been shut up  | <span class="ashebrew"><big>סֻגַּ֥ר </big></span><small><small><sup>[[H5462]]</sup></small></small> &#8207;| su.Gar <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| house  | <span class="ashebrew"><big>בַּ֖יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from entering  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בּֽוֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Bo' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been broken  |**<big>&#8207;[[H7665\|נִשְׁבְּרָ֖ה]]&#8207; </big>**| nish.be.Rah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] town of  |**<big>&#8207;[[H7151\|קִרְיַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kir.yat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| formlessness  |**<big>&#8207;[[H8414\|תֹּ֑הוּ]]&#8207; </big>**| To.hu<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been shut up  |**<big>&#8207;[[H5462\|סֻגַּ֥ר]]&#8207; </big>**| su.Gar<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house  |**<big>&#8207;[[H1004B\|בַּ֖יִת]]&#8207; </big>**| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from entering  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0935G\|בּֽוֹא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Bo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.9|<< Isaiah 24:9]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.11|Isaiah 24:11 >>]]</td></tr></table>
 
 

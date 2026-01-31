@@ -6,13 +6,13 @@ They are senseless, faithless, heartless, merciless.
 <small><sub>**Literal:**</sub></small>
 foolish, untrustworthy, heartless implacable, unmerciful,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.30|<< Romans 1:30]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.32|Romans 1:32 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| foolish, |<big><span class="asgreek">ἀσυνέτους,</span></big> <small><small><sup>[[G0801]]</sup></small></small> |asunetous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| untrustworthy, |<big><span class="asgreek">ἀσυνθέτους,</span></big> <small><small><sup>[[G0802]]</sup></small></small> |asunthetous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heartless |<big><span class="asgreek">ἀστόργους</span></big> <small><small><sup>[[G0794]]</sup></small></small> |astorgous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| implacable, [^1] |<big><span class="asgreek">ἀσπόνδους,</span></big> <small><small><sup>[[G0786]]</sup></small></small> |aspondous <small><sup>[[A-APM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| unmerciful, |<big><span class="asgreek">ἀνελεήμονας,</span></big> <small><small><sup>[[G0415]]</sup></small></small> |aneleēmonas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| foolish, |**<big>[[G0801\|ἀσυνέτους,]]</big>**  |asunetous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| untrustworthy, |**<big>[[G0802\|ἀσυνθέτους,]]</big>**  |asunthetous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heartless |**<big>[[G0794\|ἀστόργους]]</big>**  |astorgous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| implacable, [^1] |**<big>[[G0786\|ἀσπόνδους,]]</big>**  |aspondous <small><sup>[[A-APM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| unmerciful, |**<big>[[G0415\|ἀνελεήμονας,]]</big>**  |aneleēmonas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.30|<< Romans 1:30]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.32|Romans 1:32 >>]]</td></tr></table>
 
-[^1]: Extra Text:  <span class='asgreek'>**ἀσπόνδους**</span>,  (<i>aspondous</i>) 'implacable,' is only in traditional manuscripts (TR+Byz)
+[^1]: Extra Text:  **<big><span class='asgreek'>ἀσπόνδους</span></big>**,  (<i>aspondous</i>) 'implacable,' is only in traditional manuscripts (TR+Byz)

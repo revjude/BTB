@@ -7,23 +7,23 @@ I will also vex the hearts of many people, when I shall bring thy destruction am
 ‘I will trouble the hearts of many peoples, when I bring about your destruction among the nations, in countries you do not know.<small><sub>**MT:**</sub></small>
 [[Ezek.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.8|<< Ezekiel 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.10|Ezekiel 32:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will provoke to anger | <big><span class="asgreek">παροργιώ</span></big> <sup><small><small>[[G3949]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| whenever | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I lead | <big><span class="asgreek">άγω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| you \[as\] a captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you knew not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will provoke to anger | **<big>[[G3949\|παροργιώ]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| of many | **<big>[[G4183\|πολλών]]</big>** |
+| peoples, | **<big>[[G2992\|λαών]]</big>** |
+| whenever | **<big>[[G2259\|ηνίκα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| I lead | **<big>[[G0071\|άγω]]</big>** |
+| you \[as\] a captivity | **<big>[[G0161\|αιχμαλωσίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you knew not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνως]]</big>** |
 [[Ezek.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.8|<< Ezekiel 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.10|Ezekiel 32:10 >>]]</td></tr></table>
 
 

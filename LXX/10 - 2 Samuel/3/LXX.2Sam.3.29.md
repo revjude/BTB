@@ -7,39 +7,39 @@ Let it rest on the head of Joab, and on all his father’s house; and let there 
 May it whirl over the head of Joab and over the entire house of his father, and may the house of Joab never be without one having a discharge or skin disease, or one who leans on a staff or falls by the sword or lacks food.”<small><sub>**MT:**</sub></small>
 [[2Sam.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.28|<< 2 Samuel 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.30|2 Samuel 3:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let \[it\] arrive | <big><span class="asgreek">καταντησάτωσαν</span></big> <sup><small><small>[[G2658]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father! | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may there not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| cease to be | <big><span class="asgreek">εκλίποι</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| one from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| having gonorrhea, | <big><span class="asgreek">γονορρυής</span></big> <sup><small><small>[[G6761]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| leprous, | <big><span class="asgreek">λεπρός</span></big> <sup><small><small>[[G3015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| holding | <big><span class="asgreek">κρατών</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| a stave, | <big><span class="asgreek">σκυτάλην</span></big> <sup><small><small>[[G9122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| falling | <big><span class="asgreek">πίπτων</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lacking | <big><span class="asgreek">ελαττονούμενος</span></big> <sup><small><small>[[G7176]]</small></small></sup> |
-| bread loaves. | <big><span class="asgreek">άρτοις</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| Let \[it\] arrive | **<big>[[G2658\|καταντησάτωσαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| of Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father! | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may there not | **<big>[[G3361\|μη]]</big>** |
+| cease to be | **<big>[[G1587\|εκλίποι]]</big>** |
+| one from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| having gonorrhea, | **<big>[[G6761\|γονορρυής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| leprous, | **<big>[[G3015\|λεπρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| holding | **<big>[[G2902\|κρατών]]</big>** |
+| a stave, | **<big>[[G9122\|σκυτάλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| falling | **<big>[[G4098\|πίπτων]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword, | **<big>[[G4501\|ρομφαία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lacking | **<big>[[G7176\|ελαττονούμενος]]</big>** |
+| bread loaves. | **<big>[[G0740\|άρτοις]]</big>** |
 [[2Sam.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.28|<< 2 Samuel 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.30|2 Samuel 3:30 >>]]</td></tr></table>
 
 

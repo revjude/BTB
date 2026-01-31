@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H6268]]</small>
+<small>Aramaic form: **<big>[[H6268|עַתִּיק]]</big>**</small>
  [<span class="bdbLangHebrew">‎עַתִּיק‎</span>] **adjective** ==removed, old==; — 
 
 **1.** ***removed***, <span class="bdbLangHebrew">‎עַתִּיקֵי מִשָּׁדָ֑יִם‎</span> [[Isa.28.9|Isa 28:9]] i.e. weaned (\|\| <span class="bdbLangHebrew">‎גְּמוּלֵי מֵחָלָד‎</span>; on construct see [[BDB#Ges|Ges]]<sup>«GKC:130a»§ 130a</sup>). 

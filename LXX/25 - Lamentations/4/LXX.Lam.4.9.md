@@ -9,23 +9,23 @@ Better were the ones slain by \[the\] broadsword than the ones slain by hunger; 
 Those slain by the sword are better off than those who die of hunger, who waste away, pierced with pain because the fields lack produce.<small><sub>**MT:**</sub></small>
 [[Lam.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.8|<< Lamentations 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.10|Lamentations 4:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΤΗΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΤΗΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Better | <big><span class="asgreek">καλοί</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slain | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| by \[the\] broadsword | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slain | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| by hunger; | <big><span class="asgreek">λιμού</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| being pierced | <big><span class="asgreek">εκκεκεντημένοι</span></big> <sup><small><small>[[G1574]]</small></small></sup> |
-| by \[want\] | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of produce | <big><span class="asgreek">γεννημάτων</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| of \[the\] fields. | <big><span class="asgreek">αγρών</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| ΤΗΘ <sup><small>[acrostic title]</small></sup> |  |
+| Better | **<big>[[G2570\|καλοί]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| slain | **<big>[[G9470\|τραυματίαι]]</big>** |
+| by \[the\] broadsword | **<big>[[G4501\|ρομφαίας]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| slain | **<big>[[G9470\|τραυματίαι]]</big>** |
+| by hunger; | **<big>[[G3042\|λιμού]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| being pierced | **<big>[[G1574\|εκκεκεντημένοι]]</big>** |
+| by \[want\] | **<big>[[G0575\|από]]</big>** |
+| of produce | **<big>[[G1081\|γεννημάτων]]</big>** |
+| of \[the\] fields. | **<big>[[G0068\|αγρών]]</big>** |
 [[Lam.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.8|<< Lamentations 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.10|Lamentations 4:10 >>]]</td></tr></table>
 
 

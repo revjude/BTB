@@ -6,24 +6,24 @@ and he even tried to desecrate the temple; so we seized him.
 <small><sub>**Literal:**</sub></small>
 who even the temple attempted to profane, whom also we seized and according to <the> our own law we wanted to judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.5|<< Acts 24:5]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.7|Acts 24:7 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who |<big><span class="asgreek">ὃς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| temple |<big><span class="asgreek">ἱερὸν</span></big> <small><small><sup>[[G2411]]</sup></small></small> |hi'eron <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| attempted |<big><span class="asgreek">ἐπείρασεν</span></big> <small><small><sup>[[G3985I]]</sup></small></small> |epeirasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to profane, |<big><span class="asgreek">βεβηλῶσαι,</span></big> <small><small><sup>[[G0953]]</sup></small></small> |bebēlōsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| whom |<big><span class="asgreek">ὃν</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we seized |<big><span class="asgreek">ἐκρατήσαμεν</span></big> <small><small><sup>[[G2902]]</sup></small></small> |ekratēsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |
-| according to |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| our own |<big><span class="asgreek">ἡμέτερον</span></big> <small><small><sup>[[G1473]]</sup></small></small> |hēmeteron <small><sup>[[S-1PASN]]</sup></small> | <abbr title="TR">K</abbr> | |
-| law |<big><span class="asgreek">νόμον</span></big> <small><small><sup>[[G3551]]</sup></small></small> |nomon <small><sup>[[N-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| we wanted |<big><span class="asgreek">ἠθελήσαμεν</span></big> <small><small><sup>[[G2309]]</sup></small></small> |ēthelēsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="TR">K</abbr> | |
-| to judge. [^1] |<big><span class="asgreek">κρίνειν.</span></big> <small><small><sup>[[G2919]]</sup></small></small> |krinein <small><sup>[[V-PAN]]</sup></small> | <abbr title="TR">K</abbr> | |
+| who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| temple |**<big>[[G2411\|ἱερὸν]]</big>**  |hi'eron <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| attempted |**<big>[[G3985I\|ἐπείρασεν]]</big>**  |epeirasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to profane, |**<big>[[G0953\|βεβηλῶσαι,]]</big>**  |bebēlōsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we seized |**<big>[[G2902\|ἐκρατήσαμεν]]</big>**  |ekratēsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |
+| according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| our own |**<big>[[G1473\|ἡμέτερον]]</big>**  |hēmeteron <small><sup>[[S-1PASN]]</sup></small> | <abbr title="TR">K</abbr> | |
+| law |**<big>[[G3551\|νόμον]]</big>**  |nomon <small><sup>[[N-ASM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| we wanted |**<big>[[G2309\|ἠθελήσαμεν]]</big>**  |ēthelēsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="TR">K</abbr> | |
+| to judge. [^1] |**<big>[[G2919\|κρίνειν.]]</big>**  |krinein <small><sup>[[V-PAN]]</sup></small> | <abbr title="TR">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.5|<< Acts 24:5]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.7|Acts 24:7 >>]]</td></tr></table>
 
-[^1]: Extra Text (10-15):  <span class='asgreek'>**καὶ**</span>   <span class='asgreek'>**κατὰ**</span>    <span class='asgreek'>**τὸν**</span>    <span class='asgreek'>**ἡμέτερον**</span>    <span class='asgreek'>**νόμον**</span>    <span class='asgreek'>**ἠθελήσαμεν**</span>    <span class='asgreek'>**κρίνειν**</span>.   (<i>kai kata ton hēmeteron nomon ēthelēsamen krinein</i>) 'and according to our own law we wanted to judge.' is only in traditional manuscripts (TR)
+[^1]: Extra Text (10-15):  **<big><span class='asgreek'>καὶ</span></big>**   **<big><span class='asgreek'>κατὰ</span></big>**    **<big><span class='asgreek'>τὸν</span></big>**    **<big><span class='asgreek'>ἡμέτερον</span></big>**    **<big><span class='asgreek'>νόμον</span></big>**    **<big><span class='asgreek'>ἠθελήσαμεν</span></big>**    **<big><span class='asgreek'>κρίνειν</span></big>**.   (<i>kai kata ton hēmeteron nomon ēthelēsamen krinein</i>) 'and according to our own law we wanted to judge.' is only in traditional manuscripts (TR)

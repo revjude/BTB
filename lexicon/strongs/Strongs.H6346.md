@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פֶּחָה‎</span></big> **pechâh** <small>*(peh-khaw')*</small> ==**governor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פֶּחָה‎</span></big>** **pechâh** <small>*(peh-khaw')*</small> ==**governor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ captain, deputy, governor.
@@ -6,4 +6,4 @@ $\quad$ captain, deputy, governor.
 
 **1)** governor
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">ἡγεμών</span><sup><small>[[G2232]]</small></sup> · <span class="asgreek">ἡγέομαι</span><sup><small>[[G2233]]</small></sup>
+<small>See Greek: </small>**<big>[[G0758|ἄρχων]]</big>** · **<big>[[G2232|ἡγεμών]]</big>** · **<big>[[G2233|ἡγέομαι]]</big>**

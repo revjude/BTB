@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחְלָה‎</span></big> **Machlâh** <small>*(makh-law')*</small> ==**Mahlah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלָה‎</span><sup><small>[[H2470]]</small></sup>; sickness</small>
+**<big><span class="ashebrew">‎מַחְלָה‎</span></big>** **Machlâh** <small>*(makh-law')*</small> ==**Mahlah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H2470|‎חָלָה‎]]</big>**; sickness</small>
 
 $\quad$ Mahlah.
 - § Mahlah = *"disease"*

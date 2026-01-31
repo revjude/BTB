@@ -7,26 +7,26 @@ Pharaoh was wroth with his servants, and put me in ward in the captain of the gu
 Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard.<small><sub>**MT:**</sub></small>
 [[Gen.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.9|<< Genesis 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.11|Genesis 41:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| was provoked to anger | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| \[against\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| guard | <big><span class="asgreek">φυλακή</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief guard -- | <big><span class="asgreek">αρχιμαγείρου</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
-| both me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief baker. | <big><span class="asgreek">αρχισιτοποιόν</span></big> <sup><small><small>[[G6558]]</small></small></sup> |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| was provoked to anger | **<big>[[G3710\|ωργίσθη]]</big>** |
+| \[against\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants, | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G5087\|έθετο]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| under | **<big>[[G1722\|εν]]</big>** |
+| guard | **<big>[[G5438\|φυλακή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| chief guard -- | **<big>[[G6554\|αρχιμαγείρου]]</big>** |
+| both me | **<big>[[G1473\|εμέ]]</big>** **<big>[[G5037\|τε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| chief baker. | **<big>[[G6558\|αρχισιτοποιόν]]</big>** |
 [[Gen.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.9|<< Genesis 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.11|Genesis 41:11 >>]]</td></tr></table>
 
 

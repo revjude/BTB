@@ -7,33 +7,33 @@ The graven images of their gods shall ye burn with fire: thou shalt not desire t
 You must burn up the images of their gods; do not covet the silver and gold that is on them or take it for yourselves, or you will be ensnared by it; for it is detestable to the LORD your God.<small><sub>**MT:**</sub></small>
 [[Deut.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.24|<< Deuteronomy 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.26|Deuteronomy 7:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their gods | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall incinerate | <big><span class="asgreek">κατακαύσετε</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| in fire. | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| desire | <big><span class="asgreek">επιθυμήσεις</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for yourself, | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| you should be at fault | <big><span class="asgreek">πταίσης</span></big> <sup><small><small>[[G4417]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| The | **<big>[[G3588\|τα]]</big>** |
+| carvings | **<big>[[G6745\|γλυπτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their gods | **<big>[[G2316\|θεών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall incinerate | **<big>[[G2618\|κατακαύσετε]]</big>** |
+| in fire. | **<big>[[G4442\|πυρί]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| desire | **<big>[[G1937\|επιθυμήσεις]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| for yourself, | **<big>[[G4572\|σεαυτώ]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| you should be at fault | **<big>[[G4417\|πταίσης]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| an abomination | **<big>[[G0946\|βδέλυγμα]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
 [[Deut.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.24|<< Deuteronomy 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.26|Deuteronomy 7:26 >>]]</td></tr></table>
 
 

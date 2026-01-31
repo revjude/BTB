@@ -7,33 +7,33 @@ And it goes forth upon Azmon, and it passes out unto \[the\] rushing stream of E
 It proceeded to Azmon, joined the Brook of Egypt, and ended at the Sea. This was their southern border.<small><sub>**MT:**</sub></small>
 [[Josh.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.3|<< Joshua 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.5|Joshua 15:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it goes forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Azmon, | <big><span class="asgreek">Ασεμωνά</span></big> <sup><small><small>[[H6111]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it passes out | <big><span class="asgreek">διεκβάλλει</span></big> <sup><small><small>[[G6913]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] south. | <big><span class="asgreek">λιβός</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it goes forth | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Azmon, | **<big>[[H6111\|Ασεμωνά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it passes out | **<big>[[G6913\|διεκβάλλει]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] rushing stream | **<big>[[G5493\|χειμάρρου]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his outer reaches | **<big>[[G1327\|διέξοδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| borders | **<big>[[G3725\|ορίων]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea. | **<big>[[G2281\|θάλασσαν]]</big>** |
+| This | **<big>[[G3778\|τούτό]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] south. | **<big>[[G3047\|λιβός]]</big>** |
 [[Josh.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.3|<< Joshua 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.5|Joshua 15:5 >>]]</td></tr></table>
 
 

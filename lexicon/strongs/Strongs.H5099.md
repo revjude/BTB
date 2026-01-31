@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַהַם‎</span></big> **naham** <small>*(nah'-ham)*</small> ==**roaring**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָהַם‎</span><sup><small>[[H5098]]</small></sup></small>
+**<big><span class="ashebrew">‎נַהַם‎</span></big>** **naham** <small>*(nah'-ham)*</small> ==**roaring**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5098|‎נָהַם‎]]</big>**</small>
 
 $\quad$ roaring.
 - ***a snarl***

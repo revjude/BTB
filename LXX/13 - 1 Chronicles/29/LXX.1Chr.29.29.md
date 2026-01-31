@@ -7,38 +7,38 @@ Now the acts of David the king, first and last, behold, they [are] written in th
 Now the acts of King David, from first to last, are indeed written in the Chronicles of Samuel the Seer, the Chronicles of Nathan the Prophet, and the Chronicles of Gad the Seer,<small><sub>**MT:**</sub></small>
 [[1Chr.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.28|<< 1 Chronicles 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.30|1 Chronicles 29:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιποί</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| of \[the\] words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| former | <big><span class="asgreek">πρότεροι</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| latter, | <big><span class="asgreek">ύστεροι</span></big> <sup><small><small>[[G5306]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδου</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| they are written | <big><span class="asgreek">γεγραμμένοι</span></big> <sup><small><small>[[G1125]]</small></small></sup> <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seer, | <big><span class="asgreek">ορώντος</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Nathan | <big><span class="asgreek">Νάθαν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet, | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Gad | <big><span class="asgreek">Γαδ</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seer, | <big><span class="asgreek">ορώντος</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| And the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| rest | **<big>[[G3062\|λοιποί]]</big>** |
+| of \[the\] words | **<big>[[G3056\|λόγοι]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| former | **<big>[[G4387\|πρότεροι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| latter, | **<big>[[G5306\|ύστεροι]]</big>** |
+| behold, | **<big>[[G2400\|ιδου]]</big>** |
+| they are written | **<big>[[G1125\|γεγραμμένοι]]</big>** **<big>[[G1510\|εισίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] words | **<big>[[G3056\|λόγοις]]</big>** |
+| of Samuel | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| seer, | **<big>[[G3708\|ορώντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] words | **<big>[[G3056\|λόγων]]</big>** |
+| of Nathan | **<big>[[G3481\|Νάθαν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| prophet, | **<big>[[G4396\|προφήτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] words | **<big>[[G3056\|λόγων]]</big>** |
+| of Gad | **<big>[[G1045\|Γαδ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| seer, | **<big>[[G3708\|ορώντος]]</big>** |
 [[1Chr.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.28|<< 1 Chronicles 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.30|1 Chronicles 29:30 >>]]</td></tr></table>
 
 

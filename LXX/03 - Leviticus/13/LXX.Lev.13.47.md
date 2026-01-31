@@ -7,24 +7,24 @@ The garment also that the plague of leprosy is in, [whether it be] a woollen gar
 If any fabric is contaminated with mildew—any wool or linen garment,<small><sub>**MT:**</sub></small>
 [[Lev.13.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.46|<< Leviticus 13:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.48|Leviticus 13:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| ever | <big><span class="asgreek">εαν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should have | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of leprosy | <big><span class="asgreek">λέπρας</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| garment | <big><span class="asgreek">ιματίω</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| a woolen | <big><span class="asgreek">ερέω</span></big> <sup><small><small>[[G7502]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιματίω</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| made of hemp, | <big><span class="asgreek">στυππυίνω</span></big> <sup><small><small>[[G9215]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| which | **<big>[[G3779\|ω]]</big>** |
+| ever | **<big>[[G1437\|εαν]]</big>** |
+| should have | **<big>[[G1096\|γένηται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| an infection | **<big>[[G0860\|αφή]]</big>** |
+| of leprosy | **<big>[[G3014\|λέπρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| garment | **<big>[[G2440\|ιματίω]]</big>** |
+| a woolen | **<big>[[G7502\|ερέω]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a garment | **<big>[[G2440\|ιματίω]]</big>** |
+| made of hemp, | **<big>[[G9215\|στυππυίνω]]</big>** |
 [[Lev.13.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.46|<< Leviticus 13:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.48|Leviticus 13:48 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָב‎</span></big> **ʼâb** <small>*(awb)*</small> ==**father**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אָב‎</span></big>** **ʼâb** <small>*(awb)*</small> ==**father**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>a primitive word</small>
 
 $\quad$ chief, (fore-) father(-less), [idiom] patrimony, principal. Compare names in 'Abi-'.
@@ -16,4 +16,4 @@ $\quad$ **4b)** of people
 **8)** term of respect and honour
 **9)** ruler or chief (spec.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γονεύς</span><sup><small>[[G1118]]</small></sup> · <span class="asgreek">κατοικέω</span><sup><small>[[G2730]]</small></sup> · <span class="asgreek">μητρόπολις</span><sup><small>[[G3390]]</small></sup> · <span class="asgreek">νεφέλη</span><sup><small>[[G3507]]</small></sup> · <span class="asgreek">νέφος</span><sup><small>[[G3509]]</small></sup> · <span class="asgreek">πατήρ</span><sup><small>[[G3962]]</small></sup> · <span class="asgreek">πατριά</span><sup><small>[[G3965]]</small></sup> · <span class="asgreek">πατριάρχης</span><sup><small>[[G3966]]</small></sup> · <span class="asgreek">πατρικός</span><sup><small>[[G3967]]</small></sup> · <span class="asgreek">πατρῷος</span><sup><small>[[G3971]]</small></sup>
+<small>See Greek: </small>**<big>[[G1118|γονεύς]]</big>** · **<big>[[G2730|κατοικέω]]</big>** · **<big>[[G3390|μητρόπολις]]</big>** · **<big>[[G3507|νεφέλη]]</big>** · **<big>[[G3509|νέφος]]</big>** · **<big>[[G3962|πατήρ]]</big>** · **<big>[[G3965|πατριά]]</big>** · **<big>[[G3966|πατριάρχης]]</big>** · **<big>[[G3967|πατρικός]]</big>** · **<big>[[G3971|πατρῷος]]</big>**

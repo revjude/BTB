@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַרְפַּכְשַׁד‎</span></big> **ʼArpakshad** <small>*(ar-pak-shad')*</small> ==**Arpachshad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אַרְפַּכְשַׁד‎</span></big>** **ʼArpakshad** <small>*(ar-pak-shad')*</small> ==**Arpachshad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Arphaxad.
@@ -8,4 +8,4 @@ $\quad$ Arphaxad.
 
 **1)** third son of Shem
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀρφαξάδ</span><sup><small>[[G0742]]</small></sup>
+<small>See Greek: </small>**<big>[[G0742|Ἀρφαξάδ]]</big>**

@@ -14,7 +14,7 @@
 
 
 
-<small>Also see: [[H3633]]</small>
+<small>Also see: **<big>[[H3633|כַּלְכֹּל]]</big>**</small>
 
  <span class="bdbLangHebrew">‎כִּלְכֵּל‎</span> **verb**, <span class="bdbLangHebrew">‎כַּלְכֹּל‎</span> **proper name, masculine** see below <span class="bdbLangHebrew">‎כול‎</span>. 
 

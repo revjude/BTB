@@ -10,11 +10,11 @@ But Job answered and said,
 Then Job replied:<small><sub>**MT:**</sub></small>
 [[Job.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.27|<< Job 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.2|Job 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And undertaking, | <big><span class="asgreek">υπολαβών</span></big> <sup><small><small>[[G5274]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Job | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| says, | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And undertaking, | **<big>[[G5274\|υπολαβών]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Job | **<big>[[G2492\|Ιωβ]]</big>** |
+| says, | **<big>[[G3004\|λέγει]]</big>** |
 [[Job.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.27|<< Job 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.2|Job 6:2 >>]]</td></tr></table>
 
 

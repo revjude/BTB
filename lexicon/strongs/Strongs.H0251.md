@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָח‎</span></big> **ʼâch** <small>*(awkh)*</small> ==**brother: male-sibling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אָח‎</span></big>** **ʼâch** <small>*(awkh)*</small> ==**brother: male-sibling**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>a primitive word</small>
 
 $\quad$ another, brother(-ly); kindred, like, other. Compare also the proper names beginning with 'Ah-' or 'Ahi-'.
@@ -11,4 +11,4 @@ $\quad$ **1c)** relative, kinship, same tribe
 $\quad$ **1d)** each to the other (reciprocal relationship)
 $\quad$ **1e)** (fig.) of resemblance
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδελφός</span><sup><small>[[G0080]]</small></sup> · <span class="asgreek">ἐγγύς</span><sup><small>[[G1451]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0080|ἀδελφός]]</big>** · **<big>[[G1451|ἐγγύς]]</big>** · **<big>[[G2087|ἕτερος]]</big>**

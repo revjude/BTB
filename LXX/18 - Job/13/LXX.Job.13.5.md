@@ -7,16 +7,16 @@ O that ye would altogether hold your peace! and it should be your wisdom.
 If only you would remain silent; for that would be your wisdom!<small><sub>**MT:**</sub></small>
 [[Job.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.4|<< Job 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.6|Job 13:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But it may be \[good\] | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| for you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be silent, | <big><span class="asgreek">κωφεύσαι</span></big> <sup><small><small>[[G8146]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall turn out | <big><span class="asgreek">αποβήσεται</span></big> <sup><small><small>[[G0576]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| wisdom. | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| But it may be \[good\] | **<big>[[G1510\|είη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| for you | **<big>[[G1473\|υμίν]]</big>** |
+| to be silent, | **<big>[[G8146\|κωφεύσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall turn out | **<big>[[G0576\|αποβήσεται]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| wisdom. | **<big>[[G4678\|σοφίαν]]</big>** |
 [[Job.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.4|<< Job 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.6|Job 13:6 >>]]</td></tr></table>
 
 

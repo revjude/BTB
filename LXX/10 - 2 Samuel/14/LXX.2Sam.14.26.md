@@ -7,41 +7,41 @@ And when he polled his head, (for it was at every year’s end that he polled [i
 And when he cut the hair of his head—he shaved it every year because his hair got so heavy—he would weigh it out to be two hundred shekels, according to the royal standard.<small><sub>**MT:**</sub></small>
 [[2Sam.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his shearing | <big><span class="asgreek">κείρεσθαι</span></big> <sup><small><small>[[G2751]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it took place | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| at | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">τέλους</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| of days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| that | <big><span class="asgreek">οτ΄</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he sheared it, | <big><span class="asgreek">εκείρετο</span></big> <sup><small><small>[[G2751]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it became burdensome | <big><span class="asgreek">κατεβαρύνετο</span></big> <sup><small><small>[[G2599]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shearing, | <big><span class="asgreek">κειρόμενος</span></big> <sup><small><small>[[G2751]]</small></small></sup> |
-| he set \[aside\] | <big><span class="asgreek">ίστα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hair | <big><span class="asgreek">τρίχα</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακοσίους</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| of | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scale-weight | <big><span class="asgreek">σταθμώ</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| royal | <big><span class="asgreek">βασιλικώ</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his shearing | **<big>[[G2751\|κείρεσθαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it took place | **<big>[[G1096\|εγένετο]]</big>** |
+| at | **<big>[[G0575\|από]]</big>** |
+| \[the\] end | **<big>[[G5056\|τέλους]]</big>** |
+| of days | **<big>[[G2250\|ημερών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| that | **<big>[[G3754\|οτ΄]]</big>** |
+| he sheared it, | **<big>[[G2751\|εκείρετο]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| it became burdensome | **<big>[[G2599\|κατεβαρύνετο]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shearing, | **<big>[[G2751\|κειρόμενος]]</big>** |
+| he set \[aside\] | **<big>[[G2476\|ίστα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hair | **<big>[[G2359\|τρίχα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his head | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| two hundred | **<big>[[G1250\|διακοσίους]]</big>** |
+| shekels | **<big>[[G9079\|σίκλους]]</big>** |
+| of | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| scale-weight | **<big>[[G9150\|σταθμώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| royal | **<big>[[G0937\|βασιλικώ]]</big>** |
 [[2Sam.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 
 

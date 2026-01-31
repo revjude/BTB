@@ -7,18 +7,18 @@ An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniq
 A corrupt witness mocks justice, and a wicked mouth swallows iniquity.<small><sub>**MT:**</sub></small>
 [[Prov.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.27|<< Proverbs 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.29|Proverbs 19:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guaranteeing a loan | <big><span class="asgreek">εγγυώμενος</span></big> <sup><small><small>[[G6999]]</small></small></sup> |
-| child | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of a foolish | <big><span class="asgreek">άφρονα</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| insults | <big><span class="asgreek">καθυβρίσει</span></big> <sup><small><small>[[G7764]]</small></small></sup> |
-| \[the\] ordinance; | <big><span class="asgreek">δικαίωμα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
-| and \[the\] mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| shall swallow down | <big><span class="asgreek">καταπίεται</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| judgments. | <big><span class="asgreek">κρίσεις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| guaranteeing a loan | **<big>[[G6999\|εγγυώμενος]]</big>** |
+| child | **<big>[[G3816\|παίδα]]</big>** |
+| of a foolish | **<big>[[G0878\|άφρονα]]</big>** |
+| insults | **<big>[[G7764\|καθυβρίσει]]</big>** |
+| \[the\] ordinance; | **<big>[[G1345\|δικαίωμα]]</big>** |
+| and \[the\] mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβών]]</big>** |
+| shall swallow down | **<big>[[G2666\|καταπίεται]]</big>** |
+| judgments. | **<big>[[G2920\|κρίσεις]]</big>** |
 [[Prov.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.27|<< Proverbs 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.29|Proverbs 19:29 >>]]</td></tr></table>
 
 

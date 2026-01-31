@@ -11,55 +11,55 @@ This is what the LORD says: “The products of Egypt and the merchandise of Cush
 > $\quad$ referenced by: [[1Cor.14.25|1Cor 14:25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts, | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| Egypt tired \[for you\], | <big><span class="asgreek">εκοπίασεν</span></big> <sup><small><small>[[G2872]]</small></small></sup> <big><span class="asgreek">Αίγυπτος</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] trade | <big><span class="asgreek">εμπορία</span></big> <sup><small><small>[[G1711]]</small></small></sup> |
-| of \[the\] Ethiopians | <big><span class="asgreek">Αιθιόπων</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabeans, | <big><span class="asgreek">Σαβαείν</span></big> <sup><small><small>[[H7615]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| haughty | <big><span class="asgreek">υψηλοί</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall pass | <big><span class="asgreek">διαβήσονται</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be your | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| servants; | <big><span class="asgreek">δούλοι</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall follow | <big><span class="asgreek">ακολουθήσουσι</span></big> <sup><small><small>[[G0190]]</small></small></sup> |
-| being tied | <big><span class="asgreek">δεδεμένοι</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| in manacles, | <big><span class="asgreek">χειροπέδαις</span></big> <sup><small><small>[[G9711]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall pass over | <big><span class="asgreek">διαβήσονται</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall do obeisance to | <big><span class="asgreek">προσκυνήσουσί</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall pray | <big><span class="asgreek">προσεύξονται</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts, | **<big>[[G4519\|σαβαώθ]]</big>** |
+| Egypt tired \[for you\], | **<big>[[G2872\|εκοπίασεν]]</big>** **<big>[[G0125\|Αίγυπτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] trade | **<big>[[G1711\|εμπορία]]</big>** |
+| of \[the\] Ethiopians | **<big>[[G0128\|Αιθιόπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Sabeans, | **<big>[[H7615\|Σαβαείν]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| haughty | **<big>[[G5308\|υψηλοί]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| shall pass | **<big>[[G1224\|διαβήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will be your | **<big>[[G1473\|σοι]]</big>** **<big>[[G1510\|έσονται]]</big>** |
+| servants; | **<big>[[G1401\|δούλοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| they shall follow | **<big>[[G0190\|ακολουθήσουσι]]</big>** |
+| being tied | **<big>[[G1210\|δεδεμένοι]]</big>** |
+| in manacles, | **<big>[[G9711\|χειροπέδαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall pass over | **<big>[[G1224\|διαβήσονται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall do obeisance to | **<big>[[G4352\|προσκυνήσουσί]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| they shall pray | **<big>[[G4336\|προσεύξονται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Isa.45.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.13|<< Isaiah 45:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.15|Isaiah 45:15 >>]]</td></tr></table>
 
 

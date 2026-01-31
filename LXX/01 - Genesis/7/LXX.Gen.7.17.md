@@ -7,30 +7,30 @@ And the flood was forty days upon the earth; and the waters increased, and bare 
 For forty days the flood kept coming on the earth, and the waters rose and lifted the ark high above the earth.<small><sub>**MT:**</sub></small>
 [[Gen.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.16|<< Genesis 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.18|Genesis 7:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flood | <big><span class="asgreek">κατακλυσμός</span></big> <sup><small><small>[[G2627]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| nights. | <big><span class="asgreek">νύκτας</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| multiplied | <big><span class="asgreek">επληθύνθη</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted up | <big><span class="asgreek">επήρε</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark, | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| raised it up high | <big><span class="asgreek">υψώθη</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| flood | **<big>[[G2627\|κατακλυσμός]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| nights. | **<big>[[G3571\|νύκτας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| multiplied | **<big>[[G4129\|επληθύνθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lifted up | **<big>[[G1869\|επήρε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ark, | **<big>[[G2787\|κιβωτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| raised it up high | **<big>[[G5312\|υψώθη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Gen.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.16|<< Genesis 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.18|Genesis 7:18 >>]]</td></tr></table>
 
 

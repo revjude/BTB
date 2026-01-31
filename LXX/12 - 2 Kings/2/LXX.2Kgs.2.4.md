@@ -7,35 +7,35 @@ And Elijah said unto him, Elisha, tarry here, I pray thee; for the LORD hath sen
 And Elijah said to Elisha, “Please stay here, for the LORD has sent me on to Jericho.” But Elisha replied, “As surely as the LORD lives and as you yourself live, I will not leave you.” So they went to Jericho.<small><sub>**MT:**</sub></small>
 [[2Kgs.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.3|<< 2 Kings 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.5|2 Kings 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elijah said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Elisha, | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| Sit down | <big><span class="asgreek">κάθου</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| here! | <big><span class="asgreek">ενταύθα</span></big> <sup><small><small>[[G7263]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| has sent | <big><span class="asgreek">απέσταλκέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jericho. | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| As \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I abandon | <big><span class="asgreek">εγκαταλείψω</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| you, \[no\]. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jericho. | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elijah said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Elisha, | **<big>[[G1666\|Ελισεαί]]</big>** |
+| Sit down | **<big>[[G2521\|κάθου]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| here! | **<big>[[G7263\|ενταύθα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| has sent | **<big>[[G0649\|απέσταλκέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Jericho. | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| As \[the\] <span class="smallcaps">lord</span> lives, | **<big>[[G2198\|ζη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lives | **<big>[[G2198\|ζη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall | **<big>[[G1487\|ει]]</big>** |
+| I abandon | **<big>[[G1459\|εγκαταλείψω]]</big>** |
+| you, \[no\]. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|ήλθον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Jericho. | **<big>[[G2410\|Ιεριχώ]]</big>** |
 [[2Kgs.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.3|<< 2 Kings 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.5|2 Kings 2:5 >>]]</td></tr></table>
 
 

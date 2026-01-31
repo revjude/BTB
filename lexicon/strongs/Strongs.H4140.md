@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹלִיד‎</span></big> **Môwlîyd** <small>*(mo-leed')*</small> ==**Molid**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָלַד‎</span><sup><small>[[H3205]]</small></sup>; genitor</small>
+**<big><span class="ashebrew">‎מוֹלִיד‎</span></big>** **Môwlîyd** <small>*(mo-leed')*</small> ==**Molid**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3205|‎יָלַד‎]]</big>**; genitor</small>
 
 $\quad$ Molid.
 - § Molid = *"begetter"*

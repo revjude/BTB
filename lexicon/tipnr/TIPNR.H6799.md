@@ -1,8 +1,8 @@
 <small>*Zenan • A town in the Judean lowlands*</small>
 
 <span class='tipnrhighlight'>Zenan</span> was a town in the lowlands of Judah \([[Josh.15.37|Jos.15.37]]\).
-- A location near Shaphir<[[H8208]]> only mentioned at [[Josh.15.37|Jos.15.37]]; 
-- only referred to as Zenan<[[H6799]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Shaphir **<big>[[H8208|שָׁפִיר]]</big>** only mentioned at [[Josh.15.37|Jos.15.37]]; 
+- only referred to as Zenan **<big>[[H6799|צְנָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.743719,34.694006&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Zenan is named among the towns in the lowlands \(Shephelah\) of Judah \([[Josh.1
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zenan | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6799) <small>*Hebrew*</small> | 1x | [Jos.15.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zenan\*\|reference=Jos.15.37) |
-All Strong's for **Zenan**: \[[[H6799]]\]
+| Zenan | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6799) | 1x | [Jos.15.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zenan\*\|reference=Jos.15.37) |
+All entries for **Zenan**:  **<big>[[H6799|צְנָן]]</big>**

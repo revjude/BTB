@@ -1,4 +1,3 @@
-<span class="ashebrew">‎כַּלָּה‎</span> <small>***(kal.lah)***</small> ==**daughter-in-law**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-meaning of: <small>[[H3618G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H3618G|כַּלָּה]]</big>**</small> 
 
 - : daughter-in-law

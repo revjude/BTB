@@ -7,23 +7,23 @@ And he said unto me, Go in, and behold the wicked abominations that they do here
 Then He said to me, “Go in and see the wicked abominations they are committing here.”<small><sub>**MT:**</sub></small>
 [[Ezek.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.8|<< Ezekiel 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.10|Ezekiel 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Enter, | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless deeds | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηράς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιούσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| here! | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| Enter, | **<big>[[G1525\|είσελθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| see | **<big>[[G1492\|ίδε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| lawless deeds | **<big>[[G0458\|ανομίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| evil | **<big>[[G4190\|πονηράς]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| do | **<big>[[G4160\|ποιούσιν]]</big>** |
+| here! | **<big>[[G5602\|ώδε]]</big>** |
 [[Ezek.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.8|<< Ezekiel 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.10|Ezekiel 8:10 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ Wherefore kick ye at my sacrifice and at mine offering, which I have commanded [
 Why then do you kick at My sacrifice and offering that I have prescribed for My dwelling place? You have honored your sons more than Me by fattening yourselves with the best of all the offerings of My people Israel.’<small><sub>**MT:**</sub></small>
 [[1Sam.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.28|<< 1 Samuel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.30|1 Samuel 2:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why have | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| you looked | <big><span class="asgreek">επέβλεψας</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my incense \[offering\], | <big><span class="asgreek">θυμίαμά</span></big> <sup><small><small>[[G2368]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with an\] impudent | <big><span class="asgreek">αναιδεί</span></big> <sup><small><small>[[G6282]]</small></small></sup> |
-| eye, | <big><span class="asgreek">οφθαλμώ</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glorified | <big><span class="asgreek">εδόξασας</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in \[them\] blessing themselves | <big><span class="asgreek">ενευλογείσθαι</span></big> <sup><small><small>[[G1757]]</small></small></sup> |
-| \[with the\] first-fruit | <big><span class="asgreek">απαρχής</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| prior | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| of me? | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Why have | **<big>[[G2444\|ινατί]]</big>** |
+| you looked | **<big>[[G1914\|επέβλεψας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my incense \[offering\], | **<big>[[G2368\|θυμίαμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[with an\] impudent | **<big>[[G6282\|αναιδεί]]</big>** |
+| eye, | **<big>[[G3788\|οφθαλμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glorified | **<big>[[G1392\|εδόξασας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your sons | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| in \[them\] blessing themselves | **<big>[[G1757\|ενευλογείσθαι]]</big>** |
+| \[with the\] first-fruit | **<big>[[G0536\|απαρχής]]</big>** |
+| of every | **<big>[[G3956\|πάσης]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίας]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| prior | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| of me? | **<big>[[G1473\|μου]]</big>** |
 [[1Sam.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.28|<< 1 Samuel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.30|1 Samuel 2:30 >>]]</td></tr></table>
 
 

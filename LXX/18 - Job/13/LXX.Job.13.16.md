@@ -11,20 +11,20 @@ Moreover, this will be my salvation, for no godless man can appear before Him.<
 > $\quad$ referenced by: [[Phil.1.19|Phil 1:19]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall result | <big><span class="asgreek">αποβήσεται</span></big> <sup><small><small>[[G0576]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| deliverance | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| treachery | <big><span class="asgreek">δόλος</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|τούτό]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| shall result | **<big>[[G0576\|αποβήσεται]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| deliverance | **<big>[[G4991\|σωτηρίαν]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| treachery | **<big>[[G1388\|δόλος]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
 [[Job.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.15|<< Job 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.17|Job 13:17 >>]]</td></tr></table>
 
 

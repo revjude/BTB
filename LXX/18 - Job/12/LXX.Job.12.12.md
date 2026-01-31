@@ -7,16 +7,16 @@ With the ancient [is] wisdom; and in length of days understanding.
 Wisdom is found with the elderly, and understanding comes with long life.<small><sub>**MT:**</sub></small>
 [[Job.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.11|<< Job 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.13|Job 12:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a long | <big><span class="asgreek">πολλώ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| time | <big><span class="asgreek">χρόνω</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| \[is\] wisdom; | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a long | <big><span class="asgreek">πολλώ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| existence | <big><span class="asgreek">βίω</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
-| \[is\] higher knowledge. | <big><span class="asgreek">επιστήμη</span></big> <sup><small><small>[[G7454]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| a long | **<big>[[G4183\|πολλώ]]</big>** |
+| time | **<big>[[G5550\|χρόνω]]</big>** |
+| \[is\] wisdom; | **<big>[[G4678\|σοφία]]</big>** |
+| and in | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a long | **<big>[[G4183\|πολλώ]]</big>** |
+| existence | **<big>[[G0979\|βίω]]</big>** |
+| \[is\] higher knowledge. | **<big>[[G7454\|επιστήμη]]</big>** |
 [[Job.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.11|<< Job 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.13|Job 12:13 >>]]</td></tr></table>
 
 

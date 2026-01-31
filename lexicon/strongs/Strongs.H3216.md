@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָלַע‎</span></big> **yâlaʻ** <small>*(yaw-lah')*</small> ==**to blurt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָלַע‎</span></big>** **yâlaʻ** <small>*(yaw-lah')*</small> ==**to blurt**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ devour.

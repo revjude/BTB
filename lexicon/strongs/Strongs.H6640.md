@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎צְבוּ‎</span></big> **tsᵉbûw** <small>*(tseb-oo')*</small> ==**thing**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎צְבָא‎</span><sup><small>[[H6634]]</small></sup></small>
+**<big><span class="asaramaic">‎צְבוּ‎</span></big>** **tsᵉbûw** <small>*(tseb-oo')*</small> ==**thing**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H6634|‎צְבָא‎]]</big>**</small>
 
 $\quad$ purpose.
 - properly, ***will***
@@ -9,4 +9,4 @@ $\quad$ purpose.
 $\quad$ **1a)** apparently thing desired
 $\quad$ **1b)** as a matter of determination
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πρᾶγμα</span><sup><small>[[G4229]]</small></sup>
+<small>See Greek: </small>**<big>[[G4229|πρᾶγμα]]</big>**

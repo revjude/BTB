@@ -10,25 +10,25 @@ Sheol beneath is eager to meet you upon your arrival. It stirs the spirits of th
 > $\quad$ related to: [[Ezek.31.16|Ezek 31:16-17]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Sheol  | <span class="ashebrew"><big>שְׁא֗וֹל </big></span><small><small><sup>[[H7585]]</sup></small></small> &#8207;| she.'ol <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> beneath  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>תַּ֛חַת </big></span><small><small><sup>[[H8478G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Ta.chat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is excited  | <span class="ashebrew"><big>רָגְזָ֥ה </big></span><small><small><sup>[[H7264]]</sup></small></small> &#8207;| ra.ge.Zah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to meet  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>קְרַ֣את </big></span><small><small><sup>[[H7122G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> k.Rat <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| coming you  | <span class="ashebrew"><big>בּוֹאֶ֑ </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9041]]</sup></small></small> &#8207;| bo.'E. <small><sup>[[HVqcc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has roused  | <span class="ashebrew"><big>עוֹרֵ֨ר </big></span><small><small><sup>[[H5782]]</sup></small></small> &#8207;| o.Rer <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֤ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shades  | <span class="ashebrew"><big>רְפָאִים֙ </big></span><small><small><sup>[[H7496]]</sup></small></small> &#8207;| re.fa.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] leaders of  | <span class="ashebrew"><big>עַתּ֣וּדֵי </big></span><small><small><sup>[[H6260]]</sup></small></small> &#8207;| 'a.Tu.dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אָ֔רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has made rise  | <span class="ashebrew"><big>הֵקִים֙ </big></span><small><small><sup>[[H6965H]]</sup></small></small> &#8207;| he.Kim <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from thrones their  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כִּסְאוֹתָ֔ </big></span><small><small><sup>[[H3678G]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> kis.'o.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] kings of  | <span class="ashebrew"><big>מַלְכֵ֥י </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| mal.Khei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] nations  | <span class="ashebrew"><big>גוֹיִֽם </big></span><small><small><sup>[[H1471A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  |**<big>&#8207;[[H7585\|שְׁא֗וֹל]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> beneath  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8478G\|תַּ֛חַת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ta.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is excited  |**<big>&#8207;[[H7264\|רָגְזָ֥ה]]&#8207; </big>**| ra.ge.Zah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to meet  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרַ֣את]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.Rat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| coming you  |**<big>&#8207;[[H0935G\|בּוֹאֶ֑]]&#8207;&#8207;[[H9041\|ךָ]]&#8207; </big>**| bo.'E.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has roused  |**<big>&#8207;[[H5782\|עוֹרֵ֨ר]]&#8207; </big>**| o.Rer<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shades  |**<big>&#8207;[[H7496\|רְפָאִים֙]]&#8207; </big>**| re.fa.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  |**<big>&#8207;[[H6260\|עַתּ֣וּדֵי]]&#8207; </big>**| 'a.Tu.dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has made rise  |**<big>&#8207;[[H6965H\|הֵקִים֙]]&#8207; </big>**| he.Kim<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from thrones their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3678G\|כִּסְאוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kis.'o.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֥י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] nations  |**<big>&#8207;[[H1471A\|גוֹיִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.8|<< Isaiah 14:8]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.10|Isaiah 14:10 >>]]</td></tr></table>
 
 

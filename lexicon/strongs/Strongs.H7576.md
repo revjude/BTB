@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָתַק‎</span></big> **râthaq** <small>*(raw-thak')*</small> ==**to bind**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָתַק‎</span></big>** **râthaq** <small>*(raw-thak')*</small> ==**to bind**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bind.
@@ -8,4 +8,4 @@ $\quad$ bind.
 $\quad$ **1a)** (Niphal) to be snapped, be broken
 $\quad$ **1b)** (Pual) to be bound
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνατρέπω</span><sup><small>[[G0396]]</small></sup> · <span class="asgreek">δέω</span><sup><small>[[G1210]]</small></sup>
+<small>See Greek: </small>**<big>[[G0396|ἀνατρέπω]]</big>** · **<big>[[G1210|δέω]]</big>**

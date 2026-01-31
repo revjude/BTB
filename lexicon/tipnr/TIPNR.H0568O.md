@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Amariah</span> was an ancestor of Zephaniah the prophet, who prophesied during the reign of King Josiah of Judah. \([[Zeph.1.1|Zep.1.1]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[Zeph.1.1|Zep.1.1]]; 
-- only referred to as Amariah<[[H0568O]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Hezekiah<[[H2396K]]>; 
--  father of Gedaliah<[[H1436H]]>.
+- only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**; 
+- a son of Hezekiah **<big>[[H2396|חִזְקִיָּה]]</big>**; 
+-  father of Gedaliah **<big>[[H1436|גְּדַּלְיָה]]</big>**.
 
 Amariah is mentioned in the opening verse of the Book of Zephaniah, which provides the prophet's genealogy. He is listed as the great-grandfather of Zephaniah, who prophesied during the reign of King Josiah of Judah. \([[Zeph.1.1|Zep.1.1]]\) 
 
@@ -20,8 +20,8 @@ The mention of Amariah in this context serves to underscore the importance of fa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568O) <small>*Hebrew*</small> | 1x | [Zep.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Zep.1.1) |
-All Strong's for **Amariah**: \[[[H0568O]]\]
+| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568O) | 1x | [Zep.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Zep.1.1) |
+All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**
 #### Related Profiles:
 - **[Hezekiah](H2396K)** (father)
 - **[Gedaliah](H1436H)** (child)

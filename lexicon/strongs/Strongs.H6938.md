@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֵדָר‎</span></big> **Qêdâr** <small>*(kay-dawr')*</small> ==**Kedar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קָדַר‎</span><sup><small>[[H6937]]</small></sup>; dusky (of the skin or the tent)</small>
+**<big><span class="ashebrew">‎קֵדָר‎</span></big>** **Qêdâr** <small>*(kay-dawr')*</small> ==**Kedar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6937|‎קָדַר‎]]</big>**; dusky (of the skin or the tent)</small>
 
 $\quad$ Kedar.
 - § Kedar = *"dark"*

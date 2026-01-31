@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תִּרְשָׁתָא‎</span></big> **Tirshâthâʼ** <small>*(teer-shaw-thaw')*</small> ==**governor**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+**<big><span class="ashebrew">‎תִּרְשָׁתָא‎</span></big>** **Tirshâthâʼ** <small>*(teer-shaw-thaw')*</small> ==**governor**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Tirshatha.

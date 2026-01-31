@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סִבְּכַי‎</span></big> **Çibbᵉkay** <small>*(sib-bek-ah'-ee)*</small> ==**Sibbecai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎סָבַךְ‎</span><sup><small>[[H5440]]</small></sup>; copse-like</small>
+**<big><span class="ashebrew">‎סִבְּכַי‎</span></big>** **Çibbᵉkay** <small>*(sib-bek-ah'-ee)*</small> ==**Sibbecai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5440|‎סָבַךְ‎]]</big>**; copse-like</small>
 
 $\quad$ Sibbecai, Sibbechai.
 - § Sibbecai or Sibbechai = *"weaver"*

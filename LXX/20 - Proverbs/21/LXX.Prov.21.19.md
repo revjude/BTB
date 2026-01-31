@@ -7,21 +7,21 @@ Better to live in the wilderness than with a wife being combative and talkative 
 Better to live in the desert than with a contentious and ill-tempered wife.<small><sub>**MT:**</sub></small>
 [[Prov.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.18|<< Proverbs 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.20|Proverbs 21:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
-| to live | <big><span class="asgreek">οικείν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| being combative | <big><span class="asgreek">μαχίμου</span></big> <sup><small><small>[[G8264]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| talkative | <big><span class="asgreek">γλωσσώδους</span></big> <sup><small><small>[[G6750]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prone to anger. | <big><span class="asgreek">οργίλου</span></big> <sup><small><small>[[G3711]]</small></small></sup> |
+| Better | **<big>[[G2908\|κρείσσον]]</big>** |
+| to live | **<big>[[G3611\|οικείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a wife | **<big>[[G1135\|γυναικός]]</big>** |
+| being combative | **<big>[[G8264\|μαχίμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| talkative | **<big>[[G6750\|γλωσσώδους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prone to anger. | **<big>[[G3711\|οργίλου]]</big>** |
 [[Prov.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.18|<< Proverbs 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.20|Proverbs 21:20 >>]]</td></tr></table>
 
 

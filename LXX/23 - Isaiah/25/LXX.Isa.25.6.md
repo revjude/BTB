@@ -7,23 +7,23 @@ And in this mountain shall the LORD of hosts make unto all people a feast of fat
 On this mountain the LORD of Hosts will prepare a lavish banquet for all the peoples, a feast of aged wine, of choice meat, of finely aged wine.<small><sub>**MT:**</sub></small>
 [[Isa.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.5|<< Isaiah 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.7|Isaiah 25:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall make \[a feast\] | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| for all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations; | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they shall drink | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| they shall drink | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| wine. | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall make \[a feast\] | **<big>[[G4160\|ποιήσει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| for all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations; | **<big>[[G1484\|έθνεσιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this mountain | **<big>[[G3735\|όρος]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| they shall drink | **<big>[[G4095\|πίονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνην]]</big>** |
+| they shall drink | **<big>[[G4095\|πίονται]]</big>** |
+| wine. | **<big>[[G3631\|οίνον]]</big>** |
 [[Isa.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.5|<< Isaiah 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.7|Isaiah 25:7 >>]]</td></tr></table>
 
 

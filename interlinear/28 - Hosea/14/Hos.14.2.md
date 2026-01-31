@@ -10,24 +10,24 @@ Bring your confessions and return to the LORD. Say to Him: “Take away all our 
 > $\quad$ referenced by: [[Heb.11.14|Heb 11:14]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| take  | <span class="ashebrew"><big>קְח֤וּ </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| ke.Chu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with you  | <span class="ashebrew"><big>עִמָּ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>כֶם֙ </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| 'i.ma. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words  | <span class="ashebrew"><big>דְּבָרִ֔ים </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| de.va.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and return  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שׁ֖וּבוּ </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shu.vu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אִמְר֣וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'im.Ru <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָ֗י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will forgive  | <span class="ashebrew"><big>תִּשָּׂ֤א </big></span><small><small><sup>[[H5375I]]</sup></small></small> &#8207;| ti.Sa' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| iniquity  | <span class="ashebrew"><big>עָוֹן֙ </big></span><small><small><sup>[[H5771G]]</sup></small></small> &#8207;| 'a.Von <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and take  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קַח </big></span><small><small><sup>[[H3947H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kach- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good thing[s]  | <span class="ashebrew"><big>ט֔וֹב </big></span><small><small><sup>[[H2896B]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so let us pay  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְשַׁלְּמָ֥ה </big></span><small><small><sup>[[H7999A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.sha.le.Mah <small><sup>[[HVpc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bulls  | <span class="ashebrew"><big>פָרִ֖ים </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| fa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips our  | <span class="ashebrew"><big>שְׂפָתֵֽי </big></span><small><small><sup>[[H8193G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| se.fa.Tei. <small><sup>[[HNcfdc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take  |**<big>&#8207;[[H3947G\|קְח֤וּ]]&#8207; </big>**| ke.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  |**<big>&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'i.ma.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words  |**<big>&#8207;[[H1697G\|דְּבָרִ֔ים]]&#8207; </big>**| de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and return  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|שׁ֖וּבוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shu.vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אִמְר֣וּ]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will forgive  |**<big>&#8207;[[H5375I\|תִּשָּׂ֤א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity  |**<big>&#8207;[[H5771G\|עָוֹן֙]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and take  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3947H\|קַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good thing[s]  |**<big>&#8207;[[H2896B\|ט֔וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so let us pay  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H7999A\|נְשַׁלְּמָ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.sha.le.Mah<small><sup>[[HVpc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bulls  |**<big>&#8207;[[H6499\|פָרִ֖ים]]&#8207; </big>**| fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips our  |**<big>&#8207;[[H8193G\|שְׂפָתֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| se.fa.Tei.<small><sup>[[HNcfdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.1|<< Hosea 14:1]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.3|Hosea 14:3 >>]]</td></tr></table>
 
 

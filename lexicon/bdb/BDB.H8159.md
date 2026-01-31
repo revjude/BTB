@@ -1,4 +1,4 @@
-<small>Also see: [[H8173]]</small>
+<small>Also see: **<big>[[H8173|שָׁעַע]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שָׁעָה‎</span> **verb** ==gaze== (steadily, with interest, etc.) (Assyrian <abbr title="transliteration"><u>***še°û***</u></abbr>, ***behold, look for***, ***aim at***); — 
 

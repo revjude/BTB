@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֹּעַל‎</span></big> **pôʻal** <small>*(po'-al)*</small> ==**work**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּעַל‎</span><sup><small>[[H6466]]</small></sup></small>
+**<big><span class="ashebrew">‎פֹּעַל‎</span></big>** **pôʻal** <small>*(po'-al)*</small> ==**work**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6466|‎פָּעַל‎]]</big>**</small>
 
 $\quad$ act, deed, do, getting, maker, work.
 - ***an act*** or ***work*** (concretely)
@@ -10,4 +10,4 @@ $\quad$ **1b)** work, thing made
 $\quad$ **1c)** wages of work
 $\quad$ **1d)** acquisition (of treasure)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἐργασία</span><sup><small>[[G2039]]</small></sup> · <span class="asgreek">ἔργον</span><sup><small>[[G2041]]</small></sup> · <span class="asgreek">μισθός</span><sup><small>[[G3408]]</small></sup> · <span class="asgreek">ποίημα</span><sup><small>[[G4161]]</small></sup> · <span class="asgreek">πρᾶξις</span><sup><small>[[G4234]]</small></sup> · <span class="asgreek">τάξις</span><sup><small>[[G5010]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G2039|ἐργασία]]</big>** · **<big>[[G2041|ἔργον]]</big>** · **<big>[[G3408|μισθός]]</big>** · **<big>[[G4161|ποίημα]]</big>** · **<big>[[G4234|πρᾶξις]]</big>** · **<big>[[G5010|τάξις]]</big>**

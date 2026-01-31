@@ -7,21 +7,21 @@ Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry bre
 Give them, O LORD—what will You give? Give them wombs that miscarry and breasts that dry up!<small><sub>**MT:**</sub></small>
 [[Hos.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.13|<< Hosea 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.15|Hosea 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will you give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them? | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a womb | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
-| being childless | <big><span class="asgreek">ατεκνούσαν</span></big> <sup><small><small>[[G6589]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| breasts | <big><span class="asgreek">μαστούς</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
-| dry | <big><span class="asgreek">ξηρούς</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| will you give | **<big>[[G1325\|δώσεις]]</big>** |
+| to them? | **<big>[[G1473\|αυτοίς]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a womb | **<big>[[G3388\|μήτραν]]</big>** |
+| being childless | **<big>[[G6589\|ατεκνούσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| breasts | **<big>[[G3149\|μαστούς]]</big>** |
+| dry | **<big>[[G3584\|ξηρούς]]</big>** |
 [[Hos.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.13|<< Hosea 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.15|Hosea 9:15 >>]]</td></tr></table>
 
 

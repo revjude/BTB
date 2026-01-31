@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָסַס‎</span></big> **ʻâçaç** <small>*(aw-sas')*</small> ==**to press**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָסַס‎</span></big>** **ʻâçaç** <small>*(aw-sas')*</small> ==**to press**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ tread down.
@@ -8,4 +8,4 @@ $\quad$ tread down.
 **1)** to press, crush, press by treading, tread down or out, press (grapes)
 $\quad$ **1a)** (Qal) to press
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καταπατέω</span><sup><small>[[G2662]]</small></sup>
+<small>See Greek: </small>**<big>[[G2662|καταπατέω]]</big>**

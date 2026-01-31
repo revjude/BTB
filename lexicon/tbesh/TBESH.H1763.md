@@ -1,3 +1,1 @@
-<span class="asaramaic">‎דְּחַל‎</span> <small>***(de.chal)***</small> ==**to fear**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2119B]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2119B|זָחַל]]</big>**</small>

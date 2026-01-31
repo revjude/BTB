@@ -7,26 +7,26 @@ And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be d
 I will make your tongue stick to the roof of your mouth, and you will be silent and unable to rebuke them, though they are a rebellious house.<small><sub>**MT:**</sub></small>
 [[Ezek.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.25|<< Ezekiel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.27|Ezekiel 3:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tongue | <big><span class="asgreek">γλώσσάν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall tie | <big><span class="asgreek">συνδήσω</span></big> <sup><small><small>[[G4887]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your throat, | <big><span class="asgreek">λάρυγγί</span></big> <sup><small><small>[[G2995]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall become mute, | <big><span class="asgreek">αποκωφωθήση</span></big> <sup><small><small>[[G6452]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| reproving; | <big><span class="asgreek">ελέγχοντα</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| a rebellious | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your tongue | **<big>[[G1100\|γλώσσάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I shall tie | **<big>[[G4887\|συνδήσω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your throat, | **<big>[[G2995\|λάρυγγί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall become mute, | **<big>[[G6452\|αποκωφωθήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έση]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a man | **<big>[[G0435\|άνδρα]]</big>** |
+| reproving; | **<big>[[G1651\|ελέγχοντα]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| house | **<big>[[G3624\|οίκος]]</big>** |
+| a rebellious | **<big>[[G3893\|παραπικραίνων]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
 [[Ezek.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.25|<< Ezekiel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.27|Ezekiel 3:27 >>]]</td></tr></table>
 
 

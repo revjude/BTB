@@ -7,22 +7,22 @@ Reuben, the eldest son of Israel: the children of Reuben; Hanoch, [of whom comet
 Reuben was the firstborn of Israel. These were the descendants of Reuben: The Hanochite clan from Hanoch, the Palluite clan from Pallu,<small><sub>**MT:**</sub></small>
 [[Num.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.4|<< Numbers 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.6|Numbers 26:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[and\] Reuben, | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| \[was\] first-born | <big><span class="asgreek">πρωτότοκος</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of Reuben -- | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| Hanoch, | <big><span class="asgreek">Ενώχ</span></big> <sup><small><small>[[H2599]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Hanochites; | <big><span class="asgreek">Ενώχ</span></big> <sup><small><small>[[H2599]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Pallu, | <big><span class="asgreek">Φαλλού</span></big> <sup><small><small>[[H6396]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Palluites; | <big><span class="asgreek">Φαλλουεί</span></big> <sup><small><small>[[H6384]]</small></small></sup> |
+| \[and\] Reuben, | **<big>[[G4502\|Ρουβήν]]</big>** |
+| \[was\] first-born | **<big>[[G4416\|πρωτότοκος]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And \[the\] sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of Reuben -- | **<big>[[G4502\|Ρουβήν]]</big>** |
+| Hanoch, | **<big>[[H2599\|Ενώχ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| of Hanochites; | **<big>[[H2599\|Ενώχ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Pallu, | **<big>[[H6396\|Φαλλού]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Palluites; | **<big>[[H6384\|Φαλλουεί]]</big>** |
 [[Num.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.4|<< Numbers 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.6|Numbers 26:6 >>]]</td></tr></table>
 
 

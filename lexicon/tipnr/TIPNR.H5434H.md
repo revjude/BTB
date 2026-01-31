@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Seba</span> was a kingdom mentioned in prophetic and poetic texts, often in the context of bringing gifts to God \(Psa. 72:10; Isa. 43:3\).
 - A location first mentioned at [[Josh.19.12|Psa.72.10]]; 
-- only referred to as Seba<[[H5434H]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Seba **<big>[[H5434|סְבָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=9.022736,38.746799&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The biblical references to Seba highlight the universal acknowledgment of God's 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Seba | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H5434H) <small>*Hebrew*</small> | 2x | [[Psa.72.10] & [Isa.43.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seba\*\|reference=Psa.72.10;Isa.43.3) |
-All Strong's for **Seba**: \[[[H5434H]]\]
+| Seba | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H5434H) | 2x | [[Psa.72.10] & [Isa.43.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seba\*\|reference=Psa.72.10;Isa.43.3) |
+All entries for **Seba**:  **<big>[[H5434|סְבָא]]</big>**

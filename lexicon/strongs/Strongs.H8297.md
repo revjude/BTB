@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂרַי‎</span></big> **Sâray** <small>*(saw-rah'-ee)*</small> ==**Sarai**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שַׂר‎</span><sup><small>[[H8269]]</small></sup>; dominative</small>
+**<big><span class="ashebrew">‎שָׂרַי‎</span></big>** **Sâray** <small>*(saw-rah'-ee)*</small> ==**Sarai**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H8269|‎שַׂר‎]]</big>**; dominative</small>
 
 $\quad$ Sarai.
 - § Sarai = *"princess"*

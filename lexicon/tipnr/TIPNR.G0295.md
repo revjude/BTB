@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Amphipolis</span>, a city in Macedonia, passed through by Paul and Silas.
 - A location only mentioned at [[Ezek.21.20|Act.17.1]]; 
-- only referred to as Amphipolis<[[G0295]]> \(<span class='tipnrLangGreek'>Ἀμφίπολις</span>\).
+- only referred to as Amphipolis **<big>[[G0295|Ἀμφίπολις]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.82322547229525,23.83863142894023&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Although the Bible does not provide any details about Paul's activities in Amphi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amphipolis | [<span class='tipnrLangGreek'>Ἀμφίπολις</span>](G0295) <small>*Greek*</small> | 1x | [Act.17.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amphipolis\*\|reference=Act.17.1) |
-All Strong's for **Amphipolis**: \[[[G0295]]\]
+| Amphipolis | [<span class='tipnrLangGreek'>Ἀμφίπολις</span>](G0295) | 1x | [Act.17.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amphipolis\*\|reference=Act.17.1) |
+All entries for **Amphipolis**:  **<big>[[G0295|Ἀμφίπολις]]</big>**

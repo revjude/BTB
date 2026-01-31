@@ -1,4 +1,4 @@
-spelling of: <small>[[G9087]]</small> 
+spelling of: <small>**<big>[[G9087|σιτοδοσία]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==σιτοδοτεία==</span>-<span class='asgreek'>εία</span></b>, <span class='asgreek'>ἡ</span>,

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎לָבָן‎</span> <small>***(la.van)***</small> ==**Laban**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.24.29|Gen.24.29]]
--  son of: Bethuel ([[H1328A]])
--  brother of: Rebekah ([[H7259]])
--  father of: Rachel ([[H7354]]) and Leah ([[H3812]])
+-  son of: Bethuel (**<big>[[H1328A|בְּתוּאֵל]]</big>**)
+-  brother of: Rebekah (**<big>[[H7259|רִבְקָה]]</big>**)
+-  father of: Rachel (**<big>[[H7354|רָחֵל]]</big>**) and Leah (**<big>[[H3812|לֵאָה]]</big>**)

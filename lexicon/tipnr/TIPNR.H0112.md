@@ -4,7 +4,7 @@ Prophet living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Iddo</span> was a prophet in Casiphia to whom Ezra sent a message requesting Levites to assist in the temple service.
 - A prophet living at the time of Exile and Return, first mentioned at Ezr.8.17; 
-- only referred to as Iddo<[[H0112]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ\).
+- only referred to as Iddo **<big>[[H0112|אִדּוֹ]]</big>**.
 
 Iddo is mentioned in Ezra 8:17 as a leader in Casiphia, a place whose exact location is unknown but was likely a Jewish settlement in Babylonia during the Persian period. He is described as being "at the place Casiphia," suggesting that he held a position of authority or influence there. 
 
@@ -18,5 +18,5 @@ Apart from this brief mention in Ezra 8, no other details are provided about Idd
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Iddo | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H0112) <small>*Hebrew*</small> | 2x | [[Ezr.8.17a] & [Ezr.8.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Ezr.8.17;Ezr.8.17) |
-All Strong's for **Iddo**: \[[[H0112]]\]
+| Iddo | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H0112) | 2x | [[Ezr.8.17a] & [Ezr.8.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Ezr.8.17;Ezr.8.17) |
+All entries for **Iddo**:  **<big>[[H0112|אִדּוֹ]]</big>**

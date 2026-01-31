@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Addar</span>, also known as Ard, was a son of Bela and a grandson of Benjamin \([[1Chr.8.3|1Ch.8.3]]; cf. Gen.46.21; Num.26.40\).
 - A man from the tribe of Benjamin living at the time of Egypt and Wilderness, only mentioned at [[1Chr.8.3|1Ch.8.3]]; 
-- only referred to as Addar<[[H0146H]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Bela<[[H1106A]]>; 
-- a brother of Ard<[[H0714H]]>, Naaman<[[H5283H]]>, Ezbon<[[H0675H]]>, Uzzi<[[H5813I]]>, Uzziel<[[H5816I]]>, Jerimoth<[[H3406G]]>, Iri<[[H5901]]>, Gera<[[H1617I]]>, Abihud<[[H0031]]>, Abishua<[[H0050H]]> and Ahoah<[[H0265]]>.
+- only referred to as Addar **<big>[[H0146|אַדָּר]]</big>**; 
+-  son of Bela **<big>[[H1106|בֶּלַע]]</big>**; 
+- a brother of Ard **<big>[[H0714|אַרְדְּ]]</big>**, Naaman **<big>[[H5283|נַעֲמָן]]</big>**, Ezbon **<big>[[H0675|אֶצְבּוֹן]]</big>**, Uzzi **<big>[[H5813|עֻזִּי]]</big>**, Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**, Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**, Iri **<big>[[H5901|עִירִי]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Abihud **<big>[[H0031|אֲבִיהוּד]]</big>**, Abishua **<big>[[H0050|אֲבִישׁוּעַ]]</big>** and Ahoah **<big>[[H0265|אֲחוֹחַ]]</big>**.
 
 Addar, also known as Ard, was a son of Bela, who was one of the sons of Benjamin, the patriarch \([[1Chr.8.3|1 Chronicles 8:3]]\). He is mentioned in the genealogy of the tribe of Benjamin, which lists the descendants of Benjamin's sons. 
 
@@ -18,8 +18,8 @@ No further information is provided about Addar's life, his role within the tribe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Addar | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H0146H) <small>*Hebrew*</small> | 1x | [1Ch.8.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Addar\*\|reference=1Ch.8.3) |
-All Strong's for **Addar**: \[[[H0146H]]\]
+| Addar | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H0146H) | 1x | [1Ch.8.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Addar\*\|reference=1Ch.8.3) |
+All entries for **Addar**:  **<big>[[H0146|אַדָּר]]</big>**
 #### Related Profiles:
 - **[Bela](H1106A)** (father)
 - **[Ard](H0714H)** (sibling)

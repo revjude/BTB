@@ -10,33 +10,33 @@ Then we turned, and went up the way to Bashan: and Og the king of Bashan came ou
 Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei.<small><sub>**MT:**</sub></small>
 [[Deut.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.37|<< Deuteronomy 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.2|Deuteronomy 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turning | <big><span class="asgreek">επιστραφέντες</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| we ascended | <big><span class="asgreek">ανέβημεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Bashan. | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| Og | <big><span class="asgreek">Ωγ</span></big> <sup><small><small>[[H5747]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Bashan | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war, | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Edrei. | <big><span class="asgreek">Εδραϊμ</span></big> <sup><small><small>[[H0154]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| turning | **<big>[[G1994\|επιστραφέντες]]</big>** |
+| we ascended | **<big>[[G0305\|ανέβημεν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Bashan. | **<big>[[H1316\|Βασάν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| Og | **<big>[[H5747\|Ωγ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Bashan | **<big>[[H1316\|Βασάν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| us, | **<big>[[G1473\|ημίν]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war, | **<big>[[G4171\|πόλεμον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Edrei. | **<big>[[H0154\|Εδραϊμ]]</big>** |
 [[Deut.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.37|<< Deuteronomy 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.2|Deuteronomy 3:2 >>]]</td></tr></table>
 
 

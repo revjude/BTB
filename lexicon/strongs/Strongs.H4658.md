@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַפֶּלֶת‎</span></big> **mappeleth** <small>*(map-peh'-leth)*</small> ==**carcass**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָפַל‎</span><sup><small>[[H5307]]</small></sup></small>
+**<big><span class="ashebrew">‎מַפֶּלֶת‎</span></big>** **mappeleth** <small>*(map-peh'-leth)*</small> ==**carcass**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5307|‎נָפַל‎]]</big>**</small>
 
 $\quad$ carcase, fall, ruin.
 - ***fall***, i.e. ***decadence***
@@ -10,4 +10,4 @@ $\quad$ carcase, fall, ruin.
 $\quad$ **1a)** carcass
 $\quad$ **1b)** ruin, overthrow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πτῶμα</span><sup><small>[[G4430]]</small></sup> · <span class="asgreek">πτῶσις</span><sup><small>[[G4431]]</small></sup>
+<small>See Greek: </small>**<big>[[G4430|πτῶμα]]</big>** · **<big>[[G4431|πτῶσις]]</big>**

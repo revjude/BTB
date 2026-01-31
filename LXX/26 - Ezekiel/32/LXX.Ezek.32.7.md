@@ -11,28 +11,28 @@ When I extinguish you, I will cover the heavens and darken their stars. I will c
 > $\quad$ referenced by: [[LXX.Joel.2.10|Joel 2:10]] ☩ [[Matt.24.29|Matt 24:29]] ☩ [[Rev.8.12|Rev 8:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will cover up | <big><span class="asgreek">κατακαλύψω</span></big> <sup><small><small>[[G2619]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your being extinguished | <big><span class="asgreek">σβεσθήναί</span></big> <sup><small><small>[[G4570]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will darken | <big><span class="asgreek">συσκοτάσω</span></big> <sup><small><small>[[G9355]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his stars; | <big><span class="asgreek">άστρα</span></big> <sup><small><small>[[G0798]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] sun | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| I will cover | <big><span class="asgreek">καλύψω</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] moon -- | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| appear | <big><span class="asgreek">φάνη</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will cover up | **<big>[[G2619\|κατακαλύψω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your being extinguished | **<big>[[G4570\|σβεσθήναί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \[the\] heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will darken | **<big>[[G9355\|συσκοτάσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his stars; | **<big>[[G0798\|άστρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] sun | **<big>[[G2246\|ήλιον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| I will cover | **<big>[[G2572\|καλύψω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] moon -- | **<big>[[G4582\|σελήνη]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| appear | **<big>[[G5316\|φάνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| her light | **<big>[[G5457\|φως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.6|<< Ezekiel 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.8|Ezekiel 32:8 >>]]</td></tr></table>
 
 

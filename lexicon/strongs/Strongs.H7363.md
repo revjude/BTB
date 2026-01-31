@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָחַף‎</span></big> **râchaph** <small>*(raw-khaf')*</small> ==**be weak**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָחַף‎</span></big>** **râchaph** <small>*(raw-khaf')*</small> ==**be weak**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ flutter, move, shake.

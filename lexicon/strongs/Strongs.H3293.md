@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יַעַר‎</span></big> **yaʻar** <small>*(yah'-ar)*</small> ==**wood**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יַעַר‎</span></big>** **yaʻar** <small>*(yah'-ar)*</small> ==**wood**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning to thicken with verdure</small>
 
 $\quad$ (honey-) comb, forest, wood.
@@ -8,4 +8,4 @@ $\quad$ (honey-) comb, forest, wood.
 
 **1)** forest, wood, thicket, wooded height
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγρός</span><sup><small>[[G0068]]</small></sup> · <span class="asgreek">κηρίον</span><sup><small>[[G2781]]</small></sup>
+<small>See Greek: </small>**<big>[[G0068|ἀγρός]]</big>** · **<big>[[G2781|κηρίον]]</big>**

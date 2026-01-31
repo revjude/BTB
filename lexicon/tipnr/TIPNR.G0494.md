@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Antipatris</span>, a city where Paul was brought by soldiers during his journey to Caesarea.
 - A location only mentioned at [[2Tim.3.11|Act.23.31]]; 
-- only referred to as Antipatris<[[G0494]]> \(<span class='tipnrLangGreek'>Ἀντιπατρίς</span>\).
+- only referred to as Antipatris **<big>[[G0494|Ἀντιπατρίς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.10043792968003,34.94650938910333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from this single reference in the context of Paul's transfer, no other inf
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Antipatris | [<span class='tipnrLangGreek'>Ἀντιπατρίς</span>](G0494) <small>*Greek*</small> | 1x | [Act.23.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antipatris\*\|reference=Act.23.31) |
-All Strong's for **Antipatris**: \[[[G0494]]\]
+| Antipatris | [<span class='tipnrLangGreek'>Ἀντιπατρίς</span>](G0494) | 1x | [Act.23.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antipatris\*\|reference=Act.23.31) |
+All entries for **Antipatris**:  **<big>[[G0494|Ἀντιπατρίς]]</big>**

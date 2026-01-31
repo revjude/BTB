@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תַּחְפְּנֵיס‎</span></big> **Tachpᵉnêyç** <small>*(takh-pen-ace')*</small> ==**Tahpenes**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎תַּחְפְּנֵיס‎</span></big>** **Tachpᵉnêyç** <small>*(takh-pen-ace')*</small> ==**Tahpenes**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>of Egyptian derivation</small>
 
 $\quad$ Tahpenes.

@@ -7,18 +7,18 @@ The wicked are estranged from the womb: they go astray as soon as they be born, 
 The wicked are estranged from the womb; the liars go astray from birth.<small><sub>**MT:**</sub></small>
 [[Ps.58.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.2|<< Psalm 58:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.4|Psalm 58:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were separated | <big><span class="asgreek">απηλλοτριώθησαν</span></big> <sup><small><small>[[G0526]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] womb; | <big><span class="asgreek">μήτρας</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
-| they wander | <big><span class="asgreek">επλανήθησαν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] belly; | <big><span class="asgreek">γαστρός</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| they spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| lies. | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| were separated | **<big>[[G0526\|απηλλοτριώθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] womb; | **<big>[[G3388\|μήτρας]]</big>** |
+| they wander | **<big>[[G4105\|επλανήθησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] belly; | **<big>[[G1064\|γαστρός]]</big>** |
+| they spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| lies. | **<big>[[G5571\|ψευδή]]</big>** |
 [[Ps.58.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.2|<< Psalm 58:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.4|Psalm 58:4 >>]]</td></tr></table>
 
 

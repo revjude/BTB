@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Delaiah</span> was a priest appointed by David to be in charge of the twenty-third division of the priestly order. \([[1Chr.24.18|1Ch.24.18]]\)
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.24.18|1Ch.24.18]]; 
-- only referred to as Delaiah<[[H1806H]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Delaiah **<big>[[H1806|דְּלָיָה]]</big>**.
 
 Delaiah is mentioned in [[1Chr.24.18|1 Chronicles 24:18]] as a priest who was appointed by King David to oversee the twenty-third division of the priestly order. David, along with Zadok and Ahimelech, organized the priests into twenty-four divisions to ensure a systematic and orderly service in the temple. 
 
@@ -16,5 +16,5 @@ Apart from this mention in the context of the priestly divisions, no other detai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806H) <small>*Hebrew*</small> | 1x | [1Ch.24.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=1Ch.24.18) |
-All Strong's for **Delaiah**: \[[[H1806H]]\]
+| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806H) | 1x | [1Ch.24.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=1Ch.24.18) |
+All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**

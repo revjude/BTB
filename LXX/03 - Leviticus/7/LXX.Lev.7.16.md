@@ -7,27 +7,27 @@ But if the sacrifice of his offering [be] a vow, or a voluntary offering, it sha
 If, however, the sacrifice he offers is a vow or a freewill offering, it shall be eaten on the day he presents his sacrifice, but the remainder may be eaten on the next day.<small><sub>**MT:**</sub></small>
 [[Lev.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.15|<< Leviticus 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.17|Leviticus 7:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| a vow | <big><span class="asgreek">ευχή</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| it should be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voluntary \[offering\] | <big><span class="asgreek">εκούσιον</span></big> <sup><small><small>[[G1595]]</small></small></sup> |
-| he should sacrifice | <big><span class="asgreek">θυσιάζη</span></big> <sup><small><small>[[G7700]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his gift \[offering\]; | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he should bring | <big><span class="asgreek">προσαγάγη</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sacrifice, | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall be eaten | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next morning. | <big><span class="asgreek">άυριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| a vow | **<big>[[G2171\|ευχή]]</big>** |
+| it should be | **<big>[[G1510\|η]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| voluntary \[offering\] | **<big>[[G1595\|εκούσιον]]</big>** |
+| he should sacrifice | **<big>[[G7700\|θυσιάζη]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| of his gift \[offering\]; | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| he should bring | **<big>[[G4317\|προσαγάγη]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his sacrifice, | **<big>[[G2378\|θυσίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| it shall be eaten | **<big>[[G0977\|βρωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| next morning. | **<big>[[G0839\|άυριον]]</big>** |
 [[Lev.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.15|<< Leviticus 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.17|Leviticus 7:17 >>]]</td></tr></table>
 
 

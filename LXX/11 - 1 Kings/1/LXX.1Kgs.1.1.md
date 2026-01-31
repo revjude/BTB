@@ -10,23 +10,23 @@ Now king David was old [and] stricken in years; and they covered him with clothe
 Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm.<small><sub>**MT:**</sub></small>
 [[1Kgs.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.25|<< 2 Samuel 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.2|1 Kings 1:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \[was\] an old man, | <big><span class="asgreek">πρεσβύτης</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| advanced | <big><span class="asgreek">προβεβηκώς</span></big> <sup><small><small>[[G4260]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| around | <big><span class="asgreek">περιέβαλλον</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| clothes | <big><span class="asgreek">ιματίοις</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| warmed. | <big><span class="asgreek">εθερμαίνετο</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \[was\] an old man, | **<big>[[G4245\|πρεσβύτης]]</big>** |
+| advanced | **<big>[[G4260\|προβεβηκώς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| days. | **<big>[[G2250\|ημέραις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| around | **<big>[[G4016\|περιέβαλλον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| clothes | **<big>[[G2440\|ιματίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was not | **<big>[[G3756\|ουκ]]</big>** |
+| warmed. | **<big>[[G2328\|εθερμαίνετο]]</big>** |
 [[1Kgs.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.25|<< 2 Samuel 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.2|1 Kings 1:2 >>]]</td></tr></table>
 
 

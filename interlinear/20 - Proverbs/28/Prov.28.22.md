@@ -6,18 +6,18 @@ A stingy man hastens after wealth and does not know that poverty awaits him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.21|<< Proverbs 28:21]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.23|Proverbs 28:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] hastening  | <span class="ashebrew"><big>נִֽבֳהָ֥ל </big></span><small><small><sup>[[H0926]]</sup></small></small> &#8207;| ni.vo.Hal <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> wealth  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ה֗וֹן </big></span><small><small><sup>[[H1952]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Hon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֭ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil of  | <span class="ashebrew"><big>רַ֣ע </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| ra' <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eye  | <span class="ashebrew"><big>עָ֑יִן </big></span><small><small><sup>[[H5869I]]</sup></small></small> &#8207;| 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he knows  | <span class="ashebrew"><big>יֵ֝דַע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| Ye.da' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poverty  | <span class="ashebrew"><big>חֶ֥סֶר </big></span><small><small><sup>[[H2639]]</sup></small></small> &#8207;| Che.ser <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come to him  | <span class="ashebrew"><big>יְבֹאֶֽ </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.vo.'E. <small><sup>[[HVqi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] hastening  |**<big>&#8207;[[H0926\|נִֽבֳהָ֥ל]]&#8207; </big>**| ni.vo.Hal<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> wealth  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1952\|ה֗וֹן]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil of  |**<big>&#8207;[[H7451H\|רַ֣ע]]&#8207; </big>**| ra'<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye  |**<big>&#8207;[[H5869I\|עָ֑יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he knows  |**<big>&#8207;[[H3045\|יֵ֝דַע]]&#8207; </big>**| Ye.da'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poverty  |**<big>&#8207;[[H2639\|חֶ֥סֶר]]&#8207; </big>**| Che.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come to him  |**<big>&#8207;[[H0935G\|יְבֹאֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.vo.'E.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.21|<< Proverbs 28:21]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.23|Proverbs 28:23 >>]]</td></tr></table>
 
 

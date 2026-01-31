@@ -6,14 +6,14 @@ Your eyes will see strange things, and your mind will utter perversities.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.32|<< Proverbs 23:32]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.34|Proverbs 23:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| eyes your  | <span class="ashebrew"><big>עֵ֭ינֶי </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'Ei.nei. <small><sup>[[HNcfdc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will see  | <span class="ashebrew"><big>יִרְא֣וּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| yir.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strange [things]  | <span class="ashebrew"><big>זָר֑וֹת </big></span><small><small><sup>[[H2114A]]</sup></small></small> &#8207;| za.Rot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and heart your  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לִבְּ </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> li.be. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will speak  | <span class="ashebrew"><big>יְדַבֵּ֥ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| ye.da.Ber <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perverse things  | <span class="ashebrew"><big>תַּהְפֻּכֽוֹת </big></span><small><small><sup>[[H8419]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tah.pu.Khot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  |**<big>&#8207;[[H5869A\|עֵ֭ינֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'Ei.nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will see  |**<big>&#8207;[[H7200G\|יִרְא֣וּ]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strange [things]  |**<big>&#8207;[[H2114A\|זָר֑וֹת]]&#8207; </big>**| za.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and heart your  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li.be.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will speak  |**<big>&#8207;[[H1696G\|יְדַבֵּ֥ר]]&#8207; </big>**| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perverse things  |**<big>&#8207;[[H8419\|תַּהְפֻּכֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tah.pu.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.32|<< Proverbs 23:32]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.34|Proverbs 23:34 >>]]</td></tr></table>
 
 

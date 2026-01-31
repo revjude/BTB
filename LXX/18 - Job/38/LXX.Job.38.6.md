@@ -7,21 +7,21 @@ Whereupon are the foundations thereof fastened? or who laid the corner stone the
 On what were its foundations set, or who laid its cornerstone,<small><sub>**MT:**</sub></small>
 [[Job.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.5|<< Job 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.7|Job 38:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| what | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| are its hooks | <big><span class="asgreek">κρίκοι</span></big> <sup><small><small>[[G8095]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pitched on? | <big><span class="asgreek">πεπήγασι</span></big> <sup><small><small>[[G4078]]</small></small></sup> |
-| And who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundation | <big><span class="asgreek">βαλών</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| an angular | <big><span class="asgreek">γωνιαίον</span></big> <sup><small><small>[[G6779]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it? | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| what | **<big>[[G5100\|τίνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| are its hooks | **<big>[[G8095\|κρίκοι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| pitched on? | **<big>[[G4078\|πεπήγασι]]</big>** |
+| And who | **<big>[[G5100\|τις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \[the\] one | **<big>[[G3588\|ο]]</big>** |
+| foundation | **<big>[[G0906\|βαλών]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| an angular | **<big>[[G6779\|γωνιαίον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it? | **<big>[[G1473\|αυτής]]</big>** |
 [[Job.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.5|<< Job 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.7|Job 38:7 >>]]</td></tr></table>
 
 

@@ -6,18 +6,18 @@ Far from human habitation he cuts a shaft in places forgotten by the foot of man
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.3|<< Job 28:3]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.5|Job 28:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he breaks open  | <span class="ashebrew"><big>פָּ֤רַץ </big></span><small><small><sup>[[H6555]]</sup></small></small> &#8207;| Pa.ratz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a shaft  | <span class="ashebrew"><big>נַ֨חַל </big></span><small><small><sup>[[H5158A]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Na.chal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| away from with  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sojourner  | <span class="ashebrew"><big>גָּ֗ר </big></span><small><small><sup>[[H1481A]]</sup></small></small> &#8207;| Gar <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> forgotten  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נִּשְׁכָּחִ֥ים </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> nish.ka.Chim <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִנִּי </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi.ni- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foot  | <span class="ashebrew"><big>רָ֑גֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| Ra.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they hang down  | <span class="ashebrew"><big>דַּ֖לּוּ </big></span><small><small><sup>[[H1809]]</sup></small></small> &#8207;| Da.lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| away from humankind  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֱנ֣וֹשׁ </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'e.No.osh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they swing  | <span class="ashebrew"><big>נָֽעוּ </big></span><small><small><sup>[[H5128]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he breaks open  |**<big>&#8207;[[H6555\|פָּ֤רַץ]]&#8207; </big>**| Pa.ratz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shaft  |**<big>&#8207;[[H5158A\|נַ֨חַל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| away from with  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5973B\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sojourner  |**<big>&#8207;[[H1481A\|גָּ֗ר]]&#8207; </big>**| Gar<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> forgotten  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H7911\|נִּשְׁכָּחִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nish.ka.Chim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִנִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.ni-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foot  |**<big>&#8207;[[H7272\|רָ֑גֶל]]&#8207; </big>**| Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they hang down  |**<big>&#8207;[[H1809\|דַּ֖לּוּ]]&#8207; </big>**| Da.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| away from humankind  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0582\|אֱנ֣וֹשׁ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.No.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they swing  |**<big>&#8207;[[H5128\|נָֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.3|<< Job 28:3]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.5|Job 28:5 >>]]</td></tr></table>
 
 

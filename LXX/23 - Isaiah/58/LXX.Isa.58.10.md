@@ -7,31 +7,31 @@ And [if] thou draw out thy soul to the hungry, and satisfy the afflicted soul; t
 and if you give yourself to the hungry and satisfy the afflicted soul, then your light will go forth in the darkness, and your night will be like noonday.<small><sub>**MT:**</sub></small>
 [[Isa.58.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.9|<< Isaiah 58:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.11|Isaiah 58:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should give | <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to ones hungering | <big><span class="asgreek">πεινώντι</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your soul, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| being humble | <big><span class="asgreek">τεταπεινωμένην</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| should fill up | <big><span class="asgreek">εμπλήσης</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| shall rise | <big><span class="asgreek">ανατελεί</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall be\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| midday. | <big><span class="asgreek">μεσημβρία</span></big> <sup><small><small>[[G3314]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| should give | **<big>[[G1325\|δως]]</big>** |
+| to ones hungering | **<big>[[G3983\|πεινώντι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| your soul, | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| being humble | **<big>[[G5013\|τεταπεινωμένην]]</big>** |
+| should fill up | **<big>[[G1705\|εμπλήσης]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| shall rise | **<big>[[G0393\|ανατελεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| darkness | **<big>[[G4655\|σκότει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your light | **<big>[[G5457\|φως]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your darkness | **<big>[[G4655\|σκότος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[shall be\] as | **<big>[[G5613\|ως]]</big>** |
+| midday. | **<big>[[G3314\|μεσημβρία]]</big>** |
 [[Isa.58.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.9|<< Isaiah 58:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.11|Isaiah 58:11 >>]]</td></tr></table>
 
 

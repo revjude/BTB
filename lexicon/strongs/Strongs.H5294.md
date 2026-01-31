@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְעַרְיָה‎</span></big> **Nᵉʻaryâh** <small>*(neh-ar-yaw')*</small> ==**Neariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נַעַר‎</span><sup><small>[[H5288]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; servant of Jah</small>
+**<big><span class="ashebrew">‎נְעַרְיָה‎</span></big>** **Nᵉʻaryâh** <small>*(neh-ar-yaw')*</small> ==**Neariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5288|‎נַעַר‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; servant of Jah</small>
 
 $\quad$ Neariah.
 - § Neariah = *"servant of Jehovah"*

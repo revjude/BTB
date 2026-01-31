@@ -7,35 +7,35 @@ And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and
 They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, dwelled. It had been built seven years before Zoan in Egypt.<small><sub>**MT:**</sub></small>
 [[Num.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.21|<< Numbers 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.23|Numbers 13:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθοσαν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Hebron; | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| \[was\] Ahiman, | <big><span class="asgreek">Αχειμάν</span></big> <sup><small><small>[[H0289]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sheshai, | <big><span class="asgreek">Σεσί</span></big> <sup><small><small>[[H8344]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Talmai, | <big><span class="asgreek">Θελαμίν</span></big> <sup><small><small>[[H8526]]</small></small></sup> |
-| \[the\] families | <big><span class="asgreek">γενεαί</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| of Anak; | <big><span class="asgreek">Ενάχ</span></big> <sup><small><small>[[H6061]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hebron | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| years | <big><span class="asgreek">έτεσιν</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| was built | <big><span class="asgreek">ωκοδομήθη</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Tanin | <big><span class="asgreek">Τανί</span></big> <sup><small><small>[[H6814]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wilderness, | **<big>[[G2048\|έρημον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθοσαν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Hebron; | **<big>[[H2275b\|Χεβρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| \[was\] Ahiman, | **<big>[[H0289\|Αχειμάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Sheshai, | **<big>[[H8344\|Σεσί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Talmai, | **<big>[[H8526\|Θελαμίν]]</big>** |
+| \[the\] families | **<big>[[G1074\|γενεαί]]</big>** |
+| of Anak; | **<big>[[H6061\|Ενάχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hebron | **<big>[[H2275b\|Χεβρών]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| years | **<big>[[G2094\|έτεσιν]]</big>** |
+| was built | **<big>[[G3618\|ωκοδομήθη]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Tanin | **<big>[[H6814\|Τανί]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Num.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.21|<< Numbers 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.23|Numbers 13:23 >>]]</td></tr></table>
 
 

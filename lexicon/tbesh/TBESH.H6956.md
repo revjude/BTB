@@ -1,9 +1,7 @@
-<span class="ashebrew">‎קְהָתִי‎</span> <small>***(qo.ha.ti)***</small> ==**Kohathite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H6955]]</small> 
+<small>group of:</small> <small>**<big>[[H6955|קְהָת]]</big>**</small> 
 
 - Someone descended from Kohath who was a man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.11|Gen.46.11]]
--  son of: Levi ([[H3878]])
--  brother of: Gershon ([[H1648]]), Merari ([[H4847]]) and Jochebed ([[H3115]])
--  father of: Amram ([[H6019]]), Izhar ([[H3324]]), Hebron ([[H2275B]]) and Uzziel ([[H5816]])
-- Group of <i>qe.hat</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ת‎</span> "Kohath" [[H6955]])
-
+-  son of: Levi (**<big>[[H3878|לֵוִי]]</big>**)
+-  brother of: Gershon (**<big>[[H1648|גֵּרְשׁוֹן]]</big>**), Merari (**<big>[[H4847|מְרָרִי]]</big>**) and Jochebed (**<big>[[H3115|יוֹכֶבֶד]]</big>**)
+-  father of: Amram (**<big>[[H6019|עַמְרָם]]</big>**), Izhar (**<big>[[H3324|יִצְהָר]]</big>**), Hebron (**<big>[[H2275B|חֶבְרוֹן]]</big>**) and Uzziel (**<big>[[H5816|עֻזִּיאֵל]]</big>**)
+- Group of <i>qe.hat</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ת‎</span> "Kohath" **<big>[[H6955|קְהָת]]</big>**)

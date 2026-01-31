@@ -6,14 +6,14 @@ Caravans turn aside from their routes; they go into the wasteland and perish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.19|Job 6:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they twist  | <span class="ashebrew"><big>יִ֭לָּ֣פְתוּ </big></span><small><small><sup>[[H3943]]</sup></small></small> &#8207;| yi.La.fe.tu <small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] paths of  | <span class="ashebrew"><big>אָרְח֣וֹת </big></span><small><small><sup>[[H0734]]</sup></small></small> &#8207;| 'a.re.Chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way their  | <span class="ashebrew"><big>דַּרְכָּ֑ </big></span><small><small><sup>[[H1870L]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| dar.Ka <small><sup>[[HNcbsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they go up  | <span class="ashebrew"><big>יַעֲל֖וּ </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| ya.'a.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the wasteland  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תֹּ֣הוּ </big></span><small><small><sup>[[H8414]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> To.hu <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may perish  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹאבֵֽדוּ </big></span><small><small><sup>[[H0006]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Ve.du <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they twist  |**<big>&#8207;[[H3943\|יִ֭לָּ֣פְתוּ]]&#8207; </big>**| yi.La.fe.tu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] paths of  |**<big>&#8207;[[H0734\|אָרְח֣וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way their  |**<big>&#8207;[[H1870L\|דַּרְכָּ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| dar.Ka<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they go up  |**<big>&#8207;[[H5927G\|יַעֲל֖וּ]]&#8207; </big>**| ya.'a.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wasteland  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8414\|תֹּ֣הוּ]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> To.hu<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may perish  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0006\|יֹאבֵֽדוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Ve.du<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.19|Job 6:19 >>]]</td></tr></table>
 
 

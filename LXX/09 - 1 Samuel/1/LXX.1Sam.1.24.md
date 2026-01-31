@@ -7,35 +7,35 @@ And when she had weaned him, she took him up with her, with three bullocks, and 
 Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the LORD at Shiloh.<small><sub>**MT:**</sub></small>
 [[1Sam.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Shiloh | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| being three years old, | <big><span class="asgreek">τριετίζοντι</span></big> <sup><small><small>[[G9485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an ephah | <big><span class="asgreek">οίφι</span></big> <sup><small><small>[[G8467]]</small></small></sup> |
-| of fine flour, | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a skin flask | <big><span class="asgreek">νέβελ</span></big> <sup><small><small>[[G8380]]</small></small></sup> |
-| of wine. | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Shiloh, | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boy | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Shiloh | **<big>[[H7887\|Συλώ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a calf | **<big>[[G3448\|μόσχω]]</big>** |
+| being three years old, | **<big>[[G9485\|τριετίζοντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an ephah | **<big>[[G8467\|οίφι]]</big>** |
+| of fine flour, | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a skin flask | **<big>[[G8380\|νέβελ]]</big>** |
+| of wine. | **<big>[[G3631\|οίνου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she entered | **<big>[[G1525\|εισήλθεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Shiloh, | **<big>[[H7887\|Συλώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| boy | **<big>[[G3808\|παιδάριον]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[1Sam.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 
 

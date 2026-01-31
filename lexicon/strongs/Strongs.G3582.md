@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ξέστης‎</span></big> **xéstēs** <small>*(xes'-tace)*</small> ==**pitcher**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+**<big><span class="asgreek">‎ξέστης‎</span></big>** **xéstēs** <small>*(xes'-tace)*</small> ==**pitcher**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
 <small>as if from <greek BETA="CE/W" unicode="ξέω" translit="xéō"/> (properly, to smooth</small>
 
 $\quad$ pot.

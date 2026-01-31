@@ -4,8 +4,8 @@ Levite living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Jonathan</span>, a Levite from Bethlehem, became a priest for the tribe of Dan after they set up a carved image \([[Judg.18.30|Jdg.18.30]]\).
 - A man living before Israel's Monarchy, only mentioned at [[Judg.18.30|Jdg.18.30]]; 
-- only referred to as Jonathan<[[H3083G]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Gershom<[[H1647G]]>\(?\).
+- only referred to as Jonathan **<big>[[H3083|יְהוֹנָתָן]]</big>**; 
+- a son of Gershom **<big>[[H1647|גֵּרְשֹׁם]]</big>**.
 
 Jonathan, a Levite from Bethlehem in Judah, is mentioned in the book of Judges as a priest who served the tribe of Dan. The Danites, who had not yet secured their inheritance, sent out spies to find a suitable place to settle. The spies came to the house of Micah, where they encountered Jonathan, who was serving as Micah's personal priest \(Jdg.18.3-4\). 
 
@@ -15,7 +15,7 @@ The narrative in Judges 18 highlights the moral and spiritual decline of Israel 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083G) <small>*Hebrew*</small> | 1x | [Jdg.18.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=Jdg.18.30) |
-All Strong's for **Jonathan**: \[[[H3083G]]\]
+| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083G) | 1x | [Jdg.18.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=Jdg.18.30) |
+All entries for **Jonathan**:  **<big>[[H3083|יְהוֹנָתָן]]</big>**
 #### Related Profiles:
 - **[Gershom](H1647G)** (father)

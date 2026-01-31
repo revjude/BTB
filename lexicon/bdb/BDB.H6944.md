@@ -1,4 +1,4 @@
-<small>Also see: [[H5880]] | [[H8483]]</small>
+<small>Also see: **<big>[[H5880|עֵין מִשְׁפָּט]]</big>** | **<big>[[H8483|תַּחְתִּים חׇדְשִׁי]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎קָדֵשׁ‎</span> **proper name, of a location** (***sacred***; but perhaps originally <span class="bdbLangHebrew">‎קֶדֶשׁ‎</span> and pointing artificial to distinguish from <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span> in N); — 
 

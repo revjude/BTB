@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲכִישׁ‎</span></big> **ʼĂkîysh** <small>*(aw-keesh')*</small> ==**Achish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֲכִישׁ‎</span></big>** **ʼĂkîysh** <small>*(aw-keesh')*</small> ==**Achish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Achish.

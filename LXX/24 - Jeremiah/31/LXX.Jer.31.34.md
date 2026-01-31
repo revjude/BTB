@@ -12,42 +12,42 @@ No longer will each man teach his neighbor or his brother, saying, ‘Know the L
 > $\quad$ referenced by: [[John.6.45|John 6:45]] ☩ [[Rom.11.27|Rom 11:27]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[Heb.8.8|Heb 8:8-12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| teach | <big><span class="asgreek">διδάξωσιν</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Know | <big><span class="asgreek">γνώθι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| shall know | <big><span class="asgreek">ειδήσουσί</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| their great, | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I will be kind | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their iniquities, | <big><span class="asgreek">αδικίαις</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I remember | <big><span class="asgreek">μνησθώ</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| any more. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| teach | **<big>[[G1321\|διδάξωσιν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his neighbor, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Know | **<big>[[G1097\|γνώθι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| shall know | **<big>[[G1492\|ειδήσουσί]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their small | **<big>[[G3398\|μικρού]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| their great, | **<big>[[G3173\|μεγάλου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I will be kind | **<big>[[G2436\|ίλεως]]</big>** **<big>[[G1510\|έσομαι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their iniquities, | **<big>[[G0093\|αδικίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their sins | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I remember | **<big>[[G3403\|μνησθώ]]</big>** |
+| any more. | **<big>[[G2089\|έτι]]</big>** |
 [[Jer.31.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.33|<< Jeremiah 31:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.35|Jeremiah 31:35 >>]]</td></tr></table>
 
 

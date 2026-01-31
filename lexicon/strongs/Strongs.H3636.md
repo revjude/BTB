@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּלָל‎</span></big> **Kᵉlâl** <small>*(kel-awl')*</small> ==**Chelal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלַל‎</span><sup><small>[[H3634]]</small></sup>; complete</small>
+**<big><span class="ashebrew">‎כְּלָל‎</span></big>** **Kᵉlâl** <small>*(kel-awl')*</small> ==**Chelal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3634|‎כָּלַל‎]]</big>**; complete</small>
 
 $\quad$ Chelal.
 - § Chelal = *"completed"*

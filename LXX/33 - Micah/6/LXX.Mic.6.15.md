@@ -11,27 +11,27 @@ You will sow but not reap; you will press olives but not anoint yourselves with 
 > $\quad$ referenced by: [[John.4.37|John 4:37]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall sow, | <big><span class="asgreek">σπερείς</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not reap; | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αμήσης</span></big> <sup><small><small>[[G0270]]</small></small></sup> |
-| you shall compress | <big><span class="asgreek">πιέσεις</span></big> <sup><small><small>[[G4085]]</small></small></sup> |
-| \[the\] olive, | <big><span class="asgreek">ελαίαν</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you anoint | <big><span class="asgreek">αλείψη</span></big> <sup><small><small>[[G0218]]</small></small></sup> |
-| \[with\] olive oil; | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you drink; | <big><span class="asgreek">πίεσαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be obliterated | <big><span class="asgreek">αφανισθήσεται</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| \[the\] laws | <big><span class="asgreek">νόμιμα</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You | **<big>[[G1473\|συ]]</big>** |
+| shall sow, | **<big>[[G4687\|σπερείς]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| you shall not reap; | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0270\|αμήσης]]</big>** |
+| you shall compress | **<big>[[G4085\|πιέσεις]]</big>** |
+| \[the\] olive, | **<big>[[G1636\|ελαίαν]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you anoint | **<big>[[G0218\|αλείψη]]</big>** |
+| \[with\] olive oil; | **<big>[[G1637\|ελαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine, | **<big>[[G3631\|οίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you drink; | **<big>[[G4095\|πίεσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be obliterated | **<big>[[G0853\|αφανισθήσεται]]</big>** |
+| \[the\] laws | **<big>[[G8403\|νόμιμα]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Mic.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.14|<< Micah 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.16|Micah 6:16 >>]]</td></tr></table>
 
 

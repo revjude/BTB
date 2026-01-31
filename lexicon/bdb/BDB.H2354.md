@@ -1,4 +1,4 @@
-<small>Also see: [[H1133]] | [[H2352]]</small>
+<small>Also see: **<big>[[H1133|בֶּן־חוּר]]</big>** | **<big>[[H2352|חוּר]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎חוּר‎</span> **proper name, masculine** (meaning dubious; compare Nabataean proper name <span class="bdbLangHebrew">‎חורו‎</span> [[BDB#Nö|Nö]] in [[BDB#Eut|Eut]]<sup>p. 45</sup>) — 
 

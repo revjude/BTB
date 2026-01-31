@@ -7,28 +7,28 @@ Thou shalt not see a fierce people, a people of a deeper speech than thou canst 
 You will no longer see the insolent, a people whose speech is unintelligible, who stammer in a language you cannot understand.<small><sub>**MT:**</sub></small>
 [[Isa.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.18|<< Isaiah 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.20|Isaiah 33:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take advice, | <big><span class="asgreek">συνεβουλεύσατο</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| had beheld | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| a deep voice, | <big><span class="asgreek">βαθύφωνον</span></big> <sup><small><small>[[G6644]]</small></small></sup> |
-| so that | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούσαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| being treated as worthless | <big><span class="asgreek">πεφαυλισμένος</span></big> <sup><small><small>[[G9626]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούοντι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| understanding | <big><span class="asgreek">σύνεσις</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| A small | **<big>[[G3398\|μικρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| great | **<big>[[G3173\|μέγαν]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| take advice, | **<big>[[G4823\|συνεβουλεύσατο]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| had beheld | **<big>[[G1492\|ήδει]]</big>** |
+| a deep voice, | **<big>[[G6644\|βαθύφωνον]]</big>** |
+| so that | **<big>[[G5620\|ώστε]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| hear | **<big>[[G0191\|ακούσαι]]</big>** |
+| a people | **<big>[[G2992\|λαός]]</big>** |
+| being treated as worthless | **<big>[[G9626\|πεφαυλισμένος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| hearing | **<big>[[G0191\|ακούοντι]]</big>** |
+| understanding | **<big>[[G4907\|σύνεσις]]</big>** |
 [[Isa.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.18|<< Isaiah 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.20|Isaiah 33:20 >>]]</td></tr></table>
 
 

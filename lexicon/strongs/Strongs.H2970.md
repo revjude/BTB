@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יַאֲזַנְיָה‎</span></big> **Yaʼăzanyâh** <small>*(yah-az-an-yaw')*</small> ==**Jaazaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יַאֲזַנְיָהוּ</span> **Yaʼăzanyâhûw** <small>*(yah-az-an-yaw'-hoo)*</small>; from <span class="ashebrew">‎אָזַן‎</span><sup><small>[[H0238]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; heard of Jah</small>
+**<big><span class="ashebrew">‎יַאֲזַנְיָה‎</span></big>** **Yaʼăzanyâh** <small>*(yah-az-an-yaw')*</small> ==**Jaazaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יַאֲזַנְיָהוּ</span></big>** **Yaʼăzanyâhûw** <small>*(yah-az-an-yaw'-hoo)*</small>; from **<big>[[H0238|‎אָזַן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; heard of Jah</small>
 
-$\quad$ Jaazaniah. Compare <span class="ashebrew">‎יְזַנְיָה‎</span><sup><small>[[H3153]]</small></sup>.
+$\quad$ Jaazaniah. Compare **<big>[[H3153|‎יְזַנְיָה‎]]</big>**.
 - § Jaazaniah = *"Jehovah hears"*
 - ***Jaazanjah***, the name of four Israelites
 

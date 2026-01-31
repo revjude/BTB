@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עוּל‎</span></big> **ʻûwl** <small>*(ool)*</small> ==**infant**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּל‎</span><sup><small>[[H5763]]</small></sup></small>
+**<big><span class="ashebrew">‎עוּל‎</span></big>** **ʻûwl** <small>*(ool)*</small> ==**infant**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5763|‎עוּל‎]]</big>**</small>
 
 $\quad$ sucking child, infant.
 - ***a babe***
 
 **1)** suckling, sucking child
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γαστήρ</span><sup><small>[[G1064]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">παιδίον</span><sup><small>[[G3813]]</small></sup>
+<small>See Greek: </small>**<big>[[G1064|γαστήρ]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G3813|παιδίον]]</big>**

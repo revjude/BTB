@@ -7,19 +7,19 @@ Put me in remembrance: let us plead together: declare thou, that thou mayest be 
 Remind Me, let us argue the matter together. State your case, so that you may be vindicated.<small><sub>**MT:**</sub></small>
 [[Isa.43.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.25|<< Isaiah 43:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.27|Isaiah 43:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| remember! | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let us plead | <big><span class="asgreek">κριθώμεν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| together! | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| You tell | <big><span class="asgreek">λέγε</span></big> <sup><small><small>[[G3004]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your lawless deeds | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| first! | <big><span class="asgreek">πρώτος</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should be justified. | <big><span class="asgreek">δικαιωθής</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
+| But you, | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| remember! | **<big>[[G3403\|μνήσθητι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let us plead | **<big>[[G2919\|κριθώμεν]]</big>** |
+| together! | **<big>[[G0260\|άμα]]</big>** |
+| You tell | **<big>[[G3004\|λέγε]]</big>** **<big>[[G1473\|συ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of your lawless deeds | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| first! | **<big>[[G4413\|πρώτος]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should be justified. | **<big>[[G1344\|δικαιωθής]]</big>** |
 [[Isa.43.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.25|<< Isaiah 43:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.27|Isaiah 43:27 >>]]</td></tr></table>
 
 

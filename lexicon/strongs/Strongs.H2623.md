@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָסִיד‎</span></big> **châçîyd** <small>*(khaw-seed')*</small> ==**pious**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָסַד‎</span><sup><small>[[H2616]]</small></sup></small>
+**<big><span class="ashebrew">‎חָסִיד‎</span></big>** **châçîyd** <small>*(khaw-seed')*</small> ==**pious**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2616|‎חָסַד‎]]</big>**</small>
 
 $\quad$ godly (man), good, holy (one), merciful, saint, (un-) godly.
 - properly, ***kind***, i.e. (religiously) ***pious*** (a saint)
@@ -9,4 +9,4 @@ $\quad$ **1a)** kind
 $\quad$ **1b)** pious, godly
 $\quad$ **1c)** faithful ones (subst)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐλεέω</span><sup><small>[[G1653]]</small></sup> · <span class="asgreek">εὐλαβέομαι</span><sup><small>[[G2125]]</small></sup> · <span class="asgreek">εὐλαβής</span><sup><small>[[G2126]]</small></sup> · <span class="asgreek">εὐσεβής</span><sup><small>[[G2152]]</small></sup> · <span class="asgreek">ὅσιος</span><sup><small>[[G3741]]</small></sup>
+<small>See Greek: </small>**<big>[[G1653|ἐλεέω]]</big>** · **<big>[[G2125|εὐλαβέομαι]]</big>** · **<big>[[G2126|εὐλαβής]]</big>** · **<big>[[G2152|εὐσεβής]]</big>** · **<big>[[G3741|ὅσιος]]</big>**

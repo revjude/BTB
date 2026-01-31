@@ -1,4 +1,4 @@
-group of: <small>[[G0116]]</small> 
+group of: <small>**<big>[[G0116|Ἀθῆναι]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἀθηναῖος==</span>-<span class='asgreek'>αιότης</span></b>, <span class='asgreek'>τητος</span>, <span class='asgreek'>ἡ</span>, 

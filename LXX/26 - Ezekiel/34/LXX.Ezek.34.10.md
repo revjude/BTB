@@ -11,52 +11,52 @@ This is what the Lord GOD says: ‘Behold, I am against the shepherds, and I wil
 > $\quad$ related to: [[LXX.Ps.44.22|Ps 44:22]] ☩ [[LXX.Zech.11.7|Zech 11:7]] ☩ [[Luke.11.49|Luke 11:49-50]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds, | <big><span class="asgreek">ποιμένας</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will require | <big><span class="asgreek">εκζητήσω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sheep | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will turn them away | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| tend | <big><span class="asgreek">ποιμαίνειν</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sheep, | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| graze | <big><span class="asgreek">βοσκήσουσιν</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένες</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall rescue | <big><span class="asgreek">εξελούμαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sheep | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth, | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a thing devoured. | <big><span class="asgreek">κατάβρωμα</span></big> <sup><small><small>[[G7825]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| shepherds, | **<big>[[G4166\|ποιμένας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will require | **<big>[[G1567\|εκζητήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my sheep | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will turn them away | **<big>[[G0654\|αποστρέψω]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| tend | **<big>[[G4165\|ποιμαίνειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my sheep, | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| graze | **<big>[[G1006\|βοσκήσουσιν]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένες]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall rescue | **<big>[[G1807\|εξελούμαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my sheep | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their mouth, | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσονται]]</big>** |
+| themselves | **<big>[[G1473\|αυτοίς]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a thing devoured. | **<big>[[G7825\|κατάβρωμα]]</big>** |
 [[Ezek.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.9|<< Ezekiel 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.11|Ezekiel 34:11 >>]]</td></tr></table>
 
 

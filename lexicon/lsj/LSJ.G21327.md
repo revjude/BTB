@@ -1,4 +1,4 @@
-spelling of: <small>[[G9679]]</small> 
+spelling of: <small>**<big>[[G9679|φύλαρχος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==φυλάρχης==</span>-<span class='asgreek'>ης</span></b>, <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, 

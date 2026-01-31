@@ -7,34 +7,34 @@ And their windows, and their arches, and their palm trees, [were] after the meas
 Its windows, portico, and palm trees had the same measurements as those of the gate facing east. Seven steps led up to it, with its portico opposite them.<small><sub>**MT:**</sub></small>
 [[Ezek.40.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.21|<< Ezekiel 40:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.23|Ezekiel 40:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its windows, | <big><span class="asgreek">θυρίδες</span></big> <sup><small><small>[[G2376]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pediments, | <big><span class="asgreek">αιλαμμών</span></big> <sup><small><small>[[G6162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its palms | <big><span class="asgreek">φοίνικες</span></big> <sup><small><small>[[G5404]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλέπουσα</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| steps | <big><span class="asgreek">κλημακτήρσιν</span></big> <sup><small><small>[[G8024]]</small></small></sup> |
-| they ascended | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pediments | <big><span class="asgreek">αιλαμμών</span></big> <sup><small><small>[[G6162]]</small></small></sup> |
-| \[were\] within. | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| its windows, | **<big>[[G2376\|θυρίδες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| pediments, | **<big>[[G6162\|αιλαμμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| its palms | **<big>[[G5404\|φοίνικες]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[were\] as | **<big>[[G2531\|καθώς]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| gate | **<big>[[G4439\|πύλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| looking | **<big>[[G0991\|βλέπουσα]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| steps | **<big>[[G8024\|κλημακτήρσιν]]</big>** |
+| they ascended | **<big>[[G0305\|ανέβαινον]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| it; | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| pediments | **<big>[[G6162\|αιλαμμών]]</big>** |
+| \[were\] within. | **<big>[[G2081\|έσωθεν]]</big>** |
 [[Ezek.40.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.21|<< Ezekiel 40:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.23|Ezekiel 40:23 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated
 And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for violating his sister Tamar.<small><sub>**MT:**</sub></small>
 [[2Sam.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.21|<< 2 Samuel 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.23|2 Samuel 13:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| Absalom | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Amnon | <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| bad | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| or | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθού</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Absalom detested | <big><span class="asgreek">εμίσει</span></big> <sup><small><small>[[G3404]]</small></small></sup> <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amnon | <big><span class="asgreek">Αμνών</span></big> <sup><small><small>[[H0550]]</small></small></sup> |
-| for which | <big><span class="asgreek">ανθ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he abased | <big><span class="asgreek">εταπείνωσε</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| Tamar | <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sister. | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| speak | **<big>[[G2980\|ελάλησεν]]</big>** |
+| Absalom | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Amnon | **<big>[[H0550\|Αμνών]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| bad | **<big>[[G2556\|κακού]]</big>** |
+| or | **<big>[[G2193\|έως]]</big>** |
+| good, | **<big>[[G0018\|αγαθού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| Absalom detested | **<big>[[G3404\|εμίσει]]</big>** **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Amnon | **<big>[[H0550\|Αμνών]]</big>** |
+| for which | **<big>[[G0473\|ανθ΄]]</big>** **<big>[[G3779\|ων]]</big>** |
+| he abased | **<big>[[G5013\|εταπείνωσε]]</big>** |
+| Tamar | **<big>[[G2283\|Θαμάρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his sister. | **<big>[[G0079\|αδελφήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.21|<< 2 Samuel 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.23|2 Samuel 13:23 >>]]</td></tr></table>
 
 

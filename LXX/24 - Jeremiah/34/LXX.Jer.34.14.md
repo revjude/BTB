@@ -7,38 +7,38 @@ At the end of seven years let ye go every man his brother an Hebrew, which hath 
 Every seventh year, each of you must free his Hebrew brother who has sold himself to you. He may serve you six years, but then you must let him go free. But your fathers did not listen or incline their ear.<small><sub>**MT:**</sub></small>
 [[Jer.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.13|<< Jeremiah 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.15|Jeremiah 34:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should be fulfilled | <big><span class="asgreek">πληρωθή</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| you shall send \[free\] | <big><span class="asgreek">αποστελείς</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebrew | <big><span class="asgreek">Εβραίον</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall be sold | <big><span class="asgreek">πραθήσεταί</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
-| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall work | <big><span class="asgreek">εργάσεταί</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| and \[then\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall send him out | <big><span class="asgreek">εξαποστελείς</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| free. | <big><span class="asgreek">ελεύθερον</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hear | <big><span class="asgreek">ήκουσάν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| lean | <big><span class="asgreek">έκλιναν</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ear. | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| should be fulfilled | **<big>[[G4137\|πληρωθή]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| you shall send \[free\] | **<big>[[G0649\|αποστελείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| brother | **<big>[[G0080\|αδελφόν]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hebrew | **<big>[[G1444\|Εβραίον]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| shall be sold | **<big>[[G4097\|πραθήσεταί]]</big>** |
+| to you; | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall work | **<big>[[G2038\|εργάσεταί]]</big>** |
+| for you | **<big>[[G1473\|σοι]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| years, | **<big>[[G2094\|έτη]]</big>** |
+| and \[then\] | **<big>[[G2532\|και]]</big>** |
+| you shall send him out | **<big>[[G1821\|εξαποστελείς]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| free. | **<big>[[G1658\|ελεύθερον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| hear | **<big>[[G0191\|ήκουσάν]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| lean | **<big>[[G2827\|έκλιναν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their ear. | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.13|<< Jeremiah 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.15|Jeremiah 34:15 >>]]</td></tr></table>
 
 

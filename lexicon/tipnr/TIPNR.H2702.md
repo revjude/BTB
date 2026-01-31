@@ -1,8 +1,8 @@
 <small>*Hazar-susim • A town allotted to the tribe of Simeon.*</small>
 
 <span class='tipnrhighlight'>Hazar-susim</span> was a town allotted to the tribe of Simeon, mentioned in the list of their cities in 1 Chronicles.
-- A location near Madmannah<[[H4089G]]> only mentioned at [[1Chr.4.31|1Ch.4.31]]; 
-- only referred to as Hazar-susim<[[H2702]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Madmannah **<big>[[H4089|מַדְמַנָּה]]</big>** only mentioned at [[1Chr.4.31|1Ch.4.31]]; 
+- only referred to as Hazar-susim **<big>[[H2702|חֲצַר סוּסִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.391668,34.940502&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,5 +20,5 @@ The mention of Hazar-susim in the biblical text serves to provide a detailed acc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hazar-susim (NIV= Hazar Susim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2702) <small>*Hebrew*</small> | 1x | [1Ch.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazar\*\|reference=1Ch.4.31) |
-All Strong's for **Hazar-susim**: \[[[H2702]]\]
+| Hazar-susim (NIV= Hazar Susim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>סו</span>ּ<span class='tipnrLangHebrew'>ס</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2702) | 1x | [1Ch.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazar\*\|reference=1Ch.4.31) |
+All entries for **Hazar-susim**:  **<big>[[H2702|חֲצַר סוּסִים]]</big>**

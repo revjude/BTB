@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀγριέλαιος‎</span></big> **agriélaios** <small>*(ag-ree-el'-ah-yos)*</small> ==**wild olive tree**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
-<small>from <span class="asgreek">ἄγριος</span><sup><small>[[G0066]]</small></sup> and <span class="asgreek">ἐλαία</span><sup><small>[[G1636]]</small></sup></small>
+**<big><span class="asgreek">‎ἀγριέλαιος‎</span></big>** **agriélaios** <small>*(ag-ree-el'-ah-yos)*</small> ==**wild olive tree**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+<small>from **<big>[[G0066|‎ἄγριος‎]]</big>** and **<big>[[G1636|‎ἐλαία‎]]</big>**</small>
 
 $\quad$ olive tree (which is) wild.
 - an oleaster

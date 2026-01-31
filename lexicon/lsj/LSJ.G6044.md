@@ -1,5 +1,5 @@
 <span class="asgreek">Ἰωσήχ</span> <small>***(Iōsēch)***</small> ==**Josech**==  <sup><small>[[TEGMC#N:N-M-P|N:N-M-P]]</small></sup> 
-spelling of: <small>[[G2501K]]</small> 
+spelling of: <small>**<big>[[G2501K|Ἰωσήφ]]</big>**</small> 
 
 
  <b><span class='asgreek'>==Ἰωσήχ==</span></b>, 

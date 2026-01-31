@@ -6,26 +6,26 @@ Seek the LORD, all you humble of the earth who carry out His justice. Seek right
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.2|<< Zephaniah 2:2]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.4|Zephaniah 2:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| seek  | <span class="ashebrew"><big>בַּקְּשׁ֤וּ </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| ba.ke.Shu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] humble [people] of  | <span class="ashebrew"><big>עַנְוֵ֣י </big></span><small><small><sup>[[H6035]]</sup></small></small> &#8207;| 'an.Vei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֔רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgment his  | <span class="ashebrew"><big>מִשְׁפָּט֖ </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mish.pa.T <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have done  | <span class="ashebrew"><big>פָּעָ֑לוּ </big></span><small><small><sup>[[H6466]]</sup></small></small> &#8207;| pa.'A.lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seek  | <span class="ashebrew"><big>בַּקְּשׁוּ </big></span><small><small><sup>[[H1245]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ba.ke.shu- <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צֶ֙דֶק֙ </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seek  | <span class="ashebrew"><big>בַּקְּשׁ֣וּ </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| ba.ke.Shu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humility  | <span class="ashebrew"><big>עֲנָוָ֔ה </big></span><small><small><sup>[[H6038]]</sup></small></small> &#8207;| 'a.na.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perhaps  | <span class="ashebrew"><big>אוּלַי֙ </big></span><small><small><sup>[[H0194]]</sup></small></small> &#8207;| 'u.Lai <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be hidden  | <span class="ashebrew"><big>תִּסָּ֣תְר֔וּ </big></span><small><small><sup>[[H5641]]</sup></small></small> &#8207;| ti.Sa.te.Ru <small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֖וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] anger of  | <span class="ashebrew"><big>אַף </big></span><small><small><sup>[[H0639G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'af- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seek  |**<big>&#8207;[[H1245\|בַּקְּשׁ֤וּ]]&#8207; </big>**| ba.ke.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] humble [people] of  |**<big>&#8207;[[H6035\|עַנְוֵ֣י]]&#8207; </big>**| 'an.Vei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgment his  |**<big>&#8207;[[H4941H\|מִשְׁפָּט֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| mish.pa.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have done  |**<big>&#8207;[[H6466\|פָּעָ֑לוּ]]&#8207; </big>**| pa.'A.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seek  |**<big>&#8207;[[H1245\|בַּקְּשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.ke.shu-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6664G\|צֶ֙דֶק֙]]&#8207; </big>**| tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seek  |**<big>&#8207;[[H1245\|בַּקְּשׁ֣וּ]]&#8207; </big>**| ba.ke.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humility  |**<big>&#8207;[[H6038\|עֲנָוָ֔ה]]&#8207; </big>**| 'a.na.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perhaps  |**<big>&#8207;[[H0194\|אוּלַי֙]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be hidden  |**<big>&#8207;[[H5641\|תִּסָּ֣תְר֔וּ]]&#8207; </big>**| ti.Sa.te.Ru<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֖וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] anger of  |**<big>&#8207;[[H0639G\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.2|<< Zephaniah 2:2]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.4|Zephaniah 2:4 >>]]</td></tr></table>
 
 

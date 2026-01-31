@@ -7,27 +7,27 @@ And Solomon had horses brought out of Egypt, and linen yarn: the king’s mercha
 Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue.<small><sub>**MT:**</sub></small>
 [[2Chr.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.15|<< 2 Chronicles 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.17|2 Chronicles 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there was an\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exodus | <big><span class="asgreek">έξοδος</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| value | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| merchants | <big><span class="asgreek">εμπόρων</span></big> <sup><small><small>[[G1713]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go forth | <big><span class="asgreek">εκπορεύεσθαι</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| they were bought | <big><span class="asgreek">ηγόραζον</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[there was an\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| exodus | **<big>[[G1841\|έξοδος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| horses | **<big>[[G2462\|ίππων]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντι]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by the | **<big>[[G3588\|η]]</big>** |
+| value | **<big>[[G5092\|τιμή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| merchants | **<big>[[G1713\|εμπόρων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go forth | **<big>[[G1607\|εκπορεύεσθαι]]</big>** |
+| they were bought | **<big>[[G0059\|ηγόραζον]]</big>** |
 [[2Chr.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.15|<< 2 Chronicles 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.17|2 Chronicles 1:17 >>]]</td></tr></table>
 
 

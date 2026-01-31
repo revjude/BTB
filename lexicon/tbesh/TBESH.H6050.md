@@ -1,3 +1,1 @@
-<span class="asaramaic">‎עֲנָן‎</span> <small>***(a.nan)***</small> ==**cloud**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H6051]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H6051|עָנָן]]</big>**</small>

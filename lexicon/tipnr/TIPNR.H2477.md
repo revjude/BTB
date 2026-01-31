@@ -1,8 +1,8 @@
 <small>*Halah • A place where Israelites were exiled by the Assyrians.*</small>
 
 <span class='tipnrhighlight'>Halah</span> was one of the places where the Assyrians settled the exiled Israelites after conquering the Northern Kingdom.
-- A location near Habor<[[H2249]]> first mentioned at [[2Kgs.17.6|2Ki.17.6]]; 
-- only referred to as Halah<[[H2477]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>\).
+- A location near Habor **<big>[[H2249|חָבוֹר]]</big>** first mentioned at [[2Kgs.17.6|2Ki.17.6]]; 
+- only referred to as Halah **<big>[[H2477|חֲלַח]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.344972,40.789333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The Bible does not provide any further information about Halah or the lives of t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Halah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H2477) <small>*Hebrew*</small> | 3x | [[2Ki.17.6] ... [1Ch.5.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Halah\*\|reference=2Ki.17.6;2Ki.18.11;1Ch.5.26) |
-All Strong's for **Halah**: \[[[H2477]]\]
+| Halah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H2477) | 3x | [[2Ki.17.6] ... [1Ch.5.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Halah\*\|reference=2Ki.17.6;2Ki.18.11;1Ch.5.26) |
+All entries for **Halah**:  **<big>[[H2477|חֲלַח]]</big>**

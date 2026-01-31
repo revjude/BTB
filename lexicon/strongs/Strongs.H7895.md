@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁישַׁק‎</span></big> **Shîyshaq** <small>*(shee-shak')*</small> ==**Shishak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שׁוּשַׁק</span> **Shûwshaq** <small>*(shooshak')*</small>; of Egyptian derivation</small>
+**<big><span class="ashebrew">‎שִׁישַׁק‎</span></big>** **Shîyshaq** <small>*(shee-shak')*</small> ==**Shishak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שׁוּשַׁק</span></big>** **Shûwshaq** <small>*(shooshak')*</small>; of Egyptian derivation</small>
 
 $\quad$ Shishak.
 - § Shishak = *"greedy of fine linen"*

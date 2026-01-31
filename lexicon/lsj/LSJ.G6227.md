@@ -1,5 +1,5 @@
 <span class="asgreek">ἀλλ᾽ ἢ</span> <small>***(all᾽ ē)***</small> ==**but only**==  <sup><small>[[TEGMC#G:CONJ|G:CONJ]]</small></sup> 
-combination of: <small>[[G2228]] ([[G0235]]+[[G2228]])</small> 
+combination of: <small>**<big>[[G2228|ἤ]]</big>** (**<big>[[G0235|ἀλλά]]</big>**+**<big>[[G2228|ἤ]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>ἀλλ᾽</span> <span class='asgreek'>ἤ</span>,</b>, 

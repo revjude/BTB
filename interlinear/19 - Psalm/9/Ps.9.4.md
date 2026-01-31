@@ -6,16 +6,16 @@ For You have upheld my just cause; You sit on Your throne judging righteously.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.3|<< Psalms 9:3]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.5|Psalms 9:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have done  | <span class="ashebrew"><big>עָ֭שִׂיתָ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'A.si.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice my  | <span class="ashebrew"><big>מִשְׁפָּטִ֣ </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| mish.pa.T <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and cause my  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דִינִ֑ </big></span><small><small><sup>[[H1779]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> di.N <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have sat  | <span class="ashebrew"><big>יָשַׁ֥בְתָּ </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| ya.Shav.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a throne  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כִסֵּ֗א </big></span><small><small><sup>[[H3678G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> khi.Se' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judging  | <span class="ashebrew"><big>שׁוֹפֵ֥ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| sho.Fet <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צֶֽדֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have done  |**<big>&#8207;[[H6213A\|עָ֭שִׂיתָ]]&#8207; </big>**| 'A.si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice my  |**<big>&#8207;[[H4941H\|מִשְׁפָּטִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mish.pa.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cause my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1779\|דִינִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> di.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have sat  |**<big>&#8207;[[H3427\|יָשַׁ֥בְתָּ]]&#8207; </big>**| ya.Shav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a throne  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H3678G\|כִסֵּ֗א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khi.Se'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judging  |**<big>&#8207;[[H8199\|שׁוֹפֵ֥ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6664G\|צֶֽדֶק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.3|<< Psalms 9:3]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.5|Psalms 9:5 >>]]</td></tr></table>
 
 

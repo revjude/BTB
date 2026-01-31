@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָבֵל‎</span></big> **ʼâbêl** <small>*(aw-bale')*</small> ==**mourning**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבַל‎</span><sup><small>[[H0056]]</small></sup></small>
+**<big><span class="ashebrew">‎אָבֵל‎</span></big>** **ʼâbêl** <small>*(aw-bale')*</small> ==**mourning**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H0056|‎אָבַל‎]]</big>**</small>
 
 $\quad$ mourn(-er, -ing).
 - ***lamenting***
@@ -12,4 +12,4 @@ $\quad$ **1c)** of rites of mourning
 $\quad$ **2a)** for the dead
 $\quad$ **2b)** for calamity
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἄδικος</span><sup><small>[[G0094]]</small></sup> · <span class="asgreek">ἀνομία</span><sup><small>[[G0458]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">λυπέω</span><sup><small>[[G3076]]</small></sup> · <span class="asgreek">παράπτωμα</span><sup><small>[[G3900]]</small></sup> · <span class="asgreek">συμπαθής</span><sup><small>[[G4835]]</small></sup>
+<small>See Greek: </small>**<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0094|ἄδικος]]</big>** · **<big>[[G0458|ἀνομία]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G3076|λυπέω]]</big>** · **<big>[[G3900|παράπτωμα]]</big>** · **<big>[[G4835|συμπαθής]]</big>**

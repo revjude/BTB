@@ -11,41 +11,41 @@ Then one of the cherubim reached out his hand and took some of the fire that was
 > $\quad$ referenced by: [[Rev.15.7|Rev 15:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stretched out | <big><span class="asgreek">εξέτεινεν</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherub | <big><span class="asgreek">χερούβ</span></big> <sup><small><small>[[G9717]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fire, | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim. | <big><span class="asgreek">χερουβείμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took, | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[it\] | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being clothed | <big><span class="asgreek">ενδεδυκότος</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| by the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| robe | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίαν</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took \[it\] | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came forth. | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| stretched out | **<big>[[G1614\|εξέτεινεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| cherub | **<big>[[G9717\|χερούβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| fire, | **<big>[[G4442\|πυρός]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| being | **<big>[[G1510\|όντος]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| cherubim. | **<big>[[G5502\|χερουβείμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took, | **<big>[[G2983\|έλαβε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[it\] | **<big>[[G1325\|έδωκεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| being clothed | **<big>[[G1746\|ενδεδυκότος]]</big>** |
+| by the | **<big>[[G3588\|την]]</big>** |
+| robe | **<big>[[G4749\|στολήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| holy | **<big>[[G0039\|αγίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took \[it\] | **<big>[[G2983\|έλαβε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came forth. | **<big>[[G1831\|εξήλθε]]</big>** |
 [[Ezek.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.6|<< Ezekiel 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.8|Ezekiel 10:8 >>]]</td></tr></table>
 
 

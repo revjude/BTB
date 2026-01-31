@@ -7,33 +7,33 @@ And the angel of the LORD appeared unto the woman, and said unto her, Behold now
 The angel of the LORD appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son.<small><sub>**MT:**</sub></small>
 [[Judg.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.2|<< Judges 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.4|Judges 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| appeared | <big><span class="asgreek">ώφθη</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| an angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| you \[are\] | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sterile, | <big><span class="asgreek">στείρα</span></big> <sup><small><small>[[G4723]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| have not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| borne; | <big><span class="asgreek">τέτοκας</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| you shall have \[one\] | <big><span class="asgreek">έξεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall bear | <big><span class="asgreek">τέξη</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| a son. | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| appeared | **<big>[[G3708\|ώφθη]]</big>** |
+| an angel | **<big>[[G0032\|άγγελος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| woman, | **<big>[[G1135\|γυναίκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| indeed, | **<big>[[G1211\|δη]]</big>** |
+| you \[are\] | **<big>[[G1473\|συ]]</big>** |
+| sterile, | **<big>[[G4723\|στείρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| have not | **<big>[[G3756\|ου]]</big>** |
+| borne; | **<big>[[G5088\|τέτοκας]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] womb | **<big>[[G1064\|γαστρί]]</big>** |
+| you shall have \[one\] | **<big>[[G2192\|έξεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall bear | **<big>[[G5088\|τέξη]]</big>** |
+| a son. | **<big>[[G5207\|υιόν]]</big>** |
 [[Judg.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.2|<< Judges 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.4|Judges 13:4 >>]]</td></tr></table>
 
 

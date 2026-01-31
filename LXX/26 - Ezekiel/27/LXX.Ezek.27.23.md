@@ -7,21 +7,21 @@ Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, [and] Chilmad, [wer
 Haran, Canneh, and Eden traded with you, and so did the merchants of Sheba, Asshur, and Chilmad.<small><sub>**MT:**</sub></small>
 [[Ezek.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.22|<< Ezekiel 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.24|Ezekiel 27:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Haran | <big><span class="asgreek">Χαράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Canneh | <big><span class="asgreek">Χαναά</span></big> <sup><small><small>[[H3656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eden, | <big><span class="asgreek">Αιδάν</span></big> <sup><small><small>[[H5729]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] your merchants; | <big><span class="asgreek">έμποροί</span></big> <sup><small><small>[[G1713]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sheba | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Assyria | <big><span class="asgreek">Ασσούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Chilmad | <big><span class="asgreek">Χαλμάβ</span></big> <sup><small><small>[[H3638]]</small></small></sup> |
-| \[were\] your merchants; | <big><span class="asgreek">έμποροί</span></big> <sup><small><small>[[G1713]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Haran | **<big>[[G5488\|Χαράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Canneh | **<big>[[H3656\|Χαναά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eden, | **<big>[[H5729\|Αιδάν]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| \[were\] your merchants; | **<big>[[G1713\|έμποροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Sheba | **<big>[[H7614\|Σαβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Assyria | **<big>[[H0804\|Ασσούρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Chilmad | **<big>[[H3638\|Χαλμάβ]]</big>** |
+| \[were\] your merchants; | **<big>[[G1713\|έμποροί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.22|<< Ezekiel 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.24|Ezekiel 27:24 >>]]</td></tr></table>
 
 

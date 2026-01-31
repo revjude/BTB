@@ -6,15 +6,15 @@ Whoever tends a fig tree will eat its fruit, and he who looks after his master w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.17|<< Proverbs 27:17]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.19|Proverbs 27:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] keeps  | <span class="ashebrew"><big>נֹצֵ֣ר </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| no.Tzer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fig tree  | <span class="ashebrew"><big>תְּ֭אֵנָה </big></span><small><small><sup>[[H8384]]</sup></small></small> &#8207;| Te.'e.nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will eat  | <span class="ashebrew"><big>יֹאכַ֣ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| yo.Khal <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit its  | <span class="ashebrew"><big>פִּרְיָ֑ </big></span><small><small><sup>[[H6529]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| pir.Ya <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] protects  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁמֵ֖ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| master\<s> his  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0113]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.do.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be honored  | <span class="ashebrew"><big>יְכֻבָּֽד </big></span><small><small><sup>[[H3513G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.khu.Bad <small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] keeps  |**<big>&#8207;[[H5341\|נֹצֵ֣ר]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fig tree  |**<big>&#8207;[[H8384\|תְּ֭אֵנָה]]&#8207; </big>**| Te.'e.nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will eat  |**<big>&#8207;[[H0398\|יֹאכַ֣ל]]&#8207; </big>**| yo.Khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit its  |**<big>&#8207;[[H6529\|פִּרְיָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| pir.Ya<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] protects  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104H\|שֹׁמֵ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| master\<s> his  |**<big>&#8207;[[H0113\|אֲדֹנָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.do.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be honored  |**<big>&#8207;[[H3513G\|יְכֻבָּֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.khu.Bad<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.17|<< Proverbs 27:17]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.19|Proverbs 27:19 >>]]</td></tr></table>
 
 

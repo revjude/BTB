@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Marah</span>, a place where the Israelites found bitter water that Moses made drinkable by casting a tree into it \(Exodus 15:23-25; [[Num.33.8|Numbers 33:8]]-9\).
 - A location first mentioned at Exo.15.23; 
-- only referred to as Marah<[[H4785]]> \(<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Marah **<big>[[H4785|מָרָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.350000,32.933333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Marah was a location on the route of the Israelites during their Exodus from Egy
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Marah | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4785) <small>*Hebrew*</small> | 5x | [[Exo.15.23a] ... [Num.33.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Marah\*\|reference=Exo.15.23;Exo.15.23;Exo.15.23;Num.33.8;Num.33.9) |
-All Strong's for **Marah**: \[[[H4785]]\]
+| Marah | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4785) | 5x | [[Exo.15.23a] ... [Num.33.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Marah\*\|reference=Exo.15.23;Exo.15.23;Exo.15.23;Num.33.8;Num.33.9) |
+All entries for **Marah**:  **<big>[[H4785|מָרָה]]</big>**

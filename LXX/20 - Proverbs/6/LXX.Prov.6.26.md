@@ -7,19 +7,19 @@ For by means of a whorish woman [a man is brought] to a piece of bread: and the 
 For the levy of the prostitute is poverty, and the adulteress preys upon your very life.<small><sub>**MT:**</sub></small>
 [[Prov.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For \[the\] value | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of a harlot | <big><span class="asgreek">πόρνης</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| \[is\] as much as | <big><span class="asgreek">όση</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| bread loaf; | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[the\] precious | <big><span class="asgreek">τιμίας</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
-| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| ensnares | <big><span class="asgreek">αγρεύει</span></big> <sup><small><small>[[G0064]]</small></small></sup> |
+| For \[the\] value | **<big>[[G5092\|τιμή]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of a harlot | **<big>[[G4204\|πόρνης]]</big>** |
+| \[is\] as much as | **<big>[[G3745\|όση]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| bread loaf; | **<big>[[G0740\|άρτου]]</big>** |
+| and a woman | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of men | **<big>[[G0435\|ανδρών]]</big>** |
+| \[the\] precious | **<big>[[G5093\|τιμίας]]</big>** |
+| souls | **<big>[[G5590\|ψυχάς]]</big>** |
+| ensnares | **<big>[[G0064\|αγρεύει]]</big>** |
 [[Prov.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
 
 

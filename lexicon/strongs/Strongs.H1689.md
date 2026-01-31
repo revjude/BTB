@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּבְלָה‎</span></big> **Diblâh** <small>*(dib-law')*</small> ==**Riblah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably an orthographical error for <span class="ashebrew">‎רִבְלָה‎</span><sup><small>[[H7247]]</small></sup></small>
+**<big><span class="ashebrew">‎דִּבְלָה‎</span></big>** **Diblâh** <small>*(dib-law')*</small> ==**Riblah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably an orthographical error for **<big>[[H7247|‎רִבְלָה‎]]</big>**</small>
 
 $\quad$ Diblath.
 - § Diblath = *"place of the fig cake"*

@@ -7,29 +7,29 @@ We will not hide [them] from their children, shewing to the generation to come t
 We will not hide them from their children but will declare to the next generation the praises of the LORD and His might and the wonders He has performed.<small><sub>**MT:**</sub></small>
 [[Ps.78.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.3|<< Psalm 78:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.5|Psalm 78:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hidden | <big><span class="asgreek">εκρύβη</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their children | <big><span class="asgreek">τέκνων</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| another | <big><span class="asgreek">ετέραν</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| \[but are\] reporting | <big><span class="asgreek">απαγγέλλοντες</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| praises | <big><span class="asgreek">αινέσεις</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his dominations, | <big><span class="asgreek">δυναστείας</span></big> <sup><small><small>[[G6973]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wonders | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| They were not | **<big>[[G3756\|ουκ]]</big>** |
+| hidden | **<big>[[G2928\|εκρύβη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their children | **<big>[[G5043\|τέκνων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| another | **<big>[[G2087\|ετέραν]]</big>** |
+| \[but are\] reporting | **<big>[[G0518\|απαγγέλλοντες]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| praises | **<big>[[G0133\|αινέσεις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his dominations, | **<big>[[G6973\|δυναστείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his wonders | **<big>[[G2297\|θαυμάσια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| he did. | **<big>[[G4160\|εποίησε]]</big>** |
 [[Ps.78.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.3|<< Psalm 78:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.5|Psalm 78:5 >>]]</td></tr></table>
 
 

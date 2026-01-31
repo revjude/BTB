@@ -7,29 +7,29 @@ For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; bu
 for he is keeping track, inwardly counting the cost. “Eat and drink,” he says to you, but his heart is not with you.<small><sub>**MT:**</sub></small>
 [[Prov.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.6|<< Proverbs 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.8|Proverbs 23:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| as if any | <big><span class="asgreek">ει τις</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
-| may swallow down | <big><span class="asgreek">καταπίοι</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| a hair, | <big><span class="asgreek">τρίχα</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he eats | <big><span class="asgreek">εσθίει</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drinks; | <big><span class="asgreek">πίνει</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should you bring | <big><span class="asgreek">εισαγάγης</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[nor\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should eat | <big><span class="asgreek">φάγης</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your morsel | <big><span class="asgreek">ψωμόν</span></big> <sup><small><small>[[G9804]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| as if any | **<big>[[G1536\|ει τις]]</big>** |
+| may swallow down | **<big>[[G2666\|καταπίοι]]</big>** |
+| a hair, | **<big>[[G2359\|τρίχα]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| he eats | **<big>[[G2068\|εσθίει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drinks; | **<big>[[G4095\|πίνει]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| yourself | **<big>[[G1473\|σε]]</big>** |
+| should you bring | **<big>[[G1521\|εισαγάγης]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[nor\] | **<big>[[G2532\|και]]</big>** |
+| you should eat | **<big>[[G2068\|φάγης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your morsel | **<big>[[G9804\|ψωμόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.6|<< Proverbs 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.8|Proverbs 23:8 >>]]</td></tr></table>
 
 

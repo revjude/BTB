@@ -1,8 +1,7 @@
-<span class="ashebrew">‎עַמִּינָדָב‎</span> <small>***(am.mi.na.dav)***</small> ==**Izhar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H3324]]</small> 
+<small>name of:</small> <small>**<big>[[H3324|יִצְהָר]]</big>**</small> 
 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.18|Exo.6.18]]
--  son of: Kohath ([[H6955]])
--  brother of: Amram ([[H6019]]), Hebron ([[H2275B]]) and Uzziel ([[H5816]])
--  father of: Korah ([[H7141I]]), Nepheg ([[H5298]]), Zichri ([[H2147]]) and Shelomith ([[H8019A]])
-- Another name of <i>yits.har</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ר‎</span> "Izhar" [[H3324]])
+-  son of: Kohath (**<big>[[H6955|קְהָת]]</big>**)
+-  brother of: Amram (**<big>[[H6019|עַמְרָם]]</big>**), Hebron (**<big>[[H2275B|חֶבְרוֹן]]</big>**) and Uzziel (**<big>[[H5816|עֻזִּיאֵל]]</big>**)
+-  father of: Korah (**<big>[[H7141I|קֹרַח]]</big>**), Nepheg (**<big>[[H5298|נֶפֶג]]</big>**), Zichri (**<big>[[H2147|זִכְרִי]]</big>**) and Shelomith (**<big>[[H8019A|שְׁלֹמִית]]</big>**)
+- Another name of <i>yits.har</i> (<span class='ashebrew'>‎י‎</span>ִ<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ר‎</span> "Izhar" **<big>[[H3324|יִצְהָר]]</big>**)

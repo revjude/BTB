@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Adaiah</span> of Bozkath's daughter Jedidah was the mother of King Josiah, who reigned over Judah and initiated significant religious reforms.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Kgs.22.1|2Ki.22.1]]; 
-- only referred to as Adaiah<[[H5718G]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  father of Jedidah<[[H3040]]>.
+- only referred to as Adaiah **<big>[[H5718|עֲדָיָה]]</big>**; 
+-  father of Jedidah **<big>[[H3040|יְדִידָה]]</big>**.
 
 Adaiah is mentioned in [[2Kgs.22.1|2 Kings 22:1]] as the father of Jedidah who was mother of King Josiah of Judah. Adaiah came from Bozkath, a town in the Shephelah region of Judah. Jedidah's husband and Josiah's father was Amon, who reigned as king of Judah for two years before being assassinated by his servants \(2 Kings 21:19-23\). 
 
@@ -15,7 +15,7 @@ Although Adaiah is only briefly mentioned as Josiah's mother, her inclusion in t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718G) <small>*Hebrew*</small> | 1x | [2Ki.22.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=2Ki.22.1) |
-All Strong's for **Adaiah**: \[[[H5718G]]\]
+| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718G) | 1x | [2Ki.22.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=2Ki.22.1) |
+All entries for **Adaiah**:  **<big>[[H5718|עֲדָיָה]]</big>**
 #### Related Profiles:
 - **[Jedidah](H3040)** (child)

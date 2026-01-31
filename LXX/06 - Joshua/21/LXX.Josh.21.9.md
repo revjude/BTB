@@ -7,24 +7,24 @@ And they gave out of the tribe of the children of Judah, and out of the tribe of
 From the tribes of Judah and Simeon, they designated these cities by name<small><sub>**MT:**</sub></small>
 [[Josh.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.8|<< Joshua 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.10|Joshua 21:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Simeon | <big><span class="asgreek">Συμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these cities. | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτας</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were called | <big><span class="asgreek">επεκλήθησαν</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| name. | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of Simeon | **<big>[[G4826\|Συμεών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| these cities. | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G3778\|ταύτας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were called | **<big>[[G1941\|επεκλήθησαν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| name. | **<big>[[G3686\|ονόματι]]</big>** |
 [[Josh.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.8|<< Joshua 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.10|Joshua 21:10 >>]]</td></tr></table>
 
 

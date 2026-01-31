@@ -1,4 +1,3 @@
-<span class="ashebrew">‎נָחָשׁ‎</span> <small>***(na.chash)***</small> ==**Nahash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A woman living at the time of United Monarchy, only mentioned at [[2Sam.17.25|2Sa.17.25]]
--  wife of: Jesse ([[H3448H]])
--  mother of: David ([[H1732]]), Eliab ([[H0446I]]), Abinadab ([[H0041I]]), Shimeah ([[H8093]]), Nethanel ([[H5417H]]), Raddai ([[H7288]]), Ozem ([[H0684]]), Zeruiah ([[H6870]]), Abigail ([[H0026H]])(?) and Elihu ([[H0453J]])
+-  wife of: Jesse (**<big>[[H3448H|יִשַׁי]]</big>**)
+-  mother of: David (**<big>[[H1732|דָּוִד]]</big>**), Eliab (**<big>[[H0446I|אֱלִיאָב]]</big>**), Abinadab (**<big>[[H0041I|אֲבִינָדָב]]</big>**), Shimeah (**<big>[[H8093|שִׁמְעָה]]</big>**), Nethanel (**<big>[[H5417H|נְתַנְאֵל]]</big>**), Raddai (**<big>[[H7288|רַדַּי]]</big>**), Ozem (**<big>[[H0684|אֹצֶם]]</big>**), Zeruiah (**<big>[[H6870|צְרוּיָה]]</big>**), Abigail (**<big>[[H0026H|אֲבִיגַיִל]]</big>**) and Elihu (**<big>[[H0453J|אֱלִיהוּ]]</big>**)

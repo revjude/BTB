@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סַלּוּ‎</span></big> **Çallûw** <small>*(sal-loo')*</small> ==**`valor`**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">סַלּוּא</span> **Çallûwʼ** <small>*(sal-loo')*</small>; or <span class="ashebrew">סָלוּא</span> **Çâlûwʼ** <small>*(sal-loo')*</small>; or <span class="ashebrew">סַלַּי</span> **Çallay** <small>*(sal-lah'-ee)*</small>; from <span class="ashebrew">‎סָלָה‎</span><sup><small>[[H5541]]</small></sup>; weighed</small>
+**<big><span class="ashebrew">‎סַלּוּ‎</span></big>** **Çallûw** <small>*(sal-loo')*</small> ==**`valor`**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">סַלּוּא</span></big>** **Çallûwʼ** <small>*(sal-loo')*</small>; or **<big><span class="ashebrew">סָלוּא</span></big>** **Çâlûwʼ** <small>*(sal-loo')*</small>; or **<big><span class="ashebrew">סַלַּי</span></big>** **Çallay** <small>*(sal-lah'-ee)*</small>; from **<big>[[H5541|‎סָלָה‎]]</big>**; weighed</small>
 
 $\quad$ Sallai, Sallu, Salu.
 - § Sallu or Salu or Sallai = *"weighed"*

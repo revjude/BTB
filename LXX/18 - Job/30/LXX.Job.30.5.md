@@ -7,11 +7,11 @@ They were driven forth from among [men], (they cried after them as [after] a thi
 They were banished from among men, shouted at like thieves,<small><sub>**MT:**</sub></small>
 [[Job.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.4|<< Job 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.6|Job 30:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| rose up against | <big><span class="asgreek">επανέστησάν</span></big> <sup><small><small>[[G1881]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thieves | <big><span class="asgreek">κλέπται</span></big> <sup><small><small>[[G2812]]</small></small></sup> |
+| rose up against | **<big>[[G1881\|επανέστησάν]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| Thieves | **<big>[[G2812\|κλέπται]]</big>** |
 [[Job.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.4|<< Job 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.6|Job 30:6 >>]]</td></tr></table>
 
 

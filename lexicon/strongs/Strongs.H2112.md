@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎זוּעַ‎</span></big> **zûwaʻ** <small>*(zoo'-ah)*</small> ==**to tremble**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎זוּעַ‎</span><sup><small>[[H2111]]</small></sup></small>
+**<big><span class="asaramaic">‎זוּעַ‎</span></big>** **zûwaʻ** <small>*(zoo'-ah)*</small> ==**to tremble**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2111|‎זוּעַ‎]]</big>**</small>
 
 $\quad$ tremble.
 - ***to shake*** (with fear)

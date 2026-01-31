@@ -6,15 +6,15 @@ Every hand will go limp, and every knee will turn to water.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.16|<< Ezekiel 7:16]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.18|Ezekiel 7:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the pairs of hands  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּדַ֖יִם </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> ya.Da.yim <small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will drop  | <span class="ashebrew"><big>תִּרְפֶּ֑ינָה </big></span><small><small><sup>[[H7503]]</sup></small></small> &#8207;| tir.Pei.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knees  | <span class="ashebrew"><big>בִּרְכַּ֖יִם </big></span><small><small><sup>[[H1290]]</sup></small></small> &#8207;| bir.Ka.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will go  | <span class="ashebrew"><big>תֵּלַ֥כְנָה </big></span><small><small><sup>[[H1980L]]</sup></small></small> &#8207;| te.Lakh.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מָּֽיִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the pairs of hands  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3027G\|יָּדַ֖יִם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will drop  |**<big>&#8207;[[H7503\|תִּרְפֶּ֑ינָה]]&#8207; </big>**| tir.Pei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knees  |**<big>&#8207;[[H1290\|בִּרְכַּ֖יִם]]&#8207; </big>**| bir.Ka.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will go  |**<big>&#8207;[[H1980L\|תֵּלַ֥כְנָה]]&#8207; </big>**| te.Lakh.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.16|<< Ezekiel 7:16]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.18|Ezekiel 7:18 >>]]</td></tr></table>
 
 

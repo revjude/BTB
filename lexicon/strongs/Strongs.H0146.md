@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַדָּר‎</span></big> **ʼAddâr** <small>*(ad-dawr')*</small> ==**Addar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>intensive from <span class="ashebrew">‎אָדַר‎</span><sup><small>[[H0142]]</small></sup>; ample</small>
+**<big><span class="ashebrew">‎אַדָּר‎</span></big>** **ʼAddâr** <small>*(ad-dawr')*</small> ==**Addar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>intensive from **<big>[[H0142|‎אָדַר‎]]</big>**; ample</small>
 
 $\quad$ Addar.
 - § Addar or Adar = *"exceeding glorious"*

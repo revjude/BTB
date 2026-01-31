@@ -6,15 +6,15 @@ The calm words of the wise are heeded over the shouts of a ruler among fools.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.16|<< Ecclesiastes 9:16]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.18|Ecclesiastes 9:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] words of  | <span class="ashebrew"><big>דִּבְרֵ֣י </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| div.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise [people]  | <span class="ashebrew"><big>חֲכָמִ֔ים </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.kha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in quietness  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נַ֖חַת </big></span><small><small><sup>[[H5183A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Na.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] heard  | <span class="ashebrew"><big>נִשְׁמָעִ֑ים </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| nish.ma.'Im <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than [the] cry of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>זַּעֲקַ֥ת </big></span><small><small><sup>[[H2201]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> za.'a.Kat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a ruler  | <span class="ashebrew"><big>מוֹשֵׁ֖ל </big></span><small><small><sup>[[H4910]]</sup></small></small> &#8207;| mo.Shel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among \<the> fools  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כְּסִילִֽים </big></span><small><small><sup>[[H3684]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> ke.si.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֔ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in quietness  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5183A\|נַ֖חַת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Na.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] heard  |**<big>&#8207;[[H8085G\|נִשְׁמָעִ֑ים]]&#8207; </big>**| nish.ma.'Im<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than [the] cry of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2201\|זַּעֲקַ֥ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> za.'a.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ruler  |**<big>&#8207;[[H4910\|מוֹשֵׁ֖ל]]&#8207; </big>**| mo.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among \<the> fools  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3684\|כְּסִילִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ke.si.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.16|<< Ecclesiastes 9:16]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.18|Ecclesiastes 9:18 >>]]</td></tr></table>
 
 

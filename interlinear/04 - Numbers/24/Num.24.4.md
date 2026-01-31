@@ -6,19 +6,19 @@ the prophecy of one who hears the words of God, who sees a vision from the Almig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.3|<< Numbers 24:3]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.5|Numbers 24:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֕ם </big></span><small><small><sup>[[H5002]]</sup></small></small> &#8207;| ne.'Um <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] [one who] hears  | <span class="ashebrew"><big>שֹׁמֵ֖עַ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sho.Me.a' <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> [the] words of  | <span class="ashebrew"><big>אִמְרֵי </big></span><small><small><sup>[[H0561]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֑ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> vision of  | <span class="ashebrew"><big>מַחֲזֵ֤ה </big></span><small><small><sup>[[H4236]]</sup></small></small> &#8207;| ma.cha.Zeh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Almighty  | <span class="ashebrew"><big>שַׁדַּי֙ </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sees  | <span class="ashebrew"><big>יֶֽחֱזֶ֔ה </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| ye.che.Zeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] falls down  | <span class="ashebrew"><big>נֹפֵ֖ל </big></span><small><small><sup>[[H5307G]]</sup></small></small> &#8207;| no.Fel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [who] is uncovered of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גְל֥וּי </big></span><small><small><sup>[[H1540I]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ge.Lui <small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes  | <span class="ashebrew"><big>עֵינָֽיִם </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ei.Na.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֕ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] [one who] hears  |**<big>&#8207;[[H8085G\|שֹׁמֵ֖עַ]]&#8207; </big>**| sho.Me.a'<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> [the] words of  |**<big>&#8207;[[H0561\|אִמְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> vision of  |**<big>&#8207;[[H4236\|מַחֲזֵ֤ה]]&#8207; </big>**| ma.cha.Zeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Almighty  |**<big>&#8207;[[H7706\|שַׁדַּי֙]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sees  |**<big>&#8207;[[H2372\|יֶֽחֱזֶ֔ה]]&#8207; </big>**| ye.che.Zeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] falls down  |**<big>&#8207;[[H5307G\|נֹפֵ֖ל]]&#8207; </big>**| no.Fel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] is uncovered of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1540I\|גְל֥וּי]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.Lui<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes  |**<big>&#8207;[[H5869A\|עֵינָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.3|<< Numbers 24:3]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.5|Numbers 24:5 >>]]</td></tr></table>
 
 

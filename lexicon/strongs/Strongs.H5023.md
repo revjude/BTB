@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎נְבִזְבָּה‎</span></big> **nᵉbizbâh** <small>*(neb-iz-baw')*</small> ==**reward**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+**<big><span class="asaramaic">‎נְבִזְבָּה‎</span></big>** **nᵉbizbâh** <small>*(neb-iz-baw')*</small> ==**reward**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
 <small>(Aramaic) of uncertain derivation</small>
 
 $\quad$ reward.
@@ -6,4 +6,4 @@ $\quad$ reward.
 
 **1)** reward
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δωρεά</span><sup><small>[[G1431]]</small></sup>
+<small>See Greek: </small>**<big>[[G1431|δωρεά]]</big>**

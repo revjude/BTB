@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָצָץ‎</span></big> **châtsâts** <small>*(khaw-tsawts')*</small> ==**gravel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצָץ‎</span><sup><small>[[H2687]]</small></sup>;  also like <span class="ashebrew">‎חֵץ‎</span><sup><small>[[H2671]]</small></sup></small>
+**<big><span class="ashebrew">‎חָצָץ‎</span></big>** **châtsâts** <small>*(khaw-tsawts')*</small> ==**gravel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2687|‎חָצָץ‎]]</big>**;  also like **<big>[[H2671|‎חֵץ‎]]</big>**</small>
 
 $\quad$ arrow, gravel (stone).
 - properly, ***something cutting***
@@ -8,4 +8,4 @@ $\quad$ arrow, gravel (stone).
 
 **1)** gravel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ψῆφος</span><sup><small>[[G5586]]</small></sup>
+<small>See Greek: </small>**<big>[[G5586|ψῆφος]]</big>**

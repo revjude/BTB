@@ -7,31 +7,31 @@ And when he cometh, he shall smite the land of Egypt, [and deliver] such [as are
 He will come and strike down the land of Egypt, bringing death to those destined for death, captivity to those destined for captivity, and the sword to those destined for the sword.<small><sub>**MT:**</sub></small>
 [[Jer.43.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.10|<< Jeremiah 43:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.12|Jeremiah 43:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall enter, | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall strike | <big><span class="asgreek">πατάξει</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt; | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| death, | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| resettlement | <big><span class="asgreek">αποικισμόν</span></big> <sup><small><small>[[G6432]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| resettlement, | <big><span class="asgreek">αποικισμόν</span></big> <sup><small><small>[[G6432]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| broadsword. | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall enter, | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall strike | **<big>[[G3960\|πατάξει]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of Egypt; | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| death | **<big>[[G2288\|θάνατον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| death, | **<big>[[G2288\|θάνατον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| resettlement | **<big>[[G6432\|αποικισμόν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| resettlement, | **<big>[[G6432\|αποικισμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| broadsword. | **<big>[[G4501\|ρομφαίαν]]</big>** |
 [[Jer.43.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.10|<< Jeremiah 43:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.12|Jeremiah 43:12 >>]]</td></tr></table>
 
 

@@ -10,22 +10,22 @@ And Laban had two daughters: the name of the elder [was] Leah, and the name of t
 Now Laban had two daughters; the older was named Leah, and the younger was named Rachel.<small><sub>**MT:**</sub></small>
 [[Gen.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.15|<< Genesis 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.17|Genesis 29:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Laban | <big><span class="asgreek">Λάβαν</span></big> <sup><small><small>[[H3837b]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| daughters, | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| older -- | <big><span class="asgreek">μείζονι</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| Leah, | <big><span class="asgreek">Λεία</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger -- | <big><span class="asgreek">νεωτέρα</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| Rachel. | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
+| And \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Laban | **<big>[[H3837b\|Λάβαν]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| daughters, | **<big>[[G2364\|θυγατέρες]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|τη]]</big>** |
+| older -- | **<big>[[G3173\|μείζονι]]</big>** |
+| Leah, | **<big>[[H3812\|Λεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|τη]]</big>** |
+| younger -- | **<big>[[G3501\|νεωτέρα]]</big>** |
+| Rachel. | **<big>[[G4478\|Ραχήλ]]</big>** |
 [[Gen.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.15|<< Genesis 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.17|Genesis 29:17 >>]]</td></tr></table>
 
 

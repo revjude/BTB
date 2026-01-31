@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּלָק‎</span></big> **Bâlâq** <small>*(baw-lawk')*</small> ==**Balak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּלַק‎</span><sup><small>[[H1110]]</small></sup>; waster</small>
+**<big><span class="ashebrew">‎בָּלָק‎</span></big>** **Bâlâq** <small>*(baw-lawk')*</small> ==**Balak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1110|‎בָּלַק‎]]</big>**; waster</small>
 
 $\quad$ Balak.
 - § Balak = *"devastator"*
@@ -7,4 +7,4 @@ $\quad$ Balak.
 
 **1)** a king of Moab who hired Balaam to curse Israel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Βαλάκ</span><sup><small>[[G0904]]</small></sup>
+<small>See Greek: </small>**<big>[[G0904|Βαλάκ]]</big>**

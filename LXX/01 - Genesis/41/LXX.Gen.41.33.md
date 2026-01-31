@@ -7,21 +7,21 @@ Now therefore let Pharaoh look out a man discreet and wise, and set him over the
 Now, therefore, Pharaoh should look for a discerning and wise man and set him over the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Gen.41.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.32|<< Genesis 41:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.34|Genesis 41:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| look about | <big><span class="asgreek">σκέψαι</span></big> <sup><small><small>[[G9100]]</small></small></sup> |
-| \[for a\] man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| intelligent | <big><span class="asgreek">φρόνιμον</span></big> <sup><small><small>[[G5429]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| discerning, | <big><span class="asgreek">συνετόν</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| place | <big><span class="asgreek">κατάστησον</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt! | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| look about | **<big>[[G9100\|σκέψαι]]</big>** |
+| \[for a\] man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| intelligent | **<big>[[G5429\|φρόνιμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| discerning, | **<big>[[G4908\|συνετόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| place | **<big>[[G2525\|κατάστησον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt! | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Gen.41.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.32|<< Genesis 41:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.34|Genesis 41:34 >>]]</td></tr></table>
 
 

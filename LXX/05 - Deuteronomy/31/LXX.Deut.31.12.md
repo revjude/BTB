@@ -7,43 +7,43 @@ Gather the people together, men, and women, and children, and thy stranger that 
 Assemble the people—men, women, children, and the foreigners within your gates—so that they may listen and learn to fear the LORD your God and to follow carefully all the words of this law.<small><sub>**MT:**</sub></small>
 [[Deut.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.11|<< Deuteronomy 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.13|Deuteronomy 31:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Assemble | <big><span class="asgreek">εκκλησίασατε</span></big> <sup><small><small>[[G7102]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people! | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women, | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| progeny, | <big><span class="asgreek">έκγονα</span></big> <sup><small><small>[[G1549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner, | <big><span class="asgreek">προσήλυτον</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cities, | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should hear, | <big><span class="asgreek">ακούσωσι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should learn | <big><span class="asgreek">μάθωσι</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| to fear | <big><span class="asgreek">φοβείσθαι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall hearken | <big><span class="asgreek">ακούσονται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this law. | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Assemble | **<big>[[G7102\|εκκλησίασατε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people! | **<big>[[G2992\|λαόν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| women, | **<big>[[G1135\|γυναίκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| progeny, | **<big>[[G1549\|έκγονα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| foreigner, | **<big>[[G4339\|προσήλυτον]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your cities, | **<big>[[G4172\|πόλεσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should hear, | **<big>[[G0191\|ακούσωσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should learn | **<big>[[G3129\|μάθωσι]]</big>** |
+| to fear | **<big>[[G5399\|φοβείσθαι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God. | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall hearken | **<big>[[G0191\|ακούσονται]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this law. | **<big>[[G3551\|νόμου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[Deut.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.11|<< Deuteronomy 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.13|Deuteronomy 31:13 >>]]</td></tr></table>
 
 

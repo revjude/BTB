@@ -7,24 +7,24 @@ Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in th
 “This is what Sennacherib king of Assyria says: What is the basis of your confidence, that you remain in Jerusalem under siege?<small><sub>**MT:**</sub></small>
 [[2Chr.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.9|<< 2 Chronicles 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.11|2 Chronicles 32:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Sennacherib | <big><span class="asgreek">Σενναχηρίβ</span></big> <sup><small><small>[[H5576]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians, | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rely, | <big><span class="asgreek">πεποίθατε</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you settle | <big><span class="asgreek">καθήσεσθε</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stronghold | <big><span class="asgreek">περιοχή</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem? | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Sennacherib | **<big>[[H5576\|Σενναχηρίβ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians, | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| whom | **<big>[[G5100\|τίνι]]</big>** |
+| do you | **<big>[[G1473\|υμείς]]</big>** |
+| rely, | **<big>[[G3982\|πεποίθατε]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you settle | **<big>[[G2521\|καθήσεσθε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| stronghold | **<big>[[G4042\|περιοχή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem? | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[2Chr.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.9|<< 2 Chronicles 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.11|2 Chronicles 32:11 >>]]</td></tr></table>
 
 

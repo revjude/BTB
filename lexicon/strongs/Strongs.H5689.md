@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֲגַב‎</span></big> **ʻăgab** <small>*(aw-gab')*</small> ==**to lust**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עֲגַב‎</span></big>** **ʻăgab** <small>*(aw-gab')*</small> ==**to lust**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ dote, lover.
@@ -8,4 +8,4 @@ $\quad$ dote, lover.
 $\quad$ **1a)** lust (participle)
 $\quad$ **1b)** paramours (participle as subst)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup>
+<small>See Greek: </small>**<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G0025|ἀγαπάω]]</big>**

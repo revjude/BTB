@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּזָב‎</span></big> **kâzâb** <small>*(kaw-zawb')*</small> ==**lie**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּזַב‎</span><sup><small>[[H3576]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּזָב‎</span></big>** **kâzâb** <small>*(kaw-zawb')*</small> ==**lie**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3576|‎כָּזַב‎]]</big>**</small>
 
 $\quad$ deceitful, false, leasing, + liar, lie, lying.
 - ***falsehood***
@@ -7,4 +7,4 @@ $\quad$ deceitful, false, leasing, + liar, lie, lying.
 
 **1)** a lie, untruth, falsehood, deceptive thing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδίκως</span><sup><small>[[G0095]]</small></sup> · <span class="asgreek">μάταιος</span><sup><small>[[G3152]]</small></sup> · <span class="asgreek">ψευδής</span><sup><small>[[G5571]]</small></sup> · <span class="asgreek">ψεῦδος</span><sup><small>[[G5579]]</small></sup> · <span class="asgreek">ψεύστης</span><sup><small>[[G5583]]</small></sup>
+<small>See Greek: </small>**<big>[[G0095|ἀδίκως]]</big>** · **<big>[[G3152|μάταιος]]</big>** · **<big>[[G5571|ψευδής]]</big>** · **<big>[[G5579|ψεῦδος]]</big>** · **<big>[[G5583|ψεύστης]]</big>**

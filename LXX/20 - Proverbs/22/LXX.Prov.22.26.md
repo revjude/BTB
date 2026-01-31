@@ -7,15 +7,15 @@ Be not thou [one] of them that strike hands, [or] of them that are sureties for 
 Do not be one who gives pledges, who puts up security for debts.<small><sub>**MT:**</sub></small>
 [[Prov.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.25|<< Proverbs 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.27|Proverbs 22:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| give | <big><span class="asgreek">δίδου</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| yourself | <big><span class="asgreek">σεαυτόν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| surety! | <big><span class="asgreek">εγγυήν</span></big> <sup><small><small>[[G7000]]</small></small></sup> |
-| shaming | <big><span class="asgreek">αισχυνόμενος</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| \[the\] face, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| give | **<big>[[G1325\|δίδου]]</big>** |
+| yourself | **<big>[[G4572\|σεαυτόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| surety! | **<big>[[G7000\|εγγυήν]]</big>** |
+| shaming | **<big>[[G0153\|αισχυνόμενος]]</big>** |
+| \[the\] face, | **<big>[[G4383\|πρόσωπον]]</big>** |
 [[Prov.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.25|<< Proverbs 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.27|Proverbs 22:27 >>]]</td></tr></table>
 
 

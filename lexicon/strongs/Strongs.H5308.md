@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְפַל‎</span></big> **nᵉphal** <small>*(nef-al')*</small> ==**to fall**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נָפַל‎</span><sup><small>[[H5307]]</small></sup></small>
+**<big><span class="asaramaic">‎נְפַל‎</span></big>** **nᵉphal** <small>*(nef-al')*</small> ==**to fall**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5307|‎נָפַל‎]]</big>**</small>
 
 $\quad$ fall (down), have occasion.
 - {***to fall***, in a great variety of applications (intransitive or causative, literal or figurative)}
@@ -9,4 +9,4 @@ $\quad$ **1a)** (P'al)
 $\quad$ $\quad$ **1a1)** to fall
 $\quad$ $\quad$ **1a2)** to fall down
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκτινάσσω</span><sup><small>[[G1621]]</small></sup> · <span class="asgreek">φαίνω</span><sup><small>[[G5316]]</small></sup>
+<small>See Greek: </small>**<big>[[G1621|ἐκτινάσσω]]</big>** · **<big>[[G5316|φαίνω]]</big>**

@@ -10,21 +10,21 @@ All day long I have held out My hands to an obstinate people who walk in the wro
 > $\quad$ referenced by: [[Rom.10.21|Rom 10:21]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I spread out  | <span class="ashebrew"><big>פֵּרַ֧שְׂתִּי </big></span><small><small><sup>[[H6566]]</sup></small></small> &#8207;| pe.Ras.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands my  | <span class="ashebrew"><big>יָדַ֛ </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ya.Da <small><sup>[[HNcbdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּ֖וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>עַ֣ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rebellious  | <span class="ashebrew"><big>סוֹרֵ֑ר </big></span><small><small><sup>[[H5637]]</sup></small></small> &#8207;| so.Rer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who walk  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הֹלְכִים֙ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ho.le.Khim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the way  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> De.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good  | <span class="ashebrew"><big>ט֔וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחַ֖ר </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.Char <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own thoughts their  | <span class="ashebrew"><big>מַחְשְׁבֹתֵי </big></span><small><small><sup>[[H4284]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mach.she.vo.tei. <small><sup>[[HNcfpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I spread out  |**<big>&#8207;[[H6566\|פֵּרַ֧שְׂתִּי]]&#8207; </big>**| pe.Ras.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands my  |**<big>&#8207;[[H3027G\|יָדַ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ya.Da<small><sup>[[HNcbdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H5971A\|עַ֣ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rebellious  |**<big>&#8207;[[H5637\|סוֹרֵ֑ר]]&#8207; </big>**| so.Rer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who walk  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1980I\|הֹלְכִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the way  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  |**<big>&#8207;[[H2896A\|ט֔וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחַ֖ר]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own thoughts their  |**<big>&#8207;[[H4284\|מַחְשְׁבֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mach.she.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.1|<< Isaiah 65:1]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.3|Isaiah 65:3 >>]]</td></tr></table>
 
 

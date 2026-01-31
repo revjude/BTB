@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֹׁמרֹנִי‎</span></big> **Shômrônîy** <small>*(sho-mer-o-nee')*</small> ==**Samaritan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎שֹׁמְרוֹן‎</span><sup><small>[[H8111]]</small></sup></small>
+**<big><span class="ashebrew">‎שֹׁמרֹנִי‎</span></big>** **Shômrônîy** <small>*(sho-mer-o-nee')*</small> ==**Samaritan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>patrial from **<big>[[H8111|‎שֹׁמְרוֹן‎]]</big>**</small>
 
 $\quad$ Samaritans.
 - § Samaritans = *"of Samaria"*

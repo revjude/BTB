@@ -6,16 +6,16 @@ Do not crave his delicacies, for that food is deceptive.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.2|<< Proverbs 23:2]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.4|Proverbs 23:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you crave  [^1] | <span class="ashebrew"><big>תִּ֭תְאָיו </big></span><small><small><sup>[[H0183]]</sup></small></small> &#8207;[^2] | tit.'o <small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| for dainties his  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַטְעַמּוֹתָ֑י </big></span><small><small><sup>[[H4303]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mat.'a.mo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ה֗וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] food of  | <span class="ashebrew"><big>לֶ֣חֶם </big></span><small><small><sup>[[H3899G]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lies  | <span class="ashebrew"><big>כְּזָבִֽים </big></span><small><small><sup>[[H3577]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.za.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you crave  [^1]|**<big>&#8207;[[H0183\|תִּ֭תְאָיו]]&#8207; </big>**[^2] | tit.'o<small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| for dainties his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4303\|מַטְעַמּוֹתָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mat.'a.mo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] food of  |**<big>&#8207;[[H3899G\|לֶ֣חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lies  |**<big>&#8207;[[H3577\|כְּזָבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.za.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.2|<< Proverbs 23:2]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.4|Proverbs 23:4 >>]]</td></tr></table>
 
-[^1]: ==K==: **you mark out ** | <small><sup>[[H8376]]</sup></small> <span class="ashebrew"><big>תְּתָאוּ</big></span>  | tit.'o<small><sup>[[HVpj2mp]]</sup></small> 
+[^1]: ==K==: you mark out  | **<big>[[H8376|תְּתָאוּ]]</big> ** | tit.'o<small><sup>[[HVpj2mp]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>תִּ֭תְאָו</big></span>**
 

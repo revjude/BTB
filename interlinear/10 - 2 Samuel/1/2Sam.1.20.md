@@ -6,23 +6,23 @@ Tell it not in Gath; proclaim it not in the streets of Ashkelon, lest the daught
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.19|<< 2 Samuel 1:19]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.21|2 Samuel 1:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you tell  | <span class="ashebrew"><big>תַּגִּ֣ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ta.Gi.du <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Gath  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גַ֔ת </big></span><small><small><sup>[[H1661]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Gat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַֽל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you bear news  | <span class="ashebrew"><big>תְּבַשְּׂר֖וּ </big></span><small><small><sup>[[H1319]]</sup></small></small> &#8207;| te.va.se.Ru <small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] streets of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חוּצֹ֣ת </big></span><small><small><sup>[[H2351]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> chu.Tzot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ashkelon  | <span class="ashebrew"><big>אַשְׁקְל֑וֹן </big></span><small><small><sup>[[H0831]]</sup></small></small> &#8207;| 'ash.ke.Lon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they should rejoice  | <span class="ashebrew"><big>תִּשְׂמַ֙חְנָה֙ </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| tis.Mach.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughters of  | <span class="ashebrew"><big>בְּנ֣וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| be.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֔ים </big></span><small><small><sup>[[H6430G]]</sup></small></small> &#8207;| pe.lish.Tim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּֽן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they should exult  | <span class="ashebrew"><big>תַּעֲלֹ֖זְנָה </big></span><small><small><sup>[[H5937]]</sup></small></small> &#8207;| ta.'a.Lo.ze.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughters of  | <span class="ashebrew"><big>בְּנ֥וֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| be.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the uncircumcised  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֲרֵלִֽים </big></span><small><small><sup>[[H6189]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.re.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you tell  |**<big>&#8207;[[H5046\|תַּגִּ֣ידוּ]]&#8207; </big>**| ta.Gi.du<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Gath  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1661\|גַ֔ת]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Gat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you bear news  |**<big>&#8207;[[H1319\|תְּבַשְּׂר֖וּ]]&#8207; </big>**| te.va.se.Ru<small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] streets of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2351\|חוּצֹ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.Tzot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ashkelon  |**<big>&#8207;[[H0831\|אַשְׁקְל֑וֹן]]&#8207; </big>**| 'ash.ke.Lon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they should rejoice  |**<big>&#8207;[[H8055\|תִּשְׂמַ֙חְנָה֙]]&#8207; </big>**| tis.Mach.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  |**<big>&#8207;[[H1323G\|בְּנ֣וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּ֔ים]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they should exult  |**<big>&#8207;[[H5937\|תַּעֲלֹ֖זְנָה]]&#8207; </big>**| ta.'a.Lo.ze.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  |**<big>&#8207;[[H1323G\|בְּנ֥וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the uncircumcised  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6189\|עֲרֵלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.re.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.19|<< 2 Samuel 1:19]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.21|2 Samuel 1:21 >>]]</td></tr></table>
 
 

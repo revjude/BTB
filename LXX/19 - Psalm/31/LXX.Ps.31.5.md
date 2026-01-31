@@ -11,20 +11,20 @@ Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth.
 > $\quad$ referenced by: [[Luke.23.46|Luke 23:46]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| your hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall place | <big><span class="asgreek">παραθήσομαι</span></big> <sup><small><small>[[G3908]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spirit. | <big><span class="asgreek">πνεύμά</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You ransomed | <big><span class="asgreek">ελυτρώσω</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of truth. | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| Into | **<big>[[G1519\|εις]]</big>** |
+| your hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I shall place | **<big>[[G3908\|παραθήσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my spirit. | **<big>[[G4151\|πνεύμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You ransomed | **<big>[[G3084\|ελυτρώσω]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of truth. | **<big>[[G0225\|αληθείας]]</big>** |
 [[Ps.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.4|<< Psalm 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.6|Psalm 31:6 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Naaman</span>, a descendant of Benjamin, was one of the sons of Ehud mentioned in the genealogy of 1 Chronicles.
 - A man from the tribe of Benjamin living before Israel's Monarchy, only mentioned at [[1Chr.8.7|1Ch.8.7]]; 
-- only referred to as Naaman<[[H5283J]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Ehud<[[H0164G]]>; 
-- a brother of Ahijah<[[H0281K]]>, Gera<[[H1617J]]>, Uzza<[[H5798H]]> and Ahihud<[[H0284]]>.
+- only referred to as Naaman **<big>[[H5283|נַעֲמָן]]</big>**; 
+-  son of Ehud **<big>[[H0164|אֵהוּד]]</big>**; 
+- a brother of Ahijah **<big>[[H0281|אֲחִיָּה]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Uzza **<big>[[H5798|עֻזָּא]]</big>** and Ahihud **<big>[[H0284|אֲחִיחֻד]]</big>**.
 
 Naaman is mentioned briefly in [[1Chr.8.7|1 Chronicles 8:7]] as one of the sons of Ehud, a descendant of Benjamin. This reference appears in a genealogical record that traces the lineage of the tribe of Benjamin, providing insight into the family lines within the tribe. 
 
@@ -18,8 +18,8 @@ The inclusion of Naaman in this genealogical record demonstrates the importance 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naaman | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5283J) <small>*Hebrew*</small> | 1x | [1Ch.8.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=1Ch.8.7) |
-All Strong's for **Naaman**: \[[[H5283J]]\]
+| Naaman | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5283J) | 1x | [1Ch.8.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naaman\*\|reference=1Ch.8.7) |
+All entries for **Naaman**:  **<big>[[H5283|נַעֲמָן]]</big>**
 #### Related Profiles:
 - **[Ehud](H0164G)** (father)
 - **[Ahijah](H0281K)** (sibling)

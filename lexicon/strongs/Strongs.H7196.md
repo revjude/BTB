@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִשֻּׁר‎</span></big> **qishshur** <small>*(kish-shoor')*</small> ==**sash**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎קָשַׁר‎</span><sup><small>[[H7194]]</small></sup></small>
+**<big><span class="ashebrew">‎קִשֻּׁר‎</span></big>** **qishshur** <small>*(kish-shoor')*</small> ==**sash**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7194|‎קָשַׁר‎]]</big>**</small>
 
 $\quad$ attire, headband.
 - ***an*** (ornamental) ***girdle*** (for women)

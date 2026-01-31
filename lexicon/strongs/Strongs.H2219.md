@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָרָה‎</span></big> **zârâh** <small>*(zaw-raw')*</small> ==**to scatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎זוּר‎</span><sup><small>[[H2114]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זָרָה‎</span></big>** **zârâh** <small>*(zaw-raw')*</small> ==**to scatter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2114|‎זוּר‎]]</big>**)</small>
 
 $\quad$ cast away, compass, disperse, fan, scatter (away), spread, strew, winnow.
 - ***to toss about***
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1c1)** to scatter, disperse (intensive of Qal)
 $\quad$ $\quad$ **1c2)** to winnow, sift
 $\quad$ **1d)** (Pual) to be scattered, be spread out
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διασκορπίζω</span><sup><small>[[G1287]]</small></sup> · <span class="asgreek">διασπείρω</span><sup><small>[[G1289]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">λικμάω</span><sup><small>[[G3039]]</small></sup> · <span class="asgreek">πόρνη</span><sup><small>[[G4204]]</small></sup> · <span class="asgreek">σκορπίζω</span><sup><small>[[G4650]]</small></sup> · <span class="asgreek">σπείρω</span><sup><small>[[G4687]]</small></sup>
+<small>See Greek: </small>**<big>[[G1287|διασκορπίζω]]</big>** · **<big>[[G1289|διασπείρω]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G3039|λικμάω]]</big>** · **<big>[[G4204|πόρνη]]</big>** · **<big>[[G4650|σκορπίζω]]</big>** · **<big>[[G4687|σπείρω]]</big>**

@@ -7,52 +7,52 @@ Then shall ye know that I [am] the LORD, when their slain [men] shall be among t
 Then you will know that I am the LORD, when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, and under every green tree and leafy oak—the places where they offered fragrant incense to all their idols.<small><sub>**MT:**</sub></small>
 [[Ezek.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.12|<< Ezekiel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.14|Ezekiel 6:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know | <big><span class="asgreek">γνώσεσθε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your slain | <big><span class="asgreek">τραυματίας</span></big> <sup><small><small>[[G9470]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your idols, | <big><span class="asgreek">ειδώλων</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your altars, | <big><span class="asgreek">θυσιαστηρίων</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hill | <big><span class="asgreek">βουνόν</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] tops | <big><span class="asgreek">κορυφαίς</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains, | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| tree | <big><span class="asgreek">δένδρου</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| \[every\] shady | <big><span class="asgreek">συσκίου</span></big> <sup><small><small>[[G9354]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| oak | <big><span class="asgreek">δρυός</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
-| bushy | <big><span class="asgreek">δασείας</span></big> <sup><small><small>[[G6784]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they offered | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| a scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their idols. | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall know | **<big>[[G1097\|γνώσεσθε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| being | **<big>[[G1510\|είναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your slain | **<big>[[G9470\|τραυματίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your idols, | **<big>[[G1497\|ειδώλων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your altars, | **<big>[[G2379\|θυσιαστηρίων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| hill | **<big>[[G1015\|βουνόν]]</big>** |
+| high | **<big>[[G5308\|υψηλόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \[the\] tops | **<big>[[G8073\|κορυφαίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| mountains, | **<big>[[G3735\|ορέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| tree | **<big>[[G1186\|δένδρου]]</big>** |
+| \[every\] shady | **<big>[[G9354\|συσκίου]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| every | **<big>[[G3956\|πάσης]]</big>** |
+| oak | **<big>[[G6972\|δρυός]]</big>** |
+| bushy | **<big>[[G6784\|δασείας]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| they offered | **<big>[[G1325\|έδωκαν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| a scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of pleasant aroma | **<big>[[G2175\|ευωδίας]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their idols. | **<big>[[G1497\|ειδώλοις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.12|<< Ezekiel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.14|Ezekiel 6:14 >>]]</td></tr></table>
 
 

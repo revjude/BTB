@@ -10,15 +10,15 @@ My breath is corrupt, my days are extinct, the graves [are ready] for me.
 “My spirit is broken; my days are extinguished; the grave awaits me.<small><sub>**MT:**</sub></small>
 [[Job.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.22|<< Job 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.2|Job 17:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I am destroyed, | <big><span class="asgreek">ολέκομαι</span></big> <sup><small><small>[[G8481]]</small></small></sup> |
-| by a wind | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| being borne | <big><span class="asgreek">φερόμενος</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| and I beseech | <big><span class="asgreek">δέομαι</span></big> <sup><small><small>[[G1189]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| a burial, | <big><span class="asgreek">ταφής</span></big> <sup><small><small>[[G5027]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| attain it not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">τυγχάνω</span></big> <sup><small><small>[[G5177]]</small></small></sup> |
+| I am destroyed, | **<big>[[G8481\|ολέκομαι]]</big>** |
+| by a wind | **<big>[[G4151\|πνεύματι]]</big>** |
+| being borne | **<big>[[G5342\|φερόμενος]]</big>** |
+| and I beseech | **<big>[[G1189\|δέομαι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| a burial, | **<big>[[G5027\|ταφής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| attain it not. | **<big>[[G3756\|ου]]</big>** **<big>[[G5177\|τυγχάνω]]</big>** |
 [[Job.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.22|<< Job 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.2|Job 17:2 >>]]</td></tr></table>
 
 

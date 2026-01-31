@@ -1,4 +1,3 @@
-<span class="ashebrew">‎קַדְמֹנִי‎</span> <small>***(qad.mo.ni)***</small> ==**eastern: older**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-meaning of: <small>[[H6931G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H6931G|קַדְמוֹנִי]]</big>**</small> 
 
 - : older

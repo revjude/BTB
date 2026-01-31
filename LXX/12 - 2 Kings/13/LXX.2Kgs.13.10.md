@@ -10,28 +10,28 @@ In the thirty and seventh year of Joash king of Judah began Jehoash the son of J
 In the thirty-seventh year of the reign of Joash over Judah, Jehoash son of Jehoahaz became king of Israel in Samaria, and he reigned sixteen years.<small><sub>**MT:**</sub></small>
 [[2Kgs.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.9|<< 2 Kings 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.11|2 Kings 13:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thirtieth | <big><span class="asgreek">τριακοστώ</span></big> <sup><small><small>[[G9482]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoahaz | <big><span class="asgreek">Ιωάχαζ</span></big> <sup><small><small>[[H3059]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| sixteen | <big><span class="asgreek">εκκαίδεκα</span></big> <sup><small><small>[[G7097]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| thirtieth | **<big>[[G9482\|τριακοστώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμω]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| Joash | **<big>[[H3135\|Ιωάς]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jehoahaz | **<big>[[H3059\|Ιωάχαζ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμαρεία]]</big>** |
+| sixteen | **<big>[[G7097\|εκκαίδεκα]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[2Kgs.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.9|<< 2 Kings 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.11|2 Kings 13:11 >>]]</td></tr></table>
 
 

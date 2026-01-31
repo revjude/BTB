@@ -1,8 +1,8 @@
 <small>*Ramath-lehi • The place where Samson killed a thousand Philistines*</small>
 
 <span class='tipnrhighlight'>Ramath-lehi</span>, meaning "hill of the jawbone," was the place where Samson killed a thousand Philistines with the jawbone of a donkey.
-- A location near Beth-shemesh<[[H1053G]]> only mentioned at [[Judg.15.17|Jdg.15.17]]; 
-- only referred to as Ramath-lehi<[[H7437]]> \(<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- A location near Beth-shemesh **<big>[[H1053|בֵּית שֶׁמֶשׁ]]</big>** only mentioned at [[Judg.15.17|Jdg.15.17]]; 
+- only referred to as Ramath-lehi **<big>[[H7437|רָמַת לֶחִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.75274835811488,34.97660913147738&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ramath-lehi is mentioned in the Bible in connection with the story of Samson, on
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ramath-lehi (NIV= Ramath Lehi) | [<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H7437) <small>*Hebrew*</small> | 1x | [Jdg.15.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramath\*\|reference=Jdg.15.17) |
-All Strong's for **Ramath-lehi**: \[[[H7437]]\]
+| Ramath-lehi (NIV= Ramath Lehi) | [<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H7437) | 1x | [Jdg.15.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramath\*\|reference=Jdg.15.17) |
+All entries for **Ramath-lehi**:  **<big>[[H7437|רָמַת לֶחִי]]</big>**

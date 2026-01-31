@@ -1,7 +1,5 @@
-<span class="ashebrew">‎רְחַבְעָם‎</span> <small>***(re.chav.am)***</small> ==**Rehoboam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A king of the tribe of Judah living at the time of United Monarchyand Divided Monarchy, first mentioned at [[1Kgs.11.43|1Ki.11.43]]
--  son of: Solomon ([[H8010]]) and Naamah ([[H5279A]])
--  brother of: Taphath ([[H2955]]) and Basemath ([[H1315]]); married to Maacah ([[H4601K]]), Mahalath ([[H4258H]]) and Abihail ([[H0032J]])
--  father of: Abijah ([[H0029I]]), Jeush ([[H3266K]]), Shemariah ([[H8114H]]), Zaham ([[H2093]]), Attai ([[H6262I]]), Ziza ([[H2124H]]) and Shelomith ([[H8019]])
-- Also named: <i>Rhoboam</i> (<span class='asgreek'>Ῥοβοάμ</span> "Rehoboam" [[G4497]])
-
+-  son of: Solomon (**<big>[[H8010|שְׁלֹמֹה]]</big>**) and Naamah (**<big>[[H5279A|נַעֲמָה]]</big>**)
+-  brother of: Taphath (**<big>[[H2955|טָפַת]]</big>**) and Basemath (**<big>[[H1315|בׇּשְׂמַת]]</big>**); married to Maacah (**<big>[[H4601K|מַעֲכָה]]</big>**), Mahalath (**<big>[[H4258H|מַחֲלַת]]</big>**) and Abihail (**<big>[[H0032J|אֲבִיהַיִל]]</big>**)
+-  father of: Abijah (**<big>[[H0029I|אֲבִיָּה]]</big>**), Jeush (**<big>[[H3266K|יְעוּשׁ]]</big>**), Shemariah (**<big>[[H8114H|שְׁמַרְיָה]]</big>**), Zaham (**<big>[[H2093|זַהַם]]</big>**), Attai (**<big>[[H6262I|עַתַּי]]</big>**), Ziza (**<big>[[H2124H|זִיזָא]]</big>**) and Shelomith (**<big>[[H8019|שְׁלֹמִית]]</big>**)
+- Also named: <i>Rhoboam</i> (<span class='asgreek'>Ῥοβοάμ</span> "Rehoboam" **<big>[[G4497|Ῥοβοάμ]]</big>**)

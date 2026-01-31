@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁחַר‎</span></big> **shâchar** <small>*(shaw-khar')*</small> ==**to seek**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁחַר‎</span></big>** **shâchar** <small>*(shaw-khar')*</small> ==**to seek**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (do something) betimes, enquire early, rise (seek) betimes, seek diligently) early, in the morning).
@@ -9,4 +9,4 @@ $\quad$ (do something) betimes, enquire early, rise (seek) betimes, seek diligen
 $\quad$ **1a)** (Qal) to look for diligently, seek
 $\quad$ **1b)** (Piel) to seek, seek early
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιμελῶς</span><sup><small>[[G1960]]</small></sup> · <span class="asgreek">ζητέω</span><sup><small>[[G2212]]</small></sup> · <span class="asgreek">ὀρθρίζω</span><sup><small>[[G3719]]</small></sup> · <span class="asgreek">πρώϊμος</span><sup><small>[[G4406]]</small></sup>
+<small>See Greek: </small>**<big>[[G1960|ἐπιμελῶς]]</big>** · **<big>[[G2212|ζητέω]]</big>** · **<big>[[G3719|ὀρθρίζω]]</big>** · **<big>[[G4406|πρώϊμος]]</big>**

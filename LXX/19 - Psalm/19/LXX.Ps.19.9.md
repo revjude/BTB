@@ -7,24 +7,24 @@ The fear of the LORD [is] clean, enduring for ever: the judgments of the LORD [a
 The fear of the LORD is pure, enduring forever; the judgments of the LORD are true, being altogether righteous.<small><sub>**MT:**</sub></small>
 [[Ps.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.8|<< Psalm 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.10|Psalm 19:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] pure, | <big><span class="asgreek">αγνός</span></big> <sup><small><small>[[G0053]]</small></small></sup> |
-| abiding | <big><span class="asgreek">διαμένων</span></big> <sup><small><small>[[G1265]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of \[the\] eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[are\] true, | <big><span class="asgreek">αληθινά</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| doing justice | <big><span class="asgreek">δεδικαιωμένα</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same; | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| fear | **<big>[[G5401\|φόβος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[is\] pure, | **<big>[[G0053\|αγνός]]</big>** |
+| abiding | **<big>[[G1265\|διαμένων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| judgments | **<big>[[G2917\|κρίματα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \[are\] true, | **<big>[[G0228\|αληθινά]]</big>** |
+| doing justice | **<big>[[G1344\|δεδικαιωμένα]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same; | **<big>[[G1473\|αυτό]]</big>** |
 [[Ps.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.8|<< Psalm 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.10|Psalm 19:10 >>]]</td></tr></table>
 
 

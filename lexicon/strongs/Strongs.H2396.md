@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎חִזְקִיָּה‎</span></big> **Chizqîyâh** <small>*(khiz-kee-yaw')*</small> ==**Hezekiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חִזְקִיָּהוּ</span> **Chizqîyâhûw** <small>*(khiz-kee-yaw'-hoo)*</small>; also <span class="ashebrew">יְחִזְקִיָּה</span> **Yᵉchizqîyâh** <small>*(yekh-iz-kee-yaw')*</small>; or <span class="ashebrew">יְחִזְקִיָּהוּ</span> **Yᵉchizqîyâhûw** <small>*(yekh-iz-kee-yaw'-hoo)*</small>; from <span class="ashebrew">‎חָזַק‎</span><sup><small>[[H2388]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; strengthened of Jah</small>
+**<big><span class="ashebrew">‎חִזְקִיָּה‎</span></big>** **Chizqîyâh** <small>*(khiz-kee-yaw')*</small> ==**Hezekiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חִזְקִיָּהוּ</span></big>** **Chizqîyâhûw** <small>*(khiz-kee-yaw'-hoo)*</small>; also **<big><span class="ashebrew">יְחִזְקִיָּה</span></big>** **Yᵉchizqîyâh** <small>*(yekh-iz-kee-yaw')*</small>; or **<big><span class="ashebrew">יְחִזְקִיָּהוּ</span></big>** **Yᵉchizqîyâhûw** <small>*(yekh-iz-kee-yaw'-hoo)*</small>; from **<big>[[H2388|‎חָזַק‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; strengthened of Jah</small>
 
-$\quad$ Hezekiah, Hizkiah, Hizkijah. Compare <span class="ashebrew">‎יְחִזְקִיָּה‎</span><sup><small>[[H3169]]</small></sup>.
+$\quad$ Hezekiah, Hizkiah, Hizkijah. Compare **<big>[[H3169|‎יְחִזְקִיָּה‎]]</big>**.
 - § Hezekiah or Hizkiah or Hizkijah = *"Jehovah is my strength"*
 - ***Chizkijah***, a king of Judah, also the name of two other Israelites
 
@@ -10,4 +10,4 @@ $\quad$ Hezekiah, Hizkiah, Hizkijah. Compare <span class="ashebrew">‎יְחִ�
 **3)** son of Neariah, a descendant of David
 **4)** head of a family of returning exiles in the time of Nehemiah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐζεκίας</span><sup><small>[[G1478]]</small></sup>
+<small>See Greek: </small>**<big>[[G1478|Ἐζεκίας]]</big>**

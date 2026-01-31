@@ -7,24 +7,24 @@ Do not prostitute thy daughter, to cause her to be a whore; lest the land fall t
 You must not defile your daughter by making her a prostitute, or the land will be prostituted and filled with depravity.<small><sub>**MT:**</sub></small>
 [[Lev.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.28|<< Leviticus 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.30|Leviticus 19:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| profane | <big><span class="asgreek">βεβηλώσεις</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to fornicate | <big><span class="asgreek">εκπορνεύσαι</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fornicate | <big><span class="asgreek">εκπορνεύσει</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be filled | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of lawlessness. | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| profane | **<big>[[G0953\|βεβηλώσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your daughter | **<big>[[G2364\|θυγατέρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to fornicate | **<big>[[G1608\|εκπορνεύσαι]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| fornicate | **<big>[[G1608\|εκπορνεύσει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be filled | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of lawlessness. | **<big>[[G0458\|ανομίας]]</big>** |
 [[Lev.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.28|<< Leviticus 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.30|Leviticus 19:30 >>]]</td></tr></table>
 
 

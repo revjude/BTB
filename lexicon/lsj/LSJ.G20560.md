@@ -1,4 +1,4 @@
-form of: <small>[[G2600]]</small> 
+form of: <small>**<big>[[G2600|κατάβασις]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==καταβάσιος==</span>-<span class='asgreek'>βάσιος</span></b> [<span class='asgreek'>βᾰ</span>], <span class='asgreek'>ον</span>, 

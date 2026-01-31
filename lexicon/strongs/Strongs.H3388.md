@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְרוּשָׁא‎</span></big> **Yᵉrûwshâʼ** <small>*(yer-oo-shaw')*</small> ==**Jerusha**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>or <span class="ashebrew">יְרוּשָׁה</span> **Yᵉrûwshâh** <small>*(yeroo-shaw')*</small> feminine passive participle of <span class="ashebrew">‎יָרַשׁ‎</span><sup><small>[[H3423]]</small></sup>; possessed</small>
+**<big><span class="ashebrew">‎יְרוּשָׁא‎</span></big>** **Yᵉrûwshâʼ** <small>*(yer-oo-shaw')*</small> ==**Jerusha**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יְרוּשָׁה</span></big>** **Yᵉrûwshâh** <small>*(yeroo-shaw')*</small> feminine passive participle of **<big>[[H3423|‎יָרַשׁ‎]]</big>**; possessed</small>
 
 $\quad$ Jerusha, Jerushah.
 - § Jerushah or Jerusha = *"dispossessor"*

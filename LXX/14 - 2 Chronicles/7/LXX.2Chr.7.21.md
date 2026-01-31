@@ -7,28 +7,28 @@ And this house, which is high, shall be an astonishment to every one that passet
 And when this temple has become a heap of rubble, all who pass by it will be appalled and say, ‘Why has the LORD done such a thing to this land and to this temple?’<small><sub>**MT:**</sub></small>
 [[2Chr.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.20|<< 2 Chronicles 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.22|2 Chronicles 7:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house, | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| exalted -- | <big><span class="asgreek">υψηλός</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| everyone | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| traveling by | <big><span class="asgreek">διαπορεύομενος</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be amazed, | <big><span class="asgreek">εκστήσεται</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say, | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| For why | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did \[the\] <span class="smallcaps">lord</span> do \[thus\]\<the> | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">ταύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house? | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| this house, | **<big>[[G3624\|οίκος]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| exalted -- | **<big>[[G5308\|υψηλός]]</big>** |
+| everyone | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| traveling by | **<big>[[G1279\|διαπορεύομενος]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| shall be amazed, | **<big>[[G1839\|εκστήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say, | **<big>[[G2046\|ερεί]]</big>** |
+| For why | **<big>[[G1752\|ένεκεν]]</big>** **<big>[[G5100\|τίνος]]</big>** |
+| did \[the\] <span class="smallcaps">lord</span> do \[thus\]\<obj.> | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| this land, | **<big>[[G1093\|γη]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this house? | **<big>[[G3624\|οίκω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
 [[2Chr.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.20|<< 2 Chronicles 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.22|2 Chronicles 7:22 >>]]</td></tr></table>
 
 

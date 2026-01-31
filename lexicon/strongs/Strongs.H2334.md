@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַוּוֹת יָעִיר‎</span></big> **Chavvôwth Yâʻîyr** <small>*(khav-vothe' yaw-eer')*</small> ==**Havvoth-jair**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the plural of <span class="ashebrew">‎חַוָּה‎</span><sup><small>[[H2333]]</small></sup> and a modification of <span class="ashebrew">‎יָעוּר‎</span><sup><small>[[H3265]]</small></sup></small>
+**<big><span class="ashebrew">‎חַוּוֹת יָעִיר‎</span></big>** **Chavvôwth Yâʻîyr** <small>*(khav-vothe' yaw-eer')*</small> ==**Havvoth-jair**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the plural of **<big>[[H2333|‎חַוָּה‎]]</big>** and a modification of **<big>[[H3265|‎יָעוּר‎]]</big>**</small>
 
 $\quad$ (Bashan-) Havoth-jair.
 - § Havoth-jair = *"villages of Jair"*

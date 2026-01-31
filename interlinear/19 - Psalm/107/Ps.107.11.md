@@ -6,15 +6,15 @@ because they rebelled against the words of God and despised the counsel of the M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.10|<< Psalms 107:10]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.12|Psalms 107:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had rebelled against  | <span class="ashebrew"><big>הִמְר֥וּ </big></span><small><small><sup>[[H4784]]</sup></small></small> &#8207;| him.Ru <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] words of  | <span class="ashebrew"><big>אִמְרֵי </big></span><small><small><sup>[[H0561]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֑ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] counsel of  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲצַ֖ת </big></span><small><small><sup>[[H6098]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Tzat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Most High  | <span class="ashebrew"><big>עֶלְי֣וֹן </big></span><small><small><sup>[[H5945B]]</sup></small></small> &#8207;| el.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they had spurned  | <span class="ashebrew"><big>נָאָֽצוּ </big></span><small><small><sup>[[H5006]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.'A.tzu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had rebelled against  |**<big>&#8207;[[H4784\|הִמְר֥וּ]]&#8207; </big>**| him.Ru<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H0561\|אִמְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] counsel of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6098\|עֲצַ֖ת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Tzat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Most High  |**<big>&#8207;[[H5945B\|עֶלְי֣וֹן]]&#8207; </big>**| el.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had spurned  |**<big>&#8207;[[H5006\|נָאָֽצוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.'A.tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.10|<< Psalms 107:10]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.12|Psalms 107:12 >>]]</td></tr></table>
 
 

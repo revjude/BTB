@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לְטָאָה‎</span></big> **lᵉṭâʼâh** <small>*(let-aw-aw')*</small> ==**lizard**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎לְטָאָה‎</span></big>** **lᵉṭâʼâh** <small>*(let-aw-aw')*</small> ==**lizard**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to hide</small>
 
 $\quad$ lizard.

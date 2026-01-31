@@ -7,31 +7,31 @@ Also [some] of the Philistines brought Jehoshaphat presents, and tribute silver;
 Some Philistines also brought gifts and silver as tribute to Jehoshaphat, and the Arabs brought him 7,700 rams and 7,700 goats from their flocks.<small><sub>**MT:**</sub></small>
 [[2Chr.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.10|<< 2 Chronicles 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.12|2 Chronicles 17:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| they brought | <big><span class="asgreek">έφερον</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| silver. | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| also | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Arabians | <big><span class="asgreek">Άραβες</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| brought | <big><span class="asgreek">έφερον</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rams | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| of \[the\] flocks -- | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| seven thousand | <big><span class="asgreek">επτακισχιλίους</span></big> <sup><small><small>[[G2035]]</small></small></sup> |
-| seven hundred; | <big><span class="asgreek">επτακοσίους</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
-| he-goats -- | <big><span class="asgreek">τράγους</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
-| seven thousand | <big><span class="asgreek">επτακισχιλίους</span></big> <sup><small><small>[[G2035]]</small></small></sup> |
-| seven hundred. | <big><span class="asgreek">επτακοσίους</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Philistines | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| they brought | **<big>[[G5342\|έφερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| gifts | **<big>[[G1435\|δώρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| silver. | **<big>[[G0694\|αργύριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| also | **<big>[[G1065\|γε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Arabians | **<big>[[G0688\|Άραβες]]</big>** |
+| brought | **<big>[[G5342\|έφερον]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| rams | **<big>[[G8096\|κριούς]]</big>** |
+| of \[the\] flocks -- | **<big>[[G4263\|προβάτων]]</big>** |
+| seven thousand | **<big>[[G2035\|επτακισχιλίους]]</big>** |
+| seven hundred; | **<big>[[G7485\|επτακοσίους]]</big>** |
+| he-goats -- | **<big>[[G5131\|τράγους]]</big>** |
+| seven thousand | **<big>[[G2035\|επτακισχιλίους]]</big>** |
+| seven hundred. | **<big>[[G7485\|επτακοσίους]]</big>** |
 [[2Chr.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.10|<< 2 Chronicles 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.12|2 Chronicles 17:12 >>]]</td></tr></table>
 
 

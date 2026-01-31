@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀβαρής‎</span></big> **abarḗs** <small>*(ab-ar-ace')*</small> ==**not burdensome**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-<small>from <span class="asgreek">Α</span><sup><small>[[G0001]]</small></sup> (as a negative particle) and <span class="asgreek">βάρος</span><sup><small>[[G0922]]</small></sup></small>
+**<big><span class="asgreek">‎ἀβαρής‎</span></big>** **abarḗs** <small>*(ab-ar-ace')*</small> ==**not burdensome**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+<small>from **<big>[[G0001|‎Α‎]]</big>** (as a negative particle) and **<big>[[G0922|‎βάρος‎]]</big>**</small>
 
 $\quad$ from being burdensome.
 - weightless, i.e. (figuratively) not burdensome

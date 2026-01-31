@@ -7,34 +7,34 @@ And Gedaliah sware to them, and to their men, and said unto them, Fear not to be
 And Gedaliah took an oath before them and their men, assuring them, “Do not be afraid of the servants of the Chaldeans. Live in the land and serve the king of Babylon, and it will be well with you.”<small><sub>**MT:**</sub></small>
 [[2Kgs.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.23|<< 2 Kings 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.25|2 Kings 25:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gedaliah swore by an oath | <big><span class="asgreek">ώμοσε</span></big> <sup><small><small>[[G3660]]</small></small></sup> <big><span class="asgreek">Γοδολίας</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their men, | <big><span class="asgreek">ανδράσιν</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \[the\] passing by | <big><span class="asgreek">πάροδον</span></big> <sup><small><small>[[G3938]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans! | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| Settle | <big><span class="asgreek">καθίσατε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| serve | <big><span class="asgreek">δουλεύσατε</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon! | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be well | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gedaliah swore by an oath | **<big>[[G3660\|ώμοσε]]</big>** **<big>[[H1436b\|Γοδολίας]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their men, | **<big>[[G0435\|ανδράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβείσθε]]</big>** |
+| \[the\] passing by | **<big>[[G3938\|πάροδον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans! | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| Settle | **<big>[[G2523\|καθίσατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land, | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| serve | **<big>[[G1398\|δουλεύσατε]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of Babylon! | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be well | **<big>[[G2573\|καλώς]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[2Kgs.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.23|<< 2 Kings 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.25|2 Kings 25:25 >>]]</td></tr></table>
 
 

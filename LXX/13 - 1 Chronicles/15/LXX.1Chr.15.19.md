@@ -7,20 +7,20 @@ So the singers, Heman, Asaph, and Ethan, [were appointed] to sound with cymbals 
 The musicians Heman, Asaph, and Ethan were to sound the bronze cymbals.<small><sub>**MT:**</sub></small>
 [[1Chr.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.18|<< 1 Chronicles 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.20|1 Chronicles 15:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| singers, | <big><span class="asgreek">ωδοί</span></big> <sup><small><small>[[G9808]]</small></small></sup> |
-| Heman, | <big><span class="asgreek">Αιμάν</span></big> <sup><small><small>[[H1968]]</small></small></sup> |
-| Asaph, | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ethan, | <big><span class="asgreek">Αιθάν</span></big> <sup><small><small>[[H0387]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cymbals | <big><span class="asgreek">κυμβάλοις</span></big> <sup><small><small>[[G2950]]</small></small></sup> |
-| of brass | <big><span class="asgreek">χαλκοίς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to cause to be heard | <big><span class="asgreek">ακουτίσαι</span></big> <sup><small><small>[[G6201]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| singers, | **<big>[[G9808\|ωδοί]]</big>** |
+| Heman, | **<big>[[H1968\|Αιμάν]]</big>** |
+| Asaph, | **<big>[[H0623\|Ασάφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ethan, | **<big>[[H0387\|Αιθάν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| cymbals | **<big>[[G2950\|κυμβάλοις]]</big>** |
+| of brass | **<big>[[G5470\|χαλκοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to cause to be heard | **<big>[[G6201\|ακουτίσαι]]</big>** |
 [[1Chr.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.18|<< 1 Chronicles 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.20|1 Chronicles 15:20 >>]]</td></tr></table>
 
 

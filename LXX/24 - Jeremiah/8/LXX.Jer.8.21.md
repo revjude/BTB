@@ -7,20 +7,20 @@ For the hurt of the daughter of my people am I hurt; I am black; astonishment ha
 For the brokenness of the daughter of my people I am crushed. I mourn; horror has gripped me.<small><sub>**MT:**</sub></small>
 [[Jer.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.20|<< Jeremiah 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.22|Jeremiah 8:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| destruction | <big><span class="asgreek">συντρίμματι</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
-| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I have been enveloped in darkness; | <big><span class="asgreek">εσκοτώθην</span></big> <sup><small><small>[[G4656]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| perplexity | <big><span class="asgreek">απορία</span></big> <sup><small><small>[[G0640]]</small></small></sup> |
-| prevailed over | <big><span class="asgreek">κατίσχυσάν</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a woman giving birth. | <big><span class="asgreek">τικτούσης</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| destruction | **<big>[[G4938\|συντρίμματι]]</big>** |
+| of \[the\] daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of my people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I have been enveloped in darkness; | **<big>[[G4656\|εσκοτώθην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| perplexity | **<big>[[G0640\|απορία]]</big>** |
+| prevailed over | **<big>[[G2729\|κατίσχυσάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| pangs | **<big>[[G5604\|ωδίνες]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a woman giving birth. | **<big>[[G5088\|τικτούσης]]</big>** |
 [[Jer.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.20|<< Jeremiah 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.22|Jeremiah 8:22 >>]]</td></tr></table>
 
 

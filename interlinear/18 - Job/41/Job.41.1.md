@@ -6,14 +6,14 @@ Canst thou draw out leviathan with an hook? or his tongue with a cord [which] th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.24|<< Job 40:24]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.2|Job 41:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| will you draw out?  | <span class="ashebrew"><big>תִּמְשֹׁ֣ךְ </big></span><small><small><sup>[[H4900]]</sup></small></small> &#8207;| tim.Shokh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Leviathan  | <span class="ashebrew"><big>לִוְיָתָ֣ן </big></span><small><small><sup>[[H3882]]</sup></small></small> &#8207;| liv.ya.Tan <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with a fish hook  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חַכָּ֑ה </big></span><small><small><sup>[[H2443]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> cha.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and with a cord  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֶ֗בֶל </big></span><small><small><sup>[[H2256M]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> Che.vel <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you hold down?  | <span class="ashebrew"><big>תַּשְׁקִ֥יעַ </big></span><small><small><sup>[[H8257]]</sup></small></small> &#8207;| tash.Ki.a' <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tongue its  | <span class="ashebrew"><big>לְשֹׁנֽ </big></span><small><small><sup>[[H3956G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le.sho.N <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you draw out?  |**<big>&#8207;[[H4900\|תִּמְשֹׁ֣ךְ]]&#8207; </big>**| tim.Shokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Leviathan  |**<big>&#8207;[[H3882\|לִוְיָתָ֣ן]]&#8207; </big>**| liv.ya.Tan<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a fish hook  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2443\|חַכָּ֑ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with a cord  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2256M\|חֶ֗בֶל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Che.vel<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you hold down?  |**<big>&#8207;[[H8257\|תַּשְׁקִ֥יעַ]]&#8207; </big>**| tash.Ki.a'<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue its  |**<big>&#8207;[[H3956G\|לְשֹׁנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.sho.N<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.24|<< Job 40:24]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.2|Job 41:2 >>]]</td></tr></table>
 
 

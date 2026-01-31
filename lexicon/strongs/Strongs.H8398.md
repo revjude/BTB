@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּבֵל‎</span></big> **têbêl** <small>*(tay-bale')*</small> ==**world**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎יָבַל‎</span><sup><small>[[H2986]]</small></sup></small>
+**<big><span class="ashebrew">‎תֵּבֵל‎</span></big>** **têbêl** <small>*(tay-bale')*</small> ==**world**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2986|‎יָבַל‎]]</big>**</small>
 
 $\quad$ habitable part, world.
 - ***the earth*** (as moist and therefore inhabited)
@@ -9,4 +9,4 @@ $\quad$ habitable part, world.
 
 **1)** world
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσεβέω</span><sup><small>[[G0764]]</small></sup> · <span class="asgreek">οἰκουμένη</span><sup><small>[[G3625]]</small></sup>
+<small>See Greek: </small>**<big>[[G0764|ἀσεβέω]]</big>** · **<big>[[G3625|οἰκουμένη]]</big>**

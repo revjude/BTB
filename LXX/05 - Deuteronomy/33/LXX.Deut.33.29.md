@@ -7,36 +7,36 @@ Happy [art] thou, O Israel: who [is] like unto thee, O people saved by the LORD,
 Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is the shield that protects you, the sword in which you boast. Your enemies will cower before you, and you shall trample their high places.”<small><sub>**MT:**</sub></small>
 [[Deut.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.28|<< Deuteronomy 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.1|Deuteronomy 34:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Blessed | <big><span class="asgreek">μακάριος</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| \[are\] you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] likened | <big><span class="asgreek">όμοιός</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| being delivered | <big><span class="asgreek">σωζόμενος</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is the\] shield | <big><span class="asgreek">υπερασπιεί</span></big> <sup><small><small>[[G9542]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sword | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| of your boasting. | <big><span class="asgreek">καύχημά</span></big> <sup><small><small>[[G2745]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall lie | <big><span class="asgreek">ψεύσονταί</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| \[to\] you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their neck | <big><span class="asgreek">τράχηλον</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall mount | <big><span class="asgreek">επιβήση</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
+| Blessed | **<big>[[G3107\|μακάριος]]</big>** |
+| \[are\] you, | **<big>[[G1473\|συ]]</big>** |
+| O Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] likened | **<big>[[G3664\|όμοιός]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| a people | **<big>[[G2992\|λαός]]</big>** |
+| being delivered | **<big>[[G4982\|σωζόμενος]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
+| \[is the\] shield | **<big>[[G9542\|υπερασπιεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your helper | **<big>[[G0998\|βοηθός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sword | **<big>[[G3162\|μαχαίρα]]</big>** |
+| of your boasting. | **<big>[[G2745\|καύχημά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall lie | **<big>[[G5574\|ψεύσονταί]]</big>** |
+| \[to\] you | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their neck | **<big>[[G5137\|τράχηλον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall mount | **<big>[[G1910\|επιβήση]]</big>** |
 [[Deut.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.28|<< Deuteronomy 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.1|Deuteronomy 34:1 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲמָשָׂא‎</span></big> **ʻĂmâsâʼ** <small>*(am-aw-saw')*</small> ==**Amasa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַס‎</span><sup><small>[[H6006]]</small></sup>; burden</small>
+**<big><span class="ashebrew">‎עֲמָשָׂא‎</span></big>** **ʻĂmâsâʼ** <small>*(am-aw-saw')*</small> ==**Amasa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6006|‎עָמַס‎]]</big>**; burden</small>
 
 $\quad$ Amasa.
 - § Amasa = *"burden"*

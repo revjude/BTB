@@ -7,49 +7,49 @@ And I thought to advertise thee, saying, Buy [it] before the inhabitants, and be
 I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people. If you want to redeem it, do so. But if you will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.” “I will redeem it,” he replied.<small><sub>**MT:**</sub></small>
 [[Ruth.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| said \[to myself\], | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will uncover | <big><span class="asgreek">αποκαλύψω</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear, | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You acquire it | <big><span class="asgreek">κτήσαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sitting down, | <big><span class="asgreek">καθημένων</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people! | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| you are a acting as next of kin, | <big><span class="asgreek">αγχιστεύεις</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| \[then\] act as next of kin! | <big><span class="asgreek">αγχίστευε</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| But if not | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
-| acting as next of kin, | <big><span class="asgreek">αγχιστεύεις</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| announce it | <big><span class="asgreek">ανάγγειλόν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall know. | <big><span class="asgreek">γνώσομαι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| besides | <big><span class="asgreek">πάρεξ</span></big> <sup><small><small>[[G8649]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to act as next of kin, | <big><span class="asgreek">αγχιστεύσαι</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am. | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| I shall act as next of kin. | <big><span class="asgreek">αγχιστεύσω</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
+| that I | **<big>[[G2504\|καγώ]]</big>** |
+| said \[to myself\], | **<big>[[G2036\|είπα]]</big>** |
+| I will uncover | **<big>[[G0601\|αποκαλύψω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear, | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You acquire it | **<big>[[G2932\|κτήσαι]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| sitting down, | **<big>[[G2521\|καθημένων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| elders | **<big>[[G4245\|πρεσβυτέρων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people! | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| you are a acting as next of kin, | **<big>[[G6131\|αγχιστεύεις]]</big>** |
+| \[then\] act as next of kin! | **<big>[[G6131\|αγχίστευε]]</big>** |
+| But if not | **<big>[[G1490\|ει δε μη]]</big>** |
+| acting as next of kin, | **<big>[[G6131\|αγχιστεύεις]]</big>** |
+| announce it | **<big>[[G0312\|ανάγγειλόν]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall know. | **<big>[[G1097\|γνώσομαι]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| there is no one | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| besides | **<big>[[G8649\|πάρεξ]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to act as next of kin, | **<big>[[G6131\|αγχιστεύσαι]]</big>** |
+| and I | **<big>[[G2504\|καγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am. | **<big>[[G1510\|ειμι]]</big>** |
+| I shall act as next of kin. | **<big>[[G6131\|αγχιστεύσω]]</big>** |
 [[Ruth.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
 

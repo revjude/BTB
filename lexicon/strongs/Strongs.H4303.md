@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מַטְעַם‎</span></big> **maṭʻam** <small>*(mat-am')*</small> ==**delicacy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">מַטְעַמָּה</span> **maṭʻammâh** <small>*(mat-am-maw')*</small>; from <span class="ashebrew">‎טָעַם‎</span><sup><small>[[H2938]]</small></sup></small>
+**<big><span class="ashebrew">‎מַטְעַם‎</span></big>** **maṭʻam** <small>*(mat-am')*</small> ==**delicacy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">מַטְעַמָּה</span></big>** **maṭʻammâh** <small>*(mat-am-maw')*</small>; from **<big>[[H2938|‎טָעַם‎]]</big>**</small>
 
 $\quad$ dainty (meat), savoury meat.
 - ***a delicacy***
 
 **1)** tasty or savory food, delectable food, dainties
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βρῶμα</span><sup><small>[[G1033]]</small></sup>
+<small>See Greek: </small>**<big>[[G1033|βρῶμα]]</big>**

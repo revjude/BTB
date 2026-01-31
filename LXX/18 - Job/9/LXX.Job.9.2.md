@@ -7,19 +7,19 @@ I know [it is] so of a truth: but how should man be just with God?
 “Yes, I know that it is so, but how can a mortal be righteous before God?<small><sub>**MT:**</sub></small>
 [[Job.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.1|<< Job 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.3|Job 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| truth | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it is so; | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| shall there be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| mortal | <big><span class="asgreek">βροτός</span></big> <sup><small><small>[[G6699]]</small></small></sup> |
-| before | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| In | **<big>[[G1909\|επ΄]]</big>** |
+| truth | **<big>[[G0225\|αληθείας]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| it is so; | **<big>[[G3779\|ούτως]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| for how | **<big>[[G4459\|πως]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| shall there be | **<big>[[G1510\|έσται]]</big>** |
+| a just | **<big>[[G1342\|δίκαιος]]</big>** |
+| mortal | **<big>[[G6699\|βροτός]]</big>** |
+| before | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίω]]</big>** |
 [[Job.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.1|<< Job 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.3|Job 9:3 >>]]</td></tr></table>
 
 

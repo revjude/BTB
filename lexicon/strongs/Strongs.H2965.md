@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טָרָף‎</span></big> **ṭârâph** <small>*(taw-rawf')*</small> ==**fresh-plucked**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎טָרַף‎</span><sup><small>[[H2963]]</small></sup></small>
+**<big><span class="ashebrew">‎טָרָף‎</span></big>** **ṭârâph** <small>*(taw-rawf')*</small> ==**fresh-plucked**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2963|‎טָרַף‎]]</big>**</small>
 
 $\quad$ pluckt off.
 - ***recently torn off***, i.e. ***fresh***

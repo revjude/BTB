@@ -1,6 +1,5 @@
-<span class="ashebrew">‎חָם‎</span> <small>***(cham)***</small> ==**Ham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.5.32|Gen.5.32]]
--  son of: Noah ([[H5146]])
--  brother of: Shem ([[H8035]]) and Japheth ([[H3315]])
--  father of: Canaan ([[H3667]]), Cush ([[H3568]]), Egypt ([[H4714]]) and Put ([[H6316]])
+-  son of: Noah (**<big>[[H5146|נֹחַ]]</big>**)
+-  brother of: Shem (**<big>[[H8035|שֵׁם]]</big>**) and Japheth (**<big>[[H3315|יֶפֶת]]</big>**)
+-  father of: Canaan (**<big>[[H3667|כְּנַעַן]]</big>**), Cush (**<big>[[H3568|כּוּשׁ]]</big>**), Egypt (**<big>[[H4714|מִצְרַיִם]]</big>**) and Put (**<big>[[H6316|פּוּט]]</big>**)
 - n pr loc

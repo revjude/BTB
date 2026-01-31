@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַרְתָּן‎</span></big> **Qartân** <small>*(kar-tawn')*</small> ==**Kartan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קֶרֶת‎</span><sup><small>[[H7176]]</small></sup>; city-plot</small>
+**<big><span class="ashebrew">‎קַרְתָּן‎</span></big>** **Qartân** <small>*(kar-tawn')*</small> ==**Kartan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7176|‎קֶרֶת‎]]</big>**; city-plot</small>
 
 $\quad$ Kartan.
 - § Kartan = *"two cities"*

@@ -7,37 +7,37 @@ The Syrians before, and the Philistines behind; and they shall devour Israel wit
 Aram from the east and Philistia from the west have devoured Israel with open mouths. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
 [[Isa.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.11|<< Isaiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.13|Isaiah 9:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Syria | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of \[the\] sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| \[the\] dawn | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Greeks | <big><span class="asgreek">Έλληνας</span></big> <sup><small><small>[[G1674]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of \[the\] sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| \[the\] descent | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devouring | <big><span class="asgreek">κατεσθίοντας</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[with their\] whole | <big><span class="asgreek">όλω</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouth. | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| In | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turned | <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| there is the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| Syria | **<big>[[G4947\|Συρίαν]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| of \[the\] sun | **<big>[[G2246\|ηλίου]]</big>** |
+| \[the\] dawn | **<big>[[G0395\|ανατολών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Greeks | **<big>[[G1674\|Έλληνας]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| of \[the\] sun | **<big>[[G2246\|ηλίου]]</big>** |
+| \[the\] descent | **<big>[[G1424\|δυσμών]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| devouring | **<big>[[G2719\|κατεσθίοντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[with their\] whole | **<big>[[G3650\|όλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| mouth. | **<big>[[G4750\|στόματι]]</big>** |
+| In | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσι]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτοις]]</big>** |
+| is not | **<big>[[G3756\|ουκ]]</big>** |
+| turned | **<big>[[G0654\|απεστράφη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rage | **<big>[[G2372\|θυμός]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| there is the | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| high | **<big>[[G5308\|υψηλή]]</big>** |
 [[Isa.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.11|<< Isaiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.13|Isaiah 9:13 >>]]</td></tr></table>
 
 

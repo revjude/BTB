@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּעֲנָךְ‎</span></big> **Taʻănâk** <small>*(tah-an-awk')*</small> ==**Taanach**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">תַּעְנָךְ</span> **Taʻnâk** <small>*(tah-nawk')*</small>; of uncertain derivation</small>
+**<big><span class="ashebrew">‎תַּעֲנָךְ‎</span></big>** **Taʻănâk** <small>*(tah-an-awk')*</small> ==**Taanach**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">תַּעְנָךְ</span></big>** **Taʻnâk** <small>*(tah-nawk')*</small>; of uncertain derivation</small>
 
 $\quad$ Taanach, Tanach.
 - § Taanach or Tanach = *"sandy"*

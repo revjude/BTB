@@ -1,4 +1,3 @@
-<span class="ashebrew">‎פְּלַטְיָ֫הוּ‎</span> <small>***(pe.lat.yah)***</small> ==**Pelatiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.3.21|1Ch.3.21]]
--  son of: Hananiah ([[H2608L]])
--  brother of: Jeshaiah ([[H3470B]]), Rephaiah ([[H7509]]), Arnan ([[H0770]]), Obadiah ([[H5662H]]) and Shecaniah ([[H7935]])
+-  son of: Hananiah (**<big>[[H2608L|חֲנַנְיָה]]</big>**)
+-  brother of: Jeshaiah (**<big>[[H3470B|יְשַׁעְיָה]]</big>**), Rephaiah (**<big>[[H7509|רְפָיָה]]</big>**), Arnan (**<big>[[H0770|אַרְנָן]]</big>**), Obadiah (**<big>[[H5662H|עֹבַדְיָה]]</big>**) and Shecaniah (**<big>[[H7935|שְׁכַנְיָה]]</big>**)

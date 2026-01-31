@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַיֶּלֶת‎</span></big> **ʼayeleth** <small>*(ah-yeh'-leth)*</small> ==**doe**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אַיָּלָה‎</span><sup><small>[[H0355]]</small></sup></small>
+**<big><span class="ashebrew">‎אַיֶּלֶת‎</span></big>** **ʼayeleth** <small>*(ah-yeh'-leth)*</small> ==**doe**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>the same as **<big>[[H0355|‎אַיָּלָה‎]]</big>**</small>
 
 $\quad$ hind, Aijeleth.
 - ***a doe***

@@ -10,33 +10,33 @@ Son of man, wail for the multitude of Egypt, and cast them down, [even] her, and
 “Son of man, wail for the multitudes of Egypt, and consign her and the daughters of the mighty nations to the depths of the earth with those who descend to the Pit:<small><sub>**MT:**</sub></small>
 [[Ezek.32.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.17|<< Ezekiel 32:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.19|Ezekiel 32:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| lament | <big><span class="asgreek">θρήνησον</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| down | <big><span class="asgreek">καταβιβάσουσιν</span></big> <sup><small><small>[[G2601]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| \[even\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκράς</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| depths | <big><span class="asgreek">βάθη</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going down | <big><span class="asgreek">καταβαίνοντας</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] pit. | <big><span class="asgreek">βόθρον</span></big> <sup><small><small>[[G6679]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| lament | **<big>[[G2354\|θρήνησον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| down | **<big>[[G2601\|καταβιβάσουσιν]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρας]]</big>** |
+| \[even\] the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| dead | **<big>[[G3498\|νεκράς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| depths | **<big>[[G0899\|βάθη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| going down | **<big>[[G2597\|καταβαίνοντας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] pit. | **<big>[[G6679\|βόθρον]]</big>** |
 [[Ezek.32.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.17|<< Ezekiel 32:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.19|Ezekiel 32:19 >>]]</td></tr></table>
 
 

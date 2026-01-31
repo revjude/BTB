@@ -7,17 +7,17 @@ Whoso keepeth the law [is] a wise son: but he that is a companion of riotous [me
 A discerning son keeps the law, but a companion of gluttons disgraces his father.<small><sub>**MT:**</sub></small>
 [[Prov.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| keeps | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \[the\] law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| A discerning | <big><span class="asgreek">συνετός</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
-| but the one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| tends | <big><span class="asgreek">ποιμαίνει</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| carnality | <big><span class="asgreek">ασωτίαν</span></big> <sup><small><small>[[G0810]]</small></small></sup> |
-| dishonors | <big><span class="asgreek">ατιμάζει</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
-| his father. | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| keeps | **<big>[[G5442\|φυλάσσει]]</big>** |
+| \[the\] law | **<big>[[G3551\|νόμον]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| A discerning | **<big>[[G4908\|συνετός]]</big>** |
+| but the one who | **<big>[[G3739\|ος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| tends | **<big>[[G4165\|ποιμαίνει]]</big>** |
+| carnality | **<big>[[G0810\|ασωτίαν]]</big>** |
+| dishonors | **<big>[[G0818\|ατιμάζει]]</big>** |
+| his father. | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 
 

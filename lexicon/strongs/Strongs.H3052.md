@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יְהַב‎</span></big> **yᵉhab** <small>*(yeh-hab')*</small> ==**to give**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יָהַב‎</span><sup><small>[[H3051]]</small></sup></small>
+**<big><span class="asaramaic">‎יְהַב‎</span></big>** **yᵉhab** <small>*(yeh-hab')*</small> ==**to give**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3051|‎יָהַב‎]]</big>**</small>
 
 $\quad$ deliver, give, lay, [phrase] prolong, pay, yield.
 - {***to give*** (whether literal or figurative)
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Hithp'al)
 $\quad$ $\quad$ **1b1)** to be given
 $\quad$ $\quad$ **1b2)** to be paid
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποδίδωμι</span><sup><small>[[G0591]]</small></sup> · <span class="asgreek">μέριμνα</span><sup><small>[[G3308]]</small></sup>
+<small>See Greek: </small>**<big>[[G0591|ἀποδίδωμι]]</big>** · **<big>[[G3308|μέριμνα]]</big>**

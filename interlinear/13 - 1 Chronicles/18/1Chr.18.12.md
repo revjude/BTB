@@ -6,19 +6,19 @@ Moreover, Abishai son of Zeruiah struck down eighteen thousand Edomites in the V
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.11|<< 1 Chronicles 18:11]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.13|1 Chronicles 18:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Abishai  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַבְשַׁ֣י </big></span><small><small><sup>[[H0052]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.Shai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zeruiah  | <span class="ashebrew"><big>צְרוּיָ֗ה </big></span><small><small><sup>[[H6870]]</sup></small></small> &#8207;| tze.ru.Yah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he struck down  | <span class="ashebrew"><big>הִכָּ֤ה </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| hi.Kah <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Edom  | <span class="ashebrew"><big>אֱדוֹם֙ </big></span><small><small><sup>[[H0123G]]</sup></small></small> &#8207;| 'e.dOm <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] Valley of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גֵ֣יא </big></span><small><small><sup>[[H1516J]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Gei' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Salt  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֶּ֔לַח </big></span><small><small><sup>[[H4417H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Me.lach <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eight-  | <span class="ashebrew"><big>שְׁמוֹנָ֥ה </big></span><small><small><sup>[[H8083]]</sup></small></small> &#8207;| she.mo.Nah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עָשָׂ֖ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  | <span class="ashebrew"><big>אָֽלֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.lef <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abishai  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0052\|אַבְשַׁ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zeruiah  |**<big>&#8207;[[H6870\|צְרוּיָ֗ה]]&#8207; </big>**| tze.ru.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he struck down  |**<big>&#8207;[[H5221\|הִכָּ֤ה]]&#8207; </big>**| hi.Kah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edom  |**<big>&#8207;[[H0123G\|אֱדוֹם֙]]&#8207; </big>**| 'e.dOm<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] Valley of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1516J\|גֵ֣יא]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Gei'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Salt  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4417H\|מֶּ֔לַח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eight-  |**<big>&#8207;[[H8083\|שְׁמוֹנָ֥ה]]&#8207; </big>**| she.mo.Nah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עָשָׂ֖ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.11|<< 1 Chronicles 18:11]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.13|1 Chronicles 18:13 >>]]</td></tr></table>
 
 

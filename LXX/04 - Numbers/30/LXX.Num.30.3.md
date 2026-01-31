@@ -7,24 +7,24 @@ If a woman also vow a vow unto the LORD, and bind [herself] by a bond, [being] i
 And if a woman in her father’s house during her youth makes a vow to the LORD or obligates herself by a pledge,<small><sub>**MT:**</sub></small>
 [[Num.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.2|<< Numbers 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.4|Numbers 30:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should vow | <big><span class="asgreek">εύξηται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| a vow | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| confirm | <big><span class="asgreek">ορίσηται</span></big> <sup><small><small>[[G3724]]</small></small></sup> |
-| a set of limits | <big><span class="asgreek">ορισμόν</span></big> <sup><small><small>[[G8547]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her youth; | <big><span class="asgreek">νεότητι</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should vow | **<big>[[G2172\|εύξηται]]</big>** |
+| a woman | **<big>[[G1135\|γυνή]]</big>** |
+| a vow | **<big>[[G2171\|ευχήν]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| confirm | **<big>[[G3724\|ορίσηται]]</big>** |
+| a set of limits | **<big>[[G8547\|ορισμόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of her father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her youth; | **<big>[[G3503\|νεότητι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Num.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.2|<< Numbers 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.4|Numbers 30:4 >>]]</td></tr></table>
 
 

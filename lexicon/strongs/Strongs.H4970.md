@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָתַי‎</span></big> **mâthay** <small>*(maw-thah'ee)*</small> ==**how**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
+**<big><span class="ashebrew">‎מָתַי‎</span></big>** **mâthay** <small>*(maw-thah'ee)*</small> ==**how**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
 <small>from an unused root meaning to extend</small>
 
 $\quad$ long, when.

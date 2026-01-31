@@ -7,25 +7,25 @@ He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the
 He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.”<small><sub>**MT:**</sub></small>
 [[Gen.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.8|<< Genesis 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.10|Genesis 10:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a giant | <big><span class="asgreek">γίγας</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| hunter with hounds | <big><span class="asgreek">κυνηγός</span></big> <sup><small><small>[[G8125]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Nimrod | <big><span class="asgreek">Νεμβρώδ</span></big> <sup><small><small>[[H5248]]</small></small></sup> |
-| a giant | <big><span class="asgreek">γίγας</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| hunter with hounds | <big><span class="asgreek">κυνηγός</span></big> <sup><small><small>[[G8125]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| This one | **<big>[[G3778\|ούτος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| a giant | **<big>[[G6736\|γίγας]]</big>** |
+| hunter with hounds | **<big>[[G8125\|κυνηγός]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God. | **<big>[[G2316\|θεού]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσιν]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| Nimrod | **<big>[[H5248\|Νεμβρώδ]]</big>** |
+| a giant | **<big>[[G6736\|γίγας]]</big>** |
+| hunter with hounds | **<big>[[G8125\|κυνηγός]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Gen.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.8|<< Genesis 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.10|Genesis 10:10 >>]]</td></tr></table>
 
 

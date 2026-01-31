@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎μηδέποτε‎</span></big> **mēdépote** <small>*(may-dep'-ot-eh)*</small> ==**never**==  <sup><small>[[TEGMC#G:ADV-N|G:ADV-N]]</small></sup> 
-<small>from <span class="asgreek">μηδέ</span><sup><small>[[G3366]]</small></sup> and <span class="asgreek">ποτέ</span><sup><small>[[G4218]]</small></sup></small>
+**<big><span class="asgreek">‎μηδέποτε‎</span></big>** **mēdépote** <small>*(may-dep'-ot-eh)*</small> ==**never**==  <sup><small>[[TEGMC#G:ADV-N|G:ADV-N]]</small></sup> 
+<small>from **<big>[[G3366|‎μηδέ‎]]</big>** and **<big>[[G4218|‎ποτέ‎]]</big>**</small>
 
 $\quad$ never.
 - not even ever

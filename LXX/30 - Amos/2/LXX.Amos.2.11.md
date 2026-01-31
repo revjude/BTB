@@ -7,28 +7,28 @@ And I raised up of your sons for prophets, and of your young men for Nazarites. 
 I raised up prophets from your sons and Nazirites from your young men. Is this not true, O children of Israel?” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Amos.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.10|<< Amos 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.12|Amos 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your young men | <big><span class="asgreek">νεανίσκων</span></big> <sup><small><small>[[G3495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| sanctification. | <big><span class="asgreek">αγιασμόν</span></big> <sup><small><small>[[G0038]]</small></small></sup> |
-| not so | <big><span class="asgreek">μη ουκ</span></big> <sup><small><small>[[G3378]]</small></small></sup> |
-| \[Are\] | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I took | **<big>[[G2983\|έλαβον]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| prophets, | **<big>[[G4396\|προφήτας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your young men | **<big>[[G3495\|νεανίσκων]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| sanctification. | **<big>[[G0038\|αγιασμόν]]</big>** |
+| not so | **<big>[[G3378\|μη ουκ]]</big>** |
+| \[Are\] | **<big>[[G1510\|έστι]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριος]]</big>** |
 [[Amos.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.10|<< Amos 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.12|Amos 2:12 >>]]</td></tr></table>
 
 

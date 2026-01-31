@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲדַד‎</span></big> **Hădad** <small>*(had-ad')*</small> ==**Hadad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably of foreign origin (compare <span class="ashebrew">‎אֲדַד‎</span><sup><small>[[H0111]]</small></sup>)</small>
+**<big><span class="ashebrew">‎הֲדַד‎</span></big>** **Hădad** <small>*(had-ad')*</small> ==**Hadad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably of foreign origin (compare **<big>[[H0111|‎אֲדַד‎]]</big>**)</small>
 
 $\quad$ Hadad.
 - § Hadad = *"mighty"*

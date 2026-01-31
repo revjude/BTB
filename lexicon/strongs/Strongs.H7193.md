@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קַשְׂקֶשֶׂת‎</span></big> **qasqeseth** <small>*(kas-keh'-seth)*</small> ==**scale**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎קַשְׂקֶשֶׂת‎</span></big>** **qasqeseth** <small>*(kas-keh'-seth)*</small> ==**scale**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>by reduplication from an unused root meaning to shale off as bark</small>
 
 $\quad$ mail, scale.
@@ -7,4 +7,4 @@ $\quad$ mail, scale.
 
 **1)** scale (of fish, water animals)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λεπίς</span><sup><small>[[G3013]]</small></sup>
+<small>See Greek: </small>**<big>[[G3013|λεπίς]]</big>**

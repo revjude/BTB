@@ -6,25 +6,25 @@ Because you harbored an ancient hatred and delivered the Israelites over to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.4|<< Ezekiel 35:4]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.6|Ezekiel 35:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| because  | <span class="ashebrew"><big>יַ֗עַן </big></span><small><small><sup>[[H3282]]</sup></small></small> &#8207;| Ya.'an <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| belonged  | <span class="ashebrew"><big>הֱי֤וֹת </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| he.Yot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enmity of  | <span class="ashebrew"><big>אֵיבַ֣ת </big></span><small><small><sup>[[H0342]]</sup></small></small> &#8207;| 'ei.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| antiquity  | <span class="ashebrew"><big>עוֹלָ֔ם </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you poured  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תַּגֵּ֥ר </big></span><small><small><sup>[[H5064]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ta.Ger <small><sup>[[HVhw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] hands of  | <span class="ashebrew"><big>יְדֵי </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.dei- <small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sword  | <span class="ashebrew"><big>חָ֑רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Cha.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at [the] time of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵ֣ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| disaster their  | <span class="ashebrew"><big>אֵידָ֔ </big></span><small><small><sup>[[H0343]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'ei.Da <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at a time of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵ֖ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| punishment of  | <span class="ashebrew"><big>עֲוֹ֥ן </big></span><small><small><sup>[[H5771I]]</sup></small></small> &#8207;| 'a.Von <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] end  | <span class="ashebrew"><big>קֵֽץ </big></span><small><small><sup>[[H7093]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ketz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H3282\|יַ֗עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| belonged  |**<big>&#8207;[[H1961\|הֱי֤וֹת]]&#8207; </big>**| he.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enmity of  |**<big>&#8207;[[H0342\|אֵיבַ֣ת]]&#8207; </big>**| 'ei.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| antiquity  |**<big>&#8207;[[H5769G\|עוֹלָ֔ם]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you poured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5064\|תַּגֵּ֥ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Ger<small><sup>[[HVhw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hands of  |**<big>&#8207;[[H3027H\|יְדֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.dei-<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sword  |**<big>&#8207;[[H2719\|חָ֑רֶב]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] time of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| disaster their  |**<big>&#8207;[[H0343\|אֵידָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'ei.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at a time of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵ֖ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| punishment of  |**<big>&#8207;[[H5771I\|עֲוֹ֥ן]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] end  |**<big>&#8207;[[H7093\|קֵֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.4|<< Ezekiel 35:4]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.6|Ezekiel 35:6 >>]]</td></tr></table>
 
 

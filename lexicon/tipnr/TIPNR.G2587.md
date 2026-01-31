@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cappadocia</span> was a region in Asia Minor where some early Christian believers lived.
 - A location first mentioned at [[Titus.3.15|Act.2.9]]; 
-- only referred to as Cappadocia<[[G2587]]> \(<span class='tipnrLangGreek'>Καππαδοκία</span>\).
+- only referred to as Cappadocia **<big>[[G2587|Καππαδοκία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.731904,35.486302&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Cappadocia was known for its unique geological features, including underground c
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cappadocia | [<span class='tipnrLangGreek'>Καππαδοκία</span>](G2587) <small>*Greek*</small> | 2x | [[Act.2.9] & [1Pe.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cappadocia\*\|reference=Act.2.9;1Pe.1.1) |
-All Strong's for **Cappadocia**: \[[[G2587]]\]
+| Cappadocia | [<span class='tipnrLangGreek'>Καππαδοκία</span>](G2587) | 2x | [[Act.2.9] & [1Pe.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cappadocia\*\|reference=Act.2.9;1Pe.1.1) |
+All entries for **Cappadocia**:  **<big>[[G2587|Καππαδοκία]]</big>**

@@ -1,8 +1,8 @@
 <small>*Beth-shemesh\_3 • Fortified city in Naphtali, not conquered by the tribe.*</small>
 
 <span class='tipnrhighlight'>Beth-shemesh</span> was a fortified city in the territory of Naphtali, from which the Naphtalites did not drive out the Canaanites. \([[Josh.19.38|Joshua 19:38]]; Judges 1:33\)
-- A location near Beth-anath<[[H1043]]> first mentioned at [[Josh.19.38|Jos.19.38]]; 
-- only referred to as Beth-shemesh<[[H1053I]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ\).
+- A location near Beth-anath **<big>[[H1043|בֵּית עֲנָת]]</big>** first mentioned at [[Josh.19.38|Jos.19.38]]; 
+- only referred to as Beth-shemesh **<big>[[H1053|בֵּית שֶׁמֶשׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.146864,35.427134&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ No other information about this Beth-shemesh is provided in the Bible, and it is
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-shemesh (NIV= Beth Shemesh) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H1053I) <small>*Hebrew*</small> | 3x | [[Jos.19.38] ... [Jdg.1.33b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.38;Jdg.1.33;Jdg.1.33) |
-All Strong's for **Beth-shemesh**: \[[[H1053I]]\]
+| Beth-shemesh (NIV= Beth Shemesh) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H1053I) | 3x | [[Jos.19.38] ... [Jdg.1.33b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.38;Jdg.1.33;Jdg.1.33) |
+All entries for **Beth-shemesh**:  **<big>[[H1053|בֵּית שֶׁמֶשׁ]]</big>**

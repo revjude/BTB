@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎נִמְרָה‎</span></big> **Nimrâh** <small>*(nim-raw')*</small> ==**Nimrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎נָמֵר‎</span><sup><small>[[H5246]]</small></sup>; clear water</small>
+**<big><span class="ashebrew">‎נִמְרָה‎</span></big>** **Nimrâh** <small>*(nim-raw')*</small> ==**Nimrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H5246|‎נָמֵר‎]]</big>**; clear water</small>
 
-$\quad$ Nimrah. See also <span class="ashebrew">‎בֵּית נִמְרָה‎</span><sup><small>[[H1039]]</small></sup>, <span class="ashebrew">‎נִמְרִים‎</span><sup><small>[[H5249]]</small></sup>.
+$\quad$ Nimrah. See also **<big>[[H1039|‎בֵּית נִמְרָה‎]]</big>**, **<big>[[H5249|‎נִמְרִים‎]]</big>**.
 - § Nimrah = *"limpid" or "pure"*
 - ***Nimrah***, a place East of the Jordan
 

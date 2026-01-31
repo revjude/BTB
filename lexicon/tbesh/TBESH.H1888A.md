@@ -1,4 +1,3 @@
-<span class="asaramaic">‎הָא‎</span> <small>***(ha)***</small> ==**behold**==  <sup><small>[[TEHMC#A:Intj|A:Intj]]</small></sup> 
-Aramaic of: <small>[[H1887]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1887|הֵא]]</big>**</small> 
 
-- Aramaic of <i>he</i> (<span class='ashebrew'>‎ה‎</span>ֵ<span class='ashebrew'>‎א‎</span> "behold" [[H1887]])
+- Aramaic of <i>he</i> (<span class='ashebrew'>‎ה‎</span>ֵ<span class='ashebrew'>‎א‎</span> "behold" **<big>[[H1887|הֵא]]</big>**)

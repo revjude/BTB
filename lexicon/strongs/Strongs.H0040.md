@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִימֶלֶךְ‎</span></big> **ʼĂbîymelek** <small>*(ab-ee-mel'-ek)*</small> ==**Abimelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup>; father of (the) king</small>
+**<big><span class="ashebrew">‎אֲבִימֶלֶךְ‎</span></big>** **ʼĂbîymelek** <small>*(ab-ee-mel'-ek)*</small> ==**Abimelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H4428|‎מֶלֶךְ‎]]</big>**; father of (the) king</small>
 
 $\quad$ Abimelech.
 - § Abimelech = *"Melek is father" or "my father is king"*

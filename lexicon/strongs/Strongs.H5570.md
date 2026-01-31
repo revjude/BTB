@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סְנָאָה‎</span></big> **Çᵉnâʼâh** <small>*(sen-aw-aw')*</small> ==**Senaah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎סְנָאָה‎</span></big>** **Çᵉnâʼâh** <small>*(sen-aw-aw')*</small> ==**Senaah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to prick; thorny</small>
 
 $\quad$ Senaah, Hassenaah (with the article).

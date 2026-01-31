@@ -6,16 +6,16 @@ Cursed [be] he that maketh the blind to wander out of the way. And all the peopl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.17|<< Deuteronomy 27:17]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.19|Deuteronomy 27:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] cursed  | <span class="ashebrew"><big>אָר֕וּר </big></span><small><small><sup>[[H0779]]</sup></small></small> &#8207;| 'a.Rur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] leads astray  | <span class="ashebrew"><big>מַשְׁגֶּ֥ה </big></span><small><small><sup>[[H7686]]</sup></small></small> &#8207;| mash.Geh <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a blind [person]  | <span class="ashebrew"><big>עִוֵּ֖ר </big></span><small><small><sup>[[H5787]]</sup></small></small> &#8207;| 'i.Ver <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the way  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דָּ֑רֶךְ </big></span><small><small><sup>[[H1870K]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will say  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָמַ֥ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Mar <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עָ֖ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| amen  | <span class="ashebrew"><big>אָמֵֽן </big></span><small><small><sup>[[H0543]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'a.Men <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] cursed  |**<big>&#8207;[[H0779\|אָר֕וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] leads astray  |**<big>&#8207;[[H7686\|מַשְׁגֶּ֥ה]]&#8207; </big>**| mash.Geh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a blind [person]  |**<big>&#8207;[[H5787\|עִוֵּ֖ר]]&#8207; </big>**| 'i.Ver<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the way  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1870K\|דָּ֑רֶךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| amen  |**<big>&#8207;[[H0543\|אָמֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Men<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.17|<< Deuteronomy 27:17]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.19|Deuteronomy 27:19 >>]]</td></tr></table>
 
 

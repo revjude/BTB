@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎פָּרַס‎</span></big> **Pâraç** <small>*(paw-ras')*</small> ==**Persia**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎פָּרַס‎</span><sup><small>[[H6539]]</small></sup></small>
+**<big><span class="asaramaic">‎פָּרַס‎</span></big>** **Pâraç** <small>*(paw-ras')*</small> ==**Persia**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6539|‎פָּרַס‎]]</big>**</small>
 
 $\quad$ Persia, Persians.
 - § Persian = *see Persia "pure" or "splendid"*

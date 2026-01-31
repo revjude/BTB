@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָרַר‎</span></big> **chârar** <small>*(khaw-rar')*</small> ==**to scorch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָרַר‎</span></big>** **chârar** <small>*(khaw-rar')*</small> ==**to scorch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be angry, burn, dry, kindle.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b2)** to burn
 $\quad$ $\quad$ **1b3)** to be dry, be angry
 $\quad$ **1c)** (Pilpel) to cause to burn
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">θερμαίνω</span><sup><small>[[G2328]]</small></sup> · <span class="asgreek">ταραχή</span><sup><small>[[G5016]]</small></sup>
+<small>See Greek: </small>**<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G2328|θερμαίνω]]</big>** · **<big>[[G5016|ταραχή]]</big>**

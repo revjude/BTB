@@ -7,25 +7,25 @@ But in mine adversity they rejoiced, and gathered themselves together: [yea], th
 But when I stumbled, they assembled in glee; they gathered together against me. Assailants I did not know slandered me without ceasing.<small><sub>**MT:**</sub></small>
 [[Ps.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.14|<< Psalm 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.16|Psalm 35:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they were glad | <big><span class="asgreek">ευφράνθησαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gathered together; | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| they gathered together | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whips | <big><span class="asgreek">μάστιγες</span></big> <sup><small><small>[[G3148]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know; | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| they were cut asunder | <big><span class="asgreek">διεσχίσθησαν</span></big> <sup><small><small>[[G6885]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| vexed. | <big><span class="asgreek">κατενύγησαν</span></big> <sup><small><small>[[G2660]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G2596\|κατ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| they were glad | **<big>[[G2165\|ευφράνθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gathered together; | **<big>[[G4863\|συνήχθησαν]]</big>** |
+| they gathered together | **<big>[[G4863\|συνήχθησαν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| whips | **<big>[[G3148\|μάστιγες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| know; | **<big>[[G1097\|έγνων]]</big>** |
+| they were cut asunder | **<big>[[G6885\|διεσχίσθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were not | **<big>[[G3756\|ου]]</big>** |
+| vexed. | **<big>[[G2660\|κατενύγησαν]]</big>** |
 [[Ps.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.14|<< Psalm 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.16|Psalm 35:16 >>]]</td></tr></table>
 
 

@@ -11,48 +11,48 @@ So he prayed to the LORD, saying, “O LORD, is this not what I said while I was
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he prayed | <big><span class="asgreek">προσεύξατο</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[Were\] not | <big><span class="asgreek">όυχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| these | <big><span class="asgreek">όυτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-|  | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my land? | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[I thought\] beforehand | <big><span class="asgreek">προέφθασα</span></big> <sup><small><small>[[G4399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to flee | <big><span class="asgreek">φυγείν</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Tarshish. | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I knew | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] merciful | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pitying, | <big><span class="asgreek">οικτίρμων</span></big> <sup><small><small>[[G3629]]</small></small></sup> |
-| lenient | <big><span class="asgreek">μακρόθυμος</span></big> <sup><small><small>[[G8235]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| full of mercy, | <big><span class="asgreek">πολυέλεος</span></big> <sup><small><small>[[G8849]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one to change his mind | <big><span class="asgreek">μετανοών</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evils. | <big><span class="asgreek">κακίαις</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he prayed | **<big>[[G4336\|προσεύξατο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \[Were\] not | **<big>[[G3756\|όυχ]]</big>** |
+| these | **<big>[[G3778\|όυτοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my words | **<big>[[G3056\|λόγοι]]</big>** **<big>[[G1473\|μου]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| being | **<big>[[G1510\|όντος]]</big>** |
+|  | **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my land? | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \[I thought\] beforehand | **<big>[[G4399\|προέφθασα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to flee | **<big>[[G5343\|φυγείν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Tarshish. | **<big>[[H0948\|Θαρσείς]]</big>** |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| I knew | **<big>[[G1097\|έγνων]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \[are\] merciful | **<big>[[G1655\|ελεήμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pitying, | **<big>[[G3629\|οικτίρμων]]</big>** |
+| lenient | **<big>[[G8235\|μακρόθυμος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| full of mercy, | **<big>[[G8849\|πολυέλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one to change his mind | **<big>[[G3340\|μετανοών]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| evils. | **<big>[[G2549\|κακίαις]]</big>** |
 [[Jonah.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.1|<< Jonah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.3|Jonah 4:3 >>]]</td></tr></table>
 
 

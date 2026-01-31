@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲשַׂרְאֵל‎</span></big> **ʼĂsarʼêl** <small>*(as-ar-ale')*</small> ==**Asarel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>by orthographical variation from <span class="ashebrew">‎אָשַׁר‎</span><sup><small>[[H0833]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; right of God</small>
+**<big><span class="ashebrew">‎אֲשַׂרְאֵל‎</span></big>** **ʼĂsarʼêl** <small>*(as-ar-ale')*</small> ==**Asarel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>by orthographical variation from **<big>[[H0833|‎אָשַׁר‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; right of God</small>
 
 $\quad$ Asareel.
 - § Asareel = *"God holds"*

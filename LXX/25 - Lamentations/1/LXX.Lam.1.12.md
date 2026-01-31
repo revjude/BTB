@@ -9,35 +9,35 @@ All the \[ones\] coming near to you in \[the\] way turn and see if there is a pa
 Is this nothing to you, all you who pass by? Look around and see! Is there any sorrow like mine, which was inflicted on me, which the LORD made me suffer on the day of His fierce anger?<small><sub>**MT:**</sub></small>
 [[Lam.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.11|<< Lamentations 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.13|Lamentations 1:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΛΑΜΕΔ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΛΑΜΕΔ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| coming near | <big><span class="asgreek">παραπορευόμενοι</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| in \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| turn | <big><span class="asgreek">επιστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a pain | <big><span class="asgreek">άλγος</span></big> <sup><small><small>[[G6220]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| my pain | <big><span class="asgreek">άλγος</span></big> <sup><small><small>[[G6220]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| happened \[to me\]. | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| The one uttering a sound | <big><span class="asgreek">φθεγξάμενος</span></big> <sup><small><small>[[G5350]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| humbled | <big><span class="asgreek">εταπείνωσέ</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| me -- | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of his rage. | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΛΑΜΕΔ <sup><small>[acrostic title]</small></sup> |  |
+| the \[ones\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| coming near | **<big>[[G3899\|παραπορευόμενοι]]</big>** |
+| in \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| turn | **<big>[[G1994\|επιστρέψατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| see | **<big>[[G1492\|ίδετε]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| there is | **<big>[[G1510\|έστιν]]</big>** |
+| a pain | **<big>[[G6220\|άλγος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| my pain | **<big>[[G6220\|άλγος]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| happened \[to me\]. | **<big>[[G1096\|εγενήθη]]</big>** |
+| The one uttering a sound | **<big>[[G5350\|φθεγξάμενος]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| humbled | **<big>[[G5013\|εταπείνωσέ]]</big>** |
+| me -- | **<big>[[G1473\|με]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of anger | **<big>[[G3709\|οργής]]</big>** |
+| of his rage. | **<big>[[G2372\|θυμού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lam.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.11|<< Lamentations 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.13|Lamentations 1:13 >>]]</td></tr></table>
 
 

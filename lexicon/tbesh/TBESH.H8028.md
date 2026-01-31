@@ -1,5 +1,3 @@
-<span class="ashebrew">‎שֶׁ֫לֶשׁ‎</span> <small>***(she.lesh)***</small> ==**Shelesh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.35|1Ch.7.35]]
--  son of: Hotham ([[H2369]])
--  brother of: Zophah ([[H6690]]), Imna ([[H3234]]) and Amal ([[H6000]])
-
+-  son of: Hotham (**<big>[[H2369|חוֹתָם]]</big>**)
+-  brother of: Zophah (**<big>[[H6690|צוֹפַח]]</big>**), Imna (**<big>[[H3234|יִמְנָע]]</big>**) and Amal (**<big>[[H6000|עָמָל]]</big>**)

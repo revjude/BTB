@@ -1,8 +1,8 @@
 <small>*Shebarim • Place near Ai where Israelites fled*</small>
 
 <span class='tipnrhighlight'>Shebarim</span> was a place near Ai where the Israelites fled after being defeated due to Achan's sin \(Josh. 7:5\).
-- A location near Ai<[[H5857G]]> only mentioned at [[Josh.7.5|Jos.7.5]]; 
-- only referred to as Shebarim<[[H7671]]> \(<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Ai **<big>[[H5857|עַי]]</big>** only mentioned at [[Josh.7.5|Jos.7.5]]; 
+- only referred to as Shebarim **<big>[[H7671|שְׁבָרִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.91697811712517,35.26122639380886&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The mention of Shebarim in this narrative highlights the consequences of disobed
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shebarim | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H7671) <small>*Hebrew*</small> | 1x | [Jos.7.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shebarim\*\|reference=Jos.7.5) |
-All Strong's for **Shebarim**: \[[[H7671]]\]
+| Shebarim | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H7671) | 1x | [Jos.7.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shebarim\*\|reference=Jos.7.5) |
+All entries for **Shebarim**:  **<big>[[H7671|שְׁבָרִים]]</big>**

@@ -7,19 +7,19 @@ He hath cast me into the mire, and I am become like dust and ashes.
 He throws me into the mud, and I have become like dust and ashes.<small><sub>**MT:**</sub></small>
 [[Job.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.18|<< Job 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.20|Job 30:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And you have esteemed | <big><span class="asgreek">ήγησαι</span></big> <sup><small><small>[[G2233]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| equal | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| to clay; | <big><span class="asgreek">πηλώ</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ashes | <big><span class="asgreek">σποδώ</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
-| \[is\] my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion. | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| And you have esteemed | **<big>[[G2233\|ήγησαι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| equal | **<big>[[G2470\|ίσα]]</big>** |
+| to clay; | **<big>[[G4081\|πηλώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ashes | **<big>[[G4700\|σποδώ]]</big>** |
+| \[is\] my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| portion. | **<big>[[G3310\|μερίς]]</big>** |
 [[Job.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.18|<< Job 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.20|Job 30:20 >>]]</td></tr></table>
 
 

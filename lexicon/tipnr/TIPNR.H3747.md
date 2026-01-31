@@ -2,7 +2,7 @@
 
 The Brook <span class='tipnrhighlight'>Cherith</span> was where the prophet Elijah hid and was fed by ravens during a drought in Israel.
 - A location in the Jordan Valley first mentioned at [[1Kgs.17.3|1Ki.17.3]]; 
-- called Cherith <[[H3747]]> \(<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ית</span>\)
+- called Cherith  **<big>[[H3747|כְּרִית]]</big>**
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.309099,35.559900&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ This event demonstrates God's faithfulness in providing for His servant during a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cherith | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ית</span>](H3747) <small>*Hebrew*</small> | 2x | [[1Ki.17.3] & [1Ki.17.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cherith\*\|reference=1Ki.17.3;1Ki.17.5) |
-All Strong's for **Cherith**: \[[[H3747]]\]
+| Cherith | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ית</span>](H3747) | 2x | [[1Ki.17.3] & [1Ki.17.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cherith\*\|reference=1Ki.17.3;1Ki.17.5) |
+All entries for **Cherith**:  **<big>[[H3747|כְּרִית]]</big>**

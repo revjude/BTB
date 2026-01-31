@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קְרָא‎</span></big> **qᵉrâʼ** <small>*(ker-aw')*</small> ==**to read**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎קָרָא‎</span><sup><small>[[H7121]]</small></sup></small>
+**<big><span class="asaramaic">‎קְרָא‎</span></big>** **qᵉrâʼ** <small>*(ker-aw')*</small> ==**to read**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7121|‎קָרָא‎]]</big>**</small>
 
 $\quad$ call, cry, read.
 - {***to call out to*** (i.e. properly, address by name, but used in a wide variety of applications)}

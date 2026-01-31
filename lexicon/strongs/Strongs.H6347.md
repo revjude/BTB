@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎פֶּחָה‎</span></big> **pechâh** <small>*(peh-khaw')*</small> ==**governor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎פֶּחָה‎</span><sup><small>[[H6346]]</small></sup></small>
+**<big><span class="asaramaic">‎פֶּחָה‎</span></big>** **pechâh** <small>*(peh-khaw')*</small> ==**governor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6346|‎פֶּחָה‎]]</big>**</small>
 
 $\quad$ captain, governor.
 - {***a prefect*** (of a city or small district)}
 
 **1)** governor
 
-<sub><small>See Greek: </small></sub><span class="asgreek">οἰκονόμος</span><sup><small>[[G3623]]</small></sup>
+<small>See Greek: </small>**<big>[[G3623|οἰκονόμος]]</big>**

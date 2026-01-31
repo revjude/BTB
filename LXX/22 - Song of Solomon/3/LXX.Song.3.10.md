@@ -7,23 +7,23 @@ He made the pillars thereof [of] silver, the bottom thereof [of] gold, the cover
 He has made its posts of silver, its base of gold, its seat of purple fabric. Its interior is inlaid with love by the daughters of Jerusalem.<small><sub>**MT:**</sub></small>
 [[Song.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.9|<< Song of Solomon 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.11|Song of Solomon 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| His columns | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he made of | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his couch | <big><span class="asgreek">ανακλιτόν</span></big> <sup><small><small>[[G6287]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρύσεον</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| his step | <big><span class="asgreek">επιβάσις</span></big> <sup><small><small>[[G7387]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| purple; | <big><span class="asgreek">πορφύραν</span></big> <sup><small><small>[[G4210]]</small></small></sup> |
-| within | <big><span class="asgreek">εντός</span></big> <sup><small><small>[[G1787]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stone pavement | <big><span class="asgreek">λιθόστρωτον</span></big> <sup><small><small>[[G3038]]</small></small></sup> |
-| a love | <big><span class="asgreek">αγάπην</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| His columns | **<big>[[G4769\|στύλους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he made of | **<big>[[G4160\|εποίησεν]]</big>** |
+| silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his couch | **<big>[[G6287\|ανακλιτόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of gold, | **<big>[[G5552\|χρύσεον]]</big>** |
+| his step | **<big>[[G7387\|επιβάσις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| purple; | **<big>[[G4210\|πορφύραν]]</big>** |
+| within | **<big>[[G1787\|εντός]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| stone pavement | **<big>[[G3038\|λιθόστρωτον]]</big>** |
+| a love | **<big>[[G0026\|αγάπην]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] daughters | **<big>[[G2364\|θυγατέρων]]</big>** |
+| of Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Song.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.9|<< Song of Solomon 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.11|Song of Solomon 3:11 >>]]</td></tr></table>
 
 

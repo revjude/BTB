@@ -7,28 +7,28 @@ He made him ride on the high places of the earth, that he might eat the increase
 He made him ride on the heights of the land and fed him the produce of the field. He nourished him with honey from the rock and oil from the flinty crag,<small><sub>**MT:**</sub></small>
 [[Deut.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.12|<< Deuteronomy 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.14|Deuteronomy 32:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He brought | <big><span class="asgreek">ανεβίβασεν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| He fed | <big><span class="asgreek">εψώμισεν</span></big> <sup><small><small>[[G5595]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| produce | <big><span class="asgreek">γενήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
-| of fields. | <big><span class="asgreek">αγρών</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| They nursed | <big><span class="asgreek">εθήλασαν</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| honey | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] rock, | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] solid | <big><span class="asgreek">στερεάς</span></big> <sup><small><small>[[G4731]]</small></small></sup> |
-| rock. | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| He brought | **<big>[[G0307\|ανεβίβασεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| strength | **<big>[[G2479\|ισχύν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
+| He fed | **<big>[[G5595\|εψώμισεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| produce | **<big>[[G1081\|γενήματα]]</big>** |
+| of fields. | **<big>[[G0068\|αγρών]]</big>** |
+| They nursed | **<big>[[G2337\|εθήλασαν]]</big>** |
+| honey | **<big>[[G3192\|μέλι]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] rock, | **<big>[[G4073\|πέτρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil | **<big>[[G1637\|έλαιον]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] solid | **<big>[[G4731\|στερεάς]]</big>** |
+| rock. | **<big>[[G4073\|πέτρας]]</big>** |
 [[Deut.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.12|<< Deuteronomy 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.14|Deuteronomy 32:14 >>]]</td></tr></table>
 
 

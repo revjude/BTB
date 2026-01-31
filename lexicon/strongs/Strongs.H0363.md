@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎אִילָן‎</span></big> **ʼîylân** <small>*(ee-lawn')*</small> ==**tree**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אֵילוֹן‎</span><sup><small>[[H0356]]</small></sup></small>
+**<big><span class="asaramaic">‎אִילָן‎</span></big>** **ʼîylân** <small>*(ee-lawn')*</small> ==**tree**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0356|‎אֵילוֹן‎]]</big>**</small>
 
 $\quad$ tree.
 - ***a tree***
 
 **1)** tree
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δένδρον</span><sup><small>[[G1186]]</small></sup>
+<small>See Greek: </small>**<big>[[G1186|δένδρον]]</big>**

@@ -6,15 +6,15 @@ He who walks in integrity walks securely, but he who perverts his ways will be f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.8|<< Proverbs 10:8]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.10|Proverbs 10:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] walks  | <span class="ashebrew"><big>הוֹלֵ֣ךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| ho.Lekh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> integrity  | <span class="ashebrew"><big>בַּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תֹּם </big></span><small><small><sup>[[H8537]]</sup></small></small> &#8207;| Ba. <small><sup>[[HRd]]</sup></small> tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he walks  | <span class="ashebrew"><big>יֵ֣לֶךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| Ye.lekh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| security  | <span class="ashebrew"><big>בֶּ֑טַח </big></span><small><small><sup>[[H0983]]</sup></small></small> &#8207;| Be.tach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] perverts  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְעַקֵּ֥שׁ </big></span><small><small><sup>[[H6140]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.'a.Kesh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ways his  | <span class="ashebrew"><big>דְּ֝רָכָ֗י </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| de.ra.Kha <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will become known  | <span class="ashebrew"><big>יִוָּדֵֽעַ </big></span><small><small><sup>[[H3045]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.va.De.a' <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] walks  |**<big>&#8207;[[H1980I\|הוֹלֵ֣ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> integrity  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H8537\|תֹּם]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he walks  |**<big>&#8207;[[H1980I\|יֵ֣לֶךְ]]&#8207; </big>**| Ye.lekh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| security  |**<big>&#8207;[[H0983\|בֶּ֑טַח]]&#8207; </big>**| Be.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] perverts  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6140\|מְעַקֵּ֥שׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.'a.Kesh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ways his  |**<big>&#8207;[[H1870G\|דְּ֝רָכָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| de.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will become known  |**<big>&#8207;[[H3045\|יִוָּדֵֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.va.De.a'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.8|<< Proverbs 10:8]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.10|Proverbs 10:10 >>]]</td></tr></table>
 
 

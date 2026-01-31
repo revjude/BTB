@@ -6,13 +6,13 @@ The sons of Gershon were Libni and Shimei, by their clans.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.16|<< Exodus 6:16]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.18|Exodus 6:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gershon  | <span class="ashebrew"><big>גֵרְשׁ֛וֹן </big></span><small><small><sup>[[H1648]]</sup></small></small> &#8207;| ge.re.Shon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] Libni  | <span class="ashebrew"><big>לִבְנִ֥י </big></span><small><small><sup>[[H3845G]]</sup></small></small> &#8207;| liv.Ni <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Shimei  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁמְעִ֖י </big></span><small><small><sup>[[H8096G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shim.'I <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to clans their  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפְּחֹתָֽ </big></span><small><small><sup>[[H4940]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mish.pe.cho.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gershon  |**<big>&#8207;[[H1648\|גֵרְשׁ֛וֹן]]&#8207; </big>**| ge.re.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] Libni  |**<big>&#8207;[[H3845G\|לִבְנִ֥י]]&#8207; </big>**| liv.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shimei  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8096G\|שִׁמְעִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4940\|מִשְׁפְּחֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.16|<< Exodus 6:16]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.18|Exodus 6:18 >>]]</td></tr></table>
 
 

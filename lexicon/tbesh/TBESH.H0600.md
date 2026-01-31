@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אֲנַף‎</span> <small>***(a.naph)***</small> ==**face**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H0639I]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H0639I|אַף]]</big>**</small> 
 
-- Aramaic of <i>aph</i> (<span class='ashebrew'>‎א‎</span>ַ<span class='ashebrew'>‎ף‎</span> ": anger" [[H0639]])
+- Aramaic of <i>aph</i> (<span class='ashebrew'>‎א‎</span>ַ<span class='ashebrew'>‎ף‎</span> ": anger" **<big>[[H0639|אַף]]</big>**)

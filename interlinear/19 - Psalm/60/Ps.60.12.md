@@ -6,14 +6,14 @@ With God we will perform with valor, and He will trample our enemies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.11|<< Psalms 60:11]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.0|Psalms 61:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in God  | <span class="ashebrew"><big>בֵּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אלֹהִ֥ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we will do  | <span class="ashebrew"><big>נַעֲשֶׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| na.'a.seh- <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength  | <span class="ashebrew"><big>חָ֑יִל </big></span><small><small><sup>[[H2428G]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ה֗וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will tread down  | <span class="ashebrew"><big>יָב֥וּס </big></span><small><small><sup>[[H0947]]</sup></small></small> &#8207;| ya.Vus <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opponents our  | <span class="ashebrew"><big>צָרֵֽי </big></span><small><small><sup>[[H6862C]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tza.Rei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in God  |**<big>&#8207;[[H9003\|בֵּֽ]]&#8207;&#8207;[[H0430G\|אלֹהִ֥ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will do  |**<big>&#8207;[[H6213A\|נַעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.'a.seh-<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  |**<big>&#8207;[[H2428G\|חָ֑יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will tread down  |**<big>&#8207;[[H0947\|יָב֥וּס]]&#8207; </big>**| ya.Vus<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents our  |**<big>&#8207;[[H6862C\|צָרֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tza.Rei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.11|<< Psalms 60:11]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.0|Psalms 61:0 >>]]</td></tr></table>
 
 

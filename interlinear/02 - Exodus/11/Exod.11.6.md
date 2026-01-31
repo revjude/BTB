@@ -6,21 +6,21 @@ Then a great cry will go out over all the land of Egypt. Such an outcry has neve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.5|<< Exodus 11:5]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.7|Exodus 11:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָֽיְתָ֛ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.ye.Tah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cry  | <span class="ashebrew"><big>צְעָקָ֥ה </big></span><small><small><sup>[[H6818]]</sup></small></small> &#8207;| tze.'a.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גְדֹלָ֖ה </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in all  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like it  | <span class="ashebrew"><big>כָּמֹ֙ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>הוּ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ka.Mo. <small><sup>[[HRd]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has occurred  | <span class="ashebrew"><big>נִהְיָ֔תָה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| nih.Ya.tah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like it  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָמֹ֖ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha.Mo. <small><sup>[[HRd]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will repeat  | <span class="ashebrew"><big>תֹסִֽף </big></span><small><small><sup>[[H3254G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| to.Sif <small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָֽיְתָ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cry  |**<big>&#8207;[[H6818\|צְעָקָ֥ה]]&#8207; </big>**| tze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גְדֹלָ֖ה]]&#8207; </big>**| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like it  |**<big>&#8207;[[H3644G\|כָּמֹ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| ka.Mo.<small><sup>[[HRd]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has occurred  |**<big>&#8207;[[H1961\|נִהְיָ֔תָה]]&#8207; </big>**| nih.Ya.tah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3644G\|כָמֹ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Mo.<small><sup>[[HRd]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will repeat  |**<big>&#8207;[[H3254G\|תֹסִֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.Sif<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.5|<< Exodus 11:5]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.7|Exodus 11:7 >>]]</td></tr></table>
 
 

@@ -7,46 +7,46 @@ And they said unto him, Behold now, there be with thy servants fifty strong men;
 “Look now,” they said to Elisha, “we your servants have fifty valiant men. Please let them go and search for your master. Perhaps the Spirit of the LORD has taken him up and put him on one of the mountains or in one of the valleys.” “Do not send them,” Elisha replied.<small><sub>**MT:**</sub></small>
 [[2Kgs.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.15|<< 2 Kings 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.17|2 Kings 2:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of power. | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| In going | <big><span class="asgreek">πορευθέντες</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| let them seek | <big><span class="asgreek">ζητησάτωσαν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your master! | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lest at some time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήρεν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains, | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills. | <big><span class="asgreek">βουνων</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| You shall not send. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αποστελείτε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| indeed, | **<big>[[G1211\|δη]]</big>** |
+| there are | **<big>[[G1510\|εισι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your servants | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| men, | **<big>[[G0435\|άνδρες]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of power. | **<big>[[G1411\|δυνάμεως]]</big>** |
+| In going | **<big>[[G4198\|πορευθέντες]]</big>** |
+| indeed, | **<big>[[G1211\|δη]]</big>** |
+| let them seek | **<big>[[G2212\|ζητησάτωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your master! | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| lest at some time | **<big>[[G3379\|μή ποτε]]</big>** |
+| lifted | **<big>[[G0142\|ήρεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed | **<big>[[G4496\|έρριψεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mountains, | **<big>[[G3735\|ορέων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| hills. | **<big>[[G1015\|βουνων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| You shall not send. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0649\|αποστελείτε]]</big>** |
 [[2Kgs.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.15|<< 2 Kings 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.17|2 Kings 2:17 >>]]</td></tr></table>
 
 

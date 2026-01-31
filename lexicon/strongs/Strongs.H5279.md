@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַעֲמָה‎</span></big> **Naʻămâh** <small>*(nah-am-aw')*</small> ==**Naamah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נַעַם‎</span><sup><small>[[H5277]]</small></sup>; pleasantness</small>
+**<big><span class="ashebrew">‎נַעֲמָה‎</span></big>** **Naʻămâh** <small>*(nah-am-aw')*</small> ==**Naamah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H5277|‎נַעַם‎]]</big>**; pleasantness</small>
 
 $\quad$ Naamah.
 - § Naamah = *"loveliness"*

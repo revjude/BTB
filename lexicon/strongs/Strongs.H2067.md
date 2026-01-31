@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַבְדִּי‎</span></big> **Zabdîy** <small>*(zab-dee')*</small> ==**Zabdi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זֶבֶד‎</span><sup><small>[[H2065]]</small></sup>; giving</small>
+**<big><span class="ashebrew">‎זַבְדִּי‎</span></big>** **Zabdîy** <small>*(zab-dee')*</small> ==**Zabdi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2065|‎זֶבֶד‎]]</big>**; giving</small>
 
 $\quad$ Zabdi.
 - § Zabdi = *"endowment"*
@@ -10,4 +10,4 @@ $\quad$ Zabdi.
 **3)** an officer of David, in charge of the produce of the vineyards for the wine-cellars
 **4)** son of Asaph the minstrel; also called 'Zaccur' and 'Zichri'
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ζεβεδαῖος</span><sup><small>[[G2199]]</small></sup>
+<small>See Greek: </small>**<big>[[G2199|Ζεβεδαῖος]]</big>**

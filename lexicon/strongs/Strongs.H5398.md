@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָשַׁף‎</span></big> **nâshaph** <small>*(naw-shaf')*</small> ==**to blow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָשַׁף‎</span></big>** **nâshaph** <small>*(naw-shaf')*</small> ==**to blow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ blow.
@@ -6,4 +6,4 @@ $\quad$ blow.
 
 **1)** (Qal) to blow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποστέλλω</span><sup><small>[[G0649]]</small></sup> · <span class="asgreek">πνέω</span><sup><small>[[G4154]]</small></sup>
+<small>See Greek: </small>**<big>[[G0649|ἀποστέλλω]]</big>** · **<big>[[G4154|πνέω]]</big>**

@@ -7,23 +7,23 @@ My confusion [is] continually before me, and the shame of my face hath covered m
 All day long my disgrace is before me, and shame has covered my face,<small><sub>**MT:**</sub></small>
 [[Ps.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.14|<< Psalm 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.16|Psalm 44:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My being made ashamed | <big><span class="asgreek">εντροπή</span></big> <sup><small><small>[[G1791]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατεναντίον</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
-| of me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shame | <big><span class="asgreek">αισχύνη</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| covered | <big><span class="asgreek">εκάλυψέ</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My being made ashamed | **<big>[[G1791\|εντροπή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in front | **<big>[[G2713\|κατεναντίον]]</big>** |
+| of me | **<big>[[G1473\|μου]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| shame | **<big>[[G0152\|αισχύνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| covered | **<big>[[G2572\|εκάλυψέ]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
 [[Ps.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.14|<< Psalm 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.16|Psalm 44:16 >>]]</td></tr></table>
 
 

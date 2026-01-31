@@ -6,19 +6,19 @@ His legs are pillars of marble set on bases of pure gold. His appearance is like
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.14|<< Song of Solomon 5:14]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.16|Song of Solomon 5:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| legs his  | <span class="ashebrew"><big>שׁוֹקָי </big></span><small><small><sup>[[H7785]]</sup></small></small> <span class="ashebrew"><big>ו֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| sho.Ka <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] pillars of  | <span class="ashebrew"><big>עַמּ֣וּדֵי </big></span><small><small><sup>[[H5982G]]</sup></small></small> &#8207;| 'a.Mu.dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| marble  | <span class="ashebrew"><big>שֵׁ֔שׁ </big></span><small><small><sup>[[H8336A]]</sup></small></small> &#8207;| Shesh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| founded  | <span class="ashebrew"><big>מְיֻסָּדִ֖ים </big></span><small><small><sup>[[H3245]]</sup></small></small> &#8207;| me.yu.sa.Dim <small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bases of  | <span class="ashebrew"><big>אַדְנֵי </big></span><small><small><sup>[[H0134]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure gold  | <span class="ashebrew"><big>פָ֑ז </big></span><small><small><sup>[[H6337]]</sup></small></small> &#8207;| Faz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| appearance his  | <span class="ashebrew"><big>מַרְאֵ֙ </big></span><small><small><sup>[[H4758]]</sup></small></small> <span class="ashebrew"><big>הוּ֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mar.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] like \<the> Lebanon  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לְּבָנ֔וֹן </big></span><small><small><sup>[[H3844G]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> le.va.Non <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chosen  | <span class="ashebrew"><big>בָּח֖וּר </big></span><small><small><sup>[[H0977]]</sup></small></small> &#8207;| ba.Chur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> cedars  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲרָזִֽים </big></span><small><small><sup>[[H0730]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> 'a.ra.Zim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| legs his  |**<big>&#8207;[[H7785\|שׁוֹקָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| sho.Ka<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] pillars of  |**<big>&#8207;[[H5982G\|עַמּ֣וּדֵי]]&#8207; </big>**| 'a.Mu.dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| marble  |**<big>&#8207;[[H8336A\|שֵׁ֔שׁ]]&#8207; </big>**| Shesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| founded  |**<big>&#8207;[[H3245\|מְיֻסָּדִ֖ים]]&#8207; </big>**| me.yu.sa.Dim<small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bases of  |**<big>&#8207;[[H0134\|אַדְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure gold  |**<big>&#8207;[[H6337\|פָ֑ז]]&#8207; </big>**| Faz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appearance his  |**<big>&#8207;[[H4758\|מַרְאֵ֙]]&#8207;&#8207;[[H9023\|הוּ֙]]&#8207; </big>**| mar.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like \<the> Lebanon  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3844G\|לְּבָנ֔וֹן]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chosen  |**<big>&#8207;[[H0977\|בָּח֖וּר]]&#8207; </big>**| ba.Chur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> cedars  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0730\|אֲרָזִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.14|<< Song of Solomon 5:14]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.16|Song of Solomon 5:16 >>]]</td></tr></table>
 
 

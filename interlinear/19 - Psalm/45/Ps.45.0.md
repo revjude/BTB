@@ -6,16 +6,16 @@ For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Ko
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.26|<< Psalms 44:26]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.1|Psalms 45:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to the choirmaster  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מְנַצֵּ֣חַ </big></span><small><small><sup>[[H5329]]</sup></small></small> &#8207;| la <small><sup>[[HRd]]</sup></small> m.na.Tze.ach <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.lo.Sho- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shoshannim  | <span class="ashebrew"><big>שֹׁ֭שַׁנִּים </big></span><small><small><sup>[[H7799]]</sup></small></small> &#8207;| Sho.sha.nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] sons of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> v.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Korah  | <span class="ashebrew"><big>קֹ֑רַח </big></span><small><small><sup>[[H7141I]]</sup></small></small> &#8207;| Ko.rach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a poem  | <span class="ashebrew"><big>מַ֝שְׂכִּ֗יל </big></span><small><small><sup>[[H4905]]</sup></small></small> &#8207;| mas.Kil <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a song of  | <span class="ashebrew"><big>שִׁ֣יר </big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| shir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| love\<s>  | <span class="ashebrew"><big>יְדִידֹֽת </big></span><small><small><sup>[[H3039B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.di.Dot <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֣חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lo.Sho-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shoshannim  |**<big>&#8207;[[H7799\|שֹׁ֭שַׁנִּים]]&#8207; </big>**| Sho.sha.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] sons of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Korah  |**<big>&#8207;[[H7141I\|קֹ֑רַח]]&#8207; </big>**| Ko.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a poem  |**<big>&#8207;[[H4905\|מַ֝שְׂכִּ֗יל]]&#8207; </big>**| mas.Kil<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song of  |**<big>&#8207;[[H7892A\|שִׁ֣יר]]&#8207; </big>**| shir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| love\<s>  |**<big>&#8207;[[H3039B\|יְדִידֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.di.Dot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.26|<< Psalms 44:26]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.1|Psalms 45:1 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ The one who quarries stones may be injured by them, and he who splits logs endan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] quarries  | <span class="ashebrew"><big>מַסִּ֣יעַ </big></span><small><small><sup>[[H5265]]</sup></small></small> &#8207;| ma.Si.a' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stones  | <span class="ashebrew"><big>אֲבָנִ֔ים </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'a.va.Nim <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be hurt  | <span class="ashebrew"><big>יֵעָצֵ֖ב </big></span><small><small><sup>[[H6087A]]</sup></small></small> &#8207;| ye.'a.Tzev <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> them  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] cleaves  | <span class="ashebrew"><big>בּוֹקֵ֥עַ </big></span><small><small><sup>[[H1234]]</sup></small></small> &#8207;| bo.Ke.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wood\<s>  | <span class="ashebrew"><big>עֵצִ֖ים </big></span><small><small><sup>[[H6086I]]</sup></small></small> &#8207;| 'e.Tzim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be endangered  | <span class="ashebrew"><big>יִסָּ֥כֶן </big></span><small><small><sup>[[H5533A]]</sup></small></small> &#8207;| yi.Sa.khen <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> them  | <span class="ashebrew"><big>בָּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ba <small><sup>[[HRd]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] quarries  |**<big>&#8207;[[H5265\|מַסִּ֣יעַ]]&#8207; </big>**| ma.Si.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֔ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be hurt  |**<big>&#8207;[[H6087A\|יֵעָצֵ֖ב]]&#8207; </big>**| ye.'a.Tzev<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] cleaves  |**<big>&#8207;[[H1234\|בּוֹקֵ֥עַ]]&#8207; </big>**| bo.Ke.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood\<s>  |**<big>&#8207;[[H6086I\|עֵצִ֖ים]]&#8207; </big>**| 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be endangered  |**<big>&#8207;[[H5533A\|יִסָּ֥כֶן]]&#8207; </big>**| yi.Sa.khen<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> them  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 
 

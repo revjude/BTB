@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָטָן‎</span></big> **Qâṭân** <small>*(kaw-tawn')*</small> ==**Hakkatan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎קָטָן‎</span><sup><small>[[H6996]]</small></sup>; small</small>
+**<big><span class="ashebrew">‎קָטָן‎</span></big>** **Qâṭân** <small>*(kaw-tawn')*</small> ==**Hakkatan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6996|‎קָטָן‎]]</big>**; small</small>
 
 $\quad$ Hakkatan (including the article).
 - § Hakkatan = *"the small"*

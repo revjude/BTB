@@ -1,4 +1,4 @@
-meaning of: <small>[[G0906G]]</small> 
+meaning of: <small>**<big>[[G0906G|βάλλω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==βάλλω==</span></b>, 

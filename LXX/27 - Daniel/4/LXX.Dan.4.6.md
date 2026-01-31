@@ -7,28 +7,28 @@ Therefore made I a decree to bring in all the wise [men] of Babylon before me, t
 So I issued a decree that all the wise men of Babylon be brought before me to interpret the dream for me.<small><sub>**MT:**</sub></small>
 [[Dan.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.5|<< Daniel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.7|Daniel 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was made | <big><span class="asgreek">ετέθη</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a decree | <big><span class="asgreek">δόγμα</span></big> <sup><small><small>[[G1378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring in | <big><span class="asgreek">εισαγαγείν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise men | <big><span class="asgreek">σοφούς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dream | <big><span class="asgreek">ενυπνίου</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| they should make known | <big><span class="asgreek">γνωρίσωσί</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1223\|δι΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| was made | **<big>[[G5087\|ετέθη]]</big>** |
+| a decree | **<big>[[G1378\|δόγμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring in | **<big>[[G1521\|εισαγαγείν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| wise men | **<big>[[G4680\|σοφούς]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| dream | **<big>[[G1798\|ενυπνίου]]</big>** |
+| they should make known | **<big>[[G1107\|γνωρίσωσί]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Dan.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.5|<< Daniel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.7|Daniel 4:7 >>]]</td></tr></table>
 
 

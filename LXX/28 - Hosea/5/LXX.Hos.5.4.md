@@ -7,26 +7,26 @@ They will not frame their doings to turn unto their God: for the spirit of whore
 Their deeds do not permit them to return to their God, for a spirit of prostitution is within them, and they do not know the LORD.<small><sub>**MT:**</sub></small>
 [[Hos.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.3|<< Hosea 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.5|Hosea 5:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They gave not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their deliberations | <big><span class="asgreek">διαβούλια</span></big> <sup><small><small>[[G6819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to turn | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of harlotry | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G4202]]</small></small></sup> |
-| is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they knew not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επέγνωσαν</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| They gave not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1325\|έδωκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their deliberations | **<big>[[G6819\|διαβούλια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to turn | **<big>[[G1994\|επιστρέψαι]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their God. | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of harlotry | **<big>[[G4202\|πορνείας]]</big>** |
+| is | **<big>[[G1510\|έστι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the midst | **<big>[[G3319\|μέσω]]</big>** |
+| of them, | **<big>[[G1473\|αυτών]]</big>** |
+| and the | **<big>[[G3588\|τον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| they knew not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1921\|επέγνωσαν]]</big>** |
 [[Hos.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.3|<< Hosea 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.5|Hosea 5:5 >>]]</td></tr></table>
 
 

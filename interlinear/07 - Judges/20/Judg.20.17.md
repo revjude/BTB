@@ -6,23 +6,23 @@ The Israelites, apart from Benjamin, mobilized 400,000 swordsmen, each one an ex
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.16|<< Judges 20:16]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.18|Judges 20:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] man of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִ֨ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֜ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they were mustered  | <span class="ashebrew"><big>הִתְפָּֽקְד֗וּ </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| hit.pa.ke.Du <small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> apart  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בַד֙ </big></span><small><small><sup>[[H0905J]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Vad <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Benjamin  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בִּנְיָמִ֔ן </big></span><small><small><sup>[[H1144G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> bin.ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four  | <span class="ashebrew"><big>אַרְבַּ֨ע </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.Ba' <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֥וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  | <span class="ashebrew"><big>אֶ֛לֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'E.lef <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| man  | <span class="ashebrew"><big>אִ֖ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] drew  | <span class="ashebrew"><big>שֹׁ֣לֵֽף </big></span><small><small><sup>[[H8025]]</sup></small></small> &#8207;| Sho.lef <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sword  | <span class="ashebrew"><big>חָ֑רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Cha.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֖ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] man of  | <span class="ashebrew"><big>אִ֥ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  | <span class="ashebrew"><big>מִלְחָמָֽה </big></span><small><small><sup>[[H4421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] man of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֜ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were mustered  |**<big>&#8207;[[H6485A\|הִתְפָּֽקְד֗וּ]]&#8207; </big>**| hit.pa.ke.Du<small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> apart  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905J\|בַד֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Benjamin  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1144G\|בִּנְיָמִ֔ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  |**<big>&#8207;[[H0702\|אַרְבַּ֨ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֥וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אֶ֛לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  |**<big>&#8207;[[H0376G\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] drew  |**<big>&#8207;[[H8025\|שֹׁ֣לֵֽף]]&#8207; </big>**| Sho.lef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  |**<big>&#8207;[[H2719\|חָ֑רֶב]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֖ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] man of  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H4421\|מִלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.16|<< Judges 20:16]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.18|Judges 20:18 >>]]</td></tr></table>
 
 

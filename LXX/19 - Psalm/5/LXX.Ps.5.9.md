@@ -11,24 +11,24 @@ For not a word they speak can be trusted; destruction lies within them. Their th
 > $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| truth | <big><span class="asgreek">αλήθεια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is vain; | <big><span class="asgreek">ματαία</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| \[is\] a tomb | <big><span class="asgreek">τάφος</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
-| having been opened | <big><span class="asgreek">ανεωγμένος</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their throat | <big><span class="asgreek">λάρυγξ</span></big> <sup><small><small>[[G2995]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tongues | <big><span class="asgreek">γλώσσαις</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they used deceit. | <big><span class="asgreek">εδολιούσαν</span></big> <sup><small><small>[[G1387]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their mouth | **<big>[[G4750\|στόματι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| truth | **<big>[[G0225\|αλήθεια]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| is vain; | **<big>[[G3152\|ματαία]]</big>** |
+| \[is\] a tomb | **<big>[[G5028\|τάφος]]</big>** |
+| having been opened | **<big>[[G0455\|ανεωγμένος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their throat | **<big>[[G2995\|λάρυγξ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their tongues | **<big>[[G1100\|γλώσσαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they used deceit. | **<big>[[G1387\|εδολιούσαν]]</big>** |
 [[Ps.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.8|<< Psalm 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.10|Psalm 5:10 >>]]</td></tr></table>
 
 

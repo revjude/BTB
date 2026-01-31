@@ -7,25 +7,25 @@ And he said unto his sons, Saddle me the ass. So they saddled him the ass: and h
 So the prophet said to his sons, “Saddle the donkey for me.” Then they saddled the donkey for him, and he mounted it<small><sub>**MT:**</sub></small>
 [[1Kgs.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.12|<< 1 Kings 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.14|1 Kings 13:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Saddle | <big><span class="asgreek">επισάξατέ</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey! | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they saddled | <big><span class="asgreek">επέσαξαν</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
-| for him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey. | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he mounted | <big><span class="asgreek">επέβη</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sons, | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Saddle | **<big>[[G7442\|επισάξατέ]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| donkey! | **<big>[[G3688\|όνον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they saddled | **<big>[[G7442\|επέσαξαν]]</big>** |
+| for him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| donkey. | **<big>[[G3688\|όνον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he mounted | **<big>[[G1910\|επέβη]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
 [[1Kgs.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.12|<< 1 Kings 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.14|1 Kings 13:14 >>]]</td></tr></table>
 
 

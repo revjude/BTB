@@ -10,38 +10,38 @@ Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the
 Now the daughters of Zelophehad son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, belonged to the clans of Manasseh son of Joseph. These were the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah. They approached<small><sub>**MT:**</sub></small>
 [[Num.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.65|<< Numbers 26:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.2|Numbers 27:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came forward | <big><span class="asgreek">προσελθούσαι</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zelophehad, | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
-| son of | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Hepher, | <big><span class="asgreek">Οφέρ</span></big> <sup><small><small>[[H2660b]]</small></small></sup> |
-| son of | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Machir | <big><span class="asgreek">Μαχίρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">δήμου</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| of Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joseph; | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these are | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their names -- | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Mahlah, | <big><span class="asgreek">Μαλά</span></big> <sup><small><small>[[H4244]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Noah, | <big><span class="asgreek">Νούα</span></big> <sup><small><small>[[H5270]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hoglah, | <big><span class="asgreek">Αγλά</span></big> <sup><small><small>[[H2295]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Milcah, | <big><span class="asgreek">Μελχά</span></big> <sup><small><small>[[H4435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tizrah. | <big><span class="asgreek">Θερσά</span></big> <sup><small><small>[[H8656]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there came forward | **<big>[[G4334\|προσελθούσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of Zelophehad, | **<big>[[H6765\|Σαλπαάδ]]</big>** |
+| son of | **<big>[[G5207\|υιόυ]]</big>** |
+| Hepher, | **<big>[[H2660b\|Οφέρ]]</big>** |
+| son of | **<big>[[G5207\|υιόυ]]</big>** |
+| Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Machir | **<big>[[H4353\|Μαχίρ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G1218\|δήμου]]</big>** |
+| of Manasseh, | **<big>[[G3128\|Μανασσή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Joseph; | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| these are | **<big>[[G3778\|ταύτα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their names -- | **<big>[[G3686\|ονόματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Mahlah, | **<big>[[H4244\|Μαλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Noah, | **<big>[[H5270\|Νούα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hoglah, | **<big>[[H2295\|Αγλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Milcah, | **<big>[[H4435\|Μελχά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tizrah. | **<big>[[H8656\|Θερσά]]</big>** |
 [[Num.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.65|<< Numbers 26:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.2|Numbers 27:2 >>]]</td></tr></table>
 
 

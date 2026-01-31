@@ -6,15 +6,15 @@ Shall he that contendeth with the Almighty instruct [him]? he that reproveth God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.1|<< Job 40:1]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.3|Job 40:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ will he contend  | <span class="ashebrew"><big>הֲ֭ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>רֹב </big></span><small><small><sup>[[H7378]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> ro <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Almighty  | <span class="ashebrew"><big>שַׁדַּ֣י </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a faultfinder  | <span class="ashebrew"><big>יִסּ֑וֹר </big></span><small><small><sup>[[H3250]]</sup></small></small> &#8207;| yi.Sor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] corrects  | <span class="ashebrew"><big>מוֹכִ֖יחַ </big></span><small><small><sup>[[H3198]]</sup></small></small> &#8207;| mo.Khi.ach <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱל֣וֹהַּ </big></span><small><small><sup>[[H0433]]</sup></small></small> &#8207;| 'e.Lo.ah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let him answer him  | <span class="ashebrew"><big>יַעֲנֶֽ </big></span><small><small><sup>[[H6030B]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ya.'a.Ne. <small><sup>[[HVqi3ms]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ will he contend  |**<big>&#8207;[[H9008\|הֲ֭]]&#8207;&#8207;[[H7378\|רֹב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ro<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Almighty  |**<big>&#8207;[[H7706\|שַׁדַּ֣י]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a faultfinder  |**<big>&#8207;[[H3250\|יִסּ֑וֹר]]&#8207; </big>**| yi.Sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] corrects  |**<big>&#8207;[[H3198\|מוֹכִ֖יחַ]]&#8207; </big>**| mo.Khi.ach<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0433\|אֱל֣וֹהַּ]]&#8207; </big>**| 'e.Lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let him answer him  |**<big>&#8207;[[H6030B\|יַעֲנֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Ne.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.1|<< Job 40:1]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.3|Job 40:3 >>]]</td></tr></table>
 
 

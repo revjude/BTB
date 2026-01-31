@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָרָא‎</span></big> **qârâʼ** <small>*(kaw-raw')*</small> ==**to encounter: meet**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָרָא‎</span></big>** **qârâʼ** <small>*(kaw-raw')*</small> ==**to encounter: meet**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ befall, (by) chance, (cause to) come (upon), fall out, happen, meet.

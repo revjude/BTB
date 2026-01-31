@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Elam</span>, an ancient nation east of Babylon, at times an ally and at times an enemy of Israel.
 - A location in Persia first mentioned at [[Gen.14.1|Gen.14.1]]; 
-- referred to as Elam or Elam \(=Qere. Ketiv= "for ever"\) <[[H5867A]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Elamite<[[H5962]]> \(Aramiac <span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>\), or Elamite<[[G1639]]> \(<span class='tipnrLangGreek'>Ἐλαμίτης</span>\).
+- referred to as Elam or Elam \(=Qere. Ketiv= "for ever"\)  **<big>[[H5867|עֵילָם]]</big>**, or Elamite **<big>[[H5962|עַלְמִי]]</big>**, or Elamite **<big>[[G1639|Ἐλαμίτης]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.18919123705116,48.25788647687722&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,8 +14,8 @@ However, Jeremiah also prophesied Elam's restoration in the latter days \(49:39\
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5867A) <small>*Hebrew*</small> | 14x | [[Gen.14.1] ... [Dan.8.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elam\*\|reference=Gen.14.1;Gen.14.9;Isa.11.11;Isa.21.2;Isa.22.6;Jer.25.25;Jer.49.34;Jer.49.35;Jer.49.36;Jer.49.37;Jer.49.38;Jer.49.39;Ezk.32.24;Dan.8.2) |
-| Elam (=Qere. Ketiv= for ever) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5867A) <small>*Hebrew*</small> | 1x | [Jer.49.36b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elam\*\|reference=Jer.49.36) |
-| Elamite | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H5962) <small>*Aramaic*</small> | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elamite\*\|reference=Ezr.4.9) |
-| Elamite | [<span class='tipnrLangGreek'>Ἐλαμίτης</span>](G1639) <small>*Greek*</small> | 1x | [Act.2.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elamite\*\|reference=Act.2.9) |
-All Strong's for **Elam**: \[[[H5867A]]\] \[[[H5962]]\] \[[[G1639]]\]
+| Elam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5867A) | 14x | [[Gen.14.1] ... [Dan.8.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elam\*\|reference=Gen.14.1;Gen.14.9;Isa.11.11;Isa.21.2;Isa.22.6;Jer.25.25;Jer.49.34;Jer.49.35;Jer.49.36;Jer.49.37;Jer.49.38;Jer.49.39;Ezk.32.24;Dan.8.2) |
+| Elam (=Qere. Ketiv= for ever) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5867A) | 1x | [Jer.49.36b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elam\*\|reference=Jer.49.36) |
+| Elamite | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H5962) | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elamite\*\|reference=Ezr.4.9) |
+| Elamite | [<span class='tipnrLangGreek'>Ἐλαμίτης</span>](G1639) | 1x | [Act.2.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elamite\*\|reference=Act.2.9) |
+All entries for **Elam**:  **<big>[[H5867|עֵילָם]]</big>** ☩  **<big>[[H5962|עַלְמִי]]</big>** ☩  **<big>[[G1639|Ἐλαμίτης]]</big>**

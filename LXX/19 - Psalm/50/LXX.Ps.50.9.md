@@ -7,19 +7,19 @@ I will take no bullock out of thy house, [nor] he goats out of thy folds.
 I have no need for a bull from your stall or goats from your pens,<small><sub>**MT:**</sub></small>
 [[Ps.50.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.8|<< Psalm 50:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.10|Psalm 50:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">δέξομαι</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flocks | <big><span class="asgreek">ποιμνίων</span></big> <sup><small><small>[[G4168]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| winter yearlings | <big><span class="asgreek">χιμάρους</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| take | **<big>[[G1209\|δέξομαι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your house | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| calves | **<big>[[G3448\|μόσχους]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your flocks | **<big>[[G4168\|ποιμνίων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| winter yearlings | **<big>[[G9733\|χιμάρους]]</big>** |
 [[Ps.50.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.8|<< Psalm 50:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.10|Psalm 50:10 >>]]</td></tr></table>
 
 

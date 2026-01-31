@@ -7,29 +7,29 @@ Where thou diest, will I die, and there will I be buried: the LORD do so to me, 
 Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.”<small><sub>**MT:**</sub></small>
 [[Ruth.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.16|<< Ruth 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.18|Ruth 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should die, | <big><span class="asgreek">αποθάνης</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| I shall die, | <big><span class="asgreek">αποθανούμαι</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and there | <big><span class="asgreek">κακεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| I shall be entombed. | <big><span class="asgreek">ταφήσομαι</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| may he add more. | <big><span class="asgreek">προσθείη</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| death \[only\] | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| shall separate | <big><span class="asgreek">διαστελεί</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| you should die, | **<big>[[G0599\|αποθάνης]]</big>** |
+| I shall die, | **<big>[[G0599\|αποθανούμαι]]</big>** |
+| and there | **<big>[[G1563\|κακεί]]</big>** |
+| I shall be entombed. | **<big>[[G2290\|ταφήσομαι]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριός]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| may he add more. | **<big>[[G4369\|προσθείη]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| death \[only\] | **<big>[[G2288\|θάνατος]]</big>** |
+| shall separate | **<big>[[G1291\|διαστελεί]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Ruth.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.16|<< Ruth 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.18|Ruth 1:18 >>]]</td></tr></table>
 
 

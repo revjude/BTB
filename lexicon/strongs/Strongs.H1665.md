@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּתִּית‎</span></big> **Gittîyth** <small>*(ghit-teeth')*</small> ==**Gittith**==  <sup><small>[[TEHMC#N:N-F-T|N:N-F-T]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎גִּתִּי‎</span><sup><small>[[H1663]]</small></sup></small>
+**<big><span class="ashebrew">‎גִּתִּית‎</span></big>** **Gittîyth** <small>*(ghit-teeth')*</small> ==**Gittith**==  <sup><small>[[TEHMC#N:N-F-T|N:N-F-T]]</small></sup> 
+<small>feminine of **<big>[[H1663|‎גִּתִּי‎]]</big>**</small>
 
 $\quad$ Gittith.
 - § Gittith = *"a wine-press"*

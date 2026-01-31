@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִפּוּי‎</span></big> **tsippûwy** <small>*(tsip-poo'-ee)*</small> ==**plating**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָפָה‎</span><sup><small>[[H6823]]</small></sup></small>
+**<big><span class="ashebrew">‎צִפּוּי‎</span></big>** **tsippûwy** <small>*(tsip-poo'-ee)*</small> ==**plating**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6823|‎צָפָה‎]]</big>**</small>
 
 $\quad$ covering, overlaying.
 - ***encasement*** (with metal)

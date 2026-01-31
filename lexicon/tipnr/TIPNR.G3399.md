@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Miletus</span>, a city in Asia Minor where Paul met with the elders of the Ephesian church on his way to Jerusalem \(Acts 20:15, 17\) and where Trophimus was left ill \([[2Tim.4.20|2 Timothy 4:20]]\).
 - A location first mentioned at [[Isa.10.28|Act.20.15]]; 
-- only referred to as Miletus<[[G3399]]> \(<span class='tipnrLangGreek'>Μίλητος</span>\).
+- only referred to as Miletus **<big>[[G3399|Μίλητος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.5,27.3&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Miletus was known for its wool industry and its intellectual and artistic achiev
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Miletus | [<span class='tipnrLangGreek'>Μίλητος</span>](G3399) <small>*Greek*</small> | 3x | [[Act.20.15] ... [2Ti.4.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Miletus\*\|reference=Act.20.15;Act.20.17;2Ti.4.20) |
-All Strong's for **Miletus**: \[[[G3399]]\]
+| Miletus | [<span class='tipnrLangGreek'>Μίλητος</span>](G3399) | 3x | [[Act.20.15] ... [2Ti.4.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Miletus\*\|reference=Act.20.15;Act.20.17;2Ti.4.20) |
+All entries for **Miletus**:  **<big>[[G3399|Μίλητος]]</big>**

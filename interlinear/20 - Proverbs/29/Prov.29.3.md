@@ -6,17 +6,17 @@ A man who loves wisdom brings joy to his father, but a companion of prostitutes 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.2|<< Proverbs 29:2]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.4|Proverbs 29:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a person  | <span class="ashebrew"><big>אִֽישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ish- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] loves  | <span class="ashebrew"><big>אֹהֵ֣ב </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'o.Hev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָ֭כְמָה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he makes glad  | <span class="ashebrew"><big>יְשַׂמַּ֣ח </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| ye.sa.Mach <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  | <span class="ashebrew"><big>אָבִ֑י </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] associates with  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹעֶ֥ה </big></span><small><small><sup>[[H7462C]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ro.'Eh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prostitutes  | <span class="ashebrew"><big>ז֝וֹנ֗וֹת </big></span><small><small><sup>[[H2181]]</sup></small></small> &#8207;| zo.Not <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he destroys  | <span class="ashebrew"><big>יְאַבֶּד </big></span><small><small><sup>[[H0006]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.'a.bed- <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wealth  | <span class="ashebrew"><big>הֽוֹן </big></span><small><small><sup>[[H1952]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] loves  |**<big>&#8207;[[H0157G\|אֹהֵ֣ב]]&#8207; </big>**| 'o.Hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָ֭כְמָה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he makes glad  |**<big>&#8207;[[H8055\|יְשַׂמַּ֣ח]]&#8207; </big>**| ye.sa.Mach<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] associates with  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7462C\|רֹעֶ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prostitutes  |**<big>&#8207;[[H2181\|ז֝וֹנ֗וֹת]]&#8207; </big>**| zo.Not<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he destroys  |**<big>&#8207;[[H0006\|יְאַבֶּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.'a.bed-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth  |**<big>&#8207;[[H1952\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.2|<< Proverbs 29:2]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.4|Proverbs 29:4 >>]]</td></tr></table>
 
 

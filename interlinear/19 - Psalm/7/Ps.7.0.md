@@ -6,18 +6,18 @@ A Shiggaion of David, which he sang to the LORD concerning the words of Cush, a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.10|<< Psalms 6:10]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.1|Psalms 7:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a Shiggaion  | <span class="ashebrew"><big>שִׁגָּי֗וֹן </big></span><small><small><sup>[[H7692G]]</sup></small></small> &#8207;| shi.ga.Yon <small><sup>[[HNtfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of David  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָ֫וִ֥ד </big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Da.Vid <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sang  | <span class="ashebrew"><big>שָׁ֥ר </big></span><small><small><sup>[[H7891]]</sup></small></small> &#8207;| shar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] words of  | <span class="ashebrew"><big>דִּבְרֵי </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| div.rei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cush  | <span class="ashebrew"><big>כ֝֗וּשׁ </big></span><small><small><sup>[[H3568B]]</sup></small></small> &#8207;| Khush <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a Ben-  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1145]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jaminite  | <span class="ashebrew"><big>יְמִינִֽי </big></span><small><small><sup>[[H1145]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.mi.Ni <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a Shiggaion  |**<big>&#8207;[[H7692G\|שִׁגָּי֗וֹן]]&#8207; </big>**| shi.ga.Yon<small><sup>[[HNtfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָ֫וִ֥ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sang  |**<big>&#8207;[[H7891\|שָׁ֥ר]]&#8207; </big>**| shar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| div.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cush  |**<big>&#8207;[[H3568B\|כ֝֗וּשׁ]]&#8207; </big>**| Khush<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a Ben-  |**<big>&#8207;[[H1145\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jaminite  |**<big>&#8207;[[H1145\|יְמִינִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.mi.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.10|<< Psalms 6:10]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.1|Psalms 7:1 >>]]</td></tr></table>
 
 

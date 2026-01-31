@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎רוּם‎</span></big> **rûwm** <small>*(room)*</small> ==**height**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎רוּם‎</span><sup><small>[[H7313]]</small></sup></small>
+**<big><span class="asaramaic">‎רוּם‎</span></big>** **rûwm** <small>*(room)*</small> ==**height**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from **<big>[[H7313|‎רוּם‎]]</big>**</small>
 
 $\quad$ height.
 - (literally) ***altitude***

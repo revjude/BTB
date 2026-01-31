@@ -7,23 +7,23 @@ Good understanding giveth favour: but the way of transgressors [is] hard.
 Good understanding wins favor, but the way of the faithless is difficult.<small><sub>**MT:**</sub></small>
 [[Prov.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.14|<< Proverbs 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.16|Proverbs 13:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| understanding | <big><span class="asgreek">σύνεσις</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| Good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| gives | <big><span class="asgreek">δίδωσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| favor; | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \[the\] law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| consideration | <big><span class="asgreek">διανοίας</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of good | <big><span class="asgreek">αγαθής</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| but \[the\] ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of the disdaining | <big><span class="asgreek">καταφρονούντων</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
-| \[end\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| destruction. | <big><span class="asgreek">απωλεία</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
+| understanding | **<big>[[G4907\|σύνεσις]]</big>** |
+| Good | **<big>[[G0018\|αγαθή]]</big>** |
+| gives | **<big>[[G1325\|δίδωσι]]</big>** |
+| favor; | **<big>[[G5485\|χάριν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| to know | **<big>[[G1097\|γνώναι]]</big>** |
+| \[the\] law | **<big>[[G3551\|νόμον]]</big>** |
+| consideration | **<big>[[G1271\|διανοίας]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| of good | **<big>[[G0018\|αγαθής]]</big>** |
+| but \[the\] ways | **<big>[[G3598\|οδοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of the disdaining | **<big>[[G2706\|καταφρονούντων]]</big>** |
+| \[end\] in | **<big>[[G1722\|εν]]</big>** |
+| destruction. | **<big>[[G0684\|απωλεία]]</big>** |
 [[Prov.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.14|<< Proverbs 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.16|Proverbs 13:16 >>]]</td></tr></table>
 
 

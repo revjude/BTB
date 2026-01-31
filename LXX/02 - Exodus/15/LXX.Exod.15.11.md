@@ -11,25 +11,25 @@ Who among the gods is like You, O LORD? Who is like You—majestic in holiness, 
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] likened | <big><span class="asgreek">όμοιός</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gods, | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] likened | <big><span class="asgreek">όμοιός</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being glorified | <big><span class="asgreek">δεδοξασμένος</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| holy ones, | <big><span class="asgreek">αγίοις</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| wonderful | <big><span class="asgreek">θαυμαστός</span></big> <sup><small><small>[[G2298]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| glories, | <big><span class="asgreek">δόξαις</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| miracles? | <big><span class="asgreek">τέρατα</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] likened | **<big>[[G3664\|όμοιός]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| gods, | **<big>[[G2316\|θεοίς]]</big>** |
+| O <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριε]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] likened | **<big>[[G3664\|όμοιός]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| being glorified | **<big>[[G1392\|δεδοξασμένος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| holy ones, | **<big>[[G0039\|αγίοις]]</big>** |
+| wonderful | **<big>[[G2298\|θαυμαστός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| glories, | **<big>[[G1391\|δόξαις]]</big>** |
+| doing | **<big>[[G4160\|ποιών]]</big>** |
+| miracles? | **<big>[[G5059\|τέρατα]]</big>** |
 [[Exod.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.10|<< Exodus 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.12|Exodus 15:12 >>]]</td></tr></table>
 
 

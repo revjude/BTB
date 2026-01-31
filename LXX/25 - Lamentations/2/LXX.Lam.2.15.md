@@ -9,37 +9,37 @@ All that pass by clap [their] hands at thee; they hiss and wag their head at the
 All who pass by clap their hands at you in scorn. They hiss and shake their heads at the Daughter of Jerusalem: “Is this the city that was called the perfection of beauty, the joy of all the earth?”<small><sub>**MT:**</sub></small>
 [[Lam.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.14|<< Lamentations 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.16|Lamentations 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΣΑΜΕΧ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΣΑΜΕΧ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| clap | <big><span class="asgreek">εκρότησαν</span></big> <sup><small><small>[[G8104]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passing | <big><span class="asgreek">παραπορευόμενοι</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| in \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| they whistle | <big><span class="asgreek">εσύρισαν</span></big> <sup><small><small>[[G9349]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shake | <big><span class="asgreek">εκίνησαν</span></big> <sup><small><small>[[G2795]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| Is | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| \[the\] crown | <big><span class="asgreek">στέφανος</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| of glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of gladness | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| ΣΑΜΕΧ <sup><small>[acrostic title]</small></sup> |  |
+| clap | **<big>[[G8104\|εκρότησαν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| \[the\] ones | **<big>[[G3588\|οι]]</big>** |
+| passing | **<big>[[G3899\|παραπορευόμενοι]]</big>** |
+| in \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| they whistle | **<big>[[G9349\|εσύρισαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shake | **<big>[[G2795\|εκίνησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their head | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| Is | **<big>[[G1487\|ει]]</big>** |
+| she | **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city, | **<big>[[G4172\|πόλις]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσι]]</big>** |
+| \[the\] crown | **<big>[[G4735\|στέφανος]]</big>** |
+| of glory | **<big>[[G1391\|δόξης]]</big>** |
+| of gladness | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth? | **<big>[[G1093\|γης]]</big>** |
 [[Lam.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.14|<< Lamentations 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.16|Lamentations 2:16 >>]]</td></tr></table>
 
 

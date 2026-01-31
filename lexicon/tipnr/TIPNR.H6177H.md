@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aroer</span>, a city situated on the edge of the Arnon Valley, near the border between Israel and Moab.
 - A location first mentioned at [[1Sam.30.28|Deu.2.36]]; 
-- only referred to as Aroer<[[H6177H]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>, <span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Aroer **<big>[[H6177|עֲרוֹעֵר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.47109529828131,35.82200331579328&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Aroer's significance in the Bible lies in its strategic location along the Arnon
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aroer | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>, <span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6177H) <small>*Hebrew*</small> | 9x | [[Deu.2.36] ... [Jer.48.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aroer\*\|reference=Deu.2.36;Deu.3.12;Deu.4.48;Jos.12.2;Jos.13.9;Jos.13.16;Jdg.11.26;2Ki.10.33;Jer.48.19) |
-All Strong's for **Aroer**: \[[[H6177H]]\]
+| Aroer | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>, <span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6177H) | 9x | [[Deu.2.36] ... [Jer.48.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aroer\*\|reference=Deu.2.36;Deu.3.12;Deu.4.48;Jos.12.2;Jos.13.9;Jos.13.16;Jdg.11.26;2Ki.10.33;Jer.48.19) |
+All entries for **Aroer**:  **<big>[[H6177|עֲרוֹעֵר]]</big>**

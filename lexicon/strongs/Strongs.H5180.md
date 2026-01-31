@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְחֻשְׁתָּן‎</span></big> **Nᵉchushtân** <small>*(nekh-oosh-tawn')*</small> ==**Nehushtan**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>from <span class="ashebrew">‎נְחֹשֶׁת‎</span><sup><small>[[H5178]]</small></sup></small>
+**<big><span class="ashebrew">‎נְחֻשְׁתָּן‎</span></big>** **Nᵉchushtân** <small>*(nekh-oosh-tawn')*</small> ==**Nehushtan**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>from **<big>[[H5178|‎נְחֹשֶׁת‎]]</big>**</small>
 
 $\quad$ Nehushtan.
 - § Nehushtan = *"a thing of brass"*

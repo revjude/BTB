@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוּר‎</span></big> **chûwr** <small>*(khoor)*</small> ==**cavern**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">חֻר</span> **chur** <small>*(khoor)*</small>; from an unused root probably meaning to bore</small>
+**<big><span class="ashebrew">‎חוּר‎</span></big>** **chûwr** <small>*(khoor)*</small> ==**cavern**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">חֻר</span></big>** **chur** <small>*(khoor)*</small>; from an unused root probably meaning to bore</small>
 
 $\quad$ hole.
 - ***the crevice of a serpent***

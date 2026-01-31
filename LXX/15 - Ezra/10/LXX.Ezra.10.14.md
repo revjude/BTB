@@ -7,49 +7,49 @@ Let now our rulers of all the congregation stand, and let all them which have ta
 Let our leaders represent the whole assembly. Then let everyone in our towns who has married a foreign woman come at an appointed time, together with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.”<small><sub>**MT:**</sub></small>
 [[Ezra.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.13|<< Ezra 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.15|Ezra 10:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| stand | <big><span class="asgreek">στήτωσαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| assembly! | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| our cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| settled with | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλοτρίας</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| let them come | <big><span class="asgreek">ελθέτωσαν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| times | <big><span class="asgreek">καιρούς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-|  | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| arranged | <big><span class="asgreek">συνταγών</span></big> <sup><small><small>[[G9334]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| by | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judges! | <big><span class="asgreek">κρίται</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to turn | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \[the\] anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of \[the\] rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of our God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter. | <big><span class="asgreek">ρήματος</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| stand | **<big>[[G2476\|στήτωσαν]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| our rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in every | **<big>[[G3956\|πάση]]</big>** |
+| assembly! | **<big>[[G1577\|εκκλησία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| our cities | **<big>[[G4172\|πόλεσιν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| settled with | **<big>[[G2523\|εκάθισε]]</big>** |
+| wives | **<big>[[G1135\|γυναίκας]]</big>** |
+| alien | **<big>[[G0245\|αλλοτρίας]]</big>** |
+| let them come | **<big>[[G2064\|ελθέτωσαν]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| times | **<big>[[G2540\|καιρούς]]</big>** |
+|  | **<big>[[G0575\|από]]</big>** |
+| arranged | **<big>[[G9334\|συνταγών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| elders | **<big>[[G4245\|πρεσβύτεροι]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| by | **<big>[[G2532\|και]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| judges! | **<big>[[G2923\|κρίται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to turn | **<big>[[G0654\|αποστρέψαι]]</big>** |
+| \[the\] anger | **<big>[[G3709\|οργήν]]</big>** |
+| of \[the\] rage | **<big>[[G2372\|θυμού]]</big>** |
+| of our God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this matter. | **<big>[[G4487\|ρήματος]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[Ezra.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.13|<< Ezra 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.15|Ezra 10:15 >>]]</td></tr></table>
 
 

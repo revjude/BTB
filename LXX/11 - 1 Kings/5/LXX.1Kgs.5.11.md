@@ -7,32 +7,32 @@ And Solomon gave Hiram twenty thousand measures of wheat [for] food to his house
 and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil.<small><sub>**MT:**</sub></small>
 [[1Kgs.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.10|<< 1 Kings 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.12|1 Kings 5:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Hiram | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| cors | <big><span class="asgreek">κόρους</span></big> <sup><small><small>[[G2884]]</small></small></sup> |
-| of wheat, | <big><span class="asgreek">πυρού</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| food | <big><span class="asgreek">μαχήλ</span></big> <sup><small><small>[[G8262]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house, | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| baths | <big><span class="asgreek">βαίθ</span></big> <sup><small><small>[[G6646]]</small></small></sup> |
-| of olive oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| being pounded. | <big><span class="asgreek">κεκοπανισμένου</span></big> <sup><small><small>[[G8066]]</small></small></sup> |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Solomon gave | <big><span class="asgreek">εδίδου</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Hiram | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| yearly. | <big><span class="asgreek">κατ</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| gave | **<big>[[G1325\|έδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Hiram | **<big>[[H2438\|Χειράμ]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| cors | **<big>[[G2884\|κόρους]]</big>** |
+| of wheat, | **<big>[[G8994\|πυρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| food | **<big>[[G8262\|μαχήλ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his house, | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| baths | **<big>[[G6646\|βαίθ]]</big>** |
+| of olive oil | **<big>[[G1637\|ελαίου]]</big>** |
+| being pounded. | **<big>[[G8066\|κεκοπανισμένου]]</big>** |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| Solomon gave | **<big>[[G1325\|εδίδου]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Hiram | **<big>[[H2438\|Χειράμ]]</big>** |
+| yearly. | **<big>[[G2596\|κατ]]</big>** **<big>[[G1763\|ενιαυτόν]]</big>** |
 [[1Kgs.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.10|<< 1 Kings 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.12|1 Kings 5:12 >>]]</td></tr></table>
 
 

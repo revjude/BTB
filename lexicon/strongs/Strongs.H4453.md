@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מֶלְצָר‎</span></big> **meltsâr** <small>*(mel-tsawr')*</small> ==**`steward`**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מֶלְצָר‎</span></big>** **meltsâr** <small>*(mel-tsawr')*</small> ==**`steward`**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Melzar.

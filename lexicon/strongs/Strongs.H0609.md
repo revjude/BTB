@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָסָא‎</span></big> **ʼÂçâʼ** <small>*(aw-saw')*</small> ==**Asa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אָסָא‎</span></big>** **ʼÂçâʼ** <small>*(aw-saw')*</small> ==**Asa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Asa.
@@ -8,4 +8,4 @@ $\quad$ Asa.
 **1)** king of Judah, son of Abijam, father of Jehoshaphat
 **2)** a Levite
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀσά</span><sup><small>[[G0760]]</small></sup>
+<small>See Greek: </small>**<big>[[G0760|Ἀσά]]</big>**

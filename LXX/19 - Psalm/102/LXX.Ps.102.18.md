@@ -7,19 +7,19 @@ This shall be written for the generation to come: and the people which shall be 
 Let this be written for the generation to come, so that a people not yet created may praise the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.102.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.17|<< Psalm 102:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.19|Psalm 102:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Let this be written | <big><span class="asgreek">γραφήτω</span></big> <sup><small><small>[[G1125]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| another | <big><span class="asgreek">ετέραν</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being created | <big><span class="asgreek">κτιζόμενος</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| shall praise | <big><span class="asgreek">αινέσει</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Let this be written | **<big>[[G1125\|γραφήτω]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| generation | **<big>[[G1074\|γενεάν]]</big>** |
+| another | **<big>[[G2087\|ετέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| being created | **<big>[[G2936\|κτιζόμενος]]</big>** |
+| shall praise | **<big>[[G0134\|αινέσει]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριον]]</big>** |
 [[Ps.102.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.17|<< Psalm 102:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.19|Psalm 102:19 >>]]</td></tr></table>
 
 

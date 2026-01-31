@@ -7,35 +7,35 @@ The inhabitants of Samaria shall fear because of the calves of Bethaven: for the
 The people of Samaria will fear for the calf of Beth-aven. Indeed, its people will mourn over it with its idolatrous priests—those who rejoiced in its glory—for it has been taken from them into exile.<small><sub>**MT:**</sub></small>
 [[Hos.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of On | <big><span class="asgreek">ων</span></big> <sup><small><small>[[H0204]]</small></small></sup> |
-| shall sojourn | <big><span class="asgreek">παροικήσουσιν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| mourned | <big><span class="asgreek">επένθησεν</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| they greatly embittered | <big><span class="asgreek">παρεπίκραναν</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall rejoice | <big><span class="asgreek">επιχαρούνται</span></big> <sup><small><small>[[G7471]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his glory, | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he was displaced | <big><span class="asgreek">μετωκίσθη</span></big> <sup><small><small>[[G3351]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| To the | **<big>[[G3588\|τω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of On | **<big>[[H0204\|ων]]</big>** |
+| shall sojourn | **<big>[[G3939\|παροικήσουσιν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμάρειαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| mourned | **<big>[[G3996\|επένθησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1909\|επ΄]]</big>** |
+| it; | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| they greatly embittered | **<big>[[G3893\|παρεπίκραναν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| they shall rejoice | **<big>[[G7471\|επιχαρούνται]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his glory, | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he was displaced | **<big>[[G3351\|μετωκίσθη]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Hos.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
 
 

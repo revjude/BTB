@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎στόμα‎</span></big> **stóma** <small>*(stom'-a)*</small> ==**mouth**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
-<small>probably strengthened from a presumed derivative of the base of <span class="asgreek">τομώτερος</span><sup><small>[[G5114]]</small></sup></small>
+**<big><span class="asgreek">‎στόμα‎</span></big>** **stóma** <small>*(stom'-a)*</small> ==**mouth**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+<small>probably strengthened from a presumed derivative of the base of **<big>[[G5114|‎τομώτερος‎]]</big>**</small>
 
 $\quad$ edge, face, mouth.
 - the mouth (as if a gash in the face)

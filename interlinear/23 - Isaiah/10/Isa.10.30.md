@@ -6,16 +6,16 @@ Cry aloud, O Daughter of Gallim! Listen, O Laishah! O wretched Anathoth!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.29|<< Isaiah 10:29]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.31|Isaiah 10:31 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| cry aloud  | <span class="ashebrew"><big>צַהֲלִ֥י </big></span><small><small><sup>[[H6670A]]</sup></small></small> &#8207;| tza.ha.Li <small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| voice your  | <span class="ashebrew"><big>קוֹלֵ֖ </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| ko.Le <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gallim  | <span class="ashebrew"><big>גַּלִּ֑ים </big></span><small><small><sup>[[H1554]]</sup></small></small> &#8207;| ga.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pay attention  | <span class="ashebrew"><big>הַקְשִׁ֥יבִי </big></span><small><small><sup>[[H7181]]</sup></small></small> &#8207;| hak.Shi.vi <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Laishah  | <span class="ashebrew"><big>לַ֖יְשָׁה </big></span><small><small><sup>[[H3919C]]</sup></small></small> &#8207;| Lay.shah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O afflicted [one]  | <span class="ashebrew"><big>עֲנִיָּ֥ה </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.ni.Yah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Anathoth  | <span class="ashebrew"><big>עֲנָתֽוֹת </big></span><small><small><sup>[[H6068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| a.na.Tot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cry aloud  |**<big>&#8207;[[H6670A\|צַהֲלִ֥י]]&#8207; </big>**| tza.ha.Li<small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voice your  |**<big>&#8207;[[H6963A\|קוֹלֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ko.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gallim  |**<big>&#8207;[[H1554\|גַּלִּ֑ים]]&#8207; </big>**| ga.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pay attention  |**<big>&#8207;[[H7181\|הַקְשִׁ֥יבִי]]&#8207; </big>**| hak.Shi.vi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Laishah  |**<big>&#8207;[[H3919C\|לַ֖יְשָׁה]]&#8207; </big>**| Lay.shah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O afflicted [one]  |**<big>&#8207;[[H6041\|עֲנִיָּ֥ה]]&#8207; </big>**| 'a.ni.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Anathoth  |**<big>&#8207;[[H6068G\|עֲנָתֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.na.Tot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.29|<< Isaiah 10:29]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.31|Isaiah 10:31 >>]]</td></tr></table>
 
 

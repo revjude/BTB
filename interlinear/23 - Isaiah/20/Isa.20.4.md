@@ -6,26 +6,26 @@ so the king of Assyria will lead away the captives of Egypt and the exiles of Cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.3|<< Isaiah 20:3]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.5|Isaiah 20:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| so  | <span class="ashebrew"><big>כֵּ֣ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will lead away  | <span class="ashebrew"><big>יִנְהַ֣ג </big></span><small><small><sup>[[H5090A]]</sup></small></small> &#8207;| yin.Hag <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| Me.lekh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Assyria  | <span class="ashebrew"><big>אַ֠שּׁוּר </big></span><small><small><sup>[[H0804G]]</sup></small></small> &#8207;| 'A.shur <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] captive[s] of  | <span class="ashebrew"><big>שְׁבִ֨י </big></span><small><small><sup>[[H7628A]]</sup></small></small> &#8207;| she.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרַ֜יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] exile[s] of  | <span class="ashebrew"><big>גָּל֥וּת </big></span><small><small><sup>[[H1546]]</sup></small></small> &#8207;| ga.Lut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cush  | <span class="ashebrew"><big>כּ֛וּשׁ </big></span><small><small><sup>[[H3568A]]</sup></small></small> &#8207;| kush <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young men  | <span class="ashebrew"><big>נְעָרִ֥ים </big></span><small><small><sup>[[H5288]]</sup></small></small> &#8207;| ne.'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and old [men]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זְקֵנִ֖ים </big></span><small><small><sup>[[H2205H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ze.ke.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| naked  | <span class="ashebrew"><big>עָר֣וֹם </big></span><small><small><sup>[[H6174]]</sup></small></small> &#8207;| a.Rom <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and barefoot  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָחֵ֑ף </big></span><small><small><sup>[[H3182]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Chef <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [ones] uncovered of  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲשׂוּפַ֥י </big></span><small><small><sup>[[H2834]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.su.Fai <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| buttock  | <span class="ashebrew"><big>שֵׁ֖ת </big></span><small><small><sup>[[H8357]]</sup></small></small> &#8207;| shet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] nakedness of  | <span class="ashebrew"><big>עֶרְוַ֥ת </big></span><small><small><sup>[[H6172]]</sup></small></small> &#8207;| 'er.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  |**<big>&#8207;[[H3651C\|כֵּ֣ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will lead away  |**<big>&#8207;[[H5090A\|יִנְהַ֣ג]]&#8207; </big>**| yin.Hag<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  |**<big>&#8207;[[H0804G\|אַ֠שּׁוּר]]&#8207; </big>**| 'A.shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] captive[s] of  |**<big>&#8207;[[H7628A\|שְׁבִ֨י]]&#8207; </big>**| she.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֜יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] exile[s] of  |**<big>&#8207;[[H1546\|גָּל֥וּת]]&#8207; </big>**| ga.Lut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cush  |**<big>&#8207;[[H3568A\|כּ֛וּשׁ]]&#8207; </big>**| kush<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young men  |**<big>&#8207;[[H5288\|נְעָרִ֥ים]]&#8207; </big>**| ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and old [men]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2205H\|זְקֵנִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ze.ke.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| naked  |**<big>&#8207;[[H6174\|עָר֣וֹם]]&#8207; </big>**| a.Rom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and barefoot  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3182\|יָחֵ֑ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Chef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [ones] uncovered of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2834\|חֲשׂוּפַ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.su.Fai<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| buttock  |**<big>&#8207;[[H8357\|שֵׁ֖ת]]&#8207; </big>**| shet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֥ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.3|<< Isaiah 20:3]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.5|Isaiah 20:5 >>]]</td></tr></table>
 
 

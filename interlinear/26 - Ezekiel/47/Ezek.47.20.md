@@ -6,20 +6,20 @@ And on the west side, the Great Sea will be the boundary up to a point opposite 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.19|<< Ezekiel 47:19]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.21|Ezekiel 47:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] side of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פְאַת </big></span><small><small><sup>[[H6285]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fe.'at- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] west  | <span class="ashebrew"><big>יָם֙ </big></span><small><small><sup>[[H3220H]]</sup></small></small> &#8207;| yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] the sea  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּ֣ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> great  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>גָּד֔וֹל </big></span><small><small><sup>[[H1419J]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] border  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>גְּב֕וּל </big></span><small><small><sup>[[H1366G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ge.Vul <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opposite  | <span class="ashebrew"><big>נֹ֖כַח </big></span><small><small><sup>[[H5227]]</sup></small></small> &#8207;| No.khach <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lebo  | <span class="ashebrew"><big>לְב֣וֹא </big></span><small><small><sup>[[H0935H]]</sup></small></small> &#8207;| le.Vo' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hamath  | <span class="ashebrew"><big>חֲמָ֑ת </big></span><small><small><sup>[[H2574G]]</sup></small></small> &#8207;| cha.Mat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֖את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] side of  | <span class="ashebrew"><big>פְּאַת </big></span><small><small><sup>[[H6285]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pe.'at- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] west  | <span class="ashebrew"><big>יָֽם </big></span><small><small><sup>[[H3220H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] side of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6285\|פְאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] west  |**<big>&#8207;[[H3220H\|יָם֙]]&#8207; </big>**| yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the sea  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3220G\|יָּ֣ם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419J\|גָּד֔וֹל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] border  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1366G\|גְּב֕וּל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opposite  |**<big>&#8207;[[H5227\|נֹ֖כַח]]&#8207; </big>**| No.khach<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebo  |**<big>&#8207;[[H0935H\|לְב֣וֹא]]&#8207; </big>**| le.Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamath  |**<big>&#8207;[[H2574G\|חֲמָ֑ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] side of  |**<big>&#8207;[[H6285\|פְּאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] west  |**<big>&#8207;[[H3220H\|יָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.19|<< Ezekiel 47:19]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.21|Ezekiel 47:21 >>]]</td></tr></table>
 
 

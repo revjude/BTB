@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶתְנַן‎</span></big> **ʼethnan** <small>*(eth-nan')*</small> ==**wages**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אֶתְנָה‎</span><sup><small>[[H0866]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶתְנַן‎</span></big>** **ʼethnan** <small>*(eth-nan')*</small> ==**wages**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>the same as **<big>[[H0866|‎אֶתְנָה‎]]</big>**</small>
 
 $\quad$ hire, reward.
 - ***a gift*** (as the price of harlotry or idolatry)
@@ -8,4 +8,4 @@ $\quad$ hire, reward.
 $\quad$ **1a)** hire (of harlot)
 $\quad$ **1b)** of idolatrous Israel, Jerusalem, Tyre (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρχαῖος</span><sup><small>[[G0744]]</small></sup> · <span class="asgreek">δόμα</span><sup><small>[[G1390]]</small></sup> · <span class="asgreek">μισθός</span><sup><small>[[G3408]]</small></sup> · <span class="asgreek">μίσθωμα</span><sup><small>[[G3410]]</small></sup>
+<small>See Greek: </small>**<big>[[G0744|ἀρχαῖος]]</big>** · **<big>[[G1390|δόμα]]</big>** · **<big>[[G3408|μισθός]]</big>** · **<big>[[G3410|μίσθωμα]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁחַט‎</span></big> **shâchaṭ** <small>*(shaw-khat')*</small> ==**to slaughter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁחַט‎</span></big>** **shâchaṭ** <small>*(shaw-khat')*</small> ==**to slaughter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ kill, offer, shoot out, slay, slaughter.
@@ -17,4 +17,4 @@ n f
 **2)** (BDB) slaughtering
 $\quad$ **2a)** word doubtful
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σφάζω</span><sup><small>[[G4969]]</small></sup>
+<small>See Greek: </small>**<big>[[G4969|σφάζω]]</big>**

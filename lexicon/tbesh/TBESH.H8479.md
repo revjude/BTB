@@ -1,3 +1,1 @@
-<span class="asaramaic">‎תַּחַת‎</span> <small>***(ta.chat)***</small> ==**under**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
-Aramaic of: <small>[[H8478G]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H8478G|תַּחַת]]</big>**</small>

@@ -10,34 +10,34 @@ Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the
 Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty with us, and we will serve you.”<small><sub>**MT:**</sub></small>
 [[1Sam.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.27|<< 1 Samuel 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.2|1 Samuel 11:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Nahash | <big><span class="asgreek">Ναάς</span></big> <sup><small><small>[[H5176]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonite | <big><span class="asgreek">Αμμανίτης</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| camped | <big><span class="asgreek">παρενέβαλεν</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jabish | <big><span class="asgreek">Ιαβής</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| Gilead. | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Jabish | <big><span class="asgreek">Ιαβής</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Nahash | <big><span class="asgreek">Ναάς</span></big> <sup><small><small>[[H5176]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonite, | <big><span class="asgreek">Αμμανίτην</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| Ordain | <big><span class="asgreek">διάθου</span></big> <sup><small><small>[[G1303]]</small></small></sup> |
-| with us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a covenant! | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will serve | <big><span class="asgreek">δουλεύσομέν</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Nahash | **<big>[[H5176\|Ναάς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ammonite | **<big>[[H5983\|Αμμανίτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| camped | **<big>[[G6070\|παρενέβαλεν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jabish | **<big>[[H3003\|Ιαβής]]</big>** |
+| Gilead. | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Jabish | **<big>[[H3003\|Ιαβής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Nahash | **<big>[[H5176\|Ναάς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Ammonite, | **<big>[[H5983\|Αμμανίτην]]</big>** |
+| Ordain | **<big>[[G1303\|διάθου]]</big>** |
+| with us | **<big>[[G1473\|ημίν]]</big>** |
+| a covenant! | **<big>[[G1242\|διαθήκην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will serve | **<big>[[G1398\|δουλεύσομέν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[1Sam.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.27|<< 1 Samuel 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.2|1 Samuel 11:2 >>]]</td></tr></table>
 
 

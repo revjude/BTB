@@ -6,28 +6,28 @@ For the king had the ships of Tarshish at sea with Hiram’s fleet, and once eve
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.21|<< 1 Kings 10:21]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.23|1 Kings 10:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי֩ </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ship[s] of  | <span class="ashebrew"><big>אֳנִ֨י </big></span><small><small><sup>[[H0590]]</sup></small></small> &#8207;| 'o.Ni <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tarshish  | <span class="ashebrew"><big>תַרְשִׁ֤ישׁ </big></span><small><small><sup>[[H8659H]]</sup></small></small> &#8207;| tar.Shish <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to the king  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מֶּ֙לֶךְ֙ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the sea  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָּ֔ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִ֖ם </big></span><small><small><sup>[[H5973A]]</sup></small></small> &#8207;| 'im <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ship[s] of  | <span class="ashebrew"><big>אֳנִ֣י </big></span><small><small><sup>[[H0590]]</sup></small></small> &#8207;| 'o.Ni <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hiram  | <span class="ashebrew"><big>חִירָ֑ם </big></span><small><small><sup>[[H2438G]]</sup></small></small> &#8207;| chi.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one [time]  | <span class="ashebrew"><big>אַחַת֩ </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'a.Chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to three  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שָׁלֹ֨שׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sha.Losh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִ֜ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it came  | <span class="ashebrew"><big>תָּב֣וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ta.Vo' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ship[s] of  | <span class="ashebrew"><big>אֳנִ֣י </big></span><small><small><sup>[[H0590]]</sup></small></small> &#8207;| 'o.Ni <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tarshish  | <span class="ashebrew"><big>תַרְשִׁ֗ישׁ </big></span><small><small><sup>[[H8659H]]</sup></small></small> &#8207;| tar.Shish <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| carrying  | <span class="ashebrew"><big>נֹֽשְׂאֵת֙ </big></span><small><small><sup>[[H5375H]]</sup></small></small> &#8207;| no.se.'Et <small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֣ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and silver  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֶ֔סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Khe.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ivori\<es>  | <span class="ashebrew"><big>שֶׁנְהַבִּ֥ים </big></span><small><small><sup>[[H8143]]</sup></small></small> &#8207;| shen.ha.Bim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and monkeys  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קֹפִ֖ים </big></span><small><small><sup>[[H6971]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ko.Fim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and apes  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תֻכִּיִּֽים </big></span><small><small><sup>[[H8500]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tu.ki.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ship[s] of  |**<big>&#8207;[[H0590\|אֳנִ֨י]]&#8207; </big>**| 'o.Ni<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tarshish  |**<big>&#8207;[[H8659H\|תַרְשִׁ֤ישׁ]]&#8207; </big>**| tar.Shish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to the king  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4428G\|מֶּ֙לֶךְ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּ֔ם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִ֖ם]]&#8207; </big>**| 'im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ship[s] of  |**<big>&#8207;[[H0590\|אֳנִ֣י]]&#8207; </big>**| 'o.Ni<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hiram  |**<big>&#8207;[[H2438G\|חִירָ֑ם]]&#8207; </big>**| chi.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one [time]  |**<big>&#8207;[[H0259\|אַחַת֩]]&#8207; </big>**| 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to three  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7969\|שָׁלֹ֨שׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Losh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִ֜ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  |**<big>&#8207;[[H0935G\|תָּב֣וֹא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ship[s] of  |**<big>&#8207;[[H0590\|אֳנִ֣י]]&#8207; </big>**| 'o.Ni<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tarshish  |**<big>&#8207;[[H8659H\|תַרְשִׁ֗ישׁ]]&#8207; </big>**| tar.Shish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| carrying  |**<big>&#8207;[[H5375H\|נֹֽשְׂאֵת֙]]&#8207; </big>**| no.se.'Et<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֣ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and silver  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3701G\|כֶ֔סֶף]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ivori\<es>  |**<big>&#8207;[[H8143\|שֶׁנְהַבִּ֥ים]]&#8207; </big>**| shen.ha.Bim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and monkeys  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6971\|קֹפִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ko.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and apes  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8500\|תֻכִּיִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tu.ki.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.21|<< 1 Kings 10:21]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.23|1 Kings 10:23 >>]]</td></tr></table>
 
 

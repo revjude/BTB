@@ -1,5 +1,4 @@
-<span class="asaramaic">‎מָדַי‎</span> <small>***(ma.day)***</small> ==**Mede**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-Aramaic of: <small>[[H4091]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H4091|מְדָן]]</big>**</small> 
 
 - also called Mede frequently
-- Aramaic of <i>me.dan</i> (<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Medan" [[H4091]])
+- Aramaic of <i>me.dan</i> (<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Medan" **<big>[[H4091|מְדָן]]</big>**)

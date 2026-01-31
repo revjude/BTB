@@ -7,29 +7,29 @@ And her adversary also provoked her sore, for to make her fret, because the LORD
 Because the LORD had closed Hannah’s womb, her rival would provoke her viciously to taunt her.<small><sub>**MT:**</sub></small>
 [[1Sam.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.5|<< 1 Samuel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.7|1 Samuel 1:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| provoked her to anger | <big><span class="asgreek">παρώργισεν</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her rival | <big><span class="asgreek">αντίζηλος</span></big> <sup><small><small>[[G6363]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| even | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| a provocation to anger | <big><span class="asgreek">παροργισμώ</span></big> <sup><small><small>[[G3950]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treating her with contempt, | <big><span class="asgreek">εξουθενείν</span></big> <sup><small><small>[[G1848]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> closed up | <big><span class="asgreek">συνέκλεισε</span></big> <sup><small><small>[[G4788]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the \[matters\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her womb | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a child. | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| provoked her to anger | **<big>[[G3949\|παρώργισεν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her rival | **<big>[[G6363\|αντίζηλος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| even | **<big>[[G1065\|γε]]</big>** |
+| a provocation to anger | **<big>[[G3950\|παροργισμώ]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| treating her with contempt, | **<big>[[G1848\|εξουθενείν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> closed up | **<big>[[G4788\|συνέκλεισε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the \[matters\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her womb | **<big>[[G3388\|μήτραν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| give | **<big>[[G1325\|δούναι]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| a child. | **<big>[[G3813\|παιδίον]]</big>** |
 [[1Sam.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.5|<< 1 Samuel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.7|1 Samuel 1:7 >>]]</td></tr></table>
 
 

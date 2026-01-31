@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָרָק‎</span></big> **yârâq** <small>*(yaw-rawk')*</small> ==**herb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎יֶרֶק‎</span><sup><small>[[H3418]]</small></sup></small>
+**<big><span class="ashebrew">‎יָרָק‎</span></big>** **yârâq** <small>*(yaw-rawk')*</small> ==**herb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H3418|‎יֶרֶק‎]]</big>**</small>
 
 $\quad$ green, herbs.
 - properly, ***green***
@@ -7,4 +7,4 @@ $\quad$ green, herbs.
 
 **1)** herbs, herbage, vegetables, garden greens
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λάχανον</span><sup><small>[[G3001]]</small></sup>
+<small>See Greek: </small>**<big>[[G3001|λάχανον]]</big>**

@@ -6,15 +6,15 @@ The works of His hands are truth and justice; all His precepts are trustworthy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.6|<< Psalms 111:6]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.8|Psalms 111:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] works of  | <span class="ashebrew"><big>מַעֲשֵׂ֣י </big></span><small><small><sup>[[H4639G]]</sup></small></small> &#8207;| ma.'a.Sei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands his  | <span class="ashebrew"><big>יָ֭דָי </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| Ya.da <small><sup>[[HNcbdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] faithfulness  | <span class="ashebrew"><big>אֱמֶ֣ת </big></span><small><small><sup>[[H0571G]]</sup></small></small> &#8207;| 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and justice  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּ֑ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] reliable  | <span class="ashebrew"><big>נֶ֝אֱמָנִ֗ים </big></span><small><small><sup>[[H0539]]</sup></small></small> &#8207;| ne.'e.ma.Nim <small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| precepts his  | <span class="ashebrew"><big>פִּקּוּדָֽי </big></span><small><small><sup>[[H6490]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pi.ku.Da <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] works of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֣י]]&#8207; </big>**| ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands his  |**<big>&#8207;[[H3027G\|יָ֭דָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Ya.da<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] faithfulness  |**<big>&#8207;[[H0571G\|אֱמֶ֣ת]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and justice  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4941H\|מִשְׁפָּ֑ט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] reliable  |**<big>&#8207;[[H0539\|נֶ֝אֱמָנִ֗ים]]&#8207; </big>**| ne.'e.ma.Nim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| precepts his  |**<big>&#8207;[[H6490\|פִּקּוּדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pi.ku.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.6|<< Psalms 111:6]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.8|Psalms 111:8 >>]]</td></tr></table>
 
 

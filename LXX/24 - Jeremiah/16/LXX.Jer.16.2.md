@@ -7,19 +7,19 @@ Thou shalt not take thee a wife, neither shalt thou have sons or daughters in th
 “You must not marry or have sons or daughters in this place.”<small><sub>**MT:**</sub></small>
 [[Jer.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.1|<< Jeremiah 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.3|Jeremiah 16:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not take | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">λάβης</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall not be engendered | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γεννηθήσεταί</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place. | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| You should not take | **<big>[[G3361\|μη]]</big>** **<big>[[G2983\|λάβης]]</big>** |
+| a wife, | **<big>[[G1135\|γυναίκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there shall not be engendered | **<big>[[G3756\|ου]]</big>** **<big>[[G1080\|γεννηθήσεταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this place. | **<big>[[G5117\|τόπω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
 [[Jer.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.1|<< Jeremiah 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.3|Jeremiah 16:3 >>]]</td></tr></table>
 
 

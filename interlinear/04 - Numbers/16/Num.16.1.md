@@ -10,25 +10,25 @@ Now Korah son of Izhar, the son of Kohath son of Levi, along with some Reubenite
 > $\quad$ referenced by: [[1John.3.12|1John 3:12]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he took  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקַּ֣ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Kach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Korah  | <span class="ashebrew"><big>קֹ֔רַח </big></span><small><small><sup>[[H7141I]]</sup></small></small> &#8207;| Ko.rach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Izhar  | <span class="ashebrew"><big>יִצְהָ֥ר </big></span><small><small><sup>[[H3324]]</sup></small></small> &#8207;| yitz.Har <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kohath  | <span class="ashebrew"><big>קְהָ֖ת </big></span><small><small><sup>[[H6955]]</sup></small></small> &#8207;| ke.Hat <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Levi  | <span class="ashebrew"><big>לֵוִ֑י </big></span><small><small><sup>[[H3881]]</sup></small></small> &#8207;| le.Vi <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Dathan  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דָתָ֨ן </big></span><small><small><sup>[[H1885]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> da.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Abiram  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִירָ֜ם </big></span><small><small><sup>[[H0048G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.vi.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֧י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliab  | <span class="ashebrew"><big>אֱלִיאָ֛ב </big></span><small><small><sup>[[H0446H]]</sup></small></small> &#8207;| 'e.li.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and On  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>א֥וֹן </big></span><small><small><sup>[[H0203]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'on <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Peleth  | <span class="ashebrew"><big>פֶּ֖לֶת </big></span><small><small><sup>[[H6431G]]</sup></small></small> &#8207;| Pe.let <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Reuben  | <span class="ashebrew"><big>רְאוּבֵֽן </big></span><small><small><sup>[[H7205]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| re.'u.Ven <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Korah  |**<big>&#8207;[[H7141I\|קֹ֔רַח]]&#8207; </big>**| Ko.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Izhar  |**<big>&#8207;[[H3324\|יִצְהָ֥ר]]&#8207; </big>**| yitz.Har<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kohath  |**<big>&#8207;[[H6955\|קְהָ֖ת]]&#8207; </big>**| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Levi  |**<big>&#8207;[[H3881\|לֵוִ֑י]]&#8207; </big>**| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Dathan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1885\|דָתָ֨ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abiram  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0048G\|אֲבִירָ֜ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֧י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliab  |**<big>&#8207;[[H0446H\|אֱלִיאָ֛ב]]&#8207; </big>**| 'e.li.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and On  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0203\|א֥וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Peleth  |**<big>&#8207;[[H6431G\|פֶּ֖לֶת]]&#8207; </big>**| Pe.let<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.41|<< Numbers 15:41]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.2|Numbers 16:2 >>]]</td></tr></table>
 
 

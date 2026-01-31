@@ -11,19 +11,19 @@ Blessed is he who comes in the name of the LORD. From the house of the LORD we b
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Matt.23.39|Matt 23:39]] ☩ [[Mark.11.9|Mark 11:9-10]] ☩ [[Luke.13.35|Luke 13:35]] ☩ [[Luke.19.38|Luke 19:38]] ☩ [[John.12.13|John 12:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Being blessed | <big><span class="asgreek">ευλογημένος</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one coming | <big><span class="asgreek">ερχόμενος</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| We blessed | <big><span class="asgreek">ευλογήκαμεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Being blessed | **<big>[[G2127\|ευλογημένος]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| one coming | **<big>[[G2064\|ερχόμενος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] name | **<big>[[G3686\|ονόματι]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| We blessed | **<big>[[G2127\|ευλογήκαμεν]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ps.118.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.25|<< Psalm 118:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.27|Psalm 118:27 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ And Balak sent yet again princes, more, and more honourable than they.
 Then Balak sent other princes, more numerous and more distinguished than the first messengers.<small><sub>**MT:**</sub></small>
 [[Num.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.14|<< Numbers 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.16|Numbers 22:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| added | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| Balak | <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| to send | <big><span class="asgreek">αποστείλαι</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| many | <big><span class="asgreek">πλείους</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones more important | <big><span class="asgreek">εντιμοτέρους</span></big> <sup><small><small>[[G1784]]</small></small></sup> |
-| than these. | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| added | **<big>[[G4369\|προσέθετο]]</big>** |
+| again | **<big>[[G2089\|έτι]]</big>** |
+| Balak | **<big>[[G0904\|Βαλαάκ]]</big>** |
+| to send | **<big>[[G0649\|αποστείλαι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| many | **<big>[[G4183\|πλείους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones more important | **<big>[[G1784\|εντιμοτέρους]]</big>** |
+| than these. | **<big>[[G3778\|τούτων]]</big>** |
 [[Num.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.14|<< Numbers 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.16|Numbers 22:16 >>]]</td></tr></table>
 
 

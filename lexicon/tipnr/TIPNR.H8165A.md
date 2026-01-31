@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Seir</span> was a mountainous region inhabited by the Edomites, the descendants of Esau \(Gen. 32:3; 36:8; Num. 24:18; Deut. 2:4; Josh. 24:4\).
 - A location in Edom first mentioned at [[Gen.14.6|Gen.14.6]]; 
-- only referred to as Seir<[[H8165A]]> \(<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- only referred to as Seir **<big>[[H8165|שֵׂעִיר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.734691,35.606250&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The prophets Isaiah and Ezekiel also mention Seir in their oracles, often in the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Seir | [<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>](H8165A) <small>*Hebrew*</small> | 24x | [[Gen.14.6] ... [Ezk.25.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seir\*\|reference=Gen.14.6;Gen.32.3;Gen.33.14;Gen.33.16;Gen.36.8;Gen.36.9;Gen.36.30;Num.24.18;Deu.1.44;Deu.2.4;Deu.2.8;Deu.2.12;Deu.2.22;Deu.2.29;Deu.33.2;Jos.11.17;Jos.12.7;Jos.24.4;Jdg.5.4;2Ch.20.23;2Ch.25.11;2Ch.25.14;Isa.21.11;Ezk.25.8) |
-All Strong's for **Seir**: \[[[H8165A]]\]
+| Seir | [<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>](H8165A) | 24x | [[Gen.14.6] ... [Ezk.25.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seir\*\|reference=Gen.14.6;Gen.32.3;Gen.33.14;Gen.33.16;Gen.36.8;Gen.36.9;Gen.36.30;Num.24.18;Deu.1.44;Deu.2.4;Deu.2.8;Deu.2.12;Deu.2.22;Deu.2.29;Deu.33.2;Jos.11.17;Jos.12.7;Jos.24.4;Jdg.5.4;2Ch.20.23;2Ch.25.11;2Ch.25.14;Isa.21.11;Ezk.25.8) |
+All entries for **Seir**:  **<big>[[H8165|שֵׂעִיר]]</big>**

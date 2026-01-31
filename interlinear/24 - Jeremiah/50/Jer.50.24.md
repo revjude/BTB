@@ -6,22 +6,22 @@ I laid a snare for you, O Babylon, and you were caught before you knew it. You w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.23|<< Jeremiah 50:23]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.25|Jeremiah 50:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I set a trap  | <span class="ashebrew"><big>יָקֹ֨שְׁתִּי </big></span><small><small><sup>[[H3369]]</sup></small></small> &#8207;| ya.Ko.she.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> you  | <span class="ashebrew"><big>לָ֤ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| la <small><sup>[[HRd]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and also  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you were caught  | <span class="ashebrew"><big>נִלְכַּדְתְּ֙ </big></span><small><small><sup>[[H3920]]</sup></small></small> &#8207;| nil.kadT <small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֖תְּ </big></span><small><small><sup>[[H0859C]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'At <small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you knew  | <span class="ashebrew"><big>יָדָ֑עַתְּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da.'at <small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you were found  | <span class="ashebrew"><big>נִמְצֵאת֙ </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| nim.tzeT <small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and also  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you were caught  | <span class="ashebrew"><big>נִתְפַּ֔שְׂתְּ </big></span><small><small><sup>[[H8610]]</sup></small></small> &#8207;| nit.Past <small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with Yahweh  | <span class="ashebrew"><big>בַֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you engaged in strife  | <span class="ashebrew"><big>הִתְגָּרִֽית </big></span><small><small><sup>[[H1624]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hit.ga.Rit <small><sup>[[HVtp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I set a trap  |**<big>&#8207;[[H3369\|יָקֹ֨שְׁתִּי]]&#8207; </big>**| ya.Ko.she.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were caught  |**<big>&#8207;[[H3920\|נִלְכַּדְתְּ֙]]&#8207; </big>**| nil.kadT<small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֔ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859C\|אַ֖תְּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'At<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you knew  |**<big>&#8207;[[H3045\|יָדָ֑עַתְּ]]&#8207; </big>**| ya.Da.'at<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were found  |**<big>&#8207;[[H4672\|נִמְצֵאת֙]]&#8207; </big>**| nim.tzeT<small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were caught  |**<big>&#8207;[[H8610\|נִתְפַּ֔שְׂתְּ]]&#8207; </big>**| nit.Past<small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with Yahweh  |**<big>&#8207;[[H9003\|בַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you engaged in strife  |**<big>&#8207;[[H1624\|הִתְגָּרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hit.ga.Rit<small><sup>[[HVtp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.23|<< Jeremiah 50:23]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.25|Jeremiah 50:25 >>]]</td></tr></table>
 
 

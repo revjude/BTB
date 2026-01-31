@@ -1,4 +1,4 @@
-<small>Also see: [[H6946]]</small>
+<small>Also see: **<big>[[H6946|קָדֵשׁ]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎מְרִיבָה‎</span> **proper name, of a location** (***place of strife***); — 
 

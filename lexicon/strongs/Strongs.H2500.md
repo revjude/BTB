@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵלֶף‎</span></big> **chêleph** <small>*(klay'-lef)*</small> ==**for**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלַף‎</span><sup><small>[[H2498]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵלֶף‎</span></big>** **chêleph** <small>*(klay'-lef)*</small> ==**for**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2498|‎חָלַף‎]]</big>**</small>
 
 $\quad$ [idiom] for.
 - properly, ***exchange***

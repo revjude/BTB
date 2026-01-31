@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Ibnijah</span>, a descendant of Benjamin, was one of the Israelites who resettled in Jerusalem after the Babylonian exile.
 - A man living at the time of Exile and Return, only mentioned at [[1Chr.9.8|1Ch.9.8]]; 
-- only referred to as Ibnijah<[[H2998]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>\); 
--  father of Reuel<[[H7467H]]>.
+- only referred to as Ibnijah **<big>[[H2998|יִבְנִיָּה]]</big>**; 
+-  father of Reuel **<big>[[H7467|רְעוּאֵל]]</big>**.
 
 Ibnijah is mentioned briefly in [[1Chr.9.8|1 Chronicles 9:8]] as one of the Benjamites who lived in Jerusalem after the Babylonian exile. He is listed among the descendants of Benjamin who resettled in the city. 
 
@@ -17,7 +17,7 @@ Apart from this brief mention, no other details are provided about Ibnijah's lif
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ibnijah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2998) <small>*Hebrew*</small> | 1x | [1Ch.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibnijah\*\|reference=1Ch.9.8) |
-All Strong's for **Ibnijah**: \[[[H2998]]\]
+| Ibnijah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H2998) | 1x | [1Ch.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibnijah\*\|reference=1Ch.9.8) |
+All entries for **Ibnijah**:  **<big>[[H2998|יִבְנִיָּה]]</big>**
 #### Related Profiles:
 - **[Reuel](H7467H)** (child)

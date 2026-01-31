@@ -7,33 +7,33 @@ There [is] Edom, her kings, and all her princes, which with their might are laid
 Edom is there, and all her kings and princes, who despite their might are laid among those slain by the sword. They lie down with the uncircumcised, with those who descend to the Pit.<small><sub>**MT:**</sub></small>
 [[Ezek.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.28|<< Ezekiel 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.30|Ezekiel 32:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There \[is\] | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her kings, | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers. | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| Assyria, | <big><span class="asgreek">Ασσούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giving | <big><span class="asgreek">δόντες</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] wound | <big><span class="asgreek">τραύμα</span></big> <sup><small><small>[[G5134]]</small></small></sup> |
-| of \[the\] sword; | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \[the\] slain | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| sleep | <big><span class="asgreek">εκοιμήθησαν</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \[the\] ones going down | <big><span class="asgreek">καταβαινόντων</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] pit. | <big><span class="asgreek">βόθρον</span></big> <sup><small><small>[[G6679]]</small></small></sup> |
+| There \[is\] | **<big>[[G1563\|εκεί]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| her kings, | **<big>[[G0935\|βασιλείς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers. | **<big>[[G0758\|άρχοντες]]</big>** |
+| Assyria, | **<big>[[H0804\|Ασσούρ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| giving | **<big>[[G1325\|δόντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their strength | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] wound | **<big>[[G5134\|τραύμα]]</big>** |
+| of \[the\] sword; | **<big>[[G3162\|μαχαίρας]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \[the\] slain | **<big>[[G9470\|τραυματιών]]</big>** |
+| sleep | **<big>[[G2837\|εκοιμήθησαν]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \[the\] ones going down | **<big>[[G2597\|καταβαινόντων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] pit. | **<big>[[G6679\|βόθρον]]</big>** |
 [[Ezek.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.28|<< Ezekiel 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.30|Ezekiel 32:30 >>]]</td></tr></table>
 
 

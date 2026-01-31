@@ -6,16 +6,16 @@ So I will send fire upon the house of Hazael to consume the citadels of Ben-hada
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.3|<< Amos 1:3]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.5|Amos 1:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I will send forth  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שִׁלַּ֥חְתִּי </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> shi.Lach.ti <small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire  | <span class="ashebrew"><big>אֵ֖שׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] house of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בֵ֣ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hazael  | <span class="ashebrew"><big>חֲזָאֵ֑ל </big></span><small><small><sup>[[H2371]]</sup></small></small> &#8207;| cha.za.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will consume  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָכְלָ֖ה </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.khe.Lah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fortresses of  | <span class="ashebrew"><big>אַרְמְנ֥וֹת </big></span><small><small><sup>[[H0759H]]</sup></small></small> &#8207;| 'ar.me.Not <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ben  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1130I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hadad  | <span class="ashebrew"><big>הֲדָֽד </big></span><small><small><sup>[[H1130I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha.Dad <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will send forth  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שִׁלַּ֥חְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Lach.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  |**<big>&#8207;[[H0784\|אֵ֖שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004M\|בֵ֣ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hazael  |**<big>&#8207;[[H2371\|חֲזָאֵ֑ל]]&#8207; </big>**| cha.za.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will consume  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכְלָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khe.Lah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fortresses of  |**<big>&#8207;[[H0759H\|אַרְמְנ֥וֹת]]&#8207; </big>**| 'ar.me.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ben  |**<big>&#8207;[[H1130I\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hadad  |**<big>&#8207;[[H1130I\|הֲדָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.3|<< Amos 1:3]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.5|Amos 1:5 >>]]</td></tr></table>
 
 

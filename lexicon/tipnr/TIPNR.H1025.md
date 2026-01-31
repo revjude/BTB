@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-emek</span> was a town in the territory of Asher, mentioned in the description of Asher's border. \([[Josh.19.27|Joshua 19:27]]\)
 - A location only mentioned at [[Josh.19.27|Jos.19.27]]; 
-- only referred to as Beth-emek<[[H1025]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Beth-emek **<big>[[H1025|בֵּית הָעֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.978855,35.167096&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ No other details about Beth-emek are provided in the Bible, and the town is not 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-emek (NIV= Beth Emek) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H1025) <small>*Hebrew*</small> | 1x | [Jos.19.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.27) |
-All Strong's for **Beth-emek**: \[[[H1025]]\]
+| Beth-emek (NIV= Beth Emek) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H1025) | 1x | [Jos.19.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.27) |
+All entries for **Beth-emek**:  **<big>[[H1025|בֵּית הָעֵמֶק]]</big>**

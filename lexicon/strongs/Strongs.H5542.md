@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֶלָה‎</span></big> **çelâh** <small>*(seh'-law)*</small> ==**Selah**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from <span class="ashebrew">‎סָלָה‎</span><sup><small>[[H5541]]</small></sup></small>
+**<big><span class="ashebrew">‎סֶלָה‎</span></big>** **çelâh** <small>*(seh'-law)*</small> ==**Selah**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from **<big>[[H5541|‎סָלָה‎]]</big>**</small>
 
 $\quad$ Selah.
 - ***suspension*** (of music), i.e. ***pause***

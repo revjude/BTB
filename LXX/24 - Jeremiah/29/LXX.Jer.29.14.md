@@ -7,11 +7,11 @@ And I will be found of you, saith the LORD: and I will turn away your captivity,
 I will be found by you, declares the LORD, and I will restore you from captivity and gather you from all the nations and places to which I have banished you, declares the LORD. I will restore you to the place from which I sent you into exile.”<small><sub>**MT:**</sub></small>
 [[Jer.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.13|<< Jeremiah 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.15|Jeremiah 29:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall appear unto | <big><span class="asgreek">επιφανούμαι</span></big> <sup><small><small>[[G2014]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| I shall appear unto | **<big>[[G2014\|επιφανούμαι]]</big>** |
+| you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Jer.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.13|<< Jeremiah 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.15|Jeremiah 29:15 >>]]</td></tr></table>
 
 

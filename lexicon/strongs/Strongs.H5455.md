@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סַבְתְּכָא‎</span></big> **Çabtᵉkâʼ** <small>*(sab-tek-aw')*</small> ==**Sabteca**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎סַבְתְּכָא‎</span></big>** **Çabtᵉkâʼ** <small>*(sab-tek-aw')*</small> ==**Sabteca**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Sabtecha, Sabtechah.

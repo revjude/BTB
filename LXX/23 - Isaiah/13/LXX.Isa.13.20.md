@@ -7,30 +7,30 @@ It shall never be inhabited, neither shall it be dwelt in from generation to gen
 She will never be inhabited or settled from generation to generation; no nomad will pitch his tent there, no shepherd will rest his flock there.<small><sub>**MT:**</sub></small>
 [[Isa.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.19|<< Isaiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.21|Isaiah 13:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It shall not be | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| dwelt in | <big><span class="asgreek">κατοικηθήσεται</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon, | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| shall they enter | <big><span class="asgreek">εισέλθωσιν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| generations, | <big><span class="asgreek">γενεών</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| go through | <big><span class="asgreek">διελθωσιν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] Arabians | <big><span class="asgreek">Αραβες</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένες</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">αναπαύσονται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| It shall not be | **<big>[[G3756\|ου]]</big>** |
+| dwelt in | **<big>[[G2730\|κατοικηθήσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon, | **<big>[[G0165\|αιώνα]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| shall they enter | **<big>[[G1525\|εισέλθωσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| many | **<big>[[G4183\|πολλών]]</big>** |
+| generations, | **<big>[[G1074\|γενεών]]</big>** |
+| nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| go through | **<big>[[G1330\|διελθωσιν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| \[the\] Arabians | **<big>[[G0688\|Αραβες]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένες]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| shall rest | **<big>[[G0373\|αναπαύσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτή]]</big>** |
 [[Isa.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.19|<< Isaiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.21|Isaiah 13:21 >>]]</td></tr></table>
 
 

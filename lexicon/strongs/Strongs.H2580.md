@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵן‎</span></big> **chên** <small>*(khane)*</small> ==**favor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵן‎</span></big>** **chên** <small>*(khane)*</small> ==**favor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2603|‎חָנַן‎]]</big>**</small>
 
 $\quad$ favour, grace(-ious), pleasant, precious, (well-) favoured.
 - ***graciousness***, i.e. ***subjective*** (kindness, favor) or ***objective*** (beauty)
@@ -8,4 +8,4 @@ $\quad$ favour, grace(-ious), pleasant, precious, (well-) favoured.
 $\quad$ **1a)** favour, grace, elegance
 $\quad$ **1b)** favour, acceptance
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρεσκεία</span><sup><small>[[G0699]]</small></sup> · <span class="asgreek">ἔλεος</span><sup><small>[[G1656]]</small></sup> · <span class="asgreek">εὐχάριστος</span><sup><small>[[G2170]]</small></sup> · <span class="asgreek">χάρις</span><sup><small>[[G5485]]</small></sup>
+<small>See Greek: </small>**<big>[[G0699|ἀρεσκεία]]</big>** · **<big>[[G1656|ἔλεος]]</big>** · **<big>[[G2170|εὐχάριστος]]</big>** · **<big>[[G5485|χάρις]]</big>**

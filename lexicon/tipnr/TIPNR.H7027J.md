@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Kish</span>, a Benjamite, was an ancestor of Mordecai, the cousin and guardian of Queen Esther.
 - A man living at the time of Exile and Return, only mentioned at [[Esth.2.5|Est.2.5]]; 
-- only referred to as Kish<[[H7027J]]> \(<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ\); 
--  father of Shimei<[[H8096U]]>.
+- only referred to as Kish **<big>[[H7027|קִישׁ]]</big>**; 
+-  father of Shimei **<big>[[H8096|שִׁמְעִי]]</big>**.
 
 Kish is mentioned in [[Esth.2.5|Esther 2:5]] as an ancestor of Mordecai, a prominent Jewish figure in the Persian court during the reign of King Ahasuerus \(Xerxes I\). Mordecai is introduced as "the son of Jair, the son of Shimei, the son of Kish, a Benjamite." 
 
@@ -17,7 +17,7 @@ Apart from this brief mention in the genealogy of Mordecai, no further informati
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027J) <small>*Hebrew*</small> | 1x | [Est.2.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=Est.2.5) |
-All Strong's for **Kish**: \[[[H7027J]]\]
+| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027J) | 1x | [Est.2.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=Est.2.5) |
+All entries for **Kish**:  **<big>[[H7027|קִישׁ]]</big>**
 #### Related Profiles:
 - **[Shimei](H8096U)** (child)

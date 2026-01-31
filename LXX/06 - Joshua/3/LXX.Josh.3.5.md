@@ -7,22 +7,22 @@ And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD wil
 Then Joshua told the people, “Consecrate yourselves, for tomorrow the LORD will do wonders among you.”<small><sub>**MT:**</sub></small>
 [[Josh.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.4|<< Joshua 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.6|Joshua 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| Be sanctified | <big><span class="asgreek">αγιάσασθε</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| by | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| morrow! | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wonders | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| Be sanctified | **<big>[[G0037\|αγιάσασθε]]</big>** |
+| by | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| morrow! | **<big>[[G0839\|αύριον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| tomorrow | **<big>[[G0839\|αύριον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> shall do | **<big>[[G4160\|ποιήσει]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| wonders | **<big>[[G2297\|θαυμάσια]]</big>** |
 [[Josh.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.4|<< Joshua 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.6|Joshua 3:6 >>]]</td></tr></table>
 
 

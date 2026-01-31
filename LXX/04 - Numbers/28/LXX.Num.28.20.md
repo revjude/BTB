@@ -7,27 +7,27 @@ And their meat offering [shall be of] flour mingled with oil: three tenth deals 
 The grain offering shall consist of fine flour mixed with oil; offer three-tenths of an ephah with each bull, two-tenths of an ephah with the ram,<small><sub>**MT:**</sub></small>
 [[Num.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.19|<< Numbers 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.21|Numbers 28:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their sacrifice \[offering\] | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall be\] of fine flour | <big><span class="asgreek">σεμίδαλις</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">αναπεποιημένη</span></big> <sup><small><small>[[G6305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δέκατα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δέκατα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριώ</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| their sacrifice \[offering\] | **<big>[[G2378\|θυσία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[shall be\] of fine flour | **<big>[[G4585\|σεμίδαλις]]</big>** |
+| being prepared | **<big>[[G6305\|αναπεποιημένη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| olive oil, | **<big>[[G1637\|ελαίω]]</big>** |
+| three | **<big>[[G5140\|τρία]]</big>** |
+| tenths | **<big>[[G1181\|δέκατα]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tenths | **<big>[[G1181\|δέκατα]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| ram | **<big>[[G8096\|κριώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
 [[Num.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.19|<< Numbers 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.21|Numbers 28:21 >>]]</td></tr></table>
 
 

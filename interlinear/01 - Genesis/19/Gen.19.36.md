@@ -6,13 +6,13 @@ Thus both of Lot’s daughters became pregnant by their father.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.35|<< Genesis 19:35]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.37|Genesis 19:37 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they conceived  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תַּהֲרֶ֛יןָ </big></span><small><small><sup>[[H2029]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> ta.ha.Rei.na <small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֥י </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Tei <small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughters of  | <span class="ashebrew"><big>בְנֽוֹת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.not- <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lot  | <span class="ashebrew"><big>ל֖וֹט </big></span><small><small><sup>[[H3876]]</sup></small></small> &#8207;| Lot <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from father their  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֲבִי </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>הֶֽן </big></span><small><small><sup>[[H9029]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.vi. <small><sup>[[HNcmsc]]</sup></small> Hen <small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they conceived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2029\|תַּהֲרֶ֛יןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.ha.Rei.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  |**<big>&#8207;[[H8147\|שְׁתֵּ֥י]]&#8207; </big>**| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  |**<big>&#8207;[[H1323G\|בְנֽוֹת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.not-<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lot  |**<big>&#8207;[[H3876\|ל֖וֹט]]&#8207; </big>**| Lot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from father their  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0001G\|אֲבִי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.vi.<small><sup>[[HNcmsc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.35|<< Genesis 19:35]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.37|Genesis 19:37 >>]]</td></tr></table>
 
 

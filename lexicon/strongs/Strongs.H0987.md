@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎בַּטֻּחוֹת‎</span></big> **baṭṭuchôwth** <small>*(bat-too-khoth')*</small> ==**security**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine plural from <span class="ashebrew">‎בָּטַח‎</span><sup><small>[[H0982]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּטֻּחוֹת‎</span></big>** **baṭṭuchôwth** <small>*(bat-too-khoth')*</small> ==**security**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine plural from **<big>[[H0982|‎בָּטַח‎]]</big>**</small>
 
 $\quad$ secure.
 - ***security***
 
 **1)** security, safety
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄδηλος</span><sup><small>[[G0082]]</small></sup>
+<small>See Greek: </small>**<big>[[G0082|ἄδηλος]]</big>**

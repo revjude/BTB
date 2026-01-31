@@ -1,4 +1,3 @@
-<span class="asaramaic">‎מֹאזֵנְיָא‎</span> <small>***(mo.zen)***</small> ==**scale**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H3976]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3976|מֹאזֵן]]</big>**</small> 
 
-- Aramaic of <i>mo.zen</i> (<span class='ashebrew'>‎מ‎</span>ֹ<span class='ashebrew'>‎אז‎</span>ֵ<span class='ashebrew'>‎ן‎</span> "balance" [[H3976]])
+- Aramaic of <i>mo.zen</i> (<span class='ashebrew'>‎מ‎</span>ֹ<span class='ashebrew'>‎אז‎</span>ֵ<span class='ashebrew'>‎ן‎</span> "balance" **<big>[[H3976|מֹאזֵן]]</big>**)

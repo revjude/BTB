@@ -7,49 +7,49 @@ And it came to pass, when he saw the earring and bracelets upon his sister’s h
 As soon as he saw the ring, and the bracelets on his sister’s wrists, and heard Rebekah’s words, “The man said this to me,” he went and found the man standing by the camels near the spring.<small><sub>**MT:**</sub></small>
 [[Gen.24.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.29|<< Genesis 24:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.31|Genesis 24:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| he saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ear-rings, | <big><span class="asgreek">ενώτια</span></big> <sup><small><small>[[G7278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bracelets | <big><span class="asgreek">ψέλλια</span></big> <sup><small><small>[[G9790]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sister, | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| he heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of Rebekah | <big><span class="asgreek">Ρεβέκκας</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sister, | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λεγούσης</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| So | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| spoke | <big><span class="asgreek">λελάληκέ</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man; | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστηκότος</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| by himself | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camels | <big><span class="asgreek">καμήλων</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spring. | <big><span class="asgreek">πηγής</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| he saw | **<big>[[G1492\|είδε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ear-rings, | **<big>[[G7278\|ενώτια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bracelets | **<big>[[G9790\|ψέλλια]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his sister, | **<big>[[G0079\|αδελφής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| he heard | **<big>[[G0191\|ήκουσε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| of Rebekah | **<big>[[G4479\|Ρεβέκκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his sister, | **<big>[[G0079\|αδελφής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λεγούσης]]</big>** |
+| So | **<big>[[G3779\|ούτω]]</big>** |
+| spoke | **<big>[[G2980\|λελάληκέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man; | **<big>[[G0444\|άνθρωπος]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he came | **<big>[[G2064\|ήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| standing | **<big>[[G2476\|εστηκότος]]</big>** |
+| by himself | **<big>[[G1473\|αυτού]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| camels | **<big>[[G2574\|καμήλων]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| spring. | **<big>[[G4077\|πηγής]]</big>** |
 [[Gen.24.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.29|<< Genesis 24:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.31|Genesis 24:31 >>]]</td></tr></table>
 
 

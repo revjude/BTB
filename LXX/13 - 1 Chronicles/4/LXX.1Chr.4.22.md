@@ -7,29 +7,29 @@ And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion i
 Jokim, the men of Cozeba, and Joash and Saraph, who ruled in Moab and Jashubi-lehem. (These names are from ancient records.)<small><sub>**MT:**</sub></small>
 [[1Chr.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.21|<< 1 Chronicles 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.23|1 Chronicles 4:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jokim, | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3137]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Chozeba, | <big><span class="asgreek">Χοζηβά</span></big> <sup><small><small>[[H3578]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joash, | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saraph; | <big><span class="asgreek">Σαράφ</span></big> <sup><small><small>[[H8315]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| exercised authority | <big><span class="asgreek">εξουσιάσαντες</span></big> <sup><small><small>[[G1850]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they returned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Lehem. | <big><span class="asgreek">Λεέμ</span></big> <sup><small><small>[[H3433]]</small></small></sup> |
-| And the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| old | <big><span class="asgreek">παλαιοί</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jokim, | **<big>[[H3137\|Ιωακείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Chozeba, | **<big>[[H3578\|Χοζηβά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Joash, | **<big>[[H3135\|Ιωάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Saraph; | **<big>[[H8315\|Σαράφ]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| exercised authority | **<big>[[G1850\|εξουσιάσαντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they returned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Lehem. | **<big>[[H3433\|Λεέμ]]</big>** |
+| And the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| words | **<big>[[G3056\|λόγοι]]</big>** |
+| old | **<big>[[G3820\|παλαιοί]]</big>** |
+| are | **<big>[[G1510\|εισιν]]</big>** |
 [[1Chr.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.21|<< 1 Chronicles 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.23|1 Chronicles 4:23 >>]]</td></tr></table>
 
 

@@ -1,3 +1,1 @@
-<span class="asaramaic">‎תַּמָּה‎</span> <small>***(tam.mah)***</small> ==**there**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-Aramaic of: <small>[[H8033G]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H8033G|שָׁם]]</big>**</small>

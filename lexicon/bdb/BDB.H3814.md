@@ -1,6 +1,6 @@
  <span class="bdbLangHebrew">‎לָאט‎</span> [[Judg.4.21|Judg 4:21]], etc., see  <span class="bdbLangHebrew">‎לוּט‎</span>. 
 
-<small>Also see: [[H3858]]</small>
+<small>Also see: **<big>[[H3858|לַהַט]]</big>**</small>
 
  <span class="bdbLangHebrew">‎לָּט‎</span>, <span class="bdbLangHebrew">‎לָאט‎</span> **noun [masculine]** ==secrecy, mystery==; — absolute <span class="bdbLangHebrew">‎לָט‎</span> [[1Sam.18.22|1Sam 18:22]] + 2 t., <span class="bdbLangHebrew">‎לָאט‎</span> [[Judg.4.21|Judg 4:21]] plural suffix <span class="bdbLangHebrew">‎לָטֵיהֶם‎</span> [[Exod.7.22|Exod 7:22]] + 2 t.; <span class="bdbLangHebrew">‎לַהֲטֵיהֶם‎</span> [[Exod.7.11|Exod 7:11]] — always with <span class="bdbLangHebrew">‎׃בְּ‎</span> 
 $\quad$ $\quad$ **l.** <span class="bdbLangHebrew">‎בַּלָּט‎</span> = ***secretly*** [[1Sam.18.22|1Sam 18:22]]; [[1Sam.24.5|1Sam 24:5]]; [[Ruth.3.7|Ruth 3:7]] so <span class="bdbLangHebrew">‎בַּלָּאט‎</span> [[Judg.4.21|Judg 4:21]]. 

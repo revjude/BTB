@@ -7,17 +7,17 @@ The paths of their way are turned aside; they go to nothing, and perish.
 Caravans turn aside from their routes; they go into the wasteland and perish.<small><sub>**MT:**</sub></small>
 [[Job.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.19|Job 6:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| So | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I also | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| was left | <big><span class="asgreek">κατελείφθην</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| all; | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and I am destroyed, | <big><span class="asgreek">απωλόμην</span></big> <sup><small><small>[[G0622]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| homeless | <big><span class="asgreek">έξοικος</span></big> <sup><small><small>[[G7343]]</small></small></sup> |
-| I became | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| So | **<big>[[G3779\|ούτως]]</big>** |
+| I also | **<big>[[G2504\|καγώ]]</big>** |
+| was left | **<big>[[G2641\|κατελείφθην]]</big>** |
+| by | **<big>[[G5259\|υπό]]</big>** |
+| all; | **<big>[[G3956\|πάντων]]</big>** |
+| and I am destroyed, | **<big>[[G0622\|απωλόμην]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| homeless | **<big>[[G7343\|έξοικος]]</big>** |
+| I became | **<big>[[G1096\|εγενόμην]]</big>** |
 [[Job.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.19|Job 6:19 >>]]</td></tr></table>
 
 

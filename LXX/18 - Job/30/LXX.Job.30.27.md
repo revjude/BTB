@@ -7,18 +7,18 @@ My bowels boiled, and rested not: the days of affliction prevented me.
 I am churning within and cannot rest; days of affliction confront me.<small><sub>**MT:**</sub></small>
 [[Job.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.26|<< Job 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.28|Job 30:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My belly | <big><span class="asgreek">κοιλία</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| erupted, | <big><span class="asgreek">εξέζεσε</span></big> <sup><small><small>[[G7091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| would not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| keep silent; | <big><span class="asgreek">σιωπήσεται</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| anticipated | <big><span class="asgreek">προέφθασάν</span></big> <sup><small><small>[[G4399]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of poorness | <big><span class="asgreek">πτωχείας</span></big> <sup><small><small>[[G4432]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My belly | **<big>[[G2836\|κοιλία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| erupted, | **<big>[[G7091\|εξέζεσε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| would not | **<big>[[G3756\|ου]]</big>** |
+| keep silent; | **<big>[[G4623\|σιωπήσεται]]</big>** |
+| anticipated | **<big>[[G4399\|προέφθασάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of poorness | **<big>[[G4432\|πτωχείας]]</big>** |
 [[Job.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.26|<< Job 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.28|Job 30:28 >>]]</td></tr></table>
 
 

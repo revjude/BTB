@@ -5,7 +5,7 @@ Priest living at the time of United Monarchy
 <span class='tipnrhighlight'>Hophni</span>, along with his brother Phinehas, was a corrupt priest who served under his father Eli at the tabernacle in Shiloh.
 - A priest living at the time of United Monarchy, first mentioned at [[1Sam.1.3|1Sa.1.3]]; 
 -  son of Eli \(H5941\); 
--  brother of Phinehas \(H6372H\); called Hophni <[[H2652]]> \(<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\)
+-  brother of Phinehas \(H6372H\); called Hophni  **<big>[[H2652|חׇפְנִי]]</big>**
 
 Hophni was one of the two sons of Eli, the high priest of Israel, who served at the tabernacle in Shiloh \([[1Sam.1.3|1 Samuel 1:3]]\). Along with his brother Phinehas, Hophni was known for his corrupt behavior and disregard for the proper handling of the sacrifices and offerings brought to the tabernacle \(1 Samuel 2:12-17\). 
 
@@ -17,8 +17,8 @@ The story of Hophni serves as a warning against the abuse of religious authority
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hophni | [<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2652) <small>*Hebrew*</small> | 5x | [[1Sa.1.3] ... [1Sa.4.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hophni\*\|reference=1Sa.1.3;1Sa.2.34;1Sa.4.4;1Sa.4.11;1Sa.4.17) |
-All Strong's for **Hophni**: \[[[H2652]]\]
+| Hophni | [<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2652) | 5x | [[1Sa.1.3] ... [1Sa.4.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hophni\*\|reference=1Sa.1.3;1Sa.2.34;1Sa.4.4;1Sa.4.11;1Sa.4.17) |
+All entries for **Hophni**:  **<big>[[H2652|חׇפְנִי]]</big>**
 #### Related Profiles:
 - **[Eli](H5941)** (father)
 - **[Phinehas](H6372H)** (sibling)

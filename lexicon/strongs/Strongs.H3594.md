@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּיּוּן‎</span></big> **Kîyûwn** <small>*(kee-yoon')*</small> ==**Kiyyun**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>from <span class="ashebrew">‎כּוּן‎</span><sup><small>[[H3559]]</small></sup></small>
+**<big><span class="ashebrew">‎כִּיּוּן‎</span></big>** **Kîyûwn** <small>*(kee-yoon')*</small> ==**Kiyyun**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>from **<big>[[H3559|‎כּוּן‎]]</big>**</small>
 
 $\quad$ Chiun.
 - § Chiun = *"an image" or "pillar"*
@@ -8,4 +8,4 @@ $\quad$ Chiun.
 
 **1)** probably a statue of the Assyrian-Babylonian god of the planet Saturn and used to symbolise Israelite apostasy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ῥεμφάν</span><sup><small>[[G4481]]</small></sup>
+<small>See Greek: </small>**<big>[[G4481|Ῥεμφάν]]</big>**

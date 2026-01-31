@@ -7,21 +7,21 @@ A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it 
 Though a thousand may fall at your side, and ten thousand at your right hand, no harm will come near you.<small><sub>**MT:**</sub></small>
 [[Ps.91.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.6|<< Psalm 91:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.8|Psalm 91:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your side | <big><span class="asgreek">κλίτους</span></big> <sup><small><small>[[G8026]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| A thousand | <big><span class="asgreek">χιλιάς</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| myriads | <big><span class="asgreek">μυριάς</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your right \[hand\]; | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it shall not approach | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγγιεί</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| shall fall | **<big>[[G4098\|πεσείται]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your side | **<big>[[G8026\|κλίτους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| A thousand | **<big>[[G5505\|χιλιάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| myriads | **<big>[[G3461\|μυριάς]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| your right \[hand\]; | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| it shall not approach | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1448\|εγγιεί]]</big>** |
 [[Ps.91.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.6|<< Psalm 91:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.8|Psalm 91:8 >>]]</td></tr></table>
 
 

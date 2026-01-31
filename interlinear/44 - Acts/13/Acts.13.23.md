@@ -6,24 +6,24 @@ From the descendants of this man, God has brought to Israel the Savior Jesus, as
 <small><sub>**Literal:**</sub></small>
 Of this [man] the God of the seed according to promise has brought <the> to Israel [the] Savior Jesus —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.22|<< Acts 13:22]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.24|Acts 13:24 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Of this [man] |<big><span class="asgreek">τούτου</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutou <small><sup>[[D-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| God |<big><span class="asgreek">θεὸς</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seed |<big><span class="asgreek">σπέρματος</span></big> <small><small><sup>[[G4690G]]</sup></small></small> |spermatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| according to |<big><span class="asgreek">κατ᾽</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| promise |<big><span class="asgreek">ἐπαγγελίαν</span></big> <small><small><sup>[[G1860]]</sup></small></small> |epangelian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has brought [^1] [^2] |<big><span class="asgreek">ἤγαγεν</span></big> <small><small><sup>[[G0071]]</sup></small></small> |ēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |
-| \<the> |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to Israel |<big><span class="asgreek">Ἰσραὴλ</span></big> <small><small><sup>[[G2474]]</sup></small></small> |Israēl <small><sup>[[N-DSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] Savior [^3] [^4] |<big><span class="asgreek">σωτῆρα</span></big> <small><small><sup>[[G4990]]</sup></small></small> |sōtēra <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |
-| Jesus — |<big><span class="asgreek">Ἰησοῦν,</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsoun <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
+| Of this [man] |**<big>[[G3778\|τούτου]]</big>**  |toutou <small><sup>[[D-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| God |**<big>[[G2316\|θεὸς]]</big>**  |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seed |**<big>[[G4690G\|σπέρματος]]</big>**  |spermatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| according to |**<big>[[G2596\|κατ᾽]]</big>**  |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| promise |**<big>[[G1860\|ἐπαγγελίαν]]</big>**  |epangelian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has brought [^1] [^2] |**<big>[[G0071\|ἤγαγεν]]</big>**  |ēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |
+| \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to Israel |**<big>[[G2474\|Ἰσραὴλ]]</big>**  |Israēl <small><sup>[[N-DSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] Savior [^3] [^4] |**<big>[[G4990\|σωτῆρα]]</big>**  |sōtēra <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |
+| Jesus — |**<big>[[G2424G\|Ἰησοῦν,]]</big>**  |Iēsoun <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.22|<< Acts 13:22]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.24|Acts 13:24 >>]]</td></tr></table>
 
-[^1]: Variant:  <span class='asgreek'>**ἤγειρεν**</span>  (<i>ēgeiren</i>) 'he raised up' occurs in traditional manuscripts (TR) instead of <span class='asgreek'>**ἤγαγεν**</span>  (<i>ēgagen</i>) 'has brought' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg+Byz)
-[^2]: ==TR==: he raised up | <span class="asgreek">ἤγειρεν</span><small><sup>[[G1453]]</sup></small> | ēgeiren<small><sup>[[V-AAI-3S]]</sup></small>
-[^3]: Variant:  <span class='asgreek'>**σωτηρίαν**</span>  (<i>sōtērian</i>) 'salvation' occurs in a few manuscripts (Byz) instead of <span class='asgreek'>**σωτῆρα**</span>  (<i>sōtēra</i>) '[the] Savior' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg+TR)
-[^4]: ==Byz==: salvation | <span class="asgreek">σωτηρίαν</span><small><sup>[[G4991]]</sup></small> | sōtērian<small><sup>[[N-ASF]]</sup></small>
+[^1]: Variant:  **<big><span class='asgreek'>ἤγειρεν</span></big>**  (<i>ēgeiren</i>) 'he raised up' occurs in traditional manuscripts (TR) instead of **<big><span class='asgreek'>ἤγαγεν</span></big>**  (<i>ēgagen</i>) 'has brought' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg+Byz)
+[^2]: ==TR==: he raised up | **<big>[[G1453|ἤγειρεν]]</big>** | ēgeiren<small><sup>[[V-AAI-3S]]</sup></small>
+[^3]: Variant:  **<big><span class='asgreek'>σωτηρίαν</span></big>**  (<i>sōtērian</i>) 'salvation' occurs in a few manuscripts (Byz) instead of **<big><span class='asgreek'>σωτῆρα</span></big>**  (<i>sōtēra</i>) '[the] Savior' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg+TR)
+[^4]: ==Byz==: salvation | **<big>[[G4991|σωτηρίαν]]</big>** | sōtērian<small><sup>[[N-ASF]]</sup></small>

@@ -6,12 +6,12 @@ Maon, Carmel, Ziph, Juttah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.54|<< Joshua 15:54]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.56|Joshua 15:56 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Maon  | <span class="ashebrew"><big>מָע֥וֹן </big></span><small><small><sup>[[H4584G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ma.'on <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Carmel  | <span class="ashebrew"><big>כַּרְמֶ֖ל </big></span><small><small><sup>[[H3760G]]</sup></small></small> &#8207;| kar.Mel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ziph  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זִ֥יף </big></span><small><small><sup>[[H2128H]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Zif <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Juttah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוּטָּֽה </big></span><small><small><sup>[[H3194]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yu.Tah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maon  |**<big>&#8207;[[H4584G\|מָע֥וֹן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ma.'on<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Carmel  |**<big>&#8207;[[H3760G\|כַּרְמֶ֖ל]]&#8207; </big>**| kar.Mel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ziph  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H2128H\|זִ֥יף]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Zif<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Juttah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3194\|יוּטָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yu.Tah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.54|<< Joshua 15:54]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.56|Joshua 15:56 >>]]</td></tr></table>
 
 

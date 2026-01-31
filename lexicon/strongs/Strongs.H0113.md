@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָדוֹן‎</span></big> **ʼâdôwn** <small>*(aw-done')*</small> ==**lord**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אָדֹן</span> **ʼâdôn** <small>*(aw-done')*</small>; from an unused root (meaning to rule)</small>
+**<big><span class="ashebrew">‎אָדוֹן‎</span></big>** **ʼâdôwn** <small>*(aw-done')*</small> ==**lord**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אָדֹן</span></big>** **ʼâdôn** <small>*(aw-done')*</small>; from an unused root (meaning to rule)</small>
 
 $\quad$ lord, master, owner. Compare also names beginning with 'Adoni-'.
 - § 1b2a) Lord of lords (probably = *"thy husband, Yahweh")*
@@ -41,4 +41,4 @@ $\quad$ $\quad$ **1c2)** reference to God
 $\quad$ $\quad$ $\quad$ **1c2a)** my Lord, my Lord and my God
 $\quad$ $\quad$ $\quad$ **1c2b)** Adonai (parallel with Yahweh)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνήρ</span><sup><small>[[G0435]]</small></sup> · <span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">δεσπότης</span><sup><small>[[G1203]]</small></sup> · <span class="asgreek">κύριος</span><sup><small>[[G2962]]</small></sup> · <span class="asgreek">χράομαι</span><sup><small>[[G5530]]</small></sup>
+<small>See Greek: </small>**<big>[[G0435|ἀνήρ]]</big>** · **<big>[[G0758|ἄρχων]]</big>** · **<big>[[G1203|δεσπότης]]</big>** · **<big>[[G2962|κύριος]]</big>** · **<big>[[G5530|χράομαι]]</big>**

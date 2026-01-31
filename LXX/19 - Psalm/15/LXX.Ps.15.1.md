@@ -12,20 +12,20 @@ A Psalm of David. LORD, who shall abide in thy tabernacle? who shall dwell in th
 A Psalm of David. O LORD, who may abide in Your tent? Who may dwell on Your holy mountain?<small><sub>**MT:**</sub></small>
 [[Ps.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.7|<< Psalm 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.2|Psalm 15:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall sojourn | <big><span class="asgreek">παροικήσει</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tent, | <big><span class="asgreek">σκηνώματί</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall encamp | <big><span class="asgreek">κατασκηνώσει</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| your holy | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| shall sojourn | **<big>[[G3939\|παροικήσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your tent, | **<big>[[G4638\|σκηνώματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| shall encamp | **<big>[[G2681\|κατασκηνώσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| mountain | **<big>[[G3735\|όρει]]</big>** |
+| your holy | **<big>[[G0039\|αγίω]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.7|<< Psalm 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.2|Psalm 15:2 >>]]</td></tr></table>
 
 

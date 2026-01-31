@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׂמְלָה‎</span></big> **Samlâh** <small>*(sam-law')*</small> ==**Samlah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for the same as <span class="ashebrew">‎שִׂמְלָה‎</span><sup><small>[[H8071]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׂמְלָה‎</span></big>** **Samlâh** <small>*(sam-law')*</small> ==**Samlah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for the same as **<big>[[H8071|‎שִׂמְלָה‎]]</big>**</small>
 
 $\quad$ Samlah.
 - § Samlah = *"garment"*

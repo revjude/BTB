@@ -1,5 +1,4 @@
-<span class="ashebrew">‎כַּרְמִי‎</span> <small>***(kar.mi)***</small> ==**Carmi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.9|Gen.46.9]]
--  son of: Reuben ([[H7205]])
--  brother of: Pallu ([[H6396]]), Hezron ([[H2696]]) and Hanoch ([[H2585J]])
-- Also named: <i>kar.mi</i> (<span class='ashebrew'>‎כ‎</span>ַּ<span class='ashebrew'>‎ר‎</span>ְ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Carmite" [[H3757]])
+-  son of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**)
+-  brother of: Pallu (**<big>[[H6396|פַּלּוּא]]</big>**), Hezron (**<big>[[H2696|חֶצְרוֹן]]</big>**) and Hanoch (**<big>[[H2585J|חֲנוֹךְ]]</big>**)
+- Also named: <i>kar.mi</i> (<span class='ashebrew'>‎כ‎</span>ַּ<span class='ashebrew'>‎ר‎</span>ְ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎י‎</span> "Carmite" **<big>[[H3757|כַּרְמִי]]</big>**)

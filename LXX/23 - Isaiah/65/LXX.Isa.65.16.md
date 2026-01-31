@@ -7,40 +7,40 @@ That he who blesseth himself in the earth shall bless himself in the God of trut
 Whoever invokes a blessing in the land will do so by the God of truth, and whoever takes an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from My sight.<small><sub>**MT:**</sub></small>
 [[Isa.65.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.15|<< Isaiah 65:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.17|Isaiah 65:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall be blessed | <big><span class="asgreek">ευλογηθήσεται</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| For they shall bless | <big><span class="asgreek">ευλογήσουσι</span></big> <sup><small><small>[[G2127]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| true | <big><span class="asgreek">αληθινόν</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| swearing by an oath | <big><span class="asgreek">ομνύοντες</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| shall swear by an oath on | <big><span class="asgreek">ομούνται</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| true | <big><span class="asgreek">αληθινόν</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| For they shall forget | <big><span class="asgreek">επιλήσονται</span></big> <sup><small><small>[[G1950]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψιν</span></big> <sup><small><small>[[G2347]][[G1473]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτην</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not ascend | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart. | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | **<big>[[G3739\|ο]]</big>** |
+| shall be blessed | **<big>[[G2127\|ευλογηθήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
+| For they shall bless | **<big>[[G2127\|ευλογήσουσι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| true | **<big>[[G0228\|αληθινόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| swearing by an oath | **<big>[[G3660\|ομνύοντες]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| shall swear by an oath on | **<big>[[G3660\|ομούνται]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| true | **<big>[[G0228\|αληθινόν]]</big>** |
+| For they shall forget | **<big>[[G1950\|επιλήσονται]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| affliction | **<big>[[G2347\|θλίψιν]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| first | **<big>[[G4413\|πρώτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not ascend | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0305\|αναβήσεται]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their heart. | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.65.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.15|<< Isaiah 65:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.17|Isaiah 65:17 >>]]</td></tr></table>
 
 

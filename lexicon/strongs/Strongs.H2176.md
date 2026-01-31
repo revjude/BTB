@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִמְרָת‎</span></big> **zimrâth** <small>*(zim-rawth')*</small> ==**song**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎זָמַר‎</span><sup><small>[[H2167]]</small></sup></small>
+**<big><span class="ashebrew">‎זִמְרָת‎</span></big>** **zimrâth** <small>*(zim-rawth')*</small> ==**song**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2167|‎זָמַר‎]]</big>**</small>
 
 $\quad$ song.
 - ***instrumental music***

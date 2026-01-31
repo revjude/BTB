@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎βίαιος‎</span></big> **bíaios** <small>*(bee'-ah-yos)*</small> ==**strong**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-<small>from <span class="asgreek">βία</span><sup><small>[[G0970]]</small></sup></small>
+**<big><span class="asgreek">‎βίαιος‎</span></big>** **bíaios** <small>*(bee'-ah-yos)*</small> ==**strong**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+<small>from **<big>[[G0970|‎βία‎]]</big>**</small>
 
 $\quad$ mighty.
 - violent

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Σαμψών</span></span>, <span class="asgreek">ὁ </span> indecl.  (Heb. <span class="ashebrew">שִׁמְשׁוֹן</span> <small><sup>[[H8123]]</sup></small>), </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Σαμψών</span></span>, <span class="asgreek">ὁ </span> indecl.  (Heb. **<big>[[H8123|שִׁמְשׁוֹן]]</big>**), </span>
 Samson ([[LXX.Judg.13.1|Jg 13 ff.]]): [[Heb.11.32|He 11:32]].†
 
 **Abbott-Smith References**

@@ -7,30 +7,30 @@ And if the people of the land do any ways hide their eyes from the man, when he 
 And if the people of the land ever hide their eyes and fail to put to death the man who gives one of his children to Molech,<small><sub>**MT:**</sub></small>
 [[Lev.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.3|<< Leviticus 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.5|Leviticus 20:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in disdain | <big><span class="asgreek">υπερόψει</span></big> <sup><small><small>[[G9558]]</small></small></sup> |
-| should overlook | <big><span class="asgreek">υπερίδωσιν</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| native-born | <big><span class="asgreek">αυτόχθονες</span></big> <sup><small><small>[[G6611]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his giving | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his semen | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to a chief \[god\], | <big><span class="asgreek">άρχοντι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| to | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| kill | <big><span class="asgreek">αποκτείναι</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in disdain | **<big>[[G9558\|υπερόψει]]</big>** |
+| should overlook | **<big>[[G5237\|υπερίδωσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| native-born | **<big>[[G6611\|αυτόχθονες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| that man, | **<big>[[G0444\|ανθρώπου]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his giving | **<big>[[G1325\|δούναι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his semen | **<big>[[G4690\|σπέρματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to a chief \[god\], | **<big>[[G0758\|άρχοντι]]</big>** |
+| to | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| kill | **<big>[[G0615\|αποκτείναι]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
 [[Lev.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.3|<< Leviticus 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.5|Leviticus 20:5 >>]]</td></tr></table>
 
 

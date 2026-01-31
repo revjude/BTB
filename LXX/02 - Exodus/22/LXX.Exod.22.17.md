@@ -7,31 +7,31 @@ If her father utterly refuse to give her unto him, he shall pay money according 
 If her father absolutely refuses to give her to him, the man still must pay an amount comparable to the bridal price of a virgin.<small><sub>**MT:**</sub></small>
 [[Exod.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in shaking | <big><span class="asgreek">ανανεύων</span></big> <sup><small><small>[[G6296]]</small></small></sup> |
-| he shakes his head in dissent, | <big><span class="asgreek">ανανεύση</span></big> <sup><small><small>[[G6296]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be willing | <big><span class="asgreek">βούληται</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as wife, | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσον</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dowry | <big><span class="asgreek">φερνή</span></big> <sup><small><small>[[G9631]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| virgins. | <big><span class="asgreek">παρθένων</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in shaking | **<big>[[G6296\|ανανεύων]]</big>** |
+| he shakes his head in dissent, | **<big>[[G6296\|ανανεύση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| be willing | **<big>[[G1014\|βούληται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| her father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| as wife, | **<big>[[G1135\|γυναίκα]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| he shall pay | **<big>[[G0661\|αποτίσει]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| father | **<big>[[G3962\|πατρί]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| as much as | **<big>[[G3745\|όσον]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| dowry | **<big>[[G9631\|φερνή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| virgins. | **<big>[[G3933\|παρθένων]]</big>** |
 [[Exod.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶבֶר‎</span></big> **cheber** <small>*(kheh'-ber)*</small> ==**spell**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָבַר‎</span><sup><small>[[H2266]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶבֶר‎</span></big>** **cheber** <small>*(kheh'-ber)*</small> ==**spell**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2266|‎חָבַר‎]]</big>**</small>
 
 $\quad$ [phrase] charmer(-ing), company, enchantment, [idiom] wide.
 - ***a society***
@@ -9,4 +9,4 @@ $\quad$ [phrase] charmer(-ing), company, enchantment, [idiom] wide.
 **2)** shared, association, society
 **3)** a magician, charmer, spell
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κοινός</span><sup><small>[[G2839]]</small></sup>
+<small>See Greek: </small>**<big>[[G2839|κοινός]]</big>**

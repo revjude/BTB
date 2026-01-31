@@ -1,4 +1,4 @@
-form of: <small>[[G3173]]</small> 
+form of: <small>**<big>[[G3173|μέγας]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μεῖζον==</span></b>, <span class='asgreek'>μεγάλη</span> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>μέγα</span> [<span class='asgreek'>ᾰ</span>], 

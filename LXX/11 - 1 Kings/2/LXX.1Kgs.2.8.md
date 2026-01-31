@@ -7,52 +7,52 @@ And, behold, [thou hast] with thee Shimei the son of Gera, a Benjamite of Bahuri
 Keep an eye on Shimei the son of Gera, the Benjamite from Bahurim who is with you. He called down bitter curses against me on the day I went to Mahanaim, but when he came down to meet me at the Jordan, I swore to him by the LORD: ‘I will never put you to the sword.’<small><sub>**MT:**</sub></small>
 [[1Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.7|<< 1 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.9|1 Kings 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[there is\] with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shimei | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gera, | <big><span class="asgreek">Γηρά</span></big> <sup><small><small>[[H1617]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Benjamite | <big><span class="asgreek">Ιεμενί</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Bahurim. | <big><span class="asgreek">Βαουρίν</span></big> <sup><small><small>[[H0980]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cursed | <big><span class="asgreek">κατηράσατό</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| curse | <big><span class="asgreek">κατάραν</span></big> <sup><small><small>[[G2671]]</small></small></sup> |
-| a grievous | <big><span class="asgreek">οδυνηράν</span></big> <sup><small><small>[[G8446]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I went | <big><span class="asgreek">επορευόμην</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Camps. | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meeting | <big><span class="asgreek">απάντησίν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I swore by an oath | <big><span class="asgreek">ώμοσα</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to death | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">θανατώσω</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword. | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[there is\] with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| Shimei | **<big>[[H8096\|Σεμεϊ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Gera, | **<big>[[H1617\|Γηρά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Benjamite | **<big>[[G0958\|Ιεμενί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Bahurim. | **<big>[[H0980\|Βαουρίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| cursed | **<big>[[G2672\|κατηράσατό]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| curse | **<big>[[G2671\|κατάραν]]</big>** |
+| a grievous | **<big>[[G8446\|οδυνηράν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| I went | **<big>[[G4198\|επορευόμην]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Camps. | **<big>[[G3925\|παρεμβολάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| went down | **<big>[[G2597\|κατέβη]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| meeting | **<big>[[G0529\|απάντησίν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I swore by an oath | **<big>[[G3660\|ώμοσα]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| to death | **<big>[[G1487\|ει]]</big>** **<big>[[G2289\|θανατώσω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword. | **<big>[[G4501\|ρομφαία]]</big>** |
 [[1Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.7|<< 1 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.9|1 Kings 2:9 >>]]</td></tr></table>
 
 

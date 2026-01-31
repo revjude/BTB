@@ -10,21 +10,21 @@ And when they saw him afar off, even before he came near unto them, they conspir
 Now Joseph’s brothers saw him in the distance, and before he arrived, they plotted to kill him.<small><sub>**MT:**</sub></small>
 [[Gen.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.17|<< Genesis 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.19|Genesis 37:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And they spied | <big><span class="asgreek">προείδον</span></big> <sup><small><small>[[G4275]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| far off | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his approaching | <big><span class="asgreek">εγγίσαι</span></big> <sup><small><small>[[G1448]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they \[acted\] wickedly | <big><span class="asgreek">επονηρεύοντο</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to kill | <big><span class="asgreek">αποκτείναι</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And they spied | **<big>[[G4275\|προείδον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| far off | **<big>[[G3113\|μακρόθεν]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his approaching | **<big>[[G1448\|εγγίσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they \[acted\] wickedly | **<big>[[G8863\|επονηρεύοντο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to kill | **<big>[[G0615\|αποκτείναι]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Gen.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.17|<< Genesis 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.19|Genesis 37:19 >>]]</td></tr></table>
 
 

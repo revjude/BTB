@@ -3,8 +3,8 @@
 Ancestors of Heber@[[Judg.4.11|Jdg.4.11]]- or Hobab@Num.10.29-Jdg
 
 The <span class='tipnrhighlight'>Kenite</span>s were a nomadic tribe who lived in the region of Canaan and were generally friendly to the Israelites, often providing them with assistance and support.
-- Ancestors of Heber<[[H2268H]]> or Hobab<[[H2246]]>, first mentioned at [[Gen.15.19|Gen.15.19]]; 
-- referred to as Kenite<[[H7017]]> \(<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Kenite<[[H7014G]]> \(<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>\).
+- Ancestors of Heber **<big>[[H2268|חֶבֶר]]</big>** or Hobab **<big>[[H2246|חֹבָב]]</big>**, first mentioned at [[Gen.15.19|Gen.15.19]]; 
+- referred to as Kenite **<big>[[H7017|קֵינִי]]</big>**, or Kenite **<big>[[H7014|קַיִן]]</big>**.
 
 The Kenites were a nomadic tribe mentioned throughout the Old Testament. They lived in the region of Canaan and were generally friendly to the Israelites, often providing them with assistance and support. 
 
@@ -22,6 +22,6 @@ Throughout the biblical narrative, the Kenites are portrayed as a friendly and s
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kenite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ִ<span class='tipnrLangHebrew'>י</span>](H7017) <small>*Hebrew*</small> | 12x | [[Gen.15.19] ... [1Ch.2.55] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenite\*\|reference=Gen.15.19;Num.24.21;Jdg.1.16;Jdg.4.11;Jdg.4.17;Jdg.4.17;Jdg.5.24;1Sa.15.6;1Sa.15.6;1Sa.27.10;1Sa.30.29;1Ch.2.55) |
-| Kenite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H7014G) <small>*Hebrew*</small> | 1x | [Jdg.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenite\*\|reference=Jdg.4.11) |
-All Strong's for **Kenite**: \[[[H7017]]\] \[[[H7014G]]\]
+| Kenite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ִ<span class='tipnrLangHebrew'>י</span>](H7017) | 12x | [[Gen.15.19] ... [1Ch.2.55] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenite\*\|reference=Gen.15.19;Num.24.21;Jdg.1.16;Jdg.4.11;Jdg.4.17;Jdg.4.17;Jdg.5.24;1Sa.15.6;1Sa.15.6;1Sa.27.10;1Sa.30.29;1Ch.2.55) |
+| Kenite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H7014G) | 1x | [Jdg.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenite\*\|reference=Jdg.4.11) |
+All entries for **Kenite**:  **<big>[[H7017|קֵינִי]]</big>** ☩  **<big>[[H7014|קַיִן]]</big>**

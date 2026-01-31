@@ -7,35 +7,35 @@ And he answered, Thou shalt not smite [them]: wouldest thou smite those whom tho
 “Do not kill them,” he replied. “Would you kill those you have captured with your own sword or bow? Set food and water before them, that they may eat and drink and then return to their master.”<small><sub>**MT:**</sub></small>
 [[2Kgs.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.21|<< 2 Kings 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.23|2 Kings 6:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| strike. | <big><span class="asgreek">πατάξεις</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| Whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you captured | <big><span class="asgreek">ηχμαλώτευσας</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your bow | <big><span class="asgreek">τόξω</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall strike. | <big><span class="asgreek">πατάξεις</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| Place | <big><span class="asgreek">παράθες</span></big> <sup><small><small>[[G3908]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them eat | <big><span class="asgreek">φαγέτωσαν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them drink | <big><span class="asgreek">πιέτωσαν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them go forth | <big><span class="asgreek">απελθέτωσαν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their master! | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| strike. | **<big>[[G3960\|πατάξεις]]</big>** |
+| Whom | **<big>[[G3739\|ους]]</big>** |
+| you captured | **<big>[[G0162\|ηχμαλώτευσας]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| your broadsword, | **<big>[[G4501\|ρομφαία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your bow | **<big>[[G5115\|τόξω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall strike. | **<big>[[G3960\|πατάξεις]]</big>** |
+| Place | **<big>[[G3908\|παράθες]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them eat | **<big>[[G2068\|φαγέτωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them drink | **<big>[[G4095\|πιέτωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them go forth | **<big>[[G0565\|απελθέτωσαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their master! | **<big>[[G2962\|κύριον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[2Kgs.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.21|<< 2 Kings 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.23|2 Kings 6:23 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Now Rachel had taken the images, and put them in the camel’s furniture, and sa
 Now Rachel had taken Laban’s household idols, put them in the saddlebag of her camel, and was sitting on them. And Laban searched everything in the tent but found nothing.<small><sub>**MT:**</sub></small>
 [[Gen.31.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.33|<< Genesis 31:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.35|Genesis 31:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| idols, | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">ενέβαλεν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| packsaddles | <big><span class="asgreek">σάγματα</span></big> <sup><small><small>[[G9046]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camel, | <big><span class="asgreek">καμήλου</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat | <big><span class="asgreek">επεκάθισεν</span></big> <sup><small><small>[[G1940]]</small></small></sup> |
-| on them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And Rachel | **<big>[[G4478\|Ραχήλ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| idols, | **<big>[[G1497\|είδωλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1685\|ενέβαλεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| packsaddles | **<big>[[G9046\|σάγματα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camel, | **<big>[[G2574\|καμήλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sat | **<big>[[G1940\|επεκάθισεν]]</big>** |
+| on them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Gen.31.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.33|<< Genesis 31:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.35|Genesis 31:35 >>]]</td></tr></table>
 
 

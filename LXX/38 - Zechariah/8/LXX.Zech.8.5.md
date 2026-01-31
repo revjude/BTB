@@ -7,21 +7,21 @@ And the streets of the city shall be full of boys and girls playing in the stree
 And the streets of the city will be filled with boys and girls playing there.”<small><sub>**MT:**</sub></small>
 [[Zech.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.4|<< Zechariah 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.6|Zechariah 8:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| squares | <big><span class="asgreek">πλατείαι</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| shall be filled | <big><span class="asgreek">πλησθήσονται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| with boys | <big><span class="asgreek">παιδαρίων</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| girls | <big><span class="asgreek">κορασίων</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
-| playing | <big><span class="asgreek">παιζόντων</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her squares. | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4113]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| squares | **<big>[[G4113\|πλατείαι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| shall be filled | **<big>[[G4130\|πλησθήσονται]]</big>** |
+| with boys | **<big>[[G3808\|παιδαρίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| girls | **<big>[[G2877\|κορασίων]]</big>** |
+| playing | **<big>[[G3815\|παιζόντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| her squares. | **<big>[[G4113\|πλατείαις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Zech.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.4|<< Zechariah 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.6|Zechariah 8:6 >>]]</td></tr></table>
 
 

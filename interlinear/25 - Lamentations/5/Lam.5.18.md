@@ -6,15 +6,15 @@ because of Mount Zion, which lies desolate, patrolled by foxes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.17|<< Lamentations 5:17]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.19|Lamentations 5:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| on  | <span class="ashebrew"><big>עַ֤ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּוֹן֙ </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.yOn <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that [is] desolate  | <span class="ashebrew"><big>שֶׁ </big></span><small><small><sup>[[H9007]]</sup></small></small> <span class="ashebrew"><big>שָּׁמֵ֔ם </big></span><small><small><sup>[[H8074G]]</sup></small></small> &#8207;| she. <small><sup>[[HTr]]</sup></small> sha.Mem <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foxes  | <span class="ashebrew"><big>שׁוּעָלִ֖ים </big></span><small><small><sup>[[H7776]]</sup></small></small> &#8207;| shu.'a.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have prowled  | <span class="ashebrew"><big>הִלְּכוּ </big></span><small><small><sup>[[H1980I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hi.le.khu- <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>בֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| v <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּוֹן֙]]&#8207; </big>**| tzi.yOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that [is] desolate  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H8074G\|שָּׁמֵ֔ם]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> sha.Mem<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foxes  |**<big>&#8207;[[H7776\|שׁוּעָלִ֖ים]]&#8207; </big>**| shu.'a.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have prowled  |**<big>&#8207;[[H1980I\|הִלְּכוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.le.khu-<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H9003\|בֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.17|<< Lamentations 5:17]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.19|Lamentations 5:19 >>]]</td></tr></table>
 
 

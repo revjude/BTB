@@ -7,18 +7,18 @@ Thou hast made his glory to cease, and cast his throne down to the ground.
 You have ended his splendor and cast his throne to the ground.<small><sub>**MT:**</sub></small>
 [[Ps.89.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.43|<< Psalm 89:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.45|Psalm 89:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You rested | <big><span class="asgreek">κατέλυσας</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| cleansing | <big><span class="asgreek">καθαρισμού</span></big> <sup><small><small>[[G2512]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his throne | <big><span class="asgreek">θρόνον</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| You broke down | <big><span class="asgreek">κατέρραξας</span></big> <sup><small><small>[[G7907]]</small></small></sup> |
+| You rested | **<big>[[G2647\|κατέλυσας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| cleansing | **<big>[[G2512\|καθαρισμού]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his throne | **<big>[[G2362\|θρόνον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground | **<big>[[G1093\|γην]]</big>** |
+| You broke down | **<big>[[G7907\|κατέρραξας]]</big>** |
 [[Ps.89.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.43|<< Psalm 89:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.45|Psalm 89:45 >>]]</td></tr></table>
 
 

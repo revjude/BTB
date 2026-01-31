@@ -1,3 +1,1 @@
-<span class="asaramaic">‎חֲזָה‎</span> <small>***(cha.zah)***</small> ==**to see**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2372]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2372|חָזָה]]</big>**</small>

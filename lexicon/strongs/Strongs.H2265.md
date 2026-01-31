@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲבַקּוּק‎</span></big> **Chăbaqqûwq** <small>*(khab-ak-kook')*</small> ==**Habakkuk**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>by reduplication from <span class="ashebrew">‎חָבַק‎</span><sup><small>[[H2263]]</small></sup>; embrace</small>
+**<big><span class="ashebrew">‎חֲבַקּוּק‎</span></big>** **Chăbaqqûwq** <small>*(khab-ak-kook')*</small> ==**Habakkuk**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>by reduplication from **<big>[[H2263|‎חָבַק‎]]</big>**; embrace</small>
 
 $\quad$ Habakkuk.
 - § Habakkuk = *"embrace"*

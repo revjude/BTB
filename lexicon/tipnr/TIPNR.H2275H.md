@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Hebron Valley</span> was the location where Joseph was sent by his father, Jacob, to check on his brothers who were pasturing their flocks near Shechem \([[Gen.37.14|Gen.37.14]]\).
 - A location only mentioned at [[Gen.37.14|Gen.37.14]]; 
-- only referred to as Hebron\_Valley<[[H2275H]]><[[H6010K]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Hebron\_Valley **<big>[[H2275|חֶבְרוֹן]]</big>** **<big>[[H6010|עֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.54909871686872,35.09356062020027&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Hebron Valley is mentioned in [[Gen.37.14|Genesis 37:14]] as the location fr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Hebron | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2275H)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010K) <small>*Hebrew*</small> | 1x | [Gen.37.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Gen.37.14) |
-All Strong's for **Hebron_Valley**: \[[[H2275H]]\]
+| Valley/ of Hebron | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2275H)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010K) | 1x | [Gen.37.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Gen.37.14) |
+All entries for **Hebron Valley**:  **<big>[[H2275|חֶבְרוֹן]]</big>**

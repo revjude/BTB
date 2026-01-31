@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּֽרְיָוֵשׁ‎</span></big> **Dârᵉyâvêsh** <small>*(daw-reh-yaw-vaysh')*</small> ==**Darius**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎דָּֽרְיָוֵשׁ‎</span></big>** **Dârᵉyâvêsh** <small>*(daw-reh-yaw-vaysh')*</small> ==**Darius**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Darius.

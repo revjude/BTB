@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יִדְאֲלָה‎</span></big> **Yidʼălâh** <small>*(yid-al-aw')*</small> ==**Idalah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎יִדְאֲלָה‎</span></big>** **Yidʼălâh** <small>*(yid-al-aw')*</small> ==**Idalah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Idalah.

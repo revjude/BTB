@@ -7,29 +7,29 @@ But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a 
 In the first year of his reign, however, Cyrus king of Babylon issued a decree to rebuild this house of God.<small><sub>**MT:**</sub></small>
 [[Ezra.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] first | <big><span class="asgreek">πρώτω</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| of Cyrus | <big><span class="asgreek">Κύρου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Babylonians, | <big><span class="asgreek">Βαβυλωνίων</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| Cyrus | <big><span class="asgreek">Κύρος</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| rendered | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a decree | <big><span class="asgreek">γνώμην</span></big> <sup><small><small>[[G1106]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to build | <big><span class="asgreek">οικοδομηθήναι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| \[the\] first | **<big>[[G4413\|πρώτω]]</big>** |
+| of Cyrus | **<big>[[G2962\|Κύρου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Babylonians, | **<big>[[G0897\|Βαβυλωνίων]]</big>** |
+| Cyrus | **<big>[[H3567\|Κύρος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| rendered | **<big>[[G5087\|έθετο]]</big>** |
+| a decree | **<big>[[G1106\|γνώμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| this | **<big>[[G3778\|τούτον]]</big>** |
+| to build | **<big>[[G3618\|οικοδομηθήναι]]</big>** |
 [[Ezra.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 
 

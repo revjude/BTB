@@ -11,45 +11,45 @@ In the days of those kings, the God of heaven will set up a kingdom that will ne
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]] ☩ [[Rev.11.15|Rev 11:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of those kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| shall raise up | <big><span class="asgreek">αναστήσει</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| a kingdom, | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eons | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| shall not be | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| corrupted | <big><span class="asgreek">διαφθαρήσεται</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to another | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be left | <big><span class="asgreek">υπολειφθήσεται</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| \[but\] it shall thin | <big><span class="asgreek">λεπτυνεί</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| winnow | <big><span class="asgreek">λικμήσει</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdoms, | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this \[one\] | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall rise up | <big><span class="asgreek">αναστήσεται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eons. | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of those kings | **<big>[[G0935\|βασιλέων]]</big>** **<big>[[G1565\|εκείνων]]</big>** |
+| shall raise up | **<big>[[G0450\|αναστήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| a kingdom, | **<big>[[G0932\|βασιλείαν]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| eons | **<big>[[G0165\|αιώνας]]</big>** |
+| shall not be | **<big>[[G3756\|ου]]</big>** |
+| corrupted | **<big>[[G1311\|διαφθαρήσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| people | **<big>[[G2992\|λαώ]]</big>** |
+| to another | **<big>[[G2087\|ετέρω]]</big>** |
+| shall not | **<big>[[G3756\|ουχ]]</big>** |
+| be left | **<big>[[G5275\|υπολειφθήσεται]]</big>** |
+| \[but\] it shall thin | **<big>[[G8183\|λεπτυνεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| winnow | **<big>[[G3039\|λικμήσει]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| kingdoms, | **<big>[[G0932\|βασιλείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this \[one\] | **<big>[[G3778\|αύτη]]</big>** |
+| shall rise up | **<big>[[G0450\|αναστήσεται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| eons. | **<big>[[G0165\|αιώνας]]</big>** |
 [[Dan.2.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.43|<< Daniel 2:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.45|Daniel 2:45 >>]]</td></tr></table>
 
 

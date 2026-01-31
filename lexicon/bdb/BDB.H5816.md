@@ -1,4 +1,4 @@
-<small>Also see: [[H3268]]</small>
+<small>Also see: **<big>[[H3268|יַעֲזִיאֵל]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עֻזִּיאֵל‎</span> **proper name, masculine** (***my strength is El***); — <span class="bdbLangGreek">Οζ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">ιηλ</span>: 
 

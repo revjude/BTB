@@ -7,31 +7,31 @@ Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy
 Then the astrologers answered the king in Aramaic, “O king, may you live forever! Tell your servants the dream, and we will give the interpretation.”<small><sub>**MT:**</sub></small>
 [[Dan.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.3|<< Daniel 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.5|Daniel 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίοι</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| in Syriac, | <big><span class="asgreek">Συριστί</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eons | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| live | <big><span class="asgreek">ζήθι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| tell | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants! | <big><span class="asgreek">παισί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we shall announce. | <big><span class="asgreek">αναγγελούμεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίοι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| in Syriac, | **<big>[[G4947\|Συριστί]]</big>** |
+| O king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| eons | **<big>[[G0165\|αιώνας]]</big>** |
+| live | **<big>[[G2198\|ζήθι]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| tell | **<big>[[G2036\|είπον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| dream | **<big>[[G1798\|ενύπνιον]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your servants! | **<big>[[G3816\|παισί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| we shall announce. | **<big>[[G0312\|αναγγελούμεν]]</big>** |
 [[Dan.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.3|<< Daniel 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.5|Daniel 2:5 >>]]</td></tr></table>
 
 

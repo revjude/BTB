@@ -7,16 +7,16 @@ Let us choose to us judgment: let us know among ourselves what [is] good.
 Let us choose for ourselves what is right; let us learn together what is good.<small><sub>**MT:**</sub></small>
 [[Job.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.3|<< Job 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.5|Job 34:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| we should take up | <big><span class="asgreek">ελώμεθα</span></big> <sup><small><small>[[G0138]]</small></small></sup> |
-| for ourselves; | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| we should know | <big><span class="asgreek">γνώμεν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| ourselves | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] good. | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| Judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| we should take up | **<big>[[G0138\|ελώμεθα]]</big>** |
+| for ourselves; | **<big>[[G1438\|εαυτοίς]]</big>** |
+| we should know | **<big>[[G1097\|γνώμεν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| ourselves | **<big>[[G1438\|εαυτών]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** **<big>[[G5100\|τι]]</big>** |
+| \[is\] good. | **<big>[[G2570\|καλόν]]</big>** |
 [[Job.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.3|<< Job 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.5|Job 34:5 >>]]</td></tr></table>
 
 

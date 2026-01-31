@@ -7,26 +7,26 @@ Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his
 When he becomes aware of the sin he has committed, he must bring an unblemished male goat as his offering.<small><sub>**MT:**</sub></small>
 [[Lev.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.22|<< Leviticus 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.24|Leviticus 4:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be known | <big><span class="asgreek">γνωσθή</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| by which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sinned | <big><span class="asgreek">ήμαρτεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall bring | <big><span class="asgreek">προσοίσει</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of a young he-goat | <big><span class="asgreek">χίμαρον</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] goats -- | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| a male | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
-| unblemished. | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be known | **<big>[[G1097\|γνωσθή]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| by which | **<big>[[G3739\|ην]]</big>** |
+| he sinned | **<big>[[G0264\|ήμαρτεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| he shall bring | **<big>[[G4374\|προσοίσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his gift \[offering\] | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of a young he-goat | **<big>[[G9733\|χίμαρον]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] goats -- | **<big>[[G6167\|αιγών]]</big>** |
+| a male | **<big>[[G0730\|άρσεν]]</big>** |
+| unblemished. | **<big>[[G0299\|άμωμον]]</big>** |
 [[Lev.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.22|<< Leviticus 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.24|Leviticus 4:24 >>]]</td></tr></table>
 
 

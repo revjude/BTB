@@ -11,20 +11,20 @@ Arise and depart, for this is not your place of rest, because its defilement bri
 > $\quad$ referenced by: [[Heb.13.14|Heb 13:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rise up | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go! | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[there\] is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rest. | <big><span class="asgreek">ανάπαυσις</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| uncleanness | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
-| you were corrupted | <big><span class="asgreek">διεφθάρητε</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| by corruption. | <big><span class="asgreek">φθορά</span></big> <sup><small><small>[[G5356]]</small></small></sup> |
+| Rise up | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go! | **<big>[[G4198\|πορεύου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[there\] is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| this | **<big>[[G1473\|αυτή]]</big>** |
+| rest. | **<big>[[G0372\|ανάπαυσις]]</big>** |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| uncleanness | **<big>[[G0167\|ακαθαρσίας]]</big>** |
+| you were corrupted | **<big>[[G1311\|διεφθάρητε]]</big>** |
+| by corruption. | **<big>[[G5356\|φθορά]]</big>** |
 [[Mic.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.9|<< Micah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.11|Micah 2:11 >>]]</td></tr></table>
 
 

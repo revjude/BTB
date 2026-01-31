@@ -7,28 +7,28 @@ This twenty years [have] I [been] with thee; thy ewes and thy she goats have not
 I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock.<small><sub>**MT:**</sub></small>
 [[Gen.31.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.37|<< Genesis 31:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.39|Genesis 31:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-|  | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσιν</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flocks | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your goats | <big><span class="asgreek">αίγές</span></big> <sup><small><small>[[G6167]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| barren, | <big><span class="asgreek">ητεκνώθησαν</span></big> <sup><small><small>[[G6589]]</small></small></sup> |
-| \[and\] \[the\] rams | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your flocks | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat. | <big><span class="asgreek">κατέφαγον</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| These | **<big>[[G3778\|ταύτά]]</big>** |
+|  | **<big>[[G1473\|μοι]]</big>** |
+| twenty | **<big>[[G1501\|είκοσιν]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your flocks | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your goats | **<big>[[G6167\|αίγές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** |
+| barren, | **<big>[[G6589\|ητεκνώθησαν]]</big>** |
+| \[and\] \[the\] rams | **<big>[[G8096\|κριούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your flocks | **<big>[[G4263\|προβάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I did not | **<big>[[G3756\|ου]]</big>** |
+| eat. | **<big>[[G2719\|κατέφαγον]]</big>** |
 [[Gen.31.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.37|<< Genesis 31:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.39|Genesis 31:39 >>]]</td></tr></table>
 
 

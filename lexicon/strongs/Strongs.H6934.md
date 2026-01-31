@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַדְמִיאֵל‎</span></big> **Qadmîyʼêl** <small>*(kad-mee-ale')*</small> ==**Kadmiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קֶדֶם‎</span><sup><small>[[H6924]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; presence of God</small>
+**<big><span class="ashebrew">‎קַדְמִיאֵל‎</span></big>** **Qadmîyʼêl** <small>*(kad-mee-ale')*</small> ==**Kadmiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6924|‎קֶדֶם‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; presence of God</small>
 
 $\quad$ Kadmiel.
 - § Kadmiel = *"God is the ancient one"*

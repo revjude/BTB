@@ -7,27 +7,27 @@ And Abram passed through the land unto the place of Sichem, unto the plain of Mo
 Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land.<small><sub>**MT:**</sub></small>
 [[Gen.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abram traveled through | <big><span class="asgreek">διώδευσεν</span></big> <sup><small><small>[[G1353]]</small></small></sup> <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of Shechem | <big><span class="asgreek">Συχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oak | <big><span class="asgreek">δρυν</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλήν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| And the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Canaanites | <big><span class="asgreek">Χαναναίοι</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκουν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abram traveled through | **<big>[[G1353\|διώδευσεν]]</big>** **<big>[[H0087\|Άβραμ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| of Shechem | **<big>[[G4966\|Συχέμ]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| oak | **<big>[[G6972\|δρυν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| high | **<big>[[G5308\|υψηλήν]]</big>** |
+| And the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Canaanites | **<big>[[G5477\|Χαναναίοι]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκουν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
 [[Gen.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 
 

@@ -1,3 +1,1 @@
-<span class="asaramaic">‎עֲקַר‎</span> <small>***(a.qar)***</small> ==**be uprooted**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H6131A]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H6131A|עָקַר]]</big>**</small>

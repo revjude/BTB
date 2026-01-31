@@ -7,30 +7,30 @@ And Jehu the son of Nimshi shalt thou anoint [to be] king over Israel: and Elish
 You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of Shaphat from Abel-meholah to succeed you as prophet.<small><sub>**MT:**</sub></small>
 [[1Kgs.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.15|<< 1 Kings 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.17|1 Kings 19:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehu | <big><span class="asgreek">Ιού</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nimshi | <big><span class="asgreek">Ναμεσσεί</span></big> <sup><small><small>[[H5250]]</small></small></sup> |
-| you shall anoint | <big><span class="asgreek">χρίσεις</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elisha | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shaphat | <big><span class="asgreek">Σαφάτ</span></big> <sup><small><small>[[H8202]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Abel-meholah | <big><span class="asgreek">Αβελμεούλα</span></big> <sup><small><small>[[H0065]]</small></small></sup> |
-| you shall anoint | <big><span class="asgreek">χρίσεις</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jehu | **<big>[[H3058\|Ιού]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Nimshi | **<big>[[H5250\|Ναμεσσεί]]</big>** |
+| you shall anoint | **<big>[[G5548\|χρίσεις]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Elisha | **<big>[[G1666\|Ελισεαί]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Shaphat | **<big>[[H8202\|Σαφάτ]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| Abel-meholah | **<big>[[H0065\|Αβελμεούλα]]</big>** |
+| you shall anoint | **<big>[[G5548\|χρίσεις]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| prophet | **<big>[[G4396\|προφήτην]]</big>** |
+| instead of | **<big>[[G0473\|αντί]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[1Kgs.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.15|<< 1 Kings 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.17|1 Kings 19:17 >>]]</td></tr></table>
 
 

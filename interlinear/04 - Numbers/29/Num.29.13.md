@@ -6,28 +6,28 @@ As a pleasing aroma to the LORD, you are to present a food offering, a burnt off
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.12|<< Numbers 29:12]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.14|Numbers 29:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will bring near  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִקְרַבְתֶּ֨ם </big></span><small><small><sup>[[H7126H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hik.rav.Tem <small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a burnt offering  | <span class="ashebrew"><big>עֹלָ֜ה </big></span><small><small><sup>[[H5930A]]</sup></small></small> &#8207;| 'o.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fire offering of  | <span class="ashebrew"><big>אִשֵּׁ֨ה </big></span><small><small><sup>[[H0801]]</sup></small></small> &#8207;| 'i.Sheh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an odor of  | <span class="ashebrew"><big>רֵ֤יחַ </big></span><small><small><sup>[[H7381]]</sup></small></small> &#8207;| Rei.ach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| soothing  | <span class="ashebrew"><big>נִיחֹ֙חַ֙ </big></span><small><small><sup>[[H5207]]</sup></small></small> &#8207;| ni.Cho.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young bulls  | <span class="ashebrew"><big>פָּרִ֧ים </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| pa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young ones of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cattle  | <span class="ashebrew"><big>בָקָ֛ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| va.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thir-  | <span class="ashebrew"><big>שְׁלֹשָׁ֥ה </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עָשָׂ֖ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rams  | <span class="ashebrew"><big>אֵילִ֣ם </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| 'ei.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁנָ֑יִם </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Na.yim <small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lambs  | <span class="ashebrew"><big>כְּבָשִׂ֧ים </big></span><small><small><sup>[[H3532]]</sup></small></small> &#8207;| ke.va.Sim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121L]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a year  | <span class="ashebrew"><big>שָׁנָ֛ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four-  | <span class="ashebrew"><big>אַרְבָּעָ֥ה </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.ba.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עָשָׂ֖ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unblemished  | <span class="ashebrew"><big>תְּמִימִ֥ם </big></span><small><small><sup>[[H8549G]]</sup></small></small> &#8207;| te.mi.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>יִהְיֽוּ </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will bring near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרַבְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.rav.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering  |**<big>&#8207;[[H5930A\|עֹלָ֜ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire offering of  |**<big>&#8207;[[H0801\|אִשֵּׁ֨ה]]&#8207; </big>**| 'i.Sheh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an odor of  |**<big>&#8207;[[H7381\|רֵ֤יחַ]]&#8207; </big>**| Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soothing  |**<big>&#8207;[[H5207\|נִיחֹ֙חַ֙]]&#8207; </big>**| ni.Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young bulls  |**<big>&#8207;[[H6499\|פָּרִ֧ים]]&#8207; </big>**| pa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young ones of  |**<big>&#8207;[[H1121H\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  |**<big>&#8207;[[H1241\|בָקָ֛ר]]&#8207; </big>**| va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thir-  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֥ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עָשָׂ֖ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rams  |**<big>&#8207;[[H0352A\|אֵילִ֣ם]]&#8207; </big>**| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁנָ֑יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  |**<big>&#8207;[[H3532\|כְּבָשִׂ֧ים]]&#8207; </big>**| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  |**<big>&#8207;[[H1121L\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  |**<big>&#8207;[[H8141\|שָׁנָ֛ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four-  |**<big>&#8207;[[H0702\|אַרְבָּעָ֥ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עָשָׂ֖ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unblemished  |**<big>&#8207;[[H8549G\|תְּמִימִ֥ם]]&#8207; </big>**| te.mi.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|יִהְיֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.12|<< Numbers 29:12]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.14|Numbers 29:14 >>]]</td></tr></table>
 
 

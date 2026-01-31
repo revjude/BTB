@@ -10,28 +10,28 @@ To you therefore [is] the preciousness of those believing; [for those] disbeliev
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| To you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore [is] |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| preciousness |<big><span class="asgreek">τιμὴ</span></big> <small><small><sup>[[G5092]]</sup></small></small> |timē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of those |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| believing; |<big><span class="asgreek">πιστεύουσιν·</span></big> <small><small><sup>[[G4100]]</sup></small></small> |pisteuousin <small><sup>[[V-PAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [for those] disbelieving [^1] [^2] |<big><span class="asgreek">ἀπιστοῦσιν</span></big> <small><small><sup>[[G0569]]</sup></small></small> |apistousin <small><sup>[[V-PAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] stone [^3] |<big><span class="asgreek">λίθος</span></big> <small><small><sup>[[G3037]]</sup></small></small> |lithos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| which |<big><span class="asgreek">ὃν</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| rejected |<big><span class="asgreek">ἀπεδοκίμασαν</span></big> <small><small><sup>[[G0593]]</sup></small></small> |apedokimasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| building, |<big><span class="asgreek">οἰκοδομοῦντες,</span></big> <small><small><sup>[[G3618]]</sup></small></small> |oikodomountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this |<big><span class="asgreek">οὗτος</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has become |<big><span class="asgreek">ἐγενήθη</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egenēthē <small><sup>[[V-2AOI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] head |<big><span class="asgreek">κεφαλὴν</span></big> <small><small><sup>[[G2776]]</sup></small></small> |kephalēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of [the] corner |<big><span class="asgreek">γωνίας</span></big> <small><small><sup>[[G1137]]</sup></small></small> |gōnias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| To you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore [is] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| preciousness |**<big>[[G5092\|τιμὴ]]</big>**  |timē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| believing; |**<big>[[G4100\|πιστεύουσιν·]]</big>**  |pisteuousin <small><sup>[[V-PAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [for those] disbelieving [^1] [^2] |**<big>[[G0569\|ἀπιστοῦσιν]]</big>**  |apistousin <small><sup>[[V-PAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] stone [^3] |**<big>[[G3037\|λίθος]]</big>**  |lithos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| which |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| rejected |**<big>[[G0593\|ἀπεδοκίμασαν]]</big>**  |apedokimasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| building, |**<big>[[G3618\|οἰκοδομοῦντες,]]</big>**  |oikodomountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has become |**<big>[[G1096\|ἐγενήθη]]</big>**  |egenēthē <small><sup>[[V-2AOI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] head |**<big>[[G2776\|κεφαλὴν]]</big>**  |kephalēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of [the] corner |**<big>[[G1137\|γωνίας]]</big>**  |gōnias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.6|<< 1 Peter 2:6]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.8|1 Peter 2:8 >>]]</td></tr></table>
 
-[^1]: Variant:  <span class='asgreek'>**ἀπειθοῦσιν**</span>  (<i>apeithousin</i>) '[to those] disobeying' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἀπιστοῦσιν**</span>  (<i>apistousin</i>) '[for those] disbelieving' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^2]: ==TR+Byz==: [to those] disobeying | <span class="asgreek">ἀπειθοῦσιν</span><small><sup>[[G0544]]</sup></small> | apeithousin<small><sup>[[V-PAP-DPM]]</sup></small>
-[^3]: ==TR+Byz==: [the] stone | <span class="asgreek">Λίθον</span><small><sup>[[G3037]]</sup></small> | Lithon<small><sup>[[N-ASM]]</sup></small>
+[^1]: Variant:  **<big><span class='asgreek'>ἀπειθοῦσιν</span></big>**  (<i>apeithousin</i>) '[to those] disobeying' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>ἀπιστοῦσιν</span></big>**  (<i>apistousin</i>) '[for those] disbelieving' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^2]: ==TR+Byz==: [to those] disobeying | **<big>[[G0544|ἀπειθοῦσιν]]</big>** | apeithousin<small><sup>[[V-PAP-DPM]]</sup></small>
+[^3]: ==TR+Byz==: [the] stone | **<big>[[G3037|Λίθον]]</big>** | Lithon<small><sup>[[N-ASM]]</sup></small>

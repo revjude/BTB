@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Arisai</span> was one of the ten sons of Haman, who were killed and hanged after their father's downfall.
 - A man living at the time of Exile and Return, only mentioned at [[Esth.9.9|Est.9.9]]; 
-- only referred to as Arisai<[[H0747]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יס</span>ַ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Haman<[[H2001]]>; 
-- a brother of Parshandatha<[[H6577]]>, Dalphon<[[H1813]]>, Aspatha<[[H0630]]>, Poratha<[[H6334]]>, Adalia<[[H0118]]>, Aridatha<[[H0743]]>, Parmashta<[[H6534]]>, Aridai<[[H0742]]> and Vaizatha<[[H2055]]>.
+- only referred to as Arisai **<big>[[H0747|אֲרִיסַי]]</big>**; 
+-  son of Haman **<big>[[H2001|הָמָן]]</big>**; 
+- a brother of Parshandatha **<big>[[H6577|פַּרְשַׁנְדָּתָא]]</big>**, Dalphon **<big>[[H1813|דַּלְפוֹן]]</big>**, Aspatha **<big>[[H0630|אַסְפָּתָא]]</big>**, Poratha **<big>[[H6334|פּוֹרָתָא]]</big>**, Adalia **<big>[[H0118|אֲדַלְיָא]]</big>**, Aridatha **<big>[[H0743|אֲרִידָתָא]]</big>**, Parmashta **<big>[[H6534|פַּרְמַשְׁתָּא]]</big>**, Aridai **<big>[[H0742|אֲרִידַי]]</big>** and Vaizatha **<big>[[H2055|וַיְזָתָא]]</big>**.
 
 Arisai is mentioned in the book of Esther as one of the ten sons of Haman, the chief antagonist in the story. Haman, a high-ranking official in the Persian court, plotted to destroy all the Jews in the empire due to his hatred for Mordecai, a Jew who refused to bow down to him. However, Haman's plan was thwarted by Queen Esther, who revealed her Jewish identity to King Ahasuerus and exposed Haman's evil scheme. 
 
@@ -16,8 +16,8 @@ After this victory, Queen Esther requested that the bodies of Haman's sons be ha
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Arisai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יס</span>ַ<span class='tipnrLangHebrew'>י</span>](H0747) <small>*Hebrew*</small> | 1x | [Est.9.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arisai\*\|reference=Est.9.9) |
-All Strong's for **Arisai**: \[[[H0747]]\]
+| Arisai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יס</span>ַ<span class='tipnrLangHebrew'>י</span>](H0747) | 1x | [Est.9.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arisai\*\|reference=Est.9.9) |
+All entries for **Arisai**:  **<big>[[H0747|אֲרִיסַי]]</big>**
 #### Related Profiles:
 - **[Haman](H2001)** (father)
 - **[Zeresh](H2238)** (mother)

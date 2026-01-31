@@ -7,33 +7,33 @@ Then she said, I desire one small petition of thee; [I pray thee], say me not na
 “I have just one small request of you,” she said. “Do not deny me.” “Make your request, my mother,” the king replied, “for I will not deny you.”<small><sub>**MT:**</sub></small>
 [[1Kgs.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.19|<< 1 Kings 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.21|1 Kings 2:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| request | <big><span class="asgreek">αίτησιν</span></big> <sup><small><small>[[G6173]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| small | <big><span class="asgreek">μικράν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ask | <big><span class="asgreek">αιτούμαι</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| turn away | <big><span class="asgreek">αποστρέψης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face. | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Ask | <big><span class="asgreek">αίτησαι</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| mother | <big><span class="asgreek">μήτερ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| my | <big><span class="asgreek">εμή</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I will not turn from | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| request | **<big>[[G6173\|αίτησιν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| small | **<big>[[G3398\|μικράν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| ask | **<big>[[G0154\|αιτούμαι]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| turn away | **<big>[[G0654\|αποστρέψης]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face. | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Ask | **<big>[[G0154\|αίτησαι]]</big>** |
+| mother | **<big>[[G3384\|μήτερ]]</big>** |
+| my | **<big>[[G1699\|εμή]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I will not turn from | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0654\|αποστρέψω]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[1Kgs.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.19|<< 1 Kings 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.21|1 Kings 2:21 >>]]</td></tr></table>
 
 

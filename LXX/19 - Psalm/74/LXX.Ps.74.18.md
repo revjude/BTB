@@ -7,20 +7,20 @@ Remember this, [that] the enemy hath reproached, O LORD, and [that] the foolish 
 Remember how the enemy has mocked You, O LORD, how a foolish people has spurned Your name.<small><sub>**MT:**</sub></small>
 [[Ps.74.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.17|<< Psalm 74:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.19|Psalm 74:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| this! | <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| an enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| berated | <big><span class="asgreek">ωνείδισε</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a foolish | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| provoked | <big><span class="asgreek">παρώξυνε</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name. | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Remember | **<big>[[G3403\|μνήσθητι]]</big>** |
+| this! | **<big>[[G3778\|ταύτης]]</big>** |
+| an enemy | **<big>[[G2190\|εχθρός]]</big>** |
+| berated | **<big>[[G3679\|ωνείδισε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| a foolish | **<big>[[G0878\|άφρων]]</big>** |
+| provoked | **<big>[[G3947\|παρώξυνε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name. | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.74.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.17|<< Psalm 74:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.19|Psalm 74:19 >>]]</td></tr></table>
 
 

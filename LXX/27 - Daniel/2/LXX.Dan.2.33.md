@@ -7,19 +7,19 @@ His legs of iron, his feet part of iron and part of clay.
 its legs were iron, and its feet were part iron and part clay.<small><sub>**MT:**</sub></small>
 [[Dan.2.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.32|<< Daniel 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.34|Daniel 2:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| legs | <big><span class="asgreek">κνήμαι</span></big> <sup><small><small>[[G8033]]</small></small></sup> |
-| iron, | <big><span class="asgreek">σιδηραί</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδες</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| somewhat | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| of iron, | <big><span class="asgreek">σιδηρούν</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| and part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| somewhat | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| earthenware. | <big><span class="asgreek">οστράκινον</span></big> <sup><small><small>[[G3749]]</small></small></sup> |
+| the | **<big>[[G3588\|αι]]</big>** |
+| legs | **<big>[[G8033\|κνήμαι]]</big>** |
+| iron, | **<big>[[G4603\|σιδηραί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| feet | **<big>[[G4228\|πόδες]]</big>** |
+| part | **<big>[[G3313\|μέρος]]</big>** |
+| somewhat | **<big>[[G3303\|μεν]]</big>** **<big>[[G5100\|τι]]</big>** |
+| of iron, | **<big>[[G4603\|σιδηρούν]]</big>** |
+| and part | **<big>[[G3313\|μέρος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| somewhat | **<big>[[G5100\|τι]]</big>** |
+| earthenware. | **<big>[[G3749\|οστράκινον]]</big>** |
 [[Dan.2.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.32|<< Daniel 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.34|Daniel 2:34 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ Two tenons [shall there be] in one board, set in order one against another: thus
 Two tenons must be connected to each other for each frame. Make all the frames of the tabernacle in this way.<small><sub>**MT:**</sub></small>
 [[Exod.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.16|<< Exodus 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.18|Exodus 26:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| joints | <big><span class="asgreek">αγκωνίσκους</span></big> <sup><small><small>[[G6119]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| post | <big><span class="asgreek">στύλω</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[resting\] headlong against | <big><span class="asgreek">αντιπίπτοντας</span></big> <sup><small><small>[[G0496]]</small></small></sup> |
-| \[one\] | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other. | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posts | <big><span class="asgreek">στύλοις</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent. | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| Two | **<big>[[G1417\|δύο]]</big>** |
+| joints | **<big>[[G6119\|αγκωνίσκους]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| post | **<big>[[G4769\|στύλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| \[resting\] headlong against | **<big>[[G0496\|αντιπίπτοντας]]</big>** |
+| \[one\] | **<big>[[G2087\|έτερον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| other. | **<big>[[G2087\|ετέρω]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| posts | **<big>[[G4769\|στύλοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent. | **<big>[[G4633\|σκηνής]]</big>** |
 [[Exod.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.16|<< Exodus 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.18|Exodus 26:18 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ A lion [which is] strongest among beasts, and turneth not away for any;
 a lion, mighty among beasts, refusing to retreat before anything;<small><sub>**MT:**</sub></small>
 [[Prov.30.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.29|<< Proverbs 30:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.31|Proverbs 30:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| cub | <big><span class="asgreek">σκύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέοντος</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| \[is\] stronger than | <big><span class="asgreek">ισχυρότερος</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| \[the\] beasts, | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away, | <big><span class="asgreek">αποστρέφεται</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| is struck with awe | <big><span class="asgreek">καταπτήσσει</span></big> <sup><small><small>[[G7904]]</small></small></sup> |
-| of \[any\] beast, | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| cub | **<big>[[G9121\|σκύμνος]]</big>** |
+| a lion | **<big>[[G3023\|λέοντος]]</big>** |
+| \[is\] stronger than | **<big>[[G2478\|ισχυρότερος]]</big>** |
+| \[the\] beasts, | **<big>[[G2934\|κτηνών]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| does not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away, | **<big>[[G0654\|αποστρέφεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| is struck with awe | **<big>[[G7904\|καταπτήσσει]]</big>** |
+| of \[any\] beast, | **<big>[[G2934\|κτήνος]]</big>** |
 [[Prov.30.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.29|<< Proverbs 30:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.31|Proverbs 30:31 >>]]</td></tr></table>
 
 

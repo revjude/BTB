@@ -7,24 +7,24 @@ as my father waged war for you, and tossed his life right opposite, and rescued 
 for my father fought for you and risked his life to deliver you from the hand of Midian,<small><sub>**MT:**</sub></small>
 [[Judg.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.16|<< Judges 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.18|Judges 9:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| waged war | <big><span class="asgreek">επολέμησεν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed | <big><span class="asgreek">έρριψε</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| his life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| right opposite, | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rescued | <big><span class="asgreek">ερρύσατο</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Midian; | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
+| as | **<big>[[G5613\|ως]]</big>** |
+| waged war | **<big>[[G4170\|επολέμησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed | **<big>[[G4496\|έρριψε]]</big>** |
+| his life | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| right opposite, | **<big>[[G7295\|εξεναντίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rescued | **<big>[[G4506\|ερρύσατο]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of Midian; | **<big>[[G3099\|Μαδιάμ]]</big>** |
 [[Judg.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.16|<< Judges 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.18|Judges 9:18 >>]]</td></tr></table>
 
 

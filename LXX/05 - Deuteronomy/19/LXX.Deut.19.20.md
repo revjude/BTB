@@ -7,25 +7,25 @@ And those which remain shall hear, and fear, and shall henceforth commit no more
 Then the rest of the people will hear and be afraid, and they will never again do anything so evil among you.<small><sub>**MT:**</sub></small>
 [[Deut.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.19|<< Deuteronomy 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.21|Deuteronomy 19:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">επίλοιποι</span></big> <sup><small><small>[[G1954]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούσαντες</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| shall fear, | <big><span class="asgreek">φοβηθήσονται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| add | <big><span class="asgreek">προσθήσουσιν</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this wicked | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rest | **<big>[[G1954\|επίλοιποι]]</big>** |
+| hearing | **<big>[[G0191\|ακούσαντες]]</big>** |
+| shall fear, | **<big>[[G5399\|φοβηθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| add | **<big>[[G4369\|προσθήσουσιν]]</big>** |
+| again | **<big>[[G2089\|έτι]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| thing | **<big>[[G4487\|ρήμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this wicked | **<big>[[G4190\|πονηρόν]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Deut.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.19|<< Deuteronomy 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.21|Deuteronomy 19:21 >>]]</td></tr></table>
 
 

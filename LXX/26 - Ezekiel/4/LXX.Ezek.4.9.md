@@ -10,53 +10,53 @@ Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet,
 But take wheat, barley, beans, lentils, millet, and spelt; put them in a single container and make them into bread for yourself. This is what you are to eat during the 390 days you lie on your side.<small><sub>**MT:**</sub></small>
 [[Ezek.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.8|<< Ezekiel 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.10|Ezekiel 4:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| wheat, | <big><span class="asgreek">πυρούς</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| barley, | <big><span class="asgreek">κριθάς</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beans, | <big><span class="asgreek">κύαμον</span></big> <sup><small><small>[[G8113]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lentils, | <big><span class="asgreek">φακόν</span></big> <sup><small><small>[[G9614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| millet, | <big><span class="asgreek">κέγχρον</span></big> <sup><small><small>[[G7988]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wild oats! | <big><span class="asgreek">ολύραν</span></big> <sup><small><small>[[G8500]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put | <big><span class="asgreek">εμβαλείς</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| container | <big><span class="asgreek">άγγος</span></big> <sup><small><small>[[G6001]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| earthenware | <big><span class="asgreek">οστράκινον</span></big> <sup><small><small>[[G3749]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| slept | <big><span class="asgreek">καθεύδεις</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your side -- | <big><span class="asgreek">πλευρού</span></big> <sup><small><small>[[G8810]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ninety | <big><span class="asgreek">εννενήκοντα</span></big> <sup><small><small>[[G7249]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακοσίας</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| days -- | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| wheat, | **<big>[[G8994\|πυρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| barley, | **<big>[[G2915\|κριθάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beans, | **<big>[[G8113\|κύαμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lentils, | **<big>[[G9614\|φακόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| millet, | **<big>[[G7988\|κέγχρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wild oats! | **<big>[[G8500\|ολύραν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| put | **<big>[[G1685\|εμβαλείς]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| container | **<big>[[G6001\|άγγος]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| earthenware | **<big>[[G3749\|οστράκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| bread loaves | **<big>[[G0740\|άρτους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] number | **<big>[[G0706\|αριθμόν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| slept | **<big>[[G2518\|καθεύδεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your side -- | **<big>[[G8810\|πλευρού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| ninety | **<big>[[G7249\|εννενήκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| three hundred | **<big>[[G5145\|τριακοσίας]]</big>** |
+| days -- | **<big>[[G2250\|ημέρας]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσαι]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Ezek.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.8|<< Ezekiel 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.10|Ezekiel 4:10 >>]]</td></tr></table>
 
 

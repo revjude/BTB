@@ -7,27 +7,27 @@ And [as for] the western border, ye shall even have the great sea for a border: 
 Your western border will be the coastline of the Great Sea; this will be your boundary on the west.<small><sub>**MT:**</sub></small>
 [[Num.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.5|<< Numbers 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.7|Numbers 34:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boundaries | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| west | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you -- | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| shall define the bounds. | <big><span class="asgreek">οριεί</span></big> <sup><small><small>[[G3724]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| boundaries | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| west. | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| boundaries | **<big>[[G3725\|όρια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| west | **<big>[[G2281\|θαλάσσης]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to you -- | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea | **<big>[[G2281\|θάλασσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| shall define the bounds. | **<big>[[G3724\|οριεί]]</big>** |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| boundaries | **<big>[[G3725\|όρια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| west. | **<big>[[G2281\|θαλάσσης]]</big>** |
 [[Num.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.5|<< Numbers 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.7|Numbers 34:7 >>]]</td></tr></table>
 
 

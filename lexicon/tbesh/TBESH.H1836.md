@@ -1,5 +1,4 @@
-<span class="asaramaic">‎דְּנָה‎</span> <small>***(de.nah)***</small> ==**this**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-Aramaic of: <small>[[H2088]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2088|זֶה]]</big>**</small> 
 
 - demons pron
 - adv

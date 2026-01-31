@@ -7,30 +7,30 @@ A bad progeny has swords for teeth, and the molars \[as\] pruning knives, so as 
 there is a generation whose teeth are swords and whose jaws are knives, devouring the oppressed from the earth and the needy from among men.<small><sub>**MT:**</sub></small>
 [[Prov.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.13|<< Proverbs 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.15|Proverbs 30:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| progeny | <big><span class="asgreek">έκγονον</span></big> <sup><small><small>[[G1549]]</small></small></sup> |
-| A bad | <big><span class="asgreek">κακόν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| swords | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| for teeth | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| has | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| molars | <big><span class="asgreek">μύλας</span></big> <sup><small><small>[[G8358]]</small></small></sup> |
-| \[as\] pruning knives, | <big><span class="asgreek">τομίδας</span></big> <sup><small><small>[[G9461]]</small></small></sup> |
-| so as to | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| consume | <big><span class="asgreek">αναλίσκειν</span></big> <sup><small><small>[[G0355]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weak | <big><span class="asgreek">ασθενείς</span></big> <sup><small><small>[[G0772]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy | <big><span class="asgreek">πένητας</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from \[among\] | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| progeny | **<big>[[G1549\|έκγονον]]</big>** |
+| A bad | **<big>[[G2556\|κακόν]]</big>** |
+| swords | **<big>[[G3162\|μαχαίρας]]</big>** |
+| for teeth | **<big>[[G3599\|οδόντας]]</big>** |
+| has | **<big>[[G2192\|έχει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| molars | **<big>[[G8358\|μύλας]]</big>** |
+| \[as\] pruning knives, | **<big>[[G9461\|τομίδας]]</big>** |
+| so as to | **<big>[[G5620\|ώστε]]</big>** |
+| consume | **<big>[[G0355\|αναλίσκειν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| weak | **<big>[[G0772\|ασθενείς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| needy | **<big>[[G3993\|πένητας]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| from \[among\] | **<big>[[G1537\|εξ]]</big>** |
+| men. | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Prov.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.13|<< Proverbs 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.15|Proverbs 30:15 >>]]</td></tr></table>
 
 

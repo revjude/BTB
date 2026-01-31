@@ -7,34 +7,34 @@ For the idols have spoken vanity, and the diviners have seen a lie, and have tol
 For idols speak deceit and diviners see illusions; they tell false dreams and offer empty comfort. Therefore the people wander like sheep, oppressed for lack of a shepherd.<small><sub>**MT:**</sub></small>
 [[Zech.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.1|<< Zechariah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.3|Zechariah 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| declaring \[maxims\] | <big><span class="asgreek">αποφθεγγόμενοι</span></big> <sup><small><small>[[G0669]]</small></small></sup> |
-| speak | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| troubles, | <big><span class="asgreek">κόπους</span></big> <sup><small><small>[[G2873]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clairvoyants | <big><span class="asgreek">μάντεις</span></big> <sup><small><small>[[G8254]]</small></small></sup> |
-| visions | <big><span class="asgreek">οράσεις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| false | <big><span class="asgreek">ψευδείς</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dreams | <big><span class="asgreek">ενύπνια</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| false | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| they speak | <big><span class="asgreek">ελάλουν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| In vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| they comfort. | <big><span class="asgreek">παρεκάλουν</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they dry up | <big><span class="asgreek">εξήρανθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were afflicted | <big><span class="asgreek">εκακώθησαν</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| healing. | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| declaring \[maxims\] | **<big>[[G0669\|αποφθεγγόμενοι]]</big>** |
+| speak | **<big>[[G2980\|ελάλησαν]]</big>** |
+| troubles, | **<big>[[G2873\|κόπους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| clairvoyants | **<big>[[G8254\|μάντεις]]</big>** |
+| visions | **<big>[[G3706\|οράσεις]]</big>** |
+| false | **<big>[[G5571\|ψευδείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dreams | **<big>[[G1798\|ενύπνια]]</big>** |
+| false | **<big>[[G5571\|ψευδή]]</big>** |
+| they speak | **<big>[[G2980\|ελάλουν]]</big>** |
+| In vain | **<big>[[G3152\|μάταια]]</big>** |
+| they comfort. | **<big>[[G3870\|παρεκάλουν]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| they dry up | **<big>[[G3583\|εξήρανθησαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| sheep, | **<big>[[G4263\|πρόβατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were afflicted | **<big>[[G2559\|εκακώθησαν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there was no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| healing. | **<big>[[G2392\|ίασις]]</big>** |
 [[Zech.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.1|<< Zechariah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.3|Zechariah 10:3 >>]]</td></tr></table>
 
 

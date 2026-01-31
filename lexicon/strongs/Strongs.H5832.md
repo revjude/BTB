@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲזַרְאֵל‎</span></big> **ʻĂzarʼêl** <small>*(az-ar-ale')*</small> ==**Azarel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָזַר‎</span><sup><small>[[H5826]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God has helped</small>
+**<big><span class="ashebrew">‎עֲזַרְאֵל‎</span></big>** **ʻĂzarʼêl** <small>*(az-ar-ale')*</small> ==**Azarel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5826|‎עָזַר‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God has helped</small>
 
 $\quad$ Azarael, Azareel.
 - § Azarael or Azareel = *"God has helped"*

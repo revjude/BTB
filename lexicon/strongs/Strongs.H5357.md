@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָקִיק‎</span></big> **nâqîyq** <small>*(naw-keek')*</small> ==**cleft**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎נָקִיק‎</span></big>** **nâqîyq** <small>*(naw-keek')*</small> ==**cleft**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to bore</small>
 
 $\quad$ hole.
@@ -6,4 +6,4 @@ $\quad$ hole.
 
 **1)** cleft (of a rock)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τρυμαλιά</span><sup><small>[[G5168]]</small></sup>
+<small>See Greek: </small>**<big>[[G5168|τρυμαλιά]]</big>**

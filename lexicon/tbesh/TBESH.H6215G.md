@@ -1,6 +1,5 @@
-<span class="ashebrew">‎עֵשָׂו‎</span> <small>***(e.sav)***</small> ==**Esau**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.25.25|Gen.25.25]]
--  son of: Isaac ([[H3327]]) and Rebekah ([[H7259]])
--  brother of: Israel ([[H3478]]); married to Oholibamah ([[H0173]]), Judith ([[H3067]]), Adah ([[H5711H]]) and Mahalath ([[H4258]])
--  father of: Eliphaz ([[H0464]]), Reuel ([[H7467]]), Jeush ([[H3266]]), Jalam ([[H3281]]) and Korah ([[H7141]]); also called Edom at [[Gen.25.30|Gen.25.30]] [[Gen.36.1| 36.1]], [[Gen.36.8|8]], [[Gen.36.19|19]], [[Gen.36.21|21]]
-- Also named: <i>e.dom</i> (<span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Edom" [[H0123H]])
+-  son of: Isaac (**<big>[[H3327|יִצְחָק]]</big>**) and Rebekah (**<big>[[H7259|רִבְקָה]]</big>**)
+-  brother of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**); married to Oholibamah (**<big>[[H0173|אׇהֳלִיבָמָה]]</big>**), Judith (**<big>[[H3067|יְהוּדִית]]</big>**), Adah (**<big>[[H5711H|עָדָה]]</big>**) and Mahalath (**<big>[[H4258|מַחֲלַת]]</big>**)
+-  father of: Eliphaz (**<big>[[H0464|אֱלִיפַז]]</big>**), Reuel (**<big>[[H7467|רְעוּאֵל]]</big>**), Jeush (**<big>[[H3266|יְעוּשׁ]]</big>**), Jalam (**<big>[[H3281|יַעְלָם]]</big>**) and Korah (**<big>[[H7141|קֹרַח]]</big>**); also called Edom at [[Gen.25.30|Gen.25.30]] [[Gen.36.1| 36.1]], [[Gen.36.8|8]], [[Gen.36.19|19]], [[Gen.36.21|21]]
+- Also named: <i>e.dom</i> (<span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Edom" **<big>[[H0123H|אֱדֹם]]</big>**)

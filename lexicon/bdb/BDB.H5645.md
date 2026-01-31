@@ -1,4 +1,4 @@
-<small>Also see: [[H5646]] | [[H5672]]</small>
+<small>Also see: **<big>[[H5646|עָב]]</big>** | **<big>[[H5672|עֲבִי]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎עָב‎</span><sub>33</sub> **noun masculine**<sup>[[Isa.19.1|Isa 19:1]]</sup> and ([[1Kgs.18.44|1Kgs 18:44]] [[BDB#Kö|Kö]]<sup>Synt. 103</sup>) **feminine** ==dark cloud, cloud-mass, thicket==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> absolute [[1Kgs.18.44|1Kgs 18:44]] +, construct [[Isa.18.4|Isa 18:4]]; [[Prov.16.15|Prov 16:15]] plural <span class="bdbLangHebrew">‎עָבִים‎</span> [[Judg.5.4|Judg 5:4]] +, <span class="bdbLangHebrew">‎עָבוֺת‎</span> [[2Sam.23.4|2Sam 23:4]] + [[2Sam.77.18|2Sam 77:18]] construct <span class="bdbLangHebrew">‎עָבֵי‎</span> [[2Sam.22.12|2Sam 22:12]]; [[Ps.18.12|Ps 18:12]] suffix <span class="bdbLangHebrew">‎עָבָיו‎</span> [[Ps.18.13|Ps 18:13]] (but probably strike out, see  <span class="bdbLangHebrew">‎עבר‎</span> **Qal** near the end); — 
 

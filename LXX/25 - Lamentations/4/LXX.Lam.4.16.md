@@ -9,23 +9,23 @@ The anger of the LORD hath divided them; he will no more regard them: they respe
 The presence of the LORD has scattered them; He regards them no more. The priests are shown no honor; the elders find no favor.<small><sub>**MT:**</sub></small>
 [[Lam.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.15|<< Lamentations 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.17|Lamentations 4:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| \[The\] person | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| was their portion; | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to look upon | <big><span class="asgreek">επιβλέψαι</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] person | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| receive; | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| old men | <big><span class="asgreek">πρεσβύτας</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| show mercy on | <big><span class="asgreek">ηλέησαν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| ΑΙΝ <sup><small>[acrostic title]</small></sup> |  |
+| \[The\] person | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| was their portion; | **<big>[[G3310\|μερίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| proceed | **<big>[[G4369\|προσθήσει]]</big>** |
+| to look upon | **<big>[[G1914\|επιβλέψαι]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| \[The\] person | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of \[the\] priests | **<big>[[G2409\|ιερέων]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| receive; | **<big>[[G2983\|έλαβον]]</big>** |
+| old men | **<big>[[G4246\|πρεσβύτας]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| show mercy on | **<big>[[G1653\|ηλέησαν]]</big>** |
 [[Lam.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.15|<< Lamentations 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.17|Lamentations 4:17 >>]]</td></tr></table>
 
 

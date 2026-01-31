@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּחֶתֶת‎</span></big> **pᵉchetheth** <small>*(pekh-eh'-theth)*</small> ==**eating**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎פַּחַת‎</span><sup><small>[[H6354]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּחֶתֶת‎</span></big>** **pᵉchetheth** <small>*(pekh-eh'-theth)*</small> ==**eating**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from the same as **<big>[[H6354|‎פַּחַת‎]]</big>**</small>
 
 $\quad$ fret inward.
 - ***a hole*** (by mildew in a garment)

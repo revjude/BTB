@@ -7,34 +7,34 @@ Thy seed also had been as the sand, and the offspring of thy bowels like the gra
 Your descendants would have been as countless as the sand, and your offspring as numerous as its grains; their name would never be cut off or eliminated from My presence.”<small><sub>**MT:**</sub></small>
 [[Isa.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.18|<< Isaiah 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.20|Isaiah 48:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| would have become | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| even | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| sand | <big><span class="asgreek">άμμος</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| progeny | <big><span class="asgreek">έκγονα</span></big> <sup><small><small>[[G1549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dust | <big><span class="asgreek">χους</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you be utterly destroyed, | <big><span class="asgreek">εξολοθρευθής</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| be destroyed | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| would have become | **<big>[[G1096\|εγένετο]]</big>** |
+| even | **<big>[[G0302\|αν]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| sand | **<big>[[G0285\|άμμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| progeny | **<big>[[G1549\|έκγονα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your belly | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dust | **<big>[[G5522\|χους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you be utterly destroyed, | **<big>[[G1842\|εξολοθρευθής]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| be destroyed | **<big>[[G0622\|απολείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Isa.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.18|<< Isaiah 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.20|Isaiah 48:20 >>]]</td></tr></table>
 
 

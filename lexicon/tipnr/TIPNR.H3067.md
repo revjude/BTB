@@ -4,9 +4,9 @@ Woman living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Judith</span>, the daughter of Beeri the Hittite, was one of Esau's wives, causing grief to Isaac and Rebekah.
 - A woman living at the time of the Patriarchs, only mentioned at [[Gen.26.34|Gen.26.34]]; 
-- only referred to as Judith<[[H3067]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ית</span>\); 
-- a daughter of Beeri<[[H0882G]]>; 
-- wife of Esau<[[H6215G]]>.
+- only referred to as Judith **<big>[[H3067|יְהוּדִית]]</big>**; 
+- a daughter of Beeri **<big>[[H0882|בְּאֵרִי]]</big>**; 
+- wife of Esau **<big>[[H6215|עֵשָׂו]]</big>**.
 
 Judith is mentioned in [[Gen.26.34|Genesis 26:34]] as one of the wives of Esau, the son of Isaac and Rebekah. She was the daughter of Beeri the Hittite and is described as a Hittite woman. 
 
@@ -20,8 +20,8 @@ Esau's choice to marry Hittite women demonstrated his disregard for the covenant
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Judith | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ית</span>](H3067) <small>*Hebrew*</small> | 1x | [Gen.26.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judith\*\|reference=Gen.26.34) |
-All Strong's for **Judith**: \[[[H3067]]\]
+| Judith | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ית</span>](H3067) | 1x | [Gen.26.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judith\*\|reference=Gen.26.34) |
+All entries for **Judith**:  **<big>[[H3067|יְהוּדִית]]</big>**
 #### Related Profiles:
 - **[Beeri](H0882G)** (father)
 - **[Esau](H6215G)** (spouse)

@@ -7,22 +7,22 @@ And it shall come to pass, when ye be come to the land which the LORD will give 
 When you enter the land that the LORD will give you as He promised, you are to keep this service.<small><sub>**MT:**</sub></small>
 [[Exod.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.24|<< Exodus 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.26|Exodus 12:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should enter | <big><span class="asgreek">εισελθητε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| he spoke, | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| you shall guard | <big><span class="asgreek">φυλάξασθε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this service. | <big><span class="asgreek">λατρείαν</span></big> <sup><small><small>[[G2999]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should enter | **<big>[[G1525\|εισελθητε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> should give | **<big>[[G1325\|δω]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| he spoke, | **<big>[[G2980\|ελάλησε]]</big>** |
+| you shall guard | **<big>[[G5442\|φυλάξασθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this service. | **<big>[[G2999\|λατρείαν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
 [[Exod.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.24|<< Exodus 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.26|Exodus 12:26 >>]]</td></tr></table>
 
 

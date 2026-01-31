@@ -10,20 +10,20 @@ eye for eye, tooth for tooth, hand for hand, foot for foot,
 > $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| an eye  | <span class="ashebrew"><big>עַ֚יִן </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an eye  | <span class="ashebrew"><big>עַ֔יִן </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tooth  | <span class="ashebrew"><big>שֵׁ֖ן </big></span><small><small><sup>[[H8127G]]</sup></small></small> &#8207;| shen <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tooth  | <span class="ashebrew"><big>שֵׁ֑ן </big></span><small><small><sup>[[H8127G]]</sup></small></small> &#8207;| Shen <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a hand  | <span class="ashebrew"><big>יָ֚ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| yad <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a hand  | <span class="ashebrew"><big>יָ֔ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| Yad <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a foot  | <span class="ashebrew"><big>רֶ֖גֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| Re.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֥חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a foot  | <span class="ashebrew"><big>רָֽגֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ra.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an eye  |**<big>&#8207;[[H5869A\|עַ֚יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an eye  |**<big>&#8207;[[H5869A\|עַ֔יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tooth  |**<big>&#8207;[[H8127G\|שֵׁ֖ן]]&#8207; </big>**| shen<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tooth  |**<big>&#8207;[[H8127G\|שֵׁ֑ן]]&#8207; </big>**| Shen<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hand  |**<big>&#8207;[[H3027G\|יָ֚ד]]&#8207; </big>**| yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hand  |**<big>&#8207;[[H3027G\|יָ֔ד]]&#8207; </big>**| Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a foot  |**<big>&#8207;[[H7272\|רֶ֖גֶל]]&#8207; </big>**| Re.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֥חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a foot  |**<big>&#8207;[[H7272\|רָֽגֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.23|<< Exodus 21:23]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.25|Exodus 21:25 >>]]</td></tr></table>
 
 

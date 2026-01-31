@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Teman</span>, a region and town in Edom, named after Esau's grandson, known for its wisdom \(Jer. 49:7; Amos 1:12; Obad. 1:9\).
 - A location in Edom first mentioned at [[Jer.49.7|Jer.49.7]]; 
-- only referred to as Teman<[[H8487H]]> \(<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Teman **<big>[[H8487|תֵּימָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.203813,35.732568&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Teman was a region and town in the land of Edom, named after Teman, the grandson
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Teman | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H8487H) <small>*Hebrew*</small> | 6x | [[Jer.49.7] ... [Hab.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Teman\*\|reference=Jer.49.7;Jer.49.20;Ezk.25.13;Amo.1.12;Oba.1.9;Hab.3.3) |
-All Strong's for **Teman**: \[[[H8487H]]\]
+| Teman | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H8487H) | 6x | [[Jer.49.7] ... [Hab.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Teman\*\|reference=Jer.49.7;Jer.49.20;Ezk.25.13;Amo.1.12;Oba.1.9;Hab.3.3) |
+All entries for **Teman**:  **<big>[[H8487|תֵּימָן]]</big>**

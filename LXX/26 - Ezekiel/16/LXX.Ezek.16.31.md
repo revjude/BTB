@@ -7,30 +7,30 @@ In that thou buildest thine eminent place in the head of every way, and makest t
 But when you built your mounds at the head of every street and made your lofty shrines in every public square, you were not even like a prostitute, because you scorned payment.<small><sub>**MT:**</sub></small>
 [[Ezek.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.30|<< Ezekiel 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.32|Ezekiel 16:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your building | <big><span class="asgreek">ωκοδομήσαί</span></big> <sup><small><small>[[G3618]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your place of harlotry | <big><span class="asgreek">πορνείόν</span></big> <sup><small><small>[[G8866]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| street; | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your base | <big><span class="asgreek">βάσιν</span></big> <sup><small><small>[[G0939]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| square; | <big><span class="asgreek">πλατεία</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you became not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγένου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[even\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a harlot | <big><span class="asgreek">πόρνη</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| bringing together | <big><span class="asgreek">συνάγουσα</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| hires. | <big><span class="asgreek">μισθώματα</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your building | **<big>[[G3618\|ωκοδομήσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your place of harlotry | **<big>[[G8866\|πορνείόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| \[the\] top | **<big>[[G0746\|αρχή]]</big>** |
+| of every | **<big>[[G3956\|πάσης]]</big>** |
+| street; | **<big>[[G3598\|οδού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your base | **<big>[[G0939\|βάσιν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you made | **<big>[[G4160\|εποίησας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|πάση]]</big>** |
+| square; | **<big>[[G4113\|πλατεία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you became not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|εγένου]]</big>** |
+| \[even\] as | **<big>[[G5613\|ως]]</big>** |
+| a harlot | **<big>[[G4204\|πόρνη]]</big>** |
+| bringing together | **<big>[[G4863\|συνάγουσα]]</big>** |
+| hires. | **<big>[[G3410\|μισθώματα]]</big>** |
 [[Ezek.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.30|<< Ezekiel 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.32|Ezekiel 16:32 >>]]</td></tr></table>
 
 

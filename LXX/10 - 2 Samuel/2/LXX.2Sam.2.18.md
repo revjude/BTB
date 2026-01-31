@@ -7,30 +7,30 @@ And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and A
 The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Now Asahel was fleet of foot like a wild gazelle,<small><sub>**MT:**</sub></small>
 [[2Sam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.17|<< 2 Samuel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.19|2 Samuel 2:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zeruiah -- | <big><span class="asgreek">Σαρουϊα</span></big> <sup><small><small>[[H6870]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abishai | <big><span class="asgreek">Αβεσσά</span></big> <sup><small><small>[[H0052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asahel. | <big><span class="asgreek">Ασσαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asahel | <big><span class="asgreek">Ασσαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
-| was light | <big><span class="asgreek">κούφος</span></big> <sup><small><small>[[G8080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his feet, | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| doe | <big><span class="asgreek">δορκάς</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] field. | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1096\|εγένοντο]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Zeruiah -- | **<big>[[H6870\|Σαρουϊα]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abishai | **<big>[[H0052\|Αβεσσά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asahel. | **<big>[[H6214\|Ασσαήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Asahel | **<big>[[H6214\|Ασσαήλ]]</big>** |
+| was light | **<big>[[G8080\|κούφος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| of his feet, | **<big>[[G4228\|ποσίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| doe | **<big>[[G1393\|δορκάς]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] field. | **<big>[[G0068\|αγρώ]]</big>** |
 [[2Sam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.17|<< 2 Samuel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.19|2 Samuel 2:19 >>]]</td></tr></table>
 
 

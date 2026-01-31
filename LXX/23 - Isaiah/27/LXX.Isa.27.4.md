@@ -7,21 +7,21 @@ Fury [is] not in me: who would set the briers [and] thorns against me in battle?
 I am not angry. If only thorns and briers confronted Me, I would march and trample them, I would burn them to the ground.<small><sub>**MT:**</sub></small>
 [[Isa.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.3|<< Isaiah 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.5|Isaiah 27:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| her who | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take hold | <big><span class="asgreek">επελάβετο</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| of her; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| therefore | <big><span class="asgreek">τοίνυν</span></big> <sup><small><small>[[G5106]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he ordered. | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| I am incinerated. | <big><span class="asgreek">κατακέκαυμαι</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| There is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| her who | **<big>[[G3739\|η]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| take hold | **<big>[[G1949\|επελάβετο]]</big>** |
+| of her; | **<big>[[G1473\|αυτής]]</big>** |
+| therefore | **<big>[[G5106\|τοίνυν]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> did | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| he ordered. | **<big>[[G4929\|συνέταξε]]</big>** |
+| I am incinerated. | **<big>[[G2618\|κατακέκαυμαι]]</big>** |
 [[Isa.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.3|<< Isaiah 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.5|Isaiah 27:5 >>]]</td></tr></table>
 
 

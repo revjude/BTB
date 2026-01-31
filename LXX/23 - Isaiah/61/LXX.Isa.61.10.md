@@ -11,37 +11,37 @@ I will rejoice greatly in the LORD, my soul will exult in my God; for He has clo
 > $\quad$ referenced by: [[Rev.19.8|Rev 19:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| they shall be glad | <big><span class="asgreek">ευφρανθήσονται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| exult | <big><span class="asgreek">αγαλλιάσθω</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For he clothed | <big><span class="asgreek">ενέδυσε</span></big> <sup><small><small>[[G1746]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\] a cloak | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| of deliverance, | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an inner garment | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| of gladness. | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a groom, | <big><span class="asgreek">νυμφίω</span></big> <sup><small><small>[[G3566]]</small></small></sup> |
-| he put on | <big><span class="asgreek">περιέθηκε</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a mitre; | <big><span class="asgreek">μίτραν</span></big> <sup><small><small>[[G8333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a bride, | <big><span class="asgreek">νύμφην</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
-| he adorned | <big><span class="asgreek">κατεκόσμησέ</span></big> <sup><small><small>[[G7859]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with an ornament. | <big><span class="asgreek">κόσμω</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| they shall be glad | **<big>[[G2165\|ευφρανθήσονται]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριον]]</big>** |
+| exult | **<big>[[G0021\|αγαλλιάσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίω]]</big>** |
+| For he clothed | **<big>[[G1746\|ενέδυσε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \[with\] a cloak | **<big>[[G2440\|ιμάτιον]]</big>** |
+| of deliverance, | **<big>[[G4992\|σωτηρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an inner garment | **<big>[[G5509\|χιτώνα]]</big>** |
+| of gladness. | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| a groom, | **<big>[[G3566\|νυμφίω]]</big>** |
+| he put on | **<big>[[G4060\|περιέθηκε]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| a mitre; | **<big>[[G8333\|μίτραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a bride, | **<big>[[G3565\|νύμφην]]</big>** |
+| he adorned | **<big>[[G7859\|κατεκόσμησέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| with an ornament. | **<big>[[G2889\|κόσμω]]</big>** |
 [[Isa.61.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.9|<< Isaiah 61:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.11|Isaiah 61:11 >>]]</td></tr></table>
 
 

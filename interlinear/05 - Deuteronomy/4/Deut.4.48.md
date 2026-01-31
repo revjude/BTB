@@ -6,19 +6,19 @@ extending from Aroer on the rim of the Arnon Valley as far as Mount Siyon (that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.47|<< Deuteronomy 4:47]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.49|Deuteronomy 4:49 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from Aroer  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עֲרֹעֵ֞ר </big></span><small><small><sup>[[H6177H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.ro.'Er <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] edge of  | <span class="ashebrew"><big>שְׂפַת </big></span><small><small><sup>[[H8193I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| se.fat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wadi of  | <span class="ashebrew"><big>נַ֧חַל </big></span><small><small><sup>[[H5158N]]</sup></small></small> &#8207;| Na.chal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Arnon  | <span class="ashebrew"><big>אַרְנֹ֛ן </big></span><small><small><sup>[[H0769]]</sup></small></small> &#8207;| 'ar.Non <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַ֥ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Siyon  | <span class="ashebrew"><big>שִׂיאֹ֖ן </big></span><small><small><sup>[[H7865]]</sup></small></small> &#8207;| si.'On <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>ה֥וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] Hermon  | <span class="ashebrew"><big>חֶרְמֽוֹן </big></span><small><small><sup>[[H2768]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cher.Mon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Aroer  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6177H\|עֲרֹעֵ֞ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.ro.'Er<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] edge of  |**<big>&#8207;[[H8193I\|שְׂפַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.fat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi of  |**<big>&#8207;[[H5158N\|נַ֧חַל]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Arnon  |**<big>&#8207;[[H0769\|אַרְנֹ֛ן]]&#8207; </big>**| 'ar.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַ֥ר]]&#8207; </big>**| har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Siyon  |**<big>&#8207;[[H7865\|שִׂיאֹ֖ן]]&#8207; </big>**| si.'On<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Hermon  |**<big>&#8207;[[H2768\|חֶרְמֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cher.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.47|<< Deuteronomy 4:47]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.49|Deuteronomy 4:49 >>]]</td></tr></table>
 
 

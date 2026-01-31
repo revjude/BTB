@@ -6,15 +6,15 @@ You adulterous wife! You receive strangers instead of your own husband!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.31|<< Ezekiel 16:31]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.33|Ezekiel 16:33 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O wife  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אִשָּׁ֖ה </big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> adulterous  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מְּנָאָ֑פֶת </big></span><small><small><sup>[[H5003]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> me.na.'A.fet <small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| husband her  | <span class="ashebrew"><big>אִישָׁ֔ </big></span><small><small><sup>[[H0376H]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| 'i.Sha <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she takes  | <span class="ashebrew"><big>תִּקַּ֖ח </big></span><small><small><sup>[[H3947H]]</sup></small></small> &#8207;| ti.Kach <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strangers  | <span class="ashebrew"><big>זָרִֽים </big></span><small><small><sup>[[H2114A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| za.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O wife  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802H\|אִשָּׁ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> adulterous  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5003\|מְּנָאָ֑פֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.na.'A.fet<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| husband her  |**<big>&#8207;[[H0376H\|אִישָׁ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| 'i.Sha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she takes  |**<big>&#8207;[[H3947H\|תִּקַּ֖ח]]&#8207; </big>**| ti.Kach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strangers  |**<big>&#8207;[[H2114A\|זָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.31|<< Ezekiel 16:31]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.33|Ezekiel 16:33 >>]]</td></tr></table>
 
 

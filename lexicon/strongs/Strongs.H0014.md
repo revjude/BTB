@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָבָה‎</span></big> **ʼâbâh** <small>*(aw-baw')*</small> ==**be willing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָבָה‎</span></big>** **ʼâbâh** <small>*(aw-baw')*</small> ==**be willing**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ consent, rest content will, be willing.

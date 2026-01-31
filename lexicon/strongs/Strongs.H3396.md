@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְרַחְמְאֵל‎</span></big> **Yᵉrachmᵉʼêl** <small>*(yer-akh-meh-ale')*</small> ==**Jerahmeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָחַם‎</span><sup><small>[[H7355]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God will compassionate</small>
+**<big><span class="ashebrew">‎יְרַחְמְאֵל‎</span></big>** **Yᵉrachmᵉʼêl** <small>*(yer-akh-meh-ale')*</small> ==**Jerahmeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7355|‎רָחַם‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God will compassionate</small>
 
 $\quad$ Jerahmeel.
 - § Jerahmeel = *"may God have pity"*

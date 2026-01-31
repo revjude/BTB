@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κομίζω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">נשׂא</span> <small><sup>[[H5375]]</sup></small>, etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κομίζω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H5375|נשׂא]]</big>**, etc.;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to take care of</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to carry off safe</span>.</span>
 <span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">to carry off</span> as booty.</span>

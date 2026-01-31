@@ -1,8 +1,8 @@
 <small>*Ezem • City allotted to Judah and Simeon*</small>
 
 <span class='tipnrhighlight'>Ezem</span>, a city allotted to the tribes of Judah and Simeon in the Negev region.
-- A location near Beersheba<[[H0884]]> first mentioned at [[Josh.15.29|Jos.15.29]]; 
-- only referred to as Ezem<[[H6107]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Beersheba **<big>[[H0884|בְּאֵר שֶׁבַע]]</big>** first mentioned at [[Josh.15.29|Jos.15.29]]; 
+- only referred to as Ezem **<big>[[H6107|עֶצֶם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.244952,34.840888&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of Ezem in the lists of cities allotted to Judah and Simeon helps to
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ezem | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H6107) <small>*Hebrew*</small> | 3x | [[Jos.15.29] ... [1Ch.4.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ezem\*\|reference=Jos.15.29;Jos.19.3;1Ch.4.29) |
-All Strong's for **Ezem**: \[[[H6107]]\]
+| Ezem | [<span class='tipnrLangHebrew'>ע</span>ֶ֫<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H6107) | 3x | [[Jos.15.29] ... [1Ch.4.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ezem\*\|reference=Jos.15.29;Jos.19.3;1Ch.4.29) |
+All entries for **Ezem**:  **<big>[[H6107|עֶצֶם]]</big>**

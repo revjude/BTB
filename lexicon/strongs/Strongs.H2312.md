@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֵדֶק‎</span></big> **chêdeq** <small>*(khay'-dek)*</small> ==**briar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֵדֶק‎</span></big>** **chêdeq** <small>*(khay'-dek)*</small> ==**briar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to sting</small>
 
 $\quad$ brier, thorn.
@@ -6,4 +6,4 @@ $\quad$ brier, thorn.
 
 **1)** brier, thorn, prick
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄκανθα</span><sup><small>[[G0173]]</small></sup>
+<small>See Greek: </small>**<big>[[G0173|ἄκανθα]]</big>**

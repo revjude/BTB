@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H0007]]</small>
-<small>Also see: [[H0008]]</small>
+<small>Aramaic form: **<big>[[H0007|אֲבַד]]</big>**</small>
+<small>Also see: **<big>[[H0008|אֹבֵד]]</big>**</small>
 
  <span class="bdbLangHebrew">‎אָבַד‎</span> **verb** ==perish== ([[BDB#MI|MI]] <span class="bdbLangHebrew">‎אבד‎</span>, Assyrian <abbr title="transliteration"><u>***abâtu***</u></abbr> [[BDB#Dl|Dl]]<sup>W 184</sup> Aramaic <span class="bdbLangAramaic">‎אֲבַד‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHwAaAIAAAAAAAP///yH5BAAAAAAALAAAAAAfABoAAAJTjI+py+0BnlygzlvtzLlpyX2K+HDlBUUgpp7Yi26tPCdkGVK1E5rHjcoZgEPiT9PRJX+QFHJ37EmTS9t0GvXkItwmojqC8sQx25hcLqLTKba7XAAAOw==">). — 
 

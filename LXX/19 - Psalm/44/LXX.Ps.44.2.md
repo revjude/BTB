@@ -7,20 +7,20 @@
 With Your hand You drove out the nations and planted our fathers there; You crushed the peoples and cast them out.<small><sub>**MT:**</sub></small>
 [[Ps.44.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.1|<< Psalm 44:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.3|Psalm 44:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| utterly destroyed | <big><span class="asgreek">εξωλόθρευσε</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| planted | <big><span class="asgreek">κατεφύτευσας</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You afflicted | <big><span class="asgreek">εκάκωσας</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cast | <big><span class="asgreek">εξέβαλες</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| them out. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Your hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| utterly destroyed | **<big>[[G1842\|εξωλόθρευσε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| planted | **<big>[[G7952\|κατεφύτευσας]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| You afflicted | **<big>[[G2559\|εκάκωσας]]</big>** |
+| peoples | **<big>[[G2992\|λαούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cast | **<big>[[G1544\|εξέβαλες]]</big>** |
+| them out. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.44.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.1|<< Psalm 44:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.3|Psalm 44:3 >>]]</td></tr></table>
 
 

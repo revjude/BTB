@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎הֵא‎</span></big> **hêʼ** <small>*(hay)*</small> ==**behold**==  <sup><small>[[TEHMC#A:Intj|A:Intj]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">הָא</span> **hâʼ** <small>*(haw)*</small>; (Aramaic), corresponding to <span class="ashebrew">‎הֵא‎</span><sup><small>[[H1887]]</small></sup></small>
+**<big><span class="asaramaic">‎הֵא‎</span></big>** **hêʼ** <small>*(hay)*</small> ==**behold**==  <sup><small>[[TEHMC#A:Intj|A:Intj]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">הָא</span></big>** **hâʼ** <small>*(haw)*</small>; (Aramaic), corresponding to **<big>[[H1887|‎הֵא‎]]</big>**</small>
 
 $\quad$ even, lo.
 - {***lo!***}

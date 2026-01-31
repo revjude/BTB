@@ -1,6 +1,6 @@
 <span class="asform">\* <span class="asgreek"><span class="asbold">ἀ-μώμητος</span></span>, <span class="asgreek">-ου</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">μωμάομαι</span></span>),</span> </span>
 <span class="asitalic">blameless</span>: [[2Pet.3.14|II Pe 3:14]].†
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asref"><span class="asgreek">ἄμεμπτος</span> <small><sup>[[G0273]]</sup></small></span> (q.v.), <span class="asref"><span class="asgreek">ἀνέγκλητος</span> <small><sup>[[G0410]]</sup></small></span>, <span class="asref"><span class="asgreek">ἀνεπίλημπτος</span> <small><sup>[[G0423]]</sup></small></span>. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: <span class="asref">**<big>[[G0273|ἄμεμπτος]]</big>**</span> (q.v.), <span class="asref">**<big>[[G0410|ἀνέγκλητος]]</big>**</span>, <span class="asref">**<big>[[G0423|ἀνεπίλημπτος]]</big>**</span>. </span>
 
 **Abbott-Smith References**
 

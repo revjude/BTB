@@ -7,32 +7,32 @@ And they shall be afraid: pangs and sorrows shall take hold of them; they shall 
 Terror, pain, and anguish will seize them; they will writhe like a woman in labor. They will look at one another, their faces flushed with fear.<small><sub>**MT:**</sub></small>
 [[Isa.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.7|<< Isaiah 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.9|Isaiah 13:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be disturbed | <big><span class="asgreek">ταραχθήσονται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ambassadors | <big><span class="asgreek">πρέσβεις</span></big> <sup><small><small>[[G8881]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall have | <big><span class="asgreek">έξουσιν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| giving birth; | <big><span class="asgreek">τικτούσης</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall lament together, | <big><span class="asgreek">συμφοράσουσιν</span></big> <sup><small><small>[[G9285]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| another; | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be startled; | <big><span class="asgreek">εκστήσονται</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| countenance | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλοξ</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| they shall change | <big><span class="asgreek">μεταβαλούσιν</span></big> <sup><small><small>[[G3328]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be disturbed | **<big>[[G5015\|ταραχθήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ambassadors | **<big>[[G8881\|πρέσβεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their pangs | **<big>[[G5604\|ωδίνες]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| they shall have | **<big>[[G2192\|έξουσιν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a woman | **<big>[[G1135\|γυναικός]]</big>** |
+| giving birth; | **<big>[[G5088\|τικτούσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall lament together, | **<big>[[G9285\|συμφοράσουσιν]]</big>** |
+| another | **<big>[[G2087\|έτερος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| another; | **<big>[[G2087\|έτερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be startled; | **<big>[[G1839\|εκστήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| countenance | **<big>[[G4383\|πρόσωπον]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a flame | **<big>[[G5395\|φλοξ]]</big>** |
+| they shall change | **<big>[[G3328\|μεταβαλούσιν]]</big>** |
 [[Isa.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.7|<< Isaiah 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.9|Isaiah 13:9 >>]]</td></tr></table>
 
 

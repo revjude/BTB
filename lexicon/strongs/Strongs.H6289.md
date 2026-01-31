@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּארוּר‎</span></big> **pâʼrûwr** <small>*(paw-roor')*</small> ==**pale**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּאַר‎</span><sup><small>[[H6286]]</small></sup></small>
+**<big><span class="ashebrew">‎פָּארוּר‎</span></big>** **pâʼrûwr** <small>*(paw-roor')*</small> ==**pale**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6286|‎פָּאַר‎]]</big>**</small>
 
 $\quad$ blackness.
 - properly, ***illuminated***, i.e. ***a glow***

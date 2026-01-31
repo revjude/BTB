@@ -6,19 +6,19 @@ For there is hope for a tree: If it is cut down, it will sprout again, and its t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.6|<< Job 14:6]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.8|Job 14:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>יֵ֥שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> a tree  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֵ֗ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'Etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] hope  | <span class="ashebrew"><big>תִּ֫קְוָ֥ה </big></span><small><small><sup>[[H8615B]]</sup></small></small> &#8207;| tik.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִֽם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be cut down  | <span class="ashebrew"><big>יִ֭כָּרֵת </big></span><small><small><sup>[[H3772G]]</sup></small></small> &#8207;| Yi.ka.ret <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and again  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ע֣וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will sprout afresh  | <span class="ashebrew"><big>יַחֲלִ֑יף </big></span><small><small><sup>[[H2498]]</sup></small></small> &#8207;| ya.cha.Lif <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and young shoot[s] its  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹֽנַקְתּ֗ </big></span><small><small><sup>[[H3127]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.nak.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will fail  | <span class="ashebrew"><big>תֶחְדָּֽל </big></span><small><small><sup>[[H2308]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tech.Dal <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵ֥שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> a tree  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H6086H\|עֵ֗ץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] hope  |**<big>&#8207;[[H8615B\|תִּ֫קְוָ֥ה]]&#8207; </big>**| tik.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be cut down  |**<big>&#8207;[[H3772G\|יִ֭כָּרֵת]]&#8207; </big>**| Yi.ka.ret<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and again  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|ע֣וֹד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will sprout afresh  |**<big>&#8207;[[H2498\|יַחֲלִ֑יף]]&#8207; </big>**| ya.cha.Lif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and young shoot[s] its  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3127\|יֹֽנַקְתּ֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.nak.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will fail  |**<big>&#8207;[[H2308\|תֶחְדָּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tech.Dal<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.6|<< Job 14:6]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.8|Job 14:8 >>]]</td></tr></table>
 
 

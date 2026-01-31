@@ -6,19 +6,19 @@ One day Abner son of Ner and the servants of Ish-bosheth son of Saul marched out
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.11|<< 2 Samuel 2:11]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.13|2 Samuel 2:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he went out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּצֵא֙ </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye.Tze' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abner  | <span class="ashebrew"><big>אַבְנֵ֣ר </big></span><small><small><sup>[[H0074]]</sup></small></small> &#8207;| 'av.Ner <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ner  | <span class="ashebrew"><big>נֵ֔ר </big></span><small><small><sup>[[H5369G]]</sup></small></small> &#8207;| Ner <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] servants of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַבְדֵ֖י </big></span><small><small><sup>[[H5650]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.Dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ish-  | <span class="ashebrew"><big>אִֽישׁ </big></span><small><small><sup>[[H0378]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ish- <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bosheth  | <span class="ashebrew"><big>בֹּ֣שֶׁת </big></span><small><small><sup>[[H0378]]</sup></small></small> &#8207;| Bo.shet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֑וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Mahanaim  | <span class="ashebrew"><big>מִֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מַּחֲנַ֖יִם </big></span><small><small><sup>[[H4266]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ma.cha.Na.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gibeon towards  | <span class="ashebrew"><big>גִּבְעֽוֹנָ </big></span><small><small><sup>[[H1391]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| giv.'o.na <small><sup>[[HNpl]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  |**<big>&#8207;[[H0074\|אַבְנֵ֣ר]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ner  |**<big>&#8207;[[H5369G\|נֵ֔ר]]&#8207; </big>**| Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] servants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5650\|עַבְדֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ish-  |**<big>&#8207;[[H0378\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bosheth  |**<big>&#8207;[[H0378\|בֹּ֣שֶׁת]]&#8207; </big>**| Bo.shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֑וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Mahanaim  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4266\|מַּחֲנַ֖יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ma.cha.Na.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gibeon towards  |**<big>&#8207;[[H1391\|גִּבְעֽוֹנָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| giv.'o.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.11|<< 2 Samuel 2:11]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.13|2 Samuel 2:13 >>]]</td></tr></table>
 
 

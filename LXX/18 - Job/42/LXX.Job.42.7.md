@@ -10,42 +10,42 @@ And it was [so], that after the LORD had spoken these words unto Job, the LORD s
 After the LORD had spoken these words to Job, He said to Eliphaz the Temanite, “My wrath is kindled against you and your two friends. For you have not spoken about Me accurately, as My servant Job has.<small><sub>**MT:**</sub></small>
 [[Job.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.6|<< Job 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.8|Job 42:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Job, | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to Eliphaz | <big><span class="asgreek">Ελιφάζ</span></big> <sup><small><small>[[H0464]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Temanite, | <big><span class="asgreek">Θαιμανίτη</span></big> <sup><small><small>[[H8489]]</small></small></sup> |
-| You sinned | <big><span class="asgreek">ήμαρτες</span></big> <sup><small><small>[[G0264]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| friends | <big><span class="asgreek">φίλοι</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελαλήσατε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| true | <big><span class="asgreek">αληθές</span></big> <sup><small><small>[[G0227]]</small></small></sup> |
-| anything | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my attendant | <big><span class="asgreek">θεράπων</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Job. | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| speaking | **<big>[[G2980\|λαλήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these words | **<big>[[G4487\|ρήματα]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Job, | **<big>[[G2492\|Ιωβ]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to Eliphaz | **<big>[[H0464\|Ελιφάζ]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| Temanite, | **<big>[[H8489\|Θαιμανίτη]]</big>** |
+| You sinned | **<big>[[G0264\|ήμαρτες]]</big>** **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| friends | **<big>[[G5384\|φίλοι]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| you spoke | **<big>[[G2980\|ελαλήσατε]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| true | **<big>[[G0227\|αληθές]]</big>** |
+| anything | **<big>[[G3762\|ουδέν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my attendant | **<big>[[G2324\|θεράπων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Job. | **<big>[[G2492\|Ιωβ]]</big>** |
 [[Job.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.6|<< Job 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.8|Job 42:8 >>]]</td></tr></table>
 
 

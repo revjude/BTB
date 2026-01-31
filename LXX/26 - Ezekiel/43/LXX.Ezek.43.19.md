@@ -7,35 +7,35 @@ And thou shalt give to the priests the Levites that be of the seed of Zadok, whi
 You are to give a young bull from the herd as a sin offering to the Levitical priests who are of the family of Zadok, who approach Me to minister before Me, declares the Lord GOD.<small><sub>**MT:**</sub></small>
 [[Ezek.43.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.18|<< Ezekiel 43:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.20|Ezekiel 43:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| of Zadok, | <big><span class="asgreek">Σαδδούκ</span></big> <sup><small><small>[[G4524]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| approaching | <big><span class="asgreek">εγγίζουσι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to officiate | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall give | **<big>[[G1325\|δώσεις]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| priests, | **<big>[[G2409\|ιερεύσι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίταις]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| seed | **<big>[[G4690\|σπέρματος]]</big>** |
+| of Zadok, | **<big>[[G4524\|Σαδδούκ]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| approaching | **<big>[[G1448\|εγγίζουσι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to officiate | **<big>[[G3008\|λειτουργείν]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| a calf | **<big>[[G3448\|μόσχον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] oxen | **<big>[[G1016\|βοών]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\]. | **<big>[[G0266\|αμαρτίας]]</big>** |
 [[Ezek.43.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.18|<< Ezekiel 43:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.20|Ezekiel 43:20 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַסִּיר‎</span></big> **ʼAççîyr** <small>*(as-sere')*</small> ==**Assir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אַסִּיר‎</span><sup><small>[[H0616]]</small></sup>; prisoner</small>
+**<big><span class="ashebrew">‎אַסִּיר‎</span></big>** **ʼAççîyr** <small>*(as-sere')*</small> ==**Assir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0616|‎אַסִּיר‎]]</big>**; prisoner</small>
 
 $\quad$ Assir.
 - § Assir = *"prisoner"*

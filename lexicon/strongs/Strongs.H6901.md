@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָבַל‎</span></big> **qâbal** <small>*(kaw-bal')*</small> ==**to receive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָבַל‎</span></big>** **qâbal** <small>*(kaw-bal')*</small> ==**to receive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ choose, (take) hold, receive, (under-) take.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to show oppositeness
 $\quad$ $\quad$ **1b2)** to correspond, receive one to the other
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντιπίπτω</span><sup><small>[[G0496]]</small></sup> · <span class="asgreek">δέχομαι</span><sup><small>[[G1209]]</small></sup> · <span class="asgreek">ἐκλέγομαι</span><sup><small>[[G1586]]</small></sup> · <span class="asgreek">πείθω</span><sup><small>[[G3982]]</small></sup> · <span class="asgreek">προσδέχομαι</span><sup><small>[[G4327]]</small></sup> · <span class="asgreek">ὑποφέρω</span><sup><small>[[G5297]]</small></sup>
+<small>See Greek: </small>**<big>[[G0496|ἀντιπίπτω]]</big>** · **<big>[[G1209|δέχομαι]]</big>** · **<big>[[G1586|ἐκλέγομαι]]</big>** · **<big>[[G3982|πείθω]]</big>** · **<big>[[G4327|προσδέχομαι]]</big>** · **<big>[[G5297|ὑποφέρω]]</big>**

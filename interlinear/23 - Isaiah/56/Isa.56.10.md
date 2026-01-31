@@ -6,26 +6,26 @@ Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.9|<< Isaiah 56:9]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.11|Isaiah 56:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| watchmen its  [^2] | <span class="ashebrew"><big>צֹפָ֞י </big></span><small><small><sup>[[H6822]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;[^3] | tza.fi <small><sup>[[HVqrmpc]]</sup></small> u <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| [are] blind  | <span class="ashebrew"><big>עִוְרִ֤ים </big></span><small><small><sup>[[H5787]]</sup></small></small> &#8207;| 'iv.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of them  | <span class="ashebrew"><big>כֻּלָּ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ku.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know  | <span class="ashebrew"><big>יָדָ֔עוּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of them  | <span class="ashebrew"><big>כֻּלָּ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ku.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] dogs  | <span class="ashebrew"><big>כְּלָבִ֣ים </big></span><small><small><sup>[[H3611]]</sup></small></small> &#8207;| ke.la.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dumb  | <span class="ashebrew"><big>אִלְּמִ֔ים </big></span><small><small><sup>[[H0483]]</sup></small></small> &#8207;| 'i.le.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are able  | <span class="ashebrew"><big>יוּכְל֖וּ </big></span><small><small><sup>[[H3201]]</sup></small></small> &#8207;| yu.khe.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to bark  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נְבֹּ֑חַ </big></span><small><small><sup>[[H5024]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> n.Bo.ach <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [they] dream  | <span class="ashebrew"><big>הֹזִים֙ </big></span><small><small><sup>[[H1957]]</sup></small></small> &#8207;| ho.Zim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [they] lie down  | <span class="ashebrew"><big>שֹֽׁכְבִ֔ים </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| sho.khe.Vim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [they] love  | <span class="ashebrew"><big>אֹהֲבֵ֖י </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'o.ha.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> to slumber  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נֽוּם </big></span><small><small><sup>[[H5123]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Num <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watchmen its  [^2]|**<big>&#8207;[[H6822\|צֹפָ֞י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**[^3] | tza.fi<small><sup>[[HVqrmpc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [are] blind  |**<big>&#8207;[[H5787\|עִוְרִ֤ים]]&#8207; </big>**| 'iv.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know  |**<big>&#8207;[[H3045\|יָדָ֔עוּ]]&#8207; </big>**| ya.Da.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] dogs  |**<big>&#8207;[[H3611\|כְּלָבִ֣ים]]&#8207; </big>**| ke.la.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dumb  |**<big>&#8207;[[H0483\|אִלְּמִ֔ים]]&#8207; </big>**| 'i.le.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are able  |**<big>&#8207;[[H3201\|יוּכְל֖וּ]]&#8207; </big>**| yu.khe.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bark  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5024\|נְבֹּ֑חַ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> n.Bo.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [they] dream  |**<big>&#8207;[[H1957\|הֹזִים֙]]&#8207; </big>**| ho.Zim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [they] lie down  |**<big>&#8207;[[H7901G\|שֹֽׁכְבִ֔ים]]&#8207; </big>**| sho.khe.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [they] love  |**<big>&#8207;[[H0157G\|אֹהֲבֵ֖י]]&#8207; </big>**| 'o.ha.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> to slumber  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5123\|נֽוּם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Num<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.9|<< Isaiah 56:9]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.11|Isaiah 56:11 >>]]</td></tr></table>
 
-[^1]: ==K==: **they have watched ** | <small><sup>[[H6822]]</sup></small> <span class="ashebrew"><big>צָפוּ</big></span>  | tza.fu<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==K==: **they have watched ** | <small><sup>[[H6822]]</sup></small> <span class="ashebrew"><big>צָפוּ</big></span>  | tza.fu<small><sup>[[HVqp3cp]]</sup></small> 
+[^1]: ==K==: they have watched  | **<big>[[H6822|צָפוּ]]</big> ** | tza.fu<small><sup>[[HVqp3cp]]</sup></small> 
+[^2]: ==K==: they have watched  | **<big>[[H6822|צָפוּ]]</big> ** | tza.fu<small><sup>[[HVqp3cp]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>צֹפָ֞ו</big></span>**
 

@@ -7,41 +7,41 @@ And the battle increased that day: and the king was stayed up in his chariot aga
 The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died.<small><sub>**MT:**</sub></small>
 [[1Kgs.22.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.34|<< 1 Kings 22:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.36|1 Kings 22:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned | <big><span class="asgreek">ετροπώθη</span></big> <sup><small><small>[[G9501]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| set | <big><span class="asgreek">εστηκώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρματος</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| Syria, | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| poured out | <big><span class="asgreek">απέχυνε</span></big> <sup><small><small>[[G6513]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wound | <big><span class="asgreek">πληγής</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cavity | <big><span class="asgreek">κόλπον</span></big> <sup><small><small>[[G2859]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot. | <big><span class="asgreek">άρματος</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| turned | **<big>[[G9501\|ετροπώθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| war | **<big>[[G4171\|πόλεμος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| set | **<big>[[G2476\|εστηκώς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| chariot | **<big>[[G0716\|άρματος]]</big>** |
+| right opposite | **<big>[[G7295\|εξεναντίας]]</big>** |
+| Syria, | **<big>[[G4947\|Συρίας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening. | **<big>[[G2073\|εσπέρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| poured out | **<big>[[G6513\|απέχυνε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| wound | **<big>[[G4127\|πληγής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| cavity | **<big>[[G2859\|κόλπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| chariot. | **<big>[[G0716\|άρματος]]</big>** |
 [[1Kgs.22.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.34|<< 1 Kings 22:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.36|1 Kings 22:36 >>]]</td></tr></table>
 
 

@@ -11,21 +11,21 @@ We all like sheep have gone astray, each one has turned to his own way; and the 
 > $\quad$ referenced by: [[1Pet.2.25|1Pet 2:25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| wandered | <big><span class="asgreek">επλανήθημεν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| A man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in his way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was wandered | <big><span class="asgreek">επλανήθη</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| delivered him up | <big><span class="asgreek">παρέδωκεν αυτόν</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for our sins. | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| wandered | **<big>[[G4105\|επλανήθημεν]]</big>** |
+| A man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in his way | **<big>[[G3598\|οδώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was wandered | **<big>[[G4105\|επλανήθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| delivered him up | **<big>[[G3860\|παρέδωκεν αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| for our sins. | **<big>[[G0266\|αμαρτίαις]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Isa.53.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.5|<< Isaiah 53:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.7|Isaiah 53:7 >>]]</td></tr></table>
 
 

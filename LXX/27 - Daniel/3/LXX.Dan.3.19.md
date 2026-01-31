@@ -7,35 +7,35 @@ Then was Nebuchadnezzar full of fury, and the form of his visage was changed aga
 At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual,<small><sub>**MT:**</sub></small>
 [[Dan.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.18|<< Daniel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.20|Daniel 3:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| was filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| of rage, | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψις</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| changed | <big><span class="asgreek">ηλλοιώθη</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| Meshach, | <big><span class="asgreek">Μισάχ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abed-nego. | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to burn | <big><span class="asgreek">εκκαύσαι</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnace | <big><span class="asgreek">κάμινον</span></big> <sup><small><small>[[G2575]]</small></small></sup> |
-| seven-fold | <big><span class="asgreek">επταπλασίως</span></big> <sup><small><small>[[G7489]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| it should burn | <big><span class="asgreek">εκκαή</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| was filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| of rage, | **<big>[[G2372\|θυμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| appearance | **<big>[[G3799\|όψις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| changed | **<big>[[G6230\|ηλλοιώθη]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| Meshach, | **<big>[[H4336\|Μισάχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abed-nego. | **<big>[[H5665\|Αβδεναγώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to burn | **<big>[[G1572\|εκκαύσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| furnace | **<big>[[G2575\|κάμινον]]</big>** |
+| seven-fold | **<big>[[G7489\|επταπλασίως]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end | **<big>[[G5056\|τέλος]]</big>** |
+| it should burn | **<big>[[G1572\|εκκαή]]</big>** |
 [[Dan.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.18|<< Daniel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.20|Daniel 3:20 >>]]</td></tr></table>
 
 

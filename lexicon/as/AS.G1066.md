@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Γεδεών</span></span>, <span class="asgreek">ὁ</span>, indecl. in LXX and NT, in FlJ, <span class="asitalic">Ant.</span>, v. 6, 3 and 4 <span class="asgreek">-ῶνος</span> (Heb. <span class="ashebrew">גִּדְעוֹן</span> <small><sup>[[H1439]]</sup></small>), </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Γεδεών</span></span>, <span class="asgreek">ὁ</span>, indecl. in LXX and NT, in FlJ, <span class="asitalic">Ant.</span>, v. 6, 3 and 4 <span class="asgreek">-ῶνος</span> (Heb. **<big>[[H1439|גִּדְעוֹן]]</big>**), </span>
 <span class="asitalic">Gideon</span> ([[LXX.Judg.6|Jg 6-8]]): [[Heb.11.32|He 11:32]].†
 
 **Abbott-Smith References**

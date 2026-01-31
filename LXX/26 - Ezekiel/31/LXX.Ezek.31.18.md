@@ -7,50 +7,50 @@ To whom art thou thus like in glory and in greatness among the trees of Eden? ye
 Who then is like you in glory and greatness among the trees of Eden? You also will be brought down to the depths of the earth to be with the trees of Eden. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
 [[Ezek.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.17|<< Ezekiel 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.1|Ezekiel 32:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| are you likened | <big><span class="asgreek">ωμοιώθης</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| power, | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| glory, | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| greatness | <big><span class="asgreek">μεγέθει</span></big> <sup><small><small>[[G3174]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλοις</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| delicacy? | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
-| Go down | <big><span class="asgreek">κατάβηθι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| delicacy | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| of \[the\] earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the\] depth | <big><span class="asgreek">βάθος</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of uncircumcised | <big><span class="asgreek">απεριτμήτων</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
-| You shall sleep | <big><span class="asgreek">κοιμηθήση</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| ones slain | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| by sword. | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his strength, | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| To whom | **<big>[[G5100\|τίνι]]</big>** |
+| are you likened | **<big>[[G3666\|ωμοιώθης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| power, | **<big>[[G1411\|δυνάμει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| glory, | **<big>[[G1391\|δόξη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| greatness | **<big>[[G3174\|μεγέθει]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| trees | **<big>[[G3586\|ξύλοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| delicacy? | **<big>[[G5172\|τρυφής]]</big>** |
+| Go down | **<big>[[G2597\|κατάβηθι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| trees | **<big>[[G3586\|ξύλων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| delicacy | **<big>[[G5172\|τρυφής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| of \[the\] earth | **<big>[[G1093\|γης]]</big>** |
+| \[the\] depth | **<big>[[G0899\|βάθος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of uncircumcised | **<big>[[G0564\|απεριτμήτων]]</big>** |
+| You shall sleep | **<big>[[G2837\|κοιμηθήση]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| ones slain | **<big>[[G9470\|τραυματιών]]</big>** |
+| by sword. | **<big>[[G3162\|μαχαίρας]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his strength, | **<big>[[G2479\|ισχύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ezek.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.17|<< Ezekiel 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.1|Ezekiel 32:1 >>]]</td></tr></table>
 
 

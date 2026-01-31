@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-dagon</span> was a town in the territory of Asher, likely named after the Philistine god Dagon. \([[Josh.19.27|Joshua 19:27]]\)
 - A location only mentioned at [[Josh.19.27|Jos.19.27]]; 
-- only referred to as Beth-dagon<[[H1016H]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Beth-dagon **<big>[[H1016|בֵּית־דָּגוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.899561,35.107928&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ No other details about the town or its history are provided in the Bible. The me
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-dagon (NIV= Beth Dagon) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1016H) <small>*Hebrew*</small> | 1x | [Jos.19.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.27) |
-All Strong's for **Beth-dagon**: \[[[H1016H]]\]
+| Beth-dagon (NIV= Beth Dagon) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1016H) | 1x | [Jos.19.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.27) |
+All entries for **Beth-dagon**:  **<big>[[H1016|בֵּית־דָּגוֹן]]</big>**

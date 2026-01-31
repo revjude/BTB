@@ -6,15 +6,15 @@ You who fear the LORD, trust in the LORD! He is their help and shield.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.10|<< Psalms 115:10]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.12|Psalms 115:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O [those] fearing  | <span class="ashebrew"><big>יִרְאֵ֣י </big></span><small><small><sup>[[H3373]]</sup></small></small> &#8207;| yir.'Ei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trust  | <span class="ashebrew"><big>בִּטְח֣וּ </big></span><small><small><sup>[[H0982]]</sup></small></small> &#8207;| bit.Chu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Yahweh  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] help their  | <span class="ashebrew"><big>עֶזְרָ֖ </big></span><small><small><sup>[[H5828]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'ez.Ra <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and shield their  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָגִנָּ֣ </big></span><small><small><sup>[[H4043]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.gi.Na <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O [those] fearing  |**<big>&#8207;[[H3373\|יִרְאֵ֣י]]&#8207; </big>**| yir.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trust  |**<big>&#8207;[[H0982\|בִּטְח֣וּ]]&#8207; </big>**| bit.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] help their  |**<big>&#8207;[[H5828\|עֶזְרָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'ez.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shield their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4043\|מָגִנָּ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.gi.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.10|<< Psalms 115:10]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.12|Psalms 115:12 >>]]</td></tr></table>
 
 

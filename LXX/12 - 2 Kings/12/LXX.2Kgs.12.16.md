@@ -7,24 +7,24 @@ The trespass money and sin money was not brought into the house of the LORD: it 
 The money from the guilt offerings and sin offerings was not brought into the house of the LORD; it belonged to the priests.<small><sub>**MT:**</sub></small>
 [[2Kgs.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.15|<< 2 Kings 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.17|2 Kings 12:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a trespass \[offering\], | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\] | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| was not carried | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισηνέχθη</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερεύσιν</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| it was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| But money | **<big>[[G0694\|αργύριον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a trespass \[offering\], | **<big>[[G8811\|πλημμελείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\] | **<big>[[G0266\|αμαρτίας]]</big>** |
+| was not carried | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1533\|εισηνέχθη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| priests | **<big>[[G2409\|ιερεύσιν]]</big>** |
+| it was | **<big>[[G1096\|εγένετο]]</big>** |
 [[2Kgs.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.15|<< 2 Kings 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.17|2 Kings 12:17 >>]]</td></tr></table>
 
 

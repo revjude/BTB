@@ -7,16 +7,16 @@ And I will walk at liberty: for I seek thy precepts.
 And I will walk in freedom, for I have sought Your precepts.<small><sub>**MT:**</sub></small>
 [[Ps.119.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.44|<< Psalm 119:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.46|Psalm 119:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I went | <big><span class="asgreek">επορευόμην</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| an enlargement; | <big><span class="asgreek">πλατυσμώ</span></big> <sup><small><small>[[G8803]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I sought after | <big><span class="asgreek">εξεζήτησα</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| For | **<big>[[G2532\|και]]</big>** |
+| I went | **<big>[[G4198\|επορευόμην]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| an enlargement; | **<big>[[G8803\|πλατυσμώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I sought after | **<big>[[G1567\|εξεζήτησα]]</big>** |
 [[Ps.119.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.44|<< Psalm 119:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.46|Psalm 119:46 >>]]</td></tr></table>
 
 

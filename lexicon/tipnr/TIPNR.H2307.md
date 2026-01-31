@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hadid</span> was a town in Benjamin, whose inhabitants returned from the Babylonian exile and resettled in the town \([[Ezra.2.33|Ezra 2:33]]; [[Neh.7.37|Nehemiah 7:37]]; 11:34\).
 - A location first mentioned at [[Ezra.2.33|Ezr.2.33]]; 
-- only referred to as Hadid<[[H2307]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>\).
+- only referred to as Hadid **<big>[[H2307|חָדִיד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.963575,34.952536&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hadid was a town located in the territory of Benjamin, mentioned in the context 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hadid | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>](H2307) <small>*Hebrew*</small> | 3x | [[Ezr.2.33] ... [Neh.11.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hadid\*\|reference=Ezr.2.33;Neh.7.37;Neh.11.34) |
-All Strong's for **Hadid**: \[[[H2307]]\]
+| Hadid | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>](H2307) | 3x | [[Ezr.2.33] ... [Neh.11.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hadid\*\|reference=Ezr.2.33;Neh.7.37;Neh.11.34) |
+All entries for **Hadid**:  **<big>[[H2307|חָדִיד]]</big>**

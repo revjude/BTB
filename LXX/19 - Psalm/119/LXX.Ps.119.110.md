@@ -7,17 +7,17 @@ The wicked have laid a snare for me: yet I erred not from thy precepts.
 The wicked have set a snare for me, but I have not strayed from Your precepts.<small><sub>**MT:**</sub></small>
 [[Ps.119.110|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.109|<< Psalm 119:109]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.111|Psalm 119:111 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| put | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| Sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| a snare | <big><span class="asgreek">παγίδα</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| for me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments | <big><span class="asgreek">εντολών</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I wandered not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επλανήθην</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| put | **<big>[[G5087\|έθεντο]]</big>** |
+| Sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| a snare | **<big>[[G3803\|παγίδα]]</big>** |
+| for me; | **<big>[[G1473\|μοι]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your commandments | **<big>[[G1785\|εντολών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I wandered not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4105\|επλανήθην]]</big>** |
 [[Ps.119.110|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.109|<< Psalm 119:109]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.111|Psalm 119:111 >>]]</td></tr></table>
 
 

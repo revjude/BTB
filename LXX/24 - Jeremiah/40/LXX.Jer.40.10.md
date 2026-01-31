@@ -7,44 +7,44 @@ As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will com
 As for me, I will stay in Mizpah to represent you before the Chaldeans who come to us. As for you, gather wine grapes, summer fruit, and oil, place them in your storage jars, and live in the cities you have taken.”<small><sub>**MT:**</sub></small>
 [[Jer.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.9|<< Jeremiah 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.11|Jeremiah 40:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sit | <big><span class="asgreek">κάθημαι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Mizpah | <big><span class="asgreek">Μασσηφάθ</span></big> <sup><small><small>[[H4708]]</small></small></sup> |
-| to stand | <big><span class="asgreek">στήναι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans, | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| to whom | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should come | <big><span class="asgreek">έλθωσιν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bring together | <big><span class="asgreek">συναγάγετε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| autumn fruits, | <big><span class="asgreek">οπώραν</span></big> <sup><small><small>[[G3703]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lay them | <big><span class="asgreek">βαλετε</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your receptacles, | <big><span class="asgreek">αγγεία</span></big> <sup><small><small>[[G0030]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwell | <big><span class="asgreek">οικήσατε</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you held! | <big><span class="asgreek">κατεκρατήσατε</span></big> <sup><small><small>[[G7860]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| sit | **<big>[[G2521\|κάθημαι]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Mizpah | **<big>[[H4708\|Μασσηφάθ]]</big>** |
+| to stand | **<big>[[G2476\|στήναι]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans, | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| to whom | **<big>[[G3739\|οι]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should come | **<big>[[G2064\|έλθωσιν]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| bring together | **<big>[[G4863\|συναγάγετε]]</big>** |
+| wine, | **<big>[[G3631\|οίνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| autumn fruits, | **<big>[[G3703\|οπώραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil, | **<big>[[G1637\|έλαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lay them | **<big>[[G0906\|βαλετε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your receptacles, | **<big>[[G0030\|αγγεία]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dwell | **<big>[[G3611\|οικήσατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| cities | **<big>[[G4172\|πόλεσιν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| you held! | **<big>[[G7860\|κατεκρατήσατε]]</big>** |
 [[Jer.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.9|<< Jeremiah 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.11|Jeremiah 40:11 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ Then shall ye remember your own evil ways, and your doings that [were] not good,
 Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your iniquities and abominations.<small><sub>**MT:**</sub></small>
 [[Ezek.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.30|<< Ezekiel 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.32|Ezekiel 36:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remember | <big><span class="asgreek">μνησθήσεσθε</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηράς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your practices, | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| good. | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall loathe | <big><span class="asgreek">προσοχθιείτε</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lawless deeds, | <big><span class="asgreek">ανομίαις υμών</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your abominations. | <big><span class="asgreek">βδελύγμασιν</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remember | **<big>[[G3403\|μνησθήσεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| ways | **<big>[[G3598\|οδούς]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| evil | **<big>[[G4190\|πονηράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your practices, | **<big>[[G7461\|επιτηδεύματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| good. | **<big>[[G0018\|αγαθά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall loathe | **<big>[[G4360\|προσοχθιείτε]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your lawless deeds, | **<big>[[G0458\|ανομίαις υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your abominations. | **<big>[[G0946\|βδελύγμασιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Ezek.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.30|<< Ezekiel 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.32|Ezekiel 36:32 >>]]</td></tr></table>
 
 

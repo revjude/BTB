@@ -7,29 +7,29 @@ But the people took of the spoil, sheep and oxen, the chief of the things which 
 The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”<small><sub>**MT:**</sub></small>
 [[1Sam.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.20|<< 1 Samuel 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.22|1 Samuel 15:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| of \[the\] flocks | <big><span class="asgreek">ποίμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] herds, | <big><span class="asgreek">βουκόλια</span></big> <sup><small><small>[[G6690]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-fruits | <big><span class="asgreek">απαρχάς</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offering for consumption, | <big><span class="asgreek">αναθέματος</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sacrifice | <big><span class="asgreek">θύσαι</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gilgal. | <big><span class="asgreek">Γαλγάλοις</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| spoils | **<big>[[G4661\|σκύλων]]</big>** |
+| of \[the\] flocks | **<big>[[G4168\|ποίμνια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] herds, | **<big>[[G6690\|βουκόλια]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| first-fruits | **<big>[[G0536\|απαρχάς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| offering for consumption, | **<big>[[G0331\|αναθέματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sacrifice | **<big>[[G2380\|θύσαι]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gilgal. | **<big>[[H1537\|Γαλγάλοις]]</big>** |
 [[1Sam.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.20|<< 1 Samuel 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.22|1 Samuel 15:22 >>]]</td></tr></table>
 
 

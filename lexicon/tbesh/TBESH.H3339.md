@@ -1,8 +1,6 @@
-<span class="ashebrew">‎יִצְרִי‎</span> <small>***(yits.ri)***</small> ==**Izri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H6874]]</small> 
+<small>name of:</small> <small>**<big>[[H6874|צְרִי]]</big>**</small> 
 
 - A man of the tribe of Levi living at the time of United Monarchy, first mentioned at [[1Chr.25.3|1Ch.25.3]]
--  son of: Jeduthun ([[H3038]])
--  brother of: Obed-edom ([[H5654]]), Mattithiah ([[H4993H]]), Gedaliah ([[H1436I]]), Jeshaiah ([[H3470H]]) and Hashabiah ([[H2811I]]); also called Izri at [[1Chr.25.11|1Ch.25.11]]
-- Another name of <i>tse.ri</i> (<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎י‎</span> "Zeri" [[H6874]])
-
+-  son of: Jeduthun (**<big>[[H3038|יְדוּתוּן]]</big>**)
+-  brother of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**), Mattithiah (**<big>[[H4993H|מַתִּתְיָה]]</big>**), Gedaliah (**<big>[[H1436I|גְּדַּלְיָה]]</big>**), Jeshaiah (**<big>[[H3470H|יְשַׁעְיָה]]</big>**) and Hashabiah (**<big>[[H2811I|חֲשַׁבְיָה]]</big>**); also called Izri at [[1Chr.25.11|1Ch.25.11]]
+- Another name of <i>tse.ri</i> (<span class='ashebrew'>‎צ‎</span>ְ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎י‎</span> "Zeri" **<big>[[H6874|צְרִי]]</big>**)

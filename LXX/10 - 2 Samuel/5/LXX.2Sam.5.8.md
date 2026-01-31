@@ -7,42 +7,42 @@ And David said on that day, Whosoever getteth up to the gutter, and smiteth the 
 On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.”<small><sub>**MT:**</sub></small>
 [[2Sam.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.7|<< 2 Samuel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.9|2 Samuel 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| Every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| striking | <big><span class="asgreek">τύπτων</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| a Jebusite, | <big><span class="asgreek">Ιεβουσαίον</span></big> <sup><small><small>[[H2983]]</small></small></sup> |
-| let him touch | <big><span class="asgreek">απτέσθω</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] dagger | <big><span class="asgreek">παραξιφίδι</span></big> <sup><small><small>[[G8629]]</small></small></sup> |
-| both | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lame, | <big><span class="asgreek">χωλούς</span></big> <sup><small><small>[[G5560]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blind, | <big><span class="asgreek">τυφλούς</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| detesting | <big><span class="asgreek">μισούντας</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of David! | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Blind | <big><span class="asgreek">τυφλοί</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lame | <big><span class="asgreek">χωλοί</span></big> <sup><small><small>[[G5560]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| enter | <big><span class="asgreek">εισελεύσονται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| Every one | **<big>[[G3956\|πας]]</big>** |
+| striking | **<big>[[G5180\|τύπτων]]</big>** |
+| a Jebusite, | **<big>[[H2983\|Ιεβουσαίον]]</big>** |
+| let him touch | **<big>[[G0680\|απτέσθω]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] dagger | **<big>[[G8629\|παραξιφίδι]]</big>** |
+| both | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| lame, | **<big>[[G5560\|χωλούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| blind, | **<big>[[G5185\|τυφλούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| detesting | **<big>[[G3404\|μισούντας]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| of David! | **<big>[[G4622\|Δαυίδ]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσι]]</big>** |
+| Blind | **<big>[[G5185\|τυφλοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lame | **<big>[[G5560\|χωλοί]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| enter | **<big>[[G1525\|εισελεύσονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Sam.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.7|<< 2 Samuel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.9|2 Samuel 5:9 >>]]</td></tr></table>
 
 

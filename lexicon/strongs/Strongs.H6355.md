@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּחַת מוֹאָב‎</span></big> **Pachath Môwʼâb** <small>*(pakh'-ath mo-awb')*</small> ==**Pahath-moab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פַּחַת‎</span><sup><small>[[H6354]]</small></sup> and <span class="ashebrew">‎מוֹאָב‎</span><sup><small>[[H4124]]</small></sup>; pit of Moab</small>
+**<big><span class="ashebrew">‎פַּחַת מוֹאָב‎</span></big>** **Pachath Môwʼâb** <small>*(pakh'-ath mo-awb')*</small> ==**Pahath-moab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6354|‎פַּחַת‎]]</big>** and **<big>[[H4124|‎מוֹאָב‎]]</big>**; pit of Moab</small>
 
 $\quad$ Pahathmoab.
 - § Pahath-moab = *"pit of Moab"*

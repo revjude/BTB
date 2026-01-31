@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אָע‎</span> <small>***(a)***</small> ==**wood**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H6086G]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6086G|עֵץ]]</big>**</small> 
 
-- Aramaic of <i>ets</i> (<span class='ashebrew'>‎ע‎</span>ֵ<span class='ashebrew'>‎ץ‎</span> ": wood" [[H6086]])
+- Aramaic of <i>ets</i> (<span class='ashebrew'>‎ע‎</span>ֵ<span class='ashebrew'>‎ץ‎</span> ": wood" **<big>[[H6086|עֵץ]]</big>**)

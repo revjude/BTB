@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּתִּי‎</span></big> **Kittîy** <small>*(kit-tee')*</small> ==**Kittim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>or <span class="ashebrew">כִּתִּיִּי</span> **Kittîyîy** <small>*(kit-tee-ee')*</small>; patrial from an unused name denoting Cyprus (only in the plural)</small>
+**<big><span class="ashebrew">‎כִּתִּי‎</span></big>** **Kittîy** <small>*(kit-tee')*</small> ==**Kittim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>or **<big><span class="ashebrew">כִּתִּיִּי</span></big>** **Kittîyîy** <small>*(kit-tee-ee')*</small>; patrial from an unused name denoting Cyprus (only in the plural)</small>
 
 $\quad$ Chittim, Kittim.
 - § Chittim or Kittim = *"bruisers"*

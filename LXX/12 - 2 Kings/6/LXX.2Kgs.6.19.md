@@ -7,35 +7,35 @@ And Elisha said unto them, This [is] not the way, neither [is] this the city: fo
 And Elisha told them, “This is not the way, and this is not the city. Follow me, and I will take you to the man you are seeking.” And he led them to Samaria.<small><sub>**MT:**</sub></small>
 [[2Kgs.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.18|<< 2 Kings 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.20|2 Kings 6:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This \[is\] not | <big><span class="asgreek">ουχι</span></big> <sup><small><small>[[G3780]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this \[is\] not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way. | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| Come | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">άξω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you seek. | <big><span class="asgreek">ζητείτε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">απήγαγεν</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Samaria. | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| This \[is\] not | **<big>[[G3780\|ουχι]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city, | **<big>[[G4172\|πόλις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this \[is\] not | **<big>[[G3756\|ουχ]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| way. | **<big>[[G3598\|οδός]]</big>** |
+| Come | **<big>[[G1205\|δεύτε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| me! | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will lead | **<big>[[G0071\|άξω]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you seek. | **<big>[[G2212\|ζητείτε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G0520\|απήγαγεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Samaria. | **<big>[[G4540\|Σαμάρειαν]]</big>** |
 [[2Kgs.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.18|<< 2 Kings 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.20|2 Kings 6:20 >>]]</td></tr></table>
 
 

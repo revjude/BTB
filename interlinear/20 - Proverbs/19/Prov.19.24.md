@@ -6,17 +6,17 @@ The slacker buries his hand in the dish; he will not even bring it back to his m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.23|<< Proverbs 19:23]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.25|Proverbs 19:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he hides  | <span class="ashebrew"><big>טָ֘מַ֤ן </big></span><small><small><sup>[[H2934]]</sup></small></small> &#8207;| ta.Man <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sluggard  | <span class="ashebrew"><big>עָצֵ֣ל </big></span><small><small><sup>[[H6102]]</sup></small></small> &#8207;| 'a.Tzel <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand his  | <span class="ashebrew"><big>יָ֭ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ya.d <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the dish  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צַּלָּ֑חַת </big></span><small><small><sup>[[H6747]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> tza.La.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth his  | <span class="ashebrew"><big>פִּ֝֗י </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| Pi. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he brings back it  | <span class="ashebrew"><big>יְשִׁיבֶֽ </big></span><small><small><sup>[[H7725G]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.shi.Ve. <small><sup>[[HVhi3ms]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he hides  |**<big>&#8207;[[H2934\|טָ֘מַ֤ן]]&#8207; </big>**| ta.Man<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sluggard  |**<big>&#8207;[[H6102\|עָצֵ֣ל]]&#8207; </big>**| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  |**<big>&#8207;[[H3027G\|יָ֭ד]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the dish  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6747\|צַּלָּ֑חַת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tza.La.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth his  |**<big>&#8207;[[H6310G\|פִּ֝֗י]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| Pi.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he brings back it  |**<big>&#8207;[[H7725G\|יְשִׁיבֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.shi.Ve.<small><sup>[[HVhi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.23|<< Proverbs 19:23]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.25|Proverbs 19:25 >>]]</td></tr></table>
 
 

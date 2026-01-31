@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָמַם‎</span></big> **zâmam** <small>*(zaw-mam')*</small> ==**to plan**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָמַם‎</span></big>** **zâmam** <small>*(zaw-mam')*</small> ==**to plan**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ consider, devise, imagine, plot, purpose, think (evil).
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to consider, fix thought upon
 $\quad$ $\quad$ **1a2)** to purpose, devise
 $\quad$ $\quad$ **1a3)** to plot (of evil intent)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βουλεύω</span><sup><small>[[G1011]]</small></sup> · <span class="asgreek">διαλογίζομαι</span><sup><small>[[G1260]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">ἐνθυμέομαι</span><sup><small>[[G1760]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">θεωρέω</span><sup><small>[[G2334]]</small></sup> · <span class="asgreek">παρατηρέω</span><sup><small>[[G3906]]</small></sup> · <span class="asgreek">χρόνος</span><sup><small>[[G5550]]</small></sup>
+<small>See Greek: </small>**<big>[[G1011|βουλεύω]]</big>** · **<big>[[G1260|διαλογίζομαι]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G1760|ἐνθυμέομαι]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2334|θεωρέω]]</big>** · **<big>[[G3906|παρατηρέω]]</big>** · **<big>[[G5550|χρόνος]]</big>**

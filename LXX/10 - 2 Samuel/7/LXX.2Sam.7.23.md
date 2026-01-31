@@ -7,51 +7,51 @@ And what one nation in the earth [is] like thy people, [even] like Israel, whom 
 And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself and to make a name for Himself? You performed great and awesome wonders by driving out nations and their gods from before Your people, whom You redeemed for Yourself from Egypt.<small><sub>**MT:**</sub></small>
 [[2Sam.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.22|<< 2 Samuel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.24|2 Samuel 7:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| other | <big><span class="asgreek">άλλο</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth? | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| guided | <big><span class="asgreek">ωδήγησεν</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to ransom | <big><span class="asgreek">λυτρώσασθαι</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| to himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to establish | <big><span class="asgreek">θέσθαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| your | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| executing | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| greatness | <big><span class="asgreek">μεγαλωσύνην</span></big> <sup><small><small>[[G3172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grandeur, | <big><span class="asgreek">επιφάνειαν</span></big> <sup><small><small>[[G2015]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for you to cast out | <big><span class="asgreek">εκβαλείν</span></big> <sup><small><small>[[G1544]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you ransomed | <big><span class="asgreek">ελυτρώσω</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| \[even\] nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tents? | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| \[is\] as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| nation | **<big>[[G1484\|έθνος]]</big>** |
+| other | **<big>[[G0243\|άλλο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth? | **<big>[[G1093\|γη]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| guided | **<big>[[G3594\|ωδήγησεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to ransom | **<big>[[G3084\|λυτρώσασθαι]]</big>** |
+| to himself | **<big>[[G1473\|αυτώ]]</big>** |
+| a people, | **<big>[[G2992\|λαόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to establish | **<big>[[G5087\|θέσθαι]]</big>** |
+| your | **<big>[[G1473\|σε]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| executing | **<big>[[G4160\|ποιήσαι]]</big>** |
+| greatness | **<big>[[G3172\|μεγαλωσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grandeur, | **<big>[[G2015\|επιφάνειαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for you to cast out | **<big>[[G1544\|εκβαλείν]]</big>** **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| you ransomed | **<big>[[G3084\|ελυτρώσω]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| \[even\] nations | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tents? | **<big>[[G4638\|σκηνώματα]]</big>** |
 [[2Sam.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.22|<< 2 Samuel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.24|2 Samuel 7:24 >>]]</td></tr></table>
 
 

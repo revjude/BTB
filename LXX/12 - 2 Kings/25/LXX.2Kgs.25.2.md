@@ -7,24 +7,24 @@ And the city was besieged unto the eleventh year of king Zedekiah.
 And the city was kept under siege until King Zedekiah’s eleventh year.<small><sub>**MT:**</sub></small>
 [[2Kgs.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.1|<< 2 Kings 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.3|2 Kings 25:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| being encompassed about | <big><span class="asgreek">περιοχην</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eleventh | <big><span class="asgreek">ενδεκάτου</span></big> <sup><small><small>[[G1734]]</small></small></sup> |
-| year | <big><span class="asgreek">έτους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of Zedekiah | <big><span class="asgreek">Σεδεκίου</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[the\] ninth | <big><span class="asgreek">εννάτη</span></big> <sup><small><small>[[G1766]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month. | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G2064\|ήλθεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| being encompassed about | **<big>[[G4042\|περιοχην]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eleventh | **<big>[[G1734\|ενδεκάτου]]</big>** |
+| year | **<big>[[G2094\|έτους]]</big>** |
+| of Zedekiah | **<big>[[H6667\|Σεδεκίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| \[the\] ninth | **<big>[[G1766\|εννάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month. | **<big>[[G3376\|μηνός]]</big>** |
 [[2Kgs.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.1|<< 2 Kings 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.3|2 Kings 25:3 >>]]</td></tr></table>
 
 

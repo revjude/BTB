@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּנּוּי‎</span></big> **Binnûwy** <small>*(bin-noo'-ee)*</small> ==**Binnui**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup>; built up</small>
+**<big><span class="ashebrew">‎בִּנּוּי‎</span></big>** **Binnûwy** <small>*(bin-noo'-ee)*</small> ==**Binnui**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1129|‎בָּנָה‎]]</big>**; built up</small>
 
 $\quad$ Binnui.
 - § Binnui = *"built up"*

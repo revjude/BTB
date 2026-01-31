@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H1753]]</small>
+<small>Aramaic form: **<big>[[H1753|דּוּר]]</big>**</small>
  <span class="bdbLangHebrew">‎דּוּר‎</span> 
 
 **verb 1.** ==heap up, pile==. 

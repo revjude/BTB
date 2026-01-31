@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎צָמֵא‎</span></big> **tsâmêʼ** <small>*(tsaw-may')*</small> ==**thirsty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎צָמֵא‎</span><sup><small>[[H6770]]</small></sup></small>
+**<big><span class="ashebrew">‎צָמֵא‎</span></big>** **tsâmêʼ** <small>*(tsaw-may')*</small> ==**thirsty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6770|‎צָמֵא‎]]</big>**</small>
 
 $\quad$ (that) thirst(-eth, -y).
 - ***thirsty*** (literally or figuratively)
 
 **1)** thirsty
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναμάρτητος</span><sup><small>[[G0361]]</small></sup> · <span class="asgreek">δίψος</span><sup><small>[[G1373]]</small></sup>
+<small>See Greek: </small>**<big>[[G0361|ἀναμάρτητος]]</big>** · **<big>[[G1373|δίψος]]</big>**

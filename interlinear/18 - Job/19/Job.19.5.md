@@ -6,15 +6,15 @@ If indeed you would exalt yourselves above me and use my disgrace against me,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.4|<< Job 19:4]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.6|Job 19:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| truly  | <span class="ashebrew"><big>אָ֭מְנָם </big></span><small><small><sup>[[H0551]]</sup></small></small> &#8207;| 'A.me.nom <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| above me  | <span class="ashebrew"><big>עָלַ֣ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will magnify yourselves  | <span class="ashebrew"><big>תַּגְדִּ֑ילוּ </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| tag.Di.lu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you may argue  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תוֹכִ֥יחוּ </big></span><small><small><sup>[[H3198]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> to.Khi.chu <small><sup>[[HVhu2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on me  | <span class="ashebrew"><big>עָ֝לַ֗ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| disgrace my  | <span class="ashebrew"><big>חֶרְפָּתִּֽ </big></span><small><small><sup>[[H2781]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| cher.pa.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truly  |**<big>&#8207;[[H0551\|אָ֭מְנָם]]&#8207; </big>**| 'A.me.nom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| above me  |**<big>&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will magnify yourselves  |**<big>&#8207;[[H1431\|תַּגְדִּ֑ילוּ]]&#8207; </big>**| tag.Di.lu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you may argue  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3198\|תוֹכִ֥יחוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.Khi.chu<small><sup>[[HVhu2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  |**<big>&#8207;[[H5921A\|עָ֝לַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| disgrace my  |**<big>&#8207;[[H2781\|חֶרְפָּתִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cher.pa.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.4|<< Job 19:4]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.6|Job 19:6 >>]]</td></tr></table>
 
 

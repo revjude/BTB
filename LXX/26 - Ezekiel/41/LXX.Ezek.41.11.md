@@ -7,41 +7,41 @@ And the doors of the side chambers [were] toward [the place that was] left, one 
 The side rooms opened into this area, with one entrance on the north and another on the south. The open area was five cubits wide all around.<small><sub>**MT:**</sub></small>
 [[Ezek.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.10|<< Ezekiel 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.12|Ezekiel 41:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doors | <big><span class="asgreek">θύραι</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner chambers | <big><span class="asgreek">εξεδρών</span></big> <sup><small><small>[[G7306]]</small></small></sup> |
-| \[were\] unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the \[space\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left over | <big><span class="asgreek">απόλοιπον</span></big> <sup><small><small>[[G6458]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north, | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south; | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left over -- | <big><span class="asgreek">απολοίπου</span></big> <sup><small><small>[[G6458]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| doors | **<big>[[G2374\|θύραι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| inner chambers | **<big>[[G7306\|εξεδρών]]</big>** |
+| \[were\] unto | **<big>[[G1909\|επί]]</big>** |
+| the \[space\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| left over | **<big>[[G6458\|απόλοιπον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| one | **<big>[[G1520\|μιάς]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north, | **<big>[[G1005\|βορράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| door | **<big>[[G2374\|θύρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south; | **<big>[[G3558\|νότον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| left over -- | **<big>[[G6458\|απολοίπου]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| width | **<big>[[G4114\|πλάτος]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
 [[Ezek.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.10|<< Ezekiel 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.12|Ezekiel 41:12 >>]]</td></tr></table>
 
 

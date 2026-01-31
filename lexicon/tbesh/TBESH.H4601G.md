@@ -1,6 +1,5 @@
-<span class="ashebrew">‎מַעֲכָה‎</span> <small>***(ma.a.khah)***</small> ==**Maacah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, only mentioned at [[Gen.22.24|Gen.22.24]]
--  son of: Nahor ([[H5152H]]) and Reumah ([[H7208]])
--  brother of: Tebah ([[H2875]]), Gaham ([[H1514]]) and Tahash ([[H8477]])
--  half-brother of: Uz ([[H5780H]]), Buz ([[H0938]]), Kemuel ([[H7055]]), Chesed ([[H3777]]), Hazo ([[H2375]]), Pildash ([[H6394]]), Jidlaph ([[H3044]]) and Bethuel ([[H1328A]])
+-  son of: Nahor (**<big>[[H5152H|נָחוֹר]]</big>**) and Reumah (**<big>[[H7208|רְאוּמָה]]</big>**)
+-  brother of: Tebah (**<big>[[H2875|טֶבַח]]</big>**), Gaham (**<big>[[H1514|גַּחַם]]</big>**) and Tahash (**<big>[[H8477|תַּחַשׁ]]</big>**)
+-  half-brother of: Uz (**<big>[[H5780H|עוּץ]]</big>**), Buz (**<big>[[H0938|בּוּז]]</big>**), Kemuel (**<big>[[H7055|קְמוּאֵל]]</big>**), Chesed (**<big>[[H3777|כֶּשֶׂד]]</big>**), Hazo (**<big>[[H2375|חֲזוֹ]]</big>**), Pildash (**<big>[[H6394|פִּלְדָּשׁ]]</big>**), Jidlaph (**<big>[[H3044|יִדְלָף]]</big>**) and Bethuel (**<big>[[H1328A|בְּתוּאֵל]]</big>**)
 - son of Nahor by concubine Reumah

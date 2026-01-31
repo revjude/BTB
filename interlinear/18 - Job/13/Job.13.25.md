@@ -6,15 +6,15 @@ Would You frighten a windblown leaf? Would You chase after dry chaff?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.24|<< Job 13:24]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.26|Job 13:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ a leaf  | <span class="ashebrew"><big>הֶ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>עָלֶ֣ה </big></span><small><small><sup>[[H5929]]</sup></small></small> &#8207;| he. <small><sup>[[HTi]]</sup></small> 'a.Leh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| driven about  | <span class="ashebrew"><big>נִדָּ֣ף </big></span><small><small><sup>[[H5086]]</sup></small></small> &#8207;| ni.Daf <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you terrify  | <span class="ashebrew"><big>תַּעֲר֑וֹץ </big></span><small><small><sup>[[H6206]]</sup></small></small> &#8207;| ta.'a.Rotz <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chaff  | <span class="ashebrew"><big>קַ֖שׁ </big></span><small><small><sup>[[H7179]]</sup></small></small> &#8207;| kash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dry  | <span class="ashebrew"><big>יָבֵ֣שׁ </big></span><small><small><sup>[[H3002]]</sup></small></small> &#8207;| ya.Vesh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you pursue?  | <span class="ashebrew"><big>תִּרְדֹּֽף </big></span><small><small><sup>[[H7291]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tir.Dof <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ a leaf  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H5929\|עָלֶ֣ה]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> 'a.Leh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| driven about  |**<big>&#8207;[[H5086\|נִדָּ֣ף]]&#8207; </big>**| ni.Daf<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you terrify  |**<big>&#8207;[[H6206\|תַּעֲר֑וֹץ]]&#8207; </big>**| ta.'a.Rotz<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chaff  |**<big>&#8207;[[H7179\|קַ֖שׁ]]&#8207; </big>**| kash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dry  |**<big>&#8207;[[H3002\|יָבֵ֣שׁ]]&#8207; </big>**| ya.Vesh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you pursue?  |**<big>&#8207;[[H7291\|תִּרְדֹּֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tir.Dof<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.24|<< Job 13:24]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.26|Job 13:26 >>]]</td></tr></table>
 
 

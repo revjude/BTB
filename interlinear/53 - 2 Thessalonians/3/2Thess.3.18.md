@@ -6,25 +6,25 @@ The grace of our Lord Jesus Christ be with all of you.
 <small><sub>**Literal:**</sub></small>
 The grace of the Lord of us Jesus Christ [be] with all of you Amen. to Thessalonica second it was written from Athens<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.17|<< 2 Thessalonians 3:17]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.1|1 Timothy 1:1 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| The |<big><span class="asgreek">Ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| grace |<big><span class="asgreek">χάρις</span></big> <small><small><sup>[[G5485]]</sup></small></small> |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Lord |<big><span class="asgreek">κυρίου</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of us |<big><span class="asgreek">ἡμῶν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jesus |<big><span class="asgreek">Ἰησοῦ</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Christ |<big><span class="asgreek">Χριστοῦ</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [be] with |<big><span class="asgreek">μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<big><span class="asgreek">πάντων</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Amen. |<big><span class="asgreek">ἀμήν.¶</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
-| to |<big><span class="asgreek">πρός</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Thessalonica |<big><span class="asgreek">Θεσσαλονικείς</span></big> <small><small><sup>[[G2331]]</sup></small></small> |Thessalonikeis <small><sup>[[N-APM-LG]]</sup></small> | <abbr title="TR">K</abbr> | |
-| second |<big><span class="asgreek">δευτέρᾳ</span></big> <small><small><sup>[[G1208]]</sup></small></small> |deutera <small><sup>[[A-NSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| it was written |<big><span class="asgreek">ἐγράφη</span></big> <small><small><sup>[[G1125]]</sup></small></small> |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
-| from |<big><span class="asgreek">ἀπό</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
-| Athens [^1] |<big><span class="asgreek">Ἀθηνῶν</span></big> <small><small><sup>[[G0116]]</sup></small></small> |Athēnōn <small><sup>[[N-GPF-L]]</sup></small> | <abbr title="TR">K</abbr> | |
+| The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Lord |**<big>[[G2962G\|κυρίου]]</big>**  |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of us |**<big>[[G3165\|ἡμῶν]]</big>**  |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jesus |**<big>[[G2424G\|Ἰησοῦ]]</big>**  |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Christ |**<big>[[G5547\|Χριστοῦ]]</big>**  |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [be] with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |**<big>[[G3956\|πάντων]]</big>**  |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Amen. |**<big>[[G0281\|ἀμήν.¶]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
+| to |**<big>[[G4314\|πρός]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Thessalonica |**<big>[[G2331\|Θεσσαλονικείς]]</big>**  |Thessalonikeis <small><sup>[[N-APM-LG]]</sup></small> | <abbr title="TR">K</abbr> | |
+| second |**<big>[[G1208\|δευτέρᾳ]]</big>**  |deutera <small><sup>[[A-NSF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| it was written |**<big>[[G1125\|ἐγράφη]]</big>**  |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
+| from |**<big>[[G0575\|ἀπό]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| Athens [^1] |**<big>[[G0116\|Ἀθηνῶν]]</big>**  |Athēnōn <small><sup>[[N-GPF-L]]</sup></small> | <abbr title="TR">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.17|<< 2 Thessalonians 3:17]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.1|1 Timothy 1:1 >>]]</td></tr></table>
 
-[^1]: Extra Text (11-16):  <span class='asgreek'>**ἀμήν**</span>.¶   <span class='asgreek'>**πρός**</span>    <span class='asgreek'>**Θεσσαλονικείς**</span>    <span class='asgreek'>**δευτέρᾳ**</span>    <span class='asgreek'>**ἐγράφη**</span>    <span class='asgreek'>**ἀπό**</span>    <span class='asgreek'>**Ἀθηνῶν**</span>   (<i>amēn pros Thessalonikeis deutera egraphē apo Athēnōn</i>) 'Amen. to Thessalonica second it was written from Athens' is only in traditional manuscripts (TR)
+[^1]: Extra Text (11-16):  **<big><span class='asgreek'>ἀμήν</span></big>**.¶   **<big><span class='asgreek'>πρός</span></big>**    **<big><span class='asgreek'>Θεσσαλονικείς</span></big>**    **<big><span class='asgreek'>δευτέρᾳ</span></big>**    **<big><span class='asgreek'>ἐγράφη</span></big>**    **<big><span class='asgreek'>ἀπό</span></big>**    **<big><span class='asgreek'>Ἀθηνῶν</span></big>**   (<i>amēn pros Thessalonikeis deutera egraphē apo Athēnōn</i>) 'Amen. to Thessalonica second it was written from Athens' is only in traditional manuscripts (TR)

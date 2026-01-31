@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶפֶשׁ‎</span></big> **nephesh** <small>*(neh'-fesh)*</small> ==**soul**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָפַשׁ‎</span><sup><small>[[H5314]]</small></sup></small>
+**<big><span class="ashebrew">‎נֶפֶשׁ‎</span></big>** **nephesh** <small>*(neh'-fesh)*</small> ==**soul**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5314|‎נָפַשׁ‎]]</big>**</small>
 
 $\quad$ any, appetite, beast, body, breath, creature, [idiom] dead(-ly), desire, [idiom] (dis-) contented, [idiom] fish, ghost, [phrase] greedy, he, heart(-y), (hath, [idiom] jeopardy of) life ([idiom] in jeopardy), lust, man, me, mind, mortally, one, own, person, pleasure, (her-, him-, my-, thy-) self, them (your) -selves, [phrase] slay, soul, [phrase] tablet, they, thing, ([idiom] she) will, [idiom] would have it.
 - properly, ***a breathing creature***, i.e. ***animal of*** (abstractly) ***vitality***
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1h1)** dubious
 $\quad$ **1i)** activity of the character
 $\quad$ $\quad$ **1i1)** dubious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνήρ</span><sup><small>[[G0435]]</small></sup> · <span class="asgreek">ἐλεύθερος</span><sup><small>[[G1658]]</small></sup> · <span class="asgreek">ἐλπίς</span><sup><small>[[G1680]]</small></sup> · <span class="asgreek">ἐνύπνιον</span><sup><small>[[G1798]]</small></sup> · <span class="asgreek">καρδία</span><sup><small>[[G2588]]</small></sup> · <span class="asgreek">κεφαλή</span><sup><small>[[G2776]]</small></sup> · <span class="asgreek">πνοή</span><sup><small>[[G4157]]</small></sup> · <span class="asgreek">σῶμα</span><sup><small>[[G4983]]</small></sup> · <span class="asgreek">ψυχή</span><sup><small>[[G5590]]</small></sup>
+<small>See Greek: </small>**<big>[[G0435|ἀνήρ]]</big>** · **<big>[[G1658|ἐλεύθερος]]</big>** · **<big>[[G1680|ἐλπίς]]</big>** · **<big>[[G1798|ἐνύπνιον]]</big>** · **<big>[[G2588|καρδία]]</big>** · **<big>[[G2776|κεφαλή]]</big>** · **<big>[[G4157|πνοή]]</big>** · **<big>[[G4983|σῶμα]]</big>** · **<big>[[G5590|ψυχή]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָחֵק‎</span></big> **râchêq** <small>*(raw-khake')*</small> ==**removed**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎רָחַק‎</span><sup><small>[[H7368]]</small></sup></small>
+**<big><span class="ashebrew">‎רָחֵק‎</span></big>** **râchêq** <small>*(raw-khake')*</small> ==**removed**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H7368|‎רָחַק‎]]</big>**</small>
 
 $\quad$ that are far.
 - ***remote***
@@ -8,4 +8,4 @@ $\quad$ that are far.
 $\quad$ **1a)** ones departing (as subst)
 **2)** (TWOT) remote, far
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιποθέω</span><sup><small>[[G1971]]</small></sup> · <span class="asgreek">ἐπιφέρω</span><sup><small>[[G2018]]</small></sup> · <span class="asgreek">σαλεύω</span><sup><small>[[G4531]]</small></sup>
+<small>See Greek: </small>**<big>[[G1971|ἐπιποθέω]]</big>** · **<big>[[G2018|ἐπιφέρω]]</big>** · **<big>[[G4531|σαλεύω]]</big>**

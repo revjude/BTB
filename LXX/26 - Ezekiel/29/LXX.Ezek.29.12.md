@@ -7,41 +7,41 @@ And I will make the land of Egypt desolate in the midst of the countries [that a
 I will make the land of Egypt a desolation among desolate lands, and her cities will lie desolate for forty years among the ruined cities. And I will disperse the Egyptians among the nations and scatter them throughout the countries.<small><sub>**MT:**</sub></small>
 [[Ezek.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.11|<< Ezekiel 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.13|Ezekiel 29:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| destruction | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| being made desolated, | <big><span class="asgreek">ηρημωμένης</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| being made desolated | <big><span class="asgreek">ηρημωμένων</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for extinction | <big><span class="asgreek">αφανισμός</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασπερώ</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will winnow | <big><span class="asgreek">λικμήσω</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places. | <big><span class="asgreek">χώραις</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| destruction | **<big>[[G0684\|απώλειαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of a land | **<big>[[G1093\|γης]]</big>** |
+| being made desolated, | **<big>[[G2049\|ηρημωμένης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her cities | **<big>[[G4172\|πόλεις]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of cities | **<big>[[G4172\|πόλεων]]</big>** |
+| being made desolated | **<big>[[G2049\|ηρημωμένων]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| for extinction | **<big>[[G0854\|αφανισμός]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1289\|διασπερώ]]</big>** |
+| Egypt | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations, | **<big>[[G1484\|έθνεσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will winnow | **<big>[[G3039\|λικμήσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| places. | **<big>[[G5561\|χώραις]]</big>** |
 [[Ezek.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.11|<< Ezekiel 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.13|Ezekiel 29:13 >>]]</td></tr></table>
 
 

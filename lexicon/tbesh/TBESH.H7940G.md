@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שָׂכָר‎</span> <small>***(sa.khar)***</small> ==**Sachar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of United Monarchy, only mentioned at [[1Chr.26.4|1Ch.26.4]]
--  son of: Obed-edom ([[H5654]])
--  brother of: Shemaiah ([[H8098I]]), Jehozabad ([[H3075H]]), Joah ([[H3098I]]), Nethanel ([[H5417K]]), Ammiel ([[H5988I]]), Issachar ([[H3485H]]) and Peullethai ([[H6469]])
+-  son of: Obed-edom (**<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**)
+-  brother of: Shemaiah (**<big>[[H8098I|שְׁמַעְיָה]]</big>**), Jehozabad (**<big>[[H3075H|יְהוֹזָבָד]]</big>**), Joah (**<big>[[H3098I|יוֹאָח]]</big>**), Nethanel (**<big>[[H5417K|נְתַנְאֵל]]</big>**), Ammiel (**<big>[[H5988I|עַמִּיאֵל]]</big>**), Issachar (**<big>[[H3485H|יִשָּׂשכָר]]</big>**) and Peullethai (**<big>[[H6469|פְּעֻלְּתַי]]</big>**)

@@ -6,14 +6,14 @@ For You, O God, have tested us; You have refined us like silver.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.9|<< Psalms 66:9]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.11|Psalms 66:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have tested us  | <span class="ashebrew"><big>בְחַנְתָּ֥ </big></span><small><small><sup>[[H0974]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| ve.chan.Ta. <small><sup>[[HVqp2ms]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱלֹהִ֑ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have refined us  | <span class="ashebrew"><big>צְ֝רַפְתָּ֗ </big></span><small><small><sup>[[H6884]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| tze.raf.Ta. <small><sup>[[HVqp2ms]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as refine  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>צְרָף </big></span><small><small><sup>[[H6884]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki <small><sup>[[HR]]</sup></small> tz.rof- <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כָּֽסֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ka.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have tested us  |**<big>&#8207;[[H0974\|בְחַנְתָּ֥]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ve.chan.Ta.<small><sup>[[HVqp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have refined us  |**<big>&#8207;[[H6884\|צְ֝רַפְתָּ֗]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| tze.raf.Ta.<small><sup>[[HVqp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as refine  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H6884\|צְרָף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> tz.rof-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כָּֽסֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.9|<< Psalms 66:9]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.11|Psalms 66:11 >>]]</td></tr></table>
 
 

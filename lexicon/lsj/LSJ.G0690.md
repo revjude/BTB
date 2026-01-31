@@ -1,4 +1,4 @@
-group of: <small>[[H6152B]]</small> 
+group of: <small>**<big>[[H6152B|עֲרָב]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἄραψ==</span></b>, <span class='asgreek'>ὁ</span>, 

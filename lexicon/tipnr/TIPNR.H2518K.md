@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Hilkiah</span> was one of the priests who stood beside Ezra when he read the Book of the Law to the people.
 - A priest living at the time of Exile and Return, only mentioned at [[Neh.8.4|Neh.8.4]]; 
-- only referred to as Hilkiah<[[H2518K]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Hilkiah **<big>[[H2518|חִלְקִיָּה]]</big>**.
 
 Hilkiah is mentioned in [[Neh.8.4|Nehemiah 8:4]] as one of the priests who stood beside Ezra the scribe when he read the Book of the Law to the assembled people of Israel. This event took place during the Feast of Tabernacles, after the Israelites had returned from Babylonian exile and rebuilt the walls of Jerusalem. 
 
@@ -12,5 +12,5 @@ Hilkiah, along with several other priests, stood on a wooden platform beside Ezr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518K) <small>*Hebrew*</small> | 1x | [Neh.8.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=Neh.8.4) |
-All Strong's for **Hilkiah**: \[[[H2518K]]\]
+| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518K) | 1x | [Neh.8.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=Neh.8.4) |
+All entries for **Hilkiah**:  **<big>[[H2518|חִלְקִיָּה]]</big>**

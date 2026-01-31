@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַשָּׂא‎</span></big> **Massâʼ** <small>*(mas-saw')*</small> ==**Massa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מַשָּׂא‎</span><sup><small>[[H4853]]</small></sup>; burden</small>
+**<big><span class="ashebrew">‎מַשָּׂא‎</span></big>** **Massâʼ** <small>*(mas-saw')*</small> ==**Massa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H4853|‎מַשָּׂא‎]]</big>**; burden</small>
 
 $\quad$ Massa.
 - § Massa = *"burden"*

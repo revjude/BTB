@@ -7,15 +7,15 @@ Even those that were numbered of them, were eight thousand and five hundred and 
 And the number of men was 8,580.<small><sub>**MT:**</sub></small>
 [[Num.4.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.47|<< Numbers 4:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.49|Numbers 4:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being numbered | <big><span class="asgreek">επισκεπέντες</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| eight thousand | <big><span class="asgreek">οκτακισχίλιοι</span></big> <sup><small><small>[[G8475]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| eighty. | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being numbered | **<big>[[G1980\|επισκεπέντες]]</big>** |
+| eight thousand | **<big>[[G8475\|οκτακισχίλιοι]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιοι]]</big>** |
+| eighty. | **<big>[[G3589\|ογδοήκοντα]]</big>** |
 [[Num.4.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.47|<< Numbers 4:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.49|Numbers 4:49 >>]]</td></tr></table>
 
 

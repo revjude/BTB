@@ -7,40 +7,40 @@ All the firstling males that come of thy herd and of thy flock thou shalt sancti
 You must set apart to the LORD your God every firstborn male produced by your herds and flocks. You are not to put the firstborn of your oxen to work, nor are you to shear the firstborn of your flock.<small><sub>**MT:**</sub></small>
 [[Deut.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.18|<< Deuteronomy 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.20|Deuteronomy 15:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκον</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should give birth | <big><span class="asgreek">τεχθή</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your oxen, | <big><span class="asgreek">βουσί</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sheep, | <big><span class="asgreek">προβάτοις</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| males | <big><span class="asgreek">αρσενικά</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| you shall sanctify | <big><span class="asgreek">αγιάσεις</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| work | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτοτόκω</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχω</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you shear | <big><span class="asgreek">κείρης</span></big> <sup><small><small>[[G2751]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born | <big><span class="asgreek">πρωτότοκον</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | **<big>[[G3956\|παν]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should give birth | **<big>[[G5088\|τεχθή]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your oxen, | **<big>[[G1016\|βουσί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your sheep, | **<big>[[G4263\|προβάτοις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| males | **<big>[[G6544\|αρσενικά]]</big>** |
+| you shall sanctify | **<big>[[G0037\|αγιάσεις]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| work | **<big>[[G2038\|έργα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| first-born | **<big>[[G4416\|πρωτοτόκω]]</big>** |
+| calf | **<big>[[G3448\|μόσχω]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you shear | **<big>[[G2751\|κείρης]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| first-born | **<big>[[G4416\|πρωτότοκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your sheep. | **<big>[[G4263\|προβάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.18|<< Deuteronomy 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.20|Deuteronomy 15:20 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲדִינָא‎</span></big> **ʻĂdîynâʼ** <small>*(ad-ee-naw')*</small> ==**Adina**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָדִין‎</span><sup><small>[[H5719]]</small></sup>; effeminacy</small>
+**<big><span class="ashebrew">‎עֲדִינָא‎</span></big>** **ʻĂdîynâʼ** <small>*(ad-ee-naw')*</small> ==**Adina**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5719|‎עָדִין‎]]</big>**; effeminacy</small>
 
 $\quad$ Adina.
 - § Adina = *"slender"*

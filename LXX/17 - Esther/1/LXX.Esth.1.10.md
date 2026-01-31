@@ -7,38 +7,38 @@ On the seventh day, when the heart of the king was merry with wine, he commanded
 On the seventh day, when the king’s heart was merry with wine, he ordered the seven eunuchs who served him—Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carkas—<small><sub>**MT:**</sub></small>
 [[Esth.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.9|<< Esther 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.11|Esther 1:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| with pleasure | <big><span class="asgreek">ηδέως</span></big> <sup><small><small>[[G2234]]</small></small></sup> |
-| being | <big><span class="asgreek">γενόμενος</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Mehuman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H4104]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Biztha, | <big><span class="asgreek">Βαζαθά</span></big> <sup><small><small>[[H0968]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Harbona, | <big><span class="asgreek">Χαρβωνά</span></big> <sup><small><small>[[H2726]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Bigtha, | <big><span class="asgreek">Βαγαθά</span></big> <sup><small><small>[[H0903]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abagtha, | <big><span class="asgreek">Αβαγαθά</span></big> <sup><small><small>[[H0005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zethar, | <big><span class="asgreek">Ζηθάρ</span></big> <sup><small><small>[[H2242]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Carcas, | <big><span class="asgreek">Χαραβάς</span></big> <sup><small><small>[[H3752]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| eunuchs | <big><span class="asgreek">ευνούχοις</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Artaxerxes, | <big><span class="asgreek">Αρταξέρξου</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
+| And on | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| with pleasure | **<big>[[G2234\|ηδέως]]</big>** |
+| being | **<big>[[G1096\|γενόμενος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Mehuman, | **<big>[[H4104\|Αμάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Biztha, | **<big>[[H0968\|Βαζαθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Harbona, | **<big>[[H2726\|Χαρβωνά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Bigtha, | **<big>[[H0903\|Βαγαθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abagtha, | **<big>[[H0005\|Αβαγαθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zethar, | **<big>[[H2242\|Ζηθάρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Carcas, | **<big>[[H3752\|Χαραβάς]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| eunuchs | **<big>[[G2135\|ευνούχοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of king | **<big>[[G0935\|βασιλέως]]</big>** |
+| Artaxerxes, | **<big>[[H0783b\|Αρταξέρξου]]</big>** |
 [[Esth.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.9|<< Esther 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.11|Esther 1:11 >>]]</td></tr></table>
 
 

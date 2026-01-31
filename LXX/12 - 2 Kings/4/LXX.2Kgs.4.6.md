@@ -7,26 +7,26 @@ And it came to pass, when the vessels were full, that she said unto her son, Bri
 When all the jars were full, she said to her son, “Bring me another.” But he replied, “There are no more jars.” Then the oil stopped flowing.<small><sub>**MT:**</sub></small>
 [[2Kgs.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.5|<< 2 Kings 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.7|2 Kings 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Bring \[near\] | <big><span class="asgreek">εγγίσατέ</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a vessel! | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| There \[is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a vessel. | <big><span class="asgreek">αγγείον</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stopped | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her sons, | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Bring \[near\] | **<big>[[G1448\|εγγίσατέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a vessel! | **<big>[[G4632\|σκεύος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| There \[is\] not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| a vessel. | **<big>[[G0030\|αγγείον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| stopped | **<big>[[G2476\|έστη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| olive oil | **<big>[[G1637\|έλαιον]]</big>** |
 [[2Kgs.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.5|<< 2 Kings 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.7|2 Kings 4:7 >>]]</td></tr></table>
 
 

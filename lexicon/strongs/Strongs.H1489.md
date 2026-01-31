@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גִּזְבָּר‎</span></big> **gizbâr** <small>*(ghiz-bawr')*</small> ==**treasurer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎גִּזְבָּר‎</span></big>** **gizbâr** <small>*(ghiz-bawr')*</small> ==**treasurer**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ treasurer.
@@ -6,4 +6,4 @@ $\quad$ treasurer.
 
 **1)** treasurer
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Γάζα</span><sup><small>[[G1048]]</small></sup>
+<small>See Greek: </small>**<big>[[G1048|Γάζα]]</big>**

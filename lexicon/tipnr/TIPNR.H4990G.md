@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Mithredath</span>, the treasurer of King Cyrus of Persia, was responsible for overseeing the return of the temple articles to Sheshbazzar, the prince of Judah.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.1.8|Ezr.1.8]]; 
-- only referred to as Mithredath<[[H4990G]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Mithredath **<big>[[H4990|מִתְרְדָת]]</big>**.
 
 Mithredath is mentioned in [[Ezra.1.8|Ezra 1:8]] as the treasurer of King Cyrus of Persia. He played a significant role in the return of the Jewish exiles to Jerusalem and the rebuilding of the Temple. 
 
@@ -18,5 +18,5 @@ Although no further details are provided about Mithredath's life or career, his 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mithredath | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4990G) <small>*Hebrew*</small> | 1x | [Ezr.1.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithredath\*\|reference=Ezr.1.8) |
-All Strong's for **Mithredath**: \[[[H4990G]]\]
+| Mithredath | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4990G) | 1x | [Ezr.1.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithredath\*\|reference=Ezr.1.8) |
+All entries for **Mithredath**:  **<big>[[H4990|מִתְרְדָת]]</big>**

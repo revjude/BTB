@@ -6,17 +6,17 @@ Therefore calamity will come upon him suddenly; in an instant he will be shatter
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.14|<< Proverbs 6:14]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.16|Proverbs 6:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suddenly  | <span class="ashebrew"><big>פִּ֭תְאֹם </big></span><small><small><sup>[[H6597]]</sup></small></small> &#8207;| Pit.'om <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come  | <span class="ashebrew"><big>יָב֣וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| disaster his  | <span class="ashebrew"><big>אֵיד֑ </big></span><small><small><sup>[[H0343]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ei.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an instant  | <span class="ashebrew"><big>פֶּ֥תַע </big></span><small><small><sup>[[H6621]]</sup></small></small> &#8207;| Pe.ta' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be broken  | <span class="ashebrew"><big>יִ֝שָּׁבֵ֗ר </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| yi.sha.Ver <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] healing  | <span class="ashebrew"><big>מַרְפֵּֽא </big></span><small><small><sup>[[H4832]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| mar.Pe' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suddenly  |**<big>&#8207;[[H6597\|פִּ֭תְאֹם]]&#8207; </big>**| Pit.'om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  |**<big>&#8207;[[H0935G\|יָב֣וֹא]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| disaster his  |**<big>&#8207;[[H0343\|אֵיד֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'ei.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an instant  |**<big>&#8207;[[H6621\|פֶּ֥תַע]]&#8207; </big>**| Pe.ta'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be broken  |**<big>&#8207;[[H7665\|יִ֝שָּׁבֵ֗ר]]&#8207; </big>**| yi.sha.Ver<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] healing  |**<big>&#8207;[[H4832\|מַרְפֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mar.Pe'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.14|<< Proverbs 6:14]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.16|Proverbs 6:16 >>]]</td></tr></table>
 
 

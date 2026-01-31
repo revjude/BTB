@@ -7,21 +7,21 @@ So [is] the man [that] deceiveth his neighbour, and saith, Am not I in sport?
 so is the man who deceives his neighbor and says, “I was only joking!”<small><sub>**MT:**</sub></small>
 [[Prov.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.18|<< Proverbs 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.20|Proverbs 26:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| are all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones lying in wait | <big><span class="asgreek">ενεδρεύοντες</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for their own | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| friends; | <big><span class="asgreek">φίλους</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| and whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they should be caught in the act, | <big><span class="asgreek">φωραθώσι</span></big> <sup><small><small>[[G9688]]</small></small></sup> |
-| they say | <big><span class="asgreek">λέγουσιν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| In playing | <big><span class="asgreek">παίζων</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
-| I acted. | <big><span class="asgreek">έπραξα</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| are all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones lying in wait | **<big>[[G1748\|ενεδρεύοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| for their own | **<big>[[G1438\|εαυτών]]</big>** |
+| friends; | **<big>[[G5384\|φίλους]]</big>** |
+| and whenever | **<big>[[G3752\|όταν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| they should be caught in the act, | **<big>[[G9688\|φωραθώσι]]</big>** |
+| they say | **<big>[[G3004\|λέγουσιν]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| In playing | **<big>[[G3815\|παίζων]]</big>** |
+| I acted. | **<big>[[G4238\|έπραξα]]</big>** |
 [[Prov.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.18|<< Proverbs 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.20|Proverbs 26:20 >>]]</td></tr></table>
 
 

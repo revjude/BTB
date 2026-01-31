@@ -10,20 +10,20 @@ For mine enemies speak against me; and they that lay wait for my soul take couns
 For my enemies speak against me, and those who lie in wait for my life conspire,<small><sub>**MT:**</sub></small>
 [[Ps.71.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.9|<< Psalm 71:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.11|Psalm 71:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against me; | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watching out | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \[for\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| consulted | <big><span class="asgreek">εβουλεύσαντο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| together, | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| spoke | **<big>[[G2036\|είπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| against me; | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| watching out | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| \[for\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| my life | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| consulted | **<big>[[G1011\|εβουλεύσαντο]]</big>** |
+| together, | **<big>[[G7464\|επιτοαυτό]]</big>** |
 [[Ps.71.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.9|<< Psalm 71:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.11|Psalm 71:11 >>]]</td></tr></table>
 
 

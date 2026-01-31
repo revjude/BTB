@@ -7,38 +7,38 @@ For the poor shall never cease out of the land: therefore I command thee, saying
 For there will never cease to be poor in the land; that is why I am commanding you to open wide your hand to your brother and to the poor and needy in your land.<small><sub>**MT:**</sub></small>
 [[Deut.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.10|<< Deuteronomy 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.12|Deuteronomy 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For in no way | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fail | <big><span class="asgreek">εκλίπη</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \[the\] one lacking | <big><span class="asgreek">ενδεής</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give charge to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εντέλλομαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this thing, | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In opening, | <big><span class="asgreek">ανοίγων</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| you shall open | <big><span class="asgreek">ανοίξεις</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy | <big><span class="asgreek">πένητι</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one wanting | <big><span class="asgreek">επιδεομένω</span></big> <sup><small><small>[[G7402]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For in no way | **<big>[[G3756\|ου]]</big>** **<big>[[G1063\|γαρ]]</big>** **<big>[[G3361\|μη]]</big>** |
+| fail | **<big>[[G1587\|εκλίπη]]</big>** |
+| \[the\] one lacking | **<big>[[G1729\|ενδεής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your land. | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Because of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give charge to you | **<big>[[G1473\|σοι]]</big>** **<big>[[G1781\|εντέλλομαι]]</big>** |
+| to do | **<big>[[G4160\|ποιείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this thing, | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| In opening, | **<big>[[G0455\|ανοίγων]]</big>** |
+| you shall open | **<big>[[G0455\|ανοίξεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hands | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| brother | **<big>[[G0080\|αδελφώ]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| needy | **<big>[[G3993\|πένητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one wanting | **<big>[[G7402\|επιδεομένω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your land. | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Deut.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.10|<< Deuteronomy 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.12|Deuteronomy 15:12 >>]]</td></tr></table>
 
 

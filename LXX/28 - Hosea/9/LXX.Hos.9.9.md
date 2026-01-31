@@ -7,18 +7,18 @@ They have deeply corrupted [themselves], as in the days of Gibeah: [therefore] h
 They have deeply corrupted themselves as in the days of Gibeah; He will remember their guilt; He will punish their sins.<small><sub>**MT:**</sub></small>
 [[Hos.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.8|<< Hosea 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.10|Hosea 9:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They were corrupted | <big><span class="asgreek">εφθάρησαν</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hill. | <big><span class="asgreek">βουνού</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| He shall remember | <big><span class="asgreek">μνησθήσεται</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| their iniquities, | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will punish | <big><span class="asgreek">εκδικήσει</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| their sins. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They were corrupted | **<big>[[G5351\|εφθάρησαν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| hill. | **<big>[[G1015\|βουνού]]</big>** |
+| He shall remember | **<big>[[G3403\|μνησθήσεται]]</big>** |
+| their iniquities, | **<big>[[G0093\|αδικίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he will punish | **<big>[[G1556\|εκδικήσει]]</big>** |
+| their sins. | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Hos.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.8|<< Hosea 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.10|Hosea 9:10 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כֹּבֶד‎</span></big> **kôbed** <small>*(ko'-bed)*</small> ==**heaviness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּבַד‎</span><sup><small>[[H3513]]</small></sup></small>
+**<big><span class="ashebrew">‎כֹּבֶד‎</span></big>** **kôbed** <small>*(ko'-bed)*</small> ==**heaviness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3513|‎כָּבַד‎]]</big>**</small>
 
 $\quad$ grievousness, heavy, great number.
 - ***weight***, ***multitude***, ***vehemence***

@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ὦ‎</span></big> **ō** <small>*(o)*</small> ==**oh!**==  <sup><small>[[TEGMC#G:INJ|G:INJ]]</small></sup> 
+**<big><span class="asgreek">‎ὦ‎</span></big>** **ō** <small>*(o)*</small> ==**oh!**==  <sup><small>[[TEGMC#G:INJ|G:INJ]]</small></sup> 
 <small>a primary interjection</small>
 
 $\quad$ O.

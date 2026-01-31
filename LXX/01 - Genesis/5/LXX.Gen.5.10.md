@@ -7,24 +7,24 @@ And Enos lived after he begat Cainan eight hundred and fifteen years, and begat 
 And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
 [[Gen.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.9|<< Genesis 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.11|Genesis 5:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Enos lived | <big><span class="asgreek">έζησεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Ενώς</span></big> <sup><small><small>[[G1800]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his procreating | <big><span class="asgreek">γεννήσαι</span></big> <sup><small><small>[[G1080]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Cainan, | <big><span class="asgreek">Καϊναν</span></big> <sup><small><small>[[G2536]]</small></small></sup> |
-| fifteen | <big><span class="asgreek">πεντεκαίδεκα</span></big> <sup><small><small>[[G8699]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven hundred, | <big><span class="asgreek">επτακόσια</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he procreated | <big><span class="asgreek">εγέννησεν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Enos lived | **<big>[[G2198\|έζησεν]]</big>** **<big>[[G1800\|Ενώς]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his procreating | **<big>[[G1080\|γεννήσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Cainan, | **<big>[[G2536\|Καϊναν]]</big>** |
+| fifteen | **<big>[[G8699\|πεντεκαίδεκα]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven hundred, | **<big>[[G7485\|επτακόσια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he procreated | **<big>[[G1080\|εγέννησεν]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters. | **<big>[[G2364\|θυγατέρας]]</big>** |
 [[Gen.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.9|<< Genesis 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.11|Genesis 5:11 >>]]</td></tr></table>
 
 

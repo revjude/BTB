@@ -7,35 +7,35 @@ And they came in, and possessed it; but they obeyed not thy voice, neither walke
 They came in and possessed it, but they did not obey Your voice or walk in Your law. They failed to perform all that You commanded them to do, and so You have brought upon them all this disaster.<small><sub>**MT:**</sub></small>
 [[Jer.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.22|<< Jeremiah 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.24|Jeremiah 32:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they hearkened not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your orders | <big><span class="asgreek">προστάγμασί</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not go | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you charged | <big><span class="asgreek">ενετείλω</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do. | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they caused | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to come to pass | <big><span class="asgreek">συμβήναι</span></big> <sup><small><small>[[G4819]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these bad \[things\] | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβον]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they hearkened not to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0191\|ήκουσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your voice, | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your orders | **<big>[[G8943\|προστάγμασί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they did not go | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4198\|επορεύθησαν]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you charged | **<big>[[G1781\|ενετείλω]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| do. | **<big>[[G4160\|εποίησαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they caused | **<big>[[G4160\|εποίησαν]]</big>** |
+| to come to pass | **<big>[[G4819\|συμβήναι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| all | **<big>[[G0537\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these bad \[things\] | **<big>[[G2556\|κακά]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
 [[Jer.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.22|<< Jeremiah 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.24|Jeremiah 32:24 >>]]</td></tr></table>
 
 

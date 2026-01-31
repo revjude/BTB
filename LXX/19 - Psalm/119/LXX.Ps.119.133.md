@@ -7,20 +7,20 @@ Order my steps in thy word: and let not any iniquity have dominion over me.
 Order my steps in Your word; let no sin rule over me.<small><sub>**MT:**</sub></small>
 [[Ps.119.133|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.132|<< Psalm 119:132]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.134|Psalm 119:134 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my footsteps | <big><span class="asgreek">διαβήματά</span></big> <sup><small><small>[[G6811]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Straighten out | <big><span class="asgreek">κατεύθυνον</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your oracle! | <big><span class="asgreek">λόγιόν</span></big> <sup><small><small>[[G3051]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let there not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| dominate | <big><span class="asgreek">κατακυριευσάτω</span></big> <sup><small><small>[[G2634]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| lawlessness! | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my footsteps | **<big>[[G6811\|διαβήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Straighten out | **<big>[[G2720\|κατεύθυνον]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your oracle! | **<big>[[G3051\|λόγιόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let there not | **<big>[[G3361\|μη]]</big>** |
+| dominate | **<big>[[G2634\|κατακυριευσάτω]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| any | **<big>[[G3956\|πάσα]]</big>** |
+| lawlessness! | **<big>[[G0458\|ανομία]]</big>** |
 [[Ps.119.133|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.132|<< Psalm 119:132]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.134|Psalm 119:134 >>]]</td></tr></table>
 
 

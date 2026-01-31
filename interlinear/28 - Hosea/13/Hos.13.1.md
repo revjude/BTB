@@ -6,17 +6,17 @@ When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.14|<< Hosea 12:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.2|Hosea 13:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| when spoke  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>דַבֵּ֤ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> da.Ber <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֙יִם֙ </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trembling  | <span class="ashebrew"><big>רְתֵ֔ת </big></span><small><small><sup>[[H7578]]</sup></small></small> &#8207;| re.Tet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he lifted up  | <span class="ashebrew"><big>נָשָׂ֥א </big></span><small><small><sup>[[H5375L]]</sup></small></small> &#8207;| na.Sa' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Israel  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he became guilty  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֶּאְשַׁ֥ם </big></span><small><small><sup>[[H0816]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye'.Sham <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> Baal  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בַּ֖עַל </big></span><small><small><sup>[[H1168A]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Ba.'al <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he died  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּמֹֽת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Mot <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when spoke  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1696G\|דַבֵּ֤ר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֙יִם֙]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trembling  |**<big>&#8207;[[H7578\|רְתֵ֔ת]]&#8207; </big>**| re.Tet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he lifted up  |**<big>&#8207;[[H5375L\|נָשָׂ֥א]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he became guilty  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0816\|יֶּאְשַׁ֥ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye'.Sham<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> Baal  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1168A\|בַּ֖עַל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ba.'al<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.14|<< Hosea 12:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.2|Hosea 13:2 >>]]</td></tr></table>
 
 

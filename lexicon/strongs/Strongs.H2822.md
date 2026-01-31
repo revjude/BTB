@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹשֶׁךְ‎</span></big> **chôshek** <small>*(kho-shek')*</small> ==**darkness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָשַׁךְ‎</span><sup><small>[[H2821]]</small></sup></small>
+**<big><span class="ashebrew">‎חֹשֶׁךְ‎</span></big>** **chôshek** <small>*(kho-shek')*</small> ==**darkness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2821|‎חָשַׁךְ‎]]</big>**</small>
 
 $\quad$ dark(-ness), night, obscurity.
 - ***the dark***
@@ -10,4 +10,4 @@ $\quad$ dark(-ness), night, obscurity.
 $\quad$ **1a)** darkness
 $\quad$ **1b)** secret place
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γνόφος</span><sup><small>[[G1105]]</small></sup> · <span class="asgreek">νέφος</span><sup><small>[[G3509]]</small></sup> · <span class="asgreek">σκοτεινός</span><sup><small>[[G4652]]</small></sup> · <span class="asgreek">σκότος</span><sup><small>[[G4655]]</small></sup>
+<small>See Greek: </small>**<big>[[G1105|γνόφος]]</big>** · **<big>[[G3509|νέφος]]</big>** · **<big>[[G4652|σκοτεινός]]</big>** · **<big>[[G4655|σκότος]]</big>**

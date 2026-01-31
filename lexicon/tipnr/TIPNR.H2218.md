@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Zered</span> Brook marked the end of Israel's 38 years of wilderness wanderings until they crossed it to enter Moab \([[Num.21.12|Num.21.12]]; Dt.2:13-14\).
 - A location first mentioned at [[Num.21.12|Num.21.12]]; 
-- only referred to as Zered<[[H2218]]> \(<span class='tipnrLangHebrew'>ז</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Zered **<big>[[H2218|זֶרֶד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.884128,35.897633&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Zered Brook \(also called the Valley of Zered or the Brook of Zered\) was a 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zered | [<span class='tipnrLangHebrew'>ז</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H2218) <small>*Hebrew*</small> | 4x | [[Num.21.12] ... [Deu.2.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zered\*\|reference=Num.21.12;Deu.2.13;Deu.2.13;Deu.2.14) |
-All Strong's for **Zered**: \[[[H2218]]\]
+| Zered | [<span class='tipnrLangHebrew'>ז</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H2218) | 4x | [[Num.21.12] ... [Deu.2.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zered\*\|reference=Num.21.12;Deu.2.13;Deu.2.13;Deu.2.14) |
+All entries for **Zered**:  **<big>[[H2218|זֶרֶד]]</big>**

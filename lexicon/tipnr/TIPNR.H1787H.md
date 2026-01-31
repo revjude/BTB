@@ -4,9 +4,9 @@ Edomite living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Dishon</span> was a grandson of Seir the Horite through Anah, mentioned in the genealogies of Esau's family. \([[Gen.36.25|Gen.36.25]]; 1Ch.1.41\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.25|Gen.36.25]]; 
-- only referred to as Dishon<[[H1787H]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ֹׁ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Anah<[[H6034]]>; 
-- a brother of Oholibamah<[[H0173]]>.
+- only referred to as Dishon **<big>[[H1787|דִּישׁוֹן]]</big>**; 
+-  son of Anah **<big>[[H6034|עֲנָה]]</big>**; 
+- a brother of Oholibamah **<big>[[H0173|אׇהֳלִיבָמָה]]</big>**.
 
 Dishon is mentioned in the genealogies of Esau's family in Genesis 36 and 1 Chronicles 1. He is listed as the son of Anah and the grandson of Seir the Horite \([[Gen.36.25|Genesis 36:25]]; 1 Chronicles 1:41\). 
 
@@ -20,8 +20,8 @@ Apart from these genealogical references, no further information is provided abo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dishon | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ֹׁ<span class='tipnrLangHebrew'>ן</span>](H1787H) <small>*Hebrew*</small> | 2x | [[Gen.36.25] & [1Ch.1.41a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dishon\*\|reference=Gen.36.25;1Ch.1.41) |
-All Strong's for **Dishon**: \[[[H1787H]]\]
+| Dishon | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יש</span>ֹׁ<span class='tipnrLangHebrew'>ן</span>](H1787H) | 2x | [[Gen.36.25] & [1Ch.1.41a] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dishon\*\|reference=Gen.36.25;1Ch.1.41) |
+All entries for **Dishon**:  **<big>[[H1787|דִּישׁוֹן]]</big>**
 #### Related Profiles:
 - **[Anah](H6034)** (father)
 - **[Oholibamah](H0173)** (sibling)

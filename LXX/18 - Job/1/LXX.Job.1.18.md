@@ -7,31 +7,31 @@ While he [was] yet speaking, there came also another, and said, Thy sons and thy
 While he was still speaking, another messenger came and reported: “Your sons and daughters were eating and drinking wine in their oldest brother’s house,<small><sub>**MT:**</sub></small>
 [[Job.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.17|<< Job 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.19|Job 1:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| While | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| this one | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[was\] speaking, | <big><span class="asgreek">λαλούντος</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλος</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| messenger | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| came, | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Job, | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] eating | <big><span class="asgreek">εσθιόντων</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drinking | <big><span class="asgreek">πινόντων</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elder | <big><span class="asgreek">πρεσβυτέρω</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| While | **<big>[[G2089\|έτι]]</big>** |
+| this one | **<big>[[G3778\|τούτου]]</big>** |
+| \[was\] speaking, | **<big>[[G2980\|λαλούντος]]</big>** |
+| another | **<big>[[G0243\|άλλος]]</big>** |
+| messenger | **<big>[[G0032\|άγγελος]]</big>** |
+| came, | **<big>[[G2064\|έρχεται]]</big>** |
+| saying | **<big>[[G3004\|λέγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Job, | **<big>[[G2492\|Ιωβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| Your sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your daughters | **<big>[[G2364\|θυγατέρων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[were\] eating | **<big>[[G2068\|εσθιόντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drinking | **<big>[[G4095\|πινόντων]]</big>** |
+| with | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| brother | **<big>[[G0080\|αδελφώ]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| elder | **<big>[[G4245\|πρεσβυτέρω]]</big>** |
 [[Job.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.17|<< Job 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.19|Job 1:19 >>]]</td></tr></table>
 
 

@@ -10,40 +10,40 @@ And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay
 So Abner told him, “Turn to your right or to your left, seize one of the young men, and take his equipment for yourself.” But Asahel would not stop chasing him.<small><sub>**MT:**</sub></small>
 [[2Sam.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.20|<< 2 Samuel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.22|2 Samuel 2:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| Turn aside | <big><span class="asgreek">έκκλινον</span></big> <sup><small><small>[[G1578]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left, | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| constrain | <big><span class="asgreek">κατάσχε</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant-lads, | <big><span class="asgreek">παιδαρίων</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his full armor! | <big><span class="asgreek">πανοπλίαν</span></big> <sup><small><small>[[G3833]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηθέλησεν</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| Asahel | <big><span class="asgreek">Ασσαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
-| to turn aside | <big><span class="asgreek">εκκλίναι</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[being\] behind | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Abner | **<big>[[H0074\|Αβενήρ]]</big>** |
+| Turn aside | **<big>[[G1578\|έκκλινον]]</big>** **<big>[[G1473\|συ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| right | **<big>[[G1188\|δεξιά]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| left, | **<big>[[G0710\|αριστερά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| constrain | **<big>[[G2722\|κατάσχε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| servant-lads, | **<big>[[G3808\|παιδαρίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his full armor! | **<big>[[G3833\|πανοπλίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G2309\|ηθέλησεν]]</big>** |
+| Asahel | **<big>[[H6214\|Ασσαήλ]]</big>** |
+| to turn aside | **<big>[[G1578\|εκκλίναι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| \[being\] behind | **<big>[[G3693\|όπισθεν]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[2Sam.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.20|<< 2 Samuel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.22|2 Samuel 2:22 >>]]</td></tr></table>
 
 

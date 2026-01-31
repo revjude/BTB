@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hushim</span>, a son of Aher, is mentioned in the genealogy of the tribe of Dan in 1 Chronicles.
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.7.12|1Ch.7.12]]; 
-- only referred to as Hushim<[[H2366G]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>\); 
-- a son of Aher<[[H0313]]>.
+- only referred to as Hushim **<big>[[H2366|חוּשִׁים]]</big>**; 
+- a son of Aher **<big>[[H0313|אַחֵר]]</big>**.
 
 Hushim is mentioned in [[1Chr.7.12|1 Chronicles 7:12]] as a son of Aher, who was from the tribe of Dan. The verse states, "Shuppim also, and Huppim were the sons of Ir, and Hushim was the son of Aher." 
 
@@ -19,7 +19,7 @@ Apart from this brief mention in the genealogy, no other information is provided
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hushim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>](H2366G) <small>*Hebrew*</small> | 1x | [1Ch.7.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushim\*\|reference=1Ch.7.12) |
-All Strong's for **Hushim**: \[[[H2366G]]\]
+| Hushim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ים</span>](H2366G) | 1x | [1Ch.7.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushim\*\|reference=1Ch.7.12) |
+All entries for **Hushim**:  **<big>[[H2366|חוּשִׁים]]</big>**
 #### Related Profiles:
 - **[Aher](H0313)** (father)

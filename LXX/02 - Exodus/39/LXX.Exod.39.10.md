@@ -7,26 +7,26 @@ And they set in it four rows of stones: [the first] row [was] a sardius, a topaz
 And they mounted on it four rows of gemstones: The first row had a ruby, a topaz, and an emerald;<small><sub>**MT:**</sub></small>
 [[Exod.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.9|<< Exodus 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.11|Exodus 39:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they wove together | <big><span class="asgreek">συνυφάνθη</span></big> <sup><small><small>[[G9344]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a woven work | <big><span class="asgreek">ύφασμα</span></big> <sup><small><small>[[G9608]]</small></small></sup> |
-| inlaid with precious stones, | <big><span class="asgreek">καταλίθον</span></big> <sup><small><small>[[G7869]]</small></small></sup> |
-| arranged in four rows. | <big><span class="asgreek">τετράστιχον</span></big> <sup><small><small>[[G9441]]</small></small></sup> |
-| A row | <big><span class="asgreek">στίχος</span></big> <sup><small><small>[[G9184]]</small></small></sup> |
-| of stones -- | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| sardius, | <big><span class="asgreek">σάρδιον</span></big> <sup><small><small>[[G4556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| topaz, | <big><span class="asgreek">τοπάζιον</span></big> <sup><small><small>[[G5116]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| emerald, | <big><span class="asgreek">σμάραγδος</span></big> <sup><small><small>[[G4665]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| row | <big><span class="asgreek">στίχος</span></big> <sup><small><small>[[G9184]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they wove together | **<big>[[G9344\|συνυφάνθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| a woven work | **<big>[[G9608\|ύφασμα]]</big>** |
+| inlaid with precious stones, | **<big>[[G7869\|καταλίθον]]</big>** |
+| arranged in four rows. | **<big>[[G9441\|τετράστιχον]]</big>** |
+| A row | **<big>[[G9184\|στίχος]]</big>** |
+| of stones -- | **<big>[[G3037\|λίθων]]</big>** |
+| sardius, | **<big>[[G4556\|σάρδιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| topaz, | **<big>[[G5116\|τοπάζιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| emerald, | **<big>[[G4665\|σμάραγδος]]</big>** |
+| \[was\] the | **<big>[[G3588\|ο]]</big>** |
+| row | **<big>[[G9184\|στίχος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
 [[Exod.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.9|<< Exodus 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.11|Exodus 39:11 >>]]</td></tr></table>
 
 

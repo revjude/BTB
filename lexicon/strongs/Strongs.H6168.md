@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָרָה‎</span></big> **ʻârâh** <small>*(aw-raw')*</small> ==**to uncover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָרָה‎</span></big>** **ʻârâh** <small>*(aw-raw')*</small> ==**to uncover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ leave destitute, discover, empty, make naked, pour (out), rase, spread self, uncover.
@@ -18,4 +18,4 @@ $\quad$ **1d)** (Hithpael)
 $\quad$ $\quad$ **1d1)** to expose oneself, make oneself naked
 $\quad$ $\quad$ **1d2)** pouring oneself, spreading oneself (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνακαλύπτω</span><sup><small>[[G0343]]</small></sup> · <span class="asgreek">ἀποκαλύπτω</span><sup><small>[[G0601]]</small></sup> · <span class="asgreek">ἐπαίρω</span><sup><small>[[G1869]]</small></sup> · <span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">τρυγάω</span><sup><small>[[G5166]]</small></sup> · <span class="asgreek">χλωρός</span><sup><small>[[G5515]]</small></sup>
+<small>See Greek: </small>**<big>[[G0343|ἀνακαλύπτω]]</big>** · **<big>[[G0601|ἀποκαλύπτω]]</big>** · **<big>[[G1869|ἐπαίρω]]</big>** · **<big>[[G1904|ἐπέρχομαι]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>** · **<big>[[G3860|παραδίδωμι]]</big>** · **<big>[[G5166|τρυγάω]]</big>** · **<big>[[G5515|χλωρός]]</big>**

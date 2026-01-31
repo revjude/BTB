@@ -6,24 +6,24 @@ Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.20|<< Joel 1:20]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.2|Joel 2:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| give a blast on  | <span class="ashebrew"><big>תִּקְע֨וּ </big></span><small><small><sup>[[H8628]]</sup></small></small> &#8207;| tik.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a ram's horn  | <span class="ashebrew"><big>שׁוֹפָ֜ר </big></span><small><small><sup>[[H7782]]</sup></small></small> &#8207;| sho.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Zion  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צִיּ֗וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sound a battle signal  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָרִ֙יעוּ֙ </big></span><small><small><sup>[[H7321]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha.Ri.'u <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] mountain of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַ֣ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holiness my  | <span class="ashebrew"><big>קָדְשִׁ֔ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| kod.sh <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let them tremble  | <span class="ashebrew"><big>יִרְגְּז֕וּ </big></span><small><small><sup>[[H7264]]</sup></small></small> &#8207;| yir.ge.Zu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] inhabitants of  | <span class="ashebrew"><big>יֹשְׁבֵ֣י </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.she.Vei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] about to come  | <span class="ashebrew"><big>בָ֥א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] day of  | <span class="ashebrew"><big>יוֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yom- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] near  | <span class="ashebrew"><big>קָרֽוֹב </big></span><small><small><sup>[[H7138]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka.Rov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give a blast on  |**<big>&#8207;[[H8628\|תִּקְע֨וּ]]&#8207; </big>**| tik.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ram's horn  |**<big>&#8207;[[H7782\|שׁוֹפָ֜ר]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zion  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6726\|צִיּ֗וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sound a battle signal  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7321\|הָרִ֙יעוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Ri.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַ֣ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness my  |**<big>&#8207;[[H6944G\|קָדְשִׁ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kod.sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them tremble  |**<big>&#8207;[[H7264\|יִרְגְּז֕וּ]]&#8207; </big>**| yir.ge.Zu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] about to come  |**<big>&#8207;[[H0935G\|בָ֥א]]&#8207; </big>**| va'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day of  |**<big>&#8207;[[H3117G\|יוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yom-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] near  |**<big>&#8207;[[H7138\|קָרֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.20|<< Joel 1:20]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.2|Joel 2:2 >>]]</td></tr></table>
 
 

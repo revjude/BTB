@@ -4,7 +4,7 @@ People from Mithn\(?\)
 
 The <span class='tipnrhighlight'>Mithnites</span> are mentioned in the context of Joshaphat the Mithnite, one of David's mighty warriors, but no further information about them is provided.
 - People from Mithn\(?\), only mentioned at [[1Chr.11.43|1Ch.11.43]]; 
-- only referred to as Mithnites<[[H4981]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Mithnites **<big>[[H4981|מִתְנִי]]</big>**.
 
 The Mithnites are a group mentioned briefly in [[1Chr.11.43|1 Chronicles 11:43]] in connection with Joshaphat, one of David's mighty warriors. The passage lists several of David's elite soldiers, and Joshaphat is described as "the Mithnite," suggesting that he belonged to or came from a place or family known as Mithnite. 
 
@@ -16,5 +16,5 @@ Despite the scarcity of information, the mention of Joshaphat the Mithnite among
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mithnite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H4981) <small>*Hebrew*</small> | 1x | [1Ch.11.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithnite\*\|reference=1Ch.11.43) |
-All Strong's for **Mithnites**: \[[[H4981]]\]
+| Mithnite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H4981) | 1x | [1Ch.11.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithnite\*\|reference=1Ch.11.43) |
+All entries for **Mithnites**:  **<big>[[H4981|מִתְנִי]]</big>**

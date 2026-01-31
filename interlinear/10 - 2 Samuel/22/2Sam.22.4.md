@@ -6,13 +6,13 @@ I will call upon the LORD, who is worthy to be praised; so shall I be saved from
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.3|<< 2 Samuel 22:3]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.5|2 Samuel 22:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the one] to be praised  | <span class="ashebrew"><big>מְהֻלָּ֖ל </big></span><small><small><sup>[[H1984B]]</sup></small></small> &#8207;| me.hu.Lal <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I called out to  | <span class="ashebrew"><big>אֶקְרָ֣א </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| 'ek.Ra' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and from enemies my  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֹיְבַ֖ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me. <small><sup>[[HR]]</sup></small> 'o.ye.Va <small><sup>[[HVqrmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am delivered  | <span class="ashebrew"><big>אִוָּשֵֽׁעַ </big></span><small><small><sup>[[H3467]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'i.va.She.a' <small><sup>[[HVNi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the one] to be praised  |**<big>&#8207;[[H1984B\|מְהֻלָּ֖ל]]&#8207; </big>**| me.hu.Lal<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I called out to  |**<big>&#8207;[[H7121G\|אֶקְרָ֣א]]&#8207; </big>**| 'ek.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from enemies my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0341\|אֹיְבַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am delivered  |**<big>&#8207;[[H3467\|אִוָּשֵֽׁעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.va.She.a'<small><sup>[[HVNi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.3|<< 2 Samuel 22:3]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.5|2 Samuel 22:5 >>]]</td></tr></table>
 
 

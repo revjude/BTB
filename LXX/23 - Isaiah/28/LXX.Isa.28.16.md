@@ -14,35 +14,35 @@ So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone
 > $\quad$ referenced by: [[Acts.4.11|Acts 4:11]] ☩ [[Rom.10.11|Rom 10:11]] ☩ [[1Pet.2.6|1Pet 2:6]] ☩ [[Rom.9.33|Rom 9:33]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall put | <big><span class="asgreek">εμβαλλώ</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| a very costly | <big><span class="asgreek">πολυτελή</span></big> <sup><small><small>[[G4185]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτόν</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| cornering | <big><span class="asgreek">ακρογωνιαίον</span></big> <sup><small><small>[[G0204]]</small></small></sup> |
-| of value | <big><span class="asgreek">έντιμον</span></big> <sup><small><small>[[G1784]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its foundations; | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trusting | <big><span class="asgreek">πιστεύων</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should be disgraced. | <big><span class="asgreek">καταισχυνθή</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3779\|ούτω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall put | **<big>[[G1685\|εμβαλλώ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| foundations | **<big>[[G2310\|θεμέλια]]</big>** |
+| of Zion | **<big>[[G4622\|Σιών]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| a very costly | **<big>[[G4185\|πολυτελή]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτόν]]</big>** |
+| cornering | **<big>[[G0204\|ακρογωνιαίον]]</big>** |
+| of value | **<big>[[G1784\|έντιμον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its foundations; | **<big>[[G2310\|θεμέλια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| trusting | **<big>[[G4100\|πιστεύων]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should be disgraced. | **<big>[[G2617\|καταισχυνθή]]</big>** |
 [[Isa.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
 
 

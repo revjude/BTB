@@ -7,35 +7,35 @@ Hear the word of the LORD, ye that tremble at his word; Your brethren that hated
 You who tremble at His word, hear the word of the LORD: “Your brothers who hate you and exclude you because of My name have said, ‘Let the LORD be glorified that we may see your joy!’ But they will be put to shame.”<small><sub>**MT:**</sub></small>
 [[Isa.66.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.4|<< Isaiah 66:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.6|Isaiah 66:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trembling at | <big><span class="asgreek">τρέμοντες</span></big> <sup><small><small>[[G5141]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speak | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| your brethren | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| detesting | <big><span class="asgreek">μισούσιν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| abhorring you, | <big><span class="asgreek">βδελυσσομένοις</span></big> <sup><small><small>[[G0948]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| should be glorified, | <big><span class="asgreek">δοξασθή</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be seen | <big><span class="asgreek">οφθή</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gladness, | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| those | <big><span class="asgreek">εκείνοι</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| shall be ashamed. | <big><span class="asgreek">αισχυνθήσονται</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| trembling at | **<big>[[G5141\|τρέμοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his word. | **<big>[[G3056\|λόγον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| speak | **<big>[[G2036\|είπατε]]</big>** |
+| your brethren | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| detesting | **<big>[[G3404\|μισούσιν]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| abhorring you, | **<big>[[G0948\|βδελυσσομένοις]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| should be glorified, | **<big>[[G1392\|δοξασθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be seen | **<big>[[G3708\|οφθή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their gladness, | **<big>[[G2167\|ευφροσύνη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| those | **<big>[[G1565\|εκείνοι]]</big>** |
+| shall be ashamed. | **<big>[[G0153\|αισχυνθήσονται]]</big>** |
 [[Isa.66.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.4|<< Isaiah 66:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.6|Isaiah 66:6 >>]]</td></tr></table>
 
 

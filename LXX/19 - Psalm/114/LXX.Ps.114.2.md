@@ -7,12 +7,12 @@ Judah was his sanctuary, [and] Israel his dominion.
 Judah became God’s sanctuary, Israel His dominion.<small><sub>**MT:**</sub></small>
 [[Ps.114.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.114.1|<< Psalm 114:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.3|Psalm 114:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Judea became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">Ιουδαία</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| his sanctuary, | <big><span class="asgreek">αγίασμα</span></big> <sup><small><small>[[G6114]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[and\] Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| his authority. | <big><span class="asgreek">εξουσία</span></big> <sup><small><small>[[G1849]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Judea became | **<big>[[G1096\|εγενήθη]]</big>** **<big>[[G1473\|Ιουδαία]]</big>** |
+| his sanctuary, | **<big>[[G6114\|αγίασμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[and\] Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| his authority. | **<big>[[G1849\|εξουσία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.114.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.114.1|<< Psalm 114:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.3|Psalm 114:3 >>]]</td></tr></table>
 
 

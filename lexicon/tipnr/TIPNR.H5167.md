@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Nahamani</span> was among those who returned to Jerusalem from Babylonian captivity with Zerubbabel.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.7.7|Neh.7.7]]; 
-- only referred to as Nahamani<[[H5167]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Nahamani **<big>[[H5167|נַחֲמָנִי]]</big>**.
 
 Nahamani is mentioned in [[Neh.7.7|Nehemiah 7:7]] as one of the individuals who returned to Jerusalem from Babylonian captivity along with Zerubbabel. This event marked a significant moment in Jewish history, as the exiles were allowed to return to their homeland and rebuild the temple in Jerusalem following the decree of King Cyrus of Persia. 
 
@@ -16,5 +16,5 @@ Nahamani's presence in the list of returnees serves as a testament to the resili
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahamani | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H5167) <small>*Hebrew*</small> | 1x | [Neh.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahamani\*\|reference=Neh.7.7) |
-All Strong's for **Nahamani**: \[[[H5167]]\]
+| Nahamani | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H5167) | 1x | [Neh.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahamani\*\|reference=Neh.7.7) |
+All entries for **Nahamani**:  **<big>[[H5167|נַחֲמָנִי]]</big>**

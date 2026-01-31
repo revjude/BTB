@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סֵפֶר‎</span></big> **çêpher** <small>*(say'-fer)*</small> ==**scroll: document**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">סִפְרָה</span> **çiphrâh** <small>*(sif-raw')*</small>; (Psalm 56:8 (<span class="ashebrew">‎אֲבֵדָה‎</span><sup><small>[[H0009]]</small></sup>)), from <span class="ashebrew">‎סָפַר‎</span><sup><small>[[H5608]]</small></sup></small>
+**<big><span class="ashebrew">‎סֵפֶר‎</span></big>** **çêpher** <small>*(say'-fer)*</small> ==**scroll: document**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">סִפְרָה</span></big>** **çiphrâh** <small>*(sif-raw')*</small>; (Psalm 56:8 (**<big>[[H0009|‎אֲבֵדָה‎]]</big>**)), from **<big>[[H5608|‎סָפַר‎]]</big>**</small>
 
 $\quad$ bill, book, evidence, [idiom] learn(-ed) (-ing), letter, register, scroll.
 - properly, ***writing*** (the art or a document)
@@ -23,4 +23,4 @@ $\quad$ $\quad$ **2c7)** record book (of God)
 $\quad$ **2d)** book-learning, writing
 $\quad$ $\quad$ **2d1)** be able to read (after verb 'to know')
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βιβλίον</span><sup><small>[[G0975]]</small></sup> · <span class="asgreek">βίβλος</span><sup><small>[[G0976]]</small></sup> · <span class="asgreek">γράμμα</span><sup><small>[[G1121]]</small></sup> · <span class="asgreek">ἐπαγγελία</span><sup><small>[[G1860]]</small></sup> · <span class="asgreek">ἐπιστολή</span><sup><small>[[G1992]]</small></sup> · <span class="asgreek">λόγος</span><sup><small>[[G3056]]</small></sup>
+<small>See Greek: </small>**<big>[[G0975|βιβλίον]]</big>** · **<big>[[G0976|βίβλος]]</big>** · **<big>[[G1121|γράμμα]]</big>** · **<big>[[G1860|ἐπαγγελία]]</big>** · **<big>[[G1992|ἐπιστολή]]</big>** · **<big>[[G3056|λόγος]]</big>**

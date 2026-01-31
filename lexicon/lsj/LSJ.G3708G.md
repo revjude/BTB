@@ -1,4 +1,4 @@
-meaning of: <small>[[G1492H]]</small> 
+meaning of: <small>**<big>[[G1492H|εἴδω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ὁράω==</span></b>, 

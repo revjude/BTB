@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַתְּנַי‎</span></big> **Mattᵉnay** <small>*(mat-ten-ah'ee)*</small> ==**Mattenai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מַתָּן‎</span><sup><small>[[H4976]]</small></sup>; liberal</small>
+**<big><span class="ashebrew">‎מַתְּנַי‎</span></big>** **Mattᵉnay** <small>*(mat-ten-ah'ee)*</small> ==**Mattenai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4976|‎מַתָּן‎]]</big>**; liberal</small>
 
 $\quad$ Mattenai.
 - § Mattenai = *"gift of Jehovah"*

@@ -7,36 +7,36 @@ And he made the incense altar [of] shittim wood: the length of it [was] a cubit,
 He made the altar of incense out of acacia wood. It was square, a cubit long, a cubit wide, and two cubits high. Its horns were of one piece.<small><sub>**MT:**</sub></small>
 [[Exod.37.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.24|<< Exodus 37:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.26|Exodus 37:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| of incense | <big><span class="asgreek">θυμιάματος</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| incorruptible | <big><span class="asgreek">ασήπτων</span></big> <sup><small><small>[[G6568]]</small></small></sup> |
-| A cubit | <big><span class="asgreek">πήχεος</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχεος</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four-cornered; | <big><span class="asgreek">τετράγωνον</span></big> <sup><small><small>[[G5068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] horns. | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| of incense | **<big>[[G2368\|θυμιάματος]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| wood | **<big>[[G3586\|ξύλων]]</big>** |
+| incorruptible | **<big>[[G6568\|ασήπτων]]</big>** |
+| A cubit | **<big>[[G4083\|πήχεος]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| length | **<big>[[G3372\|μήκος]]</big>** |
+| of it; | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a cubit | **<big>[[G4083\|πήχεος]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| four-cornered; | **<big>[[G5068\|τετράγωνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| of it; | **<big>[[G1473\|αυτού]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| it | **<big>[[G1473\|αυτού]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[its\] horns. | **<big>[[G2768\|κέρατα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.37.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.24|<< Exodus 37:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.26|Exodus 37:26 >>]]</td></tr></table>
 
 

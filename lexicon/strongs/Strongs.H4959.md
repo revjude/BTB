@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָשַׁשׁ‎</span></big> **mâshash** <small>*(maw-shash')*</small> ==**to feel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָשַׁשׁ‎</span></big>** **mâshash** <small>*(maw-shash')*</small> ==**to feel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ feel, grope, search.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b1)** to feel through
 $\quad$ $\quad$ **1b2)** to grope
 $\quad$ **1c)**(Hiphil) to feel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">ψηλαφάω</span><sup><small>[[G5584]]</small></sup>
+<small>See Greek: </small>**<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G5584|ψηλαφάω]]</big>**

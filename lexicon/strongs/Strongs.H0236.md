@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲזַל‎</span></big> **ʼăzal** <small>*(az-al')*</small> ==**to go**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) the same as <span class="ashebrew">‎אָזַל‎</span><sup><small>[[H0235]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲזַל‎</span></big>** **ʼăzal** <small>*(az-al')*</small> ==**to go**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) the same as **<big>[[H0235|‎אָזַל‎]]</big>**</small>
 
 $\quad$ go (up).
 - ***to depart***

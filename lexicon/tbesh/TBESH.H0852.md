@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אָת‎</span> <small>***(at)***</small> ==**sign**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-Aramaic of: <small>[[H0226G]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H0226G|אוֹת]]</big>**</small> 
 
-- Aramaic of <i>ot</i> (<span class='ashebrew'>‎או‎</span>ֹ<span class='ashebrew'>‎ת‎</span> ": miraculous" [[H0226]])
+- Aramaic of <i>ot</i> (<span class='ashebrew'>‎או‎</span>ֹ<span class='ashebrew'>‎ת‎</span> ": miraculous" **<big>[[H0226|אוֹת]]</big>**)

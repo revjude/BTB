@@ -6,16 +6,16 @@ Woe to those who are heroes in drinking wine and champions in mixing strong drin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.21|<< Isaiah 5:21]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.23|Isaiah 5:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| woe to!  | <span class="ashebrew"><big>ה֕וֹי </big></span><small><small><sup>[[H1945]]</sup></small></small> &#8207;| Ho <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [men] mighty  | <span class="ashebrew"><big>גִּבּוֹרִ֖ים </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| gi.bo.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for drinking  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁתּ֣וֹת </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> sh.Tot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wine  | <span class="ashebrew"><big>יָ֑יִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| Ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and people of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַנְשֵׁי </big></span><small><small><sup>[[H0582]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'an.shei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ability  | <span class="ashebrew"><big>חַ֖יִל </big></span><small><small><sup>[[H2428G]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for mixing  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מְסֹ֥ךְ </big></span><small><small><sup>[[H4537]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> m.Sokh <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strong drink  | <span class="ashebrew"><big>שֵׁכָֽר </big></span><small><small><sup>[[H7941]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| woe to!  |**<big>&#8207;[[H1945\|ה֕וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [men] mighty  |**<big>&#8207;[[H1368\|גִּבּוֹרִ֖ים]]&#8207; </big>**| gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for drinking  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8354\|שְׁתּ֣וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Tot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  |**<big>&#8207;[[H3196\|יָ֑יִן]]&#8207; </big>**| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0582\|אַנְשֵׁי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'an.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ability  |**<big>&#8207;[[H2428G\|חַ֖יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for mixing  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4537\|מְסֹ֥ךְ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.Sokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strong drink  |**<big>&#8207;[[H7941\|שֵׁכָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.21|<< Isaiah 5:21]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.23|Isaiah 5:23 >>]]</td></tr></table>
 
 

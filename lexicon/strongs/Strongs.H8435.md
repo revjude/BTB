@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תּוֹלְדָה‎</span></big> **tôwlᵉdâh** <small>*(to-led-aw')*</small> ==**generation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תֹּלְדָה</span> **tôlᵉdâh** <small>*(to-led-aw')*</small>; from <span class="ashebrew">‎יָלַד‎</span><sup><small>[[H3205]]</small></sup></small>
+**<big><span class="ashebrew">‎תּוֹלְדָה‎</span></big>** **tôwlᵉdâh** <small>*(to-led-aw')*</small> ==**generation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֹּלְדָה</span></big>** **tôlᵉdâh** <small>*(to-led-aw')*</small>; from **<big>[[H3205|‎יָלַד‎]]</big>**</small>
 
 $\quad$ birth, generations.
 - (plural only) ***descent***, i.e. ***family***
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** one's contemporaries
 $\quad$ $\quad$ **1a3)** course of history (of creation etc)
 $\quad$ **1b)** begetting or account of heaven (metaph)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γένεσις</span><sup><small>[[G1078]]</small></sup> · <span class="asgreek">συγγένεια</span><sup><small>[[G4772]]</small></sup>
+<small>See Greek: </small>**<big>[[G1078|γένεσις]]</big>** · **<big>[[G4772|συγγένεια]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִרְיָתַיִם‎</span></big> **Qiryâthayim** <small>*(keer-yaw-thah'-yim)*</small> ==**Kiriathaim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>dual of <span class="ashebrew">‎קִרְיָה‎</span><sup><small>[[H7151]]</small></sup>; double city</small>
+**<big><span class="ashebrew">‎קִרְיָתַיִם‎</span></big>** **Qiryâthayim** <small>*(keer-yaw-thah'-yim)*</small> ==**Kiriathaim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>dual of **<big>[[H7151|‎קִרְיָה‎]]</big>**; double city</small>
 
 $\quad$ Kiriathaim, Kirjathaim.
 - § Kiriathaim = *"two cities"*

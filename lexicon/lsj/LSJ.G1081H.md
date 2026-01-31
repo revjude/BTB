@@ -1,4 +1,4 @@
-meaning of: <small>[[G1081G]]</small> 
+meaning of: <small>**<big>[[G1081G|γέννημα]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==γέννημα==</span>-<span class='asgreek'>ημα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 

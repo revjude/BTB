@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀπ-αίρω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">נסע</span> <small><sup>[[H5265]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀπ-αίρω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H5265|נסע]]</big>**;\]</span> </span>
 <span class="asitalic">to lift off</span>, hence, <span class="asitalic">to take away</span>; pass.: [[Matt.9.15|Mt 9:15]], [[Mark.2.20|Mk 2:20]], [[Luke.5.35|Lk 5:35]].†
 
 **Abbott-Smith References**

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">αἰσχύνω</span></span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">αἶσχος</span></span>, <span class="asitalic">shame</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">בּוּשׁ</span> <small><sup>[[H0954]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">αἰσχύνω</span></span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">αἶσχος</span></span>, <span class="asitalic">shame</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H0954|בּוּשׁ]]</big>**;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to disfigure</span> (Hom.).</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to dishonour</span> ([[LXX.Prov.29.15|Pr 29:15]]).</span>

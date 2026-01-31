@@ -7,22 +7,22 @@ He also exalteth the horn of his people, the praise of all his saints; [even] of
 He has raised up a horn for His people, the praise of all His saints, of Israel, a people near to Him. Hallelujah!<small><sub>**MT:**</sub></small>
 [[Ps.148.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.13|<< Psalm 148:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.1|Psalm 149:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall exalt | <big><span class="asgreek">υψώσει</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \[the\] horn | <big><span class="asgreek">κέρας</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of his people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| A hymn | <big><span class="asgreek">ύμνος</span></big> <sup><small><small>[[G5215]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sacred ones; | <big><span class="asgreek">οσίοις</span></big> <sup><small><small>[[G3741]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to a people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| approaching | <big><span class="asgreek">εγγίζοντι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall exalt | **<big>[[G5312\|υψώσει]]</big>** |
+| \[the\] horn | **<big>[[G2768\|κέρας]]</big>** |
+| of his people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| A hymn | **<big>[[G5215\|ύμνος]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his sacred ones; | **<big>[[G3741\|οσίοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to a people | **<big>[[G2992\|λαώ]]</big>** |
+| approaching | **<big>[[G1448\|εγγίζοντι]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Ps.148.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.13|<< Psalm 148:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.1|Psalm 149:1 >>]]</td></tr></table>
 
 

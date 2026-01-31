@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲלִיפָה‎</span></big> **chălîyphâh** <small>*(khal-ee-faw')*</small> ==**change**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלַף‎</span><sup><small>[[H2498]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲלִיפָה‎</span></big>** **chălîyphâh** <small>*(khal-ee-faw')*</small> ==**change**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2498|‎חָלַף‎]]</big>**</small>
 
 $\quad$ change, course.
 - ***alternation***
@@ -10,4 +10,4 @@ $\quad$ **1b)** relays
 $\quad$ **1c)** relief (from death)
 $\quad$ **1d)** changing, varying (course of life)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντάλλαγμα</span><sup><small>[[G0465]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">στολή</span><sup><small>[[G4749]]</small></sup>
+<small>See Greek: </small>**<big>[[G0465|ἀντάλλαγμα]]</big>** · **<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G4749|στολή]]</big>**

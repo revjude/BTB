@@ -7,31 +7,31 @@ And of Levi he said, [Let] thy Thummim and thy Urim [be] with thy holy one, whom
 Concerning Levi he said: “Give Your Thummim to Levi and Your Urim to Your godly one, whom You tested at Massah and contested at the waters of Meribah.<small><sub>**MT:**</sub></small>
 [[Deut.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.7|<< Deuteronomy 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.9|Deuteronomy 33:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Levi | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to Levi | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| his manifestations | <big><span class="asgreek">δήλους</span></big> <sup><small><small>[[G1212]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his truth | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacred | <big><span class="asgreek">οσίω</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they tested | <big><span class="asgreek">επείρασαν</span></big> <sup><small><small>[[G3985]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Trial; | <big><span class="asgreek">πείρα</span></big> <sup><small><small>[[G3984]]</small></small></sup> |
-| they reviled | <big><span class="asgreek">ελοιδόρησαν</span></big> <sup><small><small>[[G3058]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of Dispute; | <big><span class="asgreek">αντιλογίας</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Levi | **<big>[[G3017\|Λευί]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Give | **<big>[[G1325\|δότε]]</big>** |
+| to Levi | **<big>[[G3017\|Λευί]]</big>** |
+| his manifestations | **<big>[[G1212\|δήλους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his truth | **<big>[[G0225\|αλήθειαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| man | **<big>[[G0435\|ανδρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| sacred | **<big>[[G3741\|οσίω]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| they tested | **<big>[[G3985\|επείρασαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Trial; | **<big>[[G3984\|πείρα]]</big>** |
+| they reviled | **<big>[[G3058\|ελοιδόρησαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| at | **<big>[[G1909\|εφ΄]]</big>** |
+| Water | **<big>[[G5204\|ύδατος]]</big>** |
+| of Dispute; | **<big>[[G0485\|αντιλογίας]]</big>** |
 [[Deut.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.7|<< Deuteronomy 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.9|Deuteronomy 33:9 >>]]</td></tr></table>
 
 

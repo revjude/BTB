@@ -7,20 +7,20 @@ The one hiding hatred stands together \[with\] treachery, and he conceals the \[
 Though his hatred is concealed by deception, his wickedness will be exposed in the assembly.<small><sub>**MT:**</sub></small>
 [[Prov.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.25|<< Proverbs 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.27|Proverbs 26:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hiding | <big><span class="asgreek">κρύπτων</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| hatred | <big><span class="asgreek">έχθραν</span></big> <sup><small><small>[[G2189]]</small></small></sup> |
-| stands together | <big><span class="asgreek">συνίστησι</span></big> <sup><small><small>[[G4921]]</small></small></sup> |
-| \[with\] treachery, | <big><span class="asgreek">δόλον</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
-| and he conceals | <big><span class="asgreek">εκκαλύπτει</span></big> <sup><small><small>[[G7006]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| well-known | <big><span class="asgreek">εύγνωστος</span></big> <sup><small><small>[[G7532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sanhedrin. | <big><span class="asgreek">συνεδρίω</span></big> <sup><small><small>[[G4892]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| hiding | **<big>[[G2928\|κρύπτων]]</big>** |
+| hatred | **<big>[[G2189\|έχθραν]]</big>** |
+| stands together | **<big>[[G4921\|συνίστησι]]</big>** |
+| \[with\] treachery, | **<big>[[G1388\|δόλον]]</big>** |
+| and he conceals | **<big>[[G7006\|εκκαλύπτει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of his own | **<big>[[G1438\|εαυτού]]</big>** |
+| sins | **<big>[[G0266\|αμαρτίας]]</big>** |
+| well-known | **<big>[[G7532\|εύγνωστος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sanhedrin. | **<big>[[G4892\|συνεδρίω]]</big>** |
 [[Prov.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.25|<< Proverbs 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.27|Proverbs 26:27 >>]]</td></tr></table>
 
 

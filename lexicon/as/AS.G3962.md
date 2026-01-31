@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">πατήρ</span></span>, <span class="asgreek">πατρός, -τρί, τέρα</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly and very freq. for <span class="ashebrew">אָב</span> <small><sup>[[H0001]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">πατήρ</span></span>, <span class="asgreek">πατρός, -τρί, τέρα</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly and very freq. for **<big>[[H0001|אָב]]</big>**;\]</span> </span>
 <span class="asitalic">a father</span>;
 <span class="asbullet"><span class="asbold">1.</span> prop.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of the male parent: [[Matt.2.22|Mt 2:22]], [[Luke.1.17|Lk 1:17]], [[John.4.53|Jo 4:53]]; anarth., [[Heb.12.7|He 12:7]] (M, <span class="asitalic">Pr.</span>, 82 f.); pl., of both parents (cl.), [[Heb.11.23|He 11:23]]; <span class="asgreek">οἱ π. τ. σαρκός</span>, [[Heb.12.9|He 12:9]];</span>

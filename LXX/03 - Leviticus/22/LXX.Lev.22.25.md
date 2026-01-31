@@ -7,33 +7,33 @@ Neither from a stranger’s hand shall ye offer the bread of your God of any of 
 Neither you nor a foreigner shall present food to your God from any such animal. They will not be accepted on your behalf, because they are deformed and flawed.’”<small><sub>**MT:**</sub></small>
 [[Lev.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.24|<< Leviticus 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.26|Leviticus 22:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of a son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of another race | <big><span class="asgreek">αλλογενούς</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| offer | <big><span class="asgreek">προσοίσετε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\]. | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is corruption | <big><span class="asgreek">φθάρματά</span></big> <sup><small><small>[[G9633]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a blemish | <big><span class="asgreek">μώμος</span></big> <sup><small><small>[[G3470]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be received | <big><span class="asgreek">δεχθήσεται</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of a son | **<big>[[G5207\|υιόυ]]</big>** |
+| of another race | **<big>[[G0241\|αλλογενούς]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| offer | **<big>[[G4374\|προσοίσετε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| gifts | **<big>[[G1435\|δώρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| these \[things\]. | **<big>[[G3778\|τούτων]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| there is corruption | **<big>[[G9633\|φθάρματά]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| a blemish | **<big>[[G3470\|μώμος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be received | **<big>[[G1209\|δεχθήσεται]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Lev.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.24|<< Leviticus 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.26|Leviticus 22:26 >>]]</td></tr></table>
 
 

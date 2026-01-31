@@ -7,34 +7,34 @@ And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border o
 He ruled over Mount Hermon, Salecah, all of Bashan up to the border of the Geshurites and Maacathites, and half of Gilead to the border of Sihon king of Heshbon.<small><sub>**MT:**</sub></small>
 [[Josh.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.4|<< Joshua 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.6|Joshua 12:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ruling | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Hermon, | <big><span class="asgreek">Αερμών</span></big> <sup><small><small>[[H2768]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Salcah, | <big><span class="asgreek">Σελχάς</span></big> <sup><small><small>[[H5548]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Bashan, | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of \[the\] Geshurite, | <big><span class="asgreek">Γεσουρέ</span></big> <sup><small><small>[[H1650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Maachathite, | <big><span class="asgreek">Μαχαθί</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Sihon | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Heshbon. | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
+| ruling | **<big>[[G0758\|άρχων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Hermon, | **<big>[[H2768\|Αερμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Salcah, | **<big>[[H5548\|Σελχάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Bashan, | **<big>[[H1316\|Βασάν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] borders | **<big>[[G3725\|ορίων]]</big>** |
+| of \[the\] Geshurite, | **<big>[[H1650\|Γεσουρέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Maachathite, | **<big>[[H4601\|Μαχαθί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] borders | **<big>[[G3725\|ορίων]]</big>** |
+| of Sihon | **<big>[[H5511\|Σηών]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Heshbon. | **<big>[[H2809\|Εσεβών]]</big>** |
 [[Josh.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.4|<< Joshua 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.6|Joshua 12:6 >>]]</td></tr></table>
 
 

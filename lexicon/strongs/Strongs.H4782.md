@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מׇרְדְּכַי‎</span></big> **Mordᵉkay** <small>*(mor-dek-ah'-ee)*</small> ==**Mordecai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎מׇרְדְּכַי‎</span></big>** **Mordᵉkay** <small>*(mor-dek-ah'-ee)*</small> ==**Mordecai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Mordecai.

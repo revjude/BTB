@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִקָּח‎</span></big> **miqqâch** <small>*(mik-kawkh')*</small> ==**taking**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎לָקַח‎</span><sup><small>[[H3947]]</small></sup></small>
+**<big><span class="ashebrew">‎מִקָּח‎</span></big>** **miqqâch** <small>*(mik-kawkh')*</small> ==**taking**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3947|‎לָקַח‎]]</big>**</small>
 
 $\quad$ taking.
 - ***reception***

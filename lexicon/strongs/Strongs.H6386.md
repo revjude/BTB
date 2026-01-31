@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎פְּלַג‎</span></big> **pᵉlag** <small>*(pel-ag')*</small> ==**to divide**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎פָּלַג‎</span><sup><small>[[H6385]]</small></sup></small>
+**<big><span class="asaramaic">‎פְּלַג‎</span></big>** **pᵉlag** <small>*(pel-ag')*</small> ==**to divide**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6385|‎פָּלַג‎]]</big>**</small>
 
 $\quad$ divided.
 - {***to split*** (literally or figuratively)}
@@ -7,4 +7,4 @@ $\quad$ divided.
 **1)** to divide
 $\quad$ **1a)** (P'al) to be divided
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαιρέω</span><sup><small>[[G1244]]</small></sup> · <span class="asgreek">ἥμισυ</span><sup><small>[[G2255]]</small></sup>
+<small>See Greek: </small>**<big>[[G1244|διαιρέω]]</big>** · **<big>[[G2255|ἥμισυ]]</big>**

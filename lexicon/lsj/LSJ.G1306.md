@@ -1,4 +1,4 @@
-combination of: <small>[[G0826]] ([[G1223]]+[[G0826]])</small> 
+combination of: <small>**<big>[[G0826|αὐγάζω]]</big>** (**<big>[[G1223|διά]]</big>**+**<big>[[G0826|αὐγάζω]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==διαυγάζω==</span>-<span class='asgreek'>άζω</span></b>, 

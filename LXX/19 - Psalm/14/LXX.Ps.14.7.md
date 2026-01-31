@@ -7,26 +7,26 @@ Oh that the salvation of Israel [were come] out of Zion! when the LORD bringeth 
 Oh, that the salvation of Israel would come from Zion! When the LORD restores His captive people, let Jacob rejoice, let Israel be glad!<small><sub>**MT:**</sub></small>
 [[Ps.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.6|<< Psalm 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.1|Psalm 15:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will grant | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| deliverance | <big><span class="asgreek">σωτήριον</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> turning | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jacob shall exult, | <big><span class="asgreek">αγαλλιάσεται</span></big> <sup><small><small>[[G0021]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel shall be glad. | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| will grant | **<big>[[G1325\|δώσει]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| deliverance | **<big>[[G4992\|σωτήριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> turning | **<big>[[G1994\|επιστρέψαι]]</big>** **<big>[[G2962\|κύριον]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Jacob shall exult, | **<big>[[G0021\|αγαλλιάσεται]]</big>** **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel shall be glad. | **<big>[[G2165\|ευφρανθήσεται]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ps.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.6|<< Psalm 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.1|Psalm 15:1 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ And gathered them out of the lands, from the east, and from the west, from the n
 and gathered from the lands, from east and west, from north and south.<small><sub>**MT:**</sub></small>
 [[Ps.107.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.2|<< Psalm 107:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.4|Psalm 107:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places | <big><span class="asgreek">χωρών</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| he gathered them; | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| west, | <big><span class="asgreek">δυσμών</span></big> <sup><small><small>[[G1424]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sea. | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| places | **<big>[[G5561\|χωρών]]</big>** |
+| he gathered them; | **<big>[[G4863\|συνήγαγεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| west, | **<big>[[G1424\|δυσμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| north, | **<big>[[G1005\|βορρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sea. | **<big>[[G2281\|θαλάσσης]]</big>** |
 [[Ps.107.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.2|<< Psalm 107:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.4|Psalm 107:4 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אֲדֹמִי‎</span> <small>***(e.do.mi)***</small> ==**Edomite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-group of: <small>[[H0123G]]</small> 
+<small>group of:</small> <small>**<big>[[H0123G|אֱדֹם]]</big>**</small> 
 
-- Group of <i>e.dom</i> (<span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Edom" [[H0123]])
+- Group of <i>e.dom</i> (<span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Edom" **<big>[[H0123|אֱדֹם]]</big>**)

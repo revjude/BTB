@@ -1,5 +1,4 @@
-<span class="ashebrew">‎חֹ֫דֶשׁ‎</span> <small>***(cho.desh)***</small> ==**month: new moon**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H2320G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H2320G|חֹדֶשׁ]]</big>**</small> 
 
 - : new\_moon
-- Also means: <i>cho.desh</i> (<span class='ashebrew'>‎ח‎</span>ֹ֫<span class='ashebrew'>‎ד‎</span>ֶ<span class='ashebrew'>‎ש‎</span>ׁ ": month" [[H2320]])
+- Also means: <i>cho.desh</i> (<span class='ashebrew'>‎ח‎</span>ֹ֫<span class='ashebrew'>‎ד‎</span>ֶ<span class='ashebrew'>‎ש‎</span>ׁ ": month" **<big>[[H2320|חֹדֶשׁ]]</big>**)

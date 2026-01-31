@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כַּרְמִיל‎</span></big> **karmîyl** <small>*(kar-mele')*</small> ==**crimson**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎כַּרְמִיל‎</span></big>** **karmîyl** <small>*(kar-mele')*</small> ==**crimson**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ crimson.
@@ -6,4 +6,4 @@ $\quad$ crimson.
 
 **1)** crimson, red, carmine
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κόκκινος</span><sup><small>[[G2847]]</small></sup>
+<small>See Greek: </small>**<big>[[G2847|κόκκινος]]</big>**

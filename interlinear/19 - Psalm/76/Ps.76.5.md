@@ -6,19 +6,19 @@ The valiant lie plundered; they sleep their last sleep. No men of might could li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.4|<< Psalms 76:4]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.6|Psalms 76:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they were plundered  | <span class="ashebrew"><big>אֶשְׁתּוֹלְל֨וּ </big></span><small><small><sup>[[H7997B]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'esh.to.Lu <small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [people] mighty of  | <span class="ashebrew"><big>אַבִּ֣ירֵי </big></span><small><small><sup>[[H0047I]]</sup></small></small> &#8207;| 'a.Bi.rei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵ֭ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they slumbered  | <span class="ashebrew"><big>נָמ֣וּ </big></span><small><small><sup>[[H5123]]</sup></small></small> &#8207;| na.Mu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sleep their  | <span class="ashebrew"><big>שְׁנָתָ֑ </big></span><small><small><sup>[[H8142]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| she.na.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they found  | <span class="ashebrew"><big>מָצְא֖וּ </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| ma.tze.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] men of  | <span class="ashebrew"><big>אַנְשֵׁי </big></span><small><small><sup>[[H0582]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'an.shei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength  | <span class="ashebrew"><big>חַ֣יִל </big></span><small><small><sup>[[H2428A]]</sup></small></small> &#8207;| Cha.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands their  | <span class="ashebrew"><big>יְדֵי </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.dei. <small><sup>[[HNcbdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were plundered  |**<big>&#8207;[[H7997B\|אֶשְׁתּוֹלְל֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'esh.to.Lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [people] mighty of  |**<big>&#8207;[[H0047I\|אַבִּ֣ירֵי]]&#8207; </big>**| 'a.Bi.rei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵ֭ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they slumbered  |**<big>&#8207;[[H5123\|נָמ֣וּ]]&#8207; </big>**| na.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sleep their  |**<big>&#8207;[[H8142\|שְׁנָתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| she.na.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they found  |**<big>&#8207;[[H4672\|מָצְא֖וּ]]&#8207; </big>**| ma.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'an.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  |**<big>&#8207;[[H2428A\|חַ֣יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands their  |**<big>&#8207;[[H3027G\|יְדֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.4|<< Psalms 76:4]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.6|Psalms 76:6 >>]]</td></tr></table>
 
 

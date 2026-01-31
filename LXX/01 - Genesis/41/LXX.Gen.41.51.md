@@ -7,29 +7,29 @@ And Joseph called the name of the firstborn Manasseh: For God, [said he], hath m
 Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”<small><sub>**MT:**</sub></small>
 [[Gen.41.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.50|<< Genesis 41:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.52|Genesis 41:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born, | <big><span class="asgreek">πρωτοτόκου</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| me forget | <big><span class="asgreek">επιλαθέσθαι</span></big> <sup><small><small>[[G1950]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my miseries, | <big><span class="asgreek">πόνων</span></big> <sup><small><small>[[G4192]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the \[things\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| first-born, | **<big>[[G4416\|πρωτοτόκου]]</big>** |
+| Manasseh, | **<big>[[G3128\|Μανασσή]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| me forget | **<big>[[G1950\|επιλαθέσθαι]]</big>** **<big>[[G1473\|με]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my miseries, | **<big>[[G4192\|πόνων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| of the \[things\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.41.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.50|<< Genesis 41:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.52|Genesis 41:52 >>]]</td></tr></table>
 
 

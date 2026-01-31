@@ -7,29 +7,29 @@ And [certain] of the priests’ sons with trumpets; [namely], Zechariah the son 
 and some of the priests with trumpets, and also Zechariah son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph,<small><sub>**MT:**</sub></small>
 [[Neh.12.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.34|<< Nehemiah 12:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.36|Nehemiah 12:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[some\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trumpets; | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| Zechariah | <big><span class="asgreek">Ζαχαρίας</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jonathan, | <big><span class="asgreek">Ιωνάθαν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shemaiah, | <big><span class="asgreek">Σαμαϊα</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mathaniah | <big><span class="asgreek">Ματθανία</span></big> <sup><small><small>[[H4983]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Michaiah, | <big><span class="asgreek">Μαχαϊα</span></big> <sup><small><small>[[H4320]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zaccur, | <big><span class="asgreek">Ζακχούρ</span></big> <sup><small><small>[[H2139]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asaph. | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[some\] from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| trumpets; | **<big>[[G4536\|σάλπιγξι]]</big>** |
+| Zechariah | **<big>[[G2197\|Ζαχαρίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jonathan, | **<big>[[H3129\|Ιωνάθαν]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Shemaiah, | **<big>[[H8098\|Σαμαϊα]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Mathaniah | **<big>[[H4983\|Ματθανία]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Michaiah, | **<big>[[H4320\|Μαχαϊα]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Zaccur, | **<big>[[H2139\|Ζακχούρ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Asaph. | **<big>[[H0623\|Ασάφ]]</big>** |
 [[Neh.12.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.34|<< Nehemiah 12:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.36|Nehemiah 12:36 >>]]</td></tr></table>
 
 

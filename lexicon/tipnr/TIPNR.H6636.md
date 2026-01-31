@@ -1,8 +1,8 @@
 <small>*Zeboiim • One of the cities of the plain destroyed with Sodom*</small>
 
 <span class='tipnrhighlight'>Zeboiim</span>, one of the cities of the plain, along with Sodom and Gomorrah, that was destroyed by God due to its wickedness \(Gen. 10:19; 14:2, 8; Deut. 29:23; Hos. 11:8\).
-- A location near Admah<[[H0126]]> first mentioned at [[Gen.10.19|Gen.10.19]]; 
-- referred to as Zeboiim or Zeboiim \(KJV= Zeboim, NIV= Zeboyim\) <[[H6636]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Admah **<big>[[H0126|אַדְמָה]]</big>** first mentioned at [[Gen.10.19|Gen.10.19]]; 
+- referred to as Zeboiim or Zeboiim \(KJV= Zeboim, NIV= Zeboyim\)  **<big>[[H6636|צְבֹאִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.11942270162137,35.41253049195169&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Zeboiim was one of the five cities of the plain, along with Sodom, Gomorrah, Adm
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zeboiim (NIV= Zeboyim) | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6636) <small>*Hebrew*</small> | 2x | [[Gen.14.2] & [Gen.14.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeboiim\*\|reference=Gen.14.2;Gen.14.8) |
-| Zeboiim (KJV= Zeboim; NIV= Zeboyim) | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6636) <small>*Hebrew*</small> | 3x | [[Gen.10.19] ... [Hos.11.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeboiim\*\|reference=Gen.10.19;Deu.29.23;Hos.11.8) |
-All Strong's for **Zeboiim**: \[[[H6636]]\]
+| Zeboiim (NIV= Zeboyim) | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6636) | 2x | [[Gen.14.2] & [Gen.14.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeboiim\*\|reference=Gen.14.2;Gen.14.8) |
+| Zeboiim (KJV= Zeboim; NIV= Zeboyim) | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6636) | 3x | [[Gen.10.19] ... [Hos.11.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeboiim\*\|reference=Gen.10.19;Deu.29.23;Hos.11.8) |
+All entries for **Zeboiim**:  **<big>[[H6636|צְבֹאִים]]</big>**

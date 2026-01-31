@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָאָה‎</span></big> **nâʼâh** <small>*(naw-aw')*</small> ==**habitation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָאָה‎</span><sup><small>[[H4998]]</small></sup></small>
+**<big><span class="ashebrew">‎נָאָה‎</span></big>** **nâʼâh** <small>*(naw-aw')*</small> ==**habitation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H4998|‎נָאָה‎]]</big>**</small>
 
 $\quad$ habitation, house, pasture, pleasant place.
 - ***a home***
@@ -9,4 +9,4 @@ $\quad$ habitation, house, pasture, pleasant place.
 $\quad$ **1a)** pasture, meadow
 $\quad$ **1b)** abode
 
-<sub><small>See Greek: </small></sub><span class="asgreek">νομή</span><sup><small>[[G3542]]</small></sup> · <span class="asgreek">οἶκος</span><sup><small>[[G3624]]</small></sup> · <span class="asgreek">τόπος</span><sup><small>[[G5117]]</small></sup> · <span class="asgreek">ὥρα</span><sup><small>[[G5610]]</small></sup> · <span class="asgreek">ὡραῖος</span><sup><small>[[G5611]]</small></sup> · <span class="asgreek">Ναΐν</span><sup><small>[[G3484]]</small></sup>
+<small>See Greek: </small>**<big>[[G3542|νομή]]</big>** · **<big>[[G3624|οἶκος]]</big>** · **<big>[[G5117|τόπος]]</big>** · **<big>[[G5610|ὥρα]]</big>** · **<big>[[G5611|ὡραῖος]]</big>** · **<big>[[G3484|Ναΐν]]</big>**

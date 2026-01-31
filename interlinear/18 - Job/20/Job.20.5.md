@@ -6,16 +6,16 @@ the triumph of the wicked has been brief and the joy of the godless momentary?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.4|<< Job 20:4]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.6|Job 20:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] cry of joy of  | <span class="ashebrew"><big>רִנְנַ֣ת </big></span><small><small><sup>[[H7445]]</sup></small></small> &#8207;| ri.Nat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְ֭שָׁעִים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Re.sha.'im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] from near  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קָּר֑וֹב </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ka.Rov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] gladness of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׂמְחַ֖ת </big></span><small><small><sup>[[H8057]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sim.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] godless  | <span class="ashebrew"><big>חָנֵ֣ף </big></span><small><small><sup>[[H2611]]</sup></small></small> &#8207;| cha.Nef <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] until  | <span class="ashebrew"><big>עֲדֵי </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.dei- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a moment  | <span class="ashebrew"><big>רָֽגַע </big></span><small><small><sup>[[H7281]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ra.ga' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cry of joy of  |**<big>&#8207;[[H7445\|רִנְנַ֣ת]]&#8207; </big>**| ri.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] from near  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7138\|קָּר֑וֹב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] gladness of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8057\|שִׂמְחַ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sim.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] godless  |**<big>&#8207;[[H2611\|חָנֵ֣ף]]&#8207; </big>**| cha.Nef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] until  |**<big>&#8207;[[H5704\|עֲדֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.dei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a moment  |**<big>&#8207;[[H7281\|רָֽגַע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.4|<< Job 20:4]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.6|Job 20:6 >>]]</td></tr></table>
 
 

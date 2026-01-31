@@ -1,4 +1,3 @@
-<span class="ashebrew">‎קָרָא‎</span> <small>***(qa.ra)***</small> ==**to call: call by**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H7121G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H7121G|קָרָא]]</big>**</small> 
 
 - : call\_by/name

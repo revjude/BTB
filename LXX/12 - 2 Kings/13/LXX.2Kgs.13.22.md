@@ -7,19 +7,19 @@ But Hazael king of Syria oppressed Israel all the days of Jehoahaz.
 And Hazael king of Aram oppressed Israel throughout the reign of Jehoahaz.<small><sub>**MT:**</sub></small>
 [[2Kgs.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.21|<< 2 Kings 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.23|2 Kings 13:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hazael | <big><span class="asgreek">Αζαήλ</span></big> <sup><small><small>[[H2371]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| squeezed against | <big><span class="asgreek">εξέθλιψε</span></big> <sup><small><small>[[G7095]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Jehoahaz. | <big><span class="asgreek">Ιωάχαζ</span></big> <sup><small><small>[[H3059]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hazael | **<big>[[H2371\|Αζαήλ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| squeezed against | **<big>[[G7095\|εξέθλιψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of Jehoahaz. | **<big>[[H3059\|Ιωάχαζ]]</big>** |
 [[2Kgs.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.21|<< 2 Kings 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.23|2 Kings 13:23 >>]]</td></tr></table>
 
 

@@ -7,28 +7,28 @@ O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou
 O Hope of Israel, its Savior in times of distress, why are You like a stranger in the land, like a traveler who stays but a night?<small><sub>**MT:**</sub></small>
 [[Jer.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.7|<< Jeremiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.9|Jeremiah 14:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[You are\] the endurance | <big><span class="asgreek">υπομονή</span></big> <sup><small><small>[[G5281]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| delivering | <big><span class="asgreek">σώζων</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of evils. | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| Why did | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| you become | <big><span class="asgreek">εγενήθης</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a sojourner | <big><span class="asgreek">πάροικος</span></big> <sup><small><small>[[G3941]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a native-born | <big><span class="asgreek">αυτόχθων</span></big> <sup><small><small>[[G6611]]</small></small></sup> |
-| turning aside | <big><span class="asgreek">εκκλίνων</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| lodging? | <big><span class="asgreek">κατάλυμα</span></big> <sup><small><small>[[G2646]]</small></small></sup> |
+| \[You are\] the endurance | **<big>[[G5281\|υπομονή]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| delivering | **<big>[[G4982\|σώζων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| of evils. | **<big>[[G2556\|κακών]]</big>** |
+| Why did | **<big>[[G2444\|ινατί]]</big>** |
+| you become | **<big>[[G1096\|εγενήθης]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a sojourner | **<big>[[G3941\|πάροικος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a native-born | **<big>[[G6611\|αυτόχθων]]</big>** |
+| turning aside | **<big>[[G1578\|εκκλίνων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| lodging? | **<big>[[G2646\|κατάλυμα]]</big>** |
 [[Jer.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.7|<< Jeremiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.9|Jeremiah 14:9 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-Greek of: <small>[[H5614]]</small> 
+Greek of: <small>**<big>[[H5614|סְפָרָד]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Σάρδεις==</span></b>, <span class='asgreek'>εων</span>, <span class='asgreek'>αἱ</span>, 

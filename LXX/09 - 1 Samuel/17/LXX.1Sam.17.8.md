@@ -7,42 +7,42 @@ And he stood and cried unto the armies of Israel, and said unto them, Why are ye
 And Goliath stood and shouted to the ranks of Israel, “Why do you come out and array yourselves for battle? Am I not a Philistine, and are you not servants of Saul? Choose one of your men and have him come down against me.<small><sub>**MT:**</sub></small>
 [[1Sam.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.7|<< 1 Samuel 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.9|1 Samuel 17:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled out | <big><span class="asgreek">ανεβόησεν</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| battle array | <big><span class="asgreek">παράταξιν</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| are you come forth | <big><span class="asgreek">εκπορεύεσθε</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to deploy | <big><span class="asgreek">παρατάξασθαι</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| battle | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a Philistine, | <big><span class="asgreek">αλλοφύλος</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you are | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hebrews | <big><span class="asgreek">Εβραίοι</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Saul? | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Choose | <big><span class="asgreek">εκλέξασθε</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| for yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let him come down | <big><span class="asgreek">καταβήτω</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he stood | **<big>[[G2476\|έστη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| yelled out | **<big>[[G0310\|ανεβόησεν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| battle array | **<big>[[G8640\|παράταξιν]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| are you come forth | **<big>[[G1607\|εκπορεύεσθε]]</big>** |
+| to deploy | **<big>[[G8641\|παρατάξασθαι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| battle | **<big>[[G4171\|πόλεμον]]</big>** |
+| right opposite | **<big>[[G7295\|εξεναντίας]]</big>** |
+| us? | **<big>[[G1473\|ημών]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| Am | **<big>[[G1510\|ειμι]]</big>** |
+| a Philistine, | **<big>[[G0246\|αλλοφύλος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you are | **<big>[[G1473\|υμείς]]</big>** |
+| Hebrews | **<big>[[G1444\|Εβραίοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Saul? | **<big>[[G4549\|Σαούλ]]</big>** |
+| Choose | **<big>[[G1586\|εκλέξασθε]]</big>** |
+| for yourselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| a man, | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let him come down | **<big>[[G2597\|καταβήτω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
 [[1Sam.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.7|<< 1 Samuel 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.9|1 Samuel 17:9 >>]]</td></tr></table>
 
 

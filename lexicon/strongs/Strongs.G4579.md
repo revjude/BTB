@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎σείω‎</span></big> **seíō** <small>*(si'-o)*</small> ==**to shake**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎σείω‎</span></big>** **seíō** <small>*(si'-o)*</small> ==**to shake**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>apparently a primary verb</small>
 
 $\quad$ move, quake, shake.

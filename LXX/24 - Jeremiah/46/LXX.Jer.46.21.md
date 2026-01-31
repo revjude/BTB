@@ -7,37 +7,37 @@ Also her hired men [are] in the midst of her like fatted bullocks; for they also
 Even the mercenaries among her are like fattened calves. They too will turn back; together they will flee, they will not stand their ground, for the day of calamity is coming upon them—the time of their punishment.<small><sub>**MT:**</sub></small>
 [[Jer.46.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.20|<< Jeremiah 46:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.22|Jeremiah 46:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hirelings | <big><span class="asgreek">μισθωτοί</span></big> <sup><small><small>[[G3411]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχοι</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| well fed, | <big><span class="asgreek">σιτευτοί</span></big> <sup><small><small>[[G4618]]</small></small></sup> |
-| being maintained | <big><span class="asgreek">τρεφόμενοι</span></big> <sup><small><small>[[G5142]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| turned | <big><span class="asgreek">απεστράφησαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fled | <big><span class="asgreek">έφυγον</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| with one accord. | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> |
-| They did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| stand, | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of destruction | <big><span class="asgreek">απωλείας</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of their punishment. | <big><span class="asgreek">εκδικήσεως</span></big> <sup><small><small>[[G1557]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| her hirelings | **<big>[[G3411\|μισθωτοί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| \[are\] as | **<big>[[G5618\|ώσπερ]]</big>** |
+| calves | **<big>[[G3448\|μόσχοι]]</big>** |
+| well fed, | **<big>[[G4618\|σιτευτοί]]</big>** |
+| being maintained | **<big>[[G5142\|τρεφόμενοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her; | **<big>[[G1473\|αυτή]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| turned | **<big>[[G0654\|απεστράφησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fled | **<big>[[G5343\|έφυγον]]</big>** |
+| with one accord. | **<big>[[G3661\|ομοθυμαδόν]]</big>** |
+| They did not | **<big>[[G3756\|ουκ]]</big>** |
+| stand, | **<big>[[G2476\|έστησαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of destruction | **<big>[[G0684\|απωλείας]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρός]]</big>** |
+| of their punishment. | **<big>[[G1557\|εκδικήσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.46.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.20|<< Jeremiah 46:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.22|Jeremiah 46:22 >>]]</td></tr></table>
 
 

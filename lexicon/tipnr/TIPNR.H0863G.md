@@ -4,7 +4,7 @@ David's compatriot living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ittai</span> the Gittite was a commander who remained loyal to David during Absalom's rebellion \([[2Sam.15.19|2Sa.15.19]]-22; 18.2,5,12\).
 - David's compatriot living at the time of United Monarchy, first mentioned at [[2Sam.15.19|2Sa.15.19]]; 
-- only referred to as Ittai<[[H0863G]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Ittai **<big>[[H0863|אִתַּי]]</big>**.
 
 Ittai the Gittite was a commander of six hundred men who remained loyal to King David during the rebellion of his son Absalom \([[2Sam.15.19|2Sa.15.19]]-22\). Ittai was from Gath, a Philistine city, and had only recently come to join David's forces \(2Sa.15.20\). 
 
@@ -16,5 +16,5 @@ Ittai's loyalty to David, despite being a foreigner and newcomer, showcases the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ittai | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>י</span>](H0863G) <small>*Hebrew*</small> | 7x | [[2Sa.15.19] ... [2Sa.18.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ittai\*\|reference=2Sa.15.19;2Sa.15.21;2Sa.15.22;2Sa.15.22;2Sa.18.2;2Sa.18.5;2Sa.18.12) |
-All Strong's for **Ittai**: \[[[H0863G]]\]
+| Ittai | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>י</span>](H0863G) | 7x | [[2Sa.15.19] ... [2Sa.18.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ittai\*\|reference=2Sa.15.19;2Sa.15.21;2Sa.15.22;2Sa.15.22;2Sa.18.2;2Sa.18.5;2Sa.18.12) |
+All entries for **Ittai**:  **<big>[[H0863|אִתַּי]]</big>**

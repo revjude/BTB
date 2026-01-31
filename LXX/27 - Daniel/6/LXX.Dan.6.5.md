@@ -7,20 +7,20 @@ Then said these men, We shall not find any occasion against this Daniel, except 
 Finally these men said, “We will never find any charge against this Daniel unless we find something against him concerning the law of his God.”<small><sub>**MT:**</sub></small>
 [[Dan.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.4|<< Daniel 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.6|Daniel 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tacticians | <big><span class="asgreek">τακτικοί</span></big> <sup><small><small>[[G9395]]</small></small></sup> |
-| We did not find | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευρήσομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| an excuse | <big><span class="asgreek">πρόφασιν</span></big> <sup><small><small>[[G4392]]</small></small></sup> |
-| unless \[it be\] | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] laws | <big><span class="asgreek">νομίμοις</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
-| of his God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| tacticians | **<big>[[G9395\|τακτικοί]]</big>** |
+| We did not find | **<big>[[G3756\|ουχ]]</big>** **<big>[[G2147\|ευρήσομεν]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| Daniel | **<big>[[G1158\|Δανιήλ]]</big>** |
+| an excuse | **<big>[[G4392\|πρόφασιν]]</big>** |
+| unless \[it be\] | **<big>[[G1508\|ει μη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] laws | **<big>[[G8403\|νομίμοις]]</big>** |
+| of his God. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Dan.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.4|<< Daniel 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.6|Daniel 6:6 >>]]</td></tr></table>
 
 

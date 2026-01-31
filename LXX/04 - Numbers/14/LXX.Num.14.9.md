@@ -7,39 +7,39 @@ Only rebel not ye against the LORD, neither fear ye the people of the land; for 
 Only do not rebel against the LORD, and do not be afraid of the people of the land, for they will be like bread for us. Their protection has been removed, and the LORD is with us. Do not be afraid of them!”<small><sub>**MT:**</sub></small>
 [[Num.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.8|<< Numbers 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.10|Numbers 14:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| defectors | <big><span class="asgreek">αποστάται</span></big> <sup><small><small>[[G6490]]</small></small></sup> |
-| become | <big><span class="asgreek">γίνεσθε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| And you, | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθήτε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a \[thing\] devoured | <big><span class="asgreek">κατάβρωμα</span></big> <sup><small><small>[[G7825]]</small></small></sup> |
-| for us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[they are\] | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| has left | <big><span class="asgreek">αφέστηκε</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us; | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθήτε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| defectors | **<big>[[G6490\|αποστάται]]</big>** |
+| become | **<big>[[G1096\|γίνεσθε]]</big>** |
+| And you, | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβηθήτε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land! | **<big>[[G1093\|γης]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a \[thing\] devoured | **<big>[[G7825\|κατάβρωμα]]</big>** |
+| for us | **<big>[[G1473\|ημίν]]</big>** |
+| \[they are\] | **<big>[[G1510\|εστίν]]</big>** |
+| has left | **<big>[[G0868\|αφέστηκε]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| time | **<big>[[G2540\|καιρός]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] among | **<big>[[G1722\|εν]]</big>** |
+| us; | **<big>[[G1473\|ημίν]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβηθήτε]]</big>** |
+| them! | **<big>[[G1473\|αυτούς]]</big>** |
 [[Num.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.8|<< Numbers 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.10|Numbers 14:10 >>]]</td></tr></table>
 
 

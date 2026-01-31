@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַרְשָׁא‎</span></big> **Charshâʼ** <small>*(khar-shaw')*</small> ==**Harsha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חֶרֶשׁ‎</span><sup><small>[[H2792]]</small></sup>; magician</small>
+**<big><span class="ashebrew">‎חַרְשָׁא‎</span></big>** **Charshâʼ** <small>*(khar-shaw')*</small> ==**Harsha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2792|‎חֶרֶשׁ‎]]</big>**; magician</small>
 
 $\quad$ Harsha.
 - § Harsha = *"mute"*

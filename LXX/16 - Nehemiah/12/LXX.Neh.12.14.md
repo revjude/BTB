@@ -7,14 +7,14 @@ Of Melicu, Jonathan; of Shebaniah, Joseph;
 of Malluchi, Jonathan; of Shebaniah, Joseph;<small><sub>**MT:**</sub></small>
 [[Neh.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.13|<< Nehemiah 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.15|Nehemiah 12:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Melicu, | <big><span class="asgreek">Αμαλούχ</span></big> <sup><small><small>[[H4409b]]</small></small></sup> |
-| Jonathan; | <big><span class="asgreek">Ιωνάθαν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Secheniah, | <big><span class="asgreek">Σεχενία</span></big> <sup><small><small>[[H7935]]</small></small></sup> |
-| Joseph; | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Melicu, | **<big>[[H4409b\|Αμαλούχ]]</big>** |
+| Jonathan; | **<big>[[H3129\|Ιωνάθαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Secheniah, | **<big>[[H7935\|Σεχενία]]</big>** |
+| Joseph; | **<big>[[G2501\|Ιωσήφ]]</big>** |
 [[Neh.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.13|<< Nehemiah 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.15|Nehemiah 12:15 >>]]</td></tr></table>
 
 

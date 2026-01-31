@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִמְנָה‎</span></big> **Yimnâh** <small>*(yim-naw')*</small> ==**Imnah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָמַן‎</span><sup><small>[[H3231]]</small></sup>; prosperity (as betokened by the right hand)</small>
+**<big><span class="ashebrew">‎יִמְנָה‎</span></big>** **Yimnâh** <small>*(yim-naw')*</small> ==**Imnah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3231|‎יָמַן‎]]</big>**; prosperity (as betokened by the right hand)</small>
 
 $\quad$ Imna, Imnah, Jimnah, Jimnites.
 - § Imna or Imnah or Jimnah = *"right hand"*

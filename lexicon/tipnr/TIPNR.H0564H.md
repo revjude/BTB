@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Immer</span> was the name of a priestly division during the time of David, and his descendants served as priests in the post-exilic period.
 - A priest living at the time of Divided Monarchy, first mentioned at [[1Chr.24.14|1Ch.24.14]]; 
-- only referred to as Immer<[[H0564H]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Immer **<big>[[H0564|אִמֵּר]]</big>**.
 
 Immer is mentioned in several passages in the Old Testament as the name of a priestly division and its descendants. In [[1Chr.24.14|1 Chronicles 24:14]], Immer is listed as the sixteenth of the twenty-four priestly divisions appointed by King David to serve in the temple. Each division was responsible for serving in the temple for a week at a time, twice a year. 
 
@@ -18,5 +18,5 @@ The repeated mention of the Immerites in various contexts throughout the Old Tes
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564H) <small>*Hebrew*</small> | 5x | [[1Ch.24.14] ... [Jer.20.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=1Ch.24.14;Ezr.2.37;Ezr.10.20;Neh.7.40;Jer.20.1) |
-All Strong's for **Immer**: \[[[H0564H]]\]
+| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564H) | 5x | [[1Ch.24.14] ... [Jer.20.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=1Ch.24.14;Ezr.2.37;Ezr.10.20;Neh.7.40;Jer.20.1) |
+All entries for **Immer**:  **<big>[[H0564|אִמֵּר]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְאָיָה‎</span></big> **Rᵉʼâyâh** <small>*(reh-aw-yaw')*</small> ==**Reaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָאָה‎</span><sup><small>[[H7200]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has seen</small>
+**<big><span class="ashebrew">‎רְאָיָה‎</span></big>** **Rᵉʼâyâh** <small>*(reh-aw-yaw')*</small> ==**Reaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7200|‎רָאָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has seen</small>
 
 $\quad$ Reaia, Reaiah.
 - § Reaia or Reaiah = *"Jehovah has seen"*

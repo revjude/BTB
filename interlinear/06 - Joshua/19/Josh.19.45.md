@@ -6,13 +6,13 @@ Jehud, Bene-berak, Gath-rimmon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.44|<< Joshua 19:44]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.46|Joshua 19:46 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Jehud  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהֻ֥ד </big></span><small><small><sup>[[H3055]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> Hud <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Bene  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵֽי </big></span><small><small><sup>[[H1139]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.nei- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Berak  | <span class="ashebrew"><big>בְרַ֖ק </big></span><small><small><sup>[[H1139]]</sup></small></small> &#8207;| ve.Rak <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Gath  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַת </big></span><small><small><sup>[[H1667G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> gat- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rimmon  | <span class="ashebrew"><big>רִמּֽוֹן </big></span><small><small><sup>[[H1667G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ri.Mon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jehud  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3055\|יהֻ֥ד]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hud<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Bene  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1139\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Berak  |**<big>&#8207;[[H1139\|בְרַ֖ק]]&#8207; </big>**| ve.Rak<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Gath  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1667G\|גַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gat-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rimmon  |**<big>&#8207;[[H1667G\|רִמּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ri.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.44|<< Joshua 19:44]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.46|Joshua 19:46 >>]]</td></tr></table>
 
 

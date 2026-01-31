@@ -7,23 +7,23 @@ And the temple and the sanctuary had two doors.
 Both the outer sanctuary and the inner sanctuary had double doors,<small><sub>**MT:**</sub></small>
 [[Ezek.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.22|<< Ezekiel 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.24|Ezekiel 41:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[there were\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| doorways | <big><span class="asgreek">θυρώματα</span></big> <sup><small><small>[[G7699]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple; | <big><span class="asgreek">ναώ</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy place | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| doorways | <big><span class="asgreek">θυρώματα</span></big> <sup><small><small>[[G7699]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| doorways | <big><span class="asgreek">θυρώμασι</span></big> <sup><small><small>[[G7699]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turnings; | <big><span class="asgreek">στροφωτοίς</span></big> <sup><small><small>[[G9211]]</small></small></sup> |
+| And \[there were\] | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| doorways | **<big>[[G7699\|θυρώματα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| temple; | **<big>[[G3485\|ναώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| holy place | **<big>[[G0039\|αγίω]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| doorways | **<big>[[G7699\|θυρώματα]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| doorways | **<big>[[G7699\|θυρώμασι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| turnings; | **<big>[[G9211\|στροφωτοίς]]</big>** |
 [[Ezek.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.22|<< Ezekiel 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.24|Ezekiel 41:24 >>]]</td></tr></table>
 
 

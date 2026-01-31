@@ -6,16 +6,16 @@ For a voice resounds from Dan, proclaiming disaster from the hills of Ephraim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.14|<< Jeremiah 4:14]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.16|Jeremiah 4:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֛י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a voice  | <span class="ashebrew"><big>ק֥וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] declaring  | <span class="ashebrew"><big>מַגִּ֖יד </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ma.Gid <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Dan  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>דָּ֑ן </big></span><small><small><sup>[[H1835G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Dan <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] proclaiming  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַשְׁמִ֥יעַ </big></span><small><small><sup>[[H8085I]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mash.Mi.a' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trouble  | <span class="ashebrew"><big>אָ֖וֶן </big></span><small><small><sup>[[H0205H]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] hill country of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הַ֥ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרָֽיִם </big></span><small><small><sup>[[H0669J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a voice  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] declaring  |**<big>&#8207;[[H5046\|מַגִּ֖יד]]&#8207; </big>**| ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Dan  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1835G\|דָּ֑ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] proclaiming  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8085I\|מַשְׁמִ֥יעַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mash.Mi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  |**<big>&#8207;[[H0205H\|אָ֖וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hill country of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2022G\|הַ֥ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669J\|אֶפְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.14|<< Jeremiah 4:14]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.16|Jeremiah 4:16 >>]]</td></tr></table>
 
 

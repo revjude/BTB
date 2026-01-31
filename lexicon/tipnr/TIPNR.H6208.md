@@ -4,8 +4,8 @@ People from Arak\(?\)
 
 The <span class='tipnrhighlight'>Arkites</span> were one of the Canaanite tribes descended from Canaan, the son of Ham, and are mentioned in the Table of Nations.
 - People from Arak\(?\) of the Canaanites, first mentioned at [[Gen.10.17|Gen.10.17]]; 
-- only referred to as Arkites<[[H6208]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
-- descended from Canaan<[[H3667G]]> along with Sidon<[[H6721G]]>, Heth<[[H2845]]>, Jebusites<[[H2983G]]>, Amorites<[[H0567]]>, Girgashites<[[H1622]]>, Hivites<[[H2340]]>, Sinites<[[H5513]]>, Arvadites<[[H0721]]>, Zemarites<[[H6786]]> and Hamathites<[[H2577]]>.
+- only referred to as Arkites **<big>[[H6208|עַרְקִי]]</big>**; 
+- descended from Canaan **<big>[[H3667|כְּנַעַן]]</big>** along with Sidon **<big>[[H6721|צִידוֹן]]</big>**, Heth **<big>[[H2845|חֵת]]</big>**, Jebusites **<big>[[H2983|יְבוּסִי]]</big>**, Amorites **<big>[[H0567|אֱמֹרִי]]</big>**, Girgashites **<big>[[H1622|גִּרְגָּשִׁי]]</big>**, Hivites **<big>[[H2340|חִוִּי]]</big>**, Sinites **<big>[[H5513|סִינִי]]</big>**, Arvadites **<big>[[H0721|אַרְוָדִי]]</big>**, Zemarites **<big>[[H6786|צְמָרִי]]</big>** and Hamathites **<big>[[H2577|חֲמָתִי]]</big>**.
 
 The Arkites were a Canaanite people group mentioned in the Table of Nations in Genesis 10 and 1 Chronicles 1. They are listed among the descendants of Canaan, the son of Ham and grandson of Noah \(Gen. 10:17; 1 Chr. 1:15\). 
 
@@ -19,8 +19,8 @@ The Arkites, along with the other Canaanite tribes, were among the people groups
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Arkite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>](H6208) <small>*Hebrew*</small> | 2x | [[Gen.10.17] & [1Ch.1.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arkite\*\|reference=Gen.10.17;1Ch.1.15) |
-All Strong's for **Arkites**: \[[[H6208]]\]
+| Arkite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>](H6208) | 2x | [[Gen.10.17] & [1Ch.1.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arkite\*\|reference=Gen.10.17;1Ch.1.15) |
+All entries for **Arkites**:  **<big>[[H6208|עַרְקִי]]</big>**
 #### Related Profiles:
 - **[Canaan](H3667G)** (father)
 - **[Sidon](H6721G)** (sibling)

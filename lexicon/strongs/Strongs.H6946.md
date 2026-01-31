@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎קָדֵשׁ‎</span></big> **Qâdêsh** <small>*(kaw-dashe')*</small> ==**Kadesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎קָדֵשׁ‎</span><sup><small>[[H6945]]</small></sup>; sanctuary</small>
+**<big><span class="ashebrew">‎קָדֵשׁ‎</span></big>** **Qâdêsh** <small>*(kaw-dashe')*</small> ==**Kadesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H6945|‎קָדֵשׁ‎]]</big>**; sanctuary</small>
 
-$\quad$ Kadesh. Compare <span class="ashebrew">‎קָדֵשׁ בַּרְנֵעַ‎</span><sup><small>[[H6947]]</small></sup>.
+$\quad$ Kadesh. Compare **<big>[[H6947|‎קָדֵשׁ בַּרְנֵעַ‎]]</big>**.
 - § Kadesh = *"holy"*
 - ***Kadesh***, a place in the Desert
 

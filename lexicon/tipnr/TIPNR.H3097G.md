@@ -4,9 +4,9 @@ David's compatriot living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Joab</span>, David's nephew and commander of his army, was a key figure in David's reign, known for his military prowess and loyalty \([[2Sam.8.16|2Sa.8.16]]; [[1Chr.11.6|1Ch.11.6]]\).
 - David's compatriot living at the time of United Monarchy, first mentioned at [[1Sam.26.6|1Sa.26.6]]; 
-- only referred to as Joab<[[H3097G]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>\); 
-- his mother was Zeruiah<[[H6870G]]>; 
-- a brother of Abishai<[[H0052]]> and Asahel<[[H6214G]]>.
+- only referred to as Joab **<big>[[H3097|יוֹאָב]]</big>**; 
+- his mother was Zeruiah **<big>[[H6870|צְרוּיָה]]</big>**; 
+- a brother of Abishai **<big>[[H0052|אֲבִישַׁי]]</big>** and Asahel **<big>[[H6214|עֲשָׂהאֵל]]</big>**.
 
 Joab, the son of Zeruiah, was King David's nephew and the commander of his army. He first appears in [[1Sam.26.6|1 Samuel 26:6]], accompanying David on a mission to Saul's camp. Joab played a significant role in David's rise to power and the establishment of his kingdom \(2Sa.2-3; 8.16; [[1Chr.11.6|1Ch.11.6]],8\). 
 
@@ -18,8 +18,8 @@ Despite his flaws, Joab remained a key figure in David's reign until the end. He
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joab | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3097G) <small>*Hebrew*</small> | 141x | [[1Sa.26.6] ... [Psa.60.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joab\*\|reference=1Sa.26.6;2Sa.2.13;2Sa.2.14;2Sa.2.14;2Sa.2.18;2Sa.2.22;2Sa.2.24;2Sa.2.26;2Sa.2.27;2Sa.2.28;2Sa.2.30;2Sa.2.32;2Sa.3.22;2Sa.3.23;2Sa.3.23;2Sa.3.24;2Sa.3.26;2Sa.3.27;2Sa.3.29;2Sa.3.29;2Sa.3.30;2Sa.3.31;2Sa.8.16;2Sa.10.7;2Sa.10.9;2Sa.10.13;2Sa.10.14;2Sa.11.1;2Sa.11.6;2Sa.11.6;2Sa.11.7;2Sa.11.11;2Sa.11.14;2Sa.11.16;2Sa.11.17;2Sa.11.18;2Sa.11.22;2Sa.11.25;2Sa.12.26;2Sa.12.27) |
-All Strong's for **Joab**: \[[[H3097G]]\]
+| Joab | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3097G) | 141x | [[1Sa.26.6] ... [Psa.60.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joab\*\|reference=1Sa.26.6;2Sa.2.13;2Sa.2.14;2Sa.2.14;2Sa.2.18;2Sa.2.22;2Sa.2.24;2Sa.2.26;2Sa.2.27;2Sa.2.28;2Sa.2.30;2Sa.2.32;2Sa.3.22;2Sa.3.23;2Sa.3.23;2Sa.3.24;2Sa.3.26;2Sa.3.27;2Sa.3.29;2Sa.3.29;2Sa.3.30;2Sa.3.31;2Sa.8.16;2Sa.10.7;2Sa.10.9;2Sa.10.13;2Sa.10.14;2Sa.11.1;2Sa.11.6;2Sa.11.6;2Sa.11.7;2Sa.11.11;2Sa.11.14;2Sa.11.16;2Sa.11.17;2Sa.11.18;2Sa.11.22;2Sa.11.25;2Sa.12.26;2Sa.12.27) |
+All entries for **Joab**:  **<big>[[H3097|יוֹאָב]]</big>**
 #### Related Profiles:
 - **[husband_of_Zeruiah](H6870H)** (father)
 - **[Zeruiah](H6870G)** (mother)

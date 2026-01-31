@@ -12,19 +12,19 @@ To the chief Musician, A Psalm of David. Deliver me, O LORD, from the evil man: 
 For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,<small><sub>**MT:**</sub></small>
 [[Ps.140.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.24|<< Psalm 139:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.2|Psalm 140:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take | <big><span class="asgreek">εξελού</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[the\] wicked | <big><span class="asgreek">πονηρού</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[the\] unjust | <big><span class="asgreek">αδίκου</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| Rescue | <big><span class="asgreek">ρύσαί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Take | **<big>[[G1807\|εξελού]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \[the\] wicked | **<big>[[G4190\|πονηρού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| man | **<big>[[G0435\|ανδρός]]</big>** |
+| \[the\] unjust | **<big>[[G0094\|αδίκου]]</big>** |
+| Rescue | **<big>[[G4506\|ρύσαί]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
 [[Ps.140.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.24|<< Psalm 139:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.2|Psalm 140:2 >>]]</td></tr></table>
 
 

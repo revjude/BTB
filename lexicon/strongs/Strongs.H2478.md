@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַלְחוּל‎</span></big> **Chalchûwl** <small>*(khal-khool')*</small> ==**Halhul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>by reduplication from <span class="ashebrew">‎חוּל‎</span><sup><small>[[H2342]]</small></sup>; contorted</small>
+**<big><span class="ashebrew">‎חַלְחוּל‎</span></big>** **Chalchûwl** <small>*(khal-khool')*</small> ==**Halhul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>by reduplication from **<big>[[H2342|‎חוּל‎]]</big>**; contorted</small>
 
 $\quad$ Halhul.
 - § Halhul = *"trembling"*

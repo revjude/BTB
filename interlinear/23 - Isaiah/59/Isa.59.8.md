@@ -10,24 +10,24 @@ The way of peace they have not known, and there is no justice in their tracks. T
 > $\quad$ referenced by: [[Rom.3.15|Rom 3:15-17]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a way of  | <span class="ashebrew"><big>דֶּ֤רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peace  | <span class="ashebrew"><big>שָׁלוֹם֙ </big></span><small><small><sup>[[H7965G]]</sup></small></small> &#8207;| sha.lOm <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know  | <span class="ashebrew"><big>יָדָ֔עוּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] justice  | <span class="ashebrew"><big>מִשְׁפָּ֖ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on tracks their  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מַעְגְּלוֹתָ֑ </big></span><small><small><sup>[[H4570]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ma'.ge.lo.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| paths their  | <span class="ashebrew"><big>נְתִיבֽוֹתֵי </big></span><small><small><sup>[[H5410B]]</sup></small></small> <span class="ashebrew"><big>הֶם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ne.ti.vo.tei. <small><sup>[[HNcfpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have made crooked  | <span class="ashebrew"><big>עִקְּשׁ֣וּ </big></span><small><small><sup>[[H6140]]</sup></small></small> &#8207;| 'i.ke.Shu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> themselves  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֔ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any  | <span class="ashebrew"><big>כֹּ֚ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] treads  | <span class="ashebrew"><big>דֹּרֵ֣ךְ </big></span><small><small><sup>[[H1869]]</sup></small></small> &#8207;| do.Rekh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>בָּ֔ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| Ba <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he knows  | <span class="ashebrew"><big>יָדַ֖ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peace  | <span class="ashebrew"><big>שָׁלֽוֹם </big></span><small><small><sup>[[H7965G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Lom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a way of  |**<big>&#8207;[[H1870G\|דֶּ֤רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  |**<big>&#8207;[[H7965G\|שָׁלוֹם֙]]&#8207; </big>**| sha.lOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know  |**<big>&#8207;[[H3045\|יָדָ֔עוּ]]&#8207; </big>**| ya.Da.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֖ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on tracks their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4570\|מַעְגְּלוֹתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma'.ge.lo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| paths their  |**<big>&#8207;[[H5410B\|נְתִיבֽוֹתֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| ne.ti.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have made crooked  |**<big>&#8207;[[H6140\|עִקְּשׁ֣וּ]]&#8207; </big>**| 'i.ke.Shu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  |**<big>&#8207;[[H3605\|כֹּ֚ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] treads  |**<big>&#8207;[[H1869\|דֹּרֵ֣ךְ]]&#8207; </big>**| do.Rekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H9003\|בָּ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he knows  |**<big>&#8207;[[H3045\|יָדַ֖ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  |**<big>&#8207;[[H7965G\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.7|<< Isaiah 59:7]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.9|Isaiah 59:9 >>]]</td></tr></table>
 
 

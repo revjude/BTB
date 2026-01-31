@@ -7,28 +7,28 @@ I went down to the bottoms of the mountains; the earth with her bars [was] about
 To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God!<small><sub>**MT:**</sub></small>
 [[Jonah.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.5|<< Jonah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.7|Jonah 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] fissures | <big><span class="asgreek">σχισμάς</span></big> <sup><small><small>[[G9383]]</small></small></sup> |
-| of mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| I went down; | <big><span class="asgreek">κατέβην</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its bars | <big><span class="asgreek">μοχλοί</span></big> <sup><small><small>[[G8352]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| holds | <big><span class="asgreek">κάτοχοι</span></big> <sup><small><small>[[G7982]]</small></small></sup> |
-| \[are the\] eternal | <big><span class="asgreek">αιώνιοι</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| Yet | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascend | <big><span class="asgreek">αναβήτω</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| corruption | <big><span class="asgreek">φθοράς</span></big> <sup><small><small>[[G5356]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God! | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] fissures | **<big>[[G9383\|σχισμάς]]</big>** |
+| of mountains | **<big>[[G3735\|ορέων]]</big>** |
+| I went down; | **<big>[[G2597\|κατέβην]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γην]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| its bars | **<big>[[G8352\|μοχλοί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| holds | **<big>[[G7982\|κάτοχοι]]</big>** |
+| \[are the\] eternal | **<big>[[G0166\|αιώνιοι]]</big>** |
+| Yet | **<big>[[G2532\|και]]</big>** |
+| ascend | **<big>[[G0305\|αναβήτω]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| corruption | **<big>[[G5356\|φθοράς]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my life | **<big>[[G2222\|ζωή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God! | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jonah.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.5|<< Jonah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.7|Jonah 2:7 >>]]</td></tr></table>
 
 

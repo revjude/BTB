@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָג‎</span></big> **zâg** <small>*(zawg)*</small> ==**skin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎זָג‎</span></big>** **zâg** <small>*(zawg)*</small> ==**skin**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning to inclose</small>
 
 $\quad$ husk.

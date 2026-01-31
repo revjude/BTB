@@ -7,40 +7,40 @@ And he shall sit [as] a refiner and purifier of silver: and he shall purify the 
 And He will sit as a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the LORD in righteousness.<small><sub>**MT:**</sub></small>
 [[Mal.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.2|<< Malachi 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.4|Malachi 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall sit | <big><span class="asgreek">καθιείται</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| as one casting in a furnace, | <big><span class="asgreek">χωνεύων</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one cleansing | <big><span class="asgreek">καθαρίζων</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| as it were | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver. | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall cleanse | <big><span class="asgreek">καθαρισεί</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Levi, | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall pour | <big><span class="asgreek">χεεί</span></big> <sup><small><small>[[G9721]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver; | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| ones bringing | <big><span class="asgreek">προσάγοντες</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| sacrifices | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| righteousness. | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall sit | **<big>[[G2523\|καθιείται]]</big>** |
+| as one casting in a furnace, | **<big>[[G9779\|χωνεύων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one cleansing | **<big>[[G2511\|καθαρίζων]]</big>** |
+| as it were | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| silver. | **<big>[[G0694\|αργύριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall cleanse | **<big>[[G2511\|καθαρισεί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Levi, | **<big>[[G3017\|Λευί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall pour | **<big>[[G9721\|χεεί]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver; | **<big>[[G0694\|αργύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will be | **<big>[[G1510\|έσονται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| ones bringing | **<big>[[G4317\|προσάγοντες]]</big>** |
+| sacrifices | **<big>[[G2378\|θυσίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| righteousness. | **<big>[[G1343\|δικαιοσύνη]]</big>** |
 [[Mal.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.2|<< Malachi 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.4|Malachi 3:4 >>]]</td></tr></table>
 
 

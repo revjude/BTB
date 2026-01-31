@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נוּף‎</span></big> **nûwph** <small>*(noof)*</small> ==**to sprinkle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נוּף‎</span></big>** **nûwph** <small>*(noof)*</small> ==**to sprinkle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lift up, move, offer, perfume, send, shake, sift, strike, wave.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **1c3)** to wave (an offering), offer
 $\quad$ $\quad$ **1c4)** to shed abroad
 $\quad$ **1d)** (Hophal) to be waved
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴρω</span><sup><small>[[G0142]]</small></sup> · <span class="asgreek">ἀναφέρω</span><sup><small>[[G0399]]</small></sup> · <span class="asgreek">ἀποδίδωμι</span><sup><small>[[G0591]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">ἑλκύω</span><sup><small>[[G1670]]</small></sup> · <span class="asgreek">ἐπαίρω</span><sup><small>[[G1869]]</small></sup> · <span class="asgreek">ἐπιβάλλω</span><sup><small>[[G1911]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">ἐπιφέρω</span><sup><small>[[G2018]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup> · <span class="asgreek">φέρω</span><sup><small>[[G5342]]</small></sup>
+<small>See Greek: </small>**<big>[[G0142|αἴρω]]</big>** · **<big>[[G0399|ἀναφέρω]]</big>** · **<big>[[G0591|ἀποδίδωμι]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G1670|ἑλκύω]]</big>** · **<big>[[G1869|ἐπαίρω]]</big>** · **<big>[[G1911|ἐπιβάλλω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2018|ἐπιφέρω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>** · **<big>[[G5342|φέρω]]</big>**

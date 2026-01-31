@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Caleb Ephrathah</span> was the place where Hezron, the son of Perez, died.
 - A location only mentioned at [[1Chr.2.24|1Ch.2.24]]; 
-- only referred to as Caleb\_Ephrathah<[[H3613]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ב</span> <span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Caleb\_Ephrathah **<big>[[H3613|כָּלֵב אֶפְרָתָה]]</big>**.
 
 Caleb Ephrathah is mentioned briefly in [[1Chr.2.24|1 Chronicles 2:24]] as the place where Hezron, the son of Perez and grandson of Judah, died. The verse states that after Hezron's death in Caleb Ephrathah, his wife Abijah bore him a son named Ashhur, who became the father of Tekoa. 
 
@@ -12,5 +12,5 @@ However, the meaning of the verse may be different, so that Caleb and Ephrathah 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Caleb [went in to] Ephrathah | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ב</span> <span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3613) <small>*Hebrew*</small> | 1x | [1Ch.2.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caleb\*\|reference=1Ch.2.24) |
-All Strong's for **Caleb_Ephrathah**: \[[[H3613]]\]
+| Caleb [went in to] Ephrathah | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ב</span> <span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3613) | 1x | [1Ch.2.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caleb\*\|reference=1Ch.2.24) |
+All entries for **Caleb Ephrathah**:  **<big>[[H3613|כָּלֵב אֶפְרָתָה]]</big>**

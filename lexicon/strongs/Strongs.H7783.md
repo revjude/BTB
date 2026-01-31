@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שׁוּק‎</span></big> **shûwq** <small>*(shook)*</small> ==**to overflow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שׁוּק‎</span></big>** **shûwq** <small>*(shook)*</small> ==**to overflow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ overflow, water.
@@ -8,4 +8,4 @@ $\quad$ overflow, water.
 $\quad$ **1a)** (Polel) to give abundance to
 $\quad$ **1b)** (Hiphil) to overflow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μεθύσκω</span><sup><small>[[G3182]]</small></sup>
+<small>See Greek: </small>**<big>[[G3182|μεθύσκω]]</big>**

@@ -6,15 +6,15 @@ The sword that reaches him has no effect, nor does the spear or dart or arrow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.25|<< Job 41:25]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.27|Job 41:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] reaches it  | <span class="ashebrew"><big>מַשִּׂיגֵ֣ </big></span><small><small><sup>[[H5381]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ma.si.Ge. <small><sup>[[HVhrmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sword  | <span class="ashebrew"><big>חֶ֭רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Che.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בְּלִ֣י </big></span><small><small><sup>[[H1097]]</sup></small></small> &#8207;| be.Li <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is established  | <span class="ashebrew"><big>תָק֑וּם </big></span><small><small><sup>[[H6965I]]</sup></small></small> &#8207;| ta.Kum <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spear  | <span class="ashebrew"><big>חֲנִ֖ית </big></span><small><small><sup>[[H2595]]</sup></small></small> &#8207;| cha.Nit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a dart  | <span class="ashebrew"><big>מַסָּ֣ע </big></span><small><small><sup>[[H4551B]]</sup></small></small> &#8207;| ma.Sa' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a javelin  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁרְיָֽה </big></span><small><small><sup>[[H8302A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shir.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] reaches it  |**<big>&#8207;[[H5381\|מַשִּׂיגֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ma.si.Ge.<small><sup>[[HVhrmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  |**<big>&#8207;[[H2719\|חֶ֭רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H1097\|בְּלִ֣י]]&#8207; </big>**| be.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is established  |**<big>&#8207;[[H6965I\|תָק֑וּם]]&#8207; </big>**| ta.Kum<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spear  |**<big>&#8207;[[H2595\|חֲנִ֖ית]]&#8207; </big>**| cha.Nit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a dart  |**<big>&#8207;[[H4551B\|מַסָּ֣ע]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a javelin  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8302A\|שִׁרְיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shir.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.25|<< Job 41:25]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.27|Job 41:27 >>]]</td></tr></table>
 
 

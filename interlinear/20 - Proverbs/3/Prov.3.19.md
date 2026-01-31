@@ -6,15 +6,15 @@ The LORD founded the earth by wisdom and established the heavens by understandin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.18|<< Proverbs 3:18]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.20|Proverbs 3:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְֽהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by wisdom  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חָכְמָ֥ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> cha.khe.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he founded  | <span class="ashebrew"><big>יָֽסַד </big></span><small><small><sup>[[H3245]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.sad- <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he established  | <span class="ashebrew"><big>כּוֹנֵ֥ן </big></span><small><small><sup>[[H3559H]]</sup></small></small> &#8207;| ko.Nen <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heavens  | <span class="ashebrew"><big>שָׁ֝מַ֗יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| Sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by understanding  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תְבוּנָֽה </big></span><small><small><sup>[[H8394]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> t.vu.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by wisdom  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2451\|חָכְמָ֥ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.khe.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he founded  |**<big>&#8207;[[H3245\|יָֽסַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.sad-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he established  |**<big>&#8207;[[H3559H\|כּוֹנֵ֥ן]]&#8207; </big>**| ko.Nen<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֝מַ֗יִם]]&#8207; </big>**| Sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by understanding  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8394\|תְבוּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> t.vu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.18|<< Proverbs 3:18]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.20|Proverbs 3:20 >>]]</td></tr></table>
 
 

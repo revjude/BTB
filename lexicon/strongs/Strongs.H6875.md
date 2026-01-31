@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְרִי‎</span></big> **tsᵉrîy** <small>*(tser-ee')*</small> ==**balsam**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">צֳרִי</span> **tsŏrîy** <small>*(tsor-ee')*</small>; from an unused root meaning to crack (as by pressure), hence, to leak</small>
+**<big><span class="ashebrew">‎צְרִי‎</span></big>** **tsᵉrîy** <small>*(tser-ee')*</small> ==**balsam**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">צֳרִי</span></big>** **tsŏrîy** <small>*(tsor-ee')*</small>; from an unused root meaning to crack (as by pressure), hence, to leak</small>
 
 $\quad$ balm.
 - ***distillation***, i.e. ***balsam***

@@ -1,3 +1,1 @@
-<span class="asaramaic">‎עֲנָה‎</span> <small>***(a.nah)***</small> ==**to answer**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H6030B]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H6030B|עָנָה]]</big>**</small>

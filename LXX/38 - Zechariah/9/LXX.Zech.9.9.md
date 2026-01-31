@@ -14,32 +14,32 @@ Rejoice greatly, O Daughter of Zion! Shout in triumph, O Daughter of Jerusalem! 
 > $\quad$ referenced by: [[Matt.21.5|Matt 21:5]] ☩ [[John.12.14|John 12:14-15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rejoice | <big><span class="asgreek">χαίρε</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| Proclaim, | <big><span class="asgreek">κήρυσσε</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| comes | <big><span class="asgreek">έρχεταί</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| righteous | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| delivering. | <big><span class="asgreek">σώζων</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| He \[is\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gentle | <big><span class="asgreek">πραϋς</span></big> <sup><small><small>[[G4239]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mounted | <big><span class="asgreek">επιβεβηκώς</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a beast of burden, | <big><span class="asgreek">υποζύγιον</span></big> <sup><small><small>[[G5268]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| foal | <big><span class="asgreek">πώλον</span></big> <sup><small><small>[[G4454]]</small></small></sup> |
-| a young | <big><span class="asgreek">νέον</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
+| Rejoice | **<big>[[G5463\|χαίρε]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| O daughter | **<big>[[G2364\|θύγατερ]]</big>** |
+| of Zion! | **<big>[[G4622\|Σιών]]</big>** |
+| Proclaim, | **<big>[[G2784\|κήρυσσε]]</big>** |
+| O daughter | **<big>[[G2364\|θύγατερ]]</big>** |
+| of Jerusalem! | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your king | **<big>[[G0935\|βασιλεύς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| comes | **<big>[[G2064\|έρχεταί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| righteous | **<big>[[G1342\|δίκαιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| delivering. | **<big>[[G4982\|σώζων]]</big>** |
+| He \[is\] | **<big>[[G1473\|αυτός]]</big>** |
+| gentle | **<big>[[G4239\|πραϋς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mounted | **<big>[[G1910\|επιβεβηκώς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a beast of burden, | **<big>[[G5268\|υποζύγιον]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| foal | **<big>[[G4454\|πώλον]]</big>** |
+| a young | **<big>[[G3501\|νέον]]</big>** |
 [[Zech.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.8|<< Zechariah 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.10|Zechariah 9:10 >>]]</td></tr></table>
 
 

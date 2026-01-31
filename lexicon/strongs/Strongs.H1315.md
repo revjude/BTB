@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בׇּשְׂמַת‎</span></big> **Bosmath** <small>*(bos-math')*</small> ==**Basemath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎בֶּשֶׂם‎</span><sup><small>[[H1314]]</small></sup> (the second form); fragrance</small>
+**<big><span class="ashebrew">‎בׇּשְׂמַת‎</span></big>** **Bosmath** <small>*(bos-math')*</small> ==**Basemath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H1314|‎בֶּשֶׂם‎]]</big>** (the second form); fragrance</small>
 
 $\quad$ Bashemath, Basmath.
 - § Bashemath or Basmath = *"spice"*

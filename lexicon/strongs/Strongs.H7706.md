@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁדַּי‎</span></big> **Shadday** <small>*(shad-dah'-ee)*</small> ==**Almighty**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁדַד‎</span><sup><small>[[H7703]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁדַּי‎</span></big>** **Shadday** <small>*(shad-dah'-ee)*</small> ==**Almighty**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7703|‎שָׁדַד‎]]</big>**</small>
 
 $\quad$ Almighty.
 - ***the Almighty***
@@ -7,4 +7,4 @@ $\quad$ Almighty.
 **1)** almighty, most powerful
 $\quad$ **1a)** Shaddai, the Almighty (of God)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπουράνιος</span><sup><small>[[G2032]]</small></sup> · <span class="asgreek">θεός</span><sup><small>[[G2316]]</small></sup> · <span class="asgreek">ἱκανός</span><sup><small>[[G2425]]</small></sup> · <span class="asgreek">κύριος</span><sup><small>[[G2962]]</small></sup> · <span class="asgreek">παντοκράτωρ</span><sup><small>[[G3841]]</small></sup> · <span class="asgreek">πᾶς</span><sup><small>[[G3956]]</small></sup>
+<small>See Greek: </small>**<big>[[G2032|ἐπουράνιος]]</big>** · **<big>[[G2316|θεός]]</big>** · **<big>[[G2425|ἱκανός]]</big>** · **<big>[[G2962|κύριος]]</big>** · **<big>[[G3841|παντοκράτωρ]]</big>** · **<big>[[G3956|πᾶς]]</big>**

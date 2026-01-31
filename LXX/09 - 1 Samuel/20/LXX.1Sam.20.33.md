@@ -7,27 +7,27 @@ And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was d
 Then Saul hurled his spear at Jonathan to kill him. So Jonathan knew that his father was determined to kill David.<small><sub>**MT:**</sub></small>
 [[1Sam.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.32|<< 1 Samuel 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.34|1 Samuel 20:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul lifted up | <big><span class="asgreek">επήρε</span></big> <sup><small><small>[[G1869]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spear | <big><span class="asgreek">δόρυ</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to put him to death. | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonathan knew | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| has been completed | <big><span class="asgreek">συντετέλεσται</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to put David to death. | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul lifted up | **<big>[[G1869\|επήρε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spear | **<big>[[G6965\|δόρυ]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to put him to death. | **<big>[[G2289\|θανατώσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonathan knew | **<big>[[G1097\|έγνω]]</big>** **<big>[[H3129\|Ιωναθάν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| has been completed | **<big>[[G4931\|συντετέλεσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this evil | **<big>[[G2549\|κακία]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to put David to death. | **<big>[[G2289\|θανατώσαι]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
 [[1Sam.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.32|<< 1 Samuel 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.34|1 Samuel 20:34 >>]]</td></tr></table>
 
 

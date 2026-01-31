@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קֳדָם‎</span></big> **qŏdâm** <small>*(kod-awm')*</small> ==**before**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">קְדָם</span> **qᵉdâm** <small>*(ked-awm')*</small>; (Aramaic) (Daniel 7:13), corresponding to <span class="ashebrew">‎קֶדֶם‎</span><sup><small>[[H6924]]</small></sup></small>
+**<big><span class="asaramaic">‎קֳדָם‎</span></big>** **qŏdâm** <small>*(kod-awm')*</small> ==**before**==  <sup><small>[[TEHMC#A:Prep|A:Prep]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">קְדָם</span></big>** **qᵉdâm** <small>*(ked-awm')*</small>; (Aramaic) (Daniel 7:13), corresponding to **<big>[[H6924|‎קֶדֶם‎]]</big>**</small>
 
 $\quad$ before, [idiom] from, [idiom] I (thought), [idiom] me, [phrase] of, [idiom] it pleased, presence.
 - ***before***
@@ -8,4 +8,4 @@ $\quad$ before, [idiom] from, [idiom] I (thought), [idiom] me, [phrase] of, [idi
 $\quad$ **1a)** before
 $\quad$ **1b)** from before
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παρίστημι</span><sup><small>[[G3936]]</small></sup>
+<small>See Greek: </small>**<big>[[G3936|παρίστημι]]</big>**

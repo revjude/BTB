@@ -6,15 +6,15 @@ If I were to say, ‘I will forget my complaint and change my expression and smi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.26|<< Job 9:26]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.28|Job 9:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to say I  | <span class="ashebrew"><big>אָ֭מְרִ </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| 'A.me.r <small><sup>[[HVqcc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will forget  | <span class="ashebrew"><big>אֶשְׁכְּחָ֣ה </big></span><small><small><sup>[[H7911]]</sup></small></small> &#8207;| 'esh.ke.Chah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| complaint my  | <span class="ashebrew"><big>שִׂיחִ֑ </big></span><small><small><sup>[[H7879]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| si.Ch <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will let loose  | <span class="ashebrew"><big>אֶעֶזְבָ֖ה </big></span><small><small><sup>[[H5800C]]</sup></small></small> &#8207;| 'e.'ez.Vah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face my  | <span class="ashebrew"><big>פָנַ֣ </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| fa.Na <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will be cheerful  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַבְלִֽיגָה </big></span><small><small><sup>[[H1082]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.Li.gah <small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to say I  |**<big>&#8207;[[H0559\|אָ֭מְרִ]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| 'A.me.r<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will forget  |**<big>&#8207;[[H7911\|אֶשְׁכְּחָ֣ה]]&#8207; </big>**| 'esh.ke.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| complaint my  |**<big>&#8207;[[H7879\|שִׂיחִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| si.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will let loose  |**<big>&#8207;[[H5800C\|אֶעֶזְבָ֖ה]]&#8207; </big>**| 'e.'ez.Vah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  |**<big>&#8207;[[H6440H\|פָנַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will be cheerful  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1082\|אַבְלִֽיגָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Li.gah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.26|<< Job 9:26]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.28|Job 9:28 >>]]</td></tr></table>
 
 

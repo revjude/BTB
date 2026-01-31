@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָבַט‎</span></big> **nâbaṭ** <small>*(naw-bat')*</small> ==**to look**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָבַט‎</span></big>** **nâbaṭ** <small>*(naw-bat')*</small> ==**to look**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (cause to) behold, consider, look (down), regard, have respect, see.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b1)** tolook
 $\quad$ $\quad$ **1b2)** to regard, show regard to, pay attention to, consider
 $\quad$ $\quad$ **1b3)** to look upon, regard, show regard to
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναβλέπω</span><sup><small>[[G0308]]</small></sup> · <span class="asgreek">βλέπω</span><sup><small>[[G0991]]</small></sup> · <span class="asgreek">ἐκζητέω</span><sup><small>[[G1567]]</small></sup> · <span class="asgreek">ἐμβλέπω</span><sup><small>[[G1689]]</small></sup> · <span class="asgreek">ἐπιβλέπω</span><sup><small>[[G1914]]</small></sup> · <span class="asgreek">ἐπιστρέφω</span><sup><small>[[G1994]]</small></sup> · <span class="asgreek">κατανοέω</span><sup><small>[[G2657]]</small></sup> · <span class="asgreek">περιβλέπω</span><sup><small>[[G4017]]</small></sup> · <span class="asgreek">προσέρχομαι</span><sup><small>[[G4334]]</small></sup>
+<small>See Greek: </small>**<big>[[G0308|ἀναβλέπω]]</big>** · **<big>[[G0991|βλέπω]]</big>** · **<big>[[G1567|ἐκζητέω]]</big>** · **<big>[[G1689|ἐμβλέπω]]</big>** · **<big>[[G1914|ἐπιβλέπω]]</big>** · **<big>[[G1994|ἐπιστρέφω]]</big>** · **<big>[[G2657|κατανοέω]]</big>** · **<big>[[G4017|περιβλέπω]]</big>** · **<big>[[G4334|προσέρχομαι]]</big>**

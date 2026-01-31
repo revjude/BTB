@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֹּל‎</span></big> **gôl** <small>*(gole)*</small> ==**bowl**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּלַל‎</span><sup><small>[[H1556]]</small></sup></small>
+**<big><span class="ashebrew">‎גֹּל‎</span></big>** **gôl** <small>*(gole)*</small> ==**bowl**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1556|‎גָּלַל‎]]</big>**</small>
 
 $\quad$ bowl.
 - ***a cup for oil*** (as round)

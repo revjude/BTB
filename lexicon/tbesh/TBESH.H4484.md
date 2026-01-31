@@ -1,3 +1,1 @@
-<span class="asaramaic">‎מְנֵא‎</span> <small>***(me.ne)***</small> ==**mina**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H4488]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H4488|מָנֶה]]</big>**</small>

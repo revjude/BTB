@@ -11,23 +11,23 @@ Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but 
 > $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Rebekah | <big><span class="asgreek">Ρεβέκκαν</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother, | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a hairy | <big><span class="asgreek">δασύς</span></big> <sup><small><small>[[G6784]]</small></small></sup> |
-| and I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a smooth | <big><span class="asgreek">λείος</span></big> <sup><small><small>[[G3006]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Rebekah | **<big>[[G4479\|Ρεβέκκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his mother, | **<big>[[G3384\|μητέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is | **<big>[[G1510\|έστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| a hairy | **<big>[[G6784\|δασύς]]</big>** |
+| and I \[am\] | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| a smooth | **<big>[[G3006\|λείος]]</big>** |
 [[Gen.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.10|<< Genesis 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.12|Genesis 27:12 >>]]</td></tr></table>
 
 

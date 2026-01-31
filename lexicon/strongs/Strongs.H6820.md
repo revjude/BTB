@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צֹעַר‎</span></big> **Tsôʻar** <small>*(tso'ar)*</small> ==**Zoar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎צָעַר‎</span><sup><small>[[H6819]]</small></sup>; little</small>
+**<big><span class="ashebrew">‎צֹעַר‎</span></big>** **Tsôʻar** <small>*(tso'ar)*</small> ==**Zoar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6819|‎צָעַר‎]]</big>**; little</small>
 
 $\quad$ Zoar.
 - § Zoar = *"insignificance"*

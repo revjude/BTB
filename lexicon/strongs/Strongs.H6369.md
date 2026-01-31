@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּיכֹל‎</span></big> **Pîykôl** <small>*(pee-kole')*</small> ==**Phicol**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎פֶּה‎</span><sup><small>[[H6310]]</small></sup> and <span class="ashebrew">‎כֹּל‎</span><sup><small>[[H3605]]</small></sup>; mouth of all</small>
+**<big><span class="ashebrew">‎פִּיכֹל‎</span></big>** **Pîykôl** <small>*(pee-kole')*</small> ==**Phicol**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from **<big>[[H6310|‎פֶּה‎]]</big>** and **<big>[[H3605|‎כֹּל‎]]</big>**; mouth of all</small>
 
 $\quad$ Phichol.
 - § Phichol = *"strong"*

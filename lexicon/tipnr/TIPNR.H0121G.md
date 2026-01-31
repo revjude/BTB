@@ -4,9 +4,9 @@ Man living at the time before the Flood
 
 <span class='tipnrhighlight'>Adam</span>, the first man created by God, sinned and brought death into the world, but through Christ, the last Adam, came life and resurrection \([[Gen.2.20|Gen.2.20]]-5.5; Rom.5.14; [[1Cor.15.22|1Co.15.22]],45\).
 - A man living at the time before the Flood, first mentioned at [[Gen.2.19|Gen.2.19]]; 
-- referred to as Adam<[[H0121G]]> \(<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Adam or "man" or "mankind" or "others" \(KJV= Adam\) <[[H0120H]]> \(<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>\), or Adam<[[G0076]]> \(<span class='tipnrLangGreek'>Ἀδάμ</span>\); 
--  husband of Eve<[[H2332]]>; 
--  father of Cain<[[H7014B]]>, Abel<[[H1893]]> and Seth<[[H8352]]>.
+- referred to as Adam **<big>[[H0121|אָדָם]]</big>**, or Adam or "man" or "mankind" or "others" \(KJV= Adam\)  **<big>[[H0120|אָדָם]]</big>**, or Adam **<big>[[G0076|Ἀδάμ]]</big>**; 
+-  husband of Eve **<big>[[H2332|חַוָּה]]</big>**; 
+-  father of Cain **<big>[[H7014|קַיִן]]</big>**, Abel **<big>[[H1893|הֶבֶל]]</big>** and Seth **<big>[[H8352|שֵׁת]]</big>**.
 
 Adam was the first man, created by God on the sixth day of creation \(Genesis 1:26-27\). He was formed from the dust of the ground, and God breathed life into him, making him a living being \(Genesis 2:7\). God placed Adam in the Garden of Eden to tend and keep it, and He created Eve, the first woman, from Adam's rib as a companion for him \(Genesis 2:15-25\). 
 
@@ -20,13 +20,13 @@ Adam's creation, fall, and redemption through Christ are central themes in the b
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adam | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0121G) <small>*Hebrew*</small> | 11x | [[Gen.2.20] ... [Hos.6.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Gen.2.20;Gen.3.17;Gen.3.21;Gen.4.25;Gen.5.1;Gen.5.3;Gen.5.4;Gen.5.5;1Ch.1.1;Job.31.33;Hos.6.7) |
-| Adam | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) <small>*Hebrew*</small> | 1x | [Gen.4.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Gen.4.1) |
-| man (KJV= Adam) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) <small>*Hebrew*</small> | 7x | [[Gen.2.19] ... [Gen.5.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="man"\*\|reference=Gen.2.19;Gen.2.21;Gen.2.23;Gen.3.8;Gen.3.9;Gen.3.20;Gen.5.2) |
-| mankind (KJV= Adam) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) <small>*Hebrew*</small> | 1x | [Deu.32.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="mankind"\*\|reference=Deu.32.8) |
-| others (KJV= Adam) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) <small>*Hebrew*</small> | 1x | [Job.31.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="others"\*\|reference=Job.31.33) |
-| Adam | [<span class='tipnrLangGreek'>Ἀδάμ</span>](G0076) <small>*Greek*</small> | 9x | [[Luk.3.38] ... [Jud.1.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Luk.3.38;Rom.5.14;Rom.5.14;1Co.15.22;1Co.15.45;1Co.15.45;1Ti.2.13;1Ti.2.14;Jud.1.14) |
-All Strong's for **Adam or the man**: \[[[H0121G]]\] \[[[H0120H]]\] \[[[G0076]]\]
+| Adam | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0121G) | 11x | [[Gen.2.20] ... [Hos.6.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Gen.2.20;Gen.3.17;Gen.3.21;Gen.4.25;Gen.5.1;Gen.5.3;Gen.5.4;Gen.5.5;1Ch.1.1;Job.31.33;Hos.6.7) |
+| Adam | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) | 1x | [Gen.4.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Gen.4.1) |
+| man (KJV= Adam) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) | 7x | [[Gen.2.19] ... [Gen.5.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="man"\*\|reference=Gen.2.19;Gen.2.21;Gen.2.23;Gen.3.8;Gen.3.9;Gen.3.20;Gen.5.2) |
+| mankind (KJV= Adam) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) | 1x | [Deu.32.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="mankind"\*\|reference=Deu.32.8) |
+| others (KJV= Adam) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0120H) | 1x | [Job.31.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="others"\*\|reference=Job.31.33) |
+| Adam | [<span class='tipnrLangGreek'>Ἀδάμ</span>](G0076) | 9x | [[Luk.3.38] ... [Jud.1.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Luk.3.38;Rom.5.14;Rom.5.14;1Co.15.22;1Co.15.45;1Co.15.45;1Ti.2.13;1Ti.2.14;Jud.1.14) |
+All entries for **Adam or the man**:  **<big>[[H0121|אָדָם]]</big>** ☩  **<big>[[H0120|אָדָם]]</big>** ☩  **<big>[[G0076|Ἀδάμ]]</big>**
 #### Related Profiles:
 - **[Eve](H2332)** (spouse)
 - **[Eve](H2332)** (sibling)

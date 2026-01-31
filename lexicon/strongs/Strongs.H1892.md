@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֶבֶל‎</span></big> **hebel** <small>*(heh'bel)*</small> ==**vanity**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (rarely in the abs.) <span class="ashebrew">הֲבֵל</span> **hăbêl** <small>*(habale')*</small>; from <span class="ashebrew">‎הָבַל‎</span><sup><small>[[H1891]]</small></sup></small>
+**<big><span class="ashebrew">‎הֶבֶל‎</span></big>** **hebel** <small>*(heh'bel)*</small> ==**vanity**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (rarely in the abs.) **<big><span class="ashebrew">הֲבֵל</span></big>** **hăbêl** <small>*(habale')*</small>; from **<big>[[H1891|‎הָבַל‎]]</big>**</small>
 
 $\quad$ [idiom] altogether, vain, vanity.
 - ***emptiness*** or ***vanity***
@@ -13,4 +13,4 @@ $\quad$ **1b)** vanity (fig.)
 adv
 **2)** vainly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἄβελ</span><sup><small>[[G0006]]</small></sup> · <span class="asgreek">εἴδωλον</span><sup><small>[[G1497]]</small></sup> · <span class="asgreek">ἐκπίπτω</span><sup><small>[[G1601]]</small></sup> · <span class="asgreek">κενός</span><sup><small>[[G2756]]</small></sup> · <span class="asgreek">μάταιος</span><sup><small>[[G3152]]</small></sup> · <span class="asgreek">ματαιότης</span><sup><small>[[G3153]]</small></sup> · <span class="asgreek">ματαιόω</span><sup><small>[[G3154]]</small></sup>
+<small>See Greek: </small>**<big>[[G0006|Ἄβελ]]</big>** · **<big>[[G1497|εἴδωλον]]</big>** · **<big>[[G1601|ἐκπίπτω]]</big>** · **<big>[[G2756|κενός]]</big>** · **<big>[[G3152|μάταιος]]</big>** · **<big>[[G3153|ματαιότης]]</big>** · **<big>[[G3154|ματαιόω]]</big>**

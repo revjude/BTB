@@ -7,18 +7,18 @@ And when she had done giving him drink, she said, I will draw [water] for thy ca
 After she had given him a drink, she said, “I will also draw water for your camels, until they have had enough to drink.”<small><sub>**MT:**</sub></small>
 [[Gen.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.18|<< Genesis 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.20|Genesis 24:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your camels | <big><span class="asgreek">καμηλοίς</span></big> <sup><small><small>[[G2574]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will draw water | <big><span class="asgreek">υδρεύσομαι</span></big> <sup><small><small>[[G9528]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| should have drunk. | <big><span class="asgreek">πίωσι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπε]]</big>** |
+| Also | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G3588\|ταις]]</big>** |
+| your camels | **<big>[[G2574\|καμηλοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will draw water | **<big>[[G9528\|υδρεύσομαι]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| should have drunk. | **<big>[[G4095\|πίωσι]]</big>** |
 [[Gen.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.18|<< Genesis 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.20|Genesis 24:20 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ And the man wondering at her held his peace, to wit whether the LORD had made hi
 Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success.<small><sub>**MT:**</sub></small>
 [[Gen.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.20|<< Genesis 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.22|Genesis 24:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| studied | <big><span class="asgreek">κατεμάνθανεν</span></big> <sup><small><small>[[G2648]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| remained silent | <big><span class="asgreek">παρεσιώπα</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> prospered | <big><span class="asgreek">ευόδωσε</span></big> <sup><small><small>[[G2137]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| And the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| studied | **<big>[[G2648\|κατεμάνθανεν]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| remained silent | **<big>[[G8637\|παρεσιώπα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to know | **<big>[[G1097\|γνώναι]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> prospered | **<big>[[G2137\|ευόδωσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his way | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| not. | **<big>[[G3756\|ου]]</big>** |
 [[Gen.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.20|<< Genesis 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.22|Genesis 24:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֵימָן‎</span></big> **Hêymân** <small>*(hay-mawn')*</small> ==**Heman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎אָמַן‎</span><sup><small>[[H0539]]</small></sup>; faithful</small>
+**<big><span class="ashebrew">‎הֵימָן‎</span></big>** **Hêymân** <small>*(hay-mawn')*</small> ==**Heman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H0539|‎אָמַן‎]]</big>**; faithful</small>
 
 $\quad$ Heman.
 - § Heman = *"faithful"*

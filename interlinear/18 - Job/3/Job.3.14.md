@@ -6,15 +6,15 @@ with kings and counselors of the earth, who built for themselves cities now in r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.13|<< Job 3:13]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.15|Job 3:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| kings  | <span class="ashebrew"><big>מְ֭לָכִים </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.la.khim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and counselors of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹ֣עֲצֵי </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Yo.'a.tzei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the [ones who] rebuilt  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בֹּנִ֖ים </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> bo.Nim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ruins  | <span class="ashebrew"><big>חֳרָב֣וֹת </big></span><small><small><sup>[[H2723]]</sup></small></small> &#8207;| cho.ra.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for themselves  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings  |**<big>&#8207;[[H4428G\|מְ֭לָכִים]]&#8207; </big>**| Me.la.khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and counselors of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3289\|יֹ֣עֲצֵי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yo.'a.tzei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [ones who] rebuilt  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1129\|בֹּנִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ruins  |**<big>&#8207;[[H2723\|חֳרָב֣וֹת]]&#8207; </big>**| cho.ra.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for themselves  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.13|<< Job 3:13]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.15|Job 3:15 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְעִיאֵל‎</span></big> **Yᵉʻîyʼêl** <small>*(yeh-ee-ale')*</small> ==**Jeiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָעָה‎</span><sup><small>[[H3261]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; carried away of God</small>
+**<big><span class="ashebrew">‎יְעִיאֵל‎</span></big>** **Yᵉʻîyʼêl** <small>*(yeh-ee-ale')*</small> ==**Jeiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3261|‎יָעָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; carried away of God</small>
 
-$\quad$ Jeiel, Jehiel. Compare <span class="ashebrew">‎יְעוּאֵל‎</span><sup><small>[[H3262]]</small></sup>.
+$\quad$ Jeiel, Jehiel. Compare **<big>[[H3262|‎יְעוּאֵל‎]]</big>**.
 - § Jeiel or Jehiel = *"God sweeps away"*
 - ***Jeiel***, the name of six Israelites
 

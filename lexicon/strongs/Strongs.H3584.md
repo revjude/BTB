@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּחַשׁ‎</span></big> **kâchash** <small>*(kaw-khash')*</small> ==**to deceive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּחַשׁ‎</span></big>** **kâchash** <small>*(kaw-khash')*</small> ==**to deceive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ deceive, deny, dissemble, fail, deal falsely, be found liars, (be-) lie, lying, submit selves.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1c3)** to cringe
 $\quad$ $\quad$ **1c4)** to disappoint, fail
 $\quad$ **1d)** (Hithpael) to cringe, feign obedience
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρνέομαι</span><sup><small>[[G0720]]</small></sup>
+<small>See Greek: </small>**<big>[[G0720|ἀρνέομαι]]</big>**

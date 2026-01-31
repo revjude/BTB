@@ -7,17 +7,17 @@ He hath put forth his hands against such as be at peace with him: he hath broken
 My companion attacks his friends; he violates his covenant.<small><sub>**MT:**</sub></small>
 [[Ps.55.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.19|<< Psalm 55:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.21|Psalm 55:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He stretched out | <big><span class="asgreek">εξέτεινε</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| recompensing; | <big><span class="asgreek">αποδιδόναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| they profaned | <big><span class="asgreek">εβεβήλωσαν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his covenant. | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He stretched out | **<big>[[G1614\|εξέτεινε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| recompensing; | **<big>[[G0591\|αποδιδόναι]]</big>** |
+| they profaned | **<big>[[G0953\|εβεβήλωσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his covenant. | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.55.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.19|<< Psalm 55:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.21|Psalm 55:21 >>]]</td></tr></table>
 
 

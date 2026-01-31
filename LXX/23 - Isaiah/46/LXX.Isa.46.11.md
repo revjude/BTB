@@ -7,34 +7,34 @@ Calling a ravenous bird from the east, the man that executeth my counsel from a 
 I summon a bird of prey from the east, a man for My purpose from a far-off land. Truly I have spoken, and truly I will bring it to pass. I have planned it, and I will surely do it.<small><sub>**MT:**</sub></small>
 [[Isa.46.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.10|<< Isaiah 46:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.12|Isaiah 46:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| calling | <big><span class="asgreek">καλών</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| \[the\] winged creature | <big><span class="asgreek">πετεινόν</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| at a distance, | <big><span class="asgreek">πόρρωθεν</span></big> <sup><small><small>[[G4207]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the \[things\] which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I have planned. | <big><span class="asgreek">βεβούλευμαι</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| I spoke, | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| I led. | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| I created | <big><span class="asgreek">έκτισα</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did. | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| I led | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I prospered | <big><span class="asgreek">ευώδωσα</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| calling | **<big>[[G2564\|καλών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολών]]</big>** |
+| \[the\] winged creature | **<big>[[G4071\|πετεινόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| at a distance, | **<big>[[G4207\|πόρρωθεν]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the \[things\] which | **<big>[[G3739\|ων]]</big>** |
+| I have planned. | **<big>[[G1011\|βεβούλευμαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| I spoke, | **<big>[[G2980\|ελάλησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| I led. | **<big>[[G0071\|ήγαγον]]</big>** |
+| I created | **<big>[[G2936\|έκτισα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did. | **<big>[[G4160\|εποίησα]]</big>** |
+| I led | **<big>[[G0071\|ήγαγον]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I prospered | **<big>[[G2137\|ευώδωσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his way. | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.46.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.10|<< Isaiah 46:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.12|Isaiah 46:12 >>]]</td></tr></table>
 
 

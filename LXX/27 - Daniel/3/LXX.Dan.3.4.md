@@ -7,20 +7,20 @@ Then an herald cried aloud, To you it is commanded, O people, nations, and langu
 Then the herald loudly proclaimed, “O people of every nation and language, this is what you are commanded:<small><sub>**MT:**</sub></small>
 [[Dan.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.3|<< Daniel 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.5|Daniel 3:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| herald | <big><span class="asgreek">κήρυξ</span></big> <sup><small><small>[[G2783]]</small></small></sup> |
-| yelled | <big><span class="asgreek">εβόα</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength, | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| To you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is spoken, | <big><span class="asgreek">λέγεται</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| O nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| tribes, | <big><span class="asgreek">φυλαί</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| languages, | <big><span class="asgreek">γλώσσαι</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| herald | **<big>[[G2783\|κήρυξ]]</big>** |
+| yelled | **<big>[[G0994\|εβόα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| strength, | **<big>[[G2479\|ισχύϊ]]</big>** |
+| To you | **<big>[[G1473\|υμίν]]</big>** |
+| it is spoken, | **<big>[[G3004\|λέγεται]]</big>** |
+| O nations, | **<big>[[G1484\|έθνη]]</big>** |
+| peoples, | **<big>[[G2992\|λαοί]]</big>** |
+| tribes, | **<big>[[G5443\|φυλαί]]</big>** |
+| languages, | **<big>[[G1100\|γλώσσαι]]</big>** |
 [[Dan.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.3|<< Daniel 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.5|Daniel 3:5 >>]]</td></tr></table>
 
 

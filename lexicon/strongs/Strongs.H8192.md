@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁפָה‎</span></big> **shâphâh** <small>*(shaw-faw')*</small> ==**be bare**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁפָה‎</span></big>** **shâphâh** <small>*(shaw-faw')*</small> ==**be bare**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ high, stick out.
@@ -8,4 +8,4 @@ $\quad$ high, stick out.
 $\quad$ **1a)** (Niphal) to be wind-swept, be bare, be scraped barren (by wind)
 $\quad$ **1b)** (Pual) to be bare, be laid bare
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πεδινός</span><sup><small>[[G3977]]</small></sup>
+<small>See Greek: </small>**<big>[[G3977|πεδινός]]</big>**

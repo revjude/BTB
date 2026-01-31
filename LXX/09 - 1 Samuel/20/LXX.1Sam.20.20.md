@@ -7,20 +7,20 @@ And I will shoot three arrows on the side [thereof], as though I shot at a mark.
 I will shoot three arrows to the side of it, as if I were aiming at a target.<small><sub>**MT:**</sub></small>
 [[1Sam.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.19|<< 1 Samuel 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.21|1 Samuel 20:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be three times | <big><span class="asgreek">τρισσεύσω</span></big> <sup><small><small>[[G9492]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| darts | <big><span class="asgreek">σχίζαις</span></big> <sup><small><small>[[G9382]]</small></small></sup> |
-| shooting | <big><span class="asgreek">ακοντίζων</span></big> <sup><small><small>[[G6194]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sending them forth | <big><span class="asgreek">εκπέμπων</span></big> <sup><small><small>[[G1599]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mark. | <big><span class="asgreek">αματταρί</span></big> <sup><small><small>[[G6251]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall be three times | **<big>[[G9492\|τρισσεύσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| darts | **<big>[[G9382\|σχίζαις]]</big>** |
+| shooting | **<big>[[G6194\|ακοντίζων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sending them forth | **<big>[[G1599\|εκπέμπων]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| mark. | **<big>[[G6251\|αματταρί]]</big>** |
 [[1Sam.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.19|<< 1 Samuel 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.21|1 Samuel 20:21 >>]]</td></tr></table>
 
 

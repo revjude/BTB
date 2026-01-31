@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָבַץ‎</span></big> **qâbats** <small>*(kaw-bats')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָבַץ‎</span></big>** **qâbats** <small>*(kaw-bats')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ assemble (selves), gather (bring) (together, selves together, up), heap, resort, [idiom] surely, take up.
@@ -13,4 +13,4 @@ $\quad$ **1c)** (Piel) to gather, gather together, take away
 $\quad$ **1d)** (Pual) to be gathered together
 $\quad$ **1e)** (Hithpael) to gather together, be gathered together
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποστρέφω</span><sup><small>[[G0654]]</small></sup> · <span class="asgreek">εἰσδέχομαι</span><sup><small>[[G1523]]</small></sup> · <span class="asgreek">ἐκδέχομαι</span><sup><small>[[G1551]]</small></sup> · <span class="asgreek">ἐκλέγομαι</span><sup><small>[[G1586]]</small></sup> · <span class="asgreek">ἐλεέω</span><sup><small>[[G1653]]</small></sup> · <span class="asgreek">ἐπιλέγομαι</span><sup><small>[[G1951]]</small></sup> · <span class="asgreek">ἔρχομαι</span><sup><small>[[G2064]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">συναγωγή</span><sup><small>[[G4864]]</small></sup> · <span class="asgreek">συναθροίζω</span><sup><small>[[G4867]]</small></sup> · <span class="asgreek">συναθροίζω</span><sup><small>[[G4867]]</small></sup> · <span class="asgreek">συναντάω</span><sup><small>[[G4876]]</small></sup> · <span class="asgreek">συνέρχομαι</span><sup><small>[[G4905]]</small></sup> · <span class="asgreek">συστρέφω</span><sup><small>[[G4962]]</small></sup>
+<small>See Greek: </small>**<big>[[G0654|ἀποστρέφω]]</big>** · **<big>[[G1523|εἰσδέχομαι]]</big>** · **<big>[[G1551|ἐκδέχομαι]]</big>** · **<big>[[G1586|ἐκλέγομαι]]</big>** · **<big>[[G1653|ἐλεέω]]</big>** · **<big>[[G1951|ἐπιλέγομαι]]</big>** · **<big>[[G2064|ἔρχομαι]]</big>** · **<big>[[G4863|συνάγω]]</big>** · **<big>[[G4864|συναγωγή]]</big>** · **<big>[[G4867|συναθροίζω]]</big>** · **<big>[[G4867|συναθροίζω]]</big>** · **<big>[[G4876|συναντάω]]</big>** · **<big>[[G4905|συνέρχομαι]]</big>** · **<big>[[G4962|συστρέφω]]</big>**

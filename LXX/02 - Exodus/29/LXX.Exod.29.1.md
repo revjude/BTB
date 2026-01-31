@@ -10,28 +10,28 @@ And this [is] the thing that thou shalt do unto them to hallow them, to minister
 “Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish,<small><sub>**MT:**</sub></small>
 [[Exod.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.43|<< Exodus 28:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.2|Exodus 29:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάσαι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to officiate as priest | <big><span class="asgreek">ιερατεύειν</span></big> <sup><small><small>[[G2407]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| young calf | <big><span class="asgreek">μοσχάριον</span></big> <sup><small><small>[[G8349]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rams | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">αμώμους</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ταύτά]]</big>** |
+| are | **<big>[[G1510\|εστιν]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάσαι]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to officiate as priest | **<big>[[G2407\|ιερατεύειν]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
+| You shall take | **<big>[[G2983\|λήψη]]</big>** |
+| young calf | **<big>[[G8349\|μοσχάριον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] oxen | **<big>[[G1016\|βοών]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rams | **<big>[[G8096\|κριούς]]</big>** |
+| unblemished | **<big>[[G0299\|αμώμους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
 [[Exod.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.43|<< Exodus 28:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.2|Exodus 29:2 >>]]</td></tr></table>
 
 

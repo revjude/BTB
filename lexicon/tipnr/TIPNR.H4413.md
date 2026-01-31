@@ -4,16 +4,16 @@ Levite living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Mallothi</span>, a son of Heman, was a musician in David's court \([[1Chr.25.4|1Ch.25.4]],26\).
 - A man from the tribe of Levi living at the time of Divided Monarchy, first mentioned at [[1Chr.25.4|1Ch.25.4]]; 
-- only referred to as Mallothi<[[H4413]]> \(<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Heman<[[H1968I]]>; 
-- a brother of Bukkiah<[[H1232]]>, Mattaniah<[[H4983H]]>, Uzziel<[[H5816J]]>, Shebuel<[[H7619H]]>, Jerimoth<[[H3406L]]>, Hananiah<[[H2608P]]>, Hanani<[[H2607H]]>, Eliathah<[[H0448]]>, Giddalti<[[H1437]]>, Romamti-ezer<[[H7320]]>, Joshbekashah<[[H3436]]>, Hothir<[[H1956]]>, Mahazioth<[[H4238]]>.
+- only referred to as Mallothi **<big>[[H4413|מַלּוֹתִי]]</big>**; 
+-  son of Heman **<big>[[H1968|הֵימָן]]</big>**; 
+- a brother of Bukkiah **<big>[[H1232|בֻּקִּיָּה]]</big>**, Mattaniah **<big>[[H4983|מַתַּנְיָה]]</big>**, Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**, Shebuel **<big>[[H7619|שְׁבוּאֵל]]</big>**, Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**, Hananiah **<big>[[H2608|חֲנַנְיָה]]</big>**, Hanani **<big>[[H2607|חֲנָנִי]]</big>**, Eliathah **<big>[[H0448|אֱלִיאָתָה]]</big>**, Giddalti **<big>[[H1437|גִּדַּלְתִּי]]</big>**, Romamti-ezer **<big>[[H7320|רוֹמַמְתִּי עֶזֶר]]</big>**, Joshbekashah **<big>[[H3436|יׇשְׁבְּקָשָׁה]]</big>**, Hothir **<big>[[H1956|הוֹתִיר]]</big>**, Mahazioth **<big>[[H4238|מַחֲזִיאוֹת]]</big>**.
 
 Mallothi was one of the sons of Heman, a prominent musician in King David's court. Heman, along with Asaph and Jeduthun, was appointed by David to lead the music and thanksgiving in the tabernacle. Mallothi and his brothers were skilled musicians who prophesied with lyres, harps, and cymbals. They were assigned by lot to serve in the tabernacle, with Mallothi being the nineteenth in order \([[1Chr.25.4|1 Chronicles 25:4]], 26\).
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mallothi | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H4413) <small>*Hebrew*</small> | 2x | [[1Ch.25.4] & [1Ch.25.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mallothi\*\|reference=1Ch.25.4;1Ch.25.26) |
-All Strong's for **Mallothi**: \[[[H4413]]\]
+| Mallothi | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ל</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H4413) | 2x | [[1Ch.25.4] & [1Ch.25.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mallothi\*\|reference=1Ch.25.4;1Ch.25.26) |
+All entries for **Mallothi**:  **<big>[[H4413|מַלּוֹתִי]]</big>**
 #### Related Profiles:
 - **[Heman](H1968I)** (father)
 - **[Bukkiah](H1232)** (sibling)

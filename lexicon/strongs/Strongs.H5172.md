@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָחַשׁ‎</span></big> **nâchash** <small>*(naw-khash')*</small> ==**to divine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָחַשׁ‎</span></big>** **nâchash** <small>*(naw-khash')*</small> ==**to divine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] certainly, divine, enchanter, (use) [idiom] enchantment, learn by experience, [idiom] indeed, diligently observe.

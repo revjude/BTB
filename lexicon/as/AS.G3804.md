@@ -2,7 +2,7 @@
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">that which befalls one</span>, <span class="asitalic">a suffering</span>, <span class="asitalic">affliction</span>: pl., [[Rom.8.18|Ro 8:18]], [[2Cor.1.6|II Co 1:6]], [[2Cor.1.7|7]], [[Col.1.24|Col 1:24]], [[2Tim.3.11|II Ti 3:11]], [[Heb.2.10|He 2:10]] [[Heb.10.32|10:32]], [[1Pet.5.9|I Pe 5:9]]; of Christ's sufferings: <span class="asgreek">τὰ εἰς Χ.</span>, [[1Pet.1.11|I Pe 1:11]]; <span class="asgreek">τ. Χριστσῦ</span>, [[1Pet.5.1|I Pe 5:1]]; id. as shared by Christians, [[2Cor.1.5|II Co 1:5]], [[Phil.3.10|Phl 3:10]], [[1Pet.4.13|I Pe 4:13]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a passive emotion</span>, <span class="asitalic">affection</span>, <span class="asitalic">passion</span>: [[Gal.5.24|Ga 5:24]]; <span class="asgreek">τ. ἁμαρτιῶν</span>, [[Rom.7.5|Ro 7:5]].</span>
 <span class="asbullet"><span class="asbold">3.</span> = <span class="asgreek">τὸ πάσχειν</span>, <span class="asitalic">an enduring</span> or <span class="asitalic">suffering</span>: c. gen. obj., [[Heb.2.9|He 2:9]].†</span>
-<span class="asre"><span class="asitalic">SYN.</span>: v.s. <span class="asgreek">πάθος</span> <small><sup>[[G3806]]</sup></small>. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: v.s. **<big>[[G3806|πάθος]]</big>**. </span>
 
 **Abbott-Smith References**
 

@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎δέρω‎</span></big> **dérō** <small>*(der'-o)*</small> ==**to beat up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎δέρω‎</span></big>** **dérō** <small>*(der'-o)*</small> ==**to beat up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ beat, smite.

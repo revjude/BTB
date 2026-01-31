@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">σάκκος </span></span> also written <span class="asgreek">σάκος, -ου, ὁ</span> </span> <span class="asetym">  <span class="asderivation">(cf. <span class="asitalic">Heb.</span> <span class="ashebrew">שַׂק</span> <small><sup>[[H8242]]</sup></small>, which it renders in LXX), </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">σάκκος </span></span> also written <span class="asgreek">σάκος, -ου, ὁ</span> </span> <span class="asetym">  <span class="asderivation">(cf. <span class="asitalic">Heb.</span> **<big>[[H8242|שַׂק]]</big>**, which it renders in LXX), </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a coarse cloth, sackcloth</span>, usually made of hair: [[Rev.6.12|Re 6:12]].</span>
 <span class="asbullet"><span class="asbold">2.</span> Anything made of sackcloth;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a sack</span> ([[LXX.Gen.42.25|Ge 42:25]], al.);</span>

@@ -7,21 +7,21 @@ There shall no stranger eat [of] the holy thing: a sojourner of the priest, or a
 No one outside a priest’s family may eat the sacred offering, nor may the guest of a priest or his hired hand eat it.<small><sub>**MT:**</sub></small>
 [[Lev.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.9|<< Leviticus 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.11|Leviticus 22:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of another race | <big><span class="asgreek">αλλογενής</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \[the\] holy \[things\]; | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| a sojourner with | <big><span class="asgreek">πάροικος</span></big> <sup><small><small>[[G3941]]</small></small></sup> |
-| a priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a hireling | <big><span class="asgreek">μισθωτός</span></big> <sup><small><small>[[G3411]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \[the\] holy \[things\]. | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| of another race | **<big>[[G0241\|αλλογενής]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G2068\|φάγεται]]</big>** |
+| \[the\] holy \[things\]; | **<big>[[G0039\|άγια]]</big>** |
+| a sojourner with | **<big>[[G3941\|πάροικος]]</big>** |
+| a priest, | **<big>[[G2409\|ιερέως]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a hireling | **<big>[[G3411\|μισθωτός]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| eat | **<big>[[G2068\|φάγεται]]</big>** |
+| \[the\] holy \[things\]. | **<big>[[G0039\|άγια]]</big>** |
 [[Lev.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.9|<< Leviticus 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.11|Leviticus 22:11 >>]]</td></tr></table>
 
 

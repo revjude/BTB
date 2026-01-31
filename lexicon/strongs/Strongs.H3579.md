@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כֹּזְבִי‎</span></big> **Kôzᵉbîy** <small>*(koz-bee')*</small> ==**Cozbi**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּזַב‎</span><sup><small>[[H3576]]</small></sup>; false</small>
+**<big><span class="ashebrew">‎כֹּזְבִי‎</span></big>** **Kôzᵉbîy** <small>*(koz-bee')*</small> ==**Cozbi**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H3576|‎כָּזַב‎]]</big>**; false</small>
 
 $\quad$ Cozbi.
 - § Cozbi = *"my lie"*

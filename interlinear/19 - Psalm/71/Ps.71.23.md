@@ -6,16 +6,16 @@ When I sing praise to You my lips will shout for joy, along with my soul, which 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.22|<< Psalms 71:22]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.24|Psalms 71:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they will sing for joy  | <span class="ashebrew"><big>תְּרַנֵּ֣נָּ֣ה </big></span><small><small><sup>[[H7442B]]</sup></small></small> &#8207;| te.ran.Ne.Nah <small><sup>[[HVpi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips my  | <span class="ashebrew"><big>שְׂ֭פָתַ </big></span><small><small><sup>[[H8193G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| Se.fa.ta <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make music  | <span class="ashebrew"><big>אֲזַמְּרָה </big></span><small><small><sup>[[H2167]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.za.me.rah- <small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לָּ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and self my  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נַפְשִׁ֗ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have redeemed  | <span class="ashebrew"><big>פָּדִֽיתָ </big></span><small><small><sup>[[H6299]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| pa.Di.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will sing for joy  |**<big>&#8207;[[H7442B\|תְּרַנֵּ֣נָּ֣ה]]&#8207; </big>**| te.ran.Ne.Nah<small><sup>[[HVpi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips my  |**<big>&#8207;[[H8193G\|שְׂ֭פָתַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Se.fa.ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make music  |**<big>&#8207;[[H2167\|אֲזַמְּרָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.za.me.rah-<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָּ֑]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and self my  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H5315G\|נַפְשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have redeemed  |**<big>&#8207;[[H6299\|פָּדִֽיתָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pa.Di.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.22|<< Psalms 71:22]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.24|Psalms 71:24 >>]]</td></tr></table>
 
 

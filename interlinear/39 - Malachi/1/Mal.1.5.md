@@ -6,17 +6,17 @@ You will see this with your own eyes, and you yourselves will say, ‘The LORD i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.4|<< Malachi 1:4]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.6|Malachi 1:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and eyes your  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵינֵי </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.nei. <small><sup>[[HNcfdc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will see  | <span class="ashebrew"><big>תִּרְאֶ֑ינָה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| tir.'Ei.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַתֶּ֤ם </big></span><small><small><sup>[[H0859D]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tem <small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will say  | <span class="ashebrew"><big>תֹּֽאמְרוּ֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| to.me.Ru <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is great  | <span class="ashebrew"><big>יִגְדַּ֣ל </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| yig.Dal <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> over  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עַ֖ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> [the] border of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גְב֥וּל </big></span><small><small><sup>[[H1366G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> g.Vul <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eyes your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵינֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will see  |**<big>&#8207;[[H7200G\|תִּרְאֶ֑ינָה]]&#8207; </big>**| tir.'Ei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  |**<big>&#8207;[[H0559\|תֹּֽאמְרוּ֙]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is great  |**<big>&#8207;[[H1431\|יִגְדַּ֣ל]]&#8207; </big>**| yig.Dal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> over  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> [the] border of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1366G\|גְב֥וּל]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> g.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.4|<< Malachi 1:4]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.6|Malachi 1:6 >>]]</td></tr></table>
 
 

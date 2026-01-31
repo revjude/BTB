@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹבֶרֶת‎</span></big> **chôbereth** <small>*(kho-beh'-reth)*</small> ==**set**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎חָבַר‎</span><sup><small>[[H2266]]</small></sup></small>
+**<big><span class="ashebrew">‎חֹבֶרֶת‎</span></big>** **chôbereth** <small>*(kho-beh'-reth)*</small> ==**set**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine active participle of **<big>[[H2266|‎חָבַר‎]]</big>**</small>
 
 $\quad$ which coupleth, coupling.
 - ***a joint***

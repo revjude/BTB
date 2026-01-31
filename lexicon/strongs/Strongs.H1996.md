@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֲמוֹן גּוֹג‎</span></big> **Hămôwn Gôwg** <small>*(ham-one' gohg)*</small> ==**Hamon-gog (Valley)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎הָמוֹן‎</span><sup><small>[[H1995]]</small></sup> and <span class="ashebrew">‎גּוֹג‎</span><sup><small>[[H1463]]</small></sup></small>
+**<big><span class="ashebrew">‎הֲמוֹן גּוֹג‎</span></big>** **Hămôwn Gôwg** <small>*(ham-one' gohg)*</small> ==**Hamon-gog (Valley)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1995|‎הָמוֹן‎]]</big>** and **<big>[[H1463|‎גּוֹג‎]]</big>**</small>
 
 $\quad$ Hamogog.
 - § Hamon-gog = *"multitude of Gog"*

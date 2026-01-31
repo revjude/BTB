@@ -7,28 +7,28 @@ Ye have not gone up into the gaps, neither made up the hedge for the house of Is
 You did not go up to the gaps or restore the wall around the house of Israel so that it would stand in the battle on the Day of the LORD.<small><sub>**MT:**</sub></small>
 [[Ezek.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.4|<< Ezekiel 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.6|Ezekiel 13:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They stood not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστησάν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| firmness, | <big><span class="asgreek">στερεώματι</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gathered not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνήγαγον</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| flocks | <big><span class="asgreek">ποιμνια</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| rise up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| war, | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| They stood not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2476\|έστησάν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| firmness, | **<big>[[G4733\|στερεώματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gathered not | **<big>[[G3756\|ου]]</big>** **<big>[[G4863\|συνήγαγον]]</big>** |
+| flocks | **<big>[[G4168\|ποιμνια]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| rise up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| war, | **<big>[[G4171\|πολέμω]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ezek.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.4|<< Ezekiel 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.6|Ezekiel 13:6 >>]]</td></tr></table>
 
 

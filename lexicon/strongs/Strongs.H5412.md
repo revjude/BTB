@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְתִין‎</span></big> **Nᵉthîyn** <small>*(netheen')*</small> ==**temple servant**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נָתִין‎</span><sup><small>[[H5411]]</small></sup></small>
+**<big><span class="asaramaic">‎נְתִין‎</span></big>** **Nᵉthîyn** <small>*(netheen')*</small> ==**temple servant**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5411|‎נָתִין‎]]</big>**</small>
 
 $\quad$ Nethinims.
 - {***the Nethinim***, or ***Temple-servants*** (as given to that duty)}

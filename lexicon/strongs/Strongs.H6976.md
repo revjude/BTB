@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קוֹץ‎</span></big> **Qôwts** <small>*(kotse)*</small> ==**Koz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎קוֹץ‎</span><sup><small>[[H6975]]</small></sup></small>
+**<big><span class="ashebrew">‎קוֹץ‎</span></big>** **Qôwts** <small>*(kotse)*</small> ==**Koz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6975|‎קוֹץ‎]]</big>**</small>
 
 $\quad$ Koz, Hakkoz (including the article).
 - § Koz = *"thorn"*

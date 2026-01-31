@@ -7,25 +7,25 @@ And Dishon, and Ezer, and Dishan: these [are] the dukes of the Horites, the chil
 Dishon, Ezer, and Dishan. They are the chiefs of the Horites, the descendants of Seir in the land of Edom.<small><sub>**MT:**</sub></small>
 [[Gen.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.20|<< Genesis 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.22|Genesis 36:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Dishon, | <big><span class="asgreek">Λησών</span></big> <sup><small><small>[[H1787]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ezer, | <big><span class="asgreek">Ασάρ</span></big> <sup><small><small>[[H0687]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Dishan. | <big><span class="asgreek">Ρισών</span></big> <sup><small><small>[[H1789]]</small></small></sup> |
-| These \[were\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] princes | <big><span class="asgreek">ηγεμόνες</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Horite, | <big><span class="asgreek">Χορραίου</span></big> <sup><small><small>[[H2752]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Seir, | <big><span class="asgreek">Σηείρ</span></big> <sup><small><small>[[H8165b]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Edom. | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Dishon, | **<big>[[H1787\|Λησών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ezer, | **<big>[[H0687\|Ασάρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Dishan. | **<big>[[H1789\|Ρισών]]</big>** |
+| These \[were\] | **<big>[[G3778\|ούτοι]]</big>** |
+| \[the\] princes | **<big>[[G2232\|ηγεμόνες]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Horite, | **<big>[[H2752\|Χορραίου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Seir, | **<big>[[H8165b\|Σηείρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of Edom. | **<big>[[H0123\|Εδώμ]]</big>** |
 [[Gen.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.20|<< Genesis 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.22|Genesis 36:22 >>]]</td></tr></table>
 
 

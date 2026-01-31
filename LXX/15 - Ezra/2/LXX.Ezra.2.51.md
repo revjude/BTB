@@ -7,14 +7,14 @@ The children of Bakbuk, the children of Hakupha, the children of Harhur,
 the descendants of Bakbuk, the descendants of Hakupha, the descendants of Harhur,<small><sub>**MT:**</sub></small>
 [[Ezra.2.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.50|<< Ezra 2:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.52|Ezra 2:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Bakbuk, | <big><span class="asgreek">Βαγβούκ</span></big> <sup><small><small>[[H1227]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hakupha, | <big><span class="asgreek">Ακουφά</span></big> <sup><small><small>[[H2709]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Harhur, | <big><span class="asgreek">Αρούρ</span></big> <sup><small><small>[[H2744]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Bakbuk, | **<big>[[H1227\|Βαγβούκ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Hakupha, | **<big>[[H2709\|Ακουφά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Harhur, | **<big>[[H2744\|Αρούρ]]</big>** |
 [[Ezra.2.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.50|<< Ezra 2:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.52|Ezra 2:52 >>]]</td></tr></table>
 
 

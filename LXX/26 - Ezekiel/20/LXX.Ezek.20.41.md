@@ -7,39 +7,39 @@ I will accept you with your sweet savour, when I bring you out from the people, 
 When I bring you from the peoples and gather you from the lands to which you have been scattered, I will accept you as a pleasing aroma. And I will show My holiness through you in the sight of the nations.<small><sub>**MT:**</sub></small>
 [[Ezek.20.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.40|<< Ezekiel 20:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.42|Ezekiel 20:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a scent | <big><span class="asgreek">οσμή</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| I will favorably receive | <big><span class="asgreek">προσδέξομαι</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my leading | <big><span class="asgreek">εξαγαγείν</span></big> <sup><small><small>[[G1806]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples, | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to take | <big><span class="asgreek">εισδέχεσθαι</span></big> <sup><small><small>[[G1523]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places | <big><span class="asgreek">χωρών</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you were dispersed | <big><span class="asgreek">διεσκορπίσθητε</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be sanctified | <big><span class="asgreek">αγιασθήσομαι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples. | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| a scent | **<big>[[G3744\|οσμή]]</big>** |
+| of pleasant aroma | **<big>[[G2175\|ευωδίας]]</big>** |
+| I will favorably receive | **<big>[[G4327\|προσδέξομαι]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my leading | **<big>[[G1806\|εξαγαγείν]]</big>** **<big>[[G1473\|με]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| peoples, | **<big>[[G2992\|λαών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to take | **<big>[[G1523\|εισδέχεσθαι]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| places | **<big>[[G5561\|χωρών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| you were dispersed | **<big>[[G1287\|διεσκορπίσθητε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυταίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall be sanctified | **<big>[[G0037\|αγιασθήσομαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| before | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμούς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| peoples. | **<big>[[G2992\|λαών]]</big>** |
 [[Ezek.20.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.40|<< Ezekiel 20:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.42|Ezekiel 20:42 >>]]</td></tr></table>
 
 

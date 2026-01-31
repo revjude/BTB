@@ -6,7 +6,7 @@
 
 
 
-<small>Also see: [[H7023]]</small>
+<small>Also see: **<big>[[H7023|קִיר]]</big>**</small>
 
  III. <span class="bdbLangHebrew">‎קִיר‎</span> **proper name, of a territory or people** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span> original house of Aram [[Amos.9.7|Amos 9:7]] <span class="bdbLangHebrew">‎קִ֫ירָה‎</span> as place of exile [[Amos.1.5|Amos 1:5]]; [[2Kgs.16.9|2Kgs 16:9]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">τὴν πόλιν</span>); <span class="bdbLangHebrew">‎קִיר‎</span> as people in Assyrian army [[Isa.22.6|Isa 22:6]] ([[Isa.22.5|Isa 22:5]] see I. <span class="bdbLangHebrew">‎קִיר‎</span> near the end). — Location dubious, see conspectus of older views [[BDB#Dr|Dr]]<sup>[[Amos.1.5|Amos 1:5]]</sup>; plausible is some tribe in Southern Babylonia, east of Tigris [[BDB#Wkl|Wkl]]<sup>AT Unters 178</sup>, compare [[BDB#Hal|Hal]]<sup>REJ xi. 60</sup>; — [[BDB#WMM|WMM]]<sup>Hast. DB KIB</sup> everywhere strike out, or emend <span class="bdbLangHebrew">‎קוֺעַ‎</span>, but see  I. <span class="bdbLangHebrew">‎קִיר‎</span> 
 

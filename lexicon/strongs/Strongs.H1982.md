@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֵלֶךְ‎</span></big> **hêlek** <small>*(hay'-lek)*</small> ==**traveller**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎הָלַךְ‎</span><sup><small>[[H1980]]</small></sup></small>
+**<big><span class="ashebrew">‎הֵלֶךְ‎</span></big>** **hêlek** <small>*(hay'-lek)*</small> ==**traveller**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1980|‎הָלַךְ‎]]</big>**</small>
 
 $\quad$ [idiom] dropped, traveller.
 - properly, ***a journey***, i.e. (by implication) ***a wayfarer***
@@ -7,4 +7,4 @@ $\quad$ [idiom] dropped, traveller.
 
 **1)** traveller
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πάροδος</span><sup><small>[[G3938]]</small></sup>
+<small>See Greek: </small>**<big>[[G3938|πάροδος]]</big>**

@@ -14,25 +14,25 @@ For the entrance to the tent, you are to make a curtain embroidered with blue, p
 > $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a draw curtain | <big><span class="asgreek">επίσπαστρον</span></big> <sup><small><small>[[G7449]]</small></small></sup> |
-| for the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door, | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| blue | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scarlet | <big><span class="asgreek">κοκκίνου</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| being twined, | <big><span class="asgreek">κεκλωσμένου</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined, | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| \[the\] work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of an embroiderer. | <big><span class="asgreek">ποικιλτού</span></big> <sup><small><small>[[G8833]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| a draw curtain | **<big>[[G7449\|επίσπαστρον]]</big>** |
+| for the | **<big>[[G3588\|τη]]</big>** |
+| door, | **<big>[[G2374\|θύρα]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| blue | **<big>[[G5192\|υακίνθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purple, | **<big>[[G4209\|πορφύρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scarlet | **<big>[[G2847\|κοκκίνου]]</big>** |
+| being twined, | **<big>[[G8029\|κεκλωσμένου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined, | **<big>[[G8029\|κεκλωσμένης]]</big>** |
+| \[the\] work | **<big>[[G2041\|έργον]]</big>** |
+| of an embroiderer. | **<big>[[G8833\|ποικιλτού]]</big>** |
 [[Exod.26.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.35|<< Exodus 26:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.37|Exodus 26:37 >>]]</td></tr></table>
 
 

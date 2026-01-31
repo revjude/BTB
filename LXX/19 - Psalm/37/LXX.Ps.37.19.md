@@ -7,18 +7,18 @@ They shall not be ashamed in the evil time: and in the days of famine they shall
 In the time of evil they will not be ashamed, and in the days of famine they will be satisfied.<small><sub>**MT:**</sub></small>
 [[Ps.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.18|<< Psalm 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.20|Psalm 37:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be disgraced | <big><span class="asgreek">καταισχυνθήσονται</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| a bad | <big><span class="asgreek">πονηρώ</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of hunger | <big><span class="asgreek">λιμού</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| they shall be filled. | <big><span class="asgreek">χορτασθήσονται</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
+| They will not | **<big>[[G3756\|ου]]</big>** |
+| be disgraced | **<big>[[G2617\|καταισχυνθήσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| a bad | **<big>[[G4190\|πονηρώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέραις]]</big>** |
+| of hunger | **<big>[[G3042\|λιμού]]</big>** |
+| they shall be filled. | **<big>[[G5526\|χορτασθήσονται]]</big>** |
 [[Ps.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.18|<< Psalm 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.20|Psalm 37:20 >>]]</td></tr></table>
 
 

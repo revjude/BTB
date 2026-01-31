@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סִיחוֹן‎</span></big> **Çîychôwn** <small>*(see-khone')*</small> ==**Sihon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">סִיחֹן</span> **Çîychôn** <small>*(see-khone')*</small>; from the same as <span class="ashebrew">‎סוּחַ‎</span><sup><small>[[H5477]]</small></sup>; tempestuous</small>
+**<big><span class="ashebrew">‎סִיחוֹן‎</span></big>** **Çîychôwn** <small>*(see-khone')*</small> ==**Sihon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">סִיחֹן</span></big>** **Çîychôn** <small>*(see-khone')*</small>; from the same as **<big>[[H5477|‎סוּחַ‎]]</big>**; tempestuous</small>
 
 $\quad$ Sihon.
 - § Sihon = *"warrior"*

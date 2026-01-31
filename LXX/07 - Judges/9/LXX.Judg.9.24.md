@@ -7,40 +7,40 @@ That the cruelty [done] to the threescore and ten sons of Jerubbaal might come, 
 in order that the crime against the seventy sons of Jerubbaal might come to justice and their blood be avenged on their brother Abimelech and on the leaders of Shechem, who had helped him murder his brothers.<small><sub>**MT:**</sub></small>
 [[Judg.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.23|<< Judges 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.25|Judges 9:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so as | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">επαγαγείν</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| injustice | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| \[done to\] the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jerubbaal, | <big><span class="asgreek">Ιεροβάαλ</span></big> <sup><small><small>[[H3380]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for their blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to be put | <big><span class="asgreek">επιθείναι</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| killing | <big><span class="asgreek">αποκτείναντα</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Shechem, | <big><span class="asgreek">Σικήμων</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strengthening | <big><span class="asgreek">κατισχύσαντες</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ωστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to kill | <big><span class="asgreek">αποκτείναι</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers. | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| so as | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G1863\|επαγαγείν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| injustice | **<big>[[G0093\|αδικίαν]]</big>** |
+| \[done to\] the | **<big>[[G3588\|των]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Jerubbaal, | **<big>[[H3380\|Ιεροβάαλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| for their blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to be put | **<big>[[G2007\|επιθείναι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| killing | **<big>[[G0615\|αποκτείναντα]]</big>** |
+| them; | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of Shechem, | **<big>[[G4966\|Σικήμων]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| strengthening | **<big>[[G2729\|κατισχύσαντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| so as | **<big>[[G5620\|ωστε]]</big>** |
+| to kill | **<big>[[G0615\|αποκτείναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his brothers. | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.23|<< Judges 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.25|Judges 9:25 >>]]</td></tr></table>
 
 

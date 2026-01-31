@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוּלַי‎</span></big> **ʼûwlay** <small>*(oo-lah'ee)*</small> ==**perhaps**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אֻלַי</span> **ʼulay** <small>*(oo-lah'ee)*</small>; from <span class="ashebrew">‎אוֹ‎</span><sup><small>[[H0176]]</small></sup></small>
+**<big><span class="ashebrew">‎אוּלַי‎</span></big>** **ʼûwlay** <small>*(oo-lah'ee)*</small> ==**perhaps**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אֻלַי</span></big>** **ʼulay** <small>*(oo-lah'ee)*</small>; from **<big>[[H0176|‎אוֹ‎]]</big>**</small>
 
 $\quad$ if so be, may be, peradventure, unless.
 - ***if not***
@@ -10,4 +10,4 @@ $\quad$ if so be, may be, peradventure, unless.
 **3)** unless
 **4)** suppose
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἴσως</span><sup><small>[[G2481]]</small></sup>
+<small>See Greek: </small>**<big>[[G2481|ἴσως]]</big>**

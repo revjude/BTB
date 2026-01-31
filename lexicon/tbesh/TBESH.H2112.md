@@ -1,4 +1,3 @@
-<span class="asaramaic">‎זוּעַ‎</span> <small>***(zu.a)***</small> ==**to tremble**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2111]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2111|זוּעַ]]</big>**</small> 
 
-- Aramaic of <i>zu.a</i> (<span class='ashebrew'>‎זו‎</span>ּ<span class='ashebrew'>‎ע‎</span>ַ "to tremble" [[H2111]])
+- Aramaic of <i>zu.a</i> (<span class='ashebrew'>‎זו‎</span>ּ<span class='ashebrew'>‎ע‎</span>ַ "to tremble" **<big>[[H2111|זוּעַ]]</big>**)

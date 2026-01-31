@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵךְ‎</span></big> **chêk** <small>*(khake)*</small> ==**palate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎חָנַךְ‎</span><sup><small>[[H2596]]</small></sup> in the sense of tasting</small>
+**<big><span class="ashebrew">‎חֵךְ‎</span></big>** **chêk** <small>*(khake)*</small> ==**palate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H2596|‎חָנַךְ‎]]</big>** in the sense of tasting</small>
 
 $\quad$ (roof of the) mouth, taste.
 - properly, ***the palate*** or inside of the mouth
@@ -7,4 +7,4 @@ $\quad$ (roof of the) mouth, taste.
 
 **1)** mouth, palate, taste, gums
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λάρυγξ</span><sup><small>[[G2995]]</small></sup>
+<small>See Greek: </small>**<big>[[G2995|λάρυγξ]]</big>**

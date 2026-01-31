@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְרִי‎</span></big> **Shimrîy** <small>*(shim-ree')*</small> ==**Shimri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שֶׁמֶר‎</span><sup><small>[[H8105]]</small></sup> in its original sense; watchful</small>
+**<big><span class="ashebrew">‎שִׁמְרִי‎</span></big>** **Shimrîy** <small>*(shim-ree')*</small> ==**Shimri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8105|‎שֶׁמֶר‎]]</big>** in its original sense; watchful</small>
 
 $\quad$ Shimri.
 - § Shimri = *"vigilant"*

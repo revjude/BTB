@@ -11,23 +11,23 @@ Hear now this, O foolish people, and without understanding; which have eyes, and
 > $\quad$ referenced by: [[Mark.8.18|Mark 8:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hearken | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| to these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| O moronish | <big><span class="asgreek">μωρός</span></big> <sup><small><small>[[G3474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heartless | <big><span class="asgreek">ακάρδιος</span></big> <sup><small><small>[[G6179]]</small></small></sup> |
-| They \[have\] eyes, | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see; | <big><span class="asgreek">βλέπουσιν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| they \[have\] ears, | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hear. | <big><span class="asgreek">ακούουσι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| Hearken | **<big>[[G0191\|ακούσατε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| to these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| O moronish | **<big>[[G3474\|μωρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| heartless | **<big>[[G6179\|ακάρδιος]]</big>** |
+| They \[have\] eyes, | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they do not | **<big>[[G3756\|ου]]</big>** |
+| see; | **<big>[[G0991\|βλέπουσιν]]</big>** |
+| they \[have\] ears, | **<big>[[G3775\|ώτα]]</big>** **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they do not | **<big>[[G3756\|ουκ]]</big>** |
+| hear. | **<big>[[G0191\|ακούουσι]]</big>** |
 [[Jer.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.20|<< Jeremiah 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.22|Jeremiah 5:22 >>]]</td></tr></table>
 
 

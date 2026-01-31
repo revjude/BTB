@@ -7,28 +7,28 @@ For they have made ready their heart like an oven, whiles they lie in wait: thei
 For they prepare their heart like an oven while they lie in wait; all night their anger smolders; in the morning it blazes like a flaming fire.<small><sub>**MT:**</sub></small>
 [[Hos.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.5|<< Hosea 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.7|Hosea 7:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| were kindled | <big><span class="asgreek">ανεκαύθησαν</span></big> <sup><small><small>[[G6284]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an oven | <big><span class="asgreek">κλίβανος</span></big> <sup><small><small>[[G2823]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hearts | <big><span class="asgreek">καρδίαι</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their breaking down | <big><span class="asgreek">καταράσσειν</span></big> <sup><small><small>[[G7907]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night; | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| of sleep | <big><span class="asgreek">ύπνου</span></big> <sup><small><small>[[G5258]]</small></small></sup> |
-| Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| was filled | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| it was kindled | <big><span class="asgreek">ανεκαύθη</span></big> <sup><small><small>[[G6284]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| of a fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλογής</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| were kindled | **<big>[[G6284\|ανεκαύθησαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an oven | **<big>[[G2823\|κλίβανος]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their hearts | **<big>[[G2588\|καρδίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their breaking down | **<big>[[G7907\|καταράσσειν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| all | **<big>[[G3650\|όλην]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| night; | **<big>[[G3571\|νύκτα]]</big>** |
+| of sleep | **<big>[[G5258\|ύπνου]]</big>** |
+| Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| was filled | **<big>[[G1705\|ενεπλήσθη]]</big>** |
+| in the morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| it was kindled | **<big>[[G6284\|ανεκαύθη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| of a fire | **<big>[[G4442\|πυρός]]</big>** |
+| a flame | **<big>[[G5395\|φλογής]]</big>** |
 [[Hos.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.5|<< Hosea 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.7|Hosea 7:7 >>]]</td></tr></table>
 
 

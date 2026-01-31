@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎πῶς‎</span></big> **pōs** <small>*(poce)*</small> ==**how?!**==  <sup><small>[[TEGMC#G:PRT-I|G:PRT-I]]</small></sup> 
-<small>adverb from the base of <span class="asgreek">ποῦ</span><sup><small>[[G4226]]</small></sup></small>
+**<big><span class="asgreek">‎πῶς‎</span></big>** **pōs** <small>*(poce)*</small> ==**how?!**==  <sup><small>[[TEGMC#G:PRT-I|G:PRT-I]]</small></sup> 
+<small>adverb from the base of **<big>[[G4226|‎ποῦ‎]]</big>**</small>
 
 $\quad$ how, after (by) what manner (means), that.
 - an interrogative particle of manner

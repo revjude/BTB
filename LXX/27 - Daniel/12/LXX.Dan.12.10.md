@@ -7,28 +7,28 @@ Many shall be purified, and made white, and tried; but the wicked shall do wicke
 Many will be purified, made spotless, and refined, but the wicked will continue to act wickedly. None of the wicked will understand, but the wise will understand.<small><sub>**MT:**</sub></small>
 [[Dan.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.9|<< Daniel 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.11|Daniel 12:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall be chosen | <big><span class="asgreek">εκλεγώσι</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whitened | <big><span class="asgreek">εκλευκανθώσι</span></big> <sup><small><small>[[G7112]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purified \[by fire\] | <big><span class="asgreek">πυρωθώσι</span></big> <sup><small><small>[[G4448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sanctified | <big><span class="asgreek">αγιασθωσι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| Many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall act lawlessly | <big><span class="asgreek">ανομήσωσιν</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| \[the\] lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| perceive | <big><span class="asgreek">συνήσουσι</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| intelligent | <big><span class="asgreek">νοήμονες</span></big> <sup><small><small>[[G8400]]</small></small></sup> |
-| shall perceive. | <big><span class="asgreek">συνήσουσι</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| shall be chosen | **<big>[[G1586\|εκλεγώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| whitened | **<big>[[G7112\|εκλευκανθώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purified \[by fire\] | **<big>[[G4448\|πυρωθώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sanctified | **<big>[[G0037\|αγιασθωσι]]</big>** |
+| Many | **<big>[[G4183\|πολλοί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall act lawlessly | **<big>[[G6349\|ανομήσωσιν]]</big>** |
+| \[the\] lawless ones | **<big>[[G0459\|άνομοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| perceive | **<big>[[G4920\|συνήσουσι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \[the\] lawless ones | **<big>[[G0459\|άνομοι]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| intelligent | **<big>[[G8400\|νοήμονες]]</big>** |
+| shall perceive. | **<big>[[G4920\|συνήσουσι]]</big>** |
 [[Dan.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.9|<< Daniel 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.11|Daniel 12:11 >>]]</td></tr></table>
 
 

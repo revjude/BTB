@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִצְעָר‎</span></big> **mitsʻâr** <small>*(mits-awr')*</small> ==**little**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎צָעַר‎</span><sup><small>[[H6819]]</small></sup></small>
+**<big><span class="ashebrew">‎מִצְעָר‎</span></big>** **mitsʻâr** <small>*(mits-awr')*</small> ==**little**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6819|‎צָעַר‎]]</big>**</small>
 
 $\quad$ little one (while), small.
 - ***petty*** (in size or number)
@@ -9,4 +9,4 @@ $\quad$ little one (while), small.
 $\quad$ **1a)** small thing
 $\quad$ **1b)** little while (of time)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μικρός</span><sup><small>[[G3398]]</small></sup> · <span class="asgreek">ὀλίγος</span><sup><small>[[G3641]]</small></sup>
+<small>See Greek: </small>**<big>[[G3398|μικρός]]</big>** · **<big>[[G3641|ὀλίγος]]</big>**

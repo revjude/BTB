@@ -1,4 +1,4 @@
-name of: <small>[[G4613G]]</small> 
+name of: <small>**<big>[[G4613G|Σίμων]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ζηλωτής==</span>-<span class='asgreek'>ωτής</span></b>, <span class='asgreek'>οῦ</span>, <span class='asgreek'>ὁ</span>, 

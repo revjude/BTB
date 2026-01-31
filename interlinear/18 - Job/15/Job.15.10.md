@@ -6,16 +6,16 @@ Both the gray-haired and the aged are on our side—men much older than your fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.9|<< Job 15:9]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.11|Job 15:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| both  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gray haired  | <span class="ashebrew"><big>שָׂ֣ב </big></span><small><small><sup>[[H7867]]</sup></small></small> &#8207;| sav <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as well as  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] aged  | <span class="ashebrew"><big>יָשִׁ֣ישׁ </big></span><small><small><sup>[[H3453]]</sup></small></small> &#8207;| ya.Shish <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] among us  | <span class="ashebrew"><big>בָּ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| Ba. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] old  | <span class="ashebrew"><big>כַּבִּ֖יר </big></span><small><small><sup>[[H3524]]</sup></small></small> &#8207;| ka.Bir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than father your  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'a.Vi. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִֽים </big></span><small><small><sup>[[H3117H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gray haired  |**<big>&#8207;[[H7867\|שָׂ֣ב]]&#8207; </big>**| sav<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as well as  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] aged  |**<big>&#8207;[[H3453\|יָשִׁ֣ישׁ]]&#8207; </big>**| ya.Shish<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] among us  |**<big>&#8207;[[H9003\|בָּ֑]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| Ba.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] old  |**<big>&#8207;[[H3524\|כַּבִּ֖יר]]&#8207; </big>**| ka.Bir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than father your  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0001G\|אָבִ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117H\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.9|<< Job 15:9]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.11|Job 15:11 >>]]</td></tr></table>
 
 

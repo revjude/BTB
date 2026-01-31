@@ -7,18 +7,18 @@ What time she lifteth up herself on high, she scorneth the horse and his rider.
 Yet when she proudly spreads her wings, she laughs at the horse and its rider.<small><sub>**MT:**</sub></small>
 [[Job.39.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.17|<< Job 39:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.19|Job 39:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψει</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| she will raise up high | <big><span class="asgreek">υψώσει</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| she will ridicule | <big><span class="asgreek">καταγελάσεται</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
-| \[the\] horse | <big><span class="asgreek">ίππου</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rider. | <big><span class="asgreek">επιβάτου</span></big> <sup><small><small>[[G7388]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G2596\|κατά]]</big>** |
+| time | **<big>[[G2540\|καιρόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| height | **<big>[[G5311\|ύψει]]</big>** |
+| she will raise up high | **<big>[[G5312\|υψώσει]]</big>** |
+| she will ridicule | **<big>[[G2606\|καταγελάσεται]]</big>** |
+| \[the\] horse | **<big>[[G2462\|ίππου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his rider. | **<big>[[G7388\|επιβάτου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Job.39.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.17|<< Job 39:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.19|Job 39:19 >>]]</td></tr></table>
 
 

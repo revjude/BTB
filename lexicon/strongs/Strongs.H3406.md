@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְרִימוֹת‎</span></big> **Yᵉrîymôwth** <small>*(yer-ee-mohth')*</small> ==**Jerimoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יְרֵימוֹת</span> **Yᵉrêymôwth** <small>*(yer-ay-mohth')*</small>; or <span class="ashebrew">יְרֵמוֹת</span> **Yᵉrêmôwth** <small>*(yer-ay-mohth')*</small>; feminine plural from <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup>; elevations</small>
+**<big><span class="ashebrew">‎יְרִימוֹת‎</span></big>** **Yᵉrîymôwth** <small>*(yer-ee-mohth')*</small> ==**Jerimoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יְרֵימוֹת</span></big>** **Yᵉrêymôwth** <small>*(yer-ay-mohth')*</small>; or **<big><span class="ashebrew">יְרֵמוֹת</span></big>** **Yᵉrêmôwth** <small>*(yer-ay-mohth')*</small>; feminine plural from **<big>[[H7311|‎רוּם‎]]</big>**; elevations</small>
 
 $\quad$ Jermoth, Jerimoth, and Ramoth (from the margin).
 - § Jerimoth or Jeremoth = *"He is Most High"*

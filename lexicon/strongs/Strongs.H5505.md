@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סָחַר‎</span></big> **çâchar** <small>*(saw-khar')*</small> ==**merchandise**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎סָחַר‎</span><sup><small>[[H5503]]</small></sup></small>
+**<big><span class="ashebrew">‎סָחַר‎</span></big>** **çâchar** <small>*(saw-khar')*</small> ==**merchandise**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5503|‎סָחַר‎]]</big>**</small>
 
 $\quad$ mart, merchandise.
 - ***an emporium***

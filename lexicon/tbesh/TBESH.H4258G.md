@@ -1,6 +1,5 @@
-<span class="ashebrew">‎מַחֲלַת‎</span> <small>***(ma.cha.lat)***</small> ==**Mahalath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the Arabs living at the time of the Patriarchs, first mentioned at [[Gen.28.9|Gen.28.9]]
--  daughter of: Ishmael ([[H3458]])
--  sister of: Nebaioth ([[H5032]]), Kedar ([[H6938]]), Adbeel ([[H0110]]), Mibsam ([[H4017]]), Mishma ([[H4927]]), Dumah ([[H1746]]), Massa ([[H4854]]), Hadad ([[H2301]]), Tema ([[H8485]]), Jetur ([[H3195]]), Naphish ([[H5305]]) and Kedemah ([[H6929]]); married to Esau ([[H6215]])
--  mother of: Reuel ([[H7467]]); also called Basemath (KJV: Bashemath) at [[Gen.36.3|Gen.36.3]], [[Gen.36.4|4]], [[Gen.36.10|10]], [[Gen.36.13|13]], [[Gen.36.17|17]]
-- Also named: <i>bos.mat</i> (<span class='ashebrew'>‎ב‎</span>ָּֽ<span class='ashebrew'>‎ש‎</span>ְׂ<span class='ashebrew'>‎מ‎</span>ַ<span class='ashebrew'>‎ת‎</span> "Basemath" [[H1315I]])
+-  daughter of: Ishmael (**<big>[[H3458|יִשְׁמָעֵאל]]</big>**)
+-  sister of: Nebaioth (**<big>[[H5032|נְבָיוֹת]]</big>**), Kedar (**<big>[[H6938|קֵדָר]]</big>**), Adbeel (**<big>[[H0110|אַדְבְּאֵל]]</big>**), Mibsam (**<big>[[H4017|מִבְשָׂם]]</big>**), Mishma (**<big>[[H4927|מִשְׁמָע]]</big>**), Dumah (**<big>[[H1746|דּוּמָה]]</big>**), Massa (**<big>[[H4854|מַשָּׂא]]</big>**), Hadad (**<big>[[H2301|חֲדַד]]</big>**), Tema (**<big>[[H8485|תֵּימָא]]</big>**), Jetur (**<big>[[H3195|יְטוּר]]</big>**), Naphish (**<big>[[H5305|נָפִישׁ]]</big>**) and Kedemah (**<big>[[H6929|קֵדְמָה]]</big>**); married to Esau (**<big>[[H6215|עֵשָׂו]]</big>**)
+-  mother of: Reuel (**<big>[[H7467|רְעוּאֵל]]</big>**); also called Basemath (KJV: Bashemath) at [[Gen.36.3|Gen.36.3]], [[Gen.36.4|4]], [[Gen.36.10|10]], [[Gen.36.13|13]], [[Gen.36.17|17]]
+- Also named: <i>bos.mat</i> (<span class='ashebrew'>‎ב‎</span>ָּֽ<span class='ashebrew'>‎ש‎</span>ְׂ<span class='ashebrew'>‎מ‎</span>ַ<span class='ashebrew'>‎ת‎</span> "Basemath" **<big>[[H1315I|בׇּשְׂמַת]]</big>**)

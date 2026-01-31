@@ -7,30 +7,30 @@ And I will execute great vengeance upon them with furious rebukes; and they shal
 I will execute great vengeance against them with furious reproof. Then they will know that I am the LORD, when I lay My vengeance upon them.’”<small><sub>**MT:**</sub></small>
 [[Ezek.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.16|<< Ezekiel 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.1|Ezekiel 26:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will execute | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| vengeance | <big><span class="asgreek">εκδικήσεις</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rebukes | <big><span class="asgreek">ελεγμοίς</span></big> <sup><small><small>[[G6031]]</small></small></sup> |
-| of rage, | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall realize | <big><span class="asgreek">επιγνώσονται</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| executing | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my vengeance | <big><span class="asgreek">εκδίκησίν</span></big> <sup><small><small>[[G1557]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will execute | **<big>[[G4160\|ποιήσω]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| vengeance | **<big>[[G1557\|εκδικήσεις]]</big>** |
+| great | **<big>[[G3173\|μεγάλας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rebukes | **<big>[[G6031\|ελεγμοίς]]</big>** |
+| of rage, | **<big>[[G2372\|θυμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall realize | **<big>[[G1921\|επιγνώσονται]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I am | **<big>[[G1473\|εγώ]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| executing | **<big>[[G1325\|δούναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of my vengeance | **<big>[[G1557\|εκδίκησίν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ezek.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.16|<< Ezekiel 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.1|Ezekiel 26:1 >>]]</td></tr></table>
 
 

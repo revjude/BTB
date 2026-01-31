@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁלּוּן‎</span></big> **Shallûwn** <small>*(shal-loon')*</small> ==**Shallum**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎שַׁלּוּם‎</span><sup><small>[[H7967]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁלּוּן‎</span></big>** **Shallûwn** <small>*(shal-loon')*</small> ==**Shallum**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H7967|‎שַׁלּוּם‎]]</big>**</small>
 
 $\quad$ Shallum.
 - § Shallun = *"retribution"*

@@ -12,17 +12,17 @@ Adjudicate, O <span class="smallcaps">lord</span>, the ones wronging me! Wage wa
 Of David. Contend with my opponents, O LORD; fight against those who fight against me.<small><sub>**MT:**</sub></small>
 [[Ps.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.22|<< Psalm 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.2|Psalm 35:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Adjudicate, | <big><span class="asgreek">δίκασον</span></big> <sup><small><small>[[G6927]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones wronging | <big><span class="asgreek">αδικούντάς</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Wage war \[against\] | <big><span class="asgreek">πολέμησον</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones waging war \[against\] | <big><span class="asgreek">πολεμούντάς</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Adjudicate, | **<big>[[G6927\|δίκασον]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones wronging | **<big>[[G0091\|αδικούντάς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| Wage war \[against\] | **<big>[[G4170\|πολέμησον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones waging war \[against\] | **<big>[[G4170\|πολεμούντάς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
 [[Ps.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.22|<< Psalm 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.2|Psalm 35:2 >>]]</td></tr></table>
 
 

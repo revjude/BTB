@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תִּרְחֲנָה‎</span></big> **Tirchănâh** <small>*(teer-khan-aw')*</small> ==**Tirhanah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎תִּרְחֲנָה‎</span></big>** **Tirchănâh** <small>*(teer-khan-aw')*</small> ==**Tirhanah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Tirhanah.

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">λαγχάνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.1Sam.14.47|I Ki 14:47]] (<span class="ashebrew">לכד</span> <small><sup>[[H3920]]</sup></small>, v. Th., <span class="asitalic">Gr.</span>, 38), [[Wis.8.19|Wi 8:19]], [[3Macc.6.1|III Mac 6:1]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">λαγχάνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.1Sam.14.47|I Ki 14:47]] (**<big>[[H3920|לכד]]</big>**, v. Th., <span class="asitalic">Gr.</span>, 38), [[Wis.8.19|Wi 8:19]], [[3Macc.6.1|III Mac 6:1]]\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to obtain by lot</span>, <span class="asitalic">to obtain</span> (in cl., c. gen.): c. inf. art. (B1., § 36, 3; 71, 3), [[Luke.1.9|Lk 1:9]]; c. acc. rei, [[Acts.1.17|Ac 1:17]], [[2Pet.1.1|II Pe 1:1]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to draw lots</span>: seq. <span class="asgreek">περί</span>, [[John.19.24|Jo 19:24]].</span>
 

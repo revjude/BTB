@@ -7,40 +7,40 @@ And I said unto them, Let not the gates of Jerusalem be opened until the sun be 
 And I told them, “Do not open the gates of Jerusalem until the sun is hot. While the guards are on duty, keep the doors shut and securely fastened. And appoint the residents of Jerusalem as guards, some at their posts and some at their own homes.”<small><sub>**MT:**</sub></small>
 [[Neh.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.2|<< Nehemiah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.4|Nehemiah 7:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be opened | <big><span class="asgreek">ανοιγήσονται</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \[The\] gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| at the same time | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun \[rises\]; | <big><span class="asgreek">ηλίω</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| while they are still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| vigilant | <big><span class="asgreek">γρηγορούντων</span></big> <sup><small><small>[[G1127]]</small></small></sup> |
-| be locked | <big><span class="asgreek">κλειέσθωσαν</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doors | <big><span class="asgreek">θύραι</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be safeguarded! | <big><span class="asgreek">ασφαλιζέσθωσαν</span></big> <sup><small><small>[[G0805]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you set | <big><span class="asgreek">στήσον</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| advance guards | <big><span class="asgreek">προφύλακας</span></big> <sup><small><small>[[G8956]]</small></small></sup> |
-| of ones living | <big><span class="asgreek">οικούντων</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \[every\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his own post, | <big><span class="asgreek">προφυλακή</span></big> <sup><small><small>[[G8955]]</small></small></sup> <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[every\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| his own house! | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| that | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be opened | **<big>[[G0455\|ανοιγήσονται]]</big>** |
+| \[The\] gates | **<big>[[G4439\|πύλαι]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| at the same time | **<big>[[G0260\|άμα]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| sun \[rises\]; | **<big>[[G2246\|ηλίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| while they are still | **<big>[[G2089\|έτι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| vigilant | **<big>[[G1127\|γρηγορούντων]]</big>** |
+| be locked | **<big>[[G2808\|κλειέσθωσαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| doors | **<big>[[G2374\|θύραι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be safeguarded! | **<big>[[G0805\|ασφαλιζέσθωσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you set | **<big>[[G2476\|στήσον]]</big>** |
+| advance guards | **<big>[[G8956\|προφύλακας]]</big>** |
+| of ones living | **<big>[[G3611\|οικούντων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \[every\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| his own post, | **<big>[[G8955\|προφυλακή]]</big>** **<big>[[G1438\|εαυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[every\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| his own house! | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1438\|εαυτού]]</big>** |
 [[Neh.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.2|<< Nehemiah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.4|Nehemiah 7:4 >>]]</td></tr></table>
 
 

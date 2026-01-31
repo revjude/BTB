@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָצֵל‎</span></big> **ʼÂtsêl** <small>*(aw-tsale')*</small> ==**Azel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָצַל‎</span><sup><small>[[H0680]]</small></sup>; noble</small>
+**<big><span class="ashebrew">‎אָצֵל‎</span></big>** **ʼÂtsêl** <small>*(aw-tsale')*</small> ==**Azel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0680|‎אָצַל‎]]</big>**; noble</small>
 
 $\quad$ Azal, Azel.
 - § Azel = *"reserved"*

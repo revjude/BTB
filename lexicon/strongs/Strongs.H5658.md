@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עַבְדוֹן‎</span></big> **ʻAbdôwn** <small>*(ab-dohn')*</small> ==**Abdon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup>; servitude</small>
+**<big><span class="ashebrew">‎עַבְדוֹן‎</span></big>** **ʻAbdôwn** <small>*(ab-dohn')*</small> ==**Abdon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5647|‎עָבַד‎]]</big>**; servitude</small>
 
-$\quad$ Abdon. Compare <span class="ashebrew">‎עֶבְרֹן‎</span><sup><small>[[H5683]]</small></sup>.
+$\quad$ Abdon. Compare **<big>[[H5683|‎עֶבְרֹן‎]]</big>**.
 - § Abdon = *"servile"*
 - ***Abdon***, the name of a place in Palestine and of four Israelites
 

@@ -7,28 +7,28 @@ They take up all of them with the angle, they catch them in their net, and gathe
 The foe pulls all of them up with a hook; he catches them in his dragnet, and gathers them in his fishing net; so he rejoices gladly.<small><sub>**MT:**</sub></small>
 [[Hab.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.14|<< Habakkuk 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.16|Habakkuk 1:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| consumption | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a hook | <big><span class="asgreek">αγκίστρω</span></big> <sup><small><small>[[G0044]]</small></small></sup> |
-| He pulled up | <big><span class="asgreek">ανέσπασε</span></big> <sup><small><small>[[G0385]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drew | <big><span class="asgreek">είλκυσεν</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his casting-net, | <big><span class="asgreek">αμφιβλήστρω</span></big> <sup><small><small>[[G0293]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gathered | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his dragnets. | <big><span class="asgreek">σαγήναις</span></big> <sup><small><small>[[G4522]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| he shall be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall rejoice. | <big><span class="asgreek">χαρήσεται</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
+| consumption | **<big>[[G4930\|συντέλειαν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a hook | **<big>[[G0044\|αγκίστρω]]</big>** |
+| He pulled up | **<big>[[G0385\|ανέσπασε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drew | **<big>[[G1670\|είλκυσεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| his casting-net, | **<big>[[G0293\|αμφιβλήστρω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gathered | **<big>[[G4863\|συνήγαγεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his dragnets. | **<big>[[G4522\|σαγήναις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| he shall be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall rejoice. | **<big>[[G5463\|χαρήσεται]]</big>** |
 [[Hab.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.14|<< Habakkuk 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.16|Habakkuk 1:16 >>]]</td></tr></table>
 
 

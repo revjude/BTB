@@ -6,17 +6,17 @@ Behold, may that night be barren; may no joyful voice come into it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.6|<< Job 3:6]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.8|Job 3:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּ֤ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the night  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לַּ֣יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> that  | <span class="ashebrew"><big>הַ֭ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTd]]</sup></small> hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let it be  | <span class="ashebrew"><big>יְהִ֣י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ye.Hi <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| barren  | <span class="ashebrew"><big>גַלְמ֑וּד </big></span><small><small><sup>[[H1565]]</sup></small></small> &#8207;| gal.Mud <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it come  | <span class="ashebrew"><big>תָּבֹ֖א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ta.Vo' <small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cry of joy  | <span class="ashebrew"><big>רְנָנָ֣ה </big></span><small><small><sup>[[H7445]]</sup></small></small> &#8207;| re.na.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in it  | <span class="ashebrew"><big>בֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| v <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the night  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3915\|לַּ֣יְלָה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H1931\|הוּא]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be  |**<big>&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| barren  |**<big>&#8207;[[H1565\|גַלְמ֑וּד]]&#8207; </big>**| gal.Mud<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it come  |**<big>&#8207;[[H0935G\|תָּבֹ֖א]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cry of joy  |**<big>&#8207;[[H7445\|רְנָנָ֣ה]]&#8207; </big>**| re.na.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  |**<big>&#8207;[[H9003\|בֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.6|<< Job 3:6]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.8|Job 3:8 >>]]</td></tr></table>
 
 

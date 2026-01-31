@@ -1,4 +1,4 @@
-<small>Also see: [[H6299]] | [[H6302]]</small>
+<small>Also see: **<big>[[H6299|פָּדָה]]</big>** | **<big>[[H6302|פָּדוּי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎פִּדְיוֺם‎</span> **noun masculine** ==ransom==; — [[Num.3.49|Num 3:49]], read probably <span class="bdbLangHebrew">‎פְּדוּיִם‎</span> (so [[BDB#Sam|⅏]]); <span class="bdbLangHebrew">‎פִּדְיֹם‎</span> v[[Num.3.51|Num 3:51]] [[BDB#Kt|Kt]] ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎פְּדוּיִם‎</span>); — see  <span class="bdbLangHebrew">‎פדה‎</span> **Qal** ***Passive participle***, and <span class="bdbLangHebrew">‎פִּדוּיִם‎</span> above 
 

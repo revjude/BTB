@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמִינִית‎</span></big> **shᵉmîynîyth** <small>*(shem-ee-neeth')*</small> ==**Sheminith**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שְׁמִינִי‎</span><sup><small>[[H8066]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁמִינִית‎</span></big>** **shᵉmîynîyth** <small>*(shem-ee-neeth')*</small> ==**Sheminith**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H8066|‎שְׁמִינִי‎]]</big>**</small>
 
 $\quad$ Sheminith.
 - probably ***an eight-stringed lyre***

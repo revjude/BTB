@@ -7,32 +7,32 @@ When a man shall take hold of his brother of the house of his father, [saying], 
 A man will seize his brother within his father’s house: “You have a cloak—you be our leader! Take charge of this heap of rubble.”<small><sub>**MT:**</sub></small>
 [[Isa.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.5|<< Isaiah 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.7|Isaiah 3:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| shall take hold of | <big><span class="asgreek">επιλήψεται</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a member of the family | <big><span class="asgreek">οικείου</span></big> <sup><small><small>[[G3609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| You have | <big><span class="asgreek">έχεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| chief | <big><span class="asgreek">αρχηγός</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
-| you become | <big><span class="asgreek">γενού</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| food \[needs\] | <big><span class="asgreek">βρώμα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my | <big><span class="asgreek">εμόν</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| shall take hold of | **<big>[[G1949\|επιλήψεται]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother, | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| a member of the family | **<big>[[G3609\|οικείου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| You have | **<big>[[G2192\|έχεις]]</big>** |
+| chief | **<big>[[G0747\|αρχηγός]]</big>** |
+| you become | **<big>[[G1096\|γενού]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| food \[needs\] | **<big>[[G1033\|βρώμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my | **<big>[[G1699\|εμόν]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| be | **<big>[[G1510\|έστω]]</big>** |
 [[Isa.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.5|<< Isaiah 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.7|Isaiah 3:7 >>]]</td></tr></table>
 
 

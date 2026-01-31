@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמֹנִים‎</span></big> **shᵉmônîym** <small>*(shem-o-neem')*</small> ==**eighty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">שְׁמוֹנִים</span> **shᵉmôwnîym** <small>*(shem-o-neem')*</small>; multiple from <span class="ashebrew">‎שְׁמֹנֶה‎</span><sup><small>[[H8083]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁמֹנִים‎</span></big>** **shᵉmônîym** <small>*(shem-o-neem')*</small> ==**eighty**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁמוֹנִים</span></big>** **shᵉmôwnîym** <small>*(shem-o-neem')*</small>; multiple from **<big>[[H8083|‎שְׁמֹנֶה‎]]</big>**</small>
 
 $\quad$ eighty(-ieth), fourscore.
 - ***eighty***, also ***eightieth***

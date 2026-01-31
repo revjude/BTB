@@ -6,14 +6,14 @@ The house he built is like a moth’s cocoon, like a hut set up by a watchman.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.17|<< Job 27:17]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.19|Job 27:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he has built  | <span class="ashebrew"><big>בָּנָ֣ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| ba.Nah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> moth  | <span class="ashebrew"><big>כָ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עָ֣שׁ </big></span><small><small><sup>[[H6211A]]</sup></small></small> &#8207;| kha. <small><sup>[[HRd]]</sup></small> 'Ash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| house his  | <span class="ashebrew"><big>בֵּית֑ </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| bei.T <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like a shelter  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>סֻכָּ֗ה </big></span><small><small><sup>[[H5521]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe. <small><sup>[[HR]]</sup></small> su.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] he has made  | <span class="ashebrew"><big>עָשָׂ֥ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a watchman  | <span class="ashebrew"><big>נֹצֵֽר </big></span><small><small><sup>[[H5341]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| no.Tzer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has built  |**<big>&#8207;[[H1129\|בָּנָ֣ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> moth  |**<big>&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H6211A\|עָ֣שׁ]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'Ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house his  |**<big>&#8207;[[H1004B\|בֵּית֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like a shelter  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5521\|סֻכָּ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> su.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] he has made  |**<big>&#8207;[[H6213H\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a watchman  |**<big>&#8207;[[H5341\|נֹצֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.17|<< Job 27:17]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.19|Job 27:19 >>]]</td></tr></table>
 
 

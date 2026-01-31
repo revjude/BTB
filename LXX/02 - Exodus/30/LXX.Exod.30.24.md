@@ -7,19 +7,19 @@ And of cassia five hundred [shekels], after the shekel of the sanctuary, and of 
 500 shekels of cassia—all according to the sanctuary shekel—and a hin of olive oil.<small><sub>**MT:**</sub></small>
 [[Exod.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.23|<< Exodus 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.25|Exodus 30:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of oil of cassia -- | <big><span class="asgreek">ίρεως</span></big> <sup><small><small>[[G2463]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακοσίους</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\], | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| olives -- | <big><span class="asgreek">ελαιών</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| a hin! | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| of oil of cassia -- | **<big>[[G2463\|ίρεως]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακοσίους]]</big>** |
+| shekels | **<big>[[G9079\|σίκλους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| holy \[place\], | **<big>[[G0039\|αγίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil | **<big>[[G1637\|έλαιον]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| olives -- | **<big>[[G1636\|ελαιών]]</big>** |
+| a hin! | **<big>[[G9824\|ιν]]</big>** |
 [[Exod.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.23|<< Exodus 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.25|Exodus 30:25 >>]]</td></tr></table>
 
 

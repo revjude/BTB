@@ -6,25 +6,25 @@ And from every high mountain and every raised hill, streams of water will flow i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.24|<< Isaiah 30:24]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.26|Isaiah 30:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will be  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הָיָ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ha.Yah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountain  | <span class="ashebrew"><big>הַ֣ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| har <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| high  | <span class="ashebrew"><big>גָּבֹ֗הַ </big></span><small><small><sup>[[H1364]]</sup></small></small> &#8207;| ga.Vo.ha <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל֙ </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hill  | <span class="ashebrew"><big>גִּבְעָ֣ה </big></span><small><small><sup>[[H1389I]]</sup></small></small> &#8207;| giv.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lifted up  | <span class="ashebrew"><big>נִשָּׂאָ֔ה </big></span><small><small><sup>[[H5375G]]</sup></small></small> &#8207;| ni.sa.'Ah <small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| streams  | <span class="ashebrew"><big>פְּלָגִ֖ים </big></span><small><small><sup>[[H6388]]</sup></small></small> &#8207;| pe.la.Gim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| watercourses of  | <span class="ashebrew"><big>יִבְלֵי </big></span><small><small><sup>[[H2988]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yiv.lei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מָ֑יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יוֹם֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> yOm <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| slaughter  | <span class="ashebrew"><big>הֶ֣רֶג </big></span><small><small><sup>[[H2027]]</sup></small></small> &#8207;| He.reg <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>רָ֔ב </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| Rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when fall  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נְפֹ֖ל </big></span><small><small><sup>[[H5307G]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> n.Fol <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| towers  | <span class="ashebrew"><big>מִגְדָּלִֽים </big></span><small><small><sup>[[H4026M]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mig.da.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountain  |**<big>&#8207;[[H2022G\|הַ֣ר]]&#8207; </big>**| har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high  |**<big>&#8207;[[H1364\|גָּבֹ֗הַ]]&#8207; </big>**| ga.Vo.ha<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hill  |**<big>&#8207;[[H1389I\|גִּבְעָ֣ה]]&#8207; </big>**| giv.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lifted up  |**<big>&#8207;[[H5375G\|נִשָּׂאָ֔ה]]&#8207; </big>**| ni.sa.'Ah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| streams  |**<big>&#8207;[[H6388\|פְּלָגִ֖ים]]&#8207; </big>**| pe.la.Gim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watercourses of  |**<big>&#8207;[[H2988\|יִבְלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yiv.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מָ֑יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| slaughter  |**<big>&#8207;[[H2027\|הֶ֣רֶג]]&#8207; </big>**| He.reg<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H7227A\|רָ֔ב]]&#8207; </big>**| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when fall  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5307G\|נְפֹ֖ל]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.Fol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towers  |**<big>&#8207;[[H4026M\|מִגְדָּלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mig.da.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.24|<< Isaiah 30:24]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.26|Isaiah 30:26 >>]]</td></tr></table>
 
 

@@ -10,39 +10,39 @@ The word that came to Jeremiah from the LORD, after that Nebuzaradan the captain
 This is the word that came to Jeremiah from the LORD after Nebuzaradan captain of the guard had released him at Ramah, having found him bound in chains among all the captives of Jerusalem and Judah who were being exiled to Babylon.<small><sub>**MT:**</sub></small>
 [[Jer.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.18|<< Jeremiah 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.2|Jeremiah 40:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">γενόμενος</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jeremiah | <big><span class="asgreek">Ιερεμίαν</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| afterwards | <big><span class="asgreek">ύστερον</span></big> <sup><small><small>[[G5305]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his being sent | <big><span class="asgreek">αποστείλαι</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by Nabuzar-adan | <big><span class="asgreek">Ναβουζαρδάν</span></big> <sup><small><small>[[H5018]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief guard | <big><span class="asgreek">αρχιμάγειρον</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Ramah | <big><span class="asgreek">Ραμά</span></big> <sup><small><small>[[G4471]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| taking | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| manacles | <big><span class="asgreek">χειροπέδαις</span></big> <sup><small><small>[[G9711]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] resettlement | <big><span class="asgreek">αποικίας</span></big> <sup><small><small>[[G6430]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being led | <big><span class="asgreek">αγομένων</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Babylon. | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| word | **<big>[[G3056\|λόγος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| coming | **<big>[[G1096\|γενόμενος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jeremiah | **<big>[[G2408\|Ιερεμίαν]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| afterwards | **<big>[[G5305\|ύστερον]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his being sent | **<big>[[G0649\|αποστείλαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| by Nabuzar-adan | **<big>[[H5018\|Ναβουζαρδάν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| chief guard | **<big>[[G6554\|αρχιμάγειρον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Ramah | **<big>[[G4471\|Ραμά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| taking | **<big>[[G2983\|λαβείν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| manacles | **<big>[[G9711\|χειροπέδαις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of \[the\] resettlement | **<big>[[G6430\|αποικίας]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| being led | **<big>[[G0071\|αγομένων]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Babylon. | **<big>[[G0897\|Βαβυλώνα]]</big>** |
 [[Jer.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.18|<< Jeremiah 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.2|Jeremiah 40:2 >>]]</td></tr></table>
 
 

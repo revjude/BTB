@@ -7,16 +7,16 @@ How shall we sing the LORD’S song in a strange land?
 How can we sing a song of the LORD in a foreign land?<small><sub>**MT:**</sub></small>
 [[Ps.137.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.3|<< Psalm 137:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.5|Psalm 137:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| How | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| should we sing | <big><span class="asgreek">άσωμεν</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ode | <big><span class="asgreek">ωδήν</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| an alien | <big><span class="asgreek">αλλοτρίας</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| How | **<big>[[G4459\|πως]]</big>** |
+| should we sing | **<big>[[G0103\|άσωμεν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ode | **<big>[[G5603\|ωδήν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| an alien | **<big>[[G0245\|αλλοτρίας]]</big>** |
 [[Ps.137.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.3|<< Psalm 137:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.5|Psalm 137:5 >>]]</td></tr></table>
 
 

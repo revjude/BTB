@@ -11,14 +11,14 @@ Strengthen the limp hands and steady the feeble knees!<small><sub>**MT:**</sub>
 > $\quad$ referenced by: [[Heb.12.12|Heb 12:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be strong! | <big><span class="asgreek">ισχύσατε</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| O hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| being forsaken, | <big><span class="asgreek">ανειμέναι</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| knees | <big><span class="asgreek">γόνατα</span></big> <sup><small><small>[[G1119]]</small></small></sup> |
-| being disabled. | <big><span class="asgreek">παραλελυμένα</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
+| Be strong! | **<big>[[G2480\|ισχύσατε]]</big>** |
+| O hands | **<big>[[G5495\|χείρες]]</big>** |
+| being forsaken, | **<big>[[G0447\|ανειμέναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| knees | **<big>[[G1119\|γόνατα]]</big>** |
+| being disabled. | **<big>[[G3886\|παραλελυμένα]]</big>** |
 [[Isa.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.2|<< Isaiah 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.4|Isaiah 35:4 >>]]</td></tr></table>
 
 

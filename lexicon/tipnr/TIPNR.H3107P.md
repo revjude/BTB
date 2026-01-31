@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jozabad</span> was one of the Levites who helped the people understand the Law as Ezra read it aloud.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.8.7|Neh.8.7]]; 
-- only referred to as Jozabad<[[H3107P]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Jozabad **<big>[[H3107|יוֹזָבָד]]</big>**.
 
 Jozabad is mentioned in [[Neh.8.7|Nehemiah 8:7]] as one of the Levites who helped the people understand the Law of Moses as it was being read aloud by Ezra. The context of the passage is the public reading of the Law during the Feast of Tabernacles, after the Israelites had returned from Babylonian exile \(Nehemiah 8:1-18\). 
 
@@ -14,5 +14,5 @@ The Levites' role in teaching and interpreting the Law was crucial for the spiri
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107P) <small>*Hebrew*</small> | 1x | [Neh.8.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=Neh.8.7) |
-All Strong's for **Jozabad**: \[[[H3107P]]\]
+| Jozabad | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ד</span>](H3107P) | 1x | [Neh.8.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jozabad\*\|reference=Neh.8.7) |
+All entries for **Jozabad**:  **<big>[[H3107|יוֹזָבָד]]</big>**

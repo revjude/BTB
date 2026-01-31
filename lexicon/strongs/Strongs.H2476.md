@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲלוּשָׁה‎</span></big> **chălûwshâh** <small>*(khal-oo-shaw')*</small> ==**weakness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine passive participle of <span class="ashebrew">‎חָלַשׁ‎</span><sup><small>[[H2522]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲלוּשָׁה‎</span></big>** **chălûwshâh** <small>*(khal-oo-shaw')*</small> ==**weakness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine passive participle of **<big>[[H2522|‎חָלַשׁ‎]]</big>**</small>
 
 $\quad$ being overcome.
 - ***defeat***

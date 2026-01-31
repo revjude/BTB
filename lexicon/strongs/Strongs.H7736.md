@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שׁוּד‎</span></big> **shûwd** <small>*(shood)*</small> ==**to waste**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שׁוּד‎</span></big>** **shûwd** <small>*(shood)*</small> ==**to waste**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ waste.

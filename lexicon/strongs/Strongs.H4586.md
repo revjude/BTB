@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְעוּנִי‎</span></big> **Mᵉʻûwnîy** <small>*(meh-oo-nee')*</small> ==**Meunite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>or <span class="ashebrew">מְעִינִי</span> **Mᵉʻîynîy** <small>*(meh-eenee')*</small>; probably patrial from <span class="ashebrew">‎מָעוֹן‎</span><sup><small>[[H4584]]</small></sup></small>
+**<big><span class="ashebrew">‎מְעוּנִי‎</span></big>** **Mᵉʻûwnîy** <small>*(meh-oo-nee')*</small> ==**Meunite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>or **<big><span class="ashebrew">מְעִינִי</span></big>** **Mᵉʻîynîy** <small>*(meh-eenee')*</small>; probably patrial from **<big>[[H4584|‎מָעוֹן‎]]</big>**</small>
 
 $\quad$ Mehunim(-s), Meunim.
 - § Mehunim or Meunim = *"habitations"*

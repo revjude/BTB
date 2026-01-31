@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Geshur</span>, an Aramean kingdom ruled by Talmai, was the homeland of David's wife Maacah and a refuge for Absalom after he murdered his half-brother Amnon.
 - A location first mentioned at [[Josh.13.13|Jos.13.13]]; 
-- referred to as Geshur<[[H1650]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>\), or Geshurite<[[H1651]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Geshur **<big>[[H1650|גְּשׁוּר]]</big>**, or Geshurite **<big>[[H1651|גְּשׁוּרִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.000000,36.416670&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,6 +20,6 @@ The biblical narrative portrays Geshur as an independent Aramean kingdom that ha
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Geshur | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1650) <small>*Hebrew*</small> | 9x | [[Jos.13.13] ... [1Ch.3.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geshur\*\|reference=Jos.13.13;2Sa.3.3;2Sa.13.37;2Sa.13.38;2Sa.14.23;2Sa.14.32;2Sa.15.8;1Ch.2.23;1Ch.3.2) |
-| Geshurite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H1651) <small>*Hebrew*</small> | 6x | [[Deu.3.14] ... [1Sa.27.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geshurite\*\|reference=Deu.3.14;Jos.12.5;Jos.13.2;Jos.13.11;Jos.13.13;1Sa.27.8) |
-All Strong's for **Geshur**: \[[[H1650]]\] \[[[H1651]]\]
+| Geshur | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1650) | 9x | [[Jos.13.13] ... [1Ch.3.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geshur\*\|reference=Jos.13.13;2Sa.3.3;2Sa.13.37;2Sa.13.38;2Sa.14.23;2Sa.14.32;2Sa.15.8;1Ch.2.23;1Ch.3.2) |
+| Geshurite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H1651) | 6x | [[Deu.3.14] ... [1Sa.27.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geshurite\*\|reference=Deu.3.14;Jos.12.5;Jos.13.2;Jos.13.11;Jos.13.13;1Sa.27.8) |
+All entries for **Geshur**:  **<big>[[H1650|גְּשׁוּר]]</big>** ☩  **<big>[[H1651|גְּשׁוּרִי]]</big>**

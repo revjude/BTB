@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְמוּאֵל‎</span></big> **Qᵉmûwʼêl** <small>*(kem-oo-ale')*</small> ==**Kemuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; raised of God</small>
+**<big><span class="ashebrew">‎קְמוּאֵל‎</span></big>** **Qᵉmûwʼêl** <small>*(kem-oo-ale')*</small> ==**Kemuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6965|‎קוּם‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; raised of God</small>
 
 $\quad$ Kemuel.
 - § Kemuel = *"raised of God"*

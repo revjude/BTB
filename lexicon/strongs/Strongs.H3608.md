@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎כֶּלֶא‎</span></big> **keleʼ** <small>*(keh'-leh)*</small> ==**prison**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלָא‎</span><sup><small>[[H3607]]</small></sup></small>
+**<big><span class="ashebrew">‎כֶּלֶא‎</span></big>** **keleʼ** <small>*(keh'-leh)*</small> ==**prison**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3607|‎כָּלָא‎]]</big>**</small>
 
-$\quad$ prison. Compare <span class="ashebrew">‎כִּלְאַיִם‎</span><sup><small>[[H3610]]</small></sup>, <span class="ashebrew">‎כְּלִיא‎</span><sup><small>[[H3628]]</small></sup>.
+$\quad$ prison. Compare **<big>[[H3610|‎כִּלְאַיִם‎]]</big>**, **<big>[[H3628|‎כְּלִיא‎]]</big>**.
 - ***a prison***
 
 **1)** imprisonment, confinement, restraint
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φυλακή</span><sup><small>[[G5438]]</small></sup>
+<small>See Greek: </small>**<big>[[G5438|φυλακή]]</big>**

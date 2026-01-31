@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַלְזַל‎</span></big> **zalzal** <small>*(zal-zal')*</small> ==**tendril**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>by reduplication from <span class="ashebrew">‎זָלַל‎</span><sup><small>[[H2151]]</small></sup></small>
+**<big><span class="ashebrew">‎זַלְזַל‎</span></big>** **zalzal** <small>*(zal-zal')*</small> ==**tendril**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>by reduplication from **<big>[[H2151|‎זָלַל‎]]</big>**</small>
 
 $\quad$ sprig.
 - ***tremulous***, i.e. ***a twig***

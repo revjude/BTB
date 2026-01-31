@@ -6,23 +6,23 @@ These were the ones numbered by Moses and Eleazar the priest when they counted t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.62|<< Numbers 26:62]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.64|Numbers 26:64 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֚לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] enrolled [men] of  | <span class="ashebrew"><big>פְּקוּדֵ֣י </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| pe.ku.Dei <small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  | <span class="ashebrew"><big>מֹשֶׁ֔ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eleazar  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶלְעָזָ֖ר </big></span><small><small><sup>[[H0499G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el.'a.Zar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the priest  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֵ֑ן </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.Hen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they enrolled  | <span class="ashebrew"><big>פָּֽקְד֜וּ </big></span><small><small><sup>[[H6485A]]</sup></small></small> &#8207;| pa.ke.Du <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֤י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙ </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] plains of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַֽרְבֹ֣ת </big></span><small><small><sup>[[H6160I]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ar.Vot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֔ב </big></span><small><small><sup>[[H4124I]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַ֖ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Jordan  | <span class="ashebrew"><big>יַרְדֵּ֥ן </big></span><small><small><sup>[[H3383]]</sup></small></small> &#8207;| yar.Den <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Jericho  | <span class="ashebrew"><big>יְרֵחֽוֹ </big></span><small><small><sup>[[H3405G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.re.Cho <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] enrolled [men] of  |**<big>&#8207;[[H6485A\|פְּקוּדֵ֣י]]&#8207; </big>**| pe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eleazar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0499G\|אֶלְעָזָ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֑ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they enrolled  |**<big>&#8207;[[H6485A\|פָּֽקְד֜וּ]]&#8207; </big>**| pa.ke.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] plains of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6160I\|עַֽרְבֹ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.Vot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124I\|מוֹאָ֔ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Jordan  |**<big>&#8207;[[H3383\|יַרְדֵּ֥ן]]&#8207; </big>**| yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Jericho  |**<big>&#8207;[[H3405G\|יְרֵחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.re.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.62|<< Numbers 26:62]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.64|Numbers 26:64 >>]]</td></tr></table>
 
 

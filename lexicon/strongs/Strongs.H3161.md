@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָחַד‎</span></big> **yâchad** <small>*(yaw-khad')*</small> ==**be joined**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָחַד‎</span></big>** **yâchad** <small>*(yaw-khad')*</small> ==**be joined**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ join, unite.

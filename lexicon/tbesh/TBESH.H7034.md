@@ -1,1 +1,0 @@
-<span class="ashebrew">‎קָלָה‎</span> <small>***(qa.lah)***</small> ==**to dishonor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 

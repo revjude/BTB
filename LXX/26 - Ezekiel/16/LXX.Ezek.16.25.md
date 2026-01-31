@@ -7,29 +7,29 @@ Thou hast built thy high place at every head of the way, and hast made thy beaut
 At the head of every street you built your lofty shrines and degraded your beauty. With increasing promiscuity, you spread your legs to all who passed by.<small><sub>**MT:**</sub></small>
 [[Ezek.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every corner | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of \[the\] way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| you built | <big><span class="asgreek">ωκοδόμησας</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your places of harlotry, | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G8866]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| laid waste | <big><span class="asgreek">ελυμήνω</span></big> <sup><small><small>[[G3075]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your beauty. | <big><span class="asgreek">κάλλος</span></big> <sup><small><small>[[G7782]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led through | <big><span class="asgreek">διήγαγες</span></big> <sup><small><small>[[G1236]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your legs | <big><span class="asgreek">σκέλη</span></big> <sup><small><small>[[G4628]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| every one | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| passing by | <big><span class="asgreek">παρόδω</span></big> <sup><small><small>[[G3938]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you multiplied | <big><span class="asgreek">επλήθυνας</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your harlotry. | <big><span class="asgreek">πορνείαν</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| every corner | **<big>[[G0746\|αρχής]]</big>** **<big>[[G3956\|πάσης]]</big>** |
+| of \[the\] way | **<big>[[G3598\|οδού]]</big>** |
+| you built | **<big>[[G3618\|ωκοδόμησας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your places of harlotry, | **<big>[[G8866\|πορνείας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| laid waste | **<big>[[G3075\|ελυμήνω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your beauty. | **<big>[[G7782\|κάλλος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| led through | **<big>[[G1236\|διήγαγες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your legs | **<big>[[G4628\|σκέλη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| every one | **<big>[[G3956\|παντί]]</big>** |
+| passing by | **<big>[[G3938\|παρόδω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you multiplied | **<big>[[G4129\|επλήθυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your harlotry. | **<big>[[G4202\|πορνείαν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
 

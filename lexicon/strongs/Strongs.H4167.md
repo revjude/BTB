@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מוּק‎</span></big> **mûwq** <small>*(mook)*</small> ==**to mock**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מוּק‎</span></big>** **mûwq** <small>*(mook)*</small> ==**to mock**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be corrupt.

@@ -6,18 +6,18 @@ Every male among the priests may eat of it. It must be eaten in a holy place; it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.5|<< Leviticus 7:5]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.7|Leviticus 7:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| male  | <span class="ashebrew"><big>זָכָ֥ר </big></span><small><small><sup>[[H2145]]</sup></small></small> &#8207;| za.Khar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among the priests  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כֹּהֲנִ֖ים </big></span><small><small><sup>[[H3548]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> ko.ha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will eat it  | <span class="ashebrew"><big>יֹאכְלֶ֑ </big></span><small><small><sup>[[H0398]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| yo.khe.Le. <small><sup>[[HVqi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a place  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מָק֤וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holy  | <span class="ashebrew"><big>קָדוֹשׁ֙ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ka.do.Vosh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be eaten  | <span class="ashebrew"><big>יֵאָכֵ֔ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| ye.'a.Khel <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a holy thing of  | <span class="ashebrew"><big>קֹ֥דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holy things  | <span class="ashebrew"><big>קָֽדָשִׁ֖ים </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| ka.da.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male  |**<big>&#8207;[[H2145\|זָכָ֥ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the priests  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֖ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will eat it  |**<big>&#8207;[[H0398\|יֹאכְלֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| yo.khe.Le.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a place  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4725\|מָק֤וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy  |**<big>&#8207;[[H6918G\|קָדוֹשׁ֙]]&#8207; </big>**| ka.do.Vosh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be eaten  |**<big>&#8207;[[H0398\|יֵאָכֵ֔ל]]&#8207; </big>**| ye.'a.Khel<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a holy thing of  |**<big>&#8207;[[H6944G\|קֹ֥דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy things  |**<big>&#8207;[[H6944G\|קָֽדָשִׁ֖ים]]&#8207; </big>**| ka.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.5|<< Leviticus 7:5]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.7|Leviticus 7:7 >>]]</td></tr></table>
 
 

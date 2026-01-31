@@ -7,24 +7,24 @@ Yet it came to pass, when the children of Israel were waxen strong, that they pu
 However, when the Israelites grew stronger, they put the Canaanites to forced labor; but they failed to drive them out completely.<small><sub>**MT:**</sub></small>
 [[Josh.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.12|<< Joshua 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.14|Joshua 17:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| when | <big><span class="asgreek">επεί</span></big> <sup><small><small>[[G1893]]</small></small></sup> |
-| grew strong | <big><span class="asgreek">κατίσχυσαν</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanites | <big><span class="asgreek">Χαναναίους</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| subjects; | <big><span class="asgreek">υπηκόους</span></big> <sup><small><small>[[G5255]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[as\] to utterly destroy, | <big><span class="asgreek">εξολοθρεύσει</span></big> <sup><small><small>[[G1842]][[G1161]]</small></small></sup> |
-| they did not utterly destroy | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξωλόθρευσαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγενήθη]]</big>** |
+| when | **<big>[[G1893\|επεί]]</big>** |
+| grew strong | **<big>[[G2729\|κατίσχυσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Canaanites | **<big>[[G5477\|Χαναναίους]]</big>** |
+| subjects; | **<big>[[G5255\|υπηκόους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[as\] to utterly destroy, | **<big>[[G1842\|εξολοθρεύσει]]</big>**<sup><small>[[G1161\| [ • ] ]]</small></sup> |
+| they did not utterly destroy | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1842\|εξωλόθρευσαν]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Josh.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.12|<< Joshua 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.14|Joshua 17:14 >>]]</td></tr></table>
 
 

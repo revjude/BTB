@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עוֹף‎</span></big> **ʻôwph** <small>*(ofe)*</small> ==**bird**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עוֹף‎</span><sup><small>[[H5775]]</small></sup></small>
+**<big><span class="asaramaic">‎עוֹף‎</span></big>** **ʻôwph** <small>*(ofe)*</small> ==**bird**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5775|‎עוֹף‎]]</big>**</small>
 
 $\quad$ fowl.
 - {***a bird*** (as covered with feathers, or rather as covering with wings), often collectively}

@@ -7,23 +7,23 @@ Therefore sent he thither horses, and chariots, and a great host: and they came 
 the king of Aram sent horses, chariots, and a great army. They went there by night and surrounded the city.<small><sub>**MT:**</sub></small>
 [[2Kgs.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.13|<< 2 Kings 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.15|2 Kings 6:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| chariots, | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| force | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| a heavy | <big><span class="asgreek">βαρείαν</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| at night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| surrounded | <big><span class="asgreek">περιεκύκλωσαν</span></big> <sup><small><small>[[G4033]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| horses | **<big>[[G2462\|ίππους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| chariots, | **<big>[[G0716\|άρματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| force | **<big>[[G1411\|δύναμιν]]</big>** |
+| a heavy | **<big>[[G0926\|βαρείαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|ήλθον]]</big>** |
+| at night, | **<big>[[G3571\|νυκτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| surrounded | **<big>[[G4033\|περιεκύκλωσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city. | **<big>[[G4172\|πόλιν]]</big>** |
 [[2Kgs.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.13|<< 2 Kings 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.15|2 Kings 6:15 >>]]</td></tr></table>
 
 

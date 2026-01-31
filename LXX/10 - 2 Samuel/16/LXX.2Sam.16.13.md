@@ -7,39 +7,39 @@ And as David and his men went by the way, Shimei went along on the hill’s side
 So David and his men proceeded along the road as Shimei went along the ridge of the hill opposite him. As Shimei went, he yelled curses, threw stones, and flung dust at David.<small><sub>**MT:**</sub></small>
 [[2Sam.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.12|<< 2 Samuel 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.14|2 Samuel 16:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David went, | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way; | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shimei | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side | <big><span class="asgreek">κλίτος</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| being next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| him -- | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he went, | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cursed, | <big><span class="asgreek">κατηράτο</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cast | <big><span class="asgreek">έβαλλε</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| on | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dust | <big><span class="asgreek">χοϊ</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| strewing | <big><span class="asgreek">πάσσων</span></big> <sup><small><small>[[G8663]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David went, | **<big>[[G4198\|επορεύετο]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way; | **<big>[[G3598\|οδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shimei | **<big>[[H8096\|Σεμεϊ]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| side | **<big>[[G8026\|κλίτος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| mountain, | **<big>[[G3735\|όρους]]</big>** |
+| being next to | **<big>[[G2192\|εχόμενα]]</big>** |
+| him -- | **<big>[[G1473\|αυτού]]</big>** |
+| he went, | **<big>[[G4198\|επορεύετο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cursed, | **<big>[[G2672\|κατηράτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cast | **<big>[[G0906\|έβαλλε]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| on | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| dust | **<big>[[G5522\|χοϊ]]</big>** |
+| strewing | **<big>[[G8663\|πάσσων]]</big>** |
 [[2Sam.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.12|<< 2 Samuel 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.14|2 Samuel 16:14 >>]]</td></tr></table>
 
 

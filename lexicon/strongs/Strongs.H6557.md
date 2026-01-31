@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֶּרֶץ‎</span></big> **Perets** <small>*(peh'-rets)*</small> ==**Perez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎פֶּרֶץ‎</span><sup><small>[[H6556]]</small></sup></small>
+**<big><span class="ashebrew">‎פֶּרֶץ‎</span></big>** **Perets** <small>*(peh'-rets)*</small> ==**Perez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6556|‎פֶּרֶץ‎]]</big>**</small>
 
 $\quad$ Perez, Pharez.
 - § Perez or Pharez = *"breach"*
@@ -7,4 +7,4 @@ $\quad$ Perez, Pharez.
 
 **1)** twin son with Zarah of Judah by Tamar and ancestor of two families of Judah, the Hezronites and Hamulites; from the Hezronites came the royal line of David and Christ
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Φάρες</span><sup><small>[[G5329]]</small></sup>
+<small>See Greek: </small>**<big>[[G5329|Φάρες]]</big>**

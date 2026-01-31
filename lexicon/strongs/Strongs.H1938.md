@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוֹדַוְיָה‎</span></big> **Hôwdavyâh** <small>*(ho-dav-yaw')*</small> ==**Hodaviah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎הוֹד‎</span><sup><small>[[H1935]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; majesty of Jah</small>
+**<big><span class="ashebrew">‎הוֹדַוְיָה‎</span></big>** **Hôwdavyâh** <small>*(ho-dav-yaw')*</small> ==**Hodaviah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1935|‎הוֹד‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; majesty of Jah</small>
 
 $\quad$ Hodaviah.
 - § Hodaviah = *"praise ye Jehovah"*

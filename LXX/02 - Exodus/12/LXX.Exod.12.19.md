@@ -7,33 +7,33 @@ Seven days shall there be no leaven found in your houses: for whosoever eateth t
 For seven days there must be no leaven found in your houses. If anyone eats something leavened, that person, whether a foreigner or native of the land, must be cut off from the congregation of Israel.<small><sub>**MT:**</sub></small>
 [[Exod.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.18|<< Exodus 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.20|Exodus 12:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[For\] seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| yeast | <big><span class="asgreek">ζύμη</span></big> <sup><small><small>[[G2219]]</small></small></sup> |
-| shall not be found | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευρεθήσεται</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses. | <big><span class="asgreek">οικίαις</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| whosoever | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should eat | <big><span class="asgreek">φάγη</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| leavened \[bread\], | <big><span class="asgreek">ζυμωτόν</span></big> <sup><small><small>[[G7608]]</small></small></sup> |
-| shall utterly be destroyed | <big><span class="asgreek">εξολοθρευθήσεται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| unto | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">γειώραις</span></big> <sup><small><small>[[G6724]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| native born | <big><span class="asgreek">αυτόχθοσι</span></big> <sup><small><small>[[G6611]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \[For\] seven | **<big>[[G2033\|επτά]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| yeast | **<big>[[G2219\|ζύμη]]</big>** |
+| shall not be found | **<big>[[G3756\|ουχ]]</big>** **<big>[[G2147\|ευρεθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your houses. | **<big>[[G3614\|οικίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| whosoever | **<big>[[G3739\|ος]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should eat | **<big>[[G2068\|φάγη]]</big>** |
+| leavened \[bread\], | **<big>[[G7608\|ζυμωτόν]]</big>** |
+| shall utterly be destroyed | **<big>[[G1842\|εξολοθρευθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] congregation | **<big>[[G4864\|συναγωγής]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| unto | **<big>[[G1722\|εν]]</big>** |
+| both | **<big>[[G5037\|τε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| foreigners | **<big>[[G6724\|γειώραις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| native born | **<big>[[G6611\|αυτόχθοσι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[Exod.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.18|<< Exodus 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.20|Exodus 12:20 >>]]</td></tr></table>
 
 

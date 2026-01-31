@@ -7,38 +7,38 @@ But ye turned and polluted my name, and caused every man his servant, and every 
 But now you have changed your minds and profaned My name. Each of you has taken back the menservants and maidservants whom you had set at liberty to go wherever they wanted, and you have again forced them to be your slaves.<small><sub>**MT:**</sub></small>
 [[Jer.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.15|<< Jeremiah 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.17|Jeremiah 34:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you turned | <big><span class="asgreek">επεστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| profaned | <big><span class="asgreek">εβεβηλώσατε</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to return | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his manservant, | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his maidservant, | <big><span class="asgreek">παιδίσκην</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you sent out | <big><span class="asgreek">εξαπεστείλατε</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| as ones free | <big><span class="asgreek">ελευθέρους</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in their soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you subjected | <big><span class="asgreek">υπετάξατε</span></big> <sup><small><small>[[G5293]]</small></small></sup> |
-| them \[again\] | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| manservants | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| maidservants. | <big><span class="asgreek">παιδίσκας</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you turned | **<big>[[G1994\|επεστρέψατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| profaned | **<big>[[G0953\|εβεβηλώσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to return | **<big>[[G1994\|επιστρέψαι]]</big>** |
+| each | **<big>[[G1538\|έκαστον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his manservant, | **<big>[[G3816\|παίδα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| each | **<big>[[G1538\|έκαστον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his maidservant, | **<big>[[G3814\|παιδίσκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| you sent out | **<big>[[G1821\|εξαπεστείλατε]]</big>** |
+| as ones free | **<big>[[G1658\|ελευθέρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in their soul, | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you subjected | **<big>[[G5293\|υπετάξατε]]</big>** |
+| them \[again\] | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| manservants | **<big>[[G3816\|παίδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| maidservants. | **<big>[[G3814\|παιδίσκας]]</big>** |
 [[Jer.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.15|<< Jeremiah 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.17|Jeremiah 34:17 >>]]</td></tr></table>
 
 

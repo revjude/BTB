@@ -7,26 +7,26 @@ For [it was] the king’s commandment concerning them, that a certain portion sh
 For there was a command from the king concerning the singers, an ordinance regulating their daily activities.<small><sub>**MT:**</sub></small>
 [[Neh.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.22|<< Nehemiah 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.24|Nehemiah 11:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a commandment | <big><span class="asgreek">εντολή</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[was\] upon them, | <big><span class="asgreek">επ΄ αυτούς</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it continued | <big><span class="asgreek">διέμενεν</span></big> <sup><small><small>[[G1265]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trust | <big><span class="asgreek">πίστει</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| singers | <big><span class="asgreek">ωδοίς</span></big> <sup><small><small>[[G9808]]</small></small></sup> |
-| a reckoning | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| each | <big><span class="asgreek">εκάστης</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its day. | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a commandment | **<big>[[G1785\|εντολή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \[was\] upon them, | **<big>[[G1909\|επ΄ αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it continued | **<big>[[G1265\|διέμενεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| trust | **<big>[[G4102\|πίστει]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| singers | **<big>[[G9808\|ωδοίς]]</big>** |
+| a reckoning | **<big>[[G3056\|λόγος]]</big>** |
+| each | **<big>[[G1538\|εκάστης]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| its day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Neh.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.22|<< Nehemiah 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.24|Nehemiah 11:24 >>]]</td></tr></table>
 
 

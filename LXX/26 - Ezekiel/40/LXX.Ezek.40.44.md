@@ -7,49 +7,49 @@ And without the inner gate [were] the chambers of the singers in the inner court
 Outside the inner gate, within the inner court, were two chambers, one beside the north gate and facing south, and another beside the south gate and facing north.<small><sub>**MT:**</sub></small>
 [[Ezek.40.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.43|<< Ezekiel 40:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.45|Ezekiel 40:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εισήγαγέ</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλήν</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέραν</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[there were\] two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| inner chambers | <big><span class="asgreek">εξέδραι</span></big> <sup><small><small>[[G7306]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέρα</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] back | <big><span class="asgreek">νώτου</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| bearing | <big><span class="asgreek">φέρουσα</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] south. | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] back | <big><span class="asgreek">νώτου</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπούσης</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1521\|εισήγαγέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| courtyard | **<big>[[G0833\|αυλήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| inner | **<big>[[G2082\|εσωτέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[there were\] two | **<big>[[G1417\|δύο]]</big>** |
+| inner chambers | **<big>[[G7306\|εξέδραι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| inner | **<big>[[G2082\|εσωτέρα]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] back | **<big>[[G3577\|νώτου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north | **<big>[[G1005\|βορράν]]</big>** |
+| bearing | **<big>[[G5342\|φέρουσα]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] south. | **<big>[[G3558\|νότον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] back | **<big>[[G3577\|νώτου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south | **<big>[[G3558\|νότον]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| looking | **<big>[[G0991\|βλεπούσης]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορράν]]</big>** |
 [[Ezek.40.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.43|<< Ezekiel 40:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.45|Ezekiel 40:45 >>]]</td></tr></table>
 
 

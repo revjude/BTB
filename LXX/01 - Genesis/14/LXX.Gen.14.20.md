@@ -11,27 +11,27 @@ and blessed be God Most High, who has delivered your enemies into your hand.” 
 > $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blessed \[be\] | <big><span class="asgreek">ευλογητός</span></big> <sup><small><small>[[G2128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest | <big><span class="asgreek">υψίστος</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| delivered up | <big><span class="asgreek">παρέδωκε</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under your hands | <big><span class="asgreek">υποχειρίους</span></big> <sup><small><small>[[G9597]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| a tenth | <big><span class="asgreek">δεκάτην</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all. | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| blessed \[be\] | **<big>[[G2128\|ευλογητός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| highest | **<big>[[G5310\|υψίστος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| delivered up | **<big>[[G3860\|παρέδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your enemies | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| under your hands | **<big>[[G9597\|υποχειρίους]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| a tenth | **<big>[[G1181\|δεκάτην]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all. | **<big>[[G3956\|πάντων]]</big>** |
 [[Gen.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.19|<< Genesis 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.21|Genesis 14:21 >>]]</td></tr></table>
 
 

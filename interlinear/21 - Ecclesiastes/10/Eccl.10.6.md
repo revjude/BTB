@@ -6,15 +6,15 @@ Folly is appointed to great heights, but the rich sit in lowly positions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.5|<< Ecclesiastes 10:5]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.7|Ecclesiastes 10:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it is put  | <span class="ashebrew"><big>נִתַּ֣ן </big></span><small><small><sup>[[H5414H]]</sup></small></small> &#8207;| ni.Tan <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> folly  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>סֶּ֔כֶל </big></span><small><small><sup>[[H5529]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Se.khel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> high places  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מְּרוֹמִ֖ים </big></span><small><small><sup>[[H4791]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> me.ro.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּ֑ים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and rich [people]  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲשִׁירִ֖ים </big></span><small><small><sup>[[H6223]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.shi.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the low place  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵּׁ֥פֶל </big></span><small><small><sup>[[H8216]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> She.fel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they sit  | <span class="ashebrew"><big>יֵשֵֽׁבוּ </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.She.vu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is put  |**<big>&#8207;[[H5414H\|נִתַּ֣ן]]&#8207; </big>**| ni.Tan<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> folly  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5529\|סֶּ֔כֶל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Se.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> high places  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4791\|מְּרוֹמִ֖ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.ro.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּ֑ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rich [people]  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6223\|עֲשִׁירִ֖ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.shi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the low place  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8216\|שֵּׁ֥פֶל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> She.fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sit  |**<big>&#8207;[[H3427\|יֵשֵֽׁבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.She.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.5|<< Ecclesiastes 10:5]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.7|Ecclesiastes 10:7 >>]]</td></tr></table>
 
 

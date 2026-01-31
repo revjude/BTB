@@ -4,8 +4,8 @@ Ammonite living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nahash</span>, the king of the Ammonites, provided supplies to David and his men during their time in Mahanaim.
 - A man of the Ammonites living at the time of United Monarchy, only mentioned at [[2Sam.17.27|2Sa.17.27]]; 
-- only referred to as Nahash<[[H5176J]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  father of Shobi<[[H7629]]>.
+- only referred to as Nahash **<big>[[H5176|נָחָשׁ]]</big>**; 
+-  father of Shobi **<big>[[H7629|שֹׁבִי]]</big>**.
 
 Nahash, the king of the Ammonites, is mentioned in [[2Sam.17.27|2 Samuel 17:27]] as one of the individuals who provided support to King David and his followers during their time in Mahanaim. This event took place during Absalom's rebellion against David, when the king was forced to flee from Jerusalem. 
 
@@ -17,7 +17,7 @@ It is worth noting that there are other mentions of a king named Nahash of the A
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176J) <small>*Hebrew*</small> | 1x | [2Sa.17.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.17.27) |
-All Strong's for **Nahash**: \[[[H5176J]]\]
+| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176J) | 1x | [2Sa.17.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.17.27) |
+All entries for **Nahash**:  **<big>[[H5176|נָחָשׁ]]</big>**
 #### Related Profiles:
 - **[Shobi](H7629)** (child)

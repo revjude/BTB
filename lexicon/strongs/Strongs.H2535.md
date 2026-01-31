@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַמָּה‎</span></big> **chammâh** <small>*(kham-maw')*</small> ==**heat**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָם‎</span><sup><small>[[H2525]]</small></sup></small>
+**<big><span class="ashebrew">‎חַמָּה‎</span></big>** **chammâh** <small>*(kham-maw')*</small> ==**heat**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2525|‎חָם‎]]</big>**</small>
 
 $\quad$ heat, sun.
 - ***heat***
@@ -7,4 +7,4 @@ $\quad$ heat, sun.
 
 **1)** sun, heat of the sun, heat
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἥλιος</span><sup><small>[[G2246]]</small></sup>
+<small>See Greek: </small>**<big>[[G2246|ἥλιος]]</big>**

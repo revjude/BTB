@@ -7,41 +7,41 @@ And this shall be the priest’s due from the people, from them that offer a sac
 This shall be the priests’ share from the people who offer a sacrifice, whether a bull or a sheep: the priests are to be given the shoulder, the jowls, and the stomach.<small><sub>**MT:**</sub></small>
 [[Deut.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.2|<< Deuteronomy 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.4|Deuteronomy 18:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| distinguishing thing | <big><span class="asgreek">κρίσις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests -- | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones sacrificing | <big><span class="asgreek">θύοντων</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifices, | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| a calf, | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| or if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| a sheep -- | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder | <big><span class="asgreek">βραχίονα</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| jawbones, | <big><span class="asgreek">σιαγόνια</span></big> <sup><small><small>[[G9074]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| large intestine, | <big><span class="asgreek">ένυστρον</span></big> <sup><small><small>[[G7275]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| this \[is\] | **<big>[[G3778\|αύτη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| distinguishing thing | **<big>[[G2920\|κρίσις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests -- | **<big>[[G2409\|ιερέων]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ones sacrificing | **<big>[[G2380\|θύοντων]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sacrifices, | **<big>[[G2378\|θυσίας]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| both | **<big>[[G5037\|τε]]</big>** |
+| a calf, | **<big>[[G3448\|μόσχον]]</big>** |
+| or if | **<big>[[G1437\|εάν]]</big>** |
+| also | **<big>[[G5037\|τε]]</big>** |
+| a sheep -- | **<big>[[G4263\|πρόβατον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall give | **<big>[[G1325\|δώσεις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shoulder | **<big>[[G1023\|βραχίονα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| priest, | **<big>[[G2409\|ιερεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| jawbones, | **<big>[[G9074\|σιαγόνια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| large intestine, | **<big>[[G7275\|ένυστρον]]</big>** |
 [[Deut.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.2|<< Deuteronomy 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.4|Deuteronomy 18:4 >>]]</td></tr></table>
 
 

@@ -7,40 +7,40 @@ And, behold, there came a great wind from the wilderness, and smote the four cor
 when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on the young people and they are dead, and I alone have escaped to tell you!”<small><sub>**MT:**</sub></small>
 [[Job.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.18|<< Job 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.20|Job 1:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Suddenly | <big><span class="asgreek">εξαίφνης</span></big> <sup><small><small>[[G1810]]</small></small></sup> |
-| wind | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| came upon \[them\] | <big><span class="asgreek">επήλθεν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness, | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| corners | <big><span class="asgreek">γωνιών</span></big> <sup><small><small>[[G1137]]</small></small></sup> |
-| of their | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell | <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children, | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came to an end; | <big><span class="asgreek">ετελεύτησαν</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| escaped | <big><span class="asgreek">εσώθην</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to report | <big><span class="asgreek">απαγγείλαί</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Suddenly | **<big>[[G1810\|εξαίφνης]]</big>** |
+| wind | **<big>[[G4151\|πνεύμα]]</big>** |
+| a great | **<big>[[G3173\|μέγας]]</big>** |
+| came upon \[them\] | **<big>[[G1904\|επήλθεν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| wilderness, | **<big>[[G2048\|ερήμου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it touched | **<big>[[G0680\|ήψατο]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| corners | **<big>[[G1137\|γωνιών]]</big>** |
+| of their | **<big>[[G3588\|της]]</big>** |
+| house, | **<big>[[G3614\|οικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fell | **<big>[[G4098\|έπεσεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| house | **<big>[[G3614\|οικία]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children, | **<big>[[G3813\|παιδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they came to an end; | **<big>[[G5053\|ετελεύτησαν]]</big>** |
+| escaped | **<big>[[G4982\|εσώθην]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I came | **<big>[[G2064\|ήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to report | **<big>[[G0518\|απαγγείλαί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Job.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.18|<< Job 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.20|Job 1:20 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-form of: <small>[[G1510]]</small> 
+form of: <small>**<big>[[G1510|εἰμί]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ὤν==</span></b> 

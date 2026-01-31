@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵרִי‎</span></big> **ʻÊrîy** <small>*(ay-ree')*</small> ==**Eri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּר‎</span><sup><small>[[H5782]]</small></sup>; watchful</small>
+**<big><span class="ashebrew">‎עֵרִי‎</span></big>** **ʻÊrîy** <small>*(ay-ree')*</small> ==**Eri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5782|‎עוּר‎]]</big>**; watchful</small>
 
 $\quad$ Eri.
 - § Eri = *"watchful"*

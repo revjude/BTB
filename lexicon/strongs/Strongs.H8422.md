@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תּוּבַל‎</span></big> **Tûwbal** <small>*(too-bal')*</small> ==**Tubal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">תֻּבַל</span> **Tubal** <small>*(too-bal')*</small>; probably of foreign derivation</small>
+**<big><span class="ashebrew">‎תּוּבַל‎</span></big>** **Tûwbal** <small>*(too-bal')*</small> ==**Tubal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֻּבַל</span></big>** **Tubal** <small>*(too-bal')*</small>; probably of foreign derivation</small>
 
 $\quad$ Tubal.
 - § Tubal = *"thou shall be brought"*

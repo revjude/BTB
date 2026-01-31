@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָתַק‎</span></big> **nâthaq** <small>*(naw-thak')*</small> ==**to tear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָתַק‎</span></big>** **nâthaq** <small>*(naw-thak')*</small> ==**to tear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ break (off), burst, draw (away), lift up, pluck (away, off), pull (out), root out.
@@ -21,4 +21,4 @@ $\quad$ $\quad$ **1d1)** to draw away
 $\quad$ $\quad$ **1d2)** to drag away
 $\quad$ **1e)** (Hophal) to be drawn away
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποσπάω</span><sup><small>[[G0645]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">διασπάω</span><sup><small>[[G1288]]</small></sup> · <span class="asgreek">ἐξέλκω</span><sup><small>[[G1828]]</small></sup> · <span class="asgreek">παράγω</span><sup><small>[[G3855]]</small></sup> · <span class="asgreek">ῥήγνυμι</span><sup><small>[[G4486]]</small></sup> · <span class="asgreek">σπάω</span><sup><small>[[G4685]]</small></sup>
+<small>See Greek: </small>**<big>[[G0645|ἀποσπάω]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G1288|διασπάω]]</big>** · **<big>[[G1828|ἐξέλκω]]</big>** · **<big>[[G3855|παράγω]]</big>** · **<big>[[G4486|ῥήγνυμι]]</big>** · **<big>[[G4685|σπάω]]</big>**

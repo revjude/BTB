@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַחֵר‎</span></big> **ʼachêr** <small>*(akh-air')*</small> ==**another**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎אָחַר‎</span><sup><small>[[H0309]]</small></sup></small>
+**<big><span class="ashebrew">‎אַחֵר‎</span></big>** **ʼachêr** <small>*(akh-air')*</small> ==**another**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H0309|‎אָחַר‎]]</big>**</small>
 
 $\quad$ (an-) other man, following, next, strange.
 - properly, ***hinder***
@@ -9,4 +9,4 @@ $\quad$ (an-) other man, following, next, strange.
 $\quad$ **1a)** following, further
 $\quad$ **1b)** other, different
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄλλος</span><sup><small>[[G0243]]</small></sup> · <span class="asgreek">ἀλλότριος</span><sup><small>[[G0245]]</small></sup> · <span class="asgreek">ἔντιμος</span><sup><small>[[G1784]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup> · <span class="asgreek">καινός</span><sup><small>[[G2537]]</small></sup>
+<small>See Greek: </small>**<big>[[G0243|ἄλλος]]</big>** · **<big>[[G0245|ἀλλότριος]]</big>** · **<big>[[G1784|ἔντιμος]]</big>** · **<big>[[G2087|ἕτερος]]</big>** · **<big>[[G2537|καινός]]</big>**

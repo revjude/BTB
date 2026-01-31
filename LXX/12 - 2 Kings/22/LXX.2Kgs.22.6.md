@@ -7,29 +7,29 @@ Unto carpenters, and builders, and masons, and to buy timber and hewn stone to r
 to the carpenters, builders, and masons—to buy timber and dressed stone to repair the temple.<small><sub>**MT:**</sub></small>
 [[2Kgs.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.5|<< 2 Kings 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.7|2 Kings 22:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fabricators, | <big><span class="asgreek">τέκτοσι</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| builders, | <big><span class="asgreek">οικοδόμοις</span></big> <sup><small><small>[[G6065]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stonemasons, | <big><span class="asgreek">τειχισταίς</span></big> <sup><small><small>[[G9410]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to acquire | <big><span class="asgreek">κτήσασθαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| quarried | <big><span class="asgreek">λατομητούς</span></big> <sup><small><small>[[G8165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to fortify | <big><span class="asgreek">κραταιώσαι</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breach | <big><span class="asgreek">βεδέκ</span></big> <sup><small><small>[[G6665]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| fabricators, | **<big>[[G5045\|τέκτοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| builders, | **<big>[[G6065\|οικοδόμοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| stonemasons, | **<big>[[G9410\|τειχισταίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to acquire | **<big>[[G2932\|κτήσασθαι]]</big>** |
+| wood | **<big>[[G3586\|ξύλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| quarried | **<big>[[G8165\|λατομητούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to fortify | **<big>[[G2901\|κραταιώσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breach | **<big>[[G6665\|βεδέκ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house. | **<big>[[G3624\|οίκου]]</big>** |
 [[2Kgs.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.5|<< 2 Kings 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.7|2 Kings 22:7 >>]]</td></tr></table>
 
 

@@ -7,35 +7,35 @@ Then they that feared the LORD spake often one to another: and the LORD hearkene
 At that time those who feared the LORD spoke with one another, and the LORD listened and heard them. So a scroll of remembrance was written before Him regarding those who feared the LORD and honored His name.<small><sub>**MT:**</sub></small>
 [[Mal.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.15|<< Malachi 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.17|Malachi 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| spoke | <big><span class="asgreek">κατελάλησαν</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβούμενοι</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> heeded, | <big><span class="asgreek">προσέσχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hearkened, | <big><span class="asgreek">εισήκουσε</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wrote | <big><span class="asgreek">έγραψε</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| a scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of memorial | <big><span class="asgreek">μνημοσύνου</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβουμένοις</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| venerating | <big><span class="asgreek">ευλαβουμένοις</span></big> <sup><small><small>[[G2125]]</small></small></sup> |
-| his name. | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| spoke | **<big>[[G2635\|κατελάλησαν]]</big>** |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| fearing | **<big>[[G5399\|φοβούμενοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his neighbor. | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> heeded, | **<big>[[G4337\|προσέσχε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hearkened, | **<big>[[G1522\|εισήκουσε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wrote | **<big>[[G1125\|έγραψε]]</big>** |
+| a scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| of memorial | **<big>[[G3422\|μνημοσύνου]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| fearing | **<big>[[G5399\|φοβουμένοις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| venerating | **<big>[[G2125\|ευλαβουμένοις]]</big>** |
+| his name. | **<big>[[G3588\|το]]</big>** **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Mal.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.15|<< Malachi 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.17|Malachi 3:17 >>]]</td></tr></table>
 
 

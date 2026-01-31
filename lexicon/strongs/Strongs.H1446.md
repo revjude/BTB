@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְדֹר‎</span></big> **Gᵉdôr** <small>*(ghed-ore')*</small> ==**Gedor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (fully) <span class="ashebrew">גְּדוֹר</span> **Gᵉdôwr** <small>*(ghed-ore')*</small>; from <span class="ashebrew">‎גָּדַר‎</span><sup><small>[[H1443]]</small></sup>; inclosure</small>
+**<big><span class="ashebrew">‎גְדֹר‎</span></big>** **Gᵉdôr** <small>*(ghed-ore')*</small> ==**Gedor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (fully) **<big><span class="ashebrew">גְּדוֹר</span></big>** **Gᵉdôwr** <small>*(ghed-ore')*</small>; from **<big>[[H1443|‎גָּדַר‎]]</big>**; inclosure</small>
 
 $\quad$ Gedor.
 - § Gedor = *"wall"*

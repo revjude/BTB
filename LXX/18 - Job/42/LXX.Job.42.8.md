@@ -7,43 +7,43 @@ Therefore take unto you now seven bullocks and seven rams, and go to my servant 
 So now, take seven bulls and seven rams, go to My servant Job, and sacrifice a burnt offering for yourselves. Then My servant Job will pray for you, for I will accept his prayer and not deal with you according to your folly. For you have not spoken accurately about Me, as My servant Job has.”<small><sub>**MT:**</sub></small>
 [[Job.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.7|<< Job 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.9|Job 42:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| rams, | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my attendant | <big><span class="asgreek">θεράποντά</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Job! | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall offer | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a yield \[offering\] | <big><span class="asgreek">κάρπωσιν</span></big> <sup><small><small>[[G7807]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| of his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall I receive | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for but | <big><span class="asgreek">ει μη γαρ</span></big> <sup><small><small>[[G1508]][[G1063]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[would\] have destroyed | <big><span class="asgreek">απώλεσα</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| you. | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| you did | <big><span class="asgreek">ελαλήσατε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| true | <big><span class="asgreek">αληθές</span></big> <sup><small><small>[[G0227]]</small></small></sup> |
-| concerning | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my attendant | <big><span class="asgreek">θεράποντός</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Job. | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
+| And now, | **<big>[[G3568\|νυν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| take | **<big>[[G2983\|λάβετε]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| calves, | **<big>[[G3448\|μόσχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| rams, | **<big>[[G8096\|κριούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go | **<big>[[G4198\|πορεύθητε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my attendant | **<big>[[G2324\|θεράποντά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Job! | **<big>[[G2492\|Ιωβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall offer | **<big>[[G4160\|ποιήσει]]</big>** |
+| a yield \[offering\] | **<big>[[G7807\|κάρπωσιν]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| in no way | **<big>[[G1508\|ει μη]]</big>** |
+| of his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall I receive | **<big>[[G2983\|λήψομαι]]</big>** |
+| for but | **<big>[[G1508\|ει μη γαρ]]</big>**<sup><small>[[G1063\| [ • ] ]]</small></sup> |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| I \[would\] have destroyed | **<big>[[G0622\|απώλεσα]]</big>** |
+| you. | **<big>[[G0302\|αν]]</big>** **<big>[[G1473\|υμάς]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| you did | **<big>[[G2980\|ελαλήσατε]]</big>** |
+| true | **<big>[[G0227\|αληθές]]</big>** |
+| concerning | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my attendant | **<big>[[G2324\|θεράποντός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Job. | **<big>[[G2492\|Ιωβ]]</big>** |
 [[Job.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.7|<< Job 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.9|Job 42:9 >>]]</td></tr></table>
 
 

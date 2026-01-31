@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְחוּיָאֵל‎</span></big> **Mᵉchûwyâʼêl** <small>*(mekh-oo-yaw-ale')*</small> ==**Mehujael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מְחִיּיָאֵל</span> **Mᵉchîyyâʼêl** <small>*(mekh-ee-yaw-ale')*</small>; from <span class="ashebrew">‎מָחָה‎</span><sup><small>[[H4229]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; smitten of God</small>
+**<big><span class="ashebrew">‎מְחוּיָאֵל‎</span></big>** **Mᵉchûwyâʼêl** <small>*(mekh-oo-yaw-ale')*</small> ==**Mehujael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מְחִיּיָאֵל</span></big>** **Mᵉchîyyâʼêl** <small>*(mekh-ee-yaw-ale')*</small>; from **<big>[[H4229|‎מָחָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; smitten of God</small>
 
 $\quad$ Mehujael.
 - § Mehujael = *"smitten by God"*

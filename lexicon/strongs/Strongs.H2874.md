@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טֶבַח‎</span></big> **ṭebach** <small>*(teh'-bakh)*</small> ==**slaughter**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎טָבַח‎</span><sup><small>[[H2873]]</small></sup></small>
+**<big><span class="ashebrew">‎טֶבַח‎</span></big>** **ṭebach** <small>*(teh'-bakh)*</small> ==**slaughter**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2873|‎טָבַח‎]]</big>**</small>
 
 $\quad$ [idiom] beast, slaughter, [idiom] slay, [idiom] sore.
 - properly, ***something slaughtered***
@@ -10,4 +10,4 @@ $\quad$ [idiom] beast, slaughter, [idiom] slay, [idiom] sore.
 $\quad$ **1a)** slaughtering, slaughter (of animals)
 $\quad$ **1b)** slaughter (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σφάγιον</span><sup><small>[[G4968]]</small></sup>
+<small>See Greek: </small>**<big>[[G4968|σφάγιον]]</big>**

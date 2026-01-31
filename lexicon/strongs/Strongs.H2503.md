@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלֶץ‎</span></big> **Chelets** <small>*(kheh'-lets)*</small> ==**Helez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חֵלֶץ</span> **Chêlets** <small>*(khay'-lets)*</small>; from <span class="ashebrew">‎חָלַץ‎</span><sup><small>[[H2502]]</small></sup>; perhaps, strength</small>
+**<big><span class="ashebrew">‎חֶלֶץ‎</span></big>** **Chelets** <small>*(kheh'-lets)*</small> ==**Helez**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֵלֶץ</span></big>** **Chêlets** <small>*(khay'-lets)*</small>; from **<big>[[H2502|‎חָלַץ‎]]</big>**; perhaps, strength</small>
 
 $\quad$ Helez.
 - § Helez = *"he has saved"*

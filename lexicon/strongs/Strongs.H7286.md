@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָדַד‎</span></big> **râdad** <small>*(raw-dad')*</small> ==**to subdue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָדַד‎</span></big>** **râdad** <small>*(raw-dad')*</small> ==**to subdue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ spend, spread, subdue.
@@ -8,4 +8,4 @@ $\quad$ spend, spread, subdue.
 $\quad$ **1a)** (Qal) to beat down (fig)
 $\quad$ **1b)** (Hiphil) to beat out
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπακούω</span><sup><small>[[G1873]]</small></sup> · <span class="asgreek">ὑποτάσσω</span><sup><small>[[G5293]]</small></sup>
+<small>See Greek: </small>**<big>[[G1873|ἐπακούω]]</big>** · **<big>[[G5293|ὑποτάσσω]]</big>**

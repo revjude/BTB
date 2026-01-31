@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁקֶר‎</span></big> **sheqer** <small>*(sheh'-ker)*</small> ==**deception**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁקַר‎</span><sup><small>[[H8266]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁקֶר‎</span></big>** **sheqer** <small>*(sheh'-ker)*</small> ==**deception**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8266|‎שָׁקַר‎]]</big>**</small>
 
 $\quad$ without a cause, deceit(-ful), false(-hood, -ly), feignedly, liar, [phrase] lie, lying, vain (thing), wrongfully.
 - ***an untruth***
@@ -16,4 +16,4 @@ $\quad$ **1e)** lie, falsehood (in general)
 $\quad$ $\quad$ **1e1)** false tongue
 $\quad$ **1f)** in vain
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἄδικος</span><sup><small>[[G0094]]</small></sup> · <span class="asgreek">ἀδίκως</span><sup><small>[[G0095]]</small></sup> · <span class="asgreek">ἀνομία</span><sup><small>[[G0458]]</small></sup> · <span class="asgreek">ἄνομος</span><sup><small>[[G0459]]</small></sup> · <span class="asgreek">δόλιος</span><sup><small>[[G1386]]</small></sup> · <span class="asgreek">κενός</span><sup><small>[[G2756]]</small></sup> · <span class="asgreek">ματαιόω</span><sup><small>[[G3154]]</small></sup> · <span class="asgreek">ψευδής</span><sup><small>[[G5571]]</small></sup> · <span class="asgreek">ψεῦδος</span><sup><small>[[G5579]]</small></sup>
+<small>See Greek: </small>**<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0094|ἄδικος]]</big>** · **<big>[[G0095|ἀδίκως]]</big>** · **<big>[[G0458|ἀνομία]]</big>** · **<big>[[G0459|ἄνομος]]</big>** · **<big>[[G1386|δόλιος]]</big>** · **<big>[[G2756|κενός]]</big>** · **<big>[[G3154|ματαιόω]]</big>** · **<big>[[G5571|ψευδής]]</big>** · **<big>[[G5579|ψεῦδος]]</big>**

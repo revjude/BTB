@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֹק‎</span></big> **chôq** <small>*(khoke)*</small> ==**statute: decree**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָקַק‎</span><sup><small>[[H2710]]</small></sup></small>
+**<big><span class="ashebrew">‎חֹק‎</span></big>** **chôq** <small>*(khoke)*</small> ==**statute: decree**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2710|‎חָקַק‎]]</big>**</small>
 
 $\quad$ appointed, bound, commandment, convenient, custom, decree(-d), due, law, measure, [idiom] necessary, ordinance(-nary), portion, set time, statute, task.
 - ***an enactment***
@@ -20,4 +20,4 @@ $\quad$ $\quad$ **1g2)** enactments
 $\quad$ $\quad$ **1g3)** decrees
 $\quad$ $\quad$ **1g4)** civil enactments prescribed by God
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀριθμέω</span><sup><small>[[G0705]]</small></sup> · <span class="asgreek">αὐτάρκης</span><sup><small>[[G0842]]</small></sup> · <span class="asgreek">δικαίωμα</span><sup><small>[[G1345]]</small></sup> · <span class="asgreek">δόσις</span><sup><small>[[G1394]]</small></sup> · <span class="asgreek">ἐντολή</span><sup><small>[[G1785]]</small></sup> · <span class="asgreek">ἔργον</span><sup><small>[[G2041]]</small></sup> · <span class="asgreek">κρίμα</span><sup><small>[[G2917]]</small></sup> · <span class="asgreek">νόμος</span><sup><small>[[G3551]]</small></sup> · <span class="asgreek">ὅριον</span><sup><small>[[G3725]]</small></sup>
+<small>See Greek: </small>**<big>[[G0705|ἀριθμέω]]</big>** · **<big>[[G0842|αὐτάρκης]]</big>** · **<big>[[G1345|δικαίωμα]]</big>** · **<big>[[G1394|δόσις]]</big>** · **<big>[[G1785|ἐντολή]]</big>** · **<big>[[G2041|ἔργον]]</big>** · **<big>[[G2917|κρίμα]]</big>** · **<big>[[G3551|νόμος]]</big>** · **<big>[[G3725|ὅριον]]</big>**

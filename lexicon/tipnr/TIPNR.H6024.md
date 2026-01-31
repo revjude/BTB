@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Anab</span>, a town in Judah's hill country, captured by Joshua.
 - A location first mentioned at [[Josh.11.21|Jos.11.21]]; 
-- only referred to as Anab<[[H6024]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ב</span>\).
+- only referred to as Anab **<big>[[H6024|עֲנָב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.403888,34.944185&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ No other information about Anab is provided in the Bible, and the city is not me
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Anab | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ב</span>](H6024) <small>*Hebrew*</small> | 2x | [[Jos.11.21] & [Jos.15.50] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anab\*\|reference=Jos.11.21;Jos.15.50) |
-All Strong's for **Anab**: \[[[H6024]]\]
+| Anab | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ב</span>](H6024) | 2x | [[Jos.11.21] & [Jos.15.50] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anab\*\|reference=Jos.11.21;Jos.15.50) |
+All entries for **Anab**:  **<big>[[H6024|עֲנָב]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נֶגֶב‎</span></big> **negeb** <small>*(neh'-gheb)*</small> ==**Negeb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎נֶגֶב‎</span></big>** **negeb** <small>*(neh'-gheb)*</small> ==**Negeb**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root meaning to be parched</small>
 
 $\quad$ south (country, side, -ward).
@@ -10,4 +10,4 @@ $\quad$ **1a)** south-country
 $\quad$ $\quad$ **1a1)** region of southern Judah, boundaries not specific
 $\quad$ **1b)** south
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔρημος</span><sup><small>[[G2048]]</small></sup> · <span class="asgreek">λίψ</span><sup><small>[[G3047]]</small></sup> · <span class="asgreek">μεσημβρία</span><sup><small>[[G3314]]</small></sup> · <span class="asgreek">νότος</span><sup><small>[[G3558]]</small></sup>
+<small>See Greek: </small>**<big>[[G2048|ἔρημος]]</big>** · **<big>[[G3047|λίψ]]</big>** · **<big>[[G3314|μεσημβρία]]</big>** · **<big>[[G3558|νότος]]</big>**

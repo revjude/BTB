@@ -7,39 +7,39 @@ Pharaoh king of Egypt ascended and first took  Gezer, and he burnt it by fire, a
 Pharaoh king of Egypt had attacked and captured Gezer. He had set it on fire, killed the Canaanites who lived in the city, and given it as a dowry to his daughter, Solomon’s wife.<small><sub>**MT:**</sub></small>
 [[1Kgs.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.15|<< 1 Kings 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.17|1 Kings 9:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| first took | <big><span class="asgreek">προκατελάβετο</span></big> <sup><small><small>[[G8898]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gezer, | <big><span class="asgreek">Γαζέρ</span></big> <sup><small><small>[[H1507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he burnt | <big><span class="asgreek">ενεπύρισεν</span></big> <sup><small><small>[[G7207]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire, | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite | <big><span class="asgreek">Χαναναίον</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| he put to death, | <big><span class="asgreek">εθανάτωσεν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| as a dowry | <big><span class="asgreek">αποστολάς</span></big> <sup><small><small>[[G0651]]</small></small></sup> |
-| to | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter -- | <big><span class="asgreek">θυγατρί</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to \[the\] wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Solomon. | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| first took | **<big>[[G8898\|προκατελάβετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Gezer, | **<big>[[H1507\|Γαζέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he burnt | **<big>[[G7207\|ενεπύρισεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire, | **<big>[[G4442\|πυρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Canaanite | **<big>[[G5477\|Χαναναίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city | **<big>[[G4172\|πόλει]]</big>** |
+| he put to death, | **<big>[[G2289\|εθανάτωσεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| as a dowry | **<big>[[G0651\|αποστολάς]]</big>** |
+| to | **<big>[[G3588\|τη]]</big>** |
+| his daughter -- | **<big>[[G2364\|θυγατρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to \[the\] wife | **<big>[[G1135\|γυναικί]]</big>** |
+| of Solomon. | **<big>[[G4672\|Σολομώντος]]</big>** |
 [[1Kgs.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.15|<< 1 Kings 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.17|1 Kings 9:17 >>]]</td></tr></table>
 
 

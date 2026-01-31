@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Kidron</span> Valley, also known as the Valley of Jehoshaphat, is located east of Jerusalem and was the site of several significant events in the Bible.
 - A location first mentioned at [[2Sam.15.23|2Sa.15.23]]; 
-- referred to as Kidron<[[H6939]]> \(<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Valley/ of Jehoshaphat<[[H3092K]]><[[H6010N]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ט</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\), or Kidron \(KJV= Kidron Valley\) <[[G2748]]> \(<span class='tipnrLangGreek'>κέδρος</span>\).
+- referred to as Kidron **<big>[[H6939|קִדְרוֹן]]</big>**, or Valley/ of Jehoshaphat **<big>[[H3092|יְהוֹשָׁפָט]]</big>** **<big>[[H6010|עֵמֶק]]</big>**, or Kidron \(KJV= Kidron Valley\)  **<big>[[G2748|Κεδρών]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.772134,35.236596&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ The Kidron Valley, also referred to as the Valley of Jehoshaphat, is a deep ravi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Kidron | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6939) <small>*Hebrew*</small> | 11x | [[2Sa.15.23] ... [Jer.31.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kidron\*\|reference=2Sa.15.23;1Ki.2.37;1Ki.15.13;2Ki.23.4;2Ki.23.6;2Ki.23.6;2Ki.23.12;2Ch.15.16;2Ch.29.16;2Ch.30.14;Jer.31.40) |
-| Valley/ of Jehoshaphat | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ט</span>](H3092K)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010N) <small>*Hebrew*</small> | 2x | [[Jol.3.2] & [Jol.3.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jol.3.2;Jol.3.12) |
-| Kidron (KJV= Kidron Valley) | [<span class='tipnrLangGreek'>κέδρος</span>](G2748) <small>*Greek*</small> | 1x | [Jhn.18.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kidron\*\|reference=Jhn.18.1) |
-All Strong's for **Kidron or Valley_of_Jehoshaphat**: \[[[H6939]]\] \[[[H3092K]]\] \[[[G2748]]\]
+| Kidron | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6939) | 11x | [[2Sa.15.23] ... [Jer.31.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kidron\*\|reference=2Sa.15.23;1Ki.2.37;1Ki.15.13;2Ki.23.4;2Ki.23.6;2Ki.23.6;2Ki.23.12;2Ch.15.16;2Ch.29.16;2Ch.30.14;Jer.31.40) |
+| Valley/ of Jehoshaphat | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ט</span>](H3092K)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010N) | 2x | [[Jol.3.2] & [Jol.3.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jol.3.2;Jol.3.12) |
+| Kidron (KJV= Kidron Valley) | [<span class='tipnrLangGreek'>κέδρος</span>](G2748) | 1x | [Jhn.18.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kidron\*\|reference=Jhn.18.1) |
+All entries for **Kidron or Valley of Jehoshaphat**:  **<big>[[H6939|קִדְרוֹן]]</big>** ☩  **<big>[[H3092|יְהוֹשָׁפָט]]</big>** ☩  **<big>[[G2748|Κεδρών]]</big>**

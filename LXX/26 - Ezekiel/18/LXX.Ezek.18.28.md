@@ -7,22 +7,22 @@ Because he considereth, and turneth away from all his transgressions that he hat
 Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die.<small><sub>**MT:**</sub></small>
 [[Ezek.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turned | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his impiety | <big><span class="asgreek">ασεβειών</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did; | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| he shall live, | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall he die. | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| For | **<big>[[G2532\|και]]</big>** |
+| he saw | **<big>[[G1492\|είδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| turned | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his impiety | **<big>[[G0763\|ασεβειών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| he did; | **<big>[[G4160\|εποίησε]]</big>** |
+| to life | **<big>[[G2222\|ζωή]]</big>** |
+| he shall live, | **<big>[[G2198\|ζήσεται]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall he die. | **<big>[[G0599\|αποθάνη]]</big>** |
 [[Ezek.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 
 

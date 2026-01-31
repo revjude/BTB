@@ -7,16 +7,16 @@ Thy cheeks are comely with rows [of jewels], thy neck with chains [of gold].
 Your cheeks are beautiful with ornaments, your neck with strings of jewels.<small><sub>**MT:**</sub></small>
 [[Song.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.9|<< Song of Solomon 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.11|Song of Solomon 1:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| How | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| are beautiful | <big><span class="asgreek">ωραιώθησαν</span></big> <sup><small><small>[[G9813]]</small></small></sup> |
-| your cheeks | <big><span class="asgreek">σιαγόνες</span></big> <sup><small><small>[[G4600]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a turtle-dove; | <big><span class="asgreek">τρυγόνος</span></big> <sup><small><small>[[G5167]]</small></small></sup> |
-| your neck | <big><span class="asgreek">τράχηλός</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| pendants. | <big><span class="asgreek">ορμίσκοι</span></big> <sup><small><small>[[G8549]]</small></small></sup> |
+| How | **<big>[[G5100\|τι]]</big>** |
+| are beautiful | **<big>[[G9813\|ωραιώθησαν]]</big>** |
+| your cheeks | **<big>[[G4600\|σιαγόνες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a turtle-dove; | **<big>[[G5167\|τρυγόνος]]</big>** |
+| your neck | **<big>[[G5137\|τράχηλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| pendants. | **<big>[[G8549\|ορμίσκοι]]</big>** |
 [[Song.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.9|<< Song of Solomon 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.11|Song of Solomon 1:11 >>]]</td></tr></table>
 
 

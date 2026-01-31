@@ -11,45 +11,45 @@ Then God said, “Let Us make man in Our image, after Our likeness, to rule over
 > $\quad$ referenced by: [[Rom.1.23|Rom 1:23]] ☩ [[1Cor.11.7|1Cor 11:7]] ☩ [[1Cor.15.49|1Cor 15:49]] ☩ [[2Cor.3.18|2Cor 3:18]] ☩ [[2Cor.4.4|2Cor 4:4]] ☩ [[Col.3.10|Col 3:10]] ☩ [[Jas.3.9|Jas 3:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Let us make | <big><span class="asgreek">ποιήσωμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| image | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| our | <big><span class="asgreek">ημετέραν</span></big> <sup><small><small>[[G2251]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| likeness! | <big><span class="asgreek">ομοίωσιν</span></big> <sup><small><small>[[G3669]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them control | <big><span class="asgreek">αρχέτωσαν</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fishes | <big><span class="asgreek">ιχθύων</span></big> <sup><small><small>[[G2486]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| winged creatures | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reptiles | <big><span class="asgreek">ερπετών</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling | <big><span class="asgreek">ερπόντων</span></big> <sup><small><small>[[G7508]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| Let us make | **<big>[[G4160\|ποιήσωμεν]]</big>** |
+| man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| image | **<big>[[G1504\|εικόνα]]</big>** |
+| our | **<big>[[G2251\|ημετέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| likeness! | **<big>[[G3669\|ομοίωσιν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| let them control | **<big>[[G0756\|αρχέτωσαν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| fishes | **<big>[[G2486\|ιχθύων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea, | **<big>[[G2281\|θαλάσσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| winged creatures | **<big>[[G4071\|πετεινών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cattle, | **<big>[[G2934\|κτηνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| reptiles | **<big>[[G2062\|ερπετών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| crawling | **<big>[[G7508\|ερπόντων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth! | **<big>[[G1093\|γης]]</big>** |
 [[Gen.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.25|<< Genesis 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.27|Genesis 1:27 >>]]</td></tr></table>
 
 

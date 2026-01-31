@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פּוּנֹן‎</span></big> **Pûwnôn** <small>*(poo-none')*</small> ==**Punon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פּוּן‎</span><sup><small>[[H6323]]</small></sup>; perplexity</small>
+**<big><span class="ashebrew">‎פּוּנֹן‎</span></big>** **Pûwnôn** <small>*(poo-none')*</small> ==**Punon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6323|‎פּוּן‎]]</big>**; perplexity</small>
 
 $\quad$ Punon.
 - § Punon = *"darkness"*

@@ -11,22 +11,22 @@ And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon
 > $\quad$ referenced by: [[Heb.11.21|Heb 11:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Swear by an oath | <big><span class="asgreek">όμοσόν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he swore by an oath | <big><span class="asgreek">ώμοσεν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel did obeisance | <big><span class="asgreek">προσεκύνησεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| top | <big><span class="asgreek">άκρον</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his cane. | <big><span class="asgreek">ράβδου</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| Swear by an oath | **<big>[[G3660\|όμοσόν]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he swore by an oath | **<big>[[G3660\|ώμοσεν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Israel did obeisance | **<big>[[G4352\|προσεκύνησεν]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| top | **<big>[[G6208\|άκρον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his cane. | **<big>[[G4464\|ράβδου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.47.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.30|<< Genesis 47:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.1|Genesis 48:1 >>]]</td></tr></table>
 
 

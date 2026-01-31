@@ -11,27 +11,27 @@ For behold, the LORD will come with fire—His chariots are like a whirlwind—t
 > $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a blast | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| \[by\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his chariots, | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to recompense | <big><span class="asgreek">αποδούναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| punishment | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being contemptuously rejected | <big><span class="asgreek">αποσκορακισμόν</span></big> <sup><small><small>[[G6483]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλογί</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| of fire. | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| For behold | **<big>[[G2400\|ιδού]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a fire | **<big>[[G4442\|πυρ]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a blast | **<big>[[G7844\|καταιγίς]]</big>** |
+| \[by\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his chariots, | **<big>[[G0716\|άρματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to recompense | **<big>[[G0591\|αποδούναι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rage | **<big>[[G2372\|θυμώ]]</big>** |
+| punishment | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being contemptuously rejected | **<big>[[G6483\|αποσκορακισμόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a flame | **<big>[[G5395\|φλογί]]</big>** |
+| of fire. | **<big>[[G4442\|πυρός]]</big>** |
 [[Isa.66.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.14|<< Isaiah 66:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.16|Isaiah 66:16 >>]]</td></tr></table>
 
 

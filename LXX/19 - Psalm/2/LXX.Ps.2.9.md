@@ -11,18 +11,18 @@ You will break them with an iron scepter; You will shatter them like pottery.”
 > $\quad$ referenced by: [[Rev.2.27|Rev 2:27]] ☩ [[Rev.19.15|Rev 19:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall tend | <big><span class="asgreek">ποιμανείς</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a rod | <big><span class="asgreek">ράβδω</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of iron; | <big><span class="asgreek">σιδηρά</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| vessels | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of a potter | <big><span class="asgreek">κεραμέως</span></big> <sup><small><small>[[G2763]]</small></small></sup> |
-| you shall break | <big><span class="asgreek">συντρίψεις</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall tend | **<big>[[G4165\|ποιμανείς]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a rod | **<big>[[G4464\|ράβδω]]</big>** |
+| of iron; | **<big>[[G4603\|σιδηρά]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| vessels | **<big>[[G4632\|σκεύη]]</big>** |
+| of a potter | **<big>[[G2763\|κεραμέως]]</big>** |
+| you shall break | **<big>[[G4937\|συντρίψεις]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.8|<< Psalm 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.10|Psalm 2:10 >>]]</td></tr></table>
 
 

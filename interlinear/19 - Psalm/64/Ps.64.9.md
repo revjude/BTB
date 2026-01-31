@@ -6,16 +6,16 @@ Then all mankind will fear and proclaim the work of God; so they will ponder wha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.8|<< Psalms 64:8]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.10|Psalms 64:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they were afraid  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּֽירְא֗וּ </big></span><small><small><sup>[[H3372H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.re.'U <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָ֫דָ֥ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they declared  | <span class="ashebrew"><big>וַ֭ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּגִּידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| Va <small><sup>[[Hc]]</sup></small> i.ya.gi.du <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] deed[s] of  | <span class="ashebrew"><big>פֹּ֥עַל </big></span><small><small><sup>[[H6467]]</sup></small></small> &#8207;| Po.'al <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and work his  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַעֲשֵׂ֥ </big></span><small><small><sup>[[H4639G]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.'a.Se. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will consider  | <span class="ashebrew"><big>הִשְׂכִּֽילוּ </big></span><small><small><sup>[[H7919A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| his.Ki.lu <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372H\|יִּֽירְא֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָ֫דָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they declared  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H5046\|יַּגִּידוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deed[s] of  |**<big>&#8207;[[H6467\|פֹּ֥עַל]]&#8207; </big>**| Po.'al<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and work his  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H4639G\|מַעֲשֵׂ֥]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Se.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will consider  |**<big>&#8207;[[H7919A\|הִשְׂכִּֽילוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| his.Ki.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.8|<< Psalms 64:8]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.10|Psalms 64:10 >>]]</td></tr></table>
 
 

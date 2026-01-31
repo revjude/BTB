@@ -7,29 +7,29 @@ They of Persia and of Lud and of Phut were in thine army, thy men of war: they h
 Men of Persia, Lydia, and Put served as warriors in your army. They hung their shields and helmets on your walls; they gave you splendor.<small><sub>**MT:**</sub></small>
 [[Ezek.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.9|<< Ezekiel 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.11|Ezekiel 27:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Persians | <big><span class="asgreek">Πέρσαι</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lidians | <big><span class="asgreek">Λυδοί</span></big> <sup><small><small>[[G3070]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Libyans | <big><span class="asgreek">Λίβυες</span></big> <sup><small><small>[[G3033]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your force | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of your warriors -- | <big><span class="asgreek">πολεμισταί</span></big> <sup><small><small>[[G8841]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shields | <big><span class="asgreek">πέλτας</span></big> <sup><small><small>[[G8689]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| helmets | <big><span class="asgreek">περικεφαλαίας</span></big> <sup><small><small>[[G4030]]</small></small></sup> |
-| they hung | <big><span class="asgreek">εκρέμασαν</span></big> <sup><small><small>[[G2910]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| you glory. | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Persians | **<big>[[H6539\|Πέρσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Lidians | **<big>[[G3070\|Λυδοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Libyans | **<big>[[G3033\|Λίβυες]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your force | **<big>[[G1411\|δυνάμει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of your warriors -- | **<big>[[G8841\|πολεμισταί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shields | **<big>[[G8689\|πέλτας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| helmets | **<big>[[G4030\|περικεφαλαίας]]</big>** |
+| they hung | **<big>[[G2910\|εκρέμασαν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you; | **<big>[[G1473\|σοι]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| you glory. | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.9|<< Ezekiel 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.11|Ezekiel 27:11 >>]]</td></tr></table>
 
 

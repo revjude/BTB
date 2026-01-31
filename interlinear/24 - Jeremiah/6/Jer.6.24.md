@@ -6,17 +6,17 @@ We have heard the report; our hands hang limp. Anguish has gripped us, pain like
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.23|<< Jeremiah 6:23]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.25|Jeremiah 6:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| we heard  | <span class="ashebrew"><big>שָׁמַ֥עְנוּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sha.Ma'.nu <small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] report of it  | <span class="ashebrew"><big>שָׁמְע֖ </big></span><small><small><sup>[[H8089]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| sha.me.' <small><sup>[[HNcmsc]]</sup></small> O <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they hung limp  | <span class="ashebrew"><big>רָפ֣וּ </big></span><small><small><sup>[[H7503]]</sup></small></small> &#8207;| ra.Fu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands our  | <span class="ashebrew"><big>יָדֵ֑י </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| ya.Dei. <small><sup>[[HNcbdc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| distress  | <span class="ashebrew"><big>צָרָה֙ </big></span><small><small><sup>[[H6869B]]</sup></small></small> &#8207;| tza.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it took hold of us  | <span class="ashebrew"><big>הֶחֱזִיקַ֔תְ </big></span><small><small><sup>[[H2388H]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| he.che.zi.Kat. <small><sup>[[HVhp3fs]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anguish  | <span class="ashebrew"><big>חִ֖יל </big></span><small><small><sup>[[H2427A]]</sup></small></small> &#8207;| chil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> [woman] giving birth  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>יּוֹלֵדָֽה </big></span><small><small><sup>[[H3205]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka <small><sup>[[HRd]]</sup></small> i.yo.le.Dah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we heard  |**<big>&#8207;[[H8085G\|שָׁמַ֥עְנוּ]]&#8207; </big>**| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] report of it  |**<big>&#8207;[[H8089\|שָׁמְע֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| sha.me.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they hung limp  |**<big>&#8207;[[H7503\|רָפ֣וּ]]&#8207; </big>**| ra.Fu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands our  |**<big>&#8207;[[H3027G\|יָדֵ֑י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ya.Dei.<small><sup>[[HNcbdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| distress  |**<big>&#8207;[[H6869B\|צָרָה֙]]&#8207; </big>**| tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it took hold of us  |**<big>&#8207;[[H2388H\|הֶחֱזִיקַ֔תְ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| he.che.zi.Kat.<small><sup>[[HVhp3fs]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anguish  |**<big>&#8207;[[H2427A\|חִ֖יל]]&#8207; </big>**| chil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> [woman] giving birth  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3205\|יּוֹלֵדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.23|<< Jeremiah 6:23]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.25|Jeremiah 6:25 >>]]</td></tr></table>
 
 

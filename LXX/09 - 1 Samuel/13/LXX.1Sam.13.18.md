@@ -7,31 +7,31 @@ And another company turned the way [to] Bethhoron: and another company turned [t
 another toward Beth-horon, and the third down the border road overlooking the Valley of Zeboim facing the wilderness.<small><sub>**MT:**</sub></small>
 [[1Sam.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.17|<< 1 Samuel 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.19|1 Samuel 13:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| company | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| looking upon | <big><span class="asgreek">επιβλέπουσα</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of Beth-horon. | <big><span class="asgreek">Βαιθωρών</span></big> <sup><small><small>[[H1032]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| company | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| looking upon | <big><span class="asgreek">επιβλέπουσα</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of Gibeah, | <big><span class="asgreek">Γαβαέ</span></big> <sup><small><small>[[H1390]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">εκκύπτουσα</span></big> <sup><small><small>[[G7107]]</small></small></sup> |
-| towards | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Gai, | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zeboim | <big><span class="asgreek">Σαβαϊν</span></big> <sup><small><small>[[H6636]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| company | **<big>[[G0746\|αρχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| looking upon | **<big>[[G1914\|επιβλέπουσα]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of Beth-horon. | **<big>[[H1032\|Βαιθωρών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| company | **<big>[[G0746\|αρχή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| looking upon | **<big>[[G1914\|επιβλέπουσα]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
+| of Gibeah, | **<big>[[H1390\|Γαβαέ]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| looking | **<big>[[G7107\|εκκύπτουσα]]</big>** |
+| towards | **<big>[[G1909\|επί]]</big>** |
+| Gai, | **<big>[[H5857\|Γαί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| Zeboim | **<big>[[H6636\|Σαβαϊν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| wilderness. | **<big>[[G2048\|έρημον]]</big>** |
 [[1Sam.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.17|<< 1 Samuel 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.19|1 Samuel 13:19 >>]]</td></tr></table>
 
 

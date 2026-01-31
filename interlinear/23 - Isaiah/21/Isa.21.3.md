@@ -6,21 +6,21 @@ Therefore my body is filled with anguish. Pain grips me, like the pains of a wom
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.2|<< Isaiah 21:2]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.4|Isaiah 21:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֗ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| Ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are full  | <span class="ashebrew"><big>מָלְא֤וּ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mal.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| loins my  | <span class="ashebrew"><big>מָתְנַ </big></span><small><small><sup>[[H4975]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ma.te.Na <small><sup>[[HNcmdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anguish  | <span class="ashebrew"><big>חַלְחָלָ֔ה </big></span><small><small><sup>[[H2479]]</sup></small></small> &#8207;| chal.cha.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pangs  | <span class="ashebrew"><big>צִירִ֣ים </big></span><small><small><sup>[[H6735C]]</sup></small></small> &#8207;| tzi.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have seized me  | <span class="ashebrew"><big>אֲחָז֔וּ </big></span><small><small><sup>[[H0270]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.cha.Zu. <small><sup>[[HVqp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] pangs of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>צִירֵ֖י </big></span><small><small><sup>[[H6735C]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> tzi.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [a woman who] gives birth  | <span class="ashebrew"><big>יֽוֹלֵדָ֑ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| yo.le.Dah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am bent over  | <span class="ashebrew"><big>נַעֲוֵ֣יתִי </big></span><small><small><sup>[[H5753A]]</sup></small></small> &#8207;| na.'a.Vei.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from hearing  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>שְּׁמֹ֔עַ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> she.Mo.a' <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am terrified  | <span class="ashebrew"><big>נִבְהַ֖לְתִּי </big></span><small><small><sup>[[H0926]]</sup></small></small> &#8207;| niv.Hal.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from seeing  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רְאֽוֹת </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> re.'ot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are full  |**<big>&#8207;[[H4390\|מָלְא֤וּ]]&#8207; </big>**| mal.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loins my  |**<big>&#8207;[[H4975\|מָתְנַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ma.te.Na<small><sup>[[HNcmdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anguish  |**<big>&#8207;[[H2479\|חַלְחָלָ֔ה]]&#8207; </big>**| chal.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pangs  |**<big>&#8207;[[H6735C\|צִירִ֣ים]]&#8207; </big>**| tzi.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have seized me  |**<big>&#8207;[[H0270\|אֲחָז֔וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'a.cha.Zu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] pangs of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6735C\|צִירֵ֖י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> tzi.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [a woman who] gives birth  |**<big>&#8207;[[H3205\|יֽוֹלֵדָ֑ה]]&#8207; </big>**| yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am bent over  |**<big>&#8207;[[H5753A\|נַעֲוֵ֣יתִי]]&#8207; </big>**| na.'a.Vei.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from hearing  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8085G\|שְּׁמֹ֔עַ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am terrified  |**<big>&#8207;[[H0926\|נִבְהַ֖לְתִּי]]&#8207; </big>**| niv.Hal.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from seeing  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7200G\|רְאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.2|<< Isaiah 21:2]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.4|Isaiah 21:4 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶצֶם‎</span></big> **ʻEtsem** <small>*(eh'-tsem)*</small> ==**Ezem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֶצֶם‎</span><sup><small>[[H6106]]</small></sup>; bone</small>
+**<big><span class="ashebrew">‎עֶצֶם‎</span></big>** **ʻEtsem** <small>*(eh'-tsem)*</small> ==**Ezem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H6106|‎עֶצֶם‎]]</big>**; bone</small>
 
 $\quad$ Azem, Ezem.
 - § Azem or Ezem = *"bone"*

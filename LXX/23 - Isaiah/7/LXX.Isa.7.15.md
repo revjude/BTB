@@ -7,21 +7,21 @@ Butter and honey shall he eat, that he may know to refuse the evil, and choose t
 By the time He knows enough to reject evil and choose good, He will be eating curds and honey.<small><sub>**MT:**</sub></small>
 [[Isa.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.14|<< Isaiah 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.16|Isaiah 7:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Butter | <big><span class="asgreek">βούτυρον</span></big> <sup><small><small>[[G6694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honey | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| he shall eat, | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| he knows | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to prefer | <big><span class="asgreek">προελέσθαι</span></big> <sup><small><small>[[G4255]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to choose | <big><span class="asgreek">εκλέξασθαι</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good. | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| Butter | **<big>[[G6694\|βούτυρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honey | **<big>[[G3192\|μέλι]]</big>** |
+| he shall eat, | **<big>[[G2068\|φάγεται]]</big>** |
+| before | **<big>[[G4250\|πριν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| he knows | **<big>[[G1097\|γνώναι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| to prefer | **<big>[[G4255\|προελέσθαι]]</big>** |
+| wicked | **<big>[[G4190\|πονηρά]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to choose | **<big>[[G1586\|εκλέξασθαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| good. | **<big>[[G0018\|αγαθόν]]</big>** |
 [[Isa.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.14|<< Isaiah 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.16|Isaiah 7:16 >>]]</td></tr></table>
 
 

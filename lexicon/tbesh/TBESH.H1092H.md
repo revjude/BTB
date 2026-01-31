@@ -1,4 +1,3 @@
-<span class="ashebrew">‎בִּלְהָן‎</span> <small>***(bil.han)***</small> ==**Bilhan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of Divided Monarchy, first mentioned at [[1Chr.7.10|1Ch.7.10]]
--  son of: Jediael ([[H3043]])
--  father of: Jeush ([[H3266H]]), Benjamin ([[H1144H]]), Ehud ([[H0164H]]), Chenaanah ([[H3668H]]), Zethan ([[H2133]]), Tarshish ([[H8659I]]) and Ahishahar ([[H0300]])
+-  son of: Jediael (**<big>[[H3043|יְדִיעֲאֵל]]</big>**)
+-  father of: Jeush (**<big>[[H3266H|יְעוּשׁ]]</big>**), Benjamin (**<big>[[H1144H|בִּנְיָמִין]]</big>**), Ehud (**<big>[[H0164H|אֵהוּד]]</big>**), Chenaanah (**<big>[[H3668H|כְּנַעֲנָה]]</big>**), Zethan (**<big>[[H2133|זֵיתָן]]</big>**), Tarshish (**<big>[[H8659I|תַּרְשִׁישׁ]]</big>**) and Ahishahar (**<big>[[H0300|אֲחִישַׁחַר]]</big>**)

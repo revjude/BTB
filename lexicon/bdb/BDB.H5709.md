@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H5710]]</small>
+<small>Hebrew form: **<big>[[H5710|עָדָה]]</big>**</small>
  [<span class="bdbLangAramaic">‎עֲדָה‎</span>] **verb** ==pass on, away== ([[BDB#Tg|ᵑ7]] (often for Hebrew <span class="bdbLangHebrew">‎עָבַר‎</span>, Syriac; see Biblical Hebrew I.  <span class="bdbLangHebrew">‎עָדָה‎</span> (rare, late)); — 
 
 **Pe\`al** ***Perfect*** 3 feminine singular <span class="bdbLangAramaic">‎עֲדָת‎</span> [[Dan.3.27|Dan 3:27]]; [[Dan.4.28|Dan 4:28]] ***Imperfect*** 3 masculine singular <span class="bdbLangAramaic">‎יֶעְדֵּה‎</span> [[Dan.7.14|Dan 7:14]], 3 feminine singular <span class="bdbLangAramaic">‎תֶּעְדֵּה‎</span> [[Dan.6.9|Dan 6:9]] — 

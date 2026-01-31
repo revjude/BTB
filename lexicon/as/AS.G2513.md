@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">καθαρός</span></span>, <span class="asgreek">-ά, -όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">טָהוֹר</span> <small><sup>[[H2889]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">καθαρός</span></span>, <span class="asgreek">-ά, -όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H2889|טָהוֹר]]</big>**;\]</span> </span>
 <span class="asitalic">pure</span>, <span class="asitalic">clean</span>.
 <span class="asbullet"><span class="asbold">1.</span> Physically: [[Matt.23.26|Mt 23:26]] [[Matt.27.59|27:59]], [[John.13.10|Jo 13:10]], [[John.12.11|11]] (fig.), [[John.15.3|Jo 15:3]] (fig., as of a vine cleansed by pruning), [[Heb.10.22|He 10:22]], [[Rev.15.6|Re 15:6]] [[Rev.19.8|19:8]], [[Rev.19.14|14]] [[Rev.21.18|21:18]], [[Rev.21.21|21]].</span>
 <span class="asbullet"><span class="asbold">2.</span> Ceremonially: [[Luke.11.41|Lk 11:41]], [[Rom.14.20|Ro 14:20]], [[Titus.1.15|Tit 1:15]].</span>

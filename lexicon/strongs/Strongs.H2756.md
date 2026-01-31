@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרִיף‎</span></big> **Chârîyph** <small>*(khaw-reef')*</small> ==**Hariph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַף‎</span><sup><small>[[H2778]]</small></sup>; autumnal</small>
+**<big><span class="ashebrew">‎חָרִיף‎</span></big>** **Chârîyph** <small>*(khaw-reef')*</small> ==**Hariph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2778|‎חָרַף‎]]</big>**; autumnal</small>
 
 $\quad$ Hariph.
 - § Hariph = *"a plucking off"*

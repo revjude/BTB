@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂשׂוֹן‎</span></big> **sâsôwn** <small>*(saw-sone')*</small> ==**rejoicing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">שָׂשֹׂן</span> **sâsôn** <small>*(saw-sone')*</small>; from <span class="ashebrew">‎שׂוּשׂ‎</span><sup><small>[[H7797]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׂשׂוֹן‎</span></big>** **sâsôwn** <small>*(saw-sone')*</small> ==**rejoicing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׂשֹׂן</span></big>** **sâsôn** <small>*(saw-sone')*</small>; from **<big>[[H7797|‎שׂוּשׂ‎]]</big>**</small>
 
 $\quad$ gladness, joy, mirth, rejoicing.
 - ***cheerfulness***
@@ -8,4 +8,4 @@ $\quad$ gladness, joy, mirth, rejoicing.
 **1)** gladness, joy, exultation, rejoicing
 $\quad$ **1a)** exultation, joy
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαλλίασις</span><sup><small>[[G0020]]</small></sup> · <span class="asgreek">αἴνεσις</span><sup><small>[[G0133]]</small></sup> · <span class="asgreek">εὐφροσύνη</span><sup><small>[[G2167]]</small></sup> · <span class="asgreek">χαρά</span><sup><small>[[G5479]]</small></sup>
+<small>See Greek: </small>**<big>[[G0020|ἀγαλλίασις]]</big>** · **<big>[[G0133|αἴνεσις]]</big>** · **<big>[[G2167|εὐφροσύνη]]</big>** · **<big>[[G5479|χαρά]]</big>**

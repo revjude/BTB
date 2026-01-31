@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַתְכֹנֶת‎</span></big> **mathkôneth** <small>*(math-ko'-neth)*</small> ==**tally**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מַתְכֻנֶת</span> **mathkuneth** <small>*(math-koo'-neth)*</small>; from <span class="ashebrew">‎תָּכַן‎</span><sup><small>[[H8505]]</small></sup> in the transferred sense of measuring</small>
+**<big><span class="ashebrew">‎מַתְכֹנֶת‎</span></big>** **mathkôneth** <small>*(math-ko'-neth)*</small> ==**tally**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַתְכֻנֶת</span></big>** **mathkuneth** <small>*(math-koo'-neth)*</small>; from **<big>[[H8505|‎תָּכַן‎]]</big>** in the transferred sense of measuring</small>
 
 $\quad$ composition, measure, state, tale.
 - ***proportion*** (in size, number or ingredients)
@@ -8,4 +8,4 @@ $\quad$ composition, measure, state, tale.
 $\quad$ **1a)** tale, tally (of bricks)
 $\quad$ **1b)** measurement, proportion
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἴσος</span><sup><small>[[G2470]]</small></sup> · <span class="asgreek">στάσις</span><sup><small>[[G4714]]</small></sup>
+<small>See Greek: </small>**<big>[[G2470|ἴσος]]</big>** · **<big>[[G4714|στάσις]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוּר‎</span></big> **ʼÛwr** <small>*(oor)*</small> ==**Ur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אוּר‎</span><sup><small>[[H0217]]</small></sup></small>
+**<big><span class="ashebrew">‎אוּר‎</span></big>** **ʼÛwr** <small>*(oor)*</small> ==**Ur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0217|‎אוּר‎]]</big>**</small>
 
 $\quad$ Ur.
 - § Ur = *"flame"*

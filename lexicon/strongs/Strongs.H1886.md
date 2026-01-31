@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֹּתָן‎</span></big> **Dôthân** <small>*(do'-thawn)*</small> ==**Dothan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (Aramaic dual) <span class="ashebrew">דֹּתַיִן</span> **Dôthayin** <small>*(do-thah'-yin)*</small>; (Genesis 37:17), of uncertain derivation</small>
+**<big><span class="ashebrew">‎דֹּתָן‎</span></big>** **Dôthân** <small>*(do'-thawn)*</small> ==**Dothan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (Aramaic dual) **<big><span class="ashebrew">דֹּתַיִן</span></big>** **Dôthayin** <small>*(do-thah'-yin)*</small>; (Genesis 37:17), of uncertain derivation</small>
 
 $\quad$ Dothan. h
 - § Dothan = *"two wells"*

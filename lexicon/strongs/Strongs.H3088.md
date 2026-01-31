@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹרָם‎</span></big> **Yᵉhôwrâm** <small>*(yeh-ho-rawm')*</small> ==**Jehoram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup>; Jehovah-raised</small>
+**<big><span class="ashebrew">‎יְהוֹרָם‎</span></big>** **Yᵉhôwrâm** <small>*(yeh-ho-rawm')*</small> ==**Jehoram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H7311|‎רוּם‎]]</big>**; Jehovah-raised</small>
 
-$\quad$ Jehoram, Joram. Compare <span class="ashebrew">‎יוֹרָם‎</span><sup><small>[[H3141]]</small></sup>.
+$\quad$ Jehoram, Joram. Compare **<big>[[H3141|‎יוֹרָם‎]]</big>**.
 - § Jehoram or Joram = *"Jehovah is exalted"*
 - ***Jehoram***, the name of a Syrian and of three Israelites
 

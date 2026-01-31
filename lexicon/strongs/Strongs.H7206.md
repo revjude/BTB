@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְאוּבֵנִי‎</span></big> **Rᵉʼûwbênîy** <small>*(reh-oob-ay-nee')*</small> ==**Reubenite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎רְאוּבֵן‎</span><sup><small>[[H7205]]</small></sup></small>
+**<big><span class="ashebrew">‎רְאוּבֵנִי‎</span></big>** **Rᵉʼûwbênîy** <small>*(reh-oob-ay-nee')*</small> ==**Reubenite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H7205|‎רְאוּבֵן‎]]</big>**</small>
 
 $\quad$ children of Reuben, Reubenites.
 - § Reubenite = *see Reuben "behold a son"*

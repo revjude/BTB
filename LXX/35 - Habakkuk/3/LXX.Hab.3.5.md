@@ -7,16 +7,16 @@ Before him went the pestilence, and burning coals went forth at his feet.
 Plague went before Him, and fever followed in His steps.<small><sub>**MT:**</sub></small>
 [[Hab.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.4|<< Habakkuk 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.6|Habakkuk 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| his face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| a word, | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a flat ground. | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| Before | **<big>[[G4253\|προ]]</big>** |
+| his face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| a word, | **<big>[[G3056\|λόγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a flat ground. | **<big>[[G8676\|πεδία]]</big>** |
 [[Hab.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.4|<< Habakkuk 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.6|Habakkuk 3:6 >>]]</td></tr></table>
 
 

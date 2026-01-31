@@ -7,47 +7,47 @@ These were the cities appointed for all the children of Israel, and for the stra
 These are the cities appointed for all the Israelites and foreigners among them, so that anyone who kills a person unintentionally may flee there and not die by the hand of the avenger of blood prior to standing trial before the assembly.<small><sub>**MT:**</sub></small>
 [[Josh.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.8|<< Joshua 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.1|Joshua 21:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| selected | <big><span class="asgreek">επίκλητοι</span></big> <sup><small><small>[[G7415]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner, | <big><span class="asgreek">προσηλύτω</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lying near | <big><span class="asgreek">προσκειμένω</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to take refuge | <big><span class="asgreek">καταφυγείν</span></big> <sup><small><small>[[G2703]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to any one | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hitting | <big><span class="asgreek">παίοντι</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
-| a soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| unintentionally | <big><span class="asgreek">ακουσίως</span></big> <sup><small><small>[[G6199]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| die | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one acting as next of kin | <big><span class="asgreek">αγχιστεύοντος</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[for\] blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should be placed | <big><span class="asgreek">καταστή</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| judgment. | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| These | **<big>[[G3778\|αύται]]</big>** |
+| \[were\] the | **<big>[[G3588\|αι]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| selected | **<big>[[G7415\|επίκλητοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| to all | **<big>[[G3956\|πάσιν]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| foreigner, | **<big>[[G4339\|προσηλύτω]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| lying near | **<big>[[G8929\|προσκειμένω]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| to take refuge | **<big>[[G2703\|καταφυγείν]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| to any one | **<big>[[G3956\|παντί]]</big>** |
+| hitting | **<big>[[G3817\|παίοντι]]</big>** |
+| a soul | **<big>[[G5590\|ψυχήν]]</big>** |
+| unintentionally | **<big>[[G6199\|ακουσίως]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should not | **<big>[[G3361\|μη]]</big>** |
+| die | **<big>[[G0599\|αποθάνη]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| one acting as next of kin | **<big>[[G6131\|αγχιστεύοντος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[for\] blood, | **<big>[[G0129\|αίμα]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| he should be placed | **<big>[[G2525\|καταστή]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| congregation | **<big>[[G4864\|συναγωγής]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| judgment. | **<big>[[G2920\|κρίσει]]</big>** |
 [[Josh.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.8|<< Joshua 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.1|Joshua 21:1 >>]]</td></tr></table>
 
 

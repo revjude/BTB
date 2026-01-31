@@ -6,28 +6,28 @@ Then Amaziah king of Judah took counsel and sent word to the king of Israel Jeho
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.16|<< 2 Chronicles 25:16]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.18|2 Chronicles 25:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he took counsel  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּוָּעַ֗ץ </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.va.'Atz <small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Amaziah  | <span class="ashebrew"><big>אֲמַצְיָ֙הוּ֙ </big></span><small><small><sup>[[H0558G]]</sup></small></small> &#8207;| 'a.matz.Ya.hu <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he sent  | <span class="ashebrew"><big>וַ֠ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁלַח </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| Va <small><sup>[[Hc]]</sup></small> i.yish.lach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joash  | <span class="ashebrew"><big>יוֹאָ֨שׁ </big></span><small><small><sup>[[H3101J]]</sup></small></small> &#8207;| yo.'Ash <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehoahaz  | <span class="ashebrew"><big>יְהוֹאָחָ֧ז </big></span><small><small><sup>[[H3059G]]</sup></small></small> &#8207;| ye.ho.'a.Chaz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehu  | <span class="ashebrew"><big>יֵה֛וּא </big></span><small><small><sup>[[H3058H]]</sup></small></small> &#8207;| ye.Hu' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֑ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| come !  [^2] | <span class="ashebrew"><big>לְכָ֖ </big></span><small><small><sup>[[H1980K]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;[^3] | le.kha <small><sup>[[HVqv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| let us look at one another  | <span class="ashebrew"><big>נִתְרָאֶ֥ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| nit.ra.'Eh <small><sup>[[HVti1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faces  | <span class="ashebrew"><big>פָנִֽים </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| fa.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took counsel  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3289\|יִּוָּעַ֗ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.va.'Atz<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֙הוּ֙]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he sent  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7971G\|יִּשְׁלַח]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yish.lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joash  |**<big>&#8207;[[H3101J\|יוֹאָ֨שׁ]]&#8207; </big>**| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoahaz  |**<big>&#8207;[[H3059G\|יְהוֹאָחָ֧ז]]&#8207; </big>**| ye.ho.'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  |**<big>&#8207;[[H3058H\|יֵה֛וּא]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֑ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come !  [^2]|**<big>&#8207;[[H1980K\|לְכָ֖]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**[^3] | le.kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| let us look at one another  |**<big>&#8207;[[H7200G\|נִתְרָאֶ֥ה]]&#8207; </big>**| nit.ra.'Eh<small><sup>[[HVti1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faces  |**<big>&#8207;[[H6440H\|פָנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.16|<< 2 Chronicles 25:16]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.18|2 Chronicles 25:18 >>]]</td></tr></table>
 
-[^1]: ==K==: **to you ** | <small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>ךָ</big></span> <small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: **to you ** | <small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>ךָ</big></span> <small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^1]: ==K==: to you  | **<big>[[H9031|ךָ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^2]: ==K==: to you  | **<big>[[H9031|ךָ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>לְךָ֖</big></span>**
 

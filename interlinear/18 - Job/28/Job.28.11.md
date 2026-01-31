@@ -6,14 +6,14 @@ He stops up the sources of the streams to bring what is hidden to light.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.10|<< Job 28:10]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.12|Job 28:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from weeping  | <span class="ashebrew"><big>מִ֭ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בְּכִי </big></span><small><small><sup>[[H1065]]</sup></small></small> &#8207;| Mi. <small><sup>[[HR]]</sup></small> be.khi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rivers  | <span class="ashebrew"><big>נְהָר֣וֹת </big></span><small><small><sup>[[H5104H]]</sup></small></small> &#8207;| ne.ha.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he restrains  | <span class="ashebrew"><big>חִבֵּ֑שׁ </big></span><small><small><sup>[[H2280]]</sup></small></small> &#8207;| chi.Besh <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and secret her  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תַעֲלֻמָ֗ </big></span><small><small><sup>[[H8587]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ta.'a.lu.Ma <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he brings out  | <span class="ashebrew"><big>יֹ֣צִא </big></span><small><small><sup>[[H3318H]]</sup></small></small> &#8207;| Yo.tzi' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| light  | <span class="ashebrew"><big>אֽוֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from weeping  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H1065\|בְּכִי]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> be.khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rivers  |**<big>&#8207;[[H5104H\|נְהָר֣וֹת]]&#8207; </big>**| ne.ha.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he restrains  |**<big>&#8207;[[H2280\|חִבֵּ֑שׁ]]&#8207; </big>**| chi.Besh<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and secret her  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8587\|תַעֲלֻמָ֗]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.'a.lu.Ma<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he brings out  |**<big>&#8207;[[H3318H\|יֹ֣צִא]]&#8207; </big>**| Yo.tzi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light  |**<big>&#8207;[[H0216\|אֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.10|<< Job 28:10]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.12|Job 28:12 >>]]</td></tr></table>
 
 

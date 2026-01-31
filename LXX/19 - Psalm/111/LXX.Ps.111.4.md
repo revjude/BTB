@@ -7,17 +7,17 @@ He hath made his wonderful works to be remembered: the LORD [is] gracious and fu
 He has caused His wonders to be remembered; the LORD is gracious and compassionate.<small><sub>**MT:**</sub></small>
 [[Ps.111.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.3|<< Psalm 111:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.5|Psalm 111:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a memorial | <big><span class="asgreek">μνείαν</span></big> <sup><small><small>[[G3417]]</small></small></sup> |
-| He made | <big><span class="asgreek">εποιήσατο</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for his wonders; | <big><span class="asgreek">θαυμασίων</span></big> <sup><small><small>[[G2297]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| merciful | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pitying | <big><span class="asgreek">οικτίρμων</span></big> <sup><small><small>[[G3629]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| a memorial | **<big>[[G3417\|μνείαν]]</big>** |
+| He made | **<big>[[G4160\|εποιήσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| for his wonders; | **<big>[[G2297\|θαυμασίων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| merciful | **<big>[[G1655\|ελεήμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pitying | **<big>[[G3629\|οικτίρμων]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Ps.111.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.3|<< Psalm 111:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.5|Psalm 111:5 >>]]</td></tr></table>
 
 

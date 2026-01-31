@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּרְמַשְׁתָּא‎</span></big> **Parmashtâʼ** <small>*(par-mash-taw')*</small> ==**Parmashta**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פַּרְמַשְׁתָּא‎</span></big>** **Parmashtâʼ** <small>*(par-mash-taw')*</small> ==**Parmashta**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Parmasta.

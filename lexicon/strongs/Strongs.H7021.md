@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִיקָיוֹן‎</span></big> **qîyqâyôwn** <small>*(kee-kaw-yone')*</small> ==**plant**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎קָיָה‎</span><sup><small>[[H7006]]</small></sup></small>
+**<big><span class="ashebrew">‎קִיקָיוֹן‎</span></big>** **qîyqâyôwn** <small>*(kee-kaw-yone')*</small> ==**plant**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>perhaps from **<big>[[H7006|‎קָיָה‎]]</big>**</small>
 
 $\quad$ gourd.
 - ***the gourd*** (as nauseous)

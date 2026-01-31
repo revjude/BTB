@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סָכָל‎</span></big> **çâkâl** <small>*(saw-kawl')*</small> ==**fool**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎סָכַל‎</span><sup><small>[[H5528]]</small></sup></small>
+**<big><span class="ashebrew">‎סָכָל‎</span></big>** **çâkâl** <small>*(saw-kawl')*</small> ==**fool**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5528|‎סָכַל‎]]</big>**</small>
 
 $\quad$ fool(-ish), sottish.
 - ***silly***

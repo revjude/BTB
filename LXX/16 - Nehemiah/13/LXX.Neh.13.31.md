@@ -7,28 +7,28 @@ And for the wood offering, at times appointed, and for the firstfruits. Remember
 I also arranged for contributions of wood at the appointed times, and for the firstfruits. Remember me, O my God, with favor.<small><sub>**MT:**</sub></small>
 [[Neh.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.30|<< Nehemiah 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.1|Esther 1:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gift | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood offerings | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| seasons, | <big><span class="asgreek">καιροίς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| times, | <big><span class="asgreek">χρόνων</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first produce. | <big><span class="asgreek">προτογεννήμασι</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
-| Remember | <big><span class="asgreek">μνήσθητί</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| goodness! | <big><span class="asgreek">αγαθωσύνην</span></big> <sup><small><small>[[G0019]]</small></small></sup> |
+| even | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gift | **<big>[[G1435\|δώρον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wood offerings | **<big>[[G3586\|ξύλων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| seasons, | **<big>[[G2540\|καιροίς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| times, | **<big>[[G5550\|χρόνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| first produce. | **<big>[[G8966\|προτογεννήμασι]]</big>** |
+| Remember | **<big>[[G3403\|μνήσθητί]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| our God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| goodness! | **<big>[[G0019\|αγαθωσύνην]]</big>** |
 [[Neh.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.30|<< Nehemiah 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.1|Esther 1:1 >>]]</td></tr></table>
 
 

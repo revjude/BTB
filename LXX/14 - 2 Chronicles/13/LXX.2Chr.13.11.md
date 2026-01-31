@@ -7,55 +7,55 @@ And they burn unto the LORD every morning and every evening burnt sacrifices and
 Every morning and every evening they present burnt offerings and fragrant incense to the LORD. They set out the rows of showbread on the ceremonially clean table, and every evening they light the lamps of the gold lampstand. We are carrying out the requirements of the LORD our God, while you have forsaken Him.<small><sub>**MT:**</sub></small>
 [[2Chr.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.10|<< 2 Chronicles 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.12|2 Chronicles 13:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they burn | <big><span class="asgreek">θυμιώσι</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώσεις</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \[by\] morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| to evening, | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[they have the\] incense | <big><span class="asgreek">θυμίαμα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
-| composition, | <big><span class="asgreek">συνθέσεως</span></big> <sup><small><small>[[G9324]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| place settings | <big><span class="asgreek">πρόθεσιν</span></big> <sup><small><small>[[G4286]]</small></small></sup> |
-| of bread \[loaves\] | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table | <big><span class="asgreek">τραπέζης</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pure | <big><span class="asgreek">καθαράς</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamp-stand | <big><span class="asgreek">λυχνία</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσή</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its lamps | <big><span class="asgreek">λύχνοι</span></big> <sup><small><small>[[G3088]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to light | <big><span class="asgreek">ανάπτειν</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| \[by\] evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we guard | <big><span class="asgreek">φυλάσσομεν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| watch | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our fathers; | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατελίπετε</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they burn | **<big>[[G2370\|θυμιώσι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| whole burnt-offerings | **<big>[[G8495\|ολοκαυτώσεις]]</big>** |
+| morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \[by\] morning, | **<big>[[G4404\|πρωϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| to evening, | **<big>[[G2073\|εσπέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[they have the\] incense | **<big>[[G2368\|θυμίαμα]]</big>** |
+| composition, | **<big>[[G9324\|συνθέσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| place settings | **<big>[[G4286\|πρόθεσιν]]</big>** |
+| of bread \[loaves\] | **<big>[[G0740\|άρτων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| table | **<big>[[G5132\|τραπέζης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| pure | **<big>[[G2513\|καθαράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| lamp-stand | **<big>[[G3087\|λυχνία]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| gold | **<big>[[G5552\|χρυσή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| its lamps | **<big>[[G3088\|λύχνοι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to light | **<big>[[G0381\|ανάπτειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| \[by\] evening. | **<big>[[G2073\|εσπέρας]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| we guard | **<big>[[G5442\|φυλάσσομεν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| watch | **<big>[[G5438\|φυλακήν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of our fathers; | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| but you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατελίπετε]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[2Chr.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.10|<< 2 Chronicles 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.12|2 Chronicles 13:12 >>]]</td></tr></table>
 
 

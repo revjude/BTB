@@ -6,13 +6,13 @@ Do you make him leap like a locust, striking terror with his proud snorting?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.19|<< Job 39:19]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.21|Job 39:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ do you make leap it  | <span class="ashebrew"><big>הְֽ֭ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>תַרְעִישֶׁ </big></span><small><small><sup>[[H7493]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| He. <small><sup>[[HTi]]</sup></small> tar.'i.she. <small><sup>[[HVhi2ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> locust  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אַרְבֶּ֑ה </big></span><small><small><sup>[[H0697]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> 'ar.Beh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] majesty of  | <span class="ashebrew"><big>ה֖וֹד </big></span><small><small><sup>[[H1935]]</sup></small></small> &#8207;| Hod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| snorting its  | <span class="ashebrew"><big>נַחְר֣ </big></span><small><small><sup>[[H5170A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| nach.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] terror  | <span class="ashebrew"><big>אֵימָֽה </big></span><small><small><sup>[[H0367]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ei.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ do you make leap it  |**<big>&#8207;[[H9008\|הְֽ֭]]&#8207;&#8207;[[H7493\|תַרְעִישֶׁ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| He.<small><sup>[[HTi]]</sup></small> tar.'i.she.<small><sup>[[HVhi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> locust  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0697\|אַרְבֶּ֑ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'ar.Beh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] majesty of  |**<big>&#8207;[[H1935\|ה֖וֹד]]&#8207; </big>**| Hod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| snorting its  |**<big>&#8207;[[H5170A\|נַחְר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| nach.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] terror  |**<big>&#8207;[[H0367\|אֵימָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.19|<< Job 39:19]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.21|Job 39:21 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 Mount Hor, where Aaron died and was buried during Israel's wilderness journey.
 - A location at Mt. Hermon first mentioned at [[Num.20.22|Num.20.22]]; 
-- called Hor\_Mount <[[H2023G]]> \(<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>\)
+- called Hor\_Mount  **<big>[[H2023|הֹר]]</big>**
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.317396,35.407152&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mount Hor was a mountain located on the border of Edom \([[Num.20.23|Numbers 20:
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Hor | [<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2023G) <small>*Hebrew*</small> | 10x | [[Num.20.22] ... [Deu.32.50] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hor\*\|reference=Num.20.22;Num.20.23;Num.20.25;Num.20.27;Num.21.4;Num.33.37;Num.33.38;Num.33.39;Num.33.41;Deu.32.50) |
-All Strong's for **Hor_Mount**: \[[[H2023G]]\]
+| (Mount )Hor | [<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2023G) | 10x | [[Num.20.22] ... [Deu.32.50] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hor\*\|reference=Num.20.22;Num.20.23;Num.20.25;Num.20.27;Num.21.4;Num.33.37;Num.33.38;Num.33.39;Num.33.41;Deu.32.50) |
+All entries for **Hor Mount**:  **<big>[[H2023|הֹר]]</big>**

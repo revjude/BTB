@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוֹדִיָּה‎</span></big> **Hôwdîyâh** <small>*(ho-dee-yaw')*</small> ==**Hodiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>a form for the feminine of <span class="ashebrew">‎יְהוּדִי‎</span><sup><small>[[H3064]]</small></sup></small>
+**<big><span class="ashebrew">‎הוֹדִיָּה‎</span></big>** **Hôwdîyâh** <small>*(ho-dee-yaw')*</small> ==**Hodiah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>a form for the feminine of **<big>[[H3064|‎יְהוּדִי‎]]</big>**</small>
 
 $\quad$ Hodiah.
 - § Hodiah = *"majesty of Jehovah"*

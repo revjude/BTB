@@ -6,13 +6,13 @@ I called on Your name, O LORD, out of the depths of the Pit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.54|<< Lamentations 3:54]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.56|Lamentations 3:56 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I called  | <span class="ashebrew"><big>קָרָ֤אתִי </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| ka.Ra.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שִׁמְ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| shim. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a pit of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בּ֖וֹר </big></span><small><small><sup>[[H0953A]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Bor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lowest parts  | <span class="ashebrew"><big>תַּחְתִּיּֽוֹת </big></span><small><small><sup>[[H8482]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tach.ti.Yot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I called  |**<big>&#8207;[[H7121G\|קָרָ֤אתִי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a pit of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0953A\|בּ֖וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Bor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lowest parts  |**<big>&#8207;[[H8482\|תַּחְתִּיּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.ti.Yot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.54|<< Lamentations 3:54]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.56|Lamentations 3:56 >>]]</td></tr></table>
 
 

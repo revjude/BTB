@@ -7,31 +7,31 @@ The LORD shall make the rain of thy land powder and dust: from heaven shall it c
 The LORD will turn the rain of your land into dust and powder; it will descend on you from the sky until you are destroyed.<small><sub>**MT:**</sub></small>
 [[Deut.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May \[the\] <span class="smallcaps">lord</span> appoint | <big><span class="asgreek">δωή</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a cloud of dust; | <big><span class="asgreek">κονιορτόν</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dust | <big><span class="asgreek">χους</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| shall come down | <big><span class="asgreek">καταβήσεται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| it should | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| obliterate | <big><span class="asgreek">εκτρίψη</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| it should destroy | <big><span class="asgreek">απολέση</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| May \[the\] <span class="smallcaps">lord</span> appoint | **<big>[[G1325\|δωή]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rain | **<big>[[G5205\|υετόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your land | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| a cloud of dust; | **<big>[[G2868\|κονιορτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dust | **<big>[[G5522\|χους]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| shall come down | **<big>[[G2597\|καταβήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| it should | **<big>[[G0302\|αν]]</big>** |
+| obliterate | **<big>[[G7160\|εκτρίψη]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| it should destroy | **<big>[[G0622\|απολέση]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Deut.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 
 

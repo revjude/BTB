@@ -7,33 +7,33 @@ Thus saith the LORD, the God of Israel; Like these good figs, so will I acknowle
 “This is what the LORD, the God of Israel, says: ‘Like these good figs, so I regard as good the exiles from Judah, whom I have sent away from this place to the land of the Chaldeans.<small><sub>**MT:**</sub></small>
 [[Jer.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.4|<< Jeremiah 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.6|Jeremiah 24:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| figs | <big><span class="asgreek">σύκα</span></big> <sup><small><small>[[G4810]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these better | <big><span class="asgreek">χρηστά</span></big> <sup><small><small>[[G5543]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall I recognize | <big><span class="asgreek">επιγνώσομαι</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews being resettled | <big><span class="asgreek">αποικισθέντας</span></big> <sup><small><small>[[G6442]]</small></small></sup> <big><span class="asgreek">Ιουδαίους</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I have sent out | <big><span class="asgreek">εξαπέσταλκα</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] Chaldeans | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| good. | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| figs | **<big>[[G4810\|σύκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| these better | **<big>[[G5543\|χρηστά]]</big>** **<big>[[G3778\|ταύτα]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| shall I recognize | **<big>[[G1921\|επιγνώσομαι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Jews being resettled | **<big>[[G6442\|αποικισθέντας]]</big>** **<big>[[G2453\|Ιουδαίους]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| I have sent out | **<big>[[G1821\|εξαπέσταλκα]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this place | **<big>[[G5117\|τόπου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] Chaldeans | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| good. | **<big>[[G0018\|αγαθά]]</big>** |
 [[Jer.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.4|<< Jeremiah 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.6|Jeremiah 24:6 >>]]</td></tr></table>
 
 

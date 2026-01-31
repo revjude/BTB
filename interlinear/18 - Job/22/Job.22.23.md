@@ -6,16 +6,16 @@ If you return to the Almighty, you will be restored. If you remove injustice fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.22|<< Job 22:22]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.24|Job 22:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will return  | <span class="ashebrew"><big>תָּשׁ֣וּב </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| ta.Shuv <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.do.Sha- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Almighty  | <span class="ashebrew"><big>שַׁ֭דַּי </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| Sha.dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be built up  | <span class="ashebrew"><big>תִּבָּנֶ֑ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| ti.ba.Neh <small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will remove  | <span class="ashebrew"><big>תַּרְחִ֥יק </big></span><small><small><sup>[[H7368]]</sup></small></small> &#8207;| tar.Chik <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| injustice  | <span class="ashebrew"><big>עַ֝וְלָ֗ה </big></span><small><small><sup>[[H5766B]]</sup></small></small> &#8207;| 'av.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from tent your  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָהֳלֶֽ </big></span><small><small><sup>[[H0168G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'o.ho.Le. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will return  |**<big>&#8207;[[H7725G\|תָּשׁ֣וּב]]&#8207; </big>**| ta.Shuv<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.do.Sha-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Almighty  |**<big>&#8207;[[H7706\|שַׁ֭דַּי]]&#8207; </big>**| Sha.dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be built up  |**<big>&#8207;[[H1129\|תִּבָּנֶ֑ה]]&#8207; </big>**| ti.ba.Neh<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will remove  |**<big>&#8207;[[H7368\|תַּרְחִ֥יק]]&#8207; </big>**| tar.Chik<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| injustice  |**<big>&#8207;[[H5766B\|עַ֝וְלָ֗ה]]&#8207; </big>**| 'av.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from tent your  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0168G\|אָהֳלֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.ho.Le.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.22|<< Job 22:22]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.24|Job 22:24 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ From following the ewes great with young he brought him to feed Jacob his people
 from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance.<small><sub>**MT:**</sub></small>
 [[Ps.78.71|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.70|<< Psalm 78:70]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.72|Psalm 78:72 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[even\] from behind | <big><span class="asgreek">εξόπισθεν</span></big> <sup><small><small>[[G7348]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giving birth | <big><span class="asgreek">λοχευομένων</span></big> <sup><small><small>[[G8213]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to tend | <big><span class="asgreek">ποιμαίνειν</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servant, | <big><span class="asgreek">δούλον</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his inheritance. | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[even\] from behind | **<big>[[G7348\|εξόπισθεν]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| giving birth | **<big>[[G8213\|λοχευομένων]]</big>** |
+| he took | **<big>[[G2983\|έλαβεν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| to tend | **<big>[[G4165\|ποιμαίνειν]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his servant, | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his inheritance. | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.78.71|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.70|<< Psalm 78:70]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.72|Psalm 78:72 >>]]</td></tr></table>
 
 

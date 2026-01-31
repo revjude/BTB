@@ -7,36 +7,36 @@ And all the men of might, [even] seven thousand, and craftsmen and smiths a thou
 The king of Babylon also brought into exile to Babylon all seven thousand men of valor and a thousand craftsmen and metalsmiths—all strong and fit for battle.<small><sub>**MT:**</sub></small>
 [[2Kgs.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.15|<< 2 Kings 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.17|2 Kings 24:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fabricator, | <big><span class="asgreek">τέκτονα</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| so consigned -- | <big><span class="asgreek">συγκλείοντα</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
-| thousands | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| of all the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| war. | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| led | <big><span class="asgreek">ήγαγεν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| in a displacement | <big><span class="asgreek">μετοικεσίαν</span></big> <sup><small><small>[[G3350]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Babylon. | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| mighty | **<big>[[G1415\|δυνατούς]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| fabricator, | **<big>[[G5045\|τέκτονα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| so consigned -- | **<big>[[G4788\|συγκλείοντα]]</big>** |
+| thousands | **<big>[[G5507\|χιλίους]]</big>** |
+| of all the | **<big>[[G3588\|τους]]</big>** **<big>[[G3956\|πάντες]]</big>** |
+| mighty | **<big>[[G1415\|δυνατούς]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| in strength | **<big>[[G2479\|ισχύϊ]]</big>** |
+| making | **<big>[[G4160\|ποιούντες]]</big>** |
+| war. | **<big>[[G4171\|πόλεμον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| led | **<big>[[G0071\|ήγαγεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| in a displacement | **<big>[[G3350\|μετοικεσίαν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Babylon. | **<big>[[G0897\|Βαβυλώνα]]</big>** |
 [[2Kgs.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.15|<< 2 Kings 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.17|2 Kings 24:17 >>]]</td></tr></table>
 
 

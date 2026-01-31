@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Bozrah</span> was an important city in Edom, often mentioned in prophecies of judgment.
 - A location in Edom first mentioned at [[Gen.36.33|Gen.36.33]]; 
-- only referred to as Bozrah<[[H1224G]]> \(<span class='tipnrLangHebrew'>ב</span>ׇּ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Bozrah **<big>[[H1224|בׇּצְרָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.734691,35.606250&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact location of Bozrah is uncertain, but it is believed to be near the mod
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bozrah | [<span class='tipnrLangHebrew'>ב</span>ׇּ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1224G) <small>*Hebrew*</small> | 7x | [[Gen.36.33] ... [Amo.1.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bozrah\*\|reference=Gen.36.33;1Ch.1.44;Isa.34.6;Isa.63.1;Jer.49.13;Jer.49.22;Amo.1.12) |
-All Strong's for **Bozrah**: \[[[H1224G]]\]
+| Bozrah | [<span class='tipnrLangHebrew'>ב</span>ׇּ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1224G) | 7x | [[Gen.36.33] ... [Amo.1.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bozrah\*\|reference=Gen.36.33;1Ch.1.44;Isa.34.6;Isa.63.1;Jer.49.13;Jer.49.22;Amo.1.12) |
+All entries for **Bozrah**:  **<big>[[H1224|בׇּצְרָה]]</big>**

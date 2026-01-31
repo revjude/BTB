@@ -7,28 +7,28 @@ Behold, I will corrupt your seed, and spread dung upon your faces, [even] the du
 Behold, I will rebuke your descendants, and I will spread dung on your faces, the waste from your feasts, and you will be carried off with it.<small><sub>**MT:**</sub></small>
 [[Mal.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.2|<< Malachi 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.4|Malachi 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| separate | <big><span class="asgreek">αφορίζω</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder, | <big><span class="asgreek">ώμον</span></big> <sup><small><small>[[G5606]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will disperse | <big><span class="asgreek">σκορπιώ</span></big> <sup><small><small>[[G4650]]</small></small></sup> |
-| \[dung of the\] large intestine | <big><span class="asgreek">ένυστρον</span></big> <sup><small><small>[[G7275]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your faces, | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[dung of the\] large intestine | <big><span class="asgreek">ένυστρον</span></big> <sup><small><small>[[G7275]]</small></small></sup> |
-| of your holiday \[feasts\]; | <big><span class="asgreek">εορτών</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will take | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| you \[away\] | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same \[time\]. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| separate | **<big>[[G0873\|αφορίζω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shoulder, | **<big>[[G5606\|ώμον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will disperse | **<big>[[G4650\|σκορπιώ]]</big>** |
+| \[dung of the\] large intestine | **<big>[[G7275\|ένυστρον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your faces, | **<big>[[G4383\|πρόσωπα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \[dung of the\] large intestine | **<big>[[G7275\|ένυστρον]]</big>** |
+| of your holiday \[feasts\]; | **<big>[[G1859\|εορτών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will take | **<big>[[G2983\|λήψομαι]]</big>** |
+| you \[away\] | **<big>[[G1473\|υμάς]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same \[time\]. | **<big>[[G1473\|αυτό]]</big>** |
 [[Mal.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.2|<< Malachi 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.4|Malachi 2:4 >>]]</td></tr></table>
 
 

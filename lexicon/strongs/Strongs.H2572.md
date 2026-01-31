@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲמִשִּׁים‎</span></big> **chămishshîym** <small>*(kham-ish-sheem')*</small> ==**fifty**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>multiple of <span class="ashebrew">‎חָמֵשׁ‎</span><sup><small>[[H2568]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲמִשִּׁים‎</span></big>** **chămishshîym** <small>*(kham-ish-sheem')*</small> ==**fifty**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>multiple of **<big>[[H2568|‎חָמֵשׁ‎]]</big>**</small>
 
 $\quad$ fifty.
 - ***fifty***

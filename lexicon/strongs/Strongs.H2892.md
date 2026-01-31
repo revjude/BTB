@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טֹהַר‎</span></big> **ṭôhar** <small>*(to'-har)*</small> ==**purity**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎טָהֵר‎</span><sup><small>[[H2891]]</small></sup></small>
+**<big><span class="ashebrew">‎טֹהַר‎</span></big>** **ṭôhar** <small>*(to'-har)*</small> ==**purity**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2891|‎טָהֵר‎]]</big>**</small>
 
 $\quad$ clearness, glory, purifying.
 - literally ***brightness***
@@ -10,4 +10,4 @@ $\quad$ **1a)** purity
 $\quad$ **1b)** purifying
 **2)** clearness, lustre
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καθαρότης</span><sup><small>[[G2514]]</small></sup>
+<small>See Greek: </small>**<big>[[G2514|καθαρότης]]</big>**

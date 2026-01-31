@@ -1,4 +1,4 @@
-spelling of: <small>[[G8320]]</small> 
+spelling of: <small>**<big>[[G8320|μηνίω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μηνιάω==</span></b>, 

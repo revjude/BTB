@@ -1,4 +1,3 @@
-<span class="asaramaic">‎הוּךְ‎</span> <small>***(hukh)***</small> ==**to go**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H1980I]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1980I|הָלַךְ]]</big>**</small> 
 
-- Aramaic of <i>ha.lakh</i> (<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ך‎</span>ְ ": walk" [[H1980]])
+- Aramaic of <i>ha.lakh</i> (<span class='ashebrew'>‎ה‎</span>ָ<span class='ashebrew'>‎ל‎</span>ַ<span class='ashebrew'>‎ך‎</span>ְ ": walk" **<big>[[H1980|הָלַךְ]]</big>**)

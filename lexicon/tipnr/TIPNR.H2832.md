@@ -1,8 +1,8 @@
 <small>*Hashmonah • A desert campsite during Israel's journey from Egypt.*</small>
 
 <span class='tipnrhighlight'>Hashmonah</span> was one of the places where the Israelites camped during their wilderness wanderings after leaving Egypt.
-- A location near Hor\_Mount<[[H2023G]]> first mentioned at [[Num.33.29|Num.33.29]]; 
-- only referred to as Hashmonah<[[H2832]]> \(<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Hor\_Mount **<big>[[H2023|הֹר]]</big>** first mentioned at [[Num.33.29|Num.33.29]]; 
+- only referred to as Hashmonah **<big>[[H2832|חַשְׁמֹנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.317396,35.407152&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ As with many of the places mentioned in the wilderness itinerary, Hashmonah's si
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hashmonah | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2832) <small>*Hebrew*</small> | 2x | [[Num.33.29] & [Num.33.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hashmonah\*\|reference=Num.33.29;Num.33.30) |
-All Strong's for **Hashmonah**: \[[[H2832]]\]
+| Hashmonah | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2832) | 2x | [[Num.33.29] & [Num.33.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hashmonah\*\|reference=Num.33.29;Num.33.30) |
+All entries for **Hashmonah**:  **<big>[[H2832|חַשְׁמֹנָה]]</big>**

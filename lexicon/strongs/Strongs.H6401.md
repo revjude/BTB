@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּלְחָא‎</span></big> **Pilchâʼ** <small>*(pil-khaw')*</small> ==**Pilha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פֶּלַח‎</span><sup><small>[[H6400]]</small></sup>; slicing</small>
+**<big><span class="ashebrew">‎פִּלְחָא‎</span></big>** **Pilchâʼ** <small>*(pil-khaw')*</small> ==**Pilha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6400|‎פֶּלַח‎]]</big>**; slicing</small>
 
 $\quad$ Pilcha.
 - § Pileha = *"slicing"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִטֵּר‎</span></big> **ʼiṭṭêr** <small>*(it-tare')*</small> ==**lefthanded**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎אָטַר‎</span><sup><small>[[H0332]]</small></sup></small>
+**<big><span class="ashebrew">‎אִטֵּר‎</span></big>** **ʼiṭṭêr** <small>*(it-tare')*</small> ==**lefthanded**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H0332|‎אָטַר‎]]</big>**</small>
 
 $\quad$ [phrase] left-handed.
 - ***shut up***, i.e. ***impeded*** (as to the use of the right hand)

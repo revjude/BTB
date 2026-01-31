@@ -1,4 +1,4 @@
-form of: <small>[[G1646]]</small> 
+form of: <small>**<big>[[G1646|ἐλάχιστος]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==ἐλαχιστότερος==</span>-<span class='asgreek'>ος</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

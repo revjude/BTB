@@ -7,29 +7,29 @@ And he hath cast the lot for them, and his hand hath divided it unto them by lin
 He has allotted their portion; His hand has distributed it by measure. They will possess it forever; they will dwell in it from generation to generation.<small><sub>**MT:**</sub></small>
 [[Isa.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.16|<< Isaiah 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.1|Isaiah 35:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall cast | <big><span class="asgreek">επιβαλεί</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| lots for them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κλήρους</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| divided out parts | <big><span class="asgreek">διεμέρισε</span></big> <sup><small><small>[[G1266]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to graze. | <big><span class="asgreek">βόσκεσθαι</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| Into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of time | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| you shall inherit; | <big><span class="asgreek">κληρονομήσετε</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generations | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| of generations | <big><span class="asgreek">γενεών</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">αναπαύσονται</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall cast | **<big>[[G1911\|επιβαλεί]]</big>** |
+| lots for them, | **<big>[[G1473\|αυτοίς]]</big>** **<big>[[G2819\|κλήρους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| divided out parts | **<big>[[G1266\|διεμέρισε]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| to graze. | **<big>[[G1006\|βόσκεσθαι]]</big>** |
+| Into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of time | **<big>[[G5550\|χρόνον]]</big>** |
+| you shall inherit; | **<big>[[G2816\|κληρονομήσετε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| generations | **<big>[[G1074\|γενεάς]]</big>** |
+| of generations | **<big>[[G1074\|γενεών]]</big>** |
+| shall rest | **<big>[[G0373\|αναπαύσονται]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Isa.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.16|<< Isaiah 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.1|Isaiah 35:1 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּמְנִי‎</span></big> **Timnîy** <small>*(tim-nee')*</small> ==**Timnite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎תִּמְנָה‎</span><sup><small>[[H8553]]</small></sup></small>
+**<big><span class="ashebrew">‎תִּמְנִי‎</span></big>** **Timnîy** <small>*(tim-nee')*</small> ==**Timnite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H8553|‎תִּמְנָה‎]]</big>**</small>
 
 $\quad$ Timnite.
 - § Timnite = *"thou wilt number: a portion"*

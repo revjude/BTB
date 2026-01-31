@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁעַר‎</span></big> **shaʻar** <small>*(shah'-ar)*</small> ==**gate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁעַר‎</span><sup><small>[[H8176]]</small></sup> in its original sense</small>
+**<big><span class="ashebrew">‎שַׁעַר‎</span></big>** **shaʻar** <small>*(shah'-ar)*</small> ==**gate**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8176|‎שָׁעַר‎]]</big>** in its original sense</small>
 
 $\quad$ city, door, gate, port ([idiom] -er).
 - ***an opening***, i.e. ***door*** or ***gate***
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1b1)** city, town
 $\quad$ **1c)** gate (of palace, royal castle, temple, court of tabernacle)
 $\quad$ **1d)** heaven
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αὐλή</span><sup><small>[[G0833]]</small></sup> · <span class="asgreek">θύρα</span><sup><small>[[G2374]]</small></sup> · <span class="asgreek">πόλις</span><sup><small>[[G4172]]</small></sup> · <span class="asgreek">πύλη</span><sup><small>[[G4439]]</small></sup> · <span class="asgreek">πυλών</span><sup><small>[[G4440]]</small></sup>
+<small>See Greek: </small>**<big>[[G0833|αὐλή]]</big>** · **<big>[[G2374|θύρα]]</big>** · **<big>[[G4172|πόλις]]</big>** · **<big>[[G4439|πύλη]]</big>** · **<big>[[G4440|πυλών]]</big>**

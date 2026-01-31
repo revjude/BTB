@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶסֶךְ‎</span></big> **neçek** <small>*(neh'-sek)*</small> ==**drink offering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">נֵסֶךְ</span> **nêçek** <small>*(nay'-sek)*</small>; from <span class="ashebrew">‎נָסַךְ‎</span><sup><small>[[H5258]]</small></sup></small>
+**<big><span class="ashebrew">‎נֶסֶךְ‎</span></big>** **neçek** <small>*(neh'-sek)*</small> ==**drink offering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">נֵסֶךְ</span></big>** **nêçek** <small>*(nay'-sek)*</small>; from **<big>[[H5258|‎נָסַךְ‎]]</big>**</small>
 
 $\quad$ cover, drink offering, molten image.
 - ***a libation***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחִי‎</span></big> **ʼĂchîy** <small>*(akh-ee')*</small> ==**Ahi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָח‎</span><sup><small>[[H0251]]</small></sup>; brotherly</small>
+**<big><span class="ashebrew">‎אֲחִי‎</span></big>** **ʼĂchîy** <small>*(akh-ee')*</small> ==**Ahi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0251|‎אָח‎]]</big>**; brotherly</small>
 
 $\quad$ Ahi.
 - § Ahi = *"my brother"*

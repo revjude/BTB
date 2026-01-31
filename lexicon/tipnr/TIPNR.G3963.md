@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Patmos</span> is a Greek island in the Aegean Sea where the apostle John was exiled and received the visions recorded in the Book of Revelation.
 - A location only mentioned at [[Rev.1.9|Rev.1.9]]; 
-- only referred to as Patmos<[[G3963]]> \(<span class='tipnrLangGreek'>Πάτμος</span>\).
+- only referred to as Patmos **<big>[[G3963|Πάτμος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.307520,26.548274&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Patmos is a small Greek island located in the Aegean Sea, approximately 37 miles
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Patmos | [<span class='tipnrLangGreek'>Πάτμος</span>](G3963) <small>*Greek*</small> | 1x | [Rev.1.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Patmos\*\|reference=Rev.1.9) |
-All Strong's for **Patmos**: \[[[G3963]]\]
+| Patmos | [<span class='tipnrLangGreek'>Πάτμος</span>](G3963) | 1x | [Rev.1.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Patmos\*\|reference=Rev.1.9) |
+All entries for **Patmos**:  **<big>[[G3963|Πάτμος]]</big>**

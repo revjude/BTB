@@ -7,26 +7,26 @@ Judah and Israel [were] many, as the sand which [is] by the sea in multitude, ea
 The people of Judah and Israel were as numerous as the sand on the seashore, and they were eating and drinking and rejoicing.<small><sub>**MT:**</sub></small>
 [[1Kgs.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.19|<< 1 Kings 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.21|1 Kings 4:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \[were\] exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sand | <big><span class="asgreek">άμμος</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude, | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| eating | <big><span class="asgreek">εσθίοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drinking | <big><span class="asgreek">πίνοντες</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rejoicing. | <big><span class="asgreek">χαίροντες</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| \[were\] exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sand | **<big>[[G0285\|άμμος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| multitude, | **<big>[[G4128\|πλήθος]]</big>** |
+| eating | **<big>[[G2068\|εσθίοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drinking | **<big>[[G4095\|πίνοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rejoicing. | **<big>[[G5463\|χαίροντες]]</big>** |
 [[1Kgs.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.19|<< 1 Kings 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.21|1 Kings 4:21 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ And when the Syrians saw that they were smitten before Israel, they gathered the
 When the Arameans saw that they had been defeated by Israel, they regrouped.<small><sub>**MT:**</sub></small>
 [[2Sam.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.14|<< 2 Samuel 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.16|2 Samuel 10:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Syria beheld | <big><span class="asgreek">ειδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">Συρία</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it failed | <big><span class="asgreek">έπταισεν</span></big> <sup><small><small>[[G4417]]</small></small></sup> |
-| in front | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gathered together | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same \[place\]. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Syria beheld | **<big>[[G1492\|ειδε]]</big>** **<big>[[G4947\|Συρία]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| it failed | **<big>[[G4417\|έπταισεν]]</big>** |
+| in front | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gathered together | **<big>[[G4863\|συνήχθησαν]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same \[place\]. | **<big>[[G1473\|αυτό]]</big>** |
 [[2Sam.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.14|<< 2 Samuel 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.16|2 Samuel 10:16 >>]]</td></tr></table>
 
 

@@ -7,61 +7,61 @@ And Eliab his eldest brother heard when he spake unto the men; and Eliab’s ang
 Now when David’s oldest brother Eliab heard him speaking to the men, his anger burned against David. “Why have you come down here?” he asked. “And with whom did you leave those few sheep in the wilderness? I know your pride and wickedness of heart—you have come down to see the battle!”<small><sub>**MT:**</sub></small>
 [[1Sam.17.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.27|<< 1 Samuel 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.29|1 Samuel 17:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| Eliab | <big><span class="asgreek">Ελιάβ</span></big> <sup><small><small>[[H0446]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| older | <big><span class="asgreek">μείζων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his speaking | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became angry | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
-| with rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| Eliab | <big><span class="asgreek">Ελιάβ</span></big> <sup><small><small>[[H0446]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| \[is\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you came down, | <big><span class="asgreek">κατέβης</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| why did | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you leave | <big><span class="asgreek">αφήκας</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρά</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| those | <big><span class="asgreek">εκείνα</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness? | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your pride, | <big><span class="asgreek">υπερηφανίαν</span></big> <sup><small><small>[[G5243]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your heart; | <big><span class="asgreek">καρδίας σου</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeing | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| you came down. | <big><span class="asgreek">κατέβης</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| heard | **<big>[[G0191\|ήκουσεν]]</big>** |
+| Eliab | **<big>[[H0446\|Ελιάβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| older | **<big>[[G3173\|μείζων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his speaking | **<big>[[G2980\|λαλείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men, | **<big>[[G0435\|άνδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became angry | **<big>[[G3710\|ωργίσθη]]</big>** |
+| with rage | **<big>[[G2372\|θυμώ]]</big>** |
+| Eliab | **<big>[[H0446\|Ελιάβ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| \[is\] this | **<big>[[G3778\|τούτο]]</big>** |
+| you came down, | **<big>[[G2597\|κατέβης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| why did | **<big>[[G5100\|τίνα]]</big>** |
+| you leave | **<big>[[G0863\|αφήκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| small | **<big>[[G3398\|μικρά]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| those | **<big>[[G1565\|εκείνα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness? | **<big>[[G2048\|ερήμω]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| know | **<big>[[G1492\|οίδα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your pride, | **<big>[[G5243\|υπερηφανίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| evil | **<big>[[G2549\|κακίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your heart; | **<big>[[G2588\|καρδίας σου]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| seeing | **<big>[[G1492\|ιδείν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| war | **<big>[[G4171\|πόλεμον]]</big>** |
+| you came down. | **<big>[[G2597\|κατέβης]]</big>** |
 [[1Sam.17.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.27|<< 1 Samuel 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.29|1 Samuel 17:29 >>]]</td></tr></table>
 
 

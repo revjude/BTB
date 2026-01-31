@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צֹר‎</span></big> **Tsôr** <small>*(tsore)*</small> ==**Tyre**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">צוֹר</span> **Tsôwr** <small>*(tsore)*</small>; the same as <span class="ashebrew">‎צֹר‎</span><sup><small>[[H6864]]</small></sup>; a rock</small>
+**<big><span class="ashebrew">‎צֹר‎</span></big>** **Tsôr** <small>*(tsore)*</small> ==**Tyre**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">צוֹר</span></big>** **Tsôwr** <small>*(tsore)*</small>; the same as **<big>[[H6864|‎צֹר‎]]</big>**; a rock</small>
 
 $\quad$ Tyre, Tyrus.
 - § Tyre or Tyrus = *"a rock"*
@@ -7,4 +7,4 @@ $\quad$ Tyre, Tyrus.
 
 **1)** the Phoenician city on the Mediterranean coast
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Τύρος</span><sup><small>[[G5184]]</small></sup> · <span class="asgreek">Συρία</span><sup><small>[[G4947]]</small></sup>
+<small>See Greek: </small>**<big>[[G5184|Τύρος]]</big>** · **<big>[[G4947|Συρία]]</big>**

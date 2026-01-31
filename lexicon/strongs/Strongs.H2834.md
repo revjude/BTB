@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָשַׂף‎</span></big> **châsaph** <small>*(khaw-saf')*</small> ==**to strip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָשַׂף‎</span></big>** **châsaph** <small>*(khaw-saf')*</small> ==**to strip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make bare, clean, discover, draw out, take, uncover.
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to strip off
 $\quad$ $\quad$ **1a2)** to strip, lay bare
 $\quad$ $\quad$ **1a3)** to draw (water), skim, take from the surface
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνακαλύπτω</span><sup><small>[[G0343]]</small></sup> · <span class="asgreek">ἀποκαλύπτω</span><sup><small>[[G0601]]</small></sup> · <span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">κατασύρω</span><sup><small>[[G2694]]</small></sup>
+<small>See Greek: </small>**<big>[[G0343|ἀνακαλύπτω]]</big>** · **<big>[[G0601|ἀποκαλύπτω]]</big>** · **<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G2694|κατασύρω]]</big>**

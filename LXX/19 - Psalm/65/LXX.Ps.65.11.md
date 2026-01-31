@@ -7,20 +7,20 @@ Thou crownest the year with thy goodness; and thy paths drop fatness.
 You crown the year with Your bounty, and Your paths overflow with plenty.<small><sub>**MT:**</sub></small>
 [[Ps.65.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.10|<< Psalm 65:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.12|Psalm 65:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall bless | <big><span class="asgreek">ευλογήσεις</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crown | <big><span class="asgreek">στέφανον</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year, | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[because of\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your graciousness; | <big><span class="asgreek">χρηστότητός</span></big> <sup><small><small>[[G5544]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your plains | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be filled | <big><span class="asgreek">πλησθήσονται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| \[in\] fatness. | <big><span class="asgreek">πιότητος</span></big> <sup><small><small>[[G4096]]</small></small></sup> |
+| You shall bless | **<big>[[G2127\|ευλογήσεις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| crown | **<big>[[G4735\|στέφανον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| year, | **<big>[[G1763\|ενιαυτού]]</big>** |
+| \[because of\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| your graciousness; | **<big>[[G5544\|χρηστότητός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your plains | **<big>[[G8676\|πεδία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall be filled | **<big>[[G4130\|πλησθήσονται]]</big>** |
+| \[in\] fatness. | **<big>[[G4096\|πιότητος]]</big>** |
 [[Ps.65.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.10|<< Psalm 65:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.12|Psalm 65:12 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ You will be secure, because there is hope, and you will look around and lie down
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.19|Job 11:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will be secure  | <span class="ashebrew"><big>וּֽ֭ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>בָטַחְתָּ </big></span><small><small><sup>[[H0982]]</sup></small></small> &#8207;| U. <small><sup>[[Hc]]</sup></small> va.tach.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>יֵ֣שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] hope  | <span class="ashebrew"><big>תִּקְוָ֑ה </big></span><small><small><sup>[[H8615B]]</sup></small></small> &#8207;| tik.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will be well protected  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>חָפַרְתָּ֗ </big></span><small><small><sup>[[H2658]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> cha.far.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to security  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בֶ֥טַח </big></span><small><small><sup>[[H0983]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Ve.tach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will lie down  | <span class="ashebrew"><big>תִּשְׁכָּֽב </big></span><small><small><sup>[[H7901H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tish.Kav <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be secure  |**<big>&#8207;[[H9001\|וּֽ֭]]&#8207;&#8207;[[H0982\|בָטַחְתָּ]]&#8207; </big>**| U.<small><sup>[[Hc]]</sup></small> va.tach.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] hope  |**<big>&#8207;[[H8615B\|תִּקְוָ֑ה]]&#8207; </big>**| tik.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be well protected  |**<big>&#8207;[[H9001\|וְ֝]]&#8207;&#8207;[[H2658\|חָפַרְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.far.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to security  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0983\|בֶ֥טַח]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ve.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will lie down  |**<big>&#8207;[[H7901H\|תִּשְׁכָּֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.Kav<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.19|Job 11:19 >>]]</td></tr></table>
 
 

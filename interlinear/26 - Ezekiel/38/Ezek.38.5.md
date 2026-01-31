@@ -6,15 +6,15 @@ Persia, Cush, and Put will accompany them, all with shields and helmets,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.4|<< Ezekiel 38:4]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.6|Ezekiel 38:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Persia  | <span class="ashebrew"><big>פָּרַ֛ס </big></span><small><small><sup>[[H6539]]</sup></small></small> &#8207;| pa.Ras <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cush  | <span class="ashebrew"><big>כּ֥וּשׁ </big></span><small><small><sup>[[H3568A]]</sup></small></small> &#8207;| kush <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Put  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פ֖וּט </big></span><small><small><sup>[[H6316H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Fut <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] with them  | <span class="ashebrew"><big>אִתָּ֑ </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'i.Ta <small><sup>[[HR]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of them  | <span class="ashebrew"><big>כֻּלָּ֖ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ku.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shield  | <span class="ashebrew"><big>מָגֵ֥ן </big></span><small><small><sup>[[H4043]]</sup></small></small> &#8207;| ma.Gen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and helmet  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כוֹבָֽע </big></span><small><small><sup>[[H3553]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kho.Va' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Persia  |**<big>&#8207;[[H6539\|פָּרַ֛ס]]&#8207; </big>**| pa.Ras<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cush  |**<big>&#8207;[[H3568A\|כּ֥וּשׁ]]&#8207; </big>**| kush<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Put  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6316H\|פ֖וּט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Fut<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] with them  |**<big>&#8207;[[H0854\|אִתָּ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'i.Ta<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻּלָּ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shield  |**<big>&#8207;[[H4043\|מָגֵ֥ן]]&#8207; </big>**| ma.Gen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and helmet  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3553\|כוֹבָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.4|<< Ezekiel 38:4]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.6|Ezekiel 38:6 >>]]</td></tr></table>
 
 

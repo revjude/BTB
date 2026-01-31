@@ -7,26 +7,26 @@ And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merci
 Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness,<small><sub>**MT:**</sub></small>
 [[Exod.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.5|<< Exodus 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.7|Exodus 34:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> went by | <big><span class="asgreek">παρήλθε</span></big> <sup><small><small>[[G3928]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| his face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| called \[out\], | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| pitying | <big><span class="asgreek">οικτίρμων</span></big> <sup><small><small>[[G3629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| merciful, | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
-| lenient | <big><span class="asgreek">μακρόθυμος</span></big> <sup><small><small>[[G8235]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| full of mercy | <big><span class="asgreek">πολυέλεος</span></big> <sup><small><small>[[G8849]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| true, | <big><span class="asgreek">αληθινός</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> went by | **<big>[[G3928\|παρήλθε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| his face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| called \[out\], | **<big>[[G2564\|εκάλεσε]]</big>** |
+| \[The\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| pitying | **<big>[[G3629\|οικτίρμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| merciful, | **<big>[[G1655\|ελεήμων]]</big>** |
+| lenient | **<big>[[G8235\|μακρόθυμος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| full of mercy | **<big>[[G8849\|πολυέλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| true, | **<big>[[G0228\|αληθινός]]</big>** |
 [[Exod.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.5|<< Exodus 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.7|Exodus 34:7 >>]]</td></tr></table>
 
 

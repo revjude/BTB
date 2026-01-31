@@ -7,27 +7,27 @@ And it shall come to pass, if they will not believe thee, neither hearken to the
 And the LORD said, “If they refuse to believe you or heed the witness of the first sign, they may believe that of the second.<small><sub>**MT:**</sub></small>
 [[Exod.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.7|<< Exodus 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.9|Exodus 4:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they do not believe | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">πιστεύσωσί</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">εισακούσωσι</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sign | <big><span class="asgreek">σημείου</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτου</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| they will believe | <big><span class="asgreek">πιστεύσουσί</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sign | <big><span class="asgreek">σημείου</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρου</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| they do not believe | **<big>[[G3361\|μη]]</big>** **<big>[[G4100\|πιστεύσωσί]]</big>** |
+| you, | **<big>[[G1473\|σοι]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| hearken to | **<big>[[G1522\|εισακούσωσι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sign | **<big>[[G4592\|σημείου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| first | **<big>[[G4413\|πρώτου]]</big>** |
+| they will believe | **<big>[[G4100\|πιστεύσουσί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| by the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| sign | **<big>[[G4592\|σημείου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| second | **<big>[[G1208\|δευτέρου]]</big>** |
 [[Exod.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.7|<< Exodus 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.9|Exodus 4:9 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כׇּל־חֹזֶה‎</span></big> **Kol-Chôzeh** <small>*(kol-kho-zeh')*</small> ==**Col-hozeh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כֹּל‎</span><sup><small>[[H3605]]</small></sup> and <span class="ashebrew">‎חֹזֶה‎</span><sup><small>[[H2374]]</small></sup>; every seer</small>
+**<big><span class="ashebrew">‎כׇּל־חֹזֶה‎</span></big>** **Kol-Chôzeh** <small>*(kol-kho-zeh')*</small> ==**Col-hozeh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3605|‎כֹּל‎]]</big>** and **<big>[[H2374|‎חֹזֶה‎]]</big>**; every seer</small>
 
 $\quad$ Col-hozeh.
 - § Col-hozeh = *"all-seeing"*

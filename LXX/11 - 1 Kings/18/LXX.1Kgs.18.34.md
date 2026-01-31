@@ -7,18 +7,18 @@ And he said, Do [it] the second time. And they did [it] the second time. And he 
 and said, “Fill four waterpots and pour the water on the offering and on the wood.” “Do it a second time,” he said, and they did it a second time. “Do it a third time,” he said, and they did it a third time.<small><sub>**MT:**</sub></small>
 [[1Kgs.18.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.33|<< 1 Kings 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.35|1 Kings 18:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Repeat it a second time! | <big><span class="asgreek">δευτερώσατε</span></big> <sup><small><small>[[G6806]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they repeated it a second time. | <big><span class="asgreek">εδευτέρωσαν</span></big> <sup><small><small>[[G6806]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Do it a third time! | <big><span class="asgreek">τρισσώσατε</span></big> <sup><small><small>[[G9494]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did it a third time. | <big><span class="asgreek">ετρίσσευσαν</span></big> <sup><small><small>[[G9492]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Repeat it a second time! | **<big>[[G6806\|δευτερώσατε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they repeated it a second time. | **<big>[[G6806\|εδευτέρωσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Do it a third time! | **<big>[[G9494\|τρισσώσατε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they did it a third time. | **<big>[[G9492\|ετρίσσευσαν]]</big>** |
 [[1Kgs.18.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.33|<< 1 Kings 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.35|1 Kings 18:35 >>]]</td></tr></table>
 
 

@@ -1,5 +1,3 @@
-<span class="ashebrew">‎יִשְׁפָּה‎</span> <small>***(yish.pah)***</small> ==**Ishpah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin  living at the time of Egypt and Wilderness, only mentioned at [[1Chr.8.16|1Ch.8.16]]
--  son of: Beriah ([[H1283I]])
--  brother of: Arad ([[H6166B]]), Ahio ([[H0283H]]), Shashak ([[H8349]]), Jeremoth ([[H3406I]]), Zebadiah ([[H2069]]), Eder ([[H5738]]), Michael ([[H4317L]]) and Joha ([[H3109]])
-
+-  son of: Beriah (**<big>[[H1283I|בְּרִיעָה]]</big>**)
+-  brother of: Arad (**<big>[[H6166B|עֲרָד]]</big>**), Ahio (**<big>[[H0283H|אַחְיוֹ]]</big>**), Shashak (**<big>[[H8349|שָׁשַׁק]]</big>**), Jeremoth (**<big>[[H3406I|יְרִימוֹת]]</big>**), Zebadiah (**<big>[[H2069|זְבַדְיָה]]</big>**), Eder (**<big>[[H5738|עֶדֶר]]</big>**), Michael (**<big>[[H4317L|מִיכָאֵל]]</big>**) and Joha (**<big>[[H3109|יוֹחָא]]</big>**)

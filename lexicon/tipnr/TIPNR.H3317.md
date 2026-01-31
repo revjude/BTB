@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Iphtahel Valley</span>, on the border between Zebulun and Asher \([[Josh.19.14|Joshua 19:14]], 27\).
 - A location first mentioned at [[Josh.19.14|Jos.19.14]]; 
-- only referred to as Iphtahel\_Valley<[[H3317]]><[[H1516H]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Iphtahel\_Valley **<big>[[H3317|יִפְתַּח־אֵל]]</big>** **<big>[[H1516|גַּיְא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.832774,35.277225&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Iphtahel Valley was a valley located on the border between the territories o
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Iphtahel (KJV= valley of Jiphthah-el; NIV= Valley of Iphtah El) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3317)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516H) <small>*Hebrew*</small> | 2x | [[Jos.19.14] & [Jos.19.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jos.19.14;Jos.19.27) |
-All Strong's for **Iphtahel_Valley**: \[[[H3317]]\]
+| Valley/ of Iphtahel (KJV= valley of Jiphthah-el; NIV= Valley of Iphtah El) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3317)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516H) | 2x | [[Jos.19.14] & [Jos.19.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jos.19.14;Jos.19.27) |
+All entries for **Iphtahel Valley**:  **<big>[[H3317|יִפְתַּח־אֵל]]</big>**

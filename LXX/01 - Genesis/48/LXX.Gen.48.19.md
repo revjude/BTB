@@ -11,39 +11,39 @@ But his father refused. “I know, my son, I know!” he said. “He too shall b
 > $\quad$ referenced by: [[Rom.11.25|Rom 11:25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he would not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηθέλησεν</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| child, | <big><span class="asgreek">τέκνον</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| I know; | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be raised up high. | <big><span class="asgreek">υψωθήσεται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| greater | <big><span class="asgreek">μείζων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| \[than\] he | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he would not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2309\|ηθέλησεν]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** |
+| child, | **<big>[[G5043\|τέκνον]]</big>** |
+| I know; | **<big>[[G1492\|οίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a people, | **<big>[[G2992\|λαόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| will be raised up high. | **<big>[[G5312\|υψωθήσεται]]</big>** |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| younger | **<big>[[G3501\|νεώτερος]]</big>** |
+| greater | **<big>[[G3173\|μείζων]]</big>** |
+| \[than\] he | **<big>[[G1473\|αυτού]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| a | **<big>[[G1519\|εις]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| of nations. | **<big>[[G1484\|εθνών]]</big>** |
 [[Gen.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.18|<< Genesis 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.20|Genesis 48:20 >>]]</td></tr></table>
 
 

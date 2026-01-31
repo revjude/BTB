@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּינָה‎</span></big> **bîynâh** <small>*(bee-naw')*</small> ==**understanding**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בִּין‎</span><sup><small>[[H0995]]</small></sup></small>
+**<big><span class="ashebrew">‎בִּינָה‎</span></big>** **bîynâh** <small>*(bee-naw')*</small> ==**understanding**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H0995|‎בִּין‎]]</big>**</small>
 
 $\quad$ knowledge, meaning, [idiom] perfectly, understanding, wisdom.
 - ***understanding***

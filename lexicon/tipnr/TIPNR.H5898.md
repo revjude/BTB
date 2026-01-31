@@ -1,8 +1,8 @@
 <small>*City of Salt • Town in the wilderness of Judah*</small>
 
 The <span class='tipnrhighlight'>City of Salt</span> was a town located in the wilderness of Judah, near the Dead Sea.
-- A location near Engedi<[[H5872]]> only mentioned at [[Josh.15.62|Jos.15.62]]; 
-- only referred to as City\_of\_Salt<[[H5898]]> \(<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>־<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>\).
+- A location near Engedi **<big>[[H5872|עֵין גֶּדִי]]</big>** only mentioned at [[Josh.15.62|Jos.15.62]]; 
+- only referred to as City\_of\_Salt **<big>[[H5898|עִיר הַמֶּלַח]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.46152536164766,35.39241108242345&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from its inclusion in the list of towns in the wilderness of Judah, no oth
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| City of Salt | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>־<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H5898) <small>*Hebrew*</small> | 1x | [Jos.15.62 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=City\*\|reference=Jos.15.62) |
-All Strong's for **City_of_Salt**: \[[[H5898]]\]
+| City of Salt | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יר</span>־<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ח</span>](H5898) | 1x | [Jos.15.62 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=City\*\|reference=Jos.15.62) |
+All entries for **City of Salt**:  **<big>[[H5898|עִיר הַמֶּלַח]]</big>**

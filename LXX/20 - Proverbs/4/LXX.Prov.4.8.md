@@ -7,16 +7,16 @@ Exalt her, and she shall promote thee: she shall bring thee to honour, when thou
 Prize her, and she will exalt you; if you embrace her, she will honor you.<small><sub>**MT:**</sub></small>
 [[Prov.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.7|<< Proverbs 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.9|Proverbs 4:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Surround her with a rampart! | <big><span class="asgreek">περιχαράκωσον</span></big> <sup><small><small>[[G8773]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she shall exalt | <big><span class="asgreek">υψώσει</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Esteem | <big><span class="asgreek">τίμησον</span></big> <sup><small><small>[[G5091]]</small></small></sup> |
-| her! | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| she should keep you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">περιλάβη</span></big> <sup><small><small>[[G8736]]</small></small></sup> |
+| Surround her with a rampart! | **<big>[[G8773\|περιχαράκωσον]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she shall exalt | **<big>[[G5312\|υψώσει]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| Esteem | **<big>[[G5091\|τίμησον]]</big>** |
+| her! | **<big>[[G1473\|αυτήν]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| she should keep you; | **<big>[[G1473\|σε]]</big>** **<big>[[G8736\|περιλάβη]]</big>** |
 [[Prov.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.7|<< Proverbs 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.9|Proverbs 4:9 >>]]</td></tr></table>
 
 

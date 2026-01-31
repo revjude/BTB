@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּלַג‎</span></big> **bâlag** <small>*(baw-lag')*</small> ==**be cheerful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּלַג‎</span></big>** **bâlag** <small>*(baw-lag')*</small> ==**be cheerful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ comfort, (recover) strength(-en).
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Hiphil) only
 $\quad$ $\quad$ **1a1)** to show a smile, look pleasant
 $\quad$ $\quad$ **1a2)** to cause to burst
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναπαύω</span><sup><small>[[G0373]]</small></sup> · <span class="asgreek">ἀναψύχω</span><sup><small>[[G0404]]</small></sup>
+<small>See Greek: </small>**<big>[[G0373|ἀναπαύω]]</big>** · **<big>[[G0404|ἀναψύχω]]</big>**

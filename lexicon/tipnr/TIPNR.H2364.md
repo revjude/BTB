@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hushah</span> was a descendant of Judah, mentioned in the genealogy of the Judahites.
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.4.4|1Ch.4.4]]; 
-- only referred to as Hushah<[[H2364]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>\); 
-- a son of Ezer<[[H5829G]]>.
+- only referred to as Hushah **<big>[[H2364|חוּשָׁה]]</big>**; 
+- a son of Ezer **<big>[[H5829|עֵזֶר]]</big>**.
 
 Hushah is mentioned in [[1Chr.4.4|1 Chronicles 4:4]] as part of the genealogy of the tribe of Judah. He is listed as one of the sons of Ezer, along with Penuel, the father of Gedor, and Ezra. 
 
@@ -17,7 +17,7 @@ Apart from being listed in this genealogy, no other information is provided abou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hushah | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H2364) <small>*Hebrew*</small> | 1x | [1Ch.4.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushah\*\|reference=1Ch.4.4) |
-All Strong's for **Hushah**: \[[[H2364]]\]
+| Hushah | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H2364) | 1x | [1Ch.4.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushah\*\|reference=1Ch.4.4) |
+All entries for **Hushah**:  **<big>[[H2364|חוּשָׁה]]</big>**
 #### Related Profiles:
 - **[Ezer](H5829G)** (father)

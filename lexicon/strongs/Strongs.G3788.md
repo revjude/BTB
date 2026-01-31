@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ὀφθαλμός‎</span></big> **ophthalmós** <small>*(of-thal-mos')*</small> ==**eye**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
-<small>from <span class="asgreek">ὀπτάνομαι</span><sup><small>[[G3700]]</small></sup></small>
+**<big><span class="asgreek">‎ὀφθαλμός‎</span></big>** **ophthalmós** <small>*(of-thal-mos')*</small> ==**eye**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+<small>from **<big>[[G3700|‎ὀπτάνομαι‎]]</big>**</small>
 
 $\quad$ eye, sight.
 - the eye (literally or figuratively)

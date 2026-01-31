@@ -7,36 +7,36 @@ Also I will ordain a place for my people Israel, and will plant them, and they s
 And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning<small><sub>**MT:**</sub></small>
 [[1Chr.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.8|<< 1 Chronicles 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.10|1 Chronicles 17:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall establish | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will plant | <big><span class="asgreek">καταφυτεύσω</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall encamp | <big><span class="asgreek">κατασκηνώσει</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| himself, | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be disturbed | <big><span class="asgreek">ταραχθήσεται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| any longer; | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of iniquity | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to humble | <big><span class="asgreek">ταπεινώσαι</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning. | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall establish | **<big>[[G5087\|θήσομαι]]</big>** |
+| a place | **<big>[[G5117\|τόπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for my people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will plant | **<big>[[G7952\|καταφυτεύσω]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall encamp | **<big>[[G2681\|κατασκηνώσει]]</big>** |
+| by | **<big>[[G2596\|καθ΄]]</big>** |
+| himself, | **<big>[[G1438\|εαυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| be disturbed | **<big>[[G5015\|ταραχθήσεται]]</big>** |
+| any longer; | **<big>[[G2089\|έτι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| proceed | **<big>[[G4369\|προσθήσει]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of iniquity | **<big>[[G0093\|αδικίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to humble | **<big>[[G5013\|ταπεινώσαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning. | **<big>[[G0746\|αρχής]]</big>** |
 [[1Chr.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.8|<< 1 Chronicles 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.10|1 Chronicles 17:10 >>]]</td></tr></table>
 
 

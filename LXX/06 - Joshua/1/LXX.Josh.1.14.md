@@ -7,39 +7,39 @@ Your wives, your little ones, and your cattle, shall remain in the land which Mo
 Your wives, your young children, and your livestock may remain in the land that Moses gave you on this side of the Jordan. But all your mighty men of valor must be armed for battle to cross over ahead of your brothers and help them,<small><sub>**MT:**</sub></small>
 [[Josh.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.13|<< Joshua 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.15|Joshua 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your wives, | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children, | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cattle -- | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let them dwell | <big><span class="asgreek">κατοικείτωσαν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan! | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| And you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall pass over | <big><span class="asgreek">διαβήσεσθε</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| well-equipped | <big><span class="asgreek">εύζωνοι</span></big> <sup><small><small>[[G7536]]</small></small></sup> |
-| prior to | <big><span class="asgreek">πρότεροι</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being strong, | <big><span class="asgreek">ισχύων</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall fight along with | <big><span class="asgreek">συμμαχήσετε</span></big> <sup><small><small>[[G9262]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Your wives, | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children, | **<big>[[G3813\|παιδία]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your cattle -- | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| let them dwell | **<big>[[G2730\|κατοικείτωσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan! | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| And you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall pass over | **<big>[[G1224\|διαβήσεσθε]]</big>** |
+| well-equipped | **<big>[[G7536\|εύζωνοι]]</big>** |
+| prior to | **<big>[[G4387\|πρότεροι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your brethren, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| every one | **<big>[[G3956\|πας]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| being strong, | **<big>[[G2480\|ισχύων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall fight along with | **<big>[[G9262\|συμμαχήσετε]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Josh.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.13|<< Joshua 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.15|Joshua 1:15 >>]]</td></tr></table>
 
 

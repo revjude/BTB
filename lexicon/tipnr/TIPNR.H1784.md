@@ -4,7 +4,7 @@ Word sometimes translated as a name
 
 The <span class='tipnrhighlight'>Dinaite</span>s were one of the groups who wrote to King Artaxerxes, opposing the rebuilding of Jerusalem during Ezra's time. \([[Ezra.4.9|Ezr.4.9]]\)
 - A group or a word meaning "judges", only mentioned at [[Ezra.4.9|Ezr.4.9]]; 
-- only referred to as Dinaite<[[H1784]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Dinaite **<big>[[H1784|דִּינַי]]</big>**.
 
 The Dinaites are mentioned in [[Ezra.4.9|Ezra 4:9]] as one of several groups who wrote a letter to King Artaxerxes of Persia, opposing the rebuilding of Jerusalem and the temple. This letter was part of a larger effort by the adversaries of Judah and Benjamin to halt the reconstruction work that had begun under the leadership of Zerubbabel and Jeshua. 
 
@@ -16,5 +16,5 @@ Apart from this single mention in Ezra, no further information is provided about
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| judges (KJV= Dinaite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H1784) <small>*Hebrew*</small> | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="judges"\*\|reference=Ezr.4.9) |
-All Strong's for **Dinaite or "judges"**: \[[[H1784]]\]
+| judges (KJV= Dinaite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H1784) | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="judges"\*\|reference=Ezr.4.9) |
+All entries for **Dinaite or "judges"**:  **<big>[[H1784|דִּינַי]]</big>**

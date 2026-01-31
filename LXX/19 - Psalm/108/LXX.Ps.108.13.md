@@ -7,18 +7,18 @@ Through God we shall do valiantly: for he [it is that] shall tread down our enem
 With God we will perform with valor, and He will trample our enemies.<small><sub>**MT:**</sub></small>
 [[Ps.108.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.12|<< Psalm 108:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.1|Psalm 109:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| we shall execute | <big><span class="asgreek">ποιήσομεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| power, | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with contempt | <big><span class="asgreek">εξουδενώσει</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our enemies | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| we shall execute | **<big>[[G4160\|ποιήσομεν]]</big>** |
+| power, | **<big>[[G1411\|δύναμιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| with contempt | **<big>[[G1847\|εξουδενώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| our enemies | **<big>[[G2190\|εχθρούς]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Ps.108.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.12|<< Psalm 108:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.1|Psalm 109:1 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three
 Just as Moses had promised, Judah gave Hebron to Caleb, who drove out the descendants of the three sons of Anak.<small><sub>**MT:**</sub></small>
 [[Judg.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.19|<< Judges 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.21|Judges 1:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebron | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-| Moses spoke. | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he removed | <big><span class="asgreek">εξήρεν</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Anak. | <big><span class="asgreek">Ενάκ</span></big> <sup><small><small>[[H6061]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Hebron | **<big>[[H2275b\|Χεβρών]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+| Moses spoke. | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he removed | **<big>[[G1808\|εξήρεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Anak. | **<big>[[H6061\|Ενάκ]]</big>** |
 [[Judg.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.19|<< Judges 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.21|Judges 1:21 >>]]</td></tr></table>
 
 

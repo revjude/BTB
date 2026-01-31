@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Naham</span>, the brother of Hodiah whose son founded Keilah the Garmite city.
 - A man from the tribe of Judah\(?\) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.19|1Ch.4.19]]; 
-- only referred to as Naham<[[H5163]]> \(<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ם</span>\); 
-- a brother of Hodiah<[[H1940G]]>.
+- only referred to as Naham **<big>[[H5163|נַחַם]]</big>**; 
+- a brother of Hodiah **<big>[[H1940|הוֹדִיָּה]]</big>**.
 
 Naham is briefly mentioned in [[1Chr.4.19|1 Chronicles 4:19]] as part of the genealogy of the descendants of Judah. He is described as the  brother of Hodiah whose son founded Keilah the Garmite city.. No additional information is provided about Naham's life, occupation, or character. 
 
@@ -17,8 +17,8 @@ The inclusion of Naham in this genealogy, despite the lack of additional informa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naham | [<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ם</span>](H5163) <small>*Hebrew*</small> | 1x | [1Ch.4.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naham\*\|reference=1Ch.4.19) |
-All Strong's for **Naham**: \[[[H5163]]\]
+| Naham | [<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ם</span>](H5163) | 1x | [1Ch.4.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naham\*\|reference=1Ch.4.19) |
+All entries for **Naham**:  **<big>[[H5163|נַחַם]]</big>**
 #### Related Profiles:
 - **[father_of_Hodiah](H1940H)** (father)
 - **[Hodiah](H1940G)** (sibling)

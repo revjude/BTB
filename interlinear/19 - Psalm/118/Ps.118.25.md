@@ -10,16 +10,16 @@ O LORD, save us, we pray. We beseech You, O LORD, cause us to prosper!
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.9|Mark 11:9-10]] ☩ [[John.12.13|John 12:13]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| we beg you  | <span class="ashebrew"><big>אָנָּ֣א </big></span><small><small><sup>[[H0577]]</sup></small></small> &#8207;| 'a.Na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| save !  | <span class="ashebrew"><big>הוֹשִׁ֘יעָ֥ </big></span><small><small><sup>[[H3467]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| ho.Shi.'A <small><sup>[[HVhv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָּ֑א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| Na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we beg you  | <span class="ashebrew"><big>אָֽנָּ֥א </big></span><small><small><sup>[[H0577]]</sup></small></small> &#8207;| 'a.Na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grant success !  | <span class="ashebrew"><big>הַצְלִ֘יחָ֥ </big></span><small><small><sup>[[H6743B]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| hatz.Li.Cha <small><sup>[[HVhv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָּֽא </big></span><small><small><sup>[[H4994]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we beg you  |**<big>&#8207;[[H0577\|אָנָּ֣א]]&#8207; </big>**| 'a.Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| save !  |**<big>&#8207;[[H3467\|הוֹשִׁ֘יעָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ho.Shi.'A<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָּ֑א]]&#8207; </big>**| Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we beg you  |**<big>&#8207;[[H0577\|אָֽנָּ֥א]]&#8207; </big>**| 'a.Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grant success !  |**<big>&#8207;[[H6743B\|הַצְלִ֘יחָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| hatz.Li.Cha<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.24|<< Psalms 118:24]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.26|Psalms 118:26 >>]]</td></tr></table>
 
 

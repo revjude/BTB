@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָלַם‎</span></big> **ʼâlam** <small>*(aw-lam')*</small> ==**be dumb**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָלַם‎</span></big>** **ʼâlam** <small>*(aw-lam')*</small> ==**be dumb**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bind, be dumb, put to silence.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a1)** to be dumb
 $\quad$ $\quad$ **1a2)** to be bound
 $\quad$ **1b)** (Piel) binding (part.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δεσμεύω</span><sup><small>[[G1195]]</small></sup>
+<small>See Greek: </small>**<big>[[G1195|δεσμεύω]]</big>**

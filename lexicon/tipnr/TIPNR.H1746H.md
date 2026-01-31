@@ -1,8 +1,8 @@
 <small>*Dumah\_2 • A city or region in Arabia, recipient of a prophetic oracle.*</small>
 
 <span class='tipnrhighlight'>Dumah</span>, a city or region in Arabia, was the recipient of a prophetic oracle in [[Isa.21.11|Isaiah 21:11]].
-- A location near Arabia<[[H6152B]]> only mentioned at [[Isa.21.11|Isa.21.11]]; 
-- only referred to as Dumah<[[H1746H]]> \(<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Arabia **<big>[[H6152|עֲרָב]]</big>** only mentioned at [[Isa.21.11|Isa.21.11]]; 
+- only referred to as Dumah **<big>[[H1746|דּוּמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=27.4,37.7&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Dumah, mentioned in [[Isa.21.11|Isaiah 21:11]], was a city or region located in 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dumah | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1746H) <small>*Hebrew*</small> | 1x | [Isa.21.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dumah\*\|reference=Isa.21.11) |
-All Strong's for **Dumah**: \[[[H1746H]]\]
+| Dumah | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1746H) | 1x | [Isa.21.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dumah\*\|reference=Isa.21.11) |
+All entries for **Dumah**:  **<big>[[H1746|דּוּמָה]]</big>**

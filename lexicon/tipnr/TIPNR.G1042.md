@@ -1,8 +1,8 @@
 <small>*Gabbatha • Raised stone platform in Jerusalem; location of Jesus' trial*</small>
 
 <span class='tipnrhighlight'>Gabbatha</span>, also known as the Stone Pavement, was the location in Jerusalem where Pontius Pilate sat in judgment over Jesus.
-- A location in Jerusalem<[[H3389]]> first mentioned at [[John.19.13|Jhn.19.13]]; 
-- referred to as Gabbatha<[[G1042]]> \(<span class='tipnrLangGreek'>γαββαθά</span>\), or The Stone Pavement \(KJV= Pavement\) <[[G3038]]> \(<span class='tipnrLangGreek'>λιθόστρωτος</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[John.19.13|Jhn.19.13]]; 
+- referred to as Gabbatha **<big>[[G1042|γαββαθά]]</big>**, or The Stone Pavement \(KJV= Pavement\)  **<big>[[G3038|λιθόστρωτος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,6 +20,6 @@ The reference to Gabbatha in the Bible provides a vivid detail of the setting of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gabbatha | [<span class='tipnrLangGreek'>γαββαθά</span>](G1042) <small>*Greek*</small> | 1x | [Jhn.19.13 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gabbatha\|reference=Jhn.19.13) |
-| The Stone Pavement (KJV= Pavement) | [<span class='tipnrLangGreek'>λιθόστρωτος</span>](G3038) <small>*Greek*</small> | 1x | [Jhn.19.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=The\*\|reference=Jhn.19.13) |
-All Strong's for **Gabbatha or Stone_Pavement**: \[[[G1042]]\] \[[[G3038]]\]
+| Gabbatha | [<span class='tipnrLangGreek'>γαββαθά</span>](G1042) | 1x | [Jhn.19.13 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gabbatha\|reference=Jhn.19.13) |
+| The Stone Pavement (KJV= Pavement) | [<span class='tipnrLangGreek'>λιθόστρωτος</span>](G3038) | 1x | [Jhn.19.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=The\*\|reference=Jhn.19.13) |
+All entries for **Gabbatha or Stone Pavement**:  **<big>[[G1042|γαββαθά]]</big>** ☩  **<big>[[G3038|λιθόστρωτος]]</big>**

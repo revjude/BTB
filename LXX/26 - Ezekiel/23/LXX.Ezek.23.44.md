@@ -7,32 +7,32 @@ Yet they went in unto her, as they go in unto a woman that playeth the harlot: s
 And they slept with her as with a prostitute; they slept with Oholah and Oholibah, those lewd women.<small><sub>**MT:**</sub></small>
 [[Ezek.23.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.43|<< Ezekiel 23:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.45|Ezekiel 23:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισεπορεύοντο</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| \[men\] enter | <big><span class="asgreek">εισπορεύονται</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| harlot, | <big><span class="asgreek">πόρνην</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισεπορεύοντο</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Aholah, | <big><span class="asgreek">Οολλάν</span></big> <sup><small><small>[[H0170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Aholibah | <big><span class="asgreek">Οολιβάν</span></big> <sup><small><small>[[H0172]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless | <big><span class="asgreek">ανόμους</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to commit | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| lawlessness. | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1531\|εισεπορεύοντο]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| In which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| \[men\] enter | **<big>[[G1531\|εισπορεύονται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| a woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| harlot, | **<big>[[G4204\|πόρνην]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| they entered | **<big>[[G1531\|εισεπορεύοντο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Aholah, | **<big>[[H0170\|Οολλάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Aholibah | **<big>[[H0172\|Οολιβάν]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| women | **<big>[[G1135\|γυναίκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| lawless | **<big>[[G0459\|ανόμους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to commit | **<big>[[G4160\|ποιήσαι]]</big>** |
+| lawlessness. | **<big>[[G0458\|ανομίαν]]</big>** |
 [[Ezek.23.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.43|<< Ezekiel 23:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.45|Ezekiel 23:45 >>]]</td></tr></table>
 
 

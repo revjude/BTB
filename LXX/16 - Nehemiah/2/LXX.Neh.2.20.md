@@ -7,40 +7,40 @@ Then answered I them, and said unto them, The God of heaven, he will prosper us;
 So I answered them and said, “The God of heaven is the One who will grant us success. We, His servants, will start rebuilding, but you have no portion, right, or claim in Jerusalem.”<small><sub>**MT:**</sub></small>
 [[Neh.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.19|<< Nehemiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.1|Nehemiah 3:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I returned | <big><span class="asgreek">επέστρεψα</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall prosper the way | <big><span class="asgreek">ευοδώσει</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
-| for us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| his servants | <big><span class="asgreek">δούλοι</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are pure, | <big><span class="asgreek">καθαροί</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall arise | <big><span class="asgreek">αναστησόμεθα</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| build, | <big><span class="asgreek">οικοδομήσομεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| portion, | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| \[nor\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| judicial right, | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| \[nor\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a memorial | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I returned | **<big>[[G1994\|επέστρεψα]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a word, | **<big>[[G3056\|λόγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall prosper the way | **<big>[[G2137\|ευοδώσει]]</big>** |
+| for us. | **<big>[[G1473\|ημίν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| his servants | **<big>[[G1401\|δούλοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| are pure, | **<big>[[G2513\|καθαροί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall arise | **<big>[[G0450\|αναστησόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| build, | **<big>[[G3618\|οικοδομήσομεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| portion, | **<big>[[G3310\|μερίς]]</big>** |
+| \[nor\] | **<big>[[G2532\|και]]</big>** |
+| judicial right, | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| \[nor\] | **<big>[[G2532\|και]]</big>** |
+| a memorial | **<big>[[G3422\|μνημόσυνον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Neh.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.19|<< Nehemiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.1|Nehemiah 3:1 >>]]</td></tr></table>
 
 

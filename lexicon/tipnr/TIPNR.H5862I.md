@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Etam</span>, a city in Judah fortified by King Rehoboam after the division of the kingdom.
 - A location only mentioned at [[2Chr.11.6|2Ch.11.6]]; 
-- only referred to as Etam<[[H5862I]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Etam **<big>[[H5862|עֵיטָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.686465,35.174740&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact location of this Etam is uncertain, but it was likely situated in the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Etam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5862I) <small>*Hebrew*</small> | 1x | [2Ch.11.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etam\*\|reference=2Ch.11.6) |
-All Strong's for **Etam**: \[[[H5862I]]\]
+| Etam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5862I) | 1x | [2Ch.11.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etam\*\|reference=2Ch.11.6) |
+All entries for **Etam**:  **<big>[[H5862|עֵיטָם]]</big>**

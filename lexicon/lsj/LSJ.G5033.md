@@ -1,4 +1,4 @@
-form of: <small>[[G5036]]</small> 
+form of: <small>**<big>[[G5036|ταχύς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==τάχιστα==</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>εῖα</span>, <span class='asgreek'>ύ</span>: 

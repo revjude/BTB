@@ -10,43 +10,43 @@ But I have against you few things that you permit the woman of you Jezebel, the 
 > $\quad$ possibly alluding to: [[LXX.1Kgs.16.31|1Kgs 16:31]] ☩ [[LXX.1Kgs.21.23|1Kgs 21:23]] ☩ [[LXX.2Kgs.9.33|2Kgs 9:33]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| But |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I have |<big><span class="asgreek">ἔχω</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| against |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<big><span class="asgreek">σοῦ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| few things [^2] |<big><span class="asgreek">ὀλίγα</span></big> <small><small><sup>[[G3641]]</sup></small></small> |oliga <small><sup>[[A-APN]]</sup></small> | <abbr title="TR">K</abbr> | |
-| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you permit [^3] |<big><span class="asgreek">ἀφεῖς</span></big> <small><small><sup>[[G0863I]]</sup></small></small> |apheis <small><sup>[[V-2PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| woman |<big><span class="asgreek">γυναῖκα</span></big> <small><small><sup>[[G1135G]]</sup></small></small> |gunaika <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you [^4] |<big><span class="asgreek">σοῦ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="Byz">O</abbr> | |
-| Jezebel, |<big><span class="asgreek">Ἰεζάβελ,</span></big> <small><small><sup>[[G2403]]</sup></small></small> [^5] |Iezabel <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [one] [^6] |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| calling [^7] [^8] |<big><span class="asgreek">λέγουσα</span></big> <small><small><sup>[[G3004H]]</sup></small></small> |legousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)(o)</abbr> | |
-| herself |<big><span class="asgreek">ἑαυτὴν</span></big> <small><small><sup>[[G1438]]</sup></small></small> |he'autēn <small><sup>[[F-3ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a prophetess |<big><span class="asgreek">προφῆτιν</span></big> <small><small><sup>[[G4398]]</sup></small></small> |prophētin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |
-| she teaches [^9] |<big><span class="asgreek">διδάσκει</span></big> <small><small><sup>[[G1321]]</sup></small></small> |didaskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| she misleads [^10] |<big><span class="asgreek">πλανᾷ</span></big> <small><small><sup>[[G4105]]</sup></small></small> |plana <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| \<the> |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| My |<big><span class="asgreek">ἐμοὺς</span></big> <small><small><sup>[[G1473]]</sup></small></small> |emous <small><sup>[[S-1SAPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| servants |<big><span class="asgreek">δούλους</span></big> <small><small><sup>[[G1401]]</sup></small></small> |doulous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to commit sexual immorality |<big><span class="asgreek">πορνεῦσαι</span></big> <small><small><sup>[[G4203]]</sup></small></small> |porneusai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to eat |<big><span class="asgreek">φαγεῖν</span></big> <small><small><sup>[[G5315]]</sup></small></small> |phagein <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |
-| idol-sacrifices. |<big><span class="asgreek">εἰδωλόθυτα.</span></big> <small><small><sup>[[G1494]]</sup></small></small> |eidōlothuta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I have |**<big>[[G2192\|ἔχω]]</big>**  |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| against |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |**<big>[[G4771\|σοῦ]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| few things [^2] |**<big>[[G3641\|ὀλίγα]]</big>**  |oliga <small><sup>[[A-APN]]</sup></small> | <abbr title="TR">K</abbr> | |
+| that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you permit [^3] |**<big>[[G0863I\|ἀφεῖς]]</big>**  |apheis <small><sup>[[V-2PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| woman |**<big>[[G1135G\|γυναῖκα]]</big>**  |gunaika <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you [^4] |**<big>[[G4771\|σοῦ]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="Byz">O</abbr> | |
+| Jezebel, |**<big>[[G2403\|Ἰεζάβελ,]]</big>**  [^5] |Iezabel <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [one] [^6] |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| calling [^7] [^8] |**<big>[[G3004H\|λέγουσα]]</big>**  |legousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)(o)</abbr> | |
+| herself |**<big>[[G1438\|ἑαυτὴν]]</big>**  |he'autēn <small><sup>[[F-3ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a prophetess |**<big>[[G4398\|προφῆτιν]]</big>**  |prophētin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |
+| she teaches [^9] |**<big>[[G1321\|διδάσκει]]</big>**  |didaskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| she misleads [^10] |**<big>[[G4105\|πλανᾷ]]</big>**  |plana <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| \<the> |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| My |**<big>[[G1473\|ἐμοὺς]]</big>**  |emous <small><sup>[[S-1SAPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| servants |**<big>[[G1401\|δούλους]]</big>**  |doulous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to commit sexual immorality |**<big>[[G4203\|πορνεῦσαι]]</big>**  |porneusai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to eat |**<big>[[G5315\|φαγεῖν]]</big>**  |phagein <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |
+| idol-sacrifices. |**<big>[[G1494\|εἰδωλόθυτα.]]</big>**  |eidōlothuta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.19|<< Revelation 2:19]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.21|Revelation 2:21 >>]]</td></tr></table>
 
-[^1]: ==NA27+SBL+WH+Treg+TR+Byz== spelled: <span class='asgreek'>**ἀλλὰ**</span>
-[^2]: Extra Text:  <span class='asgreek'>**ὀλίγα**</span>  (<i>oliga</i>) 'few things' is only in traditional manuscripts (TR)
-[^3]: ==TR==: you allow | <span class="asgreek">ἐᾷς</span><small><sup>[[G1439]]</sup></small> | eas<small><sup>[[V-PAI-2S]]</sup></small>
-[^4]: Extra Text:  <span class='asgreek'>**σοῦ**</span>  (<i>sou</i>) 'of you' is only in a few manuscripts (Byz)
-[^5]: ==TR== spelled: <span class='asgreek'>**Ἰεζάβηλ**</span>
-[^6]: ==TR==: the [one] | <span class="asgreek">τὴν</span><small><sup>[[G3588]]</sup></small> | tēn<small><sup>[[T-ASF]]</sup></small>
-[^7]: ==TR ==: calling | <span class="asgreek">λέγουσαν</span><small><sup>[[G3004]]</sup></small> | legousan<small><sup>[[V-PAP-ASF]]</sup></small>
-[^8]: ==Byz==: calls | <span class="asgreek"> λέγει</span><small><sup>[[G3004]]</sup></small> | legei<small><sup>[[V-PAI-3S]]</sup></small>
-[^9]: ==TR==: to teach | <span class="asgreek">διδάσκειν</span><small><sup>[[G1321]]</sup></small> | didaskein<small><sup>[[V-PAN]]</sup></small>
-[^10]: ==TR==: to mislead | <span class="asgreek">πλανᾶσθαι</span><small><sup>[[G4105]]</sup></small> | planasthai<small><sup>[[V-PPN]]</sup></small>
+[^1]: ==NA27+SBL+WH+Treg+TR+Byz== spelled: **<big><span class='asgreek'>ἀλλὰ</span></big>**
+[^2]: Extra Text:  **<big><span class='asgreek'>ὀλίγα</span></big>**  (<i>oliga</i>) 'few things' is only in traditional manuscripts (TR)
+[^3]: ==TR==: you allow | **<big>[[G1439|ἐᾷς]]</big>** | eas<small><sup>[[V-PAI-2S]]</sup></small>
+[^4]: Extra Text:  **<big><span class='asgreek'>σοῦ</span></big>**  (<i>sou</i>) 'of you' is only in a few manuscripts (Byz)
+[^5]: ==TR== spelled: **<big><span class='asgreek'>Ἰεζάβηλ</span></big>**
+[^6]: ==TR==: the [one] | **<big>[[G3588|τὴν]]</big>** | tēn<small><sup>[[T-ASF]]</sup></small>
+[^7]: ==TR ==: calling | **<big>[[G3004|λέγουσαν]]</big>** | legousan<small><sup>[[V-PAP-ASF]]</sup></small>
+[^8]: ==Byz==: calls | **<big>[[G3004| λέγει]]</big>** | legei<small><sup>[[V-PAI-3S]]</sup></small>
+[^9]: ==TR==: to teach | **<big>[[G1321|διδάσκειν]]</big>** | didaskein<small><sup>[[V-PAN]]</sup></small>
+[^10]: ==TR==: to mislead | **<big>[[G4105|πλανᾶσθαι]]</big>** | planasthai<small><sup>[[V-PPN]]</sup></small>

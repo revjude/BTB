@@ -7,36 +7,36 @@ The LORD [is] longsuffering, and of great mercy, forgiving iniquity and transgre
 ‘The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers upon their children to the third and fourth generation.’<small><sub>**MT:**</sub></small>
 [[Num.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.17|<< Numbers 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.19|Numbers 14:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] lenient, | <big><span class="asgreek">μακρόθυμος</span></big> <sup><small><small>[[G8235]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| full of mercy, | <big><span class="asgreek">πολυέλεος</span></big> <sup><small><small>[[G8849]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| true, | <big><span class="asgreek">αληθινός</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| removing | <big><span class="asgreek">αφαιρών</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| lawless deeds, | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| iniquities, | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sins; | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by cleansing | <big><span class="asgreek">καθαρισμώ</span></big> <sup><small><small>[[G2512]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cleanse | <big><span class="asgreek">καθαριεί</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| liable, | <big><span class="asgreek">ένοχον</span></big> <sup><small><small>[[G1777]]</small></small></sup> |
-| repaying | <big><span class="asgreek">αποδιδούς</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| \[the\] sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of \[the\] fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] third | <big><span class="asgreek">τρίτης</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fourth | <big><span class="asgreek">τετάρτης</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| generation. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] lenient, | **<big>[[G8235\|μακρόθυμος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| full of mercy, | **<big>[[G8849\|πολυέλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| true, | **<big>[[G0228\|αληθινός]]</big>** |
+| removing | **<big>[[G0851\|αφαιρών]]</big>** |
+| lawless deeds, | **<big>[[G0458\|ανομίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| iniquities, | **<big>[[G0093\|αδικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sins; | **<big>[[G0266\|αμαρτίας]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| by cleansing | **<big>[[G2512\|καθαρισμώ]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| cleanse | **<big>[[G2511\|καθαριεί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| liable, | **<big>[[G1777\|ένοχον]]</big>** |
+| repaying | **<big>[[G0591\|αποδιδούς]]</big>** |
+| \[the\] sins | **<big>[[G0266\|αμαρτίας]]</big>** |
+| of \[the\] fathers | **<big>[[G3962\|πατέρων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] children | **<big>[[G5043\|τέκνα]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] third | **<big>[[G5154\|τρίτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fourth | **<big>[[G5067\|τετάρτης]]</big>** |
+| generation. | **<big>[[G1074\|γενεάς]]</big>** |
 [[Num.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.17|<< Numbers 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.19|Numbers 14:19 >>]]</td></tr></table>
 
 

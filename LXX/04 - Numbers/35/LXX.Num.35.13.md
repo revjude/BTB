@@ -7,19 +7,19 @@ And of these cities which ye shall give six cities shall ye have for refuge.
 The cities you select will be your six cities of refuge.<small><sub>**MT:**</sub></small>
 [[Num.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.12|<< Numbers 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.14|Numbers 35:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall appoint -- | <big><span class="asgreek">δώσετε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| cities -- | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| places of refuge | <big><span class="asgreek">φυγαδευτήρια</span></big> <sup><small><small>[[G9673]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| you shall appoint -- | **<big>[[G1325\|δώσετε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| cities -- | **<big>[[G4172\|πόλεις]]</big>** |
+| places of refuge | **<big>[[G9673\|φυγαδευτήρια]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| for you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Num.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.12|<< Numbers 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.14|Numbers 35:14 >>]]</td></tr></table>
 
 

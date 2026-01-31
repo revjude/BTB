@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּתֶר‎</span></big> **Bether** <small>*(beh'-ther)*</small> ==**cleft**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בֶּתֶר‎</span><sup><small>[[H1335]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶּתֶר‎</span></big>** **Bether** <small>*(beh'-ther)*</small> ==**cleft**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1335|‎בֶּתֶר‎]]</big>**</small>
 
 $\quad$ Bether.
 - § Bether = *"cleft"*

@@ -10,31 +10,31 @@ And the man of God said, Where fell it? And he shewed him the place. And he cut 
 “Where did it fall?” asked the man of God. And when he showed him the place, the man of God cut a stick, threw it there, and made the iron float.<small><sub>**MT:**</sub></small>
 [[2Kgs.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.5|<< 2 Kings 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.7|2 Kings 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| Where did | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| it fall? | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he showed | <big><span class="asgreek">έδειξεν</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place. | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he plucked off | <big><span class="asgreek">απέκνισε</span></big> <sup><small><small>[[G6447]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tossed it | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| floated | <big><span class="asgreek">επεπόλασε</span></big> <sup><small><small>[[G7438]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iron implement | <big><span class="asgreek">σιδήριον</span></big> <sup><small><small>[[G9076]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| Where did | **<big>[[G4226\|που]]</big>** |
+| it fall? | **<big>[[G4098\|έπεσε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he showed | **<big>[[G1166\|έδειξεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place. | **<big>[[G5117\|τόπον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he plucked off | **<big>[[G6447\|απέκνισε]]</big>** |
+| wood | **<big>[[G3586\|ξύλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tossed it | **<big>[[G4496\|έρριψεν]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| floated | **<big>[[G7438\|επεπόλασε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| iron implement | **<big>[[G9076\|σιδήριον]]</big>** |
 [[2Kgs.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.5|<< 2 Kings 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.7|2 Kings 6:7 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ And they sent the coat of [many] colours, and they brought [it] to their father;
 They sent the robe of many colors to their father and said, “We found this. Examine it to see whether it is your son’s robe or not.”<small><sub>**MT:**</sub></small>
 [[Gen.37.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sent | <big><span class="asgreek">απέστειλαν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garment | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| colored | <big><span class="asgreek">ποικίλον</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they carried it | <big><span class="asgreek">εισήνεγκαν</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father, | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| we found, | <big><span class="asgreek">εύρομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| \[do\] you recognize | <big><span class="asgreek">επίγνωθι</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| \[the\] garment | <big><span class="asgreek">χιτών</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| is of your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| not? | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sent | **<big>[[G0649\|απέστειλαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| garment | **<big>[[G5509\|χιτώνα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| colored | **<big>[[G4164\|ποικίλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they carried it | **<big>[[G1533\|εισήνεγκαν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their father, | **<big>[[G3962\|πατρί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπον]]</big>** |
+| This | **<big>[[G3778\|τούτον]]</big>** |
+| we found, | **<big>[[G2147\|εύρομεν]]</big>** |
+| \[do\] you recognize | **<big>[[G1921\|επίγνωθι]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| \[the\] garment | **<big>[[G5509\|χιτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| is of your | **<big>[[G1473\|σου]]</big>** **<big>[[G1510\|εστίν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| not? | **<big>[[G3756\|ου]]</big>** |
 [[Gen.37.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 
 

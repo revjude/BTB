@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Nile</span>, the major river of Egypt, is mentioned in various contexts throughout the Bible, often in relation to the history of Israel and God's judgment on Egypt.
 - A location first mentioned at [[Gen.41.1|Gen.41.1]]; 
-- referred to as Nile or "canals" \(KJV= "rivers"\) or "river" <[[H2975G]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>\), or Nile \(KJV= Sihor\) <[[H7883H]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יחו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\).
+- referred to as Nile or "canals" \(KJV= "rivers"\) or "river"  **<big>[[H2975|יְאֹר]]</big>**, or Nile \(KJV= Sihor\)  **<big>[[H7883|שִׁיחוֹר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.092632,31.230987&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,9 +12,9 @@ The prophets often used the Nile as a symbol of Egypt's power and pride, which w
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nile | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) <small>*Hebrew*</small> | 44x | [[Gen.41.1] ... [Zec.10.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nile\*\|reference=Gen.41.1;Gen.41.2;Gen.41.3;Gen.41.3;Gen.41.17;Gen.41.18;Exo.1.22;Exo.4.9;Exo.4.9;Exo.7.15;Exo.7.17;Exo.7.18;Exo.7.18;Exo.7.18;Exo.7.20;Exo.7.20;Exo.7.21;Exo.7.21;Exo.7.21;Exo.7.24;Exo.7.24;Exo.7.25;Exo.8.3;Exo.8.9;Exo.8.11;Exo.17.5;Isa.19.6;Isa.19.7;Isa.19.7;Isa.19.7;Isa.19.8;Isa.23.3;Isa.23.10;Jer.46.7;Jer.46.8;Ezk.29.3;Ezk.29.9;Ezk.30.12;Amo.8.8;Amo.8.8) |
-| canals (KJV= rivers) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) <small>*Hebrew*</small> | 1x | [Exo.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=canals\*\|reference=Exo.8.5) |
-| river (NIV= Nile) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) <small>*Hebrew*</small> | 3x | [[Exo.2.3] ... [Exo.2.5b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=river\*\|reference=Exo.2.3;Exo.2.5;Exo.2.5) |
-| river | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) <small>*Hebrew*</small> | 1x | [Exo.7.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=river\*\|reference=Exo.7.19) |
-| Nile (KJV= Sihor) | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יחו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H7883H) <small>*Hebrew*</small> | 2x | [[1Ch.13.5] & [Jer.2.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nile\*\|reference=1Ch.13.5;Jer.2.18) |
-All Strong's for **Nile or canals or river**: \[[[H2975G]]\] \[[[H7883H]]\]
+| Nile | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) | 44x | [[Gen.41.1] ... [Zec.10.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nile\*\|reference=Gen.41.1;Gen.41.2;Gen.41.3;Gen.41.3;Gen.41.17;Gen.41.18;Exo.1.22;Exo.4.9;Exo.4.9;Exo.7.15;Exo.7.17;Exo.7.18;Exo.7.18;Exo.7.18;Exo.7.20;Exo.7.20;Exo.7.21;Exo.7.21;Exo.7.21;Exo.7.24;Exo.7.24;Exo.7.25;Exo.8.3;Exo.8.9;Exo.8.11;Exo.17.5;Isa.19.6;Isa.19.7;Isa.19.7;Isa.19.7;Isa.19.8;Isa.23.3;Isa.23.10;Jer.46.7;Jer.46.8;Ezk.29.3;Ezk.29.9;Ezk.30.12;Amo.8.8;Amo.8.8) |
+| canals (KJV= rivers) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) | 1x | [Exo.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=canals\*\|reference=Exo.8.5) |
+| river (NIV= Nile) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) | 3x | [[Exo.2.3] ... [Exo.2.5b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=river\*\|reference=Exo.2.3;Exo.2.5;Exo.2.5) |
+| river | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H2975G) | 1x | [Exo.7.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=river\*\|reference=Exo.7.19) |
+| Nile (KJV= Sihor) | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יחו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H7883H) | 2x | [[1Ch.13.5] & [Jer.2.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nile\*\|reference=1Ch.13.5;Jer.2.18) |
+All entries for **Nile or canals or river**:  **<big>[[H2975|יְאֹר]]</big>** ☩  **<big>[[H7883|שִׁיחוֹר]]</big>**

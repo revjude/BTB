@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַמְנוֹן‎</span></big> **ʼAmnôwn** <small>*(am-nohn')*</small> ==**Amnon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">אֲמִינוֹן</span> **ʼĂmîynôwn** <small>*(am-eenohn')*</small>; from <span class="ashebrew">‎אָמַן‎</span><sup><small>[[H0539]]</small></sup>; faithful</small>
+**<big><span class="ashebrew">‎אַמְנוֹן‎</span></big>** **ʼAmnôwn** <small>*(am-nohn')*</small> ==**Amnon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">אֲמִינוֹן</span></big>** **ʼĂmîynôwn** <small>*(am-eenohn')*</small>; from **<big>[[H0539|‎אָמַן‎]]</big>**; faithful</small>
 
 $\quad$ Amnon.
 - § Amnon = *"faithful"*

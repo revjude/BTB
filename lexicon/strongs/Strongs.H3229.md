@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִמְלָא‎</span></big> **Yimlâʼ** <small>*(yeem-law')*</small> ==**Imlah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יִמְלָה</span> **Yimlâh** <small>*(yim-law')*</small>; from <span class="ashebrew">‎מָלֵא‎</span><sup><small>[[H4390]]</small></sup>; full</small>
+**<big><span class="ashebrew">‎יִמְלָא‎</span></big>** **Yimlâʼ** <small>*(yeem-law')*</small> ==**Imlah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יִמְלָה</span></big>** **Yimlâh** <small>*(yim-law')*</small>; from **<big>[[H4390|‎מָלֵא‎]]</big>**; full</small>
 
 $\quad$ Imla, Imlah.
 - § Imlah or Imla = *"whom God will fill up"*

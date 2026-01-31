@@ -7,27 +7,27 @@ For there they that carried us away captive required of us a song; and they that
 for there our captors requested a song; our tormentors demanded songs of joy: “Sing us a song of Zion.”<small><sub>**MT:**</sub></small>
 [[Ps.137.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.2|<< Psalm 137:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.4|Psalm 137:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| asked | <big><span class="asgreek">επηρώτησαν</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| capturing | <big><span class="asgreek">αιχμαλωτεύσαντες</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of odes; | <big><span class="asgreek">ωδών</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having taken us away | <big><span class="asgreek">απαγαγόντες</span></big> <sup><small><small>[[G0520]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[asked for\] a hymn -- | <big><span class="asgreek">ύμνον</span></big> <sup><small><small>[[G5215]]</small></small></sup> |
-| Sing | <big><span class="asgreek">άσατε</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| odes | <big><span class="asgreek">ωδών</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
-| of Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| asked | **<big>[[G1905\|επηρώτησαν]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| capturing | **<big>[[G0162\|αιχμαλωτεύσαντες]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| of words | **<big>[[G3056\|λόγους]]</big>** |
+| of odes; | **<big>[[G5603\|ωδών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| having taken us away | **<big>[[G0520\|απαγαγόντες]]</big>** **<big>[[G1473\|ημάς]]</big>** |
+| \[asked for\] a hymn -- | **<big>[[G5215\|ύμνον]]</big>** |
+| Sing | **<big>[[G0103\|άσατε]]</big>** |
+| to us | **<big>[[G1473\|ημίν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| odes | **<big>[[G5603\|ωδών]]</big>** |
+| of Zion! | **<big>[[G4622\|Σιών]]</big>** |
 [[Ps.137.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.2|<< Psalm 137:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.4|Psalm 137:4 >>]]</td></tr></table>
 
 

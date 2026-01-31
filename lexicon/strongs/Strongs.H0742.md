@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲרִידַי‎</span></big> **ʼĂrîyday** <small>*(ar-ee-dah'-ee)*</small> ==**Aridai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֲרִידַי‎</span></big>** **ʼĂrîyday** <small>*(ar-ee-dah'-ee)*</small> ==**Aridai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Aridai.

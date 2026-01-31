@@ -7,26 +7,26 @@ And the residue thereof he maketh a god, [even] his graven image: he falleth dow
 From the rest he makes a god, his graven image. He bows down to it and worships; he prays to it and says, “Save me, for you are my god.”<small><sub>**MT:**</sub></small>
 [[Isa.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.16|<< Isaiah 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.18|Isaiah 44:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] rest | <big><span class="asgreek">λοιπόν</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| he makes | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| god | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| a carved | <big><span class="asgreek">γλυπτόν</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| he bends | <big><span class="asgreek">κάμπτει</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
-| to it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| does obeisance, | <big><span class="asgreek">προσκυνεί</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prays \[to it\], | <big><span class="asgreek">προσεύχεται</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Deliver | <big><span class="asgreek">εξελού</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| my god | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| your are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] rest | **<big>[[G3062\|λοιπόν]]</big>** |
+| he makes | **<big>[[G4160\|εποίησεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| god | **<big>[[G2316\|θεόν]]</big>** |
+| a carved | **<big>[[G6745\|γλυπτόν]]</big>** |
+| he bends | **<big>[[G2578\|κάμπτει]]</big>** |
+| to it | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| does obeisance, | **<big>[[G4352\|προσκυνεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prays \[to it\], | **<big>[[G4336\|προσεύχεται]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Deliver | **<big>[[G1807\|εξελού]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| my god | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| your are | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
 [[Isa.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.16|<< Isaiah 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.18|Isaiah 44:18 >>]]</td></tr></table>
 
 

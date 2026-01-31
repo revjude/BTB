@@ -7,17 +7,17 @@ And he said, Cursed [be] Canaan; a servant of servants shall he be unto his bret
 he said, “Cursed be Canaan! A servant of servants shall he be to his brothers.”<small><sub>**MT:**</sub></small>
 [[Gen.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.24|<< Genesis 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.26|Genesis 9:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Accursed \[be\] | <big><span class="asgreek">επικατάρατος</span></big> <sup><small><small>[[G1944]]</small></small></sup> |
-| Canaan -- | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| a child, | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| a domestic servant | <big><span class="asgreek">οικέτης</span></big> <sup><small><small>[[G3610]]</small></small></sup> |
-| he will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers. | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Accursed \[be\] | **<big>[[G1944\|επικατάρατος]]</big>** |
+| Canaan -- | **<big>[[H3668\|Χαναάν]]</big>** |
+| a child, | **<big>[[G3816\|παις]]</big>** |
+| a domestic servant | **<big>[[G3610\|οικέτης]]</big>** |
+| he will be | **<big>[[G1510\|έσται]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his brothers. | **<big>[[G0080\|αδελφοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.24|<< Genesis 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.26|Genesis 9:26 >>]]</td></tr></table>
 
 

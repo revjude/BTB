@@ -7,31 +7,31 @@ And he said, Speak, I pray thee, unto Solomon the king, (for he will not say the
 Adonijah replied, “Please speak to King Solomon, since he will not turn you down. Let him give me Abishag the Shunammite as my wife.”<small><sub>**MT:**</sub></small>
 [[1Kgs.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.16|<< 1 Kings 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.18|1 Kings 2:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Speak | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντα</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king! | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away | <big><span class="asgreek">αποστρέψει</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abishag | <big><span class="asgreek">Αβισάγ</span></big> <sup><small><small>[[H0049]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Shunammite | <big><span class="asgreek">Σουναμίτιν</span></big> <sup><small><small>[[H7767]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| Speak | **<big>[[G2036\|είπον]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king! | **<big>[[G0935\|βασιλέα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he will not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away | **<big>[[G0654\|αποστρέψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face, | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| so that | **<big>[[G2532\|και]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Abishag | **<big>[[H0049\|Αβισάγ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| Shunammite | **<big>[[H7767\|Σουναμίτιν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| wife. | **<big>[[G1135\|γυναίκα]]</big>** |
 [[1Kgs.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.16|<< 1 Kings 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.18|1 Kings 2:18 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎חָלָה‎</span> <small>***(cha.lah)***</small> ==**be weak: ill**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H2470A]]</small> 
+<small>meaning of:</small> <small>**<big>[[H2470A|חָלָה]]</big>**</small> 
 
 - : ill/injured

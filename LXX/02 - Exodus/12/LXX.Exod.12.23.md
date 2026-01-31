@@ -7,39 +7,39 @@ For the LORD will pass through to smite the Egyptians; and when he seeth the blo
 When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down.<small><sub>**MT:**</sub></small>
 [[Exod.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.22|<< Exodus 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.24|Exodus 12:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> will go by | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to strike | <big><span class="asgreek">παταξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians. | <big><span class="asgreek">Αιγυπτίους</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall see | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lintel | <big><span class="asgreek">φλιάς</span></big> <sup><small><small>[[G9647]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφοτέρων</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doorposts. | <big><span class="asgreek">σταθμών</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> will go by | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door, | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| leave off | <big><span class="asgreek">αφήσει</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| annihilating | <big><span class="asgreek">ολοθρεύοντα</span></big> <sup><small><small>[[G3645]]</small></small></sup> |
-| \[so as\] to enter | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to strike. | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> will go by | **<big>[[G3928\|παρελεύσεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to strike | **<big>[[G3960\|παταξαι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Egyptians. | **<big>[[G0125\|Αιγυπτίους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall see | **<big>[[G3708\|όψεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| lintel | **<big>[[G9647\|φλιάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| both | **<big>[[G0297\|αμφοτέρων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| doorposts. | **<big>[[G9150\|σταθμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> will go by | **<big>[[G3928\|παρελεύσεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door, | **<big>[[G2374\|θύραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he will not | **<big>[[G3756\|ουκ]]</big>** |
+| leave off | **<big>[[G0863\|αφήσει]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| annihilating | **<big>[[G3645\|ολοθρεύοντα]]</big>** |
+| \[so as\] to enter | **<big>[[G1525\|εισελθείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your house | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| to strike. | **<big>[[G3960\|πατάξαι]]</big>** |
 [[Exod.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.22|<< Exodus 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.24|Exodus 12:24 >>]]</td></tr></table>
 
 

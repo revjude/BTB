@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁשַׁי‎</span></big> **Shêshay** <small>*(shay-shah'-ee)*</small> ==**Sheshai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎שָׁשַׁי‎</span><sup><small>[[H8343]]</small></sup></small>
+**<big><span class="ashebrew">‎שֵׁשַׁי‎</span></big>** **Shêshay** <small>*(shay-shah'-ee)*</small> ==**Sheshai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H8343|‎שָׁשַׁי‎]]</big>**</small>
 
 $\quad$ Sheshai.
 - § Sheshai = *"noble"*

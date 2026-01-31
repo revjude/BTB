@@ -10,16 +10,16 @@ Call now, if there be any that will answer thee; and to which of the saints wilt
 “Call out if you please, but who will answer? To which of the holy ones will you turn?<small><sub>**MT:**</sub></small>
 [[Job.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.21|<< Job 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.2|Job 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But call, | <big><span class="asgreek">επικάλεσαι</span></big> <sup><small><small>[[G1941]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| if any one | <big><span class="asgreek">ει τις</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
-| will hearken to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υπακούσεται</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| any | <big><span class="asgreek">ει τινα</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
-| angels | <big><span class="asgreek">αγγέλων</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| you shall see | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| But call, | **<big>[[G1941\|επικάλεσαι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| if any one | **<big>[[G1536\|ει τις]]</big>** |
+| will hearken to you; | **<big>[[G1473\|σοι]]</big>** **<big>[[G5219\|υπακούσεται]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| any | **<big>[[G1536\|ει τινα]]</big>** |
+| angels | **<big>[[G0032\|αγγέλων]]</big>** |
+| holy | **<big>[[G0039\|αγίων]]</big>** |
+| you shall see | **<big>[[G3708\|όψει]]</big>** |
 [[Job.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.21|<< Job 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.2|Job 5:2 >>]]</td></tr></table>
 
 

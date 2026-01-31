@@ -6,16 +6,16 @@ The voice of the LORD shakes the wilderness; the LORD shakes the Wilderness of K
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.7|<< Psalms 29:7]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.9|Psalms 29:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] voice of  | <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it causes to tremble  | <span class="ashebrew"><big>יָחִ֣יל </big></span><small><small><sup>[[H2342A]]</sup></small></small> &#8207;| ya.Chil <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness  | <span class="ashebrew"><big>מִדְבָּ֑ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he causes to tremble  | <span class="ashebrew"><big>יָחִ֥יל </big></span><small><small><sup>[[H2342A]]</sup></small></small> &#8207;| ya.Chil <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness of  | <span class="ashebrew"><big>מִדְבַּ֥ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kadesh  | <span class="ashebrew"><big>קָדֵֽשׁ </big></span><small><small><sup>[[H6946G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka.Desh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] voice of  |**<big>&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it causes to tremble  |**<big>&#8207;[[H2342A\|יָחִ֣יל]]&#8207; </big>**| ya.Chil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness  |**<big>&#8207;[[H4057B\|מִדְבָּ֑ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he causes to tremble  |**<big>&#8207;[[H2342A\|יָחִ֥יל]]&#8207; </big>**| ya.Chil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness of  |**<big>&#8207;[[H4057B\|מִדְבַּ֥ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kadesh  |**<big>&#8207;[[H6946G\|קָדֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.7|<< Psalms 29:7]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.9|Psalms 29:9 >>]]</td></tr></table>
 
 

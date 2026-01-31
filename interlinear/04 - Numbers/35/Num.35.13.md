@@ -6,16 +6,16 @@ The cities you select will be your six cities of refuge.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.12|<< Numbers 35:12]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.14|Numbers 35:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and the cities  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֶ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עָרִ֖ים </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> he. <small><sup>[[HTd]]</sup></small> 'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will give  | <span class="ashebrew"><big>תִּתֵּ֑נוּ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ti.Te.nu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| six  | <span class="ashebrew"><big>שֵׁשׁ </big></span><small><small><sup>[[H8337]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shesh- <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cities of  | <span class="ashebrew"><big>עָרֵ֥י </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'a.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| refuge  | <span class="ashebrew"><big>מִקְלָ֖ט </big></span><small><small><sup>[[H4733]]</sup></small></small> &#8207;| mik.Lat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>תִּהְיֶ֥ינָה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yei.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H5892B\|עָרִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will give  |**<big>&#8207;[[H5414G\|תִּתֵּ֑נוּ]]&#8207; </big>**| ti.Te.nu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  |**<big>&#8207;[[H8337\|שֵׁשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities of  |**<big>&#8207;[[H5892B\|עָרֵ֥י]]&#8207; </big>**| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| refuge  |**<big>&#8207;[[H4733\|מִקְלָ֖ט]]&#8207; </big>**| mik.Lat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|תִּהְיֶ֥ינָה]]&#8207; </big>**| tih.Yei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.12|<< Numbers 35:12]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.14|Numbers 35:14 >>]]</td></tr></table>
 
 

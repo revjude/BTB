@@ -7,48 +7,48 @@ And the king said unto Ziba, What meanest thou by these? And Ziba said, The asse
 “Why do you have these?” asked the king. Ziba replied, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is to refresh those who become exhausted in the wilderness.”<small><sub>**MT:**</sub></small>
 [[2Sam.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.1|<< 2 Samuel 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.3|2 Samuel 16:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Ziba, | <big><span class="asgreek">Σιβά</span></big> <sup><small><small>[[H6717]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[are\] these | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ziba said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σιβά</span></big> <sup><small><small>[[H6717]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| household | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to mount, | <big><span class="asgreek">επιβαίνειν</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bread loaves, | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dried \[fruit\] clusters, | <big><span class="asgreek">παλάθαι</span></big> <sup><small><small>[[G8584]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dried grapes | <big><span class="asgreek">σταφίδες</span></big> <sup><small><small>[[G9154]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| food | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants, | <big><span class="asgreek">παιδαρίοις</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| to drink | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one faint | <big><span class="asgreek">εκλελυμένω</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Ziba, | **<big>[[H6717\|Σιβά]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[are\] these | **<big>[[G3778\|ταύτά]]</big>** |
+| to you? | **<big>[[G1473\|σοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ziba said, | **<big>[[G2036\|είπε]]</big>** **<big>[[H6717\|Σιβά]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| household | **<big>[[G3624\|οίκω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to mount, | **<big>[[G1910\|επιβαίνειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bread loaves, | **<big>[[G0740\|άρτοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| dried \[fruit\] clusters, | **<big>[[G8584\|παλάθαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dried grapes | **<big>[[G9154\|σταφίδες]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| food | **<big>[[G1035\|βρώσιν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| servants, | **<big>[[G3808\|παιδαρίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| wine | **<big>[[G3631\|οίνος]]</big>** |
+| to drink | **<big>[[G4095\|πιείν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one faint | **<big>[[G1590\|εκλελυμένω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
 [[2Sam.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.1|<< 2 Samuel 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.3|2 Samuel 16:3 >>]]</td></tr></table>
 
 

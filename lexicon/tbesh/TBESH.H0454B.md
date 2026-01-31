@@ -1,5 +1,4 @@
-<span class="ashebrew">‎אֶלְיוֹעֵינַי‎</span> <small>***(el.yo.e.nay)***</small> ==**Elioenai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Chr.3.23|1Ch.3.23]]
--  son of: Neariah ([[H5294]])
--  brother of: Hizkiah ([[H2396H]]) and Azrikam ([[H5840]])
--  father of: Hodaviah ([[H1938]]), Eliashib ([[H0475]]), Pelaiah ([[H6411B]]), Akkub ([[H6126]]), Johanan ([[H3110I]]), Delaiah ([[H1806]]) and Anani ([[H6054]])
+-  son of: Neariah (**<big>[[H5294|נְעַרְיָה]]</big>**)
+-  brother of: Hizkiah (**<big>[[H2396H|חִזְקִיָּה]]</big>**) and Azrikam (**<big>[[H5840|עַזְרִיקָם]]</big>**)
+-  father of: Hodaviah (**<big>[[H1938|הוֹדַוְיָה]]</big>**), Eliashib (**<big>[[H0475|אֶלְיָשִׁיב]]</big>**), Pelaiah (**<big>[[H6411B|פְּלָיָה]]</big>**), Akkub (**<big>[[H6126|עַקּוּב]]</big>**), Johanan (**<big>[[H3110I|יוֹחָנָן]]</big>**), Delaiah (**<big>[[H1806|דְּלָיָה]]</big>**) and Anani (**<big>[[H6054|עֲנָנִי]]</big>**)

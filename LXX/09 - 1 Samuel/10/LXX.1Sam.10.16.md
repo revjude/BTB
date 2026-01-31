@@ -7,29 +7,29 @@ And Saul said unto his uncle, He told us plainly that the asses were found. But 
 And Saul replied, “He assured us that the donkeys had been found.” But Saul did not tell his uncle what Samuel had said about the kingship.<small><sub>**MT:**</sub></small>
 [[1Sam.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.15|<< 1 Samuel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.17|1 Samuel 10:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| member of his family, | <big><span class="asgreek">οικείον</span></big> <sup><small><small>[[G3609]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| By reporting | <big><span class="asgreek">απαγγέλλων</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| he reported | <big><span class="asgreek">απήγγειλέ</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| were found | <big><span class="asgreek">εύρηνται</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| But the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom, | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| report | <big><span class="asgreek">απήγγειλεν</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Samuel said. | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| member of his family, | **<big>[[G3609\|οικείον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| By reporting | **<big>[[G0518\|απαγγέλλων]]</big>** |
+| he reported | **<big>[[G0518\|απήγγειλέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| were found | **<big>[[G2147\|εύρηνται]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| But the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| matter | **<big>[[G4487\|ρήμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| kingdom, | **<big>[[G0932\|βασιλείας]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| report | **<big>[[G0518\|απήγγειλεν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| Samuel said. | **<big>[[G2036\|είπεν]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
 [[1Sam.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.15|<< 1 Samuel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.17|1 Samuel 10:17 >>]]</td></tr></table>
 
 

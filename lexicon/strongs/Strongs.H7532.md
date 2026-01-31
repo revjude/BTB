@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רִצְפָּה‎</span></big> **Ritspâh** <small>*(rits-paw')*</small> ==**Rizpah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎רִצְפָּה‎</span><sup><small>[[H7531]]</small></sup></small>
+**<big><span class="ashebrew">‎רִצְפָּה‎</span></big>** **Ritspâh** <small>*(rits-paw')*</small> ==**Rizpah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H7531|‎רִצְפָּה‎]]</big>**</small>
 
 $\quad$ Rizpah.
 - § Rizpah = *"pavement"*

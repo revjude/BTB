@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H2408]]</small>
+<small>Aramaic form: **<big>[[H2408|חֲטִי]]</big>**</small>
  <span class="bdbLangHebrew">‎חֵטְא‎</span> **noun masculine**<sup>[[Deut.15.9|Deut 15:9]]</sup> ==sin== (on formation see [[BDB#Lag|Lag]]<sup> BN 142</sup>) — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[Lev.19.17|Lev 19:17]] + 15 t.; suffix <span class="bdbLangHebrew">‎חָטְאוֺ‎</span> [[Lev.24.15|Lev 24:15]] + 5 t., <span class="bdbLangHebrew">‎חֲטָאָו֯‎</span> [[Lam.3.39|Lam 3:39]], <span class="bdbLangHebrew">‎חֶטְאָם‎</span> [[Lev.20.20|Lev 20:20]] plural <span class="bdbLangHebrew">‎חֲטָאִים‎</span> [[Eccl.10.4|Eccl 10:4]] construct <span class="bdbLangHebrew">‎חֲטָאֵי‎</span> [[2Kgs.10.29|2Kgs 10:29]]; [[Ezek.23.49|Ezek 23:49]] suffix <span class="bdbLangHebrew">‎חֲטָאַי‎</span> [[Gen.41.9|Gen 41:9]], <span class="bdbLangHebrew">‎חֲטָאָ֑י‎</span> [[Isa.38.17|Isa 38:17]]; [[Ps.51.11|Ps 51:11]], <span class="bdbLangHebrew">‎חֲטָאֵינוּ‎</span> [[Dan.9.16|Dan 9:16]]; [[Ps.103.10|Ps 103:10]], <span class="bdbLangHebrew">‎חֲטָאֵיכֶם‎</span> [[Isa.1.18|Isa 1:18]] — 
 
 **1.** ***sin:*** 

@@ -7,40 +7,40 @@ The cedars in the garden of God could not hide him: the fir trees were not like 
 The cedars in the garden of God could not rival it; the cypresses could not compare with its branches, nor the plane trees match its boughs. No tree in the garden of God could compare with its beauty.<small><sub>**MT:**</sub></small>
 [[Ezek.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.7|<< Ezekiel 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.9|Ezekiel 31:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cypresses | <big><span class="asgreek">κυπάρισσοι</span></big> <sup><small><small>[[G8130]]</small></small></sup> |
-| such | <big><span class="asgreek">τοιαύται</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| paradise | <big><span class="asgreek">παραδείσω</span></big> <sup><small><small>[[G3857]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pines | <big><span class="asgreek">πίτυες</span></big> <sup><small><small>[[G8797]]</small></small></sup> |
-| were not likened | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">όμοιαι</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his shoots; | <big><span class="asgreek">παραφυάσιν αυτού</span></big> <sup><small><small>[[G8644]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fir trees | <big><span class="asgreek">ελάται</span></big> <sup><small><small>[[G7177]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοιαι</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his branches; | <big><span class="asgreek">κλάδοις</span></big> <sup><small><small>[[G2798]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| paradise | <big><span class="asgreek">παραδείσω</span></big> <sup><small><small>[[G3857]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| was not likened | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ωμοιώθη</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his beauty. | <big><span class="asgreek">κάλλει</span></big> <sup><small><small>[[G7782]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| cypresses | **<big>[[G8130\|κυπάρισσοι]]</big>** |
+| such | **<big>[[G5108\|τοιαύται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| paradise | **<big>[[G3857\|παραδείσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| pines | **<big>[[G8797\|πίτυες]]</big>** |
+| were not likened | **<big>[[G3756\|ουχ]]</big>** **<big>[[G3664\|όμοιαι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his shoots; | **<big>[[G8644\|παραφυάσιν αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fir trees | **<big>[[G7177\|ελάται]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1096\|εγένοντο]]</big>** |
+| likened | **<big>[[G3664\|όμοιαι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his branches; | **<big>[[G2798\|κλάδοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| paradise | **<big>[[G3857\|παραδείσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| was not likened | **<big>[[G3756\|ουχ]]</big>** **<big>[[G3666\|ωμοιώθη]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his beauty. | **<big>[[G7782\|κάλλει]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ezek.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.7|<< Ezekiel 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.9|Ezekiel 31:9 >>]]</td></tr></table>
 
 

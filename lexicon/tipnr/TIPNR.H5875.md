@@ -1,8 +1,8 @@
 <small>*En-hakkore • Spring that appeared after Samson's victory over the Philistines*</small>
 
 <span class='tipnrhighlight'>En-hakkore</span>, the spring that God provided for Samson after his victory over the Philistines at Lehi.
-- A location near Beth-shemesh<[[H1053G]]> only mentioned at [[Judg.15.19|Jdg.15.19]]; 
-- only referred to as En-hakkore<[[H5875]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Beth-shemesh **<big>[[H1053|בֵּית שֶׁמֶשׁ]]</big>** only mentioned at [[Judg.15.19|Jdg.15.19]]; 
+- only referred to as En-hakkore **<big>[[H5875|עֵין הַקּוֹרֵא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.75274835811488,34.97660913147738&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact location of En-hakkore is not specified in the Bible, but it was likel
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| En-hakkore (NIV= En Hakkore) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>א</span>](H5875) <small>*Hebrew*</small> | 1x | [Jdg.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jdg.15.19) |
-All Strong's for **En-hakkore**: \[[[H5875]]\]
+| En-hakkore (NIV= En Hakkore) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>א</span>](H5875) | 1x | [Jdg.15.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jdg.15.19) |
+All entries for **En-hakkore**:  **<big>[[H5875|עֵין הַקּוֹרֵא]]</big>**

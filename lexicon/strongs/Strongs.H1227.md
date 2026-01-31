@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּקְבּוּק‎</span></big> **Baqbûwq** <small>*(bak-book')*</small> ==**Bakbuk**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בַּקְבֻּק‎</span><sup><small>[[H1228]]</small></sup></small>
+**<big><span class="ashebrew">‎בַּקְבּוּק‎</span></big>** **Baqbûwq** <small>*(bak-book')*</small> ==**Bakbuk**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1228|‎בַּקְבֻּק‎]]</big>**</small>
 
 $\quad$ Bakbuk.
 - § Bakbuk = *"bottle"*

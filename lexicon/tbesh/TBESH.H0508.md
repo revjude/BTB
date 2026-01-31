@@ -1,6 +1,4 @@
-<span class="ashebrew">‎אֶלְפַּ֫עַל‎</span> <small>***(el.pa.al)***</small> ==**Elpaal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin  living at the time of Divided Monarchy, first mentioned at [[1Chr.8.11|1Ch.8.11]]
--  son of: Shaharaim ([[H7842]]) and Hushim ([[H2366A]])
--  brother of: Jobab ([[H3103J]]), Zibia ([[H6644]]), Mesha ([[H4331]]), Malcam ([[H4445A]]), Jeuz ([[H3263]]), Sachia ([[H7634]]), Mirmah ([[H4821]]) and Abitub ([[H0036]])
--  father of: Eber ([[H5677I]]), Misham ([[H4936]]), Shemed ([[H8106B]]), Beriah ([[H1283I]]), Shema ([[H8087I]]), Zebadiah ([[H2069H]]), Meshullam ([[H4918J]]), Hizki ([[H2395]]), Heber ([[H2268J]]), Ishmerai ([[H3461]]), Izliah ([[H3152]]), Jobab ([[H3103K]])
-
+-  son of: Shaharaim (**<big>[[H7842|שַׁחֲרַיִם]]</big>**) and Hushim (**<big>[[H2366A|חוּשִׁים]]</big>**)
+-  brother of: Jobab (**<big>[[H3103J|יוֹבָב]]</big>**), Zibia (**<big>[[H6644|צִבְיָא]]</big>**), Mesha (**<big>[[H4331|מֵישָׁא]]</big>**), Malcam (**<big>[[H4445A|מַלְכָּם]]</big>**), Jeuz (**<big>[[H3263|יְעוּץ]]</big>**), Sachia (**<big>[[H7634|שׇׁבְיָה]]</big>**), Mirmah (**<big>[[H4821|מִרְמָה]]</big>**) and Abitub (**<big>[[H0036|אֲבִיטוּב]]</big>**)
+-  father of: Eber (**<big>[[H5677I|עֵבֵר]]</big>**), Misham (**<big>[[H4936|מִשְׁעָם]]</big>**), Shemed (**<big>[[H8106B|שֶׁמֶר]]</big>**), Beriah (**<big>[[H1283I|בְּרִיעָה]]</big>**), Shema (**<big>[[H8087I|שֶׁמַע]]</big>**), Zebadiah (**<big>[[H2069H|זְבַדְיָה]]</big>**), Meshullam (**<big>[[H4918J|מְשֻׁלָּם]]</big>**), Hizki (**<big>[[H2395|חִזְקִי]]</big>**), Heber (**<big>[[H2268J|חֶבֶר]]</big>**), Ishmerai (**<big>[[H3461|יִשְׁמְרַי]]</big>**), Izliah (**<big>[[H3152|יִזְלִיאָה]]</big>**), Jobab (**<big>[[H3103K|יוֹבָב]]</big>**)

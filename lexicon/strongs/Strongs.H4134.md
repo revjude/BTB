@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מוּךְ‎</span></big> **mûwk** <small>*(mook)*</small> ==**be poor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מוּךְ‎</span></big>** **mûwk** <small>*(mook)*</small> ==**be poor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be (waxen) poor(-er).
@@ -6,4 +6,4 @@ $\quad$ be (waxen) poor(-er).
 
 **1)** (Qal) to be low, grow poor, be depressed, be poor
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπορέω</span><sup><small>[[G0639]]</small></sup> · <span class="asgreek">ταπεινός</span><sup><small>[[G5011]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup>
+<small>See Greek: </small>**<big>[[G0639|ἀπορέω]]</big>** · **<big>[[G5011|ταπεινός]]</big>** · **<big>[[G5013|ταπεινόω]]</big>**

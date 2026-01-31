@@ -7,15 +7,15 @@ The thoughts of the righteous [are] right: [but] the counsels of the wicked [are
 The plans of the righteous are just, but the counsel of the wicked leads to deceit.<small><sub>**MT:**</sub></small>
 [[Prov.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.4|<< Proverbs 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.6|Proverbs 12:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] devices | <big><span class="asgreek">λογισμοί</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
-| of \[the\] just | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| \[are true\] judgments; | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| devise | <big><span class="asgreek">κυβερνώσι</span></big> <sup><small><small>[[G8114]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| treachery. | <big><span class="asgreek">δόλους</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
+| \[The\] devices | **<big>[[G3053\|λογισμοί]]</big>** |
+| of \[the\] just | **<big>[[G1342\|δικαίων]]</big>** |
+| \[are true\] judgments; | **<big>[[G2917\|κρίματα]]</big>** |
+| devise | **<big>[[G8114\|κυβερνώσι]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| \[the\] impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| treachery. | **<big>[[G1388\|δόλους]]</big>** |
 [[Prov.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.4|<< Proverbs 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.6|Proverbs 12:6 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I b
 Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit.<small><sub>**MT:**</sub></small>
 [[Ps.143.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.6|<< Psalm 143:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.8|Psalm 143:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισάκουσόν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| fails | <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spirit | <big><span class="asgreek">πνεύμά μου</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| turn | <big><span class="asgreek">αποστρέψης</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be like | <big><span class="asgreek">ομοιωθήσομαι</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going down | <big><span class="asgreek">καταβαίνουσιν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] pit. | <big><span class="asgreek">λάκκον</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
+| Quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| listen to | **<big>[[G1522\|εισάκουσόν]]</big>** |
+| me! | **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| fails | **<big>[[G1587\|εξέλιπε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my spirit | **<big>[[G4151\|πνεύμά μου]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| turn | **<big>[[G0654\|αποστρέψης]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| so that | **<big>[[G2532\|και]]</big>** |
+| I shall be like | **<big>[[G3666\|ομοιωθήσομαι]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| going down | **<big>[[G2597\|καταβαίνουσιν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] pit. | **<big>[[G8154\|λάκκον]]</big>** |
 [[Ps.143.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.6|<< Psalm 143:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.8|Psalm 143:8 >>]]</td></tr></table>
 
 

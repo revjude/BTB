@@ -4,7 +4,7 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Naharai</span> the Beerothite, Joab's armor-bearer, was one of David's mighty men.
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.23.37|2Sa.23.37]]; 
-- only referred to as Naharai<[[H5171]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Naharai **<big>[[H5171|נַחֲרַי]]</big>**.
 
 Naharai the Beerothite is mentioned in [[2Sam.23.37|2 Samuel 23:37]] and [[1Chr.11.39|1 Chronicles 11:39]] as one of King David's mighty men. These passages list the elite warriors who fought alongside David and played a crucial role in establishing and maintaining his kingdom. 
 
@@ -16,5 +16,5 @@ Naharai's inclusion among David's mighty men highlights his exceptional skill as
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naharai | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>](H5171) <small>*Hebrew*</small> | 2x | [[2Sa.23.37] & [1Ch.11.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naharai\*\|reference=2Sa.23.37;1Ch.11.39) |
-All Strong's for **Naharai**: \[[[H5171]]\]
+| Naharai | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>](H5171) | 2x | [[2Sa.23.37] & [1Ch.11.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naharai\*\|reference=2Sa.23.37;1Ch.11.39) |
+All entries for **Naharai**:  **<big>[[H5171|נַחֲרַי]]</big>**

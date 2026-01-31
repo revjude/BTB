@@ -4,7 +4,7 @@ Singer living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jaaziel</span> \(or Aziel\) was a Levite appointed as a musician to play the bronze cymbals during the bringing of the ark to Jerusalem in David's reign \([[1Chr.15.18|1Ch.15.18]],20\).
 - A singer living at the time of Divided Monarchy, first mentioned at [[1Chr.15.18|1Ch.15.18]]; 
-- referred to as Jaaziel<[[H3268]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\), or Aziel<[[H5815]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- referred to as Jaaziel **<big>[[H3268|יַעֲזִיאֵל]]</big>**, or Aziel **<big>[[H5815|עֲזִיאֵל]]</big>**.
 
 Jaaziel, also known as Aziel, is mentioned in [[1Chr.15.18|1 Chronicles 15:18]] and 20 as one of the Levites appointed by David to serve as a musician during the bringing of the ark of the covenant to Jerusalem. He was specifically chosen to play the bronze cymbals \(1Ch.15.19\). 
 
@@ -16,6 +16,6 @@ The mention of Jaaziel \(Aziel\) in this context highlights the importance of mu
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3268) <small>*Hebrew*</small> | 1x | [1Ch.15.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaaziel\*\|reference=1Ch.15.18) |
-| Aziel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5815) <small>*Hebrew*</small> | 1x | [1Ch.15.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aziel\*\|reference=1Ch.15.20) |
-All Strong's for **Jaaziel or Aziel**: \[[[H3268]]\] \[[[H5815]]\]
+| Jaaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3268) | 1x | [1Ch.15.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaaziel\*\|reference=1Ch.15.18) |
+| Aziel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5815) | 1x | [1Ch.15.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aziel\*\|reference=1Ch.15.20) |
+All entries for **Jaaziel or Aziel**:  **<big>[[H3268|יַעֲזִיאֵל]]</big>** ☩  **<big>[[H5815|עֲזִיאֵל]]</big>**

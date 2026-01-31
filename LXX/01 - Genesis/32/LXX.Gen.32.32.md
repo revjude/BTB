@@ -7,40 +7,40 @@ Therefore the children of Israel eat not [of] the sinew which shrank, which [is]
 Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was struck near that tendon.<small><sub>**MT:**</sub></small>
 [[Gen.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.31|<< Genesis 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.1|Genesis 33:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγωσιν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \[do\] the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nerve | <big><span class="asgreek">νεύρον</span></big> <sup><small><small>[[G8391]]</small></small></sup> |
-| \[by\] which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he was paralyzed, | <big><span class="asgreek">ενάρκησεν</span></big> <sup><small><small>[[G8376]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wide \[part\] | <big><span class="asgreek">πλάτους</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thigh, | <big><span class="asgreek">μηρού</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wide \[part\] | <big><span class="asgreek">πλάτους</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thigh | <big><span class="asgreek">μηρού</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nerve, | <big><span class="asgreek">νεύρου</span></big> <sup><small><small>[[G8391]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he was paralyzed. | <big><span class="asgreek">ενάρκησεν</span></big> <sup><small><small>[[G8376]]</small></small></sup> |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| this, | **<big>[[G3778\|τούτου]]</big>** |
+| no way | **<big>[[G3364\|ου μη]]</big>** |
+| eat | **<big>[[G2068\|φάγωσιν]]</big>** |
+| \[do\] the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| nerve | **<big>[[G8391\|νεύρον]]</big>** |
+| \[by\] which | **<big>[[G3739\|ο]]</big>** |
+| he was paralyzed, | **<big>[[G8376\|ενάρκησεν]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wide \[part\] | **<big>[[G4114\|πλάτους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| thigh, | **<big>[[G3382\|μηρού]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he touched | **<big>[[G0680\|ήψατο]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wide \[part\] | **<big>[[G4114\|πλάτους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| thigh | **<big>[[G3382\|μηρού]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| nerve, | **<big>[[G8391\|νεύρου]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| he was paralyzed. | **<big>[[G8376\|ενάρκησεν]]</big>** |
 [[Gen.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.31|<< Genesis 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.1|Genesis 33:1 >>]]</td></tr></table>
 
 

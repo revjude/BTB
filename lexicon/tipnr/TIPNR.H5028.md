@@ -4,9 +4,9 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nebat</span> was the father of Jeroboam I, who became the first king of the northern kingdom of Israel after the division of the monarchy.
 - A man of the Kingdom of Israel, living at the time of United Monarchy, first mentioned at [[1Kgs.11.26|1Ki.11.26]]; 
-- only referred to as Nebat<[[H5028]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ט</span>\); 
-- husband of Zeruah<[[H6871]]>; 
--  father of Jeroboam<[[H3379G]]>.
+- only referred to as Nebat **<big>[[H5028|נְבָט]]</big>**; 
+- husband of Zeruah **<big>[[H6871|צְרוּעָה]]</big>**; 
+-  father of Jeroboam **<big>[[H3379|יָרׇבְעָם]]</big>**.
 
 Nebat is mentioned in the Old Testament as the father of Jeroboam I, the first king of the northern kingdom of Israel. Although little is known about Nebat himself, his son Jeroboam played a significant role in the history of Israel and is frequently referred to as "Jeroboam son of Nebat" throughout the books of Kings and Chronicles. 
 
@@ -22,8 +22,8 @@ Although Nebat himself is not the focus of the biblical narrative, his mention a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nebat | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ט</span>](H5028) <small>*Hebrew*</small> | 25x | [[1Ki.11.26] ... [2Ch.13.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebat\*\|reference=1Ki.11.26;1Ki.12.2;1Ki.12.15;1Ki.15.1;1Ki.16.3;1Ki.16.26;1Ki.16.31;1Ki.21.22;1Ki.22.52;2Ki.3.3;2Ki.9.9;2Ki.10.29;2Ki.13.2;2Ki.13.11;2Ki.14.24;2Ki.15.9;2Ki.15.18;2Ki.15.24;2Ki.15.28;2Ki.17.21;2Ki.23.15;2Ch.9.29;2Ch.10.2;2Ch.10.15;2Ch.13.6) |
-All Strong's for **Nebat**: \[[[H5028]]\]
+| Nebat | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ט</span>](H5028) | 25x | [[1Ki.11.26] ... [2Ch.13.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebat\*\|reference=1Ki.11.26;1Ki.12.2;1Ki.12.15;1Ki.15.1;1Ki.16.3;1Ki.16.26;1Ki.16.31;1Ki.21.22;1Ki.22.52;2Ki.3.3;2Ki.9.9;2Ki.10.29;2Ki.13.2;2Ki.13.11;2Ki.14.24;2Ki.15.9;2Ki.15.18;2Ki.15.24;2Ki.15.28;2Ki.17.21;2Ki.23.15;2Ch.9.29;2Ch.10.2;2Ch.10.15;2Ch.13.6) |
+All entries for **Nebat**:  **<big>[[H5028|נְבָט]]</big>**
 #### Related Profiles:
 - **[Zeruah](H6871)** (spouse)
 - **[Jeroboam](H3379G)** (child)

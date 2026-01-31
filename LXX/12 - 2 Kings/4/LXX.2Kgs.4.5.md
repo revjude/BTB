@@ -7,36 +7,36 @@ So she went from him, and shut the door upon her and upon her sons, who brought 
 So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring.<small><sub>**MT:**</sub></small>
 [[2Kgs.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.4|<< 2 Kings 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.6|2 Kings 4:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she went forth | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| from | <big><span class="asgreek">παρ</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thus. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she locked | <big><span class="asgreek">απέκλεισε</span></big> <sup><small><small>[[G0608]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| after | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| herself | <big><span class="asgreek">εαυτής</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[and\] they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| drew near | <big><span class="asgreek">προσήγγιζον</span></big> <sup><small><small>[[G4331]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| poured | <big><span class="asgreek">επέχεεν</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| were filled | <big><span class="asgreek">επλήσθησαν</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vessels | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she went forth | **<big>[[G0565\|απήλθε]]</big>** |
+| from | **<big>[[G3844\|παρ]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did | **<big>[[G4160\|εποίησεν]]</big>** |
+| thus. | **<big>[[G3779\|ούτως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she locked | **<big>[[G0608\|απέκλεισε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| after | **<big>[[G2596\|καθ΄]]</big>** |
+| herself | **<big>[[G1438\|εαυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[and\] they | **<big>[[G1473\|αυτοί]]</big>** |
+| drew near | **<big>[[G4331\|προσήγγιζον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her; | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G1473\|αυτή]]</big>** |
+| poured | **<big>[[G2022\|επέχεεν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| were filled | **<big>[[G4130\|επλήσθησαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| vessels | **<big>[[G4632\|σκεύη]]</big>** |
 [[2Kgs.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.4|<< 2 Kings 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.6|2 Kings 4:6 >>]]</td></tr></table>
 
 

@@ -7,31 +7,31 @@ So they read in the book in the law of God distinctly, and gave the sense, and c
 So they read from the Book of the Law of God, explaining it and giving insight, so that the people could understand what was being read.<small><sub>**MT:**</sub></small>
 [[Neh.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.7|<< Nehemiah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.9|Nehemiah 8:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they read | <big><span class="asgreek">ανέγνωσαν</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίω</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of \[the\] law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ezra taught | <big><span class="asgreek">εδίδασκεν</span></big> <sup><small><small>[[G1321]]</small></small></sup> <big><span class="asgreek">Έσδρας</span></big> <sup><small><small>[[H5831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave orders | <big><span class="asgreek">διέστειλεν</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a higher knowledge | <big><span class="asgreek">επιστήμη</span></big> <sup><small><small>[[G7454]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| perceived | <big><span class="asgreek">συνήκεν</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reading. | <big><span class="asgreek">αναγνώσει</span></big> <sup><small><small>[[G0320]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they read | **<big>[[G0314\|ανέγνωσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of \[the\] law | **<big>[[G3551\|νόμου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God; | **<big>[[G2316\|θεού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ezra taught | **<big>[[G1321\|εδίδασκεν]]</big>** **<big>[[H5831\|Έσδρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave orders | **<big>[[G1291\|διέστειλεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a higher knowledge | **<big>[[G7454\|επιστήμη]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| perceived | **<big>[[G4920\|συνήκεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| reading. | **<big>[[G0320\|αναγνώσει]]</big>** |
 [[Neh.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.7|<< Nehemiah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.9|Nehemiah 8:9 >>]]</td></tr></table>
 
 

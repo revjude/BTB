@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סָפַק‎</span></big> **çâphaq** <small>*(saw-fak')*</small> ==**to slap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">שָׂפַק</span> **sâphaq** <small>*(saw-fak')*</small>; (1 Kings 20:10; Job 27:23; Isaiah 2:6), a primitive root</small>
+**<big><span class="ashebrew">‎סָפַק‎</span></big>** **çâphaq** <small>*(saw-fak')*</small> ==**to slap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">שָׂפַק</span></big>** **sâphaq** <small>*(saw-fak')*</small>; (1 Kings 20:10; Job 27:23; Isaiah 2:6), a primitive root</small>
 
 $\quad$ clap, smite, strike, suffice, wallow.
 - ***to clap the hands*** (in token of compact, derision, grief, indignation, or punishment)

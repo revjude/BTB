@@ -1,4 +1,4 @@
-Greek of: <small>[[H7620G]]</small> 
+Greek of: <small>**<big>[[H7620G|שָׁבוּעַ]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==πεντηκοστή==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

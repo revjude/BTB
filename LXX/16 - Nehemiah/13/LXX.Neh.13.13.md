@@ -7,40 +7,40 @@ And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the s
 I appointed as treasurers over the storerooms Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, with Hanan son of Zaccur, the son of Mattaniah, to assist them, because they were considered trustworthy. They were responsible for distributing the supplies to their fellow Levites.<small><sub>**MT:**</sub></small>
 [[Neh.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.12|<< Nehemiah 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.14|Nehemiah 13:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Shelemiah | <big><span class="asgreek">Σελεμία</span></big> <sup><small><small>[[H8018]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zadok | <big><span class="asgreek">Σαδώκ</span></big> <sup><small><small>[[G4524]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe, | <big><span class="asgreek">γραμματέως</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pedaiah | <big><span class="asgreek">Φαδαϊα</span></big> <sup><small><small>[[H6305]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites; | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| their hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] Hanan | <big><span class="asgreek">Ανάν</span></big> <sup><small><small>[[H2605]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zaccur, | <big><span class="asgreek">Ζακχούρ</span></big> <sup><small><small>[[H2139]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mattaniah. | <big><span class="asgreek">Ματθανίου</span></big> <sup><small><small>[[H4983]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| trustworthy | <big><span class="asgreek">πιστοί</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| they were considered | <big><span class="asgreek">ελογίσθησαν</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| \[as it was\] upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to portion \[out\] | <big><span class="asgreek">μερίζειν</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their brethren. | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of Shelemiah | **<big>[[H8018\|Σελεμία]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| priest, | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zadok | **<big>[[G4524\|Σαδώκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| scribe, | **<big>[[G1122\|γραμματέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Pedaiah | **<big>[[H6305\|Φαδαϊα]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Levites; | **<big>[[G3017\|Λευιτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| their hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[was\] Hanan | **<big>[[H2605\|Ανάν]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Zaccur, | **<big>[[H2139\|Ζακχούρ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Mattaniah. | **<big>[[H4983\|Ματθανίου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| trustworthy | **<big>[[G4103\|πιστοί]]</big>** |
+| they were considered | **<big>[[G3049\|ελογίσθησαν]]</big>** |
+| \[as it was\] upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| to portion \[out\] | **<big>[[G3307\|μερίζειν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their brethren. | **<big>[[G0080\|αδελφοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Neh.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.12|<< Nehemiah 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.14|Nehemiah 13:14 >>]]</td></tr></table>
 
 

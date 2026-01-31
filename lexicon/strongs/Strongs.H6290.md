@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּארָן‎</span></big> **Pâʼrân** <small>*(paw-rawn')*</small> ==**Paran**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּאַר‎</span><sup><small>[[H6286]]</small></sup>; ornamental</small>
+**<big><span class="ashebrew">‎פָּארָן‎</span></big>** **Pâʼrân** <small>*(paw-rawn')*</small> ==**Paran**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6286|‎פָּאַר‎]]</big>**; ornamental</small>
 
 $\quad$ Paran.
 - § Paran = *"place of caverns"*

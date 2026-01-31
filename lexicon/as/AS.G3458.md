@@ -1,4 +1,4 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">μύλος</span></span>, <span class="asgreek">-ου, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">רֵחַים</span> <small><sup>[[H7347]]</sup></small>, [[LXX.Num.11.8|Nu 11:8]], [[LXX.Deut.24.6|De 24:6]], al.;\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">μύλος</span></span>, <span class="asgreek">-ου, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H7347|רֵחַים]]</big>**, [[LXX.Num.11.8|Nu 11:8]], [[LXX.Deut.24.6|De 24:6]], al.;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> = <span class="asgreek">μύλη</span>, <span class="asitalic">a mill</span> (Strab., Plut., LXX): [[Matt.24.41|Mt 24:41]], [[Rev.18.22|Re 18:22]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a mill-stone</span> (Anth.): [[Rev.18.21|Re 18:21]] (T); <span class="asgreek">μ. ὀνικός</span>, [[Matt.18.6|Mt 18:6]], [[Mark.9.42|Mk 9:42]] (v. Swete, in l.).†</span>
 

@@ -11,29 +11,29 @@ On the Sabbath day, present two unblemished year-old male lambs, accompanied by 
 > $\quad$ referenced by: [[Matt.12.5|Matt 12:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| you shall lead forward | <big><span class="asgreek">προσάξετε</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| lambs | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of a year \[old\], | <big><span class="asgreek">ενιαυσίους</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| unblemished; | <big><span class="asgreek">αμώμους</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tenths | <big><span class="asgreek">δέκατα</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of fine flour | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">αναπεποιημένης</span></big> <sup><small><small>[[G6305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its libation; | <big><span class="asgreek">σπονδήν</span></big> <sup><small><small>[[G9145]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths | **<big>[[G4521\|σαββάτων]]</big>** |
+| you shall lead forward | **<big>[[G4317\|προσάξετε]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| lambs | **<big>[[G0286\|αμνούς]]</big>** |
+| of a year \[old\], | **<big>[[G7245\|ενιαυσίους]]</big>** |
+| unblemished; | **<big>[[G0299\|αμώμους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tenths | **<big>[[G1181\|δέκατα]]</big>** |
+| of fine flour | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| being prepared | **<big>[[G6305\|αναπεποιημένης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| olive oil | **<big>[[G1637\|ελαίω]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| its libation; | **<big>[[G9145\|σπονδήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.8|<< Numbers 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.10|Numbers 28:10 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremot
 From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.<small><sub>**MT:**</sub></small>
 [[Ezra.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.25|<< Ezra 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.27|Ezra 10:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Elam -- | <big><span class="asgreek">Ηλάμ</span></big> <sup><small><small>[[H0198]]</small></small></sup> |
-| Mattaniah, | <big><span class="asgreek">Ματθανίας</span></big> <sup><small><small>[[H4983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zechariah, | <big><span class="asgreek">Ζαχαρίας</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehiel, | <big><span class="asgreek">Ιαϊήλ</span></big> <sup><small><small>[[H3171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abdi, | <big><span class="asgreek">Αβδίας</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeremoth, | <big><span class="asgreek">Ιεριμώθ</span></big> <sup><small><small>[[H3406]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eliah. | <big><span class="asgreek">Ηλία</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Elam -- | **<big>[[H0198\|Ηλάμ]]</big>** |
+| Mattaniah, | **<big>[[H4983\|Ματθανίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zechariah, | **<big>[[G2197\|Ζαχαρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehiel, | **<big>[[H3171\|Ιαϊήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abdi, | **<big>[[H5662\|Αβδίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jeremoth, | **<big>[[H3406\|Ιεριμώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eliah. | **<big>[[G2243\|Ηλία]]</big>** |
 [[Ezra.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.25|<< Ezra 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.27|Ezra 10:27 >>]]</td></tr></table>
 
 

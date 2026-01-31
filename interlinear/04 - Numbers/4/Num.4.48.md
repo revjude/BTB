@@ -6,15 +6,15 @@ And the number of men was 8,580.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.47|<< Numbers 4:47]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.49|Numbers 4:49 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they were  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּהְי֖וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yih.Yu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enrolled [men] their  | <span class="ashebrew"><big>פְּקֻדֵי </big></span><small><small><sup>[[H6485A]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| pe.ku.dei. <small><sup>[[HVqsmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eight  | <span class="ashebrew"><big>שְׁמֹנַ֣ת </big></span><small><small><sup>[[H8083]]</sup></small></small> &#8207;| she.mo.Nat <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֔ים </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'a.la.Fim <small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲמֵ֥שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.Mesh <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and eighty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמֹנִֽים </big></span><small><small><sup>[[H8084]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.mo.Nim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enrolled [men] their  |**<big>&#8207;[[H6485A\|פְּקֻדֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| pe.ku.dei.<small><sup>[[HVqsmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eight  |**<big>&#8207;[[H8083\|שְׁמֹנַ֣ת]]&#8207; </big>**| she.mo.Nat<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֔ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eighty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8084\|שְׁמֹנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mo.Nim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.47|<< Numbers 4:47]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.49|Numbers 4:49 >>]]</td></tr></table>
 
 

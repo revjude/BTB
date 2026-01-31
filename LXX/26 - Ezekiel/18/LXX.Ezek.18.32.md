@@ -7,21 +7,21 @@ For I have no pleasure in the death of him that dieth, saith the Lord GOD: where
 For I take no pleasure in anyone’s death, declares the Lord GOD. So repent and live!<small><sub>**MT:**</sub></small>
 [[Ezek.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.31|<< Ezekiel 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.1|Ezekiel 19:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| I do not want | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">βούλομαι</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dying, | <big><span class="asgreek">αποθνήσκοντος</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Return | <big><span class="asgreek">επιστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| then! | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall live. | <big><span class="asgreek">ζήσετε</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| I do not want | **<big>[[G3756\|ου]]</big>** **<big>[[G1014\|βούλομαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| death | **<big>[[G2288\|θάνατον]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| dying, | **<big>[[G0599\|αποθνήσκοντος]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| Return | **<big>[[G1994\|επιστρέψατε]]</big>** |
+| then! | **<big>[[G3767\|ουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall live. | **<big>[[G2198\|ζήσετε]]</big>** |
 [[Ezek.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.31|<< Ezekiel 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.1|Ezekiel 19:1 >>]]</td></tr></table>
 
 

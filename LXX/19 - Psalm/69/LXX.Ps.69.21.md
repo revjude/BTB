@@ -11,21 +11,21 @@ They poisoned my food with gall and gave me vinegar to quench my thirst.<small>
 > $\quad$ referenced by: [[Matt.27.48|Matt 27:48]] ☩ [[Mark.15.36|Mark 15:36]] ☩ [[John.19.28|John 19:28-29]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my food | <big><span class="asgreek">βρώμά</span></big> <sup><small><small>[[G1033]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bile | <big><span class="asgreek">χολήν</span></big> <sup><small><small>[[G5521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my thirst | <big><span class="asgreek">δίψαν</span></big> <sup><small><small>[[G6950]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to drink | <big><span class="asgreek">επότισάν</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| vinegar | <big><span class="asgreek">όξος</span></big> <sup><small><small>[[G3690]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my food | **<big>[[G1033\|βρώμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| bile | **<big>[[G5521\|χολήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my thirst | **<big>[[G6950\|δίψαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to drink | **<big>[[G4222\|επότισάν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| vinegar | **<big>[[G3690\|όξος]]</big>** |
 [[Ps.69.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.20|<< Psalm 69:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.22|Psalm 69:22 >>]]</td></tr></table>
 
 

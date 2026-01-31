@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מַחֲלַת‎</span> <small>***(ma.cha.lat)***</small> ==**Mahalath**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[2Chr.11.18|2Ch.11.18]]
--  daughter of: Jerimoth ([[H3406N]]) and Abihail ([[H0032J]]); married to Rehoboam ([[H7346]])
--  mother of: Jeush ([[H3266K]]), Shemariah ([[H8114H]]), Zaham ([[H2093]])
+-  daughter of: Jerimoth (**<big>[[H3406N|יְרִימוֹת]]</big>**) and Abihail (**<big>[[H0032J|אֲבִיהַיִל]]</big>**); married to Rehoboam (**<big>[[H7346|רְחַבְעָם]]</big>**)
+-  mother of: Jeush (**<big>[[H3266K|יְעוּשׁ]]</big>**), Shemariah (**<big>[[H8114H|שְׁמַרְיָה]]</big>**), Zaham (**<big>[[H2093|זַהַם]]</big>**)

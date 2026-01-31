@@ -6,16 +6,16 @@ Put away deception from your mouth; keep your lips from perverse speech.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.23|<< Proverbs 4:23]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.25|Proverbs 4:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| remove  | <span class="ashebrew"><big>הָסֵ֣ר </big></span><small><small><sup>[[H5493G]]</sup></small></small> &#8207;| ha.Ser <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from yourself  | <span class="ashebrew"><big>מִ֭מְּ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| Mi.me. <small><sup>[[HR]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crookedness of  | <span class="ashebrew"><big>עִקְּשׁ֣וּת </big></span><small><small><sup>[[H6143]]</sup></small></small> &#8207;| 'i.ke.Shut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth  | <span class="ashebrew"><big>פֶּ֑ה </big></span><small><small><sup>[[H6310I]]</sup></small></small> &#8207;| Peh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and deviousness of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְז֥וּת </big></span><small><small><sup>[[H3891]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le.Zut <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips  | <span class="ashebrew"><big>שְׂ֝פָתַ֗יִם </big></span><small><small><sup>[[H8193H]]</sup></small></small> &#8207;| Se.fa.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| put far away  | <span class="ashebrew"><big>הַרְחֵ֥ק </big></span><small><small><sup>[[H7368]]</sup></small></small> &#8207;| har.Chek <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from yourself  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>ךָּ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> ka <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| remove  |**<big>&#8207;[[H5493G\|הָסֵ֣ר]]&#8207; </big>**| ha.Ser<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from yourself  |**<big>&#8207;[[H4480A\|מִ֭מְּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Mi.me.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crookedness of  |**<big>&#8207;[[H6143\|עִקְּשׁ֣וּת]]&#8207; </big>**| 'i.ke.Shut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth  |**<big>&#8207;[[H6310I\|פֶּ֑ה]]&#8207; </big>**| Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deviousness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3891\|לְז֥וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Zut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips  |**<big>&#8207;[[H8193H\|שְׂ֝פָתַ֗יִם]]&#8207; </big>**| Se.fa.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| put far away  |**<big>&#8207;[[H7368\|הַרְחֵ֥ק]]&#8207; </big>**| har.Chek<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from yourself  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.23|<< Proverbs 4:23]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.25|Proverbs 4:25 >>]]</td></tr></table>
 
 

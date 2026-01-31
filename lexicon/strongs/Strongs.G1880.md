@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἐπανέρχομαι‎</span></big> **epanérchomai** <small>*(ep-an-er'-khom-ahee)*</small> ==**to return**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">ἐπί</span><sup><small>[[G1909]]</small></sup> and <span class="asgreek">ἀνέρχομαι</span><sup><small>[[G0424]]</small></sup></small>
+**<big><span class="asgreek">‎ἐπανέρχομαι‎</span></big>** **epanérchomai** <small>*(ep-an-er'-khom-ahee)*</small> ==**to return**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G1909|‎ἐπί‎]]</big>** and **<big>[[G0424|‎ἀνέρχομαι‎]]</big>**</small>
 
 $\quad$ come again, return.
 - to come up on, i.e. return

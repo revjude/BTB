@@ -7,21 +7,21 @@ And his brother Asaph, who stood on his right hand, [even] Asaph the son of Bera
 Heman’s kinsman was Asaph, who served at his right hand: Asaph the son of Berechiah, the son of Shimea,<small><sub>**MT:**</sub></small>
 [[1Chr.6.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.38|<< 1 Chronicles 6:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.40|1 Chronicles 6:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Asaph, | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one standing | <big><span class="asgreek">εστώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his right. | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Asaph | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Berachiah, | <big><span class="asgreek">Βαραχία</span></big> <sup><small><small>[[G0914]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shimea, | <big><span class="asgreek">Σαμαά</span></big> <sup><small><small>[[H8092]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Asaph, | **<big>[[H0623\|Ασάφ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one standing | **<big>[[G2476\|εστώς]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| his right. | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Asaph | **<big>[[H0623\|Ασάφ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Berachiah, | **<big>[[G0914\|Βαραχία]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Shimea, | **<big>[[H8092\|Σαμαά]]</big>** |
 [[1Chr.6.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.38|<< 1 Chronicles 6:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.40|1 Chronicles 6:40 >>]]</td></tr></table>
 
 

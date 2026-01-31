@@ -6,44 +6,44 @@ Therefore I decree that the people of any nation or language who say anything of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.28|<< Daniel 3:28]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.30|Daniel 3:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and from me  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>נִּי֮ </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| u. <small><sup>[[AC]]</sup></small> mi. <small><sup>[[HR]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is made  | <span class="asaramaic"><big>שִׂ֣ים </big></span><small><small><sup>[[H7761G]]</sup></small></small> &#8207;| sim <small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a decree  | <span class="asaramaic"><big>טְעֵם֒ </big></span><small><small><sup>[[H2942]]</sup></small></small> &#8207;| te.'Em <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="asaramaic"><big>דִּי֩ </big></span><small><small><sup>[[H1768]]</sup></small></small> &#8207;| di <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any  | <span class="asaramaic"><big>כָל </big></span><small><small><sup>[[H3606]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khol- <small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people  | <span class="asaramaic"><big>עַ֨ם </big></span><small><small><sup>[[H5972]]</sup></small></small> &#8207;| 'am <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nation  | <span class="asaramaic"><big>אֻמָּ֜ה </big></span><small><small><sup>[[H0524]]</sup></small></small> &#8207;| 'u.Mah <small><sup>[[ANcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and language  | <span class="asaramaic"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>לִשָּׁ֗ן </big></span><small><small><sup>[[H3961]]</sup></small></small> &#8207;| ve. <small><sup>[[AC]]</sup></small> li.Shan <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="asaramaic"><big>דִּֽי </big></span><small><small><sup>[[H1768]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| di- <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will say  | <span class="asaramaic"><big>יֵאמַ֤ר </big></span><small><small><sup>[[H0560]]</sup></small></small> &#8207;| ye.Mar <small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| negligence  [^1] | <span class="asaramaic"><big>שָׁלוּ֙ </big></span><small><small><sup>[[H7960]]</sup></small></small> &#8207;[^2] | she.lah <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| against  | <span class="asaramaic"><big>עַ֣ל </big></span><small><small><sup>[[H5922]]</sup></small></small> &#8207;| 'al <small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  | <span class="ashebrew"><big>אֱלָהֲ </big></span><small><small><sup>[[H0426]]</sup></small></small> <span class="ashebrew"><big>ה֗וֹן </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| 'e.la.ha. <small><sup>[[ANcbsc]]</sup></small> Hon <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of  | <span class="asaramaic"><big>דִּֽי </big></span><small><small><sup>[[H1768]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| di- <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shadrach  | <span class="asaramaic"><big>שַׁדְרַ֤ךְ </big></span><small><small><sup>[[H7715]]</sup></small></small> &#8207;| shad.Rakh <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Meshach  | <span class="ashebrew"><big>מֵישַׁךְ֙ </big></span><small><small><sup>[[H4336]]</sup></small></small> &#8207;| mei.shaKh <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Abed-  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲבֵ֣ד </big></span><small><small><sup>[[H5665]]</sup></small></small> &#8207;| va. <small><sup>[[AC]]</sup></small> 'a.Ved <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -nego  | <span class="ashebrew"><big>נְג֔וֹא </big></span><small><small><sup>[[H5665]]</sup></small></small> &#8207;| ne.Go' <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| members  | <span class="asaramaic"><big>הַדָּמִ֣ין </big></span><small><small><sup>[[H1917]]</sup></small></small> &#8207;| ha.da.Min <small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be made  | <span class="asaramaic"><big>יִתְעֲבֵ֔ד </big></span><small><small><sup>[[H5648]]</sup></small></small> &#8207;| yit.'a.Ved <small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and house his  | <span class="asaramaic"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>בַיְתֵ֖ </big></span><small><small><sup>[[H1005]]</sup></small></small> <span class="asaramaic"><big>הּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[AC]]</sup></small> vay.Te <small><sup>[[ANcbsc]]</sup></small> h <small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a refuse-heap  | <span class="asaramaic"><big>נְוָלִ֣י </big></span><small><small><sup>[[H5122]]</sup></small></small> &#8207;| ne.va.Li <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be made  | <span class="asaramaic"><big>יִשְׁתַּוֵּ֑ה </big></span><small><small><sup>[[H7739B]]</sup></small></small> &#8207;| yish.ta.Veh <small><sup>[[AVMi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as to  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>ל </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ko <small><sup>[[AR]]</sup></small> l- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| because  | <span class="asaramaic"><big>קֳבֵ֗ל </big></span><small><small><sup>[[H6903H]]</sup></small></small> &#8207;| ko.Vel <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="asaramaic"><big>דִּ֣י </big></span><small><small><sup>[[H1768]]</sup></small></small> &#8207;| di <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="asaramaic"><big>לָ֤א </big></span><small><small><sup>[[H3809]]</sup></small></small> &#8207;| la' <small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="asaramaic"><big>אִיתַי֙ </big></span><small><small><sup>[[H0383]]</sup></small></small> &#8207;| 'i.Tai <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a god  | <span class="ashebrew"><big>אֱלָ֣ה </big></span><small><small><sup>[[H0426]]</sup></small></small> &#8207;| 'e.Lah <small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| another  | <span class="asaramaic"><big>אָחֳרָ֔ן </big></span><small><small><sup>[[H0321]]</sup></small></small> &#8207;| 'o.cho.Ran <small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="asaramaic"><big>דִּֽי </big></span><small><small><sup>[[H1768]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| di- <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he is able  | <span class="asaramaic"><big>יִכֻּ֥ל </big></span><small><small><sup>[[H3202]]</sup></small></small> &#8207;| yi.Kul <small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to rescue  | <span class="asaramaic"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="asaramaic"><big>הַצָּלָ֖ה </big></span><small><small><sup>[[H5338]]</sup></small></small> &#8207;| le. <small><sup>[[AR]]</sup></small> ha.tza.Lah <small><sup>[[AVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like this  | <span class="asaramaic"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="asaramaic"><big>דְנָֽה </big></span><small><small><sup>[[H1836]]</sup></small></small> <span class="asaramaic"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ki <small><sup>[[AR]]</sup></small> d.Nah <small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from me  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9030\|נִּי֮]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is made  |**<big>&#8207;[[H7761G\|שִׂ֣ים]]&#8207; </big>**| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a decree  |**<big>&#8207;[[H2942\|טְעֵם֒]]&#8207; </big>**| te.'Em<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1768\|דִּי֩]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  |**<big>&#8207;[[H3606\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people  |**<big>&#8207;[[H5972\|עַ֨ם]]&#8207; </big>**| 'am<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nation  |**<big>&#8207;[[H0524\|אֻמָּ֜ה]]&#8207; </big>**| 'u.Mah<small><sup>[[ANcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and language  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3961\|לִשָּׁ֗ן]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> li.Shan<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will say  |**<big>&#8207;[[H0560\|יֵאמַ֤ר]]&#8207; </big>**| ye.Mar<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| negligence  [^1]|**<big>&#8207;[[H7960\|שָׁלוּ֙]]&#8207; </big>**[^2] | she.lah<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| against  |**<big>&#8207;[[H5922\|עַ֣ל]]&#8207; </big>**| 'al<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0426\|אֱלָהֲ]]&#8207;&#8207;[[H9028\|ה֗וֹן]]&#8207; </big>**| 'e.la.ha.<small><sup>[[ANcbsc]]</sup></small> Hon<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shadrach  |**<big>&#8207;[[H7715\|שַׁדְרַ֤ךְ]]&#8207; </big>**| shad.Rakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meshach  |**<big>&#8207;[[H4336\|מֵישַׁךְ֙]]&#8207; </big>**| mei.shaKh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abed-  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5665\|עֲבֵ֣ד]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.Ved<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -nego  |**<big>&#8207;[[H5665\|נְג֔וֹא]]&#8207; </big>**| ne.Go'<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| members  |**<big>&#8207;[[H1917\|הַדָּמִ֣ין]]&#8207; </big>**| ha.da.Min<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be made  |**<big>&#8207;[[H5648\|יִתְעֲבֵ֔ד]]&#8207; </big>**| yit.'a.Ved<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and house his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1005\|בַיְתֵ֖]]&#8207;&#8207;[[H9023\|הּ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> vay.Te<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a refuse-heap  |**<big>&#8207;[[H5122\|נְוָלִ֣י]]&#8207; </big>**| ne.va.Li<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be made  |**<big>&#8207;[[H7739B\|יִשְׁתַּוֵּ֑ה]]&#8207; </big>**| yish.ta.Veh<small><sup>[[AVMi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as to  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  |**<big>&#8207;[[H6903H\|קֳבֵ֗ל]]&#8207; </big>**| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3809\|לָ֤א]]&#8207; </big>**| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H0383\|אִיתַי֙]]&#8207; </big>**| 'i.Tai<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a god  |**<big>&#8207;[[H0426\|אֱלָ֣ה]]&#8207; </big>**| 'e.Lah<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  |**<big>&#8207;[[H0321\|אָחֳרָ֔ן]]&#8207; </big>**| 'o.cho.Ran<small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is able  |**<big>&#8207;[[H3202\|יִכֻּ֥ל]]&#8207; </big>**| yi.Kul<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to rescue  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5338\|הַצָּלָ֖ה]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> ha.tza.Lah<small><sup>[[AVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like this  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1836\|דְנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ki<small><sup>[[AR]]</sup></small> d.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.28|<< Daniel 3:28]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.30|Daniel 3:30 >>]]</td></tr></table>
 
-[^1]: ==K==: **negligence ** | <small><sup>[[H7955]]</sup></small> <span class="asaramaic"><big>שֵׁלָה</big></span>  | she.lah<small><sup>[[ANcbsa]]</sup></small> 
+[^1]: ==K==: negligence  | **<big>[[H7955|שֵׁלָה]]</big> ** | she.lah<small><sup>[[ANcbsa]]</sup></small> 
 [^2]: ==L== spelled: **<span class="asaramaic"><big>שָׁלֻה֙</big></span>**
 

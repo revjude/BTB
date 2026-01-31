@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אוּלַי‎</span></big> **ʼÛwlay** <small>*(oo-lah'ee)*</small> ==**Ulai**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אוּלַי‎</span></big>** **ʼÛwlay** <small>*(oo-lah'ee)*</small> ==**Ulai**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Ulai.

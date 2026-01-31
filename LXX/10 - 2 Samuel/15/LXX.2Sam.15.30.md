@@ -7,44 +7,44 @@ And David went up by the ascent of [mount] Olivet, and wept as he went up, and h
 But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went.<small><sub>**MT:**</sub></small>
 [[2Sam.15.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.29|<< 2 Samuel 15:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.31|2 Samuel 15:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβαινεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ascent | <big><span class="asgreek">ανάβασιν</span></big> <sup><small><small>[[G6273]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive \[groves\], | <big><span class="asgreek">ελαιών</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβαίνων</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weeping, | <big><span class="asgreek">κλαίων</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ν</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being covered over, | <big><span class="asgreek">επικεκαλυμμένη</span></big> <sup><small><small>[[G1943]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| barefoot. | <big><span class="asgreek">ανυπόδετος</span></big> <sup><small><small>[[G6377]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| covered | <big><span class="asgreek">επεκάλυψεν</span></big> <sup><small><small>[[G1943]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ascended -- | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβαίνοντες</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weeping. | <big><span class="asgreek">κλαίοντες</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| ascended | **<big>[[G0305\|ανέβαινεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ascent | **<big>[[G6273\|ανάβασιν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| olive \[groves\], | **<big>[[G1636\|ελαιών]]</big>** |
+| ascending | **<big>[[G0305\|αναβαίνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weeping, | **<big>[[G2799\|κλαίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ν]]</big>** |
+| his head | **<big>[[G2776\|κεφαλή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| being covered over, | **<big>[[G1943\|επικεκαλυμμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| went | **<big>[[G4198\|επορεύετο]]</big>** |
+| barefoot. | **<big>[[G6377\|ανυπόδετος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people, | **<big>[[G2992\|λαός]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| covered | **<big>[[G1943\|επεκάλυψεν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they ascended -- | **<big>[[G0305\|ανέβαινον]]</big>** |
+| ascending | **<big>[[G0305\|αναβαίνοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weeping. | **<big>[[G2799\|κλαίοντες]]</big>** |
 [[2Sam.15.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.29|<< 2 Samuel 15:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.31|2 Samuel 15:31 >>]]</td></tr></table>
 
 

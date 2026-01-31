@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adna</span> was one of the Israelites who had married foreign women during the Babylonian exile and pledged to put away his foreign wife as part of Ezra's reforms.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.30|Ezr.10.30]]; 
-- only referred to as Adna<[[H5733G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Adna **<big>[[H5733|עַדְנָא]]</big>**.
 
 Adna is mentioned in [[Ezra.10.30|Ezra 10:30]] as one of the Israelites who had married foreign women during the Babylonian exile. After the return from exile, Ezra the scribe led a reform movement to address the issue of intermarriage, which was seen as a violation of God's law and a threat to the identity and purity of the Jewish community. 
 
@@ -16,5 +16,5 @@ No further details are provided about Adna's background, family, or the specific
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adna | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>א</span>](H5733G) <small>*Hebrew*</small> | 1x | [Ezr.10.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adna\*\|reference=Ezr.10.30) |
-All Strong's for **Adna**: \[[[H5733G]]\]
+| Adna | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>א</span>](H5733G) | 1x | [Ezr.10.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adna\*\|reference=Ezr.10.30) |
+All entries for **Adna**:  **<big>[[H5733|עַדְנָא]]</big>**

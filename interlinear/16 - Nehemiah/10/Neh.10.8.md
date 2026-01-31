@@ -6,13 +6,13 @@ Maaziah, Bilgai, and Shemaiah. These were the priests.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.7|<< Nehemiah 10:7]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.9|Nehemiah 10:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Maaziah  | <span class="ashebrew"><big>מַֽעַזְיָ֥ה </big></span><small><small><sup>[[H4590H]]</sup></small></small> &#8207;| ma.'az.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bilgai  | <span class="ashebrew"><big>בִלְגַּ֖י </big></span><small><small><sup>[[H1084]]</sup></small></small> &#8207;| vil.Gai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shemaiah  | <span class="ashebrew"><big>שְׁמַֽעְיָ֑ה </big></span><small><small><sup>[[H8098T]]</sup></small></small> &#8207;| she.ma'.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] the priests  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֹּהֲנִֽים </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.ha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maaziah  |**<big>&#8207;[[H4590H\|מַֽעַזְיָ֥ה]]&#8207; </big>**| ma.'az.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilgai  |**<big>&#8207;[[H1084\|בִלְגַּ֖י]]&#8207; </big>**| vil.Gai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shemaiah  |**<big>&#8207;[[H8098T\|שְׁמַֽעְיָ֑ה]]&#8207; </big>**| she.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.7|<< Nehemiah 10:7]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.9|Nehemiah 10:9 >>]]</td></tr></table>
 
 

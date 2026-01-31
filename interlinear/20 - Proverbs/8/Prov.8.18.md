@@ -6,14 +6,14 @@ With me are riches and honor, enduring wealth and righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.17|<< Proverbs 8:17]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.19|Proverbs 8:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| wealth  | <span class="ashebrew"><big>עֹֽשֶׁר </big></span><small><small><sup>[[H6239]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'o.sher- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and honor  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָב֥וֹד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha.Vod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] with me  | <span class="ashebrew"><big>אִתִּ֑ </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'i.T <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wealth  | <span class="ashebrew"><big>ה֥וֹן </big></span><small><small><sup>[[H1952]]</sup></small></small> &#8207;| Hon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enduring  | <span class="ashebrew"><big>עָ֝תֵ֗ק </big></span><small><small><sup>[[H6276]]</sup></small></small> &#8207;| 'a.Tek <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and righteousness  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צְדָקָֽה </big></span><small><small><sup>[[H6666]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> tze.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth  |**<big>&#8207;[[H6239\|עֹֽשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o.sher-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and honor  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3519\|כָב֥וֹד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] with me  |**<big>&#8207;[[H0854\|אִתִּ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.T<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth  |**<big>&#8207;[[H1952\|ה֥וֹן]]&#8207; </big>**| Hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enduring  |**<big>&#8207;[[H6276\|עָ֝תֵ֗ק]]&#8207; </big>**| 'a.Tek<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and righteousness  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6666\|צְדָקָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.17|<< Proverbs 8:17]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.19|Proverbs 8:19 >>]]</td></tr></table>
 
 

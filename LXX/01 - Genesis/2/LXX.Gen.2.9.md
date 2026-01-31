@@ -11,43 +11,43 @@ Out of the ground the LORD God gave growth to every tree that is pleasing to the
 > $\quad$ referenced by: [[Rev.2.7|Rev 2:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| caused to rise up | <big><span class="asgreek">εξανέτειλεν</span></big> <sup><small><small>[[G1816]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραίον</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] sight, | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| food, | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| paradise, | <big><span class="asgreek">παραδείσου</span></big> <sup><small><small>[[G3857]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree, | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to know | <big><span class="asgreek">ειδέναι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γνωστόν</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
-| good | <big><span class="asgreek">καλού</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| evil. | <big><span class="asgreek">πονηρού</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| caused to rise up | **<big>[[G1816\|εξανέτειλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| beautiful | **<big>[[G5611\|ωραίον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] sight, | **<big>[[G3706\|όρασιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| food, | **<big>[[G1035\|βρώσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| paradise, | **<big>[[G3857\|παραδείσου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tree, | **<big>[[G3586\|ξύλον]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| to know | **<big>[[G1492\|ειδέναι]]</big>** |
+| knowing | **<big>[[G1110\|γνωστόν]]</big>** |
+| good | **<big>[[G2570\|καλού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| evil. | **<big>[[G4190\|πονηρού]]</big>** |
 [[Gen.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.8|<< Genesis 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.10|Genesis 2:10 >>]]</td></tr></table>
 
 

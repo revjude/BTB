@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֶּבֶק‎</span></big> **debeq** <small>*(deh'-bek)*</small> ==**joint**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּבַק‎</span><sup><small>[[H1692]]</small></sup></small>
+**<big><span class="ashebrew">‎דֶּבֶק‎</span></big>** **debeq** <small>*(deh'-bek)*</small> ==**joint**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1692|‎דָּבַק‎]]</big>**</small>
 
 $\quad$ joint, solder.
 - ***a joint***

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שְׂדֵרָה‎</span></big> **sᵉdêrâh** <small>*(sed-ay-raw')*</small> ==**rank**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎שְׂדֵרָה‎</span></big>** **sᵉdêrâh** <small>*(sed-ay-raw')*</small> ==**rank**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to regulate</small>
 
 $\quad$ board, range.

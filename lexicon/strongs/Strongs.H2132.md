@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַיִת‎</span></big> **zayith** <small>*(zay'-yith)*</small> ==**(Mount of) Olives**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from an unused root (akin to <span class="ashebrew">‎זִו‎</span><sup><small>[[H2099]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זַיִת‎</span></big>** **zayith** <small>*(zay'-yith)*</small> ==**(Mount of) Olives**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from an unused root (akin to **<big>[[H2099|‎זִו‎]]</big>**)</small>
 
 $\quad$ olive (tree, -yard), Olivet.
 - ***an olive*** (as yielding illuminating oil), ***the tree***, ***the branch*** or ***the berry***
@@ -11,4 +11,4 @@ $\quad$ **1b)** olives
 n pr loc
 **2)** mountain facing Jerusalem on the east side
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐλαία</span><sup><small>[[G1636]]</small></sup> · <span class="asgreek">ἐλαιών</span><sup><small>[[G1638]]</small></sup>
+<small>See Greek: </small>**<big>[[G1636|ἐλαία]]</big>** · **<big>[[G1638|ἐλαιών]]</big>**

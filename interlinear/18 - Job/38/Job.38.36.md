@@ -6,17 +6,17 @@ Who has put wisdom in the heart or given understanding to the mind?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.35|<< Job 38:35]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.37|Job 38:37 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi.Sha- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| has he put  | <span class="ashebrew"><big>שָׁ֭ת </big></span><small><small><sup>[[H7896H]]</sup></small></small> &#8207;| Sha.t <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the inner parts  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>טֻּח֣וֹת </big></span><small><small><sup>[[H2910]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> tu.Chot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֑ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֤וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who?  | <span class="ashebrew"><big>מִֽי </big></span><small><small><sup>[[H4310]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| has he given  | <span class="ashebrew"><big>נָתַ֖ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| na.Tan <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the heart  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֶּׂ֣כְוִי </big></span><small><small><sup>[[H7907]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Sekh.vi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding  | <span class="ashebrew"><big>בִינָֽה </big></span><small><small><sup>[[H0998]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| vi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.Sha-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has he put  |**<big>&#8207;[[H7896H\|שָׁ֭ת]]&#8207; </big>**| Sha.t<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the inner parts  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2910\|טֻּח֣וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tu.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֑ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֤וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has he given  |**<big>&#8207;[[H5414G\|נָתַ֖ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the heart  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7907\|שֶּׂ֣כְוִי]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Sekh.vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding  |**<big>&#8207;[[H0998\|בִינָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| vi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.35|<< Job 38:35]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.37|Job 38:37 >>]]</td></tr></table>
 
 

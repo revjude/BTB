@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טֶלֶם‎</span></big> **Ṭelem** <small>*(teh'-lem)*</small> ==**Telem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎טֶלֶם‎</span></big>** **Ṭelem** <small>*(teh'-lem)*</small> ==**Telem**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root meaning to break up or treat violently; oppression</small>
 
 $\quad$ Telem.

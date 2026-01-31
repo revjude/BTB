@@ -11,25 +11,25 @@ Therefore I have hewn them by the prophets; I have slain them by the words of My
 > $\quad$ referenced by: [[Eph.6.17|Eph 6:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I mowed | <big><span class="asgreek">απεθέρισα</span></big> <sup><small><small>[[G6428]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets; | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| I killed | <big><span class="asgreek">απέκτεινα</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] discourse | <big><span class="asgreek">ρήματι</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of my mouth; | <big><span class="asgreek">στόματός</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judgment | <big><span class="asgreek">κρίμά</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| shall go forth. | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I mowed | **<big>[[G6428\|απεθέρισα]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| by the | **<big>[[G3588\|τους]]</big>** |
+| prophets; | **<big>[[G4396\|προφήτας]]</big>** |
+| I killed | **<big>[[G0615\|απέκτεινα]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] discourse | **<big>[[G4487\|ρήματι]]</big>** |
+| of my mouth; | **<big>[[G4750\|στόματός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your judgment | **<big>[[G2917\|κρίμά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| shall go forth. | **<big>[[G1831\|εξελεύσεται]]</big>** |
 [[Hos.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.4|<< Hosea 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.6|Hosea 6:6 >>]]</td></tr></table>
 
 

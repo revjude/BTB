@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֶמֶשׁ‎</span></big> **ʼemesh** <small>*(eh'-mesh)*</small> ==**last night**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+**<big><span class="ashebrew">‎אֶמֶשׁ‎</span></big>** **ʼemesh** <small>*(eh'-mesh)*</small> ==**last night**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
 <small>time past, i.e.</small>
 
 $\quad$ former time, yesterday(-night)

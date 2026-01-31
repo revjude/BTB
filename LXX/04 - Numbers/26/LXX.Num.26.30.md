@@ -7,22 +7,22 @@ These [are] the sons of Gilead: [of] Jeezer, the family of the Jeezerites: of He
 These were the descendants of Gilead: the Iezerite clan from Iezer, the Helekite clan from Helek,<small><sub>**MT:**</sub></small>
 [[Num.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.29|<< Numbers 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.31|Numbers 26:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gilead -- | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeezer, | <big><span class="asgreek">Αχιεζέρ</span></big> <sup><small><small>[[H0373]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jeezerites; | <big><span class="asgreek">Αχιεζερί</span></big> <sup><small><small>[[H0373]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Helek, | <big><span class="asgreek">Χελέγ</span></big> <sup><small><small>[[H2507]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Helekites; | <big><span class="asgreek">Χελεγί</span></big> <sup><small><small>[[H2516]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[are\] | **<big>[[G3778\|ούτοι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Gilead -- | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jeezer, | **<big>[[H0373\|Αχιεζέρ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jeezerites; | **<big>[[H0373\|Αχιεζερί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Helek, | **<big>[[H2507\|Χελέγ]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Helekites; | **<big>[[H2516\|Χελεγί]]</big>** |
 [[Num.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.29|<< Numbers 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.31|Numbers 26:31 >>]]</td></tr></table>
 
 

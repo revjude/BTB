@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָמוֹן‎</span></big> **ʼÂmôwn** <small>*(aw-mone')*</small> ==**Amon**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>of Egyptian derivation; used only as an adjunct of <span class="ashebrew">‎נֹא‎</span><sup><small>[[H4996]]</small></sup></small>
+**<big><span class="ashebrew">‎אָמוֹן‎</span></big>** **ʼÂmôwn** <small>*(aw-mone')*</small> ==**Amon**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>of Egyptian derivation; used only as an adjunct of **<big>[[H4996|‎נֹא‎]]</big>**</small>
 
 $\quad$ multitude, populous.
 - § Amon or Amun = *"to nourish: to be faithful"*

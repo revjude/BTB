@@ -7,42 +7,42 @@ I also will do this unto you; I will even appoint over you terror, consumption, 
 then this is what I will do to you: I will bring upon you sudden terror, wasting disease, and fever that will destroy your sight and drain your life. You will sow your seed in vain, because your enemies will eat it.<small><sub>**MT:**</sub></small>
 [[Lev.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.15|<< Leviticus 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.17|Leviticus 26:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will to set | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perplexity, | <big><span class="asgreek">απορίαν</span></big> <sup><small><small>[[G0640]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| \[the\] mange, | <big><span class="asgreek">ψώραν</span></big> <sup><small><small>[[G9805]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| jaundice, | <big><span class="asgreek">ίκτερον</span></big> <sup><small><small>[[G7716]]</small></small></sup> |
-| inflaming | <big><span class="asgreek">σφακελίζοντας</span></big> <sup><small><small>[[G9364]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wasting away. | <big><span class="asgreek">εκτήκουσαν</span></big> <sup><small><small>[[G7152]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall sow | <big><span class="asgreek">σπερείτε</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| ineffectually | <big><span class="asgreek">διακενής</span></big> <sup><small><small>[[G6833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your seeds, | <big><span class="asgreek">σπέρματα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">έδονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your opponents | <big><span class="asgreek">υπεναντίοι</span></big> <sup><small><small>[[G5227]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will to set | **<big>[[G2186\|επιστήσω]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| perplexity, | **<big>[[G0640\|απορίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| and also | **<big>[[G5037\|τε]]</big>** |
+| \[the\] mange, | **<big>[[G9805\|ψώραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| jaundice, | **<big>[[G7716\|ίκτερον]]</big>** |
+| inflaming | **<big>[[G9364\|σφακελίζοντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| of your eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your life | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| wasting away. | **<big>[[G7152\|εκτήκουσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall sow | **<big>[[G4687\|σπερείτε]]</big>** |
+| ineffectually | **<big>[[G6833\|διακενής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of your seeds, | **<big>[[G4690\|σπέρματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall eat | **<big>[[G2068\|έδονται]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your opponents | **<big>[[G5227\|υπεναντίοι]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.15|<< Leviticus 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.17|Leviticus 26:17 >>]]</td></tr></table>
 
 

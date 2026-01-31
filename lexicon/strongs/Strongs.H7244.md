@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎רְבִיעַי‎</span></big> **rᵉbîyʻay** <small>*(reb-ee-ah'-ee)*</small> ==**fourth**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎רְבִיעִי‎</span><sup><small>[[H7243]]</small></sup></small>
+**<big><span class="asaramaic">‎רְבִיעַי‎</span></big>** **rᵉbîyʻay** <small>*(reb-ee-ah'-ee)*</small> ==**fourth**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7243|‎רְבִיעִי‎]]</big>**</small>
 
 $\quad$ fourth.
 - {***fourth***

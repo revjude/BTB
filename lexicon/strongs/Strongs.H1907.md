@@ -1,4 +1,4 @@
-<big><span class="asaramaic">‎הַדָּבָר‎</span></big> **haddâbâr** <small>*(had-daw-bawr')*</small> ==**counselor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+**<big><span class="asaramaic">‎הַדָּבָר‎</span></big>** **haddâbâr** <small>*(had-daw-bawr')*</small> ==**counselor**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
 <small>(Aramaic) probably of foreign origin</small>
 
 $\quad$ counsellor.
@@ -6,4 +6,4 @@ $\quad$ counsellor.
 
 **1)** counsellor, minister
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">μεγιστᾶνες</span><sup><small>[[G3175]]</small></sup>
+<small>See Greek: </small>**<big>[[G1413|δυνάστης]]</big>** · **<big>[[G3175|μεγιστᾶνες]]</big>**

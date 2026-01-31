@@ -6,26 +6,26 @@ So this Sheshbazzar came and laid the foundation of the house of God in Jerusale
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.15|<< Ezra 5:15]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.17|Ezra 5:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| then  | <span class="asaramaic"><big>אֱדַ֙יִן֙ </big></span><small><small><sup>[[H0116]]</sup></small></small> &#8207;| 'e.Da.yin <small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sheshbazzar  | <span class="ashebrew"><big>שֵׁשְׁבַּצַּ֣ר </big></span><small><small><sup>[[H8340]]</sup></small></small> &#8207;| she.she.ba.Tzar <small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="asaramaic"><big>דֵּ֔ךְ </big></span><small><small><sup>[[H1791]]</sup></small></small> &#8207;| Dekh <small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he came  | <span class="asaramaic"><big>אֲתָ֗א </big></span><small><small><sup>[[H0858]]</sup></small></small> &#8207;| 'a.Ta' <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he laid  | <span class="asaramaic"><big>יְהַ֧ב </big></span><small><small><sup>[[H3052]]</sup></small></small> &#8207;| ye.Hav <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foundations the  | <span class="asaramaic"><big>אֻשַּׁיָּ֛ </big></span><small><small><sup>[[H0787]]</sup></small></small> <span class="asaramaic"><big>א </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| 'u.shai.Ya <small><sup>[[ANcmpd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of  | <span class="asaramaic"><big>דִּי </big></span><small><small><sup>[[H1768]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| di- <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house of  | <span class="asaramaic"><big>בֵ֥ית </big></span><small><small><sup>[[H1005]]</sup></small></small> &#8207;| veit <small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  | <span class="ashebrew"><big>אֱלָהָ֖ </big></span><small><small><sup>[[H0426]]</sup></small></small> <span class="ashebrew"><big>א </big></span><small><small><sup>[[H9010]]</sup></small></small> &#8207;| 'e.la.Ha <small><sup>[[ANcbsd]]</sup></small> ' <small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="asaramaic"><big>דִּ֣י </big></span><small><small><sup>[[H1768]]</sup></small></small> &#8207;| di <small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in Jerusalem  | <span class="asaramaic"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="asaramaic"><big>ירוּשְׁלֶ֑ם </big></span><small><small><sup>[[H3390]]</sup></small></small> &#8207;| vi. <small><sup>[[AR]]</sup></small> ru.she.Lem <small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and from  | <span class="asaramaic"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>מִן </big></span><small><small><sup>[[H4481]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[AC]]</sup></small> min- <small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="asaramaic"><big>אֱדַ֧יִן </big></span><small><small><sup>[[H0116]]</sup></small></small> &#8207;| 'e.Da.yin <small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and until  | <span class="asaramaic"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>עַד </big></span><small><small><sup>[[H5705]]</sup></small></small> <span class="asaramaic"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[AC]]</sup></small> 'ad- <small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  | <span class="asaramaic"><big>כְּעַ֛ן </big></span><small><small><sup>[[H3705]]</sup></small></small> &#8207;| ke.'An <small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] being built  | <span class="asaramaic"><big>מִתְבְּנֵ֖א </big></span><small><small><sup>[[H1124]]</sup></small></small> &#8207;| mit.be.Ne' <small><sup>[[AVurmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="asaramaic"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="asaramaic"><big>לָ֥א </big></span><small><small><sup>[[H3809]]</sup></small></small> &#8207;| ve. <small><sup>[[AC]]</sup></small> La' <small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] finished  | <span class="asaramaic"><big>שְׁלִֽם </big></span><small><small><sup>[[H8000]]</sup></small></small> <span class="asaramaic"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.Lim <small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0116\|אֱדַ֙יִן֙]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheshbazzar  |**<big>&#8207;[[H8340\|שֵׁשְׁבַּצַּ֣ר]]&#8207; </big>**| she.she.ba.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H1791\|דֵּ֔ךְ]]&#8207; </big>**| Dekh<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he came  |**<big>&#8207;[[H0858\|אֲתָ֗א]]&#8207; </big>**| 'a.Ta'<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he laid  |**<big>&#8207;[[H3052\|יְהַ֧ב]]&#8207; </big>**| ye.Hav<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foundations the  |**<big>&#8207;[[H0787\|אֻשַּׁיָּ֛]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'u.shai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  |**<big>&#8207;[[H1768\|דִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1005\|בֵ֥ית]]&#8207; </big>**| veit<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H0426\|אֱלָהָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'e.la.Ha<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in Jerusalem  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3390\|ירוּשְׁלֶ֑ם]]&#8207; </big>**| vi.<small><sup>[[AR]]</sup></small> ru.she.Lem<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0116\|אֱדַ֧יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and until  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5705\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'ad-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H3705\|כְּעַ֛ן]]&#8207; </big>**| ke.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] being built  |**<big>&#8207;[[H1124\|מִתְבְּנֵ֖א]]&#8207; </big>**| mit.be.Ne'<small><sup>[[AVurmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3809\|לָ֥א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> La'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] finished  |**<big>&#8207;[[H8000\|שְׁלִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Lim<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.15|<< Ezra 5:15]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.17|Ezra 5:17 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻזִּיָּה‎</span></big> **ʻUzzîyâh** <small>*(ooz-zee-yaw')*</small> ==**Uzziah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עֻזִּיָּהוּ</span> **ʻUzzîyâhûw** <small>*(ooz-zeeyaw'-hoo)*</small>; from <span class="ashebrew">‎עֹז‎</span><sup><small>[[H5797]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; strength of Jah</small>
+**<big><span class="ashebrew">‎עֻזִּיָּה‎</span></big>** **ʻUzzîyâh** <small>*(ooz-zee-yaw')*</small> ==**Uzziah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֻזִּיָּהוּ</span></big>** **ʻUzzîyâhûw** <small>*(ooz-zeeyaw'-hoo)*</small>; from **<big>[[H5797|‎עֹז‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; strength of Jah</small>
 
 $\quad$ Uzziah.
 - § Uzziah = *"my strength is Jehovah"*
@@ -11,4 +11,4 @@ $\quad$ Uzziah.
 **4)** a Judaite, father of Athaiah or Uthai
 **5)** father of Jehonathan, one of David's overseers
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ὀζίας</span><sup><small>[[G3604]]</small></sup>
+<small>See Greek: </small>**<big>[[G3604|Ὀζίας]]</big>**

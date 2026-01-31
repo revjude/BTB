@@ -7,35 +7,35 @@ And I will restore to you the years that the locust hath eaten, the cankerworm, 
 I will repay you for the years eaten by locusts—the swarming locust, the young locust, the destroying locust, and the devouring locust—My great army that I sent against you.<small><sub>**MT:**</sub></small>
 [[Joel.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.24|<< Joel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.26|Joel 2:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will recompense | <big><span class="asgreek">ανταποδώσω</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| devoured | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blight | <big><span class="asgreek">ερυσίβη</span></big> <sup><small><small>[[G7511]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grasshopper | <big><span class="asgreek">βρούχος</span></big> <sup><small><small>[[G6700]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| locust, | <big><span class="asgreek">ακρίς</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| caterpillar, | <big><span class="asgreek">κάμπη</span></big> <sup><small><small>[[G7791]]</small></small></sup> |
-| \[by\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δύναμίς</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I sent out | <big><span class="asgreek">εξαπέστειλα</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will recompense | **<big>[[G0467\|ανταποδώσω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| years | **<big>[[G2094\|ετών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| devoured | **<big>[[G2719\|κατέφαγεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| blight | **<big>[[G7511\|ερυσίβη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| grasshopper | **<big>[[G6700\|βρούχος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| locust, | **<big>[[G0200\|ακρίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| caterpillar, | **<big>[[G7791\|κάμπη]]</big>** |
+| \[by\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| force | **<big>[[G1411\|δύναμίς]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I sent out | **<big>[[G1821\|εξαπέστειλα]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
 [[Joel.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.24|<< Joel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.26|Joel 2:26 >>]]</td></tr></table>
 
 

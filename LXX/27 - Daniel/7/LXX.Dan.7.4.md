@@ -7,36 +7,36 @@ The first [was] like a lion, and had eagle’s wings: I beheld till the wings th
 The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man and given the mind of a man.<small><sub>**MT:**</sub></small>
 [[Dan.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.3|<< Daniel 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.5|Daniel 7:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτον</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| \[was\] as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a lioness, | <big><span class="asgreek">λέαινα</span></big> <sup><small><small>[[G8170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| her wings | <big><span class="asgreek">πτερά</span></big> <sup><small><small>[[G8975]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] of an eagle. | <big><span class="asgreek">αετου</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| I viewed | <big><span class="asgreek">εθεώρουν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were plucked | <big><span class="asgreek">εξετίλη</span></big> <sup><small><small>[[G7154]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her wings | <big><span class="asgreek">πτερά</span></big> <sup><small><small>[[G8975]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she was lifted away | <big><span class="asgreek">εξήρθη</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| she stood, | <big><span class="asgreek">εστάθη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| was given | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|το]]</big>** |
+| first | **<big>[[G4413\|πρώτον]]</big>** |
+| \[was\] as | **<big>[[G5616\|ωσεί]]</big>** |
+| a lioness, | **<big>[[G8170\|λέαινα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| her wings | **<big>[[G8975\|πτερά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[were\] of an eagle. | **<big>[[G0105\|αετου]]</big>** |
+| I viewed | **<big>[[G2334\|εθεώρουν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| were plucked | **<big>[[G7154\|εξετίλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her wings | **<big>[[G8975\|πτερά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she was lifted away | **<big>[[G1808\|εξήρθη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] feet | **<big>[[G4228\|ποδών]]</big>** |
+| of a man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| she stood, | **<big>[[G2476\|εστάθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of a man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| was given | **<big>[[G1325\|εδόθη]]</big>** |
+| to her. | **<big>[[G1473\|αυτή]]</big>** |
 [[Dan.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.3|<< Daniel 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.5|Daniel 7:5 >>]]</td></tr></table>
 
 

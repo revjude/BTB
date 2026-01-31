@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֲזָא‎</span></big> **chăzâʼ** <small>*(khaz-aw')*</small> ==**to see**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">חֲזָה</span> **chăzâh** <small>*(khaz-aw')*</small>; (Aramaic), corresponding to <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup></small>
+**<big><span class="asaramaic">‎חֲזָא‎</span></big>** **chăzâʼ** <small>*(khaz-aw')*</small> ==**to see**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">חֲזָה</span></big>** **chăzâh** <small>*(khaz-aw')*</small>; (Aramaic), corresponding to **<big>[[H2372|‎חָזָה‎]]</big>**</small>
 
 $\quad$ behold, have (a dream), see, be wont.
 - ***to gaze upon***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשְׂרָאֵל‎</span></big> **Yisrâʼêl** <small>*(yis-raw-ale')*</small> ==**Israel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂרָה‎</span><sup><small>[[H8280]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; he will rule as God</small>
+**<big><span class="ashebrew">‎יִשְׂרָאֵל‎</span></big>** **Yisrâʼêl** <small>*(yis-raw-ale')*</small> ==**Israel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8280|‎שָׂרָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; he will rule as God</small>
 
 $\quad$ Israel.
 - § Israel = *"God prevails"*
@@ -12,4 +12,4 @@ $\quad$ **2a)** the name of the nation until the death of Solomon and the split
 $\quad$ **2b)** the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah
 $\quad$ **2c)** the name of the nation after the return from exile
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰσραήλ</span><sup><small>[[G2474]]</small></sup>
+<small>See Greek: </small>**<big>[[G2474|Ἰσραήλ]]</big>**

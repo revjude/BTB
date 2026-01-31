@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עֵר‎</span> <small>***(er)***</small> ==**Er**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.4.21|1Ch.4.21]]
--  son of: Shelah ([[H7956]])
--  brother of: Laadah ([[H3935]]), Jokim ([[H3137]]), Joash ([[H3101K]]) and Saraph ([[H8315]])
--  father of: Lecah ([[H3922]])
+-  son of: Shelah (**<big>[[H7956|שֵׁלָה]]</big>**)
+-  brother of: Laadah (**<big>[[H3935|לַעְדָּה]]</big>**), Jokim (**<big>[[H3137|יוֹקִים]]</big>**), Joash (**<big>[[H3101K|יוֹאָשׁ]]</big>**) and Saraph (**<big>[[H8315|שָׂרָף]]</big>**)
+-  father of: Lecah (**<big>[[H3922|לֵכָה]]</big>**)

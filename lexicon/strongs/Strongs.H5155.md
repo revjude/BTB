@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְחִילָה‎</span></big> **nᵉchîylâh** <small>*(nekh-ee-law')*</small> ==**flute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>probably denominative from <span class="ashebrew">‎חָלִיל‎</span><sup><small>[[H2485]]</small></sup></small>
+**<big><span class="ashebrew">‎נְחִילָה‎</span></big>** **nᵉchîylâh** <small>*(nekh-ee-law')*</small> ==**flute**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>probably denominative from **<big>[[H2485|‎חָלִיל‎]]</big>**</small>
 
 $\quad$ (plural) Nehiloth.
 - ***a flute***

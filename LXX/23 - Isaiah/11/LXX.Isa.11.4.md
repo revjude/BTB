@@ -11,32 +11,32 @@ but with righteousness He will judge the poor, and with equity He will decide fo
 > $\quad$ referenced by: [[Eph.6.17|Eph 6:17]] ☩ [[2Thess.2.8|2Thess 2:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| he shall judge | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| \[of the\] lowly | <big><span class="asgreek">ταπεινώ</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| \[the\] case | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall reprove | <big><span class="asgreek">ελέγξει</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| for the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lowly | <big><span class="asgreek">ταπεινούς</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall strike | <big><span class="asgreek">πατάξει</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| by the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his mouth; | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] breath | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[his\] lips | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| he shall do away with | <big><span class="asgreek">ανελεί</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| \[the\] impious. | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| he shall judge | **<big>[[G2919\|κρινεί]]</big>** |
+| \[of the\] lowly | **<big>[[G5011\|ταπεινώ]]</big>** |
+| \[the\] case | **<big>[[G2920\|κρίσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall reprove | **<big>[[G1651\|ελέγξει]]</big>** |
+| for the | **<big>[[G3588\|τους]]</big>** |
+| lowly | **<big>[[G5011\|ταπεινούς]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall strike | **<big>[[G3960\|πατάξει]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γην]]</big>** |
+| by the | **<big>[[G3588\|τω]]</big>** |
+| word | **<big>[[G3056\|λόγω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his mouth; | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] breath | **<big>[[G4151\|πνεύματι]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \[his\] lips | **<big>[[G5491\|χειλέων]]</big>** |
+| he shall do away with | **<big>[[G0337\|ανελεί]]</big>** |
+| \[the\] impious. | **<big>[[G0765\|ασεβή]]</big>** |
 [[Isa.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.3|<< Isaiah 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.5|Isaiah 11:5 >>]]</td></tr></table>
 
 

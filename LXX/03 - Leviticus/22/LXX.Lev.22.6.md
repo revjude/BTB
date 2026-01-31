@@ -7,27 +7,27 @@ The soul which hath touched any such shall be unclean until even, and shall not 
 the man who touches any of these will remain unclean until evening. He must not eat from the sacred offerings unless he has bathed himself with water.<small><sub>**MT:**</sub></small>
 [[Lev.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.5|<< Leviticus 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.7|Leviticus 22:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| who | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should touch | <big><span class="asgreek">άψηται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening; | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat | <big><span class="asgreek">έδεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| have bathed | <big><span class="asgreek">λούσηται</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in water. | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| \[the\] soul | **<big>[[G5590\|ψυχή]]</big>** |
+| who | **<big>[[G3748\|ήτις]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should touch | **<big>[[G0680\|άψηται]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| will be unclean | **<big>[[G0169\|ακάθαρτος]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening; | **<big>[[G2073\|εσπέρας]]</big>** |
+| he shall not | **<big>[[G3756\|ουκ]]</big>** |
+| eat | **<big>[[G2068\|έδεται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| holy \[things\] | **<big>[[G0039\|αγίων]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| he should not | **<big>[[G3361\|μη]]</big>** |
+| have bathed | **<big>[[G3068\|λούσηται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his body | **<big>[[G4983\|σώμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in water. | **<big>[[G5204\|ύδατι]]</big>** |
 [[Lev.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.5|<< Leviticus 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.7|Leviticus 22:7 >>]]</td></tr></table>
 
 

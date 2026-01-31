@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Daberath</span> was a Levitical city located in the territory of Issachar, later given to the Levites of the Gershonite clan.
 - A location first mentioned at [[Josh.19.12|Jos.19.12]]; 
-- only referred to as Daberath<[[H1705]]> \(<span class='tipnrLangHebrew'>ד</span>ָּֽ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Daberath **<big>[[H1705|דֲּבְרַת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.69171267584284,35.37171031061986&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from its designation as a Levitical city and its location on the border of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Daberath | [<span class='tipnrLangHebrew'>ד</span>ָּֽ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ת</span>](H1705) <small>*Hebrew*</small> | 3x | [[Jos.19.12] ... [1Ch.6.72] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Daberath\*\|reference=Jos.19.12;Jos.21.28;1Ch.6.72) |
-All Strong's for **Daberath**: \[[[H1705]]\]
+| Daberath | [<span class='tipnrLangHebrew'>ד</span>ָּֽ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ת</span>](H1705) | 3x | [[Jos.19.12] ... [1Ch.6.72] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Daberath\*\|reference=Jos.19.12;Jos.21.28;1Ch.6.72) |
+All entries for **Daberath**:  **<big>[[H1705|דֲּבְרַת]]</big>**

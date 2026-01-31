@@ -1,8 +1,8 @@
 <small>*Valley of Jezreel • A fertile valley in northern Israel, site of many battles*</small>
 
 The <span class='tipnrhighlight'>Jezreel Valley</span>, a strategically important and fertile valley in northern Israel, was the site of several significant battles in the Bible.
-- A location near Jezreel<[[H3157H]]> first mentioned at [[Josh.17.16|Jos.17.16]]; 
-- only referred to as Jezreel\_Valley<[[H3157L]]><[[H6010M]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>אל</span> <span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- A location near Jezreel **<big>[[H3157|יִזְרְעֵאל]]</big>** first mentioned at [[Josh.17.16|Jos.17.16]]; 
+- only referred to as Jezreel\_Valley **<big>[[H3157|יִזְרְעֵאל]]</big>** **<big>[[H6010|עֵמֶק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.5559631396043,35.33078927843792&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Jezreel Valley, also known as the Plain of Esdraelon, is a large, fertile va
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Jezreel | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>אל</span>](H3157L)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010M) <small>*Hebrew*</small> | 3x | [[Jos.17.16] ... [Hos.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jos.17.16;Jdg.6.33;Hos.1.5) |
-All Strong's for **Jezreel_Valley**: \[[[H3157L]]\]
+| Valley/ of Jezreel | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>אל</span>](H3157L)[<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H6010M) | 3x | [[Jos.17.16] ... [Hos.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Jos.17.16;Jdg.6.33;Hos.1.5) |
+All entries for **Jezreel Valley**:  **<big>[[H3157|יִזְרְעֵאל]]</big>**

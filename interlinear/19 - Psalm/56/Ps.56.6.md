@@ -6,18 +6,18 @@ They conspire, they lurk, they watch my steps while they wait to take my life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.5|<< Psalms 56:5]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.7|Psalms 56:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they stir up trouble  | <span class="ashebrew"><big>יָג֤וּרוּ </big></span><small><small><sup>[[H1481B]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ya.Gu.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they lie hidden  [^1] | <span class="ashebrew"><big>יִצְפּ֗וֹנוּ </big></span><small><small><sup>[[H6845]]</sup></small></small> &#8207;[^2] | yitz.Po.nu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֭מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heels my  | <span class="ashebrew"><big>עֲקֵבַ֣ </big></span><small><small><sup>[[H6119]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.ke.Va <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they watch for  | <span class="ashebrew"><big>יִשְׁמֹ֑רוּ </big></span><small><small><sup>[[H8104I]]</sup></small></small> &#8207;| yish.Mo.ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| just as  | <span class="ashebrew"><big>כַּ֝ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲשֶׁ֗ר </big></span><small><small><sup>[[H0834D]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have waited for  | <span class="ashebrew"><big>קִוּ֥וּ </big></span><small><small><sup>[[H6960A]]</sup></small></small> &#8207;| ki.Vu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life my  | <span class="ashebrew"><big>נַפְשִֽׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they stir up trouble  |**<big>&#8207;[[H1481B\|יָג֤וּרוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they lie hidden  [^1]|**<big>&#8207;[[H6845\|יִצְפּ֗וֹנוּ]]&#8207; </big>**[^2] | yitz.Po.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֭מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heels my  |**<big>&#8207;[[H6119\|עֲקֵבַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.ke.Va<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they watch for  |**<big>&#8207;[[H8104I\|יִשְׁמֹ֑רוּ]]&#8207; </big>**| yish.Mo.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ֝]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֗ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have waited for  |**<big>&#8207;[[H6960A\|קִוּ֥וּ]]&#8207; </big>**| ki.Vu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  |**<big>&#8207;[[H5315H\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.5|<< Psalms 56:5]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.7|Psalms 56:7 >>]]</td></tr></table>
 
-[^1]: ==K==: **they lie hidden ** | <small><sup>[[H6845]]</sup></small> <span class="ashebrew"><big>יַצְפִּינוּ</big></span>  | yitz.Po.nu<small><sup>[[HVhi3mp]]</sup></small> 
+[^1]: ==K==: they lie hidden  | **<big>[[H6845|יַצְפִּינוּ]]</big> ** | yitz.Po.nu<small><sup>[[HVhi3mp]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>יִצְפֹּ֗ינוּ</big></span>**
 

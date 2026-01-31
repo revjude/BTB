@@ -4,9 +4,9 @@ Man living at the time before the Flood
 
 <span class='tipnrhighlight'>Abel</span>, the second son of Adam and Eve, was a shepherd who was killed by his brother Cain.
 - A man living at the time before the Flood, first mentioned at Gen.4.2; 
-- referred to as Abel<[[H1893]]> \(<span class='tipnrLangHebrew'>ה</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ל</span>\), or Abel<[[G0006]]> \(<span class='tipnrLangGreek'>Ἄβελ</span>\); 
--  son of Adam<[[H0121G]]> and Eve<[[H2332]]>; 
-- a brother of Cain<[[H7014B]]> and Seth<[[H8352]]>.
+- referred to as Abel **<big>[[H1893|הֶבֶל]]</big>**, or Abel **<big>[[G0006|Ἄβελ]]</big>**; 
+-  son of Adam **<big>[[H0121|אָדָם]]</big>** and Eve **<big>[[H2332|חַוָּה]]</big>**; 
+- a brother of Cain **<big>[[H7014|קַיִן]]</big>** and Seth **<big>[[H8352|שֵׁת]]</big>**.
 
 Abel was the second son of Adam and Eve, born after his brother Cain. He was a shepherd, while Cain was a farmer. Both brothers brought offerings to God, but God accepted Abel's offering and rejected Cain's. This led to Cain's jealousy and anger, and he killed Abel in a field. 
 
@@ -14,9 +14,9 @@ God confronted Cain about Abel's murder, and as a result, Cain was cursed to be 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abel | [<span class='tipnrLangHebrew'>ה</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H1893) <small>*Hebrew*</small> | 8x | [[Gen.4.2a] ... [Gen.4.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abel\*\|reference=Gen.4.2;Gen.4.2;Gen.4.4;Gen.4.4;Gen.4.8;Gen.4.8;Gen.4.9;Gen.4.25) |
-| Abel | [<span class='tipnrLangGreek'>Ἄβελ</span>](G0006) <small>*Greek*</small> | 4x | [[Mat.23.35] ... [Heb.12.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abel\*\|reference=Mat.23.35;Luk.11.51;Heb.11.4;Heb.12.24) |
-All Strong's for **Abel**: \[[[H1893]]\] \[[[G0006]]\]
+| Abel | [<span class='tipnrLangHebrew'>ה</span>ֶ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H1893) | 8x | [[Gen.4.2a] ... [Gen.4.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abel\*\|reference=Gen.4.2;Gen.4.2;Gen.4.4;Gen.4.4;Gen.4.8;Gen.4.8;Gen.4.9;Gen.4.25) |
+| Abel | [<span class='tipnrLangGreek'>Ἄβελ</span>](G0006) | 4x | [[Mat.23.35] ... [Heb.12.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abel\*\|reference=Mat.23.35;Luk.11.51;Heb.11.4;Heb.12.24) |
+All entries for **Abel**:  **<big>[[H1893|הֶבֶל]]</big>** ☩  **<big>[[G0006|Ἄβελ]]</big>**
 #### Related Profiles:
 - **[Adam](H0121G)** (father)
 - **[Eve](H2332)** (mother)

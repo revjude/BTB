@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַרְזֵחַ‎</span></big> **marzêach** <small>*(mar-zay'-akh)*</small> ==**mourning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>formed like <span class="ashebrew">‎מִרְזַח‎</span><sup><small>[[H4797]]</small></sup></small>
+**<big><span class="ashebrew">‎מַרְזֵחַ‎</span></big>** **marzêach** <small>*(mar-zay'-akh)*</small> ==**mourning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>formed like **<big>[[H4797|‎מִרְזַח‎]]</big>**</small>
 
 $\quad$ mourning.
 - ***a cry***, i.e. (of grief) ***a lamentation***

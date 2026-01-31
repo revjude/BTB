@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פֵּן‎</span></big> **pên** <small>*(pane)*</small> ==**Corner**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פֵּן‎</span></big>** **pên** <small>*(pane)*</small> ==**Corner**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to turn</small>
 
 $\quad$ corner.

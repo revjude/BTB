@@ -7,22 +7,22 @@ Only the gold, and the silver, the brass, the iron, the tin, and the lead,
 Only the gold, silver, bronze, iron, tin, and lead—<small><sub>**MT:**</sub></small>
 [[Num.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.21|<< Numbers 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.23|Numbers 31:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| brass, | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| iron, | <big><span class="asgreek">σιδήρου</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lead, | <big><span class="asgreek">μολίβδου</span></big> <sup><small><small>[[G8337]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tin, | <big><span class="asgreek">κασσιτέρου</span></big> <sup><small><small>[[G7818]]</small></small></sup> |
+| Besides | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| brass, | **<big>[[G5475\|χαλκού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| iron, | **<big>[[G4604\|σιδήρου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lead, | **<big>[[G8337\|μολίβδου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tin, | **<big>[[G7818\|κασσιτέρου]]</big>** |
 [[Num.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.21|<< Numbers 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.23|Numbers 31:23 >>]]</td></tr></table>
 
 

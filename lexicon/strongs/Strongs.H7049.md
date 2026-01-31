@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָלַע‎</span></big> **qâlaʻ** <small>*(kaw-lah')*</small> ==**to sling**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָלַע‎</span></big>** **qâlaʻ** <small>*(kaw-lah')*</small> ==**to sling**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ carve, sling (out).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** slinger (participle)
 $\quad$ **1b)** (Piel) to sling
 **2)** (Qal) to carve
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάλλω</span><sup><small>[[G0906]]</small></sup> · <span class="asgreek">γράφω</span><sup><small>[[G1125]]</small></sup>
+<small>See Greek: </small>**<big>[[G0906|βάλλω]]</big>** · **<big>[[G1125|γράφω]]</big>**

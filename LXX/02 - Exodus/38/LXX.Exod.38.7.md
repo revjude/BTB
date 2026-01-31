@@ -7,25 +7,25 @@ And he put the staves into the rings on the sides of the altar, to bear it witha
 Then he inserted the poles into the rings on the sides of the altar for carrying it. He made the altar with boards so that it was hollow.<small><sub>**MT:**</sub></small>
 [[Exod.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.6|<< Exodus 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.8|Exodus 38:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he inserted | <big><span class="asgreek">εισήγαγε</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing poles | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
-| at | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sides | <big><span class="asgreek">πλευρά</span></big> <sup><small><small>[[G8810]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αίρειν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hollow | <big><span class="asgreek">κοίλον</span></big> <sup><small><small>[[G8040]]</small></small></sup> |
-| planked | <big><span class="asgreek">σανιδωτόν</span></big> <sup><small><small>[[G9053]]</small></small></sup> |
-| He made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he inserted | **<big>[[G1521\|εισήγαγε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bearing poles | **<big>[[G6320\|αναφορείς]]</big>** |
+| at | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sides | **<big>[[G8810\|πλευρά]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| lifting | **<big>[[G0142\|αίρειν]]</big>** |
+| it! | **<big>[[G1473\|αυτό]]</big>** |
+| hollow | **<big>[[G8040\|κοίλον]]</big>** |
+| planked | **<big>[[G9053\|σανιδωτόν]]</big>** |
+| He made | **<big>[[G4160\|εποίησεν]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.6|<< Exodus 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.8|Exodus 38:8 >>]]</td></tr></table>
 
 

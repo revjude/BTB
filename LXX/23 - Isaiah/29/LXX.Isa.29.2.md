@@ -7,19 +7,19 @@ Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall
 And I will constrain Ariel, and there will be mourning and lamentation; she will be like an altar hearth before Me.<small><sub>**MT:**</sub></small>
 [[Isa.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.1|<< Isaiah 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.3|Isaiah 29:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For I will squeeze | <big><span class="asgreek">εκθλίψω</span></big> <sup><small><small>[[G7095]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| Ariel, | <big><span class="asgreek">Αριήλ</span></big> <sup><small><small>[[H0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| mine. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For I will squeeze | **<big>[[G7095\|εκθλίψω]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| Ariel, | **<big>[[H0740\|Αριήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| strength | **<big>[[G2479\|ισχύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| riches | **<big>[[G4149\|πλούτος]]</big>** |
+| mine. | **<big>[[G1473\|εμοί]]</big>** |
 [[Isa.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.1|<< Isaiah 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.3|Isaiah 29:3 >>]]</td></tr></table>
 
 

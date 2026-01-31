@@ -7,19 +7,19 @@ Honour and majesty [are] before him: strength and beauty [are] in his sanctuary.
 Splendor and majesty are before Him; strength and beauty fill His sanctuary.<small><sub>**MT:**</sub></small>
 [[Ps.96.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.5|<< Psalm 96:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.7|Psalm 96:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Acknowledgment | <big><span class="asgreek">εξομολόγησις</span></big> <sup><small><small>[[G7347]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beauty | <big><span class="asgreek">ωραιότης</span></big> <sup><small><small>[[G9814]]</small></small></sup> |
-| are before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| holiness | <big><span class="asgreek">αγιωσύνη</span></big> <sup><small><small>[[G0042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| majesty | <big><span class="asgreek">μεγαλοπρέπεια</span></big> <sup><small><small>[[G8266]]</small></small></sup> |
-| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sanctuary. | <big><span class="asgreek">αγιάσματι</span></big> <sup><small><small>[[G6114]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Acknowledgment | **<big>[[G7347\|εξομολόγησις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beauty | **<big>[[G9814\|ωραιότης]]</big>** |
+| are before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him; | **<big>[[G1473\|αυτού]]</big>** |
+| holiness | **<big>[[G0042\|αγιωσύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| majesty | **<big>[[G8266\|μεγαλοπρέπεια]]</big>** |
+| \[are\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his sanctuary. | **<big>[[G6114\|αγιάσματι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.96.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.5|<< Psalm 96:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.7|Psalm 96:7 >>]]</td></tr></table>
 
 

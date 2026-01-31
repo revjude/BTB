@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְעוּשׁ‎</span></big> **Yᵉʻûwsh** <small>*(yeh-oosh')*</small> ==**Jeush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עוּשׁ‎</span><sup><small>[[H5789]]</small></sup>; hasty</small>
+**<big><span class="ashebrew">‎יְעוּשׁ‎</span></big>** **Yᵉʻûwsh** <small>*(yeh-oosh')*</small> ==**Jeush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5789|‎עוּשׁ‎]]</big>**; hasty</small>
 
-$\quad$ Jehush, Jeush. Compare <span class="ashebrew">‎יְעִישׁ‎</span><sup><small>[[H3274]]</small></sup>.
+$\quad$ Jehush, Jeush. Compare **<big>[[H3274|‎יְעִישׁ‎]]</big>**.
 - § Jehush or Jeush = *"He hurries to aid"*
 - ***Jeush***, the name of an Edomite and of four Israelites
 

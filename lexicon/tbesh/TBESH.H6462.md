@@ -1,5 +1,3 @@
-<span class="ashebrew">‎פִּסְפָּה‎</span> <small>***(pis.pah)***</small> ==**Pispa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.38|1Ch.7.38]]
--  son of: Ithran ([[H3506H]])
--  brother of: Jephunneh ([[H3312H]]) and Ara ([[H0690]])
-
+-  son of: Ithran (**<big>[[H3506H|יִתְרָן]]</big>**)
+-  brother of: Jephunneh (**<big>[[H3312H|יְפֻנֶּה]]</big>**) and Ara (**<big>[[H0690|אֲרָא]]</big>**)

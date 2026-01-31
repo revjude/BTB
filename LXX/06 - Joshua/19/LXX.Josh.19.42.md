@@ -7,14 +7,14 @@ And Shaalabbin, and Ajalon, and Jethlah,
 Shaalabbin, Aijalon, Ithlah,<small><sub>**MT:**</sub></small>
 [[Josh.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.41|<< Joshua 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.43|Joshua 19:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shaalabbin, | <big><span class="asgreek">Σααλαβίν</span></big> <sup><small><small>[[H8169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ajalon, | <big><span class="asgreek">Ελών</span></big> <sup><small><small>[[H0356]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jethlah, | <big><span class="asgreek">Ιεθλά</span></big> <sup><small><small>[[H3494]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shaalabbin, | **<big>[[H8169\|Σααλαβίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ajalon, | **<big>[[H0356\|Ελών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jethlah, | **<big>[[H3494\|Ιεθλά]]</big>** |
 [[Josh.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.41|<< Joshua 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.43|Joshua 19:43 >>]]</td></tr></table>
 
 

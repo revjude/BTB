@@ -11,36 +11,36 @@ Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants 
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| to bathe | <big><span class="asgreek">λούσασθαι</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river, | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her handmaidens | <big><span class="asgreek">άβραι</span></big> <sup><small><small>[[G6105]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| came near | <big><span class="asgreek">παρεπορεύοντο</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river. | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they saw | <big><span class="asgreek">ιδούσα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicker basket | <big><span class="asgreek">θίβιν</span></big> <sup><small><small>[[G7675]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| marsh, | <big><span class="asgreek">έλει</span></big> <sup><small><small>[[G7186]]</small></small></sup> |
-| \[and\] she sent | <big><span class="asgreek">αποστείλασα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| handmaiden | <big><span class="asgreek">άβραν</span></big> <sup><small><small>[[G6105]]</small></small></sup> |
-| to take | <big><span class="asgreek">ανείλατο</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| it up. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| went down | **<big>[[G2597\|κατέβη]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| to bathe | **<big>[[G3068\|λούσασθαι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| river, | **<big>[[G4215\|ποταμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her handmaidens | **<big>[[G6105\|άβραι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| came near | **<big>[[G3899\|παρεπορεύοντο]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| river. | **<big>[[G4215\|ποταμόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they saw | **<big>[[G1492\|ιδούσα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wicker basket | **<big>[[G7675\|θίβιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| marsh, | **<big>[[G7186\|έλει]]</big>** |
+| \[and\] she sent | **<big>[[G0649\|αποστείλασα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| handmaiden | **<big>[[G6105\|άβραν]]</big>** |
+| to take | **<big>[[G0337\|ανείλατο]]</big>** |
+| it up. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Exod.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.4|<< Exodus 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.6|Exodus 2:6 >>]]</td></tr></table>
 
 

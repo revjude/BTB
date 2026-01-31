@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָצוֹר‎</span></big> **Châtsôwr** <small>*(khaw-tsore')*</small> ==**Hazor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>a collective form of <span class="ashebrew">‎חָצֵר‎</span><sup><small>[[H2691]]</small></sup>; village</small>
+**<big><span class="ashebrew">‎חָצוֹר‎</span></big>** **Châtsôwr** <small>*(khaw-tsore')*</small> ==**Hazor**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a collective form of **<big>[[H2691|‎חָצֵר‎]]</big>**; village</small>
 
 $\quad$ Hazor.
 - § Hazor = *"castle"*

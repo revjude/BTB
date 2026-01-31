@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יֶקֶב‎</span></big> **yeqeb** <small>*(yeh'-keb)*</small> ==**wine**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎יֶקֶב‎</span></big>** **yeqeb** <small>*(yeh'-keb)*</small> ==**wine**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to excavate</small>
 
 $\quad$ fats, presses, press-fat, wine(-press).
@@ -8,4 +8,4 @@ $\quad$ fats, presses, press-fat, wine(-press).
 
 **1)** wine vat, wine-press
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ληνός</span><sup><small>[[G3025]]</small></sup> · <span class="asgreek">οἶνος</span><sup><small>[[G3631]]</small></sup> · <span class="asgreek">ὑπολήνιον</span><sup><small>[[G5276]]</small></sup>
+<small>See Greek: </small>**<big>[[G3025|ληνός]]</big>** · **<big>[[G3631|οἶνος]]</big>** · **<big>[[G5276|ὑπολήνιον]]</big>**

@@ -7,23 +7,23 @@ And the Spirit of the LORD will come upon thee, and thou shalt prophesy with the
 Then the Spirit of the LORD will rush upon you, and you will prophesy with them; and you will be transformed into a different person.<small><sub>**MT:**</sub></small>
 [[1Sam.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.5|<< 1 Samuel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.7|1 Samuel 10:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall spring | <big><span class="asgreek">εφαλείται</span></big> <sup><small><small>[[G2177]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall prophesy | <big><span class="asgreek">προφητεύσεις</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall turn | <big><span class="asgreek">στραφήση</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλον</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall spring | **<big>[[G2177\|εφαλείται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall prophesy | **<big>[[G4395\|προφητεύσεις]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall turn | **<big>[[G4762\|στραφήση]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| another | **<big>[[G0243\|άλλον]]</big>** |
 [[1Sam.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.5|<< 1 Samuel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.7|1 Samuel 10:7 >>]]</td></tr></table>
 
 

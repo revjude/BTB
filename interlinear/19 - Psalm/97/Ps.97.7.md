@@ -10,18 +10,18 @@ All worshipers of images are put to shame—those who boast in idols. Worship Hi
 > $\quad$ referenced by: [[Heb.1.6|Heb 1:6]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| let them be ashamed  | <span class="ashebrew"><big>יֵבֹ֤שׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ye.Vo.shu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] serve  | <span class="ashebrew"><big>עֹ֬בְדֵי </big></span><small><small><sup>[[H5647H]]</sup></small></small> &#8207;| oe.dei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> an image  | <span class="ashebrew"><big>פֶ֗סֶל </big></span><small><small><sup>[[H6459]]</sup></small></small> &#8207;| Fe.sel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| those [who] boast  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּֽתְהַלְלִ֥ים </big></span><small><small><sup>[[H1984H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mit.ha.Lim <small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> worthless idols  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֱלִילִ֑ים </big></span><small><small><sup>[[H0457]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'e.li.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bow down  | <span class="ashebrew"><big>הִשְׁתַּחֲווּ </big></span><small><small><sup>[[H7812]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hish.ta.cha.vu- <small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>ל֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִֽים </big></span><small><small><sup>[[H0430J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֤שׁוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] serve  |**<big>&#8207;[[H5647H\|עֹ֬בְדֵי]]&#8207; </big>**| oe.dei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> an image  |**<big>&#8207;[[H6459\|פֶ֗סֶל]]&#8207; </big>**| Fe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] boast  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1984H\|מִּֽתְהַלְלִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mit.ha.Lim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> worthless idols  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0457\|אֱלִילִ֑ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'e.li.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bow down  |**<big>&#8207;[[H7812\|הִשְׁתַּחֲווּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hish.ta.cha.vu-<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H9005\|ל֝]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.6|<< Psalms 97:6]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.8|Psalms 97:8 >>]]</td></tr></table>
 
 

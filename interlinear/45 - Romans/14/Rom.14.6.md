@@ -6,43 +6,43 @@ He who observes a special day does so to the Lord; he who eats does so to the Lo
 <small><sub>**Literal:**</sub></small>
 The [one] regarding the day to [the] Lord regards [it] and the [one] not regarding the day to [the] Lord not regards [it]; And the [one] eating to [the] Lord eats, he gives thanks for <the> to God; and the [one] not eating to [the] Lord not he eats, and he gives thanks <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.5|<< Romans 14:5]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.7|Romans 14:7 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| The [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| regarding |<big><span class="asgreek">φρονῶν</span></big> <small><small><sup>[[G5426]]</sup></small></small> |phronōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| day |<big><span class="asgreek">ἡμέραν</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to [the] Lord |<big><span class="asgreek">κυρίῳ</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| regards [it] |<big><span class="asgreek">φρονεῖ</span></big> <small><small><sup>[[G5426]]</sup></small></small> |phronei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| the [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| regarding |<big><span class="asgreek">φρονῶν</span></big> <small><small><sup>[[G5426]]</sup></small></small> |phronōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| day |<big><span class="asgreek">ἡμέραν</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| to [the] Lord |<big><span class="asgreek">κυρίῳ</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| regards [it]; [^1] |<big><span class="asgreek">φρονεῖ·</span></big> <small><small><sup>[[G5426]]</sup></small></small> |phronei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |
-| the [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eating |<big><span class="asgreek">ἐσθίων</span></big> <small><small><sup>[[G2068]]</sup></small></small> |esthiōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to [the] Lord |<big><span class="asgreek">κυρίῳ</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eats, |<big><span class="asgreek">ἐσθίει,</span></big> <small><small><sup>[[G2068]]</sup></small></small> |esthiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he gives thanks |<big><span class="asgreek">εὐχαριστεῖ</span></big> <small><small><sup>[[G2168]]</sup></small></small> |eucharistei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to God; |<big><span class="asgreek">θεῷ·</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eating |<big><span class="asgreek">ἐσθίων</span></big> <small><small><sup>[[G2068]]</sup></small></small> |esthiōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to [the] Lord |<big><span class="asgreek">κυρίῳ</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he eats, |<big><span class="asgreek">ἐσθίει,</span></big> <small><small><sup>[[G2068]]</sup></small></small> |esthiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he gives thanks |<big><span class="asgreek">εὐχαριστεῖ</span></big> <small><small><sup>[[G2168]]</sup></small></small> |eucharistei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to God. |<big><span class="asgreek">θεῷ.</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| regarding |**<big>[[G5426\|φρονῶν]]</big>**  |phronōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| day |**<big>[[G2250\|ἡμέραν]]</big>**  |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to [the] Lord |**<big>[[G2962G\|κυρίῳ]]</big>**  |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| regards [it] |**<big>[[G5426\|φρονεῖ]]</big>**  |phronei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| regarding |**<big>[[G5426\|φρονῶν]]</big>**  |phronōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| day |**<big>[[G2250\|ἡμέραν]]</big>**  |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| to [the] Lord |**<big>[[G2962G\|κυρίῳ]]</big>**  |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| regards [it]; [^1] |**<big>[[G5426\|φρονεῖ·]]</big>**  |phronei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |
+| the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eating |**<big>[[G2068\|ἐσθίων]]</big>**  |esthiōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to [the] Lord |**<big>[[G2962G\|κυρίῳ]]</big>**  |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eats, |**<big>[[G2068\|ἐσθίει,]]</big>**  |esthiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he gives thanks |**<big>[[G2168\|εὐχαριστεῖ]]</big>**  |eucharistei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to God; |**<big>[[G2316\|θεῷ·]]</big>**  |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eating |**<big>[[G2068\|ἐσθίων]]</big>**  |esthiōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to [the] Lord |**<big>[[G2962G\|κυρίῳ]]</big>**  |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he eats, |**<big>[[G2068\|ἐσθίει,]]</big>**  |esthiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he gives thanks |**<big>[[G2168\|εὐχαριστεῖ]]</big>**  |eucharistei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to God. |**<big>[[G2316\|θεῷ.]]</big>**  |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.5|<< Romans 14:5]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.7|Romans 14:7 >>]]</td></tr></table>
 
-[^1]: Extra Text (7-14):  <span class='asgreek'>**καὶ**</span>   <span class='asgreek'>**ὁ**</span>    <span class='asgreek'>**μὴ**</span>    <span class='asgreek'>**φρονῶν**</span>    <span class='asgreek'>**τὴν**</span>    <span class='asgreek'>**ἡμέραν**</span>    <span class='asgreek'>**κυρίῳ**</span>    <span class='asgreek'>**οὐ**</span>    <span class='asgreek'>**φρονεῖ**</span>·   (<i>kai ho mē phronōn tēn hēmeran kuriō ou phronei</i>) 'and the [one] not regarding the day to [the] Lord not regards [it];' is only in traditional manuscripts (TR+Byz)
+[^1]: Extra Text (7-14):  **<big><span class='asgreek'>καὶ</span></big>**   **<big><span class='asgreek'>ὁ</span></big>**    **<big><span class='asgreek'>μὴ</span></big>**    **<big><span class='asgreek'>φρονῶν</span></big>**    **<big><span class='asgreek'>τὴν</span></big>**    **<big><span class='asgreek'>ἡμέραν</span></big>**    **<big><span class='asgreek'>κυρίῳ</span></big>**    **<big><span class='asgreek'>οὐ</span></big>**    **<big><span class='asgreek'>φρονεῖ</span></big>**·   (<i>kai ho mē phronōn tēn hēmeran kuriō ou phronei</i>) 'and the [one] not regarding the day to [the] Lord not regards [it];' is only in traditional manuscripts (TR+Byz)

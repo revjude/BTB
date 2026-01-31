@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִרְיָם‎</span></big> **Miryâm** <small>*(meer-yawm')*</small> ==**Miriam**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מְרִי‎</span><sup><small>[[H4805]]</small></sup>; rebelliously</small>
+**<big><span class="ashebrew">‎מִרְיָם‎</span></big>** **Miryâm** <small>*(meer-yawm')*</small> ==**Miriam**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H4805|‎מְרִי‎]]</big>**; rebelliously</small>
 
 $\quad$ Miriam.
 - § Miriam = *"rebellion"*
@@ -8,4 +8,4 @@ $\quad$ Miriam.
 **1)** elder sister of Moses and Aaron
 **2)** a woman of Judah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Μαρία</span><sup><small>[[G3137]]</small></sup>
+<small>See Greek: </small>**<big>[[G3137|Μαρία]]</big>**

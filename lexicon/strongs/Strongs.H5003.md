@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָאַף‎</span></big> **nâʼaph** <small>*(naw-af')*</small> ==**to commit adultery**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָאַף‎</span></big>** **nâʼaph** <small>*(naw-af')*</small> ==**to commit adultery**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ adulterer(-ess), commit(-ing) adultery, woman that breaketh wedlock.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ $\quad$ **1b1a)** of man
 $\quad$ $\quad$ $\quad$ **1b1b)** adultery (of women) (participle)
 $\quad$ $\quad$ **1b2)** idolatrous worship (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μοιχάω</span><sup><small>[[G3429]]</small></sup> · <span class="asgreek">μοιχεία</span><sup><small>[[G3430]]</small></sup> · <span class="asgreek">μοιχεύω</span><sup><small>[[G3431]]</small></sup> · <span class="asgreek">μοιχός</span><sup><small>[[G3432]]</small></sup>
+<small>See Greek: </small>**<big>[[G3429|μοιχάω]]</big>** · **<big>[[G3430|μοιχεία]]</big>** · **<big>[[G3431|μοιχεύω]]</big>** · **<big>[[G3432|μοιχός]]</big>**

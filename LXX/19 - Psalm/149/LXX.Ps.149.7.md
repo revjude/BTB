@@ -7,18 +7,18 @@ To execute vengeance upon the heathen, [and] punishments upon the people;
 to inflict vengeance on the nations and punishment on the peoples,<small><sub>**MT:**</sub></small>
 [[Ps.149.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.149.6|<< Psalm 149:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.8|Psalm 149:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to execute | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| punishment | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| \[and\] rebukes | <big><span class="asgreek">ελεγμούς</span></big> <sup><small><small>[[G6031]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples; | <big><span class="asgreek">λαοίς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to execute | **<big>[[G4160\|ποιήσαι]]</big>** |
+| punishment | **<big>[[G1557\|εκδίκησιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations, | **<big>[[G1484\|έθνεσιν]]</big>** |
+| \[and\] rebukes | **<big>[[G6031\|ελεγμούς]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| peoples; | **<big>[[G2992\|λαοίς]]</big>** |
 [[Ps.149.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.149.6|<< Psalm 149:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.8|Psalm 149:8 >>]]</td></tr></table>
 
 

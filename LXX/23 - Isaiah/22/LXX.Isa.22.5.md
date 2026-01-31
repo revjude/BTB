@@ -7,32 +7,32 @@ For [it is] a day of trouble, and of treading down, and of perplexity by the Lor
 For the Lord GOD of Hosts has set a day of tumult and trampling and confusion in the Valley of Vision—of breaking down the walls and crying to the mountains.<small><sub>**MT:**</sub></small>
 [[Isa.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.4|<< Isaiah 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.6|Isaiah 22:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[it is\] a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of disturbance, | <big><span class="asgreek">ταραχής</span></big> <sup><small><small>[[G5016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| destruction, | <big><span class="asgreek">απωλείας</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trampling, | <big><span class="asgreek">καταπατήματος</span></big> <sup><small><small>[[G7888]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an addiction to a delusion | <big><span class="asgreek">πλάνησις</span></big> <sup><small><small>[[G8801]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts. | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] ravine | <big><span class="asgreek">φάραγγι</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| They wander | <big><span class="asgreek">πλανώνται</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| They wander | <big><span class="asgreek">πλανώνται</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[it is\] a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of disturbance, | **<big>[[G5016\|ταραχής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| destruction, | **<big>[[G0684\|απωλείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trampling, | **<big>[[G7888\|καταπατήματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an addiction to a delusion | **<big>[[G8801\|πλάνησις]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of Hosts. | **<big>[[G4519\|σαβαώθ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] ravine | **<big>[[G5327\|φάραγγι]]</big>** |
+| of Zion | **<big>[[G4622\|Σιών]]</big>** |
+| They wander | **<big>[[G4105\|πλανώνται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| small | **<big>[[G3398\|μικρού]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| great | **<big>[[G3173\|μεγάλου]]</big>** |
+| They wander | **<big>[[G4105\|πλανώνται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountain. | **<big>[[G3735\|όρη]]</big>** |
 [[Isa.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.4|<< Isaiah 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.6|Isaiah 22:6 >>]]</td></tr></table>
 
 

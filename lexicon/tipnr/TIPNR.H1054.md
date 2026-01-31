@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-tappuah</span> was a town allotted to Judah, located in the hill country. \([[Josh.15.53|Joshua 15:53]]\)
 - A location only mentioned at [[Josh.15.53|Jos.15.53]]; 
-- only referred to as Beth-tappuah<[[H1054]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ח</span>ַ\).
+- only referred to as Beth-tappuah **<big>[[H1054|בֵּית תַּפּוּחַ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.529730,35.050377&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ No other information about Beth-tappuah is provided in the Bible, and the town i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-tappuah (NIV= Beth Tappuah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ח</span>ַ](H1054) <small>*Hebrew*</small> | 1x | [Jos.15.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.53) |
-All Strong's for **Beth-tappuah**: \[[[H1054]]\]
+| Beth-tappuah (NIV= Beth Tappuah) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span>־<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ח</span>ַ](H1054) | 1x | [Jos.15.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.15.53) |
+All entries for **Beth-tappuah**:  **<big>[[H1054|בֵּית תַּפּוּחַ]]</big>**

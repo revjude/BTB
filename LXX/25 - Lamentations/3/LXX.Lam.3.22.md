@@ -9,19 +9,19 @@ The mercies of the <span class="smallcaps">lord</span>, for they finished not, f
 Because of the loving devotion of the LORD we are not consumed, for His mercies never fail.<small><sub>**MT:**</sub></small>
 [[Lam.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.21|<< Lamentations 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.23|Lamentations 3:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΗΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΗΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mercies | <big><span class="asgreek">ελεή</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they finished not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ετελειώθησαν</span></big> <sup><small><small>[[G5048]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| failed not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξίλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his charities | <big><span class="asgreek">ελεημοσύναι</span></big> <sup><small><small>[[G1654]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΗΘ <sup><small>[acrostic title]</small></sup> |  |
+| The | **<big>[[G3588\|τα]]</big>** |
+| mercies | **<big>[[G1656\|ελεή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they finished not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G5048\|ετελειώθησαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| failed not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1587\|εξίλιπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his charities | **<big>[[G1654\|ελεημοσύναι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lam.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.21|<< Lamentations 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.23|Lamentations 3:23 >>]]</td></tr></table>
 
 

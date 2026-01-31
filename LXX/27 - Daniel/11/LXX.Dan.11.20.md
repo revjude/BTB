@@ -7,34 +7,34 @@ Then shall stand up in his estate a raiser of taxes [in] the glory of the kingdo
 In his place one will arise who will send out a tax collector for the glory of the kingdom; but within a few days he will be destroyed, though not in anger or in battle.<small><sub>**MT:**</sub></small>
 [[Dan.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.19|<< Daniel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.21|Daniel 11:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall rise up | <big><span class="asgreek">αναστήσεται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his root | <big><span class="asgreek">ρίζης</span></big> <sup><small><small>[[G4491]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a plant | <big><span class="asgreek">φυτόν</span></big> <sup><small><small>[[G9687]]</small></small></sup> |
-| of a kingdom, | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his preparation, | <big><span class="asgreek">ετοιμασίαν</span></big> <sup><small><small>[[G2091]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| casting aside, | <big><span class="asgreek">παραβιβάζων</span></big> <sup><small><small>[[G8601]]</small></small></sup> |
-| exacting | <big><span class="asgreek">πράσσων</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of \[the\] kingdom. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| he shall be broken, | <big><span class="asgreek">συντριβήσεται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| faces, | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| war. | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall rise up | **<big>[[G0450\|αναστήσεται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his root | **<big>[[G4491\|ρίζης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a plant | **<big>[[G9687\|φυτόν]]</big>** |
+| of a kingdom, | **<big>[[G0932\|βασιλείας]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his preparation, | **<big>[[G2091\|ετοιμασίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| casting aside, | **<big>[[G8601\|παραβιβάζων]]</big>** |
+| exacting | **<big>[[G4238\|πράσσων]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| of \[the\] kingdom. | **<big>[[G0932\|βασιλείας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| those days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1565\|εκείναις]]</big>** |
+| he shall be broken, | **<big>[[G4937\|συντριβήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| faces, | **<big>[[G4383\|προσώπω]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| war. | **<big>[[G4171\|πολέμω]]</big>** |
 [[Dan.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.19|<< Daniel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.21|Daniel 11:21 >>]]</td></tr></table>
 
 

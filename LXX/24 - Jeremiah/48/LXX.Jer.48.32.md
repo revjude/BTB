@@ -7,28 +7,28 @@ O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are
 I will weep for you, O vine of Sibmah, more than I weep for Jazer. Your tendrils have extended to the sea; they reach even to Jazer. The destroyer has descended on your summer fruit and grape harvest.<small><sub>**MT:**</sub></small>
 [[Jer.48.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.31|<< Jeremiah 48:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.33|Jeremiah 48:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| weeping | <big><span class="asgreek">κλαυθμόν</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| of Jazer, | <big><span class="asgreek">Ιαζήρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
-| I shall weep | <big><span class="asgreek">αποκλαύσομαί</span></big> <sup><small><small>[[G6443]]</small></small></sup> |
-| over you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O grapevine | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| of Sibmah, | <big><span class="asgreek">Σαβαμά</span></big> <sup><small><small>[[H7643]]</small></small></sup> |
-| your vine branches | <big><span class="asgreek">κλήματά</span></big> <sup><small><small>[[G2814]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| went through | <big><span class="asgreek">διήλθε</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| \[the\] sea; | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Jazer | <big><span class="asgreek">Ιαζήρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
-| they touched | <big><span class="asgreek">ήψαντο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| your autumn fruits | <big><span class="asgreek">οπώραν</span></big> <sup><small><small>[[G3703]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| your grape gatherers | <big><span class="asgreek">τρυγηταίς</span></big> <sup><small><small>[[G9505]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ruin | <big><span class="asgreek">όλεθρος</span></big> <sup><small><small>[[G3639]]</small></small></sup> |
-| fell. | <big><span class="asgreek">επέπεσε</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| weeping | **<big>[[G2805\|κλαυθμόν]]</big>** |
+| of Jazer, | **<big>[[H3270\|Ιαζήρ]]</big>** |
+| I shall weep | **<big>[[G6443\|αποκλαύσομαί]]</big>** |
+| over you. | **<big>[[G1473\|σοι]]</big>** |
+| O grapevine | **<big>[[G0288\|άμπελος]]</big>** |
+| of Sibmah, | **<big>[[H7643\|Σαβαμά]]</big>** |
+| your vine branches | **<big>[[G2814\|κλήματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| went through | **<big>[[G1330\|διήλθε]]</big>** |
+| \[the\] sea; | **<big>[[G2281\|θάλασσαν]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| of Jazer | **<big>[[H3270\|Ιαζήρ]]</big>** |
+| they touched | **<big>[[G0680\|ήψαντο]]</big>** |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| your autumn fruits | **<big>[[G3703\|οπώραν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| your grape gatherers | **<big>[[G9505\|τρυγηταίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| ruin | **<big>[[G3639\|όλεθρος]]</big>** |
+| fell. | **<big>[[G1968\|επέπεσε]]</big>** |
 [[Jer.48.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.31|<< Jeremiah 48:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.33|Jeremiah 48:33 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Carchemish</span> was an ancient city on the Euphrates River where the Babylonians decisively defeated the Egyptians.
 - A location first mentioned at [[2Chr.35.20|2Ch.35.20]]; 
-- only referred to as Carchemish<[[H3751]]> \(<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ\).
+- only referred to as Carchemish **<big>[[H3751|כַּרְכְּמִישׁ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.82928161099629,38.01576051001015&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Archaeologically, Carchemish has been identified with the modern site of Karkam�
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Carchemish | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H3751) <small>*Hebrew*</small> | 3x | [[2Ch.35.20] ... [Jer.46.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Carchemish\*\|reference=2Ch.35.20;Isa.10.9;Jer.46.2) |
-All Strong's for **Carchemish**: \[[[H3751]]\]
+| Carchemish | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H3751) | 3x | [[2Ch.35.20] ... [Jer.46.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Carchemish\*\|reference=2Ch.35.20;Isa.10.9;Jer.46.2) |
+All entries for **Carchemish**:  **<big>[[H3751|כַּרְכְּמִישׁ]]</big>**

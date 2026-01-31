@@ -1,10 +1,8 @@
-<span class="ashebrew">‎בֶּן־אוֹנִ֑י‎</span> <small>***(ben-o.ni)***</small> ==**Ben-oni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-name of: <small>[[H1144G]]</small> 
+<small>name of:</small> <small>**<big>[[H1144G|בִּנְיָמִין]]</big>**</small> 
 
 - A man of the tribe of Benjamin  living at the time of the Patriarchs, first mentioned at [[Gen.35.18|Gen.35.18]]
--  son of: Israel ([[H3478]]) and Rachel ([[H7354]])
--  brother of: Joseph ([[H3130]])
--  half-brother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Issachar ([[H3485]]), Zebulun ([[H2074]]) and Dinah ([[H1783]])
--  father of: Bela ([[H1106A]]), Becher ([[H1071]]), Ashbel ([[H0788]]), Gera ([[H1617]]), Naaman ([[H5283]]), Ehi ([[H0278]]), Rosh ([[H7220]]), Muppim ([[H4649]]), Huppim ([[H2650H]]), Ard ([[H0714]]), Ahiram ([[H0297]]) and Jediael ([[H3043]]); also called Jamin at [[1Sam.9.1|1Sa.9.1]], [[1Sam.9.4|4]] [[1Sam.22.7| 22.7]] 1x
-- Another name of <i>bin.ya.min</i> (<span class='ashebrew'>‎ב‎</span>ִּ<span class='ashebrew'>‎נ‎</span>ְ<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎ין‎</span> "Benjamin" [[H1144G]])
-
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Rachel (**<big>[[H7354|רָחֵל]]</big>**)
+-  brother of: Joseph (**<big>[[H3130|יוֹסֵף]]</big>**)
+-  half-brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**) and Dinah (**<big>[[H1783|דִּינָה]]</big>**)
+-  father of: Bela (**<big>[[H1106A|בֶּלַע]]</big>**), Becher (**<big>[[H1071|בֶכֶר]]</big>**), Ashbel (**<big>[[H0788|אַשְׁבֵּל]]</big>**), Gera (**<big>[[H1617|גֵּרָא]]</big>**), Naaman (**<big>[[H5283|נַעֲמָן]]</big>**), Ehi (**<big>[[H0278|אֵחִי]]</big>**), Rosh (**<big>[[H7220|רֹאשׁ]]</big>**), Muppim (**<big>[[H4649|מֻפִּים]]</big>**), Huppim (**<big>[[H2650H|חֻפִּים]]</big>**), Ard (**<big>[[H0714|אַרְדְּ]]</big>**), Ahiram (**<big>[[H0297|אֲחִירָם]]</big>**) and Jediael (**<big>[[H3043|יְדִיעֲאֵל]]</big>**); also called Jamin at [[1Sam.9.1|1Sa.9.1]], [[1Sam.9.4|4]] [[1Sam.22.7| 22.7]] 1x
+- Another name of <i>bin.ya.min</i> (<span class='ashebrew'>‎ב‎</span>ִּ<span class='ashebrew'>‎נ‎</span>ְ<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎ין‎</span> "Benjamin" **<big>[[H1144G|בִּנְיָמִין]]</big>**)

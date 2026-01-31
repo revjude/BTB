@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Adonijah</span> was one of the Levites King Jehoshaphat sent to teach the Book of the Law in the cities of Judah.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.17.8|2Ch.17.8]]; 
-- only referred to as Adonijah<[[H0138H]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**.
 
 Adonijah is mentioned in [[2Chr.17.8|2 Chronicles 17:8]] as one of the Levites commissioned by King Jehoshaphat to teach the Book of the Law throughout the cities of Judah. Jehoshaphat, known for his devotion to God, sought to strengthen the spiritual foundation of his kingdom by sending out teachers to instruct the people in the ways of the Lord. 
 
@@ -16,5 +16,5 @@ Apart from this brief mention, no other details are provided about Adonijah's ba
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adonijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0138H) <small>*Hebrew*</small> | 1x | [2Ch.17.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonijah\*\|reference=2Ch.17.8) |
-All Strong's for **Adonijah**: \[[[H0138H]]\]
+| Adonijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0138H) | 1x | [2Ch.17.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonijah\*\|reference=2Ch.17.8) |
+All entries for **Adonijah**:  **<big>[[H0138|אֲדֹנִיָּה]]</big>**

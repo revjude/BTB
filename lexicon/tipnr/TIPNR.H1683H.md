@@ -4,8 +4,8 @@ Judge living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Deborah</span>, a prophetess and judge, led Israel to victory against the Canaanites alongside Barak.
 - A Judge living before Israel's Monarchy, first mentioned at [[Judg.4.4|Jdg.4.4]]; 
-- only referred to as Deborah<[[H1683H]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of Lappidoth<[[H3941]]>.
+- only referred to as Deborah **<big>[[H1683|דְּבּוֹרָה]]</big>**; 
+- wife of Lappidoth **<big>[[H3941|לַפִּידוֹת]]</big>**.
 
 Deborah was a prophetess and the only female judge mentioned in the Bible. She lived during a time when the Israelites were oppressed by Jabin, the king of Canaan \([[Judg.4.4|Judges 4:4]]\). Deborah held court under a palm tree between Ramah and Bethel in the hill country of Ephraim, where the Israelites came to her for judgment \([[Judg.4.5|Judges 4:5]]\). 
 
@@ -17,7 +17,7 @@ After the victory, Deborah and Barak sang a song of praise, recounting the event
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Deborah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1683H) <small>*Hebrew*</small> | 9x | [[Jdg.4.4] ... [Jdg.5.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Deborah\*\|reference=Jdg.4.4;Jdg.4.5;Jdg.4.9;Jdg.4.10;Jdg.4.14;Jdg.5.1;Jdg.5.7;Jdg.5.12;Jdg.5.15) |
-All Strong's for **Deborah**: \[[[H1683H]]\]
+| Deborah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1683H) | 9x | [[Jdg.4.4] ... [Jdg.5.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Deborah\*\|reference=Jdg.4.4;Jdg.4.5;Jdg.4.9;Jdg.4.10;Jdg.4.14;Jdg.5.1;Jdg.5.7;Jdg.5.12;Jdg.5.15) |
+All entries for **Deborah**:  **<big>[[H1683|דְּבּוֹרָה]]</big>**
 #### Related Profiles:
 - **[Lappidoth](H3941)** (spouse)

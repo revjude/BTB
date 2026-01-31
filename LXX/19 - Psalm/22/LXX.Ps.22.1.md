@@ -16,25 +16,25 @@ For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.46|Matt 27:46]] ☩ [[Mark.15.34|Mark 15:34]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| take heed | <big><span class="asgreek">πρόσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| did you abandon | <big><span class="asgreek">εγκατέλιπές</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| me? | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] far | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my deliverance | <big><span class="asgreek">σωτηρίας</span></big> <sup><small><small>[[G4991]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my transgressions | <big><span class="asgreek">παραπτωμάτων</span></big> <sup><small><small>[[G3900]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| take heed | **<big>[[G4337\|πρόσχες]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| did you abandon | **<big>[[G1459\|εγκατέλιπές]]</big>** |
+| me? | **<big>[[G1473\|με]]</big>** |
+| \[are\] far | **<big>[[G3112\|μακράν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my deliverance | **<big>[[G4991\|σωτηρίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| words | **<big>[[G3056\|λόγοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my transgressions | **<big>[[G3900\|παραπτωμάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.13|<< Psalm 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.2|Psalm 22:2 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ They sow fields and plant vineyards that yield a fruitful harvest.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.36|<< Psalms 107:36]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.38|Psalms 107:38 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they sowed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּזְרְע֣וּ </big></span><small><small><sup>[[H2232]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yiz.re.'U <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fields  | <span class="ashebrew"><big>שָׂ֭דוֹת </big></span><small><small><sup>[[H7704G]]</sup></small></small> &#8207;| Sa.dot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they planted  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּטְּע֣וּ </big></span><small><small><sup>[[H5193]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.te.'U <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vineyards  | <span class="ashebrew"><big>כְרָמִ֑ים </big></span><small><small><sup>[[H3754]]</sup></small></small> &#8207;| khe.ra.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they produced  | <span class="ashebrew"><big>וַ֝ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲשׂ֗וּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.'a.Su <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit of  | <span class="ashebrew"><big>פְּרִ֣י </big></span><small><small><sup>[[H6529]]</sup></small></small> &#8207;| pe.Ri <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| produce  | <span class="ashebrew"><big>תְבֽוּאָה </big></span><small><small><sup>[[H8393]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.Vu.'ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they sowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2232\|יִּזְרְע֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fields  |**<big>&#8207;[[H7704G\|שָׂ֭דוֹת]]&#8207; </big>**| Sa.dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they planted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5193\|יִּטְּע֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyards  |**<big>&#8207;[[H3754\|כְרָמִ֑ים]]&#8207; </big>**| khe.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they produced  |**<big>&#8207;[[H9001\|וַ֝]]&#8207;&#8207;[[H6213A\|יַּעֲשׂ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit of  |**<big>&#8207;[[H6529\|פְּרִ֣י]]&#8207; </big>**| pe.Ri<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce  |**<big>&#8207;[[H8393\|תְבֽוּאָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.Vu.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.36|<< Psalms 107:36]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.38|Psalms 107:38 >>]]</td></tr></table>
 
 

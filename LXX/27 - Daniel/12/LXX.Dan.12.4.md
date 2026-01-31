@@ -11,28 +11,28 @@ But you, Daniel, shut up these words and seal the book until the time of the end
 > $\quad$ referenced by: [[Rev.10.5|Rev 10:5]] ☩ [[Rev.22.10|Rev 22:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| obstruct | <big><span class="asgreek">έμφραξον</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words, | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set a seal upon | <big><span class="asgreek">σφράγισον</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of completion! | <big><span class="asgreek">συντελείας</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| should be taught | <big><span class="asgreek">διδαχθώσι</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be multiplied | <big><span class="asgreek">πληθυνθή</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowledge | <big><span class="asgreek">γνώσις</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| Daniel | **<big>[[G1158\|Δανιήλ]]</big>** |
+| obstruct | **<big>[[G7213\|έμφραξον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words, | **<big>[[G3056\|λόγους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| set a seal upon | **<big>[[G4972\|σφράγισον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρού]]</big>** |
+| of completion! | **<big>[[G4930\|συντελείας]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| should be taught | **<big>[[G1321\|διδαχθώσι]]</big>** |
+| many | **<big>[[G4183\|πολλοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be multiplied | **<big>[[G4129\|πληθυνθή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| knowledge | **<big>[[G1108\|γνώσις]]</big>** |
 [[Dan.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.3|<< Daniel 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.5|Daniel 12:5 >>]]</td></tr></table>
 
 

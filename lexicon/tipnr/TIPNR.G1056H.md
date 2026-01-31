@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chinnereth</span>, also known as the Sea of Galilee or the Sea of Tiberias, is a freshwater lake in northern Israel where Jesus conducted much of his ministry.
 - A location first mentioned at [[Num.34.11|Num.34.11]]; 
-- referred to as Chinnereth or Chinnereth \(NIV= Kinnereth\) or \(Sea of \)Chinneroth \(NIV= Sea of Galilee\) <[[H3672G]]> \(<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>\), or \(Sea of \)Galilee<[[G1056H]]> \(<span class='tipnrLangGreek'>Γαλιλαία</span>\), or \(Sea of \)Tiberias or Tiberias<[[G5085G]]> \(<span class='tipnrLangGreek'>Τιβεριάς</span>\).
+- referred to as Chinnereth or Chinnereth \(NIV= Kinnereth\) or \(Sea of \)Chinneroth \(NIV= Sea of Galilee\)  **<big>[[H3672|כִּנְּרוֹת]]</big>**, or \(Sea of \)Galilee **<big>[[G1056|Γαλιλαία]]</big>**, or \(Sea of \)Tiberias or Tiberias **<big>[[G5085|Τιβεριάς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.80677585520321,35.58936052679091&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,10 +18,10 @@ The Sea of Galilee was an important source of livelihood for the people in the r
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Sea of )Chinnereth (NIV= Sea of Galilee) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672G) <small>*Hebrew*</small> | 2x | [[Num.34.11] & [Jos.13.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinnereth\*\|reference=Num.34.11;Jos.13.27) |
-| Chinnereth (NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672G) <small>*Hebrew*</small> | 1x | [Deu.3.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinnereth\*\|reference=Deu.3.17) |
-| (Sea of )Chinneroth (NIV= Sea of Galilee) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672G) <small>*Hebrew*</small> | 1x | [Jos.12.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.12.3) |
-| (Sea of )Galilee | [<span class='tipnrLangGreek'>Γαλιλαία</span>](G1056H) <small>*Greek*</small> | 5x | [[Mat.4.18] ... [Jhn.6.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galilee\*\|reference=Mat.4.18;Mat.15.29;Mrk.1.16;Mrk.7.31;Jhn.6.1) |
-| (Sea of )Tiberias | [<span class='tipnrLangGreek'>Τιβεριάς</span>](G5085G) <small>*Greek*</small> | 1x | [Jhn.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiberias\*\|reference=Jhn.21.1) |
-| Tiberias | [<span class='tipnrLangGreek'>Τιβεριάς</span>](G5085G) <small>*Greek*</small> | 1x | [Jhn.6.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiberias\*\|reference=Jhn.6.1) |
-All Strong's for **Chinnereth or Chinneroth or Galilee_Sea or Tiberias_Sea**: \[[[H3672G]]\] \[[[G1056H]]\] \[[[G5085G]]\]
+| (Sea of )Chinnereth (NIV= Sea of Galilee) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672G) | 2x | [[Num.34.11] & [Jos.13.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinnereth\*\|reference=Num.34.11;Jos.13.27) |
+| Chinnereth (NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672G) | 1x | [Deu.3.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinnereth\*\|reference=Deu.3.17) |
+| (Sea of )Chinneroth (NIV= Sea of Galilee) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672G) | 1x | [Jos.12.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.12.3) |
+| (Sea of )Galilee | [<span class='tipnrLangGreek'>Γαλιλαία</span>](G1056H) | 5x | [[Mat.4.18] ... [Jhn.6.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galilee\*\|reference=Mat.4.18;Mat.15.29;Mrk.1.16;Mrk.7.31;Jhn.6.1) |
+| (Sea of )Tiberias | [<span class='tipnrLangGreek'>Τιβεριάς</span>](G5085G) | 1x | [Jhn.21.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiberias\*\|reference=Jhn.21.1) |
+| Tiberias | [<span class='tipnrLangGreek'>Τιβεριάς</span>](G5085G) | 1x | [Jhn.6.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiberias\*\|reference=Jhn.6.1) |
+All entries for **Chinnereth or Chinneroth or Galilee Sea or Tiberias Sea**:  **<big>[[H3672|כִּנְּרוֹת]]</big>** ☩  **<big>[[G1056|Γαλιλαία]]</big>** ☩  **<big>[[G5085|Τιβεριάς]]</big>**

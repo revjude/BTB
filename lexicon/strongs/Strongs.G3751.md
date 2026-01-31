@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ὀσφῦς‎</span></big> **osphŷs** <small>*(os-foos')*</small> ==**loins**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+**<big><span class="asgreek">‎ὀσφῦς‎</span></big>** **osphŷs** <small>*(os-foos')*</small> ==**loins**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
 <small>of uncertain affinity</small>
 
 $\quad$ loin.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁדֵיאוּר‎</span></big> **Shᵉdêyʼûwr** <small>*(shed-ay-oor')*</small> ==**Shedeur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎שָׂדֶה‎</span><sup><small>[[H7704]]</small></sup> and <span class="ashebrew">‎אוּר‎</span><sup><small>[[H0217]]</small></sup>; spreader of light</small>
+**<big><span class="ashebrew">‎שְׁדֵיאוּר‎</span></big>** **Shᵉdêyʼûwr** <small>*(shed-ay-oor')*</small> ==**Shedeur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H7704|‎שָׂדֶה‎]]</big>** and **<big>[[H0217|‎אוּר‎]]</big>**; spreader of light</small>
 
 $\quad$ Shedeur.
 - § Shedeur = *"darter of light"*

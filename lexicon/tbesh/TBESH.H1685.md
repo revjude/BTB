@@ -1,4 +1,3 @@
-<span class="asaramaic">‎דְּבַח‎</span> <small>***(de.vach)***</small> ==**sacrifice**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H4196]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H4196|מִזְבֵּחַ]]</big>**</small> 
 
-- Aramaic of <i>miz.be.ach</i> (<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎ז‎</span>ְ<span class='ashebrew'>‎ב‎</span>ֵּ<span class='ashebrew'>‎ח‎</span>ַ "altar" [[H4196]])
+- Aramaic of <i>miz.be.ach</i> (<span class='ashebrew'>‎מ‎</span>ִ<span class='ashebrew'>‎ז‎</span>ְ<span class='ashebrew'>‎ב‎</span>ֵּ<span class='ashebrew'>‎ח‎</span>ַ "altar" **<big>[[H4196|מִזְבֵּחַ]]</big>**)

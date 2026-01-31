@@ -6,17 +6,17 @@ The chariots of God are tens of thousands—thousands of thousands are they; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.16|<< Psalms 68:16]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.18|Psalms 68:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] chariotry of  | <span class="ashebrew"><big>רֶ֤כֶב </big></span><small><small><sup>[[H7393G]]</sup></small></small> &#8207;| Re.khev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] twice ten thousand  | <span class="ashebrew"><big>רִבֹּתַ֣יִם </big></span><small><small><sup>[[H7239]]</sup></small></small> &#8207;| ri.bo.Ta.yim <small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousands of  | <span class="ashebrew"><big>אַלְפֵ֣י </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'al.Fei <small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| repetition[s]  | <span class="ashebrew"><big>שִׁנְאָ֑ן </big></span><small><small><sup>[[H8136]]</sup></small></small> &#8207;| shin.'An <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֥י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] among them  | <span class="ashebrew"><big>בָ֝֗ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| Va <small><sup>[[HR]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sinai  | <span class="ashebrew"><big>סִינַ֥י </big></span><small><small><sup>[[H5514G]]</sup></small></small> &#8207;| si.Nai <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in \<the> holiness  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קֹּֽדֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chariotry of  |**<big>&#8207;[[H7393G\|רֶ֤כֶב]]&#8207; </big>**| Re.khev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] twice ten thousand  |**<big>&#8207;[[H7239\|רִבֹּתַ֣יִם]]&#8207; </big>**| ri.bo.Ta.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousands of  |**<big>&#8207;[[H0505G\|אַלְפֵ֣י]]&#8207; </big>**| 'al.Fei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| repetition[s]  |**<big>&#8207;[[H8136\|שִׁנְאָ֑ן]]&#8207; </big>**| shin.'An<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] among them  |**<big>&#8207;[[H9003\|בָ֝֗]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  |**<big>&#8207;[[H5514G\|סִינַ֥י]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in \<the> holiness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6944G\|קֹּֽדֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.16|<< Psalms 68:16]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.18|Psalms 68:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּת‎</span></big> **bath** <small>*(bath)*</small> ==**daughter**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup> (as feminine of <span class="ashebrew">‎בֵּן‎</span><sup><small>[[H1121]]</small></sup>)</small>
+**<big><span class="ashebrew">‎בַּת‎</span></big>** **bath** <small>*(bath)*</small> ==**daughter**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1129|‎בָּנָה‎]]</big>** (as feminine of **<big>[[H1121|‎בֵּן‎]]</big>**)</small>
 
 $\quad$ apple (of the eye), branch, company, daughter, [idiom] first, [idiom] old, [phrase] owl, town, village.
 - ***a daughter*** (used in the same wide sense as other terms of relationship, literally and figuratively)
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1a3)** as personification
 $\quad$ $\quad$ **1a4)** daughter-villages
 $\quad$ $\quad$ **1a5)** description of character
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποθήκη</span><sup><small>[[G0596]]</small></sup> · <span class="asgreek">βάτος</span><sup><small>[[G0943]]</small></sup> · <span class="asgreek">γυνή</span><sup><small>[[G1135]]</small></sup> · <span class="asgreek">θῆλυς</span><sup><small>[[G2338]]</small></sup> · <span class="asgreek">θυγάτηρ</span><sup><small>[[G2364]]</small></sup> · <span class="asgreek">κεράμιον</span><sup><small>[[G2765]]</small></sup> · <span class="asgreek">κώμη</span><sup><small>[[G2968]]</small></sup> · <span class="asgreek">μετρητής</span><sup><small>[[G3355]]</small></sup> · <span class="asgreek">μέτρον</span><sup><small>[[G3358]]</small></sup> · <span class="asgreek">ὅριον</span><sup><small>[[G3725]]</small></sup> · <span class="asgreek">περίοικος</span><sup><small>[[G4040]]</small></sup>
+<small>See Greek: </small>**<big>[[G0596|ἀποθήκη]]</big>** · **<big>[[G0943|βάτος]]</big>** · **<big>[[G1135|γυνή]]</big>** · **<big>[[G2338|θῆλυς]]</big>** · **<big>[[G2364|θυγάτηρ]]</big>** · **<big>[[G2765|κεράμιον]]</big>** · **<big>[[G2968|κώμη]]</big>** · **<big>[[G3355|μετρητής]]</big>** · **<big>[[G3358|μέτρον]]</big>** · **<big>[[G3725|ὅριον]]</big>** · **<big>[[G4040|περίοικος]]</big>**

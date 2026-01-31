@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Igal</span> son of Nathan of Zobah was listed among David's mighty warriors known for their military prowess and bravery.
 - A man living at the time of United Monarchy, only mentioned at [[2Sam.23.36|2Sa.23.36]]; 
-- only referred to as Igal<[[H3008H]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>\); 
-- a son of Nathan<[[H5416I]]>.
+- only referred to as Igal **<big>[[H3008|יִגְאָל]]</big>**; 
+- a son of Nathan **<big>[[H5416|נָתָן]]</big>**.
 
 Igal, the son of Nathan of Zobah, is mentioned in [[2Sam.23.36|2 Samuel 23:36]] as one of King David's mighty warriors. He is included in the list of the "thirty" mighty men who were renowned for their military skills, strength, and bravery. 
 
@@ -19,7 +19,7 @@ Apart from his inclusion in the list of mighty warriors, no other specific detai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Igal | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>](H3008H) <small>*Hebrew*</small> | 1x | [2Sa.23.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igal\*\|reference=2Sa.23.36) |
-All Strong's for **Igal**: \[[[H3008H]]\]
+| Igal | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>](H3008H) | 1x | [2Sa.23.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igal\*\|reference=2Sa.23.36) |
+All entries for **Igal**:  **<big>[[H3008|יִגְאָל]]</big>**
 #### Related Profiles:
 - **[Nathan](H5416I)** (father)

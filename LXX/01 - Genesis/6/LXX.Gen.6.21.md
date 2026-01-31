@@ -7,27 +7,27 @@ And take thou unto thee of all food that is eaten, and thou shalt gather [it] to
 You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.”<small><sub>**MT:**</sub></small>
 [[Gen.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.20|<< Genesis 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.22|Genesis 6:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foods | <big><span class="asgreek">βρωμάτων</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall eat, | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring \[them\] together | <big><span class="asgreek">συνάξεις</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| yourself, | <big><span class="asgreek">σεαυτόν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to them | <big><span class="asgreek">εκείνοις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| to eat. | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall take | **<big>[[G2983\|λήψη]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| foods | **<big>[[G1033\|βρωμάτων]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you shall eat, | **<big>[[G2068\|έδεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall bring \[them\] together | **<big>[[G4863\|συνάξεις]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| yourself, | **<big>[[G4572\|σεαυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to them | **<big>[[G1565\|εκείνοις]]</big>** |
+| to eat. | **<big>[[G2068\|φαγείν]]</big>** |
 [[Gen.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.20|<< Genesis 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.22|Genesis 6:22 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm [
 You must turn your face toward the siege of Jerusalem with your arm bared, and prophesy against it.<small><sub>**MT:**</sub></small>
 [[Ezek.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.6|<< Ezekiel 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.8|Ezekiel 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| siege | <big><span class="asgreek">συγκλεισμόν</span></big> <sup><small><small>[[G9233]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| you shall prepare | <big><span class="asgreek">ετοιμάσεις</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your face, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your arm | <big><span class="asgreek">βραχίονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall stiffen | <big><span class="asgreek">στερεώσεις</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall prophesy | <big><span class="asgreek">προφητεύσεις</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| siege | **<big>[[G9233\|συγκλεισμόν]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| you shall prepare | **<big>[[G2090\|ετοιμάσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your face, | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your arm | **<big>[[G1023\|βραχίονά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall stiffen | **<big>[[G4732\|στερεώσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall prophesy | **<big>[[G4395\|προφητεύσεις]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ezek.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.6|<< Ezekiel 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.8|Ezekiel 4:8 >>]]</td></tr></table>
 
 

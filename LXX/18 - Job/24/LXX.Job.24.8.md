@@ -7,19 +7,19 @@ They are wet with the showers of the mountains, and embrace the rock for want of
 Drenched by mountain rains, they huddle against the rocks for want of shelter.<small><sub>**MT:**</sub></small>
 [[Job.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.7|<< Job 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.9|Job 24:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] mists | <big><span class="asgreek">ψεκάδων</span></big> <sup><small><small>[[G9788]]</small></small></sup> |
-| of \[the\] mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| they are wetted; | <big><span class="asgreek">υγραίνονται</span></big> <sup><small><small>[[G9525]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not holding | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">έχειν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| protection | <big><span class="asgreek">σκέπην</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| \[with\] rock | <big><span class="asgreek">πέτραν</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
-| they covered themselves | <big><span class="asgreek">περιεβάλοντο</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| \[the\] mists | **<big>[[G9788\|ψεκάδων]]</big>** |
+| of \[the\] mountains | **<big>[[G3735\|ορέων]]</big>** |
+| they are wetted; | **<big>[[G9525\|υγραίνονται]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| not holding | **<big>[[G3361\|μη]]</big>** **<big>[[G2192\|έχειν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| protection | **<big>[[G9098\|σκέπην]]</big>** |
+| \[with\] rock | **<big>[[G4073\|πέτραν]]</big>** |
+| they covered themselves | **<big>[[G4016\|περιεβάλοντο]]</big>** |
 [[Job.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.7|<< Job 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.9|Job 24:9 >>]]</td></tr></table>
 
 

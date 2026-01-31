@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲמַסְיָה‎</span></big> **ʻĂmaçyâh** <small>*(am-as-yaw')*</small> ==**Amasiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַס‎</span><sup><small>[[H6006]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has loaded</small>
+**<big><span class="ashebrew">‎עֲמַסְיָה‎</span></big>** **ʻĂmaçyâh** <small>*(am-as-yaw')*</small> ==**Amasiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6006|‎עָמַס‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has loaded</small>
 
 $\quad$ Amasiah.
 - § Amasiah = *"Jehovah is strength"*

@@ -7,33 +7,33 @@ Or in enmity smite him with his hand, that he die: he that smote [him] shall sur
 or if in hostility he strikes him with his hand and he dies, the one who struck him must surely be put to death; he is a murderer. When the avenger of blood finds the murderer, he is to kill him.<small><sub>**MT:**</sub></small>
 [[Num.35.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.20|<< Numbers 35:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.22|Numbers 35:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| vehement anger | <big><span class="asgreek">μήνιν</span></big> <sup><small><small>[[G8318]]</small></small></sup> |
-| he strikes | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should die -- | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| be put to death | <big><span class="asgreek">θανατούσθω</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| striking | <big><span class="asgreek">πατάξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| he is a murderer! | <big><span class="asgreek">φονευτής</span></big> <sup><small><small>[[G9655]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one acting as next of kin | <big><span class="asgreek">αγχιστεύων</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| for | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| shall kill | <big><span class="asgreek">αποκτενεί</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one man-slaying | <big><span class="asgreek">φονεύσαντα</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meeting up with | <big><span class="asgreek">συναντήσαι</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | **<big>[[G2228\|η]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| vehement anger | **<big>[[G8318\|μήνιν]]</big>** |
+| he strikes | **<big>[[G3960\|επάταξεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| by the | **<big>[[G3588\|τη]]</big>** |
+| hand, | **<big>[[G5495\|χειρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should die -- | **<big>[[G0599\|αποθάνη]]</big>** |
+| to death | **<big>[[G2288\|θανάτω]]</big>** |
+| be put to death | **<big>[[G2289\|θανατούσθω]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| striking | **<big>[[G3960\|πατάξας]]</big>** |
+| he is a murderer! | **<big>[[G9655\|φονευτής]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| one acting as next of kin | **<big>[[G6131\|αγχιστεύων]]</big>** |
+| for | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| shall kill | **<big>[[G0615\|αποκτενεί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one man-slaying | **<big>[[G5407\|φονεύσαντα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| meeting up with | **<big>[[G4876\|συναντήσαι]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Num.35.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.20|<< Numbers 35:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.22|Numbers 35:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לוּז‎</span></big> **lûwz** <small>*(looz)*</small> ==**be devious**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; (compare <span class="ashebrew">‎לָוָה‎</span><sup><small>[[H3867]]</small></sup>, <span class="ashebrew">‎לוּט‎</span><sup><small>[[H3874]]</small></sup> and <span class="ashebrew">‎לוּן‎</span><sup><small>[[H3885]]</small></sup>)</small>
+**<big><span class="ashebrew">‎לוּז‎</span></big>** **lûwz** <small>*(looz)*</small> ==**be devious**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; (compare **<big>[[H3867|‎לָוָה‎]]</big>**, **<big>[[H3874|‎לוּט‎]]</big>** and **<big>[[H3885|‎לוּן‎]]</big>**)</small>
 
 $\quad$ depart, froward, perverse(-ness).
 - ***to turn aside*** , i.e. (literally) ***to depart***, (figuratively) ***be perverse***

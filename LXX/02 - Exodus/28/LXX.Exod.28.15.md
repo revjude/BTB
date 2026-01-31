@@ -7,36 +7,36 @@ And thou shalt make the breastplate of judgment with cunning work; after the wor
 You are also to make a breastpiece of judgment with the same workmanship as the ephod. Construct it with gold, with blue, purple, and scarlet yarn, and with finely spun linen.<small><sub>**MT:**</sub></small>
 [[Exod.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.14|<< Exodus 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.16|Exodus 28:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| an oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judgments; | <big><span class="asgreek">κρίσεων</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of an embroiderer, | <big><span class="asgreek">ποικιλτού</span></big> <sup><small><small>[[G8833]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| proportion | <big><span class="asgreek">ρυθμόν</span></big> <sup><small><small>[[G9038]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece; | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blue, | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| purple, | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scarlet | <big><span class="asgreek">κοκκίνου</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| being twined, | <big><span class="asgreek">κεκλωσμένου</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined -- | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| an oracle | **<big>[[G3051\|λογείον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| judgments; | **<big>[[G2920\|κρίσεων]]</big>** |
+| a work | **<big>[[G2041\|έργον]]</big>** |
+| of an embroiderer, | **<big>[[G8833\|ποικιλτού]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| proportion | **<big>[[G9038\|ρυθμόν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece; | **<big>[[G7490\|επωμίδος]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blue, | **<big>[[G5192\|υακίνθου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| purple, | **<big>[[G4209\|πορφύρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scarlet | **<big>[[G2847\|κοκκίνου]]</big>** |
+| being twined, | **<big>[[G8029\|κεκλωσμένου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined -- | **<big>[[G8029\|κεκλωσμένης]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
 [[Exod.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.14|<< Exodus 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.16|Exodus 28:16 >>]]</td></tr></table>
 
 

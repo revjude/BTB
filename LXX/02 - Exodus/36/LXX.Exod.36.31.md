@@ -7,34 +7,34 @@ And he made bars of shittim wood; five for the boards of the one side of the tab
 He also made five crossbars of acacia wood for the frames on one side of the tabernacle,<small><sub>**MT:**</sub></small>
 [[Exod.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.30|<< Exodus 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.32|Exodus 36:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| bars | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| incorruptible | <big><span class="asgreek">ασήπτων</span></big> <sup><small><small>[[G6568]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posts | <big><span class="asgreek">στύλοις</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent; | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| bars | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posts | <big><span class="asgreek">στύλοις</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side | <big><span class="asgreek">κλίτει</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| bars | **<big>[[G8352\|μοχλούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| wood | **<big>[[G3586\|ξύλων]]</big>** |
+| incorruptible | **<big>[[G6568\|ασήπτων]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| posts | **<big>[[G4769\|στύλοις]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| part | **<big>[[G3313\|μέρους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent; | **<big>[[G4633\|σκηνής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| bars | **<big>[[G8352\|μοχλούς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| posts | **<big>[[G4769\|στύλοις]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| side | **<big>[[G8026\|κλίτει]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| second | **<big>[[G1208\|δευτέρω]]</big>** |
 [[Exod.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.30|<< Exodus 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.32|Exodus 36:32 >>]]</td></tr></table>
 
 

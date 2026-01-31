@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִשְׁיוֹן‎</span></big> **Qishyôwn** <small>*(kish-yone')*</small> ==**Kishion**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קְשִׁי‎</span><sup><small>[[H7190]]</small></sup>; hard ground</small>
+**<big><span class="ashebrew">‎קִשְׁיוֹן‎</span></big>** **Qishyôwn** <small>*(kish-yone')*</small> ==**Kishion**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7190|‎קְשִׁי‎]]</big>**; hard ground</small>
 
 $\quad$ Kishion, Keshon.
 - § Kishion = *"hard"*

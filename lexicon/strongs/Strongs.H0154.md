@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶדְרֶעִי‎</span></big> **ʼedreʻîy** <small>*(ed-reh'-ee)*</small> ==**Edrei**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the equivalent of <span class="asaramaic">‎אֶדְרָע‎</span><sup><small>[[H0153]]</small></sup>; mighty</small>
+**<big><span class="ashebrew">‎אֶדְרֶעִי‎</span></big>** **ʼedreʻîy** <small>*(ed-reh'-ee)*</small> ==**Edrei**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the equivalent of **<big>[[H0153|‎אֶדְרָע‎]]</big>**; mighty</small>
 
 $\quad$ Edrei.
 - § Edrei = *"goodly pasture"*

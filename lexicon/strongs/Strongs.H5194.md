@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶטַע‎</span></big> **neṭaʻ** <small>*(neh'-tah)*</small> ==**plantation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָטַע‎</span><sup><small>[[H5193]]</small></sup></small>
+**<big><span class="ashebrew">‎נֶטַע‎</span></big>** **neṭaʻ** <small>*(neh'-tah)*</small> ==**plantation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5193|‎נָטַע‎]]</big>**</small>
 
 $\quad$ plant.
 - ***a plant***
@@ -11,4 +11,4 @@ $\quad$ **1a)** plantation
 $\quad$ **1b)** planting (act of)
 $\quad$ **1c)** plant
 
-<sub><small>See Greek: </small></sub><span class="asgreek">νεόφυτος</span><sup><small>[[G3504]]</small></sup>
+<small>See Greek: </small>**<big>[[G3504|νεόφυτος]]</big>**

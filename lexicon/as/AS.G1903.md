@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπενδύτης</span></span>, <span class="asgreek">-ου, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ἐπενδύω</span>), </span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">מְעִיל</span> <small><sup>[[H4598]]</sup></small> [[LXX.Lev.8.7|Le 8:7]] A (Aq. <span class="asgreek">ἐπένδυμα</span>), [[LXX.1Sam.18.4|I Ki 18:4]] A, [[LXX.2Sam.13.18|II Ki 13:18]] \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπενδύτης</span></span>, <span class="asgreek">-ου, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ἐπενδύω</span>), </span>  <span class="asseptuagint">\[in LXX for **<big>[[H4598|מְעִיל]]</big>** [[LXX.Lev.8.7|Le 8:7]] A (Aq. <span class="asgreek">ἐπένδυμα</span>), [[LXX.1Sam.18.4|I Ki 18:4]] A, [[LXX.2Sam.13.18|II Ki 13:18]] \* ;\] </span> </span>
 <span class="asitalic">an outer tunic</span> (RV, coat): [[John.21.7|Jo 21:7]] .†
 
 **Abbott-Smith References**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרַוְנָה‎</span></big> **ʼĂravnâh** <small>*(ar-av-naw')*</small> ==**Araunah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (by transposition) <span class="ashebrew">אוֹרְנָה</span> **ʼÔwrᵉnâh** <small>*(ore-naw')*</small>; or <span class="ashebrew">אַרְנִיָּה</span> **ʼArnîyâh** <small>*(ar-nee-yaw')*</small>; all by orthographical variation for <span class="ashebrew">‎אׇרְנָן‎</span><sup><small>[[H0771]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲרַוְנָה‎</span></big>** **ʼĂravnâh** <small>*(ar-av-naw')*</small> ==**Araunah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (by transposition) **<big><span class="ashebrew">אוֹרְנָה</span></big>** **ʼÔwrᵉnâh** <small>*(ore-naw')*</small>; or **<big><span class="ashebrew">אַרְנִיָּה</span></big>** **ʼArnîyâh** <small>*(ar-nee-yaw')*</small>; all by orthographical variation for **<big>[[H0771|‎אׇרְנָן‎]]</big>**</small>
 
 $\quad$ Araunah.
 - ***Aravnah*** (or Arnijah or Ornah), a Jebusite

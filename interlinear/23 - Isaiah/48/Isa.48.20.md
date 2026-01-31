@@ -6,26 +6,26 @@ Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| go out  | <span class="ashebrew"><big>צְא֣וּ </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| tze.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Babylon  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>בָּבֶל֮ </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ba.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flee  | <span class="ashebrew"><big>בִּרְח֣וּ </big></span><small><small><sup>[[H1272]]</sup></small></small> &#8207;| bir.Chu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] Chaldeans  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כַּשְׂדִּים֒ </big></span><small><small><sup>[[H3778]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> kas.Dim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with a sound of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a shout of joy  | <span class="ashebrew"><big>רִנָּ֗ה </big></span><small><small><sup>[[H7440]]</sup></small></small> &#8207;| ri.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| declare  | <span class="ashebrew"><big>הַגִּ֤ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ha.Gi.du <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| proclaim  | <span class="ashebrew"><big>הַשְׁמִ֙יעוּ֙ </big></span><small><small><sup>[[H8085I]]</sup></small></small> &#8207;| hash.Mi.'u <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֔את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| send out it  | <span class="ashebrew"><big>הוֹצִיא֖וּ </big></span><small><small><sup>[[H3318H]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ho.tzi.'U. <small><sup>[[HVhv2mp]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] end of  | <span class="ashebrew"><big>קְצֵ֣ה </big></span><small><small><sup>[[H7097A]]</sup></small></small> &#8207;| ke.Tzeh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אִמְר֕וּ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'im.Ru <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has redeemed  | <span class="ashebrew"><big>גָּאַ֥ל </big></span><small><small><sup>[[H1350A]]</sup></small></small> &#8207;| ga.'Al <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servant his  | <span class="ashebrew"><big>עַבְדּ֥ </big></span><small><small><sup>[[H5650]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| av.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹֽב </big></span><small><small><sup>[[H3290]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go out  |**<big>&#8207;[[H3318G\|צְא֣וּ]]&#8207; </big>**| tze.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Babylon  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0894\|בָּבֶל֮]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flee  |**<big>&#8207;[[H1272\|בִּרְח֣וּ]]&#8207; </big>**| bir.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] Chaldeans  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3778\|כַּשְׂדִּים֒]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kas.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a sound of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shout of joy  |**<big>&#8207;[[H7440\|רִנָּ֗ה]]&#8207; </big>**| ri.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| declare  |**<big>&#8207;[[H5046\|הַגִּ֤ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| proclaim  |**<big>&#8207;[[H8085I\|הַשְׁמִ֙יעוּ֙]]&#8207; </big>**| hash.Mi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֔את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| send out it  |**<big>&#8207;[[H3318H\|הוֹצִיא֖וּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ho.tzi.'U.<small><sup>[[HVhv2mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] end of  |**<big>&#8207;[[H7097A\|קְצֵ֣ה]]&#8207; </big>**| ke.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אִמְר֕וּ]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has redeemed  |**<big>&#8207;[[H1350A\|גָּאַ֥ל]]&#8207; </big>**| ga.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant his  |**<big>&#8207;[[H5650\|עַבְדּ֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| av.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
 

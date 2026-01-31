@@ -10,25 +10,25 @@ Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every
 Solomon had a vineyard in Baal-hamon. He leased it to the tenants. For its fruit, each was to bring a thousand shekels of silver.<small><sub>**MT:**</sub></small>
 [[Song.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.10|<< Song of Solomon 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.12|Song of Solomon 8:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A Vineyard | <big><span class="asgreek">αμπελών</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| existed | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Baal-hamon. | <big><span class="asgreek">Βεελαμών</span></big> <sup><small><small>[[H1174]]</small></small></sup> |
-| He gave over | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his vineyard | <big><span class="asgreek">αμπελώνα</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| keeping \[it\]. | <big><span class="asgreek">τηρούσιν</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
-| \[Every\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| shall bring | <big><span class="asgreek">οίσει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| its fruit | <big><span class="asgreek">καρπώ</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| \[pieces\] of silver. | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| A Vineyard | **<big>[[G0290\|αμπελών]]</big>** |
+| existed | **<big>[[G1096\|εγενήθη]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Baal-hamon. | **<big>[[H1174\|Βεελαμών]]</big>** |
+| He gave over | **<big>[[G1325\|έδωκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his vineyard | **<big>[[G0290\|αμπελώνα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| keeping \[it\]. | **<big>[[G5083\|τηρούσιν]]</big>** |
+| \[Every\] man | **<big>[[G0435\|ανήρ]]</big>** |
+| shall bring | **<big>[[G5342\|οίσει]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| its fruit | **<big>[[G2590\|καρπώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίους]]</big>** |
+| \[pieces\] of silver. | **<big>[[G0694\|αργυρίου]]</big>** |
 [[Song.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.10|<< Song of Solomon 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.12|Song of Solomon 8:12 >>]]</td></tr></table>
 
 

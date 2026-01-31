@@ -11,27 +11,27 @@ And he said, Behold, I have heard that there is corn in Egypt: get you down thit
 > $\quad$ referenced by: [[Acts.7.12|Acts 7:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I have heard | <big><span class="asgreek">ακήκοα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| grain | <big><span class="asgreek">σίτος</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt; | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| go down | <big><span class="asgreek">κατάβητε</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| buy | <big><span class="asgreek">πρίασθε</span></big> <sup><small><small>[[G8883]]</small></small></sup> |
-| for us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a small \[amount\] | <big><span class="asgreek">μικρά</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| of foods! | <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| we should live, | <big><span class="asgreek">ζώμεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| die. | <big><span class="asgreek">αποθάνωμεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I have heard | **<big>[[G0191\|ακήκοα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there is | **<big>[[G1510\|έστι]]</big>** |
+| grain | **<big>[[G4621\|σίτος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt; | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| go down | **<big>[[G2597\|κατάβητε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| buy | **<big>[[G8883\|πρίασθε]]</big>** |
+| for us | **<big>[[G1473\|ημίν]]</big>** |
+| a small \[amount\] | **<big>[[G3398\|μικρά]]</big>** |
+| of foods! | **<big>[[G1033\|βρώματα]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| we should live, | **<big>[[G2198\|ζώμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| die. | **<big>[[G0599\|αποθάνωμεν]]</big>** |
 [[Gen.42.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.1|<< Genesis 42:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.3|Genesis 42:3 >>]]</td></tr></table>
 
 

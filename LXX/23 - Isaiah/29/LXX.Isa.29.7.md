@@ -7,39 +7,39 @@ And the multitude of all the nations that fight against Ariel, even all that fig
 All the many nations going out to battle against Ariel—even all who war against her, laying siege and attacking her—will be like a dream, like a vision in the night,<small><sub>**MT:**</sub></small>
 [[Isa.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.6|<< Isaiah 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.8|Isaiah 29:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| ones dreaming | <big><span class="asgreek">ενυπνιαζόμενος</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| sleep | <big><span class="asgreek">ύπνω</span></big> <sup><small><small>[[G5258]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| march | <big><span class="asgreek">επεστράτευσαν</span></big> <sup><small><small>[[G7457]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Ariel, | <big><span class="asgreek">Αριήλ</span></big> <sup><small><small>[[H0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soldiering | <big><span class="asgreek">στρατευόμενοι</span></big> <sup><small><small>[[G4754]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering together | <big><span class="asgreek">συνηγμένοι</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| afflicting | <big><span class="asgreek">θλίβοντες</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| ones dreaming | **<big>[[G1797\|ενυπνιαζόμενος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| sleep | **<big>[[G5258\|ύπνω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| riches | **<big>[[G4149\|πλούτος]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| as many as | **<big>[[G3745\|όσοι]]</big>** |
+| march | **<big>[[G7457\|επεστράτευσαν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Ariel, | **<big>[[H0740\|Αριήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| soldiering | **<big>[[G4754\|στρατευόμενοι]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| gathering together | **<big>[[G4863\|συνηγμένοι]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| afflicting | **<big>[[G2346\|θλίβοντες]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Isa.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.6|<< Isaiah 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.8|Isaiah 29:8 >>]]</td></tr></table>
 
 

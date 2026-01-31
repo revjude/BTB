@@ -7,34 +7,34 @@ And he shall be unto thee a restorer of [thy] life, and a nourisher of thine old
 He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given him birth.”<small><sub>**MT:**</sub></small>
 [[Ruth.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.14|<< Ruth 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.16|Ruth 4:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| restoring | <big><span class="asgreek">επιστρέφοντα</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| life, | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to nourish | <big><span class="asgreek">διαθρέψαι</span></big> <sup><small><small>[[G6894]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your gray hair; | <big><span class="asgreek">πολιάν σου</span></big> <sup><small><small>[[G8842]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your daughter-in-law, | <big><span class="asgreek">νύμφη</span></big> <sup><small><small>[[G3565]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one loving | <big><span class="asgreek">αγαπήσασά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| sons. | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he will be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| restoring | **<big>[[G1994\|επιστρέφοντα]]</big>** |
+| life, | **<big>[[G5590\|ψυχήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to nourish | **<big>[[G6894\|διαθρέψαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your gray hair; | **<big>[[G8842\|πολιάν σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your daughter-in-law, | **<big>[[G3565\|νύμφη]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| one loving | **<big>[[G0025\|αγαπήσασά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| good | **<big>[[G0018\|αγαθή]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| sons. | **<big>[[G5207\|υιούς]]</big>** |
 [[Ruth.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.14|<< Ruth 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.16|Ruth 4:16 >>]]</td></tr></table>
 
 

@@ -7,53 +7,53 @@ And they withstood Uzziah the king, and said unto him, [It appertaineth] not unt
 They took their stand against King Uzziah and said, “Uzziah, you have no right to offer incense to the LORD. Only the priests, the descendants of Aaron, are consecrated to burn incense. Leave the sanctuary, for you have acted unfaithfully; you will not receive honor from the LORD God.”<small><sub>**MT:**</sub></small>
 [[2Chr.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.17|<< 2 Chronicles 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.19|2 Chronicles 26:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they stood by | <big><span class="asgreek">επέστησαν</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Uzziah | <big><span class="asgreek">Οζίαν</span></big> <sup><small><small>[[G3604]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[It is\] not for you, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Uzziah, | <big><span class="asgreek">Οζία</span></big> <sup><small><small>[[G3604]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to burn incense | <big><span class="asgreek">θυμιάσαι</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερεύσιν</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones having been sanctified | <big><span class="asgreek">ηγιασμένοις</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to burn incense. | <big><span class="asgreek">θυμιάσαι</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">έξελθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sanctuary! | <big><span class="asgreek">αγιάσματος</span></big> <sup><small><small>[[G6114]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you departed | <big><span class="asgreek">απέστης</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they stood by | **<big>[[G2186\|επέστησαν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Uzziah | **<big>[[G3604\|Οζίαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king, | **<big>[[G0935\|βασιλέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| \[It is\] not for you, | **<big>[[G3756\|ου]]</big>** **<big>[[G1473\|σοι]]</big>** |
+| Uzziah, | **<big>[[G3604\|Οζία]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to burn incense | **<big>[[G2370\|θυμιάσαι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| priests, | **<big>[[G2409\|ιερεύσιν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| ones having been sanctified | **<big>[[G0037\|ηγιασμένοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to burn incense. | **<big>[[G2370\|θυμιάσαι]]</big>** |
+| Go forth | **<big>[[G1831\|έξελθε]]</big>** |
+| from | **<big>[[G0575\|απο]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| sanctuary! | **<big>[[G6114\|αγιάσματος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you departed | **<big>[[G0868\|απέστης]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| God. | **<big>[[G2316\|θεού]]</big>** |
 [[2Chr.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.17|<< 2 Chronicles 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.19|2 Chronicles 26:19 >>]]</td></tr></table>
 
 

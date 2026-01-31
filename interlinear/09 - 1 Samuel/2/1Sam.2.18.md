@@ -6,17 +6,17 @@ Now Samuel was ministering before the LORD—a boy wearing a linen ephod.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.17|<< 1 Samuel 2:17]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.19|1 Samuel 2:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Samuel  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמוּאֵ֕ל </big></span><small><small><sup>[[H8050G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.mu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] serving  | <span class="ashebrew"><big>מְשָׁרֵ֖ת </big></span><small><small><sup>[[H8334]]</sup></small></small> &#8207;| me.sha.Ret <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] presence of  | <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lad  | <span class="ashebrew"><big>נַ֕עַר </big></span><small><small><sup>[[H5288]]</sup></small></small> &#8207;| Na.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| girded  | <span class="ashebrew"><big>חָג֖וּר </big></span><small><small><sup>[[H2296]]</sup></small></small> &#8207;| cha.Gur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ephod of  | <span class="ashebrew"><big>אֵפ֥וֹד </big></span><small><small><sup>[[H0646]]</sup></small></small> &#8207;| 'e.Fod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| linen  | <span class="ashebrew"><big>בָּֽד </big></span><small><small><sup>[[H0906]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Bad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Samuel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8050G\|שְׁמוּאֵ֕ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] serving  |**<big>&#8207;[[H8334\|מְשָׁרֵ֖ת]]&#8207; </big>**| me.sha.Ret<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] presence of  |**<big>&#8207;[[H6440G\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lad  |**<big>&#8207;[[H5288\|נַ֕עַר]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| girded  |**<big>&#8207;[[H2296\|חָג֖וּר]]&#8207; </big>**| cha.Gur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ephod of  |**<big>&#8207;[[H0646\|אֵפ֥וֹד]]&#8207; </big>**| 'e.Fod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| linen  |**<big>&#8207;[[H0906\|בָּֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Bad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.17|<< 1 Samuel 2:17]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.19|1 Samuel 2:19 >>]]</td></tr></table>
 
 

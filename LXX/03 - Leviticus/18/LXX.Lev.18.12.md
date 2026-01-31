@@ -7,17 +7,17 @@ Thou shalt not uncover the nakedness of thy father’s sister: she [is] thy fath
 You must not have sexual relations with your father’s sister; she is your father’s close relative.<small><sub>**MT:**</sub></small>
 [[Lev.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.11|<< Leviticus 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.13|Leviticus 18:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> |
-| sister | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| of your father's | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| uncover, | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| a member of the family | <big><span class="asgreek">οικεία</span></big> <sup><small><small>[[G3609]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[The\] indecency | **<big>[[G0808\|ασχημοσύνην]]</big>** |
+| sister | **<big>[[G0079\|αδελφής]]</big>** |
+| of your father's | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| uncover, | **<big>[[G0601\|αποκαλύψεις]]</big>** |
+| a member of the family | **<big>[[G3609\|οικεία]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| of your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| she is | **<big>[[G1510\|εστίν]]</big>** |
 [[Lev.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.11|<< Leviticus 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.13|Leviticus 18:13 >>]]</td></tr></table>
 
 

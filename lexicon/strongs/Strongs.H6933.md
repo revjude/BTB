@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קַדְמַי‎</span></big> **qadmay** <small>*(kad-mah'-ee)*</small> ==**first**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) from a root corresponding to <span class="ashebrew">‎קָדַם‎</span><sup><small>[[H6923]]</small></sup></small>
+**<big><span class="asaramaic">‎קַדְמַי‎</span></big>** **qadmay** <small>*(kad-mah'-ee)*</small> ==**first**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) from a root corresponding to **<big>[[H6923|‎קָדַם‎]]</big>**</small>
 
 $\quad$ first.
 - ***first***

@@ -7,27 +7,27 @@ Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar
 Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter.<small><sub>**MT:**</sub></small>
 [[Dan.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.15|<< Daniel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.17|Daniel 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
-| Meshach, | <big><span class="asgreek">Μισάχ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abed-nego, | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Nebuchadnezzar, | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| need | <big><span class="asgreek">χρείαν</span></big> <sup><small><small>[[G5532]]</small></small></sup> |
-| have | <big><span class="asgreek">έχομεν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| We | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter | <big><span class="asgreek">ρήματος</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to answer | <big><span class="asgreek">αποκριθήναί</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθησαν]]</big>** |
+| Shadrach, | **<big>[[H7715\|Σεδράχ]]</big>** |
+| Meshach, | **<big>[[H4336\|Μισάχ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abed-nego, | **<big>[[H5665\|Αβδεναγώ]]</big>** |
+| saying | **<big>[[G3004\|λέγοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to king | **<big>[[G0935\|βασιλεί]]</big>** |
+| Nebuchadnezzar, | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| need | **<big>[[G5532\|χρείαν]]</big>** |
+| have | **<big>[[G2192\|έχομεν]]</big>** |
+| We | **<big>[[G1473\|ημείς]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this matter | **<big>[[G4487\|ρήματος]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| to answer | **<big>[[G0611\|αποκριθήναί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Dan.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.15|<< Daniel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.17|Daniel 3:17 >>]]</td></tr></table>
 
 

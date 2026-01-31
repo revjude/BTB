@@ -7,34 +7,34 @@ If a man have two wives, one beloved, and another hated, and they have born him 
 If a man has two wives, one beloved and the other unloved, and both bear him sons, but the unloved wife has the firstborn son,<small><sub>**MT:**</sub></small>
 [[Deut.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.14|<< Deuteronomy 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.16|Deuteronomy 21:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| there be | <big><span class="asgreek">γένωνται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to a man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| wives, | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being loved, | <big><span class="asgreek">ηγαπημένη</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being detested, | <big><span class="asgreek">μισουμένη</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should bear with | <big><span class="asgreek">τέκωσιν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[both\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being loved | <big><span class="asgreek">ηγαπημένη</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being detested, | <big><span class="asgreek">μισουμένη</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is born | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \[the\] first-born | <big><span class="asgreek">πρωτότοκος</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one being detested, | <big><span class="asgreek">μισουμένης</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| there be | **<big>[[G1096\|γένωνται]]</big>** |
+| to a man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| wives, | **<big>[[G1135\|γυναίκες]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| being loved, | **<big>[[G0025\|ηγαπημένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| being detested, | **<big>[[G3404\|μισουμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they should bear with | **<big>[[G5088\|τέκωσιν]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| \[both\] the | **<big>[[G3588\|η]]</big>** |
+| one being loved | **<big>[[G0025\|ηγαπημένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| one being detested, | **<big>[[G3404\|μισουμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is born | **<big>[[G1096\|γένηται]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| \[the\] first-born | **<big>[[G4416\|πρωτότοκος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| one being detested, | **<big>[[G3404\|μισουμένης]]</big>** |
 [[Deut.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.14|<< Deuteronomy 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.16|Deuteronomy 21:16 >>]]</td></tr></table>
 
 

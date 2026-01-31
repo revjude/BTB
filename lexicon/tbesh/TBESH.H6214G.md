@@ -1,4 +1,3 @@
-<span class="ashebrew">‎עֲשָׂהאֵל‎</span> <small>***(a.sa.h.el)***</small> ==**Asahel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-- A man living at the time of United Monarchy, first mentioned at [[2Sam.2.18|2Sa.2.18]] his mother was Zeruiah ([[H6870]])
--  brother of: Abishai ([[H0052]]) and Joab ([[H3097]])
--  father of: Zebadiah ([[H2069K]])
+- A man living at the time of United Monarchy, first mentioned at [[2Sam.2.18|2Sa.2.18]] his mother was Zeruiah (**<big>[[H6870|צְרוּיָה]]</big>**)
+-  brother of: Abishai (**<big>[[H0052|אֲבִישַׁי]]</big>**) and Joab (**<big>[[H3097|יוֹאָב]]</big>**)
+-  father of: Zebadiah (**<big>[[H2069K|זְבַדְיָה]]</big>**)

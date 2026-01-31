@@ -10,31 +10,31 @@ And thou shalt make the court of the tabernacle: for the south side southward [t
 You are also to make a courtyard for the tabernacle. On the south side of the courtyard make curtains of finely spun linen, a hundred cubits long on one side,<small><sub>**MT:**</sub></small>
 [[Exod.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.8|<< Exodus 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.10|Exodus 27:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a courtyard | <big><span class="asgreek">αυλήν</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| for the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side, | <big><span class="asgreek">κλίτος</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south, | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| \[and\] shrouds | <big><span class="asgreek">ιστία</span></big> <sup><small><small>[[G7732]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| being twined, | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| \[the\] length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| side. | <big><span class="asgreek">κλίτει</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| a courtyard | **<big>[[G0833\|αυλήν]]</big>** |
+| for the | **<big>[[G3588\|τη]]</big>** |
+| tent | **<big>[[G4633\|σκηνή]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| side, | **<big>[[G8026\|κλίτος]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south, | **<big>[[G3047\|λίβα]]</big>** |
+| \[and\] shrouds | **<big>[[G7732\|ιστία]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| linen | **<big>[[G1040\|βύσσου]]</big>** |
+| being twined, | **<big>[[G8029\|κεκλωσμένης]]</big>** |
+| \[the\] length | **<big>[[G3372\|μήκος]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| side. | **<big>[[G8026\|κλίτει]]</big>** |
 [[Exod.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.8|<< Exodus 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.10|Exodus 27:10 >>]]</td></tr></table>
 
 

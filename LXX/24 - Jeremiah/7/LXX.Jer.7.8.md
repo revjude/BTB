@@ -7,17 +7,17 @@ Behold, ye trust in lying words, that cannot profit.
 But look, you keep trusting in deceptive words to no avail.<small><sub>**MT:**</sub></small>
 [[Jer.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.7|<< Jeremiah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.9|Jeremiah 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But since | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rely | <big><span class="asgreek">πεποίθατε</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| lying | <big><span class="asgreek">ψευδέσιν</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| from where | <big><span class="asgreek">όθεν</span></big> <sup><small><small>[[G3606]]</small></small></sup> |
-| you will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be benefitted; | <big><span class="asgreek">ωφεληθήσεσθε</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
+| But since | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| rely | **<big>[[G3982\|πεποίθατε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| words | **<big>[[G3056\|λόγοις]]</big>** |
+| lying | **<big>[[G5571\|ψευδέσιν]]</big>** |
+| from where | **<big>[[G3606\|όθεν]]</big>** |
+| you will not | **<big>[[G3756\|ουκ]]</big>** |
+| be benefitted; | **<big>[[G5623\|ωφεληθήσεσθε]]</big>** |
 [[Jer.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.7|<< Jeremiah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.9|Jeremiah 7:9 >>]]</td></tr></table>
 
 

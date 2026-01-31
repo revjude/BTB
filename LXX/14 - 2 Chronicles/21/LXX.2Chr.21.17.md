@@ -7,41 +7,41 @@ And they came up into Judah, and brake into it, and carried away all the substan
 So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz, his youngest.<small><sub>**MT:**</sub></small>
 [[2Chr.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.16|<< 2 Chronicles 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.18|2 Chronicles 21:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| overpowered it, | <big><span class="asgreek">κατεδυνάστευσαν</span></big> <sup><small><small>[[G2616]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| captured | <big><span class="asgreek">ηχμαλώτευσαν</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| possessions | <big><span class="asgreek">ύπαρξιν</span></big> <sup><small><small>[[G5223]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[houses\]\<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons, | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not left | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">κατελείφθη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| except | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| Jehoahaz | <big><span class="asgreek">Ιοαχάζ</span></big> <sup><small><small>[[H3059]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| youngest | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons. | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| overpowered it, | **<big>[[G2616\|κατεδυνάστευσαν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| captured | **<big>[[G0162\|ηχμαλώτευσαν]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| possessions | **<big>[[G5223\|ύπαρξιν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| they found | **<big>[[G2147\|εύρον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[houses\]\<obj.> | **<big>[[G3588\|τους]]</big>** |
+| of his sons, | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his daughters. | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was not left | **<big>[[G3756\|ου]]</big>** **<big>[[G2641\|κατελείφθη]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| except | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| Jehoahaz | **<big>[[H3059\|Ιοαχάζ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| youngest | **<big>[[G3501\|νεώτερος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons. | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Chr.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.16|<< 2 Chronicles 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.18|2 Chronicles 21:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טׇהֳרָה‎</span></big> **ṭohŏrâh** <small>*(toh-or-aw')*</small> ==**purifying**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎טֹהַר‎</span><sup><small>[[H2892]]</small></sup></small>
+**<big><span class="ashebrew">‎טׇהֳרָה‎</span></big>** **ṭohŏrâh** <small>*(toh-or-aw')*</small> ==**purifying**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2892|‎טֹהַר‎]]</big>**</small>
 
 $\quad$ [idiom] is cleansed, cleansing, purification(-fying).
 - ***ceremonial purification***
@@ -9,4 +9,4 @@ $\quad$ [idiom] is cleansed, cleansing, purification(-fying).
 $\quad$ **1a)** purifying, menstruation
 $\quad$ **1b)** cleansing, purification
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγνεία</span><sup><small>[[G0047]]</small></sup> · <span class="asgreek">καθαρισμός</span><sup><small>[[G2512]]</small></sup>
+<small>See Greek: </small>**<big>[[G0047|ἁγνεία]]</big>** · **<big>[[G2512|καθαρισμός]]</big>**

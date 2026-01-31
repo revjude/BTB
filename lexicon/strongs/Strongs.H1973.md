@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָלְאָה‎</span></big> **hâlᵉʼâh** <small>*(haw-leh-aw')*</small> ==**further**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+**<big><span class="ashebrew">‎הָלְאָה‎</span></big>** **hâlᵉʼâh** <small>*(haw-leh-aw')*</small> ==**further**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
 <small>from the primitive form of the article (hal)</small>
 
 $\quad$ back, beyond, (hence,-) forward, hitherto, thence, forth, yonder.
@@ -9,4 +9,4 @@ $\quad$ back, beyond, (hence,-) forward, hitherto, thence, forth, yonder.
 $\quad$ **1a)** yonder, beyond (of place)
 $\quad$ **1b)** onwards (of time)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">ἐκεῖ</span><sup><small>[[G1563]]</small></sup> · <span class="asgreek">ἐπέκεινα</span><sup><small>[[G1900]]</small></sup>
+<small>See Greek: </small>**<big>[[G0165|αἰών]]</big>** · **<big>[[G1563|ἐκεῖ]]</big>** · **<big>[[G1900|ἐπέκεινα]]</big>**

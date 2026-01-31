@@ -7,21 +7,21 @@ Benjamin shall ravin [as] a wolf: in the morning he shall devour the prey, and a
 Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder.”<small><sub>**MT:**</sub></small>
 [[Gen.49.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.26|<< Genesis 49:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.28|Genesis 49:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| wolf | <big><span class="asgreek">λύκος</span></big> <sup><small><small>[[G3074]]</small></small></sup> |
-| a predacious | <big><span class="asgreek">άρπαξ</span></big> <sup><small><small>[[G0727]]</small></small></sup> |
-| in the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| early morning | <big><span class="asgreek">πρωϊνόν</span></big> <sup><small><small>[[G4407]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">έδεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| he distributes | <big><span class="asgreek">διαδώσει</span></big> <sup><small><small>[[G1239]]</small></small></sup> |
-| provisions. | <big><span class="asgreek">τροφήν</span></big> <sup><small><small>[[G5160]]</small></small></sup> |
+| Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| wolf | **<big>[[G3074\|λύκος]]</big>** |
+| a predacious | **<big>[[G0727\|άρπαξ]]</big>** |
+| in the | **<big>[[G3588\|το]]</big>** |
+| early morning | **<big>[[G4407\|πρωϊνόν]]</big>** |
+| shall eat | **<big>[[G2068\|έδεται]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| he distributes | **<big>[[G1239\|διαδώσει]]</big>** |
+| provisions. | **<big>[[G5160\|τροφήν]]</big>** |
 [[Gen.49.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.26|<< Genesis 49:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.28|Genesis 49:28 >>]]</td></tr></table>
 
 

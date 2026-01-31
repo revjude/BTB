@@ -7,16 +7,16 @@ He that is surety for a stranger shall smart [for it]: and he that hateth sureti
 He who puts up security for a stranger will surely suffer, but the one who hates indebtedness is secure.<small><sub>**MT:**</sub></small>
 [[Prov.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.14|<< Proverbs 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.16|Proverbs 11:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] wicked \[man\] | <big><span class="asgreek">πονηρός</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| does evil | <big><span class="asgreek">κακοποιεί</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| he mixes | <big><span class="asgreek">συμμίξη</span></big> <sup><small><small>[[G9266]]</small></small></sup> |
-| with a just \[man\]; | <big><span class="asgreek">δικαίω</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and he detests | <big><span class="asgreek">μισεί</span></big> <sup><small><small>[[G3404]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">ήχον</span></big> <sup><small><small>[[G2279]]</small></small></sup> |
-| of safety. | <big><span class="asgreek">ασφαλείας</span></big> <sup><small><small>[[G0803]]</small></small></sup> |
+| \[The\] wicked \[man\] | **<big>[[G4190\|πονηρός]]</big>** |
+| does evil | **<big>[[G2554\|κακοποιεί]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| he mixes | **<big>[[G9266\|συμμίξη]]</big>** |
+| with a just \[man\]; | **<big>[[G1342\|δικαίω]]</big>** |
+| and he detests | **<big>[[G3404\|μισεί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] sound | **<big>[[G2279\|ήχον]]</big>** |
+| of safety. | **<big>[[G0803\|ασφαλείας]]</big>** |
 [[Prov.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.14|<< Proverbs 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.16|Proverbs 11:16 >>]]</td></tr></table>
 
 

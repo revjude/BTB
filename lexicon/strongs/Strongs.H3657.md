@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּנָּה‎</span></big> **kannâh** <small>*(kaw-naw')*</small> ==**shoot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּנַן‎</span><sup><small>[[H3661]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּנָּה‎</span></big>** **kannâh** <small>*(kaw-naw')*</small> ==**shoot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3661|‎כָּנַן‎]]</big>**</small>
 
 $\quad$ [idiom] vineyard.
 - ***a plant*** (as set)

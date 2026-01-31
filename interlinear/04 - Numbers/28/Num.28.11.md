@@ -6,24 +6,24 @@ At the beginning of every month, you are to present to the LORD a burnt offering
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.10|<< Numbers 28:10]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.12|Numbers 28:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and at [the] beginnings of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָאשֵׁי֙ </big></span><small><small><sup>[[H7218J]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| months your  | <span class="ashebrew"><big>חָדְשֵׁי </big></span><small><small><sup>[[H2320G]]</sup></small></small> <span class="ashebrew"><big>כֶ֔ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| cha.de.shei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will bring near  | <span class="ashebrew"><big>תַּקְרִ֥יבוּ </big></span><small><small><sup>[[H7126H]]</sup></small></small> &#8207;| tak.Ri.vu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a burnt offering  | <span class="ashebrew"><big>עֹלָ֖ה </big></span><small><small><sup>[[H5930A]]</sup></small></small> &#8207;| 'o.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young bulls  | <span class="ashebrew"><big>פָּרִ֨ים </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| pa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young ones of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cattle  | <span class="ashebrew"><big>בָקָ֤ר </big></span><small><small><sup>[[H1241]]</sup></small></small> &#8207;| va.Kar <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁנַ֙יִם֙ </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Na.yim <small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a ram  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֣יִל </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'A.yil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֔ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lambs  | <span class="ashebrew"><big>כְּבָשִׂ֧ים </big></span><small><small><sup>[[H3532]]</sup></small></small> &#8207;| ke.va.Sim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121L]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a year  | <span class="ashebrew"><big>שָׁנָ֛ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שִׁבְעָ֖ה </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unblemished  | <span class="ashebrew"><big>תְּמִימִֽם </big></span><small><small><sup>[[H8549G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.mi.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and at [the] beginnings of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7218J\|רָאשֵׁי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| months your  |**<big>&#8207;[[H2320G\|חָדְשֵׁי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| cha.de.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bring near  |**<big>&#8207;[[H7126H\|תַּקְרִ֥יבוּ]]&#8207; </big>**| tak.Ri.vu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering  |**<big>&#8207;[[H5930A\|עֹלָ֖ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young bulls  |**<big>&#8207;[[H6499\|פָּרִ֨ים]]&#8207; </big>**| pa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young ones of  |**<big>&#8207;[[H1121H\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  |**<big>&#8207;[[H1241\|בָקָ֤ר]]&#8207; </big>**| va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁנַ֙יִם֙]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a ram  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0352A\|אַ֣יִל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֔ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  |**<big>&#8207;[[H3532\|כְּבָשִׂ֧ים]]&#8207; </big>**| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  |**<big>&#8207;[[H1121L\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  |**<big>&#8207;[[H8141\|שָׁנָ֛ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעָ֖ה]]&#8207; </big>**| shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unblemished  |**<big>&#8207;[[H8549G\|תְּמִימִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.mi.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.10|<< Numbers 28:10]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.12|Numbers 28:12 >>]]</td></tr></table>
 
 

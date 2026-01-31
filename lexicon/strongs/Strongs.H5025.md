@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֹבַח‎</span></big> **Nôbach** <small>*(no'-bach)*</small> ==**Nobah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָבַח‎</span><sup><small>[[H5024]]</small></sup>; a bark</small>
+**<big><span class="ashebrew">‎נֹבַח‎</span></big>** **Nôbach** <small>*(no'-bach)*</small> ==**Nobah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5024|‎נָבַח‎]]</big>**; a bark</small>
 
 $\quad$ Nobah.
 - § Nobah = *"barking"*

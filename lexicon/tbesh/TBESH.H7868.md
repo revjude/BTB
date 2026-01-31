@@ -1,3 +1,1 @@
-<span class="asaramaic">‎שִׂיב‎</span> <small>***(siv)***</small> ==**be gray**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H7867]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7867|שִׂיב]]</big>**</small>

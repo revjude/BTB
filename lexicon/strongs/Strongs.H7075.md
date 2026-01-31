@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִנְיָן‎</span></big> **qinyân** <small>*(kin-yawn')*</small> ==**acquisition**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎קָנָה‎</span><sup><small>[[H7069]]</small></sup></small>
+**<big><span class="ashebrew">‎קִנְיָן‎</span></big>** **qinyân** <small>*(kin-yawn')*</small> ==**acquisition**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7069|‎קָנָה‎]]</big>**</small>
 
 $\quad$ getting, goods, [idiom] with money, riches, substance.
 - ***creation***, i.e. (concretely) ***creatures***
@@ -9,4 +9,4 @@ $\quad$ getting, goods, [idiom] with money, riches, substance.
 $\quad$ **1a)** thing acquired (by purchase)
 $\quad$ **1b)** creatures (more general)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κτῆνος</span><sup><small>[[G2934]]</small></sup> · <span class="asgreek">κτίσις</span><sup><small>[[G2937]]</small></sup>
+<small>See Greek: </small>**<big>[[G2934|κτῆνος]]</big>** · **<big>[[G2937|κτίσις]]</big>**

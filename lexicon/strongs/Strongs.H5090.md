@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָהַג‎</span></big> **nâhag** <small>*(naw-hag')*</small> ==**to lead**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָהַג‎</span></big>** **nâhag** <small>*(naw-hag')*</small> ==**to lead**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ acquaint, bring (away), carry away, drive (away), lead (away, forth), (be) guide, lead (away, forth).
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1b2)** to lead on, guide, guide on
 $\quad$ $\quad$ **1b3)** to cause to drive
 **2)** (Piel) to moan, lament
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">αἰχμαλωτεύω</span><sup><small>[[G0162]]</small></sup> · <span class="asgreek">ἀνάγω</span><sup><small>[[G0321]]</small></sup> · <span class="asgreek">ἀπάγω</span><sup><small>[[G0520]]</small></sup> · <span class="asgreek">εἰσάγω</span><sup><small>[[G1521]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup> · <span class="asgreek">παραλαμβάνω</span><sup><small>[[G3880]]</small></sup> · <span class="asgreek">ποιμαίνω</span><sup><small>[[G4165]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G0162|αἰχμαλωτεύω]]</big>** · **<big>[[G0321|ἀνάγω]]</big>** · **<big>[[G0520|ἀπάγω]]</big>** · **<big>[[G1521|εἰσάγω]]</big>** · **<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>** · **<big>[[G3880|παραλαμβάνω]]</big>** · **<big>[[G4165|ποιμαίνω]]</big>**

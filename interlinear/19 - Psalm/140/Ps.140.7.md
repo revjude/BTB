@@ -6,16 +6,16 @@ O GOD the Lord, the strength of my salvation, You shield my head in the day of b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.6|<< Psalms 140:6]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.8|Psalms 140:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O Yahweh  | <span class="ashebrew"><big>יְהֹוִ֣ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Lord  | <span class="ashebrew"><big>אֲ֭דֹנָי </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'A.do.nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] strength of  | <span class="ashebrew"><big>עֹ֣ז </big></span><small><small><sup>[[H5797]]</sup></small></small> &#8207;| 'oz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| salvation my  | <span class="ashebrew"><big>יְשׁוּעָתִ֑ </big></span><small><small><sup>[[H3444]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ye.shu.'a.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you cover  | <span class="ashebrew"><big>סַכֹּ֥תָה </big></span><small><small><sup>[[H5526B]]</sup></small></small> &#8207;| sa.Ko.tah <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> head my  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֹאשִׁ֗ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ro.Sh <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י֣וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yom <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| weaponry  | <span class="ashebrew"><big>נָֽשֶׁק </big></span><small><small><sup>[[H5402]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.shek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Lord  |**<big>&#8207;[[H0136\|אֲ֭דֹנָי]]&#8207; </big>**| 'A.do.nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] strength of  |**<big>&#8207;[[H5797\|עֹ֣ז]]&#8207; </big>**| 'oz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salvation my  |**<big>&#8207;[[H3444\|יְשׁוּעָתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ye.shu.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you cover  |**<big>&#8207;[[H5526B\|סַכֹּ֥תָה]]&#8207; </big>**| sa.Ko.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> head my  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H7218A\|רֹאשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ro.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weaponry  |**<big>&#8207;[[H5402\|נָֽשֶׁק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.shek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.6|<< Psalms 140:6]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.8|Psalms 140:8 >>]]</td></tr></table>
 
 

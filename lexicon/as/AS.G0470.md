@@ -1,4 +1,4 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">ἀντ-απο-κρίνομαι</span></span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">ἀντί</span>, <span class="asgreek">ἀποκρίνω</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Judg.5.29|Jg 5:29]], [[LXX.Job.16.9|Jb 16:9]] ([[LXX.Job.16.8|8]]) [[LXX.Job.32.12|32:12]] (<span class="ashebrew">ענה</span> <small><sup>[[H6030]]</sup></small>)\*;\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">ἀντ-απο-κρίνομαι</span></span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">ἀντί</span>, <span class="asgreek">ἀποκρίνω</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Judg.5.29|Jg 5:29]], [[LXX.Job.16.9|Jb 16:9]] ([[LXX.Job.16.8|8]]) [[LXX.Job.32.12|32:12]] (**<big>[[H6030|ענה]]</big>**)\*;\]</span> </span>
 <span class="asitalic">to answer again</span>, <span class="asitalic">reply against</span>: seq. <span class="asgreek">πρός</span>, c. acc. rei, [[Luke.14.6|Lk 14:6]]; c. dat. pers., [[Rom.9.20|Ro 9:20]].†
 
 **Abbott-Smith References**

@@ -7,38 +7,38 @@ Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum
 Therefore this is what the Lord GOD says: ‘Woe to the city of bloodshed, to the pot now rusted, whose rust will not come off! Empty it piece by piece; cast no lots for its contents.<small><sub>**MT:**</sub></small>
 [[Ezek.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.5|<< Ezekiel 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.7|Ezekiel 24:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of bloodshed, | <big><span class="asgreek">αιμάτων</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| a kettle | <big><span class="asgreek">λέβης</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| poison | <big><span class="asgreek">ιός</span></big> <sup><small><small>[[G2447]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poison | <big><span class="asgreek">ιός</span></big> <sup><small><small>[[G2447]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| her limb | <big><span class="asgreek">μέλος</span></big> <sup><small><small>[[G3196]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they brought forth | <big><span class="asgreek">εξήνεγκεν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| fell not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| of bloodshed, | **<big>[[G0129\|αιμάτων]]</big>** |
+| a kettle | **<big>[[G8172\|λέβης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| there is | **<big>[[G1510\|εστιν]]</big>** |
+| poison | **<big>[[G2447\|ιός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| poison | **<big>[[G2447\|ιός]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| come forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| out of | **<big>[[G1537\|εξ]]</big>** |
+| her; | **<big>[[G1473\|αυτής]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| her limb | **<big>[[G3196\|μέλος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| they brought forth | **<big>[[G1627\|εξήνεγκεν]]</big>** |
+| fell not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G4098\|έπεσεν]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| a lot | **<big>[[G2819\|κλήρος]]</big>** |
 [[Ezek.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.5|<< Ezekiel 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.7|Ezekiel 24:7 >>]]</td></tr></table>
 
 

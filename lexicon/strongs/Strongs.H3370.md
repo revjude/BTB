@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇקְשָׁן‎</span></big> **Yoqshân** <small>*(yok-shawn')*</small> ==**Jokshan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָקֹשׁ‎</span><sup><small>[[H3369]]</small></sup>; insidious</small>
+**<big><span class="ashebrew">‎יׇקְשָׁן‎</span></big>** **Yoqshân** <small>*(yok-shawn')*</small> ==**Jokshan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3369|‎יָקֹשׁ‎]]</big>**; insidious</small>
 
 $\quad$ Jokshan.
 - § Jokshan = *"snarer"*

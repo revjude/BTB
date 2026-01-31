@@ -7,44 +7,44 @@ Fear ye not me? saith the LORD: will ye not tremble at my presence, which have p
 Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it.<small><sub>**MT:**</sub></small>
 [[Jer.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.21|<< Jeremiah 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.23|Jeremiah 5:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Will | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβηθήσεσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| my face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| show veneration? | <big><span class="asgreek">ευλαβηθήσεσθε</span></big> <sup><small><small>[[G2125]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one ordering | <big><span class="asgreek">τάξαντα</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| \[the\] sand | <big><span class="asgreek">άμμον</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| for a limit | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| as an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the sea\] shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pass over | <big><span class="asgreek">υπερβήσεται</span></big> <sup><small><small>[[G5233]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be disturbed | <big><span class="asgreek">ταραχθήσεται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be prevailing; | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall resound | <big><span class="asgreek">ηχήσουσι</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its waves | <big><span class="asgreek">κύματα</span></big> <sup><small><small>[[G2949]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pass over | <big><span class="asgreek">υπερβήσεται</span></big> <sup><small><small>[[G5233]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Will | **<big>[[G3361\|μη]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| you not | **<big>[[G3756\|ου]]</big>** |
+| fear | **<big>[[G5399\|φοβηθήσεσθε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| before | **<big>[[G0575\|από]]</big>** |
+| my face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| will you not | **<big>[[G3756\|ουκ]]</big>** |
+| show veneration? | **<big>[[G2125\|ευλαβηθήσεσθε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one ordering | **<big>[[G5021\|τάξαντα]]</big>** |
+| \[the\] sand | **<big>[[G0285\|άμμον]]</big>** |
+| for a limit | **<big>[[G3725\|όριον]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| sea | **<big>[[G2281\|θαλάσση]]</big>** |
+| order | **<big>[[G8943\|πρόσταγμα]]</big>** |
+| as an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the sea\] shall not | **<big>[[G3756\|ουχ]]</big>** |
+| pass over | **<big>[[G5233\|υπερβήσεται]]</big>** |
+| it; | **<big>[[G1473\|αυτό]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall be disturbed | **<big>[[G5015\|ταραχθήσεται]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| it will not | **<big>[[G3756\|ου]]</big>** |
+| be prevailing; | **<big>[[G1410\|δυνήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall resound | **<big>[[G2278\|ηχήσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its waves | **<big>[[G2949\|κύματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουχ]]</big>** |
+| pass over | **<big>[[G5233\|υπερβήσεται]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
 [[Jer.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.21|<< Jeremiah 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.23|Jeremiah 5:23 >>]]</td></tr></table>
 
 

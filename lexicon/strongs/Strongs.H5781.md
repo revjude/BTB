@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עוּק‎</span></big> **ʻûwq** <small>*(ook)*</small> ==**to totter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עוּק‎</span></big>** **ʻûwq** <small>*(ook)*</small> ==**to totter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be pressed.
@@ -7,4 +7,4 @@ $\quad$ be pressed.
 **1)** (Hiphil) to totter, cause to totter, crush
 $\quad$ **1a)** meaning dubious
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κυλιόω</span><sup><small>[[G2947]]</small></sup>
+<small>See Greek: </small>**<big>[[G2947|κυλιόω]]</big>**

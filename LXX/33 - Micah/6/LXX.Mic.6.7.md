@@ -7,26 +7,26 @@ Will the LORD be pleased with thousands of rams, [or] with ten thousands of rive
 Would the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I present my firstborn for my transgression, the fruit of my body for the sin of my soul?<small><sub>**MT:**</sub></small>
 [[Mic.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.6|<< Micah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.8|Micah 6:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> favorably receive | <big><span class="asgreek">προσδέξεται</span></big> <sup><small><small>[[G4327]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">χιλιάσι</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| rams, | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| myriads | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">μυριάσιν</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| winter yearlings | <big><span class="asgreek">χιμάρων</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| of hearty | <big><span class="asgreek">πιόνων</span></big> <sup><small><small>[[G8798]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| my first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| my sin \[offering\], \[no\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] fruit | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of my belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| impiety | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of my soul, \[no\]. | <big><span class="asgreek">ψυχής μου</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> favorably receive | **<big>[[G4327\|προσδέξεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| a thousand | **<big>[[G1722\|εν]]</big>** **<big>[[G5505\|χιλιάσι]]</big>** |
+| rams, | **<big>[[G8096\|κριών]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| myriads | **<big>[[G1722\|εν]]</big>** **<big>[[G3461\|μυριάσιν]]</big>** |
+| winter yearlings | **<big>[[G9733\|χιμάρων]]</big>** |
+| of hearty | **<big>[[G8798\|πιόνων]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I give | **<big>[[G1325\|δω]]</big>** |
+| my first-born | **<big>[[G4416\|πρωτότοκα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| my sin \[offering\], \[no\]. | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[the\] fruit | **<big>[[G2590\|καρπόν]]</big>** |
+| of my belly | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| impiety | **<big>[[G0763\|ασεβείας]]</big>** |
+| of my soul, \[no\]. | **<big>[[G5590\|ψυχής μου]]</big>** |
 [[Mic.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.6|<< Micah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.8|Micah 6:8 >>]]</td></tr></table>
 
 

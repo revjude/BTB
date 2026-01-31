@@ -7,26 +7,26 @@ For the fitches are not threshed with a threshing instrument, neither is a cart 
 Surely caraway is not threshed with a sledge, and the wheel of a cart is not rolled over the cumin. But caraway is beaten out with a stick, and cumin with a rod.<small><sub>**MT:**</sub></small>
 [[Isa.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.26|<< Isaiah 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.28|Isaiah 28:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| hardness | <big><span class="asgreek">σκληρότητος</span></big> <sup><small><small>[[G4643]]</small></small></sup> |
-| cleansed | <big><span class="asgreek">καθαιρείται</span></big> <sup><small><small>[[G2508]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is the\] pepperwort | <big><span class="asgreek">μελάνθιον</span></big> <sup><small><small>[[G8279]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \[the\] wheel | <big><span class="asgreek">τροχός</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
-| of a wagon | <big><span class="asgreek">αμάξης</span></big> <sup><small><small>[[G6248]]</small></small></sup> |
-| shall | <big><span class="asgreek">περιάξει</span></big> <sup><small><small>[[G4013]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cummin; | <big><span class="asgreek">κύμινον</span></big> <sup><small><small>[[G2951]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| by a rod | <big><span class="asgreek">ράβδω</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| \[is\] shaken off | <big><span class="asgreek">εκτινάσσεται</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pepperwort | <big><span class="asgreek">μελάνθιον</span></big> <sup><small><small>[[G8279]]</small></small></sup> |
+| For not | **<big>[[G3756\|ου]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| hardness | **<big>[[G4643\|σκληρότητος]]</big>** |
+| cleansed | **<big>[[G2508\|καθαιρείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[is the\] pepperwort | **<big>[[G8279\|μελάνθιον]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \[the\] wheel | **<big>[[G5164\|τροχός]]</big>** |
+| of a wagon | **<big>[[G6248\|αμάξης]]</big>** |
+| shall | **<big>[[G4013\|περιάξει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| cummin; | **<big>[[G2951\|κύμινον]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| by a rod | **<big>[[G4464\|ράβδω]]</big>** |
+| \[is\] shaken off | **<big>[[G1621\|εκτινάσσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| pepperwort | **<big>[[G8279\|μελάνθιον]]</big>** |
 [[Isa.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.26|<< Isaiah 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.28|Isaiah 28:28 >>]]</td></tr></table>
 
 

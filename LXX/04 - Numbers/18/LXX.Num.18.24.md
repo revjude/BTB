@@ -7,36 +7,36 @@ But the tithes of the children of Israel, which they offer [as] an heave offerin
 For I have given to the Levites as their inheritance the tithe that the Israelites present to the LORD as a contribution. That is why I told them that they would not receive an inheritance among the Israelites.”<small><sub>**MT:**</sub></small>
 [[Num.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.23|<< Numbers 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.25|Numbers 18:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tenth parts | <big><span class="asgreek">επιδέκατα</span></big> <sup><small><small>[[G7400]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| as many \[things\] | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| they should separate | <big><span class="asgreek">αφορίσωσι</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a cut-away portion | <big><span class="asgreek">αφαίρεμα</span></big> <sup><small><small>[[G6616]]</small></small></sup> |
-| I give | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| lot. | <big><span class="asgreek">κλήρω</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I have said | <big><span class="asgreek">είρηκα</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be an heir | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| of a lot. | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| tenth parts | **<big>[[G7400\|επιδέκατα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| as many \[things\] | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| they should separate | **<big>[[G0873\|αφορίσωσι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| a cut-away portion | **<big>[[G6616\|αφαίρεμα]]</big>** |
+| I give | **<big>[[G1325\|δέδωκα]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites | **<big>[[G3017\|Λευίταις]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| lot. | **<big>[[G2819\|κλήρω]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I have said | **<big>[[G2046\|είρηκα]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Among | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| be an heir | **<big>[[G2816\|κληρονομήσουσι]]</big>** |
+| of a lot. | **<big>[[G2819\|κλήρον]]</big>** |
 [[Num.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.23|<< Numbers 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.25|Numbers 18:25 >>]]</td></tr></table>
 
 

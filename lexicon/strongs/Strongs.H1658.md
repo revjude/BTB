@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גִּשְׁפָּא‎</span></big> **Gishpâʼ** <small>*(ghish-paw')*</small> ==**Gishpa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎גִּשְׁפָּא‎</span></big>** **Gishpâʼ** <small>*(ghish-paw')*</small> ==**Gishpa**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Gispa.

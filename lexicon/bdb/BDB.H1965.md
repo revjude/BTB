@@ -1,5 +1,5 @@
-<small>Hebrew form: [[H1964]]</small>
-<small>Also see: [[H4415]]</small>
+<small>Hebrew form: **<big>[[H1964|הֵיכָל]]</big>**</small>
+<small>Also see: **<big>[[H4415|מְלַח]]</big>**</small>
 
  [<span class="bdbLangAramaic">‎הֵיכַל‎</span>] **noun masculine** ==palace, temple== (Assyrian loan-word; Biblical Hebrew; also Palmyrene <span class="bdbLangAramaic">‎היכלא‎</span> and <span class="bdbLangAramaic">‎הכלא‎</span> [[BDB#Ldzb|Lzb]]<sup>259</sup> [[BDB#Cook|SAC]]<sup>43</sup>); — emphatic <span class="bdbLangAramaic">‎הֵיכְלָא‎</span> [[Ezra.4.14|Ezra 4:14]] +; construct <span class="bdbLangAramaic">‎הֵיכַל‎</span> [[Dan.4.26|Dan 4:26]] suffix <span class="bdbLangAramaic">‎הֵיכְּ לִי‎</span> [[Dan.4.1|Dan 4:1]], <span class="bdbLangAramaic">‎לֵהּ‎</span>- [[Dan.6.19|Dan 6:19]] — 
 

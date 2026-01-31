@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jahaziel</span>, along with Benaiah, were Levite priests who regularly blew the trumpets before the ark of the covenant \([[1Chr.16.6|1Ch.16.6]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.16.6|1Ch.16.6]]; 
-- only referred to as Jahaziel<[[H3166H]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Jahaziel **<big>[[H3166|יַחֲזִיאֵל]]</big>**.
 
 Jahaziel is mentioned in [[1Chr.16.6|1 Chronicles 16:6]] as one of the Levite priests who were appointed to play the trumpets regularly before the ark of the covenant. This chapter describes the events surrounding the bringing of the ark to Jerusalem and the organization of the Levites for worship and service. 
 
@@ -18,5 +18,5 @@ No other specific details are provided about Jahaziel's life, family, or other d
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166H) <small>*Hebrew*</small> | 1x | [1Ch.16.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=1Ch.16.6) |
-All Strong's for **Jahaziel**: \[[[H3166H]]\]
+| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166H) | 1x | [1Ch.16.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=1Ch.16.6) |
+All entries for **Jahaziel**:  **<big>[[H3166|יַחֲזִיאֵל]]</big>**

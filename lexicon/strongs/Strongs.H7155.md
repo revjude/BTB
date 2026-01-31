@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִרְיַת חֻצוֹת‎</span></big> **Qiryath Chutsôwth** <small>*(keer-yath' khoo-tsoth')*</small> ==**Kiriath-huzoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קִרְיָה‎</span><sup><small>[[H7151]]</small></sup> and the feminine plural of <span class="ashebrew">‎חוּץ‎</span><sup><small>[[H2351]]</small></sup>; city of streets</small>
+**<big><span class="ashebrew">‎קִרְיַת חֻצוֹת‎</span></big>** **Qiryath Chutsôwth** <small>*(keer-yath' khoo-tsoth')*</small> ==**Kiriath-huzoth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7151|‎קִרְיָה‎]]</big>** and the feminine plural of **<big>[[H2351|‎חוּץ‎]]</big>**; city of streets</small>
 
 $\quad$ Kirjath-huzoth.
 - § Kirjath-huzoth = *"city of streets"*

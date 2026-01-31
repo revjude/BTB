@@ -7,36 +7,36 @@ He measured it by the four sides: it had a wall round about, five hundred [reeds
 So he measured the area on all four sides. It had a wall all around, five hundred cubits long and five hundred cubits wide, to separate the holy from the common.<small><sub>**MT:**</sub></small>
 [[Ezek.42.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.19|<< Ezekiel 42:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.1|Ezekiel 43:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| parts | <big><span class="asgreek">μέρη</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he set in order | <big><span class="asgreek">διέταξεν</span></big> <sup><small><small>[[G1299]]</small></small></sup> |
-| their enclosure | <big><span class="asgreek">περίβολον</span></big> <sup><small><small>[[G8720]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about -- | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακοσίων</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east, | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακοσίων</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| in breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to separate | <big><span class="asgreek">διαστέλλειν</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy places, | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| area around the wall | <big><span class="asgreek">προτειχίσματος</span></big> <sup><small><small>[[G8950]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| arrangement | <big><span class="asgreek">διατάξει</span></big> <sup><small><small>[[G6886]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| The | **<big>[[G3588\|τα]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| parts | **<big>[[G3313\|μέρη]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he set in order | **<big>[[G1299\|διέταξεν]]</big>** |
+| their enclosure | **<big>[[G8720\|περίβολον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| round about -- | **<big>[[G2945\|κύκλω]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακοσίων]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east, | **<big>[[G0395\|ανατολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακοσίων]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| in breadth | **<big>[[G7563\|εύρος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to separate | **<big>[[G1291\|διαστέλλειν]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| holy places, | **<big>[[G0039\|αγίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| area around the wall | **<big>[[G8950\|προτειχίσματος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| arrangement | **<big>[[G6886\|διατάξει]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house. | **<big>[[G3624\|οίκου]]</big>** |
 [[Ezek.42.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.19|<< Ezekiel 42:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.1|Ezekiel 43:1 >>]]</td></tr></table>
 
 

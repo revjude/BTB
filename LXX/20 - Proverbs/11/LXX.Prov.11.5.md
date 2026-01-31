@@ -7,15 +7,15 @@ The righteousness of the perfect shall direct his way: but the wicked shall fall
 The righteousness of the blameless directs their path, but the wicked fall by their own wickedness.<small><sub>**MT:**</sub></small>
 [[Prov.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.4|<< Proverbs 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.6|Proverbs 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">αμώμου</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
-| cuts straight | <big><span class="asgreek">ορθοτομει</span></big> <sup><small><small>[[G3718]]</small></small></sup> |
-| ways; | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| but impiety | <big><span class="asgreek">ασέβεια</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| falls among | <big><span class="asgreek">περιπίπτει</span></big> <sup><small><small>[[G4045]]</small></small></sup> |
-| injustice. | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| Righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| unblemished | **<big>[[G0299\|αμώμου]]</big>** |
+| cuts straight | **<big>[[G3718\|ορθοτομει]]</big>** |
+| ways; | **<big>[[G3598\|οδούς]]</big>** |
+| but impiety | **<big>[[G0763\|ασέβεια]]</big>** **<big>[[G1161\|δε]]</big>** |
+| falls among | **<big>[[G4045\|περιπίπτει]]</big>** |
+| injustice. | **<big>[[G0093\|αδικία]]</big>** |
 [[Prov.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.4|<< Proverbs 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.6|Proverbs 11:6 >>]]</td></tr></table>
 
 

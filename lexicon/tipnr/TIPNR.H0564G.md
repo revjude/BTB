@@ -4,8 +4,8 @@ Levite living at the time of Exile and Return
 
 The descendants of <span class='tipnrhighlight'>Immer</span> were a priestly family who lived in Jerusalem after the Babylonian exile, as recorded in 1 Chronicles and Nehemiah.
 - A priest from the tribe of Levi  living at the time of Exile and Return, first mentioned at [[1Chr.9.12|1Ch.9.12]]; 
-- only referred to as Immer<[[H0564G]]> \(<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>\); 
--  father of Meshillemith<[[H4921]]>.
+- only referred to as Immer **<big>[[H0564|אִמֵּר]]</big>**; 
+-  father of Meshillemith **<big>[[H4921|מְשִׁלֵּמִית]]</big>**.
 
 Immer is mentioned in [[1Chr.9.12|1 Chronicles 9:12]] and [[Neh.11.13|Nehemiah 11:13]] as the name of a priestly family that lived in Jerusalem after the Babylonian exile. The Immerites were among the priests who returned to Jerusalem and helped to rebuild the city and restore the temple worship. 
 
@@ -21,7 +21,7 @@ The name Immer means "he has said" or "he has spoken" in Hebrew, possibly reflec
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564G) <small>*Hebrew*</small> | 2x | [[1Ch.9.12] & [Neh.11.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=1Ch.9.12;Neh.11.13) |
-All Strong's for **Immer**: \[[[H0564G]]\]
+| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564G) | 2x | [[1Ch.9.12] & [Neh.11.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=1Ch.9.12;Neh.11.13) |
+All entries for **Immer**:  **<big>[[H0564|אִמֵּר]]</big>**
 #### Related Profiles:
 - **[Meshillemith](H4921)** (child)

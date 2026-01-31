@@ -11,53 +11,53 @@ Then the iron, clay, bronze, silver, and gold were shattered and became like cha
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| they were thinned out | <big><span class="asgreek">ελεπτύνθησαν</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
-| at once -- | <big><span class="asgreek">εισάπαξ</span></big> <sup><small><small>[[G7065]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| potsherd, | <big><span class="asgreek">όστρακον</span></big> <sup><small><small>[[G8561]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iron, | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brass, | <big><span class="asgreek">χαλκός</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver, | <big><span class="asgreek">άργυρος</span></big> <sup><small><small>[[G0696]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold; | <big><span class="asgreek">χρυσός</span></big> <sup><small><small>[[G5557]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a cloud of dust | <big><span class="asgreek">κονιορτός</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] threshing-floor | <big><span class="asgreek">άλωνος</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| at harvest; | <big><span class="asgreek">θερινής</span></big> <sup><small><small>[[G7657]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted them away | <big><span class="asgreek">εξήρεν</span></big> <sup><small><small>[[G1808]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abundance | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wind | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| \[was\] found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| for them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| struck | <big><span class="asgreek">πατάξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| image | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it filled | <big><span class="asgreek">επλήρωσε</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| they were thinned out | **<big>[[G8183\|ελεπτύνθησαν]]</big>** |
+| at once -- | **<big>[[G7065\|εισάπαξ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| potsherd, | **<big>[[G8561\|όστρακον]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| iron, | **<big>[[G4604\|σίδηρος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| brass, | **<big>[[G5475\|χαλκός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| silver, | **<big>[[G0696\|άργυρος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| gold; | **<big>[[G5557\|χρυσός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they became | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a cloud of dust | **<big>[[G2868\|κονιορτός]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] threshing-floor | **<big>[[G0257\|άλωνος]]</big>** |
+| at harvest; | **<big>[[G7657\|θερινής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lifted them away | **<big>[[G1808\|εξήρεν]]</big>** **<big>[[G1473\|αυτά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| abundance | **<big>[[G4128\|πλήθος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| wind | **<big>[[G4151\|πνεύματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no place | **<big>[[G5117\|τόπος]]</big>** **<big>[[G3756\|ουχ]]</big>** |
+| \[was\] found | **<big>[[G2147\|ευρέθη]]</big>** |
+| for them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| stone | **<big>[[G3037\|λίθος]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| struck | **<big>[[G3960\|πατάξας]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| image | **<big>[[G1504\|εικόνα]]</big>** |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| a great | **<big>[[G3173\|μέγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it filled | **<big>[[G4137\|επλήρωσε]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth. | **<big>[[G1093\|γην]]</big>** |
 [[Dan.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.34|<< Daniel 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.36|Daniel 2:36 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָלַךְ‎</span></big> **mâlak** <small>*(maw-lak')*</small> ==**to reign**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָלַךְ‎</span></big>** **mâlak** <small>*(maw-lak')*</small> ==**to reign**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ consult, [idiom] indeed, be (make, set a, set up) king, be (make) queen, (begin to, make to) reign(-ing), rule, [idiom] surely.
@@ -14,4 +14,4 @@ $\quad$ **1c)** (Hophal) to be made king or queen
 **2)** to counsel, advise
 $\quad$ **2a)** (Niphal) to consider
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βασιλεύω</span><sup><small>[[G0936]]</small></sup> · <span class="asgreek">βουλεύω</span><sup><small>[[G1011]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">καθίστημι</span><sup><small>[[G2525]]</small></sup> · <span class="asgreek">κρατέω</span><sup><small>[[G2902]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup>
+<small>See Greek: </small>**<big>[[G0936|βασιλεύω]]</big>** · **<big>[[G1011|βουλεύω]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G2525|καθίστημι]]</big>** · **<big>[[G2902|κρατέω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>**

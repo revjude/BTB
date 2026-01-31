@@ -1,4 +1,4 @@
-Greek of: <small>[[H4714G]]</small> 
+Greek of: <small>**<big>[[H4714G|מִצְרַיִם]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Αἴγυπτος==</span></b>, <span class='asgreek'>ὁ</span>, 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּקוֹד‎</span></big> **Pᵉqôwd** <small>*(pek-ode')*</small> ==**Pekod**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּקַד‎</span><sup><small>[[H6485]]</small></sup>; punishment</small>
+**<big><span class="ashebrew">‎פְּקוֹד‎</span></big>** **Pᵉqôwd** <small>*(pek-ode')*</small> ==**Pekod**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6485|‎פָּקַד‎]]</big>**; punishment</small>
 
 $\quad$ Pekod.
 - § Pekod = *"visitation"*

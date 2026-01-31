@@ -97,7 +97,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Dan.3.26|26]]**<span class="e
 
 [^38]: Pesanter, <span class="asgreek"><span class='asgreek'>ψαλτηριον</span></span>, a stringed instrument struck with a plectrum; probably similar to what is called a psalterium in Egypt, which Hasselquist describes as a large oblique triangle, with two bottoms two inches from each other, and about twenty catguts of different sizes.
 
-[^39]: ***Soomphanya*** probably the same as the Talmudic <span class="asgreek"><span class='asgreek'>ρξτεο</span></span> (<span class="asaramaic">‎סוּמְפּוֹנְיָה‎</span><sup><small>[[H5481]]</small></sup>), a pipe.
+[^39]: ***Soomphanya*** probably the same as the Talmudic <span class="asgreek"><span class='asgreek'>ρξτεο</span></span> ( [[H5481|‎סוּמְפּוֹנְיָה‎]] ), a pipe.
 
 [^40]: [[Luke.4|Luke 4:7-8]]
 

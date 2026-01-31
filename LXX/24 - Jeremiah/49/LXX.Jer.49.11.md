@@ -7,20 +7,20 @@ Leave thy fatherless children, I will preserve [them] alive; and let thy widows 
 Abandon your orphans; I will preserve their lives. Let your widows trust in Me.”<small><sub>**MT:**</sub></small>
 [[Jer.49.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.10|<< Jeremiah 49:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.12|Jeremiah 49:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be left behind | <big><span class="asgreek">υπολειπέσθαι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| your orphan | <big><span class="asgreek">ορφανόν</span></big> <sup><small><small>[[G3737]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| he should live, | <big><span class="asgreek">ζήσηται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall enliven, | <big><span class="asgreek">ζήσομαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your widows | <big><span class="asgreek">χήραι</span></big> <sup><small><small>[[G5503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall hope | <big><span class="asgreek">ελπιούσιν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
+| be left behind | **<big>[[G5275\|υπολειπέσθαι]]</big>** |
+| your orphan | **<big>[[G3737\|ορφανόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| he should live, | **<big>[[G2198\|ζήσηται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall enliven, | **<big>[[G2198\|ζήσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your widows | **<big>[[G5503\|χήραι]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| shall hope | **<big>[[G1679\|ελπιούσιν]]</big>** |
 [[Jer.49.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.10|<< Jeremiah 49:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.12|Jeremiah 49:12 >>]]</td></tr></table>
 
 

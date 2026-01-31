@@ -3,9 +3,9 @@
 Man who lived in Senaah@Ezr.2.35-Neh before the time of Exile and Return
 
 <span class='tipnrhighlight'>Hassenuah</span> \(also known as Hassenaah\) was a leader from the tribe of Benjamin who lived in Jerusalem during the time of Nehemiah \([[Neh.11.9|Neh.11.9]]; [[1Chr.9.7|1Ch.9.7]]; [[Neh.3.3|Neh.3.3]]\).
-- A man descended from Senaah<[[H5570G]]> from the tribe of Levi before time of Exile and Return, first mentioned at [[1Chr.9.7|1Ch.9.7]]; 
-- referred to as Hassenuah<[[H5574]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Hassenaah \(KJV= Hasenuah\) <[[H5570H]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- father of Hodaviah<[[H1938I]]> and Judah<[[H3063I]]>.
+- A man descended from Senaah **<big>[[H5570|סְנָאָה]]</big>** from the tribe of Levi before time of Exile and Return, first mentioned at [[1Chr.9.7|1Ch.9.7]]; 
+- referred to as Hassenuah **<big>[[H5574|סְנוּאָה]]</big>**, or Hassenaah \(KJV= Hasenuah\)  **<big>[[H5570|סְנָאָה]]</big>**; 
+- father of Hodaviah **<big>[[H1938|הוֹדַוְיָה]]</big>** and Judah **<big>[[H3063|יְהוּדָה]]</big>**.
 
 Hassenuah, also known as Hassenaah, was a leader from the tribe of Benjamin who lived in Jerusalem during the post-exilic period, as recorded in the books of Nehemiah and 1 Chronicles \([[Neh.11.9|Nehemiah 11:9]]; [[1Chr.9.7|1 Chronicles 9:7]]; [[Neh.3.3|Nehemiah 3:3]]\). He is mentioned in the context of the resettlement of Jerusalem and the rebuilding of the city walls. 
 
@@ -17,9 +17,9 @@ In [[Neh.3.3|Nehemiah 3:3]], Hassenaah \(spelled as Hassenuah\) is mentioned in 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hassenuah (KJV= of Senuah) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5574) <small>*Hebrew*</small> | 1x | [Neh.11.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hassenuah\*\|reference=Neh.11.9) |
-| Hassenaah (KJV= Hasenuah) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5570H) <small>*Hebrew*</small> | 2x | [[1Ch.9.7] & [Neh.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hassenaah\*\|reference=1Ch.9.7;Neh.3.3) |
-All Strong's for **Hassenuah or Hassenaah**: \[[[H5574]]\] \[[[H5570H]]\]
+| Hassenuah (KJV= of Senuah) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5574) | 1x | [Neh.11.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hassenuah\*\|reference=Neh.11.9) |
+| Hassenaah (KJV= Hasenuah) | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5570H) | 2x | [[1Ch.9.7] & [Neh.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hassenaah\*\|reference=1Ch.9.7;Neh.3.3) |
+All entries for **Hassenuah or Hassenaah**:  **<big>[[H5574|סְנוּאָה]]</big>** ☩  **<big>[[H5570|סְנָאָה]]</big>**
 #### Related Profiles:
 - **[Hodaviah](H1938I)** (child)
 - **[Judah](H3063I)** (child)

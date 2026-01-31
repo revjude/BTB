@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָדָע‎</span></big> **Yâdâʻ** <small>*(yaw-daw')*</small> ==**Jada**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup>; knowing</small>
+**<big><span class="ashebrew">‎יָדָע‎</span></big>** **Yâdâʻ** <small>*(yaw-daw')*</small> ==**Jada**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3045|‎יָדַע‎]]</big>**; knowing</small>
 
 $\quad$ Jada.
 - § Jada = *"He knows"*

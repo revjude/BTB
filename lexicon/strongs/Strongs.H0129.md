@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדָמִי‎</span></big> **ʼĂdâmîy** <small>*(ad-aw-mee')*</small> ==**Adami**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אֲדָמָה‎</span><sup><small>[[H0127]]</small></sup>; earthy</small>
+**<big><span class="ashebrew">‎אֲדָמִי‎</span></big>** **ʼĂdâmîy** <small>*(ad-aw-mee')*</small> ==**Adami**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0127|‎אֲדָמָה‎]]</big>**; earthy</small>
 
 $\quad$ Adami.
 - § Adami = *"man of Adar"*

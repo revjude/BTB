@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַמְרֵא‎</span></big> **Mamrêʼ** <small>*(mam-ray')*</small> ==**Mamre**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎מָרָא‎</span><sup><small>[[H4754]]</small></sup>(in the sense of vigor); lusty</small>
+**<big><span class="ashebrew">‎מַמְרֵא‎</span></big>** **Mamrêʼ** <small>*(mam-ray')*</small> ==**Mamre**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H4754|‎מָרָא‎]]</big>**(in the sense of vigor); lusty</small>
 
 $\quad$ Mamre.
 - § Mamre = *"strength" or "fatness"*

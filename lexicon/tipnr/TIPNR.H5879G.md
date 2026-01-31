@@ -1,8 +1,8 @@
 <small>*Enaim • Enaim, place where Tamar posed as a prostitute*</small>
 
 <span class='tipnrhighlight'>Enaim</span>, the place where Tamar sat and posed as a prostitute to deceive Judah.
-- A location near Timnah<[[H8553G]]> first mentioned at [[Gen.38.14|Gen.38.14]]; 
-- only referred to as Enaim<[[H5879G]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Timnah **<big>[[H8553|תִּמְנָה]]</big>** first mentioned at [[Gen.38.14|Gen.38.14]]; 
+- only referred to as Enaim **<big>[[H5879|עֵינַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.784368,34.909680&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Enaim is mentioned in the Bible as the place where Tamar, the daughter-in-law of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Enaim | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5879G) <small>*Hebrew*</small> | 2x | [[Gen.38.14] & [Gen.38.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Enaim\*\|reference=Gen.38.14;Gen.38.21) |
-All Strong's for **Enaim**: \[[[H5879G]]\]
+| Enaim | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5879G) | 2x | [[Gen.38.14] & [Gen.38.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Enaim\*\|reference=Gen.38.14;Gen.38.21) |
+All entries for **Enaim**:  **<big>[[H5879|עֵינַיִם]]</big>**

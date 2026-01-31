@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּאֲנָה‎</span></big> **taʼănâh** <small>*(tah-an-aw')*</small> ==**estrous**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תֹּאֲנָה</span> **tôʼănâh** <small>*(to-an-aw')*</small>; from <span class="ashebrew">‎אָנָה‎</span><sup><small>[[H0579]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּאֲנָה‎</span></big>** **taʼănâh** <small>*(tah-an-aw')*</small> ==**estrous**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֹּאֲנָה</span></big>** **tôʼănâh** <small>*(to-an-aw')*</small>; from **<big>[[H0579|‎אָנָה‎]]</big>**</small>
 
 $\quad$ occasion.
 - ***an opportunity*** or (subjectively) ***purpose***
@@ -7,4 +7,4 @@ $\quad$ occasion.
 **1)** occasion, time of heat or oestrous or copulation, sexual drive (of animal)
 **2)** occasion, opportunity (for a quarrel)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνταπόδομα</span><sup><small>[[G0468]]</small></sup> · <span class="asgreek">ἐκδίκησις</span><sup><small>[[G1557]]</small></sup>
+<small>See Greek: </small>**<big>[[G0468|ἀνταπόδομα]]</big>** · **<big>[[G1557|ἐκδίκησις]]</big>**

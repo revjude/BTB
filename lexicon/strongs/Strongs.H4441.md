@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַלְכִּיָּה‎</span></big> **Malkîyâh** <small>*(mal-kee-yaw')*</small> ==**Malchijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">מַלְכִּיָּהוּ</span> **Malkîyâhûw** <small>*(mal-kee-yaw'-hoo)*</small>; (Jeremiah [38:6), from <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; king of (i.e. appointed by) Jah</small>
+**<big><span class="ashebrew">‎מַלְכִּיָּה‎</span></big>** **Malkîyâh** <small>*(mal-kee-yaw')*</small> ==**Malchijah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַלְכִּיָּהוּ</span></big>** **Malkîyâhûw** <small>*(mal-kee-yaw'-hoo)*</small>; (Jeremiah [38:6), from **<big>[[H4428|‎מֶלֶךְ‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; king of (i.e. appointed by) Jah</small>
 
 $\quad$ Malchiah, Malchijah.
 - § Malchijah or Malchiah or Melchiah = *"my king is Jehovah"*

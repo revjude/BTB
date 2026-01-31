@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תִּרְעָתִי‎</span></big> **Tirʻâthîy** <small>*(teer-aw-thee')*</small> ==**Tirathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎תִּרְעָתִי‎</span></big>** **Tirʻâthîy** <small>*(teer-aw-thee')*</small> ==**Tirathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>patrial from an unused name meaning gate</small>
 
 $\quad$ Tirathite.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇרְפָּה‎</span></big> **ʻOrpâh** <small>*(or-paw')*</small> ==**Orpah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֹרֶף‎</span><sup><small>[[H6203]]</small></sup>; mane</small>
+**<big><span class="ashebrew">‎עׇרְפָּה‎</span></big>** **ʻOrpâh** <small>*(or-paw')*</small> ==**Orpah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H6203|‎עֹרֶף‎]]</big>**; mane</small>
 
 $\quad$ Orpah.
 - § Orpah = *"gazelle"*

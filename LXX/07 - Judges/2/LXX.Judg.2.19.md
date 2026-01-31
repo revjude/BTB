@@ -7,42 +7,42 @@ And it came to pass, when the judge was dead, [that] they returned, and corrupte
 But when the judge died, the Israelites became even more corrupt than their fathers, going after other gods to serve them and bow down to them. They would not give up their evil practices and stubborn ways.<small><sub>**MT:**</sub></small>
 [[Judg.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.18|<< Judges 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.20|Judges 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| died | <big><span class="asgreek">απέθνησκεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judge | <big><span class="asgreek">κριτής</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they turned back, | <big><span class="asgreek">απέστρεφον</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| corrupted \[themselves\] | <big><span class="asgreek">διέφθειραν</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers, | <big><span class="asgreek">πατέρας</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| other gods, | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ετέρων</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to serve | <big><span class="asgreek">λατρεύειν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to do obeisance to | <big><span class="asgreek">προσκυνείν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| They did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| disown | <big><span class="asgreek">απέρριψαν</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their practices, | <big><span class="asgreek">επιτηδεύματα</span></big> <sup><small><small>[[G7461]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| recalcitrant | <big><span class="asgreek">σκληράς</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| died | **<big>[[G0599\|απέθνησκεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| judge | **<big>[[G2923\|κριτής]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| they turned back, | **<big>[[G0654\|απέστρεφον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| corrupted \[themselves\] | **<big>[[G1311\|διέφθειραν]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their fathers, | **<big>[[G3962\|πατέρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| other gods, | **<big>[[G2316\|θεών]]</big>** **<big>[[G2087\|ετέρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to serve | **<big>[[G3000\|λατρεύειν]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to do obeisance to | **<big>[[G4352\|προσκυνείν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| They did not | **<big>[[G3756\|ουκ]]</big>** |
+| disown | **<big>[[G0641\|απέρριψαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their practices, | **<big>[[G7461\|επιτηδεύματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| way | **<big>[[G3598\|οδού]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| recalcitrant | **<big>[[G4642\|σκληράς]]</big>** |
 [[Judg.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.18|<< Judges 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.20|Judges 2:20 >>]]</td></tr></table>
 
 

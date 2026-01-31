@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gedor</span> \(or Geder\), a town in the hill country of Judah, was the home of several members of Judahite clans.
 - A location first mentioned at [[Josh.12.13|Jos.12.13]]; 
-- referred to as Gedor<[[H1446G]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\), or Geder<[[H1445]]> \(<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- referred to as Gedor **<big>[[H1446|גְדֹר]]</big>**, or Geder **<big>[[H1445|גֶּדֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.633330,35.083333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,6 +18,6 @@ The exact location of Gedor is not specified in the Bible, but based on its asso
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gedor | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1446G) <small>*Hebrew*</small> | 4x | [[Jos.15.58] ... [1Ch.12.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gedor\*\|reference=Jos.15.58;1Ch.4.4;1Ch.4.18;1Ch.12.7) |
-| Geder | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1445) <small>*Hebrew*</small> | 1x | [Jos.12.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geder\*\|reference=Jos.12.13) |
-All Strong's for **Gedor or Geder**: \[[[H1446G]]\] \[[[H1445]]\]
+| Gedor | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H1446G) | 4x | [[Jos.15.58] ... [1Ch.12.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gedor\*\|reference=Jos.15.58;1Ch.4.4;1Ch.4.18;1Ch.12.7) |
+| Geder | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1445) | 1x | [Jos.12.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geder\*\|reference=Jos.12.13) |
+All entries for **Gedor or Geder**:  **<big>[[H1446|גְדֹר]]</big>** ☩  **<big>[[H1445|גֶּדֶר]]</big>**

@@ -11,37 +11,37 @@ You are to pay his wages each day before sunset, because he is poor and depends 
 > $\quad$ referenced by: [[Jas.5.4|Jas 5:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Daily | <big><span class="asgreek">αυθήμερον</span></big> <sup><small><small>[[G6601]]</small></small></sup> |
-| you shall give \[him\] | <big><span class="asgreek">αποδώσεις</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wage, | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| set | <big><span class="asgreek">επιδύσεται</span></big> <sup><small><small>[[G1931]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he is needy, | <big><span class="asgreek">πένης</span></big> <sup><small><small>[[G3993]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he has | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hope; | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall not yell out | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">καταβοήσεται</span></big> <sup><small><small>[[G7823]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and \[thus\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a sin. | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| Daily | **<big>[[G6601\|αυθήμερον]]</big>** |
+| you shall give \[him\] | **<big>[[G0591\|αποδώσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his wage, | **<big>[[G3408\|μισθόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| set | **<big>[[G1931\|επιδύσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| sun | **<big>[[G2246\|ήλιος]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he is needy, | **<big>[[G3993\|πένης]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| he has | **<big>[[G2192\|έχει]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hope; | **<big>[[G1680\|ελπίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall not yell out | **<big>[[G3756\|ου]]</big>** **<big>[[G7823\|καταβοήσεται]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and \[thus\] | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| a sin. | **<big>[[G0266\|αμαρτία]]</big>** |
 [[Deut.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.14|<< Deuteronomy 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.16|Deuteronomy 24:16 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H6699]]</small>
+<small>Also see: **<big>[[H6699|צוּרָה]]</big>**</small>
 
  I. [<span class="bdbLangHebrew">‎צִיר‎</span>] **noun masculine** ==image==; — plural <span class="bdbLangHebrew">‎צִירִים‎</span> [[Isa.45.16|Isa 45:16]] = ***idols***; singular suffix <span class="bdbLangHebrew">‎צירם‎</span> [[Ps.49.5|Ps 49:5]] [[BDB#Kt|Kt]] ***their form*** (see  <span class="bdbLangHebrew">‎צוּרָה‎</span>). above 
 

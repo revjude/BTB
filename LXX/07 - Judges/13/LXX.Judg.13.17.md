@@ -7,26 +7,26 @@ And Manoah said unto the angel of the LORD, What [is] thy name, that when thy sa
 Then Manoah said to the angel of the LORD, “What is your name, so that we may honor you when your word comes to pass?”<small><sub>**MT:**</sub></small>
 [[Judg.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.16|<< Judges 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.18|Judges 13:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Manoah said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μανώε</span></big> <sup><small><small>[[H4495]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| What is | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| should come \[to pass\] | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your word | <big><span class="asgreek">ρήμά σου</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should glorify | <big><span class="asgreek">δοξάσωμέν</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Manoah said | **<big>[[G2036\|είπε]]</big>** **<big>[[H4495\|Μανώε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| angel | **<big>[[G0032\|άγγελον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| What is | **<big>[[G5100\|τι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| should come \[to pass\] | **<big>[[G2064\|έλθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your word | **<big>[[G4487\|ρήμά σου]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| we should glorify | **<big>[[G1392\|δοξάσωμέν]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
 [[Judg.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.16|<< Judges 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.18|Judges 13:18 >>]]</td></tr></table>
 
 

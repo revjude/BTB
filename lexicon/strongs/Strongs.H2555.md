@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָמָס‎</span></big> **châmâç** <small>*(khaw-mawce')*</small> ==**violence**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָמַס‎</span><sup><small>[[H2554]]</small></sup></small>
+**<big><span class="ashebrew">‎חָמָס‎</span></big>** **châmâç** <small>*(khaw-mawce')*</small> ==**violence**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2554|‎חָמַס‎]]</big>**</small>
 
 $\quad$ cruel(-ty), damage, false, injustice, [idiom] oppressor, unrighteous, violence (against, done), violent (dealing), wrong.
 - ***violence***
@@ -8,4 +8,4 @@ $\quad$ cruel(-ty), damage, false, injustice, [idiom] oppressor, unrighteous, vi
 
 **1)** violence, wrong, cruelty, injustice
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικία</span><sup><small>[[G0093]]</small></sup> · <span class="asgreek">ἄδικος</span><sup><small>[[G0094]]</small></sup> · <span class="asgreek">ἀνομία</span><sup><small>[[G0458]]</small></sup> · <span class="asgreek">ἀπώλεια</span><sup><small>[[G0684]]</small></sup> · <span class="asgreek">ἀσέβεια</span><sup><small>[[G0763]]</small></sup> · <span class="asgreek">ἀσεβής</span><sup><small>[[G0765]]</small></sup> · <span class="asgreek">ὄνειδος</span><sup><small>[[G3681]]</small></sup>
+<small>See Greek: </small>**<big>[[G0093|ἀδικία]]</big>** · **<big>[[G0094|ἄδικος]]</big>** · **<big>[[G0458|ἀνομία]]</big>** · **<big>[[G0684|ἀπώλεια]]</big>** · **<big>[[G0763|ἀσέβεια]]</big>** · **<big>[[G0765|ἀσεβής]]</big>** · **<big>[[G3681|ὄνειδος]]</big>**

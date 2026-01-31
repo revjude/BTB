@@ -7,31 +7,31 @@ And he entreated Abram well for her sake: and he had sheep, and oxen, and he ass
 He treated Abram well on her account, and Abram acquired sheep and cattle, male and female donkeys, menservants and maidservants, and camels.<small><sub>**MT:**</sub></small>
 [[Gen.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.15|<< Genesis 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.17|Genesis 12:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| well | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| they treated | <big><span class="asgreek">εχρήσαντο</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there existed | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sheep, | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| calves, | <big><span class="asgreek">μόσχοι</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| donkeys, | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| manservants, | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| maidservants, | <big><span class="asgreek">παιδίσκαι</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mules | <big><span class="asgreek">ημίονοι</span></big> <sup><small><small>[[G7629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| camels. | <big><span class="asgreek">κάμηλοι</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| well | **<big>[[G2095\|ευ]]</big>** |
+| they treated | **<big>[[G5530\|εχρήσαντο]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there existed | **<big>[[G1096\|εγένοντο]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| sheep, | **<big>[[G4263\|πρόβατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| calves, | **<big>[[G3448\|μόσχοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| donkeys, | **<big>[[G3688\|όνοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| manservants, | **<big>[[G3816\|παίδες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| maidservants, | **<big>[[G3814\|παιδίσκαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mules | **<big>[[G7629\|ημίονοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| camels. | **<big>[[G2574\|κάμηλοι]]</big>** |
 [[Gen.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.15|<< Genesis 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.17|Genesis 12:17 >>]]</td></tr></table>
 
 

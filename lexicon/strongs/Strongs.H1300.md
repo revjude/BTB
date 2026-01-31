@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּרָק‎</span></big> **bârâq** <small>*(baw-rawk')*</small> ==**to use lightning**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּרַק‎</span><sup><small>[[H1299]]</small></sup></small>
+**<big><span class="ashebrew">‎בָּרָק‎</span></big>** **bârâq** <small>*(baw-rawk')*</small> ==**to use lightning**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from **<big>[[H1299|‎בָּרַק‎]]</big>**</small>
 
 $\quad$ bright, glitter(-ing sword), lightning.
 - ***lightning***
@@ -10,4 +10,4 @@ $\quad$ bright, glitter(-ing sword), lightning.
 $\quad$ **1a)** lightnings, lightning flashes
 $\quad$ **1b)** of flashing arrow-head (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀστραπή</span><sup><small>[[G0796]]</small></sup> · <span class="asgreek">ἀστράπτω</span><sup><small>[[G0797]]</small></sup> · <span class="asgreek">ἄστρον</span><sup><small>[[G0798]]</small></sup> · <span class="asgreek">Βαράκ</span><sup><small>[[G0913]]</small></sup> · <span class="asgreek">ἐξαστράπτω</span><sup><small>[[G1823]]</small></sup>
+<small>See Greek: </small>**<big>[[G0796|ἀστραπή]]</big>** · **<big>[[G0797|ἀστράπτω]]</big>** · **<big>[[G0798|ἄστρον]]</big>** · **<big>[[G0913|Βαράκ]]</big>** · **<big>[[G1823|ἐξαστράπτω]]</big>**

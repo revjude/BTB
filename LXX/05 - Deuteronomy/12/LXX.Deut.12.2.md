@@ -7,39 +7,39 @@ Ye shall utterly destroy all the places, wherein the nations which ye shall poss
 Destroy completely all the places where the nations you are dispossessing have served their gods—atop the high mountains, on the hills, and under every green tree.<small><sub>**MT:**</sub></small>
 [[Deut.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.1|<< Deuteronomy 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.3|Deuteronomy 12:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By destruction | <big><span class="asgreek">απωλεία</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| you shall destroy | <big><span class="asgreek">απολείτε</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places | <big><span class="asgreek">τόπους</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| serve | <big><span class="asgreek">ελάτρευσαν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gods, | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whose \[lands\] | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall inherit | <big><span class="asgreek">κατακληρονομείτε</span></big> <sup><small><small>[[G7853]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">ορεών</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high | <big><span class="asgreek">υψηλών</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills, | <big><span class="asgreek">θινών</span></big> <sup><small><small>[[G7676]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree | <big><span class="asgreek">δένδρου</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| bushy | <big><span class="asgreek">δασέως</span></big> <sup><small><small>[[G6784]]</small></small></sup> |
+| By destruction | **<big>[[G0684\|απωλεία]]</big>** |
+| you shall destroy | **<big>[[G0622\|απολείτε]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| places | **<big>[[G5117\|τόπους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| serve | **<big>[[G3000\|ελάτρευσαν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their gods, | **<big>[[G2316\|θεοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| whose \[lands\] | **<big>[[G3739\|ους]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| shall inherit | **<big>[[G7853\|κατακληρονομείτε]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mountains | **<big>[[G3735\|ορεών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| high | **<big>[[G5308\|υψηλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| hills, | **<big>[[G7676\|θινών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| tree | **<big>[[G1186\|δένδρου]]</big>** |
+| bushy | **<big>[[G6784\|δασέως]]</big>** |
 [[Deut.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.1|<< Deuteronomy 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.3|Deuteronomy 12:3 >>]]</td></tr></table>
 
 

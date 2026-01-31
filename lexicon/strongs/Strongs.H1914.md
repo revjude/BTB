@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הִדַּי‎</span></big> **Hidday** <small>*(hid-dah'ee)*</small> ==**Hiddai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎הִדַּי‎</span></big>** **Hidday** <small>*(hid-dah'ee)*</small> ==**Hiddai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Hiddai.

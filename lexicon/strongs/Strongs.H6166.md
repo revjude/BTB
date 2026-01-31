@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֲרָד‎</span></big> **ʻĂrâd** <small>*(ar-awd')*</small> ==**Arad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎עֲרָד‎</span></big>** **ʻĂrâd** <small>*(ar-awd')*</small> ==**Arad**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root meaning to sequester itself; fugitive</small>
 
 $\quad$ Arad.

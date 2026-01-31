@@ -6,16 +6,16 @@ He mounted a cherub and flew; He soared on the wings of the wind.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.9|<< Psalms 18:9]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.11|Psalms 18:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he rode  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּרְכַּ֣ב </big></span><small><small><sup>[[H7392]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yir.Kav <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cherub  | <span class="ashebrew"><big>כְּ֭רוּב </big></span><small><small><sup>[[H3742]]</sup></small></small> &#8207;| Ke.ruv <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he flew  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּעֹ֑ף </big></span><small><small><sup>[[H5774A]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.'Of <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he soared  | <span class="ashebrew"><big>וַ֝ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֗דֶא </big></span><small><small><sup>[[H1675]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.de' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wings of  | <span class="ashebrew"><big>כַּנְפֵי </big></span><small><small><sup>[[H3671]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kan.fei- <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wind  | <span class="ashebrew"><big>רֽוּחַ </big></span><small><small><sup>[[H7307H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he rode  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7392\|יִּרְכַּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cherub  |**<big>&#8207;[[H3742\|כְּ֭רוּב]]&#8207; </big>**| Ke.ruv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he flew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5774A\|יָּעֹ֑ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'Of<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he soared  |**<big>&#8207;[[H9001\|וַ֝]]&#8207;&#8207;[[H1675\|יֵּ֗דֶא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.de'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wings of  |**<big>&#8207;[[H3671\|כַּנְפֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kan.fei-<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wind  |**<big>&#8207;[[H7307H\|רֽוּחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.9|<< Psalms 18:9]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.11|Psalms 18:11 >>]]</td></tr></table>
 
 

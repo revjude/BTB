@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲגַג‎</span></big> **ʼĂgag** <small>*(ag-ag')*</small> ==**Agag**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">אֲגָג</span> **ʼĂgâg** <small>*(Ag-awg')*</small>; of uncertain derivation (compare <span class="ashebrew">‎אָגֵא‎</span><sup><small>[[H0089]]</small></sup>); flame</small>
+**<big><span class="ashebrew">‎אֲגַג‎</span></big>** **ʼĂgag** <small>*(ag-ag')*</small> ==**Agag**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">אֲגָג</span></big>** **ʼĂgâg** <small>*(Ag-awg')*</small>; of uncertain derivation (compare **<big>[[H0089|‎אָגֵא‎]]</big>**); flame</small>
 
 $\quad$ Agag.
 - § Agag = *"I will overtop"*

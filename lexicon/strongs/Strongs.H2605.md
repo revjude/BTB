@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָנָן‎</span></big> **Chânân** <small>*(khaw-nawn')*</small> ==**Hanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup>; favor</small>
+**<big><span class="ashebrew">‎חָנָן‎</span></big>** **Chânân** <small>*(khaw-nawn')*</small> ==**Hanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2603|‎חָנַן‎]]</big>**; favor</small>
 
 $\quad$ Canan.
 - § Canan or Hanan = *"he is merciful"*

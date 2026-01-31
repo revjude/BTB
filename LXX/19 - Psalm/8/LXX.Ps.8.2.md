@@ -11,23 +11,23 @@ From the mouths of children and infants You have ordained praise on account of Y
 > $\quad$ referenced by: [[Matt.21.16|Matt 21:16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] mouths | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of infants | <big><span class="asgreek">νηπίων</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones nursing | <big><span class="asgreek">θηλαζόντων</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
-| you ready | <big><span class="asgreek">κατηρτίσω</span></big> <sup><small><small>[[G2675]]</small></small></sup> |
-| praise | <big><span class="asgreek">αίνον</span></big> <sup><small><small>[[G0136]]</small></small></sup> |
-| because of | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to depose | <big><span class="asgreek">καταλύσαι</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| \[the\] enemy | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] avenger. | <big><span class="asgreek">εκδικητήν</span></big> <sup><small><small>[[G7090]]</small></small></sup> |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] mouths | **<big>[[G4750\|στόματος]]</big>** |
+| of infants | **<big>[[G3516\|νηπίων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones nursing | **<big>[[G2337\|θηλαζόντων]]</big>** |
+| you ready | **<big>[[G2675\|κατηρτίσω]]</big>** |
+| praise | **<big>[[G0136\|αίνον]]</big>** |
+| because of | **<big>[[G1752\|ένεκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your enemies, | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to depose | **<big>[[G2647\|καταλύσαι]]</big>** |
+| \[the\] enemy | **<big>[[G2190\|εχθρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] avenger. | **<big>[[G7090\|εκδικητήν]]</big>** |
 [[Ps.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.1|<< Psalm 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.3|Psalm 8:3 >>]]</td></tr></table>
 
 

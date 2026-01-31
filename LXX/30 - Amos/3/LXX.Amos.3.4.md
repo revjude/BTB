@@ -7,29 +7,29 @@ Will a lion roar in the forest, when he hath no prey? will a young lion cry out 
 Does a lion roar in the forest when he has no prey? Does a young lion growl in his den if he has caught nothing?<small><sub>**MT:**</sub></small>
 [[Amos.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.3|<< Amos 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.5|Amos 3:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| bellow | <big><span class="asgreek">ερεύξεται</span></big> <sup><small><small>[[G2044]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his forest | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| game | <big><span class="asgreek">θηραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| having | <big><span class="asgreek">εχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| utter | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a cub | <big><span class="asgreek">σκύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
-| his voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his haven | <big><span class="asgreek">μάνδρας</span></big> <sup><small><small>[[G8247]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| altogether, | <big><span class="asgreek">καθόλου</span></big> <sup><small><small>[[G2527]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| have been seized | <big><span class="asgreek">αρπάση</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| bellow | **<big>[[G2044\|ερεύξεται]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his forest | **<big>[[G6971\|δρυμού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| game | **<big>[[G2339\|θηραν]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| having | **<big>[[G2192\|εχων]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| utter | **<big>[[G1325\|δώσει]]</big>** |
+| a cub | **<big>[[G9121\|σκύμνος]]</big>** |
+| his voice | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his haven | **<big>[[G8247\|μάνδρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| altogether, | **<big>[[G2527\|καθόλου]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| have been seized | **<big>[[G0726\|αρπάση]]</big>** |
+| anything | **<big>[[G5100\|τι]]</big>** |
 [[Amos.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.3|<< Amos 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.5|Amos 3:5 >>]]</td></tr></table>
 
 

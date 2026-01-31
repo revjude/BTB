@@ -7,14 +7,14 @@ One golden spoon of ten [shekels], full of incense:
 one gold dish weighing ten shekels, filled with incense;<small><sub>**MT:**</sub></small>
 [[Num.7.68|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.67|<< Numbers 7:67]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.69|Numbers 7:69 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| incense pan | <big><span class="asgreek">θυϊσκην</span></big> <sup><small><small>[[G7695]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| \[weights\] of gold | <big><span class="asgreek">χρυσών</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρη</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| of incense; | <big><span class="asgreek">θυμιάματος</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
+| incense pan | **<big>[[G7695\|θυϊσκην]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| of ten | **<big>[[G1176\|δέκα]]</big>** |
+| \[weights\] of gold | **<big>[[G5552\|χρυσών]]</big>** |
+| full | **<big>[[G4134\|πλήρη]]</big>** |
+| of incense; | **<big>[[G2368\|θυμιάματος]]</big>** |
 [[Num.7.68|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.67|<< Numbers 7:67]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.69|Numbers 7:69 >>]]</td></tr></table>
 
 

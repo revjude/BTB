@@ -6,14 +6,14 @@ Depart from me, you evildoers, that I may obey the commandments of my God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.115|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.114|<< Psalms 119:114]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.116|Psalms 119:116 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| turn aside  | <span class="ashebrew"><big>סֽוּרוּ </big></span><small><small><sup>[[H5493H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| su.ru- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from me  | <span class="ashebrew"><big>מִמֶּ֥ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נִּי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O evil-doers  | <span class="ashebrew"><big>מְרֵעִ֑ים </big></span><small><small><sup>[[H7489A]]</sup></small></small> &#8207;| me.re.'Im <small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and let me observe  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶצְּרָ֗ה </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.tze.Rah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] commandments of  | <span class="ashebrew"><big>מִצְוֹ֥ת </big></span><small><small><sup>[[H4687]]</sup></small></small> &#8207;| mitz.Vot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God my  | <span class="ashebrew"><big>אֱלֹהָֽ </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.Ha <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| turn aside  |**<big>&#8207;[[H5493H\|סֽוּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| su.ru-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  |**<big>&#8207;[[H4480A\|מִמֶּ֥]]&#8207;&#8207;[[H9030\|נִּי]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O evil-doers  |**<big>&#8207;[[H7489A\|מְרֵעִ֑ים]]&#8207; </big>**| me.re.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let me observe  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H5341\|אֶצְּרָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.tze.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commandments of  |**<big>&#8207;[[H4687\|מִצְוֹ֥ת]]&#8207; </big>**| mitz.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God my  |**<big>&#8207;[[H0430G\|אֱלֹהָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.114|<< Psalms 119:114]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.116|Psalms 119:116 >>]]</td></tr></table>
 
 

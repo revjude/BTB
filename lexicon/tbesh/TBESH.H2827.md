@@ -1,4 +1,3 @@
-<span class="asaramaic">‎חֲשַׁל‎</span> <small>***(cha.shal)***</small> ==**to shatter**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2826]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2826|חָשַׁל]]</big>**</small> 
 
-- Aramaic of <i>cha.shal</i> (<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ש‎</span>ַׁ<span class='ashebrew'>‎ל‎</span> "be feeble" [[H2826]])
+- Aramaic of <i>cha.shal</i> (<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ש‎</span>ַׁ<span class='ashebrew'>‎ל‎</span> "be feeble" **<big>[[H2826|חָשַׁל]]</big>**)

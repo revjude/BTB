@@ -10,27 +10,27 @@ And it came to pass after this, that Benhadad king of Syria gathered all his hos
 Some time later, Ben-hadad king of Aram assembled his entire army and marched up to besiege Samaria.<small><sub>**MT:**</sub></small>
 [[2Kgs.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.23|<< 2 Kings 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.25|2 Kings 6:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gathered | <big><span class="asgreek">ήθροισεν</span></big> <sup><small><small>[[G6003]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hadad | <big><span class="asgreek">Άδερ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his camp, | <big><span class="asgreek">παρεμβολήν</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended, | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| besieged | <big><span class="asgreek">περιεκάθισεν</span></big> <sup><small><small>[[G8731]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Samaria. | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| gathered | **<big>[[G6003\|ήθροισεν]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Hadad | **<big>[[H2301\|Άδερ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his camp, | **<big>[[G3925\|παρεμβολήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascended, | **<big>[[G0305\|ανέβη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| besieged | **<big>[[G8731\|περιεκάθισεν]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Samaria. | **<big>[[G4540\|Σαμάρειαν]]</big>** |
 [[2Kgs.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.23|<< 2 Kings 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.25|2 Kings 6:25 >>]]</td></tr></table>
 
 

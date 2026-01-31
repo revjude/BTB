@@ -7,18 +7,18 @@ Because of thine indignation and thy wrath: for thou hast lifted me up, and cast
 because of Your indignation and wrath, for You have picked me up and cast me aside.<small><sub>**MT:**</sub></small>
 [[Ps.102.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.9|<< Psalm 102:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.11|Psalm 102:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your anger, | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rage; | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| having lifted \[me\] up | <big><span class="asgreek">επάρας</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| you broke me down. | <big><span class="asgreek">κατέρραξάς</span></big> <sup><small><small>[[G7907]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| because of | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your anger, | **<big>[[G3709\|οργής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your rage; | **<big>[[G2372\|θυμού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| having lifted \[me\] up | **<big>[[G1869\|επάρας]]</big>** |
+| you broke me down. | **<big>[[G7907\|κατέρραξάς]]</big>** **<big>[[G1473\|με]]</big>** |
 [[Ps.102.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.9|<< Psalm 102:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.11|Psalm 102:11 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Z
 Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,<small><sub>**MT:**</sub></small>
 [[1Chr.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.38|<< 1 Chronicles 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.40|1 Chronicles 11:40 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Zelek | <big><span class="asgreek">Σελλήκ</span></big> <sup><small><small>[[H6768]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ammonite, | <big><span class="asgreek">Αμμανί</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| Naarai | <big><span class="asgreek">Νοαραϊ</span></big> <sup><small><small>[[H5293]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Berothite, | <big><span class="asgreek">Βηρωθί</span></big> <sup><small><small>[[H1307]]</small></small></sup> |
-| one carrying | <big><span class="asgreek">αίρων</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \[the\] weapons | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zeruiah, | <big><span class="asgreek">Σαρουϊα</span></big> <sup><small><small>[[H6870]]</small></small></sup> |
+| Zelek | **<big>[[H6768\|Σελλήκ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ammonite, | **<big>[[H5983\|Αμμανί]]</big>** |
+| Naarai | **<big>[[H5293\|Νοαραϊ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Berothite, | **<big>[[H1307\|Βηρωθί]]</big>** |
+| one carrying | **<big>[[G0142\|αίρων]]</big>** |
+| \[the\] weapons | **<big>[[G4632\|σκεύη]]</big>** |
+| of Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Zeruiah, | **<big>[[H6870\|Σαρουϊα]]</big>** |
 [[1Chr.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.38|<< 1 Chronicles 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.40|1 Chronicles 11:40 >>]]</td></tr></table>
 
 

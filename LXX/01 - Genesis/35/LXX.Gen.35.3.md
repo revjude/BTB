@@ -7,37 +7,37 @@ And let us arise, and go up to Bethel; and I will make there an altar unto God, 
 Then let us arise and go to Bethel. I will build an altar there to God, who answered me in my day of distress. He has been with me wherever I have gone.”<small><sub>**MT:**</sub></small>
 [[Gen.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.2|<< Genesis 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.4|Genesis 35:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rising up, | <big><span class="asgreek">αναστάντες</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| let us ascend | <big><span class="asgreek">αναβώμεν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let us make | <big><span class="asgreek">ποιήσωμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to God! | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to the \[one\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| taking heed | <big><span class="asgreek">επακούσαντί</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| of me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of affliction, | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| preserved | <big><span class="asgreek">διέσωσέ</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I went. | <big><span class="asgreek">επορεύθην</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rising up, | **<big>[[G0450\|αναστάντες]]</big>** |
+| let us ascend | **<big>[[G0305\|αναβώμεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Beth-el, | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let us make | **<big>[[G4160\|ποιήσωμεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to God! | **<big>[[G2316\|θεώ]]</big>** |
+| to the \[one\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| taking heed | **<big>[[G1873\|επακούσαντί]]</big>** |
+| of me | **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of affliction, | **<big>[[G2347\|θλίψεως]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| preserved | **<big>[[G1295\|διέσωσέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| I went. | **<big>[[G4198\|επορεύθην]]</big>** |
 [[Gen.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.2|<< Genesis 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.4|Genesis 35:4 >>]]</td></tr></table>
 
 

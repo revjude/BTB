@@ -7,21 +7,21 @@ Thou renewest thy witnesses against me, and increasest thine indignation upon me
 You produce new witnesses against me and multiply Your anger toward me. Hardships assault me in wave after wave.<small><sub>**MT:**</sub></small>
 [[Job.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.16|<< Job 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.18|Job 10:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| renewing | <big><span class="asgreek">επανακαινίζων</span></big> <sup><small><small>[[G7361]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my chastisement; | <big><span class="asgreek">έτασίν</span></big> <sup><small><small>[[G7524]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| you dealt with me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εχρήσω</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| and you brought | <big><span class="asgreek">επήγαγες</span></big> <sup><small><small>[[G1863]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| trials | <big><span class="asgreek">πειρατήρια</span></big> <sup><small><small>[[G8679]]</small></small></sup> |
+| renewing | **<big>[[G7361\|επανακαινίζων]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my chastisement; | **<big>[[G7524\|έτασίν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| in great | **<big>[[G3173\|μεγάλη]]</big>** |
+| you dealt with me | **<big>[[G1473\|μοι]]</big>** **<big>[[G5530\|εχρήσω]]</big>** |
+| and you brought | **<big>[[G1863\|επήγαγες]]</big>** **<big>[[G1161\|δε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| trials | **<big>[[G8679\|πειρατήρια]]</big>** |
 [[Job.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.16|<< Job 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.18|Job 10:18 >>]]</td></tr></table>
 
 

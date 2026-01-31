@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְחִיָּה‎</span></big> **Yᵉchîyâh** <small>*(yekh-ee-yaw')*</small> ==**Jehiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָיָה‎</span><sup><small>[[H2421]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah will live</small>
+**<big><span class="ashebrew">‎יְחִיָּה‎</span></big>** **Yᵉchîyâh** <small>*(yekh-ee-yaw')*</small> ==**Jehiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2421|‎חָיָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah will live</small>
 
 $\quad$ Jehiah.
 - § Jehiah = *"Jehovah lives"*

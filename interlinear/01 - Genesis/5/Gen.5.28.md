@@ -6,17 +6,17 @@ When Lamech was 182 years old, he had a son.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.27|<< Genesis 5:27]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.29|Genesis 5:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he lived  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְחִי </big></span><small><small><sup>[[H2421]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.chi- <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lamech  | <span class="ashebrew"><big>לֶ֕מֶךְ </big></span><small><small><sup>[[H3929H]]</sup></small></small> &#8207;| Le.mekh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  | <span class="ashebrew"><big>שְׁתַּ֧יִם </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Ta.yim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and eighty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׁמֹנִ֛ים </big></span><small><small><sup>[[H8084]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> she.mo.Nim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֖ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and one hundred  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְאַ֣ת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.'At <small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he fathered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יּ֖וֹלֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.led <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּֽן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.chi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lamech  |**<big>&#8207;[[H3929H\|לֶ֕מֶךְ]]&#8207; </big>**| Le.mekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁתַּ֧יִם]]&#8207; </big>**| she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eighty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8084\|שְׁמֹנִ֛ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mo.Nim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֖ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one hundred  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3967\|מְאַ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.'At<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יּ֖וֹלֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.27|<< Genesis 5:27]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.29|Genesis 5:29 >>]]</td></tr></table>
 
 

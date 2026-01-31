@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ar</span>, the capital of Moab, mentioned in the context of Israel's journey and prophecies.
 - A location first mentioned at [[Num.21.15|Num.21.15]]; 
-- only referred to as Ar<[[H6144]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Ar **<big>[[H6144|עָר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.44980942220132,35.59395836278803&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The exact location of Ar is uncertain, but it is generally associated with the m
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ar | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>](H6144) <small>*Hebrew*</small> | 6x | [[Num.21.15] ... [Isa.15.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ar\*\|reference=Num.21.15;Num.21.28;Deu.2.9;Deu.2.18;Deu.2.29;Isa.15.1) |
-All Strong's for **Ar**: \[[[H6144]]\]
+| Ar | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ר</span>](H6144) | 6x | [[Num.21.15] ... [Isa.15.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ar\*\|reference=Num.21.15;Num.21.28;Deu.2.9;Deu.2.18;Deu.2.29;Isa.15.1) |
+All entries for **Ar**:  **<big>[[H6144|עָר]]</big>**

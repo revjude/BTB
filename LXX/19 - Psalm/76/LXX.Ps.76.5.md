@@ -7,27 +7,27 @@ The stouthearted are spoiled, they have slept their sleep: and none of the men o
 The valiant lie plundered; they sleep their last sleep. No men of might could lift a hand.<small><sub>**MT:**</sub></small>
 [[Ps.76.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.4|<< Psalm 76:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.6|Psalm 76:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were disturbed | <big><span class="asgreek">εταράχθησαν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| senseless | <big><span class="asgreek">ασύνετοι</span></big> <sup><small><small>[[G0801]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| slept | <big><span class="asgreek">ύπνωσαν</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
-| their sleep | <big><span class="asgreek">ύπνον</span></big> <sup><small><small>[[G5258]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| find | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| anything | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of wealth | <big><span class="asgreek">πλούτου</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands. | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were disturbed | **<big>[[G5015\|εταράχθησαν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| senseless | **<big>[[G0801\|ασύνετοι]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| slept | **<big>[[G9567\|ύπνωσαν]]</big>** |
+| their sleep | **<big>[[G5258\|ύπνον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουχ]]</big>** |
+| find | **<big>[[G2147\|εύρον]]</big>** |
+| anything | **<big>[[G3762\|ουδέν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of wealth | **<big>[[G4149\|πλούτου]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their hands. | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.76.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.4|<< Psalm 76:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.6|Psalm 76:6 >>]]</td></tr></table>
 
 

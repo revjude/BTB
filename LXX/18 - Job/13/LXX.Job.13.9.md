@@ -7,17 +7,17 @@ Is it good that he should search you out? or as one man mocketh another, do ye [
 Would it be well when He examined you? Could you deceive Him as you would deceive a man?<small><sub>**MT:**</sub></small>
 [[Job.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.8|<< Job 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.10|Job 13:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[Is it\] good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| he should track | <big><span class="asgreek">εξιχνιάση</span></big> <sup><small><small>[[G7337]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for as if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| all \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] ones doing | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| shall you be added | <big><span class="asgreek">προστεθήσεσθε</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[Is it\] good | **<big>[[G2570\|καλόν]]</big>** **<big>[[G1065\|γε]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| he should track | **<big>[[G7337\|εξιχνιάση]]</big>** |
+| you; | **<big>[[G1473\|υμάς]]</big>** |
+| for as if | **<big>[[G1487\|ει]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| all \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| \[the\] ones doing | **<big>[[G4160\|ποιούντες]]</big>** |
+| shall you be added | **<big>[[G4369\|προστεθήσεσθε]]</big>** |
+| to him; | **<big>[[G1473\|αυτώ]]</big>** |
 [[Job.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.8|<< Job 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.10|Job 13:10 >>]]</td></tr></table>
 
 

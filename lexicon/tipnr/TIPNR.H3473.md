@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ishpan</span> was a descendant of Benjamin through Shashak \([[1Chr.8.22|1Ch.8.22]]\).
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.22|1Ch.8.22]]; 
-- only referred to as Ishpan<[[H3473]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Shashak<[[H8349]]>; 
-- a brother of Eber<[[H5677J]]>, Eliel<[[H0447I]]>, Abdon<[[H5658I]]>, Zichri<[[H2147I]]>, Hanan<[[H2605G]]>, Hananiah<[[H2608O]]>, Elam<[[H5867G]]>, Anthothijah<[[H6070]]>, Iphdeiah<[[H3301]]> and Penuel<[[H6439I]]>.
+- only referred to as Ishpan **<big>[[H3473|יִשְׁפָּן]]</big>**; 
+-  son of Shashak **<big>[[H8349|שָׁשַׁק]]</big>**; 
+- a brother of Eber **<big>[[H5677|עֵבֵר]]</big>**, Eliel **<big>[[H0447|אֱלִיאֵל]]</big>**, Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, Zichri **<big>[[H2147|זִכְרִי]]</big>**, Hanan **<big>[[H2605|חָנָן]]</big>**, Hananiah **<big>[[H2608|חֲנַנְיָה]]</big>**, Elam **<big>[[H5867|עֵילָם]]</big>**, Anthothijah **<big>[[H6070|עַנְתֹתִיָּה]]</big>**, Iphdeiah **<big>[[H3301|יִפְדְּיָה]]</big>** and Penuel **<big>[[H6439|פְּנוּאֵל]]</big>**.
 
 Ishpan is mentioned briefly in a genealogy of the tribe of Benjamin in [[1Chr.8.22|1 Chronicles 8:22]]. He is listed as one of the sons of Shashak, who was a descendant of Benjamin through Beriah and Elpaal. 
 
@@ -16,8 +16,8 @@ No other details are provided about Ishpan's life, occupation, or role within th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ishpan | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H3473) <small>*Hebrew*</small> | 1x | [1Ch.8.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishpan\*\|reference=1Ch.8.22) |
-All Strong's for **Ishpan**: \[[[H3473]]\]
+| Ishpan | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H3473) | 1x | [1Ch.8.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishpan\*\|reference=1Ch.8.22) |
+All entries for **Ishpan**:  **<big>[[H3473|יִשְׁפָּן]]</big>**
 #### Related Profiles:
 - **[Shashak](H8349)** (father)
 - **[Eber](H5677J)** (sibling)

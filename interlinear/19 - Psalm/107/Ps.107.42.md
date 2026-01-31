@@ -6,15 +6,15 @@ The upright see and rejoice, and all iniquity shuts its mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.41|<< Psalms 107:41]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.43|Psalms 107:43 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they see  | <span class="ashebrew"><big>יִרְא֣וּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| yir.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| upright [people]  | <span class="ashebrew"><big>יְשָׁרִ֣ים </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| ye.sha.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may rejoice  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִשְׂמָ֑חוּ </big></span><small><small><sup>[[H8055]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yis.Ma.chu <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unrighteousness  | <span class="ashebrew"><big>עַ֝וְלָ֗ה </big></span><small><small><sup>[[H5766B]]</sup></small></small> &#8207;| 'av.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it shuts  | <span class="ashebrew"><big>קָ֣פְצָה </big></span><small><small><sup>[[H7092]]</sup></small></small> &#8207;| Ka.fe.tzah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth its  | <span class="ashebrew"><big>פִּֽי </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Pi. <small><sup>[[HNcmsc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they see  |**<big>&#8207;[[H7200G\|יִרְא֣וּ]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| upright [people]  |**<big>&#8207;[[H3477G\|יְשָׁרִ֣ים]]&#8207; </big>**| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|יִשְׂמָ֑חוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yis.Ma.chu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unrighteousness  |**<big>&#8207;[[H5766B\|עַ֝וְלָ֗ה]]&#8207; </big>**| 'av.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it shuts  |**<big>&#8207;[[H7092\|קָ֣פְצָה]]&#8207; </big>**| Ka.fe.tzah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth its  |**<big>&#8207;[[H6310G\|פִּֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Pi.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.41|<< Psalms 107:41]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.43|Psalms 107:43 >>]]</td></tr></table>
 
 

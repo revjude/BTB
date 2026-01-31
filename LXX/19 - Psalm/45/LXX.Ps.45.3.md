@@ -7,16 +7,16 @@ Gird thy sword upon [thy] thigh, O [most] mighty, with thy glory and thy majesty
 Strap your sword at your side, O mighty warrior; appear in your majesty and splendor.<small><sub>**MT:**</sub></small>
 [[Ps.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.2|<< Psalm 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.4|Psalm 45:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Gird | <big><span class="asgreek">περίζωσαι</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your thigh! | <big><span class="asgreek">μηρόν</span></big> <sup><small><small>[[G3382]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O mighty \[one\], | <big><span class="asgreek">δυνατέ</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| in your beauty. | <big><span class="asgreek">ωραιότητί</span></big> <sup><small><small>[[G9814]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Gird | **<big>[[G4024\|περίζωσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your thigh! | **<big>[[G3382\|μηρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O mighty \[one\], | **<big>[[G1415\|δυνατέ]]</big>** |
+| in your beauty. | **<big>[[G9814\|ωραιότητί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.2|<< Psalm 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.4|Psalm 45:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,8 @@
 <small>*Ebenezer • A stone memorial set up by Samuel to commemorate victory.*</small>
 
 <span class='tipnrhighlight'>Ebenezer</span> was a stone memorial set up by Samuel to commemorate Israel's victory over the Philistines \([[1Sam.4.1|1 Samuel 4:1]]; 5:1; 7:12\).
-- A location near Mizpah<[[H4709G]]> first mentioned at [[1Sam.4.1|1Sa.4.1]]; 
-- only referred to as Ebenezer<[[H0072]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Mizpah **<big>[[H4709|מִצְפָּה]]</big>** first mentioned at [[1Sam.4.1|1Sa.4.1]]; 
+- only referred to as Ebenezer **<big>[[H0072|אֶבֶן הָעֵזֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.83273947023218,35.1801628605877&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ebenezer, meaning "stone of help," was a memorial stone set up by the prophet Sa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ebenezer | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H0072) <small>*Hebrew*</small> | 3x | [[1Sa.4.1] ... [1Sa.7.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebenezer\*\|reference=1Sa.4.1;1Sa.5.1;1Sa.7.12) |
-All Strong's for **Ebenezer**: \[[[H0072]]\]
+| Ebenezer | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H0072) | 3x | [[1Sa.4.1] ... [1Sa.7.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebenezer\*\|reference=1Sa.4.1;1Sa.5.1;1Sa.7.12) |
+All entries for **Ebenezer**:  **<big>[[H0072|אֶבֶן הָעֵזֶר]]</big>**

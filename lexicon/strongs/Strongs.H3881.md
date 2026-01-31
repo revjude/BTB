@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לֵוִיִּי‎</span></big> **Lêvîyîy** <small>*(lay-vee-ee')*</small> ==**Levi**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>or <span class="ashebrew">לֵוִי</span> **Lêvîy** <small>*(lay-vee')*</small>; patronymically from <span class="ashebrew">‎לֵוִי‎</span><sup><small>[[H3878]]</small></sup></small>
+**<big><span class="ashebrew">‎לֵוִיִּי‎</span></big>** **Lêvîyîy** <small>*(lay-vee-ee')*</small> ==**Levi**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>or **<big><span class="ashebrew">לֵוִי</span></big>** **Lêvîy** <small>*(lay-vee')*</small>; patronymically from **<big>[[H3878|‎לֵוִי‎]]</big>**</small>
 
 $\quad$ Leviite.
 - § Levite = *see Levi "joined to"*

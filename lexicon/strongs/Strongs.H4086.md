@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַדְמֵן‎</span></big> **Madmên** <small>*(mad-mane')*</small> ==**Madmen**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎דֹּמֶן‎</span><sup><small>[[H1828]]</small></sup>; dunghill</small>
+**<big><span class="ashebrew">‎מַדְמֵן‎</span></big>** **Madmên** <small>*(mad-mane')*</small> ==**Madmen**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H1828|‎דֹּמֶן‎]]</big>**; dunghill</small>
 
 $\quad$ Madmen.
 - § Madmen = *"dunghill"*

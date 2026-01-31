@@ -6,16 +6,16 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.13|<< Proverbs 20:13]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.15|Proverbs 20:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| bad  | <span class="ashebrew"><big>רַ֣ע </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bad  | <span class="ashebrew"><big>רַ֭ע </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>יֹאמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the buyer  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קּוֹנֶ֑ה </big></span><small><small><sup>[[H7069]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ko.Neh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [he is] going away  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֹזֵ֥ל </big></span><small><small><sup>[[H0235]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.Zel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> himself  | <span class="ashebrew"><big>ל֝֗ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| then  | <span class="ashebrew"><big>אָ֣ז </big></span><small><small><sup>[[H0227A]]</sup></small></small> &#8207;| 'az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he boasts  | <span class="ashebrew"><big>יִתְהַלָּֽל </big></span><small><small><sup>[[H1984H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yit.ha.Lal <small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bad  |**<big>&#8207;[[H7451A\|רַ֣ע]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bad  |**<big>&#8207;[[H7451A\|רַ֭ע]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|יֹאמַ֣ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the buyer  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7069\|קּוֹנֶ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [he is] going away  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0235\|אֹזֵ֥ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Zel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> himself  |**<big>&#8207;[[H9005\|ל֝֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he boasts  |**<big>&#8207;[[H1984H\|יִתְהַלָּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.ha.Lal<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.13|<< Proverbs 20:13]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.15|Proverbs 20:15 >>]]</td></tr></table>
 
 

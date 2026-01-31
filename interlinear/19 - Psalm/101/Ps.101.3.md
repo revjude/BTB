@@ -6,20 +6,20 @@ I will set no worthless thing before my eyes. I hate the work of those who fall 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.2|<< Psalms 101:2]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.4|Psalms 101:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will set  | <span class="ashebrew"><big>אָשִׁ֨ית </big></span><small><small><sup>[[H7896G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'a.Shit <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to before  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נֶ֥גֶד </big></span><small><small><sup>[[H5048]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Ne.ged <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes my  | <span class="ashebrew"><big>עֵינַ֗ </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'ei.Na <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a thing of  | <span class="ashebrew"><big>דְּֽבַר </big></span><small><small><sup>[[H1697I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| de.var- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| worthlessness  | <span class="ashebrew"><big>בְּלִ֫יָּ֥עַל </big></span><small><small><sup>[[H1100I]]</sup></small></small> &#8207;| be.Li.Ya.'al <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] doing of  | <span class="ashebrew"><big>עֲשֹֽׂה </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.soh- <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| swerving deeds  | <span class="ashebrew"><big>סֵטִ֥ים </big></span><small><small><sup>[[H7846]]</sup></small></small> &#8207;| se.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I hate  | <span class="ashebrew"><big>שָׂנֵ֑אתִי </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| sa.Ne.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֖א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will cling  | <span class="ashebrew"><big>יִדְבַּ֣ק </big></span><small><small><sup>[[H1692]]</sup></small></small> &#8207;| yid.Bak <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  | <span class="ashebrew"><big>בִּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| B <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will set  |**<big>&#8207;[[H7896G\|אָשִׁ֨ית]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Shit<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to before  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5048\|נֶ֥גֶד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes my  |**<big>&#8207;[[H5869A\|עֵינַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a thing of  |**<big>&#8207;[[H1697I\|דְּֽבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| worthlessness  |**<big>&#8207;[[H1100I\|בְּלִ֫יָּ֥עַל]]&#8207; </big>**| be.Li.Ya.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] doing of  |**<big>&#8207;[[H6213A\|עֲשֹֽׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.soh-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| swerving deeds  |**<big>&#8207;[[H7846\|סֵטִ֥ים]]&#8207; </big>**| se.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I hate  |**<big>&#8207;[[H8130\|שָׂנֵ֑אתִי]]&#8207; </big>**| sa.Ne.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will cling  |**<big>&#8207;[[H1692\|יִדְבַּ֣ק]]&#8207; </big>**| yid.Bak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| B<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.2|<< Psalms 101:2]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.4|Psalms 101:4 >>]]</td></tr></table>
 
 

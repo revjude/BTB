@@ -7,35 +7,35 @@ I came near unto one of them that stood by, and asked him the truth of all this.
 I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things:<small><sub>**MT:**</sub></small>
 [[Dan.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.15|<< Daniel 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.17|Daniel 7:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I came forward | <big><span class="asgreek">προσήλθον</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| to one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing, | <big><span class="asgreek">εστηκότων</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exactness | <big><span class="asgreek">ακρίβειαν</span></big> <sup><small><small>[[G0195]]</small></small></sup> |
-| I sought | <big><span class="asgreek">εζήτουν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| of | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to learn | <big><span class="asgreek">μαθείν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\]. | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exactness; | <big><span class="asgreek">ακρίβειαν</span></big> <sup><small><small>[[G0195]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| he made known | <big><span class="asgreek">εγνώρισέ</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I came forward | **<big>[[G4334\|προσήλθον]]</big>** |
+| to one | **<big>[[G1520\|ενί]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| standing, | **<big>[[G2476\|εστηκότων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| exactness | **<big>[[G0195\|ακρίβειαν]]</big>** |
+| I sought | **<big>[[G2212\|εζήτουν]]</big>** |
+| of | **<big>[[G3844\|παρ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| to learn | **<big>[[G3129\|μαθείν]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| these \[things\]. | **<big>[[G3778\|τούτων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he spoke | **<big>[[G2036\|είπε]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| exactness; | **<big>[[G0195\|ακρίβειαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| he made known | **<big>[[G1107\|εγνώρισέ]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Dan.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.15|<< Daniel 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.17|Daniel 7:17 >>]]</td></tr></table>
 
 

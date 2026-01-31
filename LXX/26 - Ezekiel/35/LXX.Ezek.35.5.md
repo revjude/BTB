@@ -7,29 +7,29 @@ Because thou hast had a perpetual hatred, and hast shed [the blood of] the child
 Because you harbored an ancient hatred and delivered the Israelites over to the sword in the time of their disaster at the final stage of their punishment,<small><sub>**MT:**</sub></small>
 [[Ezek.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.4|<< Ezekiel 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.6|Ezekiel 35:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| you became | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| enemy | <big><span class="asgreek">έχθραν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιαν</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sat in place | <big><span class="asgreek">ενεκάθισας</span></big> <sup><small><small>[[G7003]]</small></small></sup> |
-| against the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| treachery, | <big><span class="asgreek">δόλω</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| with a sword, | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of iniquity, | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] last. | <big><span class="asgreek">εσχάτων</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| Because | **<big>[[G0473\|αντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| you became | **<big>[[G1096\|γενέσθαι]]</big>** **<big>[[G1473\|σε]]</big>** |
+| enemy | **<big>[[G2190\|έχθραν]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sat in place | **<big>[[G7003\|ενεκάθισας]]</big>** |
+| against the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| treachery, | **<big>[[G1388\|δόλω]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of enemies | **<big>[[G2190\|εχθρών]]</big>** |
+| with a sword, | **<big>[[G3162\|μαχαίρα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| of iniquity, | **<big>[[G0093\|αδικίας]]</big>** |
+| at | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] last. | **<big>[[G2078\|εσχάτων]]</big>** |
 [[Ezek.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.4|<< Ezekiel 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.6|Ezekiel 35:6 >>]]</td></tr></table>
 
 

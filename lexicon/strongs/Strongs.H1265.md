@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בְּרוֹשׁ‎</span></big> **bᵉrôwsh** <small>*(ber-osh')*</small> ==**cypress**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎בְּרוֹשׁ‎</span></big>** **bᵉrôwsh** <small>*(ber-osh')*</small> ==**cypress**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ fir (tree).
@@ -10,4 +10,4 @@ $\quad$ **1a)** a noble tree (lit.)
 $\quad$ **1b)** of stateliness (fig.)
 $\quad$ **1c)** material for temple
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Κεδρών</span><sup><small>[[G2748]]</small></sup> · <span class="asgreek">προηγέομαι</span><sup><small>[[G4285]]</small></sup>
+<small>See Greek: </small>**<big>[[G2748|Κεδρών]]</big>** · **<big>[[G4285|προηγέομαι]]</big>**

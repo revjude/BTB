@@ -7,18 +7,18 @@ Thou didst march through the land in indignation, thou didst thresh the heathen 
 You marched across the earth with fury; You threshed the nations in wrath.<small><sub>**MT:**</sub></small>
 [[Hab.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.11|<< Habakkuk 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.13|Habakkuk 3:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| intimidation | <big><span class="asgreek">απειλή</span></big> <sup><small><small>[[G0547]]</small></small></sup> |
-| few | <big><span class="asgreek">ολιγώσεις</span></big> <sup><small><small>[[G8487]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| you shall break | <big><span class="asgreek">κατάξεις</span></big> <sup><small><small>[[G2608]]</small></small></sup> |
-| nations. | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| By | **<big>[[G1722\|εν]]</big>** |
+| intimidation | **<big>[[G0547\|απειλή]]</big>** |
+| few | **<big>[[G8487\|ολιγώσεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| rage | **<big>[[G2372\|θυμώ]]</big>** |
+| you shall break | **<big>[[G2608\|κατάξεις]]</big>** |
+| nations. | **<big>[[G1484\|έθνη]]</big>** |
 [[Hab.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.11|<< Habakkuk 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.13|Habakkuk 3:13 >>]]</td></tr></table>
 
 

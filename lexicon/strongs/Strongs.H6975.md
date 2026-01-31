@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קוֹץ‎</span></big> **qôwts** <small>*(kotse)*</small> ==**thorn**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">קֹץ</span> **qôts** <small>*(kotse)*</small>; from <span class="ashebrew">‎קוּץ‎</span><sup><small>[[H6972]]</small></sup> (in the sense of pricking)</small>
+**<big><span class="ashebrew">‎קוֹץ‎</span></big>** **qôwts** <small>*(kotse)*</small> ==**thorn**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">קֹץ</span></big>** **qôts** <small>*(kotse)*</small>; from **<big>[[H6972|‎קוּץ‎]]</big>** (in the sense of pricking)</small>
 
 $\quad$ thorn.
 - ***a thorn***
@@ -8,4 +8,4 @@ $\quad$ thorn.
 $\quad$ **1a)** thornbush
 $\quad$ **1b)** thorn
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄκανθα</span><sup><small>[[G0173]]</small></sup>
+<small>See Greek: </small>**<big>[[G0173|ἄκανθα]]</big>**

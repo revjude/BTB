@@ -10,42 +10,42 @@ And Reuben went in the days of wheat harvest, and found mandrakes in the field, 
 Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah, “Please give me some of your son’s mandrakes.”<small><sub>**MT:**</sub></small>
 [[Gen.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.13|<< Genesis 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.15|Genesis 30:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Reuben | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| harvest | <big><span class="asgreek">θερισμού</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
-| \[of the\] wheat | <big><span class="asgreek">πυρών</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he found | <big><span class="asgreek">εύρε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| apples | <big><span class="asgreek">μήλα</span></big> <sup><small><small>[[G8316]]</small></small></sup> |
-| of mandrakes | <big><span class="asgreek">μανδραγορών</span></big> <sup><small><small>[[G8248]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field. | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">ήνεγκεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Leah | <big><span class="asgreek">Λείαν</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother. | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Leah | <big><span class="asgreek">Λεία</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her sister, | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mandrakes | <big><span class="asgreek">μανδραγορών</span></big> <sup><small><small>[[G8248]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your son! | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Reuben | **<big>[[G4502\|Ρουβήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| harvest | **<big>[[G2326\|θερισμού]]</big>** |
+| \[of the\] wheat | **<big>[[G8994\|πυρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he found | **<big>[[G2147\|εύρε]]</big>** |
+| apples | **<big>[[G8316\|μήλα]]</big>** |
+| of mandrakes | **<big>[[G8248\|μανδραγορών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| field. | **<big>[[G0068\|αγρώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G5342\|ήνεγκεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Leah | **<big>[[H3812\|Λείαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his mother. | **<big>[[G3384\|μητέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Rachel | **<big>[[G4478\|Ραχήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Leah | **<big>[[H3812\|Λεία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her sister, | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| mandrakes | **<big>[[G8248\|μανδραγορών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your son! | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.13|<< Genesis 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.15|Genesis 30:15 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ The righteous also shall hold on his way, and he that hath clean hands shall be 
 Yet a righteous one holds to his way, and the one with clean hands grows stronger.<small><sub>**MT:**</sub></small>
 [[Job.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.8|<< Job 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.10|Job 17:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| hold | <big><span class="asgreek">σχοίη</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] trustworthy | <big><span class="asgreek">πιστός</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| way; | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[the\] clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| may | <big><span class="asgreek">αναλάβοι</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| courage. | <big><span class="asgreek">θάρσος</span></big> <sup><small><small>[[G2294]]</small></small></sup> |
+| hold | **<big>[[G2192\|σχοίη]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| \[the\] trustworthy | **<big>[[G4103\|πιστός]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| way; | **<big>[[G3598\|οδόν]]</big>** |
+| \[the\] clean | **<big>[[G2513\|καθαρός]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| hands | **<big>[[G5495\|χείρας]]</big>** |
+| may | **<big>[[G0353\|αναλάβοι]]</big>** |
+| courage. | **<big>[[G2294\|θάρσος]]</big>** |
 [[Job.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.8|<< Job 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.10|Job 17:10 >>]]</td></tr></table>
 
 

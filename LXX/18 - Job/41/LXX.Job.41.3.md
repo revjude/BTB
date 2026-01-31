@@ -7,13 +7,13 @@ Will he make many supplications unto thee? will he speak soft [words] unto thee?
 Will he beg you for mercy or speak to you softly?<small><sub>**MT:**</sub></small>
 [[Job.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.2|<< Job 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.4|Job 41:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And will he speak | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| supplications | <big><span class="asgreek">δεήσεις</span></big> <sup><small><small>[[G1162]]</small></small></sup> |
-| earnest | <big><span class="asgreek">ικετηρίας</span></big> <sup><small><small>[[G2428]]</small></small></sup> |
-| softly? | <big><span class="asgreek">μαλακώς</span></big> <sup><small><small>[[G8244]]</small></small></sup> |
+| And will he speak | **<big>[[G2980\|λαλήσει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| supplications | **<big>[[G1162\|δεήσεις]]</big>** |
+| earnest | **<big>[[G2428\|ικετηρίας]]</big>** |
+| softly? | **<big>[[G8244\|μαλακώς]]</big>** |
 [[Job.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.2|<< Job 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.4|Job 41:4 >>]]</td></tr></table>
 
 

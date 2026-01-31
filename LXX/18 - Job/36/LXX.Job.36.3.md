@@ -7,14 +7,14 @@ I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.
 I get my knowledge from afar, and I will ascribe justice to my Maker.<small><sub>**MT:**</sub></small>
 [[Job.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.2|<< Job 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.4|Job 36:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Having taken up | <big><span class="asgreek">αναλαβών</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my higher knowledge | <big><span class="asgreek">επιστήμην</span></big> <sup><small><small>[[G7454]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from afar, | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
-| and to works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of mine, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Having taken up | **<big>[[G0353\|αναλαβών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my higher knowledge | **<big>[[G7454\|επιστήμην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from afar, | **<big>[[G3112\|μακράν]]</big>** |
+| and to works | **<big>[[G2041\|έργοις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of mine, | **<big>[[G1473\|μου]]</big>** |
 [[Job.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.2|<< Job 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.4|Job 36:4 >>]]</td></tr></table>
 
 

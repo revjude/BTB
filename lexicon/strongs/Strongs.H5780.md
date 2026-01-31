@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוּץ‎</span></big> **ʻÛwts** <small>*(oots)*</small> ==**Uz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎עוּץ‎</span><sup><small>[[H5779]]</small></sup>; consultation</small>
+**<big><span class="ashebrew">‎עוּץ‎</span></big>** **ʻÛwts** <small>*(oots)*</small> ==**Uz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from **<big>[[H5779|‎עוּץ‎]]</big>**; consultation</small>
 
 $\quad$ Uz.
 - § Uz = *"wooded"*

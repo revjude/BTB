@@ -7,31 +7,31 @@ And I heard a sound of the wings of the living creatures flapping \[one\] to the
 It was the sound of the wings of the living creatures brushing against one another and the sound of the wheels beside them, a great rumbling sound.<small><sub>**MT:**</sub></small>
 [[Ezek.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.12|<< Ezekiel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.14|Ezekiel 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| a sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living creatures | <big><span class="asgreek">ζώων</span></big> <sup><small><small>[[G2226]]</small></small></sup> |
-| flapping | <big><span class="asgreek">πτερυσσομένων</span></big> <sup><small><small>[[G8977]]</small></small></sup> |
-| \[one\] | <big><span class="asgreek">ετέρα</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other; | <big><span class="asgreek">ετέραν</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wheels | <big><span class="asgreek">τροχών</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
-| next to | <big><span class="asgreek">εχομένη</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| quake | <big><span class="asgreek">σεισμού</span></big> <sup><small><small>[[G4578]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I heard | **<big>[[G0191\|ήκουσα]]</big>** |
+| a sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wings | **<big>[[G4420\|πτερύγων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| living creatures | **<big>[[G2226\|ζώων]]</big>** |
+| flapping | **<big>[[G8977\|πτερυσσομένων]]</big>** |
+| \[one\] | **<big>[[G2087\|ετέρα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| other; | **<big>[[G2087\|ετέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wheels | **<big>[[G5164\|τροχών]]</big>** |
+| next to | **<big>[[G2192\|εχομένη]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| quake | **<big>[[G4578\|σεισμού]]</big>** |
+| great | **<big>[[G3173\|μεγάλου]]</big>** |
 [[Ezek.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.12|<< Ezekiel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.14|Ezekiel 3:14 >>]]</td></tr></table>
 
 

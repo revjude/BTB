@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Ἀβαδδών</span></span>  (Heb. <span class="ashebrew">אֲבַדֹּון</span> <small><sup>[[H0011]]</sup></small>, <span class="asitalic">destruction</span>; LXX, <span class="asgreek">ἀπώλεια</span>, only in Wisdom Lit., of the place of the ruined dead: [[LXX.Job.26.6|Jb 26:6]], [[LXX.Job.28.22|28:22]], [[LXX.Job.31.12|31:12]], [[LXX.Ps.88.12|Ps 88:12]], [[LXX.Prov.15.11|Pr 15:11]]\*), indecl.; </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Ἀβαδδών</span></span>  (Heb. **<big>[[H0011|אֲבַדֹּון]]</big>**, <span class="asitalic">destruction</span>; LXX, <span class="asgreek">ἀπώλεια</span>, only in Wisdom Lit., of the place of the ruined dead: [[LXX.Job.26.6|Jb 26:6]], [[LXX.Job.28.22|28:22]], [[LXX.Job.31.12|31:12]], [[LXX.Ps.88.12|Ps 88:12]], [[LXX.Prov.15.11|Pr 15:11]]\*), indecl.; </span>
 in NT, <span class="asitalic">Abaddon</span>, the angel of the Abyss: [[Rev.9.11|Re 9:11]].†
 
 **Abbott-Smith References**

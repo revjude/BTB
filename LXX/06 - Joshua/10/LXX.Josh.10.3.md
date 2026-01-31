@@ -7,33 +7,33 @@ Wherefore Adonizedek king of Jerusalem sent unto Hoham king of Hebron, and unto 
 Therefore Adoni-zedek king of Jerusalem sent word to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying,<small><sub>**MT:**</sub></small>
 [[Josh.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.2|<< Joshua 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.4|Joshua 10:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Adoni-zedec | <big><span class="asgreek">Αδωνισεδέκ</span></big> <sup><small><small>[[H0139]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Holam | <big><span class="asgreek">Ελάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Hebron, | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Piram | <big><span class="asgreek">Περάμ</span></big> <sup><small><small>[[H6502]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Jarmuth, | <big><span class="asgreek">Ιεριμούθ</span></big> <sup><small><small>[[H3412]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Japhia | <big><span class="asgreek">Ιαφί</span></big> <sup><small><small>[[H3309]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Lachish, | <big><span class="asgreek">Λαχίς</span></big> <sup><small><small>[[H3923]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Debir | <big><span class="asgreek">Δαάρ</span></big> <sup><small><small>[[H1688a]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Eglon, | <big><span class="asgreek">Οδολάμ</span></big> <sup><small><small>[[H5700]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| Adoni-zedec | **<big>[[H0139\|Αδωνισεδέκ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Holam | **<big>[[G1639\|Ελάμ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Hebron, | **<big>[[H2275b\|Χεβρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Piram | **<big>[[H6502\|Περάμ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Jarmuth, | **<big>[[H3412\|Ιεριμούθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Japhia | **<big>[[H3309\|Ιαφί]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Lachish, | **<big>[[H3923\|Λαχίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Debir | **<big>[[H1688a\|Δαάρ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Eglon, | **<big>[[H5700\|Οδολάμ]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Josh.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.2|<< Joshua 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.4|Joshua 10:4 >>]]</td></tr></table>
 
 

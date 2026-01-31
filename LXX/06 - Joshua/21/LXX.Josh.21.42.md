@@ -7,27 +7,27 @@ These cities were every one with their suburbs round about them: thus [were] all
 Each of these cities had its own surrounding pasturelands; this was true for all the cities.<small><sub>**MT:**</sub></small>
 [[Josh.21.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.41|<< Joshua 21:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.43|Joshua 21:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their outskirts. | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| by | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their outskirts | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities. | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these cities. | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύταις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their outskirts. | **<big>[[G8756\|περισπόρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Round about | **<big>[[G2945\|κύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| these cities | **<big>[[G4172\|πόλεων]]</big>** **<big>[[G3778\|τούτων]]</big>** |
+| city | **<big>[[G4172\|πόλεις]]</big>** |
+| by | **<big>[[G2532\|και]]</big>** |
+| city | **<big>[[G4172\|πόλεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| their outskirts | **<big>[[G8756\|περισπόρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| cities. | **<big>[[G4172\|πόλεων]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| to all | **<big>[[G3956\|πάσαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| these cities. | **<big>[[G4172\|πόλεσι]]</big>** **<big>[[G3778\|ταύταις]]</big>** |
 [[Josh.21.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.41|<< Joshua 21:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.43|Joshua 21:43 >>]]</td></tr></table>
 
 

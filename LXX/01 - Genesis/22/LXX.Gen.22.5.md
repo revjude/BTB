@@ -7,29 +7,29 @@ And Abraham said unto his young men, Abide ye here with the ass; and I and the l
 “Stay here with the donkey,” Abraham told his servants. “The boy and I will go over there to worship, and then we will return to you.”<small><sub>**MT:**</sub></small>
 [[Gen.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.4|<< Genesis 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.6|Genesis 22:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abraham said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to his servants, | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You sit | <big><span class="asgreek">καθίσατε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| here | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G0847]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| donkey! | <big><span class="asgreek">όνου</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| and I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lad | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| will go through | <big><span class="asgreek">διελευσόμεθα</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| doing obeisance | <big><span class="asgreek">προσκυνήσαντες</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| we will return | <big><span class="asgreek">αναστρέψομεν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abraham said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G0011\|Αβραάμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| to his servants, | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| You sit | **<big>[[G2523\|καθίσατε]]</big>** |
+| here | **<big>[[G0847\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| donkey! | **<big>[[G3688\|όνου]]</big>** |
+| and I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| lad | **<big>[[G3808\|παιδάριον]]</big>** |
+| will go through | **<big>[[G1330\|διελευσόμεθα]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| here. | **<big>[[G5602\|ώδε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| doing obeisance | **<big>[[G4352\|προσκυνήσαντες]]</big>** |
+| we will return | **<big>[[G0390\|αναστρέψομεν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
 [[Gen.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.4|<< Genesis 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.6|Genesis 22:6 >>]]</td></tr></table>
 
 

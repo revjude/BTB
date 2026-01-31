@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָעַג‎</span></big> **lâʻag** <small>*(law-ag')*</small> ==**to mock**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָעַג‎</span></big>** **lâʻag** <small>*(law-ag')*</small> ==**to mock**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ have in derision, laugh (to scorn), mock (on), stammering.
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Qal) to mock, deride, have in derision
 $\quad$ **1b)** (Niphal) to stammer
 $\quad$ **1c)** (Hiphil) to mock, deride
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκμυκτηρίζω</span><sup><small>[[G1592]]</small></sup> · <span class="asgreek">καταγελάω</span><sup><small>[[G2606]]</small></sup> · <span class="asgreek">μυκτηρίζω</span><sup><small>[[G3456]]</small></sup>
+<small>See Greek: </small>**<big>[[G1592|ἐκμυκτηρίζω]]</big>** · **<big>[[G2606|καταγελάω]]</big>** · **<big>[[G3456|μυκτηρίζω]]</big>**

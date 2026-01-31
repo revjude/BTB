@@ -7,39 +7,39 @@ Or if a soul swear, pronouncing with [his] lips to do evil, or to do good, whats
 Or if someone swears thoughtlessly with his lips to do anything good or evil—in whatever matter a man may rashly pronounce an oath—even if he is unaware of it, when he realizes it, he is guilty in the matter.<small><sub>**MT:**</sub></small>
 [[Lev.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.3|<< Leviticus 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.5|Leviticus 5:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| in what | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| he should swear by an oath, | <big><span class="asgreek">ομόση</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| drawing apart | <big><span class="asgreek">διαστέλλουσα</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| \[his\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lips | <big><span class="asgreek">χείλεσι</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| to do evil | <big><span class="asgreek">κακοποιήσαι</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| well | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
-| to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| who should draw apart | <big><span class="asgreek">διαστείλη</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| an oath, | <big><span class="asgreek">όρκου</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should be unaware | <big><span class="asgreek">λάθη</span></big> <sup><small><small>[[G2990]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should sin | <big><span class="asgreek">αμάρτη</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| any one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| of these \[things\] -- | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| The | **<big>[[G3588\|η]]</big>** |
+| soul, | **<big>[[G5590\|ψυχή]]</big>** |
+| in what | **<big>[[G3588\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| he should swear by an oath, | **<big>[[G3660\|ομόση]]</big>** |
+| drawing apart | **<big>[[G1291\|διαστέλλουσα]]</big>** |
+| \[his\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| lips | **<big>[[G5491\|χείλεσι]]</big>** |
+| to do evil | **<big>[[G2554\|κακοποιήσαι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| well | **<big>[[G2573\|καλώς]]</big>** |
+| to do | **<big>[[G4160\|ποιήσαι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much | **<big>[[G3745\|όσα]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| who should draw apart | **<big>[[G1291\|διαστείλη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| an oath, | **<big>[[G3727\|όρκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should be unaware | **<big>[[G2990\|λάθη]]</big>** |
+| of it, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| should know | **<big>[[G1097\|γνώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should sin | **<big>[[G0264\|αμάρτη]]</big>** |
+| any one | **<big>[[G1520\|εν]]</big>** **<big>[[G5100\|τι]]</big>** |
+| of these \[things\] -- | **<big>[[G3778\|τούτων]]</big>** |
 [[Lev.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.3|<< Leviticus 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.5|Leviticus 5:5 >>]]</td></tr></table>
 
 

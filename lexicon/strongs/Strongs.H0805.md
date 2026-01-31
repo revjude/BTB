@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲשׁוּרִי‎</span></big> **ʼĂshûwrîy** <small>*(ash-oo-ree')*</small> ==**Asshurim**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>or <span class="ashebrew">אַשּׁוּרִי</span> **ʼAshshûwrîy** <small>*(ashshoo-ree')*</small>; from a patrial word of the same form as <span class="ashebrew">‎אַשּׁוּר‎</span><sup><small>[[H0804]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲשׁוּרִי‎</span></big>** **ʼĂshûwrîy** <small>*(ash-oo-ree')*</small> ==**Asshurim**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>or **<big><span class="ashebrew">אַשּׁוּרִי</span></big>** **ʼAshshûwrîy** <small>*(ashshoo-ree')*</small>; from a patrial word of the same form as **<big>[[H0804|‎אַשּׁוּר‎]]</big>**</small>
 
 $\quad$ Asshurim, Ashurites.
 - § Asshuri = *"steps"*

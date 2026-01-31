@@ -1,4 +1,4 @@
-form of: <small>[[G0196]]</small> 
+form of: <small>**<big>[[G0196|ἀκριβέστατος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἀκριβέστερον==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 

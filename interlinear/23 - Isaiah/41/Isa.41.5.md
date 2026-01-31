@@ -6,16 +6,16 @@ The islands see and fear; the ends of the earth tremble. They approach and come 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.4|<< Isaiah 41:4]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.6|Isaiah 41:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they have seen  | <span class="ashebrew"><big>רָא֤וּ </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| islands  | <span class="ashebrew"><big>אִיִּים֙ </big></span><small><small><sup>[[H0339]]</sup></small></small> &#8207;| 'i.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may be afraid  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִירָ֔אוּ </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yi.Ra.'u <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ends of  | <span class="ashebrew"><big>קְצ֥וֹת </big></span><small><small><sup>[[H7098]]</sup></small></small> &#8207;| ke.Tzot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they tremble  | <span class="ashebrew"><big>יֶחֱרָ֑דוּ </big></span><small><small><sup>[[H2729]]</sup></small></small> &#8207;| ye.che.Ra.du <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have drawn near  | <span class="ashebrew"><big>קָרְב֖וּ </big></span><small><small><sup>[[H7126G]]</sup></small></small> &#8207;| ka.re.Vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they have come !  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֶּאֱתָיֽוּ </big></span><small><small><sup>[[H0857]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ye.'e.ta.Yu <small><sup>[[HVqw3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have seen  |**<big>&#8207;[[H7200G\|רָא֤וּ]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| islands  |**<big>&#8207;[[H0339\|אִיִּים֙]]&#8207; </big>**| 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may be afraid  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3372G\|יִירָ֔אוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Ra.'u<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ends of  |**<big>&#8207;[[H7098\|קְצ֥וֹת]]&#8207; </big>**| ke.Tzot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they tremble  |**<big>&#8207;[[H2729\|יֶחֱרָ֑דוּ]]&#8207; </big>**| ye.che.Ra.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have drawn near  |**<big>&#8207;[[H7126G\|קָרְב֖וּ]]&#8207; </big>**| ka.re.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have come !  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0857\|יֶּאֱתָיֽוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.ta.Yu<small><sup>[[HVqw3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.4|<< Isaiah 41:4]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.6|Isaiah 41:6 >>]]</td></tr></table>
 
 

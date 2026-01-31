@@ -7,35 +7,35 @@
 the weight of all the gold articles for every kind of service; the weight of all the silver articles for every kind of service;<small><sub>**MT:**</sub></small>
 [[1Chr.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.13|<< 1 Chronicles 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.15|1 Chronicles 28:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[and\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weight | <big><span class="asgreek">σταθμόν</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its scale-weight | <big><span class="asgreek">ολκής</span></big> <sup><small><small>[[G8490]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύεσι</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| service | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| by | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| service, | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύεσι</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| weight | <big><span class="asgreek">σταθμώ</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
-| to every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| item | <big><span class="asgreek">σκεύει</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| service | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| by | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| service; | <big><span class="asgreek">δουλείας</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
+| \[and\] for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| weight | **<big>[[G9150\|σταθμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of its scale-weight | **<big>[[G8490\|ολκής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| items | **<big>[[G4632\|σκεύεσι]]</big>** |
+| service | **<big>[[G1397\|δουλείας]]</big>** |
+| by | **<big>[[G2532\|και]]</big>** |
+| service, | **<big>[[G1397\|δουλείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| items | **<big>[[G4632\|σκεύεσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| weight | **<big>[[G9150\|σταθμώ]]</big>** |
+| to every | **<big>[[G3956\|παντί]]</big>** |
+| item | **<big>[[G4632\|σκεύει]]</big>** |
+| service | **<big>[[G1397\|δουλείας]]</big>** |
+| by | **<big>[[G2532\|και]]</big>** |
+| service; | **<big>[[G1397\|δουλείας]]</big>** |
 [[1Chr.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.13|<< 1 Chronicles 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.15|1 Chronicles 28:15 >>]]</td></tr></table>
 
 

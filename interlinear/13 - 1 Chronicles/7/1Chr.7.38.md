@@ -6,13 +6,13 @@ The sons of Jether: Jephunneh, Pispa, and Ara.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.37|<< 1 Chronicles 7:37]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.39|1 Chronicles 7:39 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] sons of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֖י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jether  | <span class="ashebrew"><big>יֶ֑תֶר </big></span><small><small><sup>[[H3500K]]</sup></small></small> &#8207;| Ye.ter <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jephunneh  | <span class="ashebrew"><big>יְפֻנֶּ֥ה </big></span><small><small><sup>[[H3312H]]</sup></small></small> &#8207;| ye.fu.Neh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Pispah  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פִסְפָּ֖ה </big></span><small><small><sup>[[H6462]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fis.Pah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ara  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אְרָֽא </big></span><small><small><sup>[[H0690]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[HC]]</sup></small> '.Ra' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jether  |**<big>&#8207;[[H3500K\|יֶ֑תֶר]]&#8207; </big>**| Ye.ter<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephunneh  |**<big>&#8207;[[H3312H\|יְפֻנֶּ֥ה]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Pispah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6462\|פִסְפָּ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fis.Pah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ara  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0690\|אְרָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[HC]]</sup></small> '.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.37|<< 1 Chronicles 7:37]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.39|1 Chronicles 7:39 >>]]</td></tr></table>
 
 

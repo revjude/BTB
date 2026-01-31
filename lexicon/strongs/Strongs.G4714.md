@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎στάσις‎</span></big> **stásis** <small>*(stas'-is)*</small> ==**uprising**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
-<small>from the base of <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup></small>
+**<big><span class="asgreek">‎στάσις‎</span></big>** **stásis** <small>*(stas'-is)*</small> ==**uprising**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+<small>from the base of **<big>[[G2476|‎ἵστημι‎]]</big>**</small>
 
 $\quad$ dissension, insurrection, X standing, uproar.
 - a standing (properly, the act), i.e. (by analogy) position (existence)

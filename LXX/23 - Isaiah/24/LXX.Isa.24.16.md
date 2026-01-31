@@ -7,31 +7,31 @@ From the uttermost part of the earth have we heard songs, [even] glory to the ri
 From the ends of the earth we hear singing: “Glory to the Righteous One.” But I said, “I am wasting away! I am wasting away! Woe is me.” The treacherous betray; the treacherous deal in treachery.<small><sub>**MT:**</sub></small>
 [[Isa.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.15|<< Isaiah 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.17|Isaiah 24:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| miracles | <big><span class="asgreek">τέρατα</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
-| we heard | <big><span class="asgreek">ηκούσαμεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pious; | <big><span class="asgreek">ευσεβεί</span></big> <sup><small><small>[[G2152]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| annulling -- | <big><span class="asgreek">αθετούσιν</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| annulling | <big><span class="asgreek">αθετούντες</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law. | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| wings | **<big>[[G4420\|πτερύγων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| miracles | **<big>[[G5059\|τέρατα]]</big>** |
+| we heard | **<big>[[G0191\|ηκούσαμεν]]</big>** |
+| hope | **<big>[[G1680\|ελπίς]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| pious; | **<big>[[G2152\|ευσεβεί]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσιν]]</big>** |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| annulling -- | **<big>[[G0114\|αθετούσιν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| annulling | **<big>[[G0114\|αθετούντες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| law. | **<big>[[G3551\|νόμον]]</big>** |
 [[Isa.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.15|<< Isaiah 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.17|Isaiah 24:17 >>]]</td></tr></table>
 
 

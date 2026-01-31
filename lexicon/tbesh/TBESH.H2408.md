@@ -1,3 +1,1 @@
-<span class="asaramaic">‎חֲטָי‎</span> <small>***(cha.ti)***</small> ==**sin**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H2399]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2399|חֵטְא]]</big>**</small>

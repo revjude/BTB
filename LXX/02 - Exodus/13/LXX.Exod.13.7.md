@@ -7,22 +7,22 @@ Unleavened bread shall be eaten seven days; and there shall no leavened bread be
 Unleavened bread shall be eaten during those seven days. Nothing leavened may be found among you, nor shall leaven be found anywhere within your borders.<small><sub>**MT:**</sub></small>
 [[Exod.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.6|<< Exodus 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.8|Exodus 13:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Unleavened \[bread\] | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| shall you eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| There shall not be seen | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οφθήσεταί</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| in you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| leavened \[bread\], | <big><span class="asgreek">ζυμωτόν</span></big> <sup><small><small>[[G7608]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall there be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yeast | <big><span class="asgreek">ζύμη</span></big> <sup><small><small>[[G2219]]</small></small></sup> |
-| in all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your boundaries. | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Unleavened \[bread\] | **<big>[[G0106\|άζυμα]]</big>** |
+| shall you eat | **<big>[[G2068\|έδεσθε]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
+| There shall not be seen | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3708\|οφθήσεταί]]</big>** |
+| in you | **<big>[[G1473\|σοι]]</big>** |
+| leavened \[bread\], | **<big>[[G7608\|ζυμωτόν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall there be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| yeast | **<big>[[G2219\|ζύμη]]</big>** |
+| in all | **<big>[[G3956\|πάσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your boundaries. | **<big>[[G3725\|ορίοις]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Exod.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.6|<< Exodus 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.8|Exodus 13:8 >>]]</td></tr></table>
 
 

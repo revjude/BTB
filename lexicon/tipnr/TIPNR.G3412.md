@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Mitylene</span>, a city on the island of Lesbos where Paul's ship stopped on his way to Jerusalem \(Acts 20:14\).
 - A location only mentioned at [[Num.33.29|Act.20.14]]; 
-- only referred to as Mitylene<[[G3412]]> \(<span class='tipnrLangGreek'>Μιτυλήνη</span>\).
+- only referred to as Mitylene **<big>[[G3412|Μιτυλήνη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.10033557286295,26.55180477541001&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mitylene was the capital city of the island of Lesbos, located in the northeaste
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mitylene | [<span class='tipnrLangGreek'>Μιτυλήνη</span>](G3412) <small>*Greek*</small> | 1x | [Act.20.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mitylene\*\|reference=Act.20.14) |
-All Strong's for **Mitylene**: \[[[G3412]]\]
+| Mitylene | [<span class='tipnrLangGreek'>Μιτυλήνη</span>](G3412) | 1x | [Act.20.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mitylene\*\|reference=Act.20.14) |
+All entries for **Mitylene**:  **<big>[[G3412|Μιτυλήνη]]</big>**

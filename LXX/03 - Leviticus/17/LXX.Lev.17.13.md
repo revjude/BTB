@@ -7,38 +7,38 @@ And whatsoever man [there be] of the children of Israel, or of the strangers tha
 And if any Israelite or foreigner living among them hunts down a wild animal or bird that may be eaten, he must drain its blood and cover it with dirt.<small><sub>**MT:**</sub></small>
 [[Lev.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.12|<< Leviticus 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.14|Leviticus 17:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">προσηλύτων</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lying near | <big><span class="asgreek">προσκειμένων</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| shall hunt | <big><span class="asgreek">θηρεύσει</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| a hunt | <big><span class="asgreek">θήρευμα</span></big> <sup><small><small>[[G7669]]</small></small></sup> |
-| for a wild beast | <big><span class="asgreek">θηρίον</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| birds, | <big><span class="asgreek">πετεινόν</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is to be eaten, | <big><span class="asgreek">έσθεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| he shall pour out | <big><span class="asgreek">εκχεεί</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its blood, | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cover | <big><span class="asgreek">καλύψει</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] man, | **<big>[[G0444\|άνθρωπος]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| foreigners | **<big>[[G4339\|προσηλύτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| lying near | **<big>[[G8929\|προσκειμένων]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| shall hunt | **<big>[[G2340\|θηρεύσει]]</big>** |
+| a hunt | **<big>[[G7669\|θήρευμα]]</big>** |
+| for a wild beast | **<big>[[G2342\|θηρίον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| birds, | **<big>[[G4071\|πετεινόν]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is to be eaten, | **<big>[[G2068\|έσθεται]]</big>** |
+| he shall pour out | **<big>[[G1632\|εκχεεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its blood, | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cover | **<big>[[G2572\|καλύψει]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| ground. | **<big>[[G1093\|γη]]</big>** |
 [[Lev.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.12|<< Leviticus 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.14|Leviticus 17:14 >>]]</td></tr></table>
 
 

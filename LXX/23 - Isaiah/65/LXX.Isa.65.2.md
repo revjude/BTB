@@ -11,28 +11,28 @@ All day long I have held out My hands to an obstinate people who walk in the wro
 > $\quad$ referenced by: [[Rom.10.21|Rom 10:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I spread forth | <big><span class="asgreek">εξεπέτασα</span></big> <sup><small><small>[[G1600]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| resisting persuasion | <big><span class="asgreek">απειθούντα</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| speaking contrary; | <big><span class="asgreek">αντιλέγοντα</span></big> <sup><small><small>[[G0483]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| having gone | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[the\] good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins. | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I spread forth | **<big>[[G1600\|εξεπέτασα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my hands | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| a people | **<big>[[G2992\|λαόν]]</big>** |
+| resisting persuasion | **<big>[[G0544\|απειθούντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| speaking contrary; | **<big>[[G0483\|αντιλέγοντα]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| having gone | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| \[the\] good | **<big>[[G0018\|αγαθή]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their sins. | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.65.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.1|<< Isaiah 65:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.3|Isaiah 65:3 >>]]</td></tr></table>
 
 

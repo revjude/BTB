@@ -7,40 +7,40 @@ And when the Philistines heard the noise of the shout, they said, What [meaneth]
 On hearing the noise of the shout, the Philistines asked, “What is this loud shouting in the camp of the Hebrews?” And when they realized that the ark of the LORD had entered the camp,<small><sub>**MT:**</sub></small>
 [[1Sam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.5|<< 1 Samuel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.7|1 Samuel 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cry. | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cry -- | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this great one | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebrews? | <big><span class="asgreek">Εβραίων</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they knew | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτός</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>\<the> | <big><span class="asgreek">του κυρίου</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comes | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp. | <big><span class="asgreek">παρεμβολήν</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| heard | **<big>[[G0191\|ήκουσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| cry. | **<big>[[G2906\|κραυγής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
+| What \[is\] | **<big>[[G5100\|τις]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sound | **<big>[[G5456\|φωνή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| cry -- | **<big>[[G2906\|κραυγή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this great one | **<big>[[G3173\|μεγάλη]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Hebrews? | **<big>[[G1444\|Εβραίων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they knew | **<big>[[G1097\|έγνωσαν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| ark | **<big>[[G2787\|κιβωτός]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>\<obj.> | **<big>[[G3588\|του κυρίου]]</big>** |
+| comes | **<big>[[G2240\|ήκει]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| camp. | **<big>[[G3925\|παρεμβολήν]]</big>** |
 [[1Sam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.5|<< 1 Samuel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.7|1 Samuel 4:7 >>]]</td></tr></table>
 
 

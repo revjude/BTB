@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לִילִית‎</span></big> **lîylîyth** <small>*(lee-leeth')*</small> ==**night-creature**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎לַיִל‎</span><sup><small>[[H3915]]</small></sup></small>
+**<big><span class="ashebrew">‎לִילִית‎</span></big>** **lîylîyth** <small>*(lee-leeth')*</small> ==**night-creature**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3915|‎לַיִל‎]]</big>**</small>
 
 $\quad$ screech owl.
 - ***a night spectre***

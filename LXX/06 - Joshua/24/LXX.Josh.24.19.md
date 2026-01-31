@@ -7,32 +7,32 @@ And Joshua said unto the people, Ye cannot serve the LORD: for he [is] an holy G
 But Joshua said to the people, “You are not able to serve the LORD, for He is a holy God; He is a jealous God; He will not forgive your rebellion or your sins.<small><sub>**MT:**</sub></small>
 [[Josh.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.18|<< Joshua 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.20|Joshua 24:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you be able | <big><span class="asgreek">δύνησθε</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to serve | <big><span class="asgreek">λατρεύειν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| (for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he is holy, | <big><span class="asgreek">άγιός</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| is jealous, | <big><span class="asgreek">ζηλωτής</span></big> <sup><small><small>[[G2207]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">ανήσει</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your violations of the law, | <big><span class="asgreek">ανομήματα</span></big> <sup><small><small>[[G6350]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins) | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people, | **<big>[[G2992\|λαόν]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you be able | **<big>[[G1410\|δύνησθε]]</big>** |
+| to serve | **<big>[[G3000\|λατρεύειν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| (for | **<big>[[G3754\|ότι]]</big>** |
+| he is holy, | **<big>[[G0039\|άγιός]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| is jealous, | **<big>[[G2207\|ζηλωτής]]</big>** **<big>[[G1510\|εστιν]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| spare | **<big>[[G0447\|ανήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your violations of the law, | **<big>[[G6350\|ανομήματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your sins) | **<big>[[G0265\|αμαρτήματα]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Josh.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.18|<< Joshua 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.20|Joshua 24:20 >>]]</td></tr></table>
 
 

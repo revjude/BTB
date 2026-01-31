@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָכִירִי‎</span></big> **Mâkîyrîy** <small>*(maw-kee-ree')*</small> ==**Machirite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymical from <span class="ashebrew">‎מָכִיר‎</span><sup><small>[[H4353]]</small></sup></small>
+**<big><span class="ashebrew">‎מָכִירִי‎</span></big>** **Mâkîyrîy** <small>*(maw-kee-ree')*</small> ==**Machirite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymical from **<big>[[H4353|‎מָכִיר‎]]</big>**</small>
 
 $\quad$ of Machir.
 - § Machirites = *"a salesman"*

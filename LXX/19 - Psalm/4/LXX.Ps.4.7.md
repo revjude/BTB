@@ -7,21 +7,21 @@ Thou hast put gladness in my heart, more than in the time [that] their corn and 
 You have filled my heart with more joy than when grain and new wine abound.<small><sub>**MT:**</sub></small>
 [[Ps.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.6|<< Psalm 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.8|Psalm 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You put | <big><span class="asgreek">έδωκας</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart. | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] fruit | <big><span class="asgreek">καρπού</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of \[the\] grain, | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil -- | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they were filled | <big><span class="asgreek">επληθύνθησαν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| You put | **<big>[[G1325\|έδωκας]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνην]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart. | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Of | **<big>[[G0575\|από]]</big>** |
+| \[the\] fruit | **<big>[[G2590\|καρπού]]</big>** |
+| of \[the\] grain, | **<big>[[G4621\|σίτου]]</big>** |
+| wine | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil -- | **<big>[[G1637\|ελαίου]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| they were filled | **<big>[[G4129\|επληθύνθησαν]]</big>** |
 [[Ps.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.6|<< Psalm 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.8|Psalm 4:8 >>]]</td></tr></table>
 
 

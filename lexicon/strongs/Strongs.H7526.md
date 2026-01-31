@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְצִין‎</span></big> **Rᵉtsîyn** <small>*(rets-een')*</small> ==**Rezin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably for <span class="ashebrew">‎רָצוֹן‎</span><sup><small>[[H7522]]</small></sup></small>
+**<big><span class="ashebrew">‎רְצִין‎</span></big>** **Rᵉtsîyn** <small>*(rets-een')*</small> ==**Rezin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably for **<big>[[H7522|‎רָצוֹן‎]]</big>**</small>
 
 $\quad$ Rezin.
 - § Rezin = *"firm"*

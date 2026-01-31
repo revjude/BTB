@@ -10,41 +10,41 @@ And these [are] the measures of the altar after the cubits: The cubit [is] a cub
 These are the measurements of the altar in long cubits (a cubit and a handbreadth): Its gutter shall be a cubit deep and a cubit wide, with a rim of one span around its edge. And this is the height of the altar:<small><sub>**MT:**</sub></small>
 [[Ezek.43.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.12|<< Ezekiel 43:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.14|Ezekiel 43:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| measures | <big><span class="asgreek">μέτρα</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cubit | <big><span class="asgreek">πήχει</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cubit | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a palm; | <big><span class="asgreek">παλαιστής</span></big> <sup><small><small>[[G8585]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| recess | <big><span class="asgreek">κόλπωμα</span></big> <sup><small><small>[[G8058]]</small></small></sup> |
-| depth | <big><span class="asgreek">βάθους</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| a cubit, | <big><span class="asgreek">πήχυν</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχυς</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth, | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] molding | <big><span class="asgreek">γείσος</span></big> <sup><small><small>[[G6723]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lip | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| round about | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| a span; | <big><span class="asgreek">σπιθαμής</span></big> <sup><small><small>[[G9140]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| measures | **<big>[[G3358\|μέτρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| cubit | **<big>[[G4083\|πήχει]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| cubit | **<big>[[G4083\|πήχεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a palm; | **<big>[[G8585\|παλαιστής]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| recess | **<big>[[G8058\|κόλπωμα]]</big>** |
+| depth | **<big>[[G0899\|βάθους]]</big>** |
+| a cubit, | **<big>[[G4083\|πήχυν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a cubit | **<big>[[G4083\|πήχυς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth, | **<big>[[G7563\|εύρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] molding | **<big>[[G6723\|γείσος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| lip | **<big>[[G5491\|χείλος]]</big>** |
+| round about | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| a span; | **<big>[[G9140\|σπιθαμής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this \[is\] | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
 [[Ezek.43.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.12|<< Ezekiel 43:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.14|Ezekiel 43:14 >>]]</td></tr></table>
 
 

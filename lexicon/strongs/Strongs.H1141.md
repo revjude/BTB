@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּנָיָה‎</span></big> **Bᵉnâyâh** <small>*(ben-aw-yaw')*</small> ==**Benaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">בּנָיָהוּ</span> **Bnâyâhûw** <small>*(ben-aw-yaw'-hoo)*</small>; (prolonged) from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has built</small>
+**<big><span class="ashebrew">‎בְּנָיָה‎</span></big>** **Bᵉnâyâh** <small>*(ben-aw-yaw')*</small> ==**Benaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">בּנָיָהוּ</span></big>** **Bnâyâhûw** <small>*(ben-aw-yaw'-hoo)*</small>; (prolonged) from **<big>[[H1129|‎בָּנָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has built</small>
 
 $\quad$ Benaiah.
 - § Benaiah = *"Jehovah has built" or "Yahweh has built up"*

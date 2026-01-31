@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀνα-ψύχω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">נפשׁ</span> <small><sup>[[H5314]]</sup></small> ni., <span class="ashebrew">חיה</span> <small><sup>[[H2421]]</sup></small>, etc. (freq. in sense of <span class="asitalic">revive</span>, <span class="asitalic">refresh oneself</span>);\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀνα-ψύχω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H5314|נפשׁ]]</big>** ni., **<big>[[H2421|חיה]]</big>**, etc. (freq. in sense of <span class="asitalic">revive</span>, <span class="asitalic">refresh oneself</span>);\]</span> </span>
 <span class="asitalic">to refresh</span>: c. acc. pers., [[2Tim.1.16|II Ti 1:16]] (MM, <span class="asitalic">VGT</span>, s.v.; Cremer, 588).†
 
 **Abbott-Smith References**

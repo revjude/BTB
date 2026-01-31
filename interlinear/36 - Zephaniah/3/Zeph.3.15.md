@@ -6,22 +6,22 @@ The LORD has taken away your punishment; He has turned back your enemy. Israel�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.14|<< Zephaniah 3:14]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.16|Zephaniah 3:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he has removed  | <span class="ashebrew"><big>הֵסִ֤יר </big></span><small><small><sup>[[H5493G]]</sup></small></small> &#8207;| he.Sir <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgments your  | <span class="ashebrew"><big>מִשְׁפָּטַ֔יִ </big></span><small><small><sup>[[H4941G]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| mish.pa.Ta.yi <small><sup>[[HNcmpc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has cleared away  | <span class="ashebrew"><big>פִּנָּ֖ה </big></span><small><small><sup>[[H6437G]]</sup></small></small> &#8207;| pi.Nah <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enemy your  | <span class="ashebrew"><big>אֹֽיְבֵ֑ </big></span><small><small><sup>[[H0341]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| 'o.ye.Ve <small><sup>[[HVqrmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֤ל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in midst your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבֵּ֔ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.Be <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will fear  [^1] | <span class="ashebrew"><big>תִֽירְאִ֥י </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| tir.'I <small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad (Variant)">L(V)</abbr> |
-| evil  | <span class="ashebrew"><big>רָ֖ע </big></span><small><small><sup>[[H7451B]]</sup></small></small> &#8207;| ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>עֽוֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has removed  |**<big>&#8207;[[H5493G\|הֵסִ֤יר]]&#8207; </big>**| he.Sir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgments your  |**<big>&#8207;[[H4941G\|מִשְׁפָּטַ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| mish.pa.Ta.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has cleared away  |**<big>&#8207;[[H6437G\|פִּנָּ֖ה]]&#8207; </big>**| pi.Nah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemy your  |**<big>&#8207;[[H0341\|אֹֽיְבֵ֑]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'o.ye.Ve<small><sup>[[HVqrmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֤ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in midst your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבֵּ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.Be<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will fear  [^1]|**<big>&#8207;[[H3372G\|תִֽירְאִ֥י]]&#8207; </big>**| tir.'I<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad (Variant)">L(V)</abbr> |
+| evil  |**<big>&#8207;[[H7451B\|רָ֖ע]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.14|<< Zephaniah 3:14]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.16|Zephaniah 3:16 >>]]</td></tr></table>
 
-[^1]: ==V==: **you will see ** | <small><sup>[[H7200G]]</sup></small> <span class="ashebrew"><big>תִֽרְאִ֥י</big></span>  | tir.'I<small><sup>[[HVqi2fs]]</sup></small> 
+[^1]: ==V==: you will see  | **<big>[[H7200G|תִֽרְאִ֥י]]</big> ** | tir.'I<small><sup>[[HVqi2fs]]</sup></small> 
 

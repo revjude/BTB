@@ -6,18 +6,18 @@ alternating the gold bells and pomegranates around the lower hem of the robe.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.33|<< Exodus 28:33]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.35|Exodus 28:35 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a bell of  | <span class="ashebrew"><big>פַּעֲמֹ֤ן </big></span><small><small><sup>[[H6472]]</sup></small></small> &#8207;| pa.'a.Mon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָב֙ </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a pomegranate  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רִמּ֔וֹן </big></span><small><small><sup>[[H7416]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ri.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a bell of  | <span class="ashebrew"><big>פַּֽעֲמֹ֥ן </big></span><small><small><sup>[[H6472]]</sup></small></small> &#8207;| pa.'a.Mon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֖ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a pomegranate  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רִמּ֑וֹן </big></span><small><small><sup>[[H7416]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ri.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] skirts of  | <span class="ashebrew"><big>שׁוּלֵ֥י </big></span><small><small><sup>[[H7757]]</sup></small></small> &#8207;| shu.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the robe  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מְּעִ֖יל </big></span><small><small><sup>[[H4598]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> me.'Il <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all around  | <span class="ashebrew"><big>סָבִֽיב </big></span><small><small><sup>[[H5439G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bell of  |**<big>&#8207;[[H6472\|פַּעֲמֹ֤ן]]&#8207; </big>**| pa.'a.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָב֙]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a pomegranate  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7416\|רִמּ֔וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ri.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bell of  |**<big>&#8207;[[H6472\|פַּֽעֲמֹ֥ן]]&#8207; </big>**| pa.'a.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a pomegranate  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7416\|רִמּ֑וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ri.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] skirts of  |**<big>&#8207;[[H7757\|שׁוּלֵ֥י]]&#8207; </big>**| shu.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the robe  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4598\|מְּעִ֖יל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.'Il<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.33|<< Exodus 28:33]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.35|Exodus 28:35 >>]]</td></tr></table>
 
 

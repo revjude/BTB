@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁחַק‎</span></big> **shâchaq** <small>*(shaw-khak')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁחַק‎</span></big>** **shâchaq** <small>*(shaw-khak')*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beat, wear.

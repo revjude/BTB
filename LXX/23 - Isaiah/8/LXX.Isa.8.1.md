@@ -10,29 +10,29 @@ Moreover the LORD said unto me, Take thee a great roll, and write in it with a m
 Then the LORD said to me, “Take a large scroll and write on it with an ordinary stylus: Maher-shalal-hash-baz.<small><sub>**MT:**</sub></small>
 [[Isa.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.25|<< Isaiah 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.2|Isaiah 8:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| roll of papyrus | <big><span class="asgreek">τόμον</span></big> <sup><small><small>[[G9462]]</small></small></sup> |
-| new | <big><span class="asgreek">καινόν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| write | <big><span class="asgreek">γράψον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with \[the\] pen | <big><span class="asgreek">γραφίδι</span></big> <sup><small><small>[[G6768]]</small></small></sup> |
-| of a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[concerning\] the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| swiftly | <big><span class="asgreek">οξέως</span></big> <sup><small><small>[[G8525]]</small></small></sup> |
-| plunder | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
-| made | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of spoils, | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| for it is at hand! | <big><span class="asgreek">πάρεστι</span></big> <sup><small><small>[[G3918]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| Take | **<big>[[G2983\|λάβε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| roll of papyrus | **<big>[[G9462\|τόμον]]</big>** |
+| new | **<big>[[G2537\|καινόν]]</big>** |
+| a great | **<big>[[G3173\|μέγαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| write | **<big>[[G1125\|γράψον]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| with \[the\] pen | **<big>[[G6768\|γραφίδι]]</big>** |
+| of a man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \[concerning\] the | **<big>[[G3588\|του]]</big>** |
+| swiftly | **<big>[[G8525\|οξέως]]</big>** |
+| plunder | **<big>[[G8903\|προνομήν]]</big>** |
+| made | **<big>[[G4160\|ποιήσαι]]</big>** |
+| of spoils, | **<big>[[G4661\|σκύλων]]</big>** |
+| for it is at hand! | **<big>[[G3918\|πάρεστι]]</big>** **<big>[[G1063\|γαρ]]</big>** |
 [[Isa.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.25|<< Isaiah 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.2|Isaiah 8:2 >>]]</td></tr></table>
 
 

@@ -7,16 +7,16 @@ Envy thou not the oppressor, and choose none of his ways.
 Do not envy a violent man or choose any of his ways;<small><sub>**MT:**</sub></small>
 [[Prov.3.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.30|<< Proverbs 3:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.32|Proverbs 3:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not acquire | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">κτήση</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| of men's | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| scorn, | <big><span class="asgreek">ονείδη</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| should you be jealous | <big><span class="asgreek">ζηλώσης</span></big> <sup><small><small>[[G2206]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their ways. | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You should not acquire | **<big>[[G3361\|μη]]</big>** **<big>[[G2932\|κτήση]]</big>** |
+| evils | **<big>[[G2556\|κακών]]</big>** |
+| of men's | **<big>[[G0435\|ανδρών]]</big>** |
+| scorn, | **<big>[[G3681\|ονείδη]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| should you be jealous | **<big>[[G2206\|ζηλώσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of their ways. | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Prov.3.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.30|<< Proverbs 3:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.32|Proverbs 3:32 >>]]</td></tr></table>
 
 

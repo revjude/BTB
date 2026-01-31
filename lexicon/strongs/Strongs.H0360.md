@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱיָלוּת‎</span></big> **ʼĕyâlûwth** <small>*(eh-yaw-looth')*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אֱיָל‎</span><sup><small>[[H0353]]</small></sup></small>
+**<big><span class="ashebrew">‎אֱיָלוּת‎</span></big>** **ʼĕyâlûwth** <small>*(eh-yaw-looth')*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0353|‎אֱיָל‎]]</big>**</small>
 
 $\quad$ strength.
 - ***power***
@@ -7,4 +7,4 @@ $\quad$ strength.
 
 **1)** strength, my help
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοήθεια</span><sup><small>[[G0996]]</small></sup>
+<small>See Greek: </small>**<big>[[G0996|βοήθεια]]</big>**

@@ -1,10 +1,10 @@
-<big><span class="ashebrew">‎מְתֹם‎</span></big> **mᵉthôm** <small>*(meth-ohm')*</small> ==**soundness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎תָּמַם‎</span><sup><small>[[H8552]]</small></sup></small>
+**<big><span class="ashebrew">‎מְתֹם‎</span></big>** **mᵉthôm** <small>*(meth-ohm')*</small> ==**soundness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8552|‎תָּמַם‎]]</big>**</small>
 
-$\quad$ men (by reading <span class="ashebrew">‎מַת‎</span><sup><small>[[H4962]]</small></sup>), soundness.
+$\quad$ men (by reading **<big>[[H4962|‎מַת‎]]</big>**), soundness.
 - ***wholesomeness***
 -  also (adverb) ***completely***
 
 **1)** soundness, entirety, entire
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἴασις</span><sup><small>[[G2392]]</small></sup> · <span class="asgreek">ὁλοκληρία</span><sup><small>[[G3647]]</small></sup>
+<small>See Greek: </small>**<big>[[G2392|ἴασις]]</big>** · **<big>[[G3647|ὁλοκληρία]]</big>**

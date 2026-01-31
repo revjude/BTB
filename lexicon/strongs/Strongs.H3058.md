@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יֵהוּא‎</span></big> **Yêhûwʼ** <small>*(yay-hoo')*</small> ==**Jehu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎הוּא‎</span><sup><small>[[H1931]]</small></sup>; Jehovah (is) He</small>
+**<big><span class="ashebrew">‎יֵהוּא‎</span></big>** **Yêhûwʼ** <small>*(yay-hoo')*</small> ==**Jehu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H1931|‎הוּא‎]]</big>**; Jehovah (is) He</small>
 
 $\quad$ Jehu.
 - § Jehu = *"Jehovah is He"*

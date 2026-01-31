@@ -4,9 +4,9 @@ Priest living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Abishua</span> was the son of Phinehas and grandson of Eleazar, who served as high priests in the line of Aaron.
 - A priest from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.6.4|1Ch.6.4]]; 
-- only referred to as Abishua<[[H0050G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ\); 
-- a son of Phinehas<[[H6372G]]>; 
--  father of Bukki<[[H1231H]]>.
+- only referred to as Abishua **<big>[[H0050|אֲבִישׁוּעַ]]</big>**; 
+- a son of Phinehas **<big>[[H6372|פִּינְחָס]]</big>**; 
+-  father of Bukki **<big>[[H1231|בֻּקִּי]]</big>**.
 
 Abishua was the son of Phinehas and the grandson of Eleazar, who was the son of Aaron, the first high priest of Israel \([[1Chr.6.4|1 Chronicles 6:4]]-5,50\). He was part of the lineage of high priests who served in the tabernacle and, later, in the temple. 
 
@@ -16,8 +16,8 @@ Abishua is also mentioned in the genealogy of Ezra, the scribe and priest who le
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abishua | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H0050G) <small>*Hebrew*</small> | 4x | [[1Ch.6.4] ... [Ezr.7.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishua\*\|reference=1Ch.6.4;1Ch.6.5;1Ch.6.50;Ezr.7.5) |
-All Strong's for **Abishua**: \[[[H0050G]]\]
+| Abishua | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H0050G) | 4x | [[1Ch.6.4] ... [Ezr.7.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishua\*\|reference=1Ch.6.4;1Ch.6.5;1Ch.6.50;Ezr.7.5) |
+All entries for **Abishua**:  **<big>[[H0050|אֲבִישׁוּעַ]]</big>**
 #### Related Profiles:
 - **[Phinehas](H6372G)** (father)
 - **[Bukki](H1231H)** (child)

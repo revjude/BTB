@@ -1,4 +1,4 @@
-combination of: <small>[[G0846]] ([[G3588]]+[[G0846]])</small> 
+combination of: <small>**<big>[[G0846|αὐτός]]</big>** (**<big>[[G3588|ὁ]]</big>**+**<big>[[G0846|αὐτός]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==ταὐτά==</span></b>, <span class='asgreek'>αὕτη</span>, <span class='asgreek'>τοῦτο</span>, 

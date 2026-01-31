@@ -7,44 +7,44 @@ The glory of this latter house shall be greater than of the former, saith the LO
 The latter glory of this house will be greater than the former, says the LORD of Hosts. And in this place I will provide peace, declares the LORD of Hosts.”<small><sub>**MT:**</sub></small>
 [[Hag.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.8|<< Haggai 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.10|Haggai 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| last one | <big><span class="asgreek">εσχάτη</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first, | <big><span class="asgreek">πρώτην</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I will establish | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| peace, | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty; | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| of soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] procurement | <big><span class="asgreek">περιποίησιν</span></big> <sup><small><small>[[G4047]]</small></small></sup> |
-| to every one | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| creating | <big><span class="asgreek">κτίζοντι</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to raise up | <big><span class="asgreek">αναστήσαι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this temple. | <big><span class="asgreek">ναόν</span></big> <sup><small><small>[[G3485]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of this house, | **<big>[[G3624\|οίκου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| last one | **<big>[[G2078\|εσχάτη]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| first, | **<big>[[G4413\|πρώτην]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this place | **<big>[[G5117\|τόπω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| I will establish | **<big>[[G1325\|δώσω]]</big>** |
+| peace, | **<big>[[G1515\|ειρήνην]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty; | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| of soul | **<big>[[G5590\|ψυχής]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \[the\] procurement | **<big>[[G4047\|περιποίησιν]]</big>** |
+| to every one | **<big>[[G3956\|παντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| creating | **<big>[[G2936\|κτίζοντι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to raise up | **<big>[[G0450\|αναστήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this temple. | **<big>[[G3485\|ναόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[Hag.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.8|<< Haggai 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.10|Haggai 2:10 >>]]</td></tr></table>
 
 

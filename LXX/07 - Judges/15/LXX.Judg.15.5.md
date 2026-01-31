@@ -7,36 +7,36 @@ And when he had set the brands on fire, he let [them] go into the standing corn 
 Then he lit the torches and released the foxes into the standing grain of the Philistines, burning up the piles of grain and the standing grain, as well as the vineyards and olive groves.<small><sub>**MT:**</sub></small>
 [[Judg.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.4|<< Judges 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.6|Judges 15:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he kindled | <big><span class="asgreek">εξέκαυσε</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamps, | <big><span class="asgreek">λαμπάσι</span></big> <sup><small><small>[[G2985]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent \[them\] out | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears of corn | <big><span class="asgreek">στάχυσι</span></big> <sup><small><small>[[G4719]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines. | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he burned | <big><span class="asgreek">ενεπύρισε</span></big> <sup><small><small>[[G7207]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears of corn | <big><span class="asgreek">στάχυας</span></big> <sup><small><small>[[G4719]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] threshing-floor, | <big><span class="asgreek">άλωνος</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| ears of corn | <big><span class="asgreek">σταχύων</span></big> <sup><small><small>[[G4719]]</small></small></sup> |
-| \[the\] straight standing | <big><span class="asgreek">ορθών</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] vineyard, | <big><span class="asgreek">αμπελώνος</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive \[orchards\]. | <big><span class="asgreek">ελαίας</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he kindled | **<big>[[G1572\|εξέκαυσε]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| lamps, | **<big>[[G2985\|λαμπάσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he sent \[them\] out | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| ears of corn | **<big>[[G4719\|στάχυσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines. | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he burned | **<big>[[G7207\|ενεπύρισε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ears of corn | **<big>[[G4719\|στάχυας]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] threshing-floor, | **<big>[[G0257\|άλωνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| ears of corn | **<big>[[G4719\|σταχύων]]</big>** |
+| \[the\] straight standing | **<big>[[G3717\|ορθών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] vineyard, | **<big>[[G0290\|αμπελώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive \[orchards\]. | **<big>[[G1636\|ελαίας]]</big>** |
 [[Judg.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.4|<< Judges 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.6|Judges 15:6 >>]]</td></tr></table>
 
 

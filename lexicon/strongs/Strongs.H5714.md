@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עִדּוֹ‎</span></big> **ʻIddôw** <small>*(id-do')*</small> ==**Iddo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עִדּוֹא</span> **ʻIddôwʼ** <small>*(id-do')*</small>; or <span class="ashebrew">עִדִּיא</span> **ʻIddîyʼ** <small>*(id-dee')*</small>; from <span class="ashebrew">‎עָדָה‎</span><sup><small>[[H5710]]</small></sup>; timely</small>
+**<big><span class="ashebrew">‎עִדּוֹ‎</span></big>** **ʻIddôw** <small>*(id-do')*</small> ==**Iddo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עִדּוֹא</span></big>** **ʻIddôwʼ** <small>*(id-do')*</small>; or **<big><span class="ashebrew">עִדִּיא</span></big>** **ʻIddîyʼ** <small>*(id-dee')*</small>; from **<big>[[H5710|‎עָדָה‎]]</big>**; timely</small>
 
-$\quad$ Iddo. Compare <span class="ashebrew">‎יִדּוֹ‎</span><sup><small>[[H3035]]</small></sup>, <span class="ashebrew">‎יֶעְדִּי‎</span><sup><small>[[H3260]]</small></sup>.
+$\quad$ Iddo. Compare **<big>[[H3035|‎יִדּוֹ‎]]</big>**, **<big>[[H3260|‎יֶעְדִּי‎]]</big>**.
 - § Iddo = *"His witness"*
 - ***Iddo*** (or Iddi), the name of five Israelites
 

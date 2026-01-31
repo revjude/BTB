@@ -11,19 +11,19 @@ For I desire mercy, not sacrifice, and the knowledge of God rather than burnt of
 > $\quad$ referenced by: [[Matt.12.7|Matt 12:7]] ☩ [[Matt.9.13|Matt 9:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| I want, | <big><span class="asgreek">θέλω</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sacrifice; | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| full knowledge | <big><span class="asgreek">επίγνωσιν</span></big> <sup><small><small>[[G1922]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| rather than | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> |
-| whole burnt-offerings. | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| mercy | **<big>[[G1656\|έλεος]]</big>** |
+| I want, | **<big>[[G2309\|θέλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| sacrifice; | **<big>[[G2378\|θυσίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| full knowledge | **<big>[[G1922\|επίγνωσιν]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| rather than | **<big>[[G3123\|μάλλον]]</big>** |
+| whole burnt-offerings. | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
 [[Hos.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.5|<< Hosea 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.7|Hosea 6:7 >>]]</td></tr></table>
 
 

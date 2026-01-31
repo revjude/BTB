@@ -7,23 +7,23 @@ And they called Rebekah, and said unto her, Wilt thou go with this man? And she 
 They called Rebekah and asked her, “Will you go with this man?” “I will go,” she replied.<small><sub>**MT:**</sub></small>
 [[Gen.24.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.57|<< Genesis 24:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.59|Genesis 24:59 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they called | <big><span class="asgreek">εκάλεσαν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rebekah, | <big><span class="asgreek">Ρεβέκκαν</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">ειπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Will you go | <big><span class="asgreek">πορεύση</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this man? | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will go. | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they called | **<big>[[G2564\|εκάλεσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Rebekah, | **<big>[[G4479\|Ρεβέκκαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|ειπον]]</big>** |
+| to her, | **<big>[[G1473\|αυτή]]</big>** |
+| Will you go | **<big>[[G4198\|πορεύση]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this man? | **<big>[[G0444\|ανθρώπου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| she said, | **<big>[[G2036\|είπε]]</big>** |
+| I will go. | **<big>[[G4198\|πορεύσομαι]]</big>** |
 [[Gen.24.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.57|<< Genesis 24:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.59|Genesis 24:59 >>]]</td></tr></table>
 
 

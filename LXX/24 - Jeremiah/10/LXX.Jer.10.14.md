@@ -11,26 +11,26 @@ Every man is senseless and devoid of knowledge; every goldsmith is put to shame 
 > $\quad$ referenced by: [[Rom.1.22|Rom 1:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| was made moronish | <big><span class="asgreek">εμωράνθη</span></big> <sup><small><small>[[G3471]]</small></small></sup> |
-| Every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| knowledge; | <big><span class="asgreek">γνώσεως</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
-| was disgraced | <big><span class="asgreek">κατησχύνθη</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| goldsmith | <big><span class="asgreek">χρυσοχόος</span></big> <sup><small><small>[[G9762]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his carved \[idols\]; | <big><span class="asgreek">γλυπτοίς</span></big> <sup><small><small>[[G6745]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| false | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| they cast | <big><span class="asgreek">εχώνευσαν</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| breath | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was made moronish | **<big>[[G3471\|εμωράνθη]]</big>** |
+| Every | **<big>[[G3956\|πας]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| knowledge; | **<big>[[G1108\|γνώσεως]]</big>** |
+| was disgraced | **<big>[[G2617\|κατησχύνθη]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| goldsmith | **<big>[[G9762\|χρυσοχόος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his carved \[idols\]; | **<big>[[G6745\|γλυπτοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| false | **<big>[[G5571\|ψευδή]]</big>** |
+| they cast | **<big>[[G9779\|εχώνευσαν]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| breath | **<big>[[G4151\|πνεύμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Jer.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.13|<< Jeremiah 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.15|Jeremiah 10:15 >>]]</td></tr></table>
 
 

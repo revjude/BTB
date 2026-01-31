@@ -7,21 +7,21 @@ So [are] the paths of all that forget God; and the hypocrite’s hope shall peri
 Such is the destiny of all who forget God; so the hope of the godless will perish.<small><sub>**MT:**</sub></small>
 [[Job.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.12|<< Job 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.14|Job 8:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| So | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| therefore | <big><span class="asgreek">τοίνυν</span></big> <sup><small><small>[[G5106]]</small></small></sup> |
-| will it be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| last | <big><span class="asgreek">έσχατα</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forgetting | <big><span class="asgreek">επιλανθανομένων</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for \[the\] hope | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| shall perish. | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| So | **<big>[[G3779\|ούτως]]</big>** |
+| therefore | **<big>[[G5106\|τοίνυν]]</big>** |
+| will it be | **<big>[[G1510\|έσται]]</big>** |
+| for the | **<big>[[G3588\|τα]]</big>** |
+| last | **<big>[[G2078\|έσχατα]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| forgetting | **<big>[[G1950\|επιλανθανομένων]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| for \[the\] hope | **<big>[[G1680\|ελπίς]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβούς]]</big>** |
+| shall perish. | **<big>[[G0622\|απολείται]]</big>** |
 [[Job.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.12|<< Job 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.14|Job 8:14 >>]]</td></tr></table>
 
 

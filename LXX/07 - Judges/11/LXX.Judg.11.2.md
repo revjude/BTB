@@ -7,41 +7,41 @@ And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrus
 And Gilead’s wife bore him sons who grew up, drove Jephthah out, and said to him, “You shall have no inheritance in our father’s house, because you are the son of another woman.”<small><sub>**MT:**</sub></small>
 [[Judg.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.1|<< Judges 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.3|Judges 11:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| to Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sons. | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| matured | <big><span class="asgreek">ηδρύνθησαν</span></big> <sup><small><small>[[G6143]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cast out | <big><span class="asgreek">εξέβαλον</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jephthah, | <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| inherit | <big><span class="asgreek">κληρονομήσεις</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of a mistress | <big><span class="asgreek">εταίρας</span></big> <sup><small><small>[[G7522]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| to Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| himself | **<big>[[G1473\|αυτώ]]</big>** |
+| sons. | **<big>[[G5207\|υιούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| matured | **<big>[[G6143\|ηδρύνθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they cast out | **<big>[[G1544\|εξέβαλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jephthah, | **<big>[[G2422\|Ιεφθάε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| inherit | **<big>[[G2816\|κληρονομήσεις]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of our father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| of a mistress | **<big>[[G7522\|εταίρας]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
 [[Judg.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.1|<< Judges 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.3|Judges 11:3 >>]]</td></tr></table>
 
 

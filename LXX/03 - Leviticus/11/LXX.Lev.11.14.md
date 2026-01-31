@@ -7,25 +7,25 @@ And the vulture, and the kite after his kind;
 the kite, any kind of falcon,<small><sub>**MT:**</sub></small>
 [[Lev.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.13|<< Leviticus 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.15|Leviticus 11:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vulture, | <big><span class="asgreek">γύπα</span></big> <sup><small><small>[[G6778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| kite, | <big><span class="asgreek">ικτίνα</span></big> <sup><small><small>[[G7717]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοια</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crows, | <big><span class="asgreek">κόρακα</span></big> <sup><small><small>[[G2876]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοια</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| vulture, | **<big>[[G6778\|γύπα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| kite, | **<big>[[G7717\|ικτίνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| likened | **<big>[[G3664\|όμοια]]</big>** |
+| to it. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| crows, | **<big>[[G2876\|κόρακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| likened | **<big>[[G3664\|όμοια]]</big>** |
+| to it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Lev.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.13|<< Leviticus 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.15|Leviticus 11:15 >>]]</td></tr></table>
 
 

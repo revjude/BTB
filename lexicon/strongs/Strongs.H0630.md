@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַסְפָּתָא‎</span></big> **ʼAçpâthâʼ** <small>*(as-paw-thaw')*</small> ==**Aspatha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אַסְפָּתָא‎</span></big>** **ʼAçpâthâʼ** <small>*(as-paw-thaw')*</small> ==**Aspatha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Aspatha.

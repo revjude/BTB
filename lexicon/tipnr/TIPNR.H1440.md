@@ -1,8 +1,8 @@
 <small>*Gidom • A place near Gibeah, associated with the Benjamite War.*</small>
 
 <span class='tipnrhighlight'>Gidom</span> was a place near Gibeah where the Benjamites were pursued and defeated during the Benjamite War \([[Judg.20.45|Judges 20:45]]\).
-- A location near Rimmon<[[H7417C]]> only mentioned at [[Judg.20.45|Jdg.20.45]]; 
-- only referred to as Gidom<[[H1440]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ם</span>\).
+- A location near Rimmon **<big>[[H7417|רִמּוֹן]]</big>** only mentioned at [[Judg.20.45|Jdg.20.45]]; 
+- only referred to as Gidom **<big>[[H1440|גִּדְעֹם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.934660,35.297063&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gidom was a place mentioned in the context of the Benjamite War, a conflict that
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gidom | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ם</span>](H1440) <small>*Hebrew*</small> | 1x | [Jdg.20.45 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gidom\*\|reference=Jdg.20.45) |
-All Strong's for **Gidom**: \[[[H1440]]\]
+| Gidom | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>ם</span>](H1440) | 1x | [Jdg.20.45 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gidom\*\|reference=Jdg.20.45) |
+All entries for **Gidom**:  **<big>[[H1440|גִּדְעֹם]]</big>**

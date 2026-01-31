@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹיָרִיב‎</span></big> **Yôwyârîyb** <small>*(yo-yaw-reeb')*</small> ==**Joiarib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹיָרִיב‎</span><sup><small>[[H3080]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹיָרִיב‎</span></big>** **Yôwyârîyb** <small>*(yo-yaw-reeb')*</small> ==**Joiarib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3080|‎יְהוֹיָרִיב‎]]</big>**</small>
 
 $\quad$ Joiarib.
 - § Joiarib = *"Jehovah contends"*

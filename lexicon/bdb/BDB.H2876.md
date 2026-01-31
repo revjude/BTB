@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H2877]]</small>
+<small>Aramaic form: **<big>[[H2877|טַבָּח]]</big>**</small>
  <span class="bdbLangHebrew">‎טַבָּח‎</span> **noun masculine**<sup>[[1Sam.9.23|1Sam 9:23]]</sup> 
 
 **1.** ==cook==, 

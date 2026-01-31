@@ -6,17 +6,17 @@ Thus says the LORD, who makes a way in the sea and a path through the surging wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.15|<< Isaiah 43:15]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.17|Isaiah 43:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֚ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who made  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נּוֹתֵ֥ן </big></span><small><small><sup>[[H5414I]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> no.Ten <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the sea  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָּ֖ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a way  | <span class="ashebrew"><big>דָּ֑רֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> &#8207;| Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in waters  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מַ֥יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty  | <span class="ashebrew"><big>עַזִּ֖ים </big></span><small><small><sup>[[H5794]]</sup></small></small> &#8207;| 'a.Zim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a path  | <span class="ashebrew"><big>נְתִיבָֽה </big></span><small><small><sup>[[H5410B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.ti.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who made  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5414I\|נּוֹתֵ֥ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּ֖ם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a way  |**<big>&#8207;[[H1870L\|דָּ֑רֶךְ]]&#8207; </big>**| Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in waters  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4325G\|מַ֥יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty  |**<big>&#8207;[[H5794\|עַזִּ֖ים]]&#8207; </big>**| 'a.Zim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a path  |**<big>&#8207;[[H5410B\|נְתִיבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.ti.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.15|<< Isaiah 43:15]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.17|Isaiah 43:17 >>]]</td></tr></table>
 
 

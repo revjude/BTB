@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲצַר סוּסִים‎</span></big> **Chătsar Çûwçîym** <small>*(khats-ar' soo-seem')*</small> ==**Hazar-susim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצֵר‎</span><sup><small>[[H2691]]</small></sup> and the plural of <span class="ashebrew">‎סוּס‎</span><sup><small>[[H5483]]</small></sup>; village of horses</small>
+**<big><span class="ashebrew">‎חֲצַר סוּסִים‎</span></big>** **Chătsar Çûwçîym** <small>*(khats-ar' soo-seem')*</small> ==**Hazar-susim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2691|‎חָצֵר‎]]</big>** and the plural of **<big>[[H5483|‎סוּס‎]]</big>**; village of horses</small>
 
 $\quad$ Hazar-susim.
 - § Hazar-susim = *"village of horses"*

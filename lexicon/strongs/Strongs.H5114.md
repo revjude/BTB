@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נוֹדָב‎</span></big> **Nôwdâb** <small>*(no-dawb')*</small> ==**Nodab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָדַב‎</span><sup><small>[[H5068]]</small></sup>; noble</small>
+**<big><span class="ashebrew">‎נוֹדָב‎</span></big>** **Nôwdâb** <small>*(no-dawb')*</small> ==**Nodab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5068|‎נָדַב‎]]</big>**; noble</small>
 
 $\quad$ Nodab.
 - § Nodab = *"nobility"*

@@ -7,40 +7,40 @@ And from the bottom [upon] the ground [even] to the lower settle [shall be] two 
 The space from the gutter on the ground to the lower ledge shall be two cubits, and the ledge one cubit wide. The space from the smaller ledge to the larger ledge shall be four cubits, and the ledge one cubit wide.<small><sub>**MT:**</sub></small>
 [[Ezek.43.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.13|<< Ezekiel 43:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.15|Ezekiel 43:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] depth | <big><span class="asgreek">βάθους</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its hollow part | <big><span class="asgreek">κοιλώματος</span></big> <sup><small><small>[[G8043]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat, | <big><span class="asgreek">ιλαστήριον</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from beneath -- | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| a cubit; | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat | <big><span class="asgreek">ιλαστηρίου</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat | <big><span class="asgreek">ιλαστήριον</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| a cubit. | <big><span class="asgreek">πήχυς</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| From | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] depth | **<big>[[G0899\|βάθους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| beginning | **<big>[[G0746\|αρχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of its hollow part | **<big>[[G8043\|κοιλώματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| atonement-seat, | **<big>[[G2435\|ιλαστήριον]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| from beneath -- | **<big>[[G9575\|υποκάτωθεν]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| a cubit; | **<big>[[G4083\|πήχεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| atonement-seat | **<big>[[G2435\|ιλαστηρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| small | **<big>[[G3398\|μικρού]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| atonement-seat | **<big>[[G2435\|ιλαστήριον]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| cubits | **<big>[[G4083\|πήχεις]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] breadth | **<big>[[G7563\|εύρος]]</big>** |
+| a cubit. | **<big>[[G4083\|πήχυς]]</big>** |
 [[Ezek.43.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.13|<< Ezekiel 43:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.15|Ezekiel 43:15 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ The sea [is] his, and he made it: and his hands formed the dry [land].
 The sea is His, for He made it, and His hands formed the dry land.<small><sub>**MT:**</sub></small>
 [[Ps.95.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.4|<< Psalm 95:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.6|Psalm 95:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dry \[land\] | <big><span class="asgreek">ξηράν</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shaped | <big><span class="asgreek">έπλασαν</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sea, | **<big>[[G2281\|θάλασσα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he himself | **<big>[[G1473\|αυτός]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| it; | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| dry \[land\] | **<big>[[G3584\|ξηράν]]</big>** |
+| his hands | **<big>[[G5495\|χείρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shaped | **<big>[[G4111\|έπλασαν]]</big>** |
 [[Ps.95.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.4|<< Psalm 95:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.6|Psalm 95:6 >>]]</td></tr></table>
 
 

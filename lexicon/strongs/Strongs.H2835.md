@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָשִׂף‎</span></big> **châsiph** <small>*(khaw-seef')*</small> ==**little flock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָשַׂף‎</span><sup><small>[[H2834]]</small></sup></small>
+**<big><span class="ashebrew">‎חָשִׂף‎</span></big>** **châsiph** <small>*(khaw-seef')*</small> ==**little flock**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2834|‎חָשַׂף‎]]</big>**</small>
 
 $\quad$ little flock.
 - properly, ***drawn off***, i.e. ***separated***
@@ -7,4 +7,4 @@ $\quad$ little flock.
 
 **1)** small flocks, little flocks
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποίμνιον</span><sup><small>[[G4168]]</small></sup>
+<small>See Greek: </small>**<big>[[G4168|ποίμνιον]]</big>**

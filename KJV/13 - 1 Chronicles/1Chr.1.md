@@ -77,7 +77,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.51|51]]**<span class="
 
 [^19]: [[Gen.10|Gen 10:6]], Phut
 
-[^20]: i.e. he compassed the chamber; to surround, (<span class="ashebrew">‎סַבְתָּא‎</span><sup><small>[[H5454]]</small></sup>). [[Gen.10|Gen 10:7]], ***Sabtechah***, i.e. terror, (<span class="ashebrew">‎סַבְתְּכָא‎</span><sup><small>[[H5455]]</small></sup>), [[Gen.10|Gen 10:7]]
+[^20]: i.e. he compassed the chamber; to surround, ( [[H5454|‎סַבְתָּא‎]] ). [[Gen.10|Gen 10:7]], ***Sabtechah***, i.e. terror, ( [[H5455|‎סַבְתְּכָא‎]] ), [[Gen.10|Gen 10:7]]
 
 [^21]: [[Gen.10|Gen 10:8-12]]; [[Mic.5|Mic 5:6]]
 
@@ -183,9 +183,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.51|51]]**<span class="
 
 [^72]: [[1Chr.1|1Chr 1:53]]; [[Gen.36|Gen 36:11-15]]; [[Jer.49|Jer 49:7]], [[Jer.49|Jer 49:20]]; [[Amos.1|Amos 1:12]]; [[Obad.1|Obad 1:9]]; [[Hab.3|Hab 3:3]]
 
-[^73]: i.e. eloquent, (<span class="ashebrew">‎אוֹמָר‎</span><sup><small>[[H0201]]</small></sup>), [[Gen.36|Gen 36:11]]
+[^73]: i.e. eloquent, ( [[H0201|‎אוֹמָר‎]] ), [[Gen.36|Gen 36:11]]
 
-[^74]: i.e. expectations; watch thou, (<span class="ashebrew">‎צְפוֹ‎</span><sup><small>[[H6825]]</small></sup>). [[Gen.36|Gen 36:11]], [[Gen.36|Gen 36:15]]; The various reading of <span class="asgreek"><span class='asgreek'>φτι</span></span> (<span class="ashebrew">‎צְפוֹ‎</span><sup><small>[[H6825]]</small></sup>), ***Zephi***, and <span class="asgreek"><span class='asgreek'>φτε</span></span> (<span class="ashebrew">‎צְפוֹ‎</span><sup><small>[[H6825]]</small></sup>), ***Zepho***, is caused simply by the mutation of the Hebrew letter <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, and <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***. [[Gen.36|Gen 36:15]], Zepho
+[^74]: i.e. expectations; watch thou, ( [[H6825|‎צְפוֹ‎]] ). [[Gen.36|Gen 36:11]], [[Gen.36|Gen 36:15]]; The various reading of <span class="asgreek"><span class='asgreek'>φτι</span></span> ( [[H6825|‎צְפוֹ‎]] ), ***Zephi***, and <span class="asgreek"><span class='asgreek'>φτε</span></span> ( [[H6825|‎צְפוֹ‎]] ), ***Zepho***, is caused simply by the mutation of the Hebrew letter <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, and <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***. [[Gen.36|Gen 36:15]], Zepho
 
 [^75]: [[Gen.36|Gen 36:4]]
 
@@ -195,23 +195,23 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.51|51]]**<span class="
 
 [^78]: [[Gen.36|Gen 36:22]]; [[Deut.2|Deut 2:12]], [[Deut.2|Deut 2:22]]
 
-[^79]: i.e. destruction, (<span class="ashebrew">‎הוֹמָם‎</span><sup><small>[[H1950]]</small></sup>). This variation is simply the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***; that in Genesis being properly <span class="asgreek"><span class='asgreek'>διξν</span></span> (<span class="ashebrew">‎הֵימָם‎</span><sup><small>[[H1967]]</small></sup>), ***Hemam***, and this, <span class="asgreek"><span class='asgreek'>δεξν</span></span> (<span class="ashebrew">‎הוֹמָם‎</span><sup><small>[[H1950]]</small></sup>), ***Homam***, Hemam, [[Gen.36|Gen 36:22]]
+[^79]: i.e. destruction, ( [[H1950|‎הוֹמָם‎]] ). This variation is simply the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***; that in Genesis being properly <span class="asgreek"><span class='asgreek'>διξν</span></span> ( [[H1967|‎הֵימָם‎]] ), ***Hemam***, and this, <span class="asgreek"><span class='asgreek'>δεξν</span></span> ( [[H1950|‎הוֹמָם‎]] ), ***Homam***, Hemam, [[Gen.36|Gen 36:22]]
 
-[^80]: i.e. lofty, (<span class="ashebrew">‎עַלְוָן‎</span><sup><small>[[H5935]]</small></sup>). Both these variations are also caused by the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span> ***wav***; the former being written <span class="asgreek"><span class='asgreek'>ςμεο</span></span> (<span class="ashebrew">‎עַלְוָן‎</span><sup><small>[[H5935]]</small></sup>), ***Alvan***, and <span class="asgreek"><span class='asgreek'>ςμιο</span></span> (<span class="ashebrew">‎עַלְוָן‎</span><sup><small>[[H5935]]</small></sup>), ***Alian***; and the latter, <span class="asgreek"><span class='asgreek'>ωΡτε</span></span> (<span class="ashebrew">‎שְׁפוֹ‎</span><sup><small>[[H8195]]</small></sup>), ***Shepho***, and <span class="asgreek"><span class='asgreek'>ωΡτι</span></span> (<span class="ashebrew">‎שְׁפוֹ‎</span><sup><small>[[H8195]]</small></sup>), ***Shephi***. [[Gen.36|Gen 36:23]], Alvan, Shepho
+[^80]: i.e. lofty, ( [[H5935|‎עַלְוָן‎]] ). Both these variations are also caused by the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span> ***wav***; the former being written <span class="asgreek"><span class='asgreek'>ςμεο</span></span> ( [[H5935|‎עַלְוָן‎]] ), ***Alvan***, and <span class="asgreek"><span class='asgreek'>ςμιο</span></span> ( [[H5935|‎עַלְוָן‎]] ), ***Alian***; and the latter, <span class="asgreek"><span class='asgreek'>ωΡτε</span></span> ( [[H8195|‎שְׁפוֹ‎]] ), ***Shepho***, and <span class="asgreek"><span class='asgreek'>ωΡτι</span></span> ( [[H8195|‎שְׁפוֹ‎]] ), ***Shephi***. [[Gen.36|Gen 36:23]], Alvan, Shepho
 
-[^81]: i.e. my bareness; my prominence, (<span class="ashebrew">‎שְׁפוֹ‎</span><sup><small>[[H8195]]</small></sup>). <span class="asgreek"><span class='asgreek'>ωΡτι</span></span>.
+[^81]: i.e. my bareness; my prominence, ( [[H8195|‎שְׁפוֹ‎]] ). <span class="asgreek"><span class='asgreek'>ωΡτι</span></span>.
 
-[^82]: The difference here is only in the translation; the original being uniformly ***ΰ<span class='asgreek'>ιδ</span>*** (<span class="ashebrew">‎אַיָּה‎</span><sup><small>[[H0345]]</small></sup>), ***Aiyah***. [[Gen.36|Gen 36:24]], Ajah.
+[^82]: The difference here is only in the translation; the original being uniformly ***ΰ<span class='asgreek'>ιδ</span>*** ( [[H0345|‎אַיָּה‎]] ), ***Aiyah***. [[Gen.36|Gen 36:24]], Ajah.
 
 [^83]: [[Gen.46|Gen 46:7]]
 
 [^84]: [[1Chr.1|1Chr 1:38]]; [[Gen.36|Gen 36:25]]
 
-[^85]: This variation is only caused by the mutation of a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, and a <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***; the original being in Genesis <span class="asgreek"><span class='asgreek'>ηξγο</span></span> (<span class="ashebrew">‎חֶמְדָּן‎</span><sup><small>[[H2533]]</small></sup>), ***Hemdan***, and here <span class="asgreek"><span class='asgreek'>ηξψο</span></span> (<span class="ashebrew">‎עַמְרָם‎</span><sup><small>[[H6019]]</small></sup>), ***Hamran***. [[Gen.36|Gen 36:26]], Hemdan
+[^85]: This variation is only caused by the mutation of a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, and a <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***; the original being in Genesis <span class="asgreek"><span class='asgreek'>ηξγο</span></span> ( [[H2533|‎חֶמְדָּן‎]] ), ***Hemdan***, and here <span class="asgreek"><span class='asgreek'>ηξψο</span></span> ( [[H6019|‎עַמְרָם‎]] ), ***Hamran***. [[Gen.36|Gen 36:26]], Hemdan
 
-[^86]: i.e. the disquiet, (<span class="ashebrew">‎זַעֲוָן‎</span><sup><small>[[H2190]]</small></sup>). [[Gen.36|Gen 36:27]]; The former of these is the same in the original, <span class="asgreek"><span class='asgreek'>ζςεο</span></span> (<span class="ashebrew">‎זַעֲוָן‎</span><sup><small>[[H2190]]</small></sup>), ***Zauvan***, and the latter, <span class="asgreek"><span class='asgreek'>ιςχο</span></span>, is an error for <span class="asgreek"><span class='asgreek'>εςχο</span></span>, ***weakan***, "and Achan." [[Gen.36|Gen 36:27]], Zaavan, Achan
+[^86]: i.e. the disquiet, ( [[H2190|‎זַעֲוָן‎]] ). [[Gen.36|Gen 36:27]]; The former of these is the same in the original, <span class="asgreek"><span class='asgreek'>ζςεο</span></span> ( [[H2190|‎זַעֲוָן‎]] ), ***Zauvan***, and the latter, <span class="asgreek"><span class='asgreek'>ιςχο</span></span>, is an error for <span class="asgreek"><span class='asgreek'>εςχο</span></span>, ***weakan***, "and Achan." [[Gen.36|Gen 36:27]], Zaavan, Achan
 
-[^87]: i.e. let him oppress them, (<span class="ashebrew">‎יַעֲקָן‎</span><sup><small>[[H3292]]</small></sup>). Uz. [[Gen.10|Gen 10:23]], [[Gen.36|Gen 36:28]]; [[Lam.4|Lam 4:21]]
+[^87]: i.e. let him oppress them, ( [[H3292|‎יַעֲקָן‎]] ). Uz. [[Gen.10|Gen 10:23]], [[Gen.36|Gen 36:28]]; [[Lam.4|Lam 4:21]]
 
 [^88]: [[Gen.36|Gen 36:31-39]], [[Gen.49|Gen 49:10]]; [[Num.24|Num 24:17-19]]
 
@@ -241,11 +241,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.51|51]]**<span class="
 
 [^101]: [[Gen.36|Gen 36:38]]
 
-[^102]: This variation is occasioned simply by the mutation of <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***, and <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***; being in Genesis, <span class="asgreek"><span class='asgreek'>δγψ</span></span> (<span class="ashebrew">‎הֲדַר‎</span><sup><small>[[H1924]]</small></sup>), ***Hadar***, and here, <span class="asgreek"><span class='asgreek'>δγγ</span></span> (<span class="ashebrew">‎הֲדַד‎</span><sup><small>[[H1908]]</small></sup>), ***Hadad***. [[Gen.36|Gen 36:39]], Hadar
+[^102]: This variation is occasioned simply by the mutation of <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***, and <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***; being in Genesis, <span class="asgreek"><span class='asgreek'>δγψ</span></span> ( [[H1924|‎הֲדַר‎]] ), ***Hadar***, and here, <span class="asgreek"><span class='asgreek'>δγγ</span></span> ( [[H1908|‎הֲדַד‎]] ), ***Hadad***. [[Gen.36|Gen 36:39]], Hadar
 
-[^103]: i.e. sighing, (<span class="ashebrew">‎פָּעוּ‎</span><sup><small>[[H6464]]</small></sup>), This simply depends on the interchange of <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span> ***wav***; being written in Genesis <span class="asgreek"><span class='asgreek'>τςε</span></span> (<span class="ashebrew">‎פָּעוּ‎</span><sup><small>[[H6464]]</small></sup>), ***Pau***, and here, <span class="asgreek"><span class='asgreek'>τςι</span></span> (<span class="ashebrew">‎פָּעוּ‎</span><sup><small>[[H6464]]</small></sup>), ***Pai***. [[Gen.36|Gen 36:39]], Pau
+[^103]: i.e. sighing, ( [[H6464|‎פָּעוּ‎]] ), This simply depends on the interchange of <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span> ***wav***; being written in Genesis <span class="asgreek"><span class='asgreek'>τςε</span></span> ( [[H6464|‎פָּעוּ‎]] ), ***Pau***, and here, <span class="asgreek"><span class='asgreek'>τςι</span></span> ( [[H6464|‎פָּעוּ‎]] ), ***Pai***. [[Gen.36|Gen 36:39]], Pau
 
-[^104]: i.e. moral perverseness, (<span class="ashebrew">‎עַלְוָה‎</span><sup><small>[[H5933]]</small></sup>), This is another instance of the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span> ***wav***; in the former instance being <span class="asgreek"><span class='asgreek'>ςμεδ</span></span> (<span class="ashebrew">‎עַלְוָה‎</span><sup><small>[[H5933]]</small></sup>), ***Alvah***, and here, <span class="asgreek"><span class='asgreek'>ςμιδ</span></span> (<span class="ashebrew">‎עַלְוָה‎</span><sup><small>[[H5933]]</small></sup>), ***Aliah***, though the Keri also reads <span class="asgreek"><span class='asgreek'>ςμεδ</span></span>. [[Gen.36|Gen 36:40]], Alvah
+[^104]: i.e. moral perverseness, ( [[H5933|‎עַלְוָה‎]] ), This is another instance of the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span> ***yood*** and <span class="asgreek"><span class='asgreek'>ε</span></span> ***wav***; in the former instance being <span class="asgreek"><span class='asgreek'>ςμεδ</span></span> ( [[H5933|‎עַלְוָה‎]] ), ***Alvah***, and here, <span class="asgreek"><span class='asgreek'>ςμιδ</span></span> ( [[H5933|‎עַלְוָה‎]] ), ***Aliah***, though the Keri also reads <span class="asgreek"><span class='asgreek'>ςμεδ</span></span>. [[Gen.36|Gen 36:40]], Alvah
 
 [^105]: [[Gen.36|Gen 36:41]]
 

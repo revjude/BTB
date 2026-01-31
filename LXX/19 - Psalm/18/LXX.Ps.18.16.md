@@ -7,18 +7,18 @@ He sent from above, he took me, he drew me out of many waters.
 He reached down from on high and took hold of me; He drew me out of deep waters.<small><sub>**MT:**</sub></small>
 [[Ps.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.15|<< Psalm 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.17|Psalm 18:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He sent | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] height, | <big><span class="asgreek">ύψους</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβέ</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he took me to himself | <big><span class="asgreek">προσελάβετό</span></big> <sup><small><small>[[G4355]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| waters | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| He sent | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] height, | **<big>[[G5311\|ύψους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβέ]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| he took me to himself | **<big>[[G4355\|προσελάβετό]]</big>** **<big>[[G1473\|με]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| waters | **<big>[[G5204\|υδάτων]]</big>** |
+| many | **<big>[[G4183\|πολλών]]</big>** |
 [[Ps.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.15|<< Psalm 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.17|Psalm 18:17 >>]]</td></tr></table>
 
 

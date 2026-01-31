@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְחֶזְקֵאל‎</span></big> **Yᵉchezqêʼl** <small>*(yekh-ez-kale')*</small> ==**Jehezkel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָזַק‎</span><sup><small>[[H2388]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God will strengthen</small>
+**<big><span class="ashebrew">‎יְחֶזְקֵאל‎</span></big>** **Yᵉchezqêʼl** <small>*(yekh-ez-kale')*</small> ==**Jehezkel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2388|‎חָזַק‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God will strengthen</small>
 
 $\quad$ Ezekiel, Jehezekel.
 - § Ezekiel or Jehezekel = *"God strengthens"*

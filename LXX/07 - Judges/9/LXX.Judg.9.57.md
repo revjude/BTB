@@ -7,28 +7,28 @@ And all the evil of the men of Shechem did God render upon their heads: and upon
 And God also brought all the wickedness of the men of Shechem back upon their own heads. So the curse of Jotham son of Jerubbaal came upon them.<small><sub>**MT:**</sub></small>
 [[Judg.9.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.56|<< Judges 9:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.1|Judges 10:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| of \[the\] men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Shechem, | <big><span class="asgreek">Σικήμων</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| God returned | <big><span class="asgreek">επέστρεψεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their \[own\] head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">επήλθεν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| curse | <big><span class="asgreek">κατάρα</span></big> <sup><small><small>[[G2671]]</small></small></sup> |
-| of Jotham | <big><span class="asgreek">Ιωαθάμ</span></big> <sup><small><small>[[G2488]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jerubbaal. | <big><span class="asgreek">Ιεροβάαλ</span></big> <sup><small><small>[[H3380]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3588\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| evil | **<big>[[G2549\|κακίαν]]</big>** |
+| of \[the\] men | **<big>[[G0435\|ανδρών]]</big>** |
+| of Shechem, | **<big>[[G4966\|Σικήμων]]</big>** |
+| God returned | **<big>[[G1994\|επέστρεψεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| on | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their \[own\] head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G1904\|επήλθεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| curse | **<big>[[G2671\|κατάρα]]</big>** |
+| of Jotham | **<big>[[G2488\|Ιωαθάμ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jerubbaal. | **<big>[[H3380\|Ιεροβάαλ]]</big>** |
 [[Judg.9.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.56|<< Judges 9:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.1|Judges 10:1 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an
 Micaiah replied, “You will soon see, on that day when you go and hide in an inner room.”<small><sub>**MT:**</sub></small>
 [[1Kgs.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.24|<< 1 Kings 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.26|1 Kings 22:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Micaiah said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μιχαίας</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall see | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you shall enter | <big><span class="asgreek">εισελεύση</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| an inner chamber | <big><span class="asgreek">ταμίειον</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| storeroom | <big><span class="asgreek">ταμιείου</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to hide. | <big><span class="asgreek">κρυβήναι</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Micaiah said, | **<big>[[G2036\|είπε]]</big>** **<big>[[H4318\|Μιχαίας]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| shall see | **<big>[[G3708\|όψει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| you shall enter | **<big>[[G1525\|εισελεύση]]</big>** |
+| an inner chamber | **<big>[[G5009\|ταμίειον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| storeroom | **<big>[[G5009\|ταμιείου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to hide. | **<big>[[G2928\|κρυβήναι]]</big>** |
 [[1Kgs.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.24|<< 1 Kings 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.26|1 Kings 22:26 >>]]</td></tr></table>
 
 

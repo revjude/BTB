@@ -7,23 +7,23 @@ Either a bullock or a lamb that hath any thing superfluous or lacking in his par
 You may present as a freewill offering an ox or sheep that has a deformed or stunted limb, but it is not acceptable in fulfillment of a vow.<small><sub>**MT:**</sub></small>
 [[Lev.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.22|<< Leviticus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.24|Leviticus 22:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a sheep | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| with mutilated ears, | <big><span class="asgreek">ωτότμητον</span></big> <sup><small><small>[[G9819]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| tailless, | <big><span class="asgreek">κολοβοκέρκον</span></big> <sup><small><small>[[G8055]]</small></small></sup> |
-| for slaughter | <big><span class="asgreek">σφάγια</span></big> <sup><small><small>[[G4968]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to yourself, | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| but for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your vow | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be taken. | <big><span class="asgreek">δεχθήσεται</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a calf | **<big>[[G3448\|μόσχον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a sheep | **<big>[[G4263\|πρόβατον]]</big>** |
+| with mutilated ears, | **<big>[[G9819\|ωτότμητον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| tailless, | **<big>[[G8055\|κολοβοκέρκον]]</big>** |
+| for slaughter | **<big>[[G4968\|σφάγια]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| to yourself, | **<big>[[G4572\|σεαυτώ]]</big>** |
+| but for | **<big>[[G1519\|εις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| your vow | **<big>[[G2171\|ευχήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| be taken. | **<big>[[G1209\|δεχθήσεται]]</big>** |
 [[Lev.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.22|<< Leviticus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.24|Leviticus 22:24 >>]]</td></tr></table>
 
 

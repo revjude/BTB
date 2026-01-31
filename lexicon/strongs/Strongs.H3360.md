@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְקַמְעָם‎</span></big> **Yᵉqamʻâm** <small>*(yek-am'-awm)*</small> ==**Jekameam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup> and <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; (the) people will rise</small>
+**<big><span class="ashebrew">‎יְקַמְעָם‎</span></big>** **Yᵉqamʻâm** <small>*(yek-am'-awm)*</small> ==**Jekameam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6965|‎קוּם‎]]</big>** and **<big>[[H5971|‎עַם‎]]</big>**; (the) people will rise</small>
 
-$\quad$ Jekameam. Compare <span class="ashebrew">‎יְהוֹיָקִים‎</span><sup><small>[[H3079]]</small></sup>, <span class="ashebrew">‎יׇקְמְעָם‎</span><sup><small>[[H3361]]</small></sup>.
+$\quad$ Jekameam. Compare **<big>[[H3079|‎יְהוֹיָקִים‎]]</big>**, **<big>[[H3361|‎יׇקְמְעָם‎]]</big>**.
 - § Jekameam = *"let the people rise"*
 - ***Jekamam***, an Israelite
 

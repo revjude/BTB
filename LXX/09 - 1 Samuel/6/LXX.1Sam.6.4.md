@@ -7,19 +7,19 @@ Then said they, What [shall be] the trespass offering which we shall return to h
 “What guilt offering should we send back to Him?” asked the Philistines. “Five gold tumors and five gold rats,” they said, “according to the number of rulers of the Philistines, since the same plague has struck both you and your rulers.<small><sub>**MT:**</sub></small>
 [[1Sam.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.3|<< 1 Samuel 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.5|1 Samuel 6:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they say, | <big><span class="asgreek">λέγουσι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| torment | <big><span class="asgreek">βασάνου</span></big> <sup><small><small>[[G0931]]</small></small></sup> |
-| shall we give | <big><span class="asgreek">αποδώσομεν</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| for it? | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they say, | **<big>[[G3004\|λέγουσι]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[thing\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| torment | **<big>[[G0931\|βασάνου]]</big>** |
+| shall we give | **<big>[[G0591\|αποδώσομεν]]</big>** |
+| for it? | **<big>[[G1473\|αυτή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπον]]</big>** |
 [[1Sam.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.3|<< 1 Samuel 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.5|1 Samuel 6:5 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Thebez</span>, a Canaanite city where Abimelech was fatally wounded by a millstone thrown by a woman \(Judg. 9:50-54; 2 Sam. 11:21\).
 - A location first mentioned at Jdg.9.50; 
-- only referred to as Thebez<[[H8405]]> \(<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ץ</span>\).
+- only referred to as Thebez **<big>[[H8405|תֵּבֵץ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.3241024517848,35.36825275634464&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Thebez was a Canaanite city mentioned in the story of Abimelech, the son of Gide
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Thebez | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ץ</span>](H8405) <small>*Hebrew*</small> | 3x | [[Jdg.9.50a] ... [2Sa.11.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Thebez\*\|reference=Jdg.9.50;Jdg.9.50;2Sa.11.21) |
-All Strong's for **Thebez**: \[[[H8405]]\]
+| Thebez | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ב</span>ֵ<span class='tipnrLangHebrew'>ץ</span>](H8405) | 3x | [[Jdg.9.50a] ... [2Sa.11.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Thebez\*\|reference=Jdg.9.50;Jdg.9.50;2Sa.11.21) |
+All entries for **Thebez**:  **<big>[[H8405|תֵּבֵץ]]</big>**

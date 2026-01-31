@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רַעְמָה‎</span></big> **raʻmâh** <small>*(rah-maw')*</small> ==**mane**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎רַעַם‎</span><sup><small>[[H7482]]</small></sup></small>
+**<big><span class="ashebrew">‎רַעְמָה‎</span></big>** **raʻmâh** <small>*(rah-maw')*</small> ==**mane**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H7482|‎רַעַם‎]]</big>**</small>
 
 $\quad$ thunder.
 - ***the mane of a horse*** (as quivering in the wind)

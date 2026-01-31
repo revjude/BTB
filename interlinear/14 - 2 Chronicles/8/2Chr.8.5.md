@@ -6,22 +6,22 @@ He rebuilt Upper and Lower Beth-horon as fortified cities with walls, gates, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.4|<< 2 Chronicles 8:4]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.6|2 Chronicles 8:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he built  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּ֜בֶן </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yi.ven <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵּ֤ית </big></span><small><small><sup>[[H1032H]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Horon  | <span class="ashebrew"><big>חוֹרוֹן֙ </big></span><small><small><sup>[[H1032H]]</sup></small></small> &#8207;| cho.rOn <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> upper  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עֶלְי֔וֹן </big></span><small><small><sup>[[H5945G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'el.Yon <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1032I]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Horon  | <span class="ashebrew"><big>חוֹר֖וֹן </big></span><small><small><sup>[[H1032I]]</sup></small></small> &#8207;| cho.Ron <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> lower  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>תַּחְתּ֑וֹן </big></span><small><small><sup>[[H8481G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> tach.Ton <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cities of  | <span class="ashebrew"><big>עָרֵ֣י </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'a.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fortification  | <span class="ashebrew"><big>מָצ֔וֹר </big></span><small><small><sup>[[H4692]]</sup></small></small> &#8207;| ma.Tzor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| walls  | <span class="ashebrew"><big>חוֹמ֖וֹת </big></span><small><small><sup>[[H2346G]]</sup></small></small> &#8207;| cho.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| doors  | <span class="ashebrew"><big>דְּלָתַ֥יִם </big></span><small><small><sup>[[H1817C]]</sup></small></small> &#8207;| de.la.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and bar[s]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְרִֽיחַ </big></span><small><small><sup>[[H1280]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Ri.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֜בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1032H\|בֵּ֤ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Horon  |**<big>&#8207;[[H1032H\|חוֹרוֹן֙]]&#8207; </big>**| cho.rOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> upper  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5945G\|עֶלְי֔וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'el.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1032I\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Horon  |**<big>&#8207;[[H1032I\|חוֹר֖וֹן]]&#8207; </big>**| cho.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> lower  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8481G\|תַּחְתּ֑וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tach.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities of  |**<big>&#8207;[[H5892B\|עָרֵ֣י]]&#8207; </big>**| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fortification  |**<big>&#8207;[[H4692\|מָצ֔וֹר]]&#8207; </big>**| ma.Tzor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| walls  |**<big>&#8207;[[H2346G\|חוֹמ֖וֹת]]&#8207; </big>**| cho.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| doors  |**<big>&#8207;[[H1817C\|דְּלָתַ֥יִם]]&#8207; </big>**| de.la.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bar[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1280\|בְרִֽיחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Ri.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.4|<< 2 Chronicles 8:4]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.6|2 Chronicles 8:6 >>]]</td></tr></table>
 
 

@@ -7,34 +7,34 @@ Wherefore I perceive that [there is] nothing better, than that a man should rejo
 I have seen that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will come after him?<small><sub>**MT:**</sub></small>
 [[Eccl.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.21|<< Ecclesiastes 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.1|Ecclesiastes 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| except | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| where | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his actions; | <big><span class="asgreek">ποιήμασιν</span></big> <sup><small><small>[[G4161]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it \[is\] | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| his portion. | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will lead | <big><span class="asgreek">άξει</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to see | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should take place | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| good, | **<big>[[G0018\|αγαθόν]]</big>** |
+| except | **<big>[[G1508\|ει μη]]</big>** |
+| where | **<big>[[G3739\|ο]]</big>** |
+| shall be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his actions; | **<big>[[G4161\|ποιήμασιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| it \[is\] | **<big>[[G1473\|αυτό]]</big>** |
+| his portion. | **<big>[[G3310\|μερίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| will lead | **<big>[[G0071\|άξει]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to see | **<big>[[G1492\|ιδείν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| what | **<big>[[G3739\|ω]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should take place | **<big>[[G1096\|γένηται]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| him? | **<big>[[G1473\|αυτόν]]</big>** |
 [[Eccl.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.21|<< Ecclesiastes 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.1|Ecclesiastes 4:1 >>]]</td></tr></table>
 
 

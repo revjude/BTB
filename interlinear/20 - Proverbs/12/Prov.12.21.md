@@ -6,16 +6,16 @@ No harm befalls the righteous, but the wicked are filled with trouble.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.20|<< Proverbs 12:20]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.22|Proverbs 12:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it happens  | <span class="ashebrew"><big>יְאֻנֶּ֣ה </big></span><small><small><sup>[[H0579]]</sup></small></small> &#8207;| ye.'u.Neh <small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the righteous  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>צַּדִּ֣יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trouble  | <span class="ashebrew"><big>אָ֑וֶן </big></span><small><small><sup>[[H0205H]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and wicked [people]  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רְשָׁעִ֗ים </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are full  | <span class="ashebrew"><big>מָ֣לְאוּ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| Mal.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| distress  | <span class="ashebrew"><big>רָֽע </big></span><small><small><sup>[[H7451B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it happens  |**<big>&#8207;[[H0579\|יְאֻנֶּ֣ה]]&#8207; </big>**| ye.'u.Neh<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the righteous  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6662\|צַּדִּ֣יק]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  |**<big>&#8207;[[H0205H\|אָ֑וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wicked [people]  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H7563\|רְשָׁעִ֗ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are full  |**<big>&#8207;[[H4390\|מָ֣לְאוּ]]&#8207; </big>**| Mal.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| distress  |**<big>&#8207;[[H7451B\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.20|<< Proverbs 12:20]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.22|Proverbs 12:22 >>]]</td></tr></table>
 
 

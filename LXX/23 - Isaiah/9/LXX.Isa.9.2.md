@@ -11,28 +11,28 @@ The people walking in darkness have seen a great light; on those living in the l
 > $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]] ☩ [[Luke.1.79|Luke 1:79]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευόμενος</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a place | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| of death, | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| shall radiate | <big><span class="asgreek">λάμψει</span></big> <sup><small><small>[[G2989]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| going | **<big>[[G4198\|πορευόμενος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| darkness | **<big>[[G4655\|σκότει]]</big>** |
+| beheld | **<big>[[G1492\|είδε]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| a great | **<big>[[G3173\|μέγα]]</big>** |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a place | **<big>[[G5561\|χώρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shadow | **<big>[[G4639\|σκιά]]</big>** |
+| of death, | **<big>[[G2288\|θανάτου]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| shall radiate | **<big>[[G2989\|λάμψει]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
 [[Isa.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.1|<< Isaiah 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.3|Isaiah 9:3 >>]]</td></tr></table>
 
 

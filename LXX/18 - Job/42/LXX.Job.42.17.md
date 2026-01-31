@@ -7,14 +7,14 @@ So Job died, [being] old and full of days.
 And so Job died, old and full of years.<small><sub>**MT:**</sub></small>
 [[Job.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.16|<< Job 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.1|Psalm 1:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Job came to an end | <big><span class="asgreek">ετελεύτησεν</span></big> <sup><small><small>[[G5053]]</small></small></sup> <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| an old man | <big><span class="asgreek">πρεσβύτερος</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| of days. | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Job came to an end | **<big>[[G5053\|ετελεύτησεν]]</big>** **<big>[[G2492\|Ιωβ]]</big>** |
+| an old man | **<big>[[G4245\|πρεσβύτερος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| full | **<big>[[G4134\|πλήρης]]</big>** |
+| of days. | **<big>[[G2250\|ημερών]]</big>** |
 [[Job.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.16|<< Job 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.1|Psalm 1:1 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<small>Also see: [[H4693]]</small>
+<small>Also see: **<big>[[H4693|מָצוֹר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מָצוֺר‎</span> **noun [masculine]** ==siege-enclosure, siege, entrenchment==; — always <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> absolute, except construct <span class="bdbLangHebrew">‎מְצוֺר‎</span> [[Ezek.4.7|Ezek 4:7]] suffix <span class="bdbLangHebrew">‎מְצוּרֶ֑ךָ‎</span> v[[Ezek.4.8|Ezek 4:8]] — 
 

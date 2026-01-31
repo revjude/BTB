@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּגְעִיאֵל‎</span></big> **Pagʻîyʼêl** <small>*(pag-ee-ale')*</small> ==**Pagiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פֶּגַע‎</span><sup><small>[[H6294]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; accident of God</small>
+**<big><span class="ashebrew">‎פַּגְעִיאֵל‎</span></big>** **Pagʻîyʼêl** <small>*(pag-ee-ale')*</small> ==**Pagiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6294|‎פֶּגַע‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; accident of God</small>
 
 $\quad$ Pagiel.
 - § Pagiel = *"event of God"*

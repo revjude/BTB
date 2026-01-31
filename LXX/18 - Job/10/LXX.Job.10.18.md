@@ -7,20 +7,20 @@ Wherefore then hast thou brought me forth out of the womb? Oh that I had given u
 Why then did You bring me from the womb? Oh, that I had died, and no eye had seen me!<small><sub>**MT:**</sub></small>
 [[Job.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.17|<< Job 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.19|Job 10:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| did you lead me out, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εξήγαγες</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die, | <big><span class="asgreek">απέθανον</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| that an eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] belly | **<big>[[G2836\|κοιλίας]]</big>** |
+| did you lead me out, | **<big>[[G1473\|με]]</big>** **<big>[[G1806\|εξήγαγες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| die, | **<big>[[G0599\|απέθανον]]</big>** |
+| that an eye | **<big>[[G3788\|οφθαλμός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| see | **<big>[[G1492\|είδε]]</big>** |
 [[Job.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.17|<< Job 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.19|Job 10:19 >>]]</td></tr></table>
 
 

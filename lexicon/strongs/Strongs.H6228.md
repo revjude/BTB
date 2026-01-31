@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָשָׁן‎</span></big> **ʻÂshân** <small>*(aw-shawn')*</small> ==**Ashan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עָשָׁן‎</span><sup><small>[[H6227]]</small></sup></small>
+**<big><span class="ashebrew">‎עָשָׁן‎</span></big>** **ʻÂshân** <small>*(aw-shawn')*</small> ==**Ashan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H6227|‎עָשָׁן‎]]</big>**</small>
 
 $\quad$ Ashan.
 - § Ashan = *"smoke"*

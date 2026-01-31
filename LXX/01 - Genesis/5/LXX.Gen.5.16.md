@@ -7,24 +7,24 @@ And Mahalaleel lived after he begat Jared eight hundred and thirty years, and be
 And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
 [[Gen.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.15|<< Genesis 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.17|Genesis 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mahalaleel lived | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Μαλελεήλ</span></big> <sup><small><small>[[G3121]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his procreating | <big><span class="asgreek">γεννήσαι</span></big> <sup><small><small>[[G1080]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jared, | <big><span class="asgreek">Ιάρεδ</span></big> <sup><small><small>[[G2391]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven hundred | <big><span class="asgreek">επτακόσια</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he procreated | <big><span class="asgreek">εγέννησεν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Mahalaleel lived | **<big>[[G2198\|έζησε]]</big>** **<big>[[G3121\|Μαλελεήλ]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his procreating | **<big>[[G1080\|γεννήσαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jared, | **<big>[[G2391\|Ιάρεδ]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven hundred | **<big>[[G7485\|επτακόσια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he procreated | **<big>[[G1080\|εγέννησεν]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| daughters. | **<big>[[G2364\|θυγατέρας]]</big>** |
 [[Gen.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.15|<< Genesis 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.17|Genesis 5:17 >>]]</td></tr></table>
 
 

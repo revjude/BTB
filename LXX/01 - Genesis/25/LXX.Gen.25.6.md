@@ -7,30 +7,30 @@ But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and 
 But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east.<small><sub>**MT:**</sub></small>
 [[Gen.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.5|<< Genesis 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.7|Genesis 25:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his concubines | <big><span class="asgreek">παλλακών</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abraham gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| gifts. | <big><span class="asgreek">δόματα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντος</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \[while\] he was | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] east. | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his concubines | **<big>[[G8589\|παλλακών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Abraham gave | **<big>[[G1325\|έδωκεν]]</big>** **<big>[[G0011\|Αβραάμ]]</big>** |
+| gifts. | **<big>[[G1390\|δόματα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G1821\|εξαπέστειλεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his son | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| living | **<big>[[G2198\|ζώντος]]</big>** |
+| \[while\] he was | **<big>[[G1473\|αυτού]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] east. | **<big>[[G0395\|ανατολών]]</big>** |
 [[Gen.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.5|<< Genesis 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.7|Genesis 25:7 >>]]</td></tr></table>
 
 

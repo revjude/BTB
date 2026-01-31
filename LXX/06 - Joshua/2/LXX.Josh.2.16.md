@@ -7,39 +7,39 @@ And she said unto them, Get you to the mountain, lest the pursuers meet you; and
 “Go to the hill country,” she said, “so that your pursuers will not find you. Hide yourselves there for three days until they have returned; then go on your way.”<small><sub>**MT:**</sub></small>
 [[Josh.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.15|<< Joshua 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.17|Joshua 2:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountainous area | <big><span class="asgreek">ορεινήν</span></big> <sup><small><small>[[G3714]]</small></small></sup> |
-| Go forth | <big><span class="asgreek">απέλθατε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \[there\] should meet up with | <big><span class="asgreek">συναντήσωσιν</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones pursuing! | <big><span class="asgreek">καταδιώκοντες</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be hidden | <big><span class="asgreek">κρυβήσεσθε</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should return | <big><span class="asgreek">αποστρέψωσιν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pursuing | <big><span class="asgreek">καταδιώκοντες</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall go forth | <big><span class="asgreek">απελεύσεσθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your way. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| mountainous area | **<big>[[G3714\|ορεινήν]]</big>** |
+| Go forth | **<big>[[G0565\|απέλθατε]]</big>** |
+| lest | **<big>[[G3361\|μη]]</big>** |
+| \[there\] should meet up with | **<big>[[G4876\|συναντήσωσιν]]</big>** |
+| you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones pursuing! | **<big>[[G2614\|καταδιώκοντες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be hidden | **<big>[[G2928\|κρυβήσεσθε]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should return | **<big>[[G0654\|αποστρέψωσιν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| pursuing | **<big>[[G2614\|καταδιώκοντες]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| this | **<big>[[G3778\|ταύτα]]</big>** |
+| you shall go forth | **<big>[[G0565\|απελεύσεσθε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your way. | **<big>[[G3598\|οδόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Josh.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.15|<< Joshua 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.17|Joshua 2:17 >>]]</td></tr></table>
 
 

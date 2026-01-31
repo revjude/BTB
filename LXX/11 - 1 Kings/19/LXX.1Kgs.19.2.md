@@ -7,34 +7,34 @@ Then Jezebel sent a messenger unto Elijah, saying, So let the gods do [to me], a
 So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!”<small><sub>**MT:**</sub></small>
 [[1Kgs.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.1|<< 1 Kings 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.3|1 Kings 19:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jezebel sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Ιεζάβελ</span></big> <sup><small><small>[[G2403]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Elijah, | <big><span class="asgreek">Ηλίαν</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσαισάν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| may they add, | <big><span class="asgreek">προσθείησαν</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hour | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| I shall put | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \[the\] life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| of them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jezebel sent | **<big>[[G0649\|απέστειλεν]]</big>** **<big>[[G2403\|Ιεζάβελ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Elijah, | **<big>[[G2243\|Ηλίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| do | **<big>[[G4160\|ποιήσαισάν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| gods | **<big>[[G2316\|θεοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| may they add, | **<big>[[G4369\|προσθείησαν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| this | **<big>[[G3778\|ταύτην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hour | **<big>[[G5610\|ώραν]]</big>** |
+| tomorrow | **<big>[[G0839\|αύριον]]</big>** |
+| I shall put | **<big>[[G5087\|θήσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your life | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \[the\] life | **<big>[[G5590\|ψυχήν]]</big>** |
+| of one | **<big>[[G1520\|ενός]]</big>** **<big>[[G1537\|εξ]]</big>** |
+| of them. | **<big>[[G1473\|αυτών]]</big>** |
 [[1Kgs.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.1|<< 1 Kings 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.3|1 Kings 19:3 >>]]</td></tr></table>
 
 

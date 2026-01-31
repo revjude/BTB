@@ -35,7 +35,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Hos.1.10|10]]**<span class="e
 
 [^12]: [[Hos.1|Hos 1:6]], [[Hos.1|Hos 1:9]]; [[Isa.7|Isa 7:14]], [[Isa.9|Isa 9:6]]; [[Matt.1|Matt 1:21]]; [[Luke.1|Luke 1:13]], [[Luke.1|Luke 1:31]], [[Luke.1|Luke 1:63]]; [[John.1|John 1:42]]
 
-[^13]: <span class="asgreek"><span class='asgreek'>ιζψς</span>ΰ<span class='asgreek'>μ</span></span> (<span class="ashebrew">‎יִזְרְעֵאל‎</span><sup><small>[[H3157]]</small></sup>), God will disperse, as seed is when sown; probably intimating also the speedy dispersion of Israel by Shalmaneser.
+[^13]: <span class="asgreek"><span class='asgreek'>ιζψς</span>ΰ<span class='asgreek'>μ</span></span> ( [[H3157|‎יִזְרְעֵאל‎]] ), God will disperse, as seed is when sown; probably intimating also the speedy dispersion of Israel by Shalmaneser.
 
 [^14]: [[2Kgs.9|2Kgs 9:24-25]], [[2Kgs.10|2Kgs 10:7-8]], [[2Kgs.10|2Kgs 10:10-11]], [[2Kgs.10|2Kgs 10:17]], [[2Kgs.10|2Kgs 10:29-31]], [[2Kgs.15|2Kgs 15:10-12]]
 

@@ -7,33 +7,33 @@ And in that day they shall roar against them like the roaring of the sea: and if
 In that day they will roar over it, like the roaring of the sea. If one looks over the land, he will see darkness and distress; even the light will be obscured by clouds.<small><sub>**MT:**</sub></small>
 [[Isa.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.29|<< Isaiah 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.1|Isaiah 6:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall yell | <big><span class="asgreek">βοήσει</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| swelling up. | <big><span class="asgreek">κυμαινούσης</span></big> <sup><small><small>[[G8121]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall look | <big><span class="asgreek">εμβλέψονται</span></big> <sup><small><small>[[G1689]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| upward | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| below; | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| a hard | <big><span class="asgreek">σκληρόν</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their perplexity. | <big><span class="asgreek">απορία</span></big> <sup><small><small>[[G0640]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall yell | **<big>[[G0994\|βοήσει]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνή]]</big>** |
+| of \[the\] sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| swelling up. | **<big>[[G8121\|κυμαινούσης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall look | **<big>[[G1689\|εμβλέψονται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| upward | **<big>[[G0507\|άνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| below; | **<big>[[G2736\|κάτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| darkness | **<big>[[G4655\|σκότος]]</big>** |
+| a hard | **<big>[[G4642\|σκληρόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their perplexity. | **<big>[[G0640\|απορία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.29|<< Isaiah 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.1|Isaiah 6:1 >>]]</td></tr></table>
 
 

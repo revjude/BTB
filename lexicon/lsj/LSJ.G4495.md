@@ -1,4 +1,4 @@
-spelling of: <small>[[G4496]]</small> 
+spelling of: <small>**<big>[[G4496|ῥίπτω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ῥιπτέω==</span>-<span class='asgreek'>ω</span></b>, 

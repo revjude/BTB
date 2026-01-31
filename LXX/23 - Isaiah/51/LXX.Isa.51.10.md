@@ -7,26 +7,26 @@ Are you not her making desolate \[the\] sea, \[the\] abundance of \[the\] deep w
 Was it not You who dried up the sea, the waters of the great deep, who made a road in the depths of the sea for the redeemed to cross over?<small><sub>**MT:**</sub></small>
 [[Isa.51.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| her | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making desolate | <big><span class="asgreek">ερημούσα</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| \[the\] sea, | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of \[the\] deep | <big><span class="asgreek">αβύσσου</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| \[the\] abundance | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| putting | <big><span class="asgreek">θείσα</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| depths | <big><span class="asgreek">βάθη</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| for a way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of a ford | <big><span class="asgreek">διαβάσεως</span></big> <sup><small><small>[[G6810]]</small></small></sup> |
-| to \[the\] ones being rescued, | <big><span class="asgreek">ρυομένοις</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| not | **<big>[[G3756\|ου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| Are | **<big>[[G1510\|ει]]</big>** |
+| her | **<big>[[G3588\|η]]</big>** |
+| making desolate | **<big>[[G2049\|ερημούσα]]</big>** |
+| \[the\] sea, | **<big>[[G2281\|θάλασσαν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of \[the\] deep | **<big>[[G0012\|αβύσσου]]</big>** |
+| \[the\] abundance | **<big>[[G4128\|πλήθος]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| putting | **<big>[[G5087\|θείσα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| depths | **<big>[[G0899\|βάθη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| for a way | **<big>[[G3598\|οδόν]]</big>** |
+| of a ford | **<big>[[G6810\|διαβάσεως]]</big>** |
+| to \[the\] ones being rescued, | **<big>[[G4506\|ρυομένοις]]</big>** |
 [[Isa.51.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 
 

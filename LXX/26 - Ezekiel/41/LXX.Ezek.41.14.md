@@ -7,21 +7,21 @@ Also the breadth of the face of the house, and of the separate place toward the 
 The width of the temple courtyard on the east, including the front of the temple, was a hundred cubits.<small><sub>**MT:**</sub></small>
 [[Ezek.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.13|<< Ezekiel 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.15|Ezekiel 41:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple, | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[spaces\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left over | <big><span class="asgreek">απόλοιπα</span></big> <sup><small><small>[[G6458]]</small></small></sup> |
-| opposite -- | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| temple, | **<big>[[G3485\|ναού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[spaces\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| left over | **<big>[[G6458\|απόλοιπα]]</big>** |
+| opposite -- | **<big>[[G2713\|κατέναντι]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
 [[Ezek.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.13|<< Ezekiel 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.15|Ezekiel 41:15 >>]]</td></tr></table>
 
 

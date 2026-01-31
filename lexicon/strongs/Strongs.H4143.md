@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוּסָד‎</span></big> **mûwçâd** <small>*(moo-sawd')*</small> ==**foundation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָסַד‎</span><sup><small>[[H3245]]</small></sup></small>
+**<big><span class="ashebrew">‎מוּסָד‎</span></big>** **mûwçâd** <small>*(moo-sawd')*</small> ==**foundation**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3245|‎יָסַד‎]]</big>**</small>
 
 $\quad$ foundation.
 - ***a foundation***

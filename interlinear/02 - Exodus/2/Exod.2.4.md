@@ -10,15 +10,15 @@ And his sister stood at a distance to see what would happen to him.
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she stood  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּתַצַּ֥ב </big></span><small><small><sup>[[H3320]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> te.ta.Tzav <small><sup>[[HVtw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sister his  | <span class="ashebrew"><big>אֲחֹת֖ </big></span><small><small><sup>[[H0269]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.cho.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a distance  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רָחֹ֑ק </big></span><small><small><sup>[[H7350]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> ra.Chok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to know  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דֵעָ֕ה </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> de.'Ah <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will it be done  | <span class="ashebrew"><big>יֵּעָשֶׂ֖ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ye.'a.Seh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  | <span class="ashebrew"><big>לֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3320\|תֵּתַצַּ֥ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ta.Tzav<small><sup>[[HVtw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sister his  |**<big>&#8207;[[H0269\|אֲחֹת֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a distance  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7350\|רָחֹ֑ק]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to know  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3045\|דֵעָ֕ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> de.'Ah<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will it be done  |**<big>&#8207;[[H6213A\|יֵּעָשֶׂ֖ה]]&#8207; </big>**| ye.'a.Seh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.3|<< Exodus 2:3]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.5|Exodus 2:5 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎חֲרַךְ‎</span> <small>***(cha.rakh)***</small> ==**to singe**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2787]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2787|חָרַר]]</big>**</small> 
 
-- Aramaic of <i>cha.rar</i> (<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ר‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to scorch" [[H2787]])
+- Aramaic of <i>cha.rar</i> (<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ר‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to scorch" **<big>[[H2787|חָרַר]]</big>**)

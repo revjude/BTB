@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ἀνακαινόω‎</span></big> **anakainóō** <small>*(an-ak-ahee-no'-o)*</small> ==**to renew**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">ἀνά</span><sup><small>[[G0303]]</small></sup> and a derivative of <span class="asgreek">καινός</span><sup><small>[[G2537]]</small></sup></small>
+**<big><span class="asgreek">‎ἀνακαινόω‎</span></big>** **anakainóō** <small>*(an-ak-ahee-no'-o)*</small> ==**to renew**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G0303|‎ἀνά‎]]</big>** and a derivative of **<big>[[G2537|‎καινός‎]]</big>**</small>
 
 $\quad$ renew.
 - to renovate

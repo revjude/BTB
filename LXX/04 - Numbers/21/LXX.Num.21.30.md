@@ -7,23 +7,23 @@ We have shot at them; Heshbon is perished even unto Dibon, and we have laid them
 But we have overthrown them; Heshbon is destroyed as far as Dibon. We demolished them as far as Nophah, which reaches to Medeba.”<small><sub>**MT:**</sub></small>
 [[Num.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.29|<< Numbers 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.31|Numbers 21:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall perish -- | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| Heshbon | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Dibon. | <big><span class="asgreek">Δαίβων</span></big> <sup><small><small>[[H1769]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| burn | <big><span class="asgreek">προσεξέκαυσαν</span></big> <sup><small><small>[[G8918]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Moab. | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall perish -- | **<big>[[G0622\|απολείται]]</big>** |
+| Heshbon | **<big>[[H2809\|Εσεβών]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Dibon. | **<big>[[H1769\|Δαίβων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their women | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| burn | **<big>[[G8918\|προσεξέκαυσαν]]</big>** |
+| a fire | **<big>[[G4442\|πυρ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Moab. | **<big>[[H6355\|Μωάβ]]</big>** |
 [[Num.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.29|<< Numbers 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.31|Numbers 21:31 >>]]</td></tr></table>
 
 

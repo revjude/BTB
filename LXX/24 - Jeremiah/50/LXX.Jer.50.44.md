@@ -7,46 +7,46 @@ Behold, he shall come up like a lion from the swelling of Jordan unto the habita
 Behold, one will come up like a lion from the thickets of the Jordan to the watered pasture. For in an instant I will chase Babylon from her land. Who is the chosen one I will appoint for this? For who is like Me, and who can challenge Me? What shepherd can stand against Me?”<small><sub>**MT:**</sub></small>
 [[Jer.50.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.43|<< Jeremiah 50:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.45|Jeremiah 50:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a lion, | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| he shall ascend | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| Aithan. | <big><span class="asgreek">Αιθάν</span></big> <sup><small><small>[[H0387]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχέως</span></big> <sup><small><small>[[G5030]]</small></small></sup> |
-| I will drive them | <big><span class="asgreek">εκδιώξω</span></big> <sup><small><small>[[G1559]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| young man | <big><span class="asgreek">νεανίσκον</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will set | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall oppose | <big><span class="asgreek">αντιστήσεταί</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherd | <big><span class="asgreek">ποιμήν</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in front of | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| me? | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| as if | **<big>[[G5618\|ώσπερ]]</big>** |
+| a lion, | **<big>[[G3023\|λέων]]</big>** |
+| he shall ascend | **<big>[[G0305\|αναβήσεται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] place | **<big>[[G5117\|τόπον]]</big>** |
+| Aithan. | **<big>[[H0387\|Αιθάν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| quickly | **<big>[[G5030\|ταχέως]]</big>** |
+| I will drive them | **<big>[[G1559\|εκδιώξω]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| young man | **<big>[[G3495\|νεανίσκον]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| I will set | **<big>[[G2186\|επιστήσω]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] as | **<big>[[G5618\|ώσπερ]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| shall oppose | **<big>[[G0436\|αντιστήσεταί]]</big>** |
+| me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] this | **<big>[[G3778\|ούτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| shepherd | **<big>[[G4166\|ποιμήν]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| shall stand | **<big>[[G2476\|στήσεται]]</big>** |
+| in front of | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπόν]]</big>** |
+| me? | **<big>[[G1473\|μου]]</big>** |
 [[Jer.50.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.43|<< Jeremiah 50:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.45|Jeremiah 50:45 >>]]</td></tr></table>
 
 

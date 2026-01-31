@@ -6,17 +6,17 @@ The whole assembly numbered 42,360,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.63|<< Ezra 2:63]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.65|Ezra 2:65 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the assembly  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>קָּהָ֖ל </big></span><small><small><sup>[[H6951]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ka.Hal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| as one  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֶחָ֑ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four  | <span class="ashebrew"><big>אַרְבַּ֣ע </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.Ba' <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten thousand  | <span class="ashebrew"><big>רִבּ֔וֹא </big></span><small><small><sup>[[H7239]]</sup></small></small> &#8207;| ri.Bo' <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two thousand  | <span class="ashebrew"><big>אַלְפַּ֖יִם </big></span><small><small><sup>[[H0505G]]</sup></small></small> &#8207;| 'al.Pa.yim <small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשׁ </big></span><small><small><sup>[[H7969]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| she.losh- <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֥וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sixty  | <span class="ashebrew"><big>שִׁשִּֽׁים </big></span><small><small><sup>[[H8346]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| shi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the assembly  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6951\|קָּהָ֖ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Hal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as one  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0259\|אֶחָ֑ד]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  |**<big>&#8207;[[H0702\|אַרְבַּ֣ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten thousand  |**<big>&#8207;[[H7239\|רִבּ֔וֹא]]&#8207; </big>**| ri.Bo'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two thousand  |**<big>&#8207;[[H0505G\|אַלְפַּ֖יִם]]&#8207; </big>**| 'al.Pa.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.losh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֥וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  |**<big>&#8207;[[H8346\|שִׁשִּֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.63|<< Ezra 2:63]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.65|Ezra 2:65 >>]]</td></tr></table>
 
 

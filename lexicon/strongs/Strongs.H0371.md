@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִין‎</span></big> **ʼîyn** <small>*(een)*</small> ==**isn't?**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
-<small>apparently a shortened form of <span class="ashebrew">‎אַיִן‎</span><sup><small>[[H0369]]</small></sup>; but (like <span class="ashebrew">‎אַיִן‎</span><sup><small>[[H0370]]</small></sup>) an interrogative</small>
+**<big><span class="ashebrew">‎אִין‎</span></big>** **ʼîyn** <small>*(een)*</small> ==**isn't?**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
+<small>apparently a shortened form of **<big>[[H0369|‎אַיִן‎]]</big>**; but (like **<big>[[H0370|‎אַיִן‎]]</big>**) an interrogative</small>
 
 $\quad$ not.
 - ***is it not?***

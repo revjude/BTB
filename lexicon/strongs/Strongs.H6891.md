@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָרְתָן‎</span></big> **Tsârᵉthân** <small>*(tsaw-reth-awn')*</small> ==**Zarethan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>perhaps for <span class="ashebrew">‎צְרֵדָה‎</span><sup><small>[[H6868]]</small></sup></small>
+**<big><span class="ashebrew">‎צָרְתָן‎</span></big>** **Tsârᵉthân** <small>*(tsaw-reth-awn')*</small> ==**Zarethan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>perhaps for **<big>[[H6868|‎צְרֵדָה‎]]</big>**</small>
 
 $\quad$ Zarthan. q
 - § Zarthan or Zaretan = *"their distress"*

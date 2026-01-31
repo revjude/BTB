@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָשָׁה‎</span></big> **qâshâh** <small>*(kaw-shaw')*</small> ==**to harden**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָשָׁה‎</span></big>** **qâshâh** <small>*(kaw-shaw')*</small> ==**to harden**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be cruel, be fiercer, make grievous, be ((ask a), be in, have, seem, would) hard(-en, (labour), -ly, thing), be sore, (be, make) stiff(-en, (-necked)).
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1d3)** to make hard, make stiff, make stubborn
 $\quad$ $\quad$ $\quad$ **1d3a)** of obstinacy (fig)
 $\quad$ $\quad$ **1d4)** to show stubbornness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σκληρός</span><sup><small>[[G4642]]</small></sup> · <span class="asgreek">σκληρός</span><sup><small>[[G4642]]</small></sup> · <span class="asgreek">σκληρός</span><sup><small>[[G4642]]</small></sup> · <span class="asgreek">σκληρύνω</span><sup><small>[[G4645]]</small></sup> · <span class="asgreek">ὑπέρογκος</span><sup><small>[[G5246]]</small></sup>
+<small>See Greek: </small>**<big>[[G4642|σκληρός]]</big>** · **<big>[[G4642|σκληρός]]</big>** · **<big>[[G4642|σκληρός]]</big>** · **<big>[[G4645|σκληρύνω]]</big>** · **<big>[[G5246|ὑπέρογκος]]</big>**

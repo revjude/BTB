@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָרַס‎</span></big> **hâraç** <small>*(haw-ras')*</small> ==**to overthrow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎הָרַס‎</span></big>** **hâraç** <small>*(haw-ras')*</small> ==**to overthrow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beat down, break (down, through), destroy, overthrow, pluck down, pull down, ruin, throw down, [idiom] utterly.
@@ -14,4 +14,4 @@ $\quad$ **1c)** (Piel)
 $\quad$ $\quad$ **1c1)** to overthrow, tear down
 $\quad$ $\quad$ **1c2)** destroyer (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βιάζω</span><sup><small>[[G0971]]</small></sup> · <span class="asgreek">ἐγγίζω</span><sup><small>[[G1448]]</small></sup> · <span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup> · <span class="asgreek">καθαίρεσις</span><sup><small>[[G2506]]</small></sup> · <span class="asgreek">καθαιρέω</span><sup><small>[[G2507]]</small></sup> · <span class="asgreek">καταβάλλω</span><sup><small>[[G2598]]</small></sup> · <span class="asgreek">κατασκάπτω</span><sup><small>[[G2679]]</small></sup> · <span class="asgreek">καταστρέφω</span><sup><small>[[G2690]]</small></sup> · <span class="asgreek">ῥήγνυμι</span><sup><small>[[G4486]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup>
+<small>See Greek: </small>**<big>[[G0971|βιάζω]]</big>** · **<big>[[G1448|ἐγγίζω]]</big>** · **<big>[[G1808|ἐξαίρω]]</big>** · **<big>[[G2506|καθαίρεσις]]</big>** · **<big>[[G2507|καθαιρέω]]</big>** · **<big>[[G2598|καταβάλλω]]</big>** · **<big>[[G2679|κατασκάπτω]]</big>** · **<big>[[G2690|καταστρέφω]]</big>** · **<big>[[G4486|ῥήγνυμι]]</big>** · **<big>[[G4937|συντρίβω]]</big>**

@@ -7,34 +7,34 @@ And Abram and Nahor took them wives: the name of Abram’s wife [was] Sarai; and
 And Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah.<small><sub>**MT:**</sub></small>
 [[Gen.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.28|<< Genesis 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.30|Genesis 11:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nahor | <big><span class="asgreek">Ναχώρ</span></big> <sup><small><small>[[G3493]]</small></small></sup> |
-| to themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| wives. | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[The\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| \[was\] Sarai, | <big><span class="asgreek">Σάρα</span></big> <sup><small><small>[[H6881]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Nahor | <big><span class="asgreek">Ναχώρ</span></big> <sup><small><small>[[G3493]]</small></small></sup> |
-| \[was\] Milcha, | <big><span class="asgreek">Μελχά</span></big> <sup><small><small>[[H4435]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Haran. | <big><span class="asgreek">Αράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
-| And \[he was the\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Milcha, | <big><span class="asgreek">Μελχά</span></big> <sup><small><small>[[H4435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Iscah. | <big><span class="asgreek">Ιεσχά</span></big> <sup><small><small>[[H3252]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβον]]</big>** |
+| Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nahor | **<big>[[G3493\|Ναχώρ]]</big>** |
+| to themselves | **<big>[[G1438\|εαυτοίς]]</big>** |
+| wives. | **<big>[[G1135\|γυναίκας]]</big>** |
+| \[The\] name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|τη]]</big>** |
+| wife | **<big>[[G1135\|γυναικί]]</big>** |
+| of Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| \[was\] Sarai, | **<big>[[H6881\|Σάρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| of the | **<big>[[G3588\|τη]]</big>** |
+| wife | **<big>[[G1135\|γυναικί]]</big>** |
+| of Nahor | **<big>[[G3493\|Ναχώρ]]</big>** |
+| \[was\] Milcha, | **<big>[[H4435\|Μελχά]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Haran. | **<big>[[G5488\|Αράν]]</big>** |
+| And \[he was the\] | **<big>[[G2532\|και]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of Milcha, | **<big>[[H4435\|Μελχά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of Iscah. | **<big>[[H3252\|Ιεσχά]]</big>** |
 [[Gen.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.28|<< Genesis 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.30|Genesis 11:30 >>]]</td></tr></table>
 
 

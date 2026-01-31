@@ -1,6 +1,4 @@
-<span class="ashebrew">‎יִצְהָר‎</span> <small>***(yits.har)***</small> ==**Izhar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.18|Exo.6.18]]
--  son of: Kohath ([[H6955]])
--  brother of: Amram ([[H6019]]), Hebron ([[H2275B]]) and Uzziel ([[H5816]])
--  father of: Korah ([[H7141I]]), Nepheg ([[H5298]]), Zichri ([[H2147]]) and Shelomith ([[H8019A]])
-
+-  son of: Kohath (**<big>[[H6955|קְהָת]]</big>**)
+-  brother of: Amram (**<big>[[H6019|עַמְרָם]]</big>**), Hebron (**<big>[[H2275B|חֶבְרוֹן]]</big>**) and Uzziel (**<big>[[H5816|עֻזִּיאֵל]]</big>**)
+-  father of: Korah (**<big>[[H7141I|קֹרַח]]</big>**), Nepheg (**<big>[[H5298|נֶפֶג]]</big>**), Zichri (**<big>[[H2147|זִכְרִי]]</big>**) and Shelomith (**<big>[[H8019A|שְׁלֹמִית]]</big>**)

@@ -6,25 +6,25 @@ A song of ascents. Of Solomon. Unless the LORD builds the house, its builders la
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.127.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.0|<< Psalms 127:0]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.2|Psalms 127:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will build  | <span class="ashebrew"><big>יִבְנֶ֬ה </big></span><small><small><sup>[[H1129]]</sup></small></small> &#8207;| yiv.Neh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a house  | <span class="ashebrew"><big>בַ֗יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| Va.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vanity  | <span class="ashebrew"><big>שָׁ֤וְא </big></span><small><small><sup>[[H7723H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| shav' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have toiled  | <span class="ashebrew"><big>עָמְל֣וּ </big></span><small><small><sup>[[H5998]]</sup></small></small> &#8207;| 'a.me.Lu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| builders its  | <span class="ashebrew"><big>בוֹנָ֣י </big></span><small><small><sup>[[H1129]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| vo.Na <small><sup>[[HVqrmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in it  | <span class="ashebrew"><big>בּ֑ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| b <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will watch over  | <span class="ashebrew"><big>יִשְׁמָר </big></span><small><small><sup>[[H8104H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yish.mor- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a city  | <span class="ashebrew"><big>עִ֝֗יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'Ir <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vanity  | <span class="ashebrew"><big>שָׁ֤וְא </big></span><small><small><sup>[[H7723H]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| shav' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has kept awake  | <span class="ashebrew"><big>שָׁקַ֬ד </big></span><small><small><sup>[[H8245]]</sup></small></small> &#8207;| sha.Kad <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] watchman  | <span class="ashebrew"><big>שׁוֹמֵֽר </big></span><small><small><sup>[[H8104H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518J\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will build  |**<big>&#8207;[[H1129\|יִבְנֶ֬ה]]&#8207; </big>**| yiv.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a house  |**<big>&#8207;[[H1004B\|בַ֗יִת]]&#8207; </big>**| Va.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vanity  |**<big>&#8207;[[H7723H\|שָׁ֤וְא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have toiled  |**<big>&#8207;[[H5998\|עָמְל֣וּ]]&#8207; </big>**| 'a.me.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| builders its  |**<big>&#8207;[[H1129\|בוֹנָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| vo.Na<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  |**<big>&#8207;[[H9003\|בּ֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518J\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will watch over  |**<big>&#8207;[[H8104H\|יִשְׁמָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.mor-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a city  |**<big>&#8207;[[H5892B\|עִ֝֗יר]]&#8207; </big>**| 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vanity  |**<big>&#8207;[[H7723H\|שָׁ֤וְא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has kept awake  |**<big>&#8207;[[H8245\|שָׁקַ֬ד]]&#8207; </big>**| sha.Kad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] watchman  |**<big>&#8207;[[H8104H\|שׁוֹמֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.0|<< Psalms 127:0]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.2|Psalms 127:2 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ These also [shall be] unclean unto you among the creeping things that creep upon
 The following creatures that move along the ground are unclean for you: the mole, the mouse, any kind of great lizard,<small><sub>**MT:**</sub></small>
 [[Lev.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.28|<< Leviticus 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.30|Leviticus 11:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[are\] unclean to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ακάθαρτα</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling things, | <big><span class="asgreek">ερπετών</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling | <big><span class="asgreek">ερπόντων</span></big> <sup><small><small>[[G7508]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth -- | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weasel, | <big><span class="asgreek">γαλή</span></big> <sup><small><small>[[G6714]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mouse, | <big><span class="asgreek">μυς</span></big> <sup><small><small>[[G8367]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crocodile | <big><span class="asgreek">κροκόδειλος</span></big> <sup><small><small>[[G8098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dry land | <big><span class="asgreek">χερσαίος</span></big> <sup><small><small>[[G9718]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοια</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| \[are\] unclean to you | **<big>[[G1473\|υμίν]]</big>** **<big>[[G0169\|ακάθαρτα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| crawling things, | **<big>[[G2062\|ερπετών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| crawling | **<big>[[G7508\|ερπόντων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth -- | **<big>[[G1093\|γης]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| weasel, | **<big>[[G6714\|γαλή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| mouse, | **<big>[[G8367\|μυς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| crocodile | **<big>[[G8098\|κροκόδειλος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| dry land | **<big>[[G9718\|χερσαίος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| likened | **<big>[[G3664\|όμοια]]</big>** |
+| to it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Lev.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.28|<< Leviticus 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.30|Leviticus 11:30 >>]]</td></tr></table>
 
 

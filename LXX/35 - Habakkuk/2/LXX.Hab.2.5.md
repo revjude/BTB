@@ -10,43 +10,43 @@ Yea also, because he transgresseth by wine, [he is] a proud man, neither keepeth
 and wealth indeed betrays him. He is an arrogant man never at rest. He enlarges his appetite like Sheol, and like Death, he is never satisfied. He gathers all the nations to himself and collects all the peoples as his own.<small><sub>**MT:**</sub></small>
 [[Hab.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.4|<< Habakkuk 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.6|Habakkuk 2:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| one being arrogant | <big><span class="asgreek">κατοιόμενος</span></big> <sup><small><small>[[G7973]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| despising, | <big><span class="asgreek">καταφρονητής</span></big> <sup><small><small>[[G2707]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[the\] ostentatious | <big><span class="asgreek">αλαζών</span></big> <sup><small><small>[[G0213]]</small></small></sup> |
-| not one \[thing\] | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should he have achieved, | <big><span class="asgreek">περάνη</span></big> <sup><small><small>[[G8712]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| widened | <big><span class="asgreek">επλάτυνε</span></big> <sup><small><small>[[G4115]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδης</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| so | <big><span class="asgreek">όυτος</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| not being filled up, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εμπιπλάμενος</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall assemble | <big><span class="asgreek">επισυνάξει</span></big> <sup><small><small>[[G1996]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will take in | <big><span class="asgreek">εισδέξεται</span></big> <sup><small><small>[[G1523]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τούς</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples. | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| But the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| one being arrogant | **<big>[[G7973\|κατοιόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| despising, | **<big>[[G2707\|καταφρονητής]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| \[the\] ostentatious | **<big>[[G0213\|αλαζών]]</big>** |
+| not one \[thing\] | **<big>[[G3762\|ουθέν]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| should he have achieved, | **<big>[[G8712\|περάνη]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| widened | **<big>[[G4115\|επλάτυνε]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Hades | **<big>[[G0086\|άδης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| so | **<big>[[G3779\|όυτος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| death | **<big>[[G2288\|θάνατος]]</big>** |
+| not being filled up, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1705\|εμπιπλάμενος]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| he shall assemble | **<big>[[G1996\|επισυνάξει]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| himself | **<big>[[G1473\|αυτόν]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will take in | **<big>[[G1523\|εισδέξεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| himself | **<big>[[G1473\|αυτόν]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τούς]]</big>** |
+| peoples. | **<big>[[G2992\|λαούς]]</big>** |
 [[Hab.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.4|<< Habakkuk 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.6|Habakkuk 2:6 >>]]</td></tr></table>
 
 

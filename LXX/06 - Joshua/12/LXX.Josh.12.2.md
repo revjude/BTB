@@ -7,46 +7,46 @@ Sihon king of the Amorites, who dwelt in Heshbon, [and] ruled from Aroer, which 
 Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim of the Arnon Valley, along the middle of the valley, up to the Jabbok River (the border of the Ammonites), that is, half of Gilead,<small><sub>**MT:**</sub></small>
 [[Josh.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.1|<< Joshua 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.3|Joshua 12:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sihon | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites, | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Heshbon, | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| dominating | <big><span class="asgreek">κυριεύων</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Aroer, | <big><span class="asgreek">Αροήρ</span></big> <sup><small><small>[[H6177]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river bank | <big><span class="asgreek">χείλους</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγι</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Arnon, | <big><span class="asgreek">Αρνών</span></big> <sup><small><small>[[H0769]]</small></small></sup> |
-| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine, | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Jabbok | <big><span class="asgreek">Ιαβόκ</span></big> <sup><small><small>[[H2999]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rushing stream, | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| \[the\] borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon. | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Sihon | **<big>[[H5511\|Σηών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Amorites, | **<big>[[H0567\|Αμορραίων]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Heshbon, | **<big>[[H2809\|Εσεβών]]</big>** |
+| dominating | **<big>[[G2961\|κυριεύων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Aroer, | **<big>[[H6177\|Αροήρ]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| river bank | **<big>[[G5491\|χείλους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγι]]</big>** |
+| of Arnon, | **<big>[[H0769\|Αρνών]]</big>** |
+| in | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ravine, | **<big>[[G5327\|φάραγγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Jabbok | **<big>[[H2999\|Ιαβόκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| rushing stream, | **<big>[[G5493\|χειμάρρου]]</big>** |
+| \[the\] borders | **<big>[[G3725\|όρια]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon. | **<big>[[H5983\|Αμμών]]</big>** |
 [[Josh.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.1|<< Joshua 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.3|Joshua 12:3 >>]]</td></tr></table>
 
 

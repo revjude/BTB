@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָדַף‎</span></big> **nâdaph** <small>*(naw-daf')*</small> ==**to drive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָדַף‎</span></big>** **nâdaph** <small>*(naw-daf')*</small> ==**to drive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ drive (away, to and fro), thrust down, shaken, tossed to and fro.
@@ -8,4 +8,4 @@ $\quad$ drive (away, to and fro), thrust down, shaken, tossed to and fro.
 $\quad$ **1a)** (Qal) to drive about
 $\quad$ **1b)**(Niphal) to be driven, be driven about
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διώκω</span><sup><small>[[G1377]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐξωθέω</span><sup><small>[[G1856]]</small></sup> · <span class="asgreek">κινέω</span><sup><small>[[G2795]]</small></sup> · <span class="asgreek">ὀνειδίζω</span><sup><small>[[G3679]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup> · <span class="asgreek">φέρω</span><sup><small>[[G5342]]</small></sup>
+<small>See Greek: </small>**<big>[[G1377|διώκω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1856|ἐξωθέω]]</big>** · **<big>[[G2795|κινέω]]</big>** · **<big>[[G3679|ὀνειδίζω]]</big>** · **<big>[[G3947|παροξύνω]]</big>** · **<big>[[G5342|φέρω]]</big>**

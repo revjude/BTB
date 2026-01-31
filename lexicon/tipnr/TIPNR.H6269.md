@@ -1,7 +1,7 @@
 <small>*Athach • A town that received spoils from David's victory.*</small>
 
 <span class='tipnrhighlight'>Athach</span>, a town in Judah that received a share of the spoils from David's victory over the Amalekites.
-- A location near Hebron\(?\) only  mentioned at [[1Sam.30.30|1Sa.30.30]]; called Athach <[[H6269]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ת</span>ָ֑<span class='tipnrLangHebrew'>ך</span>ְ\)
+- A location near Hebron\(?\) only  mentioned at [[1Sam.30.30|1Sa.30.30]]; called Athach  **<big>[[H6269|עֲתָךְ]]</big>**
 
 Athach is mentioned briefly in [[1Sam.30.30|1 Samuel 30:30]] as one of the towns in Judah that received a portion of the spoils from David's victory over the Amalekites. After rescuing his men's families and recovering all that the Amalekites had taken, David sent gifts from the plunder to the elders of Judah and to his friends in various towns, including Athach. 
 
@@ -13,5 +13,5 @@ Apart from this single reference in 1 Samuel, no other information about Athach 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Athach (NIV= Athak) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ת</span>ָ֑<span class='tipnrLangHebrew'>ך</span>ְ](H6269) <small>*Hebrew*</small> | 1x | [1Sa.30.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athach\*\|reference=1Sa.30.30) |
-All Strong's for **Athach**: \[[[H6269]]\]
+| Athach (NIV= Athak) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ת</span>ָ֑<span class='tipnrLangHebrew'>ך</span>ְ](H6269) | 1x | [1Sa.30.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athach\*\|reference=1Sa.30.30) |
+All entries for **Athach**:  **<big>[[H6269|עֲתָךְ]]</big>**

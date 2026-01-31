@@ -6,17 +6,17 @@ He lies in wait near the villages; in ambush he slays the innocent; his eyes wat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.7|<< Psalms 10:7]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.9|Psalms 10:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he sits  | <span class="ashebrew"><big>יֵשֵׁ֤ב </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ye.Shev <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in an ambush of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מַאְרַ֬ב </big></span><small><small><sup>[[H3993]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ma'.Rav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| villages  | <span class="ashebrew"><big>חֲצֵרִ֗ים </big></span><small><small><sup>[[H2691B]]</sup></small></small> &#8207;| cha.tze.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> hiding places  | <span class="ashebrew"><big>בַּֽ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּסְתָּרִים </big></span><small><small><sup>[[H4565]]</sup></small></small> &#8207;| Ba. <small><sup>[[HRd]]</sup></small> mis.ta.rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he kills  | <span class="ashebrew"><big>יַהֲרֹ֣ג </big></span><small><small><sup>[[H2026]]</sup></small></small> &#8207;| ya.ha.Rog <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] innocent  | <span class="ashebrew"><big>נָקִ֑י </big></span><small><small><sup>[[H5355A]]</sup></small></small> &#8207;| na.Ki <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eyes his  | <span class="ashebrew"><big>עֵ֝ינָ֗י </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ei.Na <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for an unfortunate person  | <span class="ashebrew"><big>לְֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חֵלְכָ֥ה </big></span><small><small><sup>[[H2489]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> che.le.Khah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they lie hidden  | <span class="ashebrew"><big>יִצְפֹּֽנוּ </big></span><small><small><sup>[[H6845]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yitz.Po.nu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sits  |**<big>&#8207;[[H3427\|יֵשֵׁ֤ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.Shev<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in an ambush of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3993\|מַאְרַ֬ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma'.Rav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| villages  |**<big>&#8207;[[H2691B\|חֲצֵרִ֗ים]]&#8207; </big>**| cha.tze.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> hiding places  |**<big>&#8207;[[H9003\|בַּֽ֭]]&#8207;&#8207;[[H4565\|מִּסְתָּרִים]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> mis.ta.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he kills  |**<big>&#8207;[[H2026\|יַהֲרֹ֣ג]]&#8207; </big>**| ya.ha.Rog<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] innocent  |**<big>&#8207;[[H5355A\|נָקִ֑י]]&#8207; </big>**| na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes his  |**<big>&#8207;[[H5869A\|עֵ֝ינָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for an unfortunate person  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H2489\|חֵלְכָ֥ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> che.le.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they lie hidden  |**<big>&#8207;[[H6845\|יִצְפֹּֽנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yitz.Po.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.7|<< Psalms 10:7]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.9|Psalms 10:9 >>]]</td></tr></table>
 
 

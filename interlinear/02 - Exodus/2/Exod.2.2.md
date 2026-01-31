@@ -10,20 +10,20 @@ and she conceived and gave birth to a son. When she saw that he was a beautiful 
 > $\quad$ referenced by: [[Acts.7.20|Acts 7:20]] ☩ [[Heb.11.23|Heb 11:23]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she conceived  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תַּ֥הַר </big></span><small><small><sup>[[H2029]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Ta.har <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the woman  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אִשָּׁ֖ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she bore  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּ֣לֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Te.led <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּ֑ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| Ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she saw  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּ֤רֶא </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Te.re' <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> him  | <span class="ashebrew"><big>אֹת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] good  | <span class="ashebrew"><big>ט֣וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֔וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she hid him  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּצְפְּנֵ֖ </big></span><small><small><sup>[[H6845]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> titz.pe.Ne. <small><sup>[[HVqw3fs]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֥ה </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| months  | <span class="ashebrew"><big>יְרָחִֽים </big></span><small><small><sup>[[H3391]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ra.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she conceived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2029\|תַּ֥הַר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.har<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֣לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵּ֑ן]]&#8207; </big>**| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֤רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] good  |**<big>&#8207;[[H2896A\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she hid him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6845\|תִּצְפְּנֵ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> titz.pe.Ne.<small><sup>[[HVqw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֥ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| months  |**<big>&#8207;[[H3391\|יְרָחִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ra.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.1|<< Exodus 2:1]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.3|Exodus 2:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵץ‎</span></big> **chêts** <small>*(khayts)*</small> ==**arrow**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָצַץ‎</span><sup><small>[[H2686]]</small></sup>; also by interchange for <span class="ashebrew">‎עֵץ‎</span><sup><small>[[H6086]]</small></sup></small>
+**<big><span class="ashebrew">‎חֵץ‎</span></big>** **chêts** <small>*(khayts)*</small> ==**arrow**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2686|‎חָצַץ‎]]</big>**; also by interchange for **<big>[[H6086|‎עֵץ‎]]</big>**</small>
 
 $\quad$ [phrase] archer, arrow, dart, shaft, staff, wound.
 - properly, ***a piercer***, i.e. ***an arrow***
@@ -9,4 +9,4 @@ $\quad$ [phrase] archer, arrow, dart, shaft, staff, wound.
 
 **1)** arrow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βέλος</span><sup><small>[[G0956]]</small></sup> · <span class="asgreek">βολίς</span><sup><small>[[G1002]]</small></sup> · <span class="asgreek">τόξον</span><sup><small>[[G5115]]</small></sup>
+<small>See Greek: </small>**<big>[[G0956|βέλος]]</big>** · **<big>[[G1002|βολίς]]</big>** · **<big>[[G5115|τόξον]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַכּוּר‎</span></big> **Zakkûwr** <small>*(zaw-koor')*</small> ==**Zaccur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זָכַר‎</span><sup><small>[[H2142]]</small></sup>; mindful</small>
+**<big><span class="ashebrew">‎זַכּוּר‎</span></big>** **Zakkûwr** <small>*(zaw-koor')*</small> ==**Zaccur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2142|‎זָכַר‎]]</big>**; mindful</small>
 
 $\quad$ Zaccur, Zacchur.
 - § Zaccur or Zacchur = *"mindful"*

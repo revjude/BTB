@@ -6,24 +6,24 @@ But while the meat was still between their teeth, before it was chewed, the ange
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.32|<< Numbers 11:32]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.34|Numbers 11:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the meat  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּשָׂ֗ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ba.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still it  | <span class="ashebrew"><big>עוֹדֶ֙ </big></span><small><small><sup>[[H5750]]</sup></small></small> <span class="ashebrew"><big>נּוּ֙ </big></span><small><small><sup>[[H9043]]</sup></small></small> &#8207;| o.De. <small><sup>[[HAcmsc]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] between  | <span class="ashebrew"><big>בֵּ֣ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teeth their  | <span class="ashebrew"><big>שִׁנֵּי </big></span><small><small><sup>[[H8127G]]</sup></small></small> <span class="ashebrew"><big>הֶ֔ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| shi.nei. <small><sup>[[HNcfdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not yet  | <span class="ashebrew"><big>טֶ֖רֶם </big></span><small><small><sup>[[H2962]]</sup></small></small> &#8207;| Te.rem <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was chewed  | <span class="ashebrew"><big>יִכָּרֵ֑ת </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| yi.ka.Ret <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] anger of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַ֤ף </big></span><small><small><sup>[[H0639G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Af <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it burned  | <span class="ashebrew"><big>חָרָ֣ה </big></span><small><small><sup>[[H2734]]</sup></small></small> &#8207;| cha.Rah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the people  | <span class="ashebrew"><big>בָ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עָ֔ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he struck  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֤ךְ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yakh <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<on> the people  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עָ֔ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a plague  | <span class="ashebrew"><big>מַכָּ֖ה </big></span><small><small><sup>[[H4347]]</sup></small></small> &#8207;| ma.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>רַבָּ֥ה </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| very  | <span class="ashebrew"><big>מְאֹֽד </big></span><small><small><sup>[[H3966]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the meat  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1320\|בָּשָׂ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still it  |**<big>&#8207;[[H5750\|עוֹדֶ֙]]&#8207;&#8207;[[H9043\|נּוּ֙]]&#8207; </big>**| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] between  |**<big>&#8207;[[H0996G\|בֵּ֣ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teeth their  |**<big>&#8207;[[H8127G\|שִׁנֵּי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| shi.nei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not yet  |**<big>&#8207;[[H2962\|טֶ֖רֶם]]&#8207; </big>**| Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was chewed  |**<big>&#8207;[[H3772I\|יִכָּרֵ֑ת]]&#8207; </big>**| yi.ka.Ret<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] anger of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0639G\|אַ֤ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it burned  |**<big>&#8207;[[H2734\|חָרָ֣ה]]&#8207; </big>**| cha.Rah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the people  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֤ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<on> the people  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a plague  |**<big>&#8207;[[H4347\|מַכָּ֖ה]]&#8207; </big>**| ma.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H7227A\|רַבָּ֥ה]]&#8207; </big>**| ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.32|<< Numbers 11:32]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.34|Numbers 11:34 >>]]</td></tr></table>
 
 

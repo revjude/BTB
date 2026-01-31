@@ -7,40 +7,40 @@ And he shall judge among the nations, and shall rebuke many people: and they sha
 Then He will judge between the nations and arbitrate for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor train anymore for war.<small><sub>**MT:**</sub></small>
 [[Isa.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.3|<< Isaiah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.5|Isaiah 2:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall judge | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations; | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall completely refute | <big><span class="asgreek">εξελεγξει</span></big> <sup><small><small>[[G1827]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| many | <big><span class="asgreek">πολύν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall cut down | <big><span class="asgreek">συγκόψουσι</span></big> <sup><small><small>[[G9238]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their swords | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plows, | <big><span class="asgreek">άροτρα</span></big> <sup><small><small>[[G0723]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their pikes | <big><span class="asgreek">ζιβύνας</span></big> <sup><small><small>[[G7603]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| sickles. | <big><span class="asgreek">δρέπανα</span></big> <sup><small><small>[[G1407]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| a sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should they learn | <big><span class="asgreek">μάθωσιν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| to wage war. | <big><span class="asgreek">πολεμείν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall judge | **<big>[[G2919\|κρινεί]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations; | **<big>[[G1484\|εθνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall completely refute | **<big>[[G1827\|εξελεγξει]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| many | **<big>[[G4183\|πολύν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall cut down | **<big>[[G9238\|συγκόψουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their swords | **<big>[[G3162\|μαχαίρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| plows, | **<big>[[G0723\|άροτρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their pikes | **<big>[[G7603\|ζιβύνας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| sickles. | **<big>[[G1407\|δρέπανα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| take | **<big>[[G2983\|λήψεται]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| a sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should they learn | **<big>[[G3129\|μάθωσιν]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| to wage war. | **<big>[[G4170\|πολεμείν]]</big>** |
 [[Isa.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.3|<< Isaiah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.5|Isaiah 2:5 >>]]</td></tr></table>
 
 

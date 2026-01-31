@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹיָקִים‎</span></big> **Yᵉhôwyâqîym** <small>*(yeh-ho-yaw-keem')*</small> ==**Jehoiakim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> abbreviated and <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup>; Jehovah will raise</small>
+**<big><span class="ashebrew">‎יְהוֹיָקִים‎</span></big>** **Yᵉhôwyâqîym** <small>*(yeh-ho-yaw-keem')*</small> ==**Jehoiakim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** abbreviated and **<big>[[H6965|‎קוּם‎]]</big>**; Jehovah will raise</small>
 
-$\quad$ Jehoiakim. Compare <span class="ashebrew">‎יוֹיָקִים‎</span><sup><small>[[H3113]]</small></sup>.
+$\quad$ Jehoiakim. Compare **<big>[[H3113|‎יוֹיָקִים‎]]</big>**.
 - § Jehoiakim = *"Jehovah raises up"*
 - ***Jehojakim***, a Jewish king
 

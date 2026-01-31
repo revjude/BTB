@@ -7,53 +7,53 @@ In this thing the LORD pardon thy servant, [that] when my master goeth into the 
 Yet may the LORD forgive your servant this one thing: When my master goes into the temple of Rimmon to worship there, and he leans on my arm, and I bow down in the temple of Rimmon, may the LORD forgive your servant in this matter.”<small><sub>**MT:**</sub></small>
 [[2Kgs.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.17|<< 2 Kings 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.19|2 Kings 5:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter, | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall deal kindly | <big><span class="asgreek">ιλάσεταί</span></big> <sup><small><small>[[G2433]]</small></small></sup> |
-| with me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλω</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entering | <big><span class="asgreek">εισπορεύεσθαι</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my master | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Rimmon | <big><span class="asgreek">Ρεμάν</span></big> <sup><small><small>[[H7417a]]</small></small></sup> |
-| to do obeisance | <big><span class="asgreek">προσκυνήσαι</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall rest | <big><span class="asgreek">επαναπαύσεται</span></big> <sup><small><small>[[G1879]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand. | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall do obeisance | <big><span class="asgreek">προσκυνήσω</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Rimmon, | <big><span class="asgreek">Ρεμάν</span></big> <sup><small><small>[[H7417a]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his doing obeisance | <big><span class="asgreek">προσκυνείν</span></big> <sup><small><small>[[G4352]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Rimmon. | <big><span class="asgreek">Ρεμάν</span></big> <sup><small><small>[[H7417a]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall deal kindly | <big><span class="asgreek">ίλασεταί</span></big> <sup><small><small>[[G2433]]</small></small></sup> |
-| with me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλω</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this matter. | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this matter, | **<big>[[G3056\|λόγου]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| shall deal kindly | **<big>[[G2433\|ιλάσεταί]]</big>** |
+| with me | **<big>[[G1473\|μοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your servant | **<big>[[G1401\|δούλω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| entering | **<big>[[G1531\|εισπορεύεσθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of my master | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of Rimmon | **<big>[[H7417a\|Ρεμάν]]</big>** |
+| to do obeisance | **<big>[[G4352\|προσκυνήσαι]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall rest | **<big>[[G1879\|επαναπαύσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my hand. | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I shall do obeisance | **<big>[[G4352\|προσκυνήσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of Rimmon, | **<big>[[H7417a\|Ρεμάν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his doing obeisance | **<big>[[G4352\|προσκυνείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of Rimmon. | **<big>[[H7417a\|Ρεμάν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall deal kindly | **<big>[[G2433\|ίλασεταί]]</big>** |
+| with me | **<big>[[G1473\|μοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your servant | **<big>[[G1401\|δούλω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this matter. | **<big>[[G3056\|λόγου]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[2Kgs.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.17|<< 2 Kings 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.19|2 Kings 5:19 >>]]</td></tr></table>
 
 

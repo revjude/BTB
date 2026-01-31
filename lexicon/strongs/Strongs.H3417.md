@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָרָק‎</span></big> **yârâq** <small>*(yaw-rak')*</small> ==**to spit**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָרָק‎</span></big>** **yârâq** <small>*(yaw-rak')*</small> ==**to spit**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] but, spit.
@@ -6,4 +6,4 @@ $\quad$ [idiom] but, spit.
 
 **1)** (Qal) to spit
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπτύω</span><sup><small>[[G1716]]</small></sup> · <span class="asgreek">πτύω</span><sup><small>[[G4429]]</small></sup>
+<small>See Greek: </small>**<big>[[G1716|ἐμπτύω]]</big>** · **<big>[[G4429|πτύω]]</big>**

@@ -6,18 +6,18 @@ Now I know for sure that you will be king and that the kingdom of Israel will be
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.19|<< 1 Samuel 24:19]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.21|1 Samuel 24:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and therefore  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַתָּה֙ </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I know  | <span class="ashebrew"><big>יָדַ֔עְתִּי </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da'.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to reign>  | <span class="ashebrew"><big>מָלֹ֖ךְ </big></span><small><small><sup>[[H4427A]]</sup></small></small> &#8207;| ma.Lokh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will reign  | <span class="ashebrew"><big>תִּמְל֑וֹךְ </big></span><small><small><sup>[[H4427A]]</sup></small></small> &#8207;| tim.Lokh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will be established  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>קָ֙מָה֙ </big></span><small><small><sup>[[H6965I]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> Ka.mah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in hand your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָ֣דְ </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ya.de. <small><sup>[[HNcbsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] kingdom of  | <span class="ashebrew"><big>מַמְלֶ֖כֶת </big></span><small><small><sup>[[H4467]]</sup></small></small> &#8207;| mam.Le.khet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  |**<big>&#8207;[[H3045\|יָדַ֔עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to reign>  |**<big>&#8207;[[H4427A\|מָלֹ֖ךְ]]&#8207; </big>**| ma.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will reign  |**<big>&#8207;[[H4427A\|תִּמְל֑וֹךְ]]&#8207; </big>**| tim.Lokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be established  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6965I\|קָ֙מָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ka.mah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in hand your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יָ֣דְ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ya.de.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kingdom of  |**<big>&#8207;[[H4467\|מַמְלֶ֖כֶת]]&#8207; </big>**| mam.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.19|<< 1 Samuel 24:19]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.21|1 Samuel 24:21 >>]]</td></tr></table>
 
 

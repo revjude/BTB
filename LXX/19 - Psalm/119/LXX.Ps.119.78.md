@@ -7,20 +7,20 @@ Let the proud be ashamed; for they dealt perversely with me without a cause: [bu
 May the arrogant be put to shame for subverting me with a lie; I will meditate on Your precepts.<small><sub>**MT:**</sub></small>
 [[Ps.119.78|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.77|<< Psalm 119:77]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.79|Psalm 119:79 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be shamed | <big><span class="asgreek">αισχυνθήτωσαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| \[the\] proud | <big><span class="asgreek">υπερήφανοι</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| unjustly | <big><span class="asgreek">αδίκως</span></big> <sup><small><small>[[G0095]]</small></small></sup> |
-| they acted lawlessly | <big><span class="asgreek">ηνόμησαν</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall meditate | <big><span class="asgreek">αδολεσχήσω</span></big> <sup><small><small>[[G6139]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments. | <big><span class="asgreek">εντολαίς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be shamed | **<big>[[G0153\|αισχυνθήτωσαν]]</big>** |
+| \[the\] proud | **<big>[[G5244\|υπερήφανοι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| unjustly | **<big>[[G0095\|αδίκως]]</big>** |
+| they acted lawlessly | **<big>[[G6349\|ηνόμησαν]]</big>** |
+| against | **<big>[[G1519\|εις]]</big>** |
+| me. | **<big>[[G1473\|εμέ]]</big>** |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall meditate | **<big>[[G6139\|αδολεσχήσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your commandments. | **<big>[[G1785\|εντολαίς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.78|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.77|<< Psalm 119:77]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.79|Psalm 119:79 >>]]</td></tr></table>
 
 

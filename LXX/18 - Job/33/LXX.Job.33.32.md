@@ -7,17 +7,17 @@ If thou hast any thing to say, answer me: speak, for I desire to justify thee.
 But if you have something to say, answer me; speak up, for I would like to vindicate you.<small><sub>**MT:**</sub></small>
 [[Job.33.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.31|<< Job 33:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.33|Job 33:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| words in you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| answer | <big><span class="asgreek">αποκρίθητί</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Speak! | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| for I want | <big><span class="asgreek">θέλω</span></big> <sup><small><small>[[G2309]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| justice to be done | <big><span class="asgreek">δικαιωθήναί</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| for you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+| there are | **<big>[[G1510\|εισί]]</big>** |
+| words in you, | **<big>[[G1473\|σοι]]</big>** **<big>[[G3056\|λόγοι]]</big>** |
+| answer | **<big>[[G0611\|αποκρίθητί]]</big>** |
+| me! | **<big>[[G1473\|μοι]]</big>** |
+| Speak! | **<big>[[G2980\|λάλησον]]</big>** |
+| for I want | **<big>[[G2309\|θέλω]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| justice to be done | **<big>[[G1344\|δικαιωθήναί]]</big>** |
+| for you. | **<big>[[G1473\|σε]]</big>** |
 [[Job.33.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.31|<< Job 33:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.33|Job 33:33 >>]]</td></tr></table>
 
 

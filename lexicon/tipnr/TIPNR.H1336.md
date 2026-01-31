@@ -2,7 +2,7 @@
 
 Bether is a mountain or mountains mentioned in the Song of Solomon, possibly symbolizing separation between lovers. \(Song of Solomon 2:17\)
 - A location only mentioned at [[Josh.19.27|Sng.2.17]]; 
-- only referred to as Bether\_Mountain<[[H1336]]> \(<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Bether\_Mountain **<big>[[H1336|בֶּתֶר]]</big>**.
 
 Bether, or the "mountains of Bether," is mentioned only once in the Bible, in the Song of Solomon 2:17. The verse reads, "Until the day breaks and the shadows flee away, turn, my beloved, and be like a gazelle or a young stag upon the mountains of Bether." 
 
@@ -16,5 +16,5 @@ Other interpretations propose that the mountains of Bether may refer to a specif
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| cleft (KJV= Bether; NIV= rugged) | [<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1336) <small>*Hebrew*</small> | 1x | [Sng.2.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=cleft\*\|reference=Sng.2.17) |
-All Strong's for **Bether_Mountain or "cleft"**: \[[[H1336]]\]
+| cleft (KJV= Bether; NIV= rugged) | [<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1336) | 1x | [Sng.2.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=cleft\*\|reference=Sng.2.17) |
+All entries for **Bether Mountain or "cleft"**:  **<big>[[H1336|בֶּתֶר]]</big>**

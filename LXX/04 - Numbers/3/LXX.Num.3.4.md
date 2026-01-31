@@ -7,37 +7,37 @@ And Nadab and Abihu died before the LORD, when they offered strange fire before 
 Nadab and Abihu, however, died in the presence of the LORD when they offered unauthorized fire before the LORD in the Wilderness of Sinai. And since they had no sons, only Eleazar and Ithamar served as priests during the lifetime of their father Aaron.<small><sub>**MT:**</sub></small>
 [[Num.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.3|<< Numbers 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.5|Numbers 3:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to an end | <big><span class="asgreek">ετελεύτησε</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| Nadab | <big><span class="asgreek">Ναδάβ</span></big> <sup><small><small>[[H5070]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abihu | <big><span class="asgreek">Αβιού</span></big> <sup><small><small>[[H0030]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of their offering | <big><span class="asgreek">προσφερόντων</span></big> <sup><small><small>[[G4374]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλότριον</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| of Sinai, | <big><span class="asgreek">Σινά</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| children | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| there \[were\] no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| officiated as priest | <big><span class="asgreek">ιεράτευσαν</span></big> <sup><small><small>[[G2407]]</small></small></sup> |
-| Eleazar | <big><span class="asgreek">Ελεάζαρ</span></big> <sup><small><small>[[G1648]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ithamar | <big><span class="asgreek">Ιθάμαρ</span></big> <sup><small><small>[[H0385]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to an end | **<big>[[G5053\|ετελεύτησε]]</big>** |
+| Nadab | **<big>[[H5070\|Ναδάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abihu | **<big>[[H0030\|Αβιού]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| of their offering | **<big>[[G4374\|προσφερόντων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| alien | **<big>[[G0245\|αλλότριον]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wilderness | **<big>[[G2048\|ερήμω]]</big>** |
+| of Sinai, | **<big>[[H6790\|Σινά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| children | **<big>[[G3813\|παιδία]]</big>** |
+| there \[were\] no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| officiated as priest | **<big>[[G2407\|ιεράτευσαν]]</big>** |
+| Eleazar | **<big>[[G1648\|Ελεάζαρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ithamar | **<big>[[H0385\|Ιθάμαρ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| their father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.3|<< Numbers 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.5|Numbers 3:5 >>]]</td></tr></table>
 
 

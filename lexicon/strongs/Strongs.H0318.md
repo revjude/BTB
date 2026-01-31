@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אׇחֳרֵין‎</span></big> **ʼochŏrêyn** <small>*(okh-or-ane')*</small> ==**finally**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
-<small>(Aramaic) or (shortened) <span class="ashebrew">אׇחֳרֵן</span> **ʼochŏrên** <small>*(okh-or-ane')*</small>; (Aramaic) from <span class="asaramaic">‎אׇחֳרִי‎</span><sup><small>[[H0317]]</small></sup></small>
+**<big><span class="asaramaic">‎אׇחֳרֵין‎</span></big>** **ʼochŏrêyn** <small>*(okh-or-ane')*</small> ==**finally**==  <sup><small>[[TEHMC#A:Adv|A:Adv]]</small></sup> 
+<small>(Aramaic) or (shortened) **<big><span class="ashebrew">אׇחֳרֵן</span></big>** **ʼochŏrên** <small>*(okh-or-ane')*</small>; (Aramaic) from **<big>[[H0317|‎אׇחֳרִי‎]]</big>**</small>
 
 $\quad$ at last.
 - ***last***

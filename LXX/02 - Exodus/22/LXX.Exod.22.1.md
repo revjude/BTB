@@ -10,31 +10,31 @@ If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restor
 “If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep.<small><sub>**MT:**</sub></small>
 [[Exod.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.36|<< Exodus 21:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.2|Exodus 22:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| should steal | <big><span class="asgreek">κλέψη</span></big> <sup><small><small>[[G2813]]</small></small></sup> |
-| a calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a sheep, | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should slay | <big><span class="asgreek">σφάξη</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| should sell it, | <big><span class="asgreek">αποδώται</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf, | <big><span class="asgreek">μόσχου</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep. | <big><span class="asgreek">προβάτου</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| should steal | **<big>[[G2813\|κλέψη]]</big>** |
+| a calf | **<big>[[G3448\|μόσχον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a sheep, | **<big>[[G4263\|πρόβατον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should slay | **<big>[[G4969\|σφάξη]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| should sell it, | **<big>[[G0591\|αποδώται]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| calves | **<big>[[G3448\|μόσχους]]</big>** |
+| he shall pay | **<big>[[G0661\|αποτίσει]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| calf, | **<big>[[G3448\|μόσχου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| sheep. | **<big>[[G4263\|προβάτου]]</big>** |
 [[Exod.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.36|<< Exodus 21:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.2|Exodus 22:2 >>]]</td></tr></table>
 
 

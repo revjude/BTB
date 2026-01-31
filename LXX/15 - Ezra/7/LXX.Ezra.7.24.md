@@ -7,38 +7,38 @@ Also we certify you, that touching any of the priests and Levites, singers, port
 And be advised that you have no authority to impose tribute, duty, or toll on any of the priests, Levites, singers, doorkeepers, temple servants, or other servants of this house of God.<small><sub>**MT:**</sub></small>
 [[Ezra.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.23|<< Ezra 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.25|Ezra 7:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let it be made known | <big><span class="asgreek">εγνώρισται</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| in \[respect\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| to all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| singers, | <big><span class="asgreek">άδουσι</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| gatekeepers, | <big><span class="asgreek">πυλωροίς</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
-| Nethinim, | <big><span class="asgreek">Ναθινίμ</span></big> <sup><small><small>[[H5411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ministers | <big><span class="asgreek">λειτουργοίς</span></big> <sup><small><small>[[G3011]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[that\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribute, | <big><span class="asgreek">φόρον</span></big> <sup><small><small>[[G5411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| toll, | <big><span class="asgreek">πράξιν</span></big> <sup><small><small>[[G4234]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| impost, | <big><span class="asgreek">αποφοράν</span></big> <sup><small><small>[[G6510]]</small></small></sup> |
-| do not have | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έχειν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| authority | <big><span class="asgreek">εξουσίαν</span></big> <sup><small><small>[[G1849]]</small></small></sup> |
-| to assign | <big><span class="asgreek">επιβαλείν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| let it be made known | **<big>[[G1107\|εγνώρισται]]</big>** |
+| in \[respect\] | **<big>[[G1722\|εν]]</big>** |
+| to all | **<big>[[G3956\|πάσι]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| priests, | **<big>[[G2409\|ιερεύσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίταις]]</big>** |
+| singers, | **<big>[[G0103\|άδουσι]]</big>** |
+| gatekeepers, | **<big>[[G8988\|πυλωροίς]]</big>** |
+| Nethinim, | **<big>[[H5411\|Ναθινίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ministers | **<big>[[G3011\|λειτουργοίς]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of God! | **<big>[[G2316\|θεού]]</big>** |
+| \[that\] this | **<big>[[G3778\|τούτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| tribute, | **<big>[[G5411\|φόρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| toll, | **<big>[[G4234\|πράξιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| impost, | **<big>[[G6510\|αποφοράν]]</big>** |
+| do not have | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2192\|έχειν]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| authority | **<big>[[G1849\|εξουσίαν]]</big>** |
+| to assign | **<big>[[G1911\|επιβαλείν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ezra.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.23|<< Ezra 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.25|Ezra 7:25 >>]]</td></tr></table>
 
 

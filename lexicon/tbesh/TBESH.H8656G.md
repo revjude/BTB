@@ -1,4 +1,3 @@
-<span class="ashebrew">‎תִּרְצָה‎</span> <small>***(tir.tsah)***</small> ==**Tirzah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.33|Num.26.33]]
--  daughter of: Zelophehad ([[H6765]])
--  sister of: Mahlah ([[H4244]]), Noah ([[H5270]]), Hoglah ([[H2295]]) and Milcah ([[H4435H]])
+-  daughter of: Zelophehad (**<big>[[H6765|צְלׇפְחָד]]</big>**)
+-  sister of: Mahlah (**<big>[[H4244|מַחְלָה]]</big>**), Noah (**<big>[[H5270|נֹעָה]]</big>**), Hoglah (**<big>[[H2295|חׇגְלָה]]</big>**) and Milcah (**<big>[[H4435H|מִלְכָּה]]</big>**)

@@ -6,27 +6,27 @@ O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| flee for refuge  | <span class="ashebrew"><big>הָעִ֣זוּ </big></span><small><small><sup>[[H5756]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ha.'I.zu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Benjamin  | <span class="ashebrew"><big>בִניָמִ֗ן </big></span><small><small><sup>[[H1144G]]</sup></small></small> &#8207;| vi.n.ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] midst of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קֶּ֙רֶב֙ </big></span><small><small><sup>[[H7130G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Ke.rev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְר֣וּשָׁלִַ֔ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.Ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in Tekoa  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תְק֙וֹעַ֙ </big></span><small><small><sup>[[H8620]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi <small><sup>[[HR]]</sup></small> t.Ko.a' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blow  | <span class="ashebrew"><big>תִּקְע֣וּ </big></span><small><small><sup>[[H8628]]</sup></small></small> &#8207;| tik.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a trumpet  | <span class="ashebrew"><big>שׁוֹפָ֔ר </big></span><small><small><sup>[[H7782]]</sup></small></small> &#8207;| sho.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and at  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1021]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hakkerem  | <span class="ashebrew"><big>הַכֶּ֖רֶם </big></span><small><small><sup>[[H1021]]</sup></small></small> &#8207;| ha.Ke.rem <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| raise  | <span class="ashebrew"><big>שְׂא֣וּ </big></span><small><small><sup>[[H5375G]]</sup></small></small> &#8207;| se.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a signal  | <span class="ashebrew"><big>מַשְׂאֵ֑ת </big></span><small><small><sup>[[H4864]]</sup></small></small> &#8207;| mas.'Et <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| calamity  | <span class="ashebrew"><big>רָעָ֛ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has looked down  | <span class="ashebrew"><big>נִשְׁקְפָ֥ה </big></span><small><small><sup>[[H8259]]</sup></small></small> &#8207;| nish.ke.Fah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] north  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>צָּפ֖וֹן </big></span><small><small><sup>[[H6828G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> tza.Fon <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and destruction  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֶׁ֥בֶר </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גָּדֽוֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flee for refuge  |**<big>&#8207;[[H5756\|הָעִ֣זוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.'I.zu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  |**<big>&#8207;[[H1144G\|בִניָמִ֗ן]]&#8207; </big>**| vi.n.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] midst of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7130G\|קֶּ֙רֶב֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ke.rev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְר֣וּשָׁלִַ֔ם]]&#8207; </big>**| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Tekoa  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8620\|תְק֙וֹעַ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> t.Ko.a'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blow  |**<big>&#8207;[[H8628\|תִּקְע֣וּ]]&#8207; </big>**| tik.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trumpet  |**<big>&#8207;[[H7782\|שׁוֹפָ֔ר]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and at  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  |**<big>&#8207;[[H1021\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hakkerem  |**<big>&#8207;[[H1021\|הַכֶּ֖רֶם]]&#8207; </big>**| ha.Ke.rem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| raise  |**<big>&#8207;[[H5375G\|שְׂא֣וּ]]&#8207; </big>**| se.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a signal  |**<big>&#8207;[[H4864\|מַשְׂאֵ֑ת]]&#8207; </big>**| mas.'Et<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| calamity  |**<big>&#8207;[[H7451C\|רָעָ֛ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has looked down  |**<big>&#8207;[[H8259\|נִשְׁקְפָ֥ה]]&#8207; </big>**| nish.ke.Fah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] north  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6828G\|צָּפ֖וֹן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and destruction  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7667\|שֶׁ֥בֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 
 

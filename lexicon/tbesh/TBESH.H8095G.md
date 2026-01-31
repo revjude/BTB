@@ -1,6 +1,5 @@
-<span class="ashebrew">‎שִׁמְעוֹן‎</span> <small>***(shim.on)***</small> ==**Simeon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Simeon  living at the time of the Patriarchs, first mentioned at [[Gen.29.33|Gen.29.33]]
--  son of: Israel ([[H3478]]) and Leah ([[H3812]])
--  brother of: Reuben ([[H7205]]), Levi ([[H3878]]), Judah ([[H3063]]), Issachar ([[H3485]]), Zebulun ([[H2074]]) and Dinah ([[H1783]])
--  half-brother of: Dan ([[H1835H]]), Naphtali ([[H5321]]), Gad ([[H1410]]), Asher ([[H0836]]), Joseph ([[H3130]]) and Benjamin ([[H1144]]); married to Canaanite\_woman ([[H3669]])
--  father of: Jemuel ([[H3223]]), Jamin ([[H3226]]), Ohad ([[H0161]]), Jachin ([[H3199]]), Zerah ([[H2226L]]) and Shaul ([[H7586H]])
+-  son of: Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**) and Leah (**<big>[[H3812|לֵאָה]]</big>**)
+-  brother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**) and Dinah (**<big>[[H1783|דִּינָה]]</big>**)
+-  half-brother of: Dan (**<big>[[H1835H|דָּן]]</big>**), Naphtali (**<big>[[H5321|נַפְתָּלִי]]</big>**), Gad (**<big>[[H1410|גָּד]]</big>**), Asher (**<big>[[H0836|אָשֵׁר]]</big>**), Joseph (**<big>[[H3130|יוֹסֵף]]</big>**) and Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**); married to Canaanite\_woman (**<big>[[H3669|כְּנַעַנִי]]</big>**)
+-  father of: Jemuel (**<big>[[H3223|יְמוּאֵל]]</big>**), Jamin (**<big>[[H3226|יָמִין]]</big>**), Ohad (**<big>[[H0161|אֹהַד]]</big>**), Jachin (**<big>[[H3199|יָכִין]]</big>**), Zerah (**<big>[[H2226L|זֶרַח]]</big>**) and Shaul (**<big>[[H7586H|שָׁאוּל]]</big>**)

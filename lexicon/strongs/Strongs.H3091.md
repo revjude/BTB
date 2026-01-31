@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹשׁוּעַ‎</span></big> **Yᵉhôwshûwaʻ** <small>*(yeh-ho-shoo'-ah)*</small> ==**Joshua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יְהוֹשֻׁעַ</span> **Yᵉhôwshuʻa** <small>*(yeh-ho-shoo'-ah)*</small>; from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎יָשַׁע‎</span><sup><small>[[H3467]]</small></sup>; Jehovah-saved</small>
+**<big><span class="ashebrew">‎יְהוֹשׁוּעַ‎</span></big>** **Yᵉhôwshûwaʻ** <small>*(yeh-ho-shoo'-ah)*</small> ==**Joshua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יְהוֹשֻׁעַ</span></big>** **Yᵉhôwshuʻa** <small>*(yeh-ho-shoo'-ah)*</small>; from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H3467|‎יָשַׁע‎]]</big>**; Jehovah-saved</small>
 
-$\quad$ Jehoshua, Jehoshuah, Joshua. Compare <span class="ashebrew">‎הוֹשֵׁעַ‎</span><sup><small>[[H1954]]</small></sup>, <span class="ashebrew">‎יֵשׁוּעַ‎</span><sup><small>[[H3442]]</small></sup>.
+$\quad$ Jehoshua, Jehoshuah, Joshua. Compare **<big>[[H1954|‎הוֹשֵׁעַ‎]]</big>**, **<big>[[H3442|‎יֵשׁוּעַ‎]]</big>**.
 - § Joshua or Jehoshua = *"Jehovah is salvation"*
 - ***Jehoshua*** (i.e. Joshua), the Jewish leader
 
@@ -11,4 +11,4 @@ n pr m
 **3)** son of Jehozadak and high priest after the restoration
 **4)** governor of Jerusalem under king Josiah who gave his name to a gate of the city of Jerusalem
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰησοῦς</span><sup><small>[[G2424]]</small></sup> · <span class="asgreek">Βαριησοῦς</span><sup><small>[[G0919]]</small></sup>
+<small>See Greek: </small>**<big>[[G2424|Ἰησοῦς]]</big>** · **<big>[[G0919|Βαριησοῦς]]</big>**

@@ -6,17 +6,17 @@ By now Abraham was old and well along in years, and the LORD had blessed him in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.20|<< Genesis 23:20]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.2|Genesis 24:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Abraham  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַבְרָהָ֣ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he was old  | <span class="ashebrew"><big>זָקֵ֔ן </big></span><small><small><sup>[[H2204]]</sup></small></small> &#8207;| za.Ken <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had come  | <span class="ashebrew"><big>בָּ֖א </big></span><small><small><sup>[[H0935J]]</sup></small></small> &#8207;| ba' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> days  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָּמִ֑ים </big></span><small><small><sup>[[H3117I]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Yahweh  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had blessed  | <span class="ashebrew"><big>בֵּרַ֥ךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| be.Rakh <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֖ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> everything  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כֹּֽל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abraham  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was old  |**<big>&#8207;[[H2204\|זָקֵ֔ן]]&#8207; </big>**| za.Ken<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had come  |**<big>&#8207;[[H0935J\|בָּ֖א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117I\|יָּמִ֑ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֛ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had blessed  |**<big>&#8207;[[H1288\|בֵּרַ֥ךְ]]&#8207; </big>**| be.Rakh<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> everything  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3605\|כֹּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.20|<< Genesis 23:20]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.2|Genesis 24:2 >>]]</td></tr></table>
 
 

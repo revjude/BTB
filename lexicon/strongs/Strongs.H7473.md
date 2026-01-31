@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֹעִי‎</span></big> **rôʻîy** <small>*(ro-ee')*</small> ==**to shepherd**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>from active participle of <span class="ashebrew">‎רָעָה‎</span><sup><small>[[H7462]]</small></sup></small>
+**<big><span class="ashebrew">‎רֹעִי‎</span></big>** **rôʻîy** <small>*(ro-ee')*</small> ==**to shepherd**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>from active participle of **<big>[[H7462|‎רָעָה‎]]</big>**</small>
 
 $\quad$ shipherd.
 - ***pastoral***

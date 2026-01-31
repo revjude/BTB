@@ -6,16 +6,16 @@ We shared sweet fellowship together; we walked with the crowd into the house of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.13|<< Psalms 55:13]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.15|Psalms 55:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יַ֭חְדָּו </big></span><small><small><sup>[[H3162B]]</sup></small></small> &#8207;| yach.do <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we made sweet  | <span class="ashebrew"><big>נַמְתִּ֣יק </big></span><small><small><sup>[[H4985]]</sup></small></small> &#8207;| nam.Tik <small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| counsel  | <span class="ashebrew"><big>ס֑וֹד </big></span><small><small><sup>[[H5475]]</sup></small></small> &#8207;| Sod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] house of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בֵ֥ית </big></span><small><small><sup>[[H1004Q]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱ֝לֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we walked about  | <span class="ashebrew"><big>נְהַלֵּ֥ךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| ne.ha.Lekh <small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a crowd  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָֽגֶשׁ </big></span><small><small><sup>[[H7285A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ra.gesh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַ֭חְדָּו]]&#8207; </big>**| yach.do<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we made sweet  |**<big>&#8207;[[H4985\|נַמְתִּ֣יק]]&#8207; </big>**| nam.Tik<small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| counsel  |**<big>&#8207;[[H5475\|ס֑וֹד]]&#8207; </big>**| Sod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004Q\|בֵ֥ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱ֝לֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we walked about  |**<big>&#8207;[[H1980I\|נְהַלֵּ֥ךְ]]&#8207; </big>**| ne.ha.Lekh<small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a crowd  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7285A\|רָֽגֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ra.gesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.13|<< Psalms 55:13]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.15|Psalms 55:15 >>]]</td></tr></table>
 
 

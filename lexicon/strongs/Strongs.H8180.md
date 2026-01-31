@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁעַר‎</span></big> **shaʻar** <small>*(shah'-ar)*</small> ==**hundredfold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁעַר‎</span><sup><small>[[H8176]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁעַר‎</span></big>** **shaʻar** <small>*(shah'-ar)*</small> ==**hundredfold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8176|‎שָׁעַר‎]]</big>**</small>
 
 $\quad$ (hundred-) fold.
 - ***a measure*** (as a section)

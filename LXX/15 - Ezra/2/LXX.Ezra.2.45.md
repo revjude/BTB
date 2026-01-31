@@ -7,14 +7,14 @@ The children of Lebanah, the children of Hagabah, the children of Akkub,
 the descendants of Lebanah, the descendants of Hagabah, the descendants of Akkub,<small><sub>**MT:**</sub></small>
 [[Ezra.2.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.44|<< Ezra 2:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.46|Ezra 2:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Lebanah, | <big><span class="asgreek">Βαλανά</span></big> <sup><small><small>[[H3838]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Haggabah, | <big><span class="asgreek">Αγαβά</span></big> <sup><small><small>[[H2286b]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Akkub, | <big><span class="asgreek">Ακούβ</span></big> <sup><small><small>[[H6126]]</small></small></sup> |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Lebanah, | **<big>[[H3838\|Βαλανά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Haggabah, | **<big>[[H2286b\|Αγαβά]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Akkub, | **<big>[[H6126\|Ακούβ]]</big>** |
 [[Ezra.2.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.44|<< Ezra 2:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.46|Ezra 2:46 >>]]</td></tr></table>
 
 

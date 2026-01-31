@@ -1,6 +1,5 @@
-<span class="ashebrew">‎מִשְׁפָּט‎</span> <small>***(mish.pat)***</small> ==**(Hall of) Judgment**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-part of: <small>[[H0197H]]</small> 
+<small>part of:</small> <small>**<big>[[H0197H|אוּלָם]]</big>**</small> 
 
 
-- Combined with <i>u.lam</i> (<span class='ashebrew'>‎או‎</span>ּ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ם‎</span> "Hall" [[H0197H]])
+- Combined with <i>u.lam</i> (<span class='ashebrew'>‎או‎</span>ּ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ם‎</span> "Hall" **<big>[[H0197H|אוּלָם]]</big>**)
 -  This name means  judgment, sentence

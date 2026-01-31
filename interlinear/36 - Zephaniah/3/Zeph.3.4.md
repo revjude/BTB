@@ -6,17 +6,17 @@ Her prophets are reckless, faithless men. Her priests profane the sanctuary; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.3|<< Zephaniah 3:3]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.5|Zephaniah 3:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| prophets its  | <span class="ashebrew"><big>נְבִיאֶ֙י </big></span><small><small><sup>[[H5030]]</sup></small></small> <span class="ashebrew"><big>הָ֙ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ne.vi.'Ei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] insolent  | <span class="ashebrew"><big>פֹּֽחֲזִ֔ים </big></span><small><small><sup>[[H6348]]</sup></small></small> &#8207;| po.cha.Zim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men of  | <span class="ashebrew"><big>אַנְשֵׁ֖י </big></span><small><small><sup>[[H0582]]</sup></small></small> &#8207;| 'an.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| treacheri\<es>  | <span class="ashebrew"><big>בֹּֽגְד֑וֹת </big></span><small><small><sup>[[H0900]]</sup></small></small> &#8207;| bo.ge.Dot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| priests its  | <span class="ashebrew"><big>כֹּהֲנֶ֙י </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>הָ֙ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ko.ha.Nei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they profane  | <span class="ashebrew"><big>חִלְּלוּ </big></span><small><small><sup>[[H2490H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| chi.le.lu- <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sanctuary  | <span class="ashebrew"><big>קֹ֔דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they do violence to  | <span class="ashebrew"><big>חָמְס֖וּ </big></span><small><small><sup>[[H2554]]</sup></small></small> &#8207;| cha.me.Su <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] law  | <span class="ashebrew"><big>תּוֹרָֽה </big></span><small><small><sup>[[H8451]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| to.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prophets its  |**<big>&#8207;[[H5030\|נְבִיאֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ne.vi.'Ei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] insolent  |**<big>&#8207;[[H6348\|פֹּֽחֲזִ֔ים]]&#8207; </big>**| po.cha.Zim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֖י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| treacheri\<es>  |**<big>&#8207;[[H0900\|בֹּֽגְד֑וֹת]]&#8207; </big>**| bo.ge.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| priests its  |**<big>&#8207;[[H3548\|כֹּהֲנֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ko.ha.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they profane  |**<big>&#8207;[[H2490H\|חִלְּלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chi.le.lu-<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sanctuary  |**<big>&#8207;[[H6944G\|קֹ֔דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they do violence to  |**<big>&#8207;[[H2554\|חָמְס֖וּ]]&#8207; </big>**| cha.me.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] law  |**<big>&#8207;[[H8451\|תּוֹרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.3|<< Zephaniah 3:3]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.5|Zephaniah 3:5 >>]]</td></tr></table>
 
 

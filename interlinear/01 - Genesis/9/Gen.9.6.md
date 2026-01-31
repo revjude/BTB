@@ -10,20 +10,20 @@ Whoever sheds the blood of man, by man his blood will be shed; for in His own im
 > $\quad$ referenced by: [[Jas.3.9|Jas 3:9]] ☩ [[Rev.13.10|Rev 13:10]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] [one who] sheds  | <span class="ashebrew"><big>שֹׁפֵךְ֙ </big></span><small><small><sup>[[H8210H]]</sup></small></small> &#8207;| sho.feKh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> [the] blood of  | <span class="ashebrew"><big>דַּ֣ם </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| dam <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> humankind  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָדָ֔ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> humankind  | <span class="ashebrew"><big>בָּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָדָ֖ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood his  | <span class="ashebrew"><big>דָּמ֣ </big></span><small><small><sup>[[H1818]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| da.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<it> will be shed  | <span class="ashebrew"><big>יִשָּׁפֵ֑ךְ </big></span><small><small><sup>[[H8210H]]</sup></small></small> &#8207;| yi.sha.Fekh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֚י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] image of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צֶ֣לֶם </big></span><small><small><sup>[[H6754]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Tze.lem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִ֔ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he made  | <span class="ashebrew"><big>עָשָׂ֖ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> humankind  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָדָֽם </big></span><small><small><sup>[[H0120G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] [one who] sheds  |**<big>&#8207;[[H8210H\|שֹׁפֵךְ֙]]&#8207; </big>**| sho.feKh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> [the] blood of  |**<big>&#8207;[[H1818\|דַּ֣ם]]&#8207; </big>**| dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0120G\|אָדָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> humankind  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood his  |**<big>&#8207;[[H1818\|דָּמ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| da.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<it> will be shed  |**<big>&#8207;[[H8210H\|יִשָּׁפֵ֑ךְ]]&#8207; </big>**| yi.sha.Fekh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] image of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6754\|צֶ֣לֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tze.lem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H6213H\|עָשָׂ֖ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.5|<< Genesis 9:5]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.7|Genesis 9:7 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָמֵץ‎</span></big> **châmêts** <small>*(khaw-mates')*</small> ==**to leaven**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָמֵץ‎</span></big>** **châmêts** <small>*(khaw-mates')*</small> ==**to leaven**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cruel (man), dyed, be grieved, leavened.
@@ -12,4 +12,4 @@ $\quad$ **1c)** (Hithpael) to be embittered, grieved
 **2)** to be cruel, oppress, be ruthless
 **3)** to be red
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">ζυμόω</span><sup><small>[[G2220]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G2220|ζυμόω]]</big>**

@@ -6,14 +6,14 @@ Behold, I know your thoughts full well, the schemes by which you would wrong me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.26|<< Job 21:26]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.28|Job 21:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  | <span class="ashebrew"><big>הֵ֣ן </big></span><small><small><sup>[[H2005]]</sup></small></small> &#8207;| hen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I know  | <span class="ashebrew"><big>יָ֭דַעְתִּי </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| Ya.da'.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thoughts your  | <span class="ashebrew"><big>מַחְשְׁבֽוֹתֵי </big></span><small><small><sup>[[H4284]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| mach.she.vo.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] schemes  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְזִמּ֗וֹת </big></span><small><small><sup>[[H4209]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.zi.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on \<the> me  | <span class="ashebrew"><big>עָלַ֥ </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you do violence  | <span class="ashebrew"><big>תַּחְמֹֽסוּ </big></span><small><small><sup>[[H2554]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tach.Mo.su <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  |**<big>&#8207;[[H3045\|יָ֭דַעְתִּי]]&#8207; </big>**| Ya.da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thoughts your  |**<big>&#8207;[[H4284\|מַחְשְׁבֽוֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| mach.she.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] schemes  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H4209\|מְזִמּ֗וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.zi.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on \<the> me  |**<big>&#8207;[[H5921A\|עָלַ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you do violence  |**<big>&#8207;[[H2554\|תַּחְמֹֽסוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.Mo.su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.26|<< Job 21:26]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.28|Job 21:28 >>]]</td></tr></table>
 
 

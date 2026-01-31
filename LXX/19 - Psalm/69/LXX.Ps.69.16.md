@@ -7,23 +7,23 @@ Hear me, O LORD; for thy lovingkindness [is] good: turn unto me according to the
 Answer me, O LORD, for Your loving devotion is good; turn to me in keeping with Your great compassion.<small><sub>**MT:**</sub></small>
 [[Ps.69.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.15|<< Psalm 69:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.17|Psalm 69:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Listen to | <big><span class="asgreek">εισάκουσόν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] gracious | <big><span class="asgreek">χρηστόν</span></big> <sup><small><small>[[G5543]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your compassions | <big><span class="asgreek">οικτιρμών</span></big> <sup><small><small>[[G3628]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| look | <big><span class="asgreek">επίβλεψον</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me! | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Listen to | **<big>[[G1522\|εισάκουσόν]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] gracious | **<big>[[G5543\|χρηστόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| According to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your compassions | **<big>[[G3628\|οικτιρμών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| look | **<big>[[G1914\|επίβλεψον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me! | **<big>[[G1473\|εμέ]]</big>** |
 [[Ps.69.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.15|<< Psalm 69:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.17|Psalm 69:17 >>]]</td></tr></table>
 
 

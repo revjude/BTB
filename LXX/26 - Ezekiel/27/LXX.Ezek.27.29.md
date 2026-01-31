@@ -7,28 +7,28 @@ And all that handle the oar, the mariners, [and] all the pilots of the sea, shal
 All who handle the oars will abandon their ships. The sailors and all the captains of the sea will stand on the shore.<small><sub>**MT:**</sub></small>
 [[Ezek.27.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.28|<< Ezekiel 27:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.30|Ezekiel 27:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go down | <big><span class="asgreek">καταβήσονται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their boats | <big><span class="asgreek">πλοίων</span></big> <sup><small><small>[[G4143]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your oarsmen | <big><span class="asgreek">κωπηλάται</span></big> <sup><small><small>[[G8145]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crewmen, | <big><span class="asgreek">επιβάται</span></big> <sup><small><small>[[G7388]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captains | <big><span class="asgreek">πρωρείς</span></big> <sup><small><small>[[G8962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea; | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| they shall stand | <big><span class="asgreek">στήσονται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall go down | **<big>[[G2597\|καταβήσονται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their boats | **<big>[[G4143\|πλοίων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your oarsmen | **<big>[[G8145\|κωπηλάται]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| crewmen, | **<big>[[G7388\|επιβάται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| captains | **<big>[[G8962\|πρωρείς]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea; | **<big>[[G2281\|θαλάσσης]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground | **<big>[[G1093\|γην]]</big>** |
+| they shall stand | **<big>[[G2476\|στήσονται]]</big>** |
 [[Ezek.27.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.28|<< Ezekiel 27:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.30|Ezekiel 27:30 >>]]</td></tr></table>
 
 

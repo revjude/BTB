@@ -1,5 +1,4 @@
-<span class="ashebrew">‎נָחוֹר‎</span> <small>***(na.chor)***</small> ==**Nahor**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.11.26|Gen.11.26]]
--  son of: Terah ([[H8646]])
--  brother of: Abraham ([[H0085]]), Haran ([[H2039]]) and Sarah ([[H8283]]); married to Milcah ([[H4435]]) and Reumah ([[H7208]])
--  father of: Uz ([[H5780H]]), Buz ([[H0938]]), Kemuel ([[H7055]]), Chesed ([[H3777]]), Hazo ([[H2375]]), Pildash ([[H6394]]), Jidlaph ([[H3044]]), Bethuel ([[H1328A]]), Tebah ([[H2875]]), Gaham ([[H1514]]), Tahash ([[H8477]]) and Maacah ([[H4601]])
+-  son of: Terah (**<big>[[H8646|תֶּרַח]]</big>**)
+-  brother of: Abraham (**<big>[[H0085|אַבְרָהָם]]</big>**), Haran (**<big>[[H2039|הָרָן]]</big>**) and Sarah (**<big>[[H8283|שָׂרָה]]</big>**); married to Milcah (**<big>[[H4435|מִלְכָּה]]</big>**) and Reumah (**<big>[[H7208|רְאוּמָה]]</big>**)
+-  father of: Uz (**<big>[[H5780H|עוּץ]]</big>**), Buz (**<big>[[H0938|בּוּז]]</big>**), Kemuel (**<big>[[H7055|קְמוּאֵל]]</big>**), Chesed (**<big>[[H3777|כֶּשֶׂד]]</big>**), Hazo (**<big>[[H2375|חֲזוֹ]]</big>**), Pildash (**<big>[[H6394|פִּלְדָּשׁ]]</big>**), Jidlaph (**<big>[[H3044|יִדְלָף]]</big>**), Bethuel (**<big>[[H1328A|בְּתוּאֵל]]</big>**), Tebah (**<big>[[H2875|טֶבַח]]</big>**), Gaham (**<big>[[H1514|גַּחַם]]</big>**), Tahash (**<big>[[H8477|תַּחַשׁ]]</big>**) and Maacah (**<big>[[H4601|מַעֲכָה]]</big>**)

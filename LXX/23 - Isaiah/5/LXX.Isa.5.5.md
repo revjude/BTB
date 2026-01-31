@@ -7,31 +7,31 @@ And now go to; I will tell you what I will do to my vineyard: I will take away t
 Now I will tell you what I am about to do to My vineyard: I will take away its hedge, and it will be consumed; I will tear down its wall, and it will be trampled.<small><sub>**MT:**</sub></small>
 [[Isa.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.4|<< Isaiah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.6|Isaiah 5:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now then | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| I will announce | <big><span class="asgreek">αναγγελώ</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my vineyard. | <big><span class="asgreek">αμπελώνί</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will remove | <big><span class="asgreek">αφελώ</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its barrier, | <big><span class="asgreek">φραγμόν</span></big> <sup><small><small>[[G5418]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| ravaging. | <big><span class="asgreek">διαρπαγήν</span></big> <sup><small><small>[[G6869]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will demolish | <big><span class="asgreek">καθελώ</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its wall, | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| trampling. | <big><span class="asgreek">καταπάτημα</span></big> <sup><small><small>[[G7888]]</small></small></sup> |
+| Now then | **<big>[[G3568\|νυν]]</big>** **<big>[[G3767\|ουν]]</big>** |
+| I will announce | **<big>[[G0312\|αναγγελώ]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my vineyard. | **<big>[[G0290\|αμπελώνί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I will remove | **<big>[[G0851\|αφελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| its barrier, | **<big>[[G5418\|φραγμόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| ravaging. | **<big>[[G6869\|διαρπαγήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will demolish | **<big>[[G2507\|καθελώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| its wall, | **<big>[[G5109\|τοίχον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| trampling. | **<big>[[G7888\|καταπάτημα]]</big>** |
 [[Isa.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.4|<< Isaiah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.6|Isaiah 5:6 >>]]</td></tr></table>
 
 

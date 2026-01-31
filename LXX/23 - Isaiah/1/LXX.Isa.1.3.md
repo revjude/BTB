@@ -7,26 +7,26 @@ The ox knoweth his owner, and the ass his master’s crib: [but] Israel doth not
 The ox knows its owner, and the donkey its master’s manger, but Israel does not know; My people do not understand.”<small><sub>**MT:**</sub></small>
 [[Isa.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| knows | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| \[The\] ox | <big><span class="asgreek">βους</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one acquiring \[it\], | <big><span class="asgreek">κτησάμενον</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| \[knows\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stable | <big><span class="asgreek">φάτνην</span></big> <sup><small><small>[[G5336]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its master; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| perceived not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνήκεν</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| knows | **<big>[[G1097\|έγνω]]</big>** |
+| \[The\] ox | **<big>[[G1016\|βους]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| one acquiring \[it\], | **<big>[[G2932\|κτησάμενον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] donkey | **<big>[[G3688\|όνος]]</big>** |
+| \[knows\] the | **<big>[[G3588\|την]]</big>** |
+| stable | **<big>[[G5336\|φάτνην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of its master; | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but Israel | **<big>[[G2474\|Ισραήλ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| does not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|με]]</big>** |
+| perceived not. | **<big>[[G3756\|ου]]</big>** **<big>[[G4920\|συνήκεν]]</big>** |
 [[Isa.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
 

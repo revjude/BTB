@@ -7,32 +7,32 @@ And when David came to Ziklag, he sent of the spoil unto the elders of Judah, [e
 When David arrived in Ziklag, he sent some of the plunder to his friends, the elders of Judah, saying, “Here is a gift for you from the plunder of the LORD’s enemies.”<small><sub>**MT:**</sub></small>
 [[1Sam.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.25|<< 1 Samuel 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.27|1 Samuel 30:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ziklag, | <big><span class="asgreek">Σικελάγ</span></big> <sup><small><small>[[H6860]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elders | <big><span class="asgreek">πρεσβυτέροις</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbors | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils, | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a blessing | <big><span class="asgreek">ευλογία</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David came | **<big>[[G2064\|ήλθε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Ziklag, | **<big>[[H6860\|Σικελάγ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| elders | **<big>[[G4245\|πρεσβυτέροις]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G3588\|τοις]]</big>** |
+| his neighbors | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| spoils, | **<big>[[G4661\|σκύλων]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a blessing | **<big>[[G2129\|ευλογία]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| spoils | **<big>[[G4661\|σκύλων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| enemies | **<big>[[G2190\|εχθρών]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
 [[1Sam.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.25|<< 1 Samuel 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.27|1 Samuel 30:27 >>]]</td></tr></table>
 
 

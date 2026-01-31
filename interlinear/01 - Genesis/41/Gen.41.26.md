@@ -6,23 +6,23 @@ The seven good cows are seven years, and the seven ripe heads of grain are seven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.25|<< Genesis 41:25]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.27|Genesis 41:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| seven  | <span class="ashebrew"><big>שֶׁ֧בַע </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| She.va' <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cows  | <span class="ashebrew"><big>פָּרֹ֣ת </big></span><small><small><sup>[[H6510]]</sup></small></small> &#8207;| pa.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> good  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>טֹּבֹ֗ת </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> to.Vot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] seven  | <span class="ashebrew"><big>שֶׁ֤בַע </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| She.va' <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִים֙ </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֔נָּה </big></span><small><small><sup>[[H2007]]</sup></small></small> &#8207;| He.nah <small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and seven  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֶׁ֤בַע </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.va' <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ears of grain  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שִּׁבֳּלִים֙ </big></span><small><small><sup>[[H7641B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> shi.bo.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> good  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>טֹּבֹ֔ת </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> to.Vot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] seven  | <span class="ashebrew"><big>שֶׁ֥בַע </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| She.va' <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִ֖ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֑נָּה </big></span><small><small><sup>[[H2007]]</sup></small></small> &#8207;| He.nah <small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] dream  | <span class="ashebrew"><big>חֲל֖וֹם </big></span><small><small><sup>[[H2472]]</sup></small></small> &#8207;| cha.Lom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֥ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שֶׁ֧בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cows  |**<big>&#8207;[[H6510\|פָּרֹ֣ת]]&#8207; </big>**| pa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> good  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2896A\|טֹּבֹ֗ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> to.Vot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] seven  |**<big>&#8207;[[H7651\|שֶׁ֤בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִים֙]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H2007\|הֵ֔נָּה]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שֶׁ֤בַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ears of grain  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H7641B\|שִּׁבֳּלִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shi.bo.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> good  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2896A\|טֹּבֹ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> to.Vot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] seven  |**<big>&#8207;[[H7651\|שֶׁ֥בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִ֖ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H2007\|הֵ֑נָּה]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] dream  |**<big>&#8207;[[H2472\|חֲל֖וֹם]]&#8207; </big>**| cha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֥ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.25|<< Genesis 41:25]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.27|Genesis 41:27 >>]]</td></tr></table>
 
 

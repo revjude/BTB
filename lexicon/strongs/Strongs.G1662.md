@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎Ἐλιακείμ‎</span></big> **Eliakeím** <small>*(el-ee-ak-ime')*</small> ==**Eliakim**==  <sup><small>[[TEGMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>of Hebrew origin (<span class="ashebrew">‎אֶלְיָקִים‎</span><sup><small>[[H0471]]</small></sup>)</small>
+**<big><span class="asgreek">‎Ἐλιακείμ‎</span></big>** **Eliakeím** <small>*(el-ee-ak-ime')*</small> ==**Eliakim**==  <sup><small>[[TEGMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>of Hebrew origin (**<big>[[H0471|‎אֶלְיָקִים‎]]</big>**)</small>
 
 $\quad$ Eliakim.
 - Eliakim, an Israelite

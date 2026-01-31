@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שַׁרְאֶצֶר‎</span></big> **Sharʼetser** <small>*(shar-eh'-tser)*</small> ==**Sharezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שַׁרְאֶצֶר‎</span></big>** **Sharʼetser** <small>*(shar-eh'-tser)*</small> ==**Sharezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign derivation</small>
 
 $\quad$ Sharezer.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּשׂוֹרָה‎</span></big> **bᵉsôwrâh** <small>*(bes-o-raw')*</small> ==**good news**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">בְּשֹׂרָה</span> **bᵉsôrâh** <small>*(bes-o-raw')*</small>; feminine from <span class="ashebrew">‎בָּשַׂר‎</span><sup><small>[[H1319]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּשׂוֹרָה‎</span></big>** **bᵉsôwrâh** <small>*(bes-o-raw')*</small> ==**good news**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">בְּשֹׂרָה</span></big>** **bᵉsôrâh** <small>*(bes-o-raw')*</small>; feminine from **<big>[[H1319|‎בָּשַׂר‎]]</big>**</small>
 
 $\quad$ reward for tidings.
 - ***glad tidings***
@@ -10,4 +10,4 @@ $\quad$ **1a)** good tidings
 $\quad$ **1b)** tidings, news
 $\quad$ **1c)** reward for good tidings
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εὐαγγέλιον</span><sup><small>[[G2098]]</small></sup>
+<small>See Greek: </small>**<big>[[G2098|εὐαγγέλιον]]</big>**

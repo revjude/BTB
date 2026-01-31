@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סִין‎</span></big> **Çîyn** <small>*(seen)*</small> ==**Pelusium**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎סִין‎</span></big>** **Çîyn** <small>*(seen)*</small> ==**Pelusium**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Sin.

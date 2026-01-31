@@ -11,28 +11,28 @@ And as He spoke to me, the Spirit entered me and set me on my feet, and I heard 
 > $\quad$ referenced by: [[Rev.5.1|Rev 5:1]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a spirit. | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it took me up, | <big><span class="asgreek">ανέλαβέ</span></big> <sup><small><small>[[G0353]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted me away, | <big><span class="asgreek">εξήρέ</span></big> <sup><small><small>[[G1808]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστησέ</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my feet. | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I heard | <big><span class="asgreek">ήκουον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλούντος</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| a spirit. | **<big>[[G4151\|πνεύμα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it took me up, | **<big>[[G0353\|ανέλαβέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lifted me away, | **<big>[[G1808\|εξήρέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστησέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| my feet. | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I heard | **<big>[[G0191\|ήκουον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| speaking | **<big>[[G2980\|λαλούντος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Ezek.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.1|<< Ezekiel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.3|Ezekiel 2:3 >>]]</td></tr></table>
 
 

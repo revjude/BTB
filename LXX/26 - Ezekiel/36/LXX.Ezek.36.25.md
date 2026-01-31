@@ -11,27 +11,27 @@ I will also sprinkle clean water on you, and you will be clean. I will cleanse y
 > $\quad$ related to: [[John.3.5|John 3:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will sprinkle | <big><span class="asgreek">ρανώ</span></big> <sup><small><small>[[G9007]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be cleansed | <big><span class="asgreek">καθαρισθήσεσθε</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your uncleannesses; | <big><span class="asgreek">ακαθαρσιών</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your idols | <big><span class="asgreek">ειδώλων υμών</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| I will cleanse | <big><span class="asgreek">καθαριώ</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will sprinkle | **<big>[[G9007\|ρανώ]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| clean | **<big>[[G2513\|καθαρόν]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be cleansed | **<big>[[G2511\|καθαρισθήσεσθε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your uncleannesses; | **<big>[[G0167\|ακαθαρσιών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your idols | **<big>[[G1497\|ειδώλων υμών]]</big>** |
+| I will cleanse | **<big>[[G2511\|καθαριώ]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
 [[Ezek.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.24|<< Ezekiel 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.26|Ezekiel 36:26 >>]]</td></tr></table>
 
 

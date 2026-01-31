@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָלַץ‎</span></big> **châlats** <small>*(khaw-lats')*</small> ==**to rescue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָלַץ‎</span></big>** **châlats** <small>*(khaw-lats')*</small> ==**to rescue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ arm (self), (go, ready) armed ([idiom] man, soldier), deliver, draw out, make fat, loose, (ready) prepared, put off, take away, withdraw self.
@@ -28,4 +28,4 @@ $\quad$ $\quad$ **2c1)** to pull out, tear out
 $\quad$ $\quad$ **2c2)** to rescue, deliver, set free
 $\quad$ $\quad$ **2c3)** to take away, plunder
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποπίπτω</span><sup><small>[[G0634]]</small></sup> · <span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">δύνω</span><sup><small>[[G1416]]</small></sup> · <span class="asgreek">ἐκδύω</span><sup><small>[[G1562]]</small></sup> · <span class="asgreek">ἐκκλίνω</span><sup><small>[[G1578]]</small></sup> · <span class="asgreek">ἐξαιρέω</span><sup><small>[[G1807]]</small></sup> · <span class="asgreek">θλίβω</span><sup><small>[[G2346]]</small></sup> · <span class="asgreek">ὀσφῦς</span><sup><small>[[G3751]]</small></sup> · <span class="asgreek">πλευρά</span><sup><small>[[G4125]]</small></sup> · <span class="asgreek">ῥύομαι</span><sup><small>[[G4506]]</small></sup>
+<small>See Greek: </small>**<big>[[G0634|ἀποπίπτω]]</big>** · **<big>[[G1411|δύναμις]]</big>** · **<big>[[G1415|δυνατός]]</big>** · **<big>[[G1416|δύνω]]</big>** · **<big>[[G1562|ἐκδύω]]</big>** · **<big>[[G1578|ἐκκλίνω]]</big>** · **<big>[[G1807|ἐξαιρέω]]</big>** · **<big>[[G2346|θλίβω]]</big>** · **<big>[[G3751|ὀσφῦς]]</big>** · **<big>[[G4125|πλευρά]]</big>** · **<big>[[G4506|ῥύομαι]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָפוֹן‎</span></big> **Tsâphôwn** <small>*(tsaw-fone')*</small> ==**Zaphon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎צָפוֹן‎</span><sup><small>[[H6828]]</small></sup>; boreal</small>
+**<big><span class="ashebrew">‎צָפוֹן‎</span></big>** **Tsâphôwn** <small>*(tsaw-fone')*</small> ==**Zaphon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H6828|‎צָפוֹן‎]]</big>**; boreal</small>
 
 $\quad$ Zaphon.
 - § Zaphon = *"north"*

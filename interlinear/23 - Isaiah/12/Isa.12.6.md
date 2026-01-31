@@ -6,17 +6,17 @@ Cry out and sing, O citizen of Zion, for great among you is the Holy One of Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.5|<< Isaiah 12:5]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.1|Isaiah 13:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| cry aloud  | <span class="ashebrew"><big>צַהֲלִ֥י </big></span><small><small><sup>[[H6670A]]</sup></small></small> &#8207;| tza.ha.Li <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and cry out  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֖נִּי </big></span><small><small><sup>[[H7442B]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Ro.ni <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O inhabitant[s] of  | <span class="ashebrew"><big>יוֹשֶׁ֣בֶת </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.She.vet <small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֑וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] great  | <span class="ashebrew"><big>גָד֥וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in midst your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבֵּ֖ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.Be <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] holy [one] of  | <span class="ashebrew"><big>קְד֥וֹשׁ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| ke.Do.osh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cry aloud  |**<big>&#8207;[[H6670A\|צַהֲלִ֥י]]&#8207; </big>**| tza.ha.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cry out  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7442B\|רֹ֖נִּי]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ro.ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O inhabitant[s] of  |**<big>&#8207;[[H3427\|יוֹשֶׁ֣בֶת]]&#8207; </big>**| yo.She.vet<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֑וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] great  |**<big>&#8207;[[H1419A\|גָד֥וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבֵּ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.Be<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [one] of  |**<big>&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| ke.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.5|<< Isaiah 12:5]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.1|Isaiah 13:1 >>]]</td></tr></table>
 
 

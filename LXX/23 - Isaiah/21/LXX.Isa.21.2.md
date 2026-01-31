@@ -7,38 +7,38 @@ A grievous vision is declared unto me; the treacherous dealer dealeth treacherou
 A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.”<small><sub>**MT:**</sub></small>
 [[Isa.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.1|<< Isaiah 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.3|Isaiah 21:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so a fearful | <big><span class="asgreek">φοβερόν</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όραμα</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hard | <big><span class="asgreek">σκληρόν</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| was announced | <big><span class="asgreek">ανηγγέλη</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one disregarding | <big><span class="asgreek">αθετών</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| disregards; | <big><span class="asgreek">αθετεί</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one acting lawlessly | <big><span class="asgreek">ανομών</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| acts lawlessly. | <big><span class="asgreek">ανομεί</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| \[are\] upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elamites | <big><span class="asgreek">Ελαμίται</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ambassadors | <big><span class="asgreek">πρέσβεις</span></big> <sup><small><small>[[G8881]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Persians | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I shall moan | <big><span class="asgreek">στενάξω</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall comfort | <big><span class="asgreek">παρακαλέσω</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| myself. | <big><span class="asgreek">εμαυτόν</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
+| so a fearful | **<big>[[G5398\|φοβερόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| vision | **<big>[[G3705\|όραμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hard | **<big>[[G4642\|σκληρόν]]</big>** |
+| was announced | **<big>[[G0312\|ανηγγέλη]]</big>** |
+| to me; | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one disregarding | **<big>[[G0114\|αθετών]]</big>** |
+| disregards; | **<big>[[G0114\|αθετεί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one acting lawlessly | **<big>[[G6349\|ανομών]]</big>** |
+| acts lawlessly. | **<big>[[G6349\|ανομεί]]</big>** |
+| \[are\] upon | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| Elamites | **<big>[[G1639\|Ελαμίται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ambassadors | **<big>[[G8881\|πρέσβεις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Persians | **<big>[[H6539\|Περσών]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| come | **<big>[[G2064\|έρχονται]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| I shall moan | **<big>[[G4727\|στενάξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall comfort | **<big>[[G3870\|παρακαλέσω]]</big>** |
+| myself. | **<big>[[G1683\|εμαυτόν]]</big>** |
 [[Isa.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.1|<< Isaiah 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.3|Isaiah 21:3 >>]]</td></tr></table>
 
 

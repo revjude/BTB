@@ -7,24 +7,24 @@ And the Egyptians were urgent upon the people, that they might send them out of 
 And in order to send them out of the land quickly, the Egyptians urged the people on. “For otherwise,” they said, “we are all going to die!”<small><sub>**MT:**</sub></small>
 [[Exod.12.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.32|<< Exodus 12:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.34|Exodus 12:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| constrained | <big><span class="asgreek">κατεβιάζοντο</span></big> <sup><small><small>[[G7820]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| with diligence | <big><span class="asgreek">σπουδή</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
-| to cast | <big><span class="asgreek">εκβαλείν</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| We all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall die. | <big><span class="asgreek">αποθνήσκομεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| constrained | **<big>[[G7820\|κατεβιάζοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people | **<big>[[G2992\|λαόν]]</big>** |
+| with diligence | **<big>[[G4710\|σπουδή]]</big>** |
+| to cast | **<big>[[G1544\|εκβαλείν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land; | **<big>[[G1093\|γης]]</big>** |
+| for they said | **<big>[[G2036\|είπαν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| We all | **<big>[[G3956\|πάντες]]</big>** **<big>[[G1473\|ημείς]]</big>** |
+| shall die. | **<big>[[G0599\|αποθνήσκομεν]]</big>** |
 [[Exod.12.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.32|<< Exodus 12:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.34|Exodus 12:34 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְמִיתֻת‎</span></big> **tsᵉmîythuth** <small>*(tsem-ee-thooth')*</small> ==**finality**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">צְמִתֻת</span> **tsᵉmithuth** <small>*(tsem-ee-thooth')*</small>; from <span class="ashebrew">‎צָמַת‎</span><sup><small>[[H6789]]</small></sup></small>
+**<big><span class="ashebrew">‎צְמִיתֻת‎</span></big>** **tsᵉmîythuth** <small>*(tsem-ee-thooth')*</small> ==**finality**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">צְמִתֻת</span></big>** **tsᵉmithuth** <small>*(tsem-ee-thooth')*</small>; from **<big>[[H6789|‎צָמַת‎]]</big>**</small>
 
 $\quad$ ever.
 - ***excision***, i.e. ***destruction***
@@ -7,4 +7,4 @@ $\quad$ ever.
 
 **1)** completion, finality, in perpetuity
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βεβαίωσις</span><sup><small>[[G0951]]</small></sup>
+<small>See Greek: </small>**<big>[[G0951|βεβαίωσις]]</big>**

@@ -7,26 +7,26 @@ And he brought up from thence the bones of Saul and the bones of Jonathan his so
 So David had the bones of Saul and his son Jonathan brought from there, and they also gathered the bones of those who had been hanged.<small><sub>**MT:**</sub></small>
 [[2Sam.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.12|<< 2 Samuel 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.14|2 Samuel 21:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he bore | <big><span class="asgreek">ανήνεγκεν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gathered | <big><span class="asgreek">συνήγαγε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones hanging in the sun. | <big><span class="asgreek">εξηλιασμένων</span></big> <sup><small><small>[[G7329]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he bore | **<big>[[G0399\|ανήνεγκεν]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bones | **<big>[[G3747\|οστά]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bones | **<big>[[G3747\|οστά]]</big>** |
+| of Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his son, | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gathered | **<big>[[G4863\|συνήγαγε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bones | **<big>[[G3747\|οστά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones hanging in the sun. | **<big>[[G7329\|εξηλιασμένων]]</big>** |
 [[2Sam.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.12|<< 2 Samuel 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.14|2 Samuel 21:14 >>]]</td></tr></table>
 
 

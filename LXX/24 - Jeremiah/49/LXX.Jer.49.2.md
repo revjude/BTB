@@ -7,42 +7,42 @@ Therefore, behold, the days come, saith the LORD, that I will cause an alarm of 
 Therefore, behold, the days are coming, declares the LORD, when I will sound the battle cry against Rabbah of the Ammonites. It will become a heap of ruins, and its villages will be burned. Then Israel will drive out their dispossessors, says the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.1|<< Jeremiah 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.3|Jeremiah 49:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| come, | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall cause to be heard | <big><span class="asgreek">ακουτιώ</span></big> <sup><small><small>[[G6201]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Rabbah | <big><span class="asgreek">Ραββάθ</span></big> <sup><small><small>[[H7237]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| a tumult | <big><span class="asgreek">θόρυβον</span></big> <sup><small><small>[[G2351]]</small></small></sup> |
-| of war. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an untrodden \[land\], | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| destruction. | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her shrines | <big><span class="asgreek">βωμοί</span></big> <sup><small><small>[[G1041]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| shall be incinerated | <big><span class="asgreek">κατακαυθήσονται</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel shall inherit | <big><span class="asgreek">παραλήψεται</span></big> <sup><small><small>[[G3880]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rule, | <big><span class="asgreek">αρχήν</span></big> <sup><small><small>[[G0746]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| come, | **<big>[[G2064\|έρχονται]]</big>** |
+| says | **<big>[[G5346\|φησί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall cause to be heard | **<big>[[G6201\|ακουτιώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Rabbah | **<big>[[H7237\|Ραββάθ]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| a tumult | **<big>[[G2351\|θόρυβον]]</big>** |
+| of war. | **<big>[[G4171\|πολέμου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall be | **<big>[[G1510\|έσονται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an untrodden \[land\], | **<big>[[G6101\|άβατον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| destruction. | **<big>[[G0684\|απώλειαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| her shrines | **<big>[[G1041\|βωμοί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire | **<big>[[G4442\|πυρί]]</big>** |
+| shall be incinerated | **<big>[[G2618\|κατακαυθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel shall inherit | **<big>[[G3880\|παραλήψεται]]</big>** **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his rule, | **<big>[[G0746\|αρχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.1|<< Jeremiah 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.3|Jeremiah 49:3 >>]]</td></tr></table>
 
 

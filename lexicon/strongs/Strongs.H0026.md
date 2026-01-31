@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִיגַיִל‎</span></big> **ʼĂbîygayil** <small>*(ab-ee-gah'-yil)*</small> ==**Abigail**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>or shorter <span class="ashebrew">אֲבִיגַל</span> **ʼĂbîygal** <small>*(ab-ee-gal')*</small>; from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎גִּיל‎</span><sup><small>[[H1524]]</small></sup>; father (i.e. source) of joy</small>
+**<big><span class="ashebrew">‎אֲבִיגַיִל‎</span></big>** **ʼĂbîygayil** <small>*(ab-ee-gah'-yil)*</small> ==**Abigail**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>or shorter **<big><span class="ashebrew">אֲבִיגַל</span></big>** **ʼĂbîygal** <small>*(ab-ee-gal')*</small>; from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H1524|‎גִּיל‎]]</big>**; father (i.e. source) of joy</small>
 
 $\quad$ Abigal.
 - § Abigail = *"my father is joy"*

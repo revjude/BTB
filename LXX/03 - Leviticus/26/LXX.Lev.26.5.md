@@ -7,34 +7,34 @@ And your threshing shall reach unto the vintage, and the vintage shall reach unt
 Your threshing will continue until the grape harvest, and the grape harvest will continue until sowing time; you will have your fill of food to eat and will dwell securely in your land.<small><sub>**MT:**</sub></small>
 [[Lev.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.4|<< Leviticus 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.6|Leviticus 26:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall overtake | <big><span class="asgreek">καταλήψεται</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| among you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshing | <big><span class="asgreek">αλοητός</span></big> <sup><small><small>[[G6240]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering of the crops; | <big><span class="asgreek">τρυγητόν</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering of the crops | <big><span class="asgreek">τρυγητός</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| shall overtake | <big><span class="asgreek">καταλήψεται</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sowing; | <big><span class="asgreek">σπόρον</span></big> <sup><small><small>[[G4703]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| fullness. | <big><span class="asgreek">πλησμονήν</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall dwell | <big><span class="asgreek">κατοικήσετε</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| safety | <big><span class="asgreek">ασφαλείας</span></big> <sup><small><small>[[G0803]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall overtake | **<big>[[G2638\|καταλήψεται]]</big>** |
+| among you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| threshing | **<big>[[G6240\|αλοητός]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| gathering of the crops; | **<big>[[G9506\|τρυγητόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| gathering of the crops | **<big>[[G9506\|τρυγητός]]</big>** |
+| shall overtake | **<big>[[G2638\|καταλήψεται]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sowing; | **<big>[[G4703\|σπόρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your bread | **<big>[[G0740\|άρτον]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| fullness. | **<big>[[G4140\|πλησμονήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall dwell | **<big>[[G2730\|κατοικήσετε]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| safety | **<big>[[G0803\|ασφαλείας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your land. | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.4|<< Leviticus 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.6|Leviticus 26:6 >>]]</td></tr></table>
 
 

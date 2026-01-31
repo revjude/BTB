@@ -7,25 +7,25 @@ They come from a far country, from the end of heaven, [even] the LORD, and the w
 They are coming from faraway lands, from the ends of the heavens—the LORD and the weapons of His wrath—to destroy the whole country.<small><sub>**MT:**</sub></small>
 [[Isa.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.4|<< Isaiah 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.6|Isaiah 13:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They come | <big><span class="asgreek">έρχεσθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| at a distance, | <big><span class="asgreek">πόρρωθεν</span></big> <sup><small><small>[[G4207]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] extremity | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of \[the\] foundation | <big><span class="asgreek">θεμελίου</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his armed warriors, | <big><span class="asgreek">οπλόμαχοι</span></big> <sup><small><small>[[G8538]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to ruin | <big><span class="asgreek">καταφθείραι</span></big> <sup><small><small>[[G2704]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| world. | <big><span class="asgreek">οικουμένην</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| They come | **<big>[[G2064\|έρχεσθε]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| at a distance, | **<big>[[G4207\|πόρρωθεν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] extremity | **<big>[[G6208\|άκρου]]</big>** |
+| of \[the\] foundation | **<big>[[G2310\|θεμελίου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανού]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his armed warriors, | **<big>[[G8538\|οπλόμαχοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to ruin | **<big>[[G2704\|καταφθείραι]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| world. | **<big>[[G3611\|οικουμένην]]</big>** |
 [[Isa.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.4|<< Isaiah 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.6|Isaiah 13:6 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָדַף‎</span></big> **râdaph** <small>*(raw-daf')*</small> ==**to pursue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָדַף‎</span></big>** **râdaph** <small>*(raw-daf')*</small> ==**to pursue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ chase, put to flight, follow (after, on), hunt, (be under) persecute(-ion, -or), pursue(-r).
@@ -18,4 +18,4 @@ $\quad$ **1c)** (Piel) to pursue ardently, aim eagerly to secure, pursue
 $\quad$ **1d)** (Pual) to be pursued, be chased away
 $\quad$ **1e)** (Hiphil) to pursue, chase
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντίκειμαι</span><sup><small>[[G0480]]</small></sup> · <span class="asgreek">διωγμός</span><sup><small>[[G1375]]</small></sup> · <span class="asgreek">διώκω</span><sup><small>[[G1377]]</small></sup> · <span class="asgreek">ἐκδιώκω</span><sup><small>[[G1559]]</small></sup> · <span class="asgreek">ἐρεθίζω</span><sup><small>[[G2042]]</small></sup> · <span class="asgreek">καταβαίνω</span><sup><small>[[G2597]]</small></sup> · <span class="asgreek">κατάγνυμι</span><sup><small>[[G2608]]</small></sup> · <span class="asgreek">καταδιώκω</span><sup><small>[[G2614]]</small></sup> · <span class="asgreek">κατατρέχω</span><sup><small>[[G2701]]</small></sup>
+<small>See Greek: </small>**<big>[[G0480|ἀντίκειμαι]]</big>** · **<big>[[G1375|διωγμός]]</big>** · **<big>[[G1377|διώκω]]</big>** · **<big>[[G1559|ἐκδιώκω]]</big>** · **<big>[[G2042|ἐρεθίζω]]</big>** · **<big>[[G2597|καταβαίνω]]</big>** · **<big>[[G2608|κατάγνυμι]]</big>** · **<big>[[G2614|καταδιώκω]]</big>** · **<big>[[G2701|κατατρέχω]]</big>**

@@ -7,22 +7,22 @@ Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith th
 You are to make tassels on the four corners of the cloak you wear.<small><sub>**MT:**</sub></small>
 [[Deut.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.11|<< Deuteronomy 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.13|Deuteronomy 22:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A twisted \[fringe\] | <big><span class="asgreek">στρεπτά</span></big> <sup><small><small>[[G9823]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| decorative hems | <big><span class="asgreek">κρασπέδων</span></big> <sup><small><small>[[G2899]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your wrap-around garments, | <big><span class="asgreek">περιβολαίων</span></big> <sup><small><small>[[G4018]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should put around yourself | <big><span class="asgreek">περιβάλη</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A twisted \[fringe\] | **<big>[[G9823\|στρεπτά]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| for yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| decorative hems | **<big>[[G2899\|κρασπέδων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your wrap-around garments, | **<big>[[G4018\|περιβολαίων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should put around yourself | **<big>[[G4016\|περιβάλη]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Deut.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.11|<< Deuteronomy 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.13|Deuteronomy 22:13 >>]]</td></tr></table>
 
 

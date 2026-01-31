@@ -7,21 +7,21 @@ And before this, Eliashib the priest, having the oversight of the chamber of the
 Now before this, Eliashib the priest, a relative of Tobiah, had been put in charge of the storerooms of the house of our God<small><sub>**MT:**</sub></small>
 [[Neh.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Eliashib | <big><span class="asgreek">Ελιασίβ</span></big> <sup><small><small>[[H0475]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| lived | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] treasury | <big><span class="asgreek">γαζοφυλακίω</span></big> <sup><small><small>[[G1049]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of our God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| near | <big><span class="asgreek">εγγιών</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| Tobiah. | <big><span class="asgreek">Τωβία</span></big> <sup><small><small>[[H2900]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| Eliashib | **<big>[[H0475\|Ελιασίβ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| lived | **<big>[[G3611\|οίκων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] treasury | **<big>[[G1049\|γαζοφυλακίω]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of our God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημων]]</big>** |
+| near | **<big>[[G1448\|εγγιών]]</big>** |
+| Tobiah. | **<big>[[H2900\|Τωβία]]</big>** |
 [[Neh.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְכֹאת‎</span></big> **nᵉkôʼth** <small>*(nek-ohth')*</small> ==**tragacanth gum**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָכֵא‎</span><sup><small>[[H5218]]</small></sup></small>
+**<big><span class="ashebrew">‎נְכֹאת‎</span></big>** **nᵉkôʼth** <small>*(nek-ohth')*</small> ==**tragacanth gum**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5218|‎נָכֵא‎]]</big>**</small>
 
 $\quad$ spicery(-ces).
 - properly, ***a smiting***, i.e. (concretely) ***an aromatic gum*** (perhaps styrax) (as powdered)

@@ -6,15 +6,15 @@ Let heaven and earth praise Him, the seas and everything that moves in them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.33|<< Psalms 69:33]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.35|Psalms 69:35 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may they praise him  | <span class="ashebrew"><big>יְֽ֭הַלְלוּ </big></span><small><small><sup>[[H1984B]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| Ye.ha.lu. <small><sup>[[HVpi3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heaven  | <span class="ashebrew"><big>שָׁמַ֣יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and earth  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] seas  | <span class="ashebrew"><big>יַ֝מִּ֗ים </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and every  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [thing which] moves  | <span class="ashebrew"><big>רֹמֵ֥שׂ </big></span><small><small><sup>[[H7430]]</sup></small></small> &#8207;| ro.Mes <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in them  | <span class="ashebrew"><big>בָּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ba <small><sup>[[HR]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they praise him  |**<big>&#8207;[[H1984B\|יְֽ֭הַלְלוּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Ye.ha.lu.<small><sup>[[HVpi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and earth  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  |**<big>&#8207;[[H3220G\|יַ֝מִּ֗ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [thing which] moves  |**<big>&#8207;[[H7430\|רֹמֵ֥שׂ]]&#8207; </big>**| ro.Mes<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in them  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.33|<< Psalms 69:33]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.35|Psalms 69:35 >>]]</td></tr></table>
 
 

@@ -10,43 +10,43 @@ And when David was a little past the top [of the hill], behold, Ziba the servant
 When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine.<small><sub>**MT:**</sub></small>
 [[2Sam.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.37|<< 2 Samuel 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.2|2 Samuel 16:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| went through | <big><span class="asgreek">διήλθε</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| a little \[way\] | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ros. | <big><span class="asgreek">Ρως</span></big> <sup><small><small>[[H7220]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| Ziba | <big><span class="asgreek">Σιβά</span></big> <sup><small><small>[[H6717]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| of Mephibosheth | <big><span class="asgreek">Μεφιβόσεθ</span></big> <sup><small><small>[[H4648]]</small></small></sup> |
-| arrived | <big><span class="asgreek">ήρχετο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meeting | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a pair | <big><span class="asgreek">ζεύγος</span></big> <sup><small><small>[[G2201]]</small></small></sup> |
-| of donkeys | <big><span class="asgreek">όνων</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| being saddled, | <big><span class="asgreek">επισεσαγμένων</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| bread loaves, | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an ephah | <big><span class="asgreek">οίφι</span></big> <sup><small><small>[[G8467]]</small></small></sup> |
-| of dried grape \[clusters\], | <big><span class="asgreek">σταφίδων</span></big> <sup><small><small>[[G9154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| dried \[fruit\] clusters, | <big><span class="asgreek">παλάθαι</span></big> <sup><small><small>[[G8584]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a skin flask | <big><span class="asgreek">νέβελ</span></big> <sup><small><small>[[G8380]]</small></small></sup> |
-| of wine. | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| went through | **<big>[[G1330\|διήλθε]]</big>** |
+| a little \[way\] | **<big>[[G3398\|μικρόν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Ros. | **<big>[[H7220\|Ρως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| Ziba | **<big>[[H6717\|Σιβά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| servant | **<big>[[G3808\|παιδάριον]]</big>** |
+| of Mephibosheth | **<big>[[H4648\|Μεφιβόσεθ]]</big>** |
+| arrived | **<big>[[G2064\|ήρχετο]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| meeting | **<big>[[G0529\|απάντησιν]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a pair | **<big>[[G2201\|ζεύγος]]</big>** |
+| of donkeys | **<big>[[G3688\|όνων]]</big>** |
+| being saddled, | **<big>[[G7442\|επισεσαγμένων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| two hundred | **<big>[[G1250\|διακόσιοι]]</big>** |
+| bread loaves, | **<big>[[G0740\|άρτοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an ephah | **<big>[[G8467\|οίφι]]</big>** |
+| of dried grape \[clusters\], | **<big>[[G9154\|σταφίδων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| dried \[fruit\] clusters, | **<big>[[G8584\|παλάθαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a skin flask | **<big>[[G8380\|νέβελ]]</big>** |
+| of wine. | **<big>[[G3631\|οίνου]]</big>** |
 [[2Sam.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.37|<< 2 Samuel 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.2|2 Samuel 16:2 >>]]</td></tr></table>
 
 

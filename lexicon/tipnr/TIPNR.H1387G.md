@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Geba</span>, a Levitical city in the territory of Benjamin, was located on the northern border of the kingdom of Judah \([[Josh.18.24|Joshua 18:24]]; [[1Kgs.15.22|1 Kings 15:22]]\).
 - A location first mentioned at [[Josh.18.24|Jos.18.24]]; 
-- only referred to as Geba<[[H1387G]]> \(<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ע</span>\).
+- only referred to as Geba **<big>[[H1387|גֶּבַע]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.85787804122625,35.25975521608824&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Geba's location on the northern border of Judah made it a strategically importan
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Geba | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ע</span>](H1387G) <small>*Hebrew*</small> | 16x | [[Jos.18.24] ... [Zec.14.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geba\*\|reference=Jos.18.24;Jos.21.17;1Sa.13.3;1Sa.13.16;1Sa.14.5;1Ki.15.22;2Ki.23.8;1Ch.6.60;1Ch.8.6;2Ch.16.6;Ezr.2.26;Neh.7.30;Neh.11.31;Neh.12.29;Isa.10.29;Zec.14.10) |
-All Strong's for **Geba**: \[[[H1387G]]\]
+| Geba | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ע</span>](H1387G) | 16x | [[Jos.18.24] ... [Zec.14.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geba\*\|reference=Jos.18.24;Jos.21.17;1Sa.13.3;1Sa.13.16;1Sa.14.5;1Ki.15.22;2Ki.23.8;1Ch.6.60;1Ch.8.6;2Ch.16.6;Ezr.2.26;Neh.7.30;Neh.11.31;Neh.12.29;Isa.10.29;Zec.14.10) |
+All entries for **Geba**:  **<big>[[H1387|גֶּבַע]]</big>**

@@ -7,37 +7,37 @@ But the Levites shall do the service of the tabernacle of the congregation, and 
 The Levites are to perform the work of the Tent of Meeting, and they must bear their iniquity. This is a permanent statute for the generations to come. The Levites will not receive an inheritance among the Israelites.<small><sub>**MT:**</sub></small>
 [[Num.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.22|<< Numbers 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.24|Numbers 18:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall officiate | <big><span class="asgreek">λειτουργήσει</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levite | <big><span class="asgreek">Λευίτης</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ministration | <big><span class="asgreek">λειτουργίαν</span></big> <sup><small><small>[[G3009]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony; | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins. | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμιμον</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
-| \[It is\] an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their generations. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be an heir | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| of an inheritance, | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall officiate | **<big>[[G3008\|λειτουργήσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Levite | **<big>[[G3017\|Λευίτης]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ministration | **<big>[[G3009\|λειτουργίαν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony; | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall take | **<big>[[G2983\|λήψονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their sins. | **<big>[[G0265\|αμαρτήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| law | **<big>[[G8403\|νόμιμον]]</big>** |
+| \[It is\] an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their generations. | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| be an heir | **<big>[[G2816\|κληρονομήσουσι]]</big>** |
+| of an inheritance, | **<big>[[G2817\|κληρονομίαν]]</big>** |
 [[Num.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.22|<< Numbers 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.24|Numbers 18:24 >>]]</td></tr></table>
 
 

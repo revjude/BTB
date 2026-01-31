@@ -6,22 +6,22 @@ If you bring a grain offering of firstfruits to the LORD, you shall offer crushe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.13|<< Leviticus 2:13]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.15|Leviticus 2:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and if  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will present  | <span class="ashebrew"><big>תַּקְרִ֛יב </big></span><small><small><sup>[[H7126H]]</sup></small></small> &#8207;| tak.Riv <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a grain offering of  | <span class="ashebrew"><big>מִנְחַ֥ת </big></span><small><small><sup>[[H4503G]]</sup></small></small> &#8207;| min.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| first-fruits  | <span class="ashebrew"><big>בִּכּוּרִ֖ים </big></span><small><small><sup>[[H1061]]</sup></small></small> &#8207;| bi.ku.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young barley ear[s]  | <span class="ashebrew"><big>אָבִ֞יב </big></span><small><small><sup>[[H0024]]</sup></small></small> &#8207;| 'a.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| roasted  | <span class="ashebrew"><big>קָל֤וּי </big></span><small><small><sup>[[H7033]]</sup></small></small> &#8207;| ka.Lui <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the fire  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֵשׁ֙ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| groats of  | <span class="ashebrew"><big>גֶּ֣רֶשׂ </big></span><small><small><sup>[[H1643]]</sup></small></small> &#8207;| Ge.res <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new corn  | <span class="ashebrew"><big>כַּרְמֶ֔ל </big></span><small><small><sup>[[H3759]]</sup></small></small> &#8207;| kar.Mel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will present  | <span class="ashebrew"><big>תַּקְרִ֕יב </big></span><small><small><sup>[[H7126H]]</sup></small></small> &#8207;| tak.Riv <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] grain offering of  | <span class="ashebrew"><big>מִנְחַ֥ת </big></span><small><small><sup>[[H4503G]]</sup></small></small> &#8207;| min.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| first-fruits your  | <span class="ashebrew"><big>בִּכּוּרֶֽי </big></span><small><small><sup>[[H1061]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bi.ku.Rei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will present  |**<big>&#8207;[[H7126H\|תַּקְרִ֛יב]]&#8207; </big>**| tak.Riv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a grain offering of  |**<big>&#8207;[[H4503G\|מִנְחַ֥ת]]&#8207; </big>**| min.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| first-fruits  |**<big>&#8207;[[H1061\|בִּכּוּרִ֖ים]]&#8207; </big>**| bi.ku.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young barley ear[s]  |**<big>&#8207;[[H0024\|אָבִ֞יב]]&#8207; </big>**| 'a.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| roasted  |**<big>&#8207;[[H7033\|קָל֤וּי]]&#8207; </big>**| ka.Lui<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| groats of  |**<big>&#8207;[[H1643\|גֶּ֣רֶשׂ]]&#8207; </big>**| Ge.res<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new corn  |**<big>&#8207;[[H3759\|כַּרְמֶ֔ל]]&#8207; </big>**| kar.Mel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will present  |**<big>&#8207;[[H7126H\|תַּקְרִ֕יב]]&#8207; </big>**| tak.Riv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] grain offering of  |**<big>&#8207;[[H4503G\|מִנְחַ֥ת]]&#8207; </big>**| min.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| first-fruits your  |**<big>&#8207;[[H1061\|בִּכּוּרֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi.ku.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.13|<< Leviticus 2:13]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.15|Leviticus 2:15 >>]]</td></tr></table>
 
 

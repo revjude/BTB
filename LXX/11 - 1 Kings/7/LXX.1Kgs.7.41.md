@@ -7,38 +7,38 @@ The two pillars, and the [two] bowls of the chapiters that [were] on the top of 
 the two pillars; the two bowl-shaped capitals atop the pillars; the two sets of network covering both bowls of the capitals atop the pillars;<small><sub>**MT:**</sub></small>
 [[1Kgs.7.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.40|<< 1 Kings 7:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.42|1 Kings 7:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| columns | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twisted \[works\] | <big><span class="asgreek">στρεπτά</span></big> <sup><small><small>[[G9823]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings, | <big><span class="asgreek">γλυφών</span></big> <sup><small><small>[[G6746]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heads | <big><span class="asgreek">κεφαλών</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| latticed \[works\] | <big><span class="asgreek">δίκτυα</span></big> <sup><small><small>[[G1350]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to cover | <big><span class="asgreek">καλύπτειν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότερα</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twisted \[works\] | <big><span class="asgreek">στρεπτά</span></big> <sup><small><small>[[G9823]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings, | <big><span class="asgreek">γλυφών</span></big> <sup><small><small>[[G6746]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns; | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
+| columns | **<big>[[G4769\|στύλους]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| twisted \[works\] | **<big>[[G9823\|στρεπτά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| carvings, | **<big>[[G6746\|γλυφών]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| being | **<big>[[G1510\|όντα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| heads | **<big>[[G2776\|κεφαλών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| columns | **<big>[[G4769\|στύλων]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| latticed \[works\] | **<big>[[G1350\|δίκτυα]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to cover | **<big>[[G2572\|καλύπτειν]]</big>** |
+| both | **<big>[[G0297\|αμφότερα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| twisted \[works\] | **<big>[[G9823\|στρεπτά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| carvings, | **<big>[[G6746\|γλυφών]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| being | **<big>[[G1510\|όντα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| columns; | **<big>[[G4769\|στύλων]]</big>** |
 [[1Kgs.7.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.40|<< 1 Kings 7:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.42|1 Kings 7:42 >>]]</td></tr></table>
 
 

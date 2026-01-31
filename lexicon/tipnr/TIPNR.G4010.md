@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pergamum</span> was one of the seven churches of Asia addressed in the Book of Revelation, known for its faithfulness despite living in a city associated with Satan's throne.
 - A location first mentioned at [[Rev.1.11|Rev.1.11]]; 
-- only referred to as Pergamum<[[G4010]]> \(<span class='tipnrLangGreek'>Πέργαμος</span>\).
+- only referred to as Pergamum **<big>[[G4010|Πέργαμος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.11894592031751,27.16512610475739&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Pergamum, also known as Pergamon, was an ancient city located in the region of M
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pergamum | [<span class='tipnrLangGreek'>Πέργαμος</span>](G4010) <small>*Greek*</small> | 2x | [[Rev.1.11] & [Rev.2.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pergamum\*\|reference=Rev.1.11;Rev.2.12) |
-All Strong's for **Pergamum**: \[[[G4010]]\]
+| Pergamum | [<span class='tipnrLangGreek'>Πέργαμος</span>](G4010) | 2x | [[Rev.1.11] & [Rev.2.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pergamum\*\|reference=Rev.1.11;Rev.2.12) |
+All entries for **Pergamum**:  **<big>[[G4010|Πέργαμος]]</big>**

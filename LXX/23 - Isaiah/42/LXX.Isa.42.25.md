@@ -7,32 +7,32 @@ Therefore he hath poured upon him the fury of his anger, and the strength of bat
 So He poured out on them His furious anger and the fierceness of battle. It enveloped them in flames, but they did not understand; it consumed them, but they did not take it to heart.<small><sub>**MT:**</sub></small>
 [[Isa.42.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.24|<< Isaiah 42:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.1|Isaiah 43:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">επήγαγεν</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of his rage; | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strengthened | <big><span class="asgreek">κατίσχυσεν</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| \[against\] them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] war | <big><span class="asgreek">πόλεμος</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| burning | <big><span class="asgreek">συμφλέγοντες</span></big> <sup><small><small>[[G9284]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about; | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| put \[it\] | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[their\] soul. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1863\|επήγαγεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] anger | **<big>[[G3709\|οργήν]]</big>** |
+| of his rage; | **<big>[[G2372\|θυμού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strengthened | **<big>[[G2729\|κατίσχυσεν]]</big>** |
+| \[against\] them | **<big>[[G1473\|αυτούς]]</big>** |
+| \[the\] war | **<big>[[G4171\|πόλεμος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| burning | **<big>[[G9284\|συμφλέγοντες]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| round about; | **<big>[[G2945\|κύκλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1097\|έγνωσαν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| put \[it\] | **<big>[[G5087\|έθεντο]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \[their\] soul. | **<big>[[G5590\|ψυχήν]]</big>** |
 [[Isa.42.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.24|<< Isaiah 42:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.1|Isaiah 43:1 >>]]</td></tr></table>
 
 

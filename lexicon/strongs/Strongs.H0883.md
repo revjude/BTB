@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֵר לַחַי רֹאִי‎</span></big> **Bᵉʼêr la-Chay Rôʼîy** <small>*(be-ayr' lakh-ah'ee ro-ee')*</small> ==**Beer-lahai-roi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בְּאֵר‎</span><sup><small>[[H0875]]</small></sup> and <span class="ashebrew">‎חַי‎</span><sup><small>[[H2416]]</small></sup> (with prefix) and <span class="ashebrew">‎רֹאֶה‎</span><sup><small>[[H7203]]</small></sup>; well of a living (One) my Seer</small>
+**<big><span class="ashebrew">‎בְּאֵר לַחַי רֹאִי‎</span></big>** **Bᵉʼêr la-Chay Rôʼîy** <small>*(be-ayr' lakh-ah'ee ro-ee')*</small> ==**Beer-lahai-roi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0875|‎בְּאֵר‎]]</big>** and **<big>[[H2416|‎חַי‎]]</big>** (with prefix) and **<big>[[H7203|‎רֹאֶה‎]]</big>**; well of a living (One) my Seer</small>
 
 $\quad$ Beer-lahai-roi.
 - § Beer-lahai-roi = *"well of the Living One seeing me"*

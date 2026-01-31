@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Machpelah</span>, a cave near Hebron purchased by Abraham as a burial place for Sarah and later used for other patriarchs \([[Gen.23.9|Genesis 23:9]], 17-19\).
 - A location first mentioned at [[Gen.23.9|Gen.23.9]]; 
-- only referred to as Machpelah<[[H4375]]> \(<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>פ</span>ֵּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Machpelah **<big>[[H4375|מַכְפֵּלָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.52464794555393,35.11073465087356&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Machpelah was a cave located near Hebron in Canaan, which Abraham purchased from
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Machpelah | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>פ</span>ֵּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4375) <small>*Hebrew*</small> | 6x | [[Gen.23.9] ... [Gen.50.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Machpelah\*\|reference=Gen.23.9;Gen.23.17;Gen.23.19;Gen.25.9;Gen.49.30;Gen.50.13) |
-All Strong's for **Machpelah**: \[[[H4375]]\]
+| Machpelah | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>פ</span>ֵּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4375) | 6x | [[Gen.23.9] ... [Gen.50.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Machpelah\*\|reference=Gen.23.9;Gen.23.17;Gen.23.19;Gen.25.9;Gen.49.30;Gen.50.13) |
+All entries for **Machpelah**:  **<big>[[H4375|מַכְפֵּלָה]]</big>**

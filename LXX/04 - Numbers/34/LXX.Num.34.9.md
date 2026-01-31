@@ -7,24 +7,24 @@ And the border shall go on to Ziphron, and the goings out of it shall be at Haza
 continue to Ziphron, and end at Hazar-enan. This will be your boundary on the north.<small><sub>**MT:**</sub></small>
 [[Num.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.8|<< Numbers 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.10|Numbers 34:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| to Ziphron, | <big><span class="asgreek">Ζεφρωνά</span></big> <sup><small><small>[[H2202]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Hazer-enan. | <big><span class="asgreek">Ασερναάν</span></big> <sup><small><small>[[H2704]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| to Ziphron, | **<big>[[H2202\|Ζεφρωνά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| its outer reaches | **<big>[[G1327\|διέξοδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Hazer-enan. | **<big>[[H2704\|Ασερναάν]]</big>** |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| \[the\] borders | **<big>[[G3725\|όρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορρά]]</big>** |
 [[Num.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.8|<< Numbers 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.10|Numbers 34:10 >>]]</td></tr></table>
 
 

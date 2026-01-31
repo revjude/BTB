@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תּוֹכֵחָה‎</span></big> **tôwkêchâh** <small>*(to-kay-khaw')*</small> ==**rebuke**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>and <span class="ashebrew">תּוֹכַחַת</span> **tôwkachath** <small>*(to-kakh'-ath)*</small>; from <span class="ashebrew">‎יָכַח‎</span><sup><small>[[H3198]]</small></sup></small>
+**<big><span class="ashebrew">‎תּוֹכֵחָה‎</span></big>** **tôwkêchâh** <small>*(to-kay-khaw')*</small> ==**rebuke**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>and **<big><span class="ashebrew">תּוֹכַחַת</span></big>** **tôwkachath** <small>*(to-kakh'-ath)*</small>; from **<big>[[H3198|‎יָכַח‎]]</big>**</small>
 
 $\quad$ argument, [idiom] chastened, correction, reasoning, rebuke, reproof, [idiom] be (often) reproved.
 - ***chastisement***
@@ -11,4 +11,4 @@ $\quad$ **2a)** argument, impeachment
 $\quad$ **2b)** reproof, chiding
 $\quad$ **2c)** correction, rebuke
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκδίκησις</span><sup><small>[[G1557]]</small></sup> · <span class="asgreek">ἔλεγχος</span><sup><small>[[G1650]]</small></sup> · <span class="asgreek">ἔλεγχος</span><sup><small>[[G1650]]</small></sup> · <span class="asgreek">ἐντολή</span><sup><small>[[G1785]]</small></sup> · <span class="asgreek">ὀνειδισμός</span><sup><small>[[G3680]]</small></sup> · <span class="asgreek">παιδεία</span><sup><small>[[G3809]]</small></sup>
+<small>See Greek: </small>**<big>[[G1557|ἐκδίκησις]]</big>** · **<big>[[G1650|ἔλεγχος]]</big>** · **<big>[[G1650|ἔλεγχος]]</big>** · **<big>[[G1785|ἐντολή]]</big>** · **<big>[[G3680|ὀνειδισμός]]</big>** · **<big>[[G3809|παιδεία]]</big>**

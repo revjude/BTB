@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎שֹׁקֶת‎</span></big> **shôqeth** <small>*(sho'-keth)*</small> ==**trough**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁקָה‎</span><sup><small>[[H8248]]</small></sup></small>
+**<big><span class="ashebrew">‎שֹׁקֶת‎</span></big>** **shôqeth** <small>*(sho'-keth)*</small> ==**trough**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H8248|‎שָׁקָה‎]]</big>**</small>
 
 $\quad$ trough.
 - ***a trough*** (for watering)
 
 **1)** watering trough
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἡσυχάζω</span><sup><small>[[G2270]]</small></sup>
+<small>See Greek: </small>**<big>[[G2270|ἡσυχάζω]]</big>**

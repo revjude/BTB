@@ -7,21 +7,21 @@ And thou shalt be secure, because there is hope; yea, thou shalt dig [about thee
 You will be secure, because there is hope, and you will look around and lie down in safety.<small><sub>**MT:**</sub></small>
 [[Job.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.19|Job 11:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| complying | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| And | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| you shall be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| hope to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| and from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| anxiety | <big><span class="asgreek">μερίμνης</span></big> <sup><small><small>[[G3308]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bewilderment | <big><span class="asgreek">φροντίδος</span></big> <sup><small><small>[[G9665]]</small></small></sup> |
-| shall appear | <big><span class="asgreek">αναφανείταί</span></big> <sup><small><small>[[G0398]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| complying | **<big>[[G3982\|πεποιθώς]]</big>** |
+| And | **<big>[[G5037\|τε]]</big>** |
+| you shall be | **<big>[[G1510\|έση]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
+| hope to you; | **<big>[[G1473\|σοι]]</big>** **<big>[[G1680\|ελπίς]]</big>** |
+| and from | **<big>[[G1537\|εκ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| anxiety | **<big>[[G3308\|μερίμνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bewilderment | **<big>[[G9665\|φροντίδος]]</big>** |
+| shall appear | **<big>[[G0398\|αναφανείταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| peace | **<big>[[G1515\|ειρήνη]]</big>** |
 [[Job.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.19|Job 11:19 >>]]</td></tr></table>
 
 

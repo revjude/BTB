@@ -4,9 +4,9 @@ David's compatriot living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Abishai</span>, the son of Zeruiah and nephew of David, was a loyal commander and one of David's mighty men, known for his bravery and military prowess.
 - David's compatriot living at the time of United Monarchy, first mentioned at 1Sa.26.6; 
-- only referred to as Abishai<[[H0052]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ַׁ<span class='tipnrLangHebrew'>י</span>\); 
-- his mother was Zeruiah<[[H6870G]]>; 
-- a brother of Joab<[[H3097G]]> and Asahel<[[H6214G]]>.
+- only referred to as Abishai **<big>[[H0052|אֲבִישַׁי]]</big>**; 
+- his mother was Zeruiah **<big>[[H6870|צְרוּיָה]]</big>**; 
+- a brother of Joab **<big>[[H3097|יוֹאָב]]</big>** and Asahel **<big>[[H6214|עֲשָׂהאֵל]]</big>**.
 
 Abishai was the son of Zeruiah, King David's sister, making him David's nephew \([[1Chr.2.16|1 Chronicles 2:16]]\). He was the brother of Joab and Asahel, two other prominent figures in David's military ranks \([[2Sam.2.18|2 Samuel 2:18]]\). Abishai was one of David's mighty men and a trusted commander in his army. 
 
@@ -22,8 +22,8 @@ Throughout David's reign, Abishai remained a loyal and trusted commander, playin
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abishai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ַׁ<span class='tipnrLangHebrew'>י</span>](H0052) <small>*Hebrew*</small> | 25x | [[1Sa.26.6a] ... [1Ch.19.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishai\*\|reference=1Sa.26.6;1Sa.26.6;1Sa.26.7;1Sa.26.8;1Sa.26.9;2Sa.2.18;2Sa.2.24;2Sa.3.30;2Sa.10.10;2Sa.10.14;2Sa.16.9;2Sa.16.11;2Sa.18.2;2Sa.18.5;2Sa.18.12;2Sa.19.21;2Sa.20.6;2Sa.20.10;2Sa.21.17;2Sa.23.18;1Ch.2.16;1Ch.11.20;1Ch.18.12;1Ch.19.11;1Ch.19.15) |
-All Strong's for **Abishai**: \[[[H0052]]\]
+| Abishai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ַׁ<span class='tipnrLangHebrew'>י</span>](H0052) | 25x | [[1Sa.26.6a] ... [1Ch.19.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishai\*\|reference=1Sa.26.6;1Sa.26.6;1Sa.26.7;1Sa.26.8;1Sa.26.9;2Sa.2.18;2Sa.2.24;2Sa.3.30;2Sa.10.10;2Sa.10.14;2Sa.16.9;2Sa.16.11;2Sa.18.2;2Sa.18.5;2Sa.18.12;2Sa.19.21;2Sa.20.6;2Sa.20.10;2Sa.21.17;2Sa.23.18;1Ch.2.16;1Ch.11.20;1Ch.18.12;1Ch.19.11;1Ch.19.15) |
+All entries for **Abishai**:  **<big>[[H0052|אֲבִישַׁי]]</big>**
 #### Related Profiles:
 - **[husband_of_Zeruiah](H6870H)** (father)
 - **[Zeruiah](H6870G)** (mother)

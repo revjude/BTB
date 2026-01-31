@@ -7,21 +7,21 @@ When I say, My bed shall comfort me, my couch shall ease my complaint;
 When I think my bed will comfort me and my couch will ease my complaint,<small><sub>**MT:**</sub></small>
 [[Job.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.12|<< Job 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.14|Job 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| shall comfort | <big><span class="asgreek">παρακαλέσει</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bed | <big><span class="asgreek">κλίνη</span></big> <sup><small><small>[[G2825]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and I shall offer | <big><span class="asgreek">ανοίσω</span></big> <sup><small><small>[[G0399]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| myself | <big><span class="asgreek">εμαυτόν</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| my own | <big><span class="asgreek">ιδία</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in my bed. | <big><span class="asgreek">κοίτη</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| shall comfort | **<big>[[G3870\|παρακαλέσει]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my bed | **<big>[[G2825\|κλίνη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and I shall offer | **<big>[[G0399\|ανοίσω]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| myself | **<big>[[G1683\|εμαυτόν]]</big>** |
+| my own | **<big>[[G2398\|ιδία]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in my bed. | **<big>[[G2845\|κοίτη]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Job.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.12|<< Job 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.14|Job 7:14 >>]]</td></tr></table>
 
 

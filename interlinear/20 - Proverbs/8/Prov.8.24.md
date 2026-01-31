@@ -6,15 +6,15 @@ When there were no watery depths, I was brought forth, when no springs were over
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.23|<< Proverbs 8:23]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.25|Proverbs 8:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| when there not  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֵין </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ein- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] deeps  | <span class="ashebrew"><big>תְּהֹמ֥וֹת </big></span><small><small><sup>[[H8415]]</sup></small></small> &#8207;| te.ho.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I was brought forth  | <span class="ashebrew"><big>חוֹלָ֑לְתִּי </big></span><small><small><sup>[[H2342H]]</sup></small></small> &#8207;| cho.Lal.ti <small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when there not  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] springs  | <span class="ashebrew"><big>מַ֝עְיָנ֗וֹת </big></span><small><small><sup>[[H4599]]</sup></small></small> &#8207;| ma'.ya.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| abounding of  | <span class="ashebrew"><big>נִכְבַּדֵּי </big></span><small><small><sup>[[H3513I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| nikh.ba.dei- <small><sup>[[HVNrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מָֽיִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when there not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] deeps  |**<big>&#8207;[[H8415\|תְּהֹמ֥וֹת]]&#8207; </big>**| te.ho.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was brought forth  |**<big>&#8207;[[H2342H\|חוֹלָ֑לְתִּי]]&#8207; </big>**| cho.Lal.ti<small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when there not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] springs  |**<big>&#8207;[[H4599\|מַ֝עְיָנ֗וֹת]]&#8207; </big>**| ma'.ya.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| abounding of  |**<big>&#8207;[[H3513I\|נִכְבַּדֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| nikh.ba.dei-<small><sup>[[HVNrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.23|<< Proverbs 8:23]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.25|Proverbs 8:25 >>]]</td></tr></table>
 
 

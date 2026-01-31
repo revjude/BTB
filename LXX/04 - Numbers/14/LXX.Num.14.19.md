@@ -7,27 +7,27 @@ Pardon, I beseech thee, the iniquity of this people according unto the greatness
 Pardon, I pray, the iniquity of this people, in keeping with the greatness of Your loving devotion, just as You have forgiven them ever since they left Egypt.”<small><sub>**MT:**</sub></small>
 [[Num.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.18|<< Numbers 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.20|Numbers 14:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Dismiss | <big><span class="asgreek">άφες</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of this people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| kindness | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> |
-| happened | <big><span class="asgreek">εγένου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| present. | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| Dismiss | **<big>[[G0863\|άφες]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| of this people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| mercy | **<big>[[G1656\|έλεός]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| kindness | **<big>[[G2436\|ίλεως]]</big>** |
+| happened | **<big>[[G1096\|εγένου]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| present. | **<big>[[G3568\|νυν]]</big>** |
 [[Num.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.18|<< Numbers 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.20|Numbers 14:20 >>]]</td></tr></table>
 
 

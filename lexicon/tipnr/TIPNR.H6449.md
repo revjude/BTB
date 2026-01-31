@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Pisgah</span>, or the slopes of Pisgah, was a mountain range in Moab where Moses viewed the Promised Land before his death.
 - A location first mentioned at [[Num.21.20|Num.21.20]]; 
-- referred to as Pisgah<[[H6449]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ה</span>\), or "slopes of Pisgah" \(KJV= Ashdoth-pisgar\) <[[H6449]]><[[H0798]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Pisgah **<big>[[H6449|פִּסְגָּה]]</big>**, or "slopes of Pisgah" \(KJV= Ashdoth-pisgar\)  **<big>[[H6449|פִּסְגָּה]]</big>** **<big>[[H0798|אַשְׁדּוֹת הַפִּסְגָּה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.76503129703305,35.71856575741812&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Pisgah, or the slopes of Pisgah, was a mountain range located in the land of Moa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Pisgah | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H6449) <small>*Hebrew*</small> | 4x | [[Num.21.20] ... [Deu.34.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pisgah\*\|reference=Num.21.20;Num.23.14;Deu.3.27;Deu.34.1) |
-| slopes of Pisgah (KJV= Ashdoth-pisgar) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H6449)[<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H0798) <small>*Hebrew*</small> | 4x | [[Deu.3.17] ... [Jos.13.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pisgah\*\|reference=Deu.3.17;Deu.4.49; Jos.12.3;Jos.13.20) |
-All Strong's for **Pisgah or slopes_of_**: \[[[H6449]]\]
+| Pisgah | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H6449) | 4x | [[Num.21.20] ... [Deu.34.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pisgah\*\|reference=Num.21.20;Num.23.14;Deu.3.27;Deu.34.1) |
+| slopes of Pisgah (KJV= Ashdoth-pisgar) | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H6449)[<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H0798) | 4x | [[Deu.3.17] ... [Jos.13.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pisgah\*\|reference=Deu.3.17;Deu.4.49; Jos.12.3;Jos.13.20) |
+All entries for **Pisgah or slopes of **:  **<big>[[H6449|פִּסְגָּה]]</big>**

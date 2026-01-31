@@ -11,23 +11,23 @@ Moreover, you are to build there an altar to the LORD your God, an altar of ston
 > $\quad$ referenced by: [[LXX.Josh.8.31|Josh 8:31]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall build | <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God -- | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| stones; | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| put | <big><span class="asgreek">επιβαλείς</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an iron \[tool\]. | <big><span class="asgreek">σίδηρον</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall build | **<big>[[G3618\|οικοδομήσεις]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God -- | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| an altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| stones; | **<big>[[G3037\|λίθων]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| put | **<big>[[G1911\|επιβαλείς]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| an iron \[tool\]. | **<big>[[G4604\|σίδηρον]]</big>** |
 [[Deut.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.4|<< Deuteronomy 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.6|Deuteronomy 27:6 >>]]</td></tr></table>
 
 

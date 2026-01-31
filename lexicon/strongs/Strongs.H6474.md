@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּעֲרַי‎</span></big> **Paʻăray** <small>*(pah-ar-ah'-ee)*</small> ==**Paarai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּעַר‎</span><sup><small>[[H6473]]</small></sup>; yawning</small>
+**<big><span class="ashebrew">‎פַּעֲרַי‎</span></big>** **Paʻăray** <small>*(pah-ar-ah'-ee)*</small> ==**Paarai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6473|‎פָּעַר‎]]</big>**; yawning</small>
 
 $\quad$ Paarai.
 - § Paarai = *"gaping"*

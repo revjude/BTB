@@ -4,7 +4,7 @@ Apostle living at the time of the New Testament
 
 <span class='tipnrhighlight'>Philip</span>, one of the twelve apostles chosen by Jesus, from Bethsaida in Galilee.
 - An apostle living at the time of the New Testament, first mentioned at [[Matt.10.3|Mat.10.3]]; 
-- only referred to as Philip<[[G5376G]]> \(<span class='tipnrLangGreek'>Φίλιππος</span>\).
+- only referred to as Philip **<big>[[G5376|Φίλιππος]]</big>**.
 
 Philip was one of the twelve apostles of Jesus Christ, chosen by Him to be part of His inner circle of disciples. He was from Bethsaida, the same town as Andrew and Peter \([[John.1.44|John 1:44]]\). 
 
@@ -18,5 +18,5 @@ After Jesus' ascension, Philip was among the apostles who gathered in Jerusalem 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Philip | [<span class='tipnrLangGreek'>Φίλιππος</span>](G5376G) <small>*Greek*</small> | 16x | [[Mat.10.3] ... [Act.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philip\*\|reference=Mat.10.3;Mrk.3.18;Luk.6.14;Jhn.1.43;Jhn.1.44;Jhn.1.45;Jhn.1.46;Jhn.1.48;Jhn.6.5;Jhn.6.7;Jhn.12.21;Jhn.12.22;Jhn.12.22;Jhn.14.8;Jhn.14.9;Act.1.13) |
-All Strong's for **Philip**: \[[[G5376G]]\]
+| Philip | [<span class='tipnrLangGreek'>Φίλιππος</span>](G5376G) | 16x | [[Mat.10.3] ... [Act.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philip\*\|reference=Mat.10.3;Mrk.3.18;Luk.6.14;Jhn.1.43;Jhn.1.44;Jhn.1.45;Jhn.1.46;Jhn.1.48;Jhn.6.5;Jhn.6.7;Jhn.12.21;Jhn.12.22;Jhn.12.22;Jhn.14.8;Jhn.14.9;Act.1.13) |
+All entries for **Philip**:  **<big>[[G5376|Φίλιππος]]</big>**

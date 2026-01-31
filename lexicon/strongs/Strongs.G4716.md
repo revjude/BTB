@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎σταυρός‎</span></big> **staurós** <small>*(stow-ros')*</small> ==**cross**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
-<small>from the base of <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup></small>
+**<big><span class="asgreek">‎σταυρός‎</span></big>** **staurós** <small>*(stow-ros')*</small> ==**cross**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+<small>from the base of **<big>[[G2476|‎ἵστημι‎]]</big>**</small>
 
 $\quad$ cross.
 - a stake or post (as set upright), i.e. (specially), a pole or cross (as an instrument of capital punishment)

@@ -7,55 +7,55 @@ Then spake the woman whose the living child [was] unto the king, for her bowels 
 Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!”<small><sub>**MT:**</sub></small>
 [[1Kgs.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.25|<< 1 Kings 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.27|1 Kings 3:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was \[the mother\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living | <big><span class="asgreek">ζων</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| womb | <big><span class="asgreek">μήτρα</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her son, | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[Hear\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O master. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child, | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be put to death | <big><span class="asgreek">θανατώσητε</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she \[the other\] | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Neither | <big><span class="asgreek">μήτε</span></big> <sup><small><small>[[G3383]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">μήτε</span></big> <sup><small><small>[[G3383]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let it be, | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| divide | <big><span class="asgreek">διέλετε</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| answered | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| of whom | **<big>[[G3739\|ης]]</big>** |
+| was \[the mother\] | **<big>[[G1510\|ην]]</big>** |
+| of the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| living | **<big>[[G2198\|ζων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king, | **<big>[[G0935\|βασιλέα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| was disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| womb | **<big>[[G3388\|μήτρα]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her son, | **<big>[[G5207\|υιώ]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπεν]]</big>** |
+| \[Hear\] | **<big>[[G1722\|εν]]</big>** |
+| me, | **<big>[[G1473\|εμοί]]</big>** |
+| O master. | **<big>[[G2962\|κύριε]]</big>** |
+| give | **<big>[[G1325\|δότε]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| child, | **<big>[[G3813\|παιδίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to death | **<big>[[G2288\|θανάτω]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| be put to death | **<big>[[G2289\|θανατώσητε]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she \[the other\] | **<big>[[G3778\|αύτη]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| Neither | **<big>[[G3383\|μήτε]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| nor | **<big>[[G3383\|μήτε]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| let it be, | **<big>[[G1510\|έστω]]</big>** |
+| divide | **<big>[[G1244\|διέλετε]]</big>** |
+| it! | **<big>[[G1473\|αυτό]]</big>** |
 [[1Kgs.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.25|<< 1 Kings 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.27|1 Kings 3:27 >>]]</td></tr></table>
 
 

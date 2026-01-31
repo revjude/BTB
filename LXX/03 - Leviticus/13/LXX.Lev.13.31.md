@@ -7,41 +7,41 @@ And if the priest look on the plague of the scall, and, behold, it [be] not in s
 But if the priest examines the scaly infection and it does not appear to be deeper than the skin, and there is no black hair in it, the priest shall isolate the infected person for seven days.<small><sub>**MT:**</sub></small>
 [[Lev.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.30|<< Leviticus 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.32|Leviticus 13:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should look at | <big><span class="asgreek">ίδη</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outbreak, | <big><span class="asgreek">θραύσματος</span></big> <sup><small><small>[[G7688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψις</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| imbedded under | <big><span class="asgreek">εγκοιλοτέρα</span></big> <sup><small><small>[[G7020]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματος</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] hair | <big><span class="asgreek">θριξ</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| yellowish | <big><span class="asgreek">ξανθίζουσα</span></big> <sup><small><small>[[G8422]]</small></small></sup> |
-| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall separate | <big><span class="asgreek">αφοριεί</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outbreak | <big><span class="asgreek">θραύσματος</span></big> <sup><small><small>[[G7688]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should look at | **<big>[[G1492\|ίδη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| infection | **<big>[[G0860\|αφήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| outbreak, | **<big>[[G7688\|θραύσματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| is not | **<big>[[G3756\|ουχ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| appearance | **<big>[[G3799\|όψις]]</big>** |
+| imbedded under | **<big>[[G7020\|εγκοιλοτέρα]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| skin, | **<big>[[G1192\|δέρματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] hair | **<big>[[G2359\|θριξ]]</big>** |
+| yellowish | **<big>[[G8422\|ξανθίζουσα]]</big>** |
+| is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall separate | **<big>[[G0873\|αφοριεί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| infection | **<big>[[G0860\|αφήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| outbreak | **<big>[[G7688\|θραύσματος]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[Lev.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.30|<< Leviticus 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.32|Leviticus 13:32 >>]]</td></tr></table>
 
 

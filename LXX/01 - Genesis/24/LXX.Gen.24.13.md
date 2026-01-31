@@ -7,26 +7,26 @@ Behold, I stand [here] by the well of water; and the daughters of the men of the
 Here I am, standing beside the spring, and the daughters of the townspeople are coming out to draw water.<small><sub>**MT:**</sub></small>
 [[Gen.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.12|<< Genesis 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.14|Genesis 24:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stand | <big><span class="asgreek">έστηκα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spring | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of water, | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| living in | <big><span class="asgreek">οικούντων</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εκπορεύονται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to draw | <big><span class="asgreek">αντλήσαι</span></big> <sup><small><small>[[G0501]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| stand | **<big>[[G2476\|έστηκα]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| spring | **<big>[[G4077\|πηγήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of water, | **<big>[[G5204\|ύδατος]]</big>** |
+| and the | **<big>[[G3588\|αι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| living in | **<big>[[G3611\|οικούντων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| come forth | **<big>[[G1607\|εκπορεύονται]]</big>** |
+| to draw | **<big>[[G0501\|αντλήσαι]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Gen.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.12|<< Genesis 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.14|Genesis 24:14 >>]]</td></tr></table>
 
 

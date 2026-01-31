@@ -7,26 +7,26 @@ My lord, hearken unto me: the land [is worth] four hundred shekels of silver; wh
 “Listen to me, my lord. The land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”<small><sub>**MT:**</sub></small>
 [[Gen.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.14|<< Genesis 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.16|Genesis 23:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Not so | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| O lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for I heard | <big><span class="asgreek">ακήκοα</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| four hundred | <big><span class="asgreek">τετρακοσίων</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
-| double-drachmas | <big><span class="asgreek">διδράχμων</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| of silver; | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| may this be | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">τουτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you? | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dead | <big><span class="asgreek">νεκρόν</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| entomb | <big><span class="asgreek">θάψον</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
+| Not so | **<big>[[G3780\|ουχί]]</big>** |
+| O lord, | **<big>[[G2962\|κύριε]]</big>** |
+| for I heard | **<big>[[G0191\|ακήκοα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| four hundred | **<big>[[G5071\|τετρακοσίων]]</big>** |
+| double-drachmas | **<big>[[G1323\|διδράχμων]]</big>** |
+| of silver; | **<big>[[G0694\|αργυρίου]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| may this be | **<big>[[G1510\|είη]]</big>** **<big>[[G3778\|τουτο]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you? | **<big>[[G1473\|σου]]</big>** |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your dead | **<big>[[G3498\|νεκρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| entomb | **<big>[[G2290\|θάψον]]</big>** |
 [[Gen.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.14|<< Genesis 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.16|Genesis 23:16 >>]]</td></tr></table>
 
 

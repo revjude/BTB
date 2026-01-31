@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כָּלֵב‎</span></big> **Kâlêb** <small>*(kaw-labe')*</small> ==**Caleb**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps a form of <span class="ashebrew">‎כֶּלֶב‎</span><sup><small>[[H3611]]</small></sup>, or else from the same root in the sense of forcible</small>
+**<big><span class="ashebrew">‎כָּלֵב‎</span></big>** **Kâlêb** <small>*(kaw-labe')*</small> ==**Caleb**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps a form of **<big>[[H3611|‎כֶּלֶב‎]]</big>**, or else from the same root in the sense of forcible</small>
 
 $\quad$ Caleb.
 - § Caleb = *"dog"*

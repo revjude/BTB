@@ -1,4 +1,4 @@
-<small>Also see: [[H7024]]</small>
+<small>Also see: **<big>[[H7024|קִיר]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎קִיר‎</span> **noun masculine**<sup>[[Ps.62.4|Ps 62:4]]</sup> ==wall== (√ unknown); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span> [[Num.22.25|Num 22:25]] +, <span class="bdbLangHebrew">‎קִר‎</span> [[Isa.22.5|Isa 22:5]] construct <span class="bdbLangHebrew">‎קִיר‎</span> [[1Kgs.6.5|1Kgs 6:5]] +; plural <span class="bdbLangHebrew">‎קִירוֺת‎</span> [[1Kgs.6.16|1Kgs 6:16]] +, construct ***id.***, v[[1Kgs.6.5|1Kgs 6:5]] +; suffix <span class="bdbLangHebrew">‎קִירֹתָיו‎</span> [[Exod.30.3|Exod 30:3]] +, etc.; — ***wall***, especially as flat surface: 
 

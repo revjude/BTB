@@ -6,17 +6,17 @@ A land in rebellion has many rulers, but a man of understanding and knowledge ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| by [the] transgression of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>פֶ֣שַֽׁע </big></span><small><small><sup>[[H6588]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Fe.sha' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a land  | <span class="ashebrew"><big>אֶ֭רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] many  | <span class="ashebrew"><big>רַבִּ֣ים </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| princes its  | <span class="ashebrew"><big>שָׂרֶ֑י </big></span><small><small><sup>[[H8269]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| sa.Rei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and by a person  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָדָ֥ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding  | <span class="ashebrew"><big>מֵבִ֥ין </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| me.Vin <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowing  | <span class="ashebrew"><big>יֹ֝דֵ֗עַ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| yo.De.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֵּ֣ן </big></span><small><small><sup>[[H3651A]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will last long  | <span class="ashebrew"><big>יַאֲרִֽיךְ </big></span><small><small><sup>[[H0748]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Rikh <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] transgression of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6588\|פֶ֣שַֽׁע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Fe.sha'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a land  |**<big>&#8207;[[H0776G\|אֶ֭רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] many  |**<big>&#8207;[[H7227A\|רַבִּ֣ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| princes its  |**<big>&#8207;[[H8269\|שָׂרֶ֑י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by a person  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding  |**<big>&#8207;[[H0995\|מֵבִ֥ין]]&#8207; </big>**| me.Vin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowing  |**<big>&#8207;[[H3045\|יֹ֝דֵ֗עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651A\|כֵּ֣ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will last long  |**<big>&#8207;[[H0748\|יַאֲרִֽיךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Rikh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 
 

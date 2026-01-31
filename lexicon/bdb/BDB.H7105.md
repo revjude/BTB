@@ -1,4 +1,4 @@
-<small>Also see: [[H7114]]</small>
+<small>Also see: **<big>[[H7114|קָצַר]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎קָצִיר‎</span> **noun masculine**<sup>[[Jer.8.20|Jer 8:20]]</sup> ==harvesting, harvest== (compare [[BDB#Lag|Lag]]<sup>BN 173</sup>); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span> [[Gen.45.6|Gen 45:6]] +, construct <span class="bdbLangHebrew">‎קְצִיר‎</span> [[Judg.15.1|Judg 15:1]] +; suffix <span class="bdbLangHebrew">‎קְצִירְךָ‎</span> [[Lev.19.9|Lev 19:9]] +, etc.; — ***harvest:*** 
 

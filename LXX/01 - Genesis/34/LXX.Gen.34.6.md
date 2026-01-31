@@ -7,17 +7,17 @@ And Hamor the father of Shechem went out unto Jacob to commune with him.
 Meanwhile, Shechem’s father Hamor came to speak with Jacob.<small><sub>**MT:**</sub></small>
 [[Gen.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.5|<< Genesis 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.7|Genesis 34:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Hamor | <big><span class="asgreek">Εμμώρ</span></big> <sup><small><small>[[G1697]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of Shechem | <big><span class="asgreek">Συχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| to speak | <big><span class="asgreek">λαλήσαι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And came forth | **<big>[[G1831\|εξήλθε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Hamor | **<big>[[G1697\|Εμμώρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of Shechem | **<big>[[G4966\|Συχέμ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| to speak | **<big>[[G2980\|λαλήσαι]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Gen.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.5|<< Genesis 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.7|Genesis 34:7 >>]]</td></tr></table>
 
 

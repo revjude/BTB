@@ -6,15 +6,15 @@ If, however, the scaly outbreak spreads further on the skin after his cleansing,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.34|<< Leviticus 13:34]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.36|Leviticus 13:36 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and if  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to spread>  | <span class="ashebrew"><big>פָּשֹׂ֥ה </big></span><small><small><sup>[[H6581]]</sup></small></small> &#8207;| pa.Soh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will spread  | <span class="ashebrew"><big>יִפְשֶׂ֛ה </big></span><small><small><sup>[[H6581]]</sup></small></small> &#8207;| yif.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the scall  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נֶּ֖תֶק </big></span><small><small><sup>[[H5424]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ne.tek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the skin  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ע֑וֹר </big></span><small><small><sup>[[H5785]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'or <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֖י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| purification his  | <span class="ashebrew"><big>טָהֳרָתֽ </big></span><small><small><sup>[[H2893]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| to.ho.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to spread>  |**<big>&#8207;[[H6581\|פָּשֹׂ֥ה]]&#8207; </big>**| pa.Soh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will spread  |**<big>&#8207;[[H6581\|יִפְשֶׂ֛ה]]&#8207; </big>**| yif.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scall  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5424\|נֶּ֖תֶק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.tek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the skin  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5785\|ע֑וֹר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'or<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֖י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purification his  |**<big>&#8207;[[H2893\|טָהֳרָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.ho.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.34|<< Leviticus 13:34]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.36|Leviticus 13:36 >>]]</td></tr></table>
 
 

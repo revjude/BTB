@@ -1,4 +1,4 @@
-Greek of: <small>[[H7027G]]</small> 
+Greek of: <small>**<big>[[H7027G|קִישׁ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Κίς==</span></b>, <span class='asgreek'>ὁ</span>, 

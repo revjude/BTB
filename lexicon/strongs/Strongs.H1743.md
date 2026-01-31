@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דּוּךְ‎</span></big> **dûwk** <small>*(dook)*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דּוּךְ‎</span></big>** **dûwk** <small>*(dook)*</small> ==**to beat**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ beat.

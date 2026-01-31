@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּדִּי‎</span></big> **Gaddîy** <small>*(gad-dee')*</small> ==**Gaddi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>intensive for <span class="ashebrew">‎גָּדִי‎</span><sup><small>[[H1424]]</small></sup></small>
+**<big><span class="ashebrew">‎גַּדִּי‎</span></big>** **Gaddîy** <small>*(gad-dee')*</small> ==**Gaddi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>intensive for **<big>[[H1424|‎גָּדִי‎]]</big>**</small>
 
 $\quad$ Gaddi.
 - § Gaddi = *"my fortune"*

@@ -7,23 +7,23 @@ I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me
 I call on You, O God, for You will answer me. Incline Your ear to me; hear my words.<small><sub>**MT:**</sub></small>
 [[Ps.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.5|<< Psalm 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.7|Psalm 17:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cried, | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you heeded | <big><span class="asgreek">επήκουσάς</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| lean | <big><span class="asgreek">κλίνον</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hear | <big><span class="asgreek">εισάκουσον</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words! | <big><span class="asgreek">ρημάτων</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| cried, | **<big>[[G2896\|εκέκραξα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you heeded | **<big>[[G1873\|επήκουσάς]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God; | **<big>[[G2316\|θεός]]</big>** |
+| lean | **<big>[[G2827\|κλίνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hear | **<big>[[G1522\|εισάκουσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my words! | **<big>[[G4487\|ρημάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.5|<< Psalm 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.7|Psalm 17:7 >>]]</td></tr></table>
 
 

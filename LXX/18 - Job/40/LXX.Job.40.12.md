@@ -7,15 +7,15 @@ Look on every one [that is] proud, [and] bring him low; and tread down the wicke
 Look on every proud man and humble him; trample the wicked where they stand.<small><sub>**MT:**</sub></small>
 [[Job.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.11|<< Job 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.13|Job 40:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[the\] proud man | <big><span class="asgreek">υπερήφανον</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| extinguish | <big><span class="asgreek">σβέσον</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
-| to rot | <big><span class="asgreek">σήψον</span></big> <sup><small><small>[[G4595]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| immediately! | <big><span class="asgreek">παραχρήμα</span></big> <sup><small><small>[[G3916]]</small></small></sup> |
+| \[the\] proud man | **<big>[[G5244\|υπερήφανον]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| extinguish | **<big>[[G4570\|σβέσον]]</big>** |
+| to rot | **<big>[[G4595\|σήψον]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| \[the\] impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| immediately! | **<big>[[G3916\|παραχρήμα]]</big>** |
 [[Job.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.11|<< Job 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.13|Job 40:13 >>]]</td></tr></table>
 
 

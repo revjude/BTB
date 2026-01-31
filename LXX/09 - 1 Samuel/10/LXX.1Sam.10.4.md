@@ -7,25 +7,25 @@ And they will salute thee, and give thee two [loaves] of bread; which thou shalt
 They will greet you and give you two loaves of bread, which you will accept from their hands.<small><sub>**MT:**</sub></small>
 [[1Sam.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.3|<< 1 Samuel 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.5|1 Samuel 10:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall ask | <big><span class="asgreek">ερωτήσουσί</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| peace; | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall give | <big><span class="asgreek">δώσουσί</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| first-fruits | <big><span class="asgreek">απαρχάς</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
-| of bread \[loaves\], | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall take \[them\] | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hand. | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall ask | **<big>[[G2065\|ερωτήσουσί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| peace; | **<big>[[G1515\|ειρήνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall give | **<big>[[G1325\|δώσουσί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| first-fruits | **<big>[[G0536\|απαρχάς]]</big>** |
+| of bread \[loaves\], | **<big>[[G0740\|άρτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall take \[them\] | **<big>[[G2983\|λήψη]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their hand. | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[1Sam.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.3|<< 1 Samuel 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.5|1 Samuel 10:5 >>]]</td></tr></table>
 
 

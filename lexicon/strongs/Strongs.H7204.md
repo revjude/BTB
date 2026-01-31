@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֹאֵה‎</span></big> **Rôʼêh** <small>*(ro-ay')*</small> ==**Haroeh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎רֹאֶה‎</span><sup><small>[[H7203]]</small></sup>; prophet</small>
+**<big><span class="ashebrew">‎רֹאֵה‎</span></big>** **Rôʼêh** <small>*(ro-ay')*</small> ==**Haroeh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H7203|‎רֹאֶה‎]]</big>**; prophet</small>
 
 $\quad$ Haroeh (including the article).
 - § Haroeh = *"vision"*

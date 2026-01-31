@@ -7,33 +7,33 @@ Behold, all ye that kindle a fire, that compass [yourselves] about with sparks: 
 Behold, all you who kindle a fire, who array yourselves with firebrands, walk in the light of your fire and of the firebrands you have lit! This is what you will receive from My hand: You will lie down in a place of torment.<small><sub>**MT:**</sub></small>
 [[Isa.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.10|<< Isaiah 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.1|Isaiah 51:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| kindle | <big><span class="asgreek">καίετε</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you strengthen | <big><span class="asgreek">κατισχύετε</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| \[the\] flame; | <big><span class="asgreek">φλόγα</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| you go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| light | <big><span class="asgreek">φωτί</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your fire, | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flame | <big><span class="asgreek">φλογί</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you kindled. | <big><span class="asgreek">εξεκαύσατε</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| On account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| distress | <big><span class="asgreek">λύπη</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| you shall remain the night | <big><span class="asgreek">κοιμηθήσεσθε</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you all | **<big>[[G3956\|πάντες]]</big>** **<big>[[G1473\|υμείς]]</big>** |
+| a fire | **<big>[[G4442\|πυρ]]</big>** |
+| kindle | **<big>[[G2545\|καίετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you strengthen | **<big>[[G2729\|κατισχύετε]]</big>** |
+| \[the\] flame; | **<big>[[G5395\|φλόγα]]</big>** |
+| you go | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| light | **<big>[[G5457\|φωτί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your fire, | **<big>[[G4442\|πυρός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| flame | **<big>[[G5395\|φλογί]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| you kindled. | **<big>[[G1572\|εξεκαύσατε]]</big>** |
+| On account of | **<big>[[G1223\|δι΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| distress | **<big>[[G3077\|λύπη]]</big>** |
+| you shall remain the night | **<big>[[G2837\|κοιμηθήσεσθε]]</big>** |
 [[Isa.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.10|<< Isaiah 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.1|Isaiah 51:1 >>]]</td></tr></table>
 
 

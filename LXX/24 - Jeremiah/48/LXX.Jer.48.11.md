@@ -7,36 +7,36 @@ Moab hath been at ease from his youth, and he hath settled on his lees, and hath
 Moab has been at ease from youth, settled like wine on its dregs; he has not been poured from vessel to vessel or gone into exile. So his flavor has remained the same, and his aroma is unchanged.<small><sub>**MT:**</sub></small>
 [[Jer.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Moab rested | <big><span class="asgreek">ανεπαύσατο</span></big> <sup><small><small>[[G0373]]</small></small></sup> <big><span class="asgreek">Μωαβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| boyhood, | <big><span class="asgreek">παιδαρίου</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is relying | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his glory. | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He has not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| poured \[dregs\] | <big><span class="asgreek">ενέχεεν</span></big> <sup><small><small>[[G7040]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| receptacle | <big><span class="asgreek">αγγείου</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| receptacle, | <big><span class="asgreek">αγγείον</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| settlement | <big><span class="asgreek">αποικισμόν</span></big> <sup><small><small>[[G6432]]</small></small></sup> |
-| he has not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| set out. | <big><span class="asgreek">ωχετο</span></big> <sup><small><small>[[G8468]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| his taste | <big><span class="asgreek">γεύμα</span></big> <sup><small><small>[[G6729]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his scent | <big><span class="asgreek">οσμή</span></big> <sup><small><small>[[G3744]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dissipated not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| Moab rested | **<big>[[G0373\|ανεπαύσατο]]</big>** **<big>[[H6355\|Μωαβ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| boyhood, | **<big>[[G3808\|παιδαρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is relying | **<big>[[G3982\|πεποιθώς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his glory. | **<big>[[G1391\|δόξη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| He has not | **<big>[[G3756\|ουκ]]</big>** |
+| poured \[dregs\] | **<big>[[G7040\|ενέχεεν]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| receptacle | **<big>[[G0030\|αγγείου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| receptacle, | **<big>[[G0030\|αγγείον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| settlement | **<big>[[G6432\|αποικισμόν]]</big>** |
+| he has not | **<big>[[G3756\|ουκ]]</big>** |
+| set out. | **<big>[[G8468\|ωχετο]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| stood | **<big>[[G2476\|έστη]]</big>** |
+| his taste | **<big>[[G6729\|γεύμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| his scent | **<big>[[G3744\|οσμή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| dissipated not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1587\|εξέλιπε]]</big>** |
 [[Jer.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
 

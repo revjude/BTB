@@ -7,35 +7,35 @@ His offering [was] one silver charger, the weight whereof [was] an hundred and t
 His offering was one silver platter weighing a hundred and thirty shekels, and one silver bowl weighing seventy shekels, both according to the sanctuary shekel and filled with fine flour mixed with oil for a grain offering;<small><sub>**MT:**</sub></small>
 [[Num.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.24|<< Numbers 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.26|Numbers 7:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[brought\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his gift; | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saucer | <big><span class="asgreek">τρυβλίον</span></big> <sup><small><small>[[G5165]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρούν</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| \[was\] its scale-weight, | <big><span class="asgreek">ολκή</span></big> <sup><small><small>[[G8490]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bowl | <big><span class="asgreek">φιάλην</span></big> <sup><small><small>[[G5357]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυράν</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| of seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| shekels, | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shekel | <big><span class="asgreek">σίκλον</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότερα</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρη</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| of fine flour | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
-| being prepared | <big><span class="asgreek">αναπεποιημένης</span></big> <sup><small><small>[[G6305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice \[offering\]; | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| \[brought\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| his gift; | **<big>[[G1435\|δώρον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| saucer | **<big>[[G5165\|τρυβλίον]]</big>** |
+| silver | **<big>[[G0693\|αργυρούν]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| \[was\] its scale-weight, | **<big>[[G8490\|ολκή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| bowl | **<big>[[G5357\|φιάλην]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| silver | **<big>[[G0693\|αργυράν]]</big>** |
+| of seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| shekels, | **<big>[[G9079\|σικλών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shekel | **<big>[[G9079\|σίκλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| both | **<big>[[G0297\|αμφότερα]]</big>** |
+| full | **<big>[[G4134\|πλήρη]]</big>** |
+| of fine flour | **<big>[[G4585\|σεμιδάλεως]]</big>** |
+| being prepared | **<big>[[G6305\|αναπεποιημένης]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| olive oil | **<big>[[G1637\|ελαίω]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice \[offering\]; | **<big>[[G2378\|θυσίαν]]</big>** |
 [[Num.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.24|<< Numbers 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.26|Numbers 7:26 >>]]</td></tr></table>
 
 

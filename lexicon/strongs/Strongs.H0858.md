@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אָתָה‎</span></big> **ʼâthâh** <small>*(aw-thaw')*</small> ==**to come**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">אָתָא</span> **ʼâthâʼ** <small>*(aw-thaw')*</small>; (Aramaic), corresponding to <span class="ashebrew">‎אָתָה‎</span><sup><small>[[H0857]]</small></sup></small>
+**<big><span class="asaramaic">‎אָתָה‎</span></big>** **ʼâthâh** <small>*(aw-thaw')*</small> ==**to come**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">אָתָא</span></big>** **ʼâthâʼ** <small>*(aw-thaw')*</small>; (Aramaic), corresponding to **<big>[[H0857|‎אָתָה‎]]</big>**</small>
 
 $\quad$ (be-) come, bring.
 - {***to arrive***}

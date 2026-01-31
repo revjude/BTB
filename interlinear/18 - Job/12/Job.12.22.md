@@ -6,15 +6,15 @@ He reveals the deep things of darkness and brings deep shadows into light.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.21|<< Job 12:21]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.23|Job 12:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [he is] revealing  | <span class="ashebrew"><big>מְגַלֶּ֣ה </big></span><small><small><sup>[[H1540H]]</sup></small></small> &#8207;| me.ga.Leh <small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unfathomable [things]  | <span class="ashebrew"><big>עֲ֭מֻקוֹת </big></span><small><small><sup>[[H6013]]</sup></small></small> &#8207;| 'A.mu.kot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִנִּי </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mi.ni- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>חֹ֑שֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> &#8207;| Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he brought out  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּצֵ֖א </big></span><small><small><sup>[[H3318M]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Tze' <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the light  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>א֣וֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deep darkness  | <span class="ashebrew"><big>צַלְמָֽוֶת </big></span><small><small><sup>[[H6757]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzal.Ma.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] revealing  |**<big>&#8207;[[H1540H\|מְגַלֶּ֣ה]]&#8207; </big>**| me.ga.Leh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unfathomable [things]  |**<big>&#8207;[[H6013\|עֲ֭מֻקוֹת]]&#8207; </big>**| 'A.mu.kot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִנִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.ni-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H2822\|חֹ֑שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318M\|יֹּצֵ֖א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tze'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the light  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0216\|א֣וֹר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deep darkness  |**<big>&#8207;[[H6757\|צַלְמָֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzal.Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.21|<< Job 12:21]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.23|Job 12:23 >>]]</td></tr></table>
 
 

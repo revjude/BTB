@@ -7,30 +7,30 @@ And he said unto the kinsman, Naomi, that is come again out of the country of Mo
 And he said to the kinsman-redeemer, “Naomi, who has returned from the land of Moab, is selling the piece of land that belonged to our brother Elimelech.<small><sub>**MT:**</sub></small>
 [[Ruth.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.2|<< Ruth 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.4|Ruth 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Boaz said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting as next of kin, | <big><span class="asgreek">αγχιστεύοντι</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| \[Concerning\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίδα</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of our brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Elimelech, | <big><span class="asgreek">Ελιμέλεχ</span></big> <sup><small><small>[[H0458]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he gave | <big><span class="asgreek">απέδοτο</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to Naomi, | <big><span class="asgreek">Νοομί</span></big> <sup><small><small>[[H5281]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one returning | <big><span class="asgreek">επιστρέψασα</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] country | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Boaz said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1003\|Βοόζ]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| acting as next of kin, | **<big>[[G6131\|αγχιστεύοντι]]</big>** |
+| \[Concerning\] the | **<big>[[G3588\|την]]</big>** |
+| portion | **<big>[[G3310\|μερίδα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of our brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Elimelech, | **<big>[[H0458\|Ελιμέλεχ]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| he gave | **<big>[[G0591\|απέδοτο]]</big>** |
+| to Naomi, | **<big>[[H5281\|Νοομί]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| one returning | **<big>[[G1994\|επιστρέψασα]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] country | **<big>[[G0068\|αγρού]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
 [[Ruth.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.2|<< Ruth 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.4|Ruth 4:4 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ Before your pots can feel the burning thorns—whether green or dry—He will sw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.8|<< Psalms 58:8]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.10|Psalms 58:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<in> before  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>טֶ֤רֶם </big></span><small><small><sup>[[H2962]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Te.rem <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will perceive  | <span class="ashebrew"><big>יָבִ֣ינוּ </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| ya.Vi.nu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pots your  | <span class="ashebrew"><big>סִּֽירֹתֵי </big></span><small><small><sup>[[H5518A]]</sup></small></small> <span class="ashebrew"><big>כֶ֣ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| si.ro.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a thorn bush  | <span class="ashebrew"><big>אָטָ֑ד </big></span><small><small><sup>[[H0329H]]</sup></small></small> &#8207;| 'a.Tad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| alive  | <span class="ashebrew"><big>חַ֥י </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| burning  | <span class="ashebrew"><big>חָ֝ר֗וֹן </big></span><small><small><sup>[[H2740]]</sup></small></small> &#8207;| cha.Ron <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will blow away it  | <span class="ashebrew"><big>יִשְׂעָרֶֽ </big></span><small><small><sup>[[H8175B]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yis.'a.Re. <small><sup>[[HVqi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֤רֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will perceive  |**<big>&#8207;[[H0995\|יָבִ֣ינוּ]]&#8207; </big>**| ya.Vi.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pots your  |**<big>&#8207;[[H5518A\|סִּֽירֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| si.ro.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a thorn bush  |**<big>&#8207;[[H0329H\|אָטָ֑ד]]&#8207; </big>**| 'a.Tad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alive  |**<big>&#8207;[[H2416A\|חַ֥י]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burning  |**<big>&#8207;[[H2740\|חָ֝ר֗וֹן]]&#8207; </big>**| cha.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will blow away it  |**<big>&#8207;[[H8175B\|יִשְׂעָרֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yis.'a.Re.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.8|<< Psalms 58:8]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.10|Psalms 58:10 >>]]</td></tr></table>
 
 

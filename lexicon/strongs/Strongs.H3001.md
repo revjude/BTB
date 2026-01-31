@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָבֵשׁ‎</span></big> **yâbêsh** <small>*(yaw-bashe')*</small> ==**to wither**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָבֵשׁ‎</span></big>** **yâbêsh** <small>*(yaw-bashe')*</small> ==**to wither**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be ashamed, clean, be confounded, (make) dry (up), (do) shame(-fully), [idiom] utterly, wither (away).
@@ -16,4 +16,4 @@ $\quad$ $\quad$ $\quad$ **1c1a)** to dry up (water)
 $\quad$ $\quad$ $\quad$ **1c1b)** to make dry, wither
 $\quad$ $\quad$ $\quad$ **1c1c)** to exhibit dryness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξαίρω</span><sup><small>[[G1808]]</small></sup> · <span class="asgreek">μαραίνω</span><sup><small>[[G3133]]</small></sup> · <span class="asgreek">ξηραίνω</span><sup><small>[[G3583]]</small></sup>
+<small>See Greek: </small>**<big>[[G1808|ἐξαίρω]]</big>** · **<big>[[G3133|μαραίνω]]</big>** · **<big>[[G3583|ξηραίνω]]</big>**

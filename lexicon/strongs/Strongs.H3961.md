@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎לִשָּׁן‎</span></big> **lishshân** <small>*(lish-shawn')*</small> ==**tongue**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎לָשׁוֹן‎</span><sup><small>[[H3956]]</small></sup></small>
+**<big><span class="asaramaic">‎לִשָּׁן‎</span></big>** **lishshân** <small>*(lish-shawn')*</small> ==**tongue**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3956|‎לָשׁוֹן‎]]</big>**</small>
 
 $\quad$ language.
 - ***speech***, i.e. ***a nation***

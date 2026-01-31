@@ -7,21 +7,21 @@ The kings of Tarshish and of the isles shall bring presents: the kings of Sheba 
 May the kings of Tarshish and distant shores bring tribute; may the kings of Sheba and Seba offer gifts.<small><sub>**MT:**</sub></small>
 [[Ps.72.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.9|<< Psalm 72:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.11|Psalm 72:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Tarshish, | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| islands | <big><span class="asgreek">νήσοι</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| shall bring | <big><span class="asgreek">προσοίσουσι</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
-| \[The\] kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Arabians | <big><span class="asgreek">Αράβων</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sheba | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
-| \[with\] gifts | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
-| will come forward | <big><span class="asgreek">προσάξουσι</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
+| Kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| of Tarshish, | **<big>[[H0948\|Θαρσείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| islands | **<big>[[G3520\|νήσοι]]</big>** |
+| gifts | **<big>[[G1435\|δώρα]]</big>** |
+| shall bring | **<big>[[G4374\|προσοίσουσι]]</big>** |
+| \[The\] kings | **<big>[[G0935\|βασιλείς]]</big>** |
+| of \[the\] Arabians | **<big>[[G0688\|Αράβων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Sheba | **<big>[[H7614\|Σαβά]]</big>** |
+| \[with\] gifts | **<big>[[G1435\|δώρα]]</big>** |
+| will come forward | **<big>[[G4317\|προσάξουσι]]</big>** |
 [[Ps.72.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.9|<< Psalm 72:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.11|Psalm 72:11 >>]]</td></tr></table>
 
 

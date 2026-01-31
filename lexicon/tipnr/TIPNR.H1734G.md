@@ -4,8 +4,8 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Dodo</span>, son of Puah, was a judge of Israel who led the nation for 23 years. \([[Judg.10.1|Jdg.10.1]]\)
 - A man living before Israel's Monarchy, only mentioned at [[Judg.10.1|Jdg.10.1]]; 
-- only referred to as Dodo<[[H1734G]]> \(<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ\); 
--  father of Puah<[[H6312H]]>.
+- only referred to as Dodo **<big>[[H1734|דּוֹדוֹ]]</big>**; 
+-  father of Puah **<big>[[H6312|פּוּאָה]]</big>**.
 
 Dodo, son of Puah, is mentioned in [[Judg.10.1|Judges 10:1]] as a judge of Israel who succeeded Abimelech. He was from the tribe of Issachar and lived in Shamir, a town in the hill country of Ephraim. 
 
@@ -17,7 +17,7 @@ After Dodo's death, he was buried in Shamir, and the narrative shifts to the nex
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dodo | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ](H1734G) <small>*Hebrew*</small> | 1x | [Jdg.10.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodo\*\|reference=Jdg.10.1) |
-All Strong's for **Dodo**: \[[[H1734G]]\]
+| Dodo | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ](H1734G) | 1x | [Jdg.10.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodo\*\|reference=Jdg.10.1) |
+All entries for **Dodo**:  **<big>[[H1734|דּוֹדוֹ]]</big>**
 #### Related Profiles:
 - **[Puah](H6312H)** (child)

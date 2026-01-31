@@ -11,35 +11,35 @@ The land will mourn, each clan on its own: the clan of the house of David and th
 > $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall beat the chest | <big><span class="asgreek">κόψεται</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \[by\] tribes; | <big><span class="asgreek">φυλάς</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| \[the\] tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| itself, | <big><span class="asgreek">εαυτήν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wives | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| themselves; | <big><span class="asgreek">εαυτάς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| \[the\] tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Nathan | <big><span class="asgreek">Νάθαν</span></big> <sup><small><small>[[G3481]]</small></small></sup> |
-| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| itself, | <big><span class="asgreek">εαυτήν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wives | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| themselves; | <big><span class="asgreek">εαυτάς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall beat the chest | **<big>[[G2875\|κόψεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| tribes | **<big>[[G5443\|φυλάς]]</big>** |
+| \[by\] tribes; | **<big>[[G5443\|φυλάς]]</big>** |
+| \[the\] tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of David | **<big>[[G1138\|Δαυίδ]]</big>** |
+| by | **<big>[[G2596\|καθ΄]]</big>** |
+| itself, | **<big>[[G1438\|εαυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their wives | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G2596\|καθ΄]]</big>** |
+| themselves; | **<big>[[G1438\|εαυτάς]]</big>** |
+| \[the\] tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Nathan | **<big>[[G3481\|Νάθαν]]</big>** |
+| by | **<big>[[G2596\|καθ΄]]</big>** |
+| itself, | **<big>[[G1438\|εαυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their wives | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G2596\|καθ΄]]</big>** |
+| themselves; | **<big>[[G1438\|εαυτάς]]</big>** |
 [[Zech.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.11|<< Zechariah 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.13|Zechariah 12:13 >>]]</td></tr></table>
 
 

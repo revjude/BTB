@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֹאת‎</span></big> **zôʼth** <small>*(zothe')*</small> ==**this**==  <sup><small>[[TEHMC#H:DemP|H:DemP]]</small></sup> 
-<small>irregular feminine of <span class="ashebrew">‎זֶה‎</span><sup><small>[[H2089]]</small></sup></small>
+**<big><span class="ashebrew">‎זֹאת‎</span></big>** **zôʼth** <small>*(zothe')*</small> ==**this**==  <sup><small>[[TEHMC#H:DemP|H:DemP]]</small></sup> 
+<small>irregular feminine of **<big>[[H2089|‎זֶה‎]]</big>**</small>
 
 $\quad$ hereby (-in, -with), it, likewise, the one (other, same), she, so (much), such (deed), that, therefore, these, this (thing), thus.
 - ***this*** (often used adverb)
@@ -32,4 +32,4 @@ $\quad$ $\quad$ **1f5)** from here, hence, on one side...on the other side
 $\quad$ $\quad$ **1f6)** on this account
 $\quad$ $\quad$ **1f7)** in spite of this, which, whence, how
 
-<sub><small>See Greek: </small></sub><span class="asgreek">οὗτος</span><sup><small>[[G3778]]</small></sup>
+<small>See Greek: </small>**<big>[[G3778|οὗτος]]</big>**

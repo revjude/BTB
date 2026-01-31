@@ -7,19 +7,19 @@ Thou shalt not deliver unto his master the servant which is escaped from his mas
 Do not return a slave to his master if he has taken refuge with you.<small><sub>**MT:**</sub></small>
 [[Deut.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.14|<< Deuteronomy 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.16|Deuteronomy 23:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| deliver up | <big><span class="asgreek">παραδώσεις</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| a servant | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was added | <big><span class="asgreek">προστέθειταί</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his master; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| deliver up | **<big>[[G3860\|παραδώσεις]]</big>** |
+| a servant | **<big>[[G3816\|παίδα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his master, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| was added | **<big>[[G4369\|προστέθειταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his master; | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.14|<< Deuteronomy 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.16|Deuteronomy 23:16 >>]]</td></tr></table>
 
 

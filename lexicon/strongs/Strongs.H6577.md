@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּרְשַׁנְדָּתָא‎</span></big> **Parshandâthâʼ** <small>*(par-shan-daw-thaw')*</small> ==**Parshandatha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎פַּרְשַׁנְדָּתָא‎</span></big>** **Parshandâthâʼ** <small>*(par-shan-daw-thaw')*</small> ==**Parshandatha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Parshandatha.

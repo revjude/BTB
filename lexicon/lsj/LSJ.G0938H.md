@@ -1,4 +1,4 @@
-part of: <small>[[H4436G]]</small> 
+part of: <small>**<big>[[H4436G|מַלְכָּה]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==βασίλισσα==</span>-<span class='asgreek'>ισσα</span></b>, <span class='asgreek'>ἡ</span>, 

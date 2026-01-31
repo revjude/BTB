@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מִסְפֵּד‎</span></big> **miçpêd** <small>*(mis-pade')*</small> ==**mourning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎סָפַד‎</span><sup><small>[[H5594]]</small></sup></small>
+**<big><span class="ashebrew">‎מִסְפֵּד‎</span></big>** **miçpêd** <small>*(mis-pade')*</small> ==**mourning**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5594|‎סָפַד‎]]</big>**</small>
 
 $\quad$ lamentation, one mourneth, mourning, wailing.
 - ***a lamentation***
 
 **1)** wailing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κοπετός</span><sup><small>[[G2870]]</small></sup> · <span class="asgreek">πένθος</span><sup><small>[[G3997]]</small></sup>
+<small>See Greek: </small>**<big>[[G2870|κοπετός]]</big>** · **<big>[[G3997|πένθος]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הָרָן‎</span></big> **Hârân** <small>*(haw-rawn')*</small> ==**Haran**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎הַר‎</span><sup><small>[[H2022]]</small></sup>; mountaineer</small>
+**<big><span class="ashebrew">‎הָרָן‎</span></big>** **Hârân** <small>*(haw-rawn')*</small> ==**Haran**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps from **<big>[[H2022|‎הַר‎]]</big>**; mountaineer</small>
 
 $\quad$ Haran.
 - § Haran = *"mountaineer"*

@@ -1,6 +1,5 @@
-<span class="ashebrew">‎שֹׁמֵר‎</span> <small>***(sho.mer)***</small> ==**Shomer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Asher living before Israel's Monarchy, first mentioned at [[1Chr.7.32|1Ch.7.32]]
--  son of: Heber ([[H2268]])
--  brother of: Japhlet ([[H3310]]), Hotham ([[H2369]]) and Shua ([[H7774]])
--  father of: Ahi ([[H0277H]]), Rohgah ([[H7303]]), Jehubbah ([[H3160]]) and Aram ([[H0758J]]); also called Shemer (KJV: Shamer) at [[1Chr.7.34|1Ch.7.34]]
-- Also named: <i>she.mer</i> (<span class='ashebrew'>‎ש‎</span>ֶׁ֫<span class='ashebrew'>‎מ‎</span>ֶ<span class='ashebrew'>‎ר‎</span> "Shemer" [[H8106H]])
+-  son of: Heber (**<big>[[H2268|חֶבֶר]]</big>**)
+-  brother of: Japhlet (**<big>[[H3310|יַפְלֵט]]</big>**), Hotham (**<big>[[H2369|חוֹתָם]]</big>**) and Shua (**<big>[[H7774|שׁוּעָא]]</big>**)
+-  father of: Ahi (**<big>[[H0277H|אֲחִי]]</big>**), Rohgah (**<big>[[H7303|רוֹהֲגָה]]</big>**), Jehubbah (**<big>[[H3160|יְחֻבָּה]]</big>**) and Aram (**<big>[[H0758J|אֲרָם]]</big>**); also called Shemer (KJV: Shamer) at [[1Chr.7.34|1Ch.7.34]]
+- Also named: <i>she.mer</i> (<span class='ashebrew'>‎ש‎</span>ֶׁ֫<span class='ashebrew'>‎מ‎</span>ֶ<span class='ashebrew'>‎ר‎</span> "Shemer" **<big>[[H8106H|שֶׁמֶר]]</big>**)

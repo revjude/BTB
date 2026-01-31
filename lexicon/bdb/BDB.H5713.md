@@ -1,4 +1,4 @@
-<small>Also see: [[H5712]]</small>
+<small>Also see: **<big>[[H5712|עֵדָה]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎עֵדָה‎</span> **noun feminine** ==testimony, witness==, of things (only [[BDB#E|E]]); — [[Gen.21.30|Gen 21:30]]; [[Gen.31.52|Gen 31:52]]; [[Josh.24.27|Josh 24:27]] (twice in verse) ([[BDB#J|J]] uses <span class="bdbLangHebrew">‎עֵד‎</span> for feminine things). — I. <span class="bdbLangHebrew">‎עֵדָה‎</span> see  <span class="bdbLangHebrew">‎יעד‎</span>. 
 

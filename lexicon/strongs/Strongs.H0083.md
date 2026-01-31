@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵבֶר‎</span></big> **ʼêber** <small>*(ay-ber')*</small> ==**wing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבַר‎</span><sup><small>[[H0082]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵבֶר‎</span></big>** **ʼêber** <small>*(ay-ber')*</small> ==**wing**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0082|‎אָבַר‎]]</big>**</small>
 
 $\quad$ (long-) wing(-ed).
 - ***a pinion***

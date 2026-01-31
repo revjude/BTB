@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲרָבִי‎</span></big> **ʻĂrâbîy** <small>*(ar-aw-bee')*</small> ==**Arab**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>or <span class="ashebrew">עַרְבִי</span> **ʻArbîy** <small>*(ar-bee')*</small>; patrial from <span class="ashebrew">‎עֲרָב‎</span><sup><small>[[H6152]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲרָבִי‎</span></big>** **ʻĂrâbîy** <small>*(ar-aw-bee')*</small> ==**Arab**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>or **<big><span class="ashebrew">עַרְבִי</span></big>** **ʻArbîy** <small>*(ar-bee')*</small>; patrial from **<big>[[H6152|‎עֲרָב‎]]</big>**</small>
 
 $\quad$ Arabian.
 - § Arabian = *see Arabia "mixed"*

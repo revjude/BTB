@@ -6,25 +6,25 @@ Speak unto the children of Israel, saying, If a woman have conceived seed, and b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.1|<< Leviticus 12:1]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.3|Leviticus 12:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| speak  | <span class="ashebrew"><big>דַּבֵּ֞ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| da.Ber <small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֤י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙ </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֔ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִשָּׁה֙ </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will bear a child  | <span class="ashebrew"><big>תַזְרִ֔יעַ </big></span><small><small><sup>[[H2232]]</sup></small></small> &#8207;| taz.Ri.a' <small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she will bear  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָלְדָ֖ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> Yal.dah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a male  | <span class="ashebrew"><big>זָכָ֑ר </big></span><small><small><sup>[[H2145]]</sup></small></small> &#8207;| za.Khar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she will be unclean  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>טָֽמְאָה֙ </big></span><small><small><sup>[[H2930A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ta.me.'Ah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שִׁבְעַ֣ת </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| shiv.'At <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִ֔ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] days of  | <span class="ashebrew"><big>כִּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>ימֵ֛י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ki. <small><sup>[[HR]]</sup></small> Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| menstrous impurity of  | <span class="ashebrew"><big>נִדַּ֥ת </big></span><small><small><sup>[[H5079]]</sup></small></small> &#8207;| ni.Dat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| being unwell she  | <span class="ashebrew"><big>דְּוֹתָ֖ </big></span><small><small><sup>[[H1738]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9044]]</sup></small></small> &#8207;| de.vo.Ta <small><sup>[[HVqcc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will be unclean  | <span class="ashebrew"><big>תִּטְמָֽא </big></span><small><small><sup>[[H2930A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tit.Ma' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֞ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֔ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אִשָּׁה֙]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will bear a child  |**<big>&#8207;[[H2232\|תַזְרִ֔יעַ]]&#8207; </big>**| taz.Ri.a'<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she will bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3205\|יָלְדָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Yal.dah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male  |**<big>&#8207;[[H2145\|זָכָ֑ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she will be unclean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2930A\|טָֽמְאָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.me.'Ah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שִׁבְעַ֣ת]]&#8207; </big>**| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֔ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] days of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3117G\|ימֵ֛י]]&#8207; </big>**| ki.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| menstrous impurity of  |**<big>&#8207;[[H5079\|נִדַּ֥ת]]&#8207; </big>**| ni.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being unwell she  |**<big>&#8207;[[H1738\|דְּוֹתָ֖]]&#8207;&#8207;[[H9044\|הּ]]&#8207; </big>**| de.vo.Ta<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be unclean  |**<big>&#8207;[[H2930A\|תִּטְמָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tit.Ma'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.1|<< Leviticus 12:1]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.3|Leviticus 12:3 >>]]</td></tr></table>
 
 

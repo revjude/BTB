@@ -1,8 +1,8 @@
 <small>*Dilean • A city in the lowlands of Judah.*</small>
 
 <span class='tipnrhighlight'>Dilean</span>, a city located in the lowlands of Judah \([[Josh.15.38|Joshua 15:38]]\).
-- A location near Lachish<[[H3923]]> only mentioned at [[Josh.15.38|Jos.15.38]]; 
-- only referred to as Dilean<[[H1810]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Lachish **<big>[[H3923|לָכִישׁ]]</big>** only mentioned at [[Josh.15.38|Jos.15.38]]; 
+- only referred to as Dilean **<big>[[H1810|דִּלְעָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.56485056116292,34.8467256730566&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Dilean was a city situated in the lowlands, or Shephelah, of Judah \([[Josh.15.3
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dilean | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1810) <small>*Hebrew*</small> | 1x | [Jos.15.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dilean\*\|reference=Jos.15.38) |
-All Strong's for **Dilean**: \[[[H1810]]\]
+| Dilean | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1810) | 1x | [Jos.15.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dilean\*\|reference=Jos.15.38) |
+All entries for **Dilean**:  **<big>[[H1810|דִּלְעָן]]</big>**

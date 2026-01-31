@@ -1,6 +1,4 @@
-<span class="ashebrew">‎לֵאָה‎</span> <small>***(le.ah)***</small> ==**Leah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman living at the time of the Patriarchs, first mentioned at [[Gen.29.16|Gen.29.16]]
--  daughter of: Laban ([[H3837A]])
--  sister of: Rachel ([[H7354]]); married to Israel ([[H3478]])
--  mother of: Reuben ([[H7205]]), Simeon ([[H8095]]), Levi ([[H3878]]), Judah ([[H3063]]), Issachar ([[H3485]]), Zebulun ([[H2074]]) and Dinah ([[H1783]])
-
+-  daughter of: Laban (**<big>[[H3837A|לָבָן]]</big>**)
+-  sister of: Rachel (**<big>[[H7354|רָחֵל]]</big>**); married to Israel (**<big>[[H3478|יִשְׂרָאֵל]]</big>**)
+-  mother of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**), Simeon (**<big>[[H8095|שִׁמְעוֹן]]</big>**), Levi (**<big>[[H3878|לֵוִי]]</big>**), Judah (**<big>[[H3063|יְהוּדָה]]</big>**), Issachar (**<big>[[H3485|יִשָּׂשכָר]]</big>**), Zebulun (**<big>[[H2074|זְבוּלוּן]]</big>**) and Dinah (**<big>[[H1783|דִּינָה]]</big>**)

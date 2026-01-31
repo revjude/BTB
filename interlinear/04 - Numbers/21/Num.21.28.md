@@ -6,21 +6,21 @@ For a fire went out from Heshbon, a blaze from the city of Sihon. It consumed Ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.27|<< Numbers 21:27]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.29|Numbers 21:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fire  | <span class="ashebrew"><big>אֵשׁ֙ </big></span><small><small><sup>[[H0784]]</sup></small></small> &#8207;| 'esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it went out  | <span class="ashebrew"><big>יָֽצְאָ֣ה </big></span><small><small><sup>[[H3318L]]</sup></small></small> &#8207;| ya.tze.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Heshbon  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>חֶשְׁבּ֔וֹן </big></span><small><small><sup>[[H2809]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> chesh.Bon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flame  | <span class="ashebrew"><big>לֶהָבָ֖ה </big></span><small><small><sup>[[H3852]]</sup></small></small> &#8207;| le.ha.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] town of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קִּרְיַ֣ת </big></span><small><small><sup>[[H7151]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> kir.Yat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sihon  | <span class="ashebrew"><big>סִיחֹ֑ן </big></span><small><small><sup>[[H5511]]</sup></small></small> &#8207;| si.Chon <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it consumed  | <span class="ashebrew"><big>אָֽכְלָה֙ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.khe.Lah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ar  | <span class="ashebrew"><big>עָ֣ר </big></span><small><small><sup>[[H6144]]</sup></small></small> &#8207;| 'ar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Moab  | <span class="ashebrew"><big>מוֹאָ֔ב </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] citizens of  | <span class="ashebrew"><big>בַּעֲלֵ֖י </big></span><small><small><sup>[[H1167K]]</sup></small></small> &#8207;| ba.'a.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] high places of  | <span class="ashebrew"><big>בָּמ֥וֹת </big></span><small><small><sup>[[H1116]]</sup></small></small> &#8207;| ba.Mot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Arnon  | <span class="ashebrew"><big>אַרְנֹֽן </big></span><small><small><sup>[[H0769]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ar.Non <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  |**<big>&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it went out  |**<big>&#8207;[[H3318L\|יָֽצְאָ֣ה]]&#8207; </big>**| ya.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Heshbon  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H2809\|חֶשְׁבּ֔וֹן]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flame  |**<big>&#8207;[[H3852\|לֶהָבָ֖ה]]&#8207; </big>**| le.ha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] town of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7151\|קִּרְיַ֣ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kir.Yat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sihon  |**<big>&#8207;[[H5511\|סִיחֹ֑ן]]&#8207; </big>**| si.Chon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it consumed  |**<big>&#8207;[[H0398\|אָֽכְלָה֙]]&#8207; </big>**| 'a.khe.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ar  |**<big>&#8207;[[H6144\|עָ֣ר]]&#8207; </big>**| 'ar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֔ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] citizens of  |**<big>&#8207;[[H1167K\|בַּעֲלֵ֖י]]&#8207; </big>**| ba.'a.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] high places of  |**<big>&#8207;[[H1116\|בָּמ֥וֹת]]&#8207; </big>**| ba.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Arnon  |**<big>&#8207;[[H0769\|אַרְנֹֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ar.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.27|<< Numbers 21:27]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.29|Numbers 21:29 >>]]</td></tr></table>
 
 

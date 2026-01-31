@@ -4,8 +4,8 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Joash</span>, the father of Gideon, supported his son's actions in tearing down the altar of Baal \([[Judg.6.11|Jdg.6.11]],29-31; 8.13,29,32\).
 - A man living before Israel's Monarchy, first mentioned at [[Judg.6.11|Jdg.6.11]]; 
-- only referred to as Joash<[[H3101G]]> \(<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  father of Gideon<[[H1439]]>.
+- only referred to as Joash **<big>[[H3101|יוֹאָשׁ]]</big>**; 
+-  father of Gideon **<big>[[H1439|גִּדְעוֹן]]</big>**.
 
 Joash, an Abiezrite from the tribe of Manasseh, was the father of Gideon, one of the judges of Israel. He first appears in [[Judg.6.11|Judges 6:11]], where the Angel of the Lord visits Gideon while he is threshing wheat in Joash's winepress to hide from the Midianites. 
 
@@ -15,7 +15,7 @@ Joash is mentioned again in [[Judg.7.14|Judges 7:14]], where the Midianites inte
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3101G) <small>*Hebrew*</small> | 9x | [[Jdg.6.11] ... [Jdg.8.32b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=Jdg.6.11;Jdg.6.29;Jdg.6.30;Jdg.6.31;Jdg.7.14;Jdg.8.13;Jdg.8.29;Jdg.8.32;Jdg.8.32) |
-All Strong's for **Joash**: \[[[H3101G]]\]
+| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3101G) | 9x | [[Jdg.6.11] ... [Jdg.8.32b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=Jdg.6.11;Jdg.6.29;Jdg.6.30;Jdg.6.31;Jdg.7.14;Jdg.8.13;Jdg.8.29;Jdg.8.32;Jdg.8.32) |
+All entries for **Joash**:  **<big>[[H3101|יוֹאָשׁ]]</big>**
 #### Related Profiles:
 - **[Gideon](H1439)** (child)

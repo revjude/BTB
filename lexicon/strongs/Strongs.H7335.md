@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָזַם‎</span></big> **râzam** <small>*(raw-zam')*</small> ==**to flash**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָזַם‎</span></big>** **râzam** <small>*(raw-zam')*</small> ==**to flash**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ wink.
@@ -6,4 +6,4 @@ $\quad$ wink.
 
 **1)** (Qal) to wink, flash (of eyes)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπιφέρω</span><sup><small>[[G2018]]</small></sup>
+<small>See Greek: </small>**<big>[[G2018|ἐπιφέρω]]</big>**

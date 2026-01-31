@@ -7,49 +7,49 @@ And the men did the work faithfully: and the overseers of them [were] Jahath and
 And the men did the work faithfully. The Levites overseeing them were Jahath and Obadiah, descendants of Merari, and Zechariah and Meshullam, descendants of Kohath. Other Levites, all skilled with musical instruments,<small><sub>**MT:**</sub></small>
 [[2Chr.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.11|<< 2 Chronicles 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.13|2 Chronicles 34:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| were doing | <big><span class="asgreek">εποίουν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| trust | <big><span class="asgreek">πίστει</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works. | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| overseers | <big><span class="asgreek">επίσκοποι</span></big> <sup><small><small>[[G1985]]</small></small></sup> |
-| were established -- | <big><span class="asgreek">καθεστάμενοι</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| Jahath | <big><span class="asgreek">Ιάεθ</span></big> <sup><small><small>[[H3189]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obadiah | <big><span class="asgreek">Αυδίας</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Merari; | <big><span class="asgreek">Μεραρί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zechariah | <big><span class="asgreek">Ζαχαρίας</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Meshullam, | <big><span class="asgreek">Μεσαλάμ</span></big> <sup><small><small>[[H4918]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kohath -- | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
-| to oversee; | <big><span class="asgreek">επισκοπείν</span></big> <sup><small><small>[[G1983]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[other\] Levites, | <big><span class="asgreek">Λευίτης</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| perceiving \[to play\] | <big><span class="asgreek">συνιών</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| instruments | <big><span class="asgreek">οργάνοις</span></big> <sup><small><small>[[G8545]]</small></small></sup> |
-| of odes, | <big><span class="asgreek">ωδών</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| were doing | **<big>[[G4160\|εποίουν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| trust | **<big>[[G4102\|πίστει]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| works. | **<big>[[G2041\|έργων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| overseers | **<big>[[G1985\|επίσκοποι]]</big>** |
+| were established -- | **<big>[[G2525\|καθεστάμενοι]]</big>** |
+| Jahath | **<big>[[H3189\|Ιάεθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Obadiah | **<big>[[H5662\|Αυδίας]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Merari; | **<big>[[H4847\|Μεραρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zechariah | **<big>[[G2197\|Ζαχαρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Meshullam, | **<big>[[H4918\|Μεσαλάμ]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Kohath -- | **<big>[[H6955\|Καάθ]]</big>** |
+| to oversee; | **<big>[[G1983\|επισκοπείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| \[other\] Levites, | **<big>[[G3017\|Λευίτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| perceiving \[to play\] | **<big>[[G4920\|συνιών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| instruments | **<big>[[G8545\|οργάνοις]]</big>** |
+| of odes, | **<big>[[G5603\|ωδών]]</big>** |
 [[2Chr.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.11|<< 2 Chronicles 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.13|2 Chronicles 34:13 >>]]</td></tr></table>
 
 

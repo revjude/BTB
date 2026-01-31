@@ -7,43 +7,43 @@ So Gideon, and the hundred men that [were] with him, came unto the outside of th
 Gideon and the hundred men with him reached the outskirts of the camp at the beginning of the middle watch, just after the changing of the guard. They blew their horns and broke the jars that were in their hands.<small><sub>**MT:**</sub></small>
 [[Judg.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.18|<< Judges 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.20|Judges 7:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gideon entered, | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| men, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] rank | <big><span class="asgreek">μέρει</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| command | <big><span class="asgreek">αρχομένης</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| guard | <big><span class="asgreek">φυλακής</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| middle \[watch\]; | <big><span class="asgreek">μεσούσης</span></big> <sup><small><small>[[G3322]]</small></small></sup> |
-| furthermore | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| rising | <big><span class="asgreek">εγέρσει</span></big> <sup><small><small>[[G1454]]</small></small></sup> |
-| they roused | <big><span class="asgreek">ήγειραν</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones guarding. | <big><span class="asgreek">φυλάσσοντας</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they trumped | <big><span class="asgreek">εσάλπισαν</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns, | <big><span class="asgreek">κερατίναις</span></big> <sup><small><small>[[G7998]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shook off | <big><span class="asgreek">εξετίναξαν</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water-pitchers, | <big><span class="asgreek">υδρίας</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands. | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gideon entered, | **<big>[[G1525\|εισήλθεν]]</big>** **<big>[[G1066\|Γεδεών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| men, | **<big>[[G0435\|άνδρες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \[the\] rank | **<big>[[G3313\|μέρει]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| command | **<big>[[G0756\|αρχομένης]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| guard | **<big>[[G5438\|φυλακής]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| middle \[watch\]; | **<big>[[G3322\|μεσούσης]]</big>** |
+| furthermore | **<big>[[G4133\|πλην]]</big>** |
+| rising | **<big>[[G1454\|εγέρσει]]</big>** |
+| they roused | **<big>[[G1453\|ήγειραν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones guarding. | **<big>[[G5442\|φυλάσσοντας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they trumped | **<big>[[G4537\|εσάλπισαν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| horns, | **<big>[[G7998\|κερατίναις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shook off | **<big>[[G1621\|εξετίναξαν]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| water-pitchers, | **<big>[[G5201\|υδρίας]]</big>** |
+| the ones | **<big>[[G3588\|τας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their hands. | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Judg.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.18|<< Judges 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.20|Judges 7:20 >>]]</td></tr></table>
 
 

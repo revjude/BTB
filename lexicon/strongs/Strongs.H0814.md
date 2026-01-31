@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎אֶשְׁכָּר‎</span></big> **ʼeshkâr** <small>*(esh-cawr')*</small> ==**gift**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>for <span class="ashebrew">‎שָׂכָר‎</span><sup><small>[[H7939]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶשְׁכָּר‎</span></big>** **ʼeshkâr** <small>*(esh-cawr')*</small> ==**gift**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>for **<big>[[H7939|‎שָׂכָר‎]]</big>**</small>
 
 $\quad$ gift, present.
 - ***a gratuity***
 
 **1)** gift
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δῶρον</span><sup><small>[[G1435]]</small></sup> · <span class="asgreek">μισθός</span><sup><small>[[G3408]]</small></sup>
+<small>See Greek: </small>**<big>[[G1435|δῶρον]]</big>** · **<big>[[G3408|μισθός]]</big>**

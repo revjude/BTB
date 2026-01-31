@@ -1,4 +1,4 @@
-<small>Also see: [[H0838]]</small>
+<small>Also see: **<big>[[H0838|אָשֻׁר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎אַשּׁוּר‎</span> **proper name, of a people &amp; territory** ==Asshur, Assyria== (Assyrian <abbr title="transliteration"><u>***Aššur***</u></abbr>, land &amp; city [[BDB#Dl|Dl]]<sup>Pa 252</sup> [[BDB#COT|COT]] on [[Gen.2.14|Gen 2:14]] Persian <abbr title="transliteration"><u>***Athura***</u></abbr>, Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLwAWAIAAAAAAAP///yH5BAAAAAAALAAAAAAvABYAAAJtjI+py+0PEYhURoArzWYy7B2gJoXcF3ZnBZrpcmbv1arPO4oznOdfidspVgFiwrUTQoy6S0NZFDKPNV11+KT5itGtCKWNIWG8zXVlZE554tRMRmURW166WB6kU/Vdc/IKZkMy+ARFqLF2qOhQAAA7">; on the connection with name of god ***Ašur***, &amp; with √ <span class="bdbLangHebrew">‎אשׁר‎</span> = <span class="bdbLangHebrew">‎ישׁר‎</span> ***good, gracious***, compare [[BDB#COT|COT]]<sup>l.c</sup>.; see also [[BDB#Jen|Jen]]<sup>ZA, 1886, 1 f.</sup> [[BDB#Schr|Schr]]<sup>ib. 209 f.</sup> [[BDB#Nö|Nö]]<sup>ib. 268 f.</sup>) 
 

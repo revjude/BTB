@@ -10,34 +10,34 @@ The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ah
 This is the word of the LORD that came to Micah the Moreshite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah—what he saw regarding Samaria and Jerusalem:<small><sub>**MT:**</sub></small>
 [[Mic.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.11|<< Jonah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.2|Micah 1:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Micah | <big><span class="asgreek">Μιχαίαν</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Morasthite, | <big><span class="asgreek">Μωρασθεί</span></big> <sup><small><small>[[H4183]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of Jotham, | <big><span class="asgreek">Ιωάθαμ</span></big> <sup><small><small>[[G2488]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahaz, | <big><span class="asgreek">Αχαζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hezekiah, | <big><span class="asgreek">Εζεκίου</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Micah | **<big>[[H4318\|Μιχαίαν]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Morasthite, | **<big>[[H4183\|Μωρασθεί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημέραις]]</big>** |
+| of Jotham, | **<big>[[G2488\|Ιωάθαμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ahaz, | **<big>[[G0881\|Αχαζ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hezekiah, | **<big>[[G1478\|Εζεκίου]]</big>** |
+| kings | **<big>[[G0935\|βασιλέων]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| what | **<big>[[G3739\|ων]]</big>** |
+| he saw | **<big>[[G1492\|είδε]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Samaria | **<big>[[G4541\|Σαμαρείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Mic.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.11|<< Jonah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.2|Micah 1:2 >>]]</td></tr></table>
 
 

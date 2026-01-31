@@ -6,18 +6,18 @@ These are the sons of Rachel born to Jacob—fourteen in all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.21|<< Genesis 46:21]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.23|Genesis 46:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֚לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rachel  | <span class="ashebrew"><big>רָחֵ֔ל </big></span><small><small><sup>[[H7354]]</sup></small></small> &#8207;| ra.Chel <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was born  | <span class="ashebrew"><big>יֻלַּ֖ד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| yu.Lad <small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Jacob  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יַעֲקֹ֑ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| person  | <span class="ashebrew"><big>נֶ֖פֶשׁ </big></span><small><small><sup>[[H5315J]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] four-  | <span class="ashebrew"><big>אַרְבָּעָ֥ה </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.ba.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  | <span class="ashebrew"><big>עָשָֽׂר </big></span><small><small><sup>[[H6240]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rachel  |**<big>&#8207;[[H7354\|רָחֵ֔ל]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was born  |**<big>&#8207;[[H3205\|יֻלַּ֖ד]]&#8207; </big>**| yu.Lad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֑ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| person  |**<big>&#8207;[[H5315J\|נֶ֖פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] four-  |**<big>&#8207;[[H0702\|אַרְבָּעָ֥ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עָשָֽׂר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.21|<< Genesis 46:21]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.23|Genesis 46:23 >>]]</td></tr></table>
 
 

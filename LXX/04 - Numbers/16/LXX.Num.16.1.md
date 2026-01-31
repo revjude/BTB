@@ -14,28 +14,28 @@ Now Korah son of Izhar, the son of Kohath son of Levi, along with some Reubenite
 > $\quad$ referenced by: [[1John.3.12|1John 3:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Korah spoke, | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">Κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Izhar, | <big><span class="asgreek">Ισσαάρ</span></big> <sup><small><small>[[H3324]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kohath | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Levi; | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Dathan | <big><span class="asgreek">Δαθάν</span></big> <sup><small><small>[[H1885]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abiram | <big><span class="asgreek">Αβειρών</span></big> <sup><small><small>[[H0048]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Eliab, | <big><span class="asgreek">Ελιάβ</span></big> <sup><small><small>[[H0446]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| On | <big><span class="asgreek">Αυνάν</span></big> <sup><small><small>[[H0209]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Peleth | <big><span class="asgreek">Φαλέκ</span></big> <sup><small><small>[[G5317]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Reuben. | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Korah spoke, | **<big>[[G2980\|ελάλησε]]</big>** **<big>[[G2879\|Κορέ]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Izhar, | **<big>[[H3324\|Ισσαάρ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Kohath | **<big>[[H6955\|Καάθ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Levi; | **<big>[[G3017\|Λευί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Dathan | **<big>[[H1885\|Δαθάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abiram | **<big>[[H0048\|Αβειρών]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Eliab, | **<big>[[H0446\|Ελιάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| On | **<big>[[H0209\|Αυνάν]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Peleth | **<big>[[G5317\|Φαλέκ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Reuben. | **<big>[[G4502\|Ρουβήν]]</big>** |
 [[Num.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.41|<< Numbers 15:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.2|Numbers 16:2 >>]]</td></tr></table>
 
 

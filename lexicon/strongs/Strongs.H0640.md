@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָפַד‎</span></big> **ʼâphad** <small>*(aw-fad')*</small> ==**to gird**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (rather a denominative from <span class="ashebrew">‎אֵפוֹד‎</span><sup><small>[[H0646]]</small></sup>)</small>
+**<big><span class="ashebrew">‎אָפַד‎</span></big>** **ʼâphad** <small>*(aw-fad')*</small> ==**to gird**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (rather a denominative from **<big>[[H0646|‎אֵפוֹד‎]]</big>**)</small>
 
 $\quad$ bind, gird.
 - ***to gird on*** (the ephod)

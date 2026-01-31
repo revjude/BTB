@@ -6,18 +6,18 @@ I will pour out My wrath on Pelusium, the stronghold of Egypt, and cut off the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.14|<< Ezekiel 30:14]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.16|Ezekiel 30:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and I will pour out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שָׁפַכְתִּ֣י </big></span><small><small><sup>[[H8210G]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> sha.fakh.Ti <small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rage my  | <span class="ashebrew"><big>חֲמָתִ֔ </big></span><small><small><sup>[[H2534]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| cha.ma.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sin  | <span class="ashebrew"><big>סִ֖ין </big></span><small><small><sup>[[H5512A]]</sup></small></small> &#8207;| sin <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] stronghold of  | <span class="ashebrew"><big>מָע֣וֹז </big></span><small><small><sup>[[H4581]]</sup></small></small> &#8207;| ma.'oz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will cut off  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִכְרַתִּ֖י </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hikh.ra.Ti <small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] multitude of  | <span class="ashebrew"><big>הֲמ֥וֹן </big></span><small><small><sup>[[H1995A]]</sup></small></small> &#8207;| ha.Mon <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Thebes  | <span class="ashebrew"><big>נֹֽא </big></span><small><small><sup>[[H4996]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| No' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will pour out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8210G\|שָׁפַכְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rage my  |**<big>&#8207;[[H2534\|חֲמָתִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sin  |**<big>&#8207;[[H5512A\|סִ֖ין]]&#8207; </big>**| sin<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stronghold of  |**<big>&#8207;[[H4581\|מָע֣וֹז]]&#8207; </big>**| ma.'oz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|הִכְרַתִּ֖י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] multitude of  |**<big>&#8207;[[H1995A\|הֲמ֥וֹן]]&#8207; </big>**| ha.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Thebes  |**<big>&#8207;[[H4996\|נֹֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| No'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.14|<< Ezekiel 30:14]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.16|Ezekiel 30:16 >>]]</td></tr></table>
 
 

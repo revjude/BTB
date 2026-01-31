@@ -7,36 +7,36 @@ And he said unto him, My lord knoweth that the children [are] tender, and the fl
 But Jacob replied, “My lord knows that the children are frail, and I must care for sheep and cattle that are nursing their young. If they are driven hard for even a day, all the animals will die.<small><sub>**MT:**</sub></small>
 [[Gen.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.12|<< Genesis 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.14|Genesis 33:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| knows | <big><span class="asgreek">γινώσκει</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| children | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| are tender, | <big><span class="asgreek">απαλώτερα</span></big> <sup><small><small>[[G0527]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| are giving birth | <big><span class="asgreek">λοχεύονται</span></big> <sup><small><small>[[G8213]]</small></small></sup> |
-| to | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| I should drive | <big><span class="asgreek">καταδιώξω</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| one \[more\] | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| will die | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| And he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My master | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| knows | **<big>[[G1097\|γινώσκει]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| children | **<big>[[G3813\|παιδία]]</big>** |
+| are tender, | **<big>[[G0527\|απαλώτερα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| oxen | **<big>[[G1016\|βόες]]</big>** |
+| are giving birth | **<big>[[G8213\|λοχεύονται]]</big>** |
+| to | **<big>[[G1909\|επ΄]]</big>** |
+| me. | **<big>[[G1473\|εμέ]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| I should drive | **<big>[[G2614\|καταδιώξω]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| one \[more\] | **<big>[[G1520\|μίαν]]</big>** |
+| will die | **<big>[[G0599\|αποθανούνται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| cattle | **<big>[[G2934\|κτήνη]]</big>** |
 [[Gen.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.12|<< Genesis 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.14|Genesis 33:14 >>]]</td></tr></table>
 
 

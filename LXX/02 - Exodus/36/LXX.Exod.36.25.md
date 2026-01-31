@@ -7,18 +7,18 @@ And for the other side of the tabernacle, [which is] toward the north corner, he
 For the second side of the tabernacle, the north side, he made twenty frames<small><sub>**MT:**</sub></small>
 [[Exod.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.24|<< Exodus 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.26|Exodus 36:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side | <big><span class="asgreek">κλίτος</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north -- | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| posts, | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| side | **<big>[[G8026\|κλίτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| second | **<big>[[G1208\|δεύτερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north -- | **<big>[[G1005\|βορράν]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| posts, | **<big>[[G4769\|στύλους]]</big>** |
 [[Exod.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.24|<< Exodus 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.26|Exodus 36:26 >>]]</td></tr></table>
 
 

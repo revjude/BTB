@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בּוּזָה‎</span></big> **bûwzâh** <small>*(boo-zaw')*</small> ==**contempt**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine passive participle of <span class="ashebrew">‎בּוּז‎</span><sup><small>[[H0936]]</small></sup></small>
+**<big><span class="ashebrew">‎בּוּזָה‎</span></big>** **bûwzâh** <small>*(boo-zaw')*</small> ==**contempt**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine passive participle of **<big>[[H0936|‎בּוּז‎]]</big>**</small>
 
 $\quad$ despised.
 - ***something scorned***
@@ -7,4 +7,4 @@ $\quad$ despised.
 
 **1)** contempt
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ψωμίζω</span><sup><small>[[G5595]]</small></sup>
+<small>See Greek: </small>**<big>[[G5595|ψωμίζω]]</big>**

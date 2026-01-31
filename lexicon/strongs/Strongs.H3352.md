@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָקוֹשׁ‎</span></big> **yâqôwsh** <small>*(yaw-koshe')*</small> ==**fowler**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָקֹשׁ‎</span><sup><small>[[H3369]]</small></sup></small>
+**<big><span class="ashebrew">‎יָקוֹשׁ‎</span></big>** **yâqôwsh** <small>*(yaw-koshe')*</small> ==**fowler**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3369|‎יָקֹשׁ‎]]</big>**</small>
 
 $\quad$ fowler.
 - properly, ***entangling***

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎שְׁפַל‎</span> <small>***(she.phal)***</small> ==**low**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H8213]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H8213|שָׁפֵל]]</big>**</small> 
 
-- Aramaic of <i>sha.phel</i> (<span class='ashebrew'>‎ש‎</span>ָׁ<span class='ashebrew'>‎פ‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "to abase" [[H8213]])
+- Aramaic of <i>sha.phel</i> (<span class='ashebrew'>‎ש‎</span>ָׁ<span class='ashebrew'>‎פ‎</span>ֵ<span class='ashebrew'>‎ל‎</span> "to abase" **<big>[[H8213|שָׁפֵל]]</big>**)

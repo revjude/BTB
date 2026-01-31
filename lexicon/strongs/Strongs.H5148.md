@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָחָה‎</span></big> **nâchâh** <small>*(naw-khaw')*</small> ==**to lead**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָחָה‎</span></big>** **nâchâh** <small>*(naw-khaw')*</small> ==**to lead**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bestow, bring, govern, guide, lead (forth), put, straiten.
@@ -9,4 +9,4 @@ $\quad$ bestow, bring, govern, guide, lead (forth), put, straiten.
 $\quad$ **1a)** (Qal) to lead, bring
 $\quad$ **1b)** (Hiphil) to lead, guide
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">δεικνύω</span><sup><small>[[G1166]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">εὐοδόω</span><sup><small>[[G2137]]</small></sup> · <span class="asgreek">μεταπέμπω</span><sup><small>[[G3343]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup> · <span class="asgreek">τίθημι</span><sup><small>[[G5087]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G1166|δεικνύω]]</big>** · **<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G2137|εὐοδόω]]</big>** · **<big>[[G3343|μεταπέμπω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>** · **<big>[[G5087|τίθημι]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְחֶמְיָה‎</span></big> **Nᵉchemyâh** <small>*(nekh-em-yaw')*</small> ==**Nehemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָחַם‎</span><sup><small>[[H5162]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; consolation of Jah</small>
+**<big><span class="ashebrew">‎נְחֶמְיָה‎</span></big>** **Nᵉchemyâh** <small>*(nekh-em-yaw')*</small> ==**Nehemiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5162|‎נָחַם‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; consolation of Jah</small>
 
 $\quad$ Nehemiah.
 - § Nehemiah = *"Jehovah comforts"*

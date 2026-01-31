@@ -11,41 +11,41 @@ Sing for joy, O heavens, for the LORD has done this; shout aloud, O depths of th
 > $\quad$ referenced by: [[Rev.18.20|Rev 18:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be glad, | <big><span class="asgreek">ευφράνθητε</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| O heavens! | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| showed mercy | <big><span class="asgreek">ηλέησεν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Trump, | <big><span class="asgreek">σαλπίσατε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| O | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth! | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Yell out, | <big><span class="asgreek">βοήσατε</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| O mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| in gladness, | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| O | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills, | <big><span class="asgreek">βουνοί</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| ransomed | <big><span class="asgreek">ελυτρώσατο</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| shall be glorified. | <big><span class="asgreek">δοξασθήσεται</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
+| Be glad, | **<big>[[G2165\|ευφράνθητε]]</big>** |
+| O heavens! | **<big>[[G3772\|ουρανοί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| showed mercy | **<big>[[G1653\|ηλέησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Trump, | **<big>[[G4537\|σαλπίσατε]]</big>** |
+| O | **<big>[[G3588\|τα]]</big>** |
+| foundations | **<big>[[G2310\|θεμέλια]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth! | **<big>[[G1093\|γης]]</big>** |
+| Yell out, | **<big>[[G0994\|βοήσατε]]</big>** |
+| O mountains | **<big>[[G3735\|όρη]]</big>** |
+| in gladness, | **<big>[[G2167\|ευφροσύνην]]</big>** |
+| O | **<big>[[G3588\|οι]]</big>** |
+| hills, | **<big>[[G1015\|βουνοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees | **<big>[[G3586\|ξύλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| them! | **<big>[[G1473\|αυτοίς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| ransomed | **<big>[[G3084\|ελυτρώσατο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| shall be glorified. | **<big>[[G1392\|δοξασθήσεται]]</big>** |
 [[Isa.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.22|<< Isaiah 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.24|Isaiah 44:24 >>]]</td></tr></table>
 
 

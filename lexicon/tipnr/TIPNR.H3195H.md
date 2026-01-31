@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Jetur</span>, a descendant of Ishmael, also a region \(Ituraea\) mentioned in the New Testament.
 - A location first mentioned at [[1Chr.5.19|1Ch.5.19]]; 
-- referred to as Jetur<[[H3195H]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>טו</span>ּ<span class='tipnrLangHebrew'>ר</span>\), or Ituraea \(KJV= Ituraea, NIV= Iturea\) <[[G2484]]> \(<span class='tipnrLangGreek'>Ἰτουραΐα</span>\).
+- referred to as Jetur **<big>[[H3195|יְטוּר]]</big>**, or Ituraea \(KJV= Ituraea, NIV= Iturea\)  **<big>[[G2484|Ἰτουραΐα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.41615982399708,35.85725617635589&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Jetur was one of the twelve sons of Ishmael, the son of Abraham \(1 Chronicles 1
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jetur | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>טו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H3195H) <small>*Hebrew*</small> | 1x | [1Ch.5.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jetur\*\|reference=1Ch.5.19) |
-| Ituraea (KJV= Ituraea; NIV= Iturea) | [<span class='tipnrLangGreek'>Ἰτουραΐα</span>](G2484) <small>*Greek*</small> | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ituraea\*\|reference=Luk.3.1) |
-All Strong's for **Jetur or Ituraea**: \[[[H3195H]]\] \[[[G2484]]\]
+| Jetur | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>טו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H3195H) | 1x | [1Ch.5.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jetur\*\|reference=1Ch.5.19) |
+| Ituraea (KJV= Ituraea; NIV= Iturea) | [<span class='tipnrLangGreek'>Ἰτουραΐα</span>](G2484) | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ituraea\*\|reference=Luk.3.1) |
+All entries for **Jetur or Ituraea**:  **<big>[[H3195|יְטוּר]]</big>** ☩  **<big>[[G2484|Ἰτουραΐα]]</big>**

@@ -7,34 +7,34 @@ And ye shall overthrow their altars, and break their pillars, and burn their gro
 Tear down their altars, smash their sacred pillars, burn up their Asherah poles, cut down the idols of their gods, and wipe out their names from every place.<small><sub>**MT:**</sub></small>
 [[Deut.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.2|<< Deuteronomy 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.4|Deuteronomy 12:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall raze | <big><span class="asgreek">κατασκάψετε</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their shrines, | <big><span class="asgreek">βωμούς</span></big> <sup><small><small>[[G1041]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| break | <big><span class="asgreek">συντρίψετε</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their monuments; | <big><span class="asgreek">στήλας</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sacred groves | <big><span class="asgreek">άλση</span></big> <sup><small><small>[[G6242]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall cut down | <big><span class="asgreek">εκκόψετε</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their gods | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall incinerate | <big><span class="asgreek">κατακαύσετε</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| by fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall destroy | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their names | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that place. | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall raze | **<big>[[G2679\|κατασκάψετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their shrines, | **<big>[[G1041\|βωμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| break | **<big>[[G4937\|συντρίψετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their monuments; | **<big>[[G9171\|στήλας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their sacred groves | **<big>[[G6242\|άλση]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall cut down | **<big>[[G1581\|εκκόψετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| carvings | **<big>[[G6745\|γλυπτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their gods | **<big>[[G2316\|θεών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall incinerate | **<big>[[G2618\|κατακαύσετε]]</big>** |
+| by fire; | **<big>[[G4442\|πυρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall destroy | **<big>[[G0622\|απολείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their names | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| that place. | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1565\|εκείνου]]</big>** |
 [[Deut.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.2|<< Deuteronomy 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.4|Deuteronomy 12:4 >>]]</td></tr></table>
 
 

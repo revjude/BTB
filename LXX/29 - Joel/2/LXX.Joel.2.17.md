@@ -7,48 +7,48 @@ Let the priests, the ministers of the LORD, weep between the porch and the altar
 Let the priests who minister before the LORD weep between the portico and the altar, saying, “Spare Your people, O LORD, and do not make Your heritage a reproach, an object of scorn among the nations. Why should they say among the peoples, ‘Where is their God?’”<small><sub>**MT:**</sub></small>
 [[Joel.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.16|<< Joel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.18|Joel 2:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| footing | <big><span class="asgreek">κρηπίδος</span></big> <sup><small><small>[[G8094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| shall weep | <big><span class="asgreek">κλαύσονται</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ministering | <big><span class="asgreek">λειτουργούντες</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Spare, | <big><span class="asgreek">φείσαι</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people! | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| give | <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| scorn | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to rule | <big><span class="asgreek">κατάρξαι</span></big> <sup><small><small>[[G7914]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| say | <big><span class="asgreek">είπωσιν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their God? | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| footing | **<big>[[G8094\|κρηπίδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| shall weep | **<big>[[G2799\|κλαύσονται]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| ministering | **<big>[[G3008\|λειτουργούντες]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσι]]</big>** |
+| Spare, | **<big>[[G5339\|φείσαι]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your people! | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and, | **<big>[[G2532\|και]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| give | **<big>[[G1325\|δως]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| scorn | **<big>[[G3681\|όνειδος]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| to rule | **<big>[[G7914\|κατάρξαι]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| say | **<big>[[G2036\|είπωσιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσι]]</big>** |
+| Where | **<big>[[G4226\|που]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their God? | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Joel.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.16|<< Joel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.18|Joel 2:18 >>]]</td></tr></table>
 
 

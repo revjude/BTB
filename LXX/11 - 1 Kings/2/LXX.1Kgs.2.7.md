@@ -7,35 +7,35 @@ But shew kindness unto the sons of Barzillai the Gileadite, and let them be of t
 But show loving devotion to the sons of Barzillai the Gileadite, and let them be among those who eat at your table, because they stood by me when I fled from your brother Absalom.<small><sub>**MT:**</sub></small>
 [[1Kgs.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.6|<< 1 Kings 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.8|1 Kings 2:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Barzillai | <big><span class="asgreek">Βερζελλί</span></big> <sup><small><small>[[H1271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gileadite | <big><span class="asgreek">Γαλααδίτου</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| you shall have | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| mercy, | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eating | <big><span class="asgreek">εσθίουσι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your table, | <big><span class="asgreek">τράπεζάν</span></big> <sup><small><small>[[G5132]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| they drew near | <big><span class="asgreek">ήγγισάν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my fleeing | <big><span class="asgreek">φεύγειν</span></big> <sup><small><small>[[G5343]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Barzillai | **<big>[[H1271\|Βερζελλί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Gileadite | **<big>[[H1568\|Γαλααδίτου]]</big>** |
+| you shall have | **<big>[[G4160\|ποιήσεις]]</big>** |
+| mercy, | **<big>[[G1656\|έλεος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be | **<big>[[G1510\|έσονται]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| eating | **<big>[[G2068\|εσθίουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your table, | **<big>[[G5132\|τράπεζάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| they drew near | **<big>[[G1448\|ήγγισάν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my fleeing | **<big>[[G5343\|φεύγειν]]</big>** **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of Absalom. | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
 [[1Kgs.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.6|<< 1 Kings 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.8|1 Kings 2:8 >>]]</td></tr></table>
 
 

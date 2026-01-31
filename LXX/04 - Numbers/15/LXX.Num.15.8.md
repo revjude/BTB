@@ -7,25 +7,25 @@ And when thou preparest a bullock [for] a burnt offering, or [for] a sacrifice i
 When you prepare a young bull as a burnt offering or sacrifice to fulfill a vow or as a peace offering to the LORD,<small><sub>**MT:**</sub></small>
 [[Num.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.7|<< Numbers 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.9|Numbers 15:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| you should offer | <big><span class="asgreek">ποιήτε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| to magnify | <big><span class="asgreek">μεγαλύναι</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| a vow, | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a deliverance \[offering\] | <big><span class="asgreek">σωτήριον</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| oxen | **<big>[[G1016\|βοών]]</big>** |
+| you should offer | **<big>[[G4160\|ποιήτε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a whole burnt-offering, | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| to magnify | **<big>[[G3170\|μεγαλύναι]]</big>** |
+| a vow, | **<big>[[G2171\|ευχήν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a deliverance \[offering\] | **<big>[[G4992\|σωτήριον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
 [[Num.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.7|<< Numbers 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.9|Numbers 15:9 >>]]</td></tr></table>
 
 

@@ -10,13 +10,13 @@ Abram believed the LORD, and it was credited to him as righteousness.
 > $\quad$ referenced by: [[Rom.4.3|Rom 4:3]] ☩ [[Rom.4.9|Rom 4:9]] ☩ [[Rom.4.22|Rom 4:22]] ☩ [[Gal.3.6|Gal 3:6]] ☩ [[Jas.2.23|Jas 2:23]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he believed  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הֶאֱמִ֖ן </big></span><small><small><sup>[[H0539]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> he.'e.Min <small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Yahweh  | <span class="ashebrew"><big>בַּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he credited it  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּחְשְׁבֶ֥ </big></span><small><small><sup>[[H2803H]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yach.she.Ve. <small><sup>[[HVqw3ms]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  | <span class="ashebrew"><big>לּ֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness  | <span class="ashebrew"><big>צְדָקָֽה </big></span><small><small><sup>[[H6666]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tze.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he believed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0539\|הֶאֱמִ֖ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Min<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he credited it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2803H\|יַּחְשְׁבֶ֥]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.she.Ve.<small><sup>[[HVqw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|לּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  |**<big>&#8207;[[H6666\|צְדָקָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.5|<< Genesis 15:5]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.7|Genesis 15:7 >>]]</td></tr></table>
 
 

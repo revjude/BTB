@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹנָדָב‎</span></big> **Yôwnâdâb** <small>*(yo-naw-dawb')*</small> ==**Jonadab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹנָדָב‎</span><sup><small>[[H3082]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹנָדָב‎</span></big>** **Yôwnâdâb** <small>*(yo-naw-dawb')*</small> ==**Jonadab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3082|‎יְהוֹנָדָב‎]]</big>**</small>
 
 $\quad$ Jonadab.
 - § Jonadab or Jehonadab = *"Jehovah is willing"*

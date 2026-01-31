@@ -1,7 +1,5 @@
-<span class="ashebrew">‎לוֹט‎</span> <small>***(lot)***</small> ==**Lot**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.11.27|Gen.11.27]]
--  son of: Haran ([[H2039]])
--  brother of: Milcah ([[H4435]]) and Iscah ([[H3252]])
--  father of: daughter1\_of\_Lot ([[H3876H]]), daughter2\_of\_Lot ([[H3876I]]), Moab ([[H4124H]]), Ben-ammi ([[H1151]])
-- Also named: <i>Lōt</i> (<span class='asgreek'>Λώτ</span> "Lot" [[G3091]])
-
+-  son of: Haran (**<big>[[H2039|הָרָן]]</big>**)
+-  brother of: Milcah (**<big>[[H4435|מִלְכָּה]]</big>**) and Iscah (**<big>[[H3252|יִסְכָּה]]</big>**)
+-  father of: daughter1\_of\_Lot (**<big>[[H3876H|לוֹט]]</big>**), daughter2\_of\_Lot (**<big>[[H3876I|לוֹט]]</big>**), Moab (**<big>[[H4124H|מוֹאָב]]</big>**), Ben-ammi (**<big>[[H1151|בֶּן־עַמִּי]]</big>**)
+- Also named: <i>Lōt</i> (<span class='asgreek'>Λώτ</span> "Lot" **<big>[[G3091|Λώτ]]</big>**)

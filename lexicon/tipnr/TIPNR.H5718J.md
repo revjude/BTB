@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Adaiah</span> was the father of Maaseiah, one of the captains who supported Jehoiada the priest in overthrowing Athaliah and installing Joash as king of Judah.
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.23.1|2Ch.23.1]]; 
-- only referred to as Adaiah<[[H5718J]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  father of Maaseiah<[[H4641H]]>.
+- only referred to as Adaiah **<big>[[H5718|עֲדָיָה]]</big>**; 
+-  father of Maaseiah **<big>[[H4641|מַעֲשֵׂיָה]]</big>**.
 
 Adaiah is mentioned in [[2Chr.23.1|2 Chronicles 23:1]] as the father of Maaseiah, who was one of the captains involved in the coup against Athaliah, the queen who had usurped the throne of Judah. Adaiah's son Maaseiah, along with other captains and Levites, was gathered by Jehoiada the priest to support the installation of Joash, the rightful heir to the throne, as king. 
 
@@ -15,7 +15,7 @@ Apart from being the father of Maaseiah, no other information is provided about 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718J) <small>*Hebrew*</small> | 1x | [2Ch.23.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=2Ch.23.1) |
-All Strong's for **Adaiah**: \[[[H5718J]]\]
+| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718J) | 1x | [2Ch.23.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=2Ch.23.1) |
+All entries for **Adaiah**:  **<big>[[H5718|עֲדָיָה]]</big>**
 #### Related Profiles:
 - **[Maaseiah](H4641H)** (child)

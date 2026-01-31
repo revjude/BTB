@@ -7,24 +7,24 @@ Also Edom shall be a desolation: every one that goeth by it shall be astonished,
 “Edom will become an object of horror. All who pass by will be appalled and will scoff at all her wounds.<small><sub>**MT:**</sub></small>
 [[Jer.49.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.16|<< Jeremiah 49:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.18|Jeremiah 49:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Edom will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ιδουμαία</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an untrodden \[land\]. | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">παραπορευόμενος</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be amazed, | <big><span class="asgreek">εκστήσεται</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall whistle | <big><span class="asgreek">συριεί</span></big> <sup><small><small>[[G9349]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her calamities. | <big><span class="asgreek">πληγήν αυτής</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Edom will be | **<big>[[G1510\|έσται]]</big>** **<big>[[G3588\|η]]</big>** **<big>[[H0123\|Ιδουμαία]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an untrodden \[land\]. | **<big>[[G6101\|άβατον]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| the ones | **<big>[[G3588\|ο]]</big>** |
+| coming | **<big>[[G3899\|παραπορευόμενος]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| shall be amazed, | **<big>[[G1839\|εκστήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall whistle | **<big>[[G9349\|συριεί]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her calamities. | **<big>[[G4127\|πληγήν αυτής]]</big>** |
 [[Jer.49.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.16|<< Jeremiah 49:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.18|Jeremiah 49:18 >>]]</td></tr></table>
 
 

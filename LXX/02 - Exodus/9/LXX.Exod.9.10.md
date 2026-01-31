@@ -11,36 +11,36 @@ So they took soot from the furnace and stood before Pharaoh. Moses tossed it int
 > $\quad$ referenced by: [[Rev.16.2|Rev 16:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soot | <big><span class="asgreek">αιθάλην</span></big> <sup><small><small>[[G6158]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furnace | <big><span class="asgreek">καμιναίας</span></big> <sup><small><small>[[G7790]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Pharaoh; | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strew | <big><span class="asgreek">έπασεν</span></big> <sup><small><small>[[G8663]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven; | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| sores | <big><span class="asgreek">έλκη</span></big> <sup><small><small>[[G1668]]</small></small></sup> |
-| of boils | <big><span class="asgreek">φλυκτίδες</span></big> <sup><small><small>[[G9649]]</small></small></sup> |
-| breaking out | <big><span class="asgreek">αναζέουσαι</span></big> <sup><small><small>[[G6280]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed \[creatures\]. | <big><span class="asgreek">τετράποσι</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they took | **<big>[[G2983\|έλαβε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| soot | **<big>[[G6158\|αιθάλην]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| furnace | **<big>[[G7790\|καμιναίας]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| Pharaoh; | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strew | **<big>[[G8663\|έπασεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven; | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there became | **<big>[[G1096\|εγένετο]]</big>** |
+| sores | **<big>[[G1668\|έλκη]]</big>** |
+| of boils | **<big>[[G9649\|φλυκτίδες]]</big>** |
+| breaking out | **<big>[[G6280\|αναζέουσαι]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| both | **<big>[[G5037\|τε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| men, | **<big>[[G0444\|ανθρώποις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| four-footed \[creatures\]. | **<big>[[G5074\|τετράποσι]]</big>** |
 [[Exod.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.9|<< Exodus 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.11|Exodus 9:11 >>]]</td></tr></table>
 
 

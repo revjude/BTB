@@ -6,15 +6,15 @@ Therefore I am terrified in His presence; when I consider this, I fear Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.14|<< Job 23:14]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.16|Job 23:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there-  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -fore  | <span class="ashebrew"><big>כֵּ֭ן </big></span><small><small><sup>[[H3651C]]</sup></small></small> &#8207;| ken <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<before> him  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>פָּנָ֣י </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> pa.Na <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am terrified  | <span class="ashebrew"><big>אֶבָּהֵ֑ל </big></span><small><small><sup>[[H0926]]</sup></small></small> &#8207;| 'e.ba.Hel <small><sup>[[HVNi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I consider  | <span class="ashebrew"><big>אֶ֝תְבּוֹנֵ֗ן </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| 'et.bo.Nen <small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I may be in dread  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶפְחַ֥ד </big></span><small><small><sup>[[H6342]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ef.Chad <small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from him  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  |**<big>&#8207;[[H3651C\|כֵּ֭ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<before> him  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440H\|פָּנָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am terrified  |**<big>&#8207;[[H0926\|אֶבָּהֵ֑ל]]&#8207; </big>**| 'e.ba.Hel<small><sup>[[HVNi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I consider  |**<big>&#8207;[[H0995\|אֶ֝תְבּוֹנֵ֗ן]]&#8207; </big>**| 'et.bo.Nen<small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may be in dread  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6342\|אֶפְחַ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ef.Chad<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from him  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.14|<< Job 23:14]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.16|Job 23:16 >>]]</td></tr></table>
 
 

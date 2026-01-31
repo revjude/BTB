@@ -1,8 +1,8 @@
 <small>*Tishbe • Hometown of the prophet Elijah*</small>
 
 <span class='tipnrhighlight'>Tishbe</span> \(or Tishbite\), the hometown of the prophet Elijah, located in Gilead \(1 Kgs. 17:1; 21:17, 28; 2 Kgs. 1:3, 8; 9:36\).
-- A location near Hazor<[[H2674G]]> first mentioned at 1Ki.17.1; 
-- referred to as Tishbe<[[H8453B]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ה</span>\), or Tishbite<[[H8664]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>\).
+- A location near Hazor **<big>[[H2674|חָצוֹר]]</big>** first mentioned at 1Ki.17.1; 
+- referred to as Tishbe **<big>[[H8453|תּוֹשָׁב]]</big>**, or Tishbite **<big>[[H8664|תִּשְׁבִּי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.01718199667929,35.56804856758258&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Tishbe, also known as Tishbite, is mentioned in the Bible as the hometown of the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tishbe (KJV= inhabitants) | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ה</span>](H8453B) <small>*Hebrew*</small> | 1x | [1Ki.17.1b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tishbe\*\|reference=1Ki.17.1) |
-| Tishbite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>](H8664) <small>*Hebrew*</small> | 6x | [[1Ki.17.1a] ... [2Ki.9.36] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tishbite\*\|reference=1Ki.17.1;1Ki.21.17;1Ki.21.28;2Ki.1.3;2Ki.1.8;2Ki.9.36) |
-All Strong's for **Tishbe or Tishbite**: \[[[H8453B]]\] \[[[H8664]]\]
+| Tishbe (KJV= inhabitants) | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ה</span>](H8453B) | 1x | [1Ki.17.1b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tishbe\*\|reference=1Ki.17.1) |
+| Tishbite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>](H8664) | 6x | [[1Ki.17.1a] ... [2Ki.9.36] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tishbite\*\|reference=1Ki.17.1;1Ki.21.17;1Ki.21.28;2Ki.1.3;2Ki.1.8;2Ki.9.36) |
+All entries for **Tishbe or Tishbite**:  **<big>[[H8453|תּוֹשָׁב]]</big>** ☩  **<big>[[H8664|תִּשְׁבִּי]]</big>**

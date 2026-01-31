@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָקַק‎</span></big> **châqaq** <small>*(khaw-kak')*</small> ==**to decree**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָקַק‎</span></big>** **châqaq** <small>*(khaw-kak')*</small> ==**to decree**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint, decree, governor, grave, lawgiver, note, pourtray, print, set.
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1b2)** one who decrees, lawgiver (participle)
 $\quad$ **1c)** (Pual) something decreed, the law (participle)
 $\quad$ **1d)** (Hophal) to be inscribed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">ἀφορίζω</span><sup><small>[[G0873]]</small></sup> · <span class="asgreek">βασιλεύς</span><sup><small>[[G0935]]</small></sup> · <span class="asgreek">γράφω</span><sup><small>[[G1125]]</small></sup> · <span class="asgreek">διατάσσω</span><sup><small>[[G1299]]</small></sup> · <span class="asgreek">ἐρευνάω</span><sup><small>[[G2045]]</small></sup> · <span class="asgreek">ἡγέομαι</span><sup><small>[[G2233]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup>
+<small>See Greek: </small>**<big>[[G0758|ἄρχων]]</big>** · **<big>[[G0873|ἀφορίζω]]</big>** · **<big>[[G0935|βασιλεύς]]</big>** · **<big>[[G1125|γράφω]]</big>** · **<big>[[G1299|διατάσσω]]</big>** · **<big>[[G2045|ἐρευνάω]]</big>** · **<big>[[G2233|ἡγέομαι]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>**

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎מָנַ֫חַת‎</span> <small>***(ma.na.chat)***</small> ==**Manahath**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.23|Gen.36.23]]
--  son of: Shobal ([[H7732]])
--  brother of: Alvan ([[H5935]]), Ebal ([[H5858B]]), Shepho ([[H8195]]) and Onam ([[H0208]])
-- Also named: <i>ma.na.chat</i> (<span class='ashebrew'>‎מ‎</span>ָ<span class='ashebrew'>‎נ‎</span>ַ֫<span class='ashebrew'>‎ח‎</span>ַ<span class='ashebrew'>‎ת‎</span> "Manahathite" [[H4506]])
+-  son of: Shobal (**<big>[[H7732|שׁוֹבָל]]</big>**)
+-  brother of: Alvan (**<big>[[H5935|עַלְוָן]]</big>**), Ebal (**<big>[[H5858B|עֵיבָל]]</big>**), Shepho (**<big>[[H8195|שְׁפוֹ]]</big>**) and Onam (**<big>[[H0208|אוֹנָם]]</big>**)
+- Also named: <i>ma.na.chat</i> (<span class='ashebrew'>‎מ‎</span>ָ<span class='ashebrew'>‎נ‎</span>ַ֫<span class='ashebrew'>‎ח‎</span>ַ<span class='ashebrew'>‎ת‎</span> "Manahathite" **<big>[[H4506|מָנַחַת]]</big>**)

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κατα-γελάω</span></span>, <span class="asgreek">-ῶ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">שׁחק</span> <small><sup>[[H7832]]</sup></small>, [[LXX.Job.5.22|Jb 5:22]], [[LXX.Prov.29.9|Pr 29:9]], al.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κατα-γελάω</span></span>, <span class="asgreek">-ῶ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7832|שׁחק]]</big>**, [[LXX.Job.5.22|Jb 5:22]], [[LXX.Prov.29.9|Pr 29:9]], al.;\]</span> </span>
 <span class="asitalic">to deride</span>, <span class="asitalic">laugh scornfully at</span>: c. gen. pers., [[Matt.9.24|Mt 9:24]], [[Mark.5.40|Mk 5:40]], [[Luke.8.53|Lk 8:53]].†
 
 **Abbott-Smith References**

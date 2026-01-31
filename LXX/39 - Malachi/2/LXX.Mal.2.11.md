@@ -7,30 +7,30 @@ Judah hath dealt treacherously, and an abomination is committed in Israel and in
 Judah has broken faith; an abomination has been committed in Israel and in Jerusalem. For Judah has profaned the LORD’s beloved sanctuary by marrying the daughter of a foreign god.<small><sub>**MT:**</sub></small>
 [[Mal.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.10|<< Malachi 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.12|Malachi 2:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Judah abandoned, | <big><span class="asgreek">εγκατελείφθη</span></big> <sup><small><small>[[G1459]]</small></small></sup> <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| took place | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem; | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| Judah profaned | <big><span class="asgreek">εβεβήλωσεν</span></big> <sup><small><small>[[G0953]]</small></small></sup> <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he loved, | <big><span class="asgreek">ηγάπησε</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| applied | <big><span class="asgreek">επετήδευσεν</span></big> <sup><small><small>[[G7462]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| alien gods. | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίους</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| Judah abandoned, | **<big>[[G1459\|εγκατελείφθη]]</big>** **<big>[[G2448\|Ιούδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an abomination | **<big>[[G0946\|βδέλυγμα]]</big>** |
+| took place | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem; | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| for | **<big>[[G1360\|διότι]]</big>** |
+| Judah profaned | **<big>[[G0953\|εβεβήλωσεν]]</big>** **<big>[[G2448\|Ιούδας]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| he loved, | **<big>[[G0025\|ηγάπησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| applied | **<big>[[G7462\|επετήδευσεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| alien gods. | **<big>[[G2316\|θεούς]]</big>** **<big>[[G0245\|αλλοτρίους]]</big>** |
 [[Mal.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.10|<< Malachi 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.12|Malachi 2:12 >>]]</td></tr></table>
 
 

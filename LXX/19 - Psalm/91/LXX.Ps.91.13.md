@@ -7,18 +7,18 @@ Thou shalt tread upon the lion and adder: the young lion and the dragon shalt th
 You will tread on the lion and cobra; you will trample the young lion and serpent.<small><sub>**MT:**</sub></small>
 [[Ps.91.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.12|<< Psalm 91:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.14|Psalm 91:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] asp | <big><span class="asgreek">ασπίδα</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cobra | <big><span class="asgreek">βασιλίσκον</span></big> <sup><small><small>[[G6658]]</small></small></sup> |
-| You shall set foot | <big><span class="asgreek">επιβήση</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall trample on | <big><span class="asgreek">καταπατήσεις</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
-| \[the\] lion | <big><span class="asgreek">λέοντα</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dragon. | <big><span class="asgreek">δράκοντα</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] asp | **<big>[[G0785\|ασπίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cobra | **<big>[[G6658\|βασιλίσκον]]</big>** |
+| You shall set foot | **<big>[[G1910\|επιβήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall trample on | **<big>[[G2662\|καταπατήσεις]]</big>** |
+| \[the\] lion | **<big>[[G3023\|λέοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dragon. | **<big>[[G1404\|δράκοντα]]</big>** |
 [[Ps.91.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.12|<< Psalm 91:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.14|Psalm 91:14 >>]]</td></tr></table>
 
 

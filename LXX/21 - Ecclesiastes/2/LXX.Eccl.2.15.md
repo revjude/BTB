@@ -7,38 +7,38 @@ Then said I in my heart, As it happeneth to the fool, so it happeneth even to me
 So I said to myself, “The fate of the fool will also befall me. What then have I gained by being wise?” And I said to myself that this too is futile.<small><sub>**MT:**</sub></small>
 [[Eccl.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.14|<< Ecclesiastes 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.16|Ecclesiastes 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] event | <big><span class="asgreek">συνάντημα</span></big> <sup><small><small>[[G9296]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fool \[is\], | <big><span class="asgreek">άφρονος</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall meet up with | <big><span class="asgreek">συναντήσεταί</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| have I discerned wisdom? | <big><span class="asgreek">εσοφισάμην</span></big> <sup><small><small>[[G4679]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[And this\] extra | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">περισσόν</span></big> <sup><small><small>[[G4053]]</small></small></sup> |
-| I said | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[the\] fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| abundance | <big><span class="asgreek">περισσεύματος</span></big> <sup><small><small>[[G4051]]</small></small></sup> |
-| speaks, | <big><span class="asgreek">λαλεί</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] folly. | <big><span class="asgreek">ματαιότης</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said | **<big>[[G2036\|είπον]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| As | **<big>[[G5613\|ως]]</big>** |
+| \[the\] event | **<big>[[G9296\|συνάντημα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| fool \[is\], | **<big>[[G0878\|άφρονος]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| it shall meet up with | **<big>[[G4876\|συναντήσεταί]]</big>** |
+| me; | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| have I discerned wisdom? | **<big>[[G4679\|εσοφισάμην]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| \[And this\] extra | **<big>[[G3588\|το]]</big>** **<big>[[G4053\|περισσόν]]</big>** |
+| I said | **<big>[[G2980\|ελάλησα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| \[the\] fool | **<big>[[G0878\|άφρων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| abundance | **<big>[[G4051\|περισσεύματος]]</big>** |
+| speaks, | **<big>[[G2980\|λαλεί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] folly. | **<big>[[G3153\|ματαιότης]]</big>** |
 [[Eccl.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.14|<< Ecclesiastes 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.16|Ecclesiastes 2:16 >>]]</td></tr></table>
 
 

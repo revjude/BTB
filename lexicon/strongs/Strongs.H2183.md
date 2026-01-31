@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָנוּן‎</span></big> **zânûwn** <small>*(zaw-noon')*</small> ==**fornication**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎זָנָה‎</span><sup><small>[[H2181]]</small></sup></small>
+**<big><span class="ashebrew">‎זָנוּן‎</span></big>** **zânûwn** <small>*(zaw-noon')*</small> ==**fornication**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2181|‎זָנָה‎]]</big>**</small>
 
 $\quad$ whoredom.
 - ***adultery***
@@ -7,4 +7,4 @@ $\quad$ whoredom.
 
 **1)** adultery, fornication, prostitution
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πορνεία</span><sup><small>[[G4202]]</small></sup>
+<small>See Greek: </small>**<big>[[G4202|πορνεία]]</big>**

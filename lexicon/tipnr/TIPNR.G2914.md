@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Caphtor</span>, identified as the island of Crete, was the original homeland of the Philistines and a place visited by the apostle Paul.
 - A location first mentioned at [[John.6.59|Deu.2.23]]; 
-- referred to as Caphtor<[[H3731]]> \(<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\), or Crete<[[G2914]]> \(<span class='tipnrLangGreek'>Κρήτη</span>\), or Cretan<[[G2912]]> \(<span class='tipnrLangGreek'>Κρής</span>\).
+- referred to as Caphtor **<big>[[H3731|כַּפְתֹּר]]</big>**, or Crete **<big>[[G2914|Κρήτη]]</big>**, or Cretan **<big>[[G2912|Κρής]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.171239,25.007204&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,7 +18,7 @@ On the day of Pentecost, Cretans were among the people present in Jerusalem who 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Caphtor | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H3731) <small>*Hebrew*</small> | 3x | [[Deu.2.23] ... [Amo.9.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caphtor\*\|reference=Deu.2.23;Jer.47.4;Amo.9.7) |
-| Crete | [<span class='tipnrLangGreek'>Κρήτη</span>](G2914) <small>*Greek*</small> | 5x | [[Act.27.7] ... [Tit.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Crete\*\|reference=Act.27.7;Act.27.12;Act.27.13;Act.27.21;Tit.1.5) |
-| Cretan <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κρής</span>](G2912) <small>*Greek*</small> | 3x | [[Act.2.11] ... [Tit.3.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cretan\*\|reference=Act.2.11;Tit.1.12;Tit.3.15) |
-All Strong's for **Caphtor or Crete or Cretan**: \[[[H3731]]\] \[[[G2914]]\] \[[[G2912]]\]
+| Caphtor | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H3731) | 3x | [[Deu.2.23] ... [Amo.9.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caphtor\*\|reference=Deu.2.23;Jer.47.4;Amo.9.7) |
+| Crete | [<span class='tipnrLangGreek'>Κρήτη</span>](G2914) | 5x | [[Act.27.7] ... [Tit.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Crete\*\|reference=Act.27.7;Act.27.12;Act.27.13;Act.27.21;Tit.1.5) |
+| Cretan <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κρής</span>](G2912) | 3x | [[Act.2.11] ... [Tit.3.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cretan\*\|reference=Act.2.11;Tit.1.12;Tit.3.15) |
+All entries for **Caphtor or Crete or Cretan**:  **<big>[[H3731|כַּפְתֹּר]]</big>** ☩  **<big>[[G2914|Κρήτη]]</big>** ☩  **<big>[[G2912|Κρής]]</big>**

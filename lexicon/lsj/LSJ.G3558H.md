@@ -1,4 +1,4 @@
-Greek of: <small>[[H7614J]]</small> 
+Greek of: <small>**<big>[[H7614J|שְׁבָא]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==νότος==</span></b>, <span class='asgreek'>ὁ</span>, 

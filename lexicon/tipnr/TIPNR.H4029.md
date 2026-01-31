@@ -1,8 +1,8 @@
 <small>*Eder\_1 • A tower near Bethlehem, associated with the Messiah*</small>
 
 The <span class='tipnrhighlight'>Tower of Eder</span>, a watchtower near Bethlehem, where Jacob pitched his tent and later associated with the coming of the Messiah \(Gen. 35:21; Mic. 4:8\).
-- A location in Bethlehem<[[H1035G]]> first mentioned at [[Gen.35.21|Gen.35.21]]; 
-- only referred to as Tower\_of\_Eder<[[H4029]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>־<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>\).
+- A location in Bethlehem **<big>[[H1035|בֵּית לֶחֶם]]</big>** first mentioned at [[Gen.35.21|Gen.35.21]]; 
+- only referred to as Tower\_of\_Eder **<big>[[H4029|מִגְדַּל־עֵדֶר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.70536129174666,35.21026630105202&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Tower of Eder, also known as the Tower of the Flock, is mentioned twice in t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| tower of Eder (KJV= tower of Edar; NIV= Migdal Eder) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>־<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H4029) <small>*Hebrew*</small> | 2x | [[Gen.35.21] & [Mic.4.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=tower\*\|reference=Gen.35.21;Mic.4.8) |
-All Strong's for **Tower_of_Eder**: \[[[H4029]]\]
+| tower of Eder (KJV= tower of Edar; NIV= Migdal Eder) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>־<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H4029) | 2x | [[Gen.35.21] & [Mic.4.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=tower\*\|reference=Gen.35.21;Mic.4.8) |
+All entries for **Tower of Eder**:  **<big>[[H4029|מִגְדַּל־עֵדֶר]]</big>**

@@ -7,52 +7,52 @@ And the king of Israel said unto Jehoshaphat, [There is] yet one man, by whom we
 The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied.<small><sub>**MT:**</sub></small>
 [[2Chr.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jehoshaphat, | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| There is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to seek | <big><span class="asgreek">ζητήσαι</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| detest | <big><span class="asgreek">εμίσησα</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητεύων</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| bad \[things\]. | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| He is | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Michaiah | <big><span class="asgreek">Μιχαίας</span></big> <sup><small><small>[[H4318]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Imla. | <big><span class="asgreek">Ιεμλά</span></big> <sup><small><small>[[H3229]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| speak | <big><span class="asgreek">λαλείτω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| thus! | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jehoshaphat, | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| There is | **<big>[[G1510\|έστιν]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to seek | **<big>[[G2212\|ζητήσαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| detest | **<big>[[G3404\|εμίσησα]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| prophesying | **<big>[[G4395\|προφητεύων]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his days | **<big>[[G2250\|ημέραι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[are\] for | **<big>[[G1519\|εις]]</big>** |
+| bad \[things\]. | **<big>[[G2556\|κακά]]</big>** |
+| He is | **<big>[[G1473\|αυτός]]</big>** |
+| Michaiah | **<big>[[H4318\|Μιχαίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Imla. | **<big>[[H3229\|Ιεμλά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| Let not | **<big>[[G3361\|μη]]</big>** |
+| speak | **<big>[[G2980\|λαλείτω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| thus! | **<big>[[G3779\|ούτως]]</big>** |
 [[2Chr.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
 
 

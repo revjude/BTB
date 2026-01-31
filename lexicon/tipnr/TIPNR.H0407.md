@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Achshaph</span>, a Canaanite city defeated by Joshua and allotted to Asher.
 - A location first mentioned at [[Josh.11.1|Jos.11.1]]; 
-- only referred to as Achshaph<[[H0407]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ף</span>\).
+- only referred to as Achshaph **<big>[[H0407|אַכְשָׁף]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.95182083157021,35.17382658065705&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Achshaph was a Canaanite city-state mentioned in the conquest narratives of the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Achshaph NIV= Akshaph) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ף</span>](H0407) <small>*Hebrew*</small> | 3x | [[Jos.11.1] ... [Jos.19.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achshaph\*\|reference=Jos.11.1;Jos.12.20;Jos.19.25) |
-All Strong's for **Achshaph**: \[[[H0407]]\]
+| Achshaph NIV= Akshaph) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ף</span>](H0407) | 3x | [[Jos.11.1] ... [Jos.19.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achshaph\*\|reference=Jos.11.1;Jos.12.20;Jos.19.25) |
+All entries for **Achshaph**:  **<big>[[H0407|אַכְשָׁף]]</big>**

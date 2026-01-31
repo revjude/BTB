@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎רַחִיק‎</span></big> **rachîyq** <small>*(rakh-eek')*</small> ==**far**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎רָחוֹק‎</span><sup><small>[[H7350]]</small></sup></small>
+**<big><span class="asaramaic">‎רַחִיק‎</span></big>** **rachîyq** <small>*(rakh-eek')*</small> ==**far**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7350|‎רָחוֹק‎]]</big>**</small>
 
 $\quad$ far.
 - {***remote***, literally or figuratively, ***of place*** or ***time***

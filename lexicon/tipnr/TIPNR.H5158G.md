@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Brook of the Willows</span> was a boundary of Moab's territory, possibly near the Wadi Zered.
 - A location in the Jordan Valley only mentioned at [[Isa.15.7|Isa.15.7]] ; 
-- called Brook\_of\_the\_Willows <[[H5158G]]><[[H5158G]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span> <span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>\)
+- called Brook\_of\_the\_Willows  **<big>[[H5158|נַחַל]]</big>** **<big>[[H5158|נַחַל]]</big>**
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.309099,35.559900&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ Isaiah's prophecy describes the devastation that would come upon Moab, causing i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Brook/ of the Willows (KJV= brook of the willows; NIV= Ravine of the Poplars) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6155G)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158G) <small>*Hebrew*</small> | 1x | [Isa.15.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Brook\*\|reference=Isa.15.7) |
-All Strong's for **Brook_of_the_Willows**: \[[[H6155G]]\] \[[[H5158G]]\]
+| Brook/ of the Willows (KJV= brook of the willows; NIV= Ravine of the Poplars) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6155G)[<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ל</span>](H5158G) | 1x | [Isa.15.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Brook\*\|reference=Isa.15.7) |
+All entries for **Brook of the Willows**:  **<big>[[H6155|עָרָב]]</big>** ☩  **<big>[[H5158|נַחַל]]</big>**

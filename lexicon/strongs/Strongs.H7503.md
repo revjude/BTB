@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎רָפָה‎</span></big> **râphâh** <small>*(raw-faw')*</small> ==**to slacken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָפָה‎</span></big>** **râphâh** <small>*(raw-faw')*</small> ==**to slacken**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ abate, cease, consume, draw (toward evening), fail, (be) faint, be (wax) feeble, forsake, idle, leave, let alone (go, down), (be) slack, stay, be still, be slothful, (be) weak(-en). See <span class="ashebrew">‎רָפָא‎</span><sup><small>[[H7495]]</small></sup>.
+$\quad$ abate, cease, consume, draw (toward evening), fail, (be) faint, be (wax) feeble, forsake, idle, leave, let alone (go, down), (be) slack, stay, be still, be slothful, (be) weak(-en). See **<big>[[H7495|‎רָפָא‎]]</big>**.
 - ***to slacken*** (in many applications, literal or figurative)
 
 **1)** to sink, relax, sink down, let drop, be disheartened
@@ -19,4 +19,4 @@ $\quad$ $\quad$ **1d3)** to refrain, let alone
 $\quad$ $\quad$ **1d4)** to be quiet
 $\quad$ **1e)** (Hithpael) to show oneself slack
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνίημι</span><sup><small>[[G0447]]</small></sup> · <span class="asgreek">ἀπέρχομαι</span><sup><small>[[G0565]]</small></sup> · <span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">ἀφίημι</span><sup><small>[[G0863]]</small></sup> · <span class="asgreek">ἐάω</span><sup><small>[[G1439]]</small></sup> · <span class="asgreek">ἐγκαταλείπω</span><sup><small>[[G1459]]</small></sup> · <span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">καταπαύω</span><sup><small>[[G2664]]</small></sup> · <span class="asgreek">κλίνω</span><sup><small>[[G2827]]</small></sup> · <span class="asgreek">παραλύω</span><sup><small>[[G3886]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup> · <span class="asgreek">παύω</span><sup><small>[[G3973]]</small></sup> · <span class="asgreek">σχολάζω</span><sup><small>[[G4980]]</small></sup>
+<small>See Greek: </small>**<big>[[G0447|ἀνίημι]]</big>** · **<big>[[G0565|ἀπέρχομαι]]</big>** · **<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G0863|ἀφίημι]]</big>** · **<big>[[G1439|ἐάω]]</big>** · **<big>[[G1459|ἐγκαταλείπω]]</big>** · **<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G2664|καταπαύω]]</big>** · **<big>[[G2827|κλίνω]]</big>** · **<big>[[G3886|παραλύω]]</big>** · **<big>[[G3935|παρίημι]]</big>** · **<big>[[G3973|παύω]]</big>** · **<big>[[G4980|σχολάζω]]</big>**

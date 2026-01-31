@@ -4,7 +4,7 @@ Word sometimes translated as a name
 
 The <span class='tipnrhighlight'>Dehavite</span>s were a people group who opposed the rebuilding of Jerusalem during the time of Ezra. \([[Ezra.4.9|Ezr.4.9]]\)
 - A group or a word meaning "that is", only mentioned at [[Ezra.4.9|Ezr.4.9]]; 
-- only referred to as Dehavite<[[H1723]]> \(<span class='tipnrLangHebrew'>ד</span>ֵּ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Dehavite **<big>[[H1723|דַּהֲוָא]]</big>**.
 
 The Dehavites are mentioned in [[Ezra.4.9|Ezra 4:9]] as one of the people groups who wrote a letter to King Artaxerxes of Persia, opposing the rebuilding of Jerusalem and the temple. This letter was part of a larger effort by the adversaries of Judah and Benjamin to halt the reconstruction work that had begun under the leadership of Zerubbabel and Jeshua. 
 
@@ -16,5 +16,5 @@ Apart from this single mention in Ezra, no further information is provided about
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| that is (=Ketiv. Qere, KJV= Dehavite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ד</span>ֵּ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H1723) <small>*Hebrew*</small> | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="that\*\|reference=Ezr.4.9) |
-All Strong's for **Dehavite**: \[[[H1723]]\]
+| that is (=Ketiv. Qere, KJV= Dehavite) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ד</span>ֵּ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>א</span>](H1723) | 1x | [Ezr.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="that\*\|reference=Ezr.4.9) |
+All entries for **Dehavite**:  **<big>[[H1723|דַּהֲוָא]]</big>**

@@ -7,21 +7,21 @@ How then can man be justified with God? or how can he be clean [that is] born of
 How then can a man be just before God? How can one born of woman be pure?<small><sub>**MT:**</sub></small>
 [[Job.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.3|<< Job 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.5|Job 25:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| a mortal | <big><span class="asgreek">βροτός</span></big> <sup><small><small>[[G6699]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| may | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| cleanse | <big><span class="asgreek">αποκαθαρίσαι</span></big> <sup><small><small>[[G6435]]</small></small></sup> |
-| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| born | <big><span class="asgreek">γεννητός</span></big> <sup><small><small>[[G1084]]</small></small></sup> |
-| of a woman? | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| For how | **<big>[[G4459\|πως]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| just | **<big>[[G1342\|δίκαιος]]</big>** |
+| a mortal | **<big>[[G6699\|βροτός]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| may | **<big>[[G0302\|αν]]</big>** |
+| cleanse | **<big>[[G6435\|αποκαθαρίσαι]]</big>** |
+| himself | **<big>[[G1438\|εαυτόν]]</big>** |
+| born | **<big>[[G1084\|γεννητός]]</big>** |
+| of a woman? | **<big>[[G1135\|γυναικός]]</big>** |
 [[Job.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.3|<< Job 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.5|Job 25:5 >>]]</td></tr></table>
 
 

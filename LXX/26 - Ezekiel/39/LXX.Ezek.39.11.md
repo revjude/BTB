@@ -7,47 +7,47 @@ And it shall come to pass in that day, [that] I will give unto Gog a place there
 And on that day I will give Gog a burial place in Israel, the Valley of the Travelers, east of the Sea. It will block those who travel through, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon-gog.<small><sub>**MT:**</sub></small>
 [[Ezek.39.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.10|<< Ezekiel 39:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.12|Ezekiel 39:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gog | <big><span class="asgreek">Γωγ</span></big> <sup><small><small>[[G1136]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of renown -- | <big><span class="asgreek">ονομαστόν</span></big> <sup><small><small>[[G8520]]</small></small></sup> |
-| a memorial | <big><span class="asgreek">μνημείον</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| a cemetery | <big><span class="asgreek">πολυάνδριον</span></big> <sup><small><small>[[G8848]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">επελθόντων</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| by | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall enclose | <big><span class="asgreek">περιοικοδομήσουσι</span></big> <sup><small><small>[[G8742]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cleft | <big><span class="asgreek">περιστόμιον</span></big> <sup><small><small>[[G8761]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine, | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bury | <big><span class="asgreek">κατορύξουσιν</span></big> <sup><small><small>[[G7978]]</small></small></sup> |
-| Gog there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Γωγ</span></big> <sup><small><small>[[G1136]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his multitude. | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be called | <big><span class="asgreek">κληθήσεται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| then, | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Cemetery | <big><span class="asgreek">πολυάνδριον</span></big> <sup><small><small>[[G8848]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Gog. | <big><span class="asgreek">Γωγ</span></big> <sup><small><small>[[G1136]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Gog | **<big>[[G1136\|Γωγ]]</big>** |
+| a place | **<big>[[G5117\|τόπον]]</big>** |
+| of renown -- | **<big>[[G8520\|ονομαστόν]]</big>** |
+| a memorial | **<big>[[G3419\|μνημείον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| a cemetery | **<big>[[G8848\|πολυάνδριον]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| coming | **<big>[[G1904\|επελθόντων]]</big>** |
+| by | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| sea. | **<big>[[G2281\|θαλάσση]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall enclose | **<big>[[G8742\|περιοικοδομήσουσι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| cleft | **<big>[[G8761\|περιστόμιον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ravine, | **<big>[[G5327\|φάραγγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall bury | **<big>[[G7978\|κατορύξουσιν]]</big>** |
+| Gog there, | **<big>[[G1563\|εκεί]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G1136\|Γωγ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his multitude. | **<big>[[G4128\|πλήθος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be called | **<big>[[G2564\|κληθήσεται]]</big>** |
+| then, | **<big>[[G5119\|τότε]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| Cemetery | **<big>[[G8848\|πολυάνδριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Gog. | **<big>[[G1136\|Γωγ]]</big>** |
 [[Ezek.39.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.10|<< Ezekiel 39:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.12|Ezekiel 39:12 >>]]</td></tr></table>
 
 

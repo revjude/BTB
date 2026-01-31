@@ -4,12 +4,12 @@ King living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Solomon</span>, also called Jedidiah, was the son of David and Bathsheba who succeeded his father as king of Israel and was renowned for his wisdom, wealth, and the construction of the First Temple in Jerusalem.
 - A king of Judah living at the time of United Monarchy, first mentioned at [[2Sam.5.14|2Sa.5.14]]; 
-- referred to as Solomon<[[H8010]]> \(<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ה</span>\), or Jedidiah<[[H3041]]> \(<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Solomon<[[G4672G]]> \(<span class='tipnrLangGreek'>Σολομών</span>, <span class='tipnrLangGreek'>Σαλωμών</span>\); 
--  son of David<[[H1732]]> and Bathsheba<[[H1339]]>; 
-- a brother of Shammua<[[H8051H]]>, Shobab<[[H7727G]]> and Nathan<[[H5416G]]>; 
--  half-brother of: Amnon<[[H0550G]]>, Chileab<[[H3609]]>, Absalom<[[H0053]]>, Adonijah<[[H0138G]]>, Shephatiah<[[H8203G]]>, Ithream<[[H3507]]>, Ibhar<[[H2984]]>, Elishua<[[H0474]]>, Nepheg<[[H5298H]]>, Japhia<[[H3309I]]>, Elishama<[[H0476H]]>, Eliada<[[H0450G]]>, Eliphelet<[[H0467G]]>, Tamar<[[H8559H]]>, Elpelet<[[H0467I]]>, Nogah<[[H5052]]> and Jerimoth<[[H3406N]]>; 
-- husband of daughter\_of\_Pharaoh<[[H6547P]]> and Naamah<[[H5279A]]>; 
--  father of Taphath<[[H2955]]>, Basemath<[[H1315G]]> and Rehoboam<[[H7346]]>.
+- referred to as Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**, or Jedidiah **<big>[[H3041|יְדִידְיָה]]</big>**, or Solomon **<big>[[G4672|Σολομών]]</big>**; 
+-  son of David **<big>[[H1732|דָּוִד]]</big>** and Bathsheba **<big>[[H1339|בַּת־שֶׁבַע]]</big>**; 
+- a brother of Shammua **<big>[[H8051|שַׁמּוּעַ]]</big>**, Shobab **<big>[[H7727|שׁוֹבָב]]</big>** and Nathan **<big>[[H5416|נָתָן]]</big>**; 
+-  half-brother of: Amnon **<big>[[H0550|אַמְנוֹן]]</big>**, Chileab **<big>[[H3609|כִּלְאָב]]</big>**, Absalom **<big>[[H0053|אֲבִישָׁלוֹם]]</big>**, Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**, Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**, Ithream **<big>[[H3507|יִתְרְעָם]]</big>**, Ibhar **<big>[[H2984|יִבְחַר]]</big>**, Elishua **<big>[[H0474|אֱלִישׁוּעַ]]</big>**, Nepheg **<big>[[H5298|נֶפֶג]]</big>**, Japhia **<big>[[H3309|יָפִיעַ]]</big>**, Elishama **<big>[[H0476|אֱלִישָׁמָע]]</big>**, Eliada **<big>[[H0450|אֶלְיָדָע]]</big>**, Eliphelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Tamar **<big>[[H8559|תָּמָר]]</big>**, Elpelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Nogah **<big>[[H5052|נֹגַהּ]]</big>** and Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**; 
+- husband of daughter\_of\_Pharaoh **<big>[[H6547|פַּרְעֹה]]</big>** and Naamah **<big>[[H5279|נַעֲמָה]]</big>**; 
+-  father of Taphath **<big>[[H2955|טָפַת]]</big>**, Basemath **<big>[[H1315|בׇּשְׂמַת]]</big>** and Rehoboam **<big>[[H7346|רְחַבְעָם]]</big>**.
 
 Solomon, also known as Jedidiah, was the son of King David and Bathsheba, and the third king of Israel \([[2Sam.12.24|2 Samuel 12:24]]; [[1Chr.3.5|1 Chronicles 3:5]]\). He was born in Jerusalem and named Solomon by his parents, but the prophet Nathan called him Jedidiah, which means "beloved of the Lord" \([[2Sam.12.25|2 Samuel 12:25]]\). 
 
@@ -27,10 +27,10 @@ After a reign of forty years, Solomon died and was succeeded by his son Rehoboam
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Solomon | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H8010) <small>*Hebrew*</small> | 291x | [[2Sa.5.14] ... [Jer.52.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Solomon\*\|reference=2Sa.5.14;2Sa.12.24;1Ki.1.10;1Ki.1.11;1Ki.1.12;1Ki.1.13;1Ki.1.17;1Ki.1.19;1Ki.1.21;1Ki.1.26;1Ki.1.30;1Ki.1.33;1Ki.1.34;1Ki.1.37;1Ki.1.38;1Ki.1.39;1Ki.1.39;1Ki.1.43;1Ki.1.46;1Ki.1.47;1Ki.1.50;1Ki.1.51;1Ki.1.51;1Ki.1.51;1Ki.1.52;1Ki.1.53;1Ki.1.53;1Ki.1.53;1Ki.2.1;1Ki.2.12;1Ki.2.13;1Ki.2.17;1Ki.2.19;1Ki.2.22;1Ki.2.23;1Ki.2.25;1Ki.2.27;1Ki.2.29;1Ki.2.29;1Ki.2.41) |
-| Jedidiah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3041) <small>*Hebrew*</small> | 1x | [2Sa.12.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jedidiah\*\|reference=2Sa.12.25) |
-| Solomon | [<span class='tipnrLangGreek'>Σολομών</span>, <span class='tipnrLangGreek'>Σαλωμών</span>](G4672G) <small>*Greek*</small> | 10x | [[Mat.1.6] ... [Act.7.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Solomon\*\|reference=Mat.1.6;Mat.1.7;Mat.6.29;Mat.12.42;Mat.12.42;Luk.11.31;Luk.11.31;Luk.12.27;Jhn.10.23;Act.7.47) |
-All Strong's for **Solomon or Jedidiah**: \[[[H8010]]\] \[[[H3041]]\] \[[[G4672G]]\]
+| Solomon | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H8010) | 291x | [[2Sa.5.14] ... [Jer.52.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Solomon\*\|reference=2Sa.5.14;2Sa.12.24;1Ki.1.10;1Ki.1.11;1Ki.1.12;1Ki.1.13;1Ki.1.17;1Ki.1.19;1Ki.1.21;1Ki.1.26;1Ki.1.30;1Ki.1.33;1Ki.1.34;1Ki.1.37;1Ki.1.38;1Ki.1.39;1Ki.1.39;1Ki.1.43;1Ki.1.46;1Ki.1.47;1Ki.1.50;1Ki.1.51;1Ki.1.51;1Ki.1.51;1Ki.1.52;1Ki.1.53;1Ki.1.53;1Ki.1.53;1Ki.2.1;1Ki.2.12;1Ki.2.13;1Ki.2.17;1Ki.2.19;1Ki.2.22;1Ki.2.23;1Ki.2.25;1Ki.2.27;1Ki.2.29;1Ki.2.29;1Ki.2.41) |
+| Jedidiah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3041) | 1x | [2Sa.12.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jedidiah\*\|reference=2Sa.12.25) |
+| Solomon | [<span class='tipnrLangGreek'>Σολομών</span>, <span class='tipnrLangGreek'>Σαλωμών</span>](G4672G) | 10x | [[Mat.1.6] ... [Act.7.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Solomon\*\|reference=Mat.1.6;Mat.1.7;Mat.6.29;Mat.12.42;Mat.12.42;Luk.11.31;Luk.11.31;Luk.12.27;Jhn.10.23;Act.7.47) |
+All entries for **Solomon or Jedidiah**:  **<big>[[H8010|שְׁלֹמֹה]]</big>** ☩  **<big>[[H3041|יְדִידְיָה]]</big>** ☩  **<big>[[G4672|Σολομών]]</big>**
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Bathsheba](H1339)** (mother)

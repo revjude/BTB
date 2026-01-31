@@ -1,4 +1,3 @@
-<span class="ashebrew">‎בְּנָיָ֫הוּ‎</span> <small>***(be.na.yah)***</small> ==**Benaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.20.14|2Ch.20.14]]
--  son of: Jeiel ([[H3273J]])
--  father of: Zechariah ([[H2148I]])
+-  son of: Jeiel (**<big>[[H3273J|יְעִיאֵל]]</big>**)
+-  father of: Zechariah (**<big>[[H2148I|זְכַרְיָה]]</big>**)

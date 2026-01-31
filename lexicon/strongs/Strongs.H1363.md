@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֹּבַהּ‎</span></big> **gôbahh** <small>*(go'-bah)*</small> ==**height**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּבַהּ‎</span><sup><small>[[H1361]]</small></sup></small>
+**<big><span class="ashebrew">‎גֹּבַהּ‎</span></big>** **gôbahh** <small>*(go'-bah)*</small> ==**height**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1361|‎גָּבַהּ‎]]</big>**</small>
 
 $\quad$ excellency, haughty, height, high, loftiness, pride.
 - ***elation***, ***grandeur***, ***arrogance***
@@ -9,4 +9,4 @@ $\quad$ **1a)** height
 $\quad$ **1b)** exaltation, grandeur
 $\quad$ **1c)** haughtiness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">μέγεθος</span><sup><small>[[G3174]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup> · <span class="asgreek">ὕψος</span><sup><small>[[G5311]]</small></sup>
+<small>See Greek: </small>**<big>[[G1411|δύναμις]]</big>** · **<big>[[G3174|μέγεθος]]</big>** · **<big>[[G4128|πλῆθος]]</big>** · **<big>[[G5311|ὕψος]]</big>**

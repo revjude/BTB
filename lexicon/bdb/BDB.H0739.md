@@ -1,4 +1,4 @@
-<small>Also see: [[H0741]]</small>
+<small>Also see: **<big>[[H0741|אֲרִאֵיל]]</big>**</small>
 
  <span class="bdbLangHebrew">‎אֲרִיאֵל‎</span> 
 

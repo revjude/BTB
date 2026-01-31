@@ -6,24 +6,24 @@ This is the law of the temple: All its surrounding territory on top of the mount
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.11|<< Ezekiel 43:11]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.13|Ezekiel 43:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֹ֖את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] law of  | <span class="ashebrew"><big>תּוֹרַ֣ת </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| to.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the house  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּ֑יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] top of  | <span class="ashebrew"><big>רֹ֣אשׁ </big></span><small><small><sup>[[H7218I]]</sup></small></small> &#8207;| rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the mountain  | <span class="ashebrew"><big>הָ֠ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הָר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTd]]</sup></small> hor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| territory its  | <span class="ashebrew"><big>גְּבֻל֞ </big></span><small><small><sup>[[H1366H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ge.vu.L <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all around  | <span class="ashebrew"><big>סָבִ֤יב </big></span><small><small><sup>[[H5439G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all around  | <span class="ashebrew"><big>סָבִיב֙ </big></span><small><small><sup>[[H5439G]]</sup></small></small> &#8207;| sa.Viv <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] a holy place of  | <span class="ashebrew"><big>קֹ֣דֶשׁ </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| Ko.desh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| holy places  | <span class="ashebrew"><big>קָדָשִׁ֔ים </big></span><small><small><sup>[[H6944G]]</sup></small></small> &#8207;| ka.da.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּה </big></span><small><small><sup>[[H2009]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hi.neh- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֖את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] law of  | <span class="ashebrew"><big>תּוֹרַ֥ת </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| to.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the house  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּֽיִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֣ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּ֑יִת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] top of  |**<big>&#8207;[[H7218I\|רֹ֣אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountain  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H2022G\|הָר]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> hor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| territory its  |**<big>&#8207;[[H1366H\|גְּבֻל֞]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ge.vu.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  |**<big>&#8207;[[H5439G\|סָבִ֤יב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  |**<big>&#8207;[[H5439G\|סָבִיב֙]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] a holy place of  |**<big>&#8207;[[H6944G\|קֹ֣דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy places  |**<big>&#8207;[[H6944G\|קָדָשִׁ֔ים]]&#8207; </big>**| ka.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֥ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.11|<< Ezekiel 43:11]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.13|Ezekiel 43:13 >>]]</td></tr></table>
 
 

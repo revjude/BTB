@@ -7,39 +7,39 @@ As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jed
 When David went to Ziklag, these men of Manasseh defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh.<small><sub>**MT:**</sub></small>
 [[1Chr.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.19|<< 1 Chronicles 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.21|1 Chronicles 12:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sent him away. | <big><span class="asgreek">εξαπέστειλαν</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Ziklag, | <big><span class="asgreek">Σεκελάγ</span></big> <sup><small><small>[[H6860]]</small></small></sup> |
-| some joined with | <big><span class="asgreek">προσεχώρησαν</span></big> <sup><small><small>[[G8949]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| Adnah, | <big><span class="asgreek">Εδνά</span></big> <sup><small><small>[[H5734]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jozabad, | <big><span class="asgreek">Ιωζαβάδ</span></big> <sup><small><small>[[H3107]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jediael, | <big><span class="asgreek">Ιαδιήλ</span></big> <sup><small><small>[[H3043]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Michael, | <big><span class="asgreek">Μιχαήλ</span></big> <sup><small><small>[[G3413]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jozabad, | <big><span class="asgreek">Ιωζαβάδ</span></big> <sup><small><small>[[H3107]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elihu, | <big><span class="asgreek">Ελιού</span></big> <sup><small><small>[[H0453]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zilthai -- | <big><span class="asgreek">Σελαθί</span></big> <sup><small><small>[[H6769]]</small></small></sup> |
-| chiefs | <big><span class="asgreek">αρχηγοί</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
-| of thousands | <big><span class="asgreek">χιλιαδων</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sent him away. | **<big>[[G1821\|εξαπέστειλαν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| going | **<big>[[G4198\|πορεύεσθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Ziklag, | **<big>[[H6860\|Σεκελάγ]]</big>** |
+| some joined with | **<big>[[G8949\|προσεχώρησαν]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Manasseh -- | **<big>[[G3128\|Μανασσή]]</big>** |
+| Adnah, | **<big>[[H5734\|Εδνά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jozabad, | **<big>[[H3107\|Ιωζαβάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jediael, | **<big>[[H3043\|Ιαδιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Michael, | **<big>[[G3413\|Μιχαήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jozabad, | **<big>[[H3107\|Ιωζαβάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Elihu, | **<big>[[H0453\|Ελιού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zilthai -- | **<big>[[H6769\|Σελαθί]]</big>** |
+| chiefs | **<big>[[G0747\|αρχηγοί]]</big>** |
+| of thousands | **<big>[[G5505\|χιλιαδων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Manasseh. | **<big>[[G3128\|Μανασσή]]</big>** |
 [[1Chr.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.19|<< 1 Chronicles 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.21|1 Chronicles 12:21 >>]]</td></tr></table>
 
 

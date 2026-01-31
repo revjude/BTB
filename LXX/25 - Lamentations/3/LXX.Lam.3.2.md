@@ -7,16 +7,16 @@ He hath led me, and brought [me into] darkness, but not [into] light.
 He has driven me away and made me walk in darkness instead of light.<small><sub>**MT:**</sub></small>
 [[Lam.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.1|<< Lamentations 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.3|Lamentations 3:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He took | <big><span class="asgreek">παρέλαβέ</span></big> <sup><small><small>[[G3880]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he led me away | <big><span class="asgreek">απήγαγέ</span></big> <sup><small><small>[[G0520]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| darkness, | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| light. | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| He took | **<big>[[G3880\|παρέλαβέ]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| he led me away | **<big>[[G0520\|απήγαγέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| darkness, | **<big>[[G4655\|σκότος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| light. | **<big>[[G5457\|φως]]</big>** |
 [[Lam.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.1|<< Lamentations 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.3|Lamentations 3:3 >>]]</td></tr></table>
 
 

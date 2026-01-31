@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נֵכַח‎</span></big> **nêkach** <small>*(nay'-kakh)*</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+**<big><span class="ashebrew">‎נֵכַח‎</span></big>** **nêkach** <small>*(nay'-kakh)*</small> ==**before**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
 <small>from an unused root meaning to be straightforward</small>
 
 $\quad$ before, over against.

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎אִנּוּן‎</span> <small>***(in.nun)***</small> ==**they**==  <sup><small>[[TEHMC#A:DemP|A:DemP]]</small></sup> 
-Aramaic of: <small>[[H1992]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H1992|הֵם]]</big>**</small> 
 
-- Aramaic of <i>hem.mah</i> (<span class='ashebrew'>‎ה‎</span>ֵ֫<span class='ashebrew'>‎מ‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "they(masc.)" [[H1992]])
+- Aramaic of <i>hem.mah</i> (<span class='ashebrew'>‎ה‎</span>ֵ֫<span class='ashebrew'>‎מ‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "they(masc.)" **<big>[[H1992|הֵם]]</big>**)

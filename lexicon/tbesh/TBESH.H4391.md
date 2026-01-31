@@ -1,3 +1,1 @@
-<span class="asaramaic">‎מְלָא‎</span> <small>***(me.la)***</small> ==**to fill**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H4390]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H4390|מָלֵא]]</big>**</small>

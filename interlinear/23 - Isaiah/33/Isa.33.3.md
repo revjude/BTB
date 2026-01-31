@@ -6,15 +6,15 @@ The peoples flee the thunder of Your voice; the nations scatter when You rise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.2|<< Isaiah 33:2]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.4|Isaiah 33:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from [the] sound of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קּ֣וֹל </big></span><small><small><sup>[[H6963H]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tumult  | <span class="ashebrew"><big>הָמ֔וֹן </big></span><small><small><sup>[[H1995A]]</sup></small></small> &#8207;| ha.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they flee  | <span class="ashebrew"><big>נָדְד֖וּ </big></span><small><small><sup>[[H5074]]</sup></small></small> &#8207;| na.de.Du <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peoples  | <span class="ashebrew"><big>עַמִּ֑ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from arising your  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>ר֣וֹמְמֻתֶ֔ </big></span><small><small><sup>[[H7427]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Ro.mu.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they scatter  | <span class="ashebrew"><big>נָפְצ֖וּ </big></span><small><small><sup>[[H5310B]]</sup></small></small> &#8207;| na.fe.Tzu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>גּוֹיִֽם </big></span><small><small><sup>[[H1471A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֣וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tumult  |**<big>&#8207;[[H1995A\|הָמ֔וֹן]]&#8207; </big>**| ha.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they flee  |**<big>&#8207;[[H5074\|נָדְד֖וּ]]&#8207; </big>**| na.de.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  |**<big>&#8207;[[H5971A\|עַמִּ֑ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from arising your  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7427\|ר֣וֹמְמֻתֶ֔]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ro.mu.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they scatter  |**<big>&#8207;[[H5310B\|נָפְצ֖וּ]]&#8207; </big>**| na.fe.Tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H1471A\|גּוֹיִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.2|<< Isaiah 33:2]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.4|Isaiah 33:4 >>]]</td></tr></table>
 
 

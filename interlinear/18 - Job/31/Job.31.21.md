@@ -6,17 +6,17 @@ if I have lifted up my hand against the fatherless because I saw that I had supp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.20|<< Job 31:20]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.22|Job 31:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I brandished  | <span class="ashebrew"><big>הֲנִיפ֣וֹתִי </big></span><small><small><sup>[[H5130B]]</sup></small></small> &#8207;| ha.ni.Fo.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fatherless one  | <span class="ashebrew"><big>יָת֣וֹם </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ya.Tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand my  | <span class="ashebrew"><big>יָדִ֑ </big></span><small><small><sup>[[H3027H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ya.D <small><sup>[[HNcbsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I saw  | <span class="ashebrew"><big>אֶרְאֶ֥ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| 'er.'Eh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the gate  | <span class="ashebrew"><big>בַ֝ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שַּׁ֗עַר </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> Sha.'ar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| help my  | <span class="ashebrew"><big>עֶזְרָתִֽ </big></span><small><small><sup>[[H5833]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ez.ra.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I brandished  |**<big>&#8207;[[H5130B\|הֲנִיפ֣וֹתִי]]&#8207; </big>**| ha.ni.Fo.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fatherless one  |**<big>&#8207;[[H3490\|יָת֣וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand my  |**<big>&#8207;[[H3027H\|יָדִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I saw  |**<big>&#8207;[[H7200G\|אֶרְאֶ֥ה]]&#8207; </big>**| 'er.'Eh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the gate  |**<big>&#8207;[[H9003\|בַ֝]]&#8207;&#8207;[[H8179G\|שַּׁ֗עַר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| help my  |**<big>&#8207;[[H5833\|עֶזְרָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ez.ra.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.20|<< Job 31:20]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.22|Job 31:22 >>]]</td></tr></table>
 
 

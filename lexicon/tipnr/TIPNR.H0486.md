@@ -4,9 +4,9 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Almodad</span> was a son of Joktan and a descendant of Shem, listed in the genealogies of the nations. \([[Gen.10.26|Gen.10.26]]; [[1Chr.1.20|1Ch.1.20]]\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.26|Gen.10.26]]; 
-- only referred to as Almodad<[[H0486]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ד</span>\); 
--  son of Joktan<[[H3355]]>; 
-- a brother of Sheleph<[[H8026]]>, Hazarmaveth<[[H2700]]>, Jerah<[[H3392]]>, Hadoram<[[H1913A]]>, Uzal<[[H0187G]]>, Diklah<[[H1853]]>, Obal<[[H5745]]>, Abimael<[[H0039]]>, Sheba<[[H7614H]]>, Ophir<[[H0211G]]>, Havilah<[[H2341I]]> and Jobab<[[H3103G]]>.
+- only referred to as Almodad **<big>[[H0486|אַלְמוֹדָד]]</big>**; 
+-  son of Joktan **<big>[[H3355|יׇקְטָן]]</big>**; 
+- a brother of Sheleph **<big>[[H8026|שֶׁלֶף]]</big>**, Hazarmaveth **<big>[[H2700|חֲצַרְמָוֶת]]</big>**, Jerah **<big>[[H3392|יֶרַח]]</big>**, Hadoram **<big>[[H1913|הֲדוֹרָם]]</big>**, Uzal **<big>[[H0187|אוּזָל]]</big>**, Diklah **<big>[[H1853|דִּקְלָה]]</big>**, Obal **<big>[[H5745|עוֹבָל]]</big>**, Abimael **<big>[[H0039|אֲבִימָאֵל]]</big>**, Sheba **<big>[[H7614|שְׁבָא]]</big>**, Ophir **<big>[[H0211|אוֹפִיר]]</big>**, Havilah **<big>[[H2341|חֲוִילָה]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Almodad is mentioned in the genealogies of the nations, which are recorded in the book of Genesis and later in the book of 1 Chronicles. He is listed as one of the sons of Joktan, who was a descendant of Shem, the son of Noah. \([[Gen.10.26|Gen.10.26]]; [[1Chr.1.20|1Ch.1.20]]\) 
 
@@ -20,8 +20,8 @@ The inclusion of Almodad in the genealogies serves to document the branching out
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Almodad | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ד</span>](H0486) <small>*Hebrew*</small> | 2x | [[Gen.10.26] & [1Ch.1.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Almodad\*\|reference=Gen.10.26;1Ch.1.20) |
-All Strong's for **Almodad**: \[[[H0486]]\]
+| Almodad | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ד</span>](H0486) | 2x | [[Gen.10.26] & [1Ch.1.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Almodad\*\|reference=Gen.10.26;1Ch.1.20) |
+All entries for **Almodad**:  **<big>[[H0486|אַלְמוֹדָד]]</big>**
 #### Related Profiles:
 - **[Joktan](H3355)** (father)
 - **[Sheleph](H8026)** (sibling)

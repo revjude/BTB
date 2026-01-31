@@ -1,4 +1,4 @@
-<small>Also see: [[H4349]]</small>
+<small>Also see: **<big>[[H4349|מָכוֹן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎תְּכוּנָה‎</span> **noun feminine** ==arrangement, preparation, fixed place==; — 
 

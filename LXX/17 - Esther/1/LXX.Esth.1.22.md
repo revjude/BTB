@@ -7,26 +7,26 @@ For he sent letters into all the king’s provinces, into every province accordi
 He sent letters to all the provinces of the kingdom, to each province in its own script and to each people in their own language, proclaiming that every man should be master of his own household.<small><sub>**MT:**</sub></small>
 [[Esth.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.21|<< Esther 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.1|Esther 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent letters | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom, | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| place, | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their form of speech, | <big><span class="asgreek">λέξιν</span></big> <sup><small><small>[[G8178]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their households. | <big><span class="asgreek">οικίαις</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent letters | **<big>[[G0649\|απέστειλεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| kingdom, | **<big>[[G0932\|βασιλείαν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| place, | **<big>[[G5561\|χώραν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their form of speech, | **<big>[[G8178\|λέξιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| fearing | **<big>[[G5401\|φόβον]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their households. | **<big>[[G3614\|οικίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Esth.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.21|<< Esther 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.1|Esther 2:1 >>]]</td></tr></table>
 
 

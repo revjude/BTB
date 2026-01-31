@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּישׁוֹן‎</span></big> **Pîyshôwn** <small>*(pee-shone')*</small> ==**Pishon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פּוּשׁ‎</span><sup><small>[[H6335]]</small></sup>; dispersive</small>
+**<big><span class="ashebrew">‎פִּישׁוֹן‎</span></big>** **Pîyshôwn** <small>*(pee-shone')*</small> ==**Pishon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6335|‎פּוּשׁ‎]]</big>**; dispersive</small>
 
 $\quad$ Pison.
 - § Pison = *"increase"*

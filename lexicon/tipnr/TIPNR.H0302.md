@@ -4,8 +4,8 @@ David's compatriot living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahithophel</span> was a wise counselor to David who defected to Absalom's side during Absalom's rebellion, but later committed suicide when his advice was not followed. \([[2Sam.15.12|2Sa.15.12]],31; 16.23; 17.23\)
 - David's compatriot living at the time of United Monarchy, first mentioned at [[2Sam.15.12|2Sa.15.12]]; 
-- only referred to as Ahithophel<[[H0302]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ית</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>\); 
--  father of Eliam<[[H0463H]]>.
+- only referred to as Ahithophel **<big>[[H0302|אֲחִיתֹפֶל]]</big>**; 
+-  father of Eliam **<big>[[H0463|אֱלִיעָם]]</big>**.
 
 Ahithophel was a highly respected counselor to King David, known for his wisdom and insight. His advice was regarded as if one had inquired of the word of God. \(2Sa.16.23\) He was also the grandfather of Bathsheba, the wife of Uriah the Hittite, whom David later married after Uriah's death. \([[2Sam.23.34|2Sa.23.34]]\) 
 
@@ -19,7 +19,7 @@ Ahithophel's betrayal and subsequent suicide are seen as a fulfillment of David'
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahithophel | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ית</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H0302) <small>*Hebrew*</small> | 20x | [[2Sa.15.12] ... [1Ch.27.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahithophel\*\|reference=2Sa.15.12;2Sa.15.31;2Sa.15.31;2Sa.15.34;2Sa.16.15;2Sa.16.20;2Sa.16.21;2Sa.16.23;2Sa.16.23;2Sa.17.1;2Sa.17.6;2Sa.17.7;2Sa.17.14;2Sa.17.14;2Sa.17.15;2Sa.17.21;2Sa.17.23;2Sa.23.34;1Ch.27.33;1Ch.27.34) |
-All Strong's for **Ahithophel**: \[[[H0302]]\]
+| Ahithophel | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ית</span>ֹ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H0302) | 20x | [[2Sa.15.12] ... [1Ch.27.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahithophel\*\|reference=2Sa.15.12;2Sa.15.31;2Sa.15.31;2Sa.15.34;2Sa.16.15;2Sa.16.20;2Sa.16.21;2Sa.16.23;2Sa.16.23;2Sa.17.1;2Sa.17.6;2Sa.17.7;2Sa.17.14;2Sa.17.14;2Sa.17.15;2Sa.17.21;2Sa.17.23;2Sa.23.34;1Ch.27.33;1Ch.27.34) |
+All entries for **Ahithophel**:  **<big>[[H0302|אֲחִיתֹפֶל]]</big>**
 #### Related Profiles:
 - **[Eliam](H0463H)** (child)

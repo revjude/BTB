@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Golan</span> was a city of refuge in Bashan, allotted to the Levites of the family of Gershon and located in the territory of the half-tribe of Manasseh \(Deuteronomy 4:43; [[Josh.20.8|Joshua 20:8]]; 21:27; [[1Chr.6.71|1 Chronicles 6:71]]\).
 - A location first mentioned at [[Rev.20.8|Deu.4.43]]; 
-- referred to as Golan or Golan \(=Qere. Ketiv= Galon\) <[[H1474]]> \(<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Golan or Golan \(=Qere. Ketiv= Galon\)  **<big>[[H1474|גּוֹלָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.80007552505443,35.93730130476259&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Golan was a city located in the region of Bashan, east of the Jordan River, with
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Golan | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1474) <small>*Hebrew*</small> | 2x | [[Deu.4.43] & [1Ch.6.71] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Golan\*\|reference=Deu.4.43;1Ch.6.71) |
-| Golan (=Qere. Ketiv= Galon) | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1474) <small>*Hebrew*</small> | 2x | [[Jos.20.8] & [Jos.21.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Golan\*\|reference=Jos.20.8;Jos.21.27) |
-All Strong's for **Golan**: \[[[H1474]]\]
+| Golan | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1474) | 2x | [[Deu.4.43] & [1Ch.6.71] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Golan\*\|reference=Deu.4.43;1Ch.6.71) |
+| Golan (=Qere. Ketiv= Galon) | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1474) | 2x | [[Jos.20.8] & [Jos.21.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Golan\*\|reference=Jos.20.8;Jos.21.27) |
+All entries for **Golan**:  **<big>[[H1474|גּוֹלָן]]</big>**

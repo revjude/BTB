@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hanes</span> was an Egyptian city to which Judah sent envoys, as mentioned in a prophecy by Isaiah \([[Isa.30.4|Isaiah 30:4]]\).
 - A location only mentioned at [[Isa.30.4|Isa.30.4]]; 
-- only referred to as Hanes<[[H2609]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ס</span>\).
+- only referred to as Hanes **<big>[[H2609|חָנֵס]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.085425,30.934402&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from this single reference in Isaiah, Hanes is not mentioned elsewhere in 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hanes | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H2609) <small>*Hebrew*</small> | 1x | [Isa.30.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hanes\*\|reference=Isa.30.4) |
-All Strong's for **Hanes**: \[[[H2609]]\]
+| Hanes | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H2609) | 1x | [Isa.30.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hanes\*\|reference=Isa.30.4) |
+All entries for **Hanes**:  **<big>[[H2609|חָנֵס]]</big>**

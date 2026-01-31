@@ -7,26 +7,26 @@ But have walked after the imagination of their own heart, and after Baalim, whic
 Instead, they have followed the stubbornness of their hearts and gone after the Baals, as their fathers taught them.”<small><sub>**MT:**</sub></small>
 [[Jer.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.13|<< Jeremiah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.15|Jeremiah 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but | <big><span class="asgreek">αλλα</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pleasing | <big><span class="asgreek">αρεστών</span></big> <sup><small><small>[[G0701]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart -- | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evil \[thing\]; | <big><span class="asgreek">κακής</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| idols | <big><span class="asgreek">ειδώλων</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| taught | <big><span class="asgreek">εδίδαξαν</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| them \[to worship\] | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but | **<big>[[G0235\|αλλα]]</big>** |
+| went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| pleasing | **<big>[[G0701\|αρεστών]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| their heart -- | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| evil \[thing\]; | **<big>[[G2556\|κακής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| idols | **<big>[[G1497\|ειδώλων]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| taught | **<big>[[G1321\|εδίδαξαν]]</big>** |
+| them \[to worship\] | **<big>[[G1473\|αυτούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.13|<< Jeremiah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.15|Jeremiah 9:15 >>]]</td></tr></table>
 
 

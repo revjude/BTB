@@ -7,18 +7,18 @@ Let mine adversaries be clothed with shame, and let them cover themselves with t
 May my accusers be clothed with disgrace; may they wear their shame like a robe.<small><sub>**MT:**</sub></small>
 [[Ps.109.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.28|<< Psalm 109:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.30|Psalm 109:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| put on | <big><span class="asgreek">ενδυσάσθωσαν</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slandering | <big><span class="asgreek">ενδιαβάλλοντές</span></big> <sup><small><small>[[G7223]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shame, | <big><span class="asgreek">εντροπήν</span></big> <sup><small><small>[[G1791]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| around | <big><span class="asgreek">περιβαλέσθωσαν</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a garment | <big><span class="asgreek">διπλοϊδα</span></big> <sup><small><small>[[G6943]]</small></small></sup> |
-| their shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| put on | **<big>[[G1746\|ενδυσάσθωσαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| slandering | **<big>[[G7223\|ενδιαβάλλοντές]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| shame, | **<big>[[G1791\|εντροπήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| around | **<big>[[G4016\|περιβαλέσθωσαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a garment | **<big>[[G6943\|διπλοϊδα]]</big>** |
+| their shame | **<big>[[G0152\|αισχύνην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.109.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.28|<< Psalm 109:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.30|Psalm 109:30 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and
 From there it crossed eastward to Gath-hepher and to Eth-kazin; it extended to Rimmon and curved around toward Neah.<small><sub>**MT:**</sub></small>
 [[Josh.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.12|<< Joshua 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.14|Joshua 19:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| it shall go around | <big><span class="asgreek">περιελεύσεται</span></big> <sup><small><small>[[G4022]]</small></small></sup> |
-| right | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| opposite | <big><span class="asgreek">εναντίας</span></big> <sup><small><small>[[G1727]]</small></small></sup> |
-| eastwards | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Gittah-hepher | <big><span class="asgreek">Γεθαεφέρ</span></big> <sup><small><small>[[H1662]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zin, | <big><span class="asgreek">Σιν</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go through | <big><span class="asgreek">διελεύσεται</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Remmon | <big><span class="asgreek">Ρεμμωνά</span></big> <sup><small><small>[[H7417]]</small></small></sup> |
-| Methoar | <big><span class="asgreek">Αμαθάρ</span></big> <sup><small><small>[[H8388a]]</small></small></sup> |
-| \[to\] Neah. | <big><span class="asgreek">Ανούα</span></big> <sup><small><small>[[H5269]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| it shall go around | **<big>[[G4022\|περιελεύσεται]]</big>** |
+| right | **<big>[[G1537\|εξ]]</big>** |
+| opposite | **<big>[[G1727\|εναντίας]]</big>** |
+| eastwards | **<big>[[G1909\|επ΄]]</big>** **<big>[[G0395\|ανατολάς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Gittah-hepher | **<big>[[H1662\|Γεθαεφέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zin, | **<big>[[H6790\|Σιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall go through | **<big>[[G1330\|διελεύσεται]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| Remmon | **<big>[[H7417\|Ρεμμωνά]]</big>** |
+| Methoar | **<big>[[H8388a\|Αμαθάρ]]</big>** |
+| \[to\] Neah. | **<big>[[H5269\|Ανούα]]</big>** |
 [[Josh.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.12|<< Joshua 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.14|Joshua 19:14 >>]]</td></tr></table>
 
 

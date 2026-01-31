@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָוַן‎</span></big> **ʻâvan** <small>*(aw-van')*</small> ==**to watch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>denominative from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup></small>
+**<big><span class="ashebrew">‎עָוַן‎</span></big>** **ʻâvan** <small>*(aw-van')*</small> ==**to watch**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>denominative from **<big>[[H5869|‎עַיִן‎]]</big>**</small>
 
 $\quad$ eye.
 - ***to watch*** (with jealosy)

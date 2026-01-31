@@ -7,30 +7,30 @@ And the children of Israel cried unto the LORD: for he had nine hundred chariots
 Then the Israelites cried out to the LORD, because Jabin had nine hundred chariots of iron, and he had harshly oppressed the Israelites for twenty years.<small><sub>**MT:**</sub></small>
 [[Judg.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.2|<< Judges 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.4|Judges 4:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cried out | <big><span class="asgreek">εκέκραξαν</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| nine hundred | <big><span class="asgreek">εννακόσια</span></big> <sup><small><small>[[G7246]]</small></small></sup> |
-| chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| of iron | <big><span class="asgreek">σιδηρά</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| \[were\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| his. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| afflicted | <big><span class="asgreek">έθλιψε</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| might | <big><span class="asgreek">κράτος</span></big> <sup><small><small>[[G2904]]</small></small></sup> |
-| for twenty | <big><span class="asgreek">έικοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| cried out | **<big>[[G2896\|εκέκραξαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| nine hundred | **<big>[[G7246\|εννακόσια]]</big>** |
+| chariots | **<big>[[G0716\|άρματα]]</big>** |
+| of iron | **<big>[[G4603\|σιδηρά]]</big>** |
+| \[were\] | **<big>[[G1510\|ην]]</big>** |
+| his. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| afflicted | **<big>[[G2346\|έθλιψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| might | **<big>[[G2904\|κράτος]]</big>** |
+| for twenty | **<big>[[G1501\|έικοσι]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[Judg.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.2|<< Judges 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.4|Judges 4:4 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And if he come to see [me], he speaketh vanity: his heart gathereth iniquity to 
 My visitor speaks falsehood; he gathers slander in his heart; he goes out and spreads it abroad.<small><sub>**MT:**</sub></small>
 [[Ps.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.5|<< Psalm 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.7|Psalm 41:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| he entered | <big><span class="asgreek">εισεπορεύετο</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to see \[me\], | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| folly | <big><span class="asgreek">μάτην</span></big> <sup><small><small>[[G3155]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He gathered | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| to himself; | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| he went forth | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same \[manner\]. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| he entered | **<big>[[G1531\|εισεπορεύετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to see \[me\], | **<big>[[G1492\|ιδείν]]</big>** |
+| folly | **<big>[[G3155\|μάτην]]</big>** |
+| spoke | **<big>[[G2980\|ελάλει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| He gathered | **<big>[[G4863\|συνήγαγεν]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομίαν]]</big>** |
+| to himself; | **<big>[[G1438\|εαυτώ]]</big>** |
+| he went forth | **<big>[[G1607\|εξεπορεύετο]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spoke | **<big>[[G2980\|ελάλει]]</big>** |
+| in | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| same \[manner\]. | **<big>[[G1473\|αυτό]]</big>** |
 [[Ps.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.5|<< Psalm 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.7|Psalm 41:7 >>]]</td></tr></table>
 
 

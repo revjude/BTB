@@ -7,18 +7,18 @@ To shew forth thy lovingkindness in the morning, and thy faithfulness every nigh
 to proclaim Your loving devotion in the morning and Your faithfulness at night<small><sub>**MT:**</sub></small>
 [[Ps.92.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.1|<< Psalm 92:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.3|Psalm 92:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| To announce | <big><span class="asgreek">αναγγέλλειν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your mercy, | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your truth | <big><span class="asgreek">αλήθειάν</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| night, | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| To announce | **<big>[[G0312\|αναγγέλλειν]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of your mercy, | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your truth | **<big>[[G0225\|αλήθειάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| at | **<big>[[G2596\|κατά]]</big>** |
+| night, | **<big>[[G3571\|νύκτα]]</big>** |
 [[Ps.92.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.1|<< Psalm 92:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.3|Psalm 92:3 >>]]</td></tr></table>
 
 

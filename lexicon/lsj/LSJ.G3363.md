@@ -1,4 +1,4 @@
-combination of: <small>[[G3361]] ([[G2443]]+[[G3361]])</small> 
+combination of: <small>**<big>[[G3361|μή]]</big>** (**<big>[[G2443|ἵνα]]</big>**+**<big>[[G3361|μή]]</big>**)</small> 
 
 
 Included with: <b> <span class='asgreek'>==ἵνα μή==</span></b>, 

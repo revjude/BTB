@@ -6,30 +6,30 @@ You are not to present to the LORD any animal that is blind, injured, or maimed,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.21|<< Leviticus 22:21]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.23|Leviticus 22:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| blindness  | <span class="ashebrew"><big>עַוֶּרֶת֩ </big></span><small><small><sup>[[H5788B]]</sup></small></small> &#8207;| 'a.ve.Ret <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֨וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fracture  | <span class="ashebrew"><big>שָׁב֜וּר </big></span><small><small><sup>[[H7667]]</sup></small></small> &#8207;| sha.Vur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mutilation  | <span class="ashebrew"><big>חָר֣וּץ </big></span><small><small><sup>[[H2742A]]</sup></small></small> &#8207;| cha.Rutz <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אֽוֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ov- <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wart  | <span class="ashebrew"><big>יַבֶּ֗לֶת </big></span><small><small><sup>[[H2990]]</sup></small></small> &#8207;| ya.Be.let <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֤וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eczema  | <span class="ashebrew"><big>גָרָב֙ </big></span><small><small><sup>[[H1618]]</sup></small></small> &#8207;| ga.Rav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֣וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| scabs  | <span class="ashebrew"><big>יַלֶּ֔פֶת </big></span><small><small><sup>[[H3217]]</sup></small></small> &#8207;| ya.Le.fet <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will present  | <span class="ashebrew"><big>תַקְרִ֥יבוּ </big></span><small><small><sup>[[H7126H]]</sup></small></small> &#8207;| tak.Ri.vu <small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a fire offering  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִשֶּׁ֗ה </big></span><small><small><sup>[[H0801]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'i.Sheh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must give  | <span class="ashebrew"><big>תִתְּנ֥וּ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ti.te.Nu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any of \<the> them  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הֶ֛ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| me. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the altar  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּזְבֵּ֖חַ </big></span><small><small><sup>[[H4196]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> miz.Be.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blindness  |**<big>&#8207;[[H5788B\|עַוֶּרֶת֩]]&#8207; </big>**| 'a.ve.Ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֨וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fracture  |**<big>&#8207;[[H7667\|שָׁב֜וּר]]&#8207; </big>**| sha.Vur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mutilation  |**<big>&#8207;[[H2742A\|חָר֣וּץ]]&#8207; </big>**| cha.Rutz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אֽוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wart  |**<big>&#8207;[[H2990\|יַבֶּ֗לֶת]]&#8207; </big>**| ya.Be.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֤וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eczema  |**<big>&#8207;[[H1618\|גָרָב֙]]&#8207; </big>**| ga.Rav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| scabs  |**<big>&#8207;[[H3217\|יַלֶּ֔פֶת]]&#8207; </big>**| ya.Le.fet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will present  |**<big>&#8207;[[H7126H\|תַקְרִ֥יבוּ]]&#8207; </big>**| tak.Ri.vu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a fire offering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0801\|אִשֶּׁ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must give  |**<big>&#8207;[[H5414G\|תִתְּנ֥וּ]]&#8207; </big>**| ti.te.Nu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any of \<the> them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֖חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.21|<< Leviticus 22:21]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.23|Leviticus 22:23 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ Is his mercy clean gone for ever? doth [his] promise fail for evermore?
 Is His loving devotion gone forever? Has His promise failed for all time?<small><sub>**MT:**</sub></small>
 [[Ps.77.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.7|<< Psalm 77:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.9|Psalm 77:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or, | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] end | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mercy | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will he cut off | <big><span class="asgreek">αποκόψει</span></big> <sup><small><small>[[G0609]]</small></small></sup> |
-| \[Did\] he finish entirely | <big><span class="asgreek">συνετέλεσε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| \[his\] discourse | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generations? | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| Or, | **<big>[[G2228\|η]]</big>** |
+| at | **<big>[[G1519\|εις]]</big>** |
+| \[the\] end | **<big>[[G5056\|τέλος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mercy | **<big>[[G1656\|έλεος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| will he cut off | **<big>[[G0609\|αποκόψει]]</big>** |
+| \[Did\] he finish entirely | **<big>[[G4931\|συνετέλεσε]]</big>** |
+| \[his\] discourse | **<big>[[G4487\|ρήμα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| generation | **<big>[[G1074\|γενεάς]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| generations? | **<big>[[G1074\|γενεάν]]</big>** |
 [[Ps.77.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.7|<< Psalm 77:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.9|Psalm 77:9 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ Stablish thy word unto thy servant, who [is devoted] to thy fear.
 Establish Your word to Your servant, to produce reverence for You.<small><sub>**MT:**</sub></small>
 [[Ps.119.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.37|<< Psalm 119:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.39|Psalm 119:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Establish | <big><span class="asgreek">στήσον</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">δούλω</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your oracle, | <big><span class="asgreek">λόγιόν</span></big> <sup><small><small>[[G3051]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[so as\] to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| you! | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Establish | **<big>[[G2476\|στήσον]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| your servant | **<big>[[G1401\|δούλω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your oracle, | **<big>[[G3051\|λόγιόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[so as\] to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| fear | **<big>[[G5401\|φόβον]]</big>** |
+| you! | **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.37|<< Psalm 119:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.39|Psalm 119:39 >>]]</td></tr></table>
 
 

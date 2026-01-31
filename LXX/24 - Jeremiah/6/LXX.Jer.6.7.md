@@ -7,25 +7,25 @@ As a fountain casteth out her waters, so she casteth out her wickedness: violenc
 As a well gushes its water, so she pours out her evil. Violence and destruction resound in her; sickness and wounds are ever before Me.<small><sub>**MT:**</sub></small>
 [[Jer.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| cools | <big><span class="asgreek">ψύχει</span></big> <sup><small><small>[[G5594]]</small></small></sup> |
-| a well | <big><span class="asgreek">λάκκος</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
-| its water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| cools | <big><span class="asgreek">ψύχει</span></big> <sup><small><small>[[G5594]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Impiety | <big><span class="asgreek">ασέβεια</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| misery | <big><span class="asgreek">ταλαιπωρία</span></big> <sup><small><small>[[G5004]]</small></small></sup> |
-| shall be heard | <big><span class="asgreek">ακουσθήσεται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| always. | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| cools | **<big>[[G5594\|ψύχει]]</big>** |
+| a well | **<big>[[G8154\|λάκκος]]</big>** |
+| its water, | **<big>[[G5204\|ύδωρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| cools | **<big>[[G5594\|ψύχει]]</big>** |
+| evil | **<big>[[G2549\|κακία]]</big>** |
+| her. | **<big>[[G1473\|αυτής]]</big>** |
+| Impiety | **<big>[[G0763\|ασέβεια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| misery | **<big>[[G5004\|ταλαιπωρία]]</big>** |
+| shall be heard | **<big>[[G0191\|ακουσθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| before | **<big>[[G1909\|επί]]</big>** |
+| her face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| always. | **<big>[[G1275\|διαπαντός]]</big>** |
 [[Jer.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
 

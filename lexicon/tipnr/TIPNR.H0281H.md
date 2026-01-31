@@ -4,7 +4,7 @@ Prophet living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahijah</span> the Shilonite was a prophet who foretold Jeroboam's rise to power and the division of the kingdom. \([[1Kgs.11.29|1Ki.11.29]]-39; 14.2-18\)
 - A prophet living at the time of United Monarchy, first mentioned at [[1Kgs.11.29|1Ki.11.29]]; 
-- only referred to as Ahijah<[[H0281H]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Ahijah **<big>[[H0281|אֲחִיָּה]]</big>**.
 
 Ahijah was a prophet from Shiloh who lived during the reigns of Solomon and Jeroboam I. He is best known for his prophecy to Jeroboam, foretelling the division of the kingdom and Jeroboam's rise as king over ten tribes of Israel. \([[1Kgs.11.29|1Ki.11.29]]-39\) 
 
@@ -16,5 +16,5 @@ Ahijah's prophecies concerning the division of the kingdom and the rise of Jerob
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0281H) <small>*Hebrew*</small> | 12x | [[1Ki.11.29] ... [2Ch.10.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahijah\*\|reference=1Ki.11.29;1Ki.11.30;1Ki.12.15;1Ki.14.2;1Ki.14.4;1Ki.14.4;1Ki.14.5;1Ki.14.6;1Ki.14.18;1Ki.15.29;2Ch.9.29;2Ch.10.15) |
-All Strong's for **Ahijah**: \[[[H0281H]]\]
+| Ahijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0281H) | 12x | [[1Ki.11.29] ... [2Ch.10.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahijah\*\|reference=1Ki.11.29;1Ki.11.30;1Ki.12.15;1Ki.14.2;1Ki.14.4;1Ki.14.4;1Ki.14.5;1Ki.14.6;1Ki.14.18;1Ki.15.29;2Ch.9.29;2Ch.10.15) |
+All entries for **Ahijah**:  **<big>[[H0281|אֲחִיָּה]]</big>**

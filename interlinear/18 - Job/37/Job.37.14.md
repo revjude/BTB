@@ -6,15 +6,15 @@ Listen to this, O Job; stand still and consider the wonders of God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.13|<< Job 37:13]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.15|Job 37:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| give ear to !  | <span class="ashebrew"><big>הַאֲזִ֣ינָ </big></span><small><small><sup>[[H0238]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| ha.'a.Zi.na <small><sup>[[HVhv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹּ֣את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Job  | <span class="ashebrew"><big>אִיּ֑וֹב </big></span><small><small><sup>[[H0347]]</sup></small></small> &#8207;| 'i.Yov <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stand still  | <span class="ashebrew"><big>עֲ֝מֹ֗ד </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| 'a.Mod <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and consider diligently  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִתְבּוֹנֵ֤ן </big></span><small><small><sup>[[H0995]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hit.bo.Nen <small><sup>[[HVtv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wonders of  | <span class="ashebrew"><big>נִפְלְא֬וֹת </big></span><small><small><sup>[[H6381]]</sup></small></small> &#8207;| nif.le.'ot <small><sup>[[HVNrfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵֽל </big></span><small><small><sup>[[H0410G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give ear to !  |**<big>&#8207;[[H0238\|הַאֲזִ֣ינָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.'a.Zi.na<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹּ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Job  |**<big>&#8207;[[H0347\|אִיּ֑וֹב]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stand still  |**<big>&#8207;[[H5975G\|עֲ֝מֹ֗ד]]&#8207; </big>**| 'a.Mod<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and consider diligently  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0995\|הִתְבּוֹנֵ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hit.bo.Nen<small><sup>[[HVtv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wonders of  |**<big>&#8207;[[H6381\|נִפְלְא֬וֹת]]&#8207; </big>**| nif.le.'ot<small><sup>[[HVNrfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.13|<< Job 37:13]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.15|Job 37:15 >>]]</td></tr></table>
 
 

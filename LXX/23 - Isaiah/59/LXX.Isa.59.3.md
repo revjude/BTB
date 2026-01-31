@@ -7,28 +7,28 @@ For your hands are defiled with blood, and your fingers with iniquity; your lips
 For your hands are stained with blood, and your fingers with iniquity; your lips have spoken lies, and your tongue mutters injustice.<small><sub>**MT:**</sub></small>
 [[Isa.59.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| your hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are tainted | <big><span class="asgreek">μεμολυσμέναι</span></big> <sup><small><small>[[G3435]]</small></small></sup> |
-| with blood, | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fingers | <big><span class="asgreek">δάκτυλοι</span></big> <sup><small><small>[[G1147]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| sins; | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| lawlessness, | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| injustice | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| meditated upon | <big><span class="asgreek">εμελέτα</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| your hands | **<big>[[G5495\|χείρες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| are tainted | **<big>[[G3435\|μεμολυσμέναι]]</big>** |
+| with blood, | **<big>[[G0129\|αίματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your fingers | **<big>[[G1147\|δάκτυλοι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| sins; | **<big>[[G0266\|αμαρτίαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| your lips | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| spoke | **<big>[[G2980\|ελάλησεν]]</big>** |
+| lawlessness, | **<big>[[G0458\|ανομίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your tongue | **<big>[[G1100\|γλώσσα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| injustice | **<big>[[G0093\|αδικίαν]]</big>** |
+| meditated upon | **<big>[[G3191\|εμελέτα]]</big>** |
 [[Isa.59.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ And the people shall be [as] the burnings of lime: [as] thorns cut up shall they
 The peoples will be burned to ashes, like thorns cut down and set ablaze.<small><sub>**MT:**</sub></small>
 [[Isa.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.11|<< Isaiah 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.13|Isaiah 33:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| for incinerating | <big><span class="asgreek">κατακεκαυμένα</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a thorn-bush | <big><span class="asgreek">άκανθα</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a field | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| being tossed | <big><span class="asgreek">ερριμμένη</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being incinerated. | <big><span class="asgreek">κατακεκαυμένη</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσονται]]</big>** |
+| \[the\] nations | **<big>[[G1484\|έθνη]]</big>** |
+| for incinerating | **<big>[[G2618\|κατακεκαυμένα]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a thorn-bush | **<big>[[G0173\|άκανθα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a field | **<big>[[G0068\|αγρώ]]</big>** |
+| being tossed | **<big>[[G4496\|ερριμμένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being incinerated. | **<big>[[G2618\|κατακεκαυμένη]]</big>** |
 [[Isa.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.11|<< Isaiah 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.13|Isaiah 33:13 >>]]</td></tr></table>
 
 

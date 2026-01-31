@@ -10,28 +10,28 @@ and in [the] midst of the seven lampstands [One] like [the] Son of Man having cl
 > $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] midst |<big><span class="asgreek">μέσῳ</span></big> <small><small><sup>[[G3319]]</sup></small></small> |mesō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seven [^1] |<big><span class="asgreek">ἑπτὰ</span></big> <small><small><sup>[[G2033]]</sup></small></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |
-| lampstands |<big><span class="asgreek">λυχνιῶν</span></big> <small><small><sup>[[G3087]]</sup></small></small> |luchniōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [One] like |<big><span class="asgreek">ὅμοιον</span></big> <small><small><sup>[[G3664]]</sup></small></small> |homoion <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] Son [^2] |<big><span class="asgreek">υἱὸν</span></big> <small><small><sup>[[G5207]]</sup></small></small> |huion <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |
-| of Man |<big><span class="asgreek">ἀνθρώπου</span></big> <small><small><sup>[[G0444]]</sup></small></small> |anthrōpou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having clothed himself |<big><span class="asgreek">ἐνδεδυμένον</span></big> <small><small><sup>[[G1746]]</sup></small></small> |endedumenon <small><sup>[[V-RMP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to the feet |<big><span class="asgreek">ποδήρη</span></big> <small><small><sup>[[G4158]]</sup></small></small> |podērē <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having girded himself about |<big><span class="asgreek">περιεζωσμένον</span></big> <small><small><sup>[[G4024]]</sup></small></small> |periezōsmenon <small><sup>[[V-RMP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| at |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| breasts |<big><span class="asgreek">μαστοῖς</span></big> <small><small><sup>[[G3149]]</sup></small></small> |mastois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with a sash |<big><span class="asgreek">ζώνην</span></big> <small><small><sup>[[G2223]]</sup></small></small> |zōnēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| golden. |<big><span class="asgreek">χρυσᾶν.</span></big> <small><small><sup>[[G5552]]</sup></small></small> [^3] |chrusan <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] midst |**<big>[[G3319\|μέσῳ]]</big>**  |mesō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seven [^1] |**<big>[[G2033\|ἑπτὰ]]</big>**  |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |
+| lampstands |**<big>[[G3087\|λυχνιῶν]]</big>**  |luchniōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [One] like |**<big>[[G3664\|ὅμοιον]]</big>**  |homoion <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] Son [^2] |**<big>[[G5207\|υἱὸν]]</big>**  |huion <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |
+| of Man |**<big>[[G0444\|ἀνθρώπου]]</big>**  |anthrōpou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having clothed himself |**<big>[[G1746\|ἐνδεδυμένον]]</big>**  |endedumenon <small><sup>[[V-RMP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to the feet |**<big>[[G4158\|ποδήρη]]</big>**  |podērē <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having girded himself about |**<big>[[G4024\|περιεζωσμένον]]</big>**  |periezōsmenon <small><sup>[[V-RMP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| at |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| breasts |**<big>[[G3149\|μαστοῖς]]</big>**  |mastois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with a sash |**<big>[[G2223\|ζώνην]]</big>**  |zōnēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| golden. |**<big>[[G5552\|χρυσᾶν.]]</big>**  [^3] |chrusan <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.12|<< Revelation 1:12]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.14|Revelation 1:14 >>]]</td></tr></table>
 
-[^1]: Extra Text:  <span class='asgreek'>**ἑπτὰ**</span>  (<i>hepta</i>) 'seven' is only in traditional manuscripts (Tyn+Treg+TR+Byz)
-[^2]: ==Tyn+Treg+TR+Byz==: [the] Son | <span class="asgreek">υἱῷ</span><small><sup>[[G5207]]</sup></small> | huiō<small><sup>[[N-DSM-T]]</sup></small>
-[^3]: ==TR== spelled: <span class='asgreek'>**χρυσῆν**</span>
+[^1]: Extra Text:  **<big><span class='asgreek'>ἑπτὰ</span></big>**  (<i>hepta</i>) 'seven' is only in traditional manuscripts (Tyn+Treg+TR+Byz)
+[^2]: ==Tyn+Treg+TR+Byz==: [the] Son | **<big>[[G5207|υἱῷ]]</big>** | huiō<small><sup>[[N-DSM-T]]</sup></small>
+[^3]: ==TR== spelled: **<big><span class='asgreek'>χρυσῆν</span></big>**

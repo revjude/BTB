@@ -7,35 +7,35 @@ And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of 
 So Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and make a confession to Him. I urge you to tell me what you have done; do not hide it from me.”<small><sub>**MT:**</sub></small>
 [[Josh.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.18|<< Joshua 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.20|Joshua 7:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joshua said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Achan, | <big><span class="asgreek">Άχαρ</span></big> <sup><small><small>[[H5912]]</small></small></sup> |
-| O my son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acknowledgment, | <big><span class="asgreek">εξομολόγησιν</span></big> <sup><small><small>[[G7347]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| announce | <big><span class="asgreek">ανάγγειλόν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you did! | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not hide \[it\] | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">κρύψης</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joshua said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Achan, | **<big>[[H5912\|Άχαρ]]</big>** |
+| O my son, | **<big>[[G5207\|υιέ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| give | **<big>[[G1325\|δος]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make | **<big>[[G1325\|δος]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| acknowledgment, | **<big>[[G7347\|εξομολόγησιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| announce | **<big>[[G0312\|ανάγγειλόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| you did! | **<big>[[G4160\|εποίησας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should not hide \[it\] | **<big>[[G3361\|μη]]</big>** **<big>[[G2928\|κρύψης]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Josh.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.18|<< Joshua 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.20|Joshua 7:20 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hat
 Your right hand, O LORD, is majestic in power; Your right hand, O LORD, has shattered the enemy.<small><sub>**MT:**</sub></small>
 [[Exod.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.5|<< Exodus 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.7|Exodus 15:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your right \[hand\], | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| has been glorified | <big><span class="asgreek">δεδόξασται</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| strength; | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hand, | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| devastated | <big><span class="asgreek">έθραυσεν</span></big> <sup><small><small>[[G2352]]</small></small></sup> |
-| \[the\] enemies. | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Your right \[hand\], | **<big>[[G1188\|δεξιά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| has been glorified | **<big>[[G1392\|δεδόξασται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| strength; | **<big>[[G2479\|ισχύϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your right | **<big>[[G1188\|δεξιά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| hand, | **<big>[[G5495\|χειρ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| devastated | **<big>[[G2352\|έθραυσεν]]</big>** |
+| \[the\] enemies. | **<big>[[G2190\|εχθρούς]]</big>** |
 [[Exod.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.5|<< Exodus 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.7|Exodus 15:7 >>]]</td></tr></table>
 
 

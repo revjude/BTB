@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֵטוּן‎</span></big> **ʼêṭûwn** <small>*(ay-toon')*</small> ==**fine linen**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אֵטוּן‎</span></big>** **ʼêṭûwn** <small>*(ay-toon')*</small> ==**fine linen**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root (probably meaning to bind)</small>
 
 $\quad$ fine linen.
@@ -6,4 +6,4 @@ $\quad$ fine linen.
 
 **1)** linen, yarn, thread
 
-<sub><small>See Greek: </small></sub><span class="asgreek">οὐαί</span><sup><small>[[G3759]]</small></sup>
+<small>See Greek: </small>**<big>[[G3759|οὐαί]]</big>**

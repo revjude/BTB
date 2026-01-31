@@ -7,29 +7,29 @@ And the rest of the acts of Abijah, and his ways, and his sayings, [are] written
 Now the rest of the acts of Abijah, along with his ways and his words, are written in the Treatise of the Prophet Iddo.<small><sub>**MT:**</sub></small>
 [[2Chr.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.21|<< 2 Chronicles 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.1|2 Chronicles 14:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιπά</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of Abijah, | <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his actions, | <big><span class="asgreek">πράξεις</span></big> <sup><small><small>[[G4234]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his words, | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are written | <big><span class="asgreek">γεγραμμένοι</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] scroll | <big><span class="asgreek">βιβλίου</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inquiry | <big><span class="asgreek">εκζητήσει</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| of Iddo | <big><span class="asgreek">Αδδώ</span></big> <sup><small><small>[[H5714]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet. | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rest | **<big>[[G3062\|λοιπά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| of Abijah, | **<big>[[G0007\|Αβία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his actions, | **<big>[[G4234\|πράξεις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his words, | **<big>[[G3056\|λόγοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| are written | **<big>[[G1125\|γεγραμμένοι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] scroll | **<big>[[G0975\|βιβλίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| inquiry | **<big>[[G1567\|εκζητήσει]]</big>** |
+| of Iddo | **<big>[[H5714\|Αδδώ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| prophet. | **<big>[[G4396\|προφήτου]]</big>** |
 [[2Chr.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.21|<< 2 Chronicles 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.1|2 Chronicles 14:1 >>]]</td></tr></table>
 
 

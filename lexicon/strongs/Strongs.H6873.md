@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָרַח‎</span></big> **tsârach** <small>*(tsaw-rakh')*</small> ==**to cry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָרַח‎</span></big>** **tsârach** <small>*(tsaw-rakh')*</small> ==**to cry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cry, roar.
@@ -8,4 +8,4 @@ $\quad$ cry, roar.
 $\quad$ **1a)** (Qal) to roar
 $\quad$ **1b)** (Hiphil) to utter a roar, cry out (a battle cry)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοάω</span><sup><small>[[G0994]]</small></sup>
+<small>See Greek: </small>**<big>[[G0994|βοάω]]</big>**

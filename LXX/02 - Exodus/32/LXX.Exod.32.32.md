@@ -7,24 +7,24 @@ Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, ou
 Yet now, if You would only forgive their sin.... But if not, please blot me out of the book that You have written.”<small><sub>**MT:**</sub></small>
 [[Exod.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.31|<< Exodus 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.33|Exodus 32:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| forasmuch as | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| you forgive | <big><span class="asgreek">αφεις</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their sin -- | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| forgive! | <big><span class="asgreek">άφες</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
-| But if not, | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
-| wipe me away | <big><span class="asgreek">εξάλειψόν</span></big> <sup><small><small>[[G1813]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your book | <big><span class="asgreek">βίβλου</span></big> <sup><small><small>[[G0976]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you wrote! | <big><span class="asgreek">έγραψας</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| forasmuch as | **<big>[[G3303\|μεν]]</big>** |
+| you forgive | **<big>[[G0863\|αφεις]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of their sin -- | **<big>[[G0266\|αμαρτίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| forgive! | **<big>[[G0863\|άφες]]</big>** |
+| But if not, | **<big>[[G1490\|ει δε μη]]</big>** |
+| wipe me away | **<big>[[G1813\|εξάλειψόν]]</big>** **<big>[[G1473\|με]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your book | **<big>[[G0976\|βίβλου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| you wrote! | **<big>[[G1125\|έγραψας]]</big>** |
 [[Exod.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.31|<< Exodus 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.33|Exodus 32:33 >>]]</td></tr></table>
 
 

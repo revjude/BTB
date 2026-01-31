@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּחִנָּה‎</span></big> **tᵉchinnâh** <small>*(tekh-in-naw')*</small> ==**supplication**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַן‎</span><sup><small>[[H2603]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּחִנָּה‎</span></big>** **tᵉchinnâh** <small>*(tekh-in-naw')*</small> ==**supplication**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2603|‎חָנַן‎]]</big>**</small>
 
 $\quad$ favour, grace, supplication.
 - ***graciousness***
@@ -9,4 +9,4 @@ $\quad$ favour, grace, supplication.
 $\quad$ **1a)** favour
 $\quad$ **1b)** supplication for favour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βοή</span><sup><small>[[G0995]]</small></sup> · <span class="asgreek">δέησις</span><sup><small>[[G1162]]</small></sup> · <span class="asgreek">προσευχή</span><sup><small>[[G4335]]</small></sup> · <span class="asgreek">φωνή</span><sup><small>[[G5456]]</small></sup>
+<small>See Greek: </small>**<big>[[G0995|βοή]]</big>** · **<big>[[G1162|δέησις]]</big>** · **<big>[[G4335|προσευχή]]</big>** · **<big>[[G5456|φωνή]]</big>**

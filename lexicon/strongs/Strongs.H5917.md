@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עָכָר‎</span></big> **ʻÂkâr** <small>*(aw-kawr')*</small> ==**Achan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָכַר‎</span><sup><small>[[H5916]]</small></sup>; troublesome</small>
+**<big><span class="ashebrew">‎עָכָר‎</span></big>** **ʻÂkâr** <small>*(aw-kawr')*</small> ==**Achan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5916|‎עָכַר‎]]</big>**; troublesome</small>
 
-$\quad$ Achar. Compare <span class="ashebrew">‎עָכָן‎</span><sup><small>[[H5912]]</small></sup>.
+$\quad$ Achar. Compare **<big>[[H5912|‎עָכָן‎]]</big>**.
 - § Achar = *"troubler"*
 - ***Akar***, an Israelite
 

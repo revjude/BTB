@@ -6,15 +6,15 @@ For our soul has sunk to the dust; our bodies cling to the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.24|<< Psalms 44:24]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.26|Psalms 44:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has sunk down  | <span class="ashebrew"><big>שָׁ֣חָה </big></span><small><small><sup>[[H7743]]</sup></small></small> &#8207;| Sha.chah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the dust  | <span class="ashebrew"><big>לֶ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עָפָ֣ר </big></span><small><small><sup>[[H6083]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> 'a.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self our  | <span class="ashebrew"><big>נַפְשֵׁ֑ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| naf.She. <small><sup>[[HNcfsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has clung  | <span class="ashebrew"><big>דָּבְקָ֖ה </big></span><small><small><sup>[[H1692]]</sup></small></small> &#8207;| da.ve.Kah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the earth  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָ֣רֶץ </big></span><small><small><sup>[[H0776H]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| belly our  | <span class="ashebrew"><big>בִּטְנֵֽ </big></span><small><small><sup>[[H0990G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bit.Ne. <small><sup>[[HNcfsc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has sunk down  |**<big>&#8207;[[H7743\|שָׁ֣חָה]]&#8207; </big>**| Sha.chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the dust  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H6083\|עָפָ֣ר]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self our  |**<big>&#8207;[[H5315G\|נַפְשֵׁ֑]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| naf.She.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has clung  |**<big>&#8207;[[H1692\|דָּבְקָ֖ה]]&#8207; </big>**| da.ve.Kah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the earth  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֣רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| belly our  |**<big>&#8207;[[H0990G\|בִּטְנֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bit.Ne.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.24|<< Psalms 44:24]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.26|Psalms 44:26 >>]]</td></tr></table>
 
 

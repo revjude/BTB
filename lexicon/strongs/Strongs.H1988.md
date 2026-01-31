@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎הֲלֹם‎</span></big> **hălôm** <small>*(hal-ome')*</small> ==**here**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
-<small>from the article (see <span class="ashebrew">‎הָלְאָה‎</span><sup><small>[[H1973]]</small></sup>)</small>
+**<big><span class="ashebrew">‎הֲלֹם‎</span></big>** **hălôm** <small>*(hal-ome')*</small> ==**here**==  <sup><small>[[TEHMC#H:Adv|H:Adv]]</small></sup> 
+<small>from the article (see **<big>[[H1973|‎הָלְאָה‎]]</big>**)</small>
 
 $\quad$ here, hither(-(to)), thither.
 - ***hither***
 
 **1)** here, hither
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">ἐκεῖ</span><sup><small>[[G1563]]</small></sup> · <span class="asgreek">ὧδε</span><sup><small>[[G5602]]</small></sup>
+<small>See Greek: </small>**<big>[[G0165|αἰών]]</big>** · **<big>[[G1563|ἐκεῖ]]</big>** · **<big>[[G5602|ὧδε]]</big>**

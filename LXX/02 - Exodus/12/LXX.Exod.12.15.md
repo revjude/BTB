@@ -7,42 +7,42 @@ Seven days shall ye eat unleavened bread; even the first day ye shall put away l
 For seven days you must eat unleavened bread. On the first day you are to remove the leaven from your houses. Whoever eats anything leavened from the first day through the seventh must be cut off from Israel.<small><sub>**MT:**</sub></small>
 [[Exod.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.14|<< Exodus 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.16|Exodus 12:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| unleavened \[breads\]. | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| And from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτης</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| you shall remove | <big><span class="asgreek">αφανιείτε</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| yeast | <big><span class="asgreek">ζύμην</span></big> <sup><small><small>[[G2219]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses. | <big><span class="asgreek">οικιών</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγη</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| yeast, | <big><span class="asgreek">ζύμην</span></big> <sup><small><small>[[G2219]]</small></small></sup> |
-| shall be utterly destroyed | <big><span class="asgreek">εξολοθρευθήσεται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[it shall be\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτης</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμης</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| Seven | **<big>[[G2033\|επτά]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| you shall eat | **<big>[[G2068\|έδεσθε]]</big>** |
+| unleavened \[breads\]. | **<big>[[G0106\|άζυμα]]</big>** |
+| And from | **<big>[[G0575\|από]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| first | **<big>[[G4413\|πρώτης]]</big>** |
+| you shall remove | **<big>[[G0853\|αφανιείτε]]</big>** |
+| yeast | **<big>[[G2219\|ζύμην]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your houses. | **<big>[[G3614\|οικιών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| All | **<big>[[G3956\|πας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| shall eat | **<big>[[G2068\|φάγη]]</big>** |
+| yeast, | **<big>[[G2219\|ζύμην]]</big>** |
+| shall be utterly destroyed | **<big>[[G1842\|εξολοθρευθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[it shall be\] from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| first | **<big>[[G4413\|πρώτης]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμης]]</big>** |
 [[Exod.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.14|<< Exodus 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.16|Exodus 12:16 >>]]</td></tr></table>
 
 

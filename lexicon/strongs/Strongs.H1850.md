@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דׇּפְקָה‎</span></big> **Dophqâh** <small>*(dof-kaw')*</small> ==**Dophkah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּפַק‎</span><sup><small>[[H1849]]</small></sup>; a knock</small>
+**<big><span class="ashebrew">‎דׇּפְקָה‎</span></big>** **Dophqâh** <small>*(dof-kaw')*</small> ==**Dophkah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1849|‎דָּפַק‎]]</big>**; a knock</small>
 
 $\quad$ Dophkah.
 - § Dophkah = *"knocking"*

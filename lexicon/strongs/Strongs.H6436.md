@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פַּנַּג‎</span></big> **pannag** <small>*(pan-nag')*</small> ==**cake**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פַּנַּג‎</span></big>** **pannag** <small>*(pan-nag')*</small> ==**cake**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Pannag.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הַגְרִי‎</span></big> **Hagrîy** <small>*(hag-ree')*</small> ==**Hagri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (prolonged) <span class="ashebrew">הַגְרִיא</span> **Hagrîyʼ** <small>*(hagree')*</small>; perhaps patronymically from <span class="ashebrew">‎הָגָר‎</span><sup><small>[[H1904]]</small></sup></small>
+**<big><span class="ashebrew">‎הַגְרִי‎</span></big>** **Hagrîy** <small>*(hag-ree')*</small> ==**Hagri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (prolonged) **<big><span class="ashebrew">הַגְרִיא</span></big>** **Hagrîyʼ** <small>*(hagree')*</small>; perhaps patronymically from **<big>[[H1904|‎הָגָר‎]]</big>**</small>
 
 $\quad$ Hagarene, Hagarite, Haggeri.
 - § Haggeri = *"wanderer"*

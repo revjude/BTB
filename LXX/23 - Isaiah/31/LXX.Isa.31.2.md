@@ -7,33 +7,33 @@ Yet he also [is] wise, and will bring evil, and will not call back his words: bu
 Yet He too is wise and brings disaster; He does not call back His words. He will rise up against the house of the wicked and against the allies of evildoers.<small><sub>**MT:**</sub></small>
 [[Isa.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.1|<< Isaiah 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.3|Isaiah 31:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wisely | <big><span class="asgreek">σοφώς</span></big> <sup><small><small>[[G9132]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήγεν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bad \[things\], | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be annulled. | <big><span class="asgreek">αθετηθή</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall rise up | <big><span class="asgreek">επαναστήσεται</span></big> <sup><small><small>[[G1881]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of wicked | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vain | <big><span class="asgreek">ματαίαν</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| wisely | **<big>[[G9132\|σοφώς]]</big>** |
+| brought | **<big>[[G0071\|ήγεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| bad \[things\], | **<big>[[G2556\|κακά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his word | **<big>[[G3056\|λόγος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be annulled. | **<big>[[G0114\|αθετηθή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall rise up | **<big>[[G1881\|επαναστήσεται]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| of wicked | **<big>[[G4190\|πονηρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| hope | **<big>[[G1680\|ελπίδα]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| vain | **<big>[[G3152\|ματαίαν]]</big>** |
 [[Isa.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.1|<< Isaiah 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.3|Isaiah 31:3 >>]]</td></tr></table>
 
 

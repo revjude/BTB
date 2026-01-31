@@ -7,39 +7,39 @@ And they have built the high places of Tophet, which [is] in the valley of the s
 They have built the high places of Topheth in the Valley of Ben-hinnom so they could burn their sons and daughters in the fire—something I never commanded, nor did it even enter My mind.<small><sub>**MT:**</sub></small>
 [[Jer.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.30|<< Jeremiah 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.32|Jeremiah 7:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they built | <big><span class="asgreek">ωκοδόμησαν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shrine | <big><span class="asgreek">βωμόν</span></big> <sup><small><small>[[G1041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Tophet, | <big><span class="asgreek">Ταφέθ</span></big> <sup><small><small>[[H8612]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] ravine | <big><span class="asgreek">φάραγγι</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of \[the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hinnom, | <big><span class="asgreek">Εννόμ</span></big> <sup><small><small>[[H2011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to incinerate | <big><span class="asgreek">κατακαίειν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give charge | <big><span class="asgreek">ενετειλάμην</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| consider | <big><span class="asgreek">διενοήθην</span></big> <sup><small><small>[[G6854]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart. | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they built | **<big>[[G3618\|ωκοδόμησαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shrine | **<big>[[G1041\|βωμόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Tophet, | **<big>[[H8612\|Ταφέθ]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] ravine | **<big>[[G5327\|φάραγγι]]</big>** |
+| of \[the\] son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Hinnom, | **<big>[[H2011\|Εννόμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to incinerate | **<big>[[G2618\|κατακαίειν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their sons | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their daughters | **<big>[[G2364\|θυγατέρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| fire; | **<big>[[G4442\|πυρί]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| give charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| consider | **<big>[[G6854\|διενοήθην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my heart. | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jer.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.30|<< Jeremiah 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.32|Jeremiah 7:32 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָמַן‎</span></big> **zâman** <small>*(zaw-man')*</small> ==**to appoint**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָמַן‎</span></big>** **zâman** <small>*(zaw-man')*</small> ==**to appoint**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint.

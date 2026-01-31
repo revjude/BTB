@@ -4,7 +4,7 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Adoni-zedek</span>, the king of Jerusalem, formed an alliance with other Amorite kings to fight against Joshua and the Israelites but was defeated and killed.
 - A man living before Israel's Monarchy, first mentioned at [[Josh.10.1|Jos.10.1]]; 
-- only referred to as Adoni-zedek<[[H0139]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>צ</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Adoni-zedek **<big>[[H0139|אֲדֹנִי־צֶדֶק]]</big>**.
 
 Adoni-zedek was the king of Jerusalem during the time of Joshua's conquest of Canaan. He is mentioned in [[Josh.10.1|Joshua 10:1]] and 10:3 as one of the Amorite kings who opposed the Israelites' advance into the Promised Land. 
 
@@ -20,5 +20,5 @@ The defeat of Adoni-zedek and the other Amorite kings was a significant victory 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adoni-zedek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>צ</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0139) <small>*Hebrew*</small> | 2x | [[Jos.10.1] & [Jos.10.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoni\*\|reference=Jos.10.1;Jos.10.3) |
-All Strong's for **Adoni-zedek**: \[[[H0139]]\]
+| Adoni-zedek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>צ</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0139) | 2x | [[Jos.10.1] & [Jos.10.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoni\*\|reference=Jos.10.1;Jos.10.3) |
+All entries for **Adoni-zedek**:  **<big>[[H0139|אֲדֹנִי־צֶדֶק]]</big>**

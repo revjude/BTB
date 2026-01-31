@@ -10,35 +10,35 @@ Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, t
 Then Saul said to his servants, “Find me a woman who is a medium, so I can go and consult her.” “There is a medium at Endor,” his servants replied.<small><sub>**MT:**</sub></small>
 [[1Sam.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.6|<< 1 Samuel 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.8|1 Samuel 28:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παισίν</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Seek | <big><span class="asgreek">ζητήσατέ</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| who delivers oracles! | <big><span class="asgreek">εγγαστρίμυθον</span></big> <sup><small><small>[[G6995]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will go | <big><span class="asgreek">πορεύσομαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will inquire | <big><span class="asgreek">εκζητήσω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| who delivers oracles | <big><span class="asgreek">εγγαστρίμυθος</span></big> <sup><small><small>[[G6995]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| En-dor. | <big><span class="asgreek">Ενδώρ</span></big> <sup><small><small>[[H5874]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants, | **<big>[[G3816\|παισίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Seek | **<big>[[G2212\|ζητήσατέ]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| a woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| who delivers oracles! | **<big>[[G6995\|εγγαστρίμυθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will go | **<big>[[G4198\|πορεύσομαι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will inquire | **<big>[[G1567\|εκζητήσω]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his servants | **<big>[[G3816\|παίδες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a woman | **<big>[[G1135\|γυνή]]</big>** |
+| who delivers oracles | **<big>[[G6995\|εγγαστρίμυθος]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| En-dor. | **<big>[[H5874\|Ενδώρ]]</big>** |
 [[1Sam.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.6|<< 1 Samuel 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.8|1 Samuel 28:8 >>]]</td></tr></table>
 
 

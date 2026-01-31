@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִבְרוֹת הַתַּאֲוָה‎</span></big> **Qibrôwth hat-Taʼă-vâh** <small>*(kib-roth' hat-tahav-aw')*</small> ==**Kibroth-hattaavah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the feminine plural of <span class="ashebrew">‎קֶבֶר‎</span><sup><small>[[H6913]]</small></sup> and <span class="ashebrew">‎תַּאֲוָה‎</span><sup><small>[[H8378]]</small></sup> with the article interposed; graves of the longing</small>
+**<big><span class="ashebrew">‎קִבְרוֹת הַתַּאֲוָה‎</span></big>** **Qibrôwth hat-Taʼă-vâh** <small>*(kib-roth' hat-tahav-aw')*</small> ==**Kibroth-hattaavah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the feminine plural of **<big>[[H6913|‎קֶבֶר‎]]</big>** and **<big>[[H8378|‎תַּאֲוָה‎]]</big>** with the article interposed; graves of the longing</small>
 
 $\quad$ Kibroth-hattaavah.
 - § Kibroth-hattaavah = *"graves of lust"*

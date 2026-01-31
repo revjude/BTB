@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּחֻרִים‎</span></big> **Bachurîym** <small>*(bakh-oo-reem')*</small> ==**Bahurim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">בַּחוּרִים</span> **Bachûwrîym** <small>*(bakh-oo-reem')*</small>; masculine plural of <span class="ashebrew">‎בָּחוּר‎</span><sup><small>[[H0970]]</small></sup>; young men</small>
+**<big><span class="ashebrew">‎בַּחֻרִים‎</span></big>** **Bachurîym** <small>*(bakh-oo-reem')*</small> ==**Bahurim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">בַּחוּרִים</span></big>** **Bachûwrîym** <small>*(bakh-oo-reem')*</small>; masculine plural of **<big>[[H0970|‎בָּחוּר‎]]</big>**; young men</small>
 
 $\quad$ Bahurim.
 - § Bahurim = *"young men's village"*

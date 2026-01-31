@@ -10,22 +10,22 @@ The Spirit of the LORD will rest on Him—the Spirit of wisdom and understanding
 > $\quad$ referenced by: [[1Pet.4.14|1Pet 4:14]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will rest  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָחָ֥ה </big></span><small><small><sup>[[H5117]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.Chah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on him  | <span class="ashebrew"><big>עָלָ֖י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'a.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] spirit of  | <span class="ashebrew"><big>ר֣וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit of  | <span class="ashebrew"><big>ר֧וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֣ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and understanding  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִינָ֗ה </big></span><small><small><sup>[[H0998]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit of  | <span class="ashebrew"><big>ר֤וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| counsel  | <span class="ashebrew"><big>עֵצָה֙ </big></span><small><small><sup>[[H6098]]</sup></small></small> &#8207;| 'e.Tzah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and strength  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גְבוּרָ֔ה </big></span><small><small><sup>[[H1369]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ge.vu.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spirit of  | <span class="ashebrew"><big>ר֥וּחַ </big></span><small><small><sup>[[H7307G]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| knowledge  | <span class="ashebrew"><big>דַּ֖עַת </big></span><small><small><sup>[[H1847]]</sup></small></small> &#8207;| Da.'at <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] fear of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִרְאַ֥ת </big></span><small><small><sup>[[H3374]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yir.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will rest  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5117\|נָחָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Chah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on him  |**<big>&#8207;[[H5921A\|עָלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] spirit of  |**<big>&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit of  |**<big>&#8207;[[H7307G\|ר֧וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֣ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and understanding  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0998\|בִינָ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit of  |**<big>&#8207;[[H7307G\|ר֤וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| counsel  |**<big>&#8207;[[H6098\|עֵצָה֙]]&#8207; </big>**| 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and strength  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1369\|גְבוּרָ֔ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.vu.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit of  |**<big>&#8207;[[H7307G\|ר֥וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| knowledge  |**<big>&#8207;[[H1847\|דַּ֖עַת]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fear of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3374\|יִרְאַ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.1|<< Isaiah 11:1]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.3|Isaiah 11:3 >>]]</td></tr></table>
 
 

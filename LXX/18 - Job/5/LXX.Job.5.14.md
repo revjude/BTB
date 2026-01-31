@@ -7,18 +7,18 @@ They meet with darkness in the daytime, and grope in the noonday as in the night
 They encounter darkness by day and grope at noon as in the night.<small><sub>**MT:**</sub></small>
 [[Job.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.13|<< Job 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.15|Job 5:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| shall meet | <big><span class="asgreek">συναντήσεται</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| at midday | <big><span class="asgreek">μεσημβρινόν</span></big> <sup><small><small>[[G8290]]</small></small></sup> |
-| may they grope | <big><span class="asgreek">ψηλαφήσαισαν</span></big> <sup><small><small>[[G5584]]</small></small></sup> |
-| equally | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
-| as at night. | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| By day | **<big>[[G2250\|ημέρας]]</big>** |
+| shall meet | **<big>[[G4876\|συναντήσεται]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| darkness | **<big>[[G4655\|σκότος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| at midday | **<big>[[G8290\|μεσημβρινόν]]</big>** |
+| may they grope | **<big>[[G5584\|ψηλαφήσαισαν]]</big>** |
+| equally | **<big>[[G2470\|ίσα]]</big>** |
+| as at night. | **<big>[[G3571\|νυκτί]]</big>** |
 [[Job.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.13|<< Job 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.15|Job 5:15 >>]]</td></tr></table>
 
 

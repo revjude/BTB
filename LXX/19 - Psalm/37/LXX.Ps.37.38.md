@@ -7,17 +7,17 @@ But the transgressors shall be destroyed together: the end of the wicked shall b
 But the transgressors will all be destroyed; the future of the wicked will be cut off.<small><sub>**MT:**</sub></small>
 [[Ps.37.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.37|<< Psalm 37:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.39|Psalm 37:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| lawbreakers | <big><span class="asgreek">παράνομοι</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
-| shall be utterly destroyed | <big><span class="asgreek">εξολοθρευθήσονται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| together; | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leftovers | <big><span class="asgreek">εγκαταλείμματα</span></big> <sup><small><small>[[G7010]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| shall be utterly destroyed. | <big><span class="asgreek">εξολοθρευθήσονται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| But the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| lawbreakers | **<big>[[G8627\|παράνομοι]]</big>** |
+| shall be utterly destroyed | **<big>[[G1842\|εξολοθρευθήσονται]]</big>** |
+| together; | **<big>[[G7464\|επιτοαυτό]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| leftovers | **<big>[[G7010\|εγκαταλείμματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| impious | **<big>[[G0765\|ασεβών]]</big>** |
+| shall be utterly destroyed. | **<big>[[G1842\|εξολοθρευθήσονται]]</big>** |
 [[Ps.37.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.37|<< Psalm 37:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.39|Psalm 37:39 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כּוּשִׁי‎</span></big> **Kûwshîy** <small>*(koo-shee')*</small> ==**Ethiopian**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎כּוּשׁ‎</span><sup><small>[[H3568]]</small></sup></small>
+**<big><span class="ashebrew">‎כּוּשִׁי‎</span></big>** **Kûwshîy** <small>*(koo-shee')*</small> ==**Ethiopian**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patronymically from **<big>[[H3568|‎כּוּשׁ‎]]</big>**</small>
 
 $\quad$ Cushi, Cushite, Ethiopian(-s).
 - § Cushi or Ethiopian = *see Cushan "their blackness"*

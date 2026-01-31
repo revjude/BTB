@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲדָר‎</span></big> **ʼĂdâr** <small>*(ad-awr')*</small> ==**Adar**==  <sup><small>[[TEHMC#A:N--T|A:N--T]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אֲדָר‎</span><sup><small>[[H0143]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲדָר‎</span></big>** **ʼĂdâr** <small>*(ad-awr')*</small> ==**Adar**==  <sup><small>[[TEHMC#A:N--T|A:N--T]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0143|‎אֲדָר‎]]</big>**</small>
 
 $\quad$ Adar.
 - § Adar = *"glorious"*

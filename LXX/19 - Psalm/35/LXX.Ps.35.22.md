@@ -7,17 +7,17 @@ You beheld, O <span class="smallcaps">lord</span>. You should not remain silent,
 O LORD, You have seen it; be not silent. O Lord, be not far from me.<small><sub>**MT:**</sub></small>
 [[Ps.35.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.21|<< Psalm 35:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.23|Psalm 35:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You beheld, | <big><span class="asgreek">είδες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| remain silent, | <big><span class="asgreek">παρασιωπήσης</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| separate | <big><span class="asgreek">αποστής</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You beheld, | **<big>[[G1492\|είδες]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| remain silent, | **<big>[[G8637\|παρασιωπήσης]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| separate | **<big>[[G0868\|αποστής]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Ps.35.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.21|<< Psalm 35:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.23|Psalm 35:23 >>]]</td></tr></table>
 
 

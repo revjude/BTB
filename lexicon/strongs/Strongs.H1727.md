@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דּוּב‎</span></big> **dûwb** <small>*(doob)*</small> ==**to pine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎דּוּב‎</span></big>** **dûwb** <small>*(doob)*</small> ==**to pine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ sorrow.

@@ -7,36 +7,36 @@ But the man would not tarry that night, but he rose up and departed, and came ov
 But the man was unwilling to spend the night. He got up and departed, and arrived opposite Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine.<small><sub>**MT:**</sub></small>
 [[Judg.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.9|<< Judges 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.11|Judges 19:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| did not want | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηθέλησεν</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| to lodge. | <big><span class="asgreek">αυλισθήναι</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| Jebus, | <big><span class="asgreek">Ιεβούς</span></big> <sup><small><small>[[H2982]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] a pair | <big><span class="asgreek">ζεύγος</span></big> <sup><small><small>[[G2201]]</small></small></sup> |
-| of beasts of burden | <big><span class="asgreek">υποζυγίων</span></big> <sup><small><small>[[G5268]]</small></small></sup> |
-| being saddled, | <big><span class="asgreek">επισεσαγμένων</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his concubine | <big><span class="asgreek">παλλακή</span></big> <sup><small><small>[[G8589]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| did not want | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2309\|ηθέλησεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| to lodge. | **<big>[[G0835\|αυλισθήναι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he rose up | **<big>[[G0450\|ανέστη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went forth | **<big>[[G0565\|απήλθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G3854\|παρεγένοντο]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| Jebus, | **<big>[[H2982\|Ιεβούς]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| Jerusalem, | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| \[were\] a pair | **<big>[[G2201\|ζεύγος]]</big>** |
+| of beasts of burden | **<big>[[G5268\|υποζυγίων]]</big>** |
+| being saddled, | **<big>[[G7442\|επισεσαγμένων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his concubine | **<big>[[G8589\|παλλακή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.9|<< Judges 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.11|Judges 19:11 >>]]</td></tr></table>
 
 

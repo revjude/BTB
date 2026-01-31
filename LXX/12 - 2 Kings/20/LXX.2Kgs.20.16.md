@@ -10,16 +10,16 @@ And Isaiah said unto Hezekiah, Hear the word of the LORD.
 Then Isaiah said to Hezekiah, “Hear the word of the LORD:<small><sub>**MT:**</sub></small>
 [[2Kgs.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.15|<< 2 Kings 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.17|2 Kings 20:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaiah said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ησαϊας</span></big> <sup><small><small>[[G2268]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Hezekiah, | <big><span class="asgreek">Εζεκίαν</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| Hear | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Isaiah said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2268\|Ησαϊας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Hezekiah, | **<big>[[G1478\|Εζεκίαν]]</big>** |
+| Hear | **<big>[[G0191\|άκουσον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| word | **<big>[[G3056\|λόγον]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Kgs.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.15|<< 2 Kings 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.17|2 Kings 20:17 >>]]</td></tr></table>
 
 

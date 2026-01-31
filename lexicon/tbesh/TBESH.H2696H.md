@@ -1,5 +1,4 @@
-<span class="ashebrew">‎חֶצְרוֹן‎</span> <small>***(chets.ron)***</small> ==**Hezron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.12|Gen.46.12]]
--  son of: Perez ([[H6557]])
--  brother of: Hamul ([[H2538]]); married to daughter\_of\_Machir ([[H4353I]]) and Abiah ([[H0029J]])
--  father of: Ram ([[H7410]]), Jerahmeel ([[H3396]]), Caleb ([[H3612H]]), Segub ([[H7687H]]) and Ashhur ([[H0806]])
+-  son of: Perez (**<big>[[H6557|פֶּרֶץ]]</big>**)
+-  brother of: Hamul (**<big>[[H2538|חָמוּל]]</big>**); married to daughter\_of\_Machir (**<big>[[H4353I|מָכִיר]]</big>**) and Abiah (**<big>[[H0029J|אֲבִיָּה]]</big>**)
+-  father of: Ram (**<big>[[H7410|רָם]]</big>**), Jerahmeel (**<big>[[H3396|יְרַחְמְאֵל]]</big>**), Caleb (**<big>[[H3612H|כָּלֵב]]</big>**), Segub (**<big>[[H7687H|שְׂגוּב]]</big>**) and Ashhur (**<big>[[H0806|אַשְׁחוּר]]</big>**)

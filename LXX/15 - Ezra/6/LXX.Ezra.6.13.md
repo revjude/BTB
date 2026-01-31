@@ -7,28 +7,28 @@ Then Tatnai, governor on this side the river, Shetharboznai, and their companion
 In response, Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates diligently carried out what King Darius had decreed.<small><sub>**MT:**</sub></small>
 [[Ezra.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.12|<< Ezra 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.14|Ezra 6:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| Tatnai | <big><span class="asgreek">Θαθανναϊ</span></big> <sup><small><small>[[H8674]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief ruler | <big><span class="asgreek">έπαρχος</span></big> <sup><small><small>[[G7374]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river, | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shethar-boznai, | <big><span class="asgreek">Σαθραβουζάνης</span></big> <sup><small><small>[[H8370]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fellow-servants, | <big><span class="asgreek">σύνδουλοι</span></big> <sup><small><small>[[G4889]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| Darius | <big><span class="asgreek">Δαρείος</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| carefully. | <big><span class="asgreek">επιμελώς</span></big> <sup><small><small>[[G1960]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| Tatnai | **<big>[[H8674\|Θαθανναϊ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief ruler | **<big>[[G7374\|έπαρχος]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river, | **<big>[[G4215\|ποταμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shethar-boznai, | **<big>[[H8370\|Σαθραβουζάνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his fellow-servants, | **<big>[[G4889\|σύνδουλοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| Darius | **<big>[[H1868\|Δαρείος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| carefully. | **<big>[[G1960\|επιμελώς]]</big>** |
 [[Ezra.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.12|<< Ezra 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.14|Ezra 6:14 >>]]</td></tr></table>
 
 

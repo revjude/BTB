@@ -7,43 +7,43 @@ And if the plague be greenish or reddish in the garment, or in the skin, either 
 and if the mark in the fabric, leather, weave, knit, or leather article is green or red, then it is contaminated with mildew and must be shown to the priest.<small><sub>**MT:**</sub></small>
 [[Lev.13.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.48|<< Leviticus 13:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.50|Leviticus 13:50 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| greenish | <big><span class="asgreek">χλωρίζουσα</span></big> <sup><small><small>[[G9739]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| reddish | <big><span class="asgreek">πυρρίζουσα</span></big> <sup><small><small>[[G8997]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garment, | <big><span class="asgreek">ιματίω</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warp, | <big><span class="asgreek">στήμονι</span></big> <sup><small><small>[[G9175]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woof, | <big><span class="asgreek">κρόκη</span></big> <sup><small><small>[[G8097]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| item | <big><span class="asgreek">σκεύει</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of workmanship | <big><span class="asgreek">εργασίμω</span></big> <sup><small><small>[[G7496]]</small></small></sup> |
-| of skin, | <big><span class="asgreek">δέρματος</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| an infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of leprosy | <big><span class="asgreek">λέπρας</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall show \[it\] | <big><span class="asgreek">δείξει</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest. | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| should become | **<big>[[G1096\|γένηται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| infection | **<big>[[G0860\|αφή]]</big>** |
+| greenish | **<big>[[G9739\|χλωρίζουσα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| reddish | **<big>[[G8997\|πυρρίζουσα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| skin, | **<big>[[G1192\|δέρματι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| garment, | **<big>[[G2440\|ιματίω]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| warp, | **<big>[[G9175\|στήμονι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| woof, | **<big>[[G8097\|κρόκη]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| any | **<big>[[G3956\|παντί]]</big>** |
+| item | **<big>[[G4632\|σκεύει]]</big>** |
+| of workmanship | **<big>[[G7496\|εργασίμω]]</big>** |
+| of skin, | **<big>[[G1192\|δέρματος]]</big>** |
+| an infection | **<big>[[G0860\|αφή]]</big>** |
+| of leprosy | **<big>[[G3014\|λέπρας]]</big>** |
+| it is | **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall show \[it\] | **<big>[[G1166\|δείξει]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| priest. | **<big>[[G2409\|ιερεί]]</big>** |
 [[Lev.13.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.48|<< Leviticus 13:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.50|Leviticus 13:50 >>]]</td></tr></table>
 
 

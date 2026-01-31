@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָרוּץ‎</span></big> **ʻârûwts** <small>*(aw-roots')*</small> ==**dreadful**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>passive participle of <span class="ashebrew">‎עָרַץ‎</span><sup><small>[[H6206]]</small></sup></small>
+**<big><span class="ashebrew">‎עָרוּץ‎</span></big>** **ʻârûwts** <small>*(aw-roots')*</small> ==**dreadful**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>passive participle of **<big>[[H6206|‎עָרַץ‎]]</big>**</small>
 
 $\quad$ cliffs.
 - ***feared***, i.e. (concretely) ***a horrible place*** or ***chasm***

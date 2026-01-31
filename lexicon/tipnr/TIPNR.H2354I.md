@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Hur</span>, the ruler of half the district of Jerusalem, was involved in repairing a section of Jerusalem's wall during Nehemiah's time.
 - A man living at the time of Exile and Return, only mentioned at [[Neh.3.9|Neh.3.9]]; 
-- only referred to as Hur<[[H2354I]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>\); 
--  father of Rephaiah<[[H7509J]]>.
+- only referred to as Hur **<big>[[H2354|חוּר]]</big>**; 
+-  father of Rephaiah **<big>[[H7509|רְפָיָה]]</big>**.
 
 Hur is mentioned in [[Neh.3.9|Nehemiah 3:9]] as one of the individuals who participated in repairing the wall of Jerusalem during the time of Nehemiah. He is described as the ruler of half the district of Jerusalem, indicating that he held a position of authority and responsibility within the city. 
 
@@ -17,7 +17,7 @@ Hur's participation in the rebuilding project demonstrates his commitment to the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hur | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H2354I) <small>*Hebrew*</small> | 1x | [Neh.3.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=Neh.3.9) |
-All Strong's for **Hur**: \[[[H2354I]]\]
+| Hur | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H2354I) | 1x | [Neh.3.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=Neh.3.9) |
+All entries for **Hur**:  **<big>[[H2354|חוּר]]</big>**
 #### Related Profiles:
 - **[Rephaiah](H7509J)** (child)

@@ -7,24 +7,24 @@ Then sent Sanballat his servant unto me in like manner the fifth time with an op
 The fifth time, Sanballat sent me this same message by his young servant, who had in his hand an unsealed letter<small><sub>**MT:**</sub></small>
 [[Neh.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.4|<< Nehemiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.6|Nehemiah 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Sanballat | <big><span class="asgreek">Σαναβαλάτ</span></big> <sup><small><small>[[H5571]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth \[time\] | <big><span class="asgreek">πέμπτον</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| \[by\] his servant, | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a letter | <big><span class="asgreek">επιστολήν</span></big> <sup><small><small>[[G1992]]</small></small></sup> |
-| being open | <big><span class="asgreek">ανεωγμένην</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \[was\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his hand. | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| Sanballat | **<big>[[H5571\|Σαναβαλάτ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this word | **<big>[[G3056\|λόγον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| fifth \[time\] | **<big>[[G3991\|πέμπτον]]</big>** |
+| \[by\] his servant, | **<big>[[G3816\|παίδα]]</big>** **<big>[[G1438\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a letter | **<big>[[G1992\|επιστολήν]]</big>** |
+| being open | **<big>[[G0455\|ανεωγμένην]]</big>** |
+| \[was\] in | **<big>[[G1722\|εν]]</big>** |
+| his hand. | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Neh.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.4|<< Nehemiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.6|Nehemiah 6:6 >>]]</td></tr></table>
 
 

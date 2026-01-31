@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὑπο-λείπω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly (pass.) for <span class="ashebrew">יָתַר</span> <small><sup>[[H3498]]</sup></small> ni., <span class="ashebrew">שָׁאַר</span> <small><sup>[[H7604]]</sup></small> ni. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὑπο-λείπω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly (pass.) for **<big>[[H3498|יָתַר]]</big>** ni., **<big>[[H7604|שָׁאַר]]</big>** ni. ;\] </span> </span>
 <span class="asitalic">to leave remaining</span> (Hom., Thuc., al.): pass., of survivors, [[Rom.11.3|Ro 11:3]].†
 
 **Abbott-Smith References**

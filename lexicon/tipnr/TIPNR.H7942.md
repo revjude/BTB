@@ -1,8 +1,8 @@
 <small>*Shikkeron • Town on the border of Judah*</small>
 
 <span class='tipnrhighlight'>Shikkeron</span> was a town on the northern border of Judah's territory, near Mount Baalah \(Josh. 15:11\).
-- A location near Ekron<[[H6138]]> only mentioned at [[Josh.15.11|Jos.15.11]]; 
-- only referred to as Shikkeron<[[H7942]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Ekron **<big>[[H6138|עֶקְרוֹן]]</big>** only mentioned at [[Josh.15.11|Jos.15.11]]; 
+- only referred to as Shikkeron **<big>[[H7942|שִׁכְּרוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.77761410537458,34.85214575880509&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shikkeron is mentioned briefly in the description of the northern border of Juda
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shikkeron | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H7942) <small>*Hebrew*</small> | 1x | [Jos.15.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shikkeron\*\|reference=Jos.15.11) |
-All Strong's for **Shikkeron**: \[[[H7942]]\]
+| Shikkeron | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H7942) | 1x | [Jos.15.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shikkeron\*\|reference=Jos.15.11) |
+All entries for **Shikkeron**:  **<big>[[H7942|שִׁכְּרוֹן]]</big>**

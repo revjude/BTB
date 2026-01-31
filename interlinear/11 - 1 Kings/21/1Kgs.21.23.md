@@ -10,19 +10,19 @@ And the LORD also speaks concerning Jezebel: ‘The dogs will devour Jezebel by 
 > $\quad$ referenced by: [[Rev.2.20|Rev 2:20]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and also  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַ֨ם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Jezebel  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אִיזֶ֔בֶל </big></span><small><small><sup>[[H0348]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'i.Ze.vel <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has spoken  | <span class="ashebrew"><big>דִּבֶּ֥ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| di.Ber <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אמֹ֑ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Mor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the dogs  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כְּלָבִ֛ים </big></span><small><small><sup>[[H3611]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ke.la.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will devour  | <span class="ashebrew"><big>יֹאכְל֥וּ </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| yo.khe.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jezebel  | <span class="ashebrew"><big>אִיזֶ֖בֶל </big></span><small><small><sup>[[H0348]]</sup></small></small> &#8207;| 'i.Ze.vel <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] rampart of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֵ֥ל </big></span><small><small><sup>[[H2426]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Chel <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jezreel  | <span class="ashebrew"><big>יִזְרְעֶֽאל </big></span><small><small><sup>[[H3157H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yiz.re.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֨ם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Jezebel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0348\|אִיזֶ֔בֶל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.Ze.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spoken  |**<big>&#8207;[[H1696G\|דִּבֶּ֥ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֑ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the dogs  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3611\|כְּלָבִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.la.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will devour  |**<big>&#8207;[[H0398\|יֹאכְל֥וּ]]&#8207; </big>**| yo.khe.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jezebel  |**<big>&#8207;[[H0348\|אִיזֶ֖בֶל]]&#8207; </big>**| 'i.Ze.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] rampart of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2426\|חֵ֥ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Chel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jezreel  |**<big>&#8207;[[H3157H\|יִזְרְעֶֽאל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yiz.re.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.22|<< 1 Kings 21:22]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.24|1 Kings 21:24 >>]]</td></tr></table>
 
 

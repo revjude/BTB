@@ -7,36 +7,36 @@ I will mention the lovingkindnesses of the LORD, [and] the praises of the LORD, 
 I will make known the LORD’s loving devotion and His praiseworthy acts, because of all that the LORD has done for us—the many good things for the house of Israel according to His great compassion and loving devotion.<small><sub>**MT:**</sub></small>
 [[Isa.63.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.6|<< Isaiah 63:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.8|Isaiah 63:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I remembered | <big><span class="asgreek">εμνήσθην</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| virtues | <big><span class="asgreek">αρετάς</span></big> <sup><small><small>[[G0703]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he recompenses to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ανταποδίδωσι</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| judge | <big><span class="asgreek">κριτής</span></big> <sup><small><small>[[G2923]]</small></small></sup> |
-| a good | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| he brings upon | <big><span class="asgreek">επάγει</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mercy, | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| magnitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | **<big>[[G3588\|τον]]</big>** |
+| mercy | **<big>[[G1656\|έλεον]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| I remembered | **<big>[[G3403\|εμνήσθην]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| virtues | **<big>[[G0703\|αρετάς]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσιν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| he recompenses to us. | **<big>[[G1473\|ημίν]]</big>** **<big>[[G0467\|ανταποδίδωσι]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κύριος]]</big>** |
+| judge | **<big>[[G2923\|κριτής]]</big>** |
+| a good | **<big>[[G0018\|αγαθός]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| he brings upon | **<big>[[G1863\|επάγει]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mercy, | **<big>[[G1656\|έλεος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| magnitude | **<big>[[G4128\|πλήθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his righteousness. | **<big>[[G1343\|δικαιοσύνης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.63.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.6|<< Isaiah 63:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.8|Isaiah 63:8 >>]]</td></tr></table>
 
 

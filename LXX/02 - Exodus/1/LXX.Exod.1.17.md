@@ -7,27 +7,27 @@ But the midwives feared God, and did not as the king of Egypt commanded them, bu
 The midwives, however, feared God and did not do as the king of Egypt had instructed; they let the boys live.<small><sub>**MT:**</sub></small>
 [[Exod.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.16|<< Exodus 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.18|Exodus 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| feared | <big><span class="asgreek">εφοβήθησαν</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midwives | <big><span class="asgreek">μαίαι</span></big> <sup><small><small>[[G8228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| do | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| ordered | <big><span class="asgreek">συνέταξεν</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| them | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought forth alive | <big><span class="asgreek">εζωογόνουν</span></big> <sup><small><small>[[G2225]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| males. | <big><span class="asgreek">άρσενα</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
+| feared | **<big>[[G5399\|εφοβήθησαν]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| midwives | **<big>[[G8228\|μαίαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| do | **<big>[[G4160\|εποίησαν]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| ordered | **<big>[[G4929\|συνέταξεν]]</big>** |
+| them | **<big>[[G1473\|αυταίς]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they brought forth alive | **<big>[[G2225\|εζωογόνουν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| males. | **<big>[[G0730\|άρσενα]]</big>** |
 [[Exod.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.16|<< Exodus 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.18|Exodus 1:18 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּאַב‎</span></big> **kâʼab** <small>*(kaw-ab')*</small> ==**to pain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּאַב‎</span></big>** **kâʼab** <small>*(kaw-ab')*</small> ==**to pain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ grieving, mar, have pain, make sad (sore), (be) sorrowful.
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to cause pain, hurt, mar
 $\quad$ $\quad$ **1b2)** pain, mar (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀχρειόω</span><sup><small>[[G0889]]</small></sup> · <span class="asgreek">διαστρέφω</span><sup><small>[[G1294]]</small></sup> · <span class="asgreek">πόνος</span><sup><small>[[G4192]]</small></sup>
+<small>See Greek: </small>**<big>[[G0889|ἀχρειόω]]</big>** · **<big>[[G1294|διαστρέφω]]</big>** · **<big>[[G4192|πόνος]]</big>**

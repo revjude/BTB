@@ -7,37 +7,37 @@ Let us pass, I pray thee, through thy country: we will not pass through the fiel
 Please let us pass through your land. We will not go through any field or vineyard, or drink water from any well. We will stay on the King’s Highway; we will not turn to the right or to the left until we have passed through your territory.”<small><sub>**MT:**</sub></small>
 [[Num.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We shall go | <big><span class="asgreek">παρελευσόμεθα</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go | <big><span class="asgreek">διελευσόμεθα</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] fields, | <big><span class="asgreek">αγρών</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] vineyards, | <big><span class="asgreek">αμπελώνων</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall we drink | <big><span class="asgreek">πιόμεθα</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your cistern. | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[by the\] royal | <big><span class="asgreek">βασιλική</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
-| We shall go | <big><span class="asgreek">πορευσόμεθα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| We shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλινούμεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| to \[the\] right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| left, | <big><span class="asgreek">ευώνυμα</span></big> <sup><small><small>[[G2176]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| we should have gone by | <big><span class="asgreek">παρέλθωμεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your borders. | <big><span class="asgreek">όριά</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| We shall go | **<big>[[G3928\|παρελευσόμεθα]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your land. | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| We will not | **<big>[[G3756\|ου]]</big>** |
+| go | **<big>[[G1330\|διελευσόμεθα]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| \[the\] fields, | **<big>[[G0068\|αγρών]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| \[the\] vineyards, | **<big>[[G0290\|αμπελώνων]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall we drink | **<big>[[G4095\|πιόμεθα]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| your cistern. | **<big>[[G8154\|λάκκου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| \[by the\] royal | **<big>[[G0937\|βασιλική]]</big>** |
+| We shall go | **<big>[[G4198\|πορευσόμεθα]]</big>** |
+| We shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλινούμεν]]</big>** |
+| to \[the\] right | **<big>[[G1188\|δεξιά]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| left, | **<big>[[G2176\|ευώνυμα]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| we should have gone by | **<big>[[G3928\|παρέλθωμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your borders. | **<big>[[G3725\|όριά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Num.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 
 

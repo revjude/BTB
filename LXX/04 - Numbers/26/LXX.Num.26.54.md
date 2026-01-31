@@ -7,25 +7,25 @@ To many thou shalt give the more inheritance, and to few thou shalt give the les
 Increase the inheritance for a large tribe and decrease it for a small one; each tribe is to receive its inheritance according to the number of those registered.<small><sub>**MT:**</sub></small>
 [[Num.26.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.53|<< Numbers 26:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.55|Numbers 26:55 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| many | <big><span class="asgreek">πλείοσι</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| will be superabundant | <big><span class="asgreek">πλεονάσεις</span></big> <sup><small><small>[[G4121]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| less | <big><span class="asgreek">ελάττοσιν</span></big> <sup><small><small>[[G1640]]</small></small></sup> |
-| will be less | <big><span class="asgreek">ελαττώσεις</span></big> <sup><small><small>[[G7176]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| To each | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| they are numbered | <big><span class="asgreek">επεσκέπησαν</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| shall be given | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| To the | **<big>[[G3588\|τοις]]</big>** |
+| many | **<big>[[G4183\|πλείοσι]]</big>** |
+| will be superabundant | **<big>[[G4121\|πλεονάσεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| less | **<big>[[G1640\|ελάττοσιν]]</big>** |
+| will be less | **<big>[[G7176\|ελαττώσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| To each | **<big>[[G1538\|εκάστω]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| they are numbered | **<big>[[G1980\|επεσκέπησαν]]</big>** |
+| shall be given | **<big>[[G1325\|δοθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their inheritance | **<big>[[G2817\|κληρονομία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.26.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.53|<< Numbers 26:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.55|Numbers 26:55 >>]]</td></tr></table>
 
 

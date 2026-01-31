@@ -11,28 +11,28 @@ Then I told them, “If it seems right to you, give me my wages; but if not, kee
 > $\quad$ referenced by: [[Matt.26.15|Matt 26:15]] ☩ [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will say | <big><span class="asgreek">ερώ</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wage, | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| forbid it! | <big><span class="asgreek">απείπασθε</span></big> <sup><small><small>[[G0550]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they established | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wage -- | <big><span class="asgreek">μισθόν</span></big> <sup><small><small>[[G3408]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| pieces of silver. | <big><span class="asgreek">αργυρούς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will say | **<big>[[G2046\|ερώ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
+| give | **<big>[[G1325\|δότε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my wage, | **<big>[[G3408\|μισθόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| forbid it! | **<big>[[G0550\|απείπασθε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they established | **<big>[[G2476\|έστησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my wage -- | **<big>[[G3408\|μισθόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| pieces of silver. | **<big>[[G0693\|αργυρούς]]</big>** |
 [[Zech.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.11|<< Zechariah 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.13|Zechariah 11:13 >>]]</td></tr></table>
 
 

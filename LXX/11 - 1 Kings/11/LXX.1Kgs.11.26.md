@@ -7,23 +7,23 @@ And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, who
 Now Jeroboam son of Nebat was an Ephraimite from Zeredah whose mother was a widow named Zeruah. Jeroboam was a servant of Solomon, but he rebelled against the king,<small><sub>**MT:**</sub></small>
 [[1Kgs.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.25|<< 1 Kings 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.27|1 Kings 11:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nebat | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephrathite | <big><span class="asgreek">Εφραθί</span></big> <sup><small><small>[[H0673]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zereda, | <big><span class="asgreek">Σαριρά</span></big> <sup><small><small>[[H6868]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of a widow | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| \[was a\] servant | <big><span class="asgreek">δούλος</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Solomon. | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jeroboam | **<big>[[H3379\|Ιεροβοάμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Nebat | **<big>[[H5028\|Ναβάτ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Ephrathite | **<big>[[H0673\|Εφραθί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Zereda, | **<big>[[H6868\|Σαριρά]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| of a widow | **<big>[[G5503\|χήρας]]</big>** |
+| \[was a\] servant | **<big>[[G1401\|δούλος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Solomon. | **<big>[[G4672\|Σολομώντος]]</big>** |
 [[1Kgs.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.25|<< 1 Kings 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.27|1 Kings 11:27 >>]]</td></tr></table>
 
 

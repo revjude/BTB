@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂבָךְ‎</span></big> **sâbâk** <small>*(saw-bawk')*</small> ==**net**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂבָךְ‎</span></big>** **sâbâk** <small>*(saw-bawk')*</small> ==**net**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to intwine</small>
 
 $\quad$ net.

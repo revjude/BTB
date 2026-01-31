@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Mephaath</span>, a Levitical city in the territory of Reuben \([[Josh.13.18|Joshua 13:18]]; 21:37; [[1Chr.6.79|1 Chronicles 6:79]]\), later mentioned in a prophecy against Moab \([[Jer.48.21|Jeremiah 48:21]]\).
 - A location first mentioned at [[Josh.13.18|Jos.13.18]]; 
-- only referred to as Mephaath<[[H4158]]> \(<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יפ</span>ַ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Mephaath **<big>[[H4158|מוֹפַעַת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.850000,35.933333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mephaath was a city located in the territory of Reuben, east of the Dead Sea \([
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mephaath (=Qere. Ketiv= Mophaath) | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יפ</span>ַ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ת</span>](H4158) <small>*Hebrew*</small> | 4x | [[Jos.13.18] ... [Jer.48.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mephaath\*\|reference=Jos.13.18;Jos.21.37;1Ch.6.79;Jer.48.21) |
-All Strong's for **Mephaath**: \[[[H4158]]\]
+| Mephaath (=Qere. Ketiv= Mophaath) | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יפ</span>ַ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ת</span>](H4158) | 4x | [[Jos.13.18] ... [Jer.48.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mephaath\*\|reference=Jos.13.18;Jos.21.37;1Ch.6.79;Jer.48.21) |
+All entries for **Mephaath**:  **<big>[[H4158|מוֹפַעַת]]</big>**

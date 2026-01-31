@@ -7,20 +7,20 @@ Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not 
 Why has the wicked man renounced God? He says to himself, “You will never call me to account.”<small><sub>**MT:**</sub></small>
 [[Ps.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.12|<< Psalm 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.14|Psalm 10:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| what \[reason\] | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| to anger | <big><span class="asgreek">παρώργισεν</span></big> <sup><small><small>[[G3949]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| For he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| require \[an account\]. | <big><span class="asgreek">εκζητήσει</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| For | **<big>[[G1752\|ένεκεν]]</big>** |
+| what \[reason\] | **<big>[[G5100\|τίνος]]</big>** |
+| to anger | **<big>[[G3949\|παρώργισεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| impious | **<big>[[G0765\|ασεβής]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| For he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| He shall not | **<big>[[G3756\|ουκ]]</big>** |
+| require \[an account\]. | **<big>[[G1567\|εκζητήσει]]</big>** |
 [[Ps.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.12|<< Psalm 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.14|Psalm 10:14 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ A king that sitteth in the throne of judgment scattereth away all evil with his 
 A king who sits on a throne to judge sifts out all evil with his eyes.<small><sub>**MT:**</sub></small>
 [[Prov.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.7|<< Proverbs 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.9|Proverbs 20:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| a just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| shall sit | <big><span class="asgreek">καθίση</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a throne, | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| withstands | <big><span class="asgreek">εναντιούται</span></big> <sup><small><small>[[G7217]]</small></small></sup> |
-| before | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| a just | **<big>[[G1342\|δίκαιος]]</big>** |
+| shall sit | **<big>[[G2523\|καθίση]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a throne, | **<big>[[G2362\|θρόνου]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| withstands | **<big>[[G7217\|εναντιούται]]</big>** |
+| before | **<big>[[G1722\|εν]]</big>** |
+| his eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| evil | **<big>[[G4190\|πονηρόν]]</big>** |
 [[Prov.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.7|<< Proverbs 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.9|Proverbs 20:9 >>]]</td></tr></table>
 
 

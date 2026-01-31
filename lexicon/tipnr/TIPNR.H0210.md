@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Uphaz</span>, a place mentioned in the Bible, known for its high-quality gold \(Jer. 10:9; Dan. 10:5\).
 - A location first mentioned at [[Jer.10.9|Jer.10.9]]; 
-- only referred to as Uphaz<[[H0210]]> \(<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ז</span>\).
+- only referred to as Uphaz **<big>[[H0210|אוּפָז]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=22,77&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Uphaz is mentioned twice in the Bible as a place known for its fine gold. In [[J
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Uphaz | [<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ז</span>](H0210) <small>*Hebrew*</small> | 2x | [[Jer.10.9] & [Dan.10.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uphaz\*\|reference=Jer.10.9;Dan.10.5) |
-All Strong's for **Uphaz**: \[[[H0210]]\]
+| Uphaz | [<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ז</span>](H0210) | 2x | [[Jer.10.9] & [Dan.10.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uphaz\*\|reference=Jer.10.9;Dan.10.5) |
+All entries for **Uphaz**:  **<big>[[H0210|אוּפָז]]</big>**

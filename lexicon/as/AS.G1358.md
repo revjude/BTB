@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δι-ορύσσω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.24.16|Jb 24:16]], [[LXX.Exod.12.5|Ex 12:5]], [[LXX.Exod.12.7|7]], [[LXX.Exod.12.12|12]], (<span class="ashebrew">חתר</span> <small><sup>[[H2864]]</sup></small>) \* ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δι-ορύσσω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.24.16|Jb 24:16]], [[LXX.Exod.12.5|Ex 12:5]], [[LXX.Exod.12.7|7]], [[LXX.Exod.12.12|12]], (**<big>[[H2864|חתר]]</big>**) \* ;\]</span> </span>
 <span class="asitalic">to dig through</span>: c. acc, of house-breaking (as in <span class="asgreek">π.</span>; MM, <span class="asitalic">Exp.</span>, xi), [[Matt.24.43|Mt 24:43]], [[Luke.12.39|Lk 12:39]]; absol., [[Matt.6.19|Mt 6:19]], [[Matt.6.20|20]].†
 
 **Abbott-Smith References**

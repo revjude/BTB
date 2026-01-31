@@ -7,26 +7,26 @@ Yea, the darkness hideth not from thee; but the night shineth as the day: the da
 even the darkness is not dark to You, but the night shines like the day, for darkness is as light to You.<small><sub>**MT:**</sub></small>
 [[Ps.139.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.11|<< Psalm 139:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.13|Psalm 139:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be made darkness | <big><span class="asgreek">σκοτισθήσεται</span></big> <sup><small><small>[[G4654]]</small></small></sup> |
-| with | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| night | <big><span class="asgreek">νυξ</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| shall be given light; | <big><span class="asgreek">φωτισθήσεται</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its darkness, | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its light. | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| darkness | **<big>[[G4655\|σκότος]]</big>** |
+| will not | **<big>[[G3756\|ου]]</big>** |
+| be made darkness | **<big>[[G4654\|σκοτισθήσεται]]</big>** |
+| with | **<big>[[G0575\|από]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| night | **<big>[[G3571\|νυξ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| shall be given light; | **<big>[[G5461\|φωτισθήσεται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its darkness, | **<big>[[G4655\|σκότος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its light. | **<big>[[G5457\|φως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ps.139.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.11|<< Psalm 139:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.13|Psalm 139:13 >>]]</td></tr></table>
 
 

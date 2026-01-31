@@ -2,7 +2,7 @@
 
 Mount Gerizim, a mountain in Samaria, was designated as the site for pronouncing blessings and was the location of Jotham's parable to the men of Shechem.
 - A location first mentioned at [[Luke.8.37|Deu.11.29]]; 
-- only referred to as Gerizim\_Mount<[[H1630]]> \(<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Gerizim\_Mount **<big>[[H1630|גְּרִזִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.19956174365378,35.27285228460234&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Today, Mount Gerizim, along with Mount Ebal, continues to be an important religi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Gerizim | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1630) <small>*Hebrew*</small> | 4x | [[Deu.11.29] ... [Jdg.9.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gerizim\*\|reference=Deu.11.29;Deu.27.12;Jos.8.33;Jdg.9.7) |
-All Strong's for **Gerizim_Mount**: \[[[H1630]]\]
+| (Mount )Gerizim | [<span class='tipnrLangHebrew'>ג</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>ים</span>](H1630) | 4x | [[Deu.11.29] ... [Jdg.9.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gerizim\*\|reference=Deu.11.29;Deu.27.12;Jos.8.33;Jdg.9.7) |
+All entries for **Gerizim Mount**:  **<big>[[H1630|גְּרִזִים]]</big>**

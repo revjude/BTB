@@ -1,3 +1,1 @@
-<span class="asaramaic">‎תְּלָתִין‎</span> <small>***(te.la.tin)***</small> ==**thirty**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
-Aramaic of: <small>[[H7970]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7970|שְׁלוֹשִׁים]]</big>**</small>

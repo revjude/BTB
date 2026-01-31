@@ -7,26 +7,26 @@ Let the stars of the twilight thereof be dark; let it look for light, but [have]
 May its morning stars grow dark; may it wait in vain for daylight; may it not see the breaking of dawn.<small><sub>**MT:**</sub></small>
 [[Job.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.8|<< Job 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.10|Job 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be enveloped in darkness | <big><span class="asgreek">σκοτωθείη</span></big> <sup><small><small>[[G4656]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">άστρα</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of that night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνης</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| remain, | <big><span class="asgreek">υπομείναι</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| illumination | <big><span class="asgreek">φωτισμόν</span></big> <sup><small><small>[[G5462]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| come | <big><span class="asgreek">έλθοι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \[be\] seen | <big><span class="asgreek">ίδοι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| morning star | <big><span class="asgreek">Εωσφόρον</span></big> <sup><small><small>[[G7596]]</small></small></sup> |
-| \[the\] arising | <big><span class="asgreek">ανατέλλοντα</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
+| be enveloped in darkness | **<big>[[G4656\|σκοτωθείη]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| stars | **<big>[[G0798\|άστρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of that night | **<big>[[G3571\|νυκτός]]</big>** **<big>[[G1565\|εκείνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| remain, | **<big>[[G5278\|υπομείναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| illumination | **<big>[[G5462\|φωτισμόν]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| come | **<big>[[G2064\|έλθοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| \[be\] seen | **<big>[[G1492\|ίδοι]]</big>** |
+| morning star | **<big>[[G7596\|Εωσφόρον]]</big>** |
+| \[the\] arising | **<big>[[G0393\|ανατέλλοντα]]</big>** |
 [[Job.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.8|<< Job 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.10|Job 3:10 >>]]</td></tr></table>
 
 

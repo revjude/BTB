@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁפֶר‎</span></big> **shepher** <small>*(sheh'-fer)*</small> ==**beauty**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפַר‎</span><sup><small>[[H8231]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁפֶר‎</span></big>** **shepher** <small>*(sheh'-fer)*</small> ==**beauty**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8231|‎שָׁפַר‎]]</big>**</small>
 
 $\quad$ [idiom] goodly.
 - ***beauty***

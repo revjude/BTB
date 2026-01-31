@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צוּץ‎</span></big> **tsûwts** <small>*(tsoots)*</small> ==**to blossom**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צוּץ‎</span></big>** **tsûwts** <small>*(tsoots)*</small> ==**to blossom**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bloom, blossom, flourish, shew self.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** to shine, gleam
 $\quad$ **1b)** (Hiphil) to blossom, put forth blossoms, produce blossoms
 **2)** (Hiphil) to gaze, peep, glance, make the eyes sparkle
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βλαστάνω</span><sup><small>[[G0985]]</small></sup>
+<small>See Greek: </small>**<big>[[G0985|βλαστάνω]]</big>**

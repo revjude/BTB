@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁמָּה‎</span></big> **Shammâh** <small>*(sham-maw')*</small> ==**Shammah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שַׁמָּה‎</span><sup><small>[[H8047]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁמָּה‎</span></big>** **Shammâh** <small>*(sham-maw')*</small> ==**Shammah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8047|‎שַׁמָּה‎]]</big>**</small>
 
 $\quad$ Shammah.
 - § Shammah = *"astonishment"*

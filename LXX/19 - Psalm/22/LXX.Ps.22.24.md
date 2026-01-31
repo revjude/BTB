@@ -11,31 +11,31 @@ For He has not despised or detested the torment of the afflicted. He has not hid
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| treat with contempt, | <big><span class="asgreek">εξουδένωσεν</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| loath | <big><span class="asgreek">προσώχθισε</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| supplication | <big><span class="asgreek">δεήσει</span></big> <sup><small><small>[[G1162]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poor, | <big><span class="asgreek">πτωχού</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| turned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my crying out | <big><span class="asgreek">κεκραγέναι</span></big> <sup><small><small>[[G2896]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he heard | <big><span class="asgreek">εισήκουσέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| treat with contempt, | **<big>[[G1847\|εξουδένωσεν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| loath | **<big>[[G4360\|προσώχθισε]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| supplication | **<big>[[G1162\|δεήσει]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| poor, | **<big>[[G4434\|πτωχού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| turned | **<big>[[G0654\|απέστρεψε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my crying out | **<big>[[G2896\|κεκραγέναι]]</big>** **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| he heard | **<big>[[G1522\|εισήκουσέ]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
 [[Ps.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.23|<< Psalm 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.25|Psalm 22:25 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֵּעַ‎</span></big> **dêaʻ** <small>*(day'-ah)*</small> ==**knowledge**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup></small>
+**<big><span class="ashebrew">‎דֵּעַ‎</span></big>** **dêaʻ** <small>*(day'-ah)*</small> ==**knowledge**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3045|‎יָדַע‎]]</big>**</small>
 
 $\quad$ knowledge, opinion.
 - ***knowledge***

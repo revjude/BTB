@@ -7,31 +7,31 @@ And I will encamp about mine house because of the army, because of him that pass
 But I will camp around My house because of an army, because of those who march to and fro, and never again will an oppressor overrun My people, for now I keep watch with My own eyes.<small><sub>**MT:**</sub></small>
 [[Zech.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.7|<< Zechariah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.9|Zechariah 9:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will stand | <big><span class="asgreek">υποστήσομαι</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on a height, | <big><span class="asgreek">ανάστημα</span></big> <sup><small><small>[[G6312]]</small></small></sup> |
-| \[so as to\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| travel through | <big><span class="asgreek">διαπορεύεσθαι</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| return. | <big><span class="asgreek">ανακάμπτειν</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should there come | <big><span class="asgreek">επέλθη</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| ones launching an expedition, | <big><span class="asgreek">εξελαύνων</span></big> <sup><small><small>[[G7309]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| I have seen | <big><span class="asgreek">εώρακα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my eyes. | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will stand | **<big>[[G9609\|υποστήσομαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my house | **<big>[[G3624\|οίκω]]</big>** **<big>[[G1473\|μου]]</big>** |
+| on a height, | **<big>[[G6312\|ανάστημα]]</big>** |
+| \[so as to\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| travel through | **<big>[[G1279\|διαπορεύεσθαι]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| return. | **<big>[[G0344\|ανακάμπτειν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should there come | **<big>[[G1904\|επέλθη]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| any longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| ones launching an expedition, | **<big>[[G7309\|εξελαύνων]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| I have seen | **<big>[[G3708\|εώρακα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| my eyes. | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Zech.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.7|<< Zechariah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.9|Zechariah 9:9 >>]]</td></tr></table>
 
 

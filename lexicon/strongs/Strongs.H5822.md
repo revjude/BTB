@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇזְנִיָּה‎</span></big> **ʻoznîyâh** <small>*(oz-nee-yaw')*</small> ==**vulture**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>probably feminine of <span class="ashebrew">‎עֹז‎</span><sup><small>[[H5797]]</small></sup></small>
+**<big><span class="ashebrew">‎עׇזְנִיָּה‎</span></big>** **ʻoznîyâh** <small>*(oz-nee-yaw')*</small> ==**vulture**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>probably feminine of **<big>[[H5797|‎עֹז‎]]</big>**</small>
 
 $\quad$ ospray.
 - probably ***the sea-eagle*** (from its strength)

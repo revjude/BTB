@@ -10,30 +10,30 @@ For this is what the Lord GOD says: ‘How much worse will it be when I send aga
 > $\quad$ referenced by: [[Rev.6.8|Rev 6:8]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּי֩ </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כֹ֨ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| khoh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>אָמַ֜ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'a.Mar <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהֹוִ֗ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| indeed?  | <span class="ashebrew"><big>אַ֣ף </big></span><small><small><sup>[[H0637]]</sup></small></small> &#8207;| 'af <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] four  | <span class="ashebrew"><big>אַרְבַּ֣עַת </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.Ba.'at <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgments my  | <span class="ashebrew"><big>שְׁפָטַ֣ </big></span><small><small><sup>[[H8201]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| she.fa.Ta <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> harmful  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רָעִ֡ים </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ra.'Im <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sword  | <span class="ashebrew"><big>חֶ֠רֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> &#8207;| Che.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and famine  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רָעָ֞ב </big></span><small><small><sup>[[H7458]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ra.'Av <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and animal[s]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַיָּ֤ה </big></span><small><small><sup>[[H2416C]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> chai.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wild  | <span class="ashebrew"><big>רָעָה֙ </big></span><small><small><sup>[[H7451A]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and pestilence  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דֶ֔בֶר </big></span><small><small><sup>[[H1698]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> De.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will send  | <span class="ashebrew"><big>שִׁלַּ֖חְתִּי </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| shi.Lach.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to cut off  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַכְרִ֥ית </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hakh.Rit <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from it  | <span class="ashebrew"><big>מִמֶּ֖ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humankind  | <span class="ashebrew"><big>אָדָ֥ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and animal[s]  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְהֵמָֽה </big></span><small><small><sup>[[H0929]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.he.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹ֨ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|אָמַ֜ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| indeed?  |**<big>&#8207;[[H0637\|אַ֣ף]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] four  |**<big>&#8207;[[H0702\|אַרְבַּ֣עַת]]&#8207; </big>**| 'ar.Ba.'at<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgments my  |**<big>&#8207;[[H8201\|שְׁפָטַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| she.fa.Ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> harmful  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451A\|רָעִ֡ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sword  |**<big>&#8207;[[H2719\|חֶ֠רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and famine  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7458\|רָעָ֞ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and animal[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2416C\|חַיָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wild  |**<big>&#8207;[[H7451A\|רָעָה֙]]&#8207; </big>**| ra.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pestilence  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1698\|דֶ֔בֶר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will send  |**<big>&#8207;[[H7971G\|שִׁלַּ֖חְתִּי]]&#8207; </big>**| shi.Lach.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to cut off  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3772I\|הַכְרִ֥ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hakh.Rit<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  |**<big>&#8207;[[H4480A\|מִמֶּ֖]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  |**<big>&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and animal[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0929\|בְהֵמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יֵשׁוּעַ‎</span></big> **Yêshûwaʻ** <small>*(yay-shoo'-ah)*</small> ==**Jeshua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יֵשׁוּעַ‎</span><sup><small>[[H3442]]</small></sup></small>
+**<big><span class="asaramaic">‎יֵשׁוּעַ‎</span></big>** **Yêshûwaʻ** <small>*(yay-shoo'-ah)*</small> ==**Jeshua**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3442|‎יֵשׁוּעַ‎]]</big>**</small>
 
 $\quad$ Jeshua.
 - § Jeshua = *"he is saved"*

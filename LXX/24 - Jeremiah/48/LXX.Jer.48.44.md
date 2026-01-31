@@ -7,39 +7,39 @@ He that fleeth from the fear shall fall into the pit; and he that getteth up out
 “Whoever flees the panic will fall into the pit, and whoever climbs from the pit will be caught in the snare. For I will bring upon Moab the year of their punishment,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.48.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.43|<< Jeremiah 48:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.45|Jeremiah 48:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one fleeing | <big><span class="asgreek">φεύγων</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of fear | <big><span class="asgreek">φόβου</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">εμπεσείται</span></big> <sup><small><small>[[G1706]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cesspool; | <big><span class="asgreek">βόθυνον</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβαίνων</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cesspool | <big><span class="asgreek">βοθύνου</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be seized | <big><span class="asgreek">συλληφθήσεται</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| snare. | <big><span class="asgreek">παγίδι</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I shall bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] year | <big><span class="asgreek">ενιαυτώ</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| of her visitation, | <big><span class="asgreek">επισκέψεως</span></big> <sup><small><small>[[G7448]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| one fleeing | **<big>[[G5343\|φεύγων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of fear | **<big>[[G5401\|φόβου]]</big>** |
+| shall fall | **<big>[[G1706\|εμπεσείται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| cesspool; | **<big>[[G0999\|βόθυνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| ascending | **<big>[[G0305\|αναβαίνων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| cesspool | **<big>[[G0999\|βοθύνου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| shall be seized | **<big>[[G4815\|συλληφθήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| snare. | **<big>[[G3803\|παγίδι]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I shall bring | **<big>[[G1863\|επάξω]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] year | **<big>[[G1763\|ενιαυτώ]]</big>** |
+| of her visitation, | **<big>[[G7448\|επισκέψεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.48.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.43|<< Jeremiah 48:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.45|Jeremiah 48:45 >>]]</td></tr></table>
 
 

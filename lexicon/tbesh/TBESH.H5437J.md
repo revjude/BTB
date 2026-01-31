@@ -1,4 +1,3 @@
-<span class="ashebrew">‎סָבַב‎</span> <small>***(sa.vav)***</small> ==**to turn: repell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H5437G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H5437G|סָבַב]]</big>**</small> 
 
 - : repell/turn\_away

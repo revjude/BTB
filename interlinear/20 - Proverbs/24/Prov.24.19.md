@@ -6,14 +6,14 @@ Do not fret over evildoers, and do not be envious of the wicked.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.18|<< Proverbs 24:18]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.20|Proverbs 24:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you fret yourself  | <span class="ashebrew"><big>תִּתְחַ֥ר </big></span><small><small><sup>[[H2734]]</sup></small></small> &#8207;| tit.Char <small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> evil-doers  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מְּרֵעִ֑ים </big></span><small><small><sup>[[H7489A]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> me.re.'Im <small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be jealous  | <span class="ashebrew"><big>תְּ֝קַנֵּ֗א </big></span><small><small><sup>[[H7065]]</sup></small></small> &#8207;| te.ka.Ne' <small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<the> wicked [people]  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רְשָׁעִֽים </big></span><small><small><sup>[[H7563]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> re.sha.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you fret yourself  |**<big>&#8207;[[H2734\|תִּתְחַ֥ר]]&#8207; </big>**| tit.Char<small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> evil-doers  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7489A\|מְּרֵעִ֑ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.re.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be jealous  |**<big>&#8207;[[H7065\|תְּ֝קַנֵּ֗א]]&#8207; </big>**| te.ka.Ne'<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> wicked [people]  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H7563\|רְשָׁעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.18|<< Proverbs 24:18]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.20|Proverbs 24:20 >>]]</td></tr></table>
 
 

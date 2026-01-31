@@ -7,20 +7,20 @@ For in much wisdom [is] much grief: and he that increaseth knowledge increaseth 
 For with much wisdom comes much sorrow, and as knowledge grows, grief increases.<small><sub>**MT:**</sub></small>
 [[Eccl.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.17|<< Ecclesiastes 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.1|Ecclesiastes 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| abundance | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of wisdom | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| \[is\] abundance | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of knowledge; | <big><span class="asgreek">γνώσεως</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| adding | <big><span class="asgreek">προστιθείς</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| knowledge | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
-| shall add | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| pain. | <big><span class="asgreek">άλγημα</span></big> <sup><small><small>[[G6218]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| abundance | **<big>[[G4128\|πλήθει]]</big>** |
+| of wisdom | **<big>[[G4678\|σοφίας]]</big>** |
+| \[is\] abundance | **<big>[[G4128\|πλήθος]]</big>** |
+| of knowledge; | **<big>[[G1108\|γνώσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| adding | **<big>[[G4369\|προστιθείς]]</big>** |
+| knowledge | **<big>[[G1108\|γνώσιν]]</big>** |
+| shall add | **<big>[[G4369\|προσθήσει]]</big>** |
+| pain. | **<big>[[G6218\|άλγημα]]</big>** |
 [[Eccl.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.17|<< Ecclesiastes 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.1|Ecclesiastes 2:1 >>]]</td></tr></table>
 
 

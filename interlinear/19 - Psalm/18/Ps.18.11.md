@@ -6,17 +6,17 @@ He made darkness His hiding place, and storm clouds a canopy around Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.10|<< Psalms 18:10]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.12|Psalms 18:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he made  | <span class="ashebrew"><big>יָ֤שֶׁת </big></span><small><small><sup>[[H7896G]]</sup></small></small> &#8207;| Ya.shet <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness  | <span class="ashebrew"><big>חֹ֨שֶׁךְ </big></span><small><small><sup>[[H2822]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Cho.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covering his  | <span class="ashebrew"><big>סִתְר֗ </big></span><small><small><sup>[[H5643A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| sit.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| around him  | <span class="ashebrew"><big>סְבִֽיבוֹתָ֥י </big></span><small><small><sup>[[H5439G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| se.vi.vo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| canopy his  | <span class="ashebrew"><big>סֻכָּת֑ </big></span><small><small><sup>[[H5521]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| su.ka.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| darkness of  | <span class="ashebrew"><big>חֶשְׁכַת </big></span><small><small><sup>[[H2824]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| chesh.khat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| waters  | <span class="ashebrew"><big>מַ֝֗יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dark clouds of  | <span class="ashebrew"><big>עָבֵ֥י </big></span><small><small><sup>[[H5645]]</sup></small></small> &#8207;| 'a.Vei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| clouds  | <span class="ashebrew"><big>שְׁחָקִֽים </big></span><small><small><sup>[[H7834]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.cha.Kim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H7896G\|יָ֤שֶׁת]]&#8207; </big>**| Ya.shet<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  |**<big>&#8207;[[H2822\|חֹ֨שֶׁךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covering his  |**<big>&#8207;[[H5643A\|סִתְר֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| sit.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| around him  |**<big>&#8207;[[H5439G\|סְבִֽיבוֹתָ֥י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| se.vi.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| canopy his  |**<big>&#8207;[[H5521\|סֻכָּת֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| su.ka.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness of  |**<big>&#8207;[[H2824\|חֶשְׁכַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chesh.khat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waters  |**<big>&#8207;[[H4325G\|מַ֝֗יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dark clouds of  |**<big>&#8207;[[H5645\|עָבֵ֥י]]&#8207; </big>**| 'a.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clouds  |**<big>&#8207;[[H7834\|שְׁחָקִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.cha.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.10|<< Psalms 18:10]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.12|Psalms 18:12 >>]]</td></tr></table>
 
 

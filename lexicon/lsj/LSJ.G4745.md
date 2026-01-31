@@ -1,4 +1,4 @@
-part of: <small>[[G4672H]]</small> 
+part of: <small>**<big>[[G4672H|Σολομών]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==στοά==</span></b>, <span class='asgreek'>ᾶς</span>, <span class='asgreek'>ἡ</span>, 

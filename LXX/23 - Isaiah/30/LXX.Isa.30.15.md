@@ -7,38 +7,38 @@ For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall
 For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”<small><sub>**MT:**</sub></small>
 [[Isa.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.14|<< Isaiah 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.16|Isaiah 30:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy one | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| turning | <big><span class="asgreek">αποστραφείς</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you should moan, | <big><span class="asgreek">στενάξης</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| shall you be delivered. | <big><span class="asgreek">σωθήση</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall know | <big><span class="asgreek">γνώσεις</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| you were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| you relied | <big><span class="asgreek">επεποίθεις</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vanities; | <big><span class="asgreek">ματαίοις</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| vain | <big><span class="asgreek">ματαία</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| want | <big><span class="asgreek">ηβούλεσθε</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| to hear. | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord, | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| holy one | **<big>[[G0039\|άγιος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| turning | **<big>[[G0654\|αποστραφείς]]</big>** |
+| you should moan, | **<big>[[G4727\|στενάξης]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| shall you be delivered. | **<big>[[G4982\|σωθήση]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall know | **<big>[[G1097\|γνώσεις]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| you were | **<big>[[G1510\|ήσθα]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| you relied | **<big>[[G3982\|επεποίθεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| vanities; | **<big>[[G3152\|ματαίοις]]</big>** |
+| vain | **<big>[[G3152\|ματαία]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| want | **<big>[[G1014\|ηβούλεσθε]]</big>** |
+| to hear. | **<big>[[G0191\|ακούειν]]</big>** |
 [[Isa.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.14|<< Isaiah 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.16|Isaiah 30:16 >>]]</td></tr></table>
 
 

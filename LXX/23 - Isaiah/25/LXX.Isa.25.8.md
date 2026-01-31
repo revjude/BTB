@@ -11,36 +11,36 @@ He will swallow up death forever. The Lord GOD will wipe away the tears from eve
 > $\quad$ referenced by: [[1Cor.15.54|1Cor 15:54]] ☩ [[Rev.7.17|Rev 7:17]] ☩ [[Rev.21.4|Rev 21:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| swallowed | <big><span class="asgreek">κατέπιεν</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| prevailing; | <big><span class="asgreek">ισχύσας</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
-| removed | <big><span class="asgreek">αφείλε</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tear | <big><span class="asgreek">δάκρυον</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| face; | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scorn | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| he removed | <big><span class="asgreek">αφείλεν</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| spoke. | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| swallowed | **<big>[[G2666\|κατέπιεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Death | **<big>[[G2288\|θάνατος]]</big>** |
+| prevailing; | **<big>[[G2480\|ισχύσας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| again | **<big>[[G3825\|πάλιν]]</big>** |
+| removed | **<big>[[G0851\|αφείλε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| tear | **<big>[[G1144\|δάκρυον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| face; | **<big>[[G4383\|προσώπου]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scorn | **<big>[[G3681\|όνειδος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| he removed | **<big>[[G0851\|αφείλεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
+| for the | **<big>[[G3588\|το]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| spoke. | **<big>[[G2980\|ελάλησε]]</big>** |
 [[Isa.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
 
 

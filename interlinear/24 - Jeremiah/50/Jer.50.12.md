@@ -6,19 +6,19 @@ your mother will be greatly ashamed; she who bore you will be disgraced. Behold,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| she will be ashamed  | <span class="ashebrew"><big>בּ֤וֹשָׁה </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| Bo.o.shah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mother your  | <span class="ashebrew"><big>אִמְּ </big></span><small><small><sup>[[H0517]]</sup></small></small> <span class="ashebrew"><big>כֶם֙ </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| 'i.me. <small><sup>[[HNcfsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  | <span class="ashebrew"><big>מְאֹ֔ד </big></span><small><small><sup>[[H3966]]</sup></small></small> &#8207;| me.'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she will be abashed  | <span class="ashebrew"><big>חָפְרָ֖ה </big></span><small><small><sup>[[H2659]]</sup></small></small> &#8207;| cha.fe.Rah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the one who] gave birth you  | <span class="ashebrew"><big>יֽוֹלַדְתְּ </big></span><small><small><sup>[[H3205]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| yo.lad.te. <small><sup>[[HVqrfsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּה֙ </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] last of  | <span class="ashebrew"><big>אַחֲרִ֣ית </big></span><small><small><sup>[[H0319]]</sup></small></small> &#8207;| 'a.cha.Rit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nations  | <span class="ashebrew"><big>גּוֹיִ֔ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wilderness  | <span class="ashebrew"><big>מִדְבָּ֖ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a desert  | <span class="ashebrew"><big>צִיָּ֥ה </big></span><small><small><sup>[[H6723]]</sup></small></small> &#8207;| tzi.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a desert plain  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲרָבָֽה </big></span><small><small><sup>[[H6160L]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.ra.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be ashamed  |**<big>&#8207;[[H0954\|בּ֤וֹשָׁה]]&#8207; </big>**| Bo.o.shah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother your  |**<big>&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'i.me.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֔ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be abashed  |**<big>&#8207;[[H2659\|חָפְרָ֖ה]]&#8207; </big>**| cha.fe.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the one who] gave birth you  |**<big>&#8207;[[H3205\|יֽוֹלַדְתְּ]]&#8207;&#8207;[[H9036\|כֶ֑ם]]&#8207; </big>**| yo.lad.te.<small><sup>[[HVqrfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] last of  |**<big>&#8207;[[H0319\|אַחֲרִ֣ית]]&#8207; </big>**| 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֔ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wilderness  |**<big>&#8207;[[H4057B\|מִדְבָּ֖ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a desert  |**<big>&#8207;[[H6723\|צִיָּ֥ה]]&#8207; </big>**| tzi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a desert plain  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6160L\|עֲרָבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ra.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
 
 

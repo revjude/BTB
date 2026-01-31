@@ -1,5 +1,4 @@
-<span class="ashebrew">‎אוּרִי‎</span> <small>***(u.ri)***</small> ==**Uri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[Exod.31.2|Exo.31.2]]
--  son of: Hur ([[H2354]])
--  brother of: Shobal ([[H7732H]]), Salma ([[H8007H]]), Hareph ([[H2780]]), Jezreel ([[H3157J]]), Ishma ([[H3457]]), Idbash ([[H3031]]), Hazzelelponi ([[H6753]]), Penuel ([[H6439H]]) and Ezer ([[H5829]])
--  father of: Bezalel ([[H1212]])
+-  son of: Hur (**<big>[[H2354|חוּר]]</big>**)
+-  brother of: Shobal (**<big>[[H7732H|שׁוֹבָל]]</big>**), Salma (**<big>[[H8007H|שַׂלְמָא]]</big>**), Hareph (**<big>[[H2780|חָרֵף]]</big>**), Jezreel (**<big>[[H3157J|יִזְרְעֵאל]]</big>**), Ishma (**<big>[[H3457|יִשְׁמָא]]</big>**), Idbash (**<big>[[H3031|יִדְבָּשׁ]]</big>**), Hazzelelponi (**<big>[[H6753|צְלֶלְפּוֹנִי]]</big>**), Penuel (**<big>[[H6439H|פְּנוּאֵל]]</big>**) and Ezer (**<big>[[H5829|עֵזֶר]]</big>**)
+-  father of: Bezalel (**<big>[[H1212|בְּצַלְאֵל]]</big>**)

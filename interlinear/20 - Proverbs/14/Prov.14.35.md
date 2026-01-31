@@ -6,15 +6,15 @@ A king delights in a wise servant, but his anger falls on the shameful.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.34|<< Proverbs 14:34]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.1|Proverbs 15:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] favor of  | <span class="ashebrew"><big>רְֽצוֹן </big></span><small><small><sup>[[H7522]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| re.tzon- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a king  | <span class="ashebrew"><big>מֶ֭לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to a servant  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֶ֣בֶד </big></span><small><small><sup>[[H5650]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'E.ved <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] acts prudently  | <span class="ashebrew"><big>מַשְׂכִּ֑יל </big></span><small><small><sup>[[H7919A]]</sup></small></small> &#8207;| mas.Kil <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and fury his  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֶבְרָת֗ </big></span><small><small><sup>[[H5678]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ev.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it belongs  | <span class="ashebrew"><big>תִּהְיֶ֥ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] acts shamefully  | <span class="ashebrew"><big>מֵבִֽישׁ </big></span><small><small><sup>[[H0954]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.Vish <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] favor of  |**<big>&#8207;[[H7522\|רְֽצוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.tzon-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a king  |**<big>&#8207;[[H4428G\|מֶ֭לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to a servant  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5650\|עֶ֣בֶד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] acts prudently  |**<big>&#8207;[[H7919A\|מַשְׂכִּ֑יל]]&#8207; </big>**| mas.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fury his  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H5678\|עֶבְרָת֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ev.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it belongs  |**<big>&#8207;[[H1961\|תִּהְיֶ֥ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] acts shamefully  |**<big>&#8207;[[H0954\|מֵבִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.Vish<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.34|<< Proverbs 14:34]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.1|Proverbs 15:1 >>]]</td></tr></table>
 
 

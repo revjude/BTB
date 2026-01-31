@@ -7,23 +7,23 @@ God [is] the LORD, which hath shewed us light: bind the sacrifice with cords, [e
 The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar.<small><sub>**MT:**</sub></small>
 [[Ps.118.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.26|<< Psalm 118:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.28|Psalm 118:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shined upon | <big><span class="asgreek">επέφανεν</span></big> <sup><small><small>[[G2014]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Stand together | <big><span class="asgreek">συστήσασθε</span></big> <sup><small><small>[[G4921]]</small></small></sup> |
-| for a holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making dense \[the victims\] | <big><span class="asgreek">πυκάζουσιν</span></big> <sup><small><small>[[G8987]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κεράτων</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[is the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shined upon | **<big>[[G2014\|επέφανεν]]</big>** |
+| us. | **<big>[[G1473\|ημίν]]</big>** |
+| Stand together | **<big>[[G4921\|συστήσασθε]]</big>** |
+| for a holiday | **<big>[[G1859\|εορτήν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| making dense \[the victims\] | **<big>[[G8987\|πυκάζουσιν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| horns | **<big>[[G2768\|κεράτων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
 [[Ps.118.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.26|<< Psalm 118:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.28|Psalm 118:28 >>]]</td></tr></table>
 
 

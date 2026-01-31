@@ -7,23 +7,23 @@ And these [are] the names of the men that shall stand with you: of [the tribe of
 These are the names of the men who are to assist you: From the tribe of Reuben, Elizur son of Shedeur;<small><sub>**MT:**</sub></small>
 [[Num.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall stand | <big><span class="asgreek">παραστήσονται</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Reuben -- | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| Elizur | <big><span class="asgreek">Ελισούρ</span></big> <sup><small><small>[[H0468]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shedeur. | <big><span class="asgreek">Σεδειούρ</span></big> <sup><small><small>[[H7707]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| who | **<big>[[G3748\|οίτινες]]</big>** |
+| shall stand | **<big>[[G3936\|παραστήσονται]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| of Reuben -- | **<big>[[G4502\|Ρουβήν]]</big>** |
+| Elizur | **<big>[[H0468\|Ελισούρ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Shedeur. | **<big>[[H7707\|Σεδειούρ]]</big>** |
 [[Num.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 
 

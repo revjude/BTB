@@ -7,16 +7,16 @@ Of the Amramites, [and] the Izharites, the Hebronites, [and] the Uzzielites:
 From the Amramites, the Izharites, the Hebronites, and the Uzzielites:<small><sub>**MT:**</sub></small>
 [[1Chr.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.22|<< 1 Chronicles 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.24|1 Chronicles 26:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[To\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amram, | <big><span class="asgreek">Αμράν</span></big> <sup><small><small>[[H6019]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Izhar, | <big><span class="asgreek">Ισαά</span></big> <sup><small><small>[[H3324]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hebron, | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Uzziel. | <big><span class="asgreek">Οζιήλ</span></big> <sup><small><small>[[H5816]]</small></small></sup> |
+| \[To\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Amram, | **<big>[[H6019\|Αμράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Izhar, | **<big>[[H3324\|Ισαά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hebron, | **<big>[[H2275b\|Χεβρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Uzziel. | **<big>[[H5816\|Οζιήλ]]</big>** |
 [[1Chr.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.22|<< 1 Chronicles 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.24|1 Chronicles 26:24 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ And they shall bear the punishment of their iniquity: the punishment of the prop
 They will bear their punishment—the punishment of the inquirer will be the same as that of the prophet—<small><sub>**MT:**</sub></small>
 [[Ezek.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.9|<< Ezekiel 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.11|Ezekiel 14:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bear | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their iniquity | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offence | <big><span class="asgreek">αδίκημα</span></big> <sup><small><small>[[G0092]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| asking; | <big><span class="asgreek">επερωτώντος</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offence | <big><span class="asgreek">αδίκημα</span></big> <sup><small><small>[[G0092]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| it will be; | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall bear | **<big>[[G2983\|λήψονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their iniquity | **<big>[[G0093\|αδικίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| offence | **<big>[[G0092\|αδίκημα]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| asking; | **<big>[[G1905\|επερωτώντος]]</big>** |
+| likewise | **<big>[[G5615\|ωσαύτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| offence | **<big>[[G0092\|αδίκημα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| prophet | **<big>[[G4396\|προφήτου]]</big>** |
+| it will be; | **<big>[[G1510\|έσται]]</big>** |
 [[Ezek.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.9|<< Ezekiel 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.11|Ezekiel 14:11 >>]]</td></tr></table>
 
 

@@ -7,29 +7,29 @@ And they shall be as mighty [men], which tread down [their enemies] in the mire 
 They will be like mighty men in battle, trampling the enemy in the mire of the streets. They will fight because the LORD is with them, and they will put the horsemen to shame.<small><sub>**MT:**</sub></small>
 [[Zech.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.4|<< Zechariah 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.6|Zechariah 10:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| warriors | <big><span class="asgreek">μαχηταί</span></big> <sup><small><small>[[G8263]]</small></small></sup> |
-| treading | <big><span class="asgreek">πατούντες</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| mud | <big><span class="asgreek">πηλόν</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| battle. | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall deploy, | <big><span class="asgreek">παρατάξονται</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[is\] with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be disgraced | <big><span class="asgreek">καταισχυνθήσονται</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| \[the\] riders | <big><span class="asgreek">αναβάται</span></big> <sup><small><small>[[G6275]]</small></small></sup> |
-| of horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall be | **<big>[[G1510\|έσονται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| warriors | **<big>[[G8263\|μαχηταί]]</big>** |
+| treading | **<big>[[G3961\|πατούντες]]</big>** |
+| mud | **<big>[[G4081\|πηλόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| ways | **<big>[[G3598\|οδοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| battle. | **<big>[[G4171\|πολέμω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall deploy, | **<big>[[G8641\|παρατάξονται]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \[is\] with | **<big>[[G3326\|μετ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be disgraced | **<big>[[G2617\|καταισχυνθήσονται]]</big>** |
+| \[the\] riders | **<big>[[G6275\|αναβάται]]</big>** |
+| of horses | **<big>[[G2462\|ίππων]]</big>** |
 [[Zech.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.4|<< Zechariah 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.6|Zechariah 10:6 >>]]</td></tr></table>
 
 

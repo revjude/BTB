@@ -7,48 +7,48 @@ Thus saith the LORD of hosts, the God of Israel, saying; Ye and your wives have 
 This is what the LORD of Hosts, the God of Israel, says: As for you and your wives, you have spoken with your mouths and fulfilled with your hands your words: ‘We will surely perform our vows that we have made to burn incense to the Queen of Heaven and to pour out drink offerings to her.’ Go ahead, then, do what you have promised! Keep your vows!<small><sub>**MT:**</sub></small>
 [[Jer.44.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.24|<< Jeremiah 44:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.26|Jeremiah 44:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your women | <big><span class="asgreek">γυναίκες υμών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spoke | <big><span class="asgreek">ελαλήσατε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by your hands | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fulfilled | <big><span class="asgreek">επληρώσατε</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγουσαι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In offering, | <big><span class="asgreek">ποιούσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| we shall offer | <big><span class="asgreek">ποιήσομεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our acknowledgment \[offerings\] | <big><span class="asgreek">ομολογίας</span></big> <sup><small><small>[[G3671]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we acknowledged, | <big><span class="asgreek">ωμολογήσαμεν</span></big> <sup><small><small>[[G3670]]</small></small></sup> |
-| to burn incense | <big><span class="asgreek">θυμίαν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen | <big><span class="asgreek">βασιλίσση</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to offer | <big><span class="asgreek">σπένδειν</span></big> <sup><small><small>[[G4689]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| libations. | <big><span class="asgreek">σπονδάς</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| In adhering | <big><span class="asgreek">εμμείνασαι</span></big> <sup><small><small>[[G1696]]</small></small></sup> |
-| you adhered to | <big><span class="asgreek">ενεμείνατε</span></big> <sup><small><small>[[G1696]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your acknowledgment \[offerings\], | <big><span class="asgreek">ομολογίαις</span></big> <sup><small><small>[[G3671]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] offerings | <big><span class="asgreek">ποιούσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| which you offered. | <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your women | **<big>[[G1135\|γυναίκες υμών]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your mouth | **<big>[[G4750\|στόματι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| spoke | **<big>[[G2980\|ελαλήσατε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| by your hands | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| fulfilled | **<big>[[G4137\|επληρώσατε]]</big>** |
+| saying, | **<big>[[G3004\|λέγουσαι]]</big>** |
+| In offering, | **<big>[[G4160\|ποιούσαι]]</big>** |
+| we shall offer | **<big>[[G4160\|ποιήσομεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our acknowledgment \[offerings\] | **<big>[[G3671\|ομολογίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| we acknowledged, | **<big>[[G3670\|ωμολογήσαμεν]]</big>** |
+| to burn incense | **<big>[[G2370\|θυμίαν]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| queen | **<big>[[G0938\|βασιλίσση]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to offer | **<big>[[G4689\|σπένδειν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| libations. | **<big>[[G9145\|σπονδάς]]</big>** |
+| In adhering | **<big>[[G1696\|εμμείνασαι]]</big>** |
+| you adhered to | **<big>[[G1696\|ενεμείνατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your acknowledgment \[offerings\], | **<big>[[G3671\|ομολογίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] offerings | **<big>[[G4160\|ποιούσαι]]</big>** |
+| which you offered. | **<big>[[G4160\|εποιήσατε]]</big>** |
 [[Jer.44.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.24|<< Jeremiah 44:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.26|Jeremiah 44:26 >>]]</td></tr></table>
 
 

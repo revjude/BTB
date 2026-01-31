@@ -7,23 +7,23 @@ And Solomon had threescore and ten thousand that bare burdens, and fourscore tho
 Solomon had 70,000 porters and 80,000 stonecutters in the mountains,<small><sub>**MT:**</sub></small>
 [[1Kgs.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.14|<< 1 Kings 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.16|1 Kings 5:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unto Solomon | <big><span class="asgreek">Σολομώντι</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| lifting | <big><span class="asgreek">αίροντες</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| a load, | <big><span class="asgreek">άρσιν</span></big> <sup><small><small>[[G6545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eighty | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| quarriers | <big><span class="asgreek">λατόμων</span></big> <sup><small><small>[[G8166]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain; | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| unto Solomon | **<big>[[G4672\|Σολομώντι]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| lifting | **<big>[[G0142\|αίροντες]]</big>** |
+| a load, | **<big>[[G6545\|άρσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eighty | **<big>[[G3589\|ογδοήκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| quarriers | **<big>[[G8166\|λατόμων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain; | **<big>[[G3735\|όρει]]</big>** |
 [[1Kgs.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.14|<< 1 Kings 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.16|1 Kings 5:16 >>]]</td></tr></table>
 
 

@@ -6,18 +6,18 @@ Send the tribute lambs to the ruler of the land, from Sela in the desert to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.9|<< Isaiah 15:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.2|Isaiah 16:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| send  | <span class="ashebrew"><big>שִׁלְחוּ </big></span><small><small><sup>[[H7971G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shil.chu- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lamb  | <span class="ashebrew"><big>כַ֥ר </big></span><small><small><sup>[[H3733C]]</sup></small></small> &#8207;| khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ruler of  | <span class="ashebrew"><big>מֹשֵֽׁל </big></span><small><small><sup>[[H4910]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mo.shel- <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land  | <span class="ashebrew"><big>אֶ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Sela  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>סֶּ֣לַע </big></span><small><small><sup>[[H5554]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Se.la' <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness towards  | <span class="ashebrew"><big>מִדְבָּ֑רָ </big></span><small><small><sup>[[H4057B]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| mid.Ba.ra <small><sup>[[HNcmsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַ֖ר </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּֽוֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| send  |**<big>&#8207;[[H7971G\|שִׁלְחוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shil.chu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lamb  |**<big>&#8207;[[H3733C\|כַ֥ר]]&#8207; </big>**| khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ruler of  |**<big>&#8207;[[H4910\|מֹשֵֽׁל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mo.shel-<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  |**<big>&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Sela  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5554\|סֶּ֣לַע]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Se.la'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness towards  |**<big>&#8207;[[H4057B\|מִדְבָּ֑רָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| mid.Ba.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַ֖ר]]&#8207; </big>**| har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.9|<< Isaiah 15:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.2|Isaiah 16:2 >>]]</td></tr></table>
 
 

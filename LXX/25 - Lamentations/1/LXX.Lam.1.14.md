@@ -9,31 +9,31 @@ The yoke of my transgressions is bound by his hand: they are wreathed, [and] com
 My transgressions are bound into a yoke, knit together by His hand; they are draped over my neck, and the Lord has broken my strength. He has delivered me into the hands of those I cannot withstand.<small><sub>**MT:**</sub></small>
 [[Lam.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.13|<< Lamentations 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.15|Lamentations 1:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΝΟΥΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΝΟΥΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| He was vigilant | <big><span class="asgreek">εγρηγορήθη</span></big> <sup><small><small>[[G1127]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my acts of impiety; | <big><span class="asgreek">ασεβήματά</span></big> <sup><small><small>[[G6567]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they are closely joined | <big><span class="asgreek">συνεπλάκησαν</span></big> <sup><small><small>[[G9275]]</small></small></sup> |
-| they ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my neck. | <big><span class="asgreek">τράχηλόν</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is weakened | <big><span class="asgreek">ησθένησεν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> put | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| griefs | <big><span class="asgreek">οδύνας</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσομαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to stand. | <big><span class="asgreek">στήναι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| ΝΟΥΝ <sup><small>[acrostic title]</small></sup> |  |
+| He was vigilant | **<big>[[G1127\|εγρηγορήθη]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my acts of impiety; | **<big>[[G6567\|ασεβήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my hands | **<big>[[G5495\|χερσί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they are closely joined | **<big>[[G9275\|συνεπλάκησαν]]</big>** |
+| they ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my neck. | **<big>[[G5137\|τράχηλόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is weakened | **<big>[[G0770\|ησθένησεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> put | **<big>[[G1325\|έδωκε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my hands | **<big>[[G5495\|χερσί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| griefs | **<big>[[G3601\|οδύνας]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσομαι]]</big>** |
+| to stand. | **<big>[[G2476\|στήναι]]</big>** |
 [[Lam.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.13|<< Lamentations 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.15|Lamentations 1:15 >>]]</td></tr></table>
 
 

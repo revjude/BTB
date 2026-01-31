@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תֵּל אָבִיב‎</span></big> **Têl ʼÂbîyb** <small>*(tale aw-beeb')*</small> ==**Tel-abib**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎תֵּל‎</span><sup><small>[[H8510]]</small></sup> and <span class="ashebrew">‎אָבִיב‎</span><sup><small>[[H0024]]</small></sup>; mound of green growth</small>
+**<big><span class="ashebrew">‎תֵּל אָבִיב‎</span></big>** **Têl ʼÂbîyb** <small>*(tale aw-beeb')*</small> ==**Tel-abib**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H8510|‎תֵּל‎]]</big>** and **<big>[[H0024|‎אָבִיב‎]]</big>**; mound of green growth</small>
 
 $\quad$ Tel-abib.
 - § Tel-abib = *"mound of the flood"*

@@ -7,22 +7,22 @@ Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the
 Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!<small><sub>**MT:**</sub></small>
 [[Ps.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.6|<< Psalm 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.8|Psalm 24:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| lift | <big><span class="asgreek">άρατε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \[the\] gates | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be lifted up | <big><span class="asgreek">επάρθητε</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \[the\] eternal | <big><span class="asgreek">αιώνιοι</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| lift | **<big>[[G0142\|άρατε]]</big>** |
+| \[the\] gates | **<big>[[G4439\|πύλας]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be lifted up | **<big>[[G1869\|επάρθητε]]</big>** |
+| gates | **<big>[[G4439\|πύλαι]]</big>** |
+| \[the\] eternal | **<big>[[G0166\|αιώνιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of glory | **<big>[[G1391\|δόξης]]</big>** |
 [[Ps.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.6|<< Psalm 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.8|Psalm 24:8 >>]]</td></tr></table>
 
 

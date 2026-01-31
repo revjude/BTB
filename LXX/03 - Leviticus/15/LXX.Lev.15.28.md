@@ -7,22 +7,22 @@ But if she be cleansed of her issue, then she shall number to herself seven days
 When a woman is cleansed of her discharge, she must count off seven days, and after that she will be ceremonially clean.<small><sub>**MT:**</sub></small>
 [[Lev.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.27|<< Leviticus 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.29|Leviticus 15:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| she should be cleansed | <big><span class="asgreek">καθαρισθή</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her flow, | <big><span class="asgreek">ρύσεως</span></big> <sup><small><small>[[G4511]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she shall count out | <big><span class="asgreek">εξαριθμήσεται</span></big> <sup><small><small>[[G7300]]</small></small></sup> |
-| to herself | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| she shall be cleansed. | <big><span class="asgreek">καθαρισθήσεται</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| she should be cleansed | **<big>[[G2511\|καθαρισθή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| her flow, | **<big>[[G4511\|ρύσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| she shall count out | **<big>[[G7300\|εξαριθμήσεται]]</big>** |
+| to herself | **<big>[[G1473\|αυτή]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| this | **<big>[[G3778\|ταύτα]]</big>** |
+| she shall be cleansed. | **<big>[[G2511\|καθαρισθήσεται]]</big>** |
 [[Lev.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.27|<< Leviticus 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.29|Leviticus 15:29 >>]]</td></tr></table>
 
 

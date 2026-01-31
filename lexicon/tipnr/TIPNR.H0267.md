@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ahumai</span> was a descendant of Judah through his grandson Reaiah. \([[1Chr.4.2|1Ch.4.2]]\)
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.4.2|1Ch.4.2]]; 
-- only referred to as Ahumai<[[H0267]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>\); 
--  son of Jahath<[[H3189G]]>; 
-- a brother of Lahad<[[H3855]]>.
+- only referred to as Ahumai **<big>[[H0267|אֲחוּמַי]]</big>**; 
+-  son of Jahath **<big>[[H3189|יַחַת]]</big>**; 
+- a brother of Lahad **<big>[[H3855|לַהַד]]</big>**.
 
 Ahumai is mentioned briefly in the genealogy of the tribe of Judah, specifically in the lineage of Reaiah, who was a descendant of Judah through his son Shobal. \(1Ch.4.1-2\) 
 
@@ -18,8 +18,8 @@ The mention of Ahumai in the genealogy serves to document the lineage of Judah a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahumai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>](H0267) <small>*Hebrew*</small> | 1x | [1Ch.4.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahumai\*\|reference=1Ch.4.2) |
-All Strong's for **Ahumai**: \[[[H0267]]\]
+| Ahumai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>](H0267) | 1x | [1Ch.4.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahumai\*\|reference=1Ch.4.2) |
+All entries for **Ahumai**:  **<big>[[H0267|אֲחוּמַי]]</big>**
 #### Related Profiles:
 - **[Jahath](H3189G)** (father)
 - **[Lahad](H3855)** (sibling)

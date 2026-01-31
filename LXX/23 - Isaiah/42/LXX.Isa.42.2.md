@@ -11,17 +11,17 @@ He will not cry out or raise His voice, nor make His voice heard in the streets.
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| cry out, | <big><span class="asgreek">κεκράξεται</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall he send up \[his voice\], | <big><span class="asgreek">ανήσει</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| be heard | <big><span class="asgreek">ακουσθήσεται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He shall not | **<big>[[G3756\|ου]]</big>** |
+| cry out, | **<big>[[G2896\|κεκράξεται]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| shall he send up \[his voice\], | **<big>[[G0447\|ανήσει]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| be heard | **<big>[[G0191\|ακουσθήσεται]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his voice | **<big>[[G5456\|φωνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.42.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.1|<< Isaiah 42:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.3|Isaiah 42:3 >>]]</td></tr></table>
 
 

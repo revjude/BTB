@@ -7,21 +7,21 @@ The voice of my beloved! behold, he cometh leaping upon the mountains, skipping 
 Listen! My beloved approaches. Look! Here he comes, leaping across the mountains, bounding over the hills.<small><sub>**MT:**</sub></small>
 [[Song.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.7|<< Song of Solomon 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.9|Song of Solomon 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of my beloved \[man\]. | <big><span class="asgreek">αδελφιδού</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he comes | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| springing up | <big><span class="asgreek">πηδών</span></big> <sup><small><small>[[G8788]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains, | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| leaping | <big><span class="asgreek">διαλλόμενος</span></big> <sup><small><small>[[G6843]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills. | <big><span class="asgreek">βουνους</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
+| \[The\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| of my beloved \[man\]. | **<big>[[G6137\|αδελφιδού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| he comes | **<big>[[G2240\|ήκει]]</big>** |
+| springing up | **<big>[[G8788\|πηδών]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains, | **<big>[[G3735\|όρη]]</big>** |
+| leaping | **<big>[[G6843\|διαλλόμενος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| hills. | **<big>[[G1015\|βουνους]]</big>** |
 [[Song.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.7|<< Song of Solomon 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.9|Song of Solomon 2:9 >>]]</td></tr></table>
 
 

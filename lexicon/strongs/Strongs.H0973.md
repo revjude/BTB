@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎בָּחַל‎</span></big> **bâchal** <small>*(baw-khal')*</small> ==**to loath**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּחַל‎</span></big>** **bâchal** <small>*(baw-khal')*</small> ==**to loath**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ abhor, get hastily (from the margin for <span class="ashebrew">‎בָּהַל‎</span><sup><small>[[H0926]]</small></sup>).
+$\quad$ abhor, get hastily (from the margin for **<big>[[H0926|‎בָּהַל‎]]</big>**).
 - ***to loath***
 
 **1)** to loathe, abhor, feel loathing

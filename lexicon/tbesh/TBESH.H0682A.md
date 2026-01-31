@@ -1,7 +1,6 @@
-<span class="ashebrew">‎אָצֵל‎</span> <small>***(a.tsel)***</small> ==**Azel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of Divided Monarchy, first mentioned at [[1Chr.8.37|1Ch.8.37]]
--  son of: Binea ([[H1150]])
--  brother of: Raphah ([[H7498]]) and Eleasah ([[H0501H]])
--  father of: Azrikam ([[H5840H]]), Bocheru ([[H1074]]), Ishmael ([[H3458I]]), Sheariah ([[H8187]]), Obadiah ([[H5662J]]) and Hanan ([[H2605H]])
+-  son of: Binea (**<big>[[H1150|בִּנְעָא]]</big>**)
+-  brother of: Raphah (**<big>[[H7498|רָפָא]]</big>**) and Eleasah (**<big>[[H0501H|אֶלְעָשָׂה]]</big>**)
+-  father of: Azrikam (**<big>[[H5840H|עַזְרִיקָם]]</big>**), Bocheru (**<big>[[H1074|בֹּכְרוּ]]</big>**), Ishmael (**<big>[[H3458I|יִשְׁמָעֵאל]]</big>**), Sheariah (**<big>[[H8187|שְׁעַרְיָה]]</big>**), Obadiah (**<big>[[H5662J|עֹבַדְיָה]]</big>**) and Hanan (**<big>[[H2605H|חָנָן]]</big>**)
 - n pr m (CLBL)
 -  a Benjamite descendant of Saul and Jonathan

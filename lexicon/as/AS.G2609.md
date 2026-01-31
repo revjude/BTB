@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κατ-άγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">ירד</span> <small><sup>[[H3381]]</sup></small> hi.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κατ-άγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H3381|ירד]]</big>** hi.;\]</span> </span>
 <span class="asitalic">to bring down</span>: c. acc. pers., [[Acts.22.30|Ac 22:30]], [[Rom.10.6|Ro 10:6]]; id. seq. <span class="asgreek">εἰς</span>, [[Acts.9.30|Ac 9:30]] [[Acts.23.15|23:15]], [[Acts.23.20|20]], [[Acts.23.28|28]]; as nautical term, <span class="asitalic">to bring to land</span>: <span class="asgreek">τ. πλοῖον ἐπὶ τ. γῆν</span>, [[Luke.5.11|Lk 5:11]]; pass., seq. <span class="asgreek">εἰς</span>, [[Acts.27.3|Ac 27:3]] [[Acts.28.12|28:12]].†
 
 **Abbott-Smith References**

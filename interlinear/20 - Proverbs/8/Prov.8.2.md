@@ -6,15 +6,15 @@ On the heights overlooking the road, at the crossroads she takes her stand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.1|<< Proverbs 8:1]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.3|Proverbs 8:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| at [the] top of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רֹאשׁ </big></span><small><small><sup>[[H7218I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> rosh- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heights  | <span class="ashebrew"><big>מְרוֹמִ֥ים </big></span><small><small><sup>[[H4791]]</sup></small></small> &#8207;| me.ro.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.lei- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] way  | <span class="ashebrew"><big>דָ֑רֶךְ </big></span><small><small><sup>[[H1870K]]</sup></small></small> &#8207;| Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֖ית </big></span><small><small><sup>[[H1004A]]</sup></small></small> &#8207;| beit <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pathways  | <span class="ashebrew"><big>נְתִיב֣וֹת </big></span><small><small><sup>[[H5410B]]</sup></small></small> &#8207;| ne.ti.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she stations herself  | <span class="ashebrew"><big>נִצָּֽבָה </big></span><small><small><sup>[[H5324]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ni.Tza.vah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] top of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7218I\|רֹאשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> rosh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heights  |**<big>&#8207;[[H4791\|מְרוֹמִ֥ים]]&#8207; </big>**| me.ro.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way  |**<big>&#8207;[[H1870K\|דָ֑רֶךְ]]&#8207; </big>**| Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H1004A\|בֵּ֖ית]]&#8207; </big>**| beit<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pathways  |**<big>&#8207;[[H5410B\|נְתִיב֣וֹת]]&#8207; </big>**| ne.ti.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she stations herself  |**<big>&#8207;[[H5324\|נִצָּֽבָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ni.Tza.vah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.1|<< Proverbs 8:1]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.3|Proverbs 8:3 >>]]</td></tr></table>
 
 

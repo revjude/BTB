@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הַרְמוֹן‎</span></big> **harmôwn** <small>*(har-mone')*</small> ==**Harmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎הֹרָם‎</span><sup><small>[[H2036]]</small></sup></small>
+**<big><span class="ashebrew">‎הַרְמוֹן‎</span></big>** **harmôwn** <small>*(har-mone')*</small> ==**Harmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H2036|‎הֹרָם‎]]</big>**</small>
 
 $\quad$ palace.
 - § Harmon = *"high fortress"*

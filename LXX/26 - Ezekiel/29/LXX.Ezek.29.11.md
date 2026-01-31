@@ -7,25 +7,25 @@ No foot of man shall pass through it, nor foot of beast shall pass through it, n
 No foot of man or beast will pass through, and it will be uninhabited for forty years.<small><sub>**MT:**</sub></small>
 [[Ezek.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.10|<< Ezekiel 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.12|Ezekiel 29:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall there go through | <big><span class="asgreek">διέλθη</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] foot | <big><span class="asgreek">πους</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of a man; | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] foot | <big><span class="asgreek">πους</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of a beast | <big><span class="asgreek">κτήνους</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall go through | <big><span class="asgreek">διέλθη</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be inhabited | <big><span class="asgreek">κατοικηθήσεται</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall there go through | **<big>[[G1330\|διέλθη]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| \[the\] foot | **<big>[[G4228\|πους]]</big>** |
+| of a man; | **<big>[[G0444\|ανθρώπου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] foot | **<big>[[G4228\|πους]]</big>** |
+| of a beast | **<big>[[G2934\|κτήνους]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall go through | **<big>[[G1330\|διέλθη]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not | **<big>[[G3756\|ου]]</big>** |
+| be inhabited | **<big>[[G2730\|κατοικηθήσεται]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[Ezek.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.10|<< Ezekiel 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.12|Ezekiel 29:12 >>]]</td></tr></table>
 
 

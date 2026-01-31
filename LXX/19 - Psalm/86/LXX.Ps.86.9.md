@@ -11,23 +11,23 @@ All the nations You have made will come and bow before You, O Lord, and they wil
 > $\quad$ referenced by: [[Rev.15.4|Rev 15:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| you made, | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξουσι</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do obeisance | <big><span class="asgreek">προσκυνήσουσιν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall glorify | <big><span class="asgreek">δοξάσουσι</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name. | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| as many as | **<big>[[G3745\|όσα]]</big>** |
+| you made, | **<big>[[G4160\|εποίησας]]</big>** |
+| shall come | **<big>[[G2240\|ήξουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do obeisance | **<big>[[G4352\|προσκυνήσουσιν]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall glorify | **<big>[[G1392\|δοξάσουσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name. | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.86.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.8|<< Psalm 86:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.10|Psalm 86:10 >>]]</td></tr></table>
 
 

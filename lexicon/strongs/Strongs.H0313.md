@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַחֵר‎</span></big> **ʼAchêr** <small>*(akh-air')*</small> ==**Aher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אַחֵר‎</span><sup><small>[[H0312]]</small></sup></small>
+**<big><span class="ashebrew">‎אַחֵר‎</span></big>** **ʼAchêr** <small>*(akh-air')*</small> ==**Aher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0312|‎אַחֵר‎]]</big>**</small>
 
 $\quad$ Aher.
 - § Aher = *"following"*

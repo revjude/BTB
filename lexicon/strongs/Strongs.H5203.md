@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָטַשׁ‎</span></big> **nâṭash** <small>*(naw-tash')*</small> ==**to leave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָטַשׁ‎</span></big>** **nâṭash** <small>*(naw-tash')*</small> ==**to leave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cast off, drawn, let fall, forsake, join (battle), leave (off), lie still, loose, spread (self) abroad, stretch out, suffer.

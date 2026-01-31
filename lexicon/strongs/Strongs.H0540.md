@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲמַן‎</span></big> **ʼăman** <small>*(am-an')*</small> ==**to trust**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אָמַן‎</span><sup><small>[[H0539]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲמַן‎</span></big>** **ʼăman** <small>*(am-an')*</small> ==**to trust**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0539|‎אָמַן‎]]</big>**</small>
 
 $\quad$ believe, faithful, sure.
 - {properly, ***to build up*** or ***support***

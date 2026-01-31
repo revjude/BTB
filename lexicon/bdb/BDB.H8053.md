@@ -1,4 +1,4 @@
-<small>Also see: [[H8068]]</small>
+<small>Also see: **<big>[[H8068|שָׁמִיר]]</big>**</small>
 
  III. <span class="bdbLangHebrew">‎שָׁמִיר‎</span> **proper name, masculine** ==Levite==, [[1Chr.24.24|1Chr 24:24]] [[BDB#Qr|Qr]], <span class="bdbLangGreek">Σαμηρ</span>, <span class="bdbLangGreek">Σεμμηρ</span> ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎שמור‎</span>). 
 

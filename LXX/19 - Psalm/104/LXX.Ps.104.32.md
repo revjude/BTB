@@ -7,23 +7,23 @@ He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke
 He looks on the earth, and it trembles; He touches the mountains, and they smolder.<small><sub>**MT:**</sub></small>
 [[Ps.104.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.31|<< Psalm 104:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.33|Psalm 104:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">επιβλέπων</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to tremble; | <big><span class="asgreek">τρέμειν</span></big> <sup><small><small>[[G5141]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one touching | <big><span class="asgreek">απτόμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they smoke. | <big><span class="asgreek">καπνίζονται</span></big> <sup><small><small>[[G7796]]</small></small></sup> |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| looking | **<big>[[G1914\|επιβλέπων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| making | **<big>[[G4160\|ποιών]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| to tremble; | **<big>[[G5141\|τρέμειν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one touching | **<big>[[G0680\|απτόμενος]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| mountains | **<big>[[G3735\|ορέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they smoke. | **<big>[[G7796\|καπνίζονται]]</big>** |
 [[Ps.104.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.31|<< Psalm 104:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.33|Psalm 104:33 >>]]</td></tr></table>
 
 

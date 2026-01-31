@@ -7,31 +7,31 @@ That thou mayest say to the prisoners, Go forth; to them that [are] in darkness,
 to say to the prisoners, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed along the pathways, and find pasture on every barren hill.<small><sub>**MT:**</sub></small>
 [[Isa.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Saying | <big><span class="asgreek">λέγοντα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| bonds, | <big><span class="asgreek">δεσμοίς</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| Come forth! | <big><span class="asgreek">εξέλθετε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| to be uncovered. | <big><span class="asgreek">ανακαλυφθήναι</span></big> <sup><small><small>[[G0343]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| they shall be grazing, | <big><span class="asgreek">βοσκηθήσονται</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roads | <big><span class="asgreek">τρίβοις</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their pasture. | <big><span class="asgreek">νομή</span></big> <sup><small><small>[[G3542]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Saying | **<big>[[G3004\|λέγοντα]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| bonds, | **<big>[[G1199\|δεσμοίς]]</big>** |
+| Come forth! | **<big>[[G1831\|εξέλθετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| darkness | **<big>[[G4655\|σκότει]]</big>** |
+| to be uncovered. | **<big>[[G0343\|ανακαλυφθήναι]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| ways | **<big>[[G3598\|οδοίς]]</big>** |
+| they shall be grazing, | **<big>[[G1006\|βοσκηθήσονται]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| roads | **<big>[[G5147\|τρίβοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| of their pasture. | **<big>[[G3542\|νομή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Isa.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂרַר‎</span></big> **sârar** <small>*(saw-rar')*</small> ==**to rule**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂרַר‎</span></big>** **sârar** <small>*(saw-rar')*</small> ==**to rule**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] altogether, make self a prince, (bear) rule.

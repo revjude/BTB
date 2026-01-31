@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַוִּים‎</span></big> **ʻAvvîym** <small>*(av-veem')*</small> ==**Avvim**==  <sup><small>[[TEHMC#N:N--L / N:N--LG|N:N--L / N:N--LG]]</small></sup> 
-<small>plural of <span class="ashebrew">‎עַוִּי‎</span><sup><small>[[H5757]]</small></sup></small>
+**<big><span class="ashebrew">‎עַוִּים‎</span></big>** **ʻAvvîym** <small>*(av-veem')*</small> ==**Avvim**==  <sup><small>[[TEHMC#N:N--L / N:N--LG|N:N--L / N:N--LG]]</small></sup> 
+<small>plural of **<big>[[H5757|‎עַוִּי‎]]</big>**</small>
 
 $\quad$ Avim.
 - § Avim = *"ruins"*

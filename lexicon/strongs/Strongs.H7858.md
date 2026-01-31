@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎שֶׁטֶף‎</span></big> **sheṭeph** <small>*(sheh'-tef)*</small> ==**flood**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">שֵׁטֶף</span> **shêṭeph** <small>*(shay'-tef)*</small>; from <span class="ashebrew">‎שָׁטַף‎</span><sup><small>[[H7857]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁטֶף‎</span></big>** **sheṭeph** <small>*(sheh'-tef)*</small> ==**flood**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">שֵׁטֶף</span></big>** **shêṭeph** <small>*(shay'-tef)*</small>; from **<big>[[H7857|‎שָׁטַף‎]]</big>**</small>
 
 $\quad$ flood, outrageous, overflowing.
 - ***a deluge*** (literally or figuratively)
 
 **1)** flood, downpour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κατακλυσμός</span><sup><small>[[G2627]]</small></sup> · <span class="asgreek">ὀξύς</span><sup><small>[[G3691]]</small></sup> · <span class="asgreek">ὑετός</span><sup><small>[[G5205]]</small></sup>
+<small>See Greek: </small>**<big>[[G2627|κατακλυσμός]]</big>** · **<big>[[G3691|ὀξύς]]</big>** · **<big>[[G5205|ὑετός]]</big>**

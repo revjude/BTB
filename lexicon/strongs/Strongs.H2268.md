@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶבֶר‎</span></big> **Cheber** <small>*(kheh'-ber)*</small> ==**Heber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חֶבֶר‎</span><sup><small>[[H2267]]</small></sup>; community</small>
+**<big><span class="ashebrew">‎חֶבֶר‎</span></big>** **Cheber** <small>*(kheh'-ber)*</small> ==**Heber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2267|‎חֶבֶר‎]]</big>**; community</small>
 
 $\quad$ Heber.
 - § Heber = *"comrade"*

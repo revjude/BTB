@@ -7,41 +7,41 @@ Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: 
 Jephthah then gathered all the men of Gilead and fought against Ephraim. And the men of Gilead struck them down because the Ephraimites had said, “You Gileadites are fugitives in Ephraim, living in the territories of Ephraim and Manasseh.”<small><sub>**MT:**</sub></small>
 [[Judg.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.3|<< Judges 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.5|Judges 12:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jephthah gathered together | <big><span class="asgreek">συνήθροισεν</span></big> <sup><small><small>[[G4867]]</small></small></sup> <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| waged war | <big><span class="asgreek">επολέμει</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| \[against\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephraim. | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξαν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephraim; | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men coming through safe | <big><span class="asgreek">διασεσωσμένοι</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jephthah gathered together | **<big>[[G4867\|συνήθροισεν]]</big>** **<big>[[G2422\|Ιεφθάε]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| waged war | **<big>[[G4170\|επολέμει]]</big>** |
+| \[against\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Ephraim. | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξαν]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| of Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ephraim; | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| said | **<big>[[G2036\|είπαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men coming through safe | **<big>[[G1295\|διασεσωσμένοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| \[are\] Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Ephraim, | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Manasseh. | **<big>[[G3128\|Μανασσή]]</big>** |
 [[Judg.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.3|<< Judges 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.5|Judges 12:5 >>]]</td></tr></table>
 
 

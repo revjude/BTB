@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲרָכָה‎</span></big> **maʻărâkâh** <small>*(mah-ar-aw-kaw')*</small> ==**rank**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מַעֲרָךְ‎</span><sup><small>[[H4633]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעֲרָכָה‎</span></big>** **maʻărâkâh** <small>*(mah-ar-aw-kaw')*</small> ==**rank**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4633|‎מַעֲרָךְ‎]]</big>**</small>
 
 $\quad$ army, fight, be set in order, ordered place, rank, row.
 - ***an arrangement***
@@ -11,4 +11,4 @@ $\quad$ **1a)** battle-line
 $\quad$ **1b)** rank
 $\quad$ **1c)** row
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καῦσις</span><sup><small>[[G2740]]</small></sup> · <span class="asgreek">παρεμβολή</span><sup><small>[[G3925]]</small></sup>
+<small>See Greek: </small>**<big>[[G2740|καῦσις]]</big>** · **<big>[[G3925|παρεμβολή]]</big>**

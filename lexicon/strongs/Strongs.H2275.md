@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶבְרוֹן‎</span></big> **Chebrôwn** <small>*(kheb-rone')*</small> ==**Hebron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎חֶבֶר‎</span><sup><small>[[H2267]]</small></sup>; seat of association</small>
+**<big><span class="ashebrew">‎חֶבְרוֹן‎</span></big>** **Chebrôwn** <small>*(kheb-rone')*</small> ==**Hebron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H2267|‎חֶבֶר‎]]</big>**; seat of association</small>
 
 $\quad$ Hebron.
 - § Hebron = *"association"*

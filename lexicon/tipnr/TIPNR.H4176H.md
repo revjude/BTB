@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Moreh</span> refers to a place near Shechem associated with Abraham \(Gen 12:6\) and a hill where Gideon camped before attacking the Midianites \(Judg 7:1\).
 - A location only mentioned at [[Judg.7.1|Jdg.7.1]]; 
-- only referred to as Moreh<[[H4176H]]> \(<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Moreh **<big>[[H4176|מוֹרֶה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.61773063505183,35.35737645291343&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Moreh is the name of two locations mentioned in the Bible. The first is a place 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Moreh | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H4176H) <small>*Hebrew*</small> | 1x | [Jdg.7.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Moreh\*\|reference=Jdg.7.1) |
-All Strong's for **Moreh**: \[[[H4176H]]\]
+| Moreh | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ה</span>](H4176H) | 1x | [Jdg.7.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Moreh\*\|reference=Jdg.7.1) |
+All entries for **Moreh**:  **<big>[[H4176|מוֹרֶה]]</big>**

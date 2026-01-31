@@ -1,4 +1,4 @@
-form of: <small>[[G5225]]</small> 
+form of: <small>**<big>[[G5225|ὑπάρχω]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==ὑπάρχοντα==</span></b>, 

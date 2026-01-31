@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵדֶן‎</span></big> **ʻÊden** <small>*(ay'-den)*</small> ==**Eden**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֵדֶן‎</span><sup><small>[[H5730]]</small></sup> (masculine)</small>
+**<big><span class="ashebrew">‎עֵדֶן‎</span></big>** **ʻÊden** <small>*(ay'-den)*</small> ==**Eden**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5730|‎עֵדֶן‎]]</big>** (masculine)</small>
 
 $\quad$ Eden.
 - § Eden = *"pleasure"*
@@ -10,4 +10,4 @@ n pr m loc
 n pr m
 **2)** a Gershonite Levite, son of Joah in the days of king Hezekiah of Judah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παράδεισος</span><sup><small>[[G3857]]</small></sup>
+<small>See Greek: </small>**<big>[[G3857|παράδεισος]]</big>**

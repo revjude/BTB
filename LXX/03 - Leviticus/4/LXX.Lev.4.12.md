@@ -11,36 +11,36 @@ all the rest of the bull—he must take outside the camp to a ceremonially clean
 > $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bring forth | <big><span class="asgreek">εξοίσουσιν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| a clean | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they shall pour out | <big><span class="asgreek">εκχέουσι</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ashes. | <big><span class="asgreek">σποδιάν</span></big> <sup><small><small>[[G9142]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall incinerate | <big><span class="asgreek">κατακαύσουσιν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outpouring | <big><span class="asgreek">εκχύσεως</span></big> <sup><small><small>[[G7172]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ashes | <big><span class="asgreek">σποδιάς</span></big> <sup><small><small>[[G9142]]</small></small></sup> |
-| it shall be burnt | <big><span class="asgreek">καυθήσεται</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| even | **<big>[[G2532\|και]]</big>** |
+| they shall bring forth | **<big>[[G1627\|εξοίσουσιν]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| calf | **<big>[[G3448\|μόσχον]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| a clean | **<big>[[G2513\|καθαρόν]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| they shall pour out | **<big>[[G1632\|εκχέουσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ashes. | **<big>[[G9142\|σποδιάν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall incinerate | **<big>[[G2618\|κατακαύσουσιν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| wood | **<big>[[G3586\|ξύλων]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| fire; | **<big>[[G4442\|πυρί]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| outpouring | **<big>[[G7172\|εκχύσεως]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ashes | **<big>[[G9142\|σποδιάς]]</big>** |
+| it shall be burnt | **<big>[[G2545\|καυθήσεται]]</big>** |
 [[Lev.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.11|<< Leviticus 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.13|Leviticus 4:13 >>]]</td></tr></table>
 
 

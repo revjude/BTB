@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קַדְמוֹנִי‎</span></big> **qadmôwnîy** <small>*(kad-mo-nee')*</small> ==**eastern**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or <span class="ashebrew">קַדְמֹנִי</span> **qadmônîy** <small>*(kad-mo-nee')*</small>; from <span class="ashebrew">‎קַדְמוֹן‎</span><sup><small>[[H6930]]</small></sup></small>
+**<big><span class="ashebrew">‎קַדְמוֹנִי‎</span></big>** **qadmôwnîy** <small>*(kad-mo-nee')*</small> ==**eastern**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or **<big><span class="ashebrew">קַדְמֹנִי</span></big>** **qadmônîy** <small>*(kad-mo-nee')*</small>; from **<big>[[H6930|‎קַדְמוֹן‎]]</big>**</small>
 
 $\quad$ ancient, they that went before, east, (thing of) old.
 - (of time) ***anterior*** or (of place) ***oriental***

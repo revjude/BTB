@@ -6,29 +6,29 @@ Although he flourishes among his brothers, an east wind will come—a wind from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֔וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּ֥ן </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| brothers  | <span class="ashebrew"><big>אַחִ֖ים </big></span><small><small><sup>[[H0251G]]</sup></small></small> &#8207;| 'a.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he flourishes  | <span class="ashebrew"><big>יַפְרִ֑יא </big></span><small><small><sup>[[H6500]]</sup></small></small> &#8207;| yaf.Ri' <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will come  | <span class="ashebrew"><big>יָב֣וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an east wind  | <span class="ashebrew"><big>קָדִים֩ </big></span><small><small><sup>[[H6921]]</sup></small></small> &#8207;| ka.Dim <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wind of  | <span class="ashebrew"><big>ר֨וּחַ </big></span><small><small><sup>[[H7307H]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] wilderness  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מִּדְבָּ֣ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] about to come up  | <span class="ashebrew"><big>עֹלֶ֗ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'o.Leh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it may be withered  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֵב֤וֹשׁ </big></span><small><small><sup>[[H3001]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ye.Vo.osh <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| spring his  | <span class="ashebrew"><big>מְקוֹר </big></span><small><small><sup>[[H4726]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| me.ko.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so it may be dried up  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֶחֱרַ֣ב </big></span><small><small><sup>[[H2717A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ye.che.Rav <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| spring his  | <span class="ashebrew"><big>מַעְיָנ֔ </big></span><small><small><sup>[[H4599]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ma'.ya.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will plunder  | <span class="ashebrew"><big>יִשְׁסֶ֔ה </big></span><small><small><sup>[[H8154]]</sup></small></small> &#8207;| yish.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] treasury of  | <span class="ashebrew"><big>אוֹצַ֖ר </big></span><small><small><sup>[[H0214]]</sup></small></small> &#8207;| 'o.Tzar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| article of  | <span class="ashebrew"><big>כְּלִ֥י </big></span><small><small><sup>[[H3627]]</sup></small></small> &#8207;| ke.Li <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| preciousness  | <span class="ashebrew"><big>חֶמְדָּֽה </big></span><small><small><sup>[[H2532A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chem.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121G\|בֵּ֥ן]]&#8207; </big>**| ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers  |**<big>&#8207;[[H0251G\|אַחִ֖ים]]&#8207; </big>**| 'a.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he flourishes  |**<big>&#8207;[[H6500\|יַפְרִ֑יא]]&#8207; </big>**| yaf.Ri'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  |**<big>&#8207;[[H0935G\|יָב֣וֹא]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an east wind  |**<big>&#8207;[[H6921\|קָדִים֩]]&#8207; </big>**| ka.Dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wind of  |**<big>&#8207;[[H7307H\|ר֨וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] wilderness  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֣ר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] about to come up  |**<big>&#8207;[[H5927G\|עֹלֶ֗ה]]&#8207; </big>**| 'o.Leh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it may be withered  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3001\|יֵב֤וֹשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Vo.osh<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spring his  |**<big>&#8207;[[H4726\|מְקוֹר]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| me.ko.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so it may be dried up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2717A\|יֶחֱרַ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.che.Rav<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spring his  |**<big>&#8207;[[H4599\|מַעְיָנ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ma'.ya.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will plunder  |**<big>&#8207;[[H8154\|יִשְׁסֶ֔ה]]&#8207; </big>**| yish.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] treasury of  |**<big>&#8207;[[H0214\|אוֹצַ֖ר]]&#8207; </big>**| 'o.Tzar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| article of  |**<big>&#8207;[[H3627\|כְּלִ֥י]]&#8207; </big>**| ke.Li<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| preciousness  |**<big>&#8207;[[H2532A\|חֶמְדָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chem.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 
 

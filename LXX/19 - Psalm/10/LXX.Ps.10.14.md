@@ -7,26 +7,26 @@ Thou hast seen [it]; for thou beholdest mischief and spite, to requite [it] with
 But You have regarded trouble and grief; You see to repay it by Your hand. The victim entrusts himself to You; You are the helper of the fatherless.<small><sub>**MT:**</sub></small>
 [[Ps.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.13|<< Psalm 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.15|Psalm 10:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For you see. | <big><span class="asgreek">βλέπεις</span></big> <sup><small><small>[[G0991]]</small></small></sup> <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| misery | <big><span class="asgreek">πόνον</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| contemplate | <big><span class="asgreek">κατανοείς</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver | <big><span class="asgreek">παραδούναι</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| your hands. | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have been abandoned to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εγκαταλέλειπται</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| poor | <big><span class="asgreek">πτωχός</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| to \[the\] orphan | <big><span class="asgreek">ορφανώ</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a helper. | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
+| For you see. | **<big>[[G0991\|βλέπεις]]</big>** **<big>[[G3754\|ότι]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| misery | **<big>[[G4192\|πόνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rage | **<big>[[G2372\|θυμόν]]</big>** |
+| contemplate | **<big>[[G2657\|κατανοείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver | **<big>[[G3860\|παραδούναι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| your hands. | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| have been abandoned to you | **<big>[[G1473\|σοι]]</big>** **<big>[[G1459\|εγκαταλέλειπται]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| poor | **<big>[[G4434\|πτωχός]]</big>** |
+| to \[the\] orphan | **<big>[[G3737\|ορφανώ]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| were | **<big>[[G1510\|ήσθα]]</big>** |
+| a helper. | **<big>[[G0998\|βοηθός]]</big>** |
 [[Ps.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.13|<< Psalm 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.15|Psalm 10:15 >>]]</td></tr></table>
 
 

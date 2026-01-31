@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָמַן‎</span></big> **ṭâman** <small>*(taw-man')*</small> ==**to hide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָמַן‎</span></big>** **ṭâman** <small>*(taw-man')*</small> ==**to hide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ hide, lay privily, in secret.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a3)** darkness (participle)
 $\quad$ **1b)** (Niphal) to hide oneself
 $\quad$ **1c)** (Hiphil) to hide
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐγκρύπτω</span><sup><small>[[G1470]]</small></sup> · <span class="asgreek">ἐκπορεύομαι</span><sup><small>[[G1607]]</small></sup> · <span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">ὑπομένω</span><sup><small>[[G5278]]</small></sup>
+<small>See Greek: </small>**<big>[[G1470|ἐγκρύπτω]]</big>** · **<big>[[G1607|ἐκπορεύομαι]]</big>** · **<big>[[G2928|κρύπτω]]</big>** · **<big>[[G5278|ὑπομένω]]</big>**

@@ -7,37 +7,37 @@ Then it shall come to pass, [that] the sword, which ye feared, shall overtake yo
 then the sword you fear will overtake you there, and the famine you dread will follow on your heels into Egypt, and you will die there.<small><sub>**MT:**</sub></small>
 [[Jer.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.15|<< Jeremiah 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.17|Jeremiah 42:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall fear | <big><span class="asgreek">φοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| its face -- | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall find | <big><span class="asgreek">ευρήσει</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt; | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a reckoning | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| have | <big><span class="asgreek">έχετε</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front of it, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall overtake | <big><span class="asgreek">καταλήψεται</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| you shall die. | <big><span class="asgreek">αποθανείσθε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| shall fear | **<big>[[G5399\|φοβείσθε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| its face -- | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| it shall find | **<big>[[G2147\|ευρήσει]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt; | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| famine | **<big>[[G3042\|λιμός]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| a reckoning | **<big>[[G3056\|λόγον]]</big>** |
+| have | **<big>[[G2192\|έχετε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front of it, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| it shall overtake | **<big>[[G2638\|καταλήψεται]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| you shall die. | **<big>[[G0599\|αποθανείσθε]]</big>** |
 [[Jer.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.15|<< Jeremiah 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.17|Jeremiah 42:17 >>]]</td></tr></table>
 
 

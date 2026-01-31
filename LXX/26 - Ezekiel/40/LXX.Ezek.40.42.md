@@ -7,45 +7,45 @@ And the four tables [were] of hewn stone for the burnt offering, of a cubit and 
 There were also four tables of dressed stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and a cubit high. On these were placed the utensils used to slaughter the burnt offerings and the other sacrifices.<small><sub>**MT:**</sub></small>
 [[Ezek.40.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.41|<< Ezekiel 40:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.43|Ezekiel 40:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[there were\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| tables | <big><span class="asgreek">τραπεζαι</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings, | <big><span class="asgreek">ολοκαυτωμάτων</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθιναι</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| having been made of dressed | <big><span class="asgreek">λελαξευμέναι</span></big> <sup><small><small>[[G8162]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width, | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| length; | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height; | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they placed | <big><span class="asgreek">επιθησουσι</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they slew | <big><span class="asgreek">σφάζουσι</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[animals\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| which are offered in sacrifice. | <big><span class="asgreek">θύματα</span></big> <sup><small><small>[[G7697]]</small></small></sup> |
+| And \[there were\] | **<big>[[G2532\|και]]</big>** |
+| four | **<big>[[G5064\|τέσσαρες]]</big>** |
+| tables | **<big>[[G5132\|τραπεζαι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| whole burnt-offerings, | **<big>[[G3646\|ολοκαυτωμάτων]]</big>** |
+| stones | **<big>[[G3035\|λίθιναι]]</big>** |
+| having been made of dressed | **<big>[[G8162\|λελαξευμέναι]]</big>** |
+| a cubit | **<big>[[G4083\|πήχεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a half | **<big>[[G2255\|ημίσους]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| width, | **<big>[[G4114\|πλάτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a half | **<big>[[G2255\|ημίσους]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| length; | **<big>[[G3372\|μήκος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a cubit | **<big>[[G4083\|πήχεως]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| height; | **<big>[[G5311\|ύψος]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| they placed | **<big>[[G2007\|επιθησουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| they slew | **<big>[[G4969\|σφάζουσι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[animals\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| which are offered in sacrifice. | **<big>[[G7697\|θύματα]]</big>** |
 [[Ezek.40.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.41|<< Ezekiel 40:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.43|Ezekiel 40:43 >>]]</td></tr></table>
 
 

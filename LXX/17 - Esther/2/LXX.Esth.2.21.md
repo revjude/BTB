@@ -7,26 +7,26 @@ In those days, while Mordecai sat in the king’s gate, two of the king’s cham
 In those days, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who guarded the entrance, grew angry and conspired to assassinate King Xerxes.<small><sub>**MT:**</sub></small>
 [[Esth.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.20|<< Esther 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.22|Esther 2:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fretted | <big><span class="asgreek">ελυπήθησαν</span></big> <sup><small><small>[[G3076]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| eunuchs | <big><span class="asgreek">ευνούχοι</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chiefs of the body guards, | <big><span class="asgreek">αρχισωματοφύλακες</span></big> <sup><small><small>[[G6560]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Mordecai advanced. | <big><span class="asgreek">προήχθη</span></big> <sup><small><small>[[G4254]]</small></small></sup> <big><span class="asgreek">Μαρδοχαίος</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they sought | <big><span class="asgreek">εζήτουν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| to kill | <big><span class="asgreek">αποκτείναι</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| Artaxerxes | <big><span class="asgreek">Αρταξέρξην</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| fretted | **<big>[[G3076\|ελυπήθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| eunuchs | **<big>[[G2135\|ευνούχοι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| chiefs of the body guards, | **<big>[[G6560\|αρχισωματοφύλακες]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| Mordecai advanced. | **<big>[[G4254\|προήχθη]]</big>** **<big>[[H4782\|Μαρδοχαίος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they sought | **<big>[[G2212\|εζήτουν]]</big>** |
+| to kill | **<big>[[G0615\|αποκτείναι]]</big>** |
+| Artaxerxes | **<big>[[H0783b\|Αρταξέρξην]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king. | **<big>[[G0935\|βασιλέα]]</big>** |
 [[Esth.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.20|<< Esther 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.22|Esther 2:22 >>]]</td></tr></table>
 
 

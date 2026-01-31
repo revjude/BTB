@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁאוּל‎</span></big> **Shâʼûwl** <small>*(shaw-ool')*</small> ==**Saul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>passive participle of <span class="ashebrew">‎שָׁאַל‎</span><sup><small>[[H7592]]</small></sup>; asked</small>
+**<big><span class="ashebrew">‎שָׁאוּל‎</span></big>** **Shâʼûwl** <small>*(shaw-ool')*</small> ==**Saul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>passive participle of **<big>[[H7592|‎שָׁאַל‎]]</big>**; asked</small>
 
 $\quad$ Saul, Shaul.
 - § Saul or Shaul = *"desired"*
@@ -10,4 +10,4 @@ $\quad$ Saul, Shaul.
 **3)** a son of Simeon
 **4)** a Levite, son of Uzziah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Σαούλ</span><sup><small>[[G4549]]</small></sup>
+<small>See Greek: </small>**<big>[[G4549|Σαούλ]]</big>**

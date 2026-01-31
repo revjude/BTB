@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Ἀράμ</span></span> indec. (Heb. <span class="ashebrew">רָם</span> <small><sup>[[H7410]]</sup></small>),</span>
+<span class="asform"><span class="asgreek"><span class="asbold">Ἀράμ</span></span> indec. (Heb. **<big>[[H7410|רָם]]</big>**),</span>
 <span class="asitalic">Aram</span>: [[Matt.1.3|Mt 1:3]], [[Matt.1.4|4]], [[Luke.3.33|Lk 3:33]] (R, txt., WH, <span class="asgreek">Ἀρνεί</span>).†
 
 **Abbott-Smith References**

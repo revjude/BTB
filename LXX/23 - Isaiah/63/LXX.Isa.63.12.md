@@ -7,25 +7,25 @@ That led [them] by the right hand of Moses with his glorious arm, dividing the w
 who sent His glorious arm to lead them by the right hand of Moses, who divided the waters before them to gain for Himself everlasting renown,<small><sub>**MT:**</sub></small>
 [[Isa.63.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.11|<< Isaiah 63:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.13|Isaiah 63:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leading | <big><span class="asgreek">αγαγών</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| by the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right \[hand\] | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[being the\] arm | <big><span class="asgreek">βραχίων</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his glory? | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He prevailed over | <big><span class="asgreek">κατίσχυσεν</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| in front | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he made | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| an everlasting | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| leading | **<big>[[G0071\|αγαγών]]</big>** |
+| by the | **<big>[[G3588\|τη]]</big>** |
+| right \[hand\] | **<big>[[G1188\|δεξιά]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| \[being the\] arm | **<big>[[G1023\|βραχίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his glory? | **<big>[[G1391\|δόξης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| He prevailed over | **<big>[[G2729\|κατίσχυσεν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| in front | **<big>[[G0575\|από]]</big>** **<big>[[G4383\|προσώπου]]</big>** |
+| of him; | **<big>[[G1473\|αυτού]]</big>** |
+| he made | **<big>[[G4160\|ποιήσαι]]</big>** |
+| for himself | **<big>[[G1473\|αυτώ]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| an everlasting | **<big>[[G0166\|αιώνιον]]</big>** |
 [[Isa.63.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.11|<< Isaiah 63:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.13|Isaiah 63:13 >>]]</td></tr></table>
 
 

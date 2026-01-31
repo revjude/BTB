@@ -7,16 +7,16 @@ Behold, they [are] all vanity; their works [are] nothing: their molten images [a
 See, they are all a delusion; their works amount to nothing; their images are as empty as the wind.<small><sub>**MT:**</sub></small>
 [[Isa.41.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.28|<< Isaiah 41:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.1|Isaiah 42:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For they are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you, \[so you say\], | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in folly | <big><span class="asgreek">μάτην</span></big> <sup><small><small>[[G3155]]</small></small></sup> |
-| ones misleading | <big><span class="asgreek">πλανώντες</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For they are | **<big>[[G1510\|εισί]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| making | **<big>[[G4160\|ποιούντες]]</big>** |
+| you, \[so you say\], | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in folly | **<big>[[G3155\|μάτην]]</big>** |
+| ones misleading | **<big>[[G4105\|πλανώντες]]</big>** |
+| you. | **<big>[[G1473\|υμάς]]</big>** |
 [[Isa.41.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.28|<< Isaiah 41:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.1|Isaiah 42:1 >>]]</td></tr></table>
 
 

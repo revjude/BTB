@@ -7,21 +7,21 @@ And I will give you pastors according to mine heart, which shall feed you with k
 Then I will give you shepherds after My own heart, who will feed you with knowledge and understanding.”<small><sub>**MT:**</sub></small>
 [[Jer.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.14|<< Jeremiah 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.16|Jeremiah 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένας</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall tend | <big><span class="asgreek">ποιμανούσιν</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| tending | <big><span class="asgreek">ποιμαίνοντες</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| higher knowledge. | <big><span class="asgreek">επιστήμης</span></big> <sup><small><small>[[G7454]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένας]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my heart, | **<big>[[G2588\|καρδίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall tend | **<big>[[G4165\|ποιμανούσιν]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| tending | **<big>[[G4165\|ποιμαίνοντες]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| higher knowledge. | **<big>[[G7454\|επιστήμης]]</big>** |
 [[Jer.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.14|<< Jeremiah 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.16|Jeremiah 3:16 >>]]</td></tr></table>
 
 

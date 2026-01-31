@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H7381]]</small>
-<small>Also see: [[H5315]] | [[H3824]] | [[H1320]] | [[H3820]]</small>
+<small>Aramaic form: **<big>[[H7381|רֵיחַ]]</big>**</small>
+<small>Also see: **<big>[[H5315|נֶפֶשׁ]]</big>** | **<big>[[H3824|לֵבָב]]</big>** | **<big>[[H1320|בָּשָׂר]]</big>** | **<big>[[H3820|לֵב]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רוּחַ‎</span><sub>378</sub> **noun feminine**<sup>[[Gen.41.8|Gen 41:8]]</sup> (less often **masculine**<sup>[[Exod.10.13|Exod 10:13]]</sup> +) ==breath, wind, spirit==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Gen.8.1|Gen 8:1]] +, <span class="bdbLangHebrew">‎ר֑וּחָה‎</span> [[Jer.52.23|Jer 52:23]] construct <span class="bdbLangHebrew">‎רוּחַ‎</span> [[Gen.6.17|Gen 6:17]] +; suffix <span class="bdbLangHebrew">‎רוּחִי‎</span> v[[Gen.6.3|Gen 6:3]] +, <span class="bdbLangHebrew">‎רוּחֲךָ‎</span> [[Ps.104.30|Ps 104:30]] +, etc.; plural <span class="bdbLangHebrew">‎רוּחוֺת‎</span> v[[Ps.104.4|Ps 104:4]] +, <span class="bdbLangHebrew">‎רֻחוֺת‎</span> [[Jer.49.36|Jer 49:36]], <span class="bdbLangHebrew">‎רוּחֹת‎</span> [[Num.16.22|Num 16:22]]; [[Num.26.16|Num 26:16]] (see [[BDB#Br|Br]]<sup><span class="bdbLangHebrew">‎רוח‎</span> in O.T., JBL xix (1900), 132 ff.</sup>, full statement of all passages); — 
 

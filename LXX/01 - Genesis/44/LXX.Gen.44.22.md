@@ -7,23 +7,23 @@ And we said unto my lord, The lad cannot leave his father: for [if] he should le
 So we said to my lord, ‘The boy cannot leave his father. If he were to leave, his father would die.’<small><sub>**MT:**</sub></small>
 [[Gen.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.21|<< Genesis 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.23|Genesis 44:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we said | <big><span class="asgreek">είπαμεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| is not able | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| to leave | <big><span class="asgreek">καταλιπείν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father; | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he should leave | <big><span class="asgreek">καταλίπη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[his\] father, | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| he will die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| we said | **<big>[[G2036\|είπαμεν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| master, | **<big>[[G2962\|κυρίω]]</big>** |
+| is not able | **<big>[[G3756\|ου]]</big>** **<big>[[G1410\|δυνήσεται]]</big>** |
+| The | **<big>[[G3588\|το]]</big>** |
+| child | **<big>[[G3813\|παιδίον]]</big>** |
+| to leave | **<big>[[G2641\|καταλιπείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his father; | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he should leave | **<big>[[G2641\|καταλίπη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| \[his\] father, | **<big>[[G3962\|πατέρα]]</big>** |
+| he will die. | **<big>[[G0599\|αποθανείται]]</big>** |
 [[Gen.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.21|<< Genesis 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.23|Genesis 44:23 >>]]</td></tr></table>
 
 

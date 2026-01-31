@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַחְמְתָא‎</span></big> **ʼAchmᵉthâʼ** <small>*(akh-me-thaw')*</small> ==**Ecbatana**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אַחְמְתָא‎</span></big>** **ʼAchmᵉthâʼ** <small>*(akh-me-thaw')*</small> ==**Ecbatana**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Achmetha.

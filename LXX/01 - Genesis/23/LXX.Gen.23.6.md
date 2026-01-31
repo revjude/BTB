@@ -7,38 +7,38 @@ Hear us, my lord: thou [art] a mighty prince among us: in the choice of our sepu
 “Listen to us, sir. You are God’s chosen one among us. Bury your dead in the finest of our tombs. None of us will withhold his tomb for burying your dead.”<small><sub>**MT:**</sub></small>
 [[Gen.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.5|<< Genesis 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.7|Genesis 23:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But hear | <big><span class="asgreek">άκουσον</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| us; | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as a\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| choice | <big><span class="asgreek">εκλεκτοίς</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| sepulchres | <big><span class="asgreek">μνημείοις</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You entomb | <big><span class="asgreek">θάψον</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dead | <big><span class="asgreek">νεκρόν</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for not one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| will withhold | <big><span class="asgreek">κωλύσει</span></big> <sup><small><small>[[G2967]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sepulchre | <big><span class="asgreek">μνημείον</span></big> <sup><small><small>[[G3419]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to entomb | <big><span class="asgreek">θάψαι</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dead | <big><span class="asgreek">νεκρόν</span></big> <sup><small><small>[[G3498]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| But hear | **<big>[[G0191\|άκουσον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| us; | **<big>[[G1473\|ημών]]</big>** |
+| \[as a\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| choice | **<big>[[G1588\|εκλεκτοίς]]</big>** |
+| sepulchres | **<big>[[G3419\|μνημείοις]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| You entomb | **<big>[[G2290\|θάψον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your dead | **<big>[[G3498\|νεκρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for not one | **<big>[[G3762\|ουδείς]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of us | **<big>[[G1473\|ημών]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| will withhold | **<big>[[G2967\|κωλύσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his sepulchre | **<big>[[G3419\|μνημείον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to entomb | **<big>[[G2290\|θάψαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your dead | **<big>[[G3498\|νεκρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Gen.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.5|<< Genesis 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.7|Genesis 23:7 >>]]</td></tr></table>
 
 

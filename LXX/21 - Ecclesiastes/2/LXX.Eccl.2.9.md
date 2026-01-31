@@ -7,26 +7,26 @@ So I was great, and increased more than all that were before me in Jerusalem: al
 So I became great and surpassed all in Jerusalem who had preceded me; and my wisdom remained with me.<small><sub>**MT:**</sub></small>
 [[Eccl.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I became magnified, | <big><span class="asgreek">εμεγαλύνθην</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| proceeded | <big><span class="asgreek">προσέθηκα</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| in wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| past | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">γενομένους</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem; | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| my wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was established | <big><span class="asgreek">εστάθη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I became magnified, | **<big>[[G3170\|εμεγαλύνθην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| proceeded | **<big>[[G4369\|προσέθηκα]]</big>** |
+| in wisdom | **<big>[[G4678\|σοφίαν]]</big>** |
+| past | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| being | **<big>[[G1096\|γενομένους]]</big>** |
+| before | **<big>[[G1715\|έμπροσθέν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem; | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| my wisdom | **<big>[[G4678\|σοφία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| was established | **<big>[[G2476\|εστάθη]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Eccl.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
 
 

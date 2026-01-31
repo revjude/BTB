@@ -7,35 +7,35 @@ If he said thus, The speckled shall be thy wages; then all the cattle bare speck
 If he said, ‘The speckled will be your wages,’ then the whole flock bore speckled offspring. If he said, ‘The streaked will be your wages,’ then the whole flock bore streaked offspring.<small><sub>**MT:**</sub></small>
 [[Gen.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.7|<< Genesis 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.9|Genesis 31:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he should have said, | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| colored | <big><span class="asgreek">ποικίλα</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wage, | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| would bear | <big><span class="asgreek">τέξεται</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| colored. | <big><span class="asgreek">ποικίλα</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he should have said, | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white | <big><span class="asgreek">λευκά</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wage, | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| would bear | <big><span class="asgreek">τέξεται</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flocks | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| white. | <big><span class="asgreek">λευκά</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| he should have said, | **<big>[[G2036\|είπη]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| colored | **<big>[[G4164\|ποικίλα]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| wage, | **<big>[[G3408\|μισθός]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| would bear | **<big>[[G5088\|τέξεται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| flocks | **<big>[[G4263\|πρόβατα]]</big>** |
+| colored. | **<big>[[G4164\|ποικίλα]]</big>** |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he should have said, | **<big>[[G2036\|είπη]]</big>** |
+| The | **<big>[[G3588\|τα]]</big>** |
+| white | **<big>[[G3022\|λευκά]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| wage, | **<big>[[G3408\|μισθός]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| would bear | **<big>[[G5088\|τέξεται]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| flocks | **<big>[[G4263\|πρόβατα]]</big>** |
+| white. | **<big>[[G3022\|λευκά]]</big>** |
 [[Gen.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.7|<< Genesis 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.9|Genesis 31:9 >>]]</td></tr></table>
 
 

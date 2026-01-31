@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aijalon</span>, a city allotted to Dan and the Levites, known for Joshua's miracle.
 - A location first mentioned at [[Josh.10.12|Jos.10.12]]; 
-- only referred to as Aijalon<[[H0357]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Aijalon **<big>[[H0357|אַיָּלוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.84117376619545,35.02537926743067&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ King Rehoboam of Judah fortified Aijalon as part of his defensive strategy \([[2
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aijalon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0357) <small>*Hebrew*</small> | 10x | [[Jos.10.12] ... [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aijalon\*\|reference=Jos.10.12;Jos.19.42;Jos.21.24;Jdg.1.35;Jdg.12.12;1Sa.14.31;1Ch.6.69;1Ch.8.13;2Ch.11.10;2Ch.28.18) |
-All Strong's for **Aijalon**: \[[[H0357]]\]
+| Aijalon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0357) | 10x | [[Jos.10.12] ... [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aijalon\*\|reference=Jos.10.12;Jos.19.42;Jos.21.24;Jdg.1.35;Jdg.12.12;1Sa.14.31;1Ch.6.69;1Ch.8.13;2Ch.11.10;2Ch.28.18) |
+All entries for **Aijalon**:  **<big>[[H0357|אַיָּלוֹן]]</big>**

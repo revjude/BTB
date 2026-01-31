@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית הַשִּׁטָּה‎</span></big> **Bêyth hash-Shiṭṭâh** <small>*(bayth hash-shit-taw')*</small> ==**Beth-shittah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎שִׁטָּה‎</span><sup><small>[[H7848]]</small></sup> with the article interposed; house of the acacia</small>
+**<big><span class="ashebrew">‎בֵּית הַשִּׁטָּה‎</span></big>** **Bêyth hash-Shiṭṭâh** <small>*(bayth hash-shit-taw')*</small> ==**Beth-shittah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H7848|‎שִׁטָּה‎]]</big>** with the article interposed; house of the acacia</small>
 
 $\quad$ Beth-shittah.
 - § Beth-shittah = *"house of the acacia tree" or "place of the acacia"*

@@ -1,4 +1,4 @@
-form of: <small>[[G4160G]]</small> 
+form of: <small>**<big>[[G4160G|ποιέω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ποίησις==</span>-<span class='asgreek'>ησις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 

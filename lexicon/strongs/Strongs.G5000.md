@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎Ταβιθά‎</span></big> **Tabithá** <small>*(tab-ee-thah')*</small> ==**Tabitha**==  <sup><small>[[TEGMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>of Chaldee origin (compare <span class="ashebrew">‎צְבִיָּה‎</span><sup><small>[[H6646]]</small></sup>)</small>
+**<big><span class="asgreek">‎Ταβιθά‎</span></big>** **Tabithá** <small>*(tab-ee-thah')*</small> ==**Tabitha**==  <sup><small>[[TEGMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>of Chaldee origin (compare **<big>[[H6646|‎צְבִיָּה‎]]</big>**)</small>
 
 $\quad$ Tabitha.
 - the gazelle

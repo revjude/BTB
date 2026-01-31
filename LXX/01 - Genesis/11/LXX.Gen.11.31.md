@@ -11,50 +11,50 @@ And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in
 > $\quad$ referenced by: [[Acts.7.4|Acts 7:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Terah took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Θαρά</span></big> <sup><small><small>[[G2291]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιον</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Haran, | <big><span class="asgreek">Αράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his son, | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sarai | <big><span class="asgreek">Σάραν</span></big> <sup><small><small>[[H8297]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his daughter-in-law, | <big><span class="asgreek">νύμφην</span></big> <sup><small><small>[[G3565]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his son. | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he led | <big><span class="asgreek">εξήγαγεν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| region | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| to go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan. | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Haran | <big><span class="asgreek">Χαράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκησεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Terah took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G2291\|Θαρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| his son, | **<big>[[G5207\|υιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Lot | **<big>[[G3091\|Λωτ]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιόν]]</big>** |
+| of Haran, | **<big>[[G5488\|Αράν]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his son, | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Sarai | **<big>[[H8297\|Σάραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his daughter-in-law, | **<big>[[G3565\|νύμφην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| of Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his son. | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he led | **<big>[[G1806\|εξήγαγεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| region | **<big>[[G5561\|χώρας]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| to go | **<big>[[G4198\|πορευθήναι]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Canaan. | **<big>[[H3668\|Χαναάν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|ήλθον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Haran | **<big>[[G5488\|Χαράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκησεν]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Gen.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.30|<< Genesis 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.32|Genesis 11:32 >>]]</td></tr></table>
 
 

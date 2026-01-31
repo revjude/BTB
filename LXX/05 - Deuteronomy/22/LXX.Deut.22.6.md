@@ -7,46 +7,46 @@ If a bird’s nest chance to be before thee in the way in any tree, or on the gr
 If you come across a bird’s nest with chicks or eggs, either in a tree or on the ground along the road, and the mother is sitting on the chicks or eggs, you must not take the mother along with the young.<small><sub>**MT:**</sub></small>
 [[Deut.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.5|<< Deuteronomy 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.7|Deuteronomy 22:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should meet with | <big><span class="asgreek">συναντήσης</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| a nest | <big><span class="asgreek">νοσσιά</span></big> <sup><small><small>[[G3555]]</small></small></sup> |
-| of birds | <big><span class="asgreek">ορνέων</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tree, | <big><span class="asgreek">δένδρω</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground -- | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| young \[chicks\] | <big><span class="asgreek">νεοσσοίς</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| eggs, | <big><span class="asgreek">ωοίς</span></big> <sup><small><small>[[G5609]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| should be incubating | <big><span class="asgreek">θάλπη</span></big> <sup><small><small>[[G2282]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young, | <big><span class="asgreek">νεοσσών</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eggs, | <big><span class="asgreek">ωών</span></big> <sup><small><small>[[G5609]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| offspring. | <big><span class="asgreek">τέκνων</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should meet with | **<big>[[G4876\|συναντήσης]]</big>** |
+| a nest | **<big>[[G3555\|νοσσιά]]</big>** |
+| of birds | **<big>[[G3732\|ορνέων]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way, | **<big>[[G3598\|οδώ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| any | **<big>[[G3956\|παντί]]</big>** |
+| tree, | **<big>[[G1186\|δένδρω]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ground -- | **<big>[[G1093\|γης]]</big>** |
+| young \[chicks\] | **<big>[[G3502\|νεοσσοίς]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| eggs, | **<big>[[G5609\|ωοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| mother | **<big>[[G3384\|μήτηρ]]</big>** |
+| should be incubating | **<big>[[G2282\|θάλπη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| young, | **<big>[[G3502\|νεοσσών]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| eggs, | **<big>[[G5609\|ωών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| take | **<big>[[G2983\|λήψη]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| mother | **<big>[[G3384\|μητέρα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| offspring. | **<big>[[G5043\|τέκνων]]</big>** |
 [[Deut.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.5|<< Deuteronomy 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.7|Deuteronomy 22:7 >>]]</td></tr></table>
 
 

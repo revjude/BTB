@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶחֱלָמִי‎</span></big> **Nechĕlâmîy** <small>*(nekh-el-aw-mee')*</small> ==**Nehelam**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>apparently a patronymic from an unused name (apparently passive participle of <span class="ashebrew">‎חָלַם‎</span><sup><small>[[H2492]]</small></sup>); dreamed</small>
+**<big><span class="ashebrew">‎נֶחֱלָמִי‎</span></big>** **Nechĕlâmîy** <small>*(nekh-el-aw-mee')*</small> ==**Nehelam**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>apparently a patronymic from an unused name (apparently passive participle of **<big>[[H2492|‎חָלַם‎]]</big>**); dreamed</small>
 
 $\quad$ Nehelamite.
 - § Nehelamite = *"he of the dream"*

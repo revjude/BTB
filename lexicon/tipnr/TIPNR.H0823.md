@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ashnah</span>, two cities in the lowlands of Judah, mentioned in the tribal allotment.
 - A location first mentioned at [[Josh.15.33|Jos.15.33]]; 
-- only referred to as Ashnah<[[H0823]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Ashnah **<big>[[H0823|אַשְׁנָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.8099,34.9365&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The exact locations of the two Ashnahs are uncertain, and they are not mentioned
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ashnah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0823) <small>*Hebrew*</small> | 2x | [[Jos.15.33] & [Jos.15.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashnah\*\|reference=Jos.15.33;Jos.15.43) |
-All Strong's for **Ashnah**: \[[[H0823]]\]
+| Ashnah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0823) | 2x | [[Jos.15.33] & [Jos.15.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashnah\*\|reference=Jos.15.33;Jos.15.43) |
+All entries for **Ashnah**:  **<big>[[H0823|אַשְׁנָה]]</big>**

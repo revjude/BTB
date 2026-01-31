@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μόσχος</span></span>, <span class="asgreek">-ου, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">פָּר</span> <small><sup>[[H6499]]</sup></small>, also for <span class="ashebrew">שׁוֹר</span> <small><sup>[[H7794]]</sup></small>, <span class="ashebrew">עֵגֶל</span> <small><sup>[[H5695]]</sup></small>. etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μόσχος</span></span>, <span class="asgreek">-ου, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H6499|פָּר]]</big>**, also for **<big>[[H7794|שׁוֹר]]</big>**, **<big>[[H5695|עֵגֶל]]</big>**. etc.;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a young shoot</span> or <span class="asitalic">twig</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asgreek">ὁ, ἡ, μ.</span>, <span class="asitalic">offspring</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of men;</span>

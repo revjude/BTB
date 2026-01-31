@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀπειθής</span></span>, <span class="asgreek">-ές</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">πείθομαι</span></span>),</span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">מרה</span> <small><sup>[[H4759]]</sup></small>, <span class="ashebrew">מְרִי</span> <small><sup>[[H4806]]</sup></small>, <span class="ashebrew">סרר</span> <small><sup>[[H5637]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀπειθής</span></span>, <span class="asgreek">-ές</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">πείθομαι</span></span>),</span>  <span class="asseptuagint">\[in LXX for **<big>[[H4759|מרה]]</big>**, **<big>[[H4806|מְרִי]]</big>**, **<big>[[H5637|סרר]]</big>**;\]</span> </span>
 <span class="asitalic">disobedient</span>: absol., [[Luke.1.17|Lk 1:17]], [[Titus.1.16|Tit 1:16]] [[Titus.3.3|3:3]]; c. dat., [[Acts.26.19|Ac 26:19]], [[Rom.1.30|Ro 1:30]], [[2Tim.3.2|II Ti 3:2]].†
 
 **Abbott-Smith References**

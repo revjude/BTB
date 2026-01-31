@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עֲבַד‎</span></big> **ʻăbad** <small>*(ab-bad')*</small> ==**to make**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup></small>
+**<big><span class="asaramaic">‎עֲבַד‎</span></big>** **ʻăbad** <small>*(ab-bad')*</small> ==**to make**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5647|‎עָבַד‎]]</big>**</small>
 
 $\quad$ [idiom] cut, do, execute, go on, make, move, work.
 - ***to do***, ***make***, ***prepare***, ***keep***, etc.

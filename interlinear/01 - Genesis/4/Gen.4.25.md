@@ -6,30 +6,30 @@ And Adam again had relations with his wife, and she gave birth to a son and name
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.24|<< Genesis 4:24]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.26|Genesis 4:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he knew  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֵּ֨דַע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ye.da' <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Adam  | <span class="ashebrew"><big>אָדָ֥ם </big></span><small><small><sup>[[H0121G]]</sup></small></small> &#8207;| 'a.Dam <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>עוֹד֙ </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| 'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wife his  | <span class="ashebrew"><big>אִשְׁתּ֔ </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'ish.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she bore  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תֵּ֣לֶד </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Te.led <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a son  | <span class="ashebrew"><big>בֵּ֔ן </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| Ben <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she called  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּקְרָ֥א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> tik.Ra' <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  | <span class="ashebrew"><big>שְׁמ֖ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Seth  | <span class="ashebrew"><big>שֵׁ֑ת </big></span><small><small><sup>[[H8352]]</sup></small></small> &#8207;| Shet <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has appointed  | <span class="ashebrew"><big>שָֽׁת </big></span><small><small><sup>[[H7896I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shat- <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> me  | <span class="ashebrew"><big>לִ֤ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God of  | <span class="ashebrew"><big>אֱלֹהִים֙ </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| spring  | <span class="ashebrew"><big>זֶ֣רַע </big></span><small><small><sup>[[H2233H]]</sup></small></small> &#8207;| Ze.ra' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| another  | <span class="ashebrew"><big>אַחֵ֔ר </big></span><small><small><sup>[[H0312]]</sup></small></small> &#8207;| 'a.Cher <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of  | <span class="ashebrew"><big>תַּ֣חַת </big></span><small><small><sup>[[H8478H]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abel  | <span class="ashebrew"><big>הֶ֔בֶל </big></span><small><small><sup>[[H1893]]</sup></small></small> &#8207;| He.vel <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he killed him  | <span class="ashebrew"><big>הֲרָג֖ </big></span><small><small><sup>[[H2026]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ha.ra.G <small><sup>[[HVqp3ms]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cain  | <span class="ashebrew"><big>קָֽיִן </big></span><small><small><sup>[[H7014B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ka.yin <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he knew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יֵּ֨דַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.da'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adam  |**<big>&#8207;[[H0121G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עוֹד֙]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife his  |**<big>&#8207;[[H0802H\|אִשְׁתּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֣לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  |**<big>&#8207;[[H1121A\|בֵּ֔ן]]&#8207; </big>**| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|תִּקְרָ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Seth  |**<big>&#8207;[[H8352\|שֵׁ֑ת]]&#8207; </big>**| Shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has appointed  |**<big>&#8207;[[H7896I\|שָֽׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shat-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God of  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spring  |**<big>&#8207;[[H2233H\|זֶ֣רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  |**<big>&#8207;[[H0312\|אַחֵ֔ר]]&#8207; </big>**| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abel  |**<big>&#8207;[[H1893\|הֶ֔בֶל]]&#8207; </big>**| He.vel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he killed him  |**<big>&#8207;[[H2026\|הֲרָג֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ha.ra.G<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cain  |**<big>&#8207;[[H7014B\|קָֽיִן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.24|<< Genesis 4:24]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.26|Genesis 4:26 >>]]</td></tr></table>
 
 

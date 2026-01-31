@@ -7,16 +7,16 @@ For I know [that] thou wilt bring me [to] death, and [to] the house appointed fo
 Yes, I know that You will bring me down to death, to the place appointed for all the living.<small><sub>**MT:**</sub></small>
 [[Job.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.22|<< Job 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.24|Job 30:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| death | <big><span class="asgreek">θάνατός</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| \[will\] obliterate me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εκτρίψει</span></big> <sup><small><small>[[G7160]]</small></small></sup> |
-| for \[the\] house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| mortal | <big><span class="asgreek">θνητώ</span></big> <sup><small><small>[[G2349]]</small></small></sup> |
-| \[is\] ground. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| For I know | **<big>[[G1492\|οίδα]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| death | **<big>[[G2288\|θάνατός]]</big>** |
+| \[will\] obliterate me; | **<big>[[G1473\|με]]</big>** **<big>[[G7160\|εκτρίψει]]</big>** |
+| for \[the\] house | **<big>[[G3614\|οικία]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of every | **<big>[[G3956\|παντί]]</big>** |
+| mortal | **<big>[[G2349\|θνητώ]]</big>** |
+| \[is\] ground. | **<big>[[G1093\|γη]]</big>** |
 [[Job.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.22|<< Job 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.24|Job 30:24 >>]]</td></tr></table>
 
 

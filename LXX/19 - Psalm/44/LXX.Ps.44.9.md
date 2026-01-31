@@ -7,21 +7,21 @@ But thou hast cast off, and put us to shame; and goest not forth with our armies
 But You have rejected and humbled us; You no longer go forth with our armies.<small><sub>**MT:**</sub></small>
 [[Ps.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.8|<< Psalm 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.10|Psalm 44:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But now | <big><span class="asgreek">νυνί</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you thrusted away, | <big><span class="asgreek">απώσω</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| disgraced | <big><span class="asgreek">κατήσχυνας</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| us; | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go forth, | <big><span class="asgreek">εξελεύση</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our forces. | <big><span class="asgreek">δυνάμεσιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But now | **<big>[[G3568\|νυνί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you thrusted away, | **<big>[[G0683\|απώσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| disgraced | **<big>[[G2617\|κατήσχυνας]]</big>** |
+| us; | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| go forth, | **<big>[[G1831\|εξελεύση]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| our forces. | **<big>[[G1411\|δυνάμεσιν]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Ps.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.8|<< Psalm 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.10|Psalm 44:10 >>]]</td></tr></table>
 
 

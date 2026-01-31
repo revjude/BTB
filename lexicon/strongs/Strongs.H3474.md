@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָשַׁר‎</span></big> **yâshar** <small>*(yaw-shar')*</small> ==**to smooth**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָשַׁר‎</span></big>** **yâshar** <small>*(yaw-shar')*</small> ==**to smooth**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ direct, fit, seem good (meet), [phrase] please (will), be (esteem, go) right (on), bring (look, make, take the) straight (way), be upright(-ly).
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1b3)** to esteem right, approve
 $\quad$ **1c)** (Pual) to be made level, be laid smoothly out
 $\quad$ **1d)** (Hiphil) to make straight, look straight
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρέσκω</span><sup><small>[[G0700]]</small></sup> · <span class="asgreek">ἀρχή</span><sup><small>[[G0746]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">δοκέω</span><sup><small>[[G1380]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">εὐδοκέω</span><sup><small>[[G2106]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθύνω</span><sup><small>[[G2116]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup> · <span class="asgreek">κατάγω</span><sup><small>[[G2609]]</small></sup> · <span class="asgreek">κατευθύνω</span><sup><small>[[G2720]]</small></sup> · <span class="asgreek">ὀρθοτομέω</span><sup><small>[[G3718]]</small></sup>
+<small>See Greek: </small>**<big>[[G0700|ἀρέσκω]]</big>** · **<big>[[G0746|ἀρχή]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G1380|δοκέω]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G2106|εὐδοκέω]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2116|εὐθύνω]]</big>** · **<big>[[G2117|εὐθύς]]</big>** · **<big>[[G2117|εὐθύς]]</big>** · **<big>[[G2609|κατάγω]]</big>** · **<big>[[G2720|κατευθύνω]]</big>** · **<big>[[G3718|ὀρθοτομέω]]</big>**

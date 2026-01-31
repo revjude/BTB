@@ -6,13 +6,13 @@ He leads counselors away barefoot and makes fools of judges.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.16|<< Job 12:16]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.18|Job 12:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [he is] leading away  | <span class="ashebrew"><big>מוֹלִ֣יךְ </big></span><small><small><sup>[[H1980J]]</sup></small></small> &#8207;| mo.Likh <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| counselors  | <span class="ashebrew"><big>יוֹעֲצִ֣ים </big></span><small><small><sup>[[H3289]]</sup></small></small> &#8207;| yo.'a.Tzim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| barefoot  | <span class="ashebrew"><big>שׁוֹלָ֑ל </big></span><small><small><sup>[[H7758]]</sup></small></small> &#8207;| sho.Lal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and judges  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֹׁפְטִ֥ים </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> sho.fe.Tim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he makes look foolish  | <span class="ashebrew"><big>יְהוֹלֵֽל </big></span><small><small><sup>[[H1984C]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ho.Lel <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] leading away  |**<big>&#8207;[[H1980J\|מוֹלִ֣יךְ]]&#8207; </big>**| mo.Likh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| counselors  |**<big>&#8207;[[H3289\|יוֹעֲצִ֣ים]]&#8207; </big>**| yo.'a.Tzim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| barefoot  |**<big>&#8207;[[H7758\|שׁוֹלָ֑ל]]&#8207; </big>**| sho.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and judges  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H8199\|שֹׁפְטִ֥ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.fe.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he makes look foolish  |**<big>&#8207;[[H1984C\|יְהוֹלֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ho.Lel<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.16|<< Job 12:16]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.18|Job 12:18 >>]]</td></tr></table>
 
 

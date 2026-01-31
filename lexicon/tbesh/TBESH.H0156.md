@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אָדַשׁ‎</span> <small>***(a.dash)***</small> ==**to thresh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-spelling of: <small>[[H1758]]</small> 
+<small>spelling of:</small> <small>**<big>[[H1758|דּוּשׁ]]</big>**</small> 
 
-- Another spelling of <i>dush</i> (<span class='ashebrew'>‎ד‎</span>ּ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎ש‎</span>ׁ "to tread" [[H1758]])
+- Another spelling of <i>dush</i> (<span class='ashebrew'>‎ד‎</span>ּ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎ש‎</span>ׁ "to tread" **<big>[[H1758|דּוּשׁ]]</big>**)

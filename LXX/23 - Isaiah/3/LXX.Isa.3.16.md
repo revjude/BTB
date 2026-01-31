@@ -10,38 +10,38 @@ Moreover the LORD saith, Because the daughters of Zion are haughty, and walk wit
 The LORD also says: “Because the daughters of Zion are haughty—walking with heads held high and wanton eyes, prancing and skipping as they go, jingling the bracelets on their ankles—<small><sub>**MT:**</sub></small>
 [[Isa.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.15|<< Isaiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.17|Isaiah 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| are haughty | <big><span class="asgreek">υψώθησαν</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they go | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \[with\] a high | <big><span class="asgreek">υψηλώ</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| neck, | <big><span class="asgreek">τραχήλω</span></big> <sup><small><small>[[G5137]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] beckon | <big><span class="asgreek">νεύμασιν</span></big> <sup><small><small>[[G8388]]</small></small></sup> |
-| of \[the\] eyes, | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| goings | <big><span class="asgreek">πορεία</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[with their\] feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| dragging | <big><span class="asgreek">σύρουσαι</span></big> <sup><small><small>[[G4951]]</small></small></sup> |
-| their | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner garments, | <big><span class="asgreek">χιτώνας</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| playing | <big><span class="asgreek">παίζουσαι</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| are haughty | **<big>[[G5312\|υψώθησαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of Zion | **<big>[[G4622\|Σιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they go | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| \[with\] a high | **<big>[[G5308\|υψηλώ]]</big>** |
+| neck, | **<big>[[G5137\|τραχήλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] beckon | **<big>[[G8388\|νεύμασιν]]</big>** |
+| of \[the\] eyes, | **<big>[[G3788\|οφθαλμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their | **<big>[[G3588\|τη]]</big>** |
+| goings | **<big>[[G4197\|πορεία]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| \[with their\] feet | **<big>[[G4228\|ποδών]]</big>** |
+| together, | **<big>[[G0260\|άμα]]</big>** |
+| dragging | **<big>[[G4951\|σύρουσαι]]</big>** |
+| their | **<big>[[G3588\|τους]]</big>** |
+| inner garments, | **<big>[[G5509\|χιτώνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their | **<big>[[G3588\|τοις]]</big>** |
+| feet | **<big>[[G4228\|ποσίν]]</big>** |
+| together | **<big>[[G0260\|άμα]]</big>** |
+| playing | **<big>[[G3815\|παίζουσαι]]</big>** |
 [[Isa.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.15|<< Isaiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.17|Isaiah 3:17 >>]]</td></tr></table>
 
 

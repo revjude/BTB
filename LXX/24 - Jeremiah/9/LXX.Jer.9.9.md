@@ -7,23 +7,23 @@ Shall I not visit them for these [things]? saith the LORD: shall not my soul be 
 Should I not punish them for these things? declares the LORD. Should I not avenge Myself on such a nation as this?”<small><sub>**MT:**</sub></small>
 [[Jer.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.8|<< Jeremiah 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.10|Jeremiah 9:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| visit | <big><span class="asgreek">επισκέψομαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or, | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| such | <big><span class="asgreek">τοιούτω</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| take vengeance | <big><span class="asgreek">εκδικήσει</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| these | **<big>[[G3778\|τούτοις]]</big>** |
+| I not | **<big>[[G3756\|ουκ]]</big>** |
+| visit | **<big>[[G1980\|επισκέψομαι]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κύριος]]</big>** |
+| or, | **<big>[[G2228\|η]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| a people | **<big>[[G2992\|λαώ]]</big>** |
+| such | **<big>[[G5108\|τοιούτω]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| take vengeance | **<big>[[G1556\|εκδικήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jer.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.8|<< Jeremiah 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.10|Jeremiah 9:10 >>]]</td></tr></table>
 
 

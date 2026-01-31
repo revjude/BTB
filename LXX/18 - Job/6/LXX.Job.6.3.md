@@ -7,18 +7,18 @@ For now it would be heavier than the sand of the sea: therefore my words are swa
 For then it would outweigh the sand of the seas—no wonder my words have been rash.<small><sub>**MT:**</sub></small>
 [[Job.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.2|<< Job 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.4|Job 6:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| of \[the\] sand | <big><span class="asgreek">άμμου</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| of \[the\] coast | <big><span class="asgreek">παραλίας</span></big> <sup><small><small>[[G3882]]</small></small></sup> |
-| it will be heavier; | <big><span class="asgreek">βαρυτέρα</span></big> <sup><small><small>[[G0926]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sayings | <big><span class="asgreek">ρήματά</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were trampled. | <big><span class="asgreek">κατεπατήθησαν</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| For | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| of \[the\] sand | **<big>[[G0285\|άμμου]]</big>** |
+| of \[the\] coast | **<big>[[G3882\|παραλίας]]</big>** |
+| it will be heavier; | **<big>[[G0926\|βαρυτέρα]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| this | **<big>[[G3778\|τούτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my sayings | **<big>[[G4487\|ρήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| were trampled. | **<big>[[G2662\|κατεπατήθησαν]]</big>** |
 [[Job.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.2|<< Job 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.4|Job 6:4 >>]]</td></tr></table>
 
 

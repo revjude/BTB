@@ -7,27 +7,27 @@ So she kept fast by the maidens of Boaz to glean unto the end of barley harvest 
 So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law.<small><sub>**MT:**</sub></small>
 [[Ruth.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.22|<< Ruth 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.1|Ruth 3:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ruth cleaved | <big><span class="asgreek">προσεκολλήθη</span></big> <sup><small><small>[[G4347]]</small></small></sup> <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young women | <big><span class="asgreek">κορασίοις</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Boaz | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to collect | <big><span class="asgreek">συλλέγειν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| they completed | <big><span class="asgreek">συντέλεσεν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| barley, | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wheat. | <big><span class="asgreek">πυρών</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ruth cleaved | **<big>[[G4347\|προσεκολλήθη]]</big>** **<big>[[G4503\|Ρουθ]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| young women | **<big>[[G2877\|κορασίοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Boaz | **<big>[[G1003\|Βοόζ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to collect | **<big>[[G4816\|συλλέγειν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| they completed | **<big>[[G4931\|συντέλεσεν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| harvest | **<big>[[G2326\|θερισμόν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| barley, | **<big>[[G2915\|κριθών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| harvest | **<big>[[G2326\|θερισμόν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| wheat. | **<big>[[G8994\|πυρών]]</big>** |
 [[Ruth.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.22|<< Ruth 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.1|Ruth 3:1 >>]]</td></tr></table>
 
 

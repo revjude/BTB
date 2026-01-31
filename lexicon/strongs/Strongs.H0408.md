@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַל‎</span></big> **ʼal** <small>*(al)*</small> ==**not**==  <sup><small>[[TEHMC#H:Neg|H:Neg]]</small></sup> 
-<small>a negative particle (akin to <span class="ashebrew">‎לֹא‎</span><sup><small>[[H3808]]</small></sup>)</small>
+**<big><span class="ashebrew">‎אַל‎</span></big>** **ʼal** <small>*(al)*</small> ==**not**==  <sup><small>[[TEHMC#H:Neg|H:Neg]]</small></sup> 
+<small>a negative particle (akin to **<big>[[H3808|‎לֹא‎]]</big>**)</small>
 
 $\quad$ nay, neither, [phrase] never, no, nor, not, nothing (worth), rather than.
 - ***not*** (the qualified negation, used as a deprecative)

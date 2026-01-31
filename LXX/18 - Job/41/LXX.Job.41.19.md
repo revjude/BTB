@@ -7,17 +7,17 @@ Out of his mouth go burning lamps, [and] sparks of fire leap out.
 Firebrands stream from his mouth; fiery sparks shoot forth!<small><sub>**MT:**</sub></small>
 [[Job.41.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.18|<< Job 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.20|Job 41:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| his mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">εκπορεύονται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| lamps | <big><span class="asgreek">λαμπάδες</span></big> <sup><small><small>[[G2985]]</small></small></sup> |
-| burning | <big><span class="asgreek">καιόμεναι</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| scattered | <big><span class="asgreek">διαρριπτούνται</span></big> <sup><small><small>[[G6871]]</small></small></sup> |
-| grates | <big><span class="asgreek">εσχάραι</span></big> <sup><small><small>[[G7516]]</small></small></sup> |
-| of fire. | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| From out of | **<big>[[G1537\|εκ]]</big>** |
+| his mouth | **<big>[[G4750\|στόματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall go forth | **<big>[[G1607\|εκπορεύονται]]</big>** |
+| lamps | **<big>[[G2985\|λαμπάδες]]</big>** |
+| burning | **<big>[[G2545\|καιόμεναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| scattered | **<big>[[G6871\|διαρριπτούνται]]</big>** |
+| grates | **<big>[[G7516\|εσχάραι]]</big>** |
+| of fire. | **<big>[[G4442\|πυρός]]</big>** |
 [[Job.41.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.18|<< Job 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.20|Job 41:20 >>]]</td></tr></table>
 
 

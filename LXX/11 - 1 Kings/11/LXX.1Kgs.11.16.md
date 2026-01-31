@@ -7,25 +7,25 @@ for six months Joab laid in wait there and all Israel, until of which \[time\] h
 Joab and all Israel had stayed there six months, until he had killed every male in Edom.<small><sub>**MT:**</sub></small>
 [[1Kgs.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.15|<< 1 Kings 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.17|1 Kings 11:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| months | <big><span class="asgreek">μήνας</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| laid in wait | <big><span class="asgreek">ενεκάθητο</span></big> <sup><small><small>[[G7002]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he utterly destroyed | <big><span class="asgreek">εξωλόθρευσε</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">αρσενικόν</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Edom. | <big><span class="asgreek">Ιδουμαίας</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| months | **<big>[[G3376\|μήνας]]</big>** |
+| laid in wait | **<big>[[G7002\|ενεκάθητο]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| Joab | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| he utterly destroyed | **<big>[[G1842\|εξωλόθρευσε]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| man | **<big>[[G6544\|αρσενικόν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Edom. | **<big>[[H0123\|Ιδουμαίας]]</big>** |
 [[1Kgs.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.15|<< 1 Kings 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.17|1 Kings 11:17 >>]]</td></tr></table>
 
 

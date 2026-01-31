@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎βαπτίζω‎</span></big> **baptízō** <small>*(bap-tid'-zo)*</small> ==**to baptize**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from a derivative of <span class="asgreek">βάπτω</span><sup><small>[[G0911]]</small></sup></small>
+**<big><span class="asgreek">‎βαπτίζω‎</span></big>** **baptízō** <small>*(bap-tid'-zo)*</small> ==**to baptize**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from a derivative of **<big>[[G0911|‎βάπτω‎]]</big>**</small>
 
 $\quad$ Baptist, baptize, wash.
 - to immerse, submerge

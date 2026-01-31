@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֵם‎</span></big> **ʼêm** <small>*(ame)*</small> ==**mother**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎אֵם‎</span></big>** **ʼêm** <small>*(ame)*</small> ==**mother**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>a primitive word</small>
 
 $\quad$ dam, mother, [idiom] parting.
@@ -11,4 +11,4 @@ $\quad$ **1b)** of Deborah's relationship to the people (fig.)
 $\quad$ **1c)** of animals
 **2)** point of departure or division
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρχαῖος</span><sup><small>[[G0744]]</small></sup> · <span class="asgreek">γονεύς</span><sup><small>[[G1118]]</small></sup> · <span class="asgreek">μήτηρ</span><sup><small>[[G3384]]</small></sup> · <span class="asgreek">μητρόπολις</span><sup><small>[[G3390]]</small></sup>
+<small>See Greek: </small>**<big>[[G0744|ἀρχαῖος]]</big>** · **<big>[[G1118|γονεύς]]</big>** · **<big>[[G3384|μήτηρ]]</big>** · **<big>[[G3390|μητρόπολις]]</big>**

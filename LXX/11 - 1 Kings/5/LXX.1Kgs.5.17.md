@@ -7,25 +7,25 @@ And the king commanded, and they brought great stones, costly stones, [and] hewe
 And the king commanded them to quarry large, costly stones to lay the foundation of the temple with dressed stones.<small><sub>**MT:**</sub></small>
 [[1Kgs.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.16|<< 1 Kings 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.18|1 Kings 5:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they lifted | <big><span class="asgreek">αίρουσι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλους</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| valuable | <big><span class="asgreek">τιμίους</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foundation | <big><span class="asgreek">θεμέλιον</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| unhewn | <big><span class="asgreek">απελεκητούς</span></big> <sup><small><small>[[G6406]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they lifted | **<big>[[G0142\|αίρουσι]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| great | **<big>[[G3173\|μεγάλους]]</big>** |
+| valuable | **<big>[[G5093\|τιμίους]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| foundation | **<big>[[G2310\|θεμέλιον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house, | **<big>[[G3624\|οίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| unhewn | **<big>[[G6406\|απελεκητούς]]</big>** |
 [[1Kgs.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.16|<< 1 Kings 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.18|1 Kings 5:18 >>]]</td></tr></table>
 
 

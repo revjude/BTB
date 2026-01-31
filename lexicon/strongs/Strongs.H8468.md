@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּחִנָּה‎</span></big> **Tᵉchinnâh** <small>*(tekh-in-naw')*</small> ==**Tehinnah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎תְּחִנָּה‎</span><sup><small>[[H8467]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּחִנָּה‎</span></big>** **Tᵉchinnâh** <small>*(tekh-in-naw')*</small> ==**Tehinnah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8467|‎תְּחִנָּה‎]]</big>**</small>
 
 $\quad$ Tehinnah.
 - § Tehinnah = *"supplication"*

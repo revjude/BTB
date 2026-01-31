@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמּוֹן‎</span></big> **ʻAmmôwn** <small>*(am-mone')*</small> ==**Ammon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; tribal, i.e. inbred</small>
+**<big><span class="ashebrew">‎עַמּוֹן‎</span></big>** **ʻAmmôwn** <small>*(am-mone')*</small> ==**Ammon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5971|‎עַם‎]]</big>**; tribal, i.e. inbred</small>
 
 $\quad$ Ammon, Ammonites.
 - § Ammon = *"tribal"*

@@ -7,30 +7,30 @@ And they have gathered together the money that was found in the house of the LOR
 They have paid out the money that was found in the house of the LORD and have put it into the hands of the supervisors and workers.”<small><sub>**MT:**</sub></small>
 [[2Chr.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.16|<< 2 Chronicles 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.18|2 Chronicles 34:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cast in a furnace | <big><span class="asgreek">εχώνευσαν</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| found | <big><span class="asgreek">ευρεθέν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put \[it\] | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| overseers, | <big><span class="asgreek">επισκόπων</span></big> <sup><small><small>[[G1985]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones doing | <big><span class="asgreek">ποιούντων</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work. | <big><span class="asgreek">εργασίαν</span></big> <sup><small><small>[[G2039]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they cast in a furnace | **<big>[[G9779\|εχώνευσαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| found | **<big>[[G2147\|ευρεθέν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they put \[it\] | **<big>[[G1325\|έδωκαν]]</big>** |
+| into | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| overseers, | **<big>[[G1985\|επισκόπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1909\|επί]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones doing | **<big>[[G4160\|ποιούντων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| work. | **<big>[[G2039\|εργασίαν]]</big>** |
 [[2Chr.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.16|<< 2 Chronicles 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.18|2 Chronicles 34:18 >>]]</td></tr></table>
 
 

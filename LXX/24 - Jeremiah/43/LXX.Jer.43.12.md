@@ -7,33 +7,33 @@ And I will kindle a fire in the houses of the gods of Egypt; and he shall burn t
 I will kindle a fire in the temples of the gods of Egypt, and Nebuchadnezzar will burn those temples and take their gods as captives. So he will wrap himself with the land of Egypt as a shepherd wraps himself in his garment, and he will depart from there unscathed.<small><sub>**MT:**</sub></small>
 [[Jer.43.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.11|<< Jeremiah 43:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.13|Jeremiah 43:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall kindle | <big><span class="asgreek">καύσει</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οικίαις</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their gods, | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall set them on fire, | <big><span class="asgreek">εμπυριεί</span></big> <sup><small><small>[[G7207]]</small></small></sup> <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall resettle | <big><span class="asgreek">αποικιεί</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fumigate | <big><span class="asgreek">φθειριεί</span></big> <sup><small><small>[[G9635]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| fumigates | <big><span class="asgreek">φθειρίζει</span></big> <sup><small><small>[[G9635]]</small></small></sup> |
-| \[the\] shepherd | <big><span class="asgreek">ποιμήν</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his garment; | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| peace. | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall kindle | **<big>[[G2545\|καύσει]]</big>** |
+| a fire | **<big>[[G4442\|πυρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] houses | **<big>[[G3614\|οικίαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their gods, | **<big>[[G2316\|θεών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall set them on fire, | **<big>[[G7207\|εμπυριεί]]</big>** **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall resettle | **<big>[[G6442\|αποικιεί]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fumigate | **<big>[[G9635\|φθειριεί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| fumigates | **<big>[[G9635\|φθειρίζει]]</big>** |
+| \[the\] shepherd | **<big>[[G4166\|ποιμήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his garment; | **<big>[[G2440\|ιμάτιον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| peace. | **<big>[[G1515\|ειρήνη]]</big>** |
 [[Jer.43.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.11|<< Jeremiah 43:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.13|Jeremiah 43:13 >>]]</td></tr></table>
 
 

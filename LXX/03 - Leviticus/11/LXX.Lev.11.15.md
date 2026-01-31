@@ -7,18 +7,18 @@ Every raven after his kind;
 any kind of raven,<small><sub>**MT:**</sub></small>
 [[Lev.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.14|<< Leviticus 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.16|Leviticus 11:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] ostrich, | <big><span class="asgreek">στρούθον</span></big> <sup><small><small>[[G9207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| owl, | <big><span class="asgreek">γλαύκα</span></big> <sup><small><small>[[G6737]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gull, | <big><span class="asgreek">λάρον</span></big> <sup><small><small>[[G8164]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοια</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] ostrich, | **<big>[[G9207\|στρούθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| owl, | **<big>[[G6737\|γλαύκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gull, | **<big>[[G8164\|λάρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| likened | **<big>[[G3664\|όμοια]]</big>** |
+| to it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Lev.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.14|<< Leviticus 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.16|Leviticus 11:16 >>]]</td></tr></table>
 
 

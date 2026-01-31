@@ -7,24 +7,24 @@ And if the servant shall plainly say, I love my master, my wife, and my children
 But if the servant declares, ‘I love my master and my wife and children; I do not want to go free,’<small><sub>**MT:**</sub></small>
 [[Exod.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.4|<< Exodus 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.6|Exodus 21:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| responding | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| should have said | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| I have loved | <big><span class="asgreek">ηγάπηκα</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master, | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my wife, | <big><span class="asgreek">γυναίκά</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| children; | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| I \[do\] not run | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αποτρέχω</span></big> <sup><small><small>[[G6503]]</small></small></sup> |
-| free. | <big><span class="asgreek">ελεύθερος</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| responding | **<big>[[G0611\|αποκριθείς]]</big>** |
+| should have said | **<big>[[G2036\|είπη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| servant | **<big>[[G3816\|παις]]</big>** |
+| I have loved | **<big>[[G0025\|ηγάπηκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my master, | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my wife, | **<big>[[G1135\|γυναίκά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| children; | **<big>[[G3813\|παιδία]]</big>** |
+| I \[do\] not run | **<big>[[G3756\|ουκ]]</big>** **<big>[[G6503\|αποτρέχω]]</big>** |
+| free. | **<big>[[G1658\|ελεύθερος]]</big>** |
 [[Exod.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.4|<< Exodus 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.6|Exodus 21:6 >>]]</td></tr></table>
 
 

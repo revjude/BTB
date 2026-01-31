@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Ariel</span> was one of the leaders summoned by Ezra to assist in the return of the exiles to Jerusalem.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.8.16|Ezr.8.16]]; 
-- only referred to as Ariel<[[H0740G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Ariel **<big>[[H0740|אֲרִיאֵל]]</big>**.
 
 Ariel is mentioned in [[Ezra.8.16|Ezra 8:16]] as one of the leaders summoned by Ezra to assist in the return of the Jewish exiles from Babylon to Jerusalem. Ezra, a priest and scribe, led a group of Israelites back to Jerusalem during the reign of King Artaxerxes of Persia, with the purpose of teaching and enforcing the Law of Moses among the people. 
 
@@ -14,5 +14,5 @@ The mention of Ariel in this context highlights his role as a trusted leader amo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ariel | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0740G) <small>*Hebrew*</small> | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ariel\*\|reference=Ezr.8.16) |
-All Strong's for **Ariel**: \[[[H0740G]]\]
+| Ariel | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0740G) | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ariel\*\|reference=Ezr.8.16) |
+All entries for **Ariel**:  **<big>[[H0740|אֲרִיאֵל]]</big>**

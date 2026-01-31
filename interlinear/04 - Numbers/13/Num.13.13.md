@@ -6,13 +6,13 @@ from the tribe of Asher, Sethur son of Michael;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.12|<< Numbers 13:12]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.14|Numbers 13:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for [the] tribe of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַטֵּ֣ה </big></span><small><small><sup>[[H4294H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ma.Teh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Asher  | <span class="ashebrew"><big>אָשֵׁ֔ר </big></span><small><small><sup>[[H0836]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sethur  | <span class="ashebrew"><big>סְת֖וּר </big></span><small><small><sup>[[H5639]]</sup></small></small> &#8207;| se.Tur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Michael  | <span class="ashebrew"><big>מִיכָאֵֽל </big></span><small><small><sup>[[H4317G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.kha.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] tribe of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4294H\|מַטֵּ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asher  |**<big>&#8207;[[H0836\|אָשֵׁ֔ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sethur  |**<big>&#8207;[[H5639\|סְת֖וּר]]&#8207; </big>**| se.Tur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Michael  |**<big>&#8207;[[H4317G\|מִיכָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.kha.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.12|<< Numbers 13:12]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.14|Numbers 13:14 >>]]</td></tr></table>
 
 

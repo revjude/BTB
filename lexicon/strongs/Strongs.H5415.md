@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְתַן‎</span></big> **nᵉthan** <small>*(neth-an')*</small> ==**to give: give**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup></small>
+**<big><span class="asaramaic">‎נְתַן‎</span></big>** **nᵉthan** <small>*(neth-an')*</small> ==**to give: give**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5414|‎נָתַן‎]]</big>**</small>
 
 $\quad$ bestow, give pay.
 - ***give***

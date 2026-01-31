@@ -4,7 +4,7 @@
 
 
 
-<small>Also see: [[H0351]]</small>
+<small>Also see: **<big>[[H0351|אֵיכֹה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎אֵיכָה‎</span> (from <span class="bdbLangHebrew">‎אַי‎</span> and <span class="bdbLangHebrew">‎כָּה‎</span> = <span class="bdbLangHebrew">‎כֹּה‎</span>; compare Assyrian <abbr title="transliteration"><u>***ekiam***</u></abbr>) **adverb 1. interrogative** ==In what manner?== <span class="bdbLangGreek">τίνι τρόπῳ</span>; (rather more definite than <span class="bdbLangHebrew">‎אֵיח‎</span> = <span class="bdbLangGreek">πῶς</span>); [[Deut.1.12|Deut 1:12]]; [[Deut.7.17|Deut 7:17]]; [[Deut.12.30|Deut 12:30]]; [[Deut.18.21|Deut 18:21]]; [[Deut.32.30|Deut 32:30]]; [[Judg.20.3|Judg 20:3]] (indirect sentence) [[2Kgs.6.15|2Kgs 6:15]]; [[Jer.8.8|Jer 8:8]]; [[Ps.73.11|Ps 73:11]]. 
 

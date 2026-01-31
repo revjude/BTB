@@ -7,29 +7,29 @@ Haman said moreover, Yea, Esther the queen did let no man come in with the king 
 “What is more,” Haman added, “Queen Esther invited no one but me to join the king at the banquet she prepared, and I am invited back tomorrow along with the king.<small><sub>**MT:**</sub></small>
 [[Esth.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.11|<< Esther 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.13|Esther 5:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Haman said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| no one | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| has called | <big><span class="asgreek">κέκληκεν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen | <big><span class="asgreek">βασίλισσα</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| not one | <big><span class="asgreek">ουδένα</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| banquet | <big><span class="asgreek">δοχήν</span></big> <sup><small><small>[[G1403]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| she has invited | <big><span class="asgreek">κέκληκέ</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Haman said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[H2001\|Αμάν]]</big>** |
+| no one | **<big>[[G3756\|ου]]</big>** |
+| has called | **<big>[[G2564\|κέκληκεν]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| queen | **<big>[[G0938\|βασίλισσα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| not one | **<big>[[G3762\|ουδένα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| banquet | **<big>[[G1403\|δοχήν]]</big>** |
+| but | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| tomorrow | **<big>[[G0839\|αύριον]]</big>** |
+| she has invited | **<big>[[G2564\|κέκληκέ]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Esth.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.11|<< Esther 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.13|Esther 5:13 >>]]</td></tr></table>
 
 

@@ -11,33 +11,33 @@ He was oppressed and afflicted, yet He did not open His mouth. He was led like a
 > $\quad$ referenced by: [[Acts.8.32|Acts 8:32-33]] ☩ [[Rev.5.6|Rev 5:6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being inflicted by evil | <big><span class="asgreek">κεκακώσθαι</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| opened not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήνοιξε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth. | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a sheep | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| slaughter | <big><span class="asgreek">σφαγήν</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
-| He was led | <big><span class="asgreek">ήχθη</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lamb | <big><span class="asgreek">αμνός</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one shearing | <big><span class="asgreek">κείροντος</span></big> <sup><small><small>[[G2751]]</small></small></sup> |
-| \[is\] voiceless, | <big><span class="asgreek">άφωνος</span></big> <sup><small><small>[[G0880]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| open | <big><span class="asgreek">ήνοιξε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mouth. | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being inflicted by evil | **<big>[[G2559\|κεκακώσθαι]]</big>** |
+| opened not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0455\|ήνοιξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mouth. | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a sheep | **<big>[[G4263\|πρόβατον]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| slaughter | **<big>[[G4967\|σφαγήν]]</big>** |
+| He was led | **<big>[[G0071\|ήχθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a lamb | **<big>[[G0286\|αμνός]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| one shearing | **<big>[[G2751\|κείροντος]]</big>** |
+| \[is\] voiceless, | **<big>[[G0880\|άφωνος]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| open | **<big>[[G0455\|ήνοιξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his mouth. | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.53.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.6|<< Isaiah 53:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.8|Isaiah 53:8 >>]]</td></tr></table>
 
 

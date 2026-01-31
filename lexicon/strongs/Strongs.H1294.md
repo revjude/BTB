@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּרָכָה‎</span></big> **Bᵉrâkâh** <small>*(ber-aw-kaw')*</small> ==**Beracah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בְּרָכָה‎</span><sup><small>[[H1293]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּרָכָה‎</span></big>** **Bᵉrâkâh** <small>*(ber-aw-kaw')*</small> ==**Beracah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H1293|‎בְּרָכָה‎]]</big>**</small>
 
 $\quad$ Berachah.
 - § Berachah = *"blessing"*

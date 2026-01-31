@@ -6,23 +6,23 @@ He does not engage in usury or take excess interest, but he withholds his hand f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.7|<< Ezekiel 18:7]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.9|Ezekiel 18:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for \<the> interest  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נֶּ֣שֶׁךְ </big></span><small><small><sup>[[H5392]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Ne.shekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he lent  | <span class="ashebrew"><big>יִתֵּ֗ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and interest  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תַרְבִּית֙ </big></span><small><small><sup>[[H8636]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tar.Bit <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he took  | <span class="ashebrew"><big>יִקָּ֔ח </big></span><small><small><sup>[[H3947G]]</sup></small></small> &#8207;| yi.Kach <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from injustice  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עָ֖וֶל </big></span><small><small><sup>[[H5766A]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'A.vel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he turned away  | <span class="ashebrew"><big>יָשִׁ֣יב </big></span><small><small><sup>[[H7725I]]</sup></small></small> &#8207;| ya.Shiv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand his  | <span class="ashebrew"><big>יָד֑ </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ya.D <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice of  | <span class="ashebrew"><big>מִשְׁפַּ֤ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness  | <span class="ashebrew"><big>אֱמֶת֙ </big></span><small><small><sup>[[H0571H]]</sup></small></small> &#8207;| 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he did  | <span class="ashebrew"><big>יַֽעֲשֶׂ֔ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ya.'a.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between  | <span class="ashebrew"><big>בֵּ֥ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| bein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֖ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a person  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אִֽישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> interest  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5392\|נֶּ֣שֶׁךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ne.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he lent  |**<big>&#8207;[[H5414G\|יִתֵּ֗ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and interest  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8636\|תַרְבִּית֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tar.Bit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he took  |**<big>&#8207;[[H3947G\|יִקָּ֔ח]]&#8207; </big>**| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from injustice  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5766A\|עָ֖וֶל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'A.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he turned away  |**<big>&#8207;[[H7725I\|יָשִׁ֣יב]]&#8207; </big>**| ya.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  |**<big>&#8207;[[H3027G\|יָד֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice of  |**<big>&#8207;[[H4941H\|מִשְׁפַּ֤ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness  |**<big>&#8207;[[H0571H\|אֱמֶת֙]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he did  |**<big>&#8207;[[H6213A\|יַֽעֲשֶׂ֔ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  |**<big>&#8207;[[H0996G\|בֵּ֥ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a person  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.7|<< Ezekiel 18:7]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.9|Ezekiel 18:9 >>]]</td></tr></table>
 
 

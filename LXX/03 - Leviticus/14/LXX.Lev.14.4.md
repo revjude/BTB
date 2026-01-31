@@ -7,28 +7,28 @@ Then shall the priest command to take for him that is to be cleansed two birds a
 the priest shall order that two live clean birds, cedar wood, scarlet yarn, and hyssop be brought for the one to be cleansed.<small><sub>**MT:**</sub></small>
 [[Lev.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.3|<< Leviticus 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.5|Leviticus 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall assign | <big><span class="asgreek">προστάξει</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| for the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being cleansed | <big><span class="asgreek">κεκαθαρισμένω</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| small birds | <big><span class="asgreek">ορνίθια</span></big> <sup><small><small>[[G8551]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντα</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρά</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of cedar, | <big><span class="asgreek">κέδρινον</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twined | <big><span class="asgreek">κεκλωσμένον</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hyssop. | <big><span class="asgreek">ύσσωπον</span></big> <sup><small><small>[[G5301]]</small></small></sup> |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall assign | **<big>[[G4367\|προστάξει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall take | **<big>[[G2983\|λήψονται]]</big>** |
+| for the one | **<big>[[G3588\|τω]]</big>** |
+| being cleansed | **<big>[[G2511\|κεκαθαρισμένω]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| small birds | **<big>[[G8551\|ορνίθια]]</big>** |
+| living | **<big>[[G2198\|ζώντα]]</big>** |
+| clean | **<big>[[G2513\|καθαρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wood | **<big>[[G3586\|ξύλον]]</big>** |
+| of cedar, | **<big>[[G7989\|κέδρινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twined | **<big>[[G8029\|κεκλωσμένον]]</big>** |
+| scarlet, | **<big>[[G2847\|κόκκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hyssop. | **<big>[[G5301\|ύσσωπον]]</big>** |
 [[Lev.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.3|<< Leviticus 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.5|Leviticus 14:5 >>]]</td></tr></table>
 
 

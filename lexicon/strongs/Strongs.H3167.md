@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַחְזְיָה‎</span></big> **Yachzᵉyâh** <small>*(yakh-zeh-yaw')*</small> ==**Jahzeiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah will behold</small>
+**<big><span class="ashebrew">‎יַחְזְיָה‎</span></big>** **Yachzᵉyâh** <small>*(yakh-zeh-yaw')*</small> ==**Jahzeiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2372|‎חָזָה‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah will behold</small>
 
 $\quad$ Jahaziah.
 - § Jahaziah = *"Jehovah views"*

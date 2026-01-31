@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Nicopolis</span> was a city in Epirus where Paul intended to spend the winter, as mentioned in his letter to Titus.
 - A location first mentioned at [[Titus.3.12|Tit.3.12]]; 
-- only referred to as Nicopolis<[[G3533]]> \(<span class='tipnrLangGreek'>Νικόπολις</span>\).
+- only referred to as Nicopolis **<big>[[G3533|Νικόπολις]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.024033,20.735730&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Nicopolis was a city in the Roman province of Epirus, located on the western coa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nicopolis | [<span class='tipnrLangGreek'>Νικόπολις</span>](G3533) <small>*Greek*</small> | 2x | [[Tit.3.12] & [Tit.3.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nicopolis\*\|reference=Tit.3.12;Tit.3.15) |
-All Strong's for **Nicopolis**: \[[[G3533]]\]
+| Nicopolis | [<span class='tipnrLangGreek'>Νικόπολις</span>](G3533) | 2x | [[Tit.3.12] & [Tit.3.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nicopolis\*\|reference=Tit.3.12;Tit.3.15) |
+All entries for **Nicopolis**:  **<big>[[G3533|Νικόπολις]]</big>**

@@ -8,7 +8,7 @@
 
 
 
-<small>Also see: [[H0198]]</small>
+<small>Also see: **<big>[[H0198|אוּלָם]]</big>**</small>
 
  I. &amp; II. <span class="bdbLangHebrew">‎אוּלָם‎</span> **noun masculine** &amp; **proper name, masculine** see below II. <span class="bdbLangHebrew">‎אול‎</span>. 
 

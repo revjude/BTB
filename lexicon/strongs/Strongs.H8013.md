@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שְׁלֹמוֹת‎</span></big> **Shᵉlômôwth** <small>*(shel-o-moth')*</small> ==**Shelomoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>feminine plural of <span class="ashebrew">‎שָׁלוֹם‎</span><sup><small>[[H7965]]</small></sup>; pacifications</small>
+**<big><span class="ashebrew">‎שְׁלֹמוֹת‎</span></big>** **Shᵉlômôwth** <small>*(shel-o-moth')*</small> ==**Shelomoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>feminine plural of **<big>[[H7965|‎שָׁלוֹם‎]]</big>**; pacifications</small>
 
-$\quad$ Shelomith (from the margin), Shelomoth. Compare <span class="ashebrew">‎שְׁלֹמִית‎</span><sup><small>[[H8019]]</small></sup>.
+$\quad$ Shelomith (from the margin), Shelomoth. Compare **<big>[[H8019|‎שְׁלֹמִית‎]]</big>**.
 - § Shelomoth or Shelomith = *"peaceful"*
 - ***Shelomoth***, the name of two Israelites
 

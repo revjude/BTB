@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָבֵשׁ‎</span></big> **Yâbêsh** <small>*(yaw-bashe')*</small> ==**Jabesh (Gilead)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎יָבֵשׁ‎</span><sup><small>[[H3002]]</small></sup> (also <span class="ashebrew">יָבֵישׁ</span> **Yâbêysh** <small>*(yaw-bashe')*</small>; often with the addition of <span class="ashebrew">‎גִּלְעָד‎</span><sup><small>[[H1568]]</small></sup>, i.e. Jabesh of Gilad)</small>
+**<big><span class="ashebrew">‎יָבֵשׁ‎</span></big>** **Yâbêsh** <small>*(yaw-bashe')*</small> ==**Jabesh (Gilead)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3002|‎יָבֵשׁ‎]]</big>** (also **<big><span class="ashebrew">יָבֵישׁ</span></big>** **Yâbêysh** <small>*(yaw-bashe')*</small>; often with the addition of **<big>[[H1568|‎גִּלְעָד‎]]</big>**, i.e. Jabesh of Gilad)</small>
 
 $\quad$ Jobesh (-Gilead).
 - § Jabesh = *"dry"*

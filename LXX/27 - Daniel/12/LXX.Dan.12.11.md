@@ -11,24 +11,24 @@ And from the time the daily sacrifice is abolished and the abomination of desola
 > $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of \[the\] alteration | <big><span class="asgreek">παραλλάξεως</span></big> <sup><small><small>[[G8623]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perpetual \[sacrifice\], | <big><span class="asgreek">ενδελεχισμού</span></big> <sup><small><small>[[G7219]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| putting of | <big><span class="asgreek">δοθήναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| of desolation -- | <big><span class="asgreek">ερημώσεως</span></big> <sup><small><small>[[G2050]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χίλιαι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| two hundred | <big><span class="asgreek">διακόσια</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
-| ninety | <big><span class="asgreek">εννενήκοντα</span></big> <sup><small><small>[[G7249]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρού]]</big>** |
+| of \[the\] alteration | **<big>[[G8623\|παραλλάξεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| perpetual \[sacrifice\], | **<big>[[G7219\|ενδελεχισμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| putting of | **<big>[[G1325\|δοθήναι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| abomination | **<big>[[G0946\|βδέλυγμα]]</big>** |
+| of desolation -- | **<big>[[G2050\|ερημώσεως]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| a thousand | **<big>[[G5507\|χίλιαι]]</big>** |
+| two hundred | **<big>[[G1250\|διακόσια]]</big>** |
+| ninety | **<big>[[G7249\|εννενήκοντα]]</big>** |
 [[Dan.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.10|<< Daniel 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.12|Daniel 12:12 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Helbon</span> was a city mentioned in [[Ezek.27.18|Ezekiel 27:18]] as a trading partner of Tyre, known for its fine wine.
 - A location only mentioned at [[Ezek.27.18|Ezk.27.18]]; 
-- only referred to as Helbon<[[H2463]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Helbon **<big>[[H2463|חֶלְבּוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.664912,36.248576&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Helbon was a city mentioned in [[Ezek.27.18|Ezekiel 27:18]] as one of the tradin
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Helbon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2463) <small>*Hebrew*</small> | 1x | [Ezk.27.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helbon\*\|reference=Ezk.27.18) |
-All Strong's for **Helbon**: \[[[H2463]]\]
+| Helbon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ב</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2463) | 1x | [Ezk.27.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Helbon\*\|reference=Ezk.27.18) |
+All entries for **Helbon**:  **<big>[[H2463|חֶלְבּוֹן]]</big>**

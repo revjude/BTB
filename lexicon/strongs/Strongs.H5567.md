@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָמַן‎</span></big> **çâman** <small>*(saw-man')*</small> ==**to appoint**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָמַן‎</span></big>** **çâman** <small>*(saw-man')*</small> ==**to appoint**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appointed.

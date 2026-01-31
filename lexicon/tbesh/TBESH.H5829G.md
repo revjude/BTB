@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עֵ֫זֶר‎</span> <small>***(e.zer)***</small> ==**Ezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.4.4|1Ch.4.4]]
--  son of: Hur ([[H2354]])
--  brother of: Uri ([[H0221]]), Shobal ([[H7732H]]), Salma ([[H8007H]]), Hareph ([[H2780]]), Jezreel ([[H3157J]]), Ishma ([[H3457]]), Idbash ([[H3031]]), Hazzelelponi ([[H6753]]) and Penuel ([[H6439H]])
--  father of: Hushah ([[H2364]])
+-  son of: Hur (**<big>[[H2354|חוּר]]</big>**)
+-  brother of: Uri (**<big>[[H0221|אוּרִי]]</big>**), Shobal (**<big>[[H7732H|שׁוֹבָל]]</big>**), Salma (**<big>[[H8007H|שַׂלְמָא]]</big>**), Hareph (**<big>[[H2780|חָרֵף]]</big>**), Jezreel (**<big>[[H3157J|יִזְרְעֵאל]]</big>**), Ishma (**<big>[[H3457|יִשְׁמָא]]</big>**), Idbash (**<big>[[H3031|יִדְבָּשׁ]]</big>**), Hazzelelponi (**<big>[[H6753|צְלֶלְפּוֹנִי]]</big>**) and Penuel (**<big>[[H6439H|פְּנוּאֵל]]</big>**)
+-  father of: Hushah (**<big>[[H2364|חוּשָׁה]]</big>**)

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎רַעֲנַן‎</span> <small>***(ra.a.nan)***</small> ==**luxuriant**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H7488B]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7488B|רַעֲנָן]]</big>**</small> 
 
-- Aramaic of <i>ra.a.nan</i> (<span class='ashebrew'>‎ר‎</span>ַ<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ן‎</span> "luxuriant" [[H7488B]])
+- Aramaic of <i>ra.a.nan</i> (<span class='ashebrew'>‎ר‎</span>ַ<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ן‎</span> "luxuriant" **<big>[[H7488B|רַעֲנָן]]</big>**)

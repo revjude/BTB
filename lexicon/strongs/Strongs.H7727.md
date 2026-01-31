@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוֹבָב‎</span></big> **Shôwbâb** <small>*(sho-bawb')*</small> ==**Shobab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שׁוֹבָב‎</span><sup><small>[[H7726]]</small></sup>; rebellious</small>
+**<big><span class="ashebrew">‎שׁוֹבָב‎</span></big>** **Shôwbâb** <small>*(sho-bawb')*</small> ==**Shobab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7726|‎שׁוֹבָב‎]]</big>**; rebellious</small>
 
 $\quad$ Shobab.
 - § Shobab = *"rebellious"*

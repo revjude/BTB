@@ -10,36 +10,36 @@ Now when the copy of king Artaxerxes’ letter [was] read before Rehum, and Shim
 When the text of the letter from King Artaxerxes was read to Rehum, Shimshai the scribe, and their associates, they went immediately to the Jews in Jerusalem and forcibly stopped them.<small><sub>**MT:**</sub></small>
 [[Ezra.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.22|<< Ezra 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.24|Ezra 4:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribute-gatherer | <big><span class="asgreek">φορολόγος</span></big> <sup><small><small>[[G9661]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of king Artaxerxes | <big><span class="asgreek">Αρθασασθά</span></big> <sup><small><small>[[H0783b]]</small></small></sup> <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| read | <big><span class="asgreek">ανέγνω</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| Rehum | <big><span class="asgreek">Ρεούμ</span></big> <sup><small><small>[[H7348b]]</small></small></sup> |
-| \[the\] master, | <big><span class="asgreek">βααλτάμ</span></big> <sup><small><small>[[G6640]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shimshai | <big><span class="asgreek">Σαμψά</span></big> <sup><small><small>[[H8124]]</small></small></sup> |
-| \[the\] scribe, | <big><span class="asgreek">γραμματέως</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his fellow-servants. | <big><span class="asgreek">συνδούλων</span></big> <sup><small><small>[[G4889]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \[with\] diligence | <big><span class="asgreek">σπουδή</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they caused them to cease work | <big><span class="asgreek">κατήργησαν</span></big> <sup><small><small>[[G2673]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a force. | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| tribute-gatherer | **<big>[[G9661\|φορολόγος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of king Artaxerxes | **<big>[[H0783b\|Αρθασασθά]]</big>** **<big>[[G0935\|βασιλέως]]</big>** |
+| read | **<big>[[G0314\|ανέγνω]]</big>** |
+| in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| Rehum | **<big>[[H7348b\|Ρεούμ]]</big>** |
+| \[the\] master, | **<big>[[G6640\|βααλτάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shimshai | **<big>[[H8124\|Σαμψά]]</big>** |
+| \[the\] scribe, | **<big>[[G1122\|γραμματέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his fellow-servants. | **<big>[[G4889\|συνδούλων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|επορεύθησαν]]</big>** |
+| \[with\] diligence | **<big>[[G4710\|σπουδή]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1722\|εν]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they caused them to cease work | **<big>[[G2673\|κατήργησαν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| horses | **<big>[[G2462\|ίπποις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a force. | **<big>[[G1411\|δυνάμει]]</big>** |
 [[Ezra.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.22|<< Ezra 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.24|Ezra 4:24 >>]]</td></tr></table>
 
 

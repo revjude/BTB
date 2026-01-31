@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רְעֵלָיָה‎</span></big> **Rᵉʻêlâyâh** <small>*(reh-ay-law-yaw')*</small> ==**Reelaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָעַל‎</span><sup><small>[[H7477]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; made to tremble (i.e. fearful) of Jah</small>
+**<big><span class="ashebrew">‎רְעֵלָיָה‎</span></big>** **Rᵉʻêlâyâh** <small>*(reh-ay-law-yaw')*</small> ==**Reelaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7477|‎רָעַל‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; made to tremble (i.e. fearful) of Jah</small>
 
 $\quad$ Reeliah.
 - § Reelaiah = *"bearer of Jehovah"*

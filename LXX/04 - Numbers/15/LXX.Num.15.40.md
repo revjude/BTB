@@ -7,21 +7,21 @@ That ye may remember, and do all my commandments, and be holy unto your God.
 Then you will remember and obey all My commandments, and you will be holy to your God.<small><sub>**MT:**</sub></small>
 [[Num.15.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.39|<< Numbers 15:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.41|Numbers 15:41 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| that | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should remember | <big><span class="asgreek">μνησθήτε</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should do | <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my commandments. | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be | <big><span class="asgreek">έσεσθε</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιοι</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| so | **<big>[[G3704\|όπως]]</big>** |
+| that | **<big>[[G0302\|αν]]</big>** |
+| you should remember | **<big>[[G3403\|μνησθήτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should do | **<big>[[G4160\|ποιήσητε]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my commandments. | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall be | **<big>[[G1510\|έσεσθε]]</big>** |
+| holy | **<big>[[G0039\|άγιοι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Num.15.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.39|<< Numbers 15:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.41|Numbers 15:41 >>]]</td></tr></table>
 
 

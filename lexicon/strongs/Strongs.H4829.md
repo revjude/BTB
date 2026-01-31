@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִרְעֶה‎</span></big> **mirʻeh** <small>*(meer-eh')*</small> ==**pasture**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָעָה‎</span><sup><small>[[H7462]]</small></sup> in the sense of feeding</small>
+**<big><span class="ashebrew">‎מִרְעֶה‎</span></big>** **mirʻeh** <small>*(meer-eh')*</small> ==**pasture**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7462|‎רָעָה‎]]</big>** in the sense of feeding</small>
 
 $\quad$ feeding place, pasture.
 - ***pasture*** (the place or the act)
@@ -7,4 +7,4 @@ $\quad$ feeding place, pasture.
 
 **1)** pasture, pasturage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">νομή</span><sup><small>[[G3542]]</small></sup>
+<small>See Greek: </small>**<big>[[G3542|νομή]]</big>**

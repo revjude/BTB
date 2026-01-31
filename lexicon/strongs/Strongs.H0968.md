@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בִּזְתָא‎</span></big> **Bizthâʼ** <small>*(biz-thaw')*</small> ==**Biztha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בִּזְתָא‎</span></big>** **Bizthâʼ** <small>*(biz-thaw')*</small> ==**Biztha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Biztha.

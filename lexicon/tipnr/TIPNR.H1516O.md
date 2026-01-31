@@ -1,8 +1,8 @@
 <small>*Valley of the Travelers • A valley where Gog's army will be buried*</small>
 
 The Valley of the Travelers, a location where the army of Gog will be buried after their defeat, blocking the path of travelers \(Ezek. 39:11\).
-- A location near Diblathaim<[[H5963]]> only mentioned at Ezk.39.11; 
-- only referred to as Travelers\_Valley<[[H1516O]]><[[H1516O]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Diblathaim **<big>[[H5963|עַלְמֹן דִּבְלָתָיְמָה]]</big>** only mentioned at Ezk.39.11; 
+- only referred to as Travelers\_Valley **<big>[[H1516|גַּיְא]]</big>** **<big>[[H1516|גַּיְא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.49684513710609,35.78284105296996&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Valley of the Travelers, also known as the Valley of the Passengers, is ment
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of the Travelers (KJV= passengers; NIV= travel) | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ר</span>](H5674G)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516O) <small>*Hebrew*</small> | 1x | [Ezk.39.11a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Ezk.39.11) |
-All Strong's for **Travelers_Valley**: \[[[H5674G]]\] \[[[H1516O]]\]
+| Valley/ of the Travelers (KJV= passengers; NIV= travel) | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ר</span>](H5674G)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516O) | 1x | [Ezk.39.11a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Ezk.39.11) |
+All entries for **Travelers Valley**:  **<big>[[H5674|עָבַר]]</big>** ☩  **<big>[[H1516|גַּיְא]]</big>**

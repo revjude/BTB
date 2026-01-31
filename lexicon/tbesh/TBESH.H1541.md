@@ -1,3 +1,1 @@
-<span class="asaramaic">‎גְּלָא‎</span> <small>***(ge.lah)***</small> ==**to reveal**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H1540H]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1540H|גָּלָה]]</big>**</small>

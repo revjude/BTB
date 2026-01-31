@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲמָשַׂי‎</span></big> **ʻĂmâsay** <small>*(am-aw-sah'-ee)*</small> ==**Amasai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַס‎</span><sup><small>[[H6006]]</small></sup>; burdensome</small>
+**<big><span class="ashebrew">‎עֲמָשַׂי‎</span></big>** **ʻĂmâsay** <small>*(am-aw-sah'-ee)*</small> ==**Amasai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6006|‎עָמַס‎]]</big>**; burdensome</small>
 
 $\quad$ Amasai.
 - § Amasai = *"burdensome"*

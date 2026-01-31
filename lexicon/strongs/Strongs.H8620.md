@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּקוֹעַ‎</span></big> **Tᵉqôwaʻ** <small>*(tek-o'-ah)*</small> ==**Tekoa**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>a form of <span class="ashebrew">‎תָּקוֹעַ‎</span><sup><small>[[H8619]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּקוֹעַ‎</span></big>** **Tᵉqôwaʻ** <small>*(tek-o'-ah)*</small> ==**Tekoa**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a form of **<big>[[H8619|‎תָּקוֹעַ‎]]</big>**</small>
 
 $\quad$ Tekoa, Tekoah.
 - § Tekoa or Tekoah = *"a stockade"*

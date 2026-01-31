@@ -7,34 +7,34 @@ Though Noah, Daniel, and Job, [were] in it, [as] I live, saith the Lord GOD, the
 then as surely as I live, declares the Lord GOD, even if Noah, Daniel, and Job were in it, they could not deliver their own sons or daughters. Their righteousness could deliver only themselves.<small><sub>**MT:**</sub></small>
 [[Ezek.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.19|<< Ezekiel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.21|Ezekiel 14:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Noah, | <big><span class="asgreek">Νώε</span></big> <sup><small><small>[[G3575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Daniel, | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Job | <big><span class="asgreek">Ιώβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| \[be\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| neither | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| shall be delivered, | <big><span class="asgreek">εξέλωνται</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| but | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall rescue | <big><span class="asgreek">ρύσονται</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their souls. | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Noah, | **<big>[[G3575\|Νώε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Daniel, | **<big>[[G1158\|Δανιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Job | **<big>[[G2492\|Ιώβ]]</big>** |
+| \[be\] in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of it, | **<big>[[G1473\|αυτής]]</big>** |
+| as I live, | **<big>[[G2198\|ζω]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| neither | **<big>[[G1437\|εάν]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρας]]</big>** |
+| shall be delivered, | **<big>[[G1807\|εξέλωνται]]</big>** |
+| but | **<big>[[G3754\|οτι]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall rescue | **<big>[[G4506\|ρύσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their souls. | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.19|<< Ezekiel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.21|Ezekiel 14:21 >>]]</td></tr></table>
 
 

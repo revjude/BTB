@@ -9,15 +9,15 @@ He hath also broken my teeth with gravel stones, he hath covered me with ashes.
 He has ground my teeth with gravel and trampled me in the dust.<small><sub>**MT:**</sub></small>
 [[Lam.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.15|<< Lamentations 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.17|Lamentations 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΟΥΑΥ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΟΥΑΥ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| he knocked out | <big><span class="asgreek">εξέβαλε</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| by a small stone | <big><span class="asgreek">ψηφω</span></big> <sup><small><small>[[G5586]]</small></small></sup> |
-| my teeth | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he fed me | <big><span class="asgreek">εψώμισέ</span></big> <sup><small><small>[[G5595]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ashes, | <big><span class="asgreek">σποδόν</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
+| ΟΥΑΥ <sup><small>[acrostic title]</small></sup> |  |
+| and | **<big>[[G2316\|και]]</big>** |
+| he knocked out | **<big>[[G1544\|εξέβαλε]]</big>** |
+| by a small stone | **<big>[[G5586\|ψηφω]]</big>** |
+| my teeth | **<big>[[G3599\|οδόντας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| he fed me | **<big>[[G5595\|εψώμισέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| ashes, | **<big>[[G4700\|σποδόν]]</big>** |
 [[Lam.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.15|<< Lamentations 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.17|Lamentations 3:17 >>]]</td></tr></table>
 
 

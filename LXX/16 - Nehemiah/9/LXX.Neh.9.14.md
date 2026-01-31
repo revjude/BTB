@@ -7,28 +7,28 @@ And madest known unto them thy holy sabbath, and commandedst them precepts, stat
 You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses.<small><sub>**MT:**</sub></small>
 [[Neh.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.13|<< Nehemiah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.15|Nehemiah 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbath | <big><span class="asgreek">σάββατόν</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| you made known | <big><span class="asgreek">εγνώρισας</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| orders, | <big><span class="asgreek">προστάγματα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| law, | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| you gave charge | <big><span class="asgreek">ενετείλω</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Moses | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant. | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Sabbath | **<big>[[G4521\|σάββατόν]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| you made known | **<big>[[G1107\|εγνώρισας]]</big>** |
+| to them; | **<big>[[G1473\|αυτοίς]]</big>** |
+| commandments, | **<big>[[G1785\|εντολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| orders, | **<big>[[G8943\|προστάγματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| law, | **<big>[[G3551\|νόμον]]</big>** |
+| you gave charge | **<big>[[G1781\|ενετείλω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Moses | **<big>[[G3475\|Μωυσή]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your servant. | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Neh.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.13|<< Nehemiah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.15|Nehemiah 9:15 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוֹב‎</span></big> **ʼôwb** <small>*(obe)*</small> ==**medium**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> (apparently through the idea of prattling a father's name)</small>
+**<big><span class="ashebrew">‎אוֹב‎</span></big>** **ʼôwb** <small>*(obe)*</small> ==**medium**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H0001|‎אָב‎]]</big>** (apparently through the idea of prattling a father's name)</small>
 
 $\quad$ bottle, familiar spirit.
 - properly, ***a mumble***, i.e. ***a water skin*** (from its hollow sound)
@@ -12,4 +12,4 @@ $\quad$ **1c)** ghost, spirit of a dead one
 $\quad$ **1d)** practice of necromancy
 **3)** one that has a familiar spirit
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γῆ</span><sup><small>[[G1093]]</small></sup>
+<small>See Greek: </small>**<big>[[G1093|γῆ]]</big>**

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ahava</span>, a location near Babylon where Ezra gathered the exiles before their return to Jerusalem.
 - A location first mentioned at [[Ezra.8.15|Ezr.8.15]]; 
-- only referred to as Ahava<[[H0163]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Ahava **<big>[[H0163|אַהֲוָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.625197,42.786647&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ At Ahava, Ezra proclaimed a fast for the people to humble themselves before God 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahava | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>א</span>](H0163) <small>*Hebrew*</small> | 3x | [[Ezr.8.15] ... [Ezr.8.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahava\*\|reference=Ezr.8.15;Ezr.8.21;Ezr.8.31) |
-All Strong's for **Ahava**: \[[[H0163]]\]
+| Ahava | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>א</span>](H0163) | 3x | [[Ezr.8.15] ... [Ezr.8.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahava\*\|reference=Ezr.8.15;Ezr.8.21;Ezr.8.31) |
+All entries for **Ahava**:  **<big>[[H0163|אַהֲוָא]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֹרַח‎</span></big> **Qôrach** <small>*(ko'rakh)*</small> ==**Korah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קָרַח‎</span><sup><small>[[H7139]]</small></sup>; ice</small>
+**<big><span class="ashebrew">‎קֹרַח‎</span></big>** **Qôrach** <small>*(ko'rakh)*</small> ==**Korah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7139|‎קָרַח‎]]</big>**; ice</small>
 
 $\quad$ Korah.
 - § Korah = *"bald"*
@@ -10,4 +10,4 @@ $\quad$ Korah.
 **3)** son of Eliphaz by Adah, duke of Edom, and nephew of 1
 **4)** one of the 'sons' of Hebron
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Κορέ</span><sup><small>[[G2879]]</small></sup>
+<small>See Greek: </small>**<big>[[G2879|Κορέ]]</big>**

@@ -1,7 +1,7 @@
-<span class="asform"><span class="asgreek"><span class="asbold">θιγγάνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">נגע</span> <small><sup>[[H5060]]</sup></small>, [[LXX.Exod.19.12|Ex 19:12]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">θιγγάνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H5060|נגע]]</big>**, [[LXX.Exod.19.12|Ex 19:12]]\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to touch</span>, <span class="asitalic">handle</span>: [[Col.2.21|Col 2:21]], [[Heb.12.20|He 12:20]]<span class="assuperscript">(LXX)</span>.</span>
-<span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to injure</span> (like Heb. <span class="ashebrew">נגע</span> <small><sup>[[H5060]]</sup></small>, and as in Eur., <span class="asitalic">Iph. Aul.</span>, 1351): c. gen., [[Heb.11.28|He 11:28]].†</span>
-<span class="asre"><span class="asitalic">SYN.</span>: v.s. <span class="asgreek">ἅπτω</span> <small><sup>[[G0681]]</sup></small>. </span>
+<span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to injure</span> (like Heb. **<big>[[H5060|נגע]]</big>**, and as in Eur., <span class="asitalic">Iph. Aul.</span>, 1351): c. gen., [[Heb.11.28|He 11:28]].†</span>
+<span class="asre"><span class="asitalic">SYN.</span>: v.s. **<big>[[G0681|ἅπτω]]</big>**. </span>
 
 **Abbott-Smith References**
 

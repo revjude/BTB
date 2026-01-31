@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לוֹטָן‎</span></big> **Lôwṭân** <small>*(lo-tawn')*</small> ==**Lotan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎לוֹט‎</span><sup><small>[[H3875]]</small></sup>; covering</small>
+**<big><span class="ashebrew">‎לוֹטָן‎</span></big>** **Lôwṭân** <small>*(lo-tawn')*</small> ==**Lotan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3875|‎לוֹט‎]]</big>**; covering</small>
 
 $\quad$ Lotan.
 - § Lotan = *"covering"*

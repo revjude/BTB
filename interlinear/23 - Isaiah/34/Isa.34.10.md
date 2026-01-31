@@ -10,23 +10,23 @@ It will not be quenched—day or night. Its smoke will ascend forever. From gene
 > $\quad$ referenced by: [[Rev.14.11|Rev 14:11]] ☩ [[Rev.18.18|Rev 18:18]] ☩ [[Rev.19.3|Rev 19:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| night  | <span class="ashebrew"><big>לַ֤יְלָה </big></span><small><small><sup>[[H3915]]</sup></small></small> &#8207;| Lay.lah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and by day  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יוֹמָם֙ </big></span><small><small><sup>[[H3119]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Mam <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be extinguished  | <span class="ashebrew"><big>תִכְבֶּ֔ה </big></span><small><small><sup>[[H3518]]</sup></small></small> &#8207;| tikh.Beh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֖ם </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go up  | <span class="ashebrew"><big>יַעֲלֶ֣ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| ya.'a.Leh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| smoke its  | <span class="ashebrew"><big>עֲשָׁנָ֑ </big></span><small><small><sup>[[H6227]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| 'a.sha.Na <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from generation  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>דּ֤וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Dor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to generation  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דוֹר֙ </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> dOr <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be desolate  | <span class="ashebrew"><big>תֶּחֱרָ֔ב </big></span><small><small><sup>[[H2717B]]</sup></small></small> &#8207;| te.che.Rav <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to perpetuity of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>נֵ֣צַח </big></span><small><small><sup>[[H5331]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Ne.tzach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuities  | <span class="ashebrew"><big>נְצָחִ֔ים </big></span><small><small><sup>[[H5331]]</sup></small></small> &#8207;| ne.tza.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not  | <span class="ashebrew"><big>אֵ֥ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be one who] passes  | <span class="ashebrew"><big>עֹבֵ֖ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'o.Ver <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> it  | <span class="ashebrew"><big>בָּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ba <small><sup>[[HRd]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night  |**<big>&#8207;[[H3915\|לַ֤יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by day  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3119\|יוֹמָם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be extinguished  |**<big>&#8207;[[H3518\|תִכְבֶּ֔ה]]&#8207; </big>**| tikh.Beh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֖ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go up  |**<big>&#8207;[[H5927G\|יַעֲלֶ֣ה]]&#8207; </big>**| ya.'a.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| smoke its  |**<big>&#8207;[[H6227\|עֲשָׁנָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| 'a.sha.Na<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from generation  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1755\|דּ֤וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generation  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1755\|דוֹר֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> dOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be desolate  |**<big>&#8207;[[H2717B\|תֶּחֱרָ֔ב]]&#8207; </big>**| te.che.Rav<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to perpetuity of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5331\|נֵ֣צַח]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ne.tzach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuities  |**<big>&#8207;[[H5331\|נְצָחִ֔ים]]&#8207; </big>**| ne.tza.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be one who] passes  |**<big>&#8207;[[H5674A\|עֹבֵ֖ר]]&#8207; </big>**| 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.9|<< Isaiah 34:9]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.11|Isaiah 34:11 >>]]</td></tr></table>
 
 

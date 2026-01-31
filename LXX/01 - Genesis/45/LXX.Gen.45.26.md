@@ -7,31 +7,31 @@ And told him, saying, Joseph [is] yet alive, and he [is] governor over all the l
 “Joseph is still alive,” they said, “and he is ruler over all the land of Egypt!” But Jacob was stunned, for he did not believe them.<small><sub>**MT:**</sub></small>
 [[Gen.45.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.25|<< Genesis 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.27|Genesis 45:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they announced | <big><span class="asgreek">ανήγγειλαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rules | <big><span class="asgreek">άρχει</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| receded | <big><span class="asgreek">εξέστη</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in \[his\] thought | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| for he did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| trust | <big><span class="asgreek">επίστευσεν</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they announced | **<big>[[G0312\|ανήγγειλαν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| saying | **<big>[[G3004\|λέγοντες]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| lives, | **<big>[[G2198\|ζη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| rules | **<big>[[G0756\|άρχει]]</big>** |
+| all | **<big>[[G3956\|πάσης]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| receded | **<big>[[G1839\|εξέστη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| in \[his\] thought | **<big>[[G1271\|διανοία]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| for he did not | **<big>[[G3756\|ου]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| trust | **<big>[[G4100\|επίστευσεν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Gen.45.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.25|<< Genesis 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.27|Genesis 45:27 >>]]</td></tr></table>
 
 

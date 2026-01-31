@@ -12,16 +12,16 @@ To the chief Musician, A Psalm for the sons of Korah. LORD, thou hast been favou
 For the choirmaster. A Psalm of the sons of Korah. You showed favor to Your land, O LORD; You restored Jacob from captivity.<small><sub>**MT:**</sub></small>
 [[Ps.85.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.12|<< Psalm 84:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.2|Psalm 85:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You thought well, | <big><span class="asgreek">ευδόκησας</span></big> <sup><small><small>[[G2106]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You returned | <big><span class="asgreek">απέστρεψας</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| of Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| You thought well, | **<big>[[G2106\|ευδόκησας]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your land. | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You returned | **<big>[[G0654\|απέστρεψας]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| captivity | **<big>[[G0161\|αιχμαλωσίαν]]</big>** |
+| of Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
 [[Ps.85.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.12|<< Psalm 84:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.2|Psalm 85:2 >>]]</td></tr></table>
 
 

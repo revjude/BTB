@@ -7,37 +7,37 @@ And wheresoever the children of men dwell, the beasts of the field and the fowls
 Wherever the sons of men or beasts of the field or birds of the air dwell, He has given them into your hand and has made you ruler over them all. You are that head of gold.<small><sub>**MT:**</sub></small>
 [[Dan.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| where | <big><span class="asgreek">οπου</span></big> <sup><small><small>[[G3699]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικούσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| both wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| of \[the\] field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| birds | <big><span class="asgreek">πετεινά</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he placed | <big><span class="asgreek">κατέστησέ</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lord | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of all. | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gold. | <big><span class="asgreek">χρυσή</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| every | **<big>[[G3956\|παντί]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| where | **<big>[[G3699\|οπου]]</big>** |
+| dwell | **<big>[[G2730\|κατοικούσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| both wild beasts | **<big>[[G2342\|θηρία]]</big>** **<big>[[G5037\|τε]]</big>** |
+| of \[the\] field | **<big>[[G0068\|αγρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| birds | **<big>[[G4071\|πετεινά]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| he gave | **<big>[[G1325\|έδωκεν]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he placed | **<big>[[G2525\|κατέστησέ]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| lord | **<big>[[G2962\|κύριον]]</big>** |
+| of all. | **<big>[[G3956\|πάντων]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| head | **<big>[[G2776\|κεφαλή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| of gold. | **<big>[[G5552\|χρυσή]]</big>** |
 [[Dan.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ My knees are weak through fasting; and my flesh faileth of fatness.
 My knees are weak from fasting, and my body grows lean and gaunt.<small><sub>**MT:**</sub></small>
 [[Ps.109.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.23|<< Psalm 109:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.25|Psalm 109:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My knees | <big><span class="asgreek">γόνατά</span></big> <sup><small><small>[[G1119]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| weakened | <big><span class="asgreek">ησθένησαν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| fasting, | <big><span class="asgreek">νηστείας</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was changed | <big><span class="asgreek">ηλλοιώθη</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[want of\] oil. | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| My knees | **<big>[[G1119\|γόνατά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| weakened | **<big>[[G0770\|ησθένησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| fasting, | **<big>[[G3521\|νηστείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my flesh | **<big>[[G4561\|σαρξ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| was changed | **<big>[[G6230\|ηλλοιώθη]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| \[want of\] oil. | **<big>[[G1637\|έλαιον]]</big>** |
 [[Ps.109.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.23|<< Psalm 109:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.25|Psalm 109:25 >>]]</td></tr></table>
 
 

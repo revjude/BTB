@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֻפָּה‎</span></big> **chuppâh** <small>*(khoop-paw')*</small> ==**canopy**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָפָה‎</span><sup><small>[[H2645]]</small></sup></small>
+**<big><span class="ashebrew">‎חֻפָּה‎</span></big>** **chuppâh** <small>*(khoop-paw')*</small> ==**canopy**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2645|‎חָפָה‎]]</big>**</small>
 
 $\quad$ chamber, closet, defence.
 - ***a canopy***

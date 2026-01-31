@@ -6,17 +6,17 @@ Produce your cause, saith the LORD; bring forth your strong [reasons], saith the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.20|<< Isaiah 41:20]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.22|Isaiah 41:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| bring near  | <span class="ashebrew"><big>קָרְב֥וּ </big></span><small><small><sup>[[H7126G]]</sup></small></small> &#8207;| ka.re.Vu <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| case your  | <span class="ashebrew"><big>רִֽיבְ </big></span><small><small><sup>[[H7379]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| riv. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>יֹאמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bring near  | <span class="ashebrew"><big>הַגִּ֙ישׁוּ֙ </big></span><small><small><sup>[[H5066H]]</sup></small></small> &#8207;| ha.Gi.shu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arguments your  | <span class="ashebrew"><big>עֲצֻמ֣וֹתֵי </big></span><small><small><sup>[[H6110]]</sup></small></small> <span class="ashebrew"><big>כֶ֔ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| a.tzu.Mo.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>יֹאמַ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹֽב </big></span><small><small><sup>[[H3290]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bring near  |**<big>&#8207;[[H7126G\|קָרְב֥וּ]]&#8207; </big>**| ka.re.Vu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| case your  |**<big>&#8207;[[H7379\|רִֽיבְ]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| riv.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|יֹאמַ֣ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bring near  |**<big>&#8207;[[H5066H\|הַגִּ֙ישׁוּ֙]]&#8207; </big>**| ha.Gi.shu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arguments your  |**<big>&#8207;[[H6110\|עֲצֻמ֣וֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| a.tzu.Mo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|יֹאמַ֖ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.20|<< Isaiah 41:20]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.22|Isaiah 41:22 >>]]</td></tr></table>
 
 

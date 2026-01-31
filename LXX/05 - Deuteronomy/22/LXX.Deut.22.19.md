@@ -7,35 +7,35 @@ And they shall amerce him in an hundred [shekels] of silver, and give [them] unt
 They are also to fine him a hundred shekels of silver and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives.<small><sub>**MT:**</sub></small>
 [[Deut.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.18|<< Deuteronomy 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.20|Deuteronomy 22:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall penalize | <big><span class="asgreek">ζημιώσουσιν</span></big> <sup><small><small>[[G2210]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| shekels, | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall give them | <big><span class="asgreek">δώσουσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young woman, | <big><span class="asgreek">νεάνιδος</span></big> <sup><small><small>[[G8379]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εξήνεγκεν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| a bad | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| an Israelite virgin, | <big><span class="asgreek">παρθένον</span></big> <sup><small><small>[[G3933]]</small></small></sup> <big><span class="asgreek">Ισραηλίτιν</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she shall be his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| wife; | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to send | <big><span class="asgreek">εξαποστείλαι</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| her away | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at any | <big><span class="asgreek">άπαντα</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| time. | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall penalize | **<big>[[G2210\|ζημιώσουσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| shekels, | **<big>[[G9079\|σίκλους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall give them | **<big>[[G1325\|δώσουσι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| father | **<big>[[G3962\|πατρί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| young woman, | **<big>[[G8379\|νεάνιδος]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| he brought | **<big>[[G1627\|εξήνεγκεν]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| a bad | **<big>[[G4190\|πονηρόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| an Israelite virgin, | **<big>[[G3933\|παρθένον]]</big>** **<big>[[G2474\|Ισραηλίτιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she shall be his | **<big>[[G1473\|αυτού]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| wife; | **<big>[[G1135\|γυνή]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| to send | **<big>[[G1821\|εξαποστείλαι]]</big>** |
+| her away | **<big>[[G1473\|αυτήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| at any | **<big>[[G0537\|άπαντα]]</big>** |
+| time. | **<big>[[G5550\|χρόνον]]</big>** |
 [[Deut.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.18|<< Deuteronomy 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.20|Deuteronomy 22:20 >>]]</td></tr></table>
 
 

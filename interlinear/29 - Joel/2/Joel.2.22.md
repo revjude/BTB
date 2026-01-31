@@ -6,24 +6,24 @@ Do not be afraid, O beasts of the field, for the open pastures have turned green
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.21|<< Joel 2:21]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.23|Joel 2:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you fear  | <span class="ashebrew"><big>תִּֽירְאוּ֙ </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ti.re.'U <small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O animals of  | <span class="ashebrew"><big>בַּהֲמ֣וֹת </big></span><small><small><sup>[[H0929]]</sup></small></small> &#8207;| ba.ha.Mot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] field  | <span class="ashebrew"><big>שָׂדַ֔י </big></span><small><small><sup>[[H7704M]]</sup></small></small> &#8207;| sa.Dai <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are green  | <span class="ashebrew"><big>דָשְׁא֖וּ </big></span><small><small><sup>[[H1876]]</sup></small></small> &#8207;| da.she.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pastures of  | <span class="ashebrew"><big>נְא֣וֹת </big></span><small><small><sup>[[H4999]]</sup></small></small> &#8207;| ne.'ot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wilderness  | <span class="ashebrew"><big>מִדְבָּ֑ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tree[s]  | <span class="ashebrew"><big>עֵץ֙ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has borne  | <span class="ashebrew"><big>נָשָׂ֣א </big></span><small><small><sup>[[H5375H]]</sup></small></small> &#8207;| na.Sa' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit its  | <span class="ashebrew"><big>פִרְי֔ </big></span><small><small><sup>[[H6529]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| fir.Y <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fig tree  | <span class="ashebrew"><big>תְּאֵנָ֥ה </big></span><small><small><sup>[[H8384]]</sup></small></small> &#8207;| te.'e.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] vine  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גֶ֖פֶן </big></span><small><small><sup>[[H1612]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Ge.fen <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have given  | <span class="ashebrew"><big>נָתְנ֥וּ </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| na.te.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength their  | <span class="ashebrew"><big>חֵילָֽ </big></span><small><small><sup>[[H2428H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chei.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you fear  |**<big>&#8207;[[H3372G\|תִּֽירְאוּ֙]]&#8207; </big>**| ti.re.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O animals of  |**<big>&#8207;[[H0929\|בַּהֲמ֣וֹת]]&#8207; </big>**| ba.ha.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] field  |**<big>&#8207;[[H7704M\|שָׂדַ֔י]]&#8207; </big>**| sa.Dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are green  |**<big>&#8207;[[H1876\|דָשְׁא֖וּ]]&#8207; </big>**| da.she.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pastures of  |**<big>&#8207;[[H4999\|נְא֣וֹת]]&#8207; </big>**| ne.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness  |**<big>&#8207;[[H4057B\|מִדְבָּ֑ר]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tree[s]  |**<big>&#8207;[[H6086H\|עֵץ֙]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has borne  |**<big>&#8207;[[H5375H\|נָשָׂ֣א]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit its  |**<big>&#8207;[[H6529\|פִרְי֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| fir.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fig tree  |**<big>&#8207;[[H8384\|תְּאֵנָ֥ה]]&#8207; </big>**| te.'e.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] vine  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1612\|גֶ֖פֶן]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have given  |**<big>&#8207;[[H5414G\|נָתְנ֥וּ]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength their  |**<big>&#8207;[[H2428H\|חֵילָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chei.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.21|<< Joel 2:21]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.23|Joel 2:23 >>]]</td></tr></table>
 
 

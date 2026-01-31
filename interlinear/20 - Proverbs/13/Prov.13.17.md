@@ -6,15 +6,15 @@ A wicked messenger falls into trouble, but a faithful envoy brings healing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.16|<< Proverbs 13:16]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.18|Proverbs 13:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a messenger  | <span class="ashebrew"><big>מַלְאָ֣ךְ </big></span><small><small><sup>[[H4397G]]</sup></small></small> &#8207;| mal.'Akh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked  | <span class="ashebrew"><big>רָ֭שָׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Ra.sho' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he falls  | <span class="ashebrew"><big>יִפֹּ֣ל </big></span><small><small><sup>[[H5307G]]</sup></small></small> &#8207;| yi.Pol <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in trouble  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָ֑ע </big></span><small><small><sup>[[H7451B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and an envoy of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צִ֖יר </big></span><small><small><sup>[[H6735A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Tzir <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness\<es>  | <span class="ashebrew"><big>אֱמוּנִ֣ים </big></span><small><small><sup>[[H0529]]</sup></small></small> &#8207;| 'e.mu.Nim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] healing  | <span class="ashebrew"><big>מַרְפֵּֽא </big></span><small><small><sup>[[H4832]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mar.Pe' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a messenger  |**<big>&#8207;[[H4397G\|מַלְאָ֣ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he falls  |**<big>&#8207;[[H5307G\|יִפֹּ֣ל]]&#8207; </big>**| yi.Pol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in trouble  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7451B\|רָ֑ע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an envoy of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6735A\|צִ֖יר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Tzir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness\<es>  |**<big>&#8207;[[H0529\|אֱמוּנִ֣ים]]&#8207; </big>**| 'e.mu.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] healing  |**<big>&#8207;[[H4832\|מַרְפֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mar.Pe'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.16|<< Proverbs 13:16]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.18|Proverbs 13:18 >>]]</td></tr></table>
 
 

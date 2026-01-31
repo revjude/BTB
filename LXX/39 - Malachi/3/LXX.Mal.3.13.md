@@ -7,22 +7,22 @@ Your words have been stout against me, saith the LORD. Yet ye say, What have we 
 “Your words against Me have been harsh,” says the LORD. “Yet you ask, ‘What have we spoken against You?’<small><sub>**MT:**</sub></small>
 [[Mal.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.12|<< Malachi 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.14|Malachi 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You weighed down | <big><span class="asgreek">εβαρύνατε</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by your words, | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| We spoke ill | <big><span class="asgreek">κατελαλήσαμεν</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You weighed down | **<big>[[G0925\|εβαρύνατε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| by your words, | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you said, | **<big>[[G2036\|είπατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| what | **<big>[[G5100\|τίνι]]</big>** |
+| We spoke ill | **<big>[[G2635\|κατελαλήσαμεν]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
 [[Mal.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.12|<< Malachi 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.14|Malachi 3:14 >>]]</td></tr></table>
 
 

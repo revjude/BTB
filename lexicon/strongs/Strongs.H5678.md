@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶבְרָה‎</span></big> **ʻebrâh** <small>*(eb-raw')*</small> ==**fury**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֵבֶר‎</span><sup><small>[[H5676]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶבְרָה‎</span></big>** **ʻebrâh** <small>*(eb-raw')*</small> ==**fury**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H5676|‎עֵבֶר‎]]</big>**</small>
 
 $\quad$ anger, rage, wrath.
 - ***an outburst of passion***
@@ -9,4 +9,4 @@ $\quad$ **1a)** overflow, excess, outburst
 $\quad$ **1b)** arrogance
 $\quad$ **1c)** overflowing rage or fury
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγγελος</span><sup><small>[[G0032]]</small></sup> · <span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">θυμός</span><sup><small>[[G2372]]</small></sup> · <span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup> · <span class="asgreek">ὅρμημα</span><sup><small>[[G3731]]</small></sup>
+<small>See Greek: </small>**<big>[[G0032|ἄγγελος]]</big>** · **<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G2372|θυμός]]</big>** · **<big>[[G3709|ὀργή]]</big>** · **<big>[[G3731|ὅρμημα]]</big>**

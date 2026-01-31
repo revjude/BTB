@@ -14,30 +14,30 @@ This is what the LORD says: “Heaven is My throne, and earth is My footstool. W
 > $\quad$ referenced by: [[Matt.5.34|Matt 5:34-35]] ☩ [[Acts.7.49|Acts 7:49-50]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \[is\] my | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| throne, | <big><span class="asgreek">θρόνος</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| a footstool | <big><span class="asgreek">υποπόδιον</span></big> <sup><small><small>[[G5286]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my feet. | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What kind of | <big><span class="asgreek">ποίον</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| shall you build | <big><span class="asgreek">οικοδομήσετέ</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to me? | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what kind of | <big><span class="asgreek">ποίος</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for my rest? | <big><span class="asgreek">καταπαύσεώς</span></big> <sup><small><small>[[G2663]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| \[is\] my | **<big>[[G1473\|μοι]]</big>** |
+| throne, | **<big>[[G2362\|θρόνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| a footstool | **<big>[[G5286\|υποπόδιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| for my feet. | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| What kind of | **<big>[[G4169\|ποίον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| shall you build | **<big>[[G3618\|οικοδομήσετέ]]</big>** |
+| to me? | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what kind of | **<big>[[G4169\|ποίος]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| for my rest? | **<big>[[G2663\|καταπαύσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Isa.66.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
 
 

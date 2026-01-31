@@ -4,8 +4,8 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Nahbi</span>, the son of Vophsi, was the representative from the tribe of Naphtali among the twelve spies sent to explore Canaan.
 - A man living at the time of Egypt and Wilderness, only mentioned at [[Num.13.14|Num.13.14]]; 
-- only referred to as Nahbi<[[H5147]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>\); 
-- a son of Vophsi<[[H2058]]>.
+- only referred to as Nahbi **<big>[[H5147|נַחְבִּי]]</big>**; 
+- a son of Vophsi **<big>[[H2058|וׇפְסִי]]</big>**.
 
 Nahbi, the son of Vophsi, is mentioned in [[Num.13.14|Numbers 13:14]] as the representative from the tribe of Naphtali among the twelve spies sent by Moses to explore the land of Canaan. This event took place during the Israelites' journey through the wilderness after their exodus from Egypt. 
 
@@ -21,7 +21,7 @@ Nahbi's role in this narrative serves as a reminder of the importance of faith a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahbi | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>](H5147) <small>*Hebrew*</small> | 1x | [Num.13.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahbi\*\|reference=Num.13.14) |
-All Strong's for **Nahbi**: \[[[H5147]]\]
+| Nahbi | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>](H5147) | 1x | [Num.13.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahbi\*\|reference=Num.13.14) |
+All entries for **Nahbi**:  **<big>[[H5147|נַחְבִּי]]</big>**
 #### Related Profiles:
 - **[Vophsi](H2058)** (father)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶגְלוֹן‎</span></big> **ʻEglôwn** <small>*(eg-lawn')*</small> ==**Eglon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עֵגֶל‎</span><sup><small>[[H5695]]</small></sup>; vituline</small>
+**<big><span class="ashebrew">‎עֶגְלוֹן‎</span></big>** **ʻEglôwn** <small>*(eg-lawn')*</small> ==**Eglon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5695|‎עֵגֶל‎]]</big>**; vituline</small>
 
 $\quad$ Eglon.
 - § Eglon = *"calf-like"*

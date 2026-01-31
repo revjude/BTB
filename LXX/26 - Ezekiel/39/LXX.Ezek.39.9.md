@@ -7,39 +7,39 @@ And they that dwell in the cities of Israel shall go forth, and shall set on fir
 Then those who dwell in the cities of Israel will go out, kindle fires, and burn up the weapons—the bucklers and shields, the bows and arrows, the clubs and spears. For seven years they will use them for fuel.<small><sub>**MT:**</sub></small>
 [[Ezek.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall kindle a fire | <big><span class="asgreek">καύσουσιν</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| weapons -- | <big><span class="asgreek">όπλοις</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| small shields, | <big><span class="asgreek">πέλταις</span></big> <sup><small><small>[[G8689]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shafts, | <big><span class="asgreek">κόντοις</span></big> <sup><small><small>[[G8064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bows, | <big><span class="asgreek">τόξοις</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| arrows, | <big><span class="asgreek">τοξεύμασι</span></big> <sup><small><small>[[G9463]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rods | <big><span class="asgreek">ράβδοις</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| of \[the\] hands, | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lances; | <big><span class="asgreek">λόγχαις</span></big> <sup><small><small>[[G3057]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall kindle | <big><span class="asgreek">καύσουσιν</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| for seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσονται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall kindle a fire | **<big>[[G2545\|καύσουσιν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| weapons -- | **<big>[[G3696\|όπλοις]]</big>** |
+| small shields, | **<big>[[G8689\|πέλταις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shafts, | **<big>[[G8064\|κόντοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bows, | **<big>[[G5115\|τόξοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| arrows, | **<big>[[G9463\|τοξεύμασι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rods | **<big>[[G4464\|ράβδοις]]</big>** |
+| of \[the\] hands, | **<big>[[G5495\|χειρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lances; | **<big>[[G3057\|λόγχαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall kindle | **<big>[[G2545\|καύσουσιν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a fire | **<big>[[G4442\|πυρ]]</big>** |
+| for seven | **<big>[[G2033\|επτά]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[Ezek.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
 
 

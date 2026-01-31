@@ -7,33 +7,33 @@ As the host of heaven cannot be numbered, neither the sand of the sea measured: 
 As the hosts of heaven cannot be counted and as the sand on the seashore cannot be measured, so too will I multiply the descendants of My servant David and the Levites who minister before Me.”<small><sub>**MT:**</sub></small>
 [[Jer.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| shall not be counted | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">αριθμηθήσεται</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| military | <big><span class="asgreek">στρατιά</span></big> <sup><small><small>[[G4756]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not be measured | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μετρηθήσεται</span></big> <sup><small><small>[[G3354]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sand | <big><span class="asgreek">άμμος</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I shall multiply | <big><span class="asgreek">πληθυνώ</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G1138]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my firebrand, | <big><span class="asgreek">δάλου</span></big> <sup><small><small>[[G6781]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίτας</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my ministration. | <big><span class="asgreek">λειτουργούς</span></big> <sup><small><small>[[G3011]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As if | **<big>[[G5618\|ώσπερ]]</big>** |
+| shall not be counted | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0705\|αριθμηθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| military | **<big>[[G4756\|στρατιά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not be measured | **<big>[[G3756\|ου]]</big>** **<big>[[G3354\|μετρηθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sand | **<big>[[G0285\|άμμος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| I shall multiply | **<big>[[G4129\|πληθυνώ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of David | **<big>[[G1138\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my firebrand, | **<big>[[G6781\|δάλου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| Levites | **<big>[[G3017\|Λευίτας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| of my ministration. | **<big>[[G3011\|λειτουργούς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Jer.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
 
 

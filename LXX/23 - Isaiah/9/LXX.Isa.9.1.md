@@ -14,31 +14,31 @@ Nevertheless, there will be no more gloom for those in distress. In the past He 
 > $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτον</span></big> <sup><small><small>[[G4412]]</small></small></sup> |
-| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| Drink | <big><span class="asgreek">πίε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| Quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
-| act! | <big><span class="asgreek">ποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| O place | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of Zebulun, | <big><span class="asgreek">Ζαβυλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Naphtali, | <big><span class="asgreek">Νεφθαλείμ</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιποί</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| on the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coast, | <big><span class="asgreek">παραλίαν</span></big> <sup><small><small>[[G3882]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| Galilee | <big><span class="asgreek">Γαλιλαία</span></big> <sup><small><small>[[G1056]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations! | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| first | **<big>[[G4412\|πρώτον]]</big>** |
+| quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| Drink | **<big>[[G4095\|πίε]]</big>** |
+| Quickly | **<big>[[G5036\|ταχύ]]</big>** |
+| act! | **<big>[[G4160\|ποίει]]</big>** |
+| O place | **<big>[[G5561\|χώρα]]</big>** |
+| of Zebulun, | **<big>[[G2194\|Ζαβυλών]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of Naphtali, | **<big>[[G3508\|Νεφθαλείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rest | **<big>[[G3062\|λοιποί]]</big>** |
+| on the | **<big>[[G3588\|την]]</big>** |
+| coast, | **<big>[[G3882\|παραλίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| Galilee | **<big>[[G1056\|Γαλιλαία]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| nations! | **<big>[[G1484\|εθνών]]</big>** |
 [[Isa.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.22|<< Isaiah 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.2|Isaiah 9:2 >>]]</td></tr></table>
 
 

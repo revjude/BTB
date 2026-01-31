@@ -6,28 +6,28 @@ including Ahijah, who was wearing an ephod. He was the son of Ichabod’s brothe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.2|<< 1 Samuel 14:2]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.4|1 Samuel 14:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Ahijah  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲחִיָּ֣ה </big></span><small><small><sup>[[H0281O]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.chi.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ahitub  | <span class="ashebrew"><big>אֲחִט֡וּב </big></span><small><small><sup>[[H0285G]]</sup></small></small> &#8207;| 'a.chi.Tuv <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] brother of  | <span class="ashebrew"><big>אֲחִ֡י </big></span><small><small><sup>[[H0251G]]</sup></small></small> &#8207;| 'a.Chi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ichabod  | <span class="ashebrew"><big>אִיכָב֣וֹד </big></span><small><small><sup>[[H0350]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'i.kha.Vod <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Phinehas  | <span class="ashebrew"><big>פִּינְחָ֨ס </big></span><small><small><sup>[[H6372H]]</sup></small></small> &#8207;| pin.Chas <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eli  | <span class="ashebrew"><big>עֵלִ֜י </big></span><small><small><sup>[[H5941]]</sup></small></small> &#8207;| 'e.Li <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] priest of  | <span class="ashebrew"><big>כֹּהֵ֧ן </big></span><small><small><sup>[[H3548]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| ko.Hen <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Shiloh  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שִׁל֖וֹ </big></span><small><small><sup>[[H7887]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> shi.Lo <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] bearing  | <span class="ashebrew"><big>נֹשֵׂ֣א </big></span><small><small><sup>[[H5375H]]</sup></small></small> &#8207;| no.Se' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ephod  | <span class="ashebrew"><big>אֵפ֑וֹד </big></span><small><small><sup>[[H0646]]</sup></small></small> &#8207;| 'e.Fod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the people  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עָם֙ </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha. <small><sup>[[HTd]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it knew  | <span class="ashebrew"><big>יָדַ֔ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had gone  | <span class="ashebrew"><big>הָלַ֖ךְ </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| ha.Lakh <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יוֹנָתָֽן </big></span><small><small><sup>[[H3129N]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yo.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ahijah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0281O\|אֲחִיָּ֣ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahitub  |**<big>&#8207;[[H0285G\|אֲחִט֡וּב]]&#8207; </big>**| 'a.chi.Tuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֡י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ichabod  |**<big>&#8207;[[H0350\|אִיכָב֣וֹד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'i.kha.Vod<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Phinehas  |**<big>&#8207;[[H6372H\|פִּינְחָ֨ס]]&#8207; </big>**| pin.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eli  |**<big>&#8207;[[H5941\|עֵלִ֜י]]&#8207; </big>**| 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] priest of  |**<big>&#8207;[[H3548\|כֹּהֵ֧ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ko.Hen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Shiloh  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7887\|שִׁל֖וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shi.Lo<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] bearing  |**<big>&#8207;[[H5375H\|נֹשֵׂ֣א]]&#8207; </big>**| no.Se'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ephod  |**<big>&#8207;[[H0646\|אֵפ֑וֹד]]&#8207; </big>**| 'e.Fod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the people  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it knew  |**<big>&#8207;[[H3045\|יָדַ֔ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had gone  |**<big>&#8207;[[H1980G\|הָלַ֖ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3129N\|יוֹנָתָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.2|<< 1 Samuel 14:2]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.4|1 Samuel 14:4 >>]]</td></tr></table>
 
 

@@ -10,17 +10,17 @@ They sharpen their tongues like snakes; the venom of vipers is on their lips. Se
 > $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they sharpen  | <span class="ashebrew"><big>שָֽׁנֲנ֣וּ </big></span><small><small><sup>[[H8150]]</sup></small></small> &#8207;| sha.na.Nu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tongue their  | <span class="ashebrew"><big>לְשׁוֹנָ </big></span><small><small><sup>[[H3956G]]</sup></small></small> <span class="ashebrew"><big>ם֮ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| le.sho.Na <small><sup>[[HNcbsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּֽמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a snake  | <span class="ashebrew"><big>נָ֫חָ֥שׁ </big></span><small><small><sup>[[H5175]]</sup></small></small> &#8207;| na.Chash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] venom of  | <span class="ashebrew"><big>חֲמַ֥ת </big></span><small><small><sup>[[H2534]]</sup></small></small> &#8207;| cha.Mat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a viper  | <span class="ashebrew"><big>עַכְשׁ֑וּב </big></span><small><small><sup>[[H5919]]</sup></small></small> &#8207;| 'akh.Shuv <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] under  | <span class="ashebrew"><big>תַּ֖חַת </big></span><small><small><sup>[[H8478G]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips their  | <span class="ashebrew"><big>שְׂפָתֵ֣י </big></span><small><small><sup>[[H8193G]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| se.fa.Tei. <small><sup>[[HNcfdc]]</sup></small> mov <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  | <span class="ashebrew"><big>סֶֽלָה </big></span><small><small><sup>[[H5542]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Se.lah <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sharpen  |**<big>&#8207;[[H8150\|שָֽׁנֲנ֣וּ]]&#8207; </big>**| sha.na.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue their  |**<big>&#8207;[[H3956G\|לְשׁוֹנָ]]&#8207;&#8207;[[H9028\|ם֮]]&#8207; </big>**| le.sho.Na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּֽמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a snake  |**<big>&#8207;[[H5175\|נָ֫חָ֥שׁ]]&#8207; </big>**| na.Chash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] venom of  |**<big>&#8207;[[H2534\|חֲמַ֥ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a viper  |**<big>&#8207;[[H5919\|עַכְשׁ֑וּב]]&#8207; </big>**| 'akh.Shuv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] under  |**<big>&#8207;[[H8478G\|תַּ֖חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips their  |**<big>&#8207;[[H8193G\|שְׂפָתֵ֣י]]&#8207;&#8207;[[H9028\|מוֹ]]&#8207; </big>**| se.fa.Tei.<small><sup>[[HNcfdc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.2|<< Psalms 140:2]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.4|Psalms 140:4 >>]]</td></tr></table>
 
 

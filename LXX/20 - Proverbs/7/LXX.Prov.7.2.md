@@ -7,31 +7,31 @@ Keep my commandments, and live; and my law as the apple of thine eye.
 Keep my commandments and live; guard my teachings as the apple of your eye.<small><sub>**MT:**</sub></small>
 [[Prov.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.1|<< Proverbs 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.3|Proverbs 7:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| esteem | <big><span class="asgreek">τίμα</span></big> <sup><small><small>[[G5091]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall strengthen; | <big><span class="asgreek">ισχύσεις</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| and besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| another! | <big><span class="asgreek">άλλον</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| Keep | <big><span class="asgreek">φύλαξον</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| my | <big><span class="asgreek">εμάς</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| commandments! | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall spend life; | <big><span class="asgreek">βιώσεις</span></big> <sup><small><small>[[G0980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my | <big><span class="asgreek">εμούς</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \[the\] pupil | <big><span class="asgreek">κόρας</span></big> <sup><small><small>[[G8070]]</small></small></sup> |
-| of \[your\] eyes. | <big><span class="asgreek">ομμάτων</span></big> <sup><small><small>[[G3659]]</small></small></sup> |
+| O son, | **<big>[[G5207\|υιέ]]</big>** |
+| esteem | **<big>[[G5091\|τίμα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall strengthen; | **<big>[[G2480\|ισχύσεις]]</big>** |
+| and besides | **<big>[[G4133\|πλην]]</big>** **<big>[[G1161\|δε]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβού]]</big>** |
+| another! | **<big>[[G0243\|άλλον]]</big>** |
+| Keep | **<big>[[G5442\|φύλαξον]]</big>** |
+| my | **<big>[[G1699\|εμάς]]</big>** |
+| commandments! | **<big>[[G1785\|εντολάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall spend life; | **<big>[[G0980\|βιώσεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| my | **<big>[[G1699\|εμούς]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| as if | **<big>[[G5618\|ώσπερ]]</big>** |
+| \[the\] pupil | **<big>[[G8070\|κόρας]]</big>** |
+| of \[your\] eyes. | **<big>[[G3659\|ομμάτων]]</big>** |
 [[Prov.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.1|<< Proverbs 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.3|Proverbs 7:3 >>]]</td></tr></table>
 
 

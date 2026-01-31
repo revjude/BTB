@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Delaiah</span> was an ancestor of a priestly family that returned from the Babylonian exile but could not prove their genealogy. \([[Ezra.2.60|Ezr.2.60]]; [[Neh.7.62|Neh.7.62]]\)
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.60|Ezr.2.60]]; 
-- only referred to as Delaiah<[[H1806I]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\).
+- only referred to as Delaiah **<big>[[H1806|דְּלָיָה]]</big>**.
 
 Delaiah is mentioned in [[Ezra.2.60|Ezra 2:60]] and [[Neh.7.62|Nehemiah 7:62]] as an ancestor of a priestly family that returned to Jerusalem from the Babylonian exile. This family, along with the families of Tobiah and Nekoda, sought to be included among the priests but could not prove their genealogy or priestly lineage. 
 
@@ -16,5 +16,5 @@ The mention of Delaiah's family in this context highlights the importance of mai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806I) <small>*Hebrew*</small> | 2x | [[Ezr.2.60] & [Neh.7.62] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Ezr.2.60;Neh.7.62) |
-All Strong's for **Delaiah**: \[[[H1806I]]\]
+| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806I) | 2x | [[Ezr.2.60] & [Neh.7.62] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Ezr.2.60;Neh.7.62) |
+All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**

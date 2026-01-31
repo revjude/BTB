@@ -1,4 +1,4 @@
-spelling of: <small>[[G6013]]</small> 
+spelling of: <small>**<big>[[G6013|γένημα]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==γένημα==</span>-<span class='asgreek'>ις</span></b>, <span class='asgreek'>ἡ</span>, 

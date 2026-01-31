@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Dodo</span> the Bethlehemite was the father of Elhanan, one of David's mighty men. \([[2Sam.23.24|2Sa.23.24]]; [[1Chr.11.26|1Ch.11.26]]\)
 - A man living at the time of United Monarchy, first mentioned at [[2Sam.23.24|2Sa.23.24]]; 
-- only referred to as Dodo<[[H1734I]]> \(<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ\); 
--  father of Elhanan<[[H0445H]]>.
+- only referred to as Dodo **<big>[[H1734|דּוֹדוֹ]]</big>**; 
+-  father of Elhanan **<big>[[H0445|אֶלְחָנָן]]</big>**.
 
 Dodo the Bethlehemite is mentioned in the Bible as the father of Elhanan, one of King David's mighty men. Elhanan is listed among David's elite warriors in [[2Sam.23.24|2 Samuel 23:24]] and [[1Chr.11.26|1 Chronicles 11:26]]. 
 
@@ -19,7 +19,7 @@ It is worth noting that there is another Elhanan mentioned in 2 Samuel 21:19, wh
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dodo | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ](H1734I) <small>*Hebrew*</small> | 2x | [[2Sa.23.24] & [1Ch.11.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodo\*\|reference=2Sa.23.24;1Ch.11.26) |
-All Strong's for **Dodo**: \[[[H1734I]]\]
+| Dodo | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ](H1734I) | 2x | [[2Sa.23.24] & [1Ch.11.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodo\*\|reference=2Sa.23.24;1Ch.11.26) |
+All entries for **Dodo**:  **<big>[[H1734|דּוֹדוֹ]]</big>**
 #### Related Profiles:
 - **[Elhanan](H0445H)** (child)

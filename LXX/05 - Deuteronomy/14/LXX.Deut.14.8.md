@@ -7,36 +7,36 @@ And the swine, because it divideth the hoof, yet cheweth not the cud, it [is] un
 as well as the pig; though it has a divided hoof, it does not chew the cud. It is unclean for you. You must not eat its meat or touch its carcass.<small><sub>**MT:**</sub></small>
 [[Deut.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.7|<< Deuteronomy 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.9|Deuteronomy 14:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pig, | <big><span class="asgreek">υν</span></big> <sup><small><small>[[G5300]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] cloven | <big><span class="asgreek">διχηλεί</span></big> <sup><small><small>[[G6948]]</small></small></sup> |
-| of hoof | <big><span class="asgreek">οπλήν</span></big> <sup><small><small>[[G8535]]</small></small></sup> |
-| this \[one\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| claws | <big><span class="asgreek">ονυχίζει</span></big> <sup><small><small>[[G8522]]</small></small></sup> |
-| cloven-footed | <big><span class="asgreek">ονυχιστήρας</span></big> <sup><small><small>[[G8524]]</small></small></sup> |
-| of hoof, | <big><span class="asgreek">οπλής</span></big> <sup><small><small>[[G8535]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[as far as\] chewing the cud | <big><span class="asgreek">μηρυκισμόν</span></big> <sup><small><small>[[G8323]]</small></small></sup> |
-| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| chew the cud -- | <big><span class="asgreek">μαρυκάται</span></big> <sup><small><small>[[G8322]]</small></small></sup> |
-| this \[one is\] unclean | <big><span class="asgreek">ακάθαρτον</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat, | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their decaying flesh | <big><span class="asgreek">θνησιμαίων</span></big> <sup><small><small>[[G7681]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| touch. | <big><span class="asgreek">άψεσθε</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| pig, | **<big>[[G5300\|υν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] cloven | **<big>[[G6948\|διχηλεί]]</big>** |
+| of hoof | **<big>[[G8535\|οπλήν]]</big>** |
+| this \[one\] | **<big>[[G3778\|τούτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| claws | **<big>[[G8522\|ονυχίζει]]</big>** |
+| cloven-footed | **<big>[[G8524\|ονυχιστήρας]]</big>** |
+| of hoof, | **<big>[[G8535\|οπλής]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|τούτο]]</big>** |
+| \[as far as\] chewing the cud | **<big>[[G8323\|μηρυκισμόν]]</big>** |
+| does not | **<big>[[G3756\|ου]]</big>** |
+| chew the cud -- | **<big>[[G8322\|μαρυκάται]]</big>** |
+| this \[one is\] unclean | **<big>[[G0169\|ακάθαρτον]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| to you; | **<big>[[G1473\|υμίν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their meats | **<big>[[G2907\|κρεών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| eat, | **<big>[[G2068\|φάγεσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their decaying flesh | **<big>[[G7681\|θνησιμαίων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall not | **<big>[[G3756\|ουχ]]</big>** |
+| touch. | **<big>[[G0680\|άψεσθε]]</big>** |
 [[Deut.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.7|<< Deuteronomy 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.9|Deuteronomy 14:9 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ Shall not they teach thee, [and] tell thee, and utter words out of their heart?
 Will they not teach you and tell you, and speak from their understanding?<small><sub>**MT:**</sub></small>
 [[Job.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.9|<< Job 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.11|Job 8:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-|  | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| shall these not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ούτοί</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| teach you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">διδάξουσι</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| announce \[to you\], | <big><span class="asgreek">αναγγελούσι</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| lead forth | <big><span class="asgreek">εξάξουσι</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| sayings? | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+|  | **<big>[[G2228\|η]]</big>** |
+| shall these not | **<big>[[G3756\|ουχ]]</big>** **<big>[[G3778\|ούτοί]]</big>** |
+| teach you, | **<big>[[G1473\|σε]]</big>** **<big>[[G1321\|διδάξουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| announce \[to you\], | **<big>[[G0312\|αναγγελούσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίας]]</big>** |
+| lead forth | **<big>[[G1806\|εξάξουσι]]</big>** |
+| sayings? | **<big>[[G4487\|ρήματα]]</big>** |
 [[Job.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.9|<< Job 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.11|Job 8:11 >>]]</td></tr></table>
 
 

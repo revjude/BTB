@@ -11,33 +11,33 @@ This is how you are to eat it: You must be fully dressed for travel, with your s
 > $\quad$ referenced by: [[Heb.11.28|Heb 11:28]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And thus | <big><span class="asgreek">ουτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall you eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it -- | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your loins | <big><span class="asgreek">οσφύες</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| girded, | <big><span class="asgreek">περιεζωσμέναι</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sandals | <big><span class="asgreek">υποδήματα</span></big> <sup><small><small>[[G5266]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your feet, | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your staff | <big><span class="asgreek">βακτηρίαι</span></big> <sup><small><small>[[G6648]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands; | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| haste -- | <big><span class="asgreek">σπουδής</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
-| it is \[the\] passover | <big><span class="asgreek">πάσχα</span></big> <sup><small><small>[[G3957]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And thus | **<big>[[G3779\|ουτως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall you eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| it -- | **<big>[[G1473\|αυτό]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your loins | **<big>[[G3751\|οσφύες]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| girded, | **<big>[[G4024\|περιεζωσμέναι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sandals | **<big>[[G5266\|υποδήματα]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your feet, | **<big>[[G4228\|ποσίν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your staff | **<big>[[G6648\|βακτηρίαι]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your hands; | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall eat | **<big>[[G2068\|έδεσθε]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| haste -- | **<big>[[G4710\|σπουδής]]</big>** |
+| it is \[the\] passover | **<big>[[G3957\|πάσχα]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Exod.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.10|<< Exodus 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.12|Exodus 12:12 >>]]</td></tr></table>
 
 

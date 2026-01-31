@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַוָּה‎</span></big> **Chavvâh** <small>*(khav-vaw')*</small> ==**Eve**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>causatively from <span class="ashebrew">‎חָוָה‎</span><sup><small>[[H2331]]</small></sup>; life-giver</small>
+**<big><span class="ashebrew">‎חַוָּה‎</span></big>** **Chavvâh** <small>*(khav-vaw')*</small> ==**Eve**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>causatively from **<big>[[H2331|‎חָוָה‎]]</big>**; life-giver</small>
 
 $\quad$ Eve.
 - § Eve = *"life" or "living"*
@@ -7,4 +7,4 @@ $\quad$ Eve.
 
 **1)** the first woman, wife of Adam
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Εὖα</span><sup><small>[[G2096]]</small></sup>
+<small>See Greek: </small>**<big>[[G2096|Εὖα]]</big>**

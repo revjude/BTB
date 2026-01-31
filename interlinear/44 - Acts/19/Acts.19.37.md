@@ -6,22 +6,22 @@ For you have brought these men here, though they have neither robbed our temple 
 <small><sub>**Literal:**</sub></small>
 You brought for <the> men these neither temple plunderers nor blaspheming the goddess of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.36|<< Acts 19:36]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.38|Acts 19:38 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| You brought |<big><span class="asgreek">ἠγάγετε</span></big> <small><small><sup>[[G0071]]</sup></small></small> |ēgagete <small><sup>[[V-2AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| men |<big><span class="asgreek">ἄνδρας</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |andras <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| these |<big><span class="asgreek">τούτους</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutous <small><sup>[[D-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| neither |<big><span class="asgreek">οὔτε</span></big> <small><small><sup>[[G3777]]</sup></small></small> |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| temple plunderers |<big><span class="asgreek">ἱεροσύλους</span></big> <small><small><sup>[[G2417]]</sup></small></small> |hi'erosulous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nor |<big><span class="asgreek">οὔτε</span></big> <small><small><sup>[[G3777]]</sup></small></small> |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| blaspheming |<big><span class="asgreek">βλασφημοῦντας</span></big> <small><small><sup>[[G0987]]</sup></small></small> |blasphēmountas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| goddess [^1] |<big><span class="asgreek">θεὸν</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| of us. [^2] [^3] |<big><span class="asgreek">ἡμῶν.</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| You brought |**<big>[[G0071\|ἠγάγετε]]</big>**  |ēgagete <small><sup>[[V-2AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| men |**<big>[[G0435G\|ἄνδρας]]</big>**  |andras <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| these |**<big>[[G3778\|τούτους]]</big>**  |toutous <small><sup>[[D-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| neither |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| temple plunderers |**<big>[[G2417\|ἱεροσύλους]]</big>**  |hi'erosulous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nor |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| blaspheming |**<big>[[G0987\|βλασφημοῦντας]]</big>**  |blasphēmountas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| goddess [^1] |**<big>[[G2316\|θεὸν]]</big>**  |theon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| of us. [^2] [^3] |**<big>[[G3165\|ἡμῶν.]]</big>**  |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.36|<< Acts 19:36]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.38|Acts 19:38 >>]]</td></tr></table>
 
-[^1]: ==TR==: goddess | <span class="asgreek">θεὰν</span><small><sup>[[G2299]]</sup></small> | thean<small><sup>[[N-ASF]]</sup></small>
-[^2]: Variant:  <span class='asgreek'>**ὑμῶν**</span>  (<i>humōn</i>) 'of you' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἡμῶν**</span>.  (<i>hēmōn</i>) 'of us.' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^3]: ==TR+Byz==: of you | <span class="asgreek">ὑμῶν</span><small><sup>[[G5216]]</sup></small> | humōn<small><sup>[[P-2GP]]</sup></small>
+[^1]: ==TR==: goddess | **<big>[[G2299|θεὰν]]</big>** | thean<small><sup>[[N-ASF]]</sup></small>
+[^2]: Variant:  **<big><span class='asgreek'>ὑμῶν</span></big>**  (<i>humōn</i>) 'of you' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>ἡμῶν</span></big>**.  (<i>hēmōn</i>) 'of us.' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
+[^3]: ==TR+Byz==: of you | **<big>[[G5216|ὑμῶν]]</big>** | humōn<small><sup>[[P-2GP]]</sup></small>

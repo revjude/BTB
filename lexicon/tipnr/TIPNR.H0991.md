@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beten</span> was a town allotted to the tribe of Asher in the division of the Promised Land. \([[Josh.19.25|Joshua 19:25]]\)
 - A location only mentioned at [[Josh.19.25|Jos.19.25]]; 
-- only referred to as Beten<[[H0991]]> \(<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ט</span>ֶ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Beten **<big>[[H0991|בֶּטֶן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.934736,35.270799&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Beten is mentioned only once in the Bible, in [[Josh.19.25|Joshua 19:25]], as pa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beten | [<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ט</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H0991) <small>*Hebrew*</small> | 1x | [Jos.19.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beten\*\|reference=Jos.19.25) |
-All Strong's for **Beten**: \[[[H0991]]\]
+| Beten | [<span class='tipnrLangHebrew'>ב</span>ֶּ֫<span class='tipnrLangHebrew'>ט</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H0991) | 1x | [Jos.19.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beten\*\|reference=Jos.19.25) |
+All entries for **Beten**:  **<big>[[H0991|בֶּטֶן]]</big>**

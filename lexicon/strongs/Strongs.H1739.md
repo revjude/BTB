@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּוֶה‎</span></big> **dâveh** <small>*(daw-veh')*</small> ==**sick**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּוָה‎</span><sup><small>[[H1738]]</small></sup></small>
+**<big><span class="ashebrew">‎דָּוֶה‎</span></big>** **dâveh** <small>*(daw-veh')*</small> ==**sick**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H1738|‎דָּוָה‎]]</big>**</small>
 
 $\quad$ faint, menstruous cloth, she that is sick, having sickness.
 - ***sick*** (especially in menstruation)
@@ -8,4 +8,4 @@ $\quad$ faint, menstruous cloth, she that is sick, having sickness.
 $\quad$ **1a)** faint, weak
 $\quad$ **1b)** unwell, menstruous
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἱμοῤῥέω</span><sup><small>[[G0131]]</small></sup> · <span class="asgreek">ὀδυνάω</span><sup><small>[[G3600]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup>
+<small>See Greek: </small>**<big>[[G0131|αἱμοῤῥέω]]</big>** · **<big>[[G3600|ὀδυνάω]]</big>** · **<big>[[G3601|ὀδύνη]]</big>**

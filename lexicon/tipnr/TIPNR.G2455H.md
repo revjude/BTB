@@ -4,8 +4,8 @@ Apostle living at the time of the New Testament
 
 <span class='tipnrhighlight'>Judas</span> Iscariot was one of the twelve apostles who betrayed Jesus, leading to His arrest and crucifixion.
 - An apostle living at the time of the New Testament, first mentioned at [[Matt.10.4|Mat.10.4]]; 
-- referred to as Judas<[[G2455H]]> \(<span class='tipnrLangGreek'>Ἰούδας</span>\), or Iscariot<[[G2469]]> \(<span class='tipnrLangGreek'>Ἰσκαριώτης</span>, <span class='tipnrLangGreek'>Ἰσκαριώθ</span>\); 
-- a son of Simon<[[G4613L]]>.
+- referred to as Judas **<big>[[G2455|Ἰούδας]]</big>**, or Iscariot **<big>[[G2469|Ἰσκαριώτης]]</big>**; 
+- a son of Simon **<big>[[G4613|Σίμων]]</big>**.
 
 Judas Iscariot was one of the twelve apostles of Jesus Christ, known for his betrayal of Jesus, which led to His arrest and crucifixion. He is consistently identified as "Judas Iscariot" or "Judas, the one who betrayed Him" throughout the Gospels \([[Matt.10.4|Matthew 10:4]]; 26:14; [[Mark.3.19|Mark 3:19]]; [[Luke.6.16|Luke 6:16]]; [[John.6.71|John 6:71]]\). 
 
@@ -23,8 +23,8 @@ Judas' betrayal of Jesus played a crucial role in the events leading to Jesus' c
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455H) <small>*Greek*</small> | 22x | [[Mat.10.4] ... [Act.1.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Mat.10.4;Mat.26.14;Mat.26.25;Mat.26.47;Mat.27.3;Mrk.3.19;Mrk.14.10;Mrk.14.43;Luk.6.16;Luk.22.3;Luk.22.47;Luk.22.48;Jhn.6.71;Jhn.12.4;Jhn.13.2;Jhn.13.26;Jhn.13.29;Jhn.18.2;Jhn.18.3;Jhn.18.5;Act.1.16;Act.1.25) |
-| Iscariot | [<span class='tipnrLangGreek'>Ἰσκαριώτης</span>, <span class='tipnrLangGreek'>Ἰσκαριώθ</span>](G2469) <small>*Greek*</small> | 12x | [[Mat.10.4] ... [Jhn.14.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iscariot\*\|reference=Mat.10.4;Mat.26.14;Mrk.3.19;Mrk.14.10;Mrk.14.43;Luk.6.16;Luk.22.3;Jhn.6.71;Jhn.12.4;Jhn.13.2;Jhn.13.26;Jhn.14.22) |
-All Strong's for **Judas or Iscariot**: \[[[G2455H]]\] \[[[G2469]]\]
+| Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455H) | 22x | [[Mat.10.4] ... [Act.1.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Mat.10.4;Mat.26.14;Mat.26.25;Mat.26.47;Mat.27.3;Mrk.3.19;Mrk.14.10;Mrk.14.43;Luk.6.16;Luk.22.3;Luk.22.47;Luk.22.48;Jhn.6.71;Jhn.12.4;Jhn.13.2;Jhn.13.26;Jhn.13.29;Jhn.18.2;Jhn.18.3;Jhn.18.5;Act.1.16;Act.1.25) |
+| Iscariot | [<span class='tipnrLangGreek'>Ἰσκαριώτης</span>, <span class='tipnrLangGreek'>Ἰσκαριώθ</span>](G2469) | 12x | [[Mat.10.4] ... [Jhn.14.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iscariot\*\|reference=Mat.10.4;Mat.26.14;Mrk.3.19;Mrk.14.10;Mrk.14.43;Luk.6.16;Luk.22.3;Jhn.6.71;Jhn.12.4;Jhn.13.2;Jhn.13.26;Jhn.14.22) |
+All entries for **Judas or Iscariot**:  **<big>[[G2455|Ἰούδας]]</big>** ☩  **<big>[[G2469|Ἰσκαριώτης]]</big>**
 #### Related Profiles:
 - **[Simon](G4613L)** (father)

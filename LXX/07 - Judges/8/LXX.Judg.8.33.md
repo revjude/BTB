@@ -7,35 +7,35 @@ And it came to pass, as soon as Gideon was dead, that the children of Israel tur
 And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god.<small><sub>**MT:**</sub></small>
 [[Judg.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.32|<< Judges 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.34|Judges 8:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Gideon died, | <big><span class="asgreek">απέθανε</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| returned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fornicated | <big><span class="asgreek">εξεπόρνευσαν</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baalim, | <big><span class="asgreek">Βααλίμ</span></big> <sup><small><small>[[H1168]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| established | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| to themselves | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baal-berith | <big><span class="asgreek">Βαάλ Βερίθ</span></big> <sup><small><small>[[H1170]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| god. | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγενήθη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Gideon died, | **<big>[[G0599\|απέθανε]]</big>** **<big>[[G1066\|Γεδεών]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| returned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fornicated | **<big>[[G1608\|εξεπόρνευσαν]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Baalim, | **<big>[[H1168\|Βααλίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| established | **<big>[[G5087\|έθεντο]]</big>** |
+| to themselves | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Baal-berith | **<big>[[H1170\|Βαάλ Βερίθ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a covenant, | **<big>[[G1242\|διαθήκην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be | **<big>[[G1510\|είναι]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| for him | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| god. | **<big>[[G2316\|θεόν]]</big>** |
 [[Judg.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.32|<< Judges 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.34|Judges 8:34 >>]]</td></tr></table>
 
 

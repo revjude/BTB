@@ -7,42 +7,42 @@ Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I wil
 Rise and thresh, O Daughter of Zion, for I will give you horns of iron and hooves of bronze to break to pieces many peoples. Then you will devote their gain to the LORD, their wealth to the Lord of all the earth.<small><sub>**MT:**</sub></small>
 [[Mic.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.12|<< Micah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.1|Micah 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Rise up | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thresh | <big><span class="asgreek">αλόα</span></big> <sup><small><small>[[G0248]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your horns | <big><span class="asgreek">κέρατά</span></big> <sup><small><small>[[G2768]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will make | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| iron, | <big><span class="asgreek">σιδηρά</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hoofs | <big><span class="asgreek">οπλάς</span></big> <sup><small><small>[[G8535]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will make | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| brass, | <big><span class="asgreek">χαλκάς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will dissolve | <big><span class="asgreek">κατατήξεις</span></big> <sup><small><small>[[G7937]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλούς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall present | <big><span class="asgreek">αναθήσεις</span></big> <sup><small><small>[[G0394]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their abundance, | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Rise up | **<big>[[G0450\|ανάστηθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thresh | **<big>[[G0248\|αλόα]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| O daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Zion! | **<big>[[G4622\|Σιών]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your horns | **<big>[[G2768\|κέρατά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will make | **<big>[[G5087\|θήσομαι]]</big>** |
+| iron, | **<big>[[G4603\|σιδηρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hoofs | **<big>[[G8535\|οπλάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will make | **<big>[[G5087\|θήσομαι]]</big>** |
+| brass, | **<big>[[G5470\|χαλκάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will dissolve | **<big>[[G7937\|κατατήξεις]]</big>** |
+| peoples | **<big>[[G2992\|λαούς]]</big>** |
+| many | **<big>[[G4183\|πολλούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall present | **<big>[[G0394\|αναθήσεις]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their abundance, | **<big>[[G4128\|πλήθος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their strength | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Mic.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.12|<< Micah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.1|Micah 5:1 >>]]</td></tr></table>
 
 

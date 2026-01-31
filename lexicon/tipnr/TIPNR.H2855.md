@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hethlon</span> was a place on the northern border of Israel, mentioned in Ezekiel's vision of the restored land \(Ezek 47:15; 48:1\).
 - A location first mentioned at [[Ezek.47.15|Ezk.47.15]]; 
-- only referred to as Hethlon<[[H2855]]> \(<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Hethlon **<big>[[H2855|חֶתְלֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.737990,36.340918&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hethlon is mentioned in the Book of Ezekiel as a place situated on the northern 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hethlon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2855) <small>*Hebrew*</small> | 2x | [[Ezk.47.15] & [Ezk.48.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hethlon\*\|reference=Ezk.47.15;Ezk.48.1) |
-All Strong's for **Hethlon**: \[[[H2855]]\]
+| Hethlon | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2855) | 2x | [[Ezk.47.15] & [Ezk.48.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hethlon\*\|reference=Ezk.47.15;Ezk.48.1) |
+All entries for **Hethlon**:  **<big>[[H2855|חֶתְלֹן]]</big>**

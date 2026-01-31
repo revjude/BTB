@@ -7,26 +7,26 @@ And the six hundred men appointed with their weapons of war, which [were] of the
 The six hundred Danites stood at the entrance of the gate, armed with their weapons of war.<small><sub>**MT:**</sub></small>
 [[Judg.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.15|<< Judges 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.17|Judges 18:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| being girded with | <big><span class="asgreek">περιεζωσμένοι</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| weapons | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| for their warfare, | <big><span class="asgreek">πολεμικά</span></big> <sup><small><small>[[G8839]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being set up | <big><span class="asgreek">εστηλωμένοι</span></big> <sup><small><small>[[G9173]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gatehouse, | <big><span class="asgreek">πυλώνος</span></big> <sup><small><small>[[G4440]]</small></small></sup> |
-| \[were\] the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Dan. | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| six hundred | **<big>[[G1812\|εξακόσιοι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| being girded with | **<big>[[G4024\|περιεζωσμένοι]]</big>** |
+| weapons | **<big>[[G4632\|σκεύη]]</big>** |
+| for their warfare, | **<big>[[G8839\|πολεμικά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| being set up | **<big>[[G9173\|εστηλωμένοι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| gatehouse, | **<big>[[G4440\|πυλώνος]]</big>** |
+| \[were\] the ones | **<big>[[G3588\|οι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Dan. | **<big>[[H1835\|Δαν]]</big>** |
 [[Judg.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.15|<< Judges 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.17|Judges 18:17 >>]]</td></tr></table>
 
 

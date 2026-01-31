@@ -7,14 +7,14 @@ Israel hath cast off [the thing that is] good: the enemy shall pursue him.
 But Israel has rejected good; an enemy will pursue him.<small><sub>**MT:**</sub></small>
 [[Hos.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.2|<< Hosea 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.4|Hosea 8:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| threw away | <big><span class="asgreek">απερρίψατο</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
-| good \[things\]; | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| an enemy | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| they pursued | <big><span class="asgreek">κατεδίωξαν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| threw away | **<big>[[G0641\|απερρίψατο]]</big>** |
+| good \[things\]; | **<big>[[G0018\|αγαθά]]</big>** |
+| an enemy | **<big>[[G2190\|εχθρόν]]</big>** |
+| they pursued | **<big>[[G2614\|κατεδίωξαν]]</big>** |
 [[Hos.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.2|<< Hosea 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.4|Hosea 8:4 >>]]</td></tr></table>
 
 

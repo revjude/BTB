@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ellasar</span>, a Mesopotamian city-state whose king Arioch joined Chedorlaomer of Elam in battle against Sodom and Gomorrah.
 - A location first mentioned at [[Gen.14.1|Gen.14.1]]; 
-- only referred to as Ellasar<[[H0495]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ָּ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Ellasar **<big>[[H0495|אֶלָּסָר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.056944,40.997222&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of Ellasar is uncertain, but it is believed to be in the regi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ellasar | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ָּ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ר</span>](H0495) <small>*Hebrew*</small> | 2x | [[Gen.14.1] & [Gen.14.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ellasar\*\|reference=Gen.14.1;Gen.14.9) |
-All Strong's for **Ellasar**: \[[[H0495]]\]
+| Ellasar | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ָּ<span class='tipnrLangHebrew'>ס</span>ָ<span class='tipnrLangHebrew'>ר</span>](H0495) | 2x | [[Gen.14.1] & [Gen.14.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ellasar\*\|reference=Gen.14.1;Gen.14.9) |
+All entries for **Ellasar**:  **<big>[[H0495|אֶלָּסָר]]</big>**

@@ -1,4 +1,4 @@
-Greek of: <small>[[H6629H]]</small> 
+Greek of: <small>**<big>[[H6629H|צֹאן]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==προβατικός==</span>-<span class='asgreek'>ικός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

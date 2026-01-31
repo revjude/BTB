@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֹעָה‎</span></big> **Nôʻâh** <small>*(no-aw')*</small> ==**Noah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נוּעַ‎</span><sup><small>[[H5128]]</small></sup>; movement</small>
+**<big><span class="ashebrew">‎נֹעָה‎</span></big>** **Nôʻâh** <small>*(no-aw')*</small> ==**Noah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H5128|‎נוּעַ‎]]</big>**; movement</small>
 
 $\quad$ Noah.
 - § Noah = *"motion"*

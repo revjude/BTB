@@ -1,5 +1,5 @@
-<small>Hebrew form: [[H2504]]</small>
-<small>Also see: [[H2783]]</small>
+<small>Hebrew form: **<big>[[H2504|חָלָץ]]</big>**</small>
+<small>Also see: **<big>[[H2783|חֲרַץ]]</big>**</small>
 
  [<span class="bdbLangAramaic">‎חֲרַךְ‎</span>] **verb** ==singe== ([[BDB#Tg|ᵑ7]] Syriac; Late Hebrew <span class="bdbLangHebrew">‎חָרַח‎</span>); — 
 

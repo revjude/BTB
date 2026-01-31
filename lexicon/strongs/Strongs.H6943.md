@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֶדֶשׁ‎</span></big> **Qedesh** <small>*(keh'-desh)*</small> ==**Kedesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָדַשׁ‎</span><sup><small>[[H6942]]</small></sup>; a sanctum</small>
+**<big><span class="ashebrew">‎קֶדֶשׁ‎</span></big>** **Qedesh** <small>*(keh'-desh)*</small> ==**Kedesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6942|‎קָדַשׁ‎]]</big>**; a sanctum</small>
 
 $\quad$ Kedesh.
 - § Kedesh = *"holy place"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעְגָּל‎</span></big> **maʻgâl** <small>*(mah-gawl')*</small> ==**track**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or feminine <span class="ashebrew">מַעְגָּלָה</span> **maʻgâlâh** <small>*(mah-gaw-law')*</small>; from the same as <span class="ashebrew">‎עָגֹל‎</span><sup><small>[[H5696]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעְגָּל‎</span></big>** **maʻgâl** <small>*(mah-gawl')*</small> ==**track**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or feminine **<big><span class="ashebrew">מַעְגָּלָה</span></big>** **maʻgâlâh** <small>*(mah-gaw-law')*</small>; from the same as **<big>[[H5696|‎עָגֹל‎]]</big>**</small>
 
 $\quad$ going, path, trench, way(-side).
 - ***a track*** (literally or figuratively)
@@ -9,4 +9,4 @@ $\quad$ going, path, trench, way(-side).
 $\quad$ **1a)** circumvallation, entrenchment
 $\quad$ **1b)** track
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὁδός</span><sup><small>[[G3598]]</small></sup> · <span class="asgreek">τρίβος</span><sup><small>[[G5147]]</small></sup> · <span class="asgreek">τροχιά</span><sup><small>[[G5163]]</small></sup>
+<small>See Greek: </small>**<big>[[G3598|ὁδός]]</big>** · **<big>[[G5147|τρίβος]]</big>** · **<big>[[G5163|τροχιά]]</big>**

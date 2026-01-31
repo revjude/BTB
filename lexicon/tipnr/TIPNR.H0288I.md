@@ -6,7 +6,7 @@ Priest living at the time of United Monarchy
 - A priest living at the time of United Monarchy, first mentioned at [[2Sam.8.17|2Sa.8.17]]; 
 -  son of Abiathar \(H0054\); 
 -  brother of Jonathan \(H3083I\); 
-- called Ahimelech <[[H0288I]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\); or Ahimelech \(KJV= Abimelech; NIV= Ahimelek\) <[[H0040J]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ\)
+- called Ahimelech  **<big>[[H0288|אֲחִימֶלֶךְ]]</big>**; or Ahimelech \(KJV= Abimelech; NIV= Ahimelek\)  **<big>[[H0040|אֲבִימֶלֶךְ]]</big>**
 
 Ahimelech, the son of Abiathar, was a priest who served during the reign of King David. He is mentioned alongside Zadok, another prominent priest, suggesting that they held important positions in the priestly hierarchy. \([[2Sam.8.17|2Sa.8.17]]; [[1Chr.18.16|1Ch.18.16]]\) 
 
@@ -18,9 +18,9 @@ Although not much is recorded about Ahimelech's specific actions, his position a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahimelech (NIV= Ahimelek) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0288I) <small>*Hebrew*</small> | 4x | [[2Sa.8.17] ... [1Ch.24.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahimelech\*\|reference=2Sa.8.17;1Ch.24.3;1Ch.24.6;1Ch.24.31) |
-| Ahimelech (KJV= Abimelech; NIV= Ahimelek) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0040J) <small>*Hebrew*</small> | 1x | [1Ch.18.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahimelech\*\|reference=1Ch.18.16) |
-All Strong's for **Ahimelech**: \[[[H0288I]]\] \[[[H0040J]]\]
+| Ahimelech (NIV= Ahimelek) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0288I) | 4x | [[2Sa.8.17] ... [1Ch.24.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahimelech\*\|reference=2Sa.8.17;1Ch.24.3;1Ch.24.6;1Ch.24.31) |
+| Ahimelech (KJV= Abimelech; NIV= Ahimelek) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ימ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0040J) | 1x | [1Ch.18.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahimelech\*\|reference=1Ch.18.16) |
+All entries for **Ahimelech**:  **<big>[[H0288|אֲחִימֶלֶךְ]]</big>** ☩  **<big>[[H0040|אֲבִימֶלֶךְ]]</big>**
 #### Related Profiles:
 - **[Abiathar](H0054)** (father)
 - **[Jonathan](H3083I)** (sibling)

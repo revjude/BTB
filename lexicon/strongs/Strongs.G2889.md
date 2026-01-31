@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎κόσμος‎</span></big> **kósmos** <small>*(kos'-mos)*</small> ==**world**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
-<small>probably from the base of <span class="asgreek">κομίζω</span><sup><small>[[G2865]]</small></sup></small>
+**<big><span class="asgreek">‎κόσμος‎</span></big>** **kósmos** <small>*(kos'-mos)*</small> ==**world**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+<small>probably from the base of **<big>[[G2865|‎κομίζω‎]]</big>**</small>
 
 $\quad$ adorning, world.
 - orderly arrangement, i.e. decoration

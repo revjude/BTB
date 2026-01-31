@@ -7,35 +7,35 @@ And all Judah rejoiced at the oath: for they had sworn with all their heart, and
 And all Judah rejoiced over the oath, for they had sworn it with all their heart. They had sought Him earnestly, and He was found by them. So the LORD gave them rest on every side.<small><sub>**MT:**</sub></small>
 [[2Chr.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.14|<< 2 Chronicles 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.16|2 Chronicles 15:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was glad | <big><span class="asgreek">ηυφράνθησαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oath | <big><span class="asgreek">όρκου</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| entire | <big><span class="asgreek">όλης</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they swore by an oath, | <big><span class="asgreek">ώμοσαν</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| their volition | <big><span class="asgreek">θελήσει</span></big> <sup><small><small>[[G2308]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they sought | <big><span class="asgreek">εζήτησαν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| by them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave rest | <big><span class="asgreek">κατέπαυσε</span></big> <sup><small><small>[[G2664]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was glad | **<big>[[G2165\|ηυφράνθησαν]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| oath | **<big>[[G3727\|όρκου]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| entire | **<big>[[G3650\|όλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| soul | **<big>[[G5590\|ψυχής]]</big>** |
+| their | **<big>[[G1473\|αυτών]]</big>** |
+| they swore by an oath, | **<big>[[G3660\|ώμοσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| their volition | **<big>[[G2308\|θελήσει]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they sought | **<big>[[G2212\|εζήτησαν]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he was found | **<big>[[G2147\|ευρέθη]]</big>** |
+| by them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave rest | **<big>[[G2664\|κατέπαυσε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| round about. | **<big>[[G2943\|κυκλόθεν]]</big>** |
 [[2Chr.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.14|<< 2 Chronicles 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.16|2 Chronicles 15:16 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Iconium</span>, a city in Asia Minor where Paul preached the gospel.
 - A location first mentioned at [[Josh.21.25|Act.13.51]]; 
-- only referred to as Iconium<[[G2430]]> \(<span class='tipnrLangGreek'>Ἰκόνιον</span>\).
+- only referred to as Iconium **<big>[[G2430|Ἰκόνιον]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.88353038890398,32.4942625657248&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Iconium was a city in Asia Minor \(modern-day Turkey\) that was visited by the a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Iconium | [<span class='tipnrLangGreek'>Ἰκόνιον</span>](G2430) <small>*Greek*</small> | 6x | [[Act.13.51] ... [2Ti.3.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iconium\*\|reference=Act.13.51;Act.14.1;Act.14.19;Act.14.21;Act.16.2;2Ti.3.11) |
-All Strong's for **Iconium**: \[[[G2430]]\]
+| Iconium | [<span class='tipnrLangGreek'>Ἰκόνιον</span>](G2430) | 6x | [[Act.13.51] ... [2Ti.3.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iconium\*\|reference=Act.13.51;Act.14.1;Act.14.19;Act.14.21;Act.16.2;2Ti.3.11) |
+All entries for **Iconium**:  **<big>[[G2430|Ἰκόνιον]]</big>**

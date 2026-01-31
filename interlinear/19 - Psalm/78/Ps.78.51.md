@@ -6,16 +6,16 @@ He struck all the firstborn of Egypt, the virility in the tents of Ham.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.50|<< Psalms 78:50]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.52|Psalms 78:52 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he struck down  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֣ךְ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yakh <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| firstborn  | <span class="ashebrew"><big>בְּכ֣וֹר </big></span><small><small><sup>[[H1060]]</sup></small></small> &#8207;| be.Khor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Egypt  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִצְרָ֑יִם </big></span><small><small><sup>[[H4714G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> mitz.Ra.yim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] beginning of  | <span class="ashebrew"><big>רֵאשִׁ֥ית </big></span><small><small><sup>[[H7225G]]</sup></small></small> &#8207;| re.Shit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| manly vigor\<s>  | <span class="ashebrew"><big>א֝וֹנִ֗ים </big></span><small><small><sup>[[H0202]]</sup></small></small> &#8207;| 'o.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] tents of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָהֳלֵי </big></span><small><small><sup>[[H0168G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'o.ho.lei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ham  | <span class="ashebrew"><big>חָֽם </big></span><small><small><sup>[[H2526H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cham <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֣ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn  |**<big>&#8207;[[H1060\|בְּכ֣וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Egypt  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] beginning of  |**<big>&#8207;[[H7225G\|רֵאשִׁ֥ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| manly vigor\<s>  |**<big>&#8207;[[H0202\|א֝וֹנִ֗ים]]&#8207; </big>**| 'o.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tents of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אָהֳלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'o.ho.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ham  |**<big>&#8207;[[H2526H\|חָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cham<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.50|<< Psalms 78:50]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.52|Psalms 78:52 >>]]</td></tr></table>
 
 

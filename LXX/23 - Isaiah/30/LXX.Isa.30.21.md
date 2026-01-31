@@ -7,30 +7,30 @@ And thine ears shall hear a word behind thee, saying, This [is] the way, walk ye
 And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”<small><sub>**MT:**</sub></small>
 [[Isa.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.20|<< Isaiah 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.22|Isaiah 30:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ears | <big><span class="asgreek">ωτά</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall hearken to | <big><span class="asgreek">ακούσονται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[following\] after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| misleading \[you\]. | <big><span class="asgreek">πλανησάντων</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| we should go | <big><span class="asgreek">πορευθώμεν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whether | <big><span class="asgreek">είτε</span></big> <sup><small><small>[[G1535]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| \[or\] whether | <big><span class="asgreek">είτε</span></big> <sup><small><small>[[G1535]]</small></small></sup> |
-| left. | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ears | **<big>[[G3775\|ωτά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| shall hearken to | **<big>[[G0191\|ακούσονται]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| \[following\] after | **<big>[[G3694\|οπίσω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| misleading \[you\]. | **<big>[[G4105\|πλανησάντων]]</big>** |
+| The ones | **<big>[[G3588\|οι]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| This | **<big>[[G3778\|αύτη]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| way, | **<big>[[G3598\|οδός]]</big>** |
+| we should go | **<big>[[G4198\|πορευθώμεν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| whether | **<big>[[G1535\|είτε]]</big>** |
+| right | **<big>[[G1188\|δεξιά]]</big>** |
+| \[or\] whether | **<big>[[G1535\|είτε]]</big>** |
+| left. | **<big>[[G0710\|αριστερά]]</big>** |
 [[Isa.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.20|<< Isaiah 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.22|Isaiah 30:22 >>]]</td></tr></table>
 
 

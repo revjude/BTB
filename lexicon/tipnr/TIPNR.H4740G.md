@@ -1,8 +1,8 @@
 <small>*Angle • A tower built by King Uzziah in Jerusalem.*</small>
 
 The <span class='tipnrhighlight'>Angle</span>, a fortified tower constructed by Uzziah in Jerusalem.
-- A location in Jerusalem<[[H3389]]> only mentioned at [[2Chr.26.9|2Ch.26.9]]; 
-- only referred to as Angle<[[H4740G]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>ע</span>ַ\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[2Chr.26.9|2Ch.26.9]]; 
+- only referred to as Angle **<big>[[H4740|מַקְצוֹעַ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from this single mention in the context of Uzziah's building activities, n
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Angle (KJV= turning; NIV= angle) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>ע</span>ַ](H4740G) <small>*Hebrew*</small> | 1x | [2Ch.26.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Angle\*\|reference=2Ch.26.9) |
-All Strong's for **Angle**: \[[[H4740G]]\]
+| Angle (KJV= turning; NIV= angle) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ֹ<span class='tipnrLangHebrew'>ע</span>ַ](H4740G) | 1x | [2Ch.26.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Angle\*\|reference=2Ch.26.9) |
+All entries for **Angle**:  **<big>[[H4740|מַקְצוֹעַ]]</big>**

@@ -7,16 +7,16 @@
 It is the glory of God to conceal a matter and the glory of kings to search it out.<small><sub>**MT:**</sub></small>
 [[Prov.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.1|<< Proverbs 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.3|Proverbs 25:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| hides | <big><span class="asgreek">κρύπτει</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| a matter; | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| but \[the\] glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of a king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| esteems | <big><span class="asgreek">τιμά</span></big> <sup><small><small>[[G5091]]</small></small></sup> |
-| things. | <big><span class="asgreek">πράγματα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
+| \[The\] glory | **<big>[[G1391\|δόξα]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| hides | **<big>[[G2928\|κρύπτει]]</big>** |
+| a matter; | **<big>[[G3056\|λόγον]]</big>** |
+| but \[the\] glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of a king | **<big>[[G0935\|βασιλέως]]</big>** |
+| esteems | **<big>[[G5091\|τιμά]]</big>** |
+| things. | **<big>[[G4229\|πράγματα]]</big>** |
 [[Prov.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.1|<< Proverbs 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.3|Proverbs 25:3 >>]]</td></tr></table>
 
 

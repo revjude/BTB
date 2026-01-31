@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎שֵׁד‎</span></big> **shêd** <small>*(shade)*</small> ==**demon**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שׁוּד‎</span><sup><small>[[H7736]]</small></sup></small>
+**<big><span class="ashebrew">‎שֵׁד‎</span></big>** **shêd** <small>*(shade)*</small> ==**demon**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7736|‎שׁוּד‎]]</big>**</small>
 
 $\quad$ devil.
 - ***a doemon*** (as malignant)
 
 **1)** demon
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δαιμόνιον</span><sup><small>[[G1140]]</small></sup>
+<small>See Greek: </small>**<big>[[G1140|δαιμόνιον]]</big>**

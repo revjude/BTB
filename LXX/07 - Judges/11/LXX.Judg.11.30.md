@@ -10,23 +10,23 @@ And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail del
 Jephthah made this vow to the LORD: “If indeed You will deliver the Ammonites into my hand,<small><sub>**MT:**</sub></small>
 [[Judg.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.29|<< Judges 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.31|Judges 11:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jephthah vowed | <big><span class="asgreek">ηύξατο</span></big> <sup><small><small>[[G2172]]</small></small></sup> <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| a vow | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| by delivering up | <big><span class="asgreek">παραδόσει</span></big> <sup><small><small>[[G3862]]</small></small></sup> |
-| you should deliver up | <big><span class="asgreek">παραδώς</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jephthah vowed | **<big>[[G2172\|ηύξατο]]</big>** **<big>[[G2422\|Ιεφθάε]]</big>** |
+| a vow | **<big>[[G2171\|ευχήν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| by delivering up | **<big>[[G3862\|παραδόσει]]</big>** |
+| you should deliver up | **<big>[[G3860\|παραδώς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Ammon | **<big>[[H5983\|Αμμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| my hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Judg.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.29|<< Judges 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.31|Judges 11:31 >>]]</td></tr></table>
 
 

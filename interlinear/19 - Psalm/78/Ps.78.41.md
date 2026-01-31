@@ -6,14 +6,14 @@ Again and again they tested God and provoked the Holy One of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.40|<< Psalms 78:40]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.42|Psalms 78:42 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they returned  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּשׁ֣וּבוּ </big></span><small><small><sup>[[H7725J]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Shu.vu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they put to [the] test  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְנַסּ֣וּ </big></span><small><small><sup>[[H5254G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.na.Su <small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֵ֑ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] holy [one] of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קְד֖וֹשׁ </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ke.Do.osh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֣ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they pained  | <span class="ashebrew"><big>הִתְווּ </big></span><small><small><sup>[[H8428]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hit.vu <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725J\|יָּשׁ֣וּבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they put to [the] test  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5254G\|יְנַסּ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.na.Su<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0410G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] holy [one] of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6918G\|קְד֖וֹשׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֣ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they pained  |**<big>&#8207;[[H8428\|הִתְווּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hit.vu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.40|<< Psalms 78:40]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.42|Psalms 78:42 >>]]</td></tr></table>
 
 

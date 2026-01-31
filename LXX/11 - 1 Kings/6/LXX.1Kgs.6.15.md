@@ -7,46 +7,46 @@ And he built the walls of the house within with boards of cedar, both the floor 
 He lined the interior walls with cedar paneling from the floor of the temple to the ceiling, and he covered the floor with cypress boards.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.14|<< 1 Kings 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.16|1 Kings 6:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he built | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| walls | <big><span class="asgreek">τοίχους</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| from inside | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| with | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of cedars, | <big><span class="asgreek">κεδρίνων</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| floors | <big><span class="asgreek">εδάφους</span></big> <sup><small><small>[[G1475]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| walls, | <big><span class="asgreek">τοίχων</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beams. | <big><span class="asgreek">δοκών</span></big> <sup><small><small>[[G1385]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he vaulted \[it\] | <big><span class="asgreek">εκοιλοστάθμησε</span></big> <sup><small><small>[[G8041]]</small></small></sup> |
-| holding \[it\] together | <big><span class="asgreek">συνεχόμενα</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλοις</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| from inside. | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he compassed | <big><span class="asgreek">περιέσχε</span></big> <sup><small><small>[[G4023]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inside | <big><span class="asgreek">έσω</span></big> <sup><small><small>[[G2080]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| ribs | <big><span class="asgreek">πλευραίς</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
-| of pines. | <big><span class="asgreek">πευκίναις</span></big> <sup><small><small>[[G8785]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he built | **<big>[[G3618\|ωκοδόμησε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| walls | **<big>[[G5109\|τοίχους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| from inside | **<big>[[G2081\|έσωθεν]]</big>** |
+| with | **<big>[[G1223\|διά]]</big>** |
+| wood | **<big>[[G3586\|ξύλων]]</big>** |
+| of cedars, | **<big>[[G7989\|κεδρίνων]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| floors | **<big>[[G1475\|εδάφους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house, | **<big>[[G3624\|οίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| walls, | **<big>[[G5109\|τοίχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| beams. | **<big>[[G1385\|δοκών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he vaulted \[it\] | **<big>[[G8041\|εκοιλοστάθμησε]]</big>** |
+| holding \[it\] together | **<big>[[G4912\|συνεχόμενα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| timbers | **<big>[[G3586\|ξύλοις]]</big>** |
+| from inside. | **<big>[[G2081\|έσωθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he compassed | **<big>[[G4023\|περιέσχε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| inside | **<big>[[G2080\|έσω]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| ribs | **<big>[[G4125\|πλευραίς]]</big>** |
+| of pines. | **<big>[[G8785\|πευκίναις]]</big>** |
 [[1Kgs.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.14|<< 1 Kings 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.16|1 Kings 6:16 >>]]</td></tr></table>
 
 

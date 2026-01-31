@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִבְשָׂם‎</span></big> **Yibsâm** <small>*(yib-sawm')*</small> ==**Ibsam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎בֶּשֶׂם‎</span><sup><small>[[H1314]]</small></sup>; fragrant</small>
+**<big><span class="ashebrew">‎יִבְשָׂם‎</span></big>** **Yibsâm** <small>*(yib-sawm')*</small> ==**Ibsam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H1314|‎בֶּשֶׂם‎]]</big>**; fragrant</small>
 
 $\quad$ Jibsam.
 - § Jibsam = *"pleasant"*

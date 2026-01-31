@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁמָע‎</span></big> **Mishmâʻ** <small>*(mish-maw')*</small> ==**Mishma**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מִשְׁמָע‎</span><sup><small>[[H4926]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁמָע‎</span></big>** **Mishmâʻ** <small>*(mish-maw')*</small> ==**Mishma**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H4926|‎מִשְׁמָע‎]]</big>**</small>
 
 $\quad$ Mishma.
 - § Mishma = *"a hearing"*

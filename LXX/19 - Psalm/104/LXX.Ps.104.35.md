@@ -7,24 +7,24 @@ Let the sinners be consumed out of the earth, and let the wicked be no more. Ble
 May sinners vanish from the earth and the wicked be no more. Bless the LORD, O my soul. Hallelujah!<small><sub>**MT:**</sub></small>
 [[Ps.104.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.34|<< Psalm 104:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.1|Psalm 105:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| failed | <big><span class="asgreek">εκλείποιεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| Sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| so as for | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| exist | <big><span class="asgreek">υπάρχειν</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Bless | <big><span class="asgreek">ευλόγει</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| O my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| failed | **<big>[[G1587\|εκλείποιεν]]</big>** |
+| Sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lawless ones | **<big>[[G0459\|άνομοι]]</big>** |
+| so as for | **<big>[[G5620\|ώστε]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| exist | **<big>[[G5225\|υπάρχειν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Bless | **<big>[[G2127\|ευλόγει]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| O my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
 [[Ps.104.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.34|<< Psalm 104:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.1|Psalm 105:1 >>]]</td></tr></table>
 
 

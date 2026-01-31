@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּפּוּחַ‎</span></big> **Tappûwach** <small>*(tap-poo'-akh)*</small> ==**Tappuah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎תַּפּוּחַ‎</span><sup><small>[[H8598]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּפּוּחַ‎</span></big>** **Tappûwach** <small>*(tap-poo'-akh)*</small> ==**Tappuah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8598|‎תַּפּוּחַ‎]]</big>**</small>
 
 $\quad$ Tappuah.
 - § Tappuah = *"the apple city"*

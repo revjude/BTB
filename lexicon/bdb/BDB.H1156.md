@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H1158]]</small>
+<small>Hebrew form: **<big>[[H1158|בָּעָה]]</big>**</small>
  <span class="bdbLangAramaic">‎בְּעָא‎</span> **verb** ==ask, seek==, only Daniel (Biblical Hebrew  <span class="bdbLangHebrew">‎בעה‎</span> (rare)); — 
 
 **Pe\`al** ***Perfect*** 3 masculine singular <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ב‎</span> [[Dan.2.16|Dan 2:16]]; [[Dan.2.49|Dan 2:49]] 3 masculine plural <span class="bdbLangAramaic">‎בְּעוֺ‎</span> v[[Dan.2.13|Dan 2:13]] 1 plural <span class="bdbLangAramaic">‎בְּעֵ֫ינָא‎</span> v[[Dan.2.23|Dan 2:23]] ***Imperfect*** 3 masculine singular <span class="bdbLangAramaic">‎יִבְעֵא‎</span> [[Dan.6.8|Dan 6:8]]; [[Dan.6.13|Dan 6:13]] 1 singular <span class="bdbLangAramaic">‎אֶבְעֵאֿ‎</span> [[Dan.7.16|Dan 7:16]] ***Infinitive*** <span class="bdbLangAramaic">‎לְמִבְעֵא‎</span> [[Dan.2.18|Dan 2:18]] ***Participle*** <span class="bdbLangAramaic">‎בָּעֵא‎</span> [[Dan.6.12|Dan 6:12]]; [[Dan.6.14|Dan 6:14]], plural <span class="bdbLangAramaic">‎בָּעַ֫יִן‎</span> v.[[Dan.6.5|Dan 6:5]] — 

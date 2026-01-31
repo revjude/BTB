@@ -6,18 +6,18 @@ Behold, the day is here! It has come! Doom has gone out, the rod has budded, arr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.9|<< Ezekiel 7:9]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.11|Ezekiel 7:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּ֥ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּ֖וֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] coming  | <span class="ashebrew"><big>בָאָ֑ה </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va.'Ah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has gone forth  | <span class="ashebrew"><big>יָֽצְאָה֙ </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.tze.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> doom  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>צְּפִרָ֔ה </big></span><small><small><sup>[[H6843]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> tze.fi.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has blossomed  | <span class="ashebrew"><big>צָ֚ץ </big></span><small><small><sup>[[H6692A]]</sup></small></small> &#8207;| tzatz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the rod  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּטֶּ֔ה </big></span><small><small><sup>[[H4294G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Teh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has budded  | <span class="ashebrew"><big>פָּרַ֖ח </big></span><small><small><sup>[[H6524A]]</sup></small></small> &#8207;| pa.Rach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> arrogance  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זָּדֽוֹן </big></span><small><small><sup>[[H2087]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> za.Don <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] coming  |**<big>&#8207;[[H0935G\|בָאָ֑ה]]&#8207; </big>**| va.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone forth  |**<big>&#8207;[[H3318G\|יָֽצְאָה֙]]&#8207; </big>**| ya.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> doom  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6843\|צְּפִרָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tze.fi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has blossomed  |**<big>&#8207;[[H6692A\|צָ֚ץ]]&#8207; </big>**| tzatz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the rod  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4294G\|מַּטֶּ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has budded  |**<big>&#8207;[[H6524A\|פָּרַ֖ח]]&#8207; </big>**| pa.Rach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> arrogance  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2087\|זָּדֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.9|<< Ezekiel 7:9]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.11|Ezekiel 7:11 >>]]</td></tr></table>
 
 

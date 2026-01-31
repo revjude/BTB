@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מִרְזַח‎</span></big> **mirzach** <small>*(meer-zakh')*</small> ==**banquet**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מִרְזַח‎</span></big>** **mirzach** <small>*(meer-zakh')*</small> ==**banquet**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to scream</small>
 
 $\quad$ banquet.

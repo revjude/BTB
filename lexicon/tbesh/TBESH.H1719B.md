@@ -1,5 +1,4 @@
-<span class="ashebrew">‎רֹדָן‎</span> <small>***(ro.dan)***</small> ==**Dedan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the Cushites living at the time of the Patriarchs, first mentioned at [[Gen.10.7|Gen.10.7]]
--  son of: Raamah ([[H7484]])
--  brother of: Sheba ([[H7614]])
+-  son of: Raamah (**<big>[[H7484|רַעְמָה]]</big>**)
+-  brother of: Sheba (**<big>[[H7614|שְׁבָא]]</big>**)
 -  Rhodes (or Rhodians)

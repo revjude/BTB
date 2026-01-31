@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּשַׁן עֵדוּת‎</span></big> **Shûwshan ʻÊdûwth** <small>*(shoo-shan' ay-dooth')*</small> ==**Shushan-eduth**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
-<small>or (plural of former) <span class="ashebrew">שׁוֹשַׁנִּים עֵדוּת</span> **Shôwshannîym ʻÊdûwth** <small>*(shoshan-neem' ay-dooth')*</small>; from <span class="ashebrew">‎שׁוּשַׁן‎</span><sup><small>[[H7799]]</small></sup> and <span class="ashebrew">‎עֵדוּת‎</span><sup><small>[[H5715]]</small></sup>; lily (or trumpet) of assemblage</small>
+**<big><span class="ashebrew">‎שׁוּשַׁן עֵדוּת‎</span></big>** **Shûwshan ʻÊdûwth** <small>*(shoo-shan' ay-dooth')*</small> ==**Shushan-eduth**==  <sup><small>[[TEHMC#N:N-M-T|N:N-M-T]]</small></sup> 
+<small>or (plural of former) **<big><span class="ashebrew">שׁוֹשַׁנִּים עֵדוּת</span></big>** **Shôwshannîym ʻÊdûwth** <small>*(shoshan-neem' ay-dooth')*</small>; from **<big>[[H7799|‎שׁוּשַׁן‎]]</big>** and **<big>[[H5715|‎עֵדוּת‎]]</big>**; lily (or trumpet) of assemblage</small>
 
 $\quad$ Shoshannim-Eduth, Shushan-eduth.
 - § Shoshannim-eduth or Shushan-eduth = *"lilies"*

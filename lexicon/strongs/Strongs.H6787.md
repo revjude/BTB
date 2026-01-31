@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְמָרַיִם‎</span></big> **Tsᵉmârayim** <small>*(tsem-aw-rah'-yim)*</small> ==**(Mount) Zemaraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>dual of <span class="ashebrew">‎צֶמֶר‎</span><sup><small>[[H6785]]</small></sup>; double fleece</small>
+**<big><span class="ashebrew">‎צְמָרַיִם‎</span></big>** **Tsᵉmârayim** <small>*(tsem-aw-rah'-yim)*</small> ==**(Mount) Zemaraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>dual of **<big>[[H6785|‎צֶמֶר‎]]</big>**; double fleece</small>
 
 $\quad$ Zemaraim.
 - § Zemaraim = *"double fleece of wool"*

@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H2372]]</small>
+<small>Hebrew form: **<big>[[H2372|חָזָה]]</big>**</small>
  <span class="bdbLangAramaic">‎חֲזָה‎</span> **verb** ==see, behold== (see Biblical Hebrew); — 
 
 **Pe\`al** ***Perfect*** 3 masculine singular <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ח‎</span> [[Dan.4.20|Dan 4:20]]; [[Dan.5.1|Dan 5:1]] 2 masculine singular <span class="bdbLangAramaic">‎תֲוַיְתָ‎</span> [[Dan.2.43|Dan 2:43]] +, <span class="bdbLangAramaic">‎תָה‎</span>- [[Dan.2.41|Dan 2:41]].2: 41; 1 singular <span class="bdbLangAramaic">‎חֲזֵית‎</span> v[[Dan.2.46|Dan 2:46]] +; 2 masculine plural <span class="bdbLangAramaic">‎תֲוֵיתוּן‎</span> [[Dan.2.8|Dan 2:8]] **Pe\`al** ***Infinitive*** <span class="bdbLangAramaic">‎מְֶָחֱזֵז֑א‎</span> [[Ezra.4.14|Ezra 4:14]] ***Participle active*** <span class="bdbLangAramaic">‎חָוֵה‎</span> [[Dan.2.31|Dan 2:31]] + 14 t.; plural <span class="bdbLangAramaic">‎חָוַיִן‎</span> [[Dan.3.27|Dan 3:27]]; [[Dan.5.23|Dan 5:23]] ***passive*** <span class="bdbLangAramaic">‎חֲוֵה‎</span> [[Dan.3.19|Dan 3:19]] — 

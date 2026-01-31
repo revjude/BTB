@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jachin</span> was the head of the twenty-first priestly division organized by King David \([[1Chr.24.17|1Ch.24.17]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.24.17|1Ch.24.17]]; 
-- only referred to as Jachin<[[H3199J]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Jachin **<big>[[H3199|יָכִין]]</big>**.
 
 Jachin is mentioned in [[1Chr.24.17|1 Chronicles 24:17]] as the head of the twenty-first priestly division established during the reign of King David. This chapter describes how David, along with the chief priests Zadok and Ahimelech, organized the priests into twenty-four divisions for their service in the temple. 
 
@@ -18,5 +18,5 @@ No other specific details are provided about Jachin's life or personal character
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jachin | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H3199J) <small>*Hebrew*</small> | 1x | [1Ch.24.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jachin\*\|reference=1Ch.24.17) |
-All Strong's for **Jachin**: \[[[H3199J]]\]
+| Jachin | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H3199J) | 1x | [1Ch.24.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jachin\*\|reference=1Ch.24.17) |
+All entries for **Jachin**:  **<big>[[H3199|יָכִין]]</big>**

@@ -10,16 +10,16 @@ He rained down manna for them to eat; He gave them grain from heaven.
 > $\quad$ referenced by: [[John.6.31|John 6:31]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he rained down  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּמְטֵ֬ר </big></span><small><small><sup>[[H4305]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yam.Ter <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶ֣ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| manna  | <span class="ashebrew"><big>מָ֣ן </big></span><small><small><sup>[[H4478A]]</sup></small></small> &#8207;| man <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to eat  | <span class="ashebrew"><big>לֶ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֱכֹ֑ל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'e.Khol <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] grain of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דְגַן </big></span><small><small><sup>[[H1715]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> de.ga.no.Sha- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heaven  | <span class="ashebrew"><big>שָׁ֝מַ֗יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| Sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he gave  | <span class="ashebrew"><big>נָ֣תַן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| Na.tan <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he rained down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4305\|יַּמְטֵ֬ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yam.Ter<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| manna  |**<big>&#8207;[[H4478A\|מָ֣ן]]&#8207; </big>**| man<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eat  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0398\|אֱכֹ֑ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] grain of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1715\|דְגַן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.ga.no.Sha-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  |**<big>&#8207;[[H8064\|שָׁ֝מַ֗יִם]]&#8207; </big>**| Sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he gave  |**<big>&#8207;[[H5414G\|נָ֣תַן]]&#8207; </big>**| Na.tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.23|<< Psalms 78:23]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.25|Psalms 78:25 >>]]</td></tr></table>
 
 

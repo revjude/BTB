@@ -7,32 +7,32 @@ And the LORD said unto Satan, From whence comest thou? And Satan answered the LO
 “Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”<small><sub>**MT:**</sub></small>
 [[Job.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.1|<< Job 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.3|Job 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devil, | <big><span class="asgreek">διαβόλω</span></big> <sup><small><small>[[G1228]]</small></small></sup> |
-| From what place | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| come you? | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έρχη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devil | <big><span class="asgreek">διάβολος</span></big> <sup><small><small>[[G1228]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Traveling over | <big><span class="asgreek">διαπορευθείς</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| the \[place\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| under | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| walking about | <big><span class="asgreek">εμπεριπατήσας</span></big> <sup><small><small>[[G1704]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the whole \[the place\] | <big><span class="asgreek">σύμπασαν</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
-| at hand. | <big><span class="asgreek">πάρειμι</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| devil, | **<big>[[G1228\|διαβόλω]]</big>** |
+| From what place | **<big>[[G4159\|πόθεν]]</big>** |
+| come you? | **<big>[[G1473\|συ]]</big>** **<big>[[G2064\|έρχη]]</big>** |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| devil | **<big>[[G1228\|διάβολος]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| Traveling over | **<big>[[G1279\|διαπορευθείς]]</big>** |
+| the \[place\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| under | **<big>[[G5259\|υπ΄]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| walking about | **<big>[[G1704\|εμπεριπατήσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| the whole \[the place\] | **<big>[[G9270\|σύμπασαν]]</big>** |
+| at hand. | **<big>[[G3918\|πάρειμι]]</big>** |
 [[Job.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.1|<< Job 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.3|Job 2:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁחַת‎</span></big> **shᵉchath** <small>*(shekh-ath')*</small> ==**to corrupt**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁחַת‎</span><sup><small>[[H7843]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁחַת‎</span></big>** **shᵉchath** <small>*(shekh-ath')*</small> ==**to corrupt**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7843|‎שָׁחַת‎]]</big>**</small>
 
 $\quad$ corrupt, fault.
 - {***to decay***, i.e. (causatively) ***ruin*** (literally or figuratively)}

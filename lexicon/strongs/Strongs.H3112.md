@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹיָכִין‎</span></big> **Yôwyâkîyn** <small>*(yo-yaw-keen')*</small> ==**Jehoiachin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎יְהוֹיָכִין‎</span><sup><small>[[H3078]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹיָכִין‎</span></big>** **Yôwyâkîyn** <small>*(yo-yaw-keen')*</small> ==**Jehoiachin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H3078|‎יְהוֹיָכִין‎]]</big>**</small>
 
 $\quad$ Jehoiachin.
 - § Jehoiachin = *"Jehovah establishes"*

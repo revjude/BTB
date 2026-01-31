@@ -7,18 +7,18 @@ Moreover he called for a famine upon the land: he brake the whole staff of bread
 He called down famine on the land and cut off all their supplies of food.<small><sub>**MT:**</sub></small>
 [[Ps.105.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.15|<< Psalm 105:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.17|Psalm 105:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| famine | <big><span class="asgreek">λιμόν</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| reliance | <big><span class="asgreek">στήριγμα</span></big> <sup><small><small>[[G9176]]</small></small></sup> |
-| on bread | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| he broke | <big><span class="asgreek">συνέτριψεν</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| famine | **<big>[[G3042\|λιμόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land; | **<big>[[G1093\|γην]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| reliance | **<big>[[G9176\|στήριγμα]]</big>** |
+| on bread | **<big>[[G0740\|άρτου]]</big>** |
+| he broke | **<big>[[G4937\|συνέτριψεν]]</big>** |
 [[Ps.105.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.15|<< Psalm 105:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.17|Psalm 105:17 >>]]</td></tr></table>
 
 

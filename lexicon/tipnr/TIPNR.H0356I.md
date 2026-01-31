@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Elon</span>, a city allotted to the tribe of Dan during the division of the Promised Land.
 - A location only mentioned at [[Josh.19.43|Jos.19.43]]; 
-- only referred to as Elon<[[H0356I]]> \(<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Elon **<big>[[H0356|אֵילוֹן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.973818,35.116531&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ No further details about Elon are provided in the Bible. Its exact location is u
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elon | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0356I) <small>*Hebrew*</small> | 1x | [Jos.19.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elon\*\|reference=Jos.19.43) |
-All Strong's for **Elon**: \[[[H0356I]]\]
+| Elon | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0356I) | 1x | [Jos.19.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elon\*\|reference=Jos.19.43) |
+All entries for **Elon**:  **<big>[[H0356|אֵילוֹן]]</big>**

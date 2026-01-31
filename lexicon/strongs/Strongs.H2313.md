@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חִדֶּקֶל‎</span></big> **Chiddeqel** <small>*(khid-deh'-kel)*</small> ==**Tigris**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎חִדֶּקֶל‎</span></big>** **Chiddeqel** <small>*(khid-deh'-kel)*</small> ==**Tigris**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Hiddekel.

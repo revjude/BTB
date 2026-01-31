@@ -7,20 +7,20 @@ For evildoers shall be cut off: but those that wait upon the LORD, they shall in
 For the evildoers will be cut off, but those who hope in the LORD will inherit the land.<small><sub>**MT:**</sub></small>
 [[Ps.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.8|<< Psalm 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.10|Psalm 37:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing wicked | <big><span class="asgreek">πονηρευόμενοι</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
-| shall be utterly destroyed; | <big><span class="asgreek">εξολοθρευθήσονται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| but the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| waiting on | <big><span class="asgreek">υπομένοντες</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall inherit | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| doing wicked | **<big>[[G8863\|πονηρευόμενοι]]</big>** |
+| shall be utterly destroyed; | **<big>[[G1842\|εξολοθρευθήσονται]]</big>** |
+| but the ones | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| waiting on | **<big>[[G5278\|υπομένοντες]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall inherit | **<big>[[G2816\|κληρονομήσουσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
 [[Ps.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.8|<< Psalm 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.10|Psalm 37:10 >>]]</td></tr></table>
 
 

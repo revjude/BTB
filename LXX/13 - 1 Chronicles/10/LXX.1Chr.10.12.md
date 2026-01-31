@@ -7,45 +7,45 @@ They arose, all the valiant men, and took away the body of Saul, and the bodies 
 all their men of valor set out and retrieved the bodies of Saul and his sons and brought them to Jabesh. And they buried their bones under the oak in Jabesh and fasted seven days.<small><sub>**MT:**</sub></small>
 [[1Chr.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.11|<< 1 Chronicles 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.13|1 Chronicles 10:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bodies | <big><span class="asgreek">σώματα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jabesh, | <big><span class="asgreek">Ιαβής</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entombed | <big><span class="asgreek">έθαψαν</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oak | <big><span class="asgreek">δρυν</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jabesh, | <big><span class="asgreek">Ιαβής</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they fasted | <big><span class="asgreek">ενήστευσαν</span></big> <sup><small><small>[[G3522]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| days. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| mighty | **<big>[[G1415\|δυνατός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G2064\|ήλθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| body | **<big>[[G4983\|σώμα]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| bodies | **<big>[[G4983\|σώματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons, | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Jabesh, | **<big>[[H3003\|Ιαβής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they entombed | **<big>[[G2290\|έθαψαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| oak | **<big>[[G6972\|δρυν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jabesh, | **<big>[[H3003\|Ιαβής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they fasted | **<big>[[G3522\|ενήστευσαν]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| days. | **<big>[[G2250\|ημέρας]]</big>** |
 [[1Chr.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.11|<< 1 Chronicles 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.13|1 Chronicles 10:13 >>]]</td></tr></table>
 
 

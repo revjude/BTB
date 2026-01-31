@@ -1,4 +1,4 @@
-<small>Also see: [[H8096]]</small>
+<small>Also see: **<big>[[H8096|שִׁמְעִי]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎שֶׁ֫מַע‎</span> **proper name, masculine** usually <span class="bdbLangGreek">Σαμα</span>(<span class="bdbLangGreek">α</span>), <span class="bdbLangGreek">Σεμαα</span> (compare Sabean proper name <span class="bdbLangHebrew">‎סמע‎</span> [[BDB#Hal|Hal]]<sup>509</sup>); — 
 

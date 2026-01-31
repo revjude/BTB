@@ -7,37 +7,37 @@ And when the jubile of the children of Israel shall be, then shall their inherit
 And when the Jubilee for the Israelites comes, their inheritance will be added to the tribe into which they marry and taken away from the tribe of our fathers.”<small><sub>**MT:**</sub></small>
 [[Num.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.3|<< Numbers 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.5|Numbers 36:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| there should be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| release | <big><span class="asgreek">άφεσις</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be added | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| in which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| become \[wives\] | <big><span class="asgreek">γένωνται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| of \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of our family | <big><span class="asgreek">πατριάς</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be removed | <big><span class="asgreek">αφαιρεθήσεται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| there should be | **<big>[[G1096\|γένηται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| release | **<big>[[G0859\|άφεσις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| shall be added | **<big>[[G4369\|προστεθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their inheritance | **<big>[[G2817\|κληρονομία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| in which | **<big>[[G3739\|οις]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| become \[wives\] | **<big>[[G1096\|γένωνται]]</big>** |
+| \[the\] women | **<big>[[G1135\|γυναίκες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίας]]</big>** |
+| of \[the\] tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of our family | **<big>[[G3965\|πατριάς]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| shall be removed | **<big>[[G0851\|αφαιρεθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their inheritance | **<big>[[G2817\|κληρονομία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Num.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.3|<< Numbers 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.5|Numbers 36:5 >>]]</td></tr></table>
 
 

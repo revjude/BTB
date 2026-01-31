@@ -1,4 +1,4 @@
-form of: <small>[[G6519]]</small> 
+form of: <small>**<big>[[G6519|ἄπωσις]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἀπωσμός==</span>-<span class='asgreek'>ωσμός</span></b>, <span class='asgreek'>ὁ</span>, 

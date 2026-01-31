@@ -7,19 +7,19 @@ I will remember the works of the LORD: surely I will remember thy wonders of old
 I will remember the works of the LORD; yes, I will remember Your wonders of old.<small><sub>**MT:**</sub></small>
 [[Ps.77.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.10|<< Psalm 77:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.12|Psalm 77:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I remembered | <big><span class="asgreek">εμνήσθην</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I shall remember | <big><span class="asgreek">μνησθήσομαι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wonders | <big><span class="asgreek">θαυμασίων</span></big> <sup><small><small>[[G2297]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I remembered | **<big>[[G3403\|εμνήσθην]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| works | **<big>[[G2041\|έργων]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I shall remember | **<big>[[G3403\|μνησθήσομαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| beginning | **<big>[[G0746\|αρχής]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your wonders | **<big>[[G2297\|θαυμασίων]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.77.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.10|<< Psalm 77:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.12|Psalm 77:12 >>]]</td></tr></table>
 
 

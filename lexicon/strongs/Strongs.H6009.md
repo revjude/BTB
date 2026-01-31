@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָמַק‎</span></big> **ʻâmaq** <small>*(aw-mak')*</small> ==**be deep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָמַק‎</span></big>** **ʻâmaq** <small>*(aw-mak')*</small> ==**be deep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (be, have, make, seek) deep(-ly), depth, be profound.
@@ -8,4 +8,4 @@ $\quad$ (be, have, make, seek) deep(-ly), depth, be profound.
 $\quad$ **1a)** (Qal) to be deep
 $\quad$ **1b)** (Hiphil) to make deep, make profound
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βάθος</span><sup><small>[[G0899]]</small></sup> · <span class="asgreek">βαθύνω</span><sup><small>[[G0900]]</small></sup> · <span class="asgreek">βαθύς</span><sup><small>[[G0901]]</small></sup>
+<small>See Greek: </small>**<big>[[G0899|βάθος]]</big>** · **<big>[[G0900|βαθύνω]]</big>** · **<big>[[G0901|βαθύς]]</big>**

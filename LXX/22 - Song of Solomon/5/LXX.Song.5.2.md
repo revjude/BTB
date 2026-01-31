@@ -7,37 +7,37 @@ I sleep, but my heart waketh: [it is] the voice of my beloved that knocketh, [sa
 I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”<small><sub>**MT:**</sub></small>
 [[Song.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.1|<< Song of Solomon 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.3|Song of Solomon 5:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sleep, | <big><span class="asgreek">καθεύδω</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is sleepless. | <big><span class="asgreek">αγρυπνεί</span></big> <sup><small><small>[[G0069]]</small></small></sup> |
-| \[The\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of my beloved \[man\] | <big><span class="asgreek">αδελφιδού</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| knocks | <big><span class="asgreek">κρούει</span></big> <sup><small><small>[[G2925]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door, \[saying\], | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| Open | <big><span class="asgreek">άνοιξόν</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my sister, | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my dear one, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my dove, | <big><span class="asgreek">περιστερά</span></big> <sup><small><small>[[G4058]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my perfect one! | <big><span class="asgreek">τελεία</span></big> <sup><small><small>[[G5046]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| of dew, | <big><span class="asgreek">δρόσου</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my curls | <big><span class="asgreek">βόστρυχοί</span></big> <sup><small><small>[[G6686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of \[the\] mist | <big><span class="asgreek">ψεκάδων</span></big> <sup><small><small>[[G9788]]</small></small></sup> |
-| of \[the\] night. | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| sleep, | **<big>[[G2518\|καθεύδω]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is sleepless. | **<big>[[G0069\|αγρυπνεί]]</big>** |
+| \[The\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| of my beloved \[man\] | **<big>[[G6137\|αδελφιδού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| knocks | **<big>[[G2925\|κρούει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door, \[saying\], | **<big>[[G2374\|θύραν]]</big>** |
+| Open | **<big>[[G0455\|άνοιξόν]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| my sister, | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my dear one, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my dove, | **<big>[[G4058\|περιστερά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| my perfect one! | **<big>[[G5046\|τελεία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my head | **<big>[[G2776\|κεφαλή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| of dew, | **<big>[[G6970\|δρόσου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my curls | **<big>[[G6686\|βόστρυχοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| of \[the\] mist | **<big>[[G9788\|ψεκάδων]]</big>** |
+| of \[the\] night. | **<big>[[G3571\|νυκτός]]</big>** |
 [[Song.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.1|<< Song of Solomon 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.3|Song of Solomon 5:3 >>]]</td></tr></table>
 
 

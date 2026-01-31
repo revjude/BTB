@@ -7,21 +7,21 @@ Who redeemeth thy life from destruction; who crowneth thee with lovingkindness a
 who redeems your life from the Pit and crowns you with loving devotion and compassion,<small><sub>**MT:**</sub></small>
 [[Ps.103.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.3|<< Psalm 103:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.5|Psalm 103:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ransoming | <big><span class="asgreek">λυτρούμενον</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| corruption | <big><span class="asgreek">φθοράς</span></big> <sup><small><small>[[G5356]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crowning | <big><span class="asgreek">στεφανούντά</span></big> <sup><small><small>[[G4737]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| mercy | <big><span class="asgreek">ελέει</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| compassions; | <big><span class="asgreek">οικτιρμοίς</span></big> <sup><small><small>[[G3628]]</small></small></sup> |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| ransoming | **<big>[[G3084\|λυτρούμενον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| corruption | **<big>[[G5356\|φθοράς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your life | **<big>[[G2222\|ζωήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| crowning | **<big>[[G4737\|στεφανούντά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| mercy | **<big>[[G1656\|ελέει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| compassions; | **<big>[[G3628\|οικτιρμοίς]]</big>** |
 [[Ps.103.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.3|<< Psalm 103:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.5|Psalm 103:5 >>]]</td></tr></table>
 
 

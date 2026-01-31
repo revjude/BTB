@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שָׂרֶ֫טֶת‎</span> <small>***(sa.re.tet)***</small> ==**incision**==  <sup><small>[[TEHMC#H:N-M/F|H:N-M/F]]</small></sup> 
-spelling of: <small>[[H8296A]]</small> 
+<small>spelling of:</small> <small>**<big>[[H8296A|שֶׂרֶט]]</big>**</small> 
 
-- Another spelling of <i>se.ret</i> (<span class='ashebrew'>‎ש‎</span>ֶׂ֫<span class='ashebrew'>‎ר‎</span>ֶ<span class='ashebrew'>‎ט‎</span> "incision" [[H8296A]])
+- Another spelling of <i>se.ret</i> (<span class='ashebrew'>‎ש‎</span>ֶׂ֫<span class='ashebrew'>‎ר‎</span>ֶ<span class='ashebrew'>‎ט‎</span> "incision" **<big>[[H8296A|שֶׂרֶט]]</big>**)

@@ -7,21 +7,21 @@ But if thou fear to go down, go thou with Phurah thy servant down to the host:
 But if you are afraid to do so, then go down to the camp with your servant Purah<small><sub>**MT:**</sub></small>
 [[Judg.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.9|<< Judges 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.11|Judges 7:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you should fear | <big><span class="asgreek">φοβή</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| by yourself | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to go down | <big><span class="asgreek">καταβήναι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| go down | <big><span class="asgreek">κατάβηθι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| then you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Phurah | <big><span class="asgreek">Φαρά</span></big> <sup><small><small>[[H6513]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servant | <big><span class="asgreek">παιδάριόν</span></big> <sup><small><small>[[G3808]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp. | <big><span class="asgreek">παρεμβολήν</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| And if | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you should fear | **<big>[[G5399\|φοβή]]</big>** |
+| by yourself | **<big>[[G1473\|συ]]</big>** |
+| to go down | **<big>[[G2597\|καταβήναι]]</big>** |
+| go down | **<big>[[G2597\|κατάβηθι]]</big>** |
+| then you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Phurah | **<big>[[H6513\|Φαρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your servant | **<big>[[G3808\|παιδάριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| camp. | **<big>[[G3925\|παρεμβολήν]]</big>** |
 [[Judg.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.9|<< Judges 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.11|Judges 7:11 >>]]</td></tr></table>
 
 

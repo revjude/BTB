@@ -6,17 +6,17 @@ Yet no one stretches out his hand against a ruined man when he cries for help in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.25|Job 30:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| surely  | <span class="ashebrew"><big>אַ֣ךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> &#8207;| 'akh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on a heap of ruins  | <span class="ashebrew"><big>בְ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עִי </big></span><small><small><sup>[[H5856]]</sup></small></small> &#8207;| Ve. <small><sup>[[HR]]</sup></small> 'i <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone stretches out  | <span class="ashebrew"><big>יִשְׁלַח </big></span><small><small><sup>[[H7971K]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yish.lach- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a hand  | <span class="ashebrew"><big>יָ֑ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| Yad <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in disaster his  | <span class="ashebrew"><big>בְּ֝ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>פִיד֗ </big></span><small><small><sup>[[H6365]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> fi.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֥ן </big></span><small><small><sup>[[H9039]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hen <small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a cry for help  | <span class="ashebrew"><big>שֽׁוּעַ </big></span><small><small><sup>[[H7769]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Shu.a' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on a heap of ruins  |**<big>&#8207;[[H9003\|בְ֭]]&#8207;&#8207;[[H5856\|עִי]]&#8207; </big>**| Ve.<small><sup>[[HR]]</sup></small> 'i<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone stretches out  |**<big>&#8207;[[H7971K\|יִשְׁלַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.lach-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hand  |**<big>&#8207;[[H3027G\|יָ֑ד]]&#8207; </big>**| Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in disaster his  |**<big>&#8207;[[H9003\|בְּ֝]]&#8207;&#8207;[[H6365\|פִיד֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> fi.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9039\|הֶ֥ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cry for help  |**<big>&#8207;[[H7769\|שֽׁוּעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Shu.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.25|Job 30:25 >>]]</td></tr></table>
 
 

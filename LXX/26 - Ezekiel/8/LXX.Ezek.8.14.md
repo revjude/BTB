@@ -7,29 +7,29 @@ Then he brought me to the door of the gate of the LORD’S house which [was] tow
 Then He brought me to the entrance of the north gate of the house of the LORD, and I saw women sitting there, weeping for Tammuz.<small><sub>**MT:**</sub></small>
 [[Ezek.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.13|<< Ezekiel 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.15|Ezekiel 8:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought me | <big><span class="asgreek">εισήγαγέ</span></big> <sup><small><small>[[G1521]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thresholds | <big><span class="asgreek">πρόθυρα</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one looking | <big><span class="asgreek">βλεπούσης</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[were\] sitting down | <big><span class="asgreek">καθήμεναι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| wailing | <big><span class="asgreek">θρηνούσαι</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Tammuz. | <big><span class="asgreek">Θαμμούζ</span></big> <sup><small><small>[[H8542]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought me | **<big>[[G1521\|εισήγαγέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| thresholds | **<big>[[G8895\|πρόθυρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| one looking | **<big>[[G0991\|βλεπούσης]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορράν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| women | **<big>[[G1135\|γυναίκες]]</big>** |
+| \[were\] sitting down | **<big>[[G2521\|καθήμεναι]]</big>** |
+| wailing | **<big>[[G2354\|θρηνούσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Tammuz. | **<big>[[H8542\|Θαμμούζ]]</big>** |
 [[Ezek.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.13|<< Ezekiel 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.15|Ezekiel 8:15 >>]]</td></tr></table>
 
 

@@ -7,52 +7,52 @@ All [things come] alike to all: [there is] one event to the righteous, and to th
 It is the same for all: There is a common fate for the righteous and the wicked, for the good and the bad, for the clean and the unclean, for the one who sacrifices and the one who does not. As it is for the good, so it is for the sinner; as it is for the one who makes a vow, so it is for the one who refuses to take a vow.<small><sub>**MT:**</sub></small>
 [[Eccl.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.1|<< Ecclesiastes 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.3|Ecclesiastes 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Folly | <big><span class="asgreek">ματαιότης</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all \[things\]; | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| event | <big><span class="asgreek">συνάντημα</span></big> <sup><small><small>[[G9296]]</small></small></sup> |
-| \[there is\] one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just, | <big><span class="asgreek">δικαίω</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious; | <big><span class="asgreek">ασεβεί</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθώ</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bad; | <big><span class="asgreek">κακώ</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρώ</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unclean; | <big><span class="asgreek">ακαθάρτω</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrificing | <big><span class="asgreek">θυσιάζοντι</span></big> <sup><small><small>[[G7700]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| sacrificing; | <big><span class="asgreek">θυσιάζοντι</span></big> <sup><small><small>[[G7700]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one sinning; | <big><span class="asgreek">αμαρτάνων</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one swearing by an oath, | <big><span class="asgreek">ομνύων</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \[is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oath | <big><span class="asgreek">όρκον</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβούμενος</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| Folly | **<big>[[G3153\|ματαιότης]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| all \[things\]; | **<big>[[G3956\|πάσιν]]</big>** |
+| event | **<big>[[G9296\|συνάντημα]]</big>** |
+| \[there is\] one | **<big>[[G1520\|εν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| just, | **<big>[[G1342\|δικαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| impious; | **<big>[[G0765\|ασεβεί]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| good | **<big>[[G0018\|αγαθώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| bad; | **<big>[[G2556\|κακώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| clean | **<big>[[G2513\|καθαρώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| unclean; | **<big>[[G0169\|ακαθάρτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| sacrificing | **<big>[[G7700\|θυσιάζοντι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| sacrificing; | **<big>[[G7700\|θυσιάζοντι]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| good, | **<big>[[G0018\|αγαθός]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| one sinning; | **<big>[[G0264\|αμαρτάνων]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one swearing by an oath, | **<big>[[G3660\|ομνύων]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \[is\] the one | **<big>[[G3588\|ο]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| oath | **<big>[[G3727\|όρκον]]</big>** |
+| fearing | **<big>[[G5399\|φοβούμενος]]</big>** |
 [[Eccl.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.1|<< Ecclesiastes 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.3|Ecclesiastes 9:3 >>]]</td></tr></table>
 
 

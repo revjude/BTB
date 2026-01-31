@@ -7,16 +7,16 @@ I have perfumed my bed with myrrh, aloes, and cinnamon.
 I have perfumed my bed with myrrh, with aloes, and with cinnamon.<small><sub>**MT:**</sub></small>
 [[Prov.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.16|<< Proverbs 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.18|Proverbs 7:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I have sprinkled | <big><span class="asgreek">διέρραγκα</span></big> <sup><small><small>[[G6870]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with saffron, | <big><span class="asgreek">κρόκω</span></big> <sup><small><small>[[G8099]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my house | <big><span class="asgreek">οίκόν</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\] cinnamon. | <big><span class="asgreek">κινναμώμω</span></big> <sup><small><small>[[G2792]]</small></small></sup> |
+| I have sprinkled | **<big>[[G6870\|διέρραγκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my bed | **<big>[[G2845\|κοίτην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| with saffron, | **<big>[[G8099\|κρόκω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| my house | **<big>[[G3624\|οίκόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[with\] cinnamon. | **<big>[[G2792\|κινναμώμω]]</big>** |
 [[Prov.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.16|<< Proverbs 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.18|Proverbs 7:18 >>]]</td></tr></table>
 
 

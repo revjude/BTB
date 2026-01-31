@@ -7,18 +7,18 @@ And they had in their inheritance Beersheba, or Sheba, and Moladah,
 and included Beersheba (or Sheba), Moladah,<small><sub>**MT:**</sub></small>
 [[Josh.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.1|<< Joshua 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.3|Joshua 19:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Beer-sheba, | <big><span class="asgreek">Βηρσαβεέ</span></big> <sup><small><small>[[H0884]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sheba, | <big><span class="asgreek">Σαβέ</span></big> <sup><small><small>[[H7652b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moladah, | <big><span class="asgreek">Μολαδά</span></big> <sup><small><small>[[H4137]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1096\|εγενήθη]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their lot | **<big>[[G2819\|κλήρος]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Beer-sheba, | **<big>[[H0884\|Βηρσαβεέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Sheba, | **<big>[[H7652b\|Σαβέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Moladah, | **<big>[[H4137\|Μολαδά]]</big>** |
 [[Josh.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.1|<< Joshua 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.3|Joshua 19:3 >>]]</td></tr></table>
 
 

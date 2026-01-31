@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁגֶא‎</span></big> **Shâgeʼ** <small>*(shaw-gay')*</small> ==**Shagee**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎שָׁגָה‎</span><sup><small>[[H7686]]</small></sup>; erring</small>
+**<big><span class="ashebrew">‎שָׁגֶא‎</span></big>** **Shâgeʼ** <small>*(shaw-gay')*</small> ==**Shagee**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H7686|‎שָׁגָה‎]]</big>**; erring</small>
 
 $\quad$ Shage.
 - § Shage = *"erring"*

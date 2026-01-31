@@ -7,23 +7,23 @@ The Jews gathered themselves together in their cities throughout all the provinc
 In each of the provinces of King Xerxes, the Jews assembled in their cities to attack those who sought to harm them. No man could withstand them, because the fear of them had fallen upon all peoples.<small><sub>**MT:**</sub></small>
 [[Esth.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.1|<< Esther 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.3|Esther 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[that\] | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| were destroyed | <big><span class="asgreek">απώλοντο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| adversaries | <big><span class="asgreek">αντικείμενοι</span></big> <sup><small><small>[[G0480]]</small></small></sup> |
-| of the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίοις</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]][[G1063]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| opposed | <big><span class="asgreek">αντέστη</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| fearing | <big><span class="asgreek">φοβούμενος</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[that\] | **<big>[[G1473\|αυτή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| were destroyed | **<big>[[G0622\|απώλοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| adversaries | **<big>[[G0480\|αντικείμενοι]]</big>** |
+| of the | **<big>[[G3588\|τοις]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίοις]]</big>** |
+| no one | **<big>[[G3762\|ουδείς]]</big>**<sup><small>[[G1063\| [ • ] ]]</small></sup> |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| opposed | **<big>[[G0436\|αντέστη]]</big>** |
+| fearing | **<big>[[G5399\|φοβούμενος]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
 [[Esth.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.1|<< Esther 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.3|Esther 9:3 >>]]</td></tr></table>
 
 

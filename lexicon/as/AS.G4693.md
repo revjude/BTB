@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">σπήλαιον</span></span>, <span class="asgreek">-ου, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">מְעָרָה</span> <small><sup>[[H4631]]</sup></small> ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">σπήλαιον</span></span>, <span class="asgreek">-ου, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H4631|מְעָרָה]]</big>** ;\] </span> </span>
 <span class="asitalic">a cave, cavern</span>: [[John.11.38|Jo 11:38]], [[Heb.11.38|He 11:38]], [[Heb.6.15|He 6:15]]; <span class="asgreek">σ.</span> (EV, <span class="asitalic">den</span>) <span class="asgreek">λῃστῶν</span> ([[LXX.Jer.7.11|Je 7:11]]), [[Matt.21.13|Mt 21:13]], [[Mark.11.17|Mk 11:17]], [[Luke.19.46|Lk 19:46]].†
 
 **Abbott-Smith References**

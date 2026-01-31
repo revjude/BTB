@@ -6,15 +6,15 @@ He who is greedy for unjust gain brings trouble on his household, but he who hat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.26|<< Proverbs 15:26]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.28|Proverbs 15:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] troubling  | <span class="ashebrew"><big>עֹכֵ֣ר </big></span><small><small><sup>[[H5916]]</sup></small></small> &#8207;| 'o.Kher <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own house his  | <span class="ashebrew"><big>בֵּ֭ית </big></span><small><small><sup>[[H1004M]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| bei.t <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] gains unjustly  | <span class="ashebrew"><big>בּוֹצֵ֣עַ </big></span><small><small><sup>[[H1214I]]</sup></small></small> &#8207;| bo.Tze.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unjust gain  | <span class="ashebrew"><big>בָּ֑צַע </big></span><small><small><sup>[[H1215]]</sup></small></small> &#8207;| Ba.tza' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] hates  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שׂוֹנֵ֖א </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> so.Ne' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gifts  | <span class="ashebrew"><big>מַתָּנֹ֣ת </big></span><small><small><sup>[[H4979]]</sup></small></small> &#8207;| ma.ta.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will live  | <span class="ashebrew"><big>יִחְיֶֽה </big></span><small><small><sup>[[H2421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yich.Yeh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] troubling  |**<big>&#8207;[[H5916\|עֹכֵ֣ר]]&#8207; </big>**| 'o.Kher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own house his  |**<big>&#8207;[[H1004M\|בֵּ֭ית]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bei.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] gains unjustly  |**<big>&#8207;[[H1214I\|בּוֹצֵ֣עַ]]&#8207; </big>**| bo.Tze.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unjust gain  |**<big>&#8207;[[H1215\|בָּ֑צַע]]&#8207; </big>**| Ba.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] hates  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8130\|שׂוֹנֵ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> so.Ne'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gifts  |**<big>&#8207;[[H4979\|מַתָּנֹ֣ת]]&#8207; </big>**| ma.ta.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will live  |**<big>&#8207;[[H2421\|יִחְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yich.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.26|<< Proverbs 15:26]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.28|Proverbs 15:28 >>]]</td></tr></table>
 
 

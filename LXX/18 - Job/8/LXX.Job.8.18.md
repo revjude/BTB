@@ -7,16 +7,16 @@ If he destroy him from his place, then [it] shall deny him, [saying], I have not
 If he is uprooted from his place, it will disown him, saying, ‘I never saw you.’<small><sub>**MT:**</sub></small>
 [[Job.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.17|<< Job 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.19|Job 8:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should swallow him | <big><span class="asgreek">καταπίη</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| it shall lie to | <big><span class="asgreek">ψεύσεται</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
-| him, \[saying\], | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[Have\] you not seen | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| such \[a thing\]? | <big><span class="asgreek">τοιαύτα</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should swallow him | **<big>[[G2666\|καταπίη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| it shall lie to | **<big>[[G5574\|ψεύσεται]]</big>** |
+| him, \[saying\], | **<big>[[G1473\|αυτόν]]</big>** |
+| \[Have\] you not seen | **<big>[[G3756\|ουχ]]</big>** **<big>[[G3708\|εώρακας]]</big>** |
+| such \[a thing\]? | **<big>[[G5108\|τοιαύτα]]</big>** |
 [[Job.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.17|<< Job 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.19|Job 8:19 >>]]</td></tr></table>
 
 

@@ -7,27 +7,27 @@ And when she was risen up to glean, Boaz commanded his young men, saying, Let he
 When Ruth got up to glean, Boaz ordered his young men, “Even if she gathers among the sheaves, do not insult her.<small><sub>**MT:**</sub></small>
 [[Ruth.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.14|<< Ruth 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.16|Ruth 2:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she rose up | <big><span class="asgreek">ανέστη</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to collect \[grain\], | <big><span class="asgreek">συλλέγειν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Boaz gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παιδαρίοις αυτού</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Indeed, | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheaves | <big><span class="asgreek">δραγμάτων</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
-| let her collect | <big><span class="asgreek">συλλεγέτω</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| shame | <big><span class="asgreek">καταισχύνητε</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| her! | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she rose up | **<big>[[G0450\|ανέστη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to collect \[grain\], | **<big>[[G4816\|συλλέγειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Boaz gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G1003\|Βοόζ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his servants, | **<big>[[G3808\|παιδαρίοις αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| Indeed, | **<big>[[G1065\|γε]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sheaves | **<big>[[G6967\|δραγμάτων]]</big>** |
+| let her collect | **<big>[[G4816\|συλλεγέτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| do not | **<big>[[G3361\|μη]]</big>** |
+| shame | **<big>[[G2617\|καταισχύνητε]]</big>** |
+| her! | **<big>[[G1473\|αυτήν]]</big>** |
 [[Ruth.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.14|<< Ruth 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.16|Ruth 2:16 >>]]</td></tr></table>
 
 

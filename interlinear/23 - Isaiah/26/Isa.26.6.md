@@ -6,14 +6,14 @@ Feet trample it down—the feet of the oppressed, the steps of the poor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.5|<< Isaiah 26:5]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.7|Isaiah 26:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it will trample it  | <span class="ashebrew"><big>תִּרְמְסֶ֖ </big></span><small><small><sup>[[H7429]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| tir.me.Se. <small><sup>[[HVqi3fs]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a foot  | <span class="ashebrew"><big>רָ֑גֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| Ra.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] feet of  | <span class="ashebrew"><big>רַגְלֵ֥י </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| rag.Lei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] afflicted  | <span class="ashebrew"><big>עָנִ֖י </big></span><small><small><sup>[[H6041]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] footsteps of  | <span class="ashebrew"><big>פַּעֲמֵ֥י </big></span><small><small><sup>[[H6471]]</sup></small></small> &#8207;| pa.'a.Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor [people]  | <span class="ashebrew"><big>דַלִּֽים </big></span><small><small><sup>[[H1800]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| da.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will trample it  |**<big>&#8207;[[H7429\|תִּרְמְסֶ֖]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| tir.me.Se.<small><sup>[[HVqi3fs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a foot  |**<big>&#8207;[[H7272\|רָ֑גֶל]]&#8207; </big>**| Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] feet of  |**<big>&#8207;[[H7272\|רַגְלֵ֥י]]&#8207; </big>**| rag.Lei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] afflicted  |**<big>&#8207;[[H6041\|עָנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] footsteps of  |**<big>&#8207;[[H6471\|פַּעֲמֵ֥י]]&#8207; </big>**| pa.'a.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor [people]  |**<big>&#8207;[[H1800\|דַלִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.5|<< Isaiah 26:5]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.7|Isaiah 26:7 >>]]</td></tr></table>
 
 

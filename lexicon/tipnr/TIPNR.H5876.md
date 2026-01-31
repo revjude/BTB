@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>En-haddah</span>, a city allotted to the tribe of Issachar during the division of the Promised Land.
 - A location only mentioned at [[Josh.19.21|Jos.19.21]]; 
-- only referred to as En-haddah<[[H5876]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as En-haddah **<big>[[H5876|עֵין חַדָּה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.478425,35.254452&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The name En-haddah means "spring of Haddah" or "swift fountain," suggesting the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| En-haddah (NIV= En Haddah) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5876) <small>*Hebrew*</small> | 1x | [Jos.19.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.19.21) |
-All Strong's for **En-haddah**: \[[[H5876]]\]
+| En-haddah (NIV= En Haddah) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5876) | 1x | [Jos.19.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.19.21) |
+All entries for **En-haddah**:  **<big>[[H5876|עֵין חַדָּה]]</big>**

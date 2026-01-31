@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Aphek</span> or Aphekah, a city in the Shephelah, known for Philistine conflicts with Israel.
 - A location first mentioned at [[Josh.12.18|Jos.12.18]]; 
-- referred to as Aphek<[[H0663G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>\), or Aphekah<[[H0664]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Aphek **<big>[[H0663|אֲפֵק]]</big>**, or Aphekah **<big>[[H0664|אֲפֵקָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.1047126614992,34.93197921211777&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ The exact location of Aphek in the Shephelah is uncertain, but it is generally i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aphek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H0663G) <small>*Hebrew*</small> | 3x | [[Jos.12.18] ... [1Sa.29.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aphek\*\|reference=Jos.12.18;1Sa.4.1;1Sa.29.1) |
-| Aphekah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0664) <small>*Hebrew*</small> | 1x | [Jos.15.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aphekah\*\|reference=Jos.15.53) |
-All Strong's for **Aphek or Aphekah**: \[[[H0663G]]\] \[[[H0664]]\]
+| Aphek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H0663G) | 3x | [[Jos.12.18] ... [1Sa.29.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aphek\*\|reference=Jos.12.18;1Sa.4.1;1Sa.29.1) |
+| Aphekah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>פ</span>ֵ<span class='tipnrLangHebrew'>ק</span>ָ<span class='tipnrLangHebrew'>ה</span>](H0664) | 1x | [Jos.15.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aphekah\*\|reference=Jos.15.53) |
+All entries for **Aphek or Aphekah**:  **<big>[[H0663|אֲפֵק]]</big>** ☩  **<big>[[H0664|אֲפֵקָה]]</big>**

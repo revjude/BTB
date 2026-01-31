@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-aven</span> was a town and wilderness near Ai and Bethel, associated with idolatry and Israel's defeat. \([[Josh.7.2|Joshua 7:2]]; 18:12; [[1Sam.13.5|1 Samuel 13:5]]; 14:23; [[Hos.4.15|Hosea 4:15]]; 5:8; 10:5\)
 - A location first mentioned at [[Josh.7.2|Jos.7.2]]; 
-- only referred to as Beth-aven<[[H1007]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>א</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Beth-aven **<big>[[H1007|בֵּית אָוֶן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.89571707979081,35.25309824700233&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The prophets Hosea and Amos used Beth-aven as a derogatory term for Bethel, whic
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-aven (NIV= Beth Aven) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>א</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H1007) <small>*Hebrew*</small> | 7x | [[Jos.7.2] ... [Hos.10.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.7.2;Jos.18.12;1Sa.13.5;1Sa.14.23;Hos.4.15;Hos.5.8;Hos.10.5) |
-All Strong's for **Beth-aven**: \[[[H1007]]\]
+| Beth-aven (NIV= Beth Aven) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>א</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ן</span>](H1007) | 7x | [[Jos.7.2] ... [Hos.10.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.7.2;Jos.18.12;1Sa.13.5;1Sa.14.23;Hos.4.15;Hos.5.8;Hos.10.5) |
+All entries for **Beth-aven**:  **<big>[[H1007|בֵּית אָוֶן]]</big>**

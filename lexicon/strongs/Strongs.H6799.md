@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְנָן‎</span></big> **Tsᵉnân** <small>*(tsen-awn')*</small> ==**Zenan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably for <span class="ashebrew">‎צַאֲנָן‎</span><sup><small>[[H6630]]</small></sup></small>
+**<big><span class="ashebrew">‎צְנָן‎</span></big>** **Tsᵉnân** <small>*(tsen-awn')*</small> ==**Zenan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably for **<big>[[H6630|‎צַאֲנָן‎]]</big>**</small>
 
 $\quad$ Zenan.
 - § Zenan = *"pointed"*

@@ -7,47 +7,47 @@ For unto us a child is born, unto us a son is given: and the government shall be
 For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.<small><sub>**MT:**</sub></small>
 [[Isa.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.5|<< Isaiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.7|Isaiah 9:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| was born | <big><span class="asgreek">εγεννήθη</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| to us; | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| was given | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sovereignty | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his shoulder; | <big><span class="asgreek">ώμου</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is called | <big><span class="asgreek">καλείται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of great | <big><span class="asgreek">μεγάλης</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλής</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| Messenger | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| wonderful, | <big><span class="asgreek">θαυμαστός</span></big> <sup><small><small>[[G2298]]</small></small></sup> |
-| counselor, | <big><span class="asgreek">σύμβουλος</span></big> <sup><small><small>[[G4825]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| mighty | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| potentate, | <big><span class="asgreek">εξουσιαστής</span></big> <sup><small><small>[[G7592]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of peace, | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| about to be | <big><span class="asgreek">μέλλοντος</span></big> <sup><small><small>[[G3195]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| For I will bring | <big><span class="asgreek">άξω</span></big> <sup><small><small>[[G0071]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers, | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his health. | <big><span class="asgreek">υγίειαν</span></big> <sup><small><small>[[G9523]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a child | **<big>[[G3813\|παιδίον]]</big>** |
+| was born | **<big>[[G1080\|εγεννήθη]]</big>** |
+| to us; | **<big>[[G1473\|ημίν]]</big>** |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| was given | **<big>[[G1325\|εδόθη]]</big>** |
+| to us, | **<big>[[G1473\|ημίν]]</big>** |
+| of whom | **<big>[[G3739\|ου]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sovereignty | **<big>[[G0746\|αρχή]]</big>** |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his shoulder; | **<big>[[G5606\|ώμου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is called | **<big>[[G2564\|καλείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of great | **<big>[[G3173\|μεγάλης]]</big>** |
+| counsel | **<big>[[G1012\|βουλής]]</big>** |
+| Messenger | **<big>[[G0032\|άγγελος]]</big>** |
+| wonderful, | **<big>[[G2298\|θαυμαστός]]</big>** |
+| counselor, | **<big>[[G4825\|σύμβουλος]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| mighty | **<big>[[G2478\|ισχυρός]]</big>** |
+| potentate, | **<big>[[G7592\|εξουσιαστής]]</big>** |
+| ruler | **<big>[[G0758\|άρχων]]</big>** |
+| of peace, | **<big>[[G1515\|ειρήνης]]</big>** |
+| father | **<big>[[G3962\|πατήρ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| about to be | **<big>[[G3195\|μέλλοντος]]</big>** |
+| eon | **<big>[[G0165\|αιώνος]]</big>** |
+| For I will bring | **<big>[[G0071\|άξω]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rulers, | **<big>[[G0758\|άρχοντας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his health. | **<big>[[G9523\|υγίειαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.5|<< Isaiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.7|Isaiah 9:7 >>]]</td></tr></table>
 
 

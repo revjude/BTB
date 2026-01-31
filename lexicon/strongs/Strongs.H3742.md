@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כְּרוּב‎</span></big> **kᵉrûwb** <small>*(ker-oob')*</small> ==**cherub**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎כְּרוּב‎</span></big>** **kᵉrûwb** <small>*(ker-oob')*</small> ==**cherub**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ cherub, (plural) cherubims.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** as flanking God's throne
 $\quad$ $\quad$ **1a3)** as an image form hovering over the Ark of the Covenant
 $\quad$ $\quad$ **1a4)** as the chariot of Jehovah (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">χερουβίμ</span><sup><small>[[G5502]]</small></sup>
+<small>See Greek: </small>**<big>[[G5502|χερουβίμ]]</big>**

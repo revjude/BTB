@@ -7,18 +7,18 @@ That which dieth of itself, or is torn [with beasts], he shall not eat to defile
 He must not eat anything found dead or torn by wild animals, which would make him unclean. I am the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.7|<< Leviticus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.9|Leviticus 22:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Decaying flesh | <big><span class="asgreek">θνησιμαίον</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that taken by wild beasts | <big><span class="asgreek">θηριάλωτον</span></big> <sup><small><small>[[G7670]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| eat, | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| to be defiled | <big><span class="asgreek">μιανθήναι</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Decaying flesh | **<big>[[G7681\|θνησιμαίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that taken by wild beasts | **<big>[[G7670\|θηριάλωτον]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| eat, | **<big>[[G2068\|φάγεται]]</big>** |
+| to be defiled | **<big>[[G3392\|μιανθήναι]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Lev.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.7|<< Leviticus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.9|Leviticus 22:9 >>]]</td></tr></table>
 
 

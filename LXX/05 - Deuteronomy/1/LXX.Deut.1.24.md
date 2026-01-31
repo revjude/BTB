@@ -7,22 +7,22 @@ And they turned and went up into the mountain, and came unto the valley of Eshco
 They left and went up into the hill country, and came to the Valley of Eshcol and spied out the land.<small><sub>**MT:**</sub></small>
 [[Deut.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.23|<< Deuteronomy 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.25|Deuteronomy 1:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| turning | <big><span class="asgreek">επιστραφέντες</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| they ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain, | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Ravine | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| of Cluster, | <big><span class="asgreek">βότρυος</span></big> <sup><small><small>[[G1009]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they spied | <big><span class="asgreek">κατεσκόπευσαν</span></big> <sup><small><small>[[G2684]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| turning | **<big>[[G1994\|επιστραφέντες]]</big>** |
+| they ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| mountain, | **<big>[[G3735\|όρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Ravine | **<big>[[G5327\|φάραγγος]]</big>** |
+| of Cluster, | **<big>[[G1009\|βότρυος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they spied | **<big>[[G2684\|κατεσκόπευσαν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Deut.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.23|<< Deuteronomy 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.25|Deuteronomy 1:25 >>]]</td></tr></table>
 
 

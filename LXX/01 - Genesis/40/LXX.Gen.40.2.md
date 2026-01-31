@@ -7,22 +7,22 @@ And Pharaoh was wroth against two [of] his officers, against the chief of the bu
 Pharaoh was angry with his two officers, the chief cupbearer and the chief baker,<small><sub>**MT:**</sub></small>
 [[Gen.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.1|<< Genesis 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.3|Genesis 40:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pharaoh was provoked to anger | <big><span class="asgreek">ωργίσθη</span></big> <sup><small><small>[[G3710]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσίν</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| eunuchs | <big><span class="asgreek">ευνούχοις</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief wine taster | <big><span class="asgreek">αρχιοινοχόω</span></big> <sup><small><small>[[G6556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief baker. | <big><span class="asgreek">αρχισιτοποιώ</span></big> <sup><small><small>[[G6558]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pharaoh was provoked to anger | **<big>[[G3710\|ωργίσθη]]</big>** **<big>[[G5328\|Φαραώ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| two | **<big>[[G1417\|δυσίν]]</big>** |
+| eunuchs | **<big>[[G2135\|ευνούχοις]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| chief wine taster | **<big>[[G6556\|αρχιοινοχόω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| chief baker. | **<big>[[G6558\|αρχισιτοποιώ]]</big>** |
 [[Gen.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.1|<< Genesis 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.3|Genesis 40:3 >>]]</td></tr></table>
 
 

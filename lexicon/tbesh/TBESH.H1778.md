@@ -1,3 +1,1 @@
-<span class="asaramaic">‎דִּין‎</span> <small>***(din)***</small> ==**to judge**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H1777]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H1777|דִּין]]</big>**</small>

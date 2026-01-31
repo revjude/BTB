@@ -1,4 +1,4 @@
-spelling of: <small>[[G3762]]</small> 
+spelling of: <small>**<big>[[G3762|οὐδείς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==οὐθείς==</span></b>, <span class='asgreek'>οὐθέν</span>, 

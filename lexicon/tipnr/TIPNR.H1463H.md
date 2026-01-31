@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gog</span> is mentioned in the prophetic books of Ezekiel and Revelation as a symbolic enemy of God's people who will be defeated in the end times \([[Ezek.38.2|Ezekiel 38:2]], 3, 14, 16, 18; 39:1, 11; [[Rev.20.8|Revelation 20:8]]\).
 - A location first mentioned at [[Ezek.38.2|Ezk.38.2]]; 
-- referred to as Gog<[[H1463H]]> \(<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ג</span>\), or Gog<[[G1136]]> \(<span class='tipnrLangGreek'>Γώγ</span>\).
+- referred to as Gog **<big>[[H1463|גּוֹג]]</big>**, or Gog **<big>[[G1136|Γώγ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=46,47&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Gog is a name that appears in the prophetic literature of the Bible, particularl
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gog | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ג</span>](H1463H) <small>*Hebrew*</small> | 9x | [[Ezk.38.2] ... [Ezk.39.11b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gog\*\|reference=Ezk.38.2;Ezk.38.3;Ezk.38.14;Ezk.38.16;Ezk.38.18;Ezk.39.1;Ezk.39.1;Ezk.39.11;Ezk.39.11) |
-| Gog | [<span class='tipnrLangGreek'>Γώγ</span>](G1136) <small>*Greek*</small> | 1x | [Rev.20.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gog\*\|reference=Rev.20.8) |
-All Strong's for **Gog**: \[[[H1463H]]\] \[[[G1136]]\]
+| Gog | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ג</span>](H1463H) | 9x | [[Ezk.38.2] ... [Ezk.39.11b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gog\*\|reference=Ezk.38.2;Ezk.38.3;Ezk.38.14;Ezk.38.16;Ezk.38.18;Ezk.39.1;Ezk.39.1;Ezk.39.11;Ezk.39.11) |
+| Gog | [<span class='tipnrLangGreek'>Γώγ</span>](G1136) | 1x | [Rev.20.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gog\*\|reference=Rev.20.8) |
+All entries for **Gog**:  **<big>[[H1463|גּוֹג]]</big>** ☩  **<big>[[G1136|Γώγ]]</big>**

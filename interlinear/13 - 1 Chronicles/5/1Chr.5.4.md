@@ -6,16 +6,16 @@ The descendants of Joel: Shemaiah his son, Gog his son, Shimei his son,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.3|<< 1 Chronicles 5:3]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.5|1 Chronicles 5:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֖י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joel  | <span class="ashebrew"><big>יוֹאֵ֑ל </big></span><small><small><sup>[[H3100I]]</sup></small></small> &#8207;| yo.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shemaiah  | <span class="ashebrew"><big>שְׁמַֽעְיָ֥ה </big></span><small><small><sup>[[H8098D]]</sup></small></small> &#8207;| she.ma'.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְנ֛ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| ve.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gog  | <span class="ashebrew"><big>גּ֥וֹג </big></span><small><small><sup>[[H1463G]]</sup></small></small> &#8207;| Gog <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְּנ֖ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shimei  | <span class="ashebrew"><big>שִׁמְעִ֥י </big></span><small><small><sup>[[H8096L]]</sup></small></small> &#8207;| shim.'I <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  | <span class="ashebrew"><big>בְנֽ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֖י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joel  |**<big>&#8207;[[H3100I\|יוֹאֵ֑ל]]&#8207; </big>**| yo.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shemaiah  |**<big>&#8207;[[H8098D\|שְׁמַֽעְיָ֥ה]]&#8207; </big>**| she.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gog  |**<big>&#8207;[[H1463G\|גּ֥וֹג]]&#8207; </big>**| Gog<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְּנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimei  |**<big>&#8207;[[H8096L\|שִׁמְעִ֥י]]&#8207; </big>**| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.3|<< 1 Chronicles 5:3]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.5|1 Chronicles 5:5 >>]]</td></tr></table>
 
 

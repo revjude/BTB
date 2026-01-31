@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קוֹרֵא‎</span></big> **Qôwrêʼ** <small>*(ko-ray')*</small> ==**Kore**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">קֹרֵא</span> **Qôrêʼ** <small>*(ko-ray')*</small>; (1 Chronicles 26:1), active participle of <span class="ashebrew">‎קָרָא‎</span><sup><small>[[H7121]]</small></sup>; crier</small>
+**<big><span class="ashebrew">‎קוֹרֵא‎</span></big>** **Qôwrêʼ** <small>*(ko-ray')*</small> ==**Kore**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">קֹרֵא</span></big>** **Qôrêʼ** <small>*(ko-ray')*</small>; (1 Chronicles 26:1), active participle of **<big>[[H7121|‎קָרָא‎]]</big>**; crier</small>
 
 $\quad$ Kore.
 - § Kore = *"crier"*

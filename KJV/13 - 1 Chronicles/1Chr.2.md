@@ -51,15 +51,15 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.50|50]]**<span class="
 
 [^15]: [[Gen.46|Gen 46:12]]; [[Num.26|Num 26:21]]; [[Ruth.4|Ruth 4:18]]; [[Matt.1|Matt 1:3]]; [[Luke.3|Luke 3:33]], Esrom
 
-[^16]: i.e. snug; my song; my field, (<span class="ashebrew">‎זִמְרִי‎</span><sup><small>[[H2174]]</small></sup>). [[1Chr.2|1Chr 2:6]], [[1Chr.8|1Chr 8:36]], [[1Chr.9|1Chr 9:42]]; [[Num.25|Num 25:14]]; [[1Kgs.16|1Kgs 16:9-10]], [[1Kgs.16|1Kgs 16:12]], [[1Kgs.16|1Kgs 16:15-16]], [[1Kgs.16|1Kgs 16:18]], [[1Kgs.16|1Kgs 16:20]]; [[2Kgs.9|2Kgs 9:31]]; [[Jer.25|Jer 25:25]]
+[^16]: i.e. snug; my song; my field, ( [[H2174|‎זִמְרִי‎]] ). [[1Chr.2|1Chr 2:6]], [[1Chr.8|1Chr 8:36]], [[1Chr.9|1Chr 9:42]]; [[Num.25|Num 25:14]]; [[1Kgs.16|1Kgs 16:9-10]], [[1Kgs.16|1Kgs 16:12]], [[1Kgs.16|1Kgs 16:15-16]], [[1Kgs.16|1Kgs 16:18]], [[1Kgs.16|1Kgs 16:20]]; [[2Kgs.9|2Kgs 9:31]]; [[Jer.25|Jer 25:25]]
 
-[^17]: i.e. perennial, constant; ancient, (<span class="ashebrew">‎אֵיתָן‎</span><sup><small>[[H0387]]</small></sup>). [[1Chr.2|1Chr 2:6]], [[1Chr.2|1Chr 2:8]], [[1Chr.6|1Chr 6:42]], [[1Chr.6|1Chr 6:44]], [[1Chr.15|1Chr 15:17]], [[1Chr.15|1Chr 15:19]]; [[1Kgs.4|1Kgs 4:31]]; [[Ps.89|Ps 89:1]] *title
+[^17]: i.e. perennial, constant; ancient, ( [[H0387|‎אֵיתָן‎]] ). [[1Chr.2|1Chr 2:6]], [[1Chr.2|1Chr 2:8]], [[1Chr.6|1Chr 6:42]], [[1Chr.6|1Chr 6:44]], [[1Chr.15|1Chr 15:17]], [[1Chr.15|1Chr 15:19]]; [[1Kgs.4|1Kgs 4:31]]; [[Ps.89|Ps 89:1]] *title
 
-[^18]: i.e. faithful, (<span class="ashebrew">‎הֵימָן‎</span><sup><small>[[H1968]]</small></sup>), [[1Chr.2|1Chr 2:6]], [[1Chr.6|1Chr 6:33]], [[1Chr.15|1Chr 15:17]], [[1Chr.15|1Chr 15:19]], [[1Chr.16|1Chr 16:41-42]], [[1Chr.25|1Chr 25:1]], [[1Chr.25|1Chr 25:4-5]], [[1Chr.25|1Chr 25:6]]; [[1Kgs.4|1Kgs 4:31]]; [[2Chr.5|2Chr 5:12]], [[2Chr.29|2Chr 29:14]]; [[2Chr.35|2Chr 35:15]]; [[Ps.88|Ps 88:1]] *title
+[^18]: i.e. faithful, ( [[H1968|‎הֵימָן‎]] ), [[1Chr.2|1Chr 2:6]], [[1Chr.6|1Chr 6:33]], [[1Chr.15|1Chr 15:17]], [[1Chr.15|1Chr 15:19]], [[1Chr.16|1Chr 16:41-42]], [[1Chr.25|1Chr 25:1]], [[1Chr.25|1Chr 25:4-5]], [[1Chr.25|1Chr 25:6]]; [[1Kgs.4|1Kgs 4:31]]; [[2Chr.5|2Chr 5:12]], [[2Chr.29|2Chr 29:14]]; [[2Chr.35|2Chr 35:15]]; [[Ps.88|Ps 88:1]] *title
 
-[^19]: i.e. sustenance; comprehended, (<span class="ashebrew">‎כַּלְכֹּל‎</span><sup><small>[[H3633]]</small></sup>). [[1Kgs.4|1Kgs 4:31]]
+[^19]: i.e. sustenance; comprehended, ( [[H3633|‎כַּלְכֹּל‎]] ). [[1Kgs.4|1Kgs 4:31]]
 
-[^20]: i.e. pearl of wisdom, (<span class="ashebrew">‎דָּרַע‎</span><sup><small>[[H1873]]</small></sup>), Darda, <span class="asgreek"><span class='asgreek'>γψγς</span></span> (<span class="ashebrew">‎דַּרְדַּע‎</span><sup><small>[[H1862]]</small></sup>), is here called Dara, <span class="asgreek"><span class='asgreek'>γψς</span></span> (<span class="ashebrew">‎דָּרַע‎</span><sup><small>[[H1873]]</small></sup>), by the elision of a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, Darda
+[^20]: i.e. pearl of wisdom, ( [[H1873|‎דָּרַע‎]] ), Darda, <span class="asgreek"><span class='asgreek'>γψγς</span></span> ( [[H1862|‎דַּרְדַּע‎]] ), is here called Dara, <span class="asgreek"><span class='asgreek'>γψς</span></span> ( [[H1873|‎דָּרַע‎]] ), by the elision of a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, Darda
 
 [^21]: [[1Chr.4|1Chr 4:1]]
 
@@ -97,11 +97,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.50|50]]**<span class="
 
 [^38]: [[2Sam.17|2Sam 17:25]], [[2Sam.19|2Sam 19:13]], [[2Sam.20|2Sam 20:4-12]]; [[1Kgs.2|1Kgs 2:5]], [[1Kgs.2|1Kgs 2:32]]
 
-[^39]: ***Jether***, <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψ</span></span> (<span class="ashebrew">‎יֶתֶר‎</span><sup><small>[[H3500]]</small></sup>), is essentially the same with <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψ</span>ΰ</span> (<span class="ashebrew">‎יִתְרָא‎</span><sup><small>[[H3501]]</small></sup>), ***Ithra***, the latter only having the addition of an ***ΰ*** ***aleph***; and it is probable, that he was an Ishmaelite by birth but an Israelite by religion. [[2Sam.17|2Sam 17:25]], Ithra an Israelite
+[^39]: ***Jether***, <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψ</span></span> ( [[H3500|‎יֶתֶר‎]] ), is essentially the same with <span class="asgreek"><span class='asgreek'>ι</span>ϊ<span class='asgreek'>ψ</span>ΰ</span> ( [[H3501|‎יִתְרָא‎]] ), ***Ithra***, the latter only having the addition of an ***ΰ*** ***aleph***; and it is probable, that he was an Ishmaelite by birth but an Israelite by religion. [[2Sam.17|2Sam 17:25]], Ithra an Israelite
 
-[^40]: (<span class="ashebrew">‎יִשְׁמָעֵאלִי‎</span><sup><small>[[H3459]]</small></sup>) a descendant of Ishmael
+[^40]: ( [[H3459|‎יִשְׁמָעֵאלִי‎]] ) a descendant of Ishmael
 
-[^41]: ***Caleb***, <span class="asgreek"><span class='asgreek'>λμα</span></span>, (<span class="ashebrew">‎כָּלֵב‎</span><sup><small>[[H3612]]</small></sup>), is the same as ***Chelubai***, <span class="asgreek"><span class='asgreek'>λμεαι</span></span> (<span class="ashebrew">‎כְּלוּבַי‎</span><sup><small>[[H3621]]</small></sup>), the latter simply having a <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav*** inserted, and a <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood*** affixed. This person must have lived some time before Israel left Egypt; for Bezaleel, the principal person employed in constructing the tabernacle, was his grandson. [[1Chr.2|1Chr 2:9]], Chelubai, [[1Chr.2|1Chr 2:42]]
+[^41]: ***Caleb***, <span class="asgreek"><span class='asgreek'>λμα</span></span>, ( [[H3612|‎כָּלֵב‎]] ), is the same as ***Chelubai***, <span class="asgreek"><span class='asgreek'>λμεαι</span></span> ( [[H3621|‎כְּלוּבַי‎]] ), the latter simply having a <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav*** inserted, and a <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood*** affixed. This person must have lived some time before Israel left Egypt; for Bezaleel, the principal person employed in constructing the tabernacle, was his grandson. [[1Chr.2|1Chr 2:9]], Chelubai, [[1Chr.2|1Chr 2:42]]
 
 [^42]: am 2534, etc. bc 1470, etc
 
@@ -141,23 +141,23 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.50|50]]**<span class="
 
 [^60]: [[Num.16|Num 16:1]]
 
-[^61]: i.e. going back; brightness; fulness, (<span class="ashebrew">‎זָזָא‎</span><sup><small>[[H2117]]</small></sup>).
+[^61]: i.e. going back; brightness; fulness, ( [[H2117|‎זָזָא‎]] ).
 
 [^62]: [[Num.27|Num 27:3-4]], [[Num.27|Num 27:8]]
 
 [^63]: [[Num.36|Num 36:2]], [[Num.36|Num 36:10-11]]
 
-[^64]: i.e. increasing moon, (<span class="ashebrew">‎יַרְחָע‎</span><sup><small>[[H3398]]</small></sup>), [[1Chr.2|1Chr 2:35]]
+[^64]: i.e. increasing moon, ( [[H3398|‎יַרְחָע‎]] ), [[1Chr.2|1Chr 2:35]]
 
 [^65]: When the people of the East have no sons, they frequently marry their daughters to their slaves, even when they have much property to bestow upon them. Hassan had been the slave of Kamel, his predecessor; but Kamel, according to the custom of the country, gave him one of his daughters in marriage, and left him at his death one part of his great riches which he had amassed in the course of a long and prosperous life (Maillet, Lett. xi. p. 118).
 
 [^66]: [[1Chr.2|1Chr 2:31]]
 
-[^67]: i.e. opportune, (<span class="ashebrew">‎עַתַּי‎</span><sup><small>[[H6262]]</small></sup>), [[1Chr.2|1Chr 2:36]], [[1Chr.12|1Chr 12:11]]; [[2Chr.11|2Chr 11:20]]
+[^67]: i.e. opportune, ( [[H6262|‎עַתַּי‎]] ), [[1Chr.2|1Chr 2:36]], [[1Chr.12|1Chr 12:11]]; [[2Chr.11|2Chr 11:20]]
 
 [^68]: [[1Chr.11|1Chr 11:41]]
 
-[^69]: i.e. intercession, (<span class="ashebrew">‎אֶפְלָל‎</span><sup><small>[[H0654]]</small></sup>)
+[^69]: i.e. intercession, ( [[H0654|‎אֶפְלָל‎]] )
 
 [^70]: [[Ruth.4|Ruth 4:17]]
 
@@ -165,15 +165,15 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.50|50]]**<span class="
 
 [^72]: [[1Chr.6|1Chr 6:36]]; [[2Chr.23|2Chr 23:1]]
 
-[^73]: i.e. strength, (<span class="ashebrew">‎חֶלֶץ‎</span><sup><small>[[H2503]]</small></sup>), [[2Sam.23|2Sam 23:26]]
+[^73]: i.e. strength, ( [[H2503|‎חֶלֶץ‎]] ), [[2Sam.23|2Sam 23:26]]
 
-[^74]: i.e. God has wrought, (<span class="ashebrew">‎אֶלְעָשָׂה‎</span><sup><small>[[H0501]]</small></sup>), [[1Chr.2|1Chr 2:39-40]], [[1Chr.8|1Chr 8:37]], [[1Chr.9|1Chr 9:43]]; [[Ezra.10|Ezra 10:22]]; [[Jer.29|Jer 29:3]]
+[^74]: i.e. God has wrought, ( [[H0501|‎אֶלְעָשָׂה‎]] ), [[1Chr.2|1Chr 2:39-40]], [[1Chr.8|1Chr 8:37]], [[1Chr.9|1Chr 9:43]]; [[Ezra.10|Ezra 10:22]]; [[Jer.29|Jer 29:3]]
 
-[^75]: i.e. distinguished one; swallow, (<span class="ashebrew">‎סִסְמַי‎</span><sup><small>[[H5581]]</small></sup>).
+[^75]: i.e. distinguished one; swallow, ( [[H5581|‎סִסְמַי‎]] ).
 
 [^76]: [[2Kgs.15|2Kgs 15:10]]
 
-[^77]: i.e. let Jah arise, (<span class="ashebrew">‎יְקַמְיָה‎</span><sup><small>[[H3359]]</small></sup>), [[1Chr.3|1Chr 3:18]]
+[^77]: i.e. let Jah arise, ( [[H3359|‎יְקַמְיָה‎]] ), [[1Chr.3|1Chr 3:18]]
 
 [^78]: [[Num.1|Num 1:10]]; [[2Kgs.25|2Kgs 25:25]]
 
@@ -187,9 +187,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.50|50]]**<span class="
 
 [^83]: [[1Chr.2|1Chr 2:23-24]], [[1Chr.2|1Chr 2:45]], [[1Chr.2|1Chr 2:49]], [[1Chr.2|1Chr 2:52]], [[1Chr.8|1Chr 8:29]]; [[Ezra.2|Ezra 2:21-35]]; [[Neh.7|Neh 7:25-38]]
 
-[^84]: i.e. compassionate, (<span class="ashebrew">‎רַחַם‎</span><sup><small>[[H7357]]</small></sup>)
+[^84]: i.e. compassionate, ( [[H7357|‎רַחַם‎]] )
 
-[^85]: i.e. paleness or spreading of the people, (<span class="ashebrew">‎יׇרְקְעָם‎</span><sup><small>[[H3421]]</small></sup>). [[1Chr.2|1Chr 2:44]]
+[^85]: i.e. paleness or spreading of the people, ( [[H3421|‎יׇרְקְעָם‎]] ). [[1Chr.2|1Chr 2:44]]
 
 [^86]: Beth–zur was situated in the tribe of Judah, twenty miles south from Jerusalem, towards Hebron, according to Eusebius. It was fortified by Rehoboam ([[2Chr.11|2Chr 11:7]]) and was a fortress of great consequence, principally in the time of the Maccabees. [[1Macc.4|1Macc 4:28]]; [[1Chr.6|1Chr 6:7]], etc. [[Josh.15|Josh 15:58]]
 

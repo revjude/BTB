@@ -7,28 +7,28 @@ Both to the genealogy of the priests by the house of their fathers, and the Levi
 and to the priests enrolled according to their families in the genealogy, as well as to the Levites twenty years of age or older, according to their responsibilities and divisions.<small><sub>**MT:**</sub></small>
 [[2Chr.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.16|<< 2 Chronicles 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.18|2 Chronicles 31:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This \[is\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| distribution | <big><span class="asgreek">καταλοχισμός</span></big> <sup><small><small>[[G7873]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[their\] families; | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their daily rotations | <big><span class="asgreek">εφημερίαις</span></big> <sup><small><small>[[G2183]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| twenty years | <big><span class="asgreek">εικοσαέτους</span></big> <sup><small><small>[[G7052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| up, | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| arrangement, | <big><span class="asgreek">διατάξει</span></big> <sup><small><small>[[G6886]]</small></small></sup> |
+| This \[is\] | **<big>[[G3778\|ούτος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| distribution | **<big>[[G7873\|καταλοχισμός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| priests | **<big>[[G2409\|ιερέων]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] houses | **<big>[[G3624\|οίκους]]</big>** |
+| of \[their\] families; | **<big>[[G3965\|πατριών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their daily rotations | **<big>[[G2183\|εφημερίαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| twenty years | **<big>[[G7052\|εικοσαέτους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| up, | **<big>[[G1883\|επάνω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| arrangement, | **<big>[[G6886\|διατάξει]]</big>** |
 [[2Chr.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.16|<< 2 Chronicles 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.18|2 Chronicles 31:18 >>]]</td></tr></table>
 
 

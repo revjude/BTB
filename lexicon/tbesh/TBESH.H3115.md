@@ -1,6 +1,4 @@
-<span class="ashebrew">‎יוֹכֶ֫בֶד‎</span> <small>***(yo.khe.ved)***</small> ==**Jochebed**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.20|Exo.6.20]]
--  daughter of: Levi ([[H3878]])
--  sister of: Gershon ([[H1648]]), Kohath ([[H6955]]) and Merari ([[H4847]]); married to Amram ([[H6019]])
--  mother of: Moses ([[H4872]]), Aaron ([[H0175]]) and Miriam ([[H4813]])
-
+-  daughter of: Levi (**<big>[[H3878|לֵוִי]]</big>**)
+-  sister of: Gershon (**<big>[[H1648|גֵּרְשׁוֹן]]</big>**), Kohath (**<big>[[H6955|קְהָת]]</big>**) and Merari (**<big>[[H4847|מְרָרִי]]</big>**); married to Amram (**<big>[[H6019|עַמְרָם]]</big>**)
+-  mother of: Moses (**<big>[[H4872|מֹשֶׁה]]</big>**), Aaron (**<big>[[H0175|אַהֲרוֹן]]</big>**) and Miriam (**<big>[[H4813|מִרְיָם]]</big>**)

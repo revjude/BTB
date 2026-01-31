@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">νεφρός</span></span>, <span class="asgreek">-οῦ, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">כִּלְיָה</span> <small><sup>[[H3629]]</sup></small>, [[LXX.Exod.29.13|Ex 29:13]], al.; metaph., [[LXX.Ps.7.9|Ps 7:9]] [[LXX.Ps.16.7|15 (16):7]] [[LXX.Ps.26.2|25 (26):2]], [[Wis.1.6|Wi 1:6]], al.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">νεφρός</span></span>, <span class="asgreek">-οῦ, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H3629|כִּלְיָה]]</big>**, [[LXX.Exod.29.13|Ex 29:13]], al.; metaph., [[LXX.Ps.7.9|Ps 7:9]] [[LXX.Ps.16.7|15 (16):7]] [[LXX.Ps.26.2|25 (26):2]], [[Wis.1.6|Wi 1:6]], al.;\]</span> </span>
 <span class="asitalic">a kidney</span>; pl., <span class="asitalic">the kidneys</span>, <span class="asitalic">reins</span>; metaph., of the will and affections: <span class="asgreek">ν. καί καρδίαι</span> (thoughts), [[Rev.2.23|Re 2:23]].†
 
 **Abbott-Smith References**

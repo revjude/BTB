@@ -11,27 +11,27 @@ The LORD is my strength and my song, and He has become my salvation. He is my Go
 > $\quad$ referenced by: [[LXX.Ps.118.14|Ps 118:14]] ☩ [[LXX.Isa.12.2|Isa 12:2]] ☩ [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shelterer | <big><span class="asgreek">σκεπαστής</span></big> <sup><small><small>[[G9097]]</small></small></sup> |
-| he became | <big><span class="asgreek">εγένετό</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| deliverance; | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will glorify | <big><span class="asgreek">δοξάσω</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will exalt | <big><span class="asgreek">υψώσω</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Helper | **<big>[[G0998\|βοηθός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shelterer | **<big>[[G9097\|σκεπαστής]]</big>** |
+| he became | **<big>[[G1096\|εγένετό]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| deliverance; | **<big>[[G4991\|σωτηρίαν]]</big>** |
+| this | **<big>[[G3778\|ούτός]]</big>** |
+| \[is\] my | **<big>[[G1473\|μου]]</big>** |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will glorify | **<big>[[G1392\|δοξάσω]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father, | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will exalt | **<big>[[G5312\|υψώσω]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Exod.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.1|<< Exodus 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.3|Exodus 15:3 >>]]</td></tr></table>
 
 

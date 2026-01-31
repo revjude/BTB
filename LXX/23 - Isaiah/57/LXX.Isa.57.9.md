@@ -7,31 +7,31 @@ And thou wentest to the king with ointment, and didst increase thy perfumes, and
 You went to Molech with oil and multiplied your perfumes. You have sent your envoys a great distance; you have descended even to Sheol itself.<small><sub>**MT:**</sub></small>
 [[Isa.57.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you multiplied | <big><span class="asgreek">επλήθυνας</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your harlotry | <big><span class="asgreek">πορνείαν σου</span></big> <sup><small><small>[[G4202]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλούς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| you made | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of them | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| far | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you sent | <big><span class="asgreek">απέστειλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| ambassadors | <big><span class="asgreek">πρέσβεις</span></big> <sup><small><small>[[G8881]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your borders, | <big><span class="asgreek">όριά</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you were abased | <big><span class="asgreek">εταπεινώθης</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Hades. | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| you multiplied | **<big>[[G4129\|επλήθυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your harlotry | **<big>[[G4202\|πορνείαν σου]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them, | **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| many | **<big>[[G4183\|πολλούς]]</big>** |
+| you made | **<big>[[G4160\|εποίησας]]</big>** |
+| of them | **<big>[[G3588\|τους]]</big>** |
+| far | **<big>[[G3112\|μακράν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you sent | **<big>[[G0649\|απέστειλας]]</big>** |
+| ambassadors | **<big>[[G8881\|πρέσβεις]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your borders, | **<big>[[G3725\|όριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you were abased | **<big>[[G5013\|εταπεινώθης]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Hades. | **<big>[[G0086\|άδου]]</big>** |
 [[Isa.57.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
 
 

@@ -7,18 +7,18 @@ Because thy lovingkindness [is] better than life, my lips shall praise thee.
 Because Your loving devotion is better than life, my lips will glorify You.<small><sub>**MT:**</sub></small>
 [[Ps.63.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.2|<< Psalm 63:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.4|Psalm 63:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| life. | <big><span class="asgreek">ζωάς</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall praise | <big><span class="asgreek">επαινέσουσί</span></big> <sup><small><small>[[G1867]]</small></small></sup> |
-| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] better | **<big>[[G2908\|κρείσσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| than | **<big>[[G5228\|υπέρ]]</big>** |
+| life. | **<big>[[G2222\|ζωάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| My lips | **<big>[[G5491\|χείλη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall praise | **<big>[[G1867\|επαινέσουσί]]</big>** |
+| you; | **<big>[[G1473\|σε]]</big>** |
 [[Ps.63.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.2|<< Psalm 63:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.4|Psalm 63:4 >>]]</td></tr></table>
 
 

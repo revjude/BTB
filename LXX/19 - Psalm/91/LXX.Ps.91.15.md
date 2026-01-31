@@ -7,24 +7,24 @@ He shall call upon me, and I will answer him: I [will be] with him in trouble; I
 When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him.<small><sub>**MT:**</sub></small>
 [[Ps.91.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.14|<< Psalm 91:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.16|Psalm 91:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He shall cry out | <big><span class="asgreek">κεκράξεται</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall heed | <big><span class="asgreek">επακούσομαι</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| affliction. | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| I will rescue | <big><span class="asgreek">εξελούμαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glorify | <big><span class="asgreek">δοξάσω</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He shall cry out | **<big>[[G2896\|κεκράξεται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall heed | **<big>[[G1873\|επακούσομαι]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| I am | **<big>[[G1510\|ειμί]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| affliction. | **<big>[[G2347\|θλίψει]]</big>** |
+| I will rescue | **<big>[[G1807\|εξελούμαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glorify | **<big>[[G1392\|δοξάσω]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[Ps.91.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.14|<< Psalm 91:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.16|Psalm 91:16 >>]]</td></tr></table>
 
 

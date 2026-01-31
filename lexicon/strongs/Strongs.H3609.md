@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּלְאָב‎</span></big> **Kilʼâb** <small>*(kil-awb')*</small> ==**Chileab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎כָּלָא‎</span><sup><small>[[H3607]]</small></sup> and <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup>; restraint of (his) father</small>
+**<big><span class="ashebrew">‎כִּלְאָב‎</span></big>** **Kilʼâb** <small>*(kil-awb')*</small> ==**Chileab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from **<big>[[H3607|‎כָּלָא‎]]</big>** and **<big>[[H0001|‎אָב‎]]</big>**; restraint of (his) father</small>
 
 $\quad$ Chileab.
 - § Chileab = *"like his father"*

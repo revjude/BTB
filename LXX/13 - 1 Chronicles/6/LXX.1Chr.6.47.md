@@ -7,16 +7,16 @@ The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.<small><sub>**MT:**</sub></small>
 [[1Chr.6.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.46|<< 1 Chronicles 6:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.48|1 Chronicles 6:48 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mahli, | <big><span class="asgreek">Μοολί</span></big> <sup><small><small>[[H4249]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mushi, | <big><span class="asgreek">Μουσή</span></big> <sup><small><small>[[H4187]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Merari, | <big><span class="asgreek">Μεραρί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Levi. | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Mahli, | **<big>[[H4249\|Μοολί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Mushi, | **<big>[[H4187\|Μουσή]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Merari, | **<big>[[H4847\|Μεραρί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Levi. | **<big>[[G3017\|Λευί]]</big>** |
 [[1Chr.6.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.46|<< 1 Chronicles 6:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.48|1 Chronicles 6:48 >>]]</td></tr></table>
 
 

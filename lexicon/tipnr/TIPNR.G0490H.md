@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Antioch</span> in Pisidia, a city visited by Paul on his missionary journeys.
 - A location first mentioned at [[Gal.2.11|Act.13.14]]; 
-- only referred to as Antioch<[[G0490H]]> \(<span class='tipnrLangGreek'>Ἀντιόχεια</span>\).
+- only referred to as Antioch **<big>[[G0490|Ἀντιόχεια]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=38.31643056393041,31.17948683048973&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The events in Antioch in Pisidia demonstrate the mixed response to the gospel me
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Antioch | [<span class='tipnrLangGreek'>Ἀντιόχεια</span>](G0490H) <small>*Greek*</small> | 4x | [[Act.13.14] ... [2Ti.3.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antioch\*\|reference=Act.13.14;Act.14.19;Act.14.21;2Ti.3.11) |
-All Strong's for **Antioch**: \[[[G0490H]]\]
+| Antioch | [<span class='tipnrLangGreek'>Ἀντιόχεια</span>](G0490H) | 4x | [[Act.13.14] ... [2Ti.3.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Antioch\*\|reference=Act.13.14;Act.14.19;Act.14.21;2Ti.3.11) |
+All entries for **Antioch**:  **<big>[[G0490|Ἀντιόχεια]]</big>**

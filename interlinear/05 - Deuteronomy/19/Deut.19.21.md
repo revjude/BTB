@@ -10,21 +10,21 @@ You must show no pity: life for life, eye for eye, tooth for tooth, hand for han
 > $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will look with pity  | <span class="ashebrew"><big>תָח֖וֹס </big></span><small><small><sup>[[H2347]]</sup></small></small> &#8207;| ta.Chos <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eye your  | <span class="ashebrew"><big>עֵינֶ֑ </big></span><small><small><sup>[[H5869A]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'ei.Ne. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life  | <span class="ashebrew"><big>נֶ֣פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for life  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נֶ֗פֶשׁ </big></span><small><small><sup>[[H5315H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eye  | <span class="ashebrew"><big>עַ֤יִן </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for eye  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַ֙יִן֙ </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'A.yin <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tooth  | <span class="ashebrew"><big>שֵׁ֣ן </big></span><small><small><sup>[[H8127G]]</sup></small></small> &#8207;| shen <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for tooth  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֔ן </big></span><small><small><sup>[[H8127G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Shen <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hand  | <span class="ashebrew"><big>יָ֥ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| yad <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for hand  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָ֖ד </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Yad <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foot  | <span class="ashebrew"><big>רֶ֥גֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> &#8207;| Re.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for foot  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רָֽגֶל </big></span><small><small><sup>[[H7272]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ra.gel <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will look with pity  |**<big>&#8207;[[H2347\|תָח֖וֹס]]&#8207; </big>**| ta.Chos<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye your  |**<big>&#8207;[[H5869A\|עֵינֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life  |**<big>&#8207;[[H5315H\|נֶ֣פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for life  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5315H\|נֶ֗פֶשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye  |**<big>&#8207;[[H5869A\|עַ֤יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for eye  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869A\|עַ֙יִן֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tooth  |**<big>&#8207;[[H8127G\|שֵׁ֣ן]]&#8207; </big>**| shen<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for tooth  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8127G\|שֵׁ֔ן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shen<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand  |**<big>&#8207;[[H3027G\|יָ֥ד]]&#8207; </big>**| yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for hand  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָ֖ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foot  |**<big>&#8207;[[H7272\|רֶ֥גֶל]]&#8207; </big>**| Re.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for foot  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7272\|רָֽגֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.20|<< Deuteronomy 19:20]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.1|Deuteronomy 20:1 >>]]</td></tr></table>
 
 

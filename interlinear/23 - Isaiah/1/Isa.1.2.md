@@ -10,21 +10,21 @@ Listen, O heavens, and give ear, O earth, for the LORD has spoken: “I have rai
 > $\quad$ referenced by: [[Acts.13.17|Acts 13:17]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| hear  | <span class="ashebrew"><big>שִׁמְע֤וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| shim.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O heavens  | <span class="ashebrew"><big>שָׁמַ֙יִם֙ </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and give ear  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַאֲזִ֣ינִי </big></span><small><small><sup>[[H0238]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ha.'a.Zi.ni <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O earth  | <span class="ashebrew"><big>אֶ֔רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has spoken  | <span class="ashebrew"><big>דִּבֵּ֑ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| di.Ber <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| children  | <span class="ashebrew"><big>בָּנִים֙ </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| ba.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have brought up  | <span class="ashebrew"><big>גִּדַּ֣לְתִּי </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| gi.Dal.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I have raised  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רוֹמַ֔מְתִּי </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ro.Mam.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֵ֖ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have rebelled  | <span class="ashebrew"><big>פָּ֥שְׁעוּ </big></span><small><small><sup>[[H6586]]</sup></small></small> &#8207;| Pa.she.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against me  | <span class="ashebrew"><big>בִֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| V <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hear  |**<big>&#8207;[[H8085G\|שִׁמְע֤וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O heavens  |**<big>&#8207;[[H8064\|שָׁמַ֙יִם֙]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and give ear  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0238\|הַאֲזִ֣ינִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.'a.Zi.ni<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O earth  |**<big>&#8207;[[H0776G\|אֶ֔רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spoken  |**<big>&#8207;[[H1696G\|דִּבֵּ֑ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children  |**<big>&#8207;[[H1121A\|בָּנִים֙]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have brought up  |**<big>&#8207;[[H1431\|גִּדַּ֣לְתִּי]]&#8207; </big>**| gi.Dal.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have raised  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7311A\|רוֹמַ֔מְתִּי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.Mam.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have rebelled  |**<big>&#8207;[[H6586\|פָּ֥שְׁעוּ]]&#8207; </big>**| Pa.she.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against me  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| V<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.1|<< Isaiah 1:1]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.3|Isaiah 1:3 >>]]</td></tr></table>
 
 

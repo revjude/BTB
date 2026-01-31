@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כִּי‎</span></big> **kîy** <small>*(kee)*</small> ==**for**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
+**<big><span class="ashebrew">‎כִּי‎</span></big>** **kîy** <small>*(kee)*</small> ==**for**==  <sup><small>[[TEHMC#H:Conj|H:Conj]]</small></sup> 
 <small>a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent</small>
 
 $\quad$ and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet.
@@ -22,4 +22,4 @@ $\quad$ **1k)** but if
 $\quad$ **1l)** for though
 $\quad$ **1m)** forasmuch as, for therefore
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δικαίως</span><sup><small>[[G1346]]</small></sup> · <span class="asgreek">οὗτος</span><sup><small>[[G3778]]</small></sup> · <span class="asgreek">πλήν</span><sup><small>[[G4133]]</small></sup>
+<small>See Greek: </small>**<big>[[G1346|δικαίως]]</big>** · **<big>[[G3778|οὗτος]]</big>** · **<big>[[G4133|πλήν]]</big>**

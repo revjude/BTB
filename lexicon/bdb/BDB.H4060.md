@@ -1,4 +1,4 @@
-<small>Also see: [[H4067]]</small>
+<small>Also see: **<big>[[H4067|מָדוֹן]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎מִדָּה‎</span> **noun feminine** ==measure, measurement, stature, size, garment== (mostly late) — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Exod.26.2|Exod 26:2]] + 35 t.; construct <span class="bdbLangHebrew">‎מִדַּת‎</span> [[Ezek.40.21|Ezek 40:21]] + 2 t.; plural <span class="bdbLangHebrew">‎מִדּוֺת‎</span> [[Ezek.41.17|Ezek 41:17]] + 12 t.; <span class="bdbLangHebrew">‎מִדּוֺתָיו‎</span> [[Ps.133.2|Ps 133:2]] <span class="bdbLangHebrew">‎מִדּוֺתֶיהָ‎</span> [[Ezek.48.16|Ezek 48:16]] — 
 

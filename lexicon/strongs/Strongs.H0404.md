@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָכַף‎</span></big> **ʼâkaph** <small>*(aw-kaf')*</small> ==**to crave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָכַף‎</span></big>** **ʼâkaph** <small>*(aw-kaf')*</small> ==**to crave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root; apparently meaning to curve (as with a burden)</small>
 
 $\quad$ crave.

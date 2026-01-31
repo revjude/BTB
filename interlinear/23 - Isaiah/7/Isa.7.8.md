@@ -6,22 +6,22 @@ For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.7|<< Isaiah 7:7]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.9|Isaiah 7:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] head of  | <span class="ashebrew"><big>רֹ֤אשׁ </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aram  | <span class="ashebrew"><big>אֲרָם֙ </big></span><small><small><sup>[[H0758I]]</sup></small></small> &#8207;| 'a.Ram <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Damascus  | <span class="ashebrew"><big>דַּמֶּ֔שֶׂק </big></span><small><small><sup>[[H1834]]</sup></small></small> &#8207;| da.Me.sek <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] [the] head of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רֹ֥אשׁ </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Rosh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Damascus  | <span class="ashebrew"><big>דַּמֶּ֖שֶׂק </big></span><small><small><sup>[[H1834]]</sup></small></small> &#8207;| da.Me.sek <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rezin  | <span class="ashebrew"><big>רְצִ֑ין </big></span><small><small><sup>[[H7526G]]</sup></small></small> &#8207;| re.Tzin <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in yet  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ע֗וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֤ים </big></span><small><small><sup>[[H8346]]</sup></small></small> &#8207;| shi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חָמֵשׁ֙ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.Mesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֔ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be shattered  | <span class="ashebrew"><big>יֵחַ֥ת </big></span><small><small><sup>[[H2865]]</sup></small></small> &#8207;| ye.Chat <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֖יִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a people  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עָֽם </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] head of  |**<big>&#8207;[[H7218H\|רֹ֤אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  |**<big>&#8207;[[H0758I\|אֲרָם֙]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Damascus  |**<big>&#8207;[[H1834\|דַּמֶּ֔שֶׂק]]&#8207; </big>**| da.Me.sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] [the] head of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7218H\|רֹ֥אשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Damascus  |**<big>&#8207;[[H1834\|דַּמֶּ֖שֶׂק]]&#8207; </big>**| da.Me.sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rezin  |**<big>&#8207;[[H7526G\|רְצִ֑ין]]&#8207; </big>**| re.Tzin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in yet  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5750\|ע֗וֹד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  |**<big>&#8207;[[H8346\|שִׁשִּׁ֤ים]]&#8207; </big>**| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2568\|חָמֵשׁ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֔ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be shattered  |**<big>&#8207;[[H2865\|יֵחַ֥ת]]&#8207; </big>**| ye.Chat<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a people  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.7|<< Isaiah 7:7]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.9|Isaiah 7:9 >>]]</td></tr></table>
 
 

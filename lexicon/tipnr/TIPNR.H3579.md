@@ -4,8 +4,8 @@ Woman living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Cozbi</span>, a Midianite woman, was killed along with an Israelite man for their immorality. \([[Num.25.15|Num.25.15]],18\)
 - A woman living at the time of Egypt and Wilderness, first mentioned at [[Num.25.15|Num.25.15]]; 
-- only referred to as Cozbi<[[H3579]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
-- a daughter of Zur<[[H6698G]]>.
+- only referred to as Cozbi **<big>[[H3579|כֹּזְבִי]]</big>**; 
+- a daughter of Zur **<big>[[H6698|צוּר]]</big>**.
 
 Cozbi was a Midianite woman, the daughter of Zur, a tribal head in Midian. During Israel's stay in Shittim, Cozbi engaged in sexual immorality with Zimri, an Israelite man from the tribe of Simeon. This act of defiance against God's commands occurred in the sight of Moses and the entire congregation of Israel, who were weeping at the entrance of the Tent of Meeting due to a plague that had broken out as a result of the people's immorality and idolatry. 
 
@@ -15,7 +15,7 @@ Cozbi's name is mentioned again in [[Num.25.18|Numbers 25:18]], where God instru
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cozbi (NIV= Kozbi) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>י</span>](H3579) <small>*Hebrew*</small> | 2x | [[Num.25.15] & [Num.25.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cozbi\*\|reference=Num.25.15;Num.25.18) |
-All Strong's for **Cozbi**: \[[[H3579]]\]
+| Cozbi (NIV= Kozbi) | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>י</span>](H3579) | 2x | [[Num.25.15] & [Num.25.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cozbi\*\|reference=Num.25.15;Num.25.18) |
+All entries for **Cozbi**:  **<big>[[H3579|כֹּזְבִי]]</big>**
 #### Related Profiles:
 - **[Zur](H6698G)** (father)

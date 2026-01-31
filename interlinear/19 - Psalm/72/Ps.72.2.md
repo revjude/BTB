@@ -10,13 +10,13 @@ May he judge Your people with righteousness and Your afflicted with justice.
 > $\quad$ referenced by: [[Rev.19.11|Rev 19:11]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he will judge  | <span class="ashebrew"><big>יָדִ֣ין </big></span><small><small><sup>[[H1777]]</sup></small></small> &#8207;| ya.Din <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people your  | <span class="ashebrew"><big>עַמְּ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'a.me. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with righteousness  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צֶ֑דֶק </big></span><small><small><sup>[[H6664G]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Tze.dek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and poor [people] your  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֲנִיֶּ֥י </big></span><small><small><sup>[[H6041]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.ni.Yei. <small><sup>[[HAampc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with justice  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּֽט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will judge  |**<big>&#8207;[[H1777\|יָדִ֣ין]]&#8207; </big>**| ya.Din<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with righteousness  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6664G\|צֶ֑דֶק]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and poor [people] your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6041\|עֲנִיֶּ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ni.Yei.<small><sup>[[HAampc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with justice  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.1|<< Psalms 72:1]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.3|Psalms 72:3 >>]]</td></tr></table>
 
 

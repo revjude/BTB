@@ -6,15 +6,15 @@ From the brightness of His presence His clouds advanced—hailstones and coals o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.11|<< Psalms 18:11]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.13|Psalms 18:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from [the] brightness  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>נֹּ֗גַהּ </big></span><small><small><sup>[[H5051]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> No.gah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| before him  | <span class="ashebrew"><big>נֶ֫גְדּ֥ </big></span><small><small><sup>[[H5048]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| neg.D <small><sup>[[HAcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dark clouds his  | <span class="ashebrew"><big>עָבָ֥י </big></span><small><small><sup>[[H5645]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.Va <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they passed on  | <span class="ashebrew"><big>עָבְר֑וּ </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.ve.Ru <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hail  | <span class="ashebrew"><big>בָּ֝רָ֗ד </big></span><small><small><sup>[[H1259]]</sup></small></small> &#8207;| ba.Rad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and coals of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַֽחֲלֵי </big></span><small><small><sup>[[H1513]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ga.cha.lei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fire  | <span class="ashebrew"><big>אֵֽשׁ </big></span><small><small><sup>[[H0784]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'Esh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] brightness  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5051\|נֹּ֗גַהּ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> No.gah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before him  |**<big>&#8207;[[H5048\|נֶ֫גְדּ֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| neg.D<small><sup>[[HAcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dark clouds his  |**<big>&#8207;[[H5645\|עָבָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Va<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they passed on  |**<big>&#8207;[[H5674A\|עָבְר֑וּ]]&#8207; </big>**| 'a.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hail  |**<big>&#8207;[[H1259\|בָּ֝רָ֗ד]]&#8207; </big>**| ba.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and coals of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1513\|גַֽחֲלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.cha.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  |**<big>&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.11|<< Psalms 18:11]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.13|Psalms 18:13 >>]]</td></tr></table>
 
 

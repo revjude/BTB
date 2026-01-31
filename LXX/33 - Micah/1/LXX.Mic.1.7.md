@@ -7,36 +7,36 @@ And all the graven images thereof shall be beaten to pieces, and all the hires t
 All her carved images will be smashed to pieces; all her wages will be burned in the fire, and I will destroy all her idols. Since she collected the wages of a prostitute, they will be used again on a prostitute.<small><sub>**MT:**</sub></small>
 [[Mic.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.6|<< Micah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.8|Micah 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her carved \[images\] | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will cut in pieces, | <big><span class="asgreek">κατακόψουσι</span></big> <sup><small><small>[[G2629]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hires | <big><span class="asgreek">μισθώματα</span></big> <sup><small><small>[[G3410]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall burn | <big><span class="asgreek">εμπρήσουσιν</span></big> <sup><small><small>[[G1714]]</small></small></sup> |
-| in fire, | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall establish | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| extinction, | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hires | <big><span class="asgreek">μισθωμάτων</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
-| of harlotry | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G4202]]</small></small></sup> |
-| she gathered together | <big><span class="asgreek">συνήγαγε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hires | <big><span class="asgreek">μισθωμάτων</span></big> <sup><small><small>[[G3410]]</small></small></sup> |
-| of harlotry | <big><span class="asgreek">πόρνης</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| he eradicated. | <big><span class="asgreek">κατέστρεψεν</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her carved \[images\] | **<big>[[G6745\|γλυπτά]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| I will cut in pieces, | **<big>[[G2629\|κατακόψουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her hires | **<big>[[G3410\|μισθώματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| shall burn | **<big>[[G1714\|εμπρήσουσιν]]</big>** |
+| in fire, | **<big>[[G4442\|πυρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her idols | **<big>[[G1497\|είδωλα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| I shall establish | **<big>[[G5087\|θήσομαι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| extinction, | **<big>[[G0854\|αφανισμόν]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hires | **<big>[[G3410\|μισθωμάτων]]</big>** |
+| of harlotry | **<big>[[G4202\|πορνείας]]</big>** |
+| she gathered together | **<big>[[G4863\|συνήγαγε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hires | **<big>[[G3410\|μισθωμάτων]]</big>** |
+| of harlotry | **<big>[[G4204\|πόρνης]]</big>** |
+| he eradicated. | **<big>[[G2690\|κατέστρεψεν]]</big>** |
 [[Mic.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.6|<< Micah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.8|Micah 1:8 >>]]</td></tr></table>
 
 

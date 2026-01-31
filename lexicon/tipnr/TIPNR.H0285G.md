@@ -4,10 +4,10 @@ High Priest living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahitub</span> was the father of Ahimelech, the High Priest at Nob who was killed by Saul for aiding David. \([[1Sam.22.9|1Sa.22.9]]-20\)
 - A High Priest living at the time of United Monarchy, first mentioned at [[1Sam.14.3|1Sa.14.3]]; 
-- only referred to as Ahitub<[[H0285G]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>\); 
--  son of Phinehas<[[H6372H]]>; 
-- a brother of Ichabod<[[H0350]]>; 
--  father of Ahimelech<[[H0288G]]>.
+- only referred to as Ahitub **<big>[[H0285|אֲחִיטוּב]]</big>**; 
+-  son of Phinehas **<big>[[H6372|פִּינְחָס]]</big>**; 
+- a brother of Ichabod **<big>[[H0350|אִי־כָבוֹד]]</big>**; 
+-  father of Ahimelech **<big>[[H0288|אֲחִימֶלֶךְ]]</big>**.
 
 Ahitub was the father of Ahimelech, who served as the priest at Nob during the reign of King Saul. Ahitub's other son, Ahijah, also served as a priest and wore an ephod, indicating his priestly role. \([[1Sam.14.3|1Sa.14.3]]\) 
 
@@ -19,8 +19,8 @@ Only Abiathar, Ahimelech's son, escaped the massacre and fled to David, bringing
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahitub | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H0285G) <small>*Hebrew*</small> | 5x | [[1Sa.14.3] ... [1Sa.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahitub\*\|reference=1Sa.14.3;1Sa.22.9;1Sa.22.11;1Sa.22.12;1Sa.22.20) |
-All Strong's for **Ahitub**: \[[[H0285G]]\]
+| Ahitub | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H0285G) | 5x | [[1Sa.14.3] ... [1Sa.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahitub\*\|reference=1Sa.14.3;1Sa.22.9;1Sa.22.11;1Sa.22.12;1Sa.22.20) |
+All entries for **Ahitub**:  **<big>[[H0285|אֲחִיטוּב]]</big>**
 #### Related Profiles:
 - **[Phinehas](H6372H)** (father)
 - **[Ichabod](H0350)** (sibling)

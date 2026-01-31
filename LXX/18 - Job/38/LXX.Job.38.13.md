@@ -7,15 +7,15 @@ That it might take hold of the ends of the earth, that the wicked might be shake
 that it might spread to the ends of the earth and shake the wicked out of it?<small><sub>**MT:**</sub></small>
 [[Job.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.12|<< Job 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.14|Job 38:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to take hold of | <big><span class="asgreek">επιλαβέσθαι</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| \[the\] wings | <big><span class="asgreek">πτερύγων</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
-| of \[the\] earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| to shake off | <big><span class="asgreek">εκτινάξαι</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
-| \[the\] impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to take hold of | **<big>[[G1949\|επιλαβέσθαι]]</big>** |
+| \[the\] wings | **<big>[[G4420\|πτερύγων]]</big>** |
+| of \[the\] earth, | **<big>[[G1093\|γης]]</big>** |
+| to shake off | **<big>[[G1621\|εκτινάξαι]]</big>** |
+| \[the\] impious | **<big>[[G0765\|ασεβείς]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Job.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.12|<< Job 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.14|Job 38:14 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ Remember me, O LORD, with the favour [that thou bearest unto] thy people: O visi
 Remember me, O LORD, in Your favor to Your people; visit me with Your salvation,<small><sub>**MT:**</sub></small>
 [[Ps.106.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.3|<< Psalm 106:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.5|Psalm 106:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| benevolence | <big><span class="asgreek">ευδοκία</span></big> <sup><small><small>[[G2107]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your people! | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Visit | <big><span class="asgreek">επίσκεψαι</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance! | <big><span class="asgreek">σωτηρίω</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Remember | **<big>[[G3403\|μνήσθητι]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| benevolence | **<big>[[G2107\|ευδοκία]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your people! | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Visit | **<big>[[G1980\|επίσκεψαι]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your deliverance! | **<big>[[G4992\|σωτηρίω]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.106.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.3|<< Psalm 106:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.5|Psalm 106:5 >>]]</td></tr></table>
 
 

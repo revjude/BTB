@@ -7,18 +7,18 @@ And over the host of the tribe of the children of Zebulun [was] Eliab the son of
 and Eliab son of Helon was over the division of the tribe of Zebulun.<small><sub>**MT:**</sub></small>
 [[Num.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.15|<< Numbers 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.17|Numbers 10:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| \[was\] Eliab | <big><span class="asgreek">Ελιάβ</span></big> <sup><small><small>[[H0446]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Helon. | <big><span class="asgreek">Χελών</span></big> <sup><small><small>[[H2497]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| of \[the\] tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| \[was\] Eliab | **<big>[[H0446\|Ελιάβ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Helon. | **<big>[[H2497\|Χελών]]</big>** |
 [[Num.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.15|<< Numbers 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.17|Numbers 10:17 >>]]</td></tr></table>
 
 

@@ -4,10 +4,10 @@ Jacob's daughter living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Dinah</span>, the daughter of Jacob and Leah, was raped by Shechem, leading to a violent confrontation between her brothers and the Shechemites. \([[Gen.30.21|Gen.30.21]]; 34.1,3,5,13,25,26; 46.15\)
 - Jacob's daughter living at the time of the Patriarchs, first mentioned at [[Gen.30.21|Gen.30.21]]; 
-- only referred to as Dinah<[[H1783]]> \(<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  daughter of Israel<[[H3478]]> and Leah<[[H3812]]>; 
-- a sister of Reuben<[[H7205]]>, Simeon<[[H8095G]]>, Levi<[[H3878]]>, Judah<[[H3063G]]>, Issachar<[[H3485G]]> and Zebulun<[[H2074]]>; 
--  half-sister of: Dan<[[H1835H]]>, Naphtali<[[H5321G]]>, Gad<[[H1410G]]>, Asher<[[H0836]]>, Joseph<[[H3130G]]> and Benjamin<[[H1144G]]>.
+- only referred to as Dinah **<big>[[H1783|דִּינָה]]</big>**; 
+-  daughter of Israel **<big>[[H3478|יִשְׂרָאֵל]]</big>** and Leah **<big>[[H3812|לֵאָה]]</big>**; 
+- a sister of Reuben **<big>[[H7205|רְאוּבֵן]]</big>**, Simeon **<big>[[H8095|שִׁמְעוֹן]]</big>**, Levi **<big>[[H3878|לֵוִי]]</big>**, Judah **<big>[[H3063|יְהוּדָה]]</big>**, Issachar **<big>[[H3485|יִשָּׂשכָר]]</big>** and Zebulun **<big>[[H2074|זְבוּלוּן]]</big>**; 
+-  half-sister of: Dan **<big>[[H1835|דָּן]]</big>**, Naphtali **<big>[[H5321|נַפְתָּלִי]]</big>**, Gad **<big>[[H1410|גָּד]]</big>**, Asher **<big>[[H0836|אָשֵׁר]]</big>**, Joseph **<big>[[H3130|יוֹסֵף]]</big>** and Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**.
 
 Dinah was the daughter of Israel \(or 'Jacob'\) and Leah, born after six sons \([[Gen.30.21|Genesis 30:21]]\). She is most prominently featured in Genesis 34, which recounts a tragic event that had far-reaching consequences for her family and the inhabitants of Shechem. 
 
@@ -23,8 +23,8 @@ Dinah is later mentioned in the listing of Jacob's descendants who went to Egypt
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dinah | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1783) <small>*Hebrew*</small> | 8x | [[Gen.30.21] ... [Gen.46.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dinah\*\|reference=Gen.30.21;Gen.34.1;Gen.34.3;Gen.34.5;Gen.34.13;Gen.34.25;Gen.34.26;Gen.46.15) |
-All Strong's for **Dinah**: \[[[H1783]]\]
+| Dinah | [<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1783) | 8x | [[Gen.30.21] ... [Gen.46.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dinah\*\|reference=Gen.30.21;Gen.34.1;Gen.34.3;Gen.34.5;Gen.34.13;Gen.34.25;Gen.34.26;Gen.46.15) |
+All entries for **Dinah**:  **<big>[[H1783|דִּינָה]]</big>**
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Leah](H3812)** (mother)

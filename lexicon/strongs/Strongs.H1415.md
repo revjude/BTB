@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּדָה‎</span></big> **gâdâh** <small>*(gaw-daw')*</small> ==**bank**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎גָּדָה‎</span></big>** **gâdâh** <small>*(gaw-daw')*</small> ==**bank**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root (meaning to cut off)</small>
 
 $\quad$ bank.

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Madmannah</span> \(Beth-marcaboth\), a town in the Negev region of Judah \([[Josh.15.31|Joshua 15:31]]; 19:5; [[1Chr.4.31|1 Chronicles 4:31]]\).
 - A location first mentioned at [[Josh.15.31|Jos.15.31]]; 
-- referred to as Madmannah<[[H4089G]]> \(<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>\), or Beth-marcaboth \(NIV= Beth Markaboth\) <[[H1024]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- referred to as Madmannah **<big>[[H4089|מַדְמַנָּה]]</big>**, or Beth-marcaboth \(NIV= Beth Markaboth\)  **<big>[[H1024|בֵּית הַמַּרְכָּבוֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.391668,34.940502&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Madmannah, also referred to as Beth-marcaboth, was a town located in the Negev r
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Madmannah | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H4089G) <small>*Hebrew*</small> | 1x | [Jos.15.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Madmannah\*\|reference=Jos.15.31) |
-| Beth-marcaboth (NIV= Beth Markaboth) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H1024) <small>*Hebrew*</small> | 2x | [[Jos.19.5] & [1Ch.4.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.5;1Ch.4.31) |
-All Strong's for **Madmannah or Beth-marcaboth**: \[[[H4089G]]\] \[[[H1024]]\]
+| Madmannah | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H4089G) | 1x | [Jos.15.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Madmannah\*\|reference=Jos.15.31) |
+| Beth-marcaboth (NIV= Beth Markaboth) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H1024) | 2x | [[Jos.19.5] & [1Ch.4.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jos.19.5;1Ch.4.31) |
+All entries for **Madmannah or Beth-marcaboth**:  **<big>[[H4089|מַדְמַנָּה]]</big>** ☩  **<big>[[H1024|בֵּית הַמַּרְכָּבוֹת]]</big>**

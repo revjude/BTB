@@ -7,31 +7,31 @@ Therefore hath the curse devoured the earth, and they that dwell therein are des
 Therefore a curse has consumed the earth, and its inhabitants must bear the guilt; the earth’s dwellers have been burned, and only a few survive.<small><sub>**MT:**</sub></small>
 [[Isa.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.5|<< Isaiah 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.7|Isaiah 24:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Therefore | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| curse | <big><span class="asgreek">αρά</span></big> <sup><small><small>[[G0685]]</small></small></sup> |
-| shall devour | <big><span class="asgreek">έδεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| sinned | <big><span class="asgreek">ημάρτοσαν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| on it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| will be poor | <big><span class="asgreek">πτωχοί</span></big> <sup><small><small>[[G4434]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">ενοικούντες</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be left behind | <big><span class="asgreek">καταλειφθήσονται</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| a few | <big><span class="asgreek">ολίγοι</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| Therefore | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| curse | **<big>[[G0685\|αρά]]</big>** |
+| shall devour | **<big>[[G2068\|έδεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth; | **<big>[[G1093\|γην]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| sinned | **<big>[[G0264\|ημάρτοσαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| on it | **<big>[[G1473\|αυτήν]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| will be poor | **<big>[[G4434\|πτωχοί]]</big>** **<big>[[G1510\|έσονται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G1774\|ενοικούντες]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be left behind | **<big>[[G2641\|καταλειφθήσονται]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| a few | **<big>[[G3641\|ολίγοι]]</big>** |
 [[Isa.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.5|<< Isaiah 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.7|Isaiah 24:7 >>]]</td></tr></table>
 
 

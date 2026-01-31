@@ -6,15 +6,15 @@ Let Reuben live and not die, nor his men be few.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.5|<< Deuteronomy 33:5]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.7|Deuteronomy 33:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| let him live  | <span class="ashebrew"><big>יְחִ֥י </big></span><small><small><sup>[[H2421]]</sup></small></small> &#8207;| ye.Chi <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Reuben  | <span class="ashebrew"><big>רְאוּבֵ֖ן </big></span><small><small><sup>[[H7205]]</sup></small></small> &#8207;| re.'u.Ven <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and may not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he die  | <span class="ashebrew"><big>יָמֹ֑ת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| ya.Mot <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and let it be  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהִ֥י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> Hi <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| men his  | <span class="ashebrew"><big>מְתָ֖י </big></span><small><small><sup>[[H4962]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| me.Ta <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| number  | <span class="ashebrew"><big>מִסְפָּֽר </big></span><small><small><sup>[[H4557]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| mis.Par <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let him live  |**<big>&#8207;[[H2421\|יְחִ֥י]]&#8207; </big>**| ye.Chi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵ֖ן]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he die  |**<big>&#8207;[[H4191\|יָמֹ֑ת]]&#8207; </big>**| ya.Mot<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let it be  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H1961\|יהִ֥י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men his  |**<big>&#8207;[[H4962\|מְתָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| me.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| number  |**<big>&#8207;[[H4557\|מִסְפָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.5|<< Deuteronomy 33:5]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.7|Deuteronomy 33:7 >>]]</td></tr></table>
 
 

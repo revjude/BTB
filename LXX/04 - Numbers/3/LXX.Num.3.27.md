@@ -7,37 +7,37 @@ And of Kohath [was] the family of the Amramites, and the family of the Izeharite
 From Kohath came the clans of the Amramites, the Izharites, the Hebronites, and the Uzzielites; these were the clans of the Kohathites.<small><sub>**MT:**</sub></small>
 [[Num.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.26|<< Numbers 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.28|Numbers 3:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[To\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kohath \[was\] | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
-| \[division of\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Amram | <big><span class="asgreek">Αμράμ</span></big> <sup><small><small>[[H6019]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[division of\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Izehar | <big><span class="asgreek">Ισαάρ</span></big> <sup><small><small>[[H3324]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[division of\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Hebron | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[division of\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for Uzziel | <big><span class="asgreek">Οζιήλ</span></big> <sup><small><small>[[H5816]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| These | <big><span class="asgreek">ούτοί</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">δήμοι</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Kohath | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6956]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| number. | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| \[To\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Kohath \[was\] | **<big>[[H6955\|Καάθ]]</big>** |
+| \[division of\] people | **<big>[[G1218\|δήμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| for Amram | **<big>[[H6019\|Αμράμ]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[division of\] people | **<big>[[G1218\|δήμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| for Izehar | **<big>[[H3324\|Ισαάρ]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[division of\] people | **<big>[[G1218\|δήμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| for Hebron | **<big>[[H2275b\|Χεβρών]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[division of\] people | **<big>[[G1218\|δήμος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| for Uzziel | **<big>[[H5816\|Οζιήλ]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| These | **<big>[[G3778\|ούτοί]]</big>** |
+| are | **<big>[[G1510\|εισιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples | **<big>[[G1218\|δήμοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Kohath | **<big>[[H6956\|Καάθ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| number. | **<big>[[G0706\|αριθμόν]]</big>** |
 [[Num.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.26|<< Numbers 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.28|Numbers 3:28 >>]]</td></tr></table>
 
 

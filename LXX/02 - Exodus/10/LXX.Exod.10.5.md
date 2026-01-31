@@ -7,43 +7,43 @@ And they shall cover the face of the earth, that one cannot be able to see the e
 They will cover the face of the land so that no one can see it. They will devour whatever is left after the hail and eat every tree that grows in your fields.<small><sub>**MT:**</sub></small>
 [[Exod.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.4|<< Exodus 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.6|Exodus 10:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be covered | <big><span class="asgreek">καλύψει</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψιν</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to look down | <big><span class="asgreek">κατιδείν</span></big> <sup><small><small>[[G7962]]</small></small></sup> |
-| \[at\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be eaten up | <big><span class="asgreek">κατέδεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| extra | <big><span class="asgreek">περισσόν</span></big> <sup><small><small>[[G4053]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">καταλειφθέν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| left behind | <big><span class="asgreek">κατέλιπεν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| for you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hail | <big><span class="asgreek">χάλαζα</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be eaten up | <big><span class="asgreek">κατέδεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| germinating | <big><span class="asgreek">φυόμενον</span></big> <sup><small><small>[[G5453]]</small></small></sup> |
-| of yours | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be covered | **<big>[[G2572\|καλύψει]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| appearance | **<big>[[G3799\|όψιν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήση]]</big>** |
+| to look down | **<big>[[G7962\|κατιδείν]]</big>** |
+| \[at\] the | **<big>[[G3588\|την]]</big>** |
+| ground, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be eaten up | **<big>[[G2719\|κατέδεται]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| extra | **<big>[[G4053\|περισσόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being left behind | **<big>[[G2641\|καταλειφθέν]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| left behind | **<big>[[G2641\|κατέλιπεν]]</big>** |
+| for you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hail | **<big>[[G5464\|χάλαζα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be eaten up | **<big>[[G2719\|κατέδεται]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| germinating | **<big>[[G5453\|φυόμενον]]</big>** |
+| of yours | **<big>[[G1473\|υμίν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
 [[Exod.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.4|<< Exodus 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.6|Exodus 10:6 >>]]</td></tr></table>
 
 

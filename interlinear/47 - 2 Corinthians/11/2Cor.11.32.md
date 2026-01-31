@@ -6,23 +6,23 @@ In Damascus, the governor under King Aretas secured the city of the Damascenes i
 <small><sub>**Literal:**</sub></small>
 In Damascus the governor under Aretas the king was guarding the city of the Damascenes to seize me wishing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.31|<< 2 Corinthians 11:31]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.33|2 Corinthians 11:33 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| In |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Damascus |<big><span class="asgreek">Δαμασκῷ</span></big> <small><small><sup>[[G1154]]</sup></small></small> |Damaskō <small><sup>[[N-DSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| governor |<big><span class="asgreek">ἐθνάρχης</span></big> <small><small><sup>[[G1481]]</sup></small></small> |ethnarchēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| under Aretas |<big><span class="asgreek">Ἁρέτα</span></big> <small><small><sup>[[G0702]]</sup></small></small> [^1] |Hareta <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| king |<big><span class="asgreek">βασιλέως</span></big> <small><small><sup>[[G0935]]</sup></small></small> |basileōs <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was guarding |<big><span class="asgreek">ἐφρούρει</span></big> <small><small><sup>[[G5432]]</sup></small></small> |ephrourei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| city |<big><span class="asgreek">πόλιν</span></big> <small><small><sup>[[G4172]]</sup></small></small> |polin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| of the Damascenes |<big><span class="asgreek">Δαμασκηνῶν</span></big> <small><small><sup>[[G1153]]</sup></small></small> |Damaskēnōn <small><sup>[[A-GPM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to seize |<big><span class="asgreek">πιάσαι</span></big> <small><small><sup>[[G4084]]</sup></small></small> |piasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| me |<big><span class="asgreek">με</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wishing [^2] |<big><span class="asgreek">θέλων,</span></big> <small><small><sup>[[G2309]]</sup></small></small> |thelōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="Tyn+TR+Byz">KO</abbr> | |
+| In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Damascus |**<big>[[G1154\|Δαμασκῷ]]</big>**  |Damaskō <small><sup>[[N-DSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| governor |**<big>[[G1481\|ἐθνάρχης]]</big>**  |ethnarchēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| under Aretas |**<big>[[G0702\|Ἁρέτα]]</big>**  [^1] |Hareta <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| king |**<big>[[G0935\|βασιλέως]]</big>**  |basileōs <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was guarding |**<big>[[G5432\|ἐφρούρει]]</big>**  |ephrourei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| city |**<big>[[G4172\|πόλιν]]</big>**  |polin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| of the Damascenes |**<big>[[G1153\|Δαμασκηνῶν]]</big>**  |Damaskēnōn <small><sup>[[A-GPM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to seize |**<big>[[G4084\|πιάσαι]]</big>**  |piasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| me |**<big>[[G3165\|με]]</big>**  |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wishing [^2] |**<big>[[G2309\|θέλων,]]</big>**  |thelōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="Tyn+TR+Byz">KO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.31|<< 2 Corinthians 11:31]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.33|2 Corinthians 11:33 >>]]</td></tr></table>
 
-[^1]: ==Tyn== spelled: <span class='asgreek'>**Ἀρέτα**</span>
-[^2]: Extra Text:  <span class='asgreek'>**θέλων**</span>,  (<i>thelōn</i>) 'wishing' is only in traditional manuscripts (Tyn+TR+Byz)
+[^1]: ==Tyn== spelled: **<big><span class='asgreek'>Ἀρέτα</span></big>**
+[^2]: Extra Text:  **<big><span class='asgreek'>θέλων</span></big>**,  (<i>thelōn</i>) 'wishing' is only in traditional manuscripts (Tyn+TR+Byz)

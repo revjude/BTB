@@ -4,9 +4,9 @@ Woman living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Keziah</span> was the name of Job's second daughter, born to him after God restored his fortunes.
 - A woman living at the time of the Patriarchs, only mentioned at [[Job.42.14|Job.42.14]]; 
-- only referred to as Keziah<[[H7103]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  daughter of Job<[[H0347]]>; 
-- a sister of Jemimah<[[H3224]]>, Keren-happuch<[[H7163]]>.
+- only referred to as Keziah **<big>[[H7103|קְצִיעָה]]</big>**; 
+-  daughter of Job **<big>[[H0347|אִיּוֹב]]</big>**; 
+- a sister of Jemimah **<big>[[H3224|יְמִימָה]]</big>**, Keren-happuch **<big>[[H7163|קֶרֶן הַפּוּךְ]]</big>**.
 
 Keziah is mentioned in [[Job.42.14|Job 42:14]] as the name of Job's second daughter, born to him after God restored his fortunes. The name Keziah means "cassia," which is a fragrant spice. 
 
@@ -18,8 +18,8 @@ The mention of Keziah and her sisters highlights the completeness of Job's resto
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Keziah (KJV= Kezia) | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7103) <small>*Hebrew*</small> | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keziah\*\|reference=Job.42.14) |
-All Strong's for **Keziah**: \[[[H7103]]\]
+| Keziah (KJV= Kezia) | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7103) | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keziah\*\|reference=Job.42.14) |
+All entries for **Keziah**:  **<big>[[H7103|קְצִיעָה]]</big>**
 #### Related Profiles:
 - **[Job](H0347)** (father)
 - **[Jemimah](H3224)** (sibling)

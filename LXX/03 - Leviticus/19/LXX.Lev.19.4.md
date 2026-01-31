@@ -7,21 +7,21 @@ Turn ye not unto idols, nor make to yourselves molten gods: I [am] the LORD your
 Do not turn to idols or make for yourselves molten gods. I am the LORD your God.<small><sub>**MT:**</sub></small>
 [[Lev.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.3|<< Leviticus 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.5|Leviticus 19:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| follow after | <big><span class="asgreek">επακολουθήσετε</span></big> <sup><small><small>[[G1872]]</small></small></sup> |
-| idols, | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| molten | <big><span class="asgreek">χωνευτούς</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| make | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to yourselves | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| follow after | **<big>[[G1872\|επακολουθήσετε]]</big>** |
+| idols, | **<big>[[G1497\|ειδώλοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gods | **<big>[[G2316\|θεούς]]</big>** |
+| molten | **<big>[[G9778\|χωνευτούς]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| make | **<big>[[G4160\|ποιήσετε]]</big>** |
+| to yourselves | **<big>[[G1473\|υμίν]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.3|<< Leviticus 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.5|Leviticus 19:5 >>]]</td></tr></table>
 
 

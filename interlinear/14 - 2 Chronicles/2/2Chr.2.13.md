@@ -6,16 +6,16 @@ So now I am sending you Huram-abi, a skillful man endowed with creativity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.12|<< 2 Chronicles 2:12]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.14|2 Chronicles 2:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and now  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַתָּ֗ה </big></span><small><small><sup>[[H6258]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Tah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I send  | <span class="ashebrew"><big>שָׁלַ֧חְתִּי </big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| sha.Lach.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a man  | <span class="ashebrew"><big>אִישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ish- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wise  | <span class="ashebrew"><big>חָכָ֛ם </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.Kham <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] knows  | <span class="ashebrew"><big>יוֹדֵ֥עַ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| yo.De.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| understanding  | <span class="ashebrew"><big>בִּינָ֖ה </big></span><small><small><sup>[[H0998]]</sup></small></small> &#8207;| bi.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Huram  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חוּרָ֥ם </big></span><small><small><sup>[[H2361I]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> chu.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abi  | <span class="ashebrew"><big>אָבִֽי </big></span><small><small><sup>[[H0001H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I send  |**<big>&#8207;[[H7971G\|שָׁלַ֧חְתִּי]]&#8207; </big>**| sha.Lach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  |**<big>&#8207;[[H0376G\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise  |**<big>&#8207;[[H2450\|חָכָ֛ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] knows  |**<big>&#8207;[[H3045\|יוֹדֵ֥עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| understanding  |**<big>&#8207;[[H0998\|בִּינָ֖ה]]&#8207; </big>**| bi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Huram  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2361I\|חוּרָ֥ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> chu.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abi  |**<big>&#8207;[[H0001H\|אָבִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.12|<< 2 Chronicles 2:12]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.14|2 Chronicles 2:14 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַהֲרוֹן‎</span></big> **ʼAhărôwn** <small>*(a-har-one')*</small> ==**Aaron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אַהֲרוֹן‎</span></big>** **ʼAhărôwn** <small>*(a-har-one')*</small> ==**Aaron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Aaron.
@@ -7,4 +7,4 @@ $\quad$ Aaron.
 
 **1)** brother of Moses, a Levite and the first high priest
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀαρών</span><sup><small>[[G0002]]</small></sup>
+<small>See Greek: </small>**<big>[[G0002|Ἀαρών]]</big>**

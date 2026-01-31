@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H6928]]</small>
+<small>Aramaic form: **<big>[[H6928|קַדְמָה]]</big>**</small>
  [<span class="bdbLangHebrew">‎קַדְמָה‎</span>] **noun feminine** ==antiquity, former state==; — 
 
 **1.** ***antiquity, beginning***, suffix <span class="bdbLangHebrew">‎קַדְמָתָהּ‎</span> [[Isa.23.7|Isa 23:7]] (of Tyre). 

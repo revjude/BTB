@@ -6,15 +6,15 @@ The curse of the LORD is on the house of the wicked, but He blesses the home of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.32|<< Proverbs 3:32]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.34|Proverbs 3:34 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] curse of  | <span class="ashebrew"><big>מְאֵרַ֣ת </big></span><small><small><sup>[[H3994]]</sup></small></small> &#8207;| me.'e.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on [the] house of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בֵ֣ית </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Veit <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wicked  | <span class="ashebrew"><big>רָשָׁ֑ע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] habitation of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְוֵ֖ה </big></span><small><small><sup>[[H5116A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.Veh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֣ים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.di.Kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he blesses  | <span class="ashebrew"><big>יְבָרֵֽךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.va.Rekh <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] curse of  |**<big>&#8207;[[H3994\|מְאֵרַ֣ת]]&#8207; </big>**| me.'e.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004B\|בֵ֣ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wicked  |**<big>&#8207;[[H7563\|רָשָׁ֑ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] habitation of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5116A\|נְוֵ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.Veh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֣ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he blesses  |**<big>&#8207;[[H1288\|יְבָרֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.va.Rekh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.32|<< Proverbs 3:32]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.34|Proverbs 3:34 >>]]</td></tr></table>
 
 

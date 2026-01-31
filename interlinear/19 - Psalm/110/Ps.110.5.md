@@ -10,15 +10,15 @@ The Lord is at Your right hand; He will crush kings in the day of His wrath.
 > $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֥י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| right [hand] your  | <span class="ashebrew"><big>יְמִֽינְ </big></span><small><small><sup>[[H3225G]]</sup></small></small> <span class="ashebrew"><big>ךָ֑ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ye.mi.ne. <small><sup>[[HNcfsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he shatters  | <span class="ashebrew"><big>מָחַ֖ץ </big></span><small><small><sup>[[H4272]]</sup></small></small> &#8207;| ma.Chatz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יוֹם </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> yom- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger his  | <span class="ashebrew"><big>אַפּ֣ </big></span><small><small><sup>[[H0639G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| 'a.P <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| kings  | <span class="ashebrew"><big>מְלָכִֽים </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.la.Khim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| right [hand] your  |**<big>&#8207;[[H3225G\|יְמִֽינְ]]&#8207;&#8207;[[H9021\|ךָ֑]]&#8207; </big>**| ye.mi.ne.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he shatters  |**<big>&#8207;[[H4272\|מָחַ֖ץ]]&#8207; </big>**| ma.Chatz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yom-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger his  |**<big>&#8207;[[H0639G\|אַפּ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings  |**<big>&#8207;[[H4428G\|מְלָכִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.4|<< Psalms 110:4]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.6|Psalms 110:6 >>]]</td></tr></table>
 
 

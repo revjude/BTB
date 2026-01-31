@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">εἴδωλον</span></span>, <span class="asgreek">-ου, τό</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">εἶδος</span>), </span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">אֱלֹוהָּ</span> <small><sup>[[H0433]]</sup></small>, <span class="ashebrew">גְּלוּלִים</span> <small><sup>[[H1544]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">εἴδωλον</span></span>, <span class="asgreek">-ου, τό</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">εἶδος</span>), </span>  <span class="asseptuagint">\[in LXX for **<big>[[H0433|אֱלֹוהָּ]]</big>**, **<big>[[H1544|גְּלוּלִים]]</big>**, etc. ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> in cl.</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a phantom, image, likeness</span>;</span>

@@ -7,25 +7,25 @@ He shall pour the water out of his buckets, and his seed [shall be] in many wate
 Water will flow from his buckets, and his seed will have abundant water. His king will be greater than Agag, and his kingdom will be exalted.<small><sub>**MT:**</sub></small>
 [[Num.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.6|<< Numbers 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.8|Numbers 24:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| came forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| A man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his seed, | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall dominate | <big><span class="asgreek">κυριεύσει</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλων</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be raised up high | <big><span class="asgreek">υψωθήσεται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gog | <big><span class="asgreek">Γωγ</span></big> <sup><small><small>[[G1136]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be increased | <big><span class="asgreek">αυξηθήσεται</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| came forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| A man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his seed, | **<big>[[G4690\|σπέρματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall dominate | **<big>[[G2961\|κυριεύσει]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| many | **<big>[[G4183\|πολλων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be raised up high | **<big>[[G5312\|υψωθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Gog | **<big>[[G1136\|Γωγ]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be increased | **<big>[[G0837\|αυξηθήσεται]]</big>** |
+| his kingdom | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Num.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.6|<< Numbers 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.8|Numbers 24:8 >>]]</td></tr></table>
 
 

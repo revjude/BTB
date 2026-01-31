@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית חוֹרוֹן‎</span></big> **Bêyth Chôwrôwn** <small>*(bayth kho-rone')*</small> ==**Beth-horon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎חוֹר‎</span><sup><small>[[H2356]]</small></sup>; house of hollowness</small>
+**<big><span class="ashebrew">‎בֵּית חוֹרוֹן‎</span></big>** **Bêyth Chôwrôwn** <small>*(bayth kho-rone')*</small> ==**Beth-horon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H2356|‎חוֹר‎]]</big>**; house of hollowness</small>
 
 $\quad$ Beth-horon.
 - § Beth-horon = *"house of hollowness"*

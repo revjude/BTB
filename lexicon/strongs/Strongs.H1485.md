@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גּוּר־בַּעַל‎</span></big> **Gûwr-Baʻal** <small>*(goor-bah'-al)*</small> ==**Gurbaal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎גּוּר‎</span><sup><small>[[H1481]]</small></sup> and <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1168]]</small></sup>; dwelling of Baal</small>
+**<big><span class="ashebrew">‎גּוּר־בַּעַל‎</span></big>** **Gûwr-Baʻal** <small>*(goor-bah'-al)*</small> ==**Gurbaal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1481|‎גּוּר‎]]</big>** and **<big>[[H1168|‎בַּעַל‎]]</big>**; dwelling of Baal</small>
 
 $\quad$ Gur-baal.
 - § Gur-baal = *"dwelling of Baal"*

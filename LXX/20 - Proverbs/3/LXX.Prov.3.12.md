@@ -11,16 +11,16 @@ for the LORD disciplines the one He loves, as does a father the son in whom he d
 > $\quad$ referenced by: [[Heb.12.5|Heb 12:5-6]] ☩ [[Rev.3.19|Rev 3:19]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> loves | <big><span class="asgreek">αγαπά</span></big> <sup><small><small>[[G0025]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he corrects; | <big><span class="asgreek">παιδεύει</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| and he whips | <big><span class="asgreek">μαστιγοί</span></big> <sup><small><small>[[G3146]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he welcomes. | <big><span class="asgreek">παραδέχεται</span></big> <sup><small><small>[[G3858]]</small></small></sup> |
+| For whom | **<big>[[G3739\|ον]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> loves | **<big>[[G0025\|αγαπά]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| he corrects; | **<big>[[G3811\|παιδεύει]]</big>** |
+| and he whips | **<big>[[G3146\|μαστιγοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| he welcomes. | **<big>[[G3858\|παραδέχεται]]</big>** |
 [[Prov.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.11|<< Proverbs 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.13|Proverbs 3:13 >>]]</td></tr></table>
 
 

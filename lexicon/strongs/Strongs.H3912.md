@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לְטוּשִׁם‎</span></big> **Lᵉṭûwshim** <small>*(let-oo-sheem')*</small> ==**Letushim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>masculine plural of passive participle of <span class="ashebrew">‎לָטַשׁ‎</span><sup><small>[[H3913]]</small></sup>; hammered (i.e. oppressed) ones</small>
+**<big><span class="ashebrew">‎לְטוּשִׁם‎</span></big>** **Lᵉṭûwshim** <small>*(let-oo-sheem')*</small> ==**Letushim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>masculine plural of passive participle of **<big>[[H3913|‎לָטַשׁ‎]]</big>**; hammered (i.e. oppressed) ones</small>
 
 $\quad$ Letushim.
 - § Letushim = *"hammered"*

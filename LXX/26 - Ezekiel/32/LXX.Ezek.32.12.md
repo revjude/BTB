@@ -7,28 +7,28 @@ By the swords of the mighty will I cause thy multitude to fall, the terrible of 
 I will make your hordes fall by the swords of the mighty, the most ruthless of all nations. They will ravage the pride of Egypt and all her multitudes will be destroyed.<small><sub>**MT:**</sub></small>
 [[Ezek.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.11|<< Ezekiel 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.13|Ezekiel 32:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| swords | <big><span class="asgreek">μαχαίραις</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| of giants | <big><span class="asgreek">γιγάντων</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall throw down | <big><span class="asgreek">καταβαλώ</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your strength, | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pestilent ones | <big><span class="asgreek">λοιμοί</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall destroy | <big><span class="asgreek">απολούσι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be broken | <big><span class="asgreek">συντριβήσεται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| With | **<big>[[G1722\|εν]]</big>** |
+| swords | **<big>[[G3162\|μαχαίραις]]</big>** |
+| of giants | **<big>[[G6736\|γιγάντων]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| I shall throw down | **<big>[[G2598\|καταβαλώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your strength, | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| pestilent ones | **<big>[[G3061\|λοιμοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all nations. | **<big>[[G1484\|εθνών]]</big>** **<big>[[G3956\|πάντες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall destroy | **<big>[[G0622\|απολούσι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| insolence | **<big>[[G5196\|ύβριν]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be broken | **<big>[[G4937\|συντριβήσεται]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| her strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.11|<< Ezekiel 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.13|Ezekiel 32:13 >>]]</td></tr></table>
 
 

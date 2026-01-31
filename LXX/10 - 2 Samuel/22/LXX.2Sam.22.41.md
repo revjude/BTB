@@ -7,17 +7,17 @@ Thou hast also given me the necks of mine enemies, that I might destroy them tha
 You have made my enemies retreat before me; I destroyed those who hated me.<small><sub>**MT:**</sub></small>
 [[2Sam.22.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.40|<< 2 Samuel 22:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.42|2 Samuel 22:42 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you gave | <big><span class="asgreek">έδωκάς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] back of the neck | <big><span class="asgreek">αυχένας</span></big> <sup><small><small>[[G6612]]</small></small></sup> |
-| of ones detesting | <big><span class="asgreek">μισούντων</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I trampled | <big><span class="asgreek">κατεπάτησα</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you gave | **<big>[[G1325\|έδωκάς]]</big>** |
+| to me; | **<big>[[G1473\|μοι]]</big>** |
+| \[the\] back of the neck | **<big>[[G6612\|αυχένας]]</big>** |
+| of ones detesting | **<big>[[G3404\|μισούντων]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| I trampled | **<big>[[G2662\|κατεπάτησα]]</big>** |
 [[2Sam.22.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.40|<< 2 Samuel 22:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.42|2 Samuel 22:42 >>]]</td></tr></table>
 
 

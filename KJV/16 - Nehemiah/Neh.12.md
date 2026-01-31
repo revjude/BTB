@@ -47,11 +47,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.12.44|44]]**<span class="
 
 [^13]: [[Neh.12|Neh 12:17]], Miniamin
 
-[^14]: The variation between ***Moadiah***, <span class="asgreek"><span class='asgreek'>ξεςγιδ</span></span> (<span class="ashebrew">‎מוֹעַדְיָה‎</span><sup><small>[[H4153]]</small></sup>), and ***Maadiah***, <span class="asgreek"><span class='asgreek'>ξςγιδ</span> </span> (<span class="ashebrew">‎מַעֲדְיָה‎</span><sup><small>[[H4573]]</small></sup>), merely arises from the elision of <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***; the LXX, however, in [[Neh.12|Neh 12:17]], have <span class="asgreek"><span class='asgreek'>Μααδαι</span></span>. [[Neh.12|Neh 12:17]], Moadiah
+[^14]: The variation between ***Moadiah***, <span class="asgreek"><span class='asgreek'>ξεςγιδ</span></span> ( [[H4153|‎מוֹעַדְיָה‎]] ), and ***Maadiah***, <span class="asgreek"><span class='asgreek'>ξςγιδ</span> </span> ( [[H4573|‎מַעֲדְיָה‎]] ), merely arises from the elision of <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav***; the LXX, however, in [[Neh.12|Neh 12:17]], have <span class="asgreek"><span class='asgreek'>Μααδαι</span></span>. [[Neh.12|Neh 12:17]], Moadiah
 
 [^15]: [[Neh.11|Neh 11:10]]; [[1Chr.9|1Chr 9:10]], Jehoiarib
 
-[^16]: The variation of <span class="asgreek"><span class='asgreek'>ρμε</span></span> (<span class="ashebrew">‎סַלּוּ‎</span><sup><small>[[H5543]]</small></sup>), ***Sallu***, and <span class="asgreek"><span class='asgreek'>ρμι</span></span> (<span class="ashebrew">‎סַלּוּ‎</span><sup><small>[[H5543]]</small></sup>), ***Sallai***, is simply caused by the mutation of <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav*** and <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[Neh.12|Neh 12:20]], Sallai
+[^16]: The variation of <span class="asgreek"><span class='asgreek'>ρμε</span></span> ( [[H5543|‎סַלּוּ‎]] ), ***Sallu***, and <span class="asgreek"><span class='asgreek'>ρμι</span></span> ( [[H5543|‎סַלּוּ‎]] ), ***Sallai***, is simply caused by the mutation of <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav*** and <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[Neh.12|Neh 12:20]], Sallai
 
 [^17]: "The chief of the priests" seem to have been the heads of the courses established by David. [[1Chr.24|1Chr 24:18]]
 

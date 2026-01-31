@@ -1,4 +1,4 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">ἀπο-κυλίω</span></span></span> <span class="asetym">  <span class="asderivation">(v.s. <span class="asref"><span class="asgreek">κυλίω</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.29.3|Ge 29:3]], [[LXX.Gen.29.8|8]], [[LXX.Gen.29.10|10]] (<span class="ashebrew">גּלל</span> <small><sup>[[H1556]]</sup></small>) [[Jdt.13.9|Jth 13:9]]\*;\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">ἀπο-κυλίω</span></span></span> <span class="asetym">  <span class="asderivation">(v.s. <span class="asref"><span class="asgreek">κυλίω</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.29.3|Ge 29:3]], [[LXX.Gen.29.8|8]], [[LXX.Gen.29.10|10]] (**<big>[[H1556|גּלל]]</big>**) [[Jdt.13.9|Jth 13:9]]\*;\]</span> </span>
 <span class="asitalic">to roll away</span>: [[Matt.28.2|Mt 28:2]], [[Mark.16.3|Mk 16:3]], [[Luke.24.2|Lk 24:2]].†
 
 **Abbott-Smith References**

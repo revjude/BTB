@@ -6,20 +6,20 @@ This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.11|<< Genesis 25:11]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.13|Genesis 25:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and these  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֛לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] accounts of  | <span class="ashebrew"><big>תֹּלְדֹ֥ת </big></span><small><small><sup>[[H8435]]</sup></small></small> &#8207;| to.le.Dot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ishmael  | <span class="ashebrew"><big>יִשְׁמָעֵ֖אל </big></span><small><small><sup>[[H3458G]]</sup></small></small> &#8207;| yish.ma.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֑ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she bore  | <span class="ashebrew"><big>יָלְדָ֜ה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| yal.Dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hagar  | <span class="ashebrew"><big>הָגָ֧ר </big></span><small><small><sup>[[H1904]]</sup></small></small> &#8207;| ha.Gar <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Egyptian  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּצְרִ֛ית </big></span><small><small><sup>[[H4713]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mitz.Rit <small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] maidservant of  | <span class="ashebrew"><big>שִׁפְחַ֥ת </big></span><small><small><sup>[[H8198]]</sup></small></small> &#8207;| shif.Chat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sarah  | <span class="ashebrew"><big>שָׂרָ֖ה </big></span><small><small><sup>[[H8283]]</sup></small></small> &#8207;| sa.Rah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Abraham  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אַבְרָהָֽם </big></span><small><small><sup>[[H0085]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] accounts of  |**<big>&#8207;[[H8435\|תֹּלְדֹ֥ת]]&#8207; </big>**| to.le.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishmael  |**<big>&#8207;[[H3458G\|יִשְׁמָעֵ֖אל]]&#8207; </big>**| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֑ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she bore  |**<big>&#8207;[[H3205\|יָלְדָ֜ה]]&#8207; </big>**| yal.Dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hagar  |**<big>&#8207;[[H1904\|הָגָ֧ר]]&#8207; </big>**| ha.Gar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Egyptian  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4713\|מִּצְרִ֛ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Rit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] maidservant of  |**<big>&#8207;[[H8198\|שִׁפְחַ֥ת]]&#8207; </big>**| shif.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֖ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Abraham  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0085\|אַבְרָהָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.11|<< Genesis 25:11]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.13|Genesis 25:13 >>]]</td></tr></table>
 
 

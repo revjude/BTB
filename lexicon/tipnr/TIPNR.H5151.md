@@ -4,7 +4,7 @@ Prophet living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nahum</span>, identified as the Elkoshite, was a prophet of God who delivered a message of judgment against the Assyrian city of Nineveh.
 - A prophet living at the time of Divided Monarchy, only mentioned at [[Luke.3.25|Nam.1.1]]; 
-- only referred to as Nahum<[[H5151]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Nahum **<big>[[H5151|נַחוּם]]</big>**.
 
 Nahum, whose name means "comfort", was a prophet identified as "the Elkoshite" in the opening verse of his prophecy. He received and recorded a divine vision concerning the judgment of Nineveh, the capital city of Assyria. 
 
@@ -14,5 +14,5 @@ Nahum's prophecy provided comfort to Judah, as it announced the coming destructi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahum | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ם</span>](H5151) <small>*Hebrew*</small> | 1x | [Nam.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahum\*\|reference=Nam.1.1) |
-All Strong's for **Nahum**: \[[[H5151]]\]
+| Nahum | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ם</span>](H5151) | 1x | [Nam.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahum\*\|reference=Nam.1.1) |
+All entries for **Nahum**:  **<big>[[H5151|נַחוּם]]</big>**

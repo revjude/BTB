@@ -7,40 +7,40 @@ And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shal
 and at noon you will grope about like a blind man in the darkness. You will not prosper in your ways. Day after day you will be oppressed and plundered, with no one to save you.<small><sub>**MT:**</sub></small>
 [[Deut.28.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.28|<< Deuteronomy 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.30|Deuteronomy 28:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| groping | <big><span class="asgreek">ψηλαφών</span></big> <sup><small><small>[[G5584]]</small></small></sup> |
-| at midday | <big><span class="asgreek">μεσημβρίας</span></big> <sup><small><small>[[G3314]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| one | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| gropes | <big><span class="asgreek">ψηλαφήσαι</span></big> <sup><small><small>[[G5584]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blind | <big><span class="asgreek">τυφλός</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| darkness, | <big><span class="asgreek">σκότει</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| prosper | <big><span class="asgreek">ευοδώσει</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| injured | <big><span class="asgreek">αδικούμενος</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| torn in pieces | <big><span class="asgreek">διαρπαζόμενος</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there\] shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one helping | <big><span class="asgreek">βοηθών</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| groping | **<big>[[G5584\|ψηλαφών]]</big>** |
+| at midday | **<big>[[G3314\|μεσημβρίας]]</big>** |
+| as | **<big>[[G5613\|ωσεί]]</big>** |
+| one | **<big>[[G5100\|τις]]</big>** |
+| gropes | **<big>[[G5584\|ψηλαφήσαι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| blind | **<big>[[G5185\|τυφλός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| darkness, | **<big>[[G4655\|σκότει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will not | **<big>[[G3756\|ουκ]]</big>** |
+| prosper | **<big>[[G2137\|ευοδώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you will be | **<big>[[G1510\|έση]]</big>** |
+| then | **<big>[[G5119\|τότε]]</big>** |
+| injured | **<big>[[G0091\|αδικούμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| torn in pieces | **<big>[[G1283\|διαρπαζόμενος]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[there\] shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one helping | **<big>[[G0997\|βοηθών]]</big>** |
 [[Deut.28.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.28|<< Deuteronomy 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.30|Deuteronomy 28:30 >>]]</td></tr></table>
 
 

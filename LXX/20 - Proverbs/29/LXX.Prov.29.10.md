@@ -7,17 +7,17 @@ The bloodthirsty hate the upright: but the just seek his soul.
 Men of bloodshed hate a blameless man, but the upright care for his life.<small><sub>**MT:**</sub></small>
 [[Prov.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.9|<< Proverbs 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.11|Proverbs 29:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in blood | <big><span class="asgreek">αιμάτων</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \[being\] partners | <big><span class="asgreek">μέτοχοι</span></big> <sup><small><small>[[G3353]]</small></small></sup> |
-| shall detest | <big><span class="asgreek">μισήσουσιν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| \[the\] sacred; | <big><span class="asgreek">όσιον</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
-| but the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| upright | <big><span class="asgreek">ευθείς</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| will seek after | <big><span class="asgreek">εκζητήσουσι</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
-| his soul. | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Men | **<big>[[G0435\|άνδρες]]</big>** |
+| in blood | **<big>[[G0129\|αιμάτων]]</big>** |
+| \[being\] partners | **<big>[[G3353\|μέτοχοι]]</big>** |
+| shall detest | **<big>[[G3404\|μισήσουσιν]]</big>** |
+| \[the\] sacred; | **<big>[[G3741\|όσιον]]</big>** |
+| but the | **<big>[[G3588\|οι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| upright | **<big>[[G2117\|ευθείς]]</big>** |
+| will seek after | **<big>[[G1567\|εκζητήσουσι]]</big>** |
+| his soul. | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.9|<< Proverbs 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.11|Proverbs 29:11 >>]]</td></tr></table>
 
 

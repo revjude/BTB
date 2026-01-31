@@ -1,4 +1,4 @@
-<small>Also see: [[H4918]] | [[H8018]] | [[H4920]]</small>
+<small>Also see: **<big>[[H4918|מְשֻׁלָּם]]</big>** | **<big>[[H8018|שֶׁלֶמְיָה]]</big>** | **<big>[[H4920|מְשֶׁלֶמְיָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שַׁלּוּם‎</span> (less often <span class="bdbLangHebrew">‎שַׁלֻּם‎</span>) **proper name, masculine** <span class="bdbLangGreek">Σελ</span>(<span class="bdbLangGreek">λ</span>)<span class="bdbLangGreek">ουμ</span>, <span class="bdbLangGreek">Σαλ</span>(<span class="bdbLangGreek">λ</span>)<span class="bdbLangGreek">ουμ</span>, <span class="bdbLangGreek">Σελλημ</span>, etc.; — 
 

@@ -7,27 +7,27 @@ And thou saidst unto thy servants, Except your youngest brother come down with y
 But you said to your servants, ‘Unless your younger brother comes down with you, you will not see my face again.’<small><sub>**MT:**</sub></small>
 [[Gen.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.22|<< Genesis 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.24|Genesis 44:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| said | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants, | <big><span class="asgreek">παισί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| \[does\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| go down | <big><span class="asgreek">καταβή</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| Your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| proceed | <big><span class="asgreek">προσθήσεσθε</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to see | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my face. | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| said | **<big>[[G2036\|είπας]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your servants, | **<big>[[G3816\|παισί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| \[does\] not | **<big>[[G3361\|μη]]</big>** |
+| go down | **<big>[[G2597\|καταβή]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| Your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| younger | **<big>[[G3501\|νεώτερος]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| proceed | **<big>[[G4369\|προσθήσεσθε]]</big>** |
+| to see | **<big>[[G1492\|ιδείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my face. | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.22|<< Genesis 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.24|Genesis 44:24 >>]]</td></tr></table>
 
 

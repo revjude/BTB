@@ -10,16 +10,16 @@ A naughty person, a wicked man, walketh with a froward mouth.
 A worthless person, a wicked man, walks with a perverse mouth,<small><sub>**MT:**</sub></small>
 [[Prov.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A man, | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a lawbreaker, | <big><span class="asgreek">παράνομος</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
-| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| by ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| good. | <big><span class="asgreek">αγαθάς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| A man, | **<big>[[G0435\|ανήρ]]</big>** |
+| a fool | **<big>[[G0878\|άφρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a lawbreaker, | **<big>[[G8627\|παράνομος]]</big>** |
+| shall go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| by ways | **<big>[[G3598\|οδούς]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| good. | **<big>[[G0018\|αγαθάς]]</big>** |
 [[Prov.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 
 

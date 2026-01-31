@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָמוֹס‎</span></big> **ʻÂmôwç** <small>*(aw-moce')*</small> ==**Amos**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַס‎</span><sup><small>[[H6006]]</small></sup>; burdensome</small>
+**<big><span class="ashebrew">‎עָמוֹס‎</span></big>** **ʻÂmôwç** <small>*(aw-moce')*</small> ==**Amos**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6006|‎עָמַס‎]]</big>**; burdensome</small>
 
 $\quad$ Amos.
 - § Amos = *"burden"*

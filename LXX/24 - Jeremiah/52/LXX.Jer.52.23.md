@@ -7,26 +7,26 @@ And there were ninety and six pomegranates on a side; [and] all the pomegranates
 Each capital had ninety-six pomegranates on the sides, and a total of a hundred pomegranates were above the surrounding network.<small><sub>**MT:**</sub></small>
 [[Jer.52.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.22|<< Jeremiah 52:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.24|Jeremiah 52:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pomegranates -- | <big><span class="asgreek">ροαί</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
-| ninety-six | <big><span class="asgreek">εννενηκονταέξ</span></big> <sup><small><small>[[G7251]]</small></small></sup> |
-| to the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| part; | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pomegranates | <big><span class="asgreek">ροαί</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lattice \[work\] | <big><span class="asgreek">δικτύου</span></big> <sup><small><small>[[G1350]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| a hundred. | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| pomegranates -- | **<big>[[G9029\|ροαί]]</big>** |
+| ninety-six | **<big>[[G7251\|εννενηκονταέξ]]</big>** |
+| to the | **<big>[[G3588\|το]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| part; | **<big>[[G3313\|μέρος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| in all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| pomegranates | **<big>[[G9029\|ροαί]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| lattice \[work\] | **<big>[[G1350\|δικτύου]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| a hundred. | **<big>[[G1540\|εκατόν]]</big>** |
 [[Jer.52.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.22|<< Jeremiah 52:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.24|Jeremiah 52:24 >>]]</td></tr></table>
 
 

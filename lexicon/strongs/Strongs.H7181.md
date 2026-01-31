@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָשַׁב‎</span></big> **qâshab** <small>*(kaw-shab')*</small> ==**to listen**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָשַׁב‎</span></big>** **qâshab** <small>*(kaw-shab')*</small> ==**to listen**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ attend, (cause to) hear(-ken), give heed, incline, mark (well), regard.
@@ -8,4 +8,4 @@ $\quad$ attend, (cause to) hear(-ken), give heed, incline, mark (well), regard.
 $\quad$ **1a)** (Qal) incline, attend (of ears), hearken, pay attention, listen
 $\quad$ **1b)** (Hiphil) to pay attention, give attention
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀκούω</span><sup><small>[[G0191]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">εἰσακούω</span><sup><small>[[G1522]]</small></sup> · <span class="asgreek">ἐπακούω</span><sup><small>[[G1873]]</small></sup> · <span class="asgreek">προσέχω</span><sup><small>[[G4337]]</small></sup> · <span class="asgreek">ὑπακούω</span><sup><small>[[G5219]]</small></sup>
+<small>See Greek: </small>**<big>[[G0191|ἀκούω]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G1522|εἰσακούω]]</big>** · **<big>[[G1873|ἐπακούω]]</big>** · **<big>[[G4337|προσέχω]]</big>** · **<big>[[G5219|ὑπακούω]]</big>**

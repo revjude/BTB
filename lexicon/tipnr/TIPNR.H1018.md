@@ -1,8 +1,8 @@
 <small>*Beth-ezel • Town mentioned in Micah's prophecy, possibly near Jerusalem.*</small>
 
 <span class='tipnrhighlight'>Beth-ezel</span> was a town mentioned in Micah's prophecy, where the inhabitants could not offer support or refuge during a time of judgment. \([[Mic.1.11|Micah 1:11]]\)
-- A location near Shaphir<[[H8208]]> only mentioned at [[Mic.1.11|Mic.1.11]]; 
-- only referred to as Beth-ezel<[[H1018]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Shaphir **<big>[[H8208|שָׁפִיר]]</big>** only mentioned at [[Mic.1.11|Mic.1.11]]; 
+- only referred to as Beth-ezel **<big>[[H1018|בֵּית הָאֵצֶל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.743719,34.694006&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The prophecy against Beth-ezel and the other towns in Judah serves as a warning 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-ezel (NIV= Beth Ezel) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H1018) <small>*Hebrew*</small> | 1x | [Mic.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Mic.1.11) |
-All Strong's for **Beth-ezel**: \[[[H1018]]\]
+| Beth-ezel (NIV= Beth Ezel) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ל</span>](H1018) | 1x | [Mic.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Mic.1.11) |
+All entries for **Beth-ezel**:  **<big>[[H1018|בֵּית הָאֵצֶל]]</big>**

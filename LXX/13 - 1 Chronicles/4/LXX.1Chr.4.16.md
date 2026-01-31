@@ -7,18 +7,18 @@ And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
 The sons of Jehallelel: Ziph, Ziphah, Tiria, and Asarel.<small><sub>**MT:**</sub></small>
 [[1Chr.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.15|<< 1 Chronicles 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.17|1 Chronicles 4:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehaleleel -- | <big><span class="asgreek">Αλελεήλ</span></big> <sup><small><small>[[H3094]]</small></small></sup> |
-| Ziph, | <big><span class="asgreek">Ζιφ</span></big> <sup><small><small>[[H2128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ziphah, | <big><span class="asgreek">Ζιφά</span></big> <sup><small><small>[[H2129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tirah, | <big><span class="asgreek">Θεφία</span></big> <sup><small><small>[[H8493]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asareel. | <big><span class="asgreek">Ασερήλ</span></big> <sup><small><small>[[H0840]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jehaleleel -- | **<big>[[H3094\|Αλελεήλ]]</big>** |
+| Ziph, | **<big>[[H2128\|Ζιφ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ziphah, | **<big>[[H2129\|Ζιφά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tirah, | **<big>[[H8493\|Θεφία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asareel. | **<big>[[H0840\|Ασερήλ]]</big>** |
 [[1Chr.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.15|<< 1 Chronicles 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.17|1 Chronicles 4:17 >>]]</td></tr></table>
 
 

@@ -11,34 +11,34 @@ He made My mouth like a sharp sword; He hid Me in the shadow of His hand. He mad
 > $\quad$ referenced by: [[Eph.6.17|Eph 6:17]] ☩ [[Rev.1.16|Rev 1:16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">έθηκε</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| a sharp | <big><span class="asgreek">οξείαν</span></big> <sup><small><small>[[G3691]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| protection | <big><span class="asgreek">σκέπην</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he hid | <big><span class="asgreek">έκρυψέ</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He made | <big><span class="asgreek">έθηκέ</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| arrow | <big><span class="asgreek">βέλος</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
-| a chosen | <big><span class="asgreek">εκλεκτόν</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his quiver | <big><span class="asgreek">φαρέτρα</span></big> <sup><small><small>[[G9617]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he hid | <big><span class="asgreek">έκρυψέ</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G5087\|έθηκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| a sharp | **<big>[[G3691\|οξείαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| protection | **<big>[[G9098\|σκέπην]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he hid | **<big>[[G2928\|έκρυψέ]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| He made | **<big>[[G5087\|έθηκέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| arrow | **<big>[[G0956\|βέλος]]</big>** |
+| a chosen | **<big>[[G1588\|εκλεκτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his quiver | **<big>[[G9617\|φαρέτρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he hid | **<big>[[G2928\|έκρυψέ]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Isa.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.1|<< Isaiah 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.3|Isaiah 49:3 >>]]</td></tr></table>
 
 

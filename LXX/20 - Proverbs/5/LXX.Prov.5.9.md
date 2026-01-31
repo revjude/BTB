@@ -7,17 +7,17 @@ Lest thou give thine honour unto others, and thy years unto the cruel:
 lest you concede your vigor to others, and your years to one who is cruel;<small><sub>**MT:**</sub></small>
 [[Prov.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.8|<< Proverbs 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.10|Proverbs 5:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| go | <big><span class="asgreek">πρόη</span></big> <sup><small><small>[[G8896]]</small></small></sup> |
-| to others | <big><span class="asgreek">άλλοις</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| your \[means of\] life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| livelihood | <big><span class="asgreek">βίον</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
-| to \[the\] unmerciful; | <big><span class="asgreek">ανελεήμοσιν</span></big> <sup><small><small>[[G0415]]</small></small></sup> |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| go | **<big>[[G8896\|πρόη]]</big>** |
+| to others | **<big>[[G0243\|άλλοις]]</big>** |
+| your \[means of\] life | **<big>[[G2222\|ζωήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your | **<big>[[G4674\|σον]]</big>** |
+| livelihood | **<big>[[G0979\|βίον]]</big>** |
+| to \[the\] unmerciful; | **<big>[[G0415\|ανελεήμοσιν]]</big>** |
 [[Prov.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.8|<< Proverbs 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.10|Proverbs 5:10 >>]]</td></tr></table>
 
 

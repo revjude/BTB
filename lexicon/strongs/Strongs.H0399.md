@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲכַל‎</span></big> **ʼăkal** <small>*(ak-al')*</small> ==**to devour**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אָכַל‎</span><sup><small>[[H0398]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲכַל‎</span></big>** **ʼăkal** <small>*(ak-al')*</small> ==**to devour**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0398|‎אָכַל‎]]</big>**</small>
 
 $\quad$ [phrase] accuse, devour, eat.
 - {***to eat*** (literally or figuratively)}

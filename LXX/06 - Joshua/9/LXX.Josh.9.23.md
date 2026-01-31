@@ -7,24 +7,24 @@ Now therefore ye [are] cursed, and there shall none of you be freed from being b
 Now therefore you are under a curse and will perpetually serve as woodcutters and water carriers for the house of my God.”<small><sub>**MT:**</sub></small>
 [[Josh.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.22|<< Joshua 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.24|Joshua 9:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| you are accursed, | <big><span class="asgreek">επικατάρατοι</span></big> <sup><small><small>[[G1944]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall there fail | <big><span class="asgreek">εκλείπη</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[one\] of you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[being\] a servant, | <big><span class="asgreek">δούλος</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| woodcutter, | <big><span class="asgreek">ξυλοκόπος</span></big> <sup><small><small>[[G8428]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| a water-carrier | <big><span class="asgreek">υδροφόρος</span></big> <sup><small><small>[[G9530]]</small></small></sup> |
-| to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| you are accursed, | **<big>[[G1944\|επικατάρατοι]]</big>** **<big>[[G1510\|εστέ]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall there fail | **<big>[[G1587\|εκλείπη]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[one\] of you | **<big>[[G1473\|υμών]]</big>** |
+| \[being\] a servant, | **<big>[[G1401\|δούλος]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| woodcutter, | **<big>[[G8428\|ξυλοκόπος]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| a water-carrier | **<big>[[G9530\|υδροφόρος]]</big>** |
+| to me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| my God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Josh.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.22|<< Joshua 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.24|Joshua 9:24 >>]]</td></tr></table>
 
 

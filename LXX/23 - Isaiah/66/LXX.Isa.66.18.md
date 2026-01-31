@@ -7,31 +7,31 @@ For I [know] their works and their thoughts: it shall come, that I will gather a
 “And I, knowing their deeds and thoughts, am coming to gather all nations and tongues, and they will come and see My glory.<small><sub>**MT:**</sub></small>
 [[Isa.66.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.17|<< Isaiah 66:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.19|Isaiah 66:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their device | <big><span class="asgreek">λογισμόν</span></big> <sup><small><small>[[G3053]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| know | <big><span class="asgreek">επίσταμαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come | <big><span class="asgreek">έρχομαι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to bring together | <big><span class="asgreek">συναγαγείν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tongues. | <big><span class="asgreek">γλώσσας</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall come | <big><span class="asgreek">ήξουσι</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall see | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my glory. | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And I | **<big>[[G2504\|καγώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their works | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their device | **<big>[[G3053\|λογισμόν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| know | **<big>[[G1987\|επίσταμαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| come | **<big>[[G2064\|έρχομαι]]</big>** |
+| to bring together | **<big>[[G4863\|συναγαγείν]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tongues. | **<big>[[G1100\|γλώσσας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall come | **<big>[[G2240\|ήξουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall see | **<big>[[G3708\|όψονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my glory. | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Isa.66.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.17|<< Isaiah 66:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.19|Isaiah 66:19 >>]]</td></tr></table>
 
 

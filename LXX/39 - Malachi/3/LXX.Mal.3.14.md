@@ -7,28 +7,28 @@ Ye have said, It [is] vain to serve God: and what profit [is it] that we have ke
 You have said, ‘It is futile to serve God. What have we gained by keeping His requirements and walking mournfully before the LORD of Hosts?<small><sub>**MT:**</sub></small>
 [[Mal.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.13|<< Malachi 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.15|Malachi 3:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[is\] vain | <big><span class="asgreek">μάταιος</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serving | <big><span class="asgreek">δουλεύων</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| more | <big><span class="asgreek">πλειον</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| \[is it\] that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we kept | <big><span class="asgreek">εφυλάξαμεν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his injunctions, | <big><span class="asgreek">φυλάγματα</span></big> <sup><small><small>[[G9677]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| we go | <big><span class="asgreek">επορεύθημεν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| as supplicants | <big><span class="asgreek">ικέται</span></big> <sup><small><small>[[G7715]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty? | <big><span class="asgreek">παντοκράτορος</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| You said, | **<big>[[G2036\|είπατε]]</big>** |
+| \[is\] vain | **<big>[[G3152\|μάταιος]]</big>** |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| serving | **<big>[[G1398\|δουλεύων]]</big>** |
+| God | **<big>[[G2316\|θεώ]]</big>** |
+| and, | **<big>[[G2532\|και]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| more | **<big>[[G4183\|πλειον]]</big>** |
+| \[is it\] that | **<big>[[G3754\|ότι]]</big>** |
+| we kept | **<big>[[G5442\|εφυλάξαμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his injunctions, | **<big>[[G9677\|φυλάγματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that | **<big>[[G1360\|διότι]]</big>** |
+| we go | **<big>[[G4198\|επορεύθημεν]]</big>** |
+| as supplicants | **<big>[[G7715\|ικέται]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| almighty? | **<big>[[G3841\|παντοκράτορος]]</big>** |
 [[Mal.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.13|<< Malachi 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.15|Malachi 3:15 >>]]</td></tr></table>
 
 

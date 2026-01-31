@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְפוֹנִי‎</span></big> **tsᵉphôwnîy** <small>*(tsef-o-nee')*</small> ==**northern**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎צָפוֹן‎</span><sup><small>[[H6828]]</small></sup></small>
+**<big><span class="ashebrew">‎צְפוֹנִי‎</span></big>** **tsᵉphôwnîy** <small>*(tsef-o-nee')*</small> ==**northern**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6828|‎צָפוֹן‎]]</big>**</small>
 
 $\quad$ northern.
 - ***northern***

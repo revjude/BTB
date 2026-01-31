@@ -7,45 +7,45 @@ And [it was] according to the appearance of the vision which I saw, [even] accor
 The vision I saw was like the vision I had seen when He came to destroy the city and like the visions I had seen by the River Kebar. I fell facedown,<small><sub>**MT:**</sub></small>
 [[Ezek.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.2|<< Ezekiel 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.4|Ezekiel 43:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[was\] according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| I entered | <big><span class="asgreek">εισεπορευόμην</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to anoint | <big><span class="asgreek">χρίσαι</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city; | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chariot | <big><span class="asgreek">άρματος</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[was\] according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vision | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I beheld | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chebar, | <big><span class="asgreek">Χοβάρ</span></big> <sup><small><small>[[H3529]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I fell | <big><span class="asgreek">έπεσα</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my face. | <big><span class="asgreek">προσώπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I beheld | **<big>[[G1492\|ίδον]]</big>** |
+| \[was\] according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| vision | **<big>[[G3706\|όρασιν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I beheld | **<big>[[G1492\|ίδον]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| I entered | **<big>[[G1531\|εισεπορευόμην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to anoint | **<big>[[G5548\|χρίσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city; | **<big>[[G4172\|πόλιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| vision | **<big>[[G3706\|όρασις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| chariot | **<big>[[G0716\|άρματος]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| I beheld | **<big>[[G1492\|ίδον]]</big>** |
+| \[was\] according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| vision | **<big>[[G3706\|όρασιν]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I beheld | **<big>[[G1492\|ίδον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| river | **<big>[[G4215\|ποταμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Chebar, | **<big>[[H3529\|Χοβάρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I fell | **<big>[[G4098\|έπεσα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| my face. | **<big>[[G4383\|προσώπον]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ezek.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.2|<< Ezekiel 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.4|Ezekiel 43:4 >>]]</td></tr></table>
 
 

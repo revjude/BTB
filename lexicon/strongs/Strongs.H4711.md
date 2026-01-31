@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָצַץ‎</span></big> **mâtsats** <small>*(maw-tsats')*</small> ==**to drink deeply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָצַץ‎</span></big>** **mâtsats** <small>*(maw-tsats')*</small> ==**to drink deeply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ milk.

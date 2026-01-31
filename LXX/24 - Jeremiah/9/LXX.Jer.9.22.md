@@ -7,31 +7,31 @@ Speak, Thus saith the LORD, Even the carcases of men shall fall as dung upon the
 Declare that this is what the LORD says: “The corpses of men will fall like dung upon the open field, like newly cut grain behind the reaper, with no one to gather it.”<small><sub>**MT:**</sub></small>
 [[Jer.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.21|<< Jeremiah 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.23|Jeremiah 9:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκροί</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an example | <big><span class="asgreek">παράδειγμα</span></big> <sup><small><small>[[G8606]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your land; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| being mowed, | <big><span class="asgreek">θερίζοντος</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one gathering. | <big><span class="asgreek">συνάγων</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| dead | **<big>[[G3498\|νεκροί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an example | **<big>[[G8606\|παράδειγμα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| plain | **<big>[[G8676\|πεδίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your land; | **<big>[[G1093\|γης]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| grass | **<big>[[G5528\|χόρτος]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| being mowed, | **<big>[[G2325\|θερίζοντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| one gathering. | **<big>[[G4863\|συνάγων]]</big>** |
 [[Jer.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.21|<< Jeremiah 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.23|Jeremiah 9:23 >>]]</td></tr></table>
 
 

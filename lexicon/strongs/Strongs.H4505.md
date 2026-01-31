@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְנַחֵם‎</span></big> **Mᵉnachêm** <small>*(men-akh-ame')*</small> ==**Menahem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָחַם‎</span><sup><small>[[H5162]]</small></sup>; comforter</small>
+**<big><span class="ashebrew">‎מְנַחֵם‎</span></big>** **Mᵉnachêm** <small>*(men-akh-ame')*</small> ==**Menahem**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5162|‎נָחַם‎]]</big>**; comforter</small>
 
 $\quad$ Menahem.
 - § Menahem = *"comforter"*

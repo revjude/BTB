@@ -4,16 +4,16 @@ David's son living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Elishama</span> was a son of King David born to him in Jerusalem \([[2Sam.5.16|2Sa.5.16]]; [[1Chr.3.8|1Ch.3.8]]; 14.7\).
 - David's son from the tribe of Judah living at the time of United Monarchy, first mentioned at [[2Sam.5.16|2Sa.5.16]]; 
-- only referred to as Elishama<[[H0476H]]> \(<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>\); 
--  son of David<[[H1732]]>; 
-- a brother of Amnon<[[H0550G]]>, Chileab<[[H3609]]>, Absalom<[[H0053]]>, Adonijah<[[H0138G]]>, Shephatiah<[[H8203G]]>, Ithream<[[H3507]]>, Shammua<[[H8051H]]>, Shobab<[[H7727G]]>, Nathan<[[H5416G]]>, Solomon<[[H8010]]>, Ibhar<[[H2984]]>, Elishua<[[H0474]]>, Nepheg<[[H5298H]]>, Japhia<[[H3309I]]>, Eliada<[[H0450G]]>, Eliphelet<[[H0467G]]>, Tamar<[[H8559H]]>, Elpelet<[[H0467I]]>, Nogah<[[H5052]]> and Jerimoth<[[H3406N]]>.
+- only referred to as Elishama **<big>[[H0476|אֱלִישָׁמָע]]</big>**; 
+-  son of David **<big>[[H1732|דָּוִד]]</big>**; 
+- a brother of Amnon **<big>[[H0550|אַמְנוֹן]]</big>**, Chileab **<big>[[H3609|כִּלְאָב]]</big>**, Absalom **<big>[[H0053|אֲבִישָׁלוֹם]]</big>**, Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**, Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**, Ithream **<big>[[H3507|יִתְרְעָם]]</big>**, Shammua **<big>[[H8051|שַׁמּוּעַ]]</big>**, Shobab **<big>[[H7727|שׁוֹבָב]]</big>**, Nathan **<big>[[H5416|נָתָן]]</big>**, Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**, Ibhar **<big>[[H2984|יִבְחַר]]</big>**, Elishua **<big>[[H0474|אֱלִישׁוּעַ]]</big>**, Nepheg **<big>[[H5298|נֶפֶג]]</big>**, Japhia **<big>[[H3309|יָפִיעַ]]</big>**, Eliada **<big>[[H0450|אֶלְיָדָע]]</big>**, Eliphelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Tamar **<big>[[H8559|תָּמָר]]</big>**, Elpelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Nogah **<big>[[H5052|נֹגַהּ]]</big>** and Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**.
 
 Elishama was one of the sons of King David born to him in Jerusalem \([[2Sam.5.16|2Sa.5.16]]; [[1Chr.3.8|1Ch.3.8]]; 14.7\). He was born after David had established himself as king over Israel and had conquered the city of Jerusalem. Elishama is consistently listed among David's sons born in Jerusalem, confirming his place in the royal family. However, the Bible does not provide any additional information about Elishama's life, role, or significance in the kingdom of Israel.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Elishama | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H0476H) <small>*Hebrew*</small> | 3x | [[2Sa.5.16] ... [1Ch.14.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elishama\*\|reference=2Sa.5.16;1Ch.3.8;1Ch.14.7) |
-All Strong's for **Elishama**: \[[[H0476H]]\]
+| Elishama | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H0476H) | 3x | [[2Sa.5.16] ... [1Ch.14.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elishama\*\|reference=2Sa.5.16;1Ch.3.8;1Ch.14.7) |
+All entries for **Elishama**:  **<big>[[H0476|אֱלִישָׁמָע]]</big>**
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Jerusalem_wives](H0802J)** (mother)

@@ -7,27 +7,27 @@ Surely men of low degree [are] vanity, [and] men of high degree [are] a lie: to 
 Lowborn men are but a vapor; the exalted are but a lie. Weighed on the scale, they go up; together they are but a vapor.<small><sub>**MT:**</sub></small>
 [[Ps.62.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.8|<< Psalm 62:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.10|Psalm 62:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| \[are\] vain | <big><span class="asgreek">μάταιοι</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[are\] false \[weights\] | <big><span class="asgreek">ψευδείς</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] yoke \[balance scales\] | <big><span class="asgreek">ζυγοίς</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to do wrong. | <big><span class="asgreek">αδικήσαι</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| They | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| folly | <big><span class="asgreek">ματαιότητος</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
-| all together. | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| But | **<big>[[G4133\|πλην]]</big>** |
+| \[are\] vain | **<big>[[G3152\|μάταιοι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| \[are\] false \[weights\] | **<big>[[G5571\|ψευδείς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] yoke \[balance scales\] | **<big>[[G2218\|ζυγοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to do wrong. | **<big>[[G0091\|αδικήσαι]]</big>** |
+| They | **<big>[[G1473\|αυτοί]]</big>** |
+| \[are\] of | **<big>[[G1537\|εκ]]</big>** |
+| folly | **<big>[[G3153\|ματαιότητος]]</big>** |
+| all together. | **<big>[[G7464\|επιτοαυτό]]</big>** |
 [[Ps.62.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.8|<< Psalm 62:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.10|Psalm 62:10 >>]]</td></tr></table>
 
 

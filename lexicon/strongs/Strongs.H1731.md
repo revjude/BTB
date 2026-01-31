@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוּד‎</span></big> **dûwd** <small>*(dood)*</small> ==**pot**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎דּוֹד‎</span><sup><small>[[H1730]]</small></sup></small>
+**<big><span class="ashebrew">‎דּוּד‎</span></big>** **dûwd** <small>*(dood)*</small> ==**pot**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H1730|‎דּוֹד‎]]</big>**</small>
 
 $\quad$ basket, caldron, kettle, (seething) pot.
 - ***a pot*** (for boiling)
@@ -9,4 +9,4 @@ $\quad$ basket, caldron, kettle, (seething) pot.
 $\quad$ **1a)** pot, kettle
 $\quad$ **1b)** basket, jar
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κάμινος</span><sup><small>[[G2575]]</small></sup> · <span class="asgreek">κόφινος</span><sup><small>[[G2894]]</small></sup>
+<small>See Greek: </small>**<big>[[G2575|κάμινος]]</big>** · **<big>[[G2894|κόφινος]]</big>**

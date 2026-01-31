@@ -79,7 +79,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.36.31|31]]**<span class="
 
 [^26]: am cir, 2292, bc cir, 1712, [[Gen.36|Gen 36:2]], [[Gen.36|Gen 36:5]], [[Gen.36|Gen 36:18]]; [[1Chr.1|1Chr 1:35]]
 
-[^27]: The word duke is from the Latin ***dux***, a captain or leader, from ***duco***, to lead, guide; which is the exact import of the Hebrew (***ΰ<span class='asgreek'>μεσ</span>*** (<span class="ashebrew">‎אַלּוּף‎</span><sup><small>[[H0441]]</small></sup>)), ***alluph***, from ***ΰ<span class='asgreek'>μσ</span>***, to lead, guide; and is here applied to heads of families, chieftains, or princes, who were military leaders. [[Gen.36|Gen 36:18]]; [[1Chr.1|1Chr 1:35]]
+[^27]: The word duke is from the Latin ***dux***, a captain or leader, from ***duco***, to lead, guide; which is the exact import of the Hebrew (***ΰ<span class='asgreek'>μεσ</span>*** ( [[H0441|‎אַלּוּף‎]] )), ***alluph***, from ***ΰ<span class='asgreek'>μσ</span>***, to lead, guide; and is here applied to heads of families, chieftains, or princes, who were military leaders. [[Gen.36|Gen 36:18]]; [[1Chr.1|1Chr 1:35]]
 
 [^28]: [[Job.21|Job 21:8]]; [[Ps.37|Ps 37:35]]
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Nob</span> was a city of priests near Jerusalem, known for a massacre ordered by King Saul and as a temporary location of the Ark of the Covenant.
 - A location first mentioned at [[1Sam.21.1|1Sa.21.1]]; 
-- only referred to as Nob<[[H5011]]> \(<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ב</span>\).
+- only referred to as Nob **<big>[[H5011|נֹב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.799605,35.232980&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Nob was a city of priests located near Jerusalem, possibly between the city and 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nob | [<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ב</span>](H5011) <small>*Hebrew*</small> | 6x | [[1Sa.21.1] ... [Isa.10.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nob\*\|reference=1Sa.21.1;1Sa.22.9;1Sa.22.11;1Sa.22.19;Neh.11.32;Isa.10.32) |
-All Strong's for **Nob**: \[[[H5011]]\]
+| Nob | [<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ב</span>](H5011) | 6x | [[1Sa.21.1] ... [Isa.10.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nob\*\|reference=1Sa.21.1;1Sa.22.9;1Sa.22.11;1Sa.22.19;Neh.11.32;Isa.10.32) |
+All entries for **Nob**:  **<big>[[H5011|נֹב]]</big>**

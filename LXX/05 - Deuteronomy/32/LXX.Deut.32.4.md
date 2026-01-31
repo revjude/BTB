@@ -11,29 +11,29 @@ He is the Rock, His work is perfect; all His ways are just. A God of faithfulnes
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]] ☩ [[Rev.19.2|Rev 19:2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[are\] true | <big><span class="asgreek">αληθινά</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are equity. | <big><span class="asgreek">κρίσεις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] trustworthy, | <big><span class="asgreek">πιστός</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| injustice | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sacred | <big><span class="asgreek">όσιος</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| God, | **<big>[[G2316\|θεός]]</big>** |
+| \[are\] true | **<big>[[G0228\|αληθινά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his works | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his ways | **<big>[[G3598\|οδοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| are equity. | **<big>[[G2920\|κρίσεις]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[is\] trustworthy, | **<big>[[G4103\|πιστός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| injustice | **<big>[[G0093\|αδικία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| him; | **<big>[[G1473\|αυτώ]]</big>** |
+| just | **<big>[[G1342\|δίκαιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sacred | **<big>[[G3741\|όσιος]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Deut.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.3|<< Deuteronomy 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.5|Deuteronomy 32:5 >>]]</td></tr></table>
 
 

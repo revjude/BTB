@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָמַשׂ‎</span></big> **râmas** <small>*(raw-mas')*</small> ==**to creep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָמַשׂ‎</span></big>** **râmas** <small>*(raw-mas')*</small> ==**to creep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ creep, move.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** to creep (of animals)
 $\quad$ $\quad$ **1a3)** to move lightly, glide about (of water animals)
 $\quad$ $\quad$ **1a4)** to move about (of all land animals generally)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κινέω</span><sup><small>[[G2795]]</small></sup>
+<small>See Greek: </small>**<big>[[G2795|κινέω]]</big>**

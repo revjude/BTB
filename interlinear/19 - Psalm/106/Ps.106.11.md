@@ -6,15 +6,15 @@ The waters covered their foes; not one of them remained.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.10|<< Psalms 106:10]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.12|Psalms 106:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they covered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְכַסּוּ </big></span><small><small><sup>[[H3680]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.kha.su- <small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] waters  | <span class="ashebrew"><big>מַ֥יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opponents their  | <span class="ashebrew"><big>צָרֵי </big></span><small><small><sup>[[H6862C]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| tza.rei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֥ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from them  | <span class="ashebrew"><big>מֵ֝ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הֶ֗ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he was left  | <span class="ashebrew"><big>נוֹתָֽר </big></span><small><small><sup>[[H3498]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| no.Tar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they covered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3680\|יְכַסּוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.kha.su-<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] waters  |**<big>&#8207;[[H4325G\|מַ֥יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents their  |**<big>&#8207;[[H6862C\|צָרֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| tza.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֥ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from them  |**<big>&#8207;[[H9006\|מֵ֝]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was left  |**<big>&#8207;[[H3498\|נוֹתָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| no.Tar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.10|<< Psalms 106:10]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.12|Psalms 106:12 >>]]</td></tr></table>
 
 

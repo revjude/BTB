@@ -7,31 +7,31 @@ For thus saith the LORD, Ye shall not see wind, neither shall ye see rain; yet t
 For the LORD says, ‘You will not see wind or rain, but the valley will be filled with water, and you will drink—you and your cattle and your animals.’<small><sub>**MT:**</sub></small>
 [[2Kgs.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.16|<< 2 Kings 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.18|2 Kings 3:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You shall not see | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">όψεσθε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| wind, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall not see | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">όψεσθε</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| rain; | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this \[dry\] stream | <big><span class="asgreek">χειμάρρους</span></big> <sup><small><small>[[G5493]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall be filled | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| \[with\] water, | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall drink, | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your possessions, | <big><span class="asgreek">κτήσεις</span></big> <sup><small><small>[[G8111]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your cattle. | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| You shall not see | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3708\|όψεσθε]]</big>** |
+| wind, | **<big>[[G4151\|πνεύμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall not see | **<big>[[G3756\|ουκ]]</big>** **<big>[[G3708\|όψεσθε]]</big>** |
+| rain; | **<big>[[G5205\|υετόν]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| this \[dry\] stream | **<big>[[G5493\|χειμάρρους]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| shall be filled | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| \[with\] water, | **<big>[[G5204\|ύδατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall drink, | **<big>[[G4095\|πίεσθε]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| your possessions, | **<big>[[G8111\|κτήσεις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your cattle. | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[2Kgs.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.16|<< 2 Kings 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.18|2 Kings 3:18 >>]]</td></tr></table>
 
 

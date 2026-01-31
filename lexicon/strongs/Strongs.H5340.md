@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָצַץ‎</span></big> **nâtsats** <small>*(naw-tsats')*</small> ==**to shine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָצַץ‎</span></big>** **nâtsats** <small>*(naw-tsats')*</small> ==**to shine**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ sparkle.

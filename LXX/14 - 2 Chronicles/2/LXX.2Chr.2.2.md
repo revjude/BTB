@@ -7,30 +7,30 @@ And Solomon told out threescore and ten thousand men to bear burdens, and foursc
 So he conscripted 70,000 porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.<small><sub>**MT:**</sub></small>
 [[2Chr.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.1|<< 2 Chronicles 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.3|2 Chronicles 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Solomon brought together | <big><span class="asgreek">συνήγαγε</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| load carriers, | <big><span class="asgreek">νωτοφόρων</span></big> <sup><small><small>[[G8409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eighty | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| quarrying | <big><span class="asgreek">λατόμων</span></big> <sup><small><small>[[G2998]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountain. | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| supervisors | <big><span class="asgreek">επιστάται</span></big> <sup><small><small>[[G1988]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them -- | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three thousand | <big><span class="asgreek">τρισχίλιοι</span></big> <sup><small><small>[[G5153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six hundred. | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Solomon brought together | **<big>[[G4863\|συνήγαγε]]</big>** **<big>[[G4672\|Σολομών]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| load carriers, | **<big>[[G8409\|νωτοφόρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eighty | **<big>[[G3589\|ογδοήκοντα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| quarrying | **<big>[[G2998\|λατόμων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| mountain. | **<big>[[G3735\|όρει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| supervisors | **<big>[[G1988\|επιστάται]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| them -- | **<big>[[G1473\|αυτών]]</big>** |
+| three thousand | **<big>[[G5153\|τρισχίλιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six hundred. | **<big>[[G1812\|εξακόσιοι]]</big>** |
 [[2Chr.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.1|<< 2 Chronicles 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.3|2 Chronicles 2:3 >>]]</td></tr></table>
 
 

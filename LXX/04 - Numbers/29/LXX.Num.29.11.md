@@ -7,40 +7,40 @@ One kid of the goats [for] a sin offering; beside the sin offering of atonement,
 Include one male goat for a sin offering, in addition to the sin offering of atonement and the regular burnt offering with its grain offering and drink offerings.<small><sub>**MT:**</sub></small>
 [[Num.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.10|<< Numbers 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.12|Numbers 29:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| young he-goat | <big><span class="asgreek">χίμαρον</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] goats | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\] | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| to atone | <big><span class="asgreek">εξιλάσασθαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| you; | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin \[offering\] | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement, | <big><span class="asgreek">εξιλάσεως</span></big> <sup><small><small>[[G7330]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαύτωσις</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| continual | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its sacrifice \[offering\], | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its libation | <big><span class="asgreek">σπονδή</span></big> <sup><small><small>[[G9145]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation, | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| a yield \[offering\] | <big><span class="asgreek">κάρπωμα</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| young he-goat | **<big>[[G9733\|χίμαρον]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] goats | **<big>[[G6167\|αιγών]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\] | **<big>[[G0266\|αμαρτίας]]</big>** |
+| to atone | **<big>[[G7331\|εξιλάσασθαι]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| you; | **<big>[[G1473\|υμών]]</big>** |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sin \[offering\] | **<big>[[G0266\|αμαρτίας]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| atonement, | **<big>[[G7330\|εξιλάσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| whole burnt-offering | **<big>[[G8495\|ολοκαύτωσις]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| continual | **<big>[[G1275\|διαπαντός]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| its sacrifice \[offering\], | **<big>[[G2378\|θυσία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| its libation | **<big>[[G9145\|σπονδή]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| interpretation, | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| a yield \[offering\] | **<big>[[G7806\|κάρπωμα]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Num.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.10|<< Numbers 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.12|Numbers 29:12 >>]]</td></tr></table>
 
 

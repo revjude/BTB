@@ -11,32 +11,32 @@ Flee from Babylon! Escape with your lives! Do not be destroyed in her punishment
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Flee | <big><span class="asgreek">φεύγετε</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rescue | <big><span class="asgreek">ανασώζετε</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life! | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be reeling | <big><span class="asgreek">απορριφήτε</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her iniquity, | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of her punishment | <big><span class="asgreek">εκδικήσεως</span></big> <sup><small><small>[[G1557]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a recompense | <big><span class="asgreek">ανταπόδομα</span></big> <sup><small><small>[[G0468]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall recompense | <big><span class="asgreek">ανταποδίδωσιν</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| to her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Flee | **<big>[[G5343\|φεύγετε]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rescue | **<big>[[G6314\|ανασώζετε]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his life! | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| be reeling | **<big>[[G0641\|απορριφήτε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her iniquity, | **<big>[[G0093\|αδικία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρός]]</big>** |
+| of her punishment | **<big>[[G1557\|εκδικήσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κυρίου]]</big>** |
+| a recompense | **<big>[[G0468\|ανταπόδομα]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall recompense | **<big>[[G0467\|ανταποδίδωσιν]]</big>** |
+| to her. | **<big>[[G1473\|αυτή]]</big>** |
 [[Jer.51.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.5|<< Jeremiah 51:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.7|Jeremiah 51:7 >>]]</td></tr></table>
 
 

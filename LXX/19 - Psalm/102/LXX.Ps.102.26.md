@@ -11,24 +11,24 @@ They will perish, but You remain; they will all wear out like a garment. Like cl
 > $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]] ☩ [[2Pet.3.10|2Pet 3:10]] ☩ [[Rev.6.14|Rev 6:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall perish, | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| but you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall abide. | <big><span class="asgreek">διαμένεις</span></big> <sup><small><small>[[G1265]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| shall become old; | <big><span class="asgreek">παλαιωθήσονται</span></big> <sup><small><small>[[G3822]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| a wrap-around \[garment\] | <big><span class="asgreek">περιβόλαιον</span></big> <sup><small><small>[[G4018]]</small></small></sup> |
-| you shall coil | <big><span class="asgreek">ελίξεις</span></big> <sup><small><small>[[G1667]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall be changed. | <big><span class="asgreek">αλλαγήσονται</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
+| They | **<big>[[G1473\|αυτοί]]</big>** |
+| shall perish, | **<big>[[G0622\|απολούνται]]</big>** |
+| but you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall abide. | **<big>[[G1265\|διαμένεις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| shall become old; | **<big>[[G3822\|παλαιωθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| a wrap-around \[garment\] | **<big>[[G4018\|περιβόλαιον]]</big>** |
+| you shall coil | **<big>[[G1667\|ελίξεις]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall be changed. | **<big>[[G0236\|αλλαγήσονται]]</big>** |
 [[Ps.102.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.25|<< Psalm 102:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.27|Psalm 102:27 >>]]</td></tr></table>
 
 

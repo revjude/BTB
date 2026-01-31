@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Great Sea</span>, also known as the Sea of the Philistines, refers to the Mediterranean Sea, which formed the western boundary of the Promised Land \([[Num.34.6|Numbers 34:6]]-7; [[Josh.1.4|Joshua 1:4]]; 9:1; 15:12, 47; 23:4; [[Ezek.47.10|Ezekiel 47:10]], 15, 19-20; 48:28; [[Exod.23.31|Exodus 23:31]]\).
 - A location first mentioned at [[Num.34.6|Num.34.6]]; 
-- referred to as Great\_Sea or Great \(Sea\) \(=Qere. Ketiv= "border," KJV= "the great sea," NIV= Mediterranean Sea\) <[[H1419J]]> \(<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ל</span>\), or \(Sea of the \)Philistines \(NIV= Mediterranean Sea\) <[[H6430I]]> \(<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Great\_Sea or Great \(Sea\) \(=Qere. Ketiv= "border," KJV= "the great sea," NIV= Mediterranean Sea\)  **<big>[[H1419|גָּדוֹל]]</big>**, or \(Sea of the \)Philistines \(NIV= Mediterranean Sea\)  **<big>[[H6430|פְּלִשְׁתִּי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.24,33.47&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ The Great Sea, also referred to as the Sea of the Philistines, is the biblical n
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Great (Sea) (KJV= the great sea; NIV= Mediterranean Sea) | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H1419J) <small>*Hebrew*</small> | 11x | [[Num.34.6] ... [Ezk.48.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Great\*\|reference=Num.34.6;Num.34.7;Jos.1.4;Jos.9.1;Jos.15.12;Jos.23.4;Ezk.47.10;Ezk.47.15;Ezk.47.19;Ezk.47.20;Ezk.48.28) |
-| Great (Sea) (=Qere. Ketiv= border; KJV= the great sea; NIV= Mediterranean Sea) | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H1419J) <small>*Hebrew*</small> | 1x | [Jos.15.47 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Great\*\|reference=Jos.15.47) |
-| (Sea of the )Philistines (NIV= Mediterranean Sea) | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H6430I) <small>*Hebrew*</small> | 1x | [Exo.23.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philistines\*\|reference=Exo.23.31) |
-All Strong's for **Great_Sea or Philistines_Sea**: \[[[H1419J]]\] \[[[H6430I]]\]
+| Great (Sea) (KJV= the great sea; NIV= Mediterranean Sea) | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H1419J) | 11x | [[Num.34.6] ... [Ezk.48.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Great\*\|reference=Num.34.6;Num.34.7;Jos.1.4;Jos.9.1;Jos.15.12;Jos.23.4;Ezk.47.10;Ezk.47.15;Ezk.47.19;Ezk.47.20;Ezk.48.28) |
+| Great (Sea) (=Qere. Ketiv= border; KJV= the great sea; NIV= Mediterranean Sea) | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H1419J) | 1x | [Jos.15.47 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Great\*\|reference=Jos.15.47) |
+| (Sea of the )Philistines (NIV= Mediterranean Sea) | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H6430I) | 1x | [Exo.23.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philistines\*\|reference=Exo.23.31) |
+All entries for **Great Sea or Philistines Sea**:  **<big>[[H1419|גָּדוֹל]]</big>** ☩  **<big>[[H6430|פְּלִשְׁתִּי]]</big>**

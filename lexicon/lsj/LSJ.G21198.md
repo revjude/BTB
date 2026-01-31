@@ -1,4 +1,4 @@
-spelling of: <small>[[G9349]]</small> 
+spelling of: <small>**<big>[[G9349|συρίζω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==συρίσδω==</span></b>, 

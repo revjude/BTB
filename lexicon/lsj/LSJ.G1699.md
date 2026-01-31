@@ -1,4 +1,4 @@
-form of: <small>[[G1473]]</small> 
+form of: <small>**<big>[[G1473|ἐγώ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐμός==</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

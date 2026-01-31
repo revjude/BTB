@@ -7,38 +7,38 @@ Also he made a molten sea of ten cubits from brim to brim, round in compass, and
 He also made the Sea of cast metal. It was circular in shape, measuring ten cubits from rim to rim, five cubits in height, and thirty cubits in circumference.<small><sub>**MT:**</sub></small>
 [[2Chr.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.1|<< 2 Chronicles 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.3|2 Chronicles 4:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| cast | <big><span class="asgreek">χυτήν</span></big> <sup><small><small>[[G9765]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| diameter, | <big><span class="asgreek">διαμέτρησιν</span></big> <sup><small><small>[[G6849]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its lip | <big><span class="asgreek">χείλους</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its lip, | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| globular | <big><span class="asgreek">στρογγύλην</span></big> <sup><small><small>[[G9203]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height. | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| circumference -- | <big><span class="asgreek">κύκλωμα</span></big> <sup><small><small>[[G8119]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| encircled | <big><span class="asgreek">εκύκλουν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| cast | **<big>[[G9765\|χυτήν]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| diameter, | **<big>[[G6849\|διαμέτρησιν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its lip | **<big>[[G5491\|χείλους]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its lip, | **<big>[[G5491\|χείλος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| globular | **<big>[[G9203\|στρογγύλην]]</big>** |
+| round about, | **<big>[[G2943\|κυκλόθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| height. | **<big>[[G5311\|ύψος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| circumference -- | **<big>[[G8119\|κύκλωμα]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| encircled | **<big>[[G2944\|εκύκλουν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| round about. | **<big>[[G2945\|κύκλω]]</big>** |
 [[2Chr.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.1|<< 2 Chronicles 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.3|2 Chronicles 4:3 >>]]</td></tr></table>
 
 

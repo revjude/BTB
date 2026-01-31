@@ -7,34 +7,34 @@ Then Joseph commanded to fill their sacks with corn, and to restore every man’
 Then Joseph gave orders to fill their bags with grain, to return each man’s silver to his sack, and to give them provisions for their journey. This order was carried out,<small><sub>**MT:**</sub></small>
 [[Gen.42.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.24|<< Genesis 42:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.26|Genesis 42:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| to fill up | <big><span class="asgreek">εμπλήσαι</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their containers | <big><span class="asgreek">αγγεία</span></big> <sup><small><small>[[G0030]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of grain, | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to give back | <big><span class="asgreek">αποδούναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to each | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sackcloth, | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| provisions | <big><span class="asgreek">επισιτισμόν</span></big> <sup><small><small>[[G1979]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| journey. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| to fill up | **<big>[[G1705\|εμπλήσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their containers | **<big>[[G0030\|αγγεία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| of grain, | **<big>[[G4621\|σίτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to give back | **<big>[[G0591\|αποδούναι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their silver | **<big>[[G0694\|αργύριον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to each | **<big>[[G1538\|εκάστω]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his sackcloth, | **<big>[[G4526\|σάκκον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to give | **<big>[[G1325\|δούναι]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| provisions | **<big>[[G1979\|επισιτισμόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| journey. | **<big>[[G3598\|οδόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it became | **<big>[[G1096\|εγενήθη]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| so. | **<big>[[G3779\|ούτως]]</big>** |
 [[Gen.42.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.24|<< Genesis 42:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.26|Genesis 42:26 >>]]</td></tr></table>
 
 

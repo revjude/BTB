@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲחֻזָּה‎</span></big> **ʼăchuzzâh** <small>*(akh-ooz-zaw')*</small> ==**possession**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine passive participle from <span class="ashebrew">‎אָחַז‎</span><sup><small>[[H0270]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲחֻזָּה‎</span></big>** **ʼăchuzzâh** <small>*(akh-ooz-zaw')*</small> ==**possession**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine passive participle from **<big>[[H0270|‎אָחַז‎]]</big>**</small>
 
 $\quad$ possession.
 - ***something seized***, i.e. ***a possession*** (especially of land)
@@ -8,4 +8,4 @@ $\quad$ possession.
 $\quad$ **1a)** land
 $\quad$ **1b)** possession by inheritance
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κατάσχεσις</span><sup><small>[[G2697]]</small></sup> · <span class="asgreek">κληρονομία</span><sup><small>[[G2817]]</small></sup>
+<small>See Greek: </small>**<big>[[G2697|κατάσχεσις]]</big>** · **<big>[[G2817|κληρονομία]]</big>**

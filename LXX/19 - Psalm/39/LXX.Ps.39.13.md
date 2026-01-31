@@ -11,20 +11,20 @@ Turn Your gaze away from me, that I may again be cheered before I depart and am 
 > $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Spare | <big><span class="asgreek">άνες</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I shall refresh | <big><span class="asgreek">αναψύξω</span></big> <sup><small><small>[[G0404]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| going forth, | <big><span class="asgreek">απελθείν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| exist. | <big><span class="asgreek">υπάρξω</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| Spare | **<big>[[G0447\|άνες]]</big>** |
+| me! | **<big>[[G1473\|μοι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I shall refresh | **<big>[[G0404\|αναψύξω]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my | **<big>[[G1473\|με]]</big>** |
+| going forth, | **<big>[[G0565\|απελθείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should no longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| exist. | **<big>[[G5225\|υπάρξω]]</big>** |
 [[Ps.39.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.12|<< Psalm 39:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.1|Psalm 40:1 >>]]</td></tr></table>
 
 

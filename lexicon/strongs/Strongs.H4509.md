@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎מִנְיָמִין‎</span></big> **Minyâmîyn** <small>*(min-yaw-meen')*</small> ==**Miniamin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מִן‎</span><sup><small>[[H4480]]</small></sup> and <span class="ashebrew">‎יָמִין‎</span><sup><small>[[H3225]]</small></sup>; from (the) right hand</small>
+**<big><span class="ashebrew">‎מִנְיָמִין‎</span></big>** **Minyâmîyn** <small>*(min-yaw-meen')*</small> ==**Miniamin**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4480|‎מִן‎]]</big>** and **<big>[[H3225|‎יָמִין‎]]</big>**; from (the) right hand</small>
 
-$\quad$ Miniamin. Compare <span class="ashebrew">‎מִיָּמִן‎</span><sup><small>[[H4326]]</small></sup>.
+$\quad$ Miniamin. Compare **<big>[[H4326|‎מִיָּמִן‎]]</big>**.
 - § Miniamin = *"from the right hand"*
 - ***Minjamin***, the name of two Israelites
 

@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎פְּתַי‎</span></big> **pᵉthay** <small>*(peth-ah'-ee)*</small> ==**breadth**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from a root corresponding to <span class="ashebrew">‎פָּתָה‎</span><sup><small>[[H6601]]</small></sup></small>
+**<big><span class="asaramaic">‎פְּתַי‎</span></big>** **pᵉthay** <small>*(peth-ah'-ee)*</small> ==**breadth**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from a root corresponding to **<big>[[H6601|‎פָּתָה‎]]</big>**</small>
 
 $\quad$ breadth.
 - ***open***, i.e. (as noun) ***width***
 
 **1)** width, breadth
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πλάτος</span><sup><small>[[G4114]]</small></sup>
+<small>See Greek: </small>**<big>[[G4114|πλάτος]]</big>**

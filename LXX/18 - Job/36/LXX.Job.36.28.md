@@ -7,16 +7,16 @@ Which the clouds do drop [and] distil upon man abundantly.
 which the clouds pour out and shower abundantly on mankind.<small><sub>**MT:**</sub></small>
 [[Job.36.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.27|<< Job 36:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.29|Job 36:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall flow | <big><span class="asgreek">ρυήσονται</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
-| Things grown old | <big><span class="asgreek">παλαιώματα</span></big> <sup><small><small>[[G8587]]</small></small></sup> |
-| shadow | <big><span class="asgreek">εσκίασε</span></big> <sup><small><small>[[G9106]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νέφη</span></big> <sup><small><small>[[G3509]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| untold | <big><span class="asgreek">αμυθήτων</span></big> <sup><small><small>[[G6266]]</small></small></sup> |
-| mortals. | <big><span class="asgreek">βροτών</span></big> <sup><small><small>[[G6699]]</small></small></sup> |
+| shall flow | **<big>[[G4482\|ρυήσονται]]</big>** |
+| Things grown old | **<big>[[G8587\|παλαιώματα]]</big>** |
+| shadow | **<big>[[G9106\|εσκίασε]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| clouds | **<big>[[G3509\|νέφη]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| untold | **<big>[[G6266\|αμυθήτων]]</big>** |
+| mortals. | **<big>[[G6699\|βροτών]]</big>** |
 [[Job.36.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.27|<< Job 36:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.29|Job 36:29 >>]]</td></tr></table>
 
 

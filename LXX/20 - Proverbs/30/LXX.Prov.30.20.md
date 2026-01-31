@@ -7,20 +7,20 @@ Such [is] the way of an adulterous woman; she eateth, and wipeth her mouth, and 
 This is the way of an adulteress: She eats and wipes her mouth and says, ‘I have done nothing wrong.’<small><sub>**MT:**</sub></small>
 [[Prov.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Such is the | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of an adulterous | <big><span class="asgreek">μοιχαλίδος</span></big> <sup><small><small>[[G3428]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| she should act | <big><span class="asgreek">πράξη</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
-| in washing \[herself\], | <big><span class="asgreek">απονιψαμένη</span></big> <sup><small><small>[[G0633]]</small></small></sup> |
-| not | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| she says | <big><span class="asgreek">φησι</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| to have acted | <big><span class="asgreek">πεπραχέναι</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
-| out of place. | <big><span class="asgreek">άτοπον</span></big> <sup><small><small>[[G0824]]</small></small></sup> |
+| Such is the | **<big>[[G5108\|τοιαύτη]]</big>** |
+| way | **<big>[[G3598\|οδός]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| of an adulterous | **<big>[[G3428\|μοιχαλίδος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| she should act | **<big>[[G4238\|πράξη]]</big>** |
+| in washing \[herself\], | **<big>[[G0633\|απονιψαμένη]]</big>** |
+| not | **<big>[[G3762\|ουδέν]]</big>** |
+| she says | **<big>[[G5346\|φησι]]</big>** |
+| to have acted | **<big>[[G4238\|πεπραχέναι]]</big>** |
+| out of place. | **<big>[[G0824\|άτοπον]]</big>** |
 [[Prov.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
 

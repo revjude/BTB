@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎נְכֹת‎</span></big> **nᵉkôth** <small>*(nek-oth')*</small> ==**treasure**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>probably for <span class="ashebrew">‎נְכֹאת‎</span><sup><small>[[H5219]]</small></sup></small>
+**<big><span class="ashebrew">‎נְכֹת‎</span></big>** **nᵉkôth** <small>*(nek-oth')*</small> ==**treasure**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>probably for **<big>[[H5219|‎נְכֹאת‎]]</big>**</small>
 
 $\quad$ precious things.
 - ***spicery***, i.e. (generally) ***valuables***
 
 **1)** treasure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θυμίαμα</span><sup><small>[[G2368]]</small></sup>
+<small>See Greek: </small>**<big>[[G2368|θυμίαμα]]</big>**

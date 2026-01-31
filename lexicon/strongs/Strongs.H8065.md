@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שָׁמַיִן‎</span></big> **shâmayin** <small>*(shaw-mah'-yin)*</small> ==**heaven**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁמַיִם‎</span><sup><small>[[H8064]]</small></sup></small>
+**<big><span class="asaramaic">‎שָׁמַיִן‎</span></big>** **shâmayin** <small>*(shaw-mah'-yin)*</small> ==**heaven**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8064|‎שָׁמַיִם‎]]</big>**</small>
 
 $\quad$ heaven.
 - {***the sky*** (as aloft

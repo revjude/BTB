@@ -6,14 +6,14 @@ Judgments are prepared for mockers, and beatings for the backs of fools.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.28|<< Proverbs 19:28]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.1|Proverbs 20:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they are prepared  | <span class="ashebrew"><big>נָכ֣וֹנוּ </big></span><small><small><sup>[[H3559A]]</sup></small></small> &#8207;| na.Kho.nu <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> mockers  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>לֵּצִ֣ים </big></span><small><small><sup>[[H3887]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> le.Tzim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judgments  | <span class="ashebrew"><big>שְׁפָטִ֑ים </big></span><small><small><sup>[[H8201]]</sup></small></small> &#8207;| she.fa.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and blows  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַהֲלֻמ֗וֹת </big></span><small><small><sup>[[H4112]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.ha.lu.Mot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] back of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גֵ֣ו </big></span><small><small><sup>[[H1460A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Gev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fools  | <span class="ashebrew"><big>כְּסִילִֽים </big></span><small><small><sup>[[H3684]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke.si.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are prepared  |**<big>&#8207;[[H3559A\|נָכ֣וֹנוּ]]&#8207; </big>**| na.Kho.nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> mockers  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3887\|לֵּצִ֣ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> le.Tzim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgments  |**<big>&#8207;[[H8201\|שְׁפָטִ֑ים]]&#8207; </big>**| she.fa.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and blows  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H4112\|מַהֲלֻמ֗וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.ha.lu.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] back of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1460A\|גֵ֣ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Gev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fools  |**<big>&#8207;[[H3684\|כְּסִילִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.si.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.28|<< Proverbs 19:28]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.1|Proverbs 20:1 >>]]</td></tr></table>
 
 

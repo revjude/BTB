@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁקֵד‎</span></big> **shâqêd** <small>*(shaw-kade')*</small> ==**almond**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁקַד‎</span><sup><small>[[H8245]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׁקֵד‎</span></big>** **shâqêd** <small>*(shaw-kade')*</small> ==**almond**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8245|‎שָׁקַד‎]]</big>**</small>
 
 $\quad$ almond (tree).
 - ***the almond*** (tree or nut

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֲבַל‎</span></big> **chăbal** <small>*(khab-al')*</small> ==**to destroy**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎חָבַל‎</span><sup><small>[[H2254]]</small></sup></small>
+**<big><span class="asaramaic">‎חֲבַל‎</span></big>** **chăbal** <small>*(khab-al')*</small> ==**to destroy**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2254|‎חָבַל‎]]</big>**</small>
 
 $\quad$ destroy, hurt.
 - ***to ruin***
@@ -8,4 +8,4 @@ $\quad$ destroy, hurt.
 $\quad$ **1a)** (Pael) to hurt, destroy
 $\quad$ **1b)** (Ithpael) to be destroyed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκκόπτω</span><sup><small>[[G1581]]</small></sup> · <span class="asgreek">λυμαίνομαι</span><sup><small>[[G3075]]</small></sup>
+<small>See Greek: </small>**<big>[[G1581|ἐκκόπτω]]</big>** · **<big>[[G3075|λυμαίνομαι]]</big>**

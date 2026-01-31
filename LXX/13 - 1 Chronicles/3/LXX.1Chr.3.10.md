@@ -7,17 +7,17 @@ And Solomon’s son [was] Rehoboam, Abia his son, Asa his son, Jehoshaphat his s
 Solomon’s son was Rehoboam: Abijah was his son, Asa his son, Jehoshaphat his son,<small><sub>**MT:**</sub></small>
 [[1Chr.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.9|<< 1 Chronicles 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.11|1 Chronicles 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Solomon -- | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| Rehoboam; | <big><span class="asgreek">Ροβοάμ</span></big> <sup><small><small>[[G4497]]</small></small></sup> |
-| Abia | <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| \[was\] his son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Asa | <big><span class="asgreek">Ασά</span></big> <sup><small><small>[[G0760]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Solomon -- | **<big>[[G4672\|Σολομών]]</big>** |
+| Rehoboam; | **<big>[[G4497\|Ροβοάμ]]</big>** |
+| Abia | **<big>[[G0007\|Αβία]]</big>** |
+| \[was\] his son, | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Asa | **<big>[[G0760\|Ασά]]</big>** |
+| his son, | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| his son, | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Chr.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.9|<< 1 Chronicles 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.11|1 Chronicles 3:11 >>]]</td></tr></table>
 
 

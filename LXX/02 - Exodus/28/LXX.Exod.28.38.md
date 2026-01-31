@@ -7,40 +7,40 @@ And it shall be upon Aaron’s forehead, that Aaron may bear the iniquity of the
 And it will be worn on Aaron’s forehead, so that he may bear the iniquity of the holy things that the sons of Israel consecrate with regard to all their holy gifts. It shall always be on his forehead, so that they may be acceptable before the LORD.<small><sub>**MT:**</sub></small>
 [[Exod.28.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.37|<< Exodus 28:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.39|Exodus 28:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forehead | <big><span class="asgreek">μετώπου</span></big> <sup><small><small>[[G3359]]</small></small></sup> |
-| of Aaron; | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aaron shall lift away | <big><span class="asgreek">εξαρεί</span></big> <sup><small><small>[[G1808]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| whatever as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should sanctify | <big><span class="asgreek">αγιάσωσιν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| gift | <big><span class="asgreek">δόματος</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their holy \[things\]; | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forehead | <big><span class="asgreek">μετώπου</span></big> <sup><small><small>[[G3359]]</small></small></sup> |
-| of Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| always -- | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| accepted | <big><span class="asgreek">δεκτόν</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| forehead | **<big>[[G3359\|μετώπου]]</big>** |
+| of Aaron; | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aaron shall lift away | **<big>[[G1808\|εξαρεί]]</big>** **<big>[[G0002\|Ααρών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sins | **<big>[[G0265\|αμαρτήματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holy \[things\] | **<big>[[G0039\|αγίων]]</big>** |
+| whatever as much as | **<big>[[G3745\|όσα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| should sanctify | **<big>[[G0037\|αγιάσωσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| every | **<big>[[G3956\|παντός]]</big>** |
+| gift | **<big>[[G1390\|δόματος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their holy \[things\]; | **<big>[[G0039\|αγίων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| forehead | **<big>[[G3359\|μετώπου]]</big>** |
+| of Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| always -- | **<big>[[G1275\|διαπαντός]]</big>** |
+| accepted | **<big>[[G1184\|δεκτόν]]</big>** |
+| for them | **<big>[[G1473\|αυτοίς]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
 [[Exod.28.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.37|<< Exodus 28:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.39|Exodus 28:39 >>]]</td></tr></table>
 
 

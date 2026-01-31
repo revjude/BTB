@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִקְנָה‎</span></big> **miqnâh** <small>*(mik-naw')*</small> ==**purchase**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מִקְנֶה‎</span><sup><small>[[H4735]]</small></sup></small>
+**<big><span class="ashebrew">‎מִקְנָה‎</span></big>** **miqnâh** <small>*(mik-naw')*</small> ==**purchase**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4735|‎מִקְנֶה‎]]</big>**</small>
 
 $\quad$ (he that is) bought, possession, piece, purchase.
 - properly, ***a buying***, i.e. ***acquisition***

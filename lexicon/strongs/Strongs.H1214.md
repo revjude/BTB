@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּצַע‎</span></big> **bâtsaʻ** <small>*(baw-tsah')*</small> ==**to cut off**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּצַע‎</span></big>** **bâtsaʻ** <small>*(baw-tsah')*</small> ==**to cut off**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root to break off, i.e. (usually) plunder</small>
 
 $\quad$ (be) covet(-ous), cut (off), finish, fulfill, gain (greedily), get, be given to (covetousness), greedy, perform, be wounded.
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** to cut off, sever
 $\quad$ $\quad$ **1b2)** to finish, complete, accomplish
 $\quad$ $\quad$ **1b3)** to violently make gain of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἀναιρέω</span><sup><small>[[G0337]]</small></sup> · <span class="asgreek">ἐπέχω</span><sup><small>[[G1907]]</small></sup> · <span class="asgreek">ἐπιτελέω</span><sup><small>[[G2005]]</small></sup> · <span class="asgreek">πλεονεκτέω</span><sup><small>[[G4122]]</small></sup> · <span class="asgreek">συντελέω</span><sup><small>[[G4931]]</small></sup> · <span class="asgreek">συντελέω</span><sup><small>[[G4931]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0337|ἀναιρέω]]</big>** · **<big>[[G1907|ἐπέχω]]</big>** · **<big>[[G2005|ἐπιτελέω]]</big>** · **<big>[[G4122|πλεονεκτέω]]</big>** · **<big>[[G4931|συντελέω]]</big>** · **<big>[[G4931|συντελέω]]</big>**

@@ -7,22 +7,22 @@ And he took him a potsherd to scrape himself withal; and he sat down among the a
 And Job took a piece of broken pottery to scrape himself as he sat among the ashes.<small><sub>**MT:**</sub></small>
 [[Job.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.7|<< Job 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.9|Job 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a potsherd | <big><span class="asgreek">όστρακον</span></big> <sup><small><small>[[G8561]]</small></small></sup> |
-| so as | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pus | <big><span class="asgreek">ιχώρα</span></big> <sup><small><small>[[G7744]]</small></small></sup> |
-| to scrape | <big><span class="asgreek">ξύη</span></big> <sup><small><small>[[G8436]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sat down | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| within | <big><span class="asgreek">εντός</span></big> <sup><small><small>[[G1787]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ashes. | <big><span class="asgreek">σποδού</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβεν]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| a potsherd | **<big>[[G8561\|όστρακον]]</big>** |
+| so as | **<big>[[G2443\|ίνα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| pus | **<big>[[G7744\|ιχώρα]]</big>** |
+| to scrape | **<big>[[G8436\|ξύη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| sat down | **<big>[[G2521\|εκάθητο]]</big>** |
+| within | **<big>[[G1787\|εντός]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ashes. | **<big>[[G4700\|σποδού]]</big>** |
 [[Job.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.7|<< Job 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.9|Job 2:9 >>]]</td></tr></table>
 
 

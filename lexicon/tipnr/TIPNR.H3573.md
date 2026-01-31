@@ -4,7 +4,7 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Cushan-rishathaim</span>, king of Mesopotamia, oppressed Israel for eight years until Othniel defeated him. \(Jdg.3.8,8,10,10\)
 - A man living before Israel's Monarchy, first mentioned at Jdg.3.8; 
-- only referred to as Cushan-rishathaim<[[H3573]]> \(<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ת</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Cushan-rishathaim **<big>[[H3573|כּוּשַׁן רִשְׁעָתַיִם]]</big>**.
 
 Cushan-rishathaim was the king of Mesopotamia \(Aram-naharaim\) who oppressed the Israelites for eight years after they had done evil in the sight of the Lord. As a result of their disobedience, the Lord sold the Israelites into the hand of Cushan-rishathaim. 
 
@@ -14,5 +14,5 @@ As a result of Othniel's victory, the land had rest for forty years until Othnie
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cushan-rishathaim | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ת</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H3573) <small>*Hebrew*</small> | 4x | [[Jdg.3.8a] ... [Jdg.3.10b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cushan\*\|reference=Jdg.3.8;Jdg.3.8;Jdg.3.10;Jdg.3.10) |
-All Strong's for **Cushan-rishathaim**: \[[[H3573]]\]
+| Cushan-rishathaim | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ת</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H3573) | 4x | [[Jdg.3.8a] ... [Jdg.3.10b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cushan\*\|reference=Jdg.3.8;Jdg.3.8;Jdg.3.10;Jdg.3.10) |
+All entries for **Cushan-rishathaim**:  **<big>[[H3573|כּוּשַׁן רִשְׁעָתַיִם]]</big>**

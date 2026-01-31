@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָהַב‎</span></big> **ʼâhab** <small>*(aw-hab')*</small> ==**to love: lover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">אָהֵב</span> **ʼâhêb** <small>*(aw-habe')*</small> ; a primitive root</small>
+**<big><span class="ashebrew">‎אָהַב‎</span></big>** **ʼâhab** <small>*(aw-hab')*</small> ==**to love: lover**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">אָהֵב</span></big>** **ʼâhêb** <small>*(aw-habe')*</small> ; a primitive root</small>
 
 $\quad$ (be-) love(-d, -ly, -r), like, friend.
 - ***to have affection f***or (sexually or otherwise)
@@ -24,4 +24,4 @@ $\quad$ $\quad$ **1c1)** friends
 $\quad$ $\quad$ **1c2)** lovers (fig. of adulterers)
 **2)** to like
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">ἀγαπάω</span><sup><small>[[G0025]]</small></sup> · <span class="asgreek">ἀγαπητός</span><sup><small>[[G0027]]</small></sup> · <span class="asgreek">γεωργός</span><sup><small>[[G1092]]</small></sup> · <span class="asgreek">ἐνοικέω</span><sup><small>[[G1774]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">ζητέω</span><sup><small>[[G2212]]</small></sup> · <span class="asgreek">κρατέω</span><sup><small>[[G2902]]</small></sup> · <span class="asgreek">φιλέω</span><sup><small>[[G5368]]</small></sup> · <span class="asgreek">φιλία</span><sup><small>[[G5373]]</small></sup> · <span class="asgreek">φίλος</span><sup><small>[[G5384]]</small></sup> · <span class="asgreek">χαίρω</span><sup><small>[[G5463]]</small></sup>
+<small>See Greek: </small>**<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0025|ἀγαπάω]]</big>** · **<big>[[G0027|ἀγαπητός]]</big>** · **<big>[[G1092|γεωργός]]</big>** · **<big>[[G1774|ἐνοικέω]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2212|ζητέω]]</big>** · **<big>[[G2902|κρατέω]]</big>** · **<big>[[G5368|φιλέω]]</big>** · **<big>[[G5373|φιλία]]</big>** · **<big>[[G5384|φίλος]]</big>** · **<big>[[G5463|χαίρω]]</big>**

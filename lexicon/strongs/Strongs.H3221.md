@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יָם‎</span></big> **yâm** <small>*(yawm)*</small> ==**sea**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יָם‎</span><sup><small>[[H3220]]</small></sup></small>
+**<big><span class="asaramaic">‎יָם‎</span></big>** **yâm** <small>*(yawm)*</small> ==**sea**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3220|‎יָם‎]]</big>**</small>
 
 $\quad$ sea.
 - {***a sea*** (as breaking in noisy surf) or ***large body of water***

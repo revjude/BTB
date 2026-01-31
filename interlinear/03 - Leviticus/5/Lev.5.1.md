@@ -6,25 +6,25 @@ And if a soul sin, and hear the voice of swearing, and [is] a witness, whether h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.35|<< Leviticus 4:35]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.2|Leviticus 5:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and anyone  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נֶ֣פֶשׁ </big></span><small><small><sup>[[H5315J]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will sin  | <span class="ashebrew"><big>תֶחֱטָ֗א </big></span><small><small><sup>[[H2398]]</sup></small></small> &#8207;| te.che.Ta' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will hear  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שָֽׁמְעָה֙ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> sha.me.'Ah <small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sound of  | <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963K]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an oath  | <span class="ashebrew"><big>אָלָ֔ה </big></span><small><small><sup>[[H0423]]</sup></small></small> &#8207;| 'a.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] a witness  | <span class="ashebrew"><big>עֵ֔ד </big></span><small><small><sup>[[H5707]]</sup></small></small> &#8207;| 'Ed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֥וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he saw  | <span class="ashebrew"><big>רָאָ֖ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֣וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he knew  | <span class="ashebrew"><big>יָדָ֑ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.Da' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>ל֥וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will tell  | <span class="ashebrew"><big>יַגִּ֖יד </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ya.Gid <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will bear  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָשָׂ֥א </big></span><small><small><sup>[[H5375J]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.Sa' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| iniquity his  | <span class="ashebrew"><big>עֲוֹנֽ </big></span><small><small><sup>[[H5771G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| a.vo.N <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and anyone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5315J\|נֶ֣פֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will sin  |**<big>&#8207;[[H2398\|תֶחֱטָ֗א]]&#8207; </big>**| te.che.Ta'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָֽׁמְעָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.me.'Ah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  |**<big>&#8207;[[H6963K\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an oath  |**<big>&#8207;[[H0423\|אָלָ֔ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a witness  |**<big>&#8207;[[H5707\|עֵ֔ד]]&#8207; </big>**| 'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֥וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he saw  |**<big>&#8207;[[H7200G\|רָאָ֖ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he knew  |**<big>&#8207;[[H3045\|יָדָ֑ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|ל֥וֹא]]&#8207; </big>**| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will tell  |**<big>&#8207;[[H5046\|יַגִּ֖יד]]&#8207; </big>**| ya.Gid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375J\|נָשָׂ֥א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity his  |**<big>&#8207;[[H5771G\|עֲוֹנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.vo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.35|<< Leviticus 4:35]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.2|Leviticus 5:2 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ There went up a smoke out of his nostrils, and fire out of his mouth devoured: c
 Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.<small><sub>**MT:**</sub></small>
 [[Ps.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.7|<< Psalm 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.9|Psalm 18:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Smoke | <big><span class="asgreek">καπνός</span></big> <sup><small><small>[[G2586]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his anger, | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be ignited | <big><span class="asgreek">καταφλεγήσεται</span></big> <sup><small><small>[[G7948]]</small></small></sup> |
-| Coals | <big><span class="asgreek">άνθρακες</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
-| they were lit | <big><span class="asgreek">ανήφθησαν</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| by | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Smoke | **<big>[[G2586\|καπνός]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his anger, | **<big>[[G3709\|οργή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of him. | **<big>[[G1473\|αυτού]]</big>** |
+| shall be ignited | **<big>[[G7948\|καταφλεγήσεται]]</big>** |
+| Coals | **<big>[[G0440\|άνθρακες]]</big>** |
+| they were lit | **<big>[[G0381\|ανήφθησαν]]</big>** |
+| by | **<big>[[G0575\|απ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.7|<< Psalm 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.9|Psalm 18:9 >>]]</td></tr></table>
 
 

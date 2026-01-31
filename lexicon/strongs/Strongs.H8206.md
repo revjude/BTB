@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֻׁפִּים‎</span></big> **Shuppîym** <small>*(shoop-peem')*</small> ==**Shuppim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>plural of an unused noun from the same as <span class="ashebrew">‎שְׁפִיפֹן‎</span><sup><small>[[H8207]]</small></sup> and meaning the same; serpents</small>
+**<big><span class="ashebrew">‎שֻׁפִּים‎</span></big>** **Shuppîym** <small>*(shoop-peem')*</small> ==**Shuppim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>plural of an unused noun from the same as **<big>[[H8207|‎שְׁפִיפֹן‎]]</big>** and meaning the same; serpents</small>
 
 $\quad$ Shuppim.
 - § Shuppim = *"serpents"*

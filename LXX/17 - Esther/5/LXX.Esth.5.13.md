@@ -7,21 +7,21 @@ Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at t
 Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the king’s gate.”<small><sub>**MT:**</sub></small>
 [[Esth.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.12|<< Esther 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.14|Esther 5:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| please | <big><span class="asgreek">αρέσκει</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| I behold | <big><span class="asgreek">ίδω</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| Mordecai | <big><span class="asgreek">Μαρδοχαίον</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jew | <big><span class="asgreek">Ιουδαίον</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard. | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτά]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| please | **<big>[[G0700\|αρέσκει]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| I behold | **<big>[[G1492\|ίδω]]</big>** |
+| Mordecai | **<big>[[H4782\|Μαρδοχαίον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jew | **<big>[[G2453\|Ιουδαίον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard. | **<big>[[G0833\|αυλή]]</big>** |
 [[Esth.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.12|<< Esther 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.14|Esther 5:14 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ When [there were] no depths, I was brought forth; when [there were] no fountains
 When there were no watery depths, I was brought forth, when no springs were overflowing with water.<small><sub>**MT:**</sub></small>
 [[Prov.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.23|<< Proverbs 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.25|Proverbs 8:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abysses | <big><span class="asgreek">αβύσσους</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming forth | <big><span class="asgreek">προελθείν</span></big> <sup><small><small>[[G4281]]</small></small></sup> |
-| of the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| springs | <big><span class="asgreek">πηγάς</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of waters; | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| abysses | **<big>[[G0012\|αβύσσους]]</big>** |
+| making | **<big>[[G4160\|ποιήσαι]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| coming forth | **<big>[[G4281\|προελθείν]]</big>** |
+| of the | **<big>[[G3588\|τας]]</big>** |
+| springs | **<big>[[G4077\|πηγάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of waters; | **<big>[[G5204\|υδάτων]]</big>** |
 [[Prov.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.23|<< Proverbs 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.25|Proverbs 8:25 >>]]</td></tr></table>
 
 

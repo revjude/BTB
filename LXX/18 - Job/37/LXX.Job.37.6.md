@@ -7,17 +7,17 @@ For he saith to the snow, Be thou [on] the earth; likewise to the small rain, an
 For He says to the snow, ‘Fall on the earth,’ and to the gentle rain, ‘Pour out a mighty downpour.’<small><sub>**MT:**</sub></small>
 [[Job.37.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.5|<< Job 37:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.7|Job 37:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ordering | <big><span class="asgreek">συντάσσων</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
-| \[the\] snow, \[saying\], | <big><span class="asgreek">χιόνι</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
-| Be | <big><span class="asgreek">γίνου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] winter | <big><span class="asgreek">χειμών</span></big> <sup><small><small>[[G5494]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| of his command. | <big><span class="asgreek">δυναστείας</span></big> <sup><small><small>[[G6973]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ordering | **<big>[[G4929\|συντάσσων]]</big>** |
+| \[the\] snow, \[saying\], | **<big>[[G5510\|χιόνι]]</big>** |
+| Be | **<big>[[G1096\|γίνου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] earth; | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] winter | **<big>[[G5494\|χειμών]]</big>** |
+| rain | **<big>[[G5205\|υετόν]]</big>** |
+| of his command. | **<big>[[G6973\|δυναστείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Job.37.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.5|<< Job 37:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.7|Job 37:7 >>]]</td></tr></table>
 
 

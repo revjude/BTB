@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זַתּוּא‎</span></big> **Zattûwʼ** <small>*(zat-too')*</small> ==**Zattu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎זַתּוּא‎</span></big>** **Zattûwʼ** <small>*(zat-too')*</small> ==**Zattu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Zattu.

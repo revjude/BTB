@@ -6,18 +6,18 @@ My soul thirsts for God, the living God. When shall I come and appear in God’s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.1|<< Psalms 42:1]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.3|Psalms 42:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it thirsts  | <span class="ashebrew"><big>צָמְאָ֬ה </big></span><small><small><sup>[[H6770]]</sup></small></small> &#8207;| tza.me.'Ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| being my  | <span class="ashebrew"><big>נַפְשִׁ֨ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for God  | <span class="ashebrew"><big>לֵ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אלֹהִים֮ </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] God  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵ֪ל </big></span><small><small><sup>[[H0410G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'El <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| living  | <span class="ashebrew"><big>חָ֥י </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>מָתַ֥י </big></span><small><small><sup>[[H4970]]</sup></small></small> &#8207;| ma.Tai <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will I go  | <span class="ashebrew"><big>אָב֑וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| 'a.Vo' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I may appear?  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵרָאֶ֗ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'e.ra.'Eh <small><sup>[[HVNu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] presence of  | <span class="ashebrew"><big>פְּנֵ֣י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| pe.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱלֹהִֽים </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it thirsts  |**<big>&#8207;[[H6770\|צָמְאָ֬ה]]&#8207; </big>**| tza.me.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for God  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430G\|אלֹהִים֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] God  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0410G\|אֵ֪ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living  |**<big>&#8207;[[H2416A\|חָ֥י]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H4970\|מָתַ֥י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I go  |**<big>&#8207;[[H0935G\|אָב֑וֹא]]&#8207; </big>**| 'a.Vo'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may appear?  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H7200G\|אֵרָאֶ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.ra.'Eh<small><sup>[[HVNu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] presence of  |**<big>&#8207;[[H6440G\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.1|<< Psalms 42:1]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.3|Psalms 42:3 >>]]</td></tr></table>
 
 

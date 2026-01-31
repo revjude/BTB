@@ -7,20 +7,20 @@ O keep my soul, and deliver me: let me not be ashamed; for I put my trust in the
 Guard my soul and deliver me; let me not be put to shame, for I take refuge in You.<small><sub>**MT:**</sub></small>
 [[Ps.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.19|<< Psalm 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.21|Psalm 25:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Guard | <big><span class="asgreek">φύλαξον</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul, | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rescue | <big><span class="asgreek">ρύσαί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| May I not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be disgraced, | <big><span class="asgreek">καταισχυνθείην</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I hoped | <big><span class="asgreek">ήλπισα</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Guard | **<big>[[G5442\|φύλαξον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul, | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rescue | **<big>[[G4506\|ρύσαί]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| May I not | **<big>[[G3361\|μη]]</big>** |
+| be disgraced, | **<big>[[G2617\|καταισχυνθείην]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I hoped | **<big>[[G1679\|ήλπισα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Ps.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.19|<< Psalm 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.21|Psalm 25:21 >>]]</td></tr></table>
 
 

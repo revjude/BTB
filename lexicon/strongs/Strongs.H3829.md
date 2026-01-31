@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לְבוֹנָה‎</span></big> **Lᵉbôwnâh** <small>*(leb-o-naw')*</small> ==**Lebonah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎לְבוֹנָה‎</span><sup><small>[[H3828]]</small></sup></small>
+**<big><span class="ashebrew">‎לְבוֹנָה‎</span></big>** **Lᵉbôwnâh** <small>*(leb-o-naw')*</small> ==**Lebonah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3828|‎לְבוֹנָה‎]]</big>**</small>
 
 $\quad$ Lebonah.
 - § Lebonah = *"frankincense"*

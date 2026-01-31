@@ -7,15 +7,15 @@ They that sow in tears shall reap in joy.
 Those who sow in tears will reap with shouts of joy.<small><sub>**MT:**</sub></small>
 [[Ps.126.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.126.4|<< Psalm 126:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.6|Psalm 126:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones sowing | <big><span class="asgreek">σπείροντες</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| tears, | <big><span class="asgreek">δάκρυσιν</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| exultation | <big><span class="asgreek">αγαλλιάσει</span></big> <sup><small><small>[[G0020]]</small></small></sup> |
-| shall harvest | <big><span class="asgreek">θεριούσι</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| ones sowing | **<big>[[G4687\|σπείροντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| tears, | **<big>[[G1144\|δάκρυσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| exultation | **<big>[[G0020\|αγαλλιάσει]]</big>** |
+| shall harvest | **<big>[[G2325\|θεριούσι]]</big>** |
 [[Ps.126.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.126.4|<< Psalm 126:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.6|Psalm 126:6 >>]]</td></tr></table>
 
 

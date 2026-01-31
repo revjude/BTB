@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֵבָה‎</span></big> **qêbâh** <small>*(kay-baw')*</small> ==**stomach**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎קָבַב‎</span><sup><small>[[H6895]]</small></sup></small>
+**<big><span class="ashebrew">‎קֵבָה‎</span></big>** **qêbâh** <small>*(kay-baw')*</small> ==**stomach**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6895|‎קָבַב‎]]</big>**</small>
 
 $\quad$ maw.
 - ***the paunch*** (as a cavity) or ***first stomach of ruminants***

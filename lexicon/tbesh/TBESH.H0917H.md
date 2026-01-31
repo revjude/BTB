@@ -1,6 +1,5 @@
-<span class="ashebrew">‎בְּדָן‎</span> <small>***(be.dan)***</small> ==**Barak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-spelling of: <small>[[H1301]]</small> 
+<small>spelling of:</small> <small>**<big>[[H1301|בָּרָק]]</big>**</small> 
 
 - A Judge living before Israel's Monarchy, first mentioned at [[Judg.4.6|Jdg.4.6]]
--  son of: Abinoam ([[H0042]])
-- Another spelling of <i>ba.raq</i> (<span class='ashebrew'>‎ב‎</span>ָּ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ק‎</span> "Barak" [[H1301]])
+-  son of: Abinoam (**<big>[[H0042|אֲבִינֹעַם]]</big>**)
+- Another spelling of <i>ba.raq</i> (<span class='ashebrew'>‎ב‎</span>ָּ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ק‎</span> "Barak" **<big>[[H1301|בָּרָק]]</big>**)

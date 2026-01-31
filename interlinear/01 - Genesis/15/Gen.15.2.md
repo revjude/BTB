@@ -6,24 +6,24 @@ But Abram replied, “O Lord GOD, what can You give me, since I remain childless
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.1|<< Genesis 15:1]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.3|Genesis 15:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abram  | <span class="ashebrew"><big>אַבְרָ֗ם </big></span><small><small><sup>[[H0087]]</sup></small></small> &#8207;| 'av.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Lord  | <span class="ashebrew"><big>אֲדֹנָ֤י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יֱהוִה֙ </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you give  | <span class="ashebrew"><big>תִּתֶּן </big></span><small><small><sup>[[H5414G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ti.ten- <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> me  | <span class="ashebrew"><big>לִ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| L <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָנֹכִ֖י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] going  | <span class="ashebrew"><big>הוֹלֵ֣ךְ </big></span><small><small><sup>[[H1980L]]</sup></small></small> &#8207;| ho.Lekh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| childless  | <span class="ashebrew"><big>עֲרִירִ֑י </big></span><small><small><sup>[[H6185]]</sup></small></small> &#8207;| 'a.ri.Ri <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] son of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֶן </big></span><small><small><sup>[[H1121J]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ven- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] acquisition of  | <span class="ashebrew"><big>מֶ֣שֶׁק </big></span><small><small><sup>[[H4943]]</sup></small></small> &#8207;| Me.shek <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| household my  | <span class="ashebrew"><big>בֵּיתִ֔ </big></span><small><small><sup>[[H1004M]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| bei.T <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֖וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] Damascus  | <span class="ashebrew"><big>דַּמֶּ֥שֶׂק </big></span><small><small><sup>[[H1834]]</sup></small></small> &#8207;| da.Me.sek <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliezer  | <span class="ashebrew"><big>אֱלִיעֶֽזֶר </big></span><small><small><sup>[[H0461G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.li.'E.zer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abram  |**<big>&#8207;[[H0087\|אַבְרָ֗ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֤י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יֱהוִה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you give  |**<big>&#8207;[[H5414G\|תִּתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ti.ten-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] going  |**<big>&#8207;[[H1980L\|הוֹלֵ֣ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| childless  |**<big>&#8207;[[H6185\|עֲרִירִ֑י]]&#8207; </big>**| 'a.ri.Ri<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121J\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] acquisition of  |**<big>&#8207;[[H4943\|מֶ֣שֶׁק]]&#8207; </big>**| Me.shek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| household my  |**<big>&#8207;[[H1004M\|בֵּיתִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Damascus  |**<big>&#8207;[[H1834\|דַּמֶּ֥שֶׂק]]&#8207; </big>**| da.Me.sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliezer  |**<big>&#8207;[[H0461G\|אֱלִיעֶֽזֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.li.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.1|<< Genesis 15:1]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.3|Genesis 15:3 >>]]</td></tr></table>
 
 

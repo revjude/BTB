@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּתַם‎</span></big> **kâtham** <small>*(kaw-tham')*</small> ==**be stained**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּתַם‎</span></big>** **kâtham** <small>*(kaw-tham')*</small> ==**be stained**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ mark.

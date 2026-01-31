@@ -7,26 +7,26 @@ O send out thy light and thy truth: let them lead me; let them bring me unto thy
 Send out Your light and Your truth; let them lead me. Let them bring me to Your holy mountain and to the place where You dwell.<small><sub>**MT:**</sub></small>
 [[Ps.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.43.2|<< Psalm 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.4|Psalm 43:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Send out | <big><span class="asgreek">εξαπόστειλον</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your light, | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your truth! | <big><span class="asgreek">αλήθειάν</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| guided me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ωδήγησαν</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led | <big><span class="asgreek">ήγαγόν</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| your holy | <big><span class="asgreek">άγιόν</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tents. | <big><span class="asgreek">σκηνώματά</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Send out | **<big>[[G1821\|εξαπόστειλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your light, | **<big>[[G5457\|φως]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your truth! | **<big>[[G0225\|αλήθειάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they | **<big>[[G1473\|αυτά]]</big>** |
+| guided me, | **<big>[[G1473\|με]]</big>** **<big>[[G3594\|ωδήγησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they led | **<big>[[G0071\|ήγαγόν]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| mountain | **<big>[[G3735\|όρος]]</big>** |
+| your holy | **<big>[[G0039\|άγιόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your tents. | **<big>[[G4638\|σκηνώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.43.2|<< Psalm 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.4|Psalm 43:4 >>]]</td></tr></table>
 
 

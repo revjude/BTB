@@ -7,55 +7,55 @@ Then said I, What come these to do? And he spake, saying, These [are] the horns 
 “What are these coming to do?” I asked. And He replied, “These are the horns that scattered Judah so that no one could raise his head; but the craftsmen have come to terrify them and throw down these horns of the nations that have lifted up their horns against the land of Judah to scatter it.”<small><sub>**MT:**</sub></small>
 [[Zech.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.20|<< Zechariah 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.1|Zechariah 2:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[are\] these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| come | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to do? | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| These are | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns, | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having scattered | <big><span class="asgreek">διασκορπίσαντα</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah, | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| they broke Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> <big><span class="asgreek">κατεαξαν</span></big> <sup><small><small>[[G2608]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήρε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \[his\] head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these are come forth | <big><span class="asgreek">εξηλθοσαν</span></big> <sup><small><small>[[G1831]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sharpen | <big><span class="asgreek">οξύναι</span></big> <sup><small><small>[[G8528]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| their hands -- | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| lifting up | <big><span class="asgreek">επαιρόμενα</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| \[their\] horn | <big><span class="asgreek">κέρας</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to scatter | <big><span class="asgreek">διασκορπίσαι</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| \[are\] these | **<big>[[G3778\|ούτοι]]</big>** |
+| come | **<big>[[G2064\|έρχονται]]</big>** |
+| to do? | **<big>[[G4160\|ποιήσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| These are | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| horns, | **<big>[[G2768\|κέρατα]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| having scattered | **<big>[[G1287\|διασκορπίσαντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Judah, | **<big>[[G2448\|Ιούδαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| they broke Israel, | **<big>[[G2474\|Ισραήλ]]</big>** **<big>[[G2608\|κατεαξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not one | **<big>[[G3762\|ουδείς]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| lifted | **<big>[[G0142\|ήρε]]</big>** |
+| \[his\] head. | **<big>[[G2776\|κεφαλήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| these are come forth | **<big>[[G1831\|εξηλθοσαν]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sharpen | **<big>[[G8528\|οξύναι]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| their hands -- | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| horns | **<big>[[G2768\|κέρατα]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| are | **<big>[[G1510\|εισίν]]</big>** |
+| lifting up | **<big>[[G1869\|επαιρόμενα]]</big>** |
+| \[their\] horn | **<big>[[G2768\|κέρας]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to scatter | **<big>[[G1287\|διασκορπίσαι]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Zech.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.20|<< Zechariah 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.1|Zechariah 2:1 >>]]</td></tr></table>
 
 

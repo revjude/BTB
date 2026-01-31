@@ -7,32 +7,32 @@ For the life of the flesh [is] in the blood: and I have given it to you upon the
 For the life of the flesh is in the blood, and I have given it to you to make atonement for your souls upon the altar; for it is the blood that makes atonement for the soul.<small><sub>**MT:**</sub></small>
 [[Lev.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.10|<< Leviticus 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.12|Leviticus 17:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σαρκός</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| its blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| to atone | <big><span class="asgreek">εξιλάσκεσθαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your souls. | <big><span class="asgreek">ψυχών</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| its blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \[the\] soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
+| For the | **<big>[[G3588\|η]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| life | **<big>[[G5590\|ψυχή]]</big>** |
+| of all | **<big>[[G3956\|πάσης]]</big>** |
+| flesh | **<big>[[G4561\|σαρκός]]</big>** |
+| its blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| gave | **<big>[[G1325\|έδωκα]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| to atone | **<big>[[G7331\|εξιλάσκεσθαι]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your souls. | **<big>[[G5590\|ψυχών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| its blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| \[the\] soul | **<big>[[G5590\|ψυχής]]</big>** |
+| shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
 [[Lev.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.10|<< Leviticus 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.12|Leviticus 17:12 >>]]</td></tr></table>
 
 

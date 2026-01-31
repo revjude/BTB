@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁלַל‎</span></big> **shâlal** <small>*(shaw-lal')*</small> ==**to take**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁלַל‎</span></big>** **shâlal** <small>*(shaw-lal')*</small> ==**to take**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ let fall, make self a prey, [idiom] of purpose, (make a, (take)) spoil.
@@ -10,4 +10,4 @@ $\quad$ let fall, make self a prey, [idiom] of purpose, (make a, (take)) spoil.
 $\quad$ **2a)** (Qal) to spoil, plunder
 $\quad$ **2b)** (Hithpolel) to be spoiled, be plundered
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παραβάλλω</span><sup><small>[[G3846]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G3846|παραβάλλω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

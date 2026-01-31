@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית־אֵל‎</span></big> **Bêyth-ʼÊl** <small>*(bayth-ale')*</small> ==**Bethel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; house of God</small>
+**<big><span class="ashebrew">‎בֵּית־אֵל‎</span></big>** **Bêyth-ʼÊl** <small>*(bayth-ale')*</small> ==**Bethel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; house of God</small>
 
 $\quad$ Beth-el.
 - § Bethel = *"house of God"*

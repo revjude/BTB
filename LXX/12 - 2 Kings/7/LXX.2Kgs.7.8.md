@@ -7,51 +7,51 @@ And when these lepers came to the uttermost part of the camp, they went into one
 When the lepers reached the edge of the camp, they went into a tent to eat and drink. Then they carried off the silver, gold, and clothing, and went and hid them. On returning, they entered another tent, carried off some items from there, and hid them.<small><sub>**MT:**</sub></small>
 [[2Kgs.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.7|<< 2 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.9|2 Kings 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these lepers | <big><span class="asgreek">λεπροί</span></big> <sup><small><small>[[G3015]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| a part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp. | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate, | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drank, | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήραν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| silver, | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clothes, | <big><span class="asgreek">ιματισμόν</span></big> <sup><small><small>[[G2441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they went | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hid \[everything\]. | <big><span class="asgreek">κατέκρυψαν</span></big> <sup><small><small>[[G7861]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they returned | <big><span class="asgreek">επέστρεψαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλην</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">απήλθον</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hid \[them\]. | <big><span class="asgreek">κατέκρυψαν</span></big> <sup><small><small>[[G7861]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| these lepers | **<big>[[G3015\|λεπροί]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| a part | **<big>[[G3313\|μέρους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp. | **<big>[[G3925\|παρεμβολής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ate, | **<big>[[G2068\|έφαγον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drank, | **<big>[[G4095\|έπιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lifted | **<big>[[G0142\|ήραν]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| silver, | **<big>[[G0694\|αργύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clothes, | **<big>[[G2441\|ιματισμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they went | **<big>[[G4198\|απήλθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hid \[everything\]. | **<big>[[G7861\|κατέκρυψαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they returned | **<big>[[G1994\|επέστρεψαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| another | **<big>[[G0243\|άλλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they took | **<big>[[G2983\|έλαβον]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|απήλθον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hid \[them\]. | **<big>[[G7861\|κατέκρυψαν]]</big>** |
 [[2Kgs.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.7|<< 2 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.9|2 Kings 7:9 >>]]</td></tr></table>
 
 

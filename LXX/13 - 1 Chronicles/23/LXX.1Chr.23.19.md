@@ -7,22 +7,22 @@ Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third,
 The sons of Hebron: Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.<small><sub>**MT:**</sub></small>
 [[1Chr.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.18|<< 1 Chronicles 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.20|1 Chronicles 23:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hebron -- | <big><span class="asgreek">Χεβρών</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
-| Jeriah | <big><span class="asgreek">Ιεριά</span></big> <sup><small><small>[[H3404]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler, | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| Amariah | <big><span class="asgreek">Αμαρία</span></big> <sup><small><small>[[H0568]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second, | <big><span class="asgreek">δεύτερος</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| Jahaziel | <big><span class="asgreek">Ιαζϊήλ</span></big> <sup><small><small>[[H3166]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third, | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| Jekameam | <big><span class="asgreek">Ιακαμίας</span></big> <sup><small><small>[[H3360]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth. | <big><span class="asgreek">τέταρτος</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
+| \[The\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Hebron -- | **<big>[[H2275b\|Χεβρών]]</big>** |
+| Jeriah | **<big>[[H3404\|Ιεριά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler, | **<big>[[G0758\|άρχων]]</big>** |
+| Amariah | **<big>[[H0568\|Αμαρία]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| second, | **<big>[[G1208\|δεύτερος]]</big>** |
+| Jahaziel | **<big>[[H3166\|Ιαζϊήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| third, | **<big>[[G5154\|τρίτος]]</big>** |
+| Jekameam | **<big>[[H3360\|Ιακαμίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fourth. | **<big>[[G5067\|τέταρτος]]</big>** |
 [[1Chr.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.18|<< 1 Chronicles 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.20|1 Chronicles 23:20 >>]]</td></tr></table>
 
 

@@ -4,7 +4,7 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Ahuzzath</span> was a friend and advisor of Abimelech, the Philistine king of Gerar, who accompanied him when making a treaty with Isaac. \([[Gen.26.26|Gen.26.26]]\)
 - A man living at the time of the Patriarchs, only mentioned at [[Gen.26.26|Gen.26.26]]; 
-- only referred to as Ahuzzath<[[H0276]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ז</span>ַּ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Ahuzzath **<big>[[H0276|אֲחֻזַּת]]</big>**.
 
 Ahuzzath is mentioned in the context of the relationship between Isaac and Abimelech, the Philistine king of Gerar. After Isaac had settled in Gerar and prospered, Abimelech recognized that God was with Isaac and sought to make a peace treaty with him. 
 
@@ -18,5 +18,5 @@ Ahuzzath's role in this narrative highlights the importance of diplomacy and the
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahuzzath | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ז</span>ַּ<span class='tipnrLangHebrew'>ת</span>](H0276) <small>*Hebrew*</small> | 1x | [Gen.26.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahuzzath\*\|reference=Gen.26.26) |
-All Strong's for **Ahuzzath**: \[[[H0276]]\]
+| Ahuzzath | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ז</span>ַּ<span class='tipnrLangHebrew'>ת</span>](H0276) | 1x | [Gen.26.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahuzzath\*\|reference=Gen.26.26) |
+All entries for **Ahuzzath**:  **<big>[[H0276|אֲחֻזַּת]]</big>**

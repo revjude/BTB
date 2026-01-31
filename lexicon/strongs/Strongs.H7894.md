@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁישָׁא‎</span></big> **Shîyshâʼ** <small>*(shee-shaw')*</small> ==**Shisha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎שַׁיִשׁ‎</span><sup><small>[[H7893]]</small></sup>; whiteness</small>
+**<big><span class="ashebrew">‎שִׁישָׁא‎</span></big>** **Shîyshâʼ** <small>*(shee-shaw')*</small> ==**Shisha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H7893|‎שַׁיִשׁ‎]]</big>**; whiteness</small>
 
 $\quad$ Shisha.
 - § Shisha = *"Jehovah contends"*

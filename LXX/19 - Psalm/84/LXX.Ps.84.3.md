@@ -7,31 +7,31 @@ Yea, the sparrow hath found an house, and the swallow a nest for herself, where 
 Even the sparrow has found a home, and the swallow a nest for herself, where she places her young near Your altars, O LORD of Hosts, my King and my God.<small><sub>**MT:**</sub></small>
 [[Ps.84.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.2|<< Psalm 84:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.4|Psalm 84:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[the\] sparrow | <big><span class="asgreek">στρουθίον</span></big> <sup><small><small>[[G4765]]</small></small></sup> |
-| finds | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| a house; | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] turtle-dove | <big><span class="asgreek">τρυγών</span></big> <sup><small><small>[[G5167]]</small></small></sup> |
-| a nest | <big><span class="asgreek">νοσσιάν</span></big> <sup><small><small>[[G3555]]</small></small></sup> |
-| for herself, | <big><span class="asgreek">εαυτή</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| she puts | <big><span class="asgreek">θήσει</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her own nestlings, | <big><span class="asgreek">νοσσία</span></big> <sup><small><small>[[G3556]]</small></small></sup> <big><span class="asgreek">εαυτής</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| \[even\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your altars, | <big><span class="asgreek">θυσιαστήριά</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces, | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For even | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[the\] sparrow | **<big>[[G4765\|στρουθίον]]</big>** |
+| finds | **<big>[[G2147\|εύρεν]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| a house; | **<big>[[G3614\|οικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] turtle-dove | **<big>[[G5167\|τρυγών]]</big>** |
+| a nest | **<big>[[G3555\|νοσσιάν]]</big>** |
+| for herself, | **<big>[[G1438\|εαυτή]]</big>** |
+| where | **<big>[[G3739\|ου]]</big>** |
+| she puts | **<big>[[G5087\|θήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her own nestlings, | **<big>[[G3556\|νοσσία]]</big>** **<big>[[G1438\|εαυτής]]</big>** |
+| \[even\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your altars, | **<big>[[G2379\|θυσιαστήριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces, | **<big>[[G1411\|δυνάμεων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my king | **<big>[[G0935\|βασιλεύς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God. | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.84.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.2|<< Psalm 84:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.4|Psalm 84:4 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎טָב‎</span> <small>***(tav)***</small> ==**fine**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H2896A]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2896A|טוֹב]]</big>**</small> 
 
-- Aramaic of <i>tov</i> (<span class='ashebrew'>‎טו‎</span>ֹ<span class='ashebrew'>‎ב‎</span> "pleasant" [[H2896A]])
+- Aramaic of <i>tov</i> (<span class='ashebrew'>‎טו‎</span>ֹ<span class='ashebrew'>‎ב‎</span> "pleasant" **<big>[[H2896A|טוֹב]]</big>**)

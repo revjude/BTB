@@ -7,39 +7,39 @@ Or if it be known that the ox hath used to push in time past, and his owner hath
 But if it was known that the ox had a habit of goring, yet its owner failed to restrain it, he shall pay full compensation, ox for ox, and the dead animal will be his.<small><sub>**MT:**</sub></small>
 [[Exod.21.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.35|<< Exodus 21:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.1|Exodus 22:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it is made known | <big><span class="asgreek">γνωρίζηται</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bull | <big><span class="asgreek">ταύρος</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| given to goring | <big><span class="asgreek">κερατιστής</span></big> <sup><small><small>[[G7999]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| yesterday | <big><span class="asgreek">εχθές</span></big> <sup><small><small>[[G5504]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτης</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| have been testifying | <big><span class="asgreek">διαμεμαρτυρημένοι</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
-| they should | <big><span class="asgreek">ώσι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[its\] owner, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| remove | <big><span class="asgreek">αφανίση</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| bull | <big><span class="asgreek">ταύρον</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| bull, | <big><span class="asgreek">ταύρου</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
-| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[bull\] coming to an end | <big><span class="asgreek">τετελευτηκώς</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| will be his. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| it is made known | **<big>[[G1107\|γνωρίζηται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| bull | **<big>[[G5022\|ταύρος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| given to goring | **<big>[[G7999\|κερατιστής]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| yesterday | **<big>[[G5504\|εχθές]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| third | **<big>[[G5154\|τρίτης]]</big>** |
+| day, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| have been testifying | **<big>[[G1263\|διαμεμαρτυρημένοι]]</big>** |
+| they should | **<big>[[G1510\|ώσι]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| \[its\] owner, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3361\|μη]]</big>** |
+| remove | **<big>[[G0853\|αφανίση]]</big>** |
+| it, | **<big>[[G1473\|αυτόν]]</big>** |
+| he shall pay | **<big>[[G0661\|αποτίσει]]</big>** |
+| bull | **<big>[[G5022\|ταύρον]]</big>** |
+| for | **<big>[[G0473\|αντί]]</big>** |
+| bull, | **<big>[[G5022\|ταύρου]]</big>** |
+| but the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[bull\] coming to an end | **<big>[[G5053\|τετελευτηκώς]]</big>** |
+| will be his. | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1510\|έσται]]</big>** |
 [[Exod.21.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.35|<< Exodus 21:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.1|Exodus 22:1 >>]]</td></tr></table>
 
 

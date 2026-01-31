@@ -7,34 +7,34 @@ And David inquired at the LORD, saying, Shall I pursue after this troop? shall I
 and David inquired of the LORD: “Should I pursue these raiders? Will I overtake them?” “Pursue them,” the LORD replied, “for you will surely overtake them and rescue the captives.”<small><sub>**MT:**</sub></small>
 [[1Sam.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.7|<< 1 Samuel 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.9|1 Samuel 30:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David asked | <big><span class="asgreek">επηρώτησε</span></big> <sup><small><small>[[G1905]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I pursue | <big><span class="asgreek">καταδιώξω</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this troop? | <big><span class="asgreek">γεδδούρ</span></big> <sup><small><small>[[G6722]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I overtake | <big><span class="asgreek">καταλήψομαι</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| them? | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Pursue! | <big><span class="asgreek">καταδίωκε</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in overtaking | <big><span class="asgreek">καταλαμβάνων</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| you shall overtake | <big><span class="asgreek">καταλήψη</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in rescuing | <big><span class="asgreek">εξαιρούμενος</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| you shall rescue. | <big><span class="asgreek">εξελή</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David asked | **<big>[[G1905\|επηρώτησε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I pursue | **<big>[[G2614\|καταδιώξω]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this troop? | **<big>[[G6722\|γεδδούρ]]</big>** **<big>[[G3778\|τούτου]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I overtake | **<big>[[G2638\|καταλήψομαι]]</big>** |
+| them? | **<big>[[G1473\|αυτούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| Pursue! | **<big>[[G2614\|καταδίωκε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| in overtaking | **<big>[[G2638\|καταλαμβάνων]]</big>** |
+| you shall overtake | **<big>[[G2638\|καταλήψη]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in rescuing | **<big>[[G1807\|εξαιρούμενος]]</big>** |
+| you shall rescue. | **<big>[[G1807\|εξελή]]</big>** |
 [[1Sam.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.7|<< 1 Samuel 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.9|1 Samuel 30:9 >>]]</td></tr></table>
 
 

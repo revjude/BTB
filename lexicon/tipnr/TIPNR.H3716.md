@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chephirah</span> was one of the Gibeonite towns that became part of the territories of Benjamin and Judah.
 - A location first mentioned at [[Josh.9.17|Jos.9.17]]; 
-- referred to as Chephirah or Chephirah \(NIV= -\) <[[H3716]]> \(<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Chephirah or Chephirah \(NIV= -\)  **<big>[[H3716|כְּפִירָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.836401,35.095272&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ After the Babylonian exile, the descendants of the Gibeonites, including those f
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chephirah (NIV= Kephirah) | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3716) <small>*Hebrew*</small> | 3x | [[Jos.9.17] ... [Neh.7.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chephirah\*\|reference=Jos.9.17;Jos.18.26;Neh.7.29) |
-| Chephirah (NIV= -) | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3716) <small>*Hebrew*</small> | 1x | [Ezr.2.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chephirah\*\|reference=Ezr.2.25) |
-All Strong's for **Chephirah**: \[[[H3716]]\]
+| Chephirah (NIV= Kephirah) | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3716) | 3x | [[Jos.9.17] ... [Neh.7.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chephirah\*\|reference=Jos.9.17;Jos.18.26;Neh.7.29) |
+| Chephirah (NIV= -) | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3716) | 1x | [Ezr.2.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chephirah\*\|reference=Ezr.2.25) |
+All entries for **Chephirah**:  **<big>[[H3716|כְּפִירָה]]</big>**

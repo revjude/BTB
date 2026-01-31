@@ -6,21 +6,21 @@ These were the living creatures I had seen beneath the God of Israel by the Rive
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.19|<< Ezekiel 10:19]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.21|Ezekiel 10:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>הִ֣יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] the living creature  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חַיָּ֗ה </big></span><small><small><sup>[[H2416C]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> chai.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I had seen  | <span class="ashebrew"><big>רָאִ֛יתִי </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| ra.'I.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| under  | <span class="ashebrew"><big>תַּ֥חַת </big></span><small><small><sup>[[H8478G]]</sup></small></small> &#8207;| Ta.chat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵֽי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'e.lo.hei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at [the] river of  | <span class="ashebrew"><big>בִּֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נְהַר </big></span><small><small><sup>[[H5104H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> n.har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kebar  | <span class="ashebrew"><big>כְּבָ֑ר </big></span><small><small><sup>[[H3529]]</sup></small></small> &#8207;| ke.Var <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I knew  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֵדַ֕ע </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'e.Da' <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] cherubim  | <span class="ashebrew"><big>כְרוּבִ֖ים </big></span><small><small><sup>[[H3742]]</sup></small></small> &#8207;| khe.ru.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵֽמָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1931\|הִ֣יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] the living creature  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2416C\|חַיָּ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I had seen  |**<big>&#8207;[[H7200G\|רָאִ֛יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  |**<big>&#8207;[[H8478G\|תַּ֥חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.lo.hei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] river of  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H5104H\|נְהַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kebar  |**<big>&#8207;[[H3529\|כְּבָ֑ר]]&#8207; </big>**| ke.Var<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I knew  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3045\|אֵדַ֕ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Da'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] cherubim  |**<big>&#8207;[[H3742\|כְרוּבִ֖ים]]&#8207; </big>**| khe.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵֽמָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.19|<< Ezekiel 10:19]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.21|Ezekiel 10:21 >>]]</td></tr></table>
 
 

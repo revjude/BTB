@@ -1,4 +1,4 @@
-Greek of: <small>[[H6944H]]</small> 
+Greek of: <small>**<big>[[H6944H|קֹדֶשׁ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἅγιον==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 

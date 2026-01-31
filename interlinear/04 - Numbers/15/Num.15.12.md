@@ -6,15 +6,15 @@ This is how you must prepare each one, no matter how many.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.11|<< Numbers 15:11]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.13|Numbers 15:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| according to the number  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מִּסְפָּ֖ר </big></span><small><small><sup>[[H4557]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> mis.Par <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will offer  | <span class="ashebrew"><big>תַּעֲשׂ֑וּ </big></span><small><small><sup>[[H6213I]]</sup></small></small> &#8207;| ta.'a.Su <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thus  | <span class="ashebrew"><big>כָּ֛כָה </big></span><small><small><sup>[[H3602]]</sup></small></small> &#8207;| Ka.khah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will do  | <span class="ashebrew"><big>תַּעֲשׂ֥וּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ta.'a.Su <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the one  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֶחָ֖ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to number their  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מִסְפָּרָֽ </big></span><small><small><sup>[[H4557]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> mis.pa.Ra <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to the number  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4557\|מִּסְפָּ֖ר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will offer  |**<big>&#8207;[[H6213I\|תַּעֲשׂ֑וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3602\|כָּ֛כָה]]&#8207; </big>**| Ka.khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  |**<big>&#8207;[[H6213A\|תַּעֲשׂ֥וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the one  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0259\|אֶחָ֖ד]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to number their  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4557\|מִסְפָּרָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mis.pa.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.11|<< Numbers 15:11]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.13|Numbers 15:13 >>]]</td></tr></table>
 
 

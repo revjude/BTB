@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נִקֻּד‎</span></big> **niqqud** <small>*(nik-kood')*</small> ==**crumb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎נָקֹד‎</span><sup><small>[[H5348]]</small></sup></small>
+**<big><span class="ashebrew">‎נִקֻּד‎</span></big>** **niqqud** <small>*(nik-kood')*</small> ==**crumb**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from the same as **<big>[[H5348|‎נָקֹד‎]]</big>**</small>
 
 $\quad$ cracknel, mouldy.
 - ***a crumb*** (as broken to spots)
@@ -9,4 +9,4 @@ $\quad$ cracknel, mouldy.
 $\quad$ **1a)** crumbs
 $\quad$ **1b)** apparently a kind of hard biscuit or cake
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βιβρώσκω</span><sup><small>[[G0977]]</small></sup>
+<small>See Greek: </small>**<big>[[G0977|βιβρώσκω]]</big>**

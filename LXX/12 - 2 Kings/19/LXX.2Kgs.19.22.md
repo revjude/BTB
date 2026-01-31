@@ -7,29 +7,29 @@ Whom hast thou reproached and blasphemed? and against whom hast thou exalted [th
 Whom have you taunted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!<small><sub>**MT:**</sub></small>
 [[2Kgs.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.21|<< 2 Kings 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.23|2 Kings 19:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whom have | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you berated | <big><span class="asgreek">ωνείδισας</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blasphemed? | <big><span class="asgreek">εβλασφήμησας</span></big> <sup><small><small>[[G0987]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| whom have | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| you raised up | <big><span class="asgreek">ύψωσας</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your voice, | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lifted | <big><span class="asgreek">ήρας</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[even\] against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[one\] | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Whom have | **<big>[[G5100\|τίνα]]</big>** |
+| you berated | **<big>[[G3679\|ωνείδισας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blasphemed? | **<big>[[G0987\|εβλασφήμησας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| whom have | **<big>[[G5100\|τίνα]]</big>** |
+| you raised up | **<big>[[G5312\|ύψωσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your voice, | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lifted | **<big>[[G0142\|ήρας]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] height | **<big>[[G5311\|ύψος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your eyes | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[even\] against | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| holy \[one\] | **<big>[[G0039\|άγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[2Kgs.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.21|<< 2 Kings 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.23|2 Kings 19:23 >>]]</td></tr></table>
 
 

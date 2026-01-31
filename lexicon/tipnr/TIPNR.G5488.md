@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Haran</span> was a city in Mesopotamia where Abraham and his family settled after leaving Ur, and from where Abraham later departed for Canaan \([[Gen.11.31|Genesis 11:31]]-32; 12:4-5; 27:43; 28:10; 29:4; Acts 7:2, 4\).
 - A location first mentioned at [[Gen.11.31|Gen.11.31]]; 
-- referred to as Haran<[[H2771A]]> \(<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Haran \(NIV= Harran\) <[[G5488]]> \(<span class='tipnrLangGreek'>Χαρράν</span>\).
+- referred to as Haran **<big>[[H2771|חָרָן]]</big>**, or Haran \(NIV= Harran\)  **<big>[[G5488|Χαῤῥάν]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.86386407659651,39.03219672227345&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Haran, also known as Charan, was a significant city in Mesopotamia, located in m
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Haran (NIV= Harran) | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H2771A) <small>*Hebrew*</small> | 10x | [[Gen.11.31] ... [Ezk.27.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haran\*\|reference=Gen.11.31;Gen.11.32;Gen.12.4;Gen.12.5;Gen.27.43;Gen.28.10;Gen.29.4;2Ki.19.12;Isa.37.12;Ezk.27.23) |
-| Haran (NIV= Harran) | [<span class='tipnrLangGreek'>Χαρράν</span>](G5488) <small>*Greek*</small> | 2x | [[Act.7.2] & [Act.7.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haran\*\|reference=Act.7.2;Act.7.4) |
-All Strong's for **Haran**: \[[[H2771A]]\] \[[[G5488]]\]
+| Haran (NIV= Harran) | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H2771A) | 10x | [[Gen.11.31] ... [Ezk.27.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haran\*\|reference=Gen.11.31;Gen.11.32;Gen.12.4;Gen.12.5;Gen.27.43;Gen.28.10;Gen.29.4;2Ki.19.12;Isa.37.12;Ezk.27.23) |
+| Haran (NIV= Harran) | [<span class='tipnrLangGreek'>Χαρράν</span>](G5488) | 2x | [[Act.7.2] & [Act.7.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haran\*\|reference=Act.7.2;Act.7.4) |
+All entries for **Haran**:  **<big>[[H2771|חָרָן]]</big>** ☩  **<big>[[G5488|Χαῤῥάν]]</big>**

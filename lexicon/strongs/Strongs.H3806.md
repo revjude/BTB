@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּתַשׁ‎</span></big> **kâthash** <small>*(kaw-thash')*</small> ==**to pound**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּתַשׁ‎</span></big>** **kâthash** <small>*(kaw-thash')*</small> ==**to pound**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bray.
@@ -6,4 +6,4 @@ $\quad$ bray.
 
 **1)** (Qal) to pound, mix by pounding, pound fine, bray
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μαστιγόω</span><sup><small>[[G3146]]</small></sup>
+<small>See Greek: </small>**<big>[[G3146|μαστιγόω]]</big>**

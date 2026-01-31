@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִלְּתַי‎</span></big> **Tsillᵉthay** <small>*(tsil-leth-ah'-ee)*</small> ==**Zillethai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the feminine of <span class="ashebrew">‎צֵל‎</span><sup><small>[[H6738]]</small></sup>; shady</small>
+**<big><span class="ashebrew">‎צִלְּתַי‎</span></big>** **Tsillᵉthay** <small>*(tsil-leth-ah'-ee)*</small> ==**Zillethai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the feminine of **<big>[[H6738|‎צֵל‎]]</big>**; shady</small>
 
 $\quad$ Zilthai.
 - § Zilthai = *"dark"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֶרְכָּב‎</span></big> **merkâb** <small>*(mer-kawb')*</small> ==**chariot**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָכַב‎</span><sup><small>[[H7392]]</small></sup></small>
+**<big><span class="ashebrew">‎מֶרְכָּב‎</span></big>** **merkâb** <small>*(mer-kawb')*</small> ==**chariot**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7392|‎רָכַב‎]]</big>**</small>
 
 $\quad$ chariot, covering, saddle.
 - ***a chariot***

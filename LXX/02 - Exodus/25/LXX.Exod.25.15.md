@@ -7,19 +7,19 @@ The staves shall be in the rings of the ark: they shall not be taken from it.
 The poles are to remain in the rings of the ark; they must not be removed.<small><sub>**MT:**</sub></small>
 [[Exod.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.14|<< Exodus 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.16|Exodus 25:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίοις</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing poles | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
-| fixed. | <big><span class="asgreek">ακίνητοι</span></big> <sup><small><small>[[G6187]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκης]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| bearing poles | **<big>[[G6320\|αναφορείς]]</big>** |
+| fixed. | **<big>[[G6187\|ακίνητοι]]</big>** |
 [[Exod.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.14|<< Exodus 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.16|Exodus 25:16 >>]]</td></tr></table>
 
 

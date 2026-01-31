@@ -7,25 +7,25 @@ O turn unto me, and have mercy upon me; give thy strength unto thy servant, and 
 Turn to me and have mercy; grant Your strength to Your servant; save the son of Your maidservant.<small><sub>**MT:**</sub></small>
 [[Ps.86.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.15|<< Psalm 86:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.17|Psalm 86:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Look | <big><span class="asgreek">επίβλεψον</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| show mercy on | <big><span class="asgreek">ελέησόν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your might | <big><span class="asgreek">κράτος</span></big> <sup><small><small>[[G2904]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your child, | <big><span class="asgreek">παιδί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deliver | <big><span class="asgreek">σώσον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your maidservant! | <big><span class="asgreek">παιδίσκης</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Look | **<big>[[G1914\|επίβλεψον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμέ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| show mercy on | **<big>[[G1653\|ελέησόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your might | **<big>[[G2904\|κράτος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your child, | **<big>[[G3816\|παιδί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| deliver | **<big>[[G4982\|σώσον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your maidservant! | **<big>[[G3814\|παιδίσκης]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.86.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.15|<< Psalm 86:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.17|Psalm 86:17 >>]]</td></tr></table>
 
 

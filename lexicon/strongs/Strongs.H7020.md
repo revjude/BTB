@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎קִיצוֹן‎</span></big> **qîytsôwn** <small>*(kee-tsone')*</small> ==**outermost**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎קוּץ‎</span><sup><small>[[H6972]]</small></sup></small>
+**<big><span class="ashebrew">‎קִיצוֹן‎</span></big>** **qîytsôwn** <small>*(kee-tsone')*</small> ==**outermost**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6972|‎קוּץ‎]]</big>**</small>
 
 $\quad$ out-(utter-) most.
 - ***terminal***
 
 **1)** at the end, outermost, outer
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξώτερος</span><sup><small>[[G1857]]</small></sup>
+<small>See Greek: </small>**<big>[[G1857|ἐξώτερος]]</big>**

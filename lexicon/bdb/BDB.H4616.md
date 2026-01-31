@@ -1,4 +1,4 @@
-<small>Also see: [[H0834]] | [[H4617]]</small>
+<small>Also see: **<big>[[H0834|אֲשֶׁר]]</big>** | **<big>[[H4617|מַעֲנֶה]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎מַ֫עַן‎</span>] **substantive** ==purpose, intent==, only with <span class="bdbLangHebrew">‎לְ‎</span>, in <span class="bdbLangHebrew">‎לְמַ֫עַן‎</span><sub>271</sub> **preposition** and **conjunction** ==for the sake of, on account of, to the intent or in order that== (abbreviated from <span class="bdbLangHebrew">‎מַעֲנֶה‎</span>: compare <span class="bdbLangHebrew">‎מַ֫עַל‎</span>; [[BDB#Kö|Kö]]<sup>ii. 116</sup>); — with suffix <span class="bdbLangHebrew">‎לְמַעֲנִי‎</span>, <span class="bdbLangHebrew">‎לְמַעַנְךָ‎</span>, and <span class="bdbLangHebrew">‎לְמַעַנְכֶם‎</span>; — 
 

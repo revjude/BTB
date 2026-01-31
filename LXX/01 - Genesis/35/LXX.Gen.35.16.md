@@ -10,35 +10,35 @@ And they journeyed from Bethel; and there was but a little way to come to Ephrat
 Later, they set out from Bethel, and while they were still some distance from Ephrath, Rachel began to give birth, and her labor was difficult.<small><sub>**MT:**</sub></small>
 [[Gen.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.15|<< Genesis 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.17|Genesis 35:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| departed | <big><span class="asgreek">απάρας</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| \[and\] he pitched | <big><span class="asgreek">έπηξε</span></big> <sup><small><small>[[G4078]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| beyond | <big><span class="asgreek">επέκεινα</span></big> <sup><small><small>[[G1900]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tower | <big><span class="asgreek">πύργου</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
-| of Gader. | <big><span class="asgreek">Γαδέρ</span></big> <sup><small><small>[[H1445]]</small></small></sup> |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| he approached | <big><span class="asgreek">ήγγισεν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| Chabratha, | <big><span class="asgreek">Χαβραθά</span></big> <sup><small><small>[[H3530]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to come | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephrath, | <big><span class="asgreek">Εφραθά</span></big> <sup><small><small>[[H6084]]</small></small></sup> |
-| Rachel bore. | <big><span class="asgreek">έτεκε</span></big> <sup><small><small>[[G5088]]</small></small></sup> <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| giving birth | <big><span class="asgreek">τίκτειν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| she suffered birth pangs. | <big><span class="asgreek">εδυστόκησεν</span></big> <sup><small><small>[[G6981]]</small></small></sup> |
+| departed | **<big>[[G0522\|απάρας]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Beth-el, | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| \[and\] he pitched | **<big>[[G4078\|έπηξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his tent | **<big>[[G4633\|σκηνήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| beyond | **<big>[[G1900\|επέκεινα]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| tower | **<big>[[G4444\|πύργου]]</big>** |
+| of Gader. | **<big>[[H1445\|Γαδέρ]]</big>** |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| he approached | **<big>[[G1448\|ήγγισεν]]</big>** |
+| Chabratha, | **<big>[[H3530\|Χαβραθά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to come | **<big>[[G2064\|ελθείν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Ephrath, | **<big>[[H6084\|Εφραθά]]</big>** |
+| Rachel bore. | **<big>[[G5088\|έτεκε]]</big>** **<big>[[G4478\|Ραχήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| giving birth | **<big>[[G5088\|τίκτειν]]</big>** |
+| she suffered birth pangs. | **<big>[[G6981\|εδυστόκησεν]]</big>** |
 [[Gen.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.15|<< Genesis 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.17|Genesis 35:17 >>]]</td></tr></table>
 
 

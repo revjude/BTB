@@ -10,38 +10,38 @@ Now it came to pass upon a day, that Jonathan the son of Saul said unto the youn
 One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father.<small><sub>**MT:**</sub></small>
 [[1Sam.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.23|<< 1 Samuel 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.2|1 Samuel 14:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came to pass | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| \[to\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant-lad | <big><span class="asgreek">παιδαρίω</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carrying | <big><span class="asgreek">αίροντι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his weapons, | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should pass over | <big><span class="asgreek">διαβώμεν</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] support \[camp\] | <big><span class="asgreek">υπόστασιν</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that other side; | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> <big><span class="asgreek">εκείνω</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| report | <big><span class="asgreek">απήγγειλε</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| came to pass | **<big>[[G1096\|γίνεται]]</big>** |
+| a day, | **<big>[[G2250\|ημέρα]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| Jonathan | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιός]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| \[to\] the | **<big>[[G3588\|τω]]</big>** |
+| servant-lad | **<big>[[G3808\|παιδαρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| carrying | **<big>[[G0142\|αίροντι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his weapons, | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Come, | **<big>[[G1204\|δεύρο]]</big>** |
+| for | **<big>[[G2532\|και]]</big>** |
+| we should pass over | **<big>[[G1224\|διαβώμεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] support \[camp\] | **<big>[[G5287\|υπόστασιν]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| that other side; | **<big>[[G4008\|πέραν]]</big>** **<big>[[G1565\|εκείνω]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his father | **<big>[[G3962\|πατρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| report | **<big>[[G0518\|απήγγειλε]]</big>** |
 [[1Sam.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.23|<< 1 Samuel 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.2|1 Samuel 14:2 >>]]</td></tr></table>
 
 

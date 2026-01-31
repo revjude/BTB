@@ -6,30 +6,30 @@ But Peter kept insisting, “Even if I have to die with You, I will never deny Y
 <small><sub>**Literal:**</sub></small>
 <the> And overexceedingly he was saying more: If it shall be needful to me to die with You, certainly not You I will deny. Likewise now also all of them were saying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.30|<< Mark 14:30]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.32|Mark 14:32 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| overexceedingly |<big><span class="asgreek">ἐκπερισσῶς</span></big> <small><small><sup>[[G1537]]</sup></small></small> [^1] |ekperissōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was saying [^2] |<big><span class="asgreek">ἐλάλει</span></big> <small><small><sup>[[G2980]]</sup></small></small> |elalei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| more: [^3] |<big><span class="asgreek">μᾶλλον·</span></big> <small><small><sup>[[G3123G]]</sup></small></small> |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| If |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it shall be needful |<big><span class="asgreek">δέῃ</span></big> <small><small><sup>[[G1163]]</sup></small></small> |deē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28»1+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| to me |<big><span class="asgreek">με</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to die with |<big><span class="asgreek">συναποθανεῖν</span></big> <small><small><sup>[[G4880]]</sup></small></small> |sunapothanein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You, |<big><span class="asgreek">σοι,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| certainly |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<big><span class="asgreek">μή</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You |<big><span class="asgreek">σε</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I will deny. [^4] |<big><span class="asgreek">ἀπαρνήσομαι.</span></big> <small><small><sup>[[G0533]]</sup></small></small> |aparnēsomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
-| Likewise |<big><span class="asgreek">ὡσαύτως</span></big> <small><small><sup>[[G5615]]</sup></small></small> |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<big><span class="asgreek">πάντες</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them were saying. |<big><span class="asgreek">ἔλεγον.¶</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| overexceedingly |**<big>[[G1537\|ἐκπερισσῶς]]</big>**  [^1] |ekperissōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was saying [^2] |**<big>[[G2980\|ἐλάλει]]</big>**  |elalei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| more: [^3] |**<big>[[G3123G\|μᾶλλον·]]</big>**  |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it shall be needful |**<big>[[G1163\|δέῃ]]</big>**  |deē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28»1+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| to me |**<big>[[G3165\|με]]</big>**  |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to die with |**<big>[[G4880\|συναποθανεῖν]]</big>**  |sunapothanein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You, |**<big>[[G4771\|σοι,]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| certainly |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |**<big>[[G3361\|μή]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I will deny. [^4] |**<big>[[G0533\|ἀπαρνήσομαι.]]</big>**  |aparnēsomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| Likewise |**<big>[[G5615\|ὡσαύτως]]</big>**  |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them were saying. |**<big>[[G3004G\|ἔλεγον.¶]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.30|<< Mark 14:30]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.32|Mark 14:32 >>]]</td></tr></table>
 
-[^1]: ==TR+Byz== spelled: <span class='asgreek'>**ἐκπερισσοῦ**</span>
-[^2]: ==TR+Byz==: he was saying | <span class="asgreek">ἔλεγεν</span><small><sup>[[G3004]]</sup></small> | elegen<small><sup>[[V-IAI-3S]]</sup></small>
-[^3]: Extra Text:  <span class='asgreek'>**μᾶλλον**</span>·  (<i>mallon</i>) 'more:' is only in traditional manuscripts (TR+Byz)
-[^4]: ==Byz==: I may deny | <span class="asgreek">ἀπαρνήσωμαι</span><small><sup>[[G0533]]</sup></small> | aparnēsōmai<small><sup>[[V-ADS-1S]]</sup></small>
+[^1]: ==TR+Byz== spelled: **<big><span class='asgreek'>ἐκπερισσοῦ</span></big>**
+[^2]: ==TR+Byz==: he was saying | **<big>[[G3004|ἔλεγεν]]</big>** | elegen<small><sup>[[V-IAI-3S]]</sup></small>
+[^3]: Extra Text:  **<big><span class='asgreek'>μᾶλλον</span></big>**·  (<i>mallon</i>) 'more:' is only in traditional manuscripts (TR+Byz)
+[^4]: ==Byz==: I may deny | **<big>[[G0533|ἀπαρνήσωμαι]]</big>** | aparnēsōmai<small><sup>[[V-ADS-1S]]</sup></small>

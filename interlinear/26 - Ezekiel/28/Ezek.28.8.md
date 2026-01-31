@@ -6,15 +6,15 @@ They will bring you down to the Pit, and you will die a violent death in the hea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.7|<< Ezekiel 28:7]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.9|Ezekiel 28:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to the pit  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שַּׁ֖חַת </big></span><small><small><sup>[[H7845G]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Sha.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will bring down you  | <span class="ashebrew"><big>יֽוֹרִד֑וּ </big></span><small><small><sup>[[H3381]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| yo.ri.Du. <small><sup>[[HVhi3mp]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will die  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>מַ֛תָּה </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> Ma.tah <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] death\<s> of  | <span class="ashebrew"><big>מְמוֹתֵ֥י </big></span><small><small><sup>[[H4463]]</sup></small></small> &#8207;| me.mo.Tei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] slain  | <span class="ashebrew"><big>חָלָ֖ל </big></span><small><small><sup>[[H2491A]]</sup></small></small> &#8207;| cha.Lal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] heart of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>לֵ֥ב </big></span><small><small><sup>[[H3820A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Lev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] seas  | <span class="ashebrew"><big>יַמִּֽים </big></span><small><small><sup>[[H3220G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the pit  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7845G\|שַּׁ֖חַת]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will bring down you  |**<big>&#8207;[[H3381\|יֽוֹרִד֑וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yo.ri.Du.<small><sup>[[HVhi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will die  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H4191\|מַ֛תָּה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ma.tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] death\<s> of  |**<big>&#8207;[[H4463\|מְמוֹתֵ֥י]]&#8207; </big>**| me.mo.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] slain  |**<big>&#8207;[[H2491A\|חָלָ֖ל]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] heart of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3820A\|לֵ֥ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  |**<big>&#8207;[[H3220G\|יַמִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.7|<< Ezekiel 28:7]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.9|Ezekiel 28:9 >>]]</td></tr></table>
 
 

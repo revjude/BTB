@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עָנָה‎</span></big> **ʻânâh** <small>*(aw-naw')*</small> ==**be occupied**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (possibly rather identical with <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6030]]</small></sup> through the idea of looking down or browbeating)</small>
+**<big><span class="ashebrew">‎עָנָה‎</span></big>** **ʻânâh** <small>*(aw-naw')*</small> ==**be occupied**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (possibly rather identical with **<big>[[H6030|‎עָנָה‎]]</big>** through the idea of looking down or browbeating)</small>
 
-$\quad$ abase self, afflict(-ion, self), answer (by mistake for <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6030]]</small></sup>), chasten self, deal hardly with, defile, exercise, force, gentleness, humble (self), hurt, ravish, sing (by mistake for <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6030]]</small></sup>), speak (by mistake for <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6030]]</small></sup>), submit self, weaken, [idiom] in any wise.
+$\quad$ abase self, afflict(-ion, self), answer (by mistake for **<big>[[H6030|‎עָנָה‎]]</big>**), chasten self, deal hardly with, defile, exercise, force, gentleness, humble (self), hurt, ravish, sing (by mistake for **<big>[[H6030|‎עָנָה‎]]</big>**), speak (by mistake for **<big>[[H6030|‎עָנָה‎]]</big>**), submit self, weaken, [idiom] in any wise.
 - ***to depress*** literally or figuratively, transitive or intransitive (in various applications, as follows)
 
 **1)** (Qal) to be occupied, be busied with

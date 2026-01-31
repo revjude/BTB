@@ -7,20 +7,20 @@ The workman melteth a graven image, and the goldsmith spreadeth it over with gol
 To an idol that a craftsman casts and a metalworker overlays with gold and fits with silver chains?<small><sub>**MT:**</sub></small>
 [[Isa.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.18|<< Isaiah 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.20|Isaiah 40:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[Has\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| an image | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] fabricator | <big><span class="asgreek">τέκτων</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \[the\] goldsmith | <big><span class="asgreek">χρυσοχόος</span></big> <sup><small><small>[[G9762]]</small></small></sup> |
-| having cast | <big><span class="asgreek">χωνεύσας</span></big> <sup><small><small>[[G9779]]</small></small></sup> |
-| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| gilt it over, | <big><span class="asgreek">περιεχρύσωσεν</span></big> <sup><small><small>[[G8776]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for a representation | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
-| and carefully prepared | <big><span class="asgreek">κατεσκεύασεν</span></big> <sup><small><small>[[G2680]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[Has\] not | **<big>[[G3361\|μη]]</big>** |
+| an image | **<big>[[G1504\|εικόνα]]</big>** |
+| made | **<big>[[G4160\|εποίησε]]</big>** |
+| \[the\] fabricator | **<big>[[G5045\|τέκτων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| \[the\] goldsmith | **<big>[[G9762\|χρυσοχόος]]</big>** |
+| having cast | **<big>[[G9779\|χωνεύσας]]</big>** |
+| gold, | **<big>[[G5553\|χρυσίον]]</big>** |
+| gilt it over, | **<big>[[G8776\|περιεχρύσωσεν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| for a representation | **<big>[[G3667\|ομοίωμα]]</big>** |
+| and carefully prepared | **<big>[[G2680\|κατεσκεύασεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
 [[Isa.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.18|<< Isaiah 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.20|Isaiah 40:20 >>]]</td></tr></table>
 
 

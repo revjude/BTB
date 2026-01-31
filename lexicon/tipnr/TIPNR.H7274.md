@@ -1,8 +1,8 @@
 <small>*Rogelim • Hometown of Barzillai the Gileadite*</small>
 
 <span class='tipnrhighlight'>Rogelim</span> was the hometown of Barzillai the Gileadite, who provided supplies for David during Absalom's rebellion \(2 Sa. 17:27; 19:31\).
-- A location near Mahanaim<[[H4266]]> first mentioned at [[2Sam.17.27|2Sa.17.27]]; 
-- only referred to as Rogelim<[[H7274]]> \(<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Mahanaim **<big>[[H4266|מַחֲנַיִם]]</big>** first mentioned at [[2Sam.17.27|2Sa.17.27]]; 
+- only referred to as Rogelim **<big>[[H7274|רֹגְלִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.214708,35.632914&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Rogelim was a town in Gilead, east of the Jordan River, and the hometown of Barz
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Rogelim | [<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ים</span>](H7274) <small>*Hebrew*</small> | 2x | [[2Sa.17.27] & [2Sa.19.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rogelim\*\|reference=2Sa.17.27;2Sa.19.31) |
-All Strong's for **Rogelim**: \[[[H7274]]\]
+| Rogelim | [<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>ים</span>](H7274) | 2x | [[2Sa.17.27] & [2Sa.19.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Rogelim\*\|reference=2Sa.17.27;2Sa.19.31) |
+All entries for **Rogelim**:  **<big>[[H7274|רֹגְלִים]]</big>**

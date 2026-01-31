@@ -11,38 +11,38 @@ So He took me there, and I saw a man whose appearance was like bronze. He was st
 > $\quad$ referenced by: [[Rev.11.1|Rev 11:1]] ☩ [[Rev.21.15|Rev 21:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εισήγαγέ</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a man. | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his appearance | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| \[the\] appearance | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| brass | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| of shining | <big><span class="asgreek">στίλβοντος</span></big> <sup><small><small>[[G4744]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a string \[measure\] | <big><span class="asgreek">σπαρτίον</span></big> <sup><small><small>[[G9137]]</small></small></sup> |
-| of builders, | <big><span class="asgreek">οικοδόμων</span></big> <sup><small><small>[[G6065]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a reed | <big><span class="asgreek">κάλαμος</span></big> <sup><small><small>[[G2563]]</small></small></sup> |
-| measure. | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he set them | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate. | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1521\|εισήγαγέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| there, | **<big>[[G1563\|εκεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a man. | **<big>[[G0435\|ανήρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his appearance | **<big>[[G3706\|όρασις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| \[the\] appearance | **<big>[[G3706\|όρασις]]</big>** |
+| brass | **<big>[[G5475\|χαλκού]]</big>** |
+| of shining | **<big>[[G4744\|στίλβοντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| a string \[measure\] | **<big>[[G9137\|σπαρτίον]]</big>** |
+| of builders, | **<big>[[G6065\|οικοδόμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a reed | **<big>[[G2563\|κάλαμος]]</big>** |
+| measure. | **<big>[[G3358\|μέτρον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he set them | **<big>[[G1473\|αυτός]]</big>** **<big>[[G2476\|ειστήκει]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| gate. | **<big>[[G4439\|πύλης]]</big>** |
 [[Ezek.40.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.2|<< Ezekiel 40:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.4|Ezekiel 40:4 >>]]</td></tr></table>
 
 

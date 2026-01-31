@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְפַנְיָה‎</span></big> **Tsᵉphanyâh** <small>*(tsef-an-yaw')*</small> ==**Zephaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">צְפַנְיָהוּ</span> **Tsᵉphanyâhûw** <small>*(tsef-an-yaw'-hoo)*</small>; from <span class="ashebrew">‎צָפַן‎</span><sup><small>[[H6845]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has secreted</small>
+**<big><span class="ashebrew">‎צְפַנְיָה‎</span></big>** **Tsᵉphanyâh** <small>*(tsef-an-yaw')*</small> ==**Zephaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">צְפַנְיָהוּ</span></big>** **Tsᵉphanyâhûw** <small>*(tsef-an-yaw'-hoo)*</small>; from **<big>[[H6845|‎צָפַן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has secreted</small>
 
 $\quad$ Zephaniah.
 - § Zephaniah = *"Jehovah has treasured"*

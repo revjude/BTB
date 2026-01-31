@@ -7,40 +7,40 @@ Behold, I stand by the well of water; and it shall come to pass, that when the v
 Here I am, standing beside this spring. Now if a maiden comes out to draw water and I say to her, ‘Please let me drink a little water from your jar,’<small><sub>**MT:**</sub></small>
 [[Gen.24.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.42|<< Genesis 24:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.44|Genesis 24:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I stand | <big><span class="asgreek">εφέστηκα</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| near | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spring | <big><span class="asgreek">πηγής</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of water, | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εκπορεύονται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| to draw | <big><span class="asgreek">αντλήσαι</span></big> <sup><small><small>[[G0501]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| virgin | <big><span class="asgreek">παρθένος</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| to whom | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should say, | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to drink | <big><span class="asgreek">πότισόν</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
-| Give \[me\] | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your water-pitcher | <big><span class="asgreek">υδρίας</span></big> <sup><small><small>[[G5201]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a little | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I stand | **<big>[[G2186\|εφέστηκα]]</big>** |
+| near | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| spring | **<big>[[G4077\|πηγής]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of water, | **<big>[[G5204\|ύδατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| came forth | **<big>[[G1607\|εκπορεύονται]]</big>** |
+| to draw | **<big>[[G0501\|αντλήσαι]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| virgin | **<big>[[G3933\|παρθένος]]</big>** |
+| to whom | **<big>[[G3739\|η]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| should say, | **<big>[[G2036\|είπω]]</big>** |
+| to drink | **<big>[[G4222\|πότισόν]]</big>** |
+| Give \[me\] | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your water-pitcher | **<big>[[G5201\|υδρίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| a little | **<big>[[G3398\|μικρόν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
 [[Gen.24.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.42|<< Genesis 24:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.44|Genesis 24:44 >>]]</td></tr></table>
 
 

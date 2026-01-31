@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אׇכְלָה‎</span></big> **ʼoklâh** <small>*(ok-law')*</small> ==**food**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אֻכָל‎</span><sup><small>[[H0401]]</small></sup></small>
+**<big><span class="ashebrew">‎אׇכְלָה‎</span></big>** **ʼoklâh** <small>*(ok-law')*</small> ==**food**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0401|‎אֻכָל‎]]</big>**</small>
 
 $\quad$ consume, devour, eat, food, meat.
 - ***food***

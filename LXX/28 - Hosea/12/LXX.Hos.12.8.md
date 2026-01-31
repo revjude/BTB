@@ -11,25 +11,25 @@ And Ephraim boasts: “How rich I have become! I have found wealth for myself. I
 > $\quad$ referenced by: [[Rev.3.17|Rev 3:17]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ephraim said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Εφραίμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| But | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| I am rich, | <big><span class="asgreek">πεπλούτηκα</span></big> <sup><small><small>[[G4147]]</small></small></sup> |
-| I have found | <big><span class="asgreek">εύρηκα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| respite | <big><span class="asgreek">αναψυχήν</span></big> <sup><small><small>[[G6324]]</small></small></sup> |
-| for myself. | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[produce\] of his toils | <big><span class="asgreek">πόνοι</span></big> <sup><small><small>[[G4192]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not be found | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευρεθήσονται</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| iniquities | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he sinned. | <big><span class="asgreek">ήμαρτεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ephraim said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2187\|Εφραίμ]]</big>** |
+| But | **<big>[[G4133\|πλην]]</big>** |
+| I am rich, | **<big>[[G4147\|πεπλούτηκα]]</big>** |
+| I have found | **<big>[[G2147\|εύρηκα]]</big>** |
+| respite | **<big>[[G6324\|αναψυχήν]]</big>** |
+| for myself. | **<big>[[G1683\|εμαυτώ]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[produce\] of his toils | **<big>[[G4192\|πόνοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall not be found | **<big>[[G3756\|ουχ]]</big>** **<big>[[G2147\|ευρεθήσονται]]</big>** |
+| in him, | **<big>[[G1473\|αυτώ]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| iniquities | **<big>[[G0093\|αδικίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| he sinned. | **<big>[[G0264\|ήμαρτεν]]</big>** |
 [[Hos.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.7|<< Hosea 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.9|Hosea 12:9 >>]]</td></tr></table>
 
 

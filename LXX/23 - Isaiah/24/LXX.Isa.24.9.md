@@ -7,18 +7,18 @@ They shall not drink wine with a song; strong drink shall be bitter to them that
 They no longer sing and drink wine; strong drink is bitter to those who consume it.<small><sub>**MT:**</sub></small>
 [[Isa.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.8|<< Isaiah 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.10|Isaiah 24:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They are ashamed, | <big><span class="asgreek">ησχύνθησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| drink | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| wine; | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| bitter | <big><span class="asgreek">πικρόν</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| liquor | <big><span class="asgreek">σίκερα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| drinking. | <big><span class="asgreek">πίνουσιν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| They are ashamed, | **<big>[[G0153\|ησχύνθησαν]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| drink | **<big>[[G4095\|έπιον]]</big>** |
+| wine; | **<big>[[G3631\|οίνον]]</big>** |
+| bitter | **<big>[[G4089\|πικρόν]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| liquor | **<big>[[G4608\|σίκερα]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| drinking. | **<big>[[G4095\|πίνουσιν]]</big>** |
 [[Isa.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.8|<< Isaiah 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.10|Isaiah 24:10 >>]]</td></tr></table>
 
 

@@ -1,5 +1,4 @@
-<span class="ashebrew">‎אֵיתָן‎</span> <small>***(e.tan)***</small> ==**Ethan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living before Israel's Monarchy, first mentioned at [[1Chr.2.6|1Ch.2.6]]
--  son of: Zerah ([[H2226I]])
--  brother of: Zabdi ([[H2067]]), Heman ([[H1968H]]), Calcol ([[H3633H]]) and Dara ([[H1873]])
--  father of: Azariah ([[H5838I]])
+-  son of: Zerah (**<big>[[H2226I|זֶרַח]]</big>**)
+-  brother of: Zabdi (**<big>[[H2067|זַבְדִּי]]</big>**), Heman (**<big>[[H1968H|הֵימָן]]</big>**), Calcol (**<big>[[H3633H|כַּלְכֹּל]]</big>**) and Dara (**<big>[[H1873|דָּרַע]]</big>**)
+-  father of: Azariah (**<big>[[H5838I|עֲזַרְיָה]]</big>**)

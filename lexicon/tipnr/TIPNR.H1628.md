@@ -1,8 +1,8 @@
 <small>*Geruth Chimham • Lodging place near Bethlehem; refuge for Johanan's group*</small>
 
 <span class='tipnrhighlight'>Geruth Chimham</span>, a lodging place near Bethlehem, served as a temporary refuge for Johanan and his group after the murder of Gedaliah.
-- A location near Bethlehem<[[H1035G]]> only mentioned at [[Jer.41.17|Jer.41.17]]; 
-- only referred to as Geruth\_Chimham<[[H1628]]><[[H3644H]]> \(<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>מו</span>ֹ\).
+- A location near Bethlehem **<big>[[H1035|בֵּית לֶחֶם]]</big>** only mentioned at [[Jer.41.17|Jer.41.17]]; 
+- only referred to as Geruth\_Chimham **<big>[[H1628|גֵּרוּת]]</big>** **<big>[[H3644|כְּמוֹ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.70536129174666,35.21026630105202&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of Geruth Chimham in [[Jer.41.17|Jeremiah 41:17]] highlights the cha
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Geruth/ Chimham (=Qere. Ketiv= Geruth like.them; KJV= habitation of Chimham; NIV= Geruth Kimham) | [<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>ת</span>](H1628)[<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>מו</span>ֹ](H3644H) <small>*Hebrew*</small> | 1x | [Jer.41.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geruth\*\|reference=Jer.41.17) |
-All Strong's for **Geruth_Chimham**: \[[[H1628]]\]
+| Geruth/ Chimham (=Qere. Ketiv= Geruth like.them; KJV= habitation of Chimham; NIV= Geruth Kimham) | [<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>רו</span>ּ<span class='tipnrLangHebrew'>ת</span>](H1628)[<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>מו</span>ֹ](H3644H) | 1x | [Jer.41.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geruth\*\|reference=Jer.41.17) |
+All entries for **Geruth Chimham**:  **<big>[[H1628|גֵּרוּת]]</big>**

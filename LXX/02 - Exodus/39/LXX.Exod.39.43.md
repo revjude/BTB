@@ -7,17 +7,17 @@ And Moses did look upon all the work, and, behold, they had done it as the LORD 
 And Moses inspected all the work and saw that they had accomplished it just as the LORD had commanded. So Moses blessed them.<small><sub>**MT:**</sub></small>
 [[Exod.39.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.42|<< Exodus 39:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.1|Exodus 40:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses; | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blessed | <big><span class="asgreek">ευλόγησεν</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses; | **<big>[[G3475\|Μωυσή]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blessed | **<big>[[G2127\|ευλόγησεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
 [[Exod.39.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.42|<< Exodus 39:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.1|Exodus 40:1 >>]]</td></tr></table>
 
 

@@ -6,13 +6,13 @@ The three sons of Benjamin: Bela, Becher, and Jediael.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.5|<< 1 Chronicles 7:5]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.7|1 Chronicles 7:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Benjamin  | <span class="ashebrew"><big>בִּנְיָמִ֗ן </big></span><small><small><sup>[[H1144G]]</sup></small></small> &#8207;| bin.ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bela  | <span class="ashebrew"><big>בֶּ֧לַע </big></span><small><small><sup>[[H1106A]]</sup></small></small> &#8207;| Be.la' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Beker  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֶ֛כֶר </big></span><small><small><sup>[[H1071G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Ve.kher <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Jediael  | <span class="ashebrew"><big>וִ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ידִֽיעֲאֵ֖ל </big></span><small><small><sup>[[H3043G]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> di.'a.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשָֽׁה </big></span><small><small><sup>[[H7969]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  |**<big>&#8207;[[H1144G\|בִּנְיָמִ֗ן]]&#8207; </big>**| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bela  |**<big>&#8207;[[H1106A\|בֶּ֧לַע]]&#8207; </big>**| Be.la'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Beker  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1071G\|בֶ֛כֶר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ve.kher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jediael  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3043G\|ידִֽיעֲאֵ֖ל]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> di.'a.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.5|<< 1 Chronicles 7:5]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.7|1 Chronicles 7:7 >>]]</td></tr></table>
 
 

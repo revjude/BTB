@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָטַר‎</span></big> **mâṭar** <small>*(maw-tar')*</small> ==**to rain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָטַר‎</span></big>** **mâṭar** <small>*(maw-tar')*</small> ==**to rain**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ (cause to) rain (upon).
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to rain, send rain
 $\quad$ $\quad$ **1b2)** to rain hail, send hail
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">νίπτω</span><sup><small>[[G3538]]</small></sup>
+<small>See Greek: </small>**<big>[[G1863|ἐπάγω]]</big>** · **<big>[[G3538|νίπτω]]</big>**

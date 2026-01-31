@@ -7,24 +7,24 @@ I will scatter them as with an east wind before the enemy; I will shew them the 
 I will scatter them before the enemy like the east wind. I will show them My back and not My face in the day of their calamity.”<small><sub>**MT:**</sub></small>
 [[Jer.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.16|<< Jeremiah 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.18|Jeremiah 18:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| wind | <big><span class="asgreek">άνεμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| a burning | <big><span class="asgreek">καύσωνα</span></big> <sup><small><small>[[G2742]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασπερώ</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in front | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of their enemies. | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] back | <big><span class="asgreek">νώτον</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \[the\] front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| I will show | <big><span class="asgreek">δείξω</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of their destruction. | <big><span class="asgreek">απωλείας</span></big> <sup><small><small>[[G0684]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| wind | **<big>[[G0417\|άνεμον]]</big>** |
+| a burning | **<big>[[G2742\|καύσωνα]]</big>** |
+| I will scatter | **<big>[[G1289\|διασπερώ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in front | **<big>[[G2596\|κατά]]</big>** **<big>[[G4383\|πρόσωπον]]</big>** |
+| of their enemies. | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[The\] back | **<big>[[G3577\|νώτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| \[the\] front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| I will show | **<big>[[G1166\|δείξω]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a day | **<big>[[G2250\|ημέραν]]</big>** |
+| of their destruction. | **<big>[[G0684\|απωλείας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.16|<< Jeremiah 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.18|Jeremiah 18:18 >>]]</td></tr></table>
 
 

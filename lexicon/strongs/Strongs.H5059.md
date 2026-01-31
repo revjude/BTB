@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָגַן‎</span></big> **nâgan** <small>*(naw-gan')*</small> ==**to play**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָגַן‎</span></big>** **nâgan** <small>*(naw-gan')*</small> ==**to play**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ player on instruments, sing to the stringed instruments, melody, ministrel, play(-er, -ing).
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Piel)
 $\quad$ $\quad$ **1b1)** to play
 $\quad$ $\quad$ $\quad$ **1b1a)** player, minstrel (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εὐλογέω</span><sup><small>[[G2127]]</small></sup> · <span class="asgreek">κιθαρίζω</span><sup><small>[[G2789]]</small></sup> · <span class="asgreek">ψάλλω</span><sup><small>[[G5567]]</small></sup> · <span class="asgreek">ψαλμός</span><sup><small>[[G5568]]</small></sup>
+<small>See Greek: </small>**<big>[[G2127|εὐλογέω]]</big>** · **<big>[[G2789|κιθαρίζω]]</big>** · **<big>[[G5567|ψάλλω]]</big>** · **<big>[[G5568|ψαλμός]]</big>**

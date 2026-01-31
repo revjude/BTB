@@ -7,22 +7,22 @@ Therefore shall they have no inheritance among their brethren: the LORD [is] the
 Although they have no inheritance among their brothers, the LORD is their inheritance, as He promised them.<small><sub>**MT:**</sub></small>
 [[Deut.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.1|<< Deuteronomy 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.3|Deuteronomy 18:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| there will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren; | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] his lot, | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a lot | **<big>[[G2819\|κλήρος]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| there will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his brethren; | **<big>[[G0080\|αδελφοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| himself | **<big>[[G1473\|αυτός]]</big>** |
+| \[is\] his lot, | **<big>[[G2819\|κλήρος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| he said | **<big>[[G2036\|είπεν]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Deut.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.1|<< Deuteronomy 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.3|Deuteronomy 18:3 >>]]</td></tr></table>
 
 

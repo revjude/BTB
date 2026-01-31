@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵאָה‎</span></big> **mêʼâh** <small>*(may-aw')*</small> ==**hundred**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מֵאיָה</span> **mêʼyâh** <small>*(may-yaw')*</small>; properly, a primitive numeral</small>
+**<big><span class="ashebrew">‎מֵאָה‎</span></big>** **mêʼâh** <small>*(may-aw')*</small> ==**hundred**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מֵאיָה</span></big>** **mêʼyâh** <small>*(may-yaw')*</small>; properly, a primitive numeral</small>
 
 $\quad$ hundred((-fold), -th), [phrase] sixscore.
 - ***a hundred***

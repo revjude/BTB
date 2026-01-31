@@ -7,52 +7,52 @@ He sent Hadoram his son to king David, to inquire of his welfare, and to congrat
 he sent his son Hadoram to greet King David and bless him for fighting and defeating Hadadezer, who had been at war with Tou. Hadoram brought all kinds of articles of gold and silver and bronze,<small><sub>**MT:**</sub></small>
 [[1Chr.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.9|<< 1 Chronicles 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.11|1 Chronicles 18:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hadoram | <big><span class="asgreek">Αδωράμ</span></big> <sup><small><small>[[H1913b]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to ask | <big><span class="asgreek">ερωτήσαι</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| peace, | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to congratulate | <big><span class="asgreek">ευλογήσαι</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he waged war against | <big><span class="asgreek">επολέμησε</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hadarezer, | <big><span class="asgreek">Αδαδεζέρ</span></big> <sup><small><small>[[H1928]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for striking | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| a warlike | <big><span class="asgreek">πολέμιος</span></big> <sup><small><small>[[G8840]]</small></small></sup> |
-| Tou | <big><span class="asgreek">Θωού</span></big> <sup><small><small>[[H8583]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Hadarezer -- | <big><span class="asgreek">Αδαδεζερ</span></big> <sup><small><small>[[H1928]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσά</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρά</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of brass. | <big><span class="asgreek">χαλκά</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hadoram | **<big>[[H1913b\|Αδωράμ]]</big>** |
+| his son | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to ask | **<big>[[G2065\|ερωτήσαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| peace, | **<big>[[G1515\|ειρήνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to congratulate | **<big>[[G2127\|ευλογήσαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| he waged war against | **<big>[[G4170\|επολέμησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hadarezer, | **<big>[[H1928\|Αδαδεζέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for striking | **<big>[[G3960\|επάταξεν]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| because | **<big>[[G3754\|ότι]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| a warlike | **<big>[[G8840\|πολέμιος]]</big>** |
+| Tou | **<big>[[H8583\|Θωού]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| with | **<big>[[G3739\|ο]]</big>** |
+| Hadarezer -- | **<big>[[H1928\|Αδαδεζερ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| items | **<big>[[G4632\|σκεύη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of gold, | **<big>[[G5552\|χρυσά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of silver, | **<big>[[G0693\|αργυρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of brass. | **<big>[[G5470\|χαλκά]]</big>** |
 [[1Chr.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.9|<< 1 Chronicles 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.11|1 Chronicles 18:11 >>]]</td></tr></table>
 
 

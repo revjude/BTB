@@ -1,8 +1,8 @@
 <small>*Naphath • A region in Issachar with Manassite towns*</small>
 
 <span class='tipnrhighlight'>Naphath</span> was a region in Issachar that contained towns belonging to the tribe of Manasseh.
-- A location near Megiddo<[[H4023]]> only mentioned at [[Josh.17.11|Jos.17.11]]; 
-- only referred to as Naphath<[[H5316G]]> \(<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ת</span>\).
+- A location near Megiddo **<big>[[H4023|מְגִדּוֹן]]</big>** only mentioned at [[Josh.17.11|Jos.17.11]]; 
+- only referred to as Naphath **<big>[[H5316|נֶפֶת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.58418313614938,35.18229165870594&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Naphath was a region within the territory of Issachar that contained several tow
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naphath (KJV= countries; NIV= Naphoth) | [<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H5316G) <small>*Hebrew*</small> | 1x | [Jos.17.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphath\*\|reference=Jos.17.11) |
-All Strong's for **Naphath**: \[[[H5316G]]\]
+| Naphath (KJV= countries; NIV= Naphoth) | [<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H5316G) | 1x | [Jos.17.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphath\*\|reference=Jos.17.11) |
+All entries for **Naphath**:  **<big>[[H5316|נֶפֶת]]</big>**

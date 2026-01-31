@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎כָּפָר‎</span></big> **kâphâr** <small>*(kaw-fawr')*</small> ==**Chephar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּפַר‎</span><sup><small>[[H3722]]</small></sup></small>
+**<big><span class="ashebrew">‎כָּפָר‎</span></big>** **kâphâr** <small>*(kaw-fawr')*</small> ==**Chephar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3722|‎כָּפַר‎]]</big>**</small>
 
-$\quad$ village. Compare <span class="ashebrew">‎כְּפִיר‎</span><sup><small>[[H3715]]</small></sup>.
+$\quad$ village. Compare **<big>[[H3715|‎כְּפִיר‎]]</big>**.
 - ***a village*** (as protected by walls)
 
 **1)**  village
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἵλεως</span><sup><small>[[G2436]]</small></sup> · <span class="asgreek">κώμη</span><sup><small>[[G2968]]</small></sup> · <span class="asgreek">Καπερναούμ</span><sup><small>[[G2584]]</small></sup>
+<small>See Greek: </small>**<big>[[G2436|ἵλεως]]</big>** · **<big>[[G2968|κώμη]]</big>** · **<big>[[G2584|Καπερναούμ]]</big>**

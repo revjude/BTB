@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲצֵבָה‎</span></big> **maʻătsêbâh** <small>*(mah-ats-ay-baw')*</small> ==**torment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎עָצַב‎</span><sup><small>[[H6087]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעֲצֵבָה‎</span></big>** **maʻătsêbâh** <small>*(mah-ats-ay-baw')*</small> ==**torment**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6087|‎עָצַב‎]]</big>**</small>
 
 $\quad$ sorrow.
 - ***anguish***

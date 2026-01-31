@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jabez</span>, who was more honorable than his brothers, cried out to God, who granted his request to enlarge his territory and keep him from harm \(1Ch.4.9-10\).
 - A man from the tribe of Judah  living at the time of Divided Monarchy, first mentioned at 1Ch.4.9; 
-- only referred to as Jabez<[[H3258H]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ץ</span>\); 
--  son of Koz<[[H6976G]]>\(?\); 
-- a brother of Anub<[[H6036]]>\(?\), Zobebah<[[H6637]]>\(?\) and Harum<[[H2037]]>\(?\).
+- only referred to as Jabez **<big>[[H3258|יַעְבֵּץ]]</big>**; 
+-  son of Koz **<big>[[H6976|קוֹץ]]</big>**; 
+- a brother of Anub **<big>[[H6036|עָנוּב]]</big>**, Zobebah **<big>[[H6637|צֹבֵבָה]]</big>** and Harum **<big>[[H2037|הָרֻם]]</big>**.
 
 Jabez is mentioned in 1 Chronicles 4:9-10 as a descendant of Judah. He is described as being more honorable than his brothers, though the reason for this distinction is not given. 
 
@@ -18,8 +18,8 @@ The fact that God granted Jabez's request suggests that his prayer was sincere a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jabez | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ץ</span>](H3258H) <small>*Hebrew*</small> | 3x | [[1Ch.4.9a] ... [1Ch.4.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jabez\*\|reference=1Ch.4.9;1Ch.4.9;1Ch.4.10) |
-All Strong's for **Jabez**: \[[[H3258H]]\]
+| Jabez | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ץ</span>](H3258H) | 3x | [[1Ch.4.9a] ... [1Ch.4.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jabez\*\|reference=1Ch.4.9;1Ch.4.9;1Ch.4.10) |
+All entries for **Jabez**:  **<big>[[H3258|יַעְבֵּץ]]</big>**
 #### Related Profiles:
 - **[Koz](H6976G)** (father)
 - **[Anub](H6036)** (sibling)

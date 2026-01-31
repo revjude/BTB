@@ -7,36 +7,36 @@ And the border went over from thence toward Luz, to the side of Luz, which [is] 
 From there the border crossed over to the southern slope of Luz (that is, Bethel) and went down to Ataroth-addar on the hill south of Lower Beth-horon.<small><sub>**MT:**</sub></small>
 [[Josh.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.12|<< Joshua 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.14|Joshua 18:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will go | <big><span class="asgreek">διελεύσεται</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| to Luz | <big><span class="asgreek">Λουζά</span></big> <sup><small><small>[[H3870]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] south -- | <big><span class="asgreek">λιβός</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Beth-el. | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will go down | <big><span class="asgreek">καταβήσεται</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Ataroth | <big><span class="asgreek">Αταρώθ</span></big> <sup><small><small>[[H5852]]</small></small></sup> |
-| Adar | <big><span class="asgreek">Εδδάρ</span></big> <sup><small><small>[[H0144]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountainous area | <big><span class="asgreek">ορεινήν</span></big> <sup><small><small>[[G3714]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] south | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
-| of Beth-horon, | <big><span class="asgreek">Βαιθωρών</span></big> <sup><small><small>[[H1032]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[part\] below. | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| will go | **<big>[[G1330\|διελεύσεται]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| to Luz | **<big>[[H3870\|Λουζά]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] south -- | **<big>[[G3047\|λιβός]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| Beth-el. | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will go down | **<big>[[G2597\|καταβήσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| borders | **<big>[[G3725\|όρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Ataroth | **<big>[[H5852\|Αταρώθ]]</big>** |
+| Adar | **<big>[[H0144\|Εδδάρ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| mountainous area | **<big>[[G3714\|ορεινήν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] south | **<big>[[G3047\|λίβα]]</big>** |
+| of Beth-horon, | **<big>[[H1032\|Βαιθωρών]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| \[part\] below. | **<big>[[G2736\|κάτω]]</big>** |
 [[Josh.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.12|<< Joshua 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.14|Joshua 18:14 >>]]</td></tr></table>
 
 

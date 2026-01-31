@@ -6,17 +6,17 @@ Then Saul said, “Cast the lot between me and my son Jonathan.” And Jonathan 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.41|<< 1 Samuel 14:41]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.43|1 Samuel 14:43 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֣אמֶר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  | <span class="ashebrew"><big>שָׁא֔וּל </big></span><small><small><sup>[[H7586G]]</sup></small></small> &#8207;| sha.'Ul <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| make fall  | <span class="ashebrew"><big>הַפִּ֕ילוּ </big></span><small><small><sup>[[H5307I]]</sup></small></small> &#8207;| ha.Pi.lu <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between me  | <span class="ashebrew"><big>בֵּינִ֕ </big></span><small><small><sup>[[H0996G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| bei. <small><sup>[[HAcmsc]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and between  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵ֖ין </big></span><small><small><sup>[[H0996G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Vein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יוֹנָתָ֣ן </big></span><small><small><sup>[[H3129N]]</sup></small></small> &#8207;| yo.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son my  | <span class="ashebrew"><big>בְּנִ֑ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| be.N <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he was taken by lot  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּלָּכֵ֖ד </big></span><small><small><sup>[[H3920]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.la.Khed <small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jonathan  | <span class="ashebrew"><big>יוֹנָתָֽן </big></span><small><small><sup>[[H3129N]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yo.na.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁא֔וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make fall  |**<big>&#8207;[[H5307I\|הַפִּ֕ילוּ]]&#8207; </big>**| ha.Pi.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between me  |**<big>&#8207;[[H0996G\|בֵּינִ֕]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| bei.<small><sup>[[HAcmsc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֖ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3129N\|יוֹנָתָ֣ן]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son my  |**<big>&#8207;[[H1121A\|בְּנִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was taken by lot  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|יִּלָּכֵ֖ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.la.Khed<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  |**<big>&#8207;[[H3129N\|יוֹנָתָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.41|<< 1 Samuel 14:41]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.43|1 Samuel 14:43 >>]]</td></tr></table>
 
 

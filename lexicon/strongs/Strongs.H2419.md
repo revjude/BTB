@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִיאֵל‎</span></big> **Chîyʼêl** <small>*(khee-ale')*</small> ==**Hiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חַי‎</span><sup><small>[[H2416]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; living of God</small>
+**<big><span class="ashebrew">‎חִיאֵל‎</span></big>** **Chîyʼêl** <small>*(khee-ale')*</small> ==**Hiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2416|‎חַי‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; living of God</small>
 
 $\quad$ Hiel.
 - § Hiel = *"God lives"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּתֶר‎</span></big> **bether** <small>*(beh'-ther)*</small> ==**part**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּתַר‎</span><sup><small>[[H1334]]</small></sup></small>
+**<big><span class="ashebrew">‎בֶּתֶר‎</span></big>** **bether** <small>*(beh'-ther)*</small> ==**part**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1334|‎בָּתַר‎]]</big>**</small>
 
 $\quad$ part, piece.
 - ***a section***

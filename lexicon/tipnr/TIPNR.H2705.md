@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hazar-shual</span> was a town in the Negev allotted to Judah \(Josh 15:28\), later given to the tribe of Simeon \(Josh 19:3; 1 Chr 4:28\), and inhabited by Jews after the Babylonian exile \([[Neh.11.27|Neh.11.27]]\).
 - A location first mentioned at [[Josh.15.28|Jos.15.28]]; 
-- only referred to as Hazar-shual<[[H2705]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Hazar-shual **<big>[[H2705|חֲצַר שׁוּעָל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.215418,34.942986&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hazar-shual, meaning "village of foxes," was a town located in the Negev, the so
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hazar-shual (NIV= Hazar Shual) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>](H2705) <small>*Hebrew*</small> | 4x | [[Jos.15.28] ... [Neh.11.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazar\*\|reference=Jos.15.28;Jos.19.3;1Ch.4.28;Neh.11.27) |
-All Strong's for **Hazar-shual**: \[[[H2705]]\]
+| Hazar-shual (NIV= Hazar Shual) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ר</span> <span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>](H2705) | 4x | [[Jos.15.28] ... [Neh.11.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazar\*\|reference=Jos.15.28;Jos.19.3;1Ch.4.28;Neh.11.27) |
+All entries for **Hazar-shual**:  **<big>[[H2705|חֲצַר שׁוּעָל]]</big>**

@@ -7,47 +7,47 @@ And he put the wood in order, and cut the bullock in pieces, and laid [him] on t
 Next, he arranged the wood, cut up the bull, placed it on the wood,<small><sub>**MT:**</sub></small>
 [[1Kgs.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">επέθηκε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kindling | <big><span class="asgreek">σχίδακας</span></big> <sup><small><small>[[G9381]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he made. | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he dismembered | <big><span class="asgreek">εμέλισε</span></big> <sup><small><small>[[G8282]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put it | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kindling, | <big><span class="asgreek">σχίδακας</span></big> <sup><small><small>[[G9381]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he piled | <big><span class="asgreek">εστοίβασεν</span></big> <sup><small><small>[[G9185]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elijah said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| Bring | <big><span class="asgreek">λάβετέ</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| pitchers | <big><span class="asgreek">υδρίας</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pour | <big><span class="asgreek">επιχέατε</span></big> <sup><small><small>[[G2022]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kindling! | <big><span class="asgreek">σχίδακας</span></big> <sup><small><small>[[G9381]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G2007\|επέθηκε]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| kindling | **<big>[[G9381\|σχίδακας]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| he made. | **<big>[[G4160\|εποίησεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he dismembered | **<big>[[G8282\|εμέλισε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put it | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| kindling, | **<big>[[G9381\|σχίδακας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he piled | **<big>[[G9185\|εστοίβασεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elijah said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| Bring | **<big>[[G2983\|λάβετέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| four | **<big>[[G5064\|τέσσαρας]]</big>** |
+| pitchers | **<big>[[G5201\|υδρίας]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pour | **<big>[[G2022\|επιχέατε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| kindling! | **<big>[[G9381\|σχίδακας]]</big>** |
 [[1Kgs.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
 
 

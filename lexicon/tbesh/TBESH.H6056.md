@@ -1,4 +1,3 @@
-<span class="asaramaic">‎עֲנַף‎</span> <small>***(a.naph)***</small> ==**bough**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H6057]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6057|עָנָף]]</big>**</small> 
 
-- Aramaic of <i>a.naph</i> (<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ף‎</span> "branch" [[H6057]])
+- Aramaic of <i>a.naph</i> (<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ף‎</span> "branch" **<big>[[H6057|עָנָף]]</big>**)

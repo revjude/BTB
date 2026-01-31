@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עַבְדְּאֵל‎</span></big> **ʻAbdᵉʼêl** <small>*(ab-deh-ale')*</small> ==**Abdeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; serving God</small>
+**<big><span class="ashebrew">‎עַבְדְּאֵל‎</span></big>** **ʻAbdᵉʼêl** <small>*(ab-deh-ale')*</small> ==**Abdeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5647|‎עָבַד‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; serving God</small>
 
-$\quad$ Abdeel. Compare <span class="ashebrew">‎עַבְדִיאֵל‎</span><sup><small>[[H5661]]</small></sup>.
+$\quad$ Abdeel. Compare **<big>[[H5661|‎עַבְדִיאֵל‎]]</big>**.
 - § Abdeel = *"servant of God"*
 - ***Abdeel***, an Israelite
 

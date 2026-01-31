@@ -7,28 +7,28 @@ Moreover the sons of Obededom [were], Shemaiah the firstborn, Jehozabad the seco
 And Obed-edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,<small><sub>**MT:**</sub></small>
 [[1Chr.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.3|<< 1 Chronicles 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.5|1 Chronicles 26:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Obed | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| sons -- | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Shemaiah | <big><span class="asgreek">Σαμέας</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first-born, | <big><span class="asgreek">πρωτότοκος</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| Jehozabad | <big><span class="asgreek">Ιωζαβάδ</span></big> <sup><small><small>[[H3107]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second, | <big><span class="asgreek">δεύτερος</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| Joah | <big><span class="asgreek">Ιωά</span></big> <sup><small><small>[[H3098]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third, | <big><span class="asgreek">τρίτος</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| Sacar | <big><span class="asgreek">Σάχαρ</span></big> <sup><small><small>[[H7940]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourth, | <big><span class="asgreek">τέταρτος</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| Nethaneel | <big><span class="asgreek">Ναθαναήλ</span></big> <sup><small><small>[[H5417]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth, | <big><span class="asgreek">πέμπτος</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Obed | **<big>[[G5601\|Ωβήδ]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| sons -- | **<big>[[G5207\|υιοί]]</big>** |
+| Shemaiah | **<big>[[H8098\|Σαμέας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| first-born, | **<big>[[G4416\|πρωτότοκος]]</big>** |
+| Jehozabad | **<big>[[H3107\|Ιωζαβάδ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| second, | **<big>[[G1208\|δεύτερος]]</big>** |
+| Joah | **<big>[[H3098\|Ιωά]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| third, | **<big>[[G5154\|τρίτος]]</big>** |
+| Sacar | **<big>[[H7940\|Σάχαρ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fourth, | **<big>[[G5067\|τέταρτος]]</big>** |
+| Nethaneel | **<big>[[H5417\|Ναθαναήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| fifth, | **<big>[[G3991\|πέμπτος]]</big>** |
 [[1Chr.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.3|<< 1 Chronicles 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.5|1 Chronicles 26:5 >>]]</td></tr></table>
 
 

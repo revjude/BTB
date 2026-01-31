@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָדַר‎</span></big> **qâdar** <small>*(kaw-dar')*</small> ==**be dark**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָדַר‎</span></big>** **qâdar** <small>*(kaw-dar')*</small> ==**be dark**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be black(-ish), be (make) dark(-en), [idiom] heavily, (cause to) mourn.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1b1)** to darken
 $\quad$ $\quad$ **1b2)** to cause to mourn
 $\quad$ **1c)** (Hithpael) to grow dark
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">ἀπορία</span><sup><small>[[G0640]]</small></sup> · <span class="asgreek">πενθέω</span><sup><small>[[G3996]]</small></sup> · <span class="asgreek">σκοτόω</span><sup><small>[[G4656]]</small></sup>
+<small>See Greek: </small>**<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G0640|ἀπορία]]</big>** · **<big>[[G3996|πενθέω]]</big>** · **<big>[[G4656|σκοτόω]]</big>**

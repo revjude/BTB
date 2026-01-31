@@ -9,17 +9,17 @@ He sitteth alone and keepeth silence, because he hath borne [it] upon him.
 Let him sit alone in silence, for the LORD has laid it upon him.<small><sub>**MT:**</sub></small>
 [[Lam.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.27|<< Lamentations 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.29|Lamentations 3:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΙΩΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΙΩΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| He will sit down | <big><span class="asgreek">καθήσεται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| alone, | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">μόνας</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will keep silent, | <big><span class="asgreek">σιωπήσεται</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he lifted \[it\] | <big><span class="asgreek">ήρεν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| himself. | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| ΙΩΘ <sup><small>[acrostic title]</small></sup> |  |
+| He will sit down | **<big>[[G2521\|καθήσεται]]</big>** |
+| alone, | **<big>[[G2596\|κατά]]</big>** **<big>[[G3441\|μόνας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will keep silent, | **<big>[[G4623\|σιωπήσεται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he lifted \[it\] | **<big>[[G0142\|ήρεν]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| himself. | **<big>[[G1438\|εαυτώ]]</big>** |
 [[Lam.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.27|<< Lamentations 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.29|Lamentations 3:29 >>]]</td></tr></table>
 
 

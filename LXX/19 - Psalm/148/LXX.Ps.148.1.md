@@ -16,19 +16,19 @@ Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens! | <big><span class="asgreek">ουρανών</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest! | <big><span class="asgreek">υψίστοις</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
+| Praise | **<big>[[G0134\|αινείτε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| heavens! | **<big>[[G3772\|ουρανών]]</big>** |
+| Praise | **<big>[[G0134\|αινείτε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| highest! | **<big>[[G5310\|υψίστοις]]</big>** |
 [[Ps.148.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.20|<< Psalm 147:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.2|Psalm 148:2 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ For ten acres of vineyard will yield but a bath of wine, and a homer of seed onl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.9|<< Isaiah 5:9]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.11|Isaiah 5:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֗י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| Ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשֶׂ֙רֶת֙ </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.Se.ret <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| acres of  | <span class="ashebrew"><big>צִמְדֵּי </big></span><small><small><sup>[[H6776]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tzim.dei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vineyard  | <span class="ashebrew"><big>כֶ֔רֶם </big></span><small><small><sup>[[H3754]]</sup></small></small> &#8207;| Khe.rem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will produce  | <span class="ashebrew"><big>יַעֲשׂ֖וּ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ya.'a.Su <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a bath  | <span class="ashebrew"><big>בַּ֣ת </big></span><small><small><sup>[[H1324]]</sup></small></small> &#8207;| bat <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֑ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chat <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and seed of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זֶ֥רַע </big></span><small><small><sup>[[H2233G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ze.ra' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a homer  | <span class="ashebrew"><big>חֹ֖מֶר </big></span><small><small><sup>[[H2563C]]</sup></small></small> &#8207;| Cho.mer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will produce  | <span class="ashebrew"><big>יַעֲשֶׂ֥ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ya.'a.Seh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ephah  | <span class="ashebrew"><big>אֵיפָֽה </big></span><small><small><sup>[[H0374]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| 'ei.Fah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשֶׂ֙רֶת֙]]&#8207; </big>**| 'a.Se.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| acres of  |**<big>&#8207;[[H6776\|צִמְדֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tzim.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyard  |**<big>&#8207;[[H3754\|כֶ֔רֶם]]&#8207; </big>**| Khe.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will produce  |**<big>&#8207;[[H6213A\|יַעֲשׂ֖וּ]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bath  |**<big>&#8207;[[H1324\|בַּ֣ת]]&#8207; </big>**| bat<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֑ת]]&#8207; </big>**| 'e.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seed of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2233G\|זֶ֥רַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a homer  |**<big>&#8207;[[H2563C\|חֹ֖מֶר]]&#8207; </big>**| Cho.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will produce  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֥ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ephah  |**<big>&#8207;[[H0374\|אֵיפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.9|<< Isaiah 5:9]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.11|Isaiah 5:11 >>]]</td></tr></table>
 
 

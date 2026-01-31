@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַהֵר שָׁלָל חָשׁ בַּז‎</span></big> **Mahêr Shâlâl Châsh Baz** <small>*(mah-hare' shaw-lawl' khawsh baz)*</small> ==**Maher-shalal-hash-baz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מַהֵר‎</span><sup><small>[[H4118]]</small></sup> and <span class="ashebrew">‎שָׁלָל‎</span><sup><small>[[H7998]]</small></sup> and <span class="ashebrew">‎חוּשׁ‎</span><sup><small>[[H2363]]</small></sup> and <span class="ashebrew">‎בַּז‎</span><sup><small>[[H0957]]</small></sup>; hasting (is he (the enemy) to the) booty, swift (to the) prey</small>
+**<big><span class="ashebrew">‎מַהֵר שָׁלָל חָשׁ בַּז‎</span></big>** **Mahêr Shâlâl Châsh Baz** <small>*(mah-hare' shaw-lawl' khawsh baz)*</small> ==**Maher-shalal-hash-baz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4118|‎מַהֵר‎]]</big>** and **<big>[[H7998|‎שָׁלָל‎]]</big>** and **<big>[[H2363|‎חוּשׁ‎]]</big>** and **<big>[[H0957|‎בַּז‎]]</big>**; hasting (is he (the enemy) to the) booty, swift (to the) prey</small>
 
 $\quad$ Maher-sha-lal-bash-baz.
 - § Mahershalalhashbaz = *Maher-shalal-hash-baz "swift is booty, speedy is prey"*

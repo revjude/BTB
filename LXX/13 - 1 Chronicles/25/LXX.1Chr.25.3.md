@@ -7,34 +7,34 @@ Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, 
 From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah—six in all—under the direction of their father Jeduthun, who prophesied with the harp, giving thanks and praise to the LORD.<small><sub>**MT:**</sub></small>
 [[1Chr.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.2|<< 1 Chronicles 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.4|1 Chronicles 25:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| To Jeduthun -- | <big><span class="asgreek">Ιδιθούμ</span></big> <sup><small><small>[[H3038]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeduthun | <big><span class="asgreek">Ιδιθούμ</span></big> <sup><small><small>[[H3038]]</small></small></sup> |
-| \[were\] Gedaliah, | <big><span class="asgreek">Γοδολίας</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zeri, | <big><span class="asgreek">Σουρί</span></big> <sup><small><small>[[H6874]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jeshaiah, | <big><span class="asgreek">Ισαϊα</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hashabiah, | <big><span class="asgreek">Ασαβία</span></big> <sup><small><small>[[H2811]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Mattithiah -- | <big><span class="asgreek">Ματταθίας</span></big> <sup><small><small>[[H4993]]</small></small></sup> |
-| six, | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| \[along\] with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Jeduthun, | <big><span class="asgreek">Ιδιθούμ</span></big> <sup><small><small>[[H3038]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] lute | <big><span class="asgreek">κινύρα</span></big> <sup><small><small>[[G8011]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητεύοντος</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| in acknowledgment | <big><span class="asgreek">εξομολόγησιν</span></big> <sup><small><small>[[G7347]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| praise | <big><span class="asgreek">αίνεσιν</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| To Jeduthun -- | **<big>[[H3038\|Ιδιθούμ]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Jeduthun | **<big>[[H3038\|Ιδιθούμ]]</big>** |
+| \[were\] Gedaliah, | **<big>[[H1436b\|Γοδολίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zeri, | **<big>[[H6874\|Σουρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jeshaiah, | **<big>[[H3091\|Ισαϊα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hashabiah, | **<big>[[H2811\|Ασαβία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Mattithiah -- | **<big>[[H4993\|Ματταθίας]]</big>** |
+| six, | **<big>[[G1803\|εξ]]</big>** |
+| \[along\] with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Jeduthun, | **<big>[[H3038\|Ιδιθούμ]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] lute | **<big>[[G8011\|κινύρα]]</big>** |
+| prophesying | **<big>[[G4395\|προφητεύοντος]]</big>** |
+| in acknowledgment | **<big>[[G7347\|εξομολόγησιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| praise | **<big>[[G0133\|αίνεσιν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[1Chr.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.2|<< 1 Chronicles 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.4|1 Chronicles 25:4 >>]]</td></tr></table>
 
 

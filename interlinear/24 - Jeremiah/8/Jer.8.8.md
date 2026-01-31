@@ -6,22 +6,22 @@ How can you say, ‘We are wise, and the Law of the LORD is with us,’ when in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.7|<< Jeremiah 8:7]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.9|Jeremiah 8:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| how?  | <span class="ashebrew"><big>אֵיכָ֤ה </big></span><small><small><sup>[[H0349B]]</sup></small></small> &#8207;| 'ei.Khah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you say  | <span class="ashebrew"><big>תֹֽאמְרוּ֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| to.me.Ru <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] wise  | <span class="ashebrew"><big>חֲכָמִ֣ים </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.kha.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we  | <span class="ashebrew"><big>אֲנַ֔חְנוּ </big></span><small><small><sup>[[H0587]]</sup></small></small> &#8207;| 'a.Nach.nu <small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] law of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תוֹרַ֥ת </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> to.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] with us  | <span class="ashebrew"><big>אִתָּ֑ </big></span><small><small><sup>[[H0854]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9035]]</sup></small></small> &#8207;| 'i.Ta. <small><sup>[[HRd]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| truly  | <span class="ashebrew"><big>אָכֵן֙ </big></span><small><small><sup>[[H0403]]</sup></small></small> &#8207;| 'a.Khen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into \<the> falsehood  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֣קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has made [it]  | <span class="ashebrew"><big>עָשָׂ֔ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a stylus of  | <span class="ashebrew"><big>עֵ֖ט </big></span><small><small><sup>[[H5842]]</sup></small></small> &#8207;| 'et <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood of  | <span class="ashebrew"><big>שֶׁ֥קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| scribes  | <span class="ashebrew"><big>סֹפְרִֽים </big></span><small><small><sup>[[H5608B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| so.fe.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how?  |**<big>&#8207;[[H0349B\|אֵיכָ֤ה]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you say  |**<big>&#8207;[[H0559\|תֹֽאמְרוּ֙]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] wise  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  |**<big>&#8207;[[H0587\|אֲנַ֔חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] law of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8451\|תוֹרַ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with us  |**<big>&#8207;[[H0854\|אִתָּ֑]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'i.Ta.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truly  |**<big>&#8207;[[H0403\|אָכֵן֙]]&#8207; </big>**| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into \<the> falsehood  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8267\|שֶּׁ֣קֶר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has made [it]  |**<big>&#8207;[[H6213H\|עָשָׂ֔ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a stylus of  |**<big>&#8207;[[H5842\|עֵ֖ט]]&#8207; </big>**| 'et<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood of  |**<big>&#8207;[[H8267\|שֶׁ֥קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| scribes  |**<big>&#8207;[[H5608B\|סֹפְרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| so.fe.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.7|<< Jeremiah 8:7]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.9|Jeremiah 8:9 >>]]</td></tr></table>
 
 

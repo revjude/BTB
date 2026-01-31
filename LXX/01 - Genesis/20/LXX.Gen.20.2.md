@@ -7,41 +7,41 @@ And Abraham said of Sarah his wife, She [is] my sister: and Abimelech king of Ge
 Abraham said of his wife Sarah, “She is my sister.” So Abimelech king of Gerar had Sarah brought to him.<small><sub>**MT:**</sub></small>
 [[Gen.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.1|<< Genesis 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.3|Genesis 20:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρρας</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| my sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| She is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| For he feared | <big><span class="asgreek">εφοβήθη</span></big> <sup><small><small>[[G5399]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| to say | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| my wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| She is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| should kill | <big><span class="asgreek">αποκτείνωσιν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| on account of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| So | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Gerar | <big><span class="asgreek">Γεραρων</span></big> <sup><small><small>[[H1642]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sarah. | <big><span class="asgreek">Σάρραν</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Abraham | **<big>[[G0011\|Αβραάμ]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his wife, | **<big>[[G1135\|γυναικός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| my sister | **<big>[[G0079\|αδελφή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| She is | **<big>[[G1510\|εστίν]]</big>** |
+| For he feared | **<big>[[G5399\|εφοβήθη]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| to say | **<big>[[G2036\|ειπείν]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| my wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| She is | **<big>[[G1510\|εστί]]</big>** |
+| lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| should kill | **<big>[[G0615\|αποκτείνωσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| on account of | **<big>[[G1223\|δι΄]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| So | **<big>[[G1161\|δε]]</big>** |
+| Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Gerar | **<big>[[H1642\|Γεραρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he took | **<big>[[G2983\|έλαβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Sarah. | **<big>[[G4564\|Σάρραν]]</big>** |
 [[Gen.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.1|<< Genesis 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.3|Genesis 20:3 >>]]</td></tr></table>
 
 

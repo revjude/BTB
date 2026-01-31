@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גֶּבֶא‎</span></big> **gebeʼ** <small>*(geh'-beh)*</small> ==**cistern**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎גֶּבֶא‎</span></big>** **gebeʼ** <small>*(geh'-beh)*</small> ==**cistern**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning probably to collect</small>
 
 $\quad$ marish, pit.

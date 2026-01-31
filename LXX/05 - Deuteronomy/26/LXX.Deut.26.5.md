@@ -7,38 +7,38 @@ And thou shalt speak and say before the LORD thy God, A Syrian ready to perish [
 and you are to declare before the LORD your God, “My father was a wandering Aramean, and he went down to Egypt few in number and lived there and became a great nation, mighty and numerous.<small><sub>**MT:**</sub></small>
 [[Deut.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.4|<< Deuteronomy 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.6|Deuteronomy 26:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall respond | <big><span class="asgreek">αποκριθήση</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| threw off Syria | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> <big><span class="asgreek">απέβαλεν</span></big> <sup><small><small>[[G0577]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sojourned | <big><span class="asgreek">παρώκησεν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| in number | <big><span class="asgreek">αριθμώ</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
-| few | <big><span class="asgreek">βραχεί</span></big> <sup><small><small>[[G1024]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| a great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| a populous | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall respond | **<big>[[G0611\|αποκριθήση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say | **<big>[[G2046\|ερείς]]</big>** |
+| before | **<big>[[G1725\|έναντι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| threw off Syria | **<big>[[G4947\|Συρίαν]]</big>** **<big>[[G0577\|απέβαλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he went down | **<big>[[G2597\|κατέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sojourned | **<big>[[G3939\|παρώκησεν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| in number | **<big>[[G0706\|αριθμώ]]</big>** |
+| few | **<big>[[G1024\|βραχεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| nation | **<big>[[G1484\|έθνος]]</big>** |
+| a great | **<big>[[G3173\|μέγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| a populous | **<big>[[G4183\|πολύ]]</big>** |
 [[Deut.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.4|<< Deuteronomy 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.6|Deuteronomy 26:6 >>]]</td></tr></table>
 
 

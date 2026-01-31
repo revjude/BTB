@@ -7,29 +7,29 @@ For the living know that they shall die: but the dead know not any thing, neithe
 For the living know that they will die, but the dead know nothing. They have no further reward, because the memory of them is forgotten.<small><sub>**MT:**</sub></small>
 [[Eccl.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.4|<< Ecclesiastes 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.6|Ecclesiastes 9:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντες</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they shall die; | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκροί</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γινώσκοντες</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| anything; | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| a wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was forgotten | <big><span class="asgreek">επελήσθη</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their remembrance | <big><span class="asgreek">μνήμη</span></big> <sup><small><small>[[G3420]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| living | **<big>[[G2198\|ζώντες]]</big>** |
+| shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they shall die; | **<big>[[G0599\|αποθανούνται]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| dead | **<big>[[G3498\|νεκροί]]</big>** |
+| are not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισί]]</big>** |
+| knowing | **<big>[[G1097\|γινώσκοντες]]</big>** |
+| anything; | **<big>[[G3762\|ουδέν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| any longer | **<big>[[G2089\|έτι]]</big>** |
+| a wage | **<big>[[G3408\|μισθός]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| was forgotten | **<big>[[G1950\|επελήσθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their remembrance | **<big>[[G3420\|μνήμη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Eccl.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.4|<< Ecclesiastes 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.6|Ecclesiastes 9:6 >>]]</td></tr></table>
 
 

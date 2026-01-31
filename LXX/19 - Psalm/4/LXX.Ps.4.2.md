@@ -7,19 +7,19 @@ O ye sons of men, how long [will ye turn] my glory into shame? [how long] will y
 How long, O men, will my honor be maligned? How long will you love vanity and seek after lies? Selah<small><sub>**MT:**</sub></small>
 [[Ps.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.1|<< Psalm 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.3|Psalm 4:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| when | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
-| \[will you ease being\] heavy hearted? | <big><span class="asgreek">βαρυκάρδιοι</span></big> <sup><small><small>[[G6657]]</small></small></sup> |
-| Why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| do you love | <big><span class="asgreek">αγαπάτε</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| folly, | <big><span class="asgreek">ματαιότητα</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you seek | <big><span class="asgreek">ζητείτε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| a lie? | <big><span class="asgreek">ψεύδος</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| when | **<big>[[G4219\|πότε]]</big>** |
+| \[will you ease being\] heavy hearted? | **<big>[[G6657\|βαρυκάρδιοι]]</big>** |
+| Why | **<big>[[G2444\|ινατί]]</big>** |
+| do you love | **<big>[[G0025\|αγαπάτε]]</big>** |
+| folly, | **<big>[[G3153\|ματαιότητα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you seek | **<big>[[G2212\|ζητείτε]]</big>** |
+| a lie? | **<big>[[G5579\|ψεύδος]]</big>** |
 [[Ps.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.1|<< Psalm 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.3|Psalm 4:3 >>]]</td></tr></table>
 
 

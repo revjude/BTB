@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nebushazban</span>, a Babylonian official, was among those who took charge of Jeremiah after the fall of Jerusalem.
 - A man living at the time of Divided Monarchy, only mentioned at [[Jer.39.13|Jer.39.13]]; 
-- only referred to as Nebushazban<[[H5021]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Nebushazban **<big>[[H5021|נְבוּשַׁזְבָּן]]</big>**.
 
 Nebushazban, also known as Nebushazban the Rabsaris, was a Babylonian official mentioned in [[Jer.39.13|Jeremiah 39:13]]. He was one of the high-ranking officers in the army of King Nebuchadnezzar II during the siege and conquest of Jerusalem in 586 BC. 
 
@@ -16,5 +16,5 @@ Apart from this brief mention, no further information is provided about Nebushaz
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nebushazban (KJV= Nebushasban; NIV= Nebuzaradan) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H5021) <small>*Hebrew*</small> | 1x | [Jer.39.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebushazban\*\|reference=Jer.39.13) |
-All Strong's for **Nebushazban**: \[[[H5021]]\]
+| Nebushazban (KJV= Nebushasban; NIV= Nebuzaradan) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H5021) | 1x | [Jer.39.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebushazban\*\|reference=Jer.39.13) |
+All entries for **Nebushazban**:  **<big>[[H5021|נְבוּשַׁזְבָּן]]</big>**

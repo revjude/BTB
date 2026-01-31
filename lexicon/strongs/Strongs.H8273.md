@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁרָב‎</span></big> **shârâb** <small>*(shaw-rawb')*</small> ==**scorching**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁרָב‎</span></big>** **shârâb** <small>*(shaw-rawb')*</small> ==**scorching**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to glare</small>
 
 $\quad$ heat, parched ground.
@@ -6,4 +6,4 @@ $\quad$ heat, parched ground.
 
 **1)** burning or scorching heat, parched ground
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄνυδρος</span><sup><small>[[G0504]]</small></sup> · <span class="asgreek">καύσων</span><sup><small>[[G2742]]</small></sup>
+<small>See Greek: </small>**<big>[[G0504|ἄνυδρος]]</big>** · **<big>[[G2742|καύσων]]</big>**

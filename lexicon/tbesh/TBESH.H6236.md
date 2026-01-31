@@ -1,3 +1,1 @@
-<span class="asaramaic">‎עֲשַׂר‎</span> <small>***(a.sar)***</small> ==**ten**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
-Aramaic of: <small>[[H6235]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H6235|עֶשֶׂר]]</big>**</small>

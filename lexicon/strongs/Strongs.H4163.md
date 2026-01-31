@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹצָאָה‎</span></big> **môwtsâʼâh** <small>*(mo-tsaw-aw')*</small> ==**going forth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מוֹצָא‎</span><sup><small>[[H4161]]</small></sup>; (marg.; compare <span class="ashebrew">‎צוֹאָה‎</span><sup><small>[[H6675]]</small></sup>)</small>
+**<big><span class="ashebrew">‎מוֹצָאָה‎</span></big>** **môwtsâʼâh** <small>*(mo-tsaw-aw')*</small> ==**going forth**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4161|‎מוֹצָא‎]]</big>**; (marg.; compare **<big>[[H6675|‎צוֹאָה‎]]</big>**)</small>
 
 $\quad$ draught house; going forth.
 - ***a family descent***

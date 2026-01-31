@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַטָּרָא‎</span></big> **maṭṭârâʼ** <small>*(mat-taw-raw')*</small> ==**(Gate of the) Guard**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מַטָּרָה</span> **maṭṭârâh** <small>*(mat-tawraw')*</small>; from <span class="ashebrew">‎נָטַר‎</span><sup><small>[[H5201]]</small></sup></small>
+**<big><span class="ashebrew">‎מַטָּרָא‎</span></big>** **maṭṭârâʼ** <small>*(mat-taw-raw')*</small> ==**(Gate of the) Guard**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַטָּרָה</span></big>** **maṭṭârâh** <small>*(mat-tawraw')*</small>; from **<big>[[H5201|‎נָטַר‎]]</big>**</small>
 
 $\quad$ mark, prison.
 - ***a jail*** (as a guard-house)
@@ -9,4 +9,4 @@ $\quad$ mark, prison.
 $\quad$ **1a)** guard, ward, prison
 $\quad$ **1b)** target, mark (fig. of chastisement)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σκοπός</span><sup><small>[[G4649]]</small></sup> · <span class="asgreek">φυλακή</span><sup><small>[[G5438]]</small></sup>
+<small>See Greek: </small>**<big>[[G4649|σκοπός]]</big>** · **<big>[[G5438|φυλακή]]</big>**

@@ -10,39 +10,39 @@ Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O hou
 “Hear this, O priests! Take heed, O house of Israel! Give ear, O royal house! For this judgment is against you because you have been a snare at Mizpah, a net spread out on Tabor.<small><sub>**MT:**</sub></small>
 [[Hos.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.19|<< Hosea 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.2|Hosea 5:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| O | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests! | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take heed, | <big><span class="asgreek">προσέχετε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| give ear | <big><span class="asgreek">ενωτίζεσθε</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| you were | <big><span class="asgreek">εγενήθητε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Height, | <big><span class="asgreek">σκοπιά</span></big> <sup><small><small>[[G9115]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a net | <big><span class="asgreek">δίκτυον</span></big> <sup><small><small>[[G1350]]</small></small></sup> |
-| being stretched out | <big><span class="asgreek">εκτεταμένον</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Tabor, | <big><span class="asgreek">Ταβώρ</span></big> <sup><small><small>[[H8396]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| these \[things\], | **<big>[[G3778\|ταύτα]]</big>** |
+| O | **<big>[[G3588\|οι]]</big>** |
+| priests! | **<big>[[G2409\|ιερείς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| take heed, | **<big>[[G4337\|προσέχετε]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| give ear | **<big>[[G1801\|ενωτίζεσθε]]</big>** |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| judgment | **<big>[[G2917\|κρίμα]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a snare | **<big>[[G3803\|παγίς]]</big>** |
+| you were | **<big>[[G1096\|εγενήθητε]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| Height, | **<big>[[G9115\|σκοπιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a net | **<big>[[G1350\|δίκτυον]]</big>** |
+| being stretched out | **<big>[[G1614\|εκτεταμένον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Tabor, | **<big>[[H8396\|Ταβώρ]]</big>** |
 [[Hos.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.19|<< Hosea 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.2|Hosea 5:2 >>]]</td></tr></table>
 
 

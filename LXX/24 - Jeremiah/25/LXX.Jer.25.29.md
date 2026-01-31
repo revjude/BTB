@@ -7,41 +7,41 @@ For, lo, I begin to bring evil on the city which is called by my name, and shoul
 For behold, I am beginning to bring disaster on the city that bears My Name, so how could you possibly go unpunished? You will not go unpunished, for I am calling down a sword upon all the inhabitants of the earth, declares the LORD of Hosts.’<small><sub>**MT:**</sub></small>
 [[Jer.25.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.28|<< Jeremiah 25:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.30|Jeremiah 25:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is named | <big><span class="asgreek">ωνομάσθη</span></big> <sup><small><small>[[G3687]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| begin | <big><span class="asgreek">άρχομαι</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| to afflict. | <big><span class="asgreek">κακώσαι</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by cleansing | <big><span class="asgreek">καθάρσει</span></big> <sup><small><small>[[G7754]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be cleansed, | <big><span class="asgreek">καθαρισθήτε</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall call | <big><span class="asgreek">καλώ</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| settling down | <big><span class="asgreek">καθημένους</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| forces. | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] city | **<big>[[G4172\|πόλει]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is named | **<big>[[G3687\|ωνομάσθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my name | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| begin | **<big>[[G0756\|άρχομαι]]</big>** |
+| to afflict. | **<big>[[G2559\|κακώσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| by cleansing | **<big>[[G7754\|καθάρσει]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be cleansed, | **<big>[[G2511\|καθαρισθήτε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a sword | **<big>[[G3162\|μάχαιραν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| shall call | **<big>[[G2564\|καλώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| settling down | **<big>[[G2521\|καθημένους]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| forces. | **<big>[[G1411\|δυνάμεων]]</big>** |
 [[Jer.25.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.28|<< Jeremiah 25:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.30|Jeremiah 25:30 >>]]</td></tr></table>
 
 

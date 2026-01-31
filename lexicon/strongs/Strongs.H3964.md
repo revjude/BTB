@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מָא‎</span></big> **mâʼ** <small>*(maw)*</small> ==**what**==  <sup><small>[[TEHMC#A:Part|A:Part]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מָה‎</span><sup><small>[[H4100]]</small></sup></small>
+**<big><span class="asaramaic">‎מָא‎</span></big>** **mâʼ** <small>*(maw)*</small> ==**what**==  <sup><small>[[TEHMC#A:Part|A:Part]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4100|‎מָה‎]]</big>**</small>
 
 $\quad$ [phrase] what.
 - (as indefinitely) ***that***

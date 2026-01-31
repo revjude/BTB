@@ -6,15 +6,15 @@ The LORD created me as His first course, before His works of old.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.21|<< Proverbs 8:21]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.23|Proverbs 8:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְֽהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he created me  | <span class="ashebrew"><big>קָ֭נָ </big></span><small><small><sup>[[H7069]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| Ka.na. <small><sup>[[HVqp3ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] beginning of  | <span class="ashebrew"><big>רֵאשִׁ֣ית </big></span><small><small><sup>[[H7225G]]</sup></small></small> &#8207;| re.Shit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way his  | <span class="ashebrew"><big>דַּרְכּ֑ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| dar.K <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] beginning of  | <span class="ashebrew"><big>קֶ֖דֶם </big></span><small><small><sup>[[H6924H]]</sup></small></small> &#8207;| Ke.dem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| works his  | <span class="ashebrew"><big>מִפְעָלָ֣י </big></span><small><small><sup>[[H4659A]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mif.'a.La <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from then  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָֽז </big></span><small><small><sup>[[H0227B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Az <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he created me  |**<big>&#8207;[[H7069\|קָ֭נָ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ka.na.<small><sup>[[HVqp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] beginning of  |**<big>&#8207;[[H7225G\|רֵאשִׁ֣ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way his  |**<big>&#8207;[[H1870G\|דַּרְכּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] beginning of  |**<big>&#8207;[[H6924H\|קֶ֖דֶם]]&#8207; </big>**| Ke.dem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| works his  |**<big>&#8207;[[H4659A\|מִפְעָלָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mif.'a.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from then  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0227B\|אָֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.21|<< Proverbs 8:21]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.23|Proverbs 8:23 >>]]</td></tr></table>
 
 

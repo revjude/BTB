@@ -7,35 +7,35 @@ And if the bright spot stay in his place, [and] spread not in the skin, but it [
 But if the spot is unchanged and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean; for it is only the scar from the burn.<small><sub>**MT:**</sub></small>
 [[Lev.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.27|<< Leviticus 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.29|Leviticus 13:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in its | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| place | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| should stay | <big><span class="asgreek">μείνη</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shining forth | <big><span class="asgreek">αυγάζον</span></big> <sup><small><small>[[G0826]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should not be diffused | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">διαχυθή</span></big> <sup><small><small>[[G6904]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| skin, | <big><span class="asgreek">δέρματι</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
-| but it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should be faint, | <big><span class="asgreek">αμαυρά</span></big> <sup><small><small>[[G6252]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a discoloration | <big><span class="asgreek">ουλή</span></big> <sup><small><small>[[G8566]]</small></small></sup> |
-| of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| an inflammation | <big><span class="asgreek">κατακαύματός</span></big> <sup><small><small>[[G7850]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should declare him cleansed | <big><span class="asgreek">καθαριεί</span></big> <sup><small><small>[[G2511]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| an effect | <big><span class="asgreek">χαρακτήρ</span></big> <sup><small><small>[[G5481]]</small></small></sup> |
-| \[of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| an inflammation | <big><span class="asgreek">κατακαύματός</span></big> <sup><small><small>[[G7850]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in its | **<big>[[G2596\|κατά]]</big>** |
+| place | **<big>[[G5561\|χώραν]]</big>** |
+| should stay | **<big>[[G3306\|μείνη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| shining forth | **<big>[[G0826\|αυγάζον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should not be diffused | **<big>[[G3361\|μη]]</big>** **<big>[[G6904\|διαχυθή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| skin, | **<big>[[G1192\|δέρματι]]</big>** |
+| but it | **<big>[[G1473\|αυτή]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should be faint, | **<big>[[G6252\|αμαυρά]]</big>** **<big>[[G1510\|η]]</big>** |
+| a discoloration | **<big>[[G8566\|ουλή]]</big>** |
+| of | **<big>[[G3588\|του]]</big>** |
+| an inflammation | **<big>[[G7850\|κατακαύματός]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should declare him cleansed | **<big>[[G2511\|καθαριεί]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| an effect | **<big>[[G5481\|χαρακτήρ]]</big>** |
+| \[of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| an inflammation | **<big>[[G7850\|κατακαύματός]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
 [[Lev.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.27|<< Leviticus 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.29|Leviticus 13:29 >>]]</td></tr></table>
 
 

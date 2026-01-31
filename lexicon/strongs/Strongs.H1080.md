@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎בְּלָא‎</span></big> **bᵉlâʼ** <small>*(bel-aw')*</small> ==**to wear out**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎בָּלָה‎</span><sup><small>[[H1086]]</small></sup> (but used only in a mental sense)</small>
+**<big><span class="asaramaic">‎בְּלָא‎</span></big>** **bᵉlâʼ** <small>*(bel-aw')*</small> ==**to wear out**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1086|‎בָּלָה‎]]</big>** (but used only in a mental sense)</small>
 
 $\quad$ wear out.
 - ***to afflict***

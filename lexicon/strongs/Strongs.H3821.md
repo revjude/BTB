@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎לֵב‎</span></big> **lêb** <small>*(labe)*</small> ==**heart**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎לֵב‎</span><sup><small>[[H3820]]</small></sup></small>
+**<big><span class="asaramaic">‎לֵב‎</span></big>** **lêb** <small>*(labe)*</small> ==**heart**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3820|‎לֵב‎]]</big>**</small>
 
 $\quad$ heart.
 - {***the heart***

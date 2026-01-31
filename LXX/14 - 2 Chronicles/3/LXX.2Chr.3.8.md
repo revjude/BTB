@@ -7,38 +7,38 @@ And he made the most holy house, the length whereof [was] according to the bread
 Then he made the Most Holy Place; its length corresponded to the width of the temple—twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold.<small><sub>**MT:**</sub></small>
 [[2Chr.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.7|<< 2 Chronicles 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.9|2 Chronicles 3:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| Its length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτους</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \[was\] twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gilded | <big><span class="asgreek">κατεχρύσωσεν</span></big> <sup><small><small>[[G7958]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| in pure | <big><span class="asgreek">καθαρώ</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| \[amounting\] to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| talents | <big><span class="asgreek">ταλάντοις</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| six hundred | <big><span class="asgreek">εξακοσίοις</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies. | **<big>[[G0039\|αγίων]]</big>** |
+| Its length | **<big>[[G3372\|μήκος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| width | **<big>[[G4114\|πλάτους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \[was\] twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| \[was\] twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he gilded | **<big>[[G7958\|κατεχρύσωσεν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| gold | **<big>[[G5553\|χρυσίω]]</big>** |
+| in pure | **<big>[[G2513\|καθαρώ]]</big>** |
+| \[amounting\] to | **<big>[[G1522\|εν]]</big>** |
+| talents | **<big>[[G5007\|ταλάντοις]]</big>** |
+| six hundred | **<big>[[G1812\|εξακοσίοις]]</big>** |
 [[2Chr.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.7|<< 2 Chronicles 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.9|2 Chronicles 3:9 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 
 
-<small>Also see: [[H6437]]</small>
+<small>Also see: **<big>[[H6437|פָּנָה]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎פּוּן‎</span>] **verb** (?); only <span class="bdbLangHebrew">‎אָפוּנָה‎</span> [[Ps.88.16|Ps 88:16]] read probably <span class="bdbLangHebrew">‎אֶפּוֺגָה‎</span>, see  <span class="bdbLangHebrew">‎פוג‎</span>, <span class="bdbLangHebrew">‎אָפוּנָה‎</span>. <span class="bdbLangHebrew">‎פּוֺנֶה‎</span> [[2Chr.25.23|2Chr 25:23]] see  <span class="bdbLangHebrew">‎פִּנָּה‎</span>, <span class="bdbLangHebrew">‎פּוּנִי‎</span> see  <span class="bdbLangHebrew">‎פּוּאָה‎</span>. above
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֹּעָה‎</span></big> **Gôʻâh** <small>*(go-aw')*</small> ==**Goah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎גָּעָה‎</span><sup><small>[[H1600]]</small></sup>; lowing</small>
+**<big><span class="ashebrew">‎גֹּעָה‎</span></big>** **Gôʻâh** <small>*(go-aw')*</small> ==**Goah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine active participle of **<big>[[H1600|‎גָּעָה‎]]</big>**; lowing</small>
 
 $\quad$ Goath.
 - § Goath = *"bellowing"*

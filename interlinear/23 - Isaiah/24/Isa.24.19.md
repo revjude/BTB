@@ -6,17 +6,17 @@ The earth is utterly broken apart, the earth is split open, the earth is shaken 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.18|<< Isaiah 24:18]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.20|Isaiah 24:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| utterly \<broken>  | <span class="ashebrew"><big>רֹ֥עָה </big></span><small><small><sup>[[H7489B]]</sup></small></small> &#8207;| Ro.'ah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been broken  | <span class="ashebrew"><big>הִֽתְרֹעֲעָ֖ה </big></span><small><small><sup>[[H7489B]]</sup></small></small> &#8207;| hit.ro.'a.'Ah <small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| utterly \<split>  | <span class="ashebrew"><big>פּ֤וֹר </big></span><small><small><sup>[[H6565B]]</sup></small></small> &#8207;| Por <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been split through  | <span class="ashebrew"><big>הִֽתְפּוֹרְרָה֙ </big></span><small><small><sup>[[H6565B]]</sup></small></small> &#8207;| hit.po.Rah <small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אֶ֔רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| certainly \<to shake>  | <span class="ashebrew"><big>מ֥וֹט </big></span><small><small><sup>[[H4131]]</sup></small></small> &#8207;| Mot <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been shaken  | <span class="ashebrew"><big>הִֽתְמוֹטְטָ֖ה </big></span><small><small><sup>[[H4131]]</sup></small></small> &#8207;| hit.mo.Tah <small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] earth  | <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| utterly \<broken>  |**<big>&#8207;[[H7489B\|רֹ֥עָה]]&#8207; </big>**| Ro.'ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been broken  |**<big>&#8207;[[H7489B\|הִֽתְרֹעֲעָ֖ה]]&#8207; </big>**| hit.ro.'a.'Ah<small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| utterly \<split>  |**<big>&#8207;[[H6565B\|פּ֤וֹר]]&#8207; </big>**| Por<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been split through  |**<big>&#8207;[[H6565B\|הִֽתְפּוֹרְרָה֙]]&#8207; </big>**| hit.po.Rah<small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אֶ֔רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to shake>  |**<big>&#8207;[[H4131\|מ֥וֹט]]&#8207; </big>**| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been shaken  |**<big>&#8207;[[H4131\|הִֽתְמוֹטְטָ֖ה]]&#8207; </big>**| hit.mo.Tah<small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.18|<< Isaiah 24:18]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.20|Isaiah 24:20 >>]]</td></tr></table>
 
 

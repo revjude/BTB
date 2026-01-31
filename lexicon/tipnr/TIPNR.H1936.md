@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Hod</span> was a descendant of Asher, mentioned in the genealogy of the tribe of Asher.
 - A man from the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.37|1Ch.7.37]]; 
-- only referred to as Hod<[[H1936]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>\); 
--  son of Zophah<[[H6690]]>; 
-- a brother of Suah<[[H5477]]>, Harnepher<[[H2774]]>, Shual<[[H7777B]]>, Beri<[[H1275]]>, Imrah<[[H3236]]>, Bezer<[[H1221H]]>, Shamma<[[H8037H]]>, Shilshah<[[H8030]]>, Ithran<[[H3506H]]> and Beera<[[H0878]]>.
+- only referred to as Hod **<big>[[H1936|הוֹד]]</big>**; 
+-  son of Zophah **<big>[[H6690|צוֹפַח]]</big>**; 
+- a brother of Suah **<big>[[H5477|סוּחַ]]</big>**, Harnepher **<big>[[H2774|חַרְנֶפֶר]]</big>**, Shual **<big>[[H7777|שׁוּעָל]]</big>**, Beri **<big>[[H1275|בֵּרִי]]</big>**, Imrah **<big>[[H3236|יִמְרָה]]</big>**, Bezer **<big>[[H1221|בֶּצֶר]]</big>**, Shamma **<big>[[H8037|שַׁמָּא]]</big>**, Shilshah **<big>[[H8030|שִׁלְשָׁה]]</big>**, Ithran **<big>[[H3506|יִתְרָן]]</big>** and Beera **<big>[[H0878|בְּאֵרָא]]</big>**.
 
 Hod is mentioned in [[1Chr.7.37|1 Chronicles 7:37]] as one of the descendants of Asher, the eighth son of Israel \(or 'Jacob'\). He is listed in the genealogy of the tribe of Asher, which is one of the twelve tribes of Israel. 
 
@@ -18,8 +18,8 @@ As a descendant of Asher, Hod would have been part of the tribe that settled in 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hod | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H1936) <small>*Hebrew*</small> | 1x | [1Ch.7.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hod\*\|reference=1Ch.7.37) |
-All Strong's for **Hod**: \[[[H1936]]\]
+| Hod | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H1936) | 1x | [1Ch.7.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hod\*\|reference=1Ch.7.37) |
+All entries for **Hod**:  **<big>[[H1936|הוֹד]]</big>**
 #### Related Profiles:
 - **[Zophah](H6690)** (father)
 - **[Suah](H5477)** (sibling)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דֲּבְרַת‎</span></big> **Dăbrath** <small>*(daw-ber-ath')*</small> ==**Daberath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎דָּבָר‎</span><sup><small>[[H1697]]</small></sup> (perhaps in the sense of <span class="ashebrew">‎דֹּבֶר‎</span><sup><small>[[H1699]]</small></sup>)</small>
+**<big><span class="ashebrew">‎דֲּבְרַת‎</span></big>** **Dăbrath** <small>*(daw-ber-ath')*</small> ==**Daberath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1697|‎דָּבָר‎]]</big>** (perhaps in the sense of **<big>[[H1699|‎דֹּבֶר‎]]</big>**)</small>
 
 $\quad$ Dabareh, Daberath.
 - § Dabareh or Daberath = *"word"*

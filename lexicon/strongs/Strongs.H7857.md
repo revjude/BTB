@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁטַף‎</span></big> **shâṭaph** <small>*(shaw-taf')*</small> ==**to overflow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁטַף‎</span></big>** **shâṭaph** <small>*(shaw-taf')*</small> ==**to overflow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ drown, (over-) flow(-whelm, rinse, run, rush, (throughly) wash (away).
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a3)** to rinse or wash off
 $\quad$ **1b)** (Niphal) to be swept away, be rinsed out
 $\quad$ **1c)** (Pual) to be rinsed, be scoured and rinsed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπονίπτω</span><sup><small>[[G0633]]</small></sup> · <span class="asgreek">ἀποπλύνω</span><sup><small>[[G0637]]</small></sup> · <span class="asgreek">κατακλύζω</span><sup><small>[[G2626]]</small></sup> · <span class="asgreek">καταποντίζω</span><sup><small>[[G2670]]</small></sup> · <span class="asgreek">κατασύρω</span><sup><small>[[G2694]]</small></sup> · <span class="asgreek">νίπτω</span><sup><small>[[G3538]]</small></sup> · <span class="asgreek">συντρίβω</span><sup><small>[[G4937]]</small></sup> · <span class="asgreek">σύρω</span><sup><small>[[G4951]]</small></sup> · <span class="asgreek">φέρω</span><sup><small>[[G5342]]</small></sup>
+<small>See Greek: </small>**<big>[[G0633|ἀπονίπτω]]</big>** · **<big>[[G0637|ἀποπλύνω]]</big>** · **<big>[[G2626|κατακλύζω]]</big>** · **<big>[[G2670|καταποντίζω]]</big>** · **<big>[[G2694|κατασύρω]]</big>** · **<big>[[G3538|νίπτω]]</big>** · **<big>[[G4937|συντρίβω]]</big>** · **<big>[[G4951|σύρω]]</big>** · **<big>[[G5342|φέρω]]</big>**

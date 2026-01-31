@@ -7,25 +7,25 @@ Let us go up against Judah, and vex it, and let us make a breach therein for us,
 ‘Let us invade Judah, terrorize it, and divide it among ourselves. Then we can install the son of Tabeal over it as king.’<small><sub>**MT:**</sub></small>
 [[Isa.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.5|<< Isaiah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.7|Isaiah 7:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We shall ascend | <big><span class="asgreek">αναβησόμεθα</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judea, | <big><span class="asgreek">Ιουδαίαν</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| conversing together | <big><span class="asgreek">συλλαλήσαντες</span></big> <sup><small><small>[[G4814]]</small></small></sup> |
-| with them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we shall turn | <big><span class="asgreek">αποστρέψομεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will give to reign over | <big><span class="asgreek">βασιλεύσομεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Tabeal. | <big><span class="asgreek">Ταβέλ</span></big> <sup><small><small>[[H2870b]]</small></small></sup> |
+| We shall ascend | **<big>[[G0305\|αναβησόμεθα]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Judea, | **<big>[[G2449\|Ιουδαίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| conversing together | **<big>[[G4814\|συλλαλήσαντες]]</big>** |
+| with them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| we shall turn | **<big>[[G0654\|αποστρέψομεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| us, | **<big>[[G1473\|ημάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will give to reign over | **<big>[[G0936\|βασιλεύσομεν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Tabeal. | **<big>[[H2870b\|Ταβέλ]]</big>** |
 [[Isa.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.5|<< Isaiah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.7|Isaiah 7:7 >>]]</td></tr></table>
 
 

@@ -10,39 +10,39 @@ Thus saith the LORD, Where [is] the bill of your mother’s divorcement, whom I 
 This is what the LORD says: “Where is your mother’s certificate of divorce with which I sent her away? Or to which of My creditors did I sell you? Look, you were sold for your iniquities, and for your transgressions your mother was sent away.<small><sub>**MT:**</sub></small>
 [[Isa.50.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.26|<< Isaiah 49:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.2|Isaiah 50:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Of what kind | <big><span class="asgreek">ποίον</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| \[is\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| certificate of divorce | <big><span class="asgreek">αποστασίου</span></big> <sup><small><small>[[G0647]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your mother, | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I sent her away? | <big><span class="asgreek">εξαπέστειλα</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to which | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| debtor | <big><span class="asgreek">υπόχρεω</span></big> <sup><small><small>[[G9599]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| exacting | <big><span class="asgreek">πρασσόντων</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have I sold | <big><span class="asgreek">πέπρακα</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to him? | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you were sold; | <big><span class="asgreek">επράθητε</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for your lawless deeds | <big><span class="asgreek">ανομίαις</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I sent away | <big><span class="asgreek">εξαπέστειλα</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mother. | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Of what kind | **<big>[[G4169\|ποίον]]</big>** |
+| \[is\] this | **<big>[[G3778\|τούτο]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| certificate of divorce | **<big>[[G0647\|αποστασίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your mother, | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| by which | **<big>[[G3739\|ω]]</big>** |
+| I sent her away? | **<big>[[G1821\|εξαπέστειλα]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| to which | **<big>[[G5100\|τίνι]]</big>** |
+| debtor | **<big>[[G9599\|υπόχρεω]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| exacting | **<big>[[G4238\|πρασσόντων]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| have I sold | **<big>[[G4097\|πέπρακα]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| to him? | **<big>[[G1473\|αυτώ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| for your sins | **<big>[[G0266\|αμαρτίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you were sold; | **<big>[[G4097\|επράθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| for your lawless deeds | **<big>[[G0458\|ανομίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| I sent away | **<big>[[G1821\|εξαπέστειλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your mother. | **<big>[[G3384\|μητέρα]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Isa.50.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.26|<< Isaiah 49:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.2|Isaiah 50:2 >>]]</td></tr></table>
 
 

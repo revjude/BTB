@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֶּדֶר‎</span></big> **Geder** <small>*(gheh'-der)*</small> ==**Geder**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small> the same as <span class="ashebrew">‎גֶּדֶר‎</span><sup><small>[[H1444]]</small></sup></small>
+**<big><span class="ashebrew">‎גֶּדֶר‎</span></big>** **Geder** <small>*(gheh'-der)*</small> ==**Geder**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small> the same as **<big>[[H1444|‎גֶּדֶר‎]]</big>**</small>
 
 $\quad$ Geder.
 - § Geder = *"wall"*

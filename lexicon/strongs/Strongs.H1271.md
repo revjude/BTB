@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּרְזִלַּי‎</span></big> **Barzillay** <small>*(bar-zil-lah'-ee)*</small> ==**Barzillai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּרְזֶל‎</span><sup><small>[[H1270]]</small></sup>; iron-hearted</small>
+**<big><span class="ashebrew">‎בַּרְזִלַּי‎</span></big>** **Barzillay** <small>*(bar-zil-lah'-ee)*</small> ==**Barzillai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1270|‎בַּרְזֶל‎]]</big>**; iron-hearted</small>
 
 $\quad$ Barzillai.
 - § Barzillai = *"my iron"*

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎חַי‎</span> <small>***(chay)***</small> ==**living**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H2416A]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2416A|חַי]]</big>**</small> 
 
-- Aramaic of <i>chay</i> (<span class='ashebrew'>‎ח‎</span>ַ<span class='ashebrew'>‎י‎</span> "alive" [[H2416A]])
+- Aramaic of <i>chay</i> (<span class='ashebrew'>‎ח‎</span>ַ<span class='ashebrew'>‎י‎</span> "alive" **<big>[[H2416A|חַי]]</big>**)

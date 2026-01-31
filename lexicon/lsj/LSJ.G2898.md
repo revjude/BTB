@@ -1,4 +1,4 @@
-name of: <small>[[G1115]]</small> 
+name of: <small>**<big>[[G1115|Γολγοθᾶ]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κρανίον==</span></b>, <span class='asgreek'>τό</span>, 

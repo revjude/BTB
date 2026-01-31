@@ -1,5 +1,4 @@
-<span class="ashebrew">‎יְהוֹאָחָז‎</span> <small>***(ye.ho.a.chaz)***</small> ==**Jehoahaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A king of the Kingdom of Israel, living at the time of Divided Monarchy, first mentioned at [[2Kgs.10.35|2Ki.10.35]]
--  son of: Jehu ([[H3058H]])
--  father of: Joash ([[H3101J]]); also called Joahaz at [[2Kgs.14.1|2Ki.14.1]]
-- Also named: <i>yo.a.chaz</i> (<span class='ashebrew'>‎יו‎</span>ֹ<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ז‎</span> "Joahaz" [[H3099H]])
+-  son of: Jehu (**<big>[[H3058H|יֵהוּא]]</big>**)
+-  father of: Joash (**<big>[[H3101J|יוֹאָשׁ]]</big>**); also called Joahaz at [[2Kgs.14.1|2Ki.14.1]]
+- Also named: <i>yo.a.chaz</i> (<span class='ashebrew'>‎יו‎</span>ֹ<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ח‎</span>ָ<span class='ashebrew'>‎ז‎</span> "Joahaz" **<big>[[H3099H|יוֹאָחָז]]</big>**)

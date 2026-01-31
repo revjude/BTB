@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוֹבָה‎</span></big> **chôwbâh** <small>*(kho-baw')*</small> ==**Hobah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>feminine active participle of <span class="ashebrew">‎חָבָה‎</span><sup><small>[[H2247]]</small></sup>; hiding place</small>
+**<big><span class="ashebrew">‎חוֹבָה‎</span></big>** **chôwbâh** <small>*(kho-baw')*</small> ==**Hobah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>feminine active participle of **<big>[[H2247|‎חָבָה‎]]</big>**; hiding place</small>
 
 $\quad$ Hobah.
 - § Hobah = *"hiding place"*

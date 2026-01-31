@@ -6,22 +6,22 @@ Cut off your hair and throw it away. Raise up a lamentation on the barren height
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.28|<< Jeremiah 7:28]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.30|Jeremiah 7:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| cut off  | <span class="ashebrew"><big>גָּזִּ֤י </big></span><small><small><sup>[[H1494]]</sup></small></small> &#8207;| ga.Zi <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hair your  | <span class="ashebrew"><big>נִזְרֵ </big></span><small><small><sup>[[H5145I]]</sup></small></small> <span class="ashebrew"><big>ךְ֙ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| niz.re <small><sup>[[HNcmsc]]</sup></small> Kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and throw [it] away  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַשְׁלִ֔יכִי </big></span><small><small><sup>[[H7993]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hash.Li.khi <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and take up  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׂאִ֥י </big></span><small><small><sup>[[H5375G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> se.'I <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bare heights  | <span class="ashebrew"><big>שְׁפָיִ֖ם </big></span><small><small><sup>[[H8205]]</sup></small></small> &#8207;| she.fa.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lamentation  | <span class="ashebrew"><big>קִינָ֑ה </big></span><small><small><sup>[[H7015]]</sup></small></small> &#8207;| ki.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֚י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has rejected  | <span class="ashebrew"><big>מָאַ֣ס </big></span><small><small><sup>[[H3988A]]</sup></small></small> &#8207;| ma.'As <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he has abandoned  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּטֹּ֖שׁ </big></span><small><small><sup>[[H5203]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Tosh <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] generation of  | <span class="ashebrew"><big>דּ֥וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| Dor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fury his  | <span class="ashebrew"><big>עֶבְרָתֽ </big></span><small><small><sup>[[H5678]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ev.ra.T <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cut off  |**<big>&#8207;[[H1494\|גָּזִּ֤י]]&#8207; </big>**| ga.Zi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hair your  |**<big>&#8207;[[H5145I\|נִזְרֵ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| niz.re<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and throw [it] away  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H7993\|הַשְׁלִ֔יכִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hash.Li.khi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and take up  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5375G\|שְׂאִ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.'I<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bare heights  |**<big>&#8207;[[H8205\|שְׁפָיִ֖ם]]&#8207; </big>**| she.fa.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lamentation  |**<big>&#8207;[[H7015\|קִינָ֑ה]]&#8207; </big>**| ki.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has rejected  |**<big>&#8207;[[H3988A\|מָאַ֣ס]]&#8207; </big>**| ma.'As<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has abandoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5203\|יִּטֹּ֖שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tosh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] generation of  |**<big>&#8207;[[H1755\|דּ֥וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fury his  |**<big>&#8207;[[H5678\|עֶבְרָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ev.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.28|<< Jeremiah 7:28]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.30|Jeremiah 7:30 >>]]</td></tr></table>
 
 

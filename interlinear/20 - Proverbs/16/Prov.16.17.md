@@ -6,16 +6,16 @@ The highway of the upright leads away from evil; he who guards his way protects 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] highway of  | <span class="ashebrew"><big>מְסִלַּ֣ת </big></span><small><small><sup>[[H4546]]</sup></small></small> &#8207;| me.si.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| upright [people]  | <span class="ashebrew"><big>יְ֭שָׁרִים </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| Ye.sha.rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] to turn aside  | <span class="ashebrew"><big>ס֣וּר </big></span><small><small><sup>[[H5493H]]</sup></small></small> &#8207;| sur <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from evil  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רָ֑ע </big></span><small><small><sup>[[H7451H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] protecting  | <span class="ashebrew"><big>שֹׁמֵ֥ר </big></span><small><small><sup>[[H8104H]]</sup></small></small> &#8207;| sho.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life his  | <span class="ashebrew"><big>נַ֝פְשׁ֗ </big></span><small><small><sup>[[H5315H]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] guards  | <span class="ashebrew"><big>נֹצֵ֥ר </big></span><small><small><sup>[[H5341]]</sup></small></small> &#8207;| no.Tzer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way his  | <span class="ashebrew"><big>דַּרְכּֽ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| dar.K <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] highway of  |**<big>&#8207;[[H4546\|מְסִלַּ֣ת]]&#8207; </big>**| me.si.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| upright [people]  |**<big>&#8207;[[H3477G\|יְ֭שָׁרִים]]&#8207; </big>**| Ye.sha.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] to turn aside  |**<big>&#8207;[[H5493H\|ס֣וּר]]&#8207; </big>**| sur<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from evil  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7451H\|רָ֑ע]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] protecting  |**<big>&#8207;[[H8104H\|שֹׁמֵ֥ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life his  |**<big>&#8207;[[H5315H\|נַ֝פְשׁ֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] guards  |**<big>&#8207;[[H5341\|נֹצֵ֥ר]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way his  |**<big>&#8207;[[H1870G\|דַּרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 
 

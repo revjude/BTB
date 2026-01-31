@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁפְטָן‎</span></big> **Shiphṭân** <small>*(shif-tawn')*</small> ==**Shiphtan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁפַט‎</span><sup><small>[[H8199]]</small></sup>; judge-like</small>
+**<big><span class="ashebrew">‎שִׁפְטָן‎</span></big>** **Shiphṭân** <small>*(shif-tawn')*</small> ==**Shiphtan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8199|‎שָׁפַט‎]]</big>**; judge-like</small>
 
 $\quad$ Shiphtan.
 - § Shiphtan = *"judicial"*

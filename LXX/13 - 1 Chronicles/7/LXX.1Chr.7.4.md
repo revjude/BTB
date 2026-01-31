@@ -7,30 +7,30 @@ And with them, by their generations, after the house of their fathers, [were] ba
 In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children.<small><sub>**MT:**</sub></small>
 [[1Chr.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.3|<< 1 Chronicles 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.5|1 Chronicles 7:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their generations, | <big><span class="asgreek">γενέσεις</span></big> <sup><small><small>[[G1078]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of their families, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| armed \[bands\] | <big><span class="asgreek">μονόζωνοι</span></big> <sup><small><small>[[G8343]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυροί</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| to deploy | <big><span class="asgreek">παρατάξασθαι</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| war -- | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| thousand; | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they multiplied | <big><span class="asgreek">επλήθυναν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| wives | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sons. | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their generations, | **<big>[[G1078\|γενέσεις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of their families, | **<big>[[G3965\|πατριών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| armed \[bands\] | **<big>[[G8343\|μονόζωνοι]]</big>** |
+| strong | **<big>[[G2478\|ισχυροί]]</big>** |
+| to deploy | **<big>[[G8641\|παρατάξασθαι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| war -- | **<big>[[G4171\|πόλεμον]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| thousand; | **<big>[[G5505\|χιλιάδες]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they multiplied | **<big>[[G4129\|επλήθυναν]]</big>** |
+| wives | **<big>[[G1135\|γυναίκες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sons. | **<big>[[G5207\|υιούς]]</big>** |
 [[1Chr.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.3|<< 1 Chronicles 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.5|1 Chronicles 7:5 >>]]</td></tr></table>
 
 

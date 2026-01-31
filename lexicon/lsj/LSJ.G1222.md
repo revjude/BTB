@@ -1,4 +1,4 @@
-combination of: <small>[[G4225]] ([[G1211]]+[[G4225]]#;)</small> 
+combination of: <small>**<big>[[G4225|πού]]</big>** (**<big>[[G1211|δή]]</big>**+**<big>[[G4225|πού]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==δήπου==</span></b>, 

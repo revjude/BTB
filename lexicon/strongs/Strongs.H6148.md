@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָרַב‎</span></big> **ʻârab** <small>*(aw-rab')*</small> ==**to pledge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָרַב‎</span></big>** **ʻârab** <small>*(aw-rab')*</small> ==**to pledge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ engage, (inter-) meddle (with), mingle (self), mortgage, occupy, give pledges, be(-come, put in) surety, undertake.
@@ -16,4 +16,4 @@ $\quad$ **1b)** (Hithpael)
 $\quad$ $\quad$ **1b1)** to exchange pledges
 $\quad$ $\quad$ **1b2)** to have fellowship with, share
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀρέσκω</span><sup><small>[[G0700]]</small></sup> · <span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">ἐκδέχομαι</span><sup><small>[[G1551]]</small></sup> · <span class="asgreek">ἐνδέχεται</span><sup><small>[[G1735]]</small></sup> · <span class="asgreek">ἐνέδρα</span><sup><small>[[G1747]]</small></sup> · <span class="asgreek">ἑσπέρα</span><sup><small>[[G2073]]</small></sup> · <span class="asgreek">ἐχθρός</span><sup><small>[[G2190]]</small></sup> · <span class="asgreek">ἡδέως</span><sup><small>[[G2234]]</small></sup> · <span class="asgreek">θηρεύω</span><sup><small>[[G2340]]</small></sup> · <span class="asgreek">κοινωνέω</span><sup><small>[[G2841]]</small></sup> · <span class="asgreek">μίγνυμι</span><sup><small>[[G3396]]</small></sup> · <span class="asgreek">παράγω</span><sup><small>[[G3855]]</small></sup> · <span class="asgreek">παύω</span><sup><small>[[G3973]]</small></sup>
+<small>See Greek: </small>**<big>[[G0700|ἀρέσκω]]</big>** · **<big>[[G1325|δίδωμι]]</big>** · **<big>[[G1551|ἐκδέχομαι]]</big>** · **<big>[[G1735|ἐνδέχεται]]</big>** · **<big>[[G1747|ἐνέδρα]]</big>** · **<big>[[G2073|ἑσπέρα]]</big>** · **<big>[[G2190|ἐχθρός]]</big>** · **<big>[[G2234|ἡδέως]]</big>** · **<big>[[G2340|θηρεύω]]</big>** · **<big>[[G2841|κοινωνέω]]</big>** · **<big>[[G3396|μίγνυμι]]</big>** · **<big>[[G3855|παράγω]]</big>** · **<big>[[G3973|παύω]]</big>**

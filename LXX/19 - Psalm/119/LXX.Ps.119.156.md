@@ -7,17 +7,17 @@ Great [are] thy tender mercies, O LORD: quicken me according to thy judgments.
 Great are Your mercies, O LORD; revive me according to Your ordinances.<small><sub>**MT:**</sub></small>
 [[Ps.119.156|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.155|<< Psalm 119:155]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.157|Psalm 119:157 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your compassions | <big><span class="asgreek">οικτιρμοί</span></big> <sup><small><small>[[G3628]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] many, | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judgment | <big><span class="asgreek">κρίμά</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| enliven | <big><span class="asgreek">ζήσόν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your compassions | **<big>[[G3628\|οικτιρμοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[are\] many, | **<big>[[G4183\|πολλοί]]</big>** |
+| O <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριε]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your judgment | **<big>[[G2917\|κρίμά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| enliven | **<big>[[G2198\|ζήσόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
 [[Ps.119.156|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.155|<< Psalm 119:155]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.157|Psalm 119:157 >>]]</td></tr></table>
 
 

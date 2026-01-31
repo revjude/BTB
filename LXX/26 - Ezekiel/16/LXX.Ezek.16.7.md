@@ -7,37 +7,37 @@ I have caused thee to multiply as the bud of the field, and thou hast increased 
 I made you thrive like a plant of the field. You grew up and matured and became very beautiful. Your breasts were formed and your hair grew, but you were naked and bare.<small><sub>**MT:**</sub></small>
 [[Ezek.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.6|<< Ezekiel 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.8|Ezekiel 16:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be multiplied! | <big><span class="asgreek">πληθύνου</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rising | <big><span class="asgreek">ανατολή</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| I have made | <big><span class="asgreek">δέδωκά</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you were multiplied, | <big><span class="asgreek">επληθύνθης</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| magnified, | <big><span class="asgreek">εμεγαλύνθης</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθες</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of cities. | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your breasts | <big><span class="asgreek">μαστοί</span></big> <sup><small><small>[[G3149]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| erected, | <big><span class="asgreek">ανωρθώθησαν</span></big> <sup><small><small>[[G0461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hair | <big><span class="asgreek">θριξ</span></big> <sup><small><small>[[G2359]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| rose up; | <big><span class="asgreek">ανέτειλε</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| but you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| naked | <big><span class="asgreek">γυμνή</span></big> <sup><small><small>[[G1131]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indecent. | <big><span class="asgreek">ασχημονούσα</span></big> <sup><small><small>[[G0807]]</small></small></sup> |
+| Be multiplied! | **<big>[[G4129\|πληθύνου]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rising | **<big>[[G0395\|ανατολή]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| I have made | **<big>[[G1325\|δέδωκά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you were multiplied, | **<big>[[G4129\|επληθύνθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| magnified, | **<big>[[G3170\|εμεγαλύνθης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| entered | **<big>[[G1525\|εισήλθες]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of cities. | **<big>[[G4172\|πόλεων]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| Your breasts | **<big>[[G3149\|μαστοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| erected, | **<big>[[G0461\|ανωρθώθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hair | **<big>[[G2359\|θριξ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| rose up; | **<big>[[G0393\|ανέτειλε]]</big>** |
+| but you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| were | **<big>[[G1510\|ήσθα]]</big>** |
+| naked | **<big>[[G1131\|γυμνή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indecent. | **<big>[[G0807\|ασχημονούσα]]</big>** |
 [[Ezek.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.6|<< Ezekiel 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.8|Ezekiel 16:8 >>]]</td></tr></table>
 
 

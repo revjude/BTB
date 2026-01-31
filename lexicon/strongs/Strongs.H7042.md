@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְלִיטָא‎</span></big> **Qᵉlîyṭâʼ** <small>*(kel-ee-taw')*</small> ==**Kelita**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קָלַט‎</span><sup><small>[[H7038]]</small></sup>; maiming</small>
+**<big><span class="ashebrew">‎קְלִיטָא‎</span></big>** **Qᵉlîyṭâʼ** <small>*(kel-ee-taw')*</small> ==**Kelita**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7038|‎קָלַט‎]]</big>**; maiming</small>
 
 $\quad$ Kelita.
 - § Kelita = *"crippled"*

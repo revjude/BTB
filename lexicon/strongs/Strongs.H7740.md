@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁוֵה‎</span></big> **Shâvêh** <small>*(shaw-vay')*</small> ==**Shaveh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁוָה‎</span><sup><small>[[H7737]]</small></sup>; plain</small>
+**<big><span class="ashebrew">‎שָׁוֵה‎</span></big>** **Shâvêh** <small>*(shaw-vay')*</small> ==**Shaveh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7737|‎שָׁוָה‎]]</big>**; plain</small>
 
 $\quad$ Shaveh.
 - § Shaveh = *"plain" or "level plain"*

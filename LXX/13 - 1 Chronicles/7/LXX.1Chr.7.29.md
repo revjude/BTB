@@ -7,37 +7,37 @@ And by the borders of the children of Manasseh, Bethshean and her towns, Taanach
 And along the borders of Manasseh were Beth-shean, Taanach, Megiddo, and Dor, together with their villages. The descendants of Joseph son of Israel lived in these towns.<small><sub>**MT:**</sub></small>
 [[1Chr.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.28|<< 1 Chronicles 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.30|1 Chronicles 7:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[the\] borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| Beth-shean | <big><span class="asgreek">Βαιθσάν</span></big> <sup><small><small>[[H1052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Taanach | <big><span class="asgreek">Θαανά</span></big> <sup><small><small>[[H8590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Magiddo | <big><span class="asgreek">Μαγεδδώ</span></big> <sup><small><small>[[H4023]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns, | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Dor | <big><span class="asgreek">Δωρ</span></big> <sup><small><small>[[H1756]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns. | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύταις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| dwelt | <big><span class="asgreek">κατώκησαν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \[the\] borders | **<big>[[G3725\|ορίων]]</big>** |
+| of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
+| of Manasseh -- | **<big>[[G3128\|Μανασσή]]</big>** |
+| Beth-shean | **<big>[[H1052\|Βαιθσάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Taanach | **<big>[[H8590\|Θαανά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Magiddo | **<big>[[H4023\|Μαγεδδώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns, | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Dor | **<big>[[H1756\|Δωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| her towns. | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| these | **<big>[[G3778\|ταύταις]]</big>** |
+| dwelt | **<big>[[G2730\|κατώκησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Joseph, | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[1Chr.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.28|<< 1 Chronicles 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.30|1 Chronicles 7:30 >>]]</td></tr></table>
 
 

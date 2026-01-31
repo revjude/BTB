@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֶלְקָח‎</span></big> **melqâch** <small>*(mel-kawkh')*</small> ==**tong**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מַלְקָח</span> **malqâch** <small>*(malkawkh')*</small>; from <span class="ashebrew">‎לָקַח‎</span><sup><small>[[H3947]]</small></sup></small>
+**<big><span class="ashebrew">‎מֶלְקָח‎</span></big>** **melqâch** <small>*(mel-kawkh')*</small> ==**tong**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַלְקָח</span></big>** **malqâch** <small>*(malkawkh')*</small>; from **<big>[[H3947|‎לָקַח‎]]</big>**</small>
 
 $\quad$ snuffers, tongs.
 - (only in dual) ***tweezers***

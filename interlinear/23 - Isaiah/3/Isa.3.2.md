@@ -6,15 +6,15 @@ the mighty man and the warrior, the judge and the prophet, the soothsayer and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.1|<< Isaiah 3:1]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.3|Isaiah 3:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| warrior  | <span class="ashebrew"><big>גִּבּ֖וֹר </big></span><small><small><sup>[[H1368]]</sup></small></small> &#8207;| gi.Bor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and man of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  | <span class="ashebrew"><big>מִלְחָמָ֑ה </big></span><small><small><sup>[[H4421]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| judge  | <span class="ashebrew"><big>שׁוֹפֵ֥ט </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| sho.Fet <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and prophet  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָבִ֖יא </big></span><small><small><sup>[[H5030]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.Vi' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and diviner  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קֹסֵ֥ם </big></span><small><small><sup>[[H7080]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ko.Sem <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and elder  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>זָקֵֽן </big></span><small><small><sup>[[H2205G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> za.Ken <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| warrior  |**<big>&#8207;[[H1368\|גִּבּ֖וֹר]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and man of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H4421\|מִלְחָמָ֑ה]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judge  |**<big>&#8207;[[H8199\|שׁוֹפֵ֥ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prophet  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5030\|נָבִ֖יא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and diviner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7080\|קֹסֵ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ko.Sem<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and elder  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2205G\|זָקֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> za.Ken<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.1|<< Isaiah 3:1]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.3|Isaiah 3:3 >>]]</td></tr></table>
 
 

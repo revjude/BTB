@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Nathanael</span>, also known as Bartholomew, was one of Jesus' twelve disciples, who was initially skeptical but later confessed Jesus as the Son of God.
 - A man living at the time of the New Testament, first mentioned at [[John.1.45|Jhn.1.45]]; 
-- only referred to as Nathanael<[[G3482]]> \(<span class='tipnrLangGreek'>Ναθαναήλ</span>\).
+- only referred to as Nathanael **<big>[[G3482|Ναθαναήλ]]</big>**.
 
 Nathanael, also identified as Bartholomew in the Synoptic Gospels, was one of the twelve disciples of Jesus Christ. He is introduced in the Gospel of John when Philip, who had just begun following Jesus, found Nathanael and told him, "We have found the one Moses wrote about in the Law, and about whom the prophets also wrote—Jesus of Nazareth, the son of Joseph" \([[John.1.45|John 1:45]]\). 
 
@@ -20,5 +20,5 @@ Tradition holds that Nathanael, under the name Bartholomew, went on to preach th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nathanael | [<span class='tipnrLangGreek'>Ναθαναήλ</span>](G3482) <small>*Greek*</small> | 6x | [[Jhn.1.45] ... [Jhn.21.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathanael\*\|reference=Jhn.1.45;Jhn.1.46;Jhn.1.47;Jhn.1.48;Jhn.1.49;Jhn.21.2) |
-All Strong's for **Nathanael**: \[[[G3482]]\]
+| Nathanael | [<span class='tipnrLangGreek'>Ναθαναήλ</span>](G3482) | 6x | [[Jhn.1.45] ... [Jhn.21.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathanael\*\|reference=Jhn.1.45;Jhn.1.46;Jhn.1.47;Jhn.1.48;Jhn.1.49;Jhn.21.2) |
+All entries for **Nathanael**:  **<big>[[G3482|Ναθαναήλ]]</big>**

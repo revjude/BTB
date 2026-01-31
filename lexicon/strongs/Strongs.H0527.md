@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָמוֹן‎</span></big> **ʼâmôwn** <small>*(aw-mone')*</small> ==**multitude**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>a variation for <span class="ashebrew">‎הָמוֹן‎</span><sup><small>[[H1995]]</small></sup></small>
+**<big><span class="ashebrew">‎אָמוֹן‎</span></big>** **ʼâmôwn** <small>*(aw-mone')*</small> ==**multitude**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>a variation for **<big>[[H1995|‎הָמוֹן‎]]</big>**</small>
 
 $\quad$ multitude.
 - ***a throng of people***
@@ -7,4 +7,4 @@ $\quad$ multitude.
 **1)** artificer, architect, master workman
 **2)** (CLBL) throng, multitude
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἀμών</span><sup><small>[[G0300]]</small></sup> · <span class="asgreek">Ἀμώς</span><sup><small>[[G0301]]</small></sup> · <span class="asgreek">ἁρμόζω</span><sup><small>[[G0718]]</small></sup>
+<small>See Greek: </small>**<big>[[G0300|Ἀμών]]</big>** · **<big>[[G0301|Ἀμώς]]</big>** · **<big>[[G0718|ἁρμόζω]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁמָעָה‎</span></big> **Shᵉmâʻâh** <small>*(shem-aw-aw')*</small> ==**Shemaah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎שִׁמְעָה‎</span><sup><small>[[H8093]]</small></sup></small>
+**<big><span class="ashebrew">‎שְׁמָעָה‎</span></big>** **Shᵉmâʻâh** <small>*(shem-aw-aw')*</small> ==**Shemaah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H8093|‎שִׁמְעָה‎]]</big>**</small>
 
 $\quad$ Shemaah.
 - § Shemaah = *"the rumour"*

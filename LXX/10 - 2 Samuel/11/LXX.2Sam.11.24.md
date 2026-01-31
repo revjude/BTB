@@ -7,33 +7,33 @@ And the shooters shot from off the wall upon thy servants; and [some] of the kin
 Then the archers shot at your servants from the wall, and some of the king’s servants were killed. And your servant Uriah the Hittite is dead as well.”<small><sub>**MT:**</sub></small>
 [[2Sam.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.23|<< 2 Samuel 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.25|2 Samuel 11:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shot | <big><span class="asgreek">ετόξευσαν</span></big> <sup><small><small>[[G9464]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shooting | <big><span class="asgreek">τοξεύοντες</span></big> <sup><small><small>[[G9464]]</small></small></sup> |
-| unto | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall, | <big><span class="asgreek">τείχους</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there died | <big><span class="asgreek">απέθανον</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| \[some\] of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| even | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your subject | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Uriah | <big><span class="asgreek">Ουρίας</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hittite | <big><span class="asgreek">Χετταίος</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
-| has died. | <big><span class="asgreek">τέθνηκεν</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shot | **<big>[[G9464\|ετόξευσαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| shooting | **<big>[[G9464\|τοξεύοντες]]</big>** |
+| unto | **<big>[[G1909\|επι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your servants | **<big>[[G1401\|δούλους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| wall, | **<big>[[G5038\|τείχους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there died | **<big>[[G0599\|απέθανον]]</big>** |
+| \[some\] of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G1401\|δούλων]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| even | **<big>[[G1065\|γε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your subject | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Uriah | **<big>[[H0223b\|Ουρίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Hittite | **<big>[[H2850\|Χετταίος]]</big>** |
+| has died. | **<big>[[G2348\|τέθνηκεν]]</big>** |
 [[2Sam.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.23|<< 2 Samuel 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.25|2 Samuel 11:25 >>]]</td></tr></table>
 
 

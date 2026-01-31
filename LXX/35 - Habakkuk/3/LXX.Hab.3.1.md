@@ -10,14 +10,14 @@ A prayer of Habakkuk the prophet upon Shigionoth.
 This is a prayer of Habakkuk the prophet, according to Shigionoth:<small><sub>**MT:**</sub></small>
 [[Hab.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.20|<< Habakkuk 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.2|Habakkuk 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] prayer | <big><span class="asgreek">προσευχή</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| of Habakkuk | <big><span class="asgreek">Αμβακούκ</span></big> <sup><small><small>[[H2265]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophet | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| an ode. | <big><span class="asgreek">ωδής</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
+| \[The\] prayer | **<big>[[G4335\|προσευχή]]</big>** |
+| of Habakkuk | **<big>[[H2265\|Αμβακούκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| prophet | **<big>[[G4396\|προφήτου]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| an ode. | **<big>[[G5603\|ωδής]]</big>** |
 [[Hab.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.20|<< Habakkuk 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.2|Habakkuk 3:2 >>]]</td></tr></table>
 
 

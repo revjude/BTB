@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎נְאָקָה‎</span></big> **nᵉʼâqâh** <small>*(neh-aw-kaw')*</small> ==**groan**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָאַק‎</span><sup><small>[[H5008]]</small></sup></small>
+**<big><span class="ashebrew">‎נְאָקָה‎</span></big>** **nᵉʼâqâh** <small>*(neh-aw-kaw')*</small> ==**groan**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5008|‎נָאַק‎]]</big>**</small>
 
 $\quad$ groaning.
 - ***a groan***
 
 **1)** groan, groaning
 
-<sub><small>See Greek: </small></sub><span class="asgreek">στεναγμός</span><sup><small>[[G4726]]</small></sup>
+<small>See Greek: </small>**<big>[[G4726|στεναγμός]]</big>**

@@ -10,29 +10,29 @@ Nebuchadnezzar the king made an image of gold, whose height [was] threescore cub
 King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon.<small><sub>**MT:**</sub></small>
 [[Dan.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.49|<< Daniel 2:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.2|Daniel 3:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| image | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
-| a gold | <big><span class="asgreek">χρυσήν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| Its height -- | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| sixty | <big><span class="asgreek">εξήκοντα</span></big> <sup><small><small>[[G1835]]</small></small></sup> |
-| its breadth -- | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he stationed | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of Dura, | <big><span class="asgreek">Δεηρά</span></big> <sup><small><small>[[H1757]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] region | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| made | **<big>[[G4160\|εποίησεν]]</big>** |
+| image | **<big>[[G1504\|εικόνα]]</big>** |
+| a gold | **<big>[[G5552\|χρυσήν]]</big>** |
+| Its height -- | **<big>[[G5311\|ύψος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
+| its breadth -- | **<big>[[G7563\|εύρος]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| cubits | **<big>[[G4083\|πηχεών]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he stationed | **<big>[[G2476\|έστησεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] plain | **<big>[[G8676\|πεδίω]]</big>** |
+| of Dura, | **<big>[[H1757\|Δεηρά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] region | **<big>[[G5561\|χώρα]]</big>** |
+| of Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
 [[Dan.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.49|<< Daniel 2:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.2|Daniel 3:2 >>]]</td></tr></table>
 
 

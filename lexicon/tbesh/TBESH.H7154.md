@@ -1,6 +1,5 @@
-<span class="ashebrew">‎קִרְיַת בַּעַל‎</span> <small>***(qir.yat ba.al)***</small> ==**Kiriath-baal**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-name of: <small>[[H7157]]</small> 
+<small>name of:</small> <small>**<big>[[H7157|קִרְיַת יְעָרִים]]</big>**</small> 
 
 - Kirjath-baal = "city of Baal"
 - also 'Kirjath-jearim' and 'Baalah'
-- Another name of <i>qir.yat ye.a.rim</i> (<span class='ashebrew'>‎ק‎</span>ִ<span class='ashebrew'>‎ר‎</span>ְ<span class='ashebrew'>‎י‎</span>ַ<span class='ashebrew'>‎ת‎</span> <span class='ashebrew'>‎י‎</span>ְ<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎ים‎</span> "Kiriath-jearim" [[H7157]])
+- Another name of <i>qir.yat ye.a.rim</i> (<span class='ashebrew'>‎ק‎</span>ִ<span class='ashebrew'>‎ר‎</span>ְ<span class='ashebrew'>‎י‎</span>ַ<span class='ashebrew'>‎ת‎</span> <span class='ashebrew'>‎י‎</span>ְ<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎ים‎</span> "Kiriath-jearim" **<big>[[H7157|קִרְיַת יְעָרִים]]</big>**)

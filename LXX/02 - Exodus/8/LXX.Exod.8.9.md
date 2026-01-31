@@ -7,44 +7,44 @@ And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and f
 Moses said to Pharaoh, “You may have the honor over me. When shall I pray for you and your officials and your people that the frogs (except for those in the Nile) may be taken away from you and your houses?”<small><sub>**MT:**</sub></small>
 [[Exod.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.8|<< Exodus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.10|Exodus 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| Order | <big><span class="asgreek">τάξαι</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| when | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
-| should I make a vow | <big><span class="asgreek">εύξομαι</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your attendants, | <big><span class="asgreek">θεραπόντων</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people, | <big><span class="asgreek">λαόυ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to remove from view | <big><span class="asgreek">αφανίσαι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| frogs | <big><span class="asgreek">βατράχους</span></big> <sup><small><small>[[G0944]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses -- | <big><span class="asgreek">οικιών</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| for the \[ones\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] river | <big><span class="asgreek">ποταμώ</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| \[which\] shall be left behind? | <big><span class="asgreek">υπολειφθήσονται</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| Order | **<big>[[G5021\|τάξαι]]</big>** |
+| for | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| when | **<big>[[G4219\|πότε]]</big>** |
+| should I make a vow | **<big>[[G2172\|εύξομαι]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your attendants, | **<big>[[G2324\|θεραπόντων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your people, | **<big>[[G2992\|λαόυ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| to remove from view | **<big>[[G0853\|αφανίσαι]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| frogs | **<big>[[G0944\|βατράχους]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| your people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|απο]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your houses -- | **<big>[[G3614\|οικιών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| except | **<big>[[G4133\|πλην]]</big>** |
+| for the \[ones\] in | **<big>[[G1722\|εν]]</big>** **<big>[[G3588\|τω]]</big>** |
+| \[the\] river | **<big>[[G4215\|ποταμώ]]</big>** |
+| \[which\] shall be left behind? | **<big>[[G5275\|υπολειφθήσονται]]</big>** |
 [[Exod.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.8|<< Exodus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.10|Exodus 8:10 >>]]</td></tr></table>
 
 

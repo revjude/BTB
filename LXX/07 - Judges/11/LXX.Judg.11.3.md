@@ -7,30 +7,30 @@ Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there we
 So Jephthah fled from his brothers and settled in the land of Tob, where worthless men gathered around him and traveled with him.<small><sub>**MT:**</sub></small>
 [[Judg.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.2|<< Judges 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.4|Judges 11:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jephthah ran away | <big><span class="asgreek">απέδρα</span></big> <sup><small><small>[[G6424]]</small></small></sup> <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his brothers, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he dwelt | <big><span class="asgreek">κατώκησεν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Tob. | <big><span class="asgreek">Τωβ</span></big> <sup><small><small>[[H2897]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| collected together | <big><span class="asgreek">συνελέγοντο</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jephthah | <big><span class="asgreek">Ιεφθάε</span></big> <sup><small><small>[[G2422]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| cheap | <big><span class="asgreek">λιτοί</span></big> <sup><small><small>[[G8206]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went forth together | <big><span class="asgreek">συνεξεπορεύοντο</span></big> <sup><small><small>[[G9306]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jephthah ran away | **<big>[[G6424\|απέδρα]]</big>** **<big>[[G2422\|Ιεφθάε]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his brothers, | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he dwelt | **<big>[[G2730\|κατώκησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Tob. | **<big>[[H2897\|Τωβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| collected together | **<big>[[G4816\|συνελέγοντο]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jephthah | **<big>[[G2422\|Ιεφθάε]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| cheap | **<big>[[G8206\|λιτοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| went forth together | **<big>[[G9306\|συνεξεπορεύοντο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.2|<< Judges 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.4|Judges 11:4 >>]]</td></tr></table>
 
 

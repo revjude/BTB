@@ -4,7 +4,7 @@ King living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Debir</span> was the Amorite king of Eglon who joined a coalition against Joshua but was defeated. \([[Josh.10.3|Jos.10.3]]\)
 - An Amorite king living before Israel's Monarchy, only mentioned at [[Josh.10.3|Jos.10.3]]; 
-- only referred to as Debir<[[H1688H]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יר</span>\).
+- only referred to as Debir **<big>[[H1688|דְּבִיר]]</big>**.
 
 Debir was the Amorite king of Eglon during the time of Joshua's conquest of Canaan. He joined a coalition of five Amorite kings led by Adoni-Zedek, king of Jerusalem, to attack Gibeon after the Gibeonites made a peace treaty with Israel \([[Josh.10.3|Joshua 10:3]]-4\). 
 
@@ -18,5 +18,5 @@ Debir's defeat, along with the other Amorite kings, was a significant victory fo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Debir | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יר</span>](H1688H) <small>*Hebrew*</small> | 1x | [Jos.10.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Debir\*\|reference=Jos.10.3) |
-All Strong's for **Debir**: \[[[H1688H]]\]
+| Debir | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יר</span>](H1688H) | 1x | [Jos.10.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Debir\*\|reference=Jos.10.3) |
+All entries for **Debir**:  **<big>[[H1688|דְּבִיר]]</big>**

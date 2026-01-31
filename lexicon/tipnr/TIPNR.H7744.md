@@ -4,17 +4,17 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Shuah</span> was a son of Abraham and Keturah, and his descendants formed a tribe.
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.25.2|Gen.25.2]]; 
-- only referred to as Shuah<[[H7744]]> \(<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ח</span>ַ\); 
--  son of Abraham<[[H0085]]> and Keturah<[[H6989]]>; 
--  half-brother of: Ishmael<[[H3458G]]> and Isaac<[[H3327]]>; 
-- a brother of Zimran<[[H2175]]>, Jokshan<[[H3370]]>, Medan<[[H4091]]>, Midian<[[H4080G]]> and Ishbak<[[H3435]]>.
+- only referred to as Shuah **<big>[[H7744|שׁוּחַ]]</big>**; 
+-  son of Abraham **<big>[[H0085|אַבְרָהָם]]</big>** and Keturah **<big>[[H6989|קְטוּרָה]]</big>**; 
+-  half-brother of: Ishmael **<big>[[H3458|יִשְׁמָעֵאל]]</big>** and Isaac **<big>[[H3327|יִצְחָק]]</big>**; 
+- a brother of Zimran **<big>[[H2175|זִמְרָן]]</big>**, Jokshan **<big>[[H3370|יׇקְשָׁן]]</big>**, Medan **<big>[[H4091|מְדָן]]</big>**, Midian **<big>[[H4080|מִדְיָן]]</big>** and Ishbak **<big>[[H3435|יִשְׁבָּק]]</big>**.
 
 Shuah is mentioned in [[Gen.25.2|Genesis 25:2]] and [[1Chr.1.32|1 Chronicles 1:32]] as one of the sons of Abraham and his second wife, Keturah. After the death of Sarah, Abraham took Keturah as his wife, and she bore him six sons, including Shuah. These sons were sent away with gifts to the east, away from Abraham's son Isaac, to whom he gave his main inheritance. Shuah's descendants formed a tribe, although no further details about their history or location are provided in the biblical text. The mention of Shuah and his brothers demonstrates Abraham's fulfillment of God's promise to make him the father of many nations, even though the covenant was primarily established through his son Isaac.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shuah | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ח</span>ַ](H7744) <small>*Hebrew*</small> | 2x | [[Gen.25.2] & [1Ch.1.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shuah\*\|reference=Gen.25.2;1Ch.1.32) |
-All Strong's for **Shuah**: \[[[H7744]]\]
+| Shuah | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ח</span>ַ](H7744) | 2x | [[Gen.25.2] & [1Ch.1.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shuah\*\|reference=Gen.25.2;1Ch.1.32) |
+All entries for **Shuah**:  **<big>[[H7744|שׁוּחַ]]</big>**
 #### Related Profiles:
 - **[Abraham](H0085)** (father)
 - **[Keturah](H6989)** (mother)

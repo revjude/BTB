@@ -7,39 +7,39 @@ And the servants of the king of Syria said unto him, Their gods [are] gods of th
 Meanwhile, the servants of the king of Aram said to him, “Their gods are gods of the hills. That is why they prevailed over us. Instead, we should fight them on the plains; surely then we will prevail.<small><sub>**MT:**</sub></small>
 [[1Kgs.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.22|<< 1 Kings 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.24|1 Kings 20:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[The\] God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of mountains | <big><span class="asgreek">ορεών</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| a God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of valleys; | <big><span class="asgreek">κοιλάδων</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they powered | <big><span class="asgreek">εκράταιωσεν</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| we wage war | <big><span class="asgreek">πολεμήσωμεν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] straight \[plains\], | <big><span class="asgreek">ευθύ</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| assuredly | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G2228]][[G3361]]</small></small></sup> |
-| we shall power | <big><span class="asgreek">κραταιώσομεν</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| servants | **<big>[[G3816\|παίδες]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| said | **<big>[[G2036\|είπον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| \[The\] God | **<big>[[G2316\|θεός]]</big>** |
+| of mountains | **<big>[[G3735\|ορεών]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| a God | **<big>[[G2316\|θεός]]</big>** |
+| of valleys; | **<big>[[G8038\|κοιλάδων]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| they powered | **<big>[[G2901\|εκράταιωσεν]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| us. | **<big>[[G1473\|ημάς]]</big>** |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| we wage war | **<big>[[G4170\|πολεμήσωμεν]]</big>** |
+| against them | **<big>[[G1473\|αυτούς]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| \[the\] straight \[plains\], | **<big>[[G2117\|ευθύ]]</big>** |
+| assuredly | **<big>[[G2228\|ήμην]]</big>**<sup><small>[[G3361\| [ • ] ]]</small></sup> |
+| we shall power | **<big>[[G2901\|κραταιώσομεν]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[1Kgs.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.22|<< 1 Kings 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.24|1 Kings 20:24 >>]]</td></tr></table>
 
 

@@ -7,21 +7,21 @@ A voice of noise from the city, a voice from the temple, a voice of the LORD tha
 Hear the uproar from the city; listen to the voice from the temple! It is the voice of the LORD, repaying His enemies what they deserve!<small><sub>**MT:**</sub></small>
 [[Isa.66.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.5|<< Isaiah 66:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.7|Isaiah 66:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of a cry | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] city; | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| a voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] temple; | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| recompensing | <big><span class="asgreek">ανταποδιδόντος</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
-| a recompense | <big><span class="asgreek">ανταπόδοσιν</span></big> <sup><small><small>[[G0469]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| adversaries. | <big><span class="asgreek">αντικειμένοις</span></big> <sup><small><small>[[G0480]]</small></small></sup> |
+| A voice | **<big>[[G5456\|φωνή]]</big>** |
+| of a cry | **<big>[[G2906\|κραυγής]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] city; | **<big>[[G4172\|πόλεως]]</big>** |
+| a voice | **<big>[[G5456\|φωνή]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] temple; | **<big>[[G3485\|ναού]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνή]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| recompensing | **<big>[[G0467\|ανταποδιδόντος]]</big>** |
+| a recompense | **<big>[[G0469\|ανταπόδοσιν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| adversaries. | **<big>[[G0480\|αντικειμένοις]]</big>** |
 [[Isa.66.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.5|<< Isaiah 66:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.7|Isaiah 66:7 >>]]</td></tr></table>
 
 

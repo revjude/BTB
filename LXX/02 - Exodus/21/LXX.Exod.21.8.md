@@ -7,30 +7,30 @@ If she please not her master, who hath betrothed her to himself, then shall he l
 If she is displeasing in the eyes of her master who had designated her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her.<small><sub>**MT:**</sub></small>
 [[Exod.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.7|<< Exodus 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.9|Exodus 21:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| she should not be well-pleasing | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ευαρεστήση</span></big> <sup><small><small>[[G2100]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| who | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| solemnly promise | <big><span class="asgreek">καθωμολογήσατο</span></big> <sup><small><small>[[G7762]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on payment of ransom he shall release | <big><span class="asgreek">απολυτρώσει</span></big> <sup><small><small>[[G6459]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nation | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to an alien | <big><span class="asgreek">αλλοτρίω</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| \[the\] master | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to sell | <big><span class="asgreek">πωλείν</span></big> <sup><small><small>[[G4453]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he disrespected | <big><span class="asgreek">ηθέτησεν</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| she should not be well-pleasing | **<big>[[G3361\|μη]]</big>** **<big>[[G2100\|ευαρεστήση]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her master, | **<big>[[G2962\|κυρίω]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| who | **<big>[[G3739\|ην]]</big>** |
+| did not | **<big>[[G3756\|ου]]</big>** |
+| solemnly promise | **<big>[[G7762\|καθωμολογήσατο]]</big>** |
+| her; | **<big>[[G1473\|αυτήν]]</big>** |
+| on payment of ransom he shall release | **<big>[[G6459\|απολυτρώσει]]</big>** |
+| her; | **<big>[[G1473\|αυτήν]]</big>** |
+| nation | **<big>[[G1484\|έθνει]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| to an alien | **<big>[[G0245\|αλλοτρίω]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| \[the\] master | **<big>[[G2962\|κύριός]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| to sell | **<big>[[G4453\|πωλείν]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he disrespected | **<big>[[G0114\|ηθέτησεν]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
 [[Exod.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.7|<< Exodus 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.9|Exodus 21:9 >>]]</td></tr></table>
 
 

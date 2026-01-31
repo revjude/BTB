@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎ζῆλος‎</span></big> **zēlos** <small>*(dzay'-los)*</small> ==**zeal**==  <sup><small>[[TEGMC#G:N-M/N|G:N-M/N]]</small></sup> 
-<small>from <span class="asgreek">ζέω</span><sup><small>[[G2204]]</small></sup></small>
+**<big><span class="asgreek">‎ζῆλος‎</span></big>** **zēlos** <small>*(dzay'-los)*</small> ==**zeal**==  <sup><small>[[TEGMC#G:N-M/N|G:N-M/N]]</small></sup> 
+<small>from **<big>[[G2204|‎ζέω‎]]</big>**</small>
 
 $\quad$ emulation, envy(-ing), fervent mind, indignation, jealousy, zeal.
 - properly, heat, i.e. (figuratively) "zeal" (in a favorable sense, ardor

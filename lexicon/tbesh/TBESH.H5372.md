@@ -1,3 +1,1 @@
-<span class="ashebrew">‎נִרְגָּן‎</span> <small>***(nir.gan)***</small> ==**whisperer**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-form of: <small>[[H7279]]</small> 
-
+<small>form of:</small> <small>**<big>[[H7279|רָגַן]]</big>**</small>

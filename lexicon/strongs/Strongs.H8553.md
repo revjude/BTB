@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּמְנָה‎</span></big> **Timnâh** <small>*(tim-naw')*</small> ==**Timnah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎מָנָה‎</span><sup><small>[[H4487]]</small></sup>; a portion assigned</small>
+**<big><span class="ashebrew">‎תִּמְנָה‎</span></big>** **Timnâh** <small>*(tim-naw')*</small> ==**Timnah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H4487|‎מָנָה‎]]</big>**; a portion assigned</small>
 
 $\quad$ Timnah, Timnath, Thimnathah.
 - § Timnath or Timnah or Thimnathah = *"portion"*

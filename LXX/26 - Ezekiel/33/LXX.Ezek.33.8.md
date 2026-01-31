@@ -7,38 +7,38 @@ When I say unto the wicked, O wicked [man], thou shalt surely die; if thou dost 
 If I say to the wicked, ‘O wicked man, you will surely die,’ but you do not speak out to dissuade him from his way, then that wicked man will die in his iniquity, yet I will hold you accountable for his blood.<small><sub>**MT:**</sub></small>
 [[Ezek.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.7|<< Ezekiel 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.9|Ezekiel 33:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[And\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my saying | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinner, | <big><span class="asgreek">αμαρτωλώ</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| To death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| you shall die; | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| speak | <big><span class="asgreek">λαλήσης</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάξασθαι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his way, | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawless one, | <big><span class="asgreek">άνομος</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| his blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will require | <big><span class="asgreek">εκζητήσω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| \[And\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my saying | **<big>[[G2036\|ειπείν]]</big>** **<big>[[G1473\|με]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| sinner, | **<big>[[G0268\|αμαρτωλώ]]</big>** |
+| To death | **<big>[[G2288\|θανάτω]]</big>** |
+| you shall die; | **<big>[[G0599\|αποθάνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| speak | **<big>[[G2980\|λαλήσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to guard | **<big>[[G5442\|φυλάξασθαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| impious | **<big>[[G0765\|ασεβή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his way, | **<big>[[G3598\|οδού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he, | **<big>[[G1473\|αυτός]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| lawless one, | **<big>[[G0459\|άνομος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| of his lawlessness | **<big>[[G0458\|ανομία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| his blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will require | **<big>[[G1567\|εκζητήσω]]</big>** |
 [[Ezek.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.7|<< Ezekiel 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.9|Ezekiel 33:9 >>]]</td></tr></table>
 
 

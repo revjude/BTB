@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Anaharath</span>, a town on the border of Issachar's territory.
 - A location only mentioned at [[Josh.19.19|Jos.19.19]]; 
-- only referred to as Anaharath<[[H0588]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָֽ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ֑<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Anaharath **<big>[[H0588|אֲנָחֲרָת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.607039,35.397389&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from its mention in the list of Issachar's border towns, no other informat
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Anaharath | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָֽ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ֑<span class='tipnrLangHebrew'>ת</span>](H0588) <small>*Hebrew*</small> | 1x | [Jos.19.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anaharath\*\|reference=Jos.19.19) |
-All Strong's for **Anaharath**: \[[[H0588]]\]
+| Anaharath | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָֽ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ָ֑<span class='tipnrLangHebrew'>ת</span>](H0588) | 1x | [Jos.19.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anaharath\*\|reference=Jos.19.19) |
+All entries for **Anaharath**:  **<big>[[H0588|אֲנָחֲרָת]]</big>**

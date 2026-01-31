@@ -1,4 +1,4 @@
-name of: <small>[[G1042]]</small> 
+name of: <small>**<big>[[G1042|γαββαθά]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==λιθόστρωτος==</span>-<span class='asgreek'>στρωτος</span></b>, <span class='asgreek'>ον</span>, 

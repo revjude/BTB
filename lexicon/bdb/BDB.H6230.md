@@ -1,4 +1,4 @@
-<small>Also see: [[H6242]]</small>
+<small>Also see: **<big>[[H6242|עֶשְׂרִים]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עֵ֫שֶׂק‎</span> **proper name, of a well** in southwest Palestine [[Gen.26.20|Gen 26:20]] (explanation as ***contention***); — locality unknown, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ἀδικία</span>. 
 

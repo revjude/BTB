@@ -7,32 +7,32 @@ He and his people with him, the terrible of the nations, shall be brought to des
 He and his people with him, the most ruthless of the nations, will be brought in to destroy the land. They will draw their swords against Egypt and fill the land with the slain.<small><sub>**MT:**</sub></small>
 [[Ezek.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.10|<< Ezekiel 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.12|Ezekiel 30:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| he | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] pestilent ones | <big><span class="asgreek">λοιμοί</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| being sent | <big><span class="asgreek">απεσταλμένοι</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to destroy | <big><span class="asgreek">απολέσαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall all empty out | <big><span class="asgreek">εκκενώσουσι</span></big> <sup><small><small>[[G7100]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their swords | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fill | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| with slain. | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
+| he | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his people | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] pestilent ones | **<big>[[G3061\|λοιμοί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| nations | **<big>[[G1484\|εθνών]]</big>** |
+| being sent | **<big>[[G0649\|απεσταλμένοι]]</big>** |
+| to destroy | **<big>[[G0622\|απολέσαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land. | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall all empty out | **<big>[[G7100\|εκκενώσουσι]]</big>** **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their swords | **<big>[[G3162\|μαχαίρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| Egypt, | **<big>[[G0125\|Αίγυπτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fill | **<big>[[G4130\|πλησθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| with slain. | **<big>[[G9470\|τραυματιών]]</big>** |
 [[Ezek.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.10|<< Ezekiel 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.12|Ezekiel 30:12 >>]]</td></tr></table>
 
 

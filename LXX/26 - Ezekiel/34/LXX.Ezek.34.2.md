@@ -7,38 +7,38 @@ Son of man, prophesy against the shepherds of Israel, prophesy, and say unto the
 “Son of man, prophesy against the shepherds of Israel. Prophesy and tell them that this is what the Lord GOD says: ‘Woe to the shepherds of Israel, who only feed themselves! Should not the shepherds feed their flock?<small><sub>**MT:**</sub></small>
 [[Ezek.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.1|<< Ezekiel 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.3|Ezekiel 34:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| prophesy | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένας</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Prophesy, | <big><span class="asgreek">προφήτευσον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds! | <big><span class="asgreek">ποιμέσι</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένες</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| graze | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">βόσκουσι</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένες</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| themselves? | <big><span class="asgreek">εαυτούς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| graze | <big><span class="asgreek">βόσκουσιν</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds | <big><span class="asgreek">ποιμένες</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| prophesy | **<big>[[G4395\|προφήτευσον]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Prophesy, | **<big>[[G4395\|προφήτευσον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|ειπέ]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| shepherds! | **<big>[[G4166\|ποιμέσι]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένες]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| graze | **<big>[[G3361\|μη]]</big>** **<big>[[G1006\|βόσκουσι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένες]]</big>** |
+| themselves? | **<big>[[G1438\|εαυτούς]]</big>** |
+| Do not | **<big>[[G3756\|ου]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| graze | **<big>[[G1006\|βόσκουσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| shepherds | **<big>[[G4166\|ποιμένες]]</big>** |
 [[Ezek.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.1|<< Ezekiel 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.3|Ezekiel 34:3 >>]]</td></tr></table>
 
 

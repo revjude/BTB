@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָרַט‎</span></big> **mâraṭ** <small>*(maw-rat')*</small> ==**to smooth**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָרַט‎</span></big>** **mâraṭ** <small>*(maw-rat')*</small> ==**to smooth**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bright, furbish, (have his) hair (be) fallen off, peeled, pluck off (hair).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a1)** to make bare
 $\quad$ $\quad$ **1a2)** to scour, polish
 $\quad$ **1b)** (Niphal) to be made bald
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἕτοιμος</span><sup><small>[[G2092]]</small></sup> · <span class="asgreek">ῥάπισμα</span><sup><small>[[G4475]]</small></sup> · <span class="asgreek">σπάω</span><sup><small>[[G4685]]</small></sup> · <span class="asgreek">τίλλω</span><sup><small>[[G5089]]</small></sup>
+<small>See Greek: </small>**<big>[[G2092|ἕτοιμος]]</big>** · **<big>[[G4475|ῥάπισμα]]</big>** · **<big>[[G4685|σπάω]]</big>** · **<big>[[G5089|τίλλω]]</big>**

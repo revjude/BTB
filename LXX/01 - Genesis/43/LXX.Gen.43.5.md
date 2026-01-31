@@ -7,36 +7,36 @@ But if thou wilt not send [him], we will not go down: for the man said unto us, 
 But if you will not send him, we will not go; for the man told us, ‘You will not see my face again unless your brother is with you.’”<small><sub>**MT:**</sub></small>
 [[Gen.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.4|<< Genesis 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.6|Genesis 43:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if you do not | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
-| send | <big><span class="asgreek">αποστέλλης</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go, | <big><span class="asgreek">πορευσόμεθα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| for the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| see | <big><span class="asgreek">όψεσθέ</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| But if you do not | **<big>[[G1490\|ει δε μη]]</big>** |
+| send | **<big>[[G0649\|αποστέλλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| our brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| we will not | **<big>[[G3756\|ου]]</big>** |
+| go, | **<big>[[G4198\|πορευσόμεθα]]</big>** |
+| for the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to us, | **<big>[[G1473\|ημίν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| see | **<big>[[G3708\|όψεσθέ]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| younger | **<big>[[G3501\|νεώτερος]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| be | **<big>[[G1510\|η]]</big>** |
 [[Gen.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.4|<< Genesis 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.6|Genesis 43:6 >>]]</td></tr></table>
 
 

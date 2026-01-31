@@ -7,44 +7,44 @@ Also I spake to the priests and to all this people, saying, Thus saith the LORD;
 Then I said to the priests and to all this people, “This is what the LORD says: Do not listen to the words of your prophets who prophesy to you, saying, ‘Look, very soon now the articles from the house of the LORD will be brought back from Babylon.’ They are prophesying to you a lie.<small><sub>**MT:**</sub></small>
 [[Jer.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.15|<< Jeremiah 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.17|Jeremiah 27:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερεύσιν</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I spoke, | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">ακούετε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophesying | <big><span class="asgreek">προφητευόντων</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| to you! | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λεγόντων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[the\] items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| shall return | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| quickly. | <big><span class="asgreek">ταχέως</span></big> <sup><small><small>[[G5030]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| unjustly | <big><span class="asgreek">άδικα</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| prophesy | <big><span class="asgreek">προφητεύουσιν</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| priests | **<big>[[G2409\|ιερεύσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| this people | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| I spoke, | **<big>[[G2980\|ελάλησα]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| hearken to | **<big>[[G0191\|ακούετε]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| prophets | **<big>[[G4396\|προφητών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| prophesying | **<big>[[G4395\|προφητευόντων]]</big>** |
+| to you! | **<big>[[G1473\|υμίν]]</big>** |
+| saying, | **<big>[[G3004\|λεγόντων]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[the\] items | **<big>[[G4632\|σκεύη]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| shall return | **<big>[[G1994\|επιστρέψει]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| quickly. | **<big>[[G5030\|ταχέως]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| unjustly | **<big>[[G0094\|άδικα]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| prophesy | **<big>[[G4395\|προφητεύουσιν]]</big>** |
+| to you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Jer.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.15|<< Jeremiah 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.17|Jeremiah 27:17 >>]]</td></tr></table>
 
 

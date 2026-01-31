@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּצֶר‎</span></big> **Betser** <small>*(beh'-tser)*</small> ==**Bezer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎בֶּצֶר‎</span><sup><small>[[H1220]]</small></sup>, an inaccessible spot</small>
+**<big><span class="ashebrew">‎בֶּצֶר‎</span></big>** **Betser** <small>*(beh'-tser)*</small> ==**Bezer**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H1220|‎בֶּצֶר‎]]</big>**, an inaccessible spot</small>
 
 $\quad$ Bezer.
 - § Bezer = *"gold ore" or "remote fortress"*

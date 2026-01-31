@@ -7,26 +7,26 @@ See, I have this day set thee over the nations and over the kingdoms, to root ou
 See, I have appointed you today over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and plant.”<small><sub>**MT:**</sub></small>
 [[Jer.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.9|<< Jeremiah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.11|Jeremiah 1:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I have ordained | <big><span class="asgreek">καθέστηκά</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| kingdoms, | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| to root out, | <big><span class="asgreek">εκριζούν</span></big> <sup><small><small>[[G1610]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to raze, | <big><span class="asgreek">κατασκάπτειν</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to loosen, | <big><span class="asgreek">απολύειν</span></big> <sup><small><small>[[G0630]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to rebuild, | <big><span class="asgreek">ανοικοδομείν</span></big> <sup><small><small>[[G0456]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to plant. | <big><span class="asgreek">καταφυτεύειν</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I have ordained | **<big>[[G2525\|καθέστηκά]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| nations, | **<big>[[G1484\|έθνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| kingdoms, | **<big>[[G0932\|βασιλείας]]</big>** |
+| to root out, | **<big>[[G1610\|εκριζούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to raze, | **<big>[[G2679\|κατασκάπτειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to loosen, | **<big>[[G0630\|απολύειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to rebuild, | **<big>[[G0456\|ανοικοδομείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to plant. | **<big>[[G7952\|καταφυτεύειν]]</big>** |
 [[Jer.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.9|<< Jeremiah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.11|Jeremiah 1:11 >>]]</td></tr></table>
 
 

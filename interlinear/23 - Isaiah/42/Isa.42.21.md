@@ -6,15 +6,15 @@ The LORD was pleased, for the sake of His righteousness, to magnify His law and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.20|<< Isaiah 42:20]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.22|Isaiah 42:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he was pleased  | <span class="ashebrew"><big>חָפֵ֖ץ </big></span><small><small><sup>[[H2654A]]</sup></small></small> &#8207;| cha.Fetz <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [the] sake of  | <span class="ashebrew"><big>לְמַ֣עַן </big></span><small><small><sup>[[H4616]]</sup></small></small> &#8207;| le.Ma.'an <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness his  | <span class="ashebrew"><big>צִדְק֑ </big></span><small><small><sup>[[H6664G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| tzid.K <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will make great  | <span class="ashebrew"><big>יַגְדִּ֥יל </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| yag.Dil <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] law  | <span class="ashebrew"><big>תּוֹרָ֖ה </big></span><small><small><sup>[[H8451]]</sup></small></small> &#8207;| to.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so he may make [it] glorious  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַאְדִּֽיר </big></span><small><small><sup>[[H0142]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya'.Dir <small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was pleased  |**<big>&#8207;[[H2654A\|חָפֵ֖ץ]]&#8207; </big>**| cha.Fetz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness his  |**<big>&#8207;[[H6664G\|צִדְק֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| tzid.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make great  |**<big>&#8207;[[H1431\|יַגְדִּ֥יל]]&#8207; </big>**| yag.Dil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] law  |**<big>&#8207;[[H8451\|תּוֹרָ֖ה]]&#8207; </big>**| to.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so he may make [it] glorious  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0142\|יַאְדִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya'.Dir<small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.20|<< Isaiah 42:20]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.22|Isaiah 42:22 >>]]</td></tr></table>
 
 

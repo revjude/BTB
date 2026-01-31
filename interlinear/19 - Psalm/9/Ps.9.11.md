@@ -6,15 +6,15 @@ Sing praises to the LORD, who dwells in Zion; proclaim His deeds among the natio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.10|<< Psalms 9:10]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.12|Psalms 9:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| sing praises  | <span class="ashebrew"><big>זַמְּר֗וּ </big></span><small><small><sup>[[H2167]]</sup></small></small> &#8207;| za.me.Ru <small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] dwells  | <span class="ashebrew"><big>יֹשֵׁ֣ב </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.Shev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֑וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| declare  | <span class="ashebrew"><big>הַגִּ֥ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ha.Gi.du <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among the peoples  | <span class="ashebrew"><big>בָ֝ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַמִּ֗ים </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> 'a.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deeds his  | <span class="ashebrew"><big>עֲלִֽילוֹתָֽי </big></span><small><small><sup>[[H5949]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| a.Li.lo.Ta <small><sup>[[HNcfpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sing praises  |**<big>&#8207;[[H2167\|זַמְּר֗וּ]]&#8207; </big>**| za.me.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] dwells  |**<big>&#8207;[[H3427\|יֹשֵׁ֣ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֑וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| declare  |**<big>&#8207;[[H5046\|הַגִּ֥ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the peoples  |**<big>&#8207;[[H9003\|בָ֝]]&#8207;&#8207;[[H5971A\|עַמִּ֗ים]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deeds his  |**<big>&#8207;[[H5949\|עֲלִֽילוֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.Li.lo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.10|<< Psalms 9:10]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.12|Psalms 9:12 >>]]</td></tr></table>
 
 

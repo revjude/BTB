@@ -7,24 +7,24 @@ And they have not cried unto me with their heart, when they howled upon their be
 They do not cry out to Me from their hearts when they wail upon their beds. They slash themselves for grain and new wine, but turn away from Me.<small><sub>**MT:**</sub></small>
 [[Hos.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.13|<< Hosea 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.15|Hosea 7:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled out not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εβόησαν</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with their hearts, | <big><span class="asgreek">καρδίαι</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| shrieked | <big><span class="asgreek">ωλόλυζον</span></big> <sup><small><small>[[G3649]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their beds; | <big><span class="asgreek">κοίταις</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| grain | <big><span class="asgreek">σίτω</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνω</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| they mutilated themselves. | <big><span class="asgreek">κατετέμνοντο</span></big> <sup><small><small>[[G7935]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| yelled out not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0994\|εβόησαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| with their hearts, | **<big>[[G2588\|καρδίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| shrieked | **<big>[[G3649\|ωλόλυζον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their beds; | **<big>[[G2845\|κοίταις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| grain | **<big>[[G4621\|σίτω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνω]]</big>** |
+| they mutilated themselves. | **<big>[[G7935\|κατετέμνοντο]]</big>** |
 [[Hos.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.13|<< Hosea 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.15|Hosea 7:15 >>]]</td></tr></table>
 
 

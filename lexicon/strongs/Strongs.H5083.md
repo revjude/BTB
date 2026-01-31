@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָדָן‎</span></big> **nâdân** <small>*(naw-dawn')*</small> ==**gift**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎נָדָן‎</span></big>** **nâdân** <small>*(naw-dawn')*</small> ==**gift**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>probably from an unused root meaning to give</small>
 
 $\quad$ gift.
@@ -7,4 +7,4 @@ $\quad$ gift.
 **1)** gift
 $\quad$ **1a)** of a harlot's bribe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μίσθωμα</span><sup><small>[[G3410]]</small></sup>
+<small>See Greek: </small>**<big>[[G3410|μίσθωμα]]</big>**

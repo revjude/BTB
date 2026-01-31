@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶכֶס‎</span></big> **ʻekeç** <small>*(eh'-kes)*</small> ==**anklet**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָכַס‎</span><sup><small>[[H5913]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶכֶס‎</span></big>** **ʻekeç** <small>*(eh'-kes)*</small> ==**anklet**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5913|‎עָכַס‎]]</big>**</small>
 
 $\quad$ stocks, tinkling ornament.
 - ***a fetter***
@@ -7,4 +7,4 @@ $\quad$ stocks, tinkling ornament.
 
 **1)** anklet, bangle
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἱματισμός</span><sup><small>[[G2441]]</small></sup> · <span class="asgreek">κύων</span><sup><small>[[G2965]]</small></sup>
+<small>See Greek: </small>**<big>[[G2441|ἱματισμός]]</big>** · **<big>[[G2965|κύων]]</big>**

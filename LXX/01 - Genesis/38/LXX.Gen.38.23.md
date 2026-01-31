@@ -7,24 +7,24 @@ And Judah said, Let her take [it] to her, lest we be shamed: behold, I sent this
 “Let her keep the items,” Judah replied. “Otherwise we will become a laughingstock. After all, I did send her this young goat, but you could not find her.”<small><sub>**MT:**</sub></small>
 [[Gen.38.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.22|<< Genesis 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.24|Genesis 38:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| Let her have | <big><span class="asgreek">εχέτω</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄ά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| we should be ridiculed, | <big><span class="asgreek">καταγελασθώμεν</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| indeed | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέσταλκα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this kid, | <big><span class="asgreek">έριφον</span></big> <sup><small><small>[[G2056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| but you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| have not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| found her. | <big><span class="asgreek">εύρηκας</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδας]]</big>** |
+| Let her have | **<big>[[G2192\|εχέτω]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| but | **<big>[[G0235\|αλλ΄ά]]</big>** |
+| lest at any time | **<big>[[G3379\|μή ποτε]]</big>** |
+| we should be ridiculed, | **<big>[[G2606\|καταγελασθώμεν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| indeed | **<big>[[G3303\|μεν]]</big>** |
+| sent | **<big>[[G0649\|απέσταλκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this kid, | **<big>[[G2056\|έριφον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| but you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| have not | **<big>[[G3756\|ουχ]]</big>** |
+| found her. | **<big>[[G2147\|εύρηκας]]</big>** |
 [[Gen.38.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.22|<< Genesis 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.24|Genesis 38:24 >>]]</td></tr></table>
 
 

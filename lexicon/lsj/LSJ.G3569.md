@@ -1,4 +1,4 @@
-combination of: <small>[[G3568]] ([[G3588]]+[[G3568]])</small> 
+combination of: <small>**<big>[[G3568|νῦν]]</big>** (**<big>[[G3588|ὁ]]</big>**+**<big>[[G3568|νῦν]]</big>**)</small> 
 
 
 Included with: <b> <span class='asgreek'>==τανῦν==</span></b> 

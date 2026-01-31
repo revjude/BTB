@@ -1,8 +1,8 @@
 <small>*Shual • Region raided by Philistines during Saul's reign*</small>
 
 <span class='tipnrhighlight'>Shual</span> was a region raided by Philistine raiders during Saul's reign, along with Ophrah and the land of Shaalim \(1 Sam. 13:17\).
-- A location near Ophrah<[[H6084G]]> only mentioned at [[1Sam.13.17|1Sa.13.17]]; 
-- only referred to as Shual<[[H7777A]]> \(<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Ophrah **<big>[[H6084|עׇפְרָה]]</big>** only mentioned at [[1Sam.13.17|1Sa.13.17]]; 
+- only referred to as Shual **<big>[[H7777|שׁוּעָל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.95378955858199,35.29913577541004&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shual is mentioned in the context of the Philistine threat to Israel during the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shual | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>](H7777A) <small>*Hebrew*</small> | 1x | [1Sa.13.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shual\*\|reference=1Sa.13.17) |
-All Strong's for **Shual**: \[[[H7777A]]\]
+| Shual | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ל</span>](H7777A) | 1x | [1Sa.13.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shual\*\|reference=1Sa.13.17) |
+All entries for **Shual**:  **<big>[[H7777|שׁוּעָל]]</big>**

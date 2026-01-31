@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁעֲרַיִם‎</span></big> **Shaʻărayim** <small>*(shah-ar-ah'-yim)*</small> ==**Shaaraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>dual of <span class="ashebrew">‎שַׁעַר‎</span><sup><small>[[H8179]]</small></sup>; double gates</small>
+**<big><span class="ashebrew">‎שַׁעֲרַיִם‎</span></big>** **Shaʻărayim** <small>*(shah-ar-ah'-yim)*</small> ==**Shaaraim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>dual of **<big>[[H8179|‎שַׁעַר‎]]</big>**; double gates</small>
 
 $\quad$ Shaaraim.
 - § Shaaraim = *"double gate"*

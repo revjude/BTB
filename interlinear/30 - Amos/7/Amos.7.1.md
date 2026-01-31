@@ -6,23 +6,23 @@ This is what the Lord GOD showed me: He was preparing swarms of locusts just aft
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.14|<< Amos 6:14]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.2|Amos 7:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| thus  | <span class="ashebrew"><big>כֹּ֤ה </big></span><small><small><sup>[[H3541]]</sup></small></small> &#8207;| koh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he showed me  | <span class="ashebrew"><big>הִרְאַ֙ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>נִי֙ </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| hir.'A. <small><sup>[[HVhp3ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י </big></span><small><small><sup>[[H0136]]</sup></small></small> &#8207;| 'a.do.Nai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה </big></span><small><small><sup>[[H3069]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there!  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִנֵּה֙ </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [he was] forming  | <span class="ashebrew"><big>יוֹצֵ֣ר </big></span><small><small><sup>[[H3335G]]</sup></small></small> &#8207;| yo.Tzer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| locusts  | <span class="ashebrew"><big>גֹּבַ֔י </big></span><small><small><sup>[[H1462B]]</sup></small></small> &#8207;| goyAi <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at [the] beginning of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תְחִלַּ֖ת </big></span><small><small><sup>[[H8462]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> t.chi.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] coming up of  | <span class="ashebrew"><big>עֲל֣וֹת </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| a.Lot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the spring-crop  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לָּ֑קֶשׁ </big></span><small><small><sup>[[H3954]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> La.kesh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there!  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הִ֨נֵּה </big></span><small><small><sup>[[H2009]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hi.neh- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a spring-crop  | <span class="ashebrew"><big>לֶ֔קֶשׁ </big></span><small><small><sup>[[H3954]]</sup></small></small> &#8207;| Le.kesh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחַ֖ר </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.Char <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mowings of  | <span class="ashebrew"><big>גִּזֵּ֥י </big></span><small><small><sup>[[H1488]]</sup></small></small> &#8207;| gi.Zei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֶּֽלֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Me.lekh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he showed me  |**<big>&#8207;[[H7200G\|הִרְאַ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| hir.'A.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he was] forming  |**<big>&#8207;[[H3335G\|יוֹצֵ֣ר]]&#8207; </big>**| yo.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| locusts  |**<big>&#8207;[[H1462B\|גֹּבַ֔י]]&#8207; </big>**| goyAi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] beginning of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8462\|תְחִלַּ֖ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> t.chi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] coming up of  |**<big>&#8207;[[H5927G\|עֲל֣וֹת]]&#8207; </big>**| a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the spring-crop  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3954\|לָּ֑קֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> La.kesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִ֨נֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spring-crop  |**<big>&#8207;[[H3954\|לֶ֔קֶשׁ]]&#8207; </big>**| Le.kesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחַ֖ר]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mowings of  |**<big>&#8207;[[H1488\|גִּזֵּ֥י]]&#8207; </big>**| gi.Zei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.14|<< Amos 6:14]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.2|Amos 7:2 >>]]</td></tr></table>
 
 

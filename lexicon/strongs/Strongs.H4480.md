@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִן‎</span></big> **min** <small>*(min)*</small> ==**from**==  <sup><small>[[TEHMC#H:Prep|H:Prep]]</small></sup> 
-<small>or <span class="ashebrew">מִנִּי</span> **minnîy** <small>*(min-nee')*</small>; or <span class="ashebrew">מִנֵּי</span> **minnêy** <small>*(min-nay')*</small>; (constructive plural) (Isaiah 30:11); for <span class="ashebrew">‎מֵן‎</span><sup><small>[[H4482]]</small></sup></small>
+**<big><span class="ashebrew">‎מִן‎</span></big>** **min** <small>*(min)*</small> ==**from**==  <sup><small>[[TEHMC#H:Prep|H:Prep]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִנִּי</span></big>** **minnîy** <small>*(min-nee')*</small>; or **<big><span class="ashebrew">מִנֵּי</span></big>** **minnêy** <small>*(min-nay')*</small>; (constructive plural) (Isaiah 30:11); for **<big>[[H4482|‎מֵן‎]]</big>**</small>
 
 $\quad$ above, after, among, at, because of, by (reason of), from (among), in, [idiom] neither, [idiom] nor, (out) of, over, since, [idiom] then, through, [idiom] whether, with.
 - properly, ***a part of***

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פּוּק‎</span></big> **pûwq** <small>*(pook)*</small> ==**to promote**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (identical with <span class="ashebrew">‎פּוּק‎</span><sup><small>[[H6328]]</small></sup> through the idea of dropping out; compare <span class="asaramaic">‎נְפַק‎</span><sup><small>[[H5312]]</small></sup>)</small>
+**<big><span class="ashebrew">‎פּוּק‎</span></big>** **pûwq** <small>*(pook)*</small> ==**to promote**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (identical with **<big>[[H6328|‎פּוּק‎]]</big>** through the idea of dropping out; compare **<big>[[H5312|‎נְפַק‎]]</big>**)</small>
 
 $\quad$ afford, draw out, further, get, obtain.
 - ***to issue***, i.e. ***furnish***
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a2)** to bring out, elicit, obtain, cause to come out from
 $\quad$ $\quad$ **1a3)** to promote
 $\quad$ $\quad$ **1a4)** to cause to go out to
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δίδωμι</span><sup><small>[[G1325]]</small></sup> · <span class="asgreek">ἑτοιμάζω</span><sup><small>[[G2090]]</small></sup> · <span class="asgreek">εὑρίσκω</span><sup><small>[[G2147]]</small></sup> · <span class="asgreek">κινέω</span><sup><small>[[G2795]]</small></sup> · <span class="asgreek">λαμβάνω</span><sup><small>[[G2983]]</small></sup>
+<small>See Greek: </small>**<big>[[G1325|δίδωμι]]</big>** · **<big>[[G2090|ἑτοιμάζω]]</big>** · **<big>[[G2147|εὑρίσκω]]</big>** · **<big>[[G2795|κινέω]]</big>** · **<big>[[G2983|λαμβάνω]]</big>**

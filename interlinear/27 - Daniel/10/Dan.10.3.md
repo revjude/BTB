@@ -6,26 +6,26 @@ I ate no rich food, no meat or wine entered my mouth, and I did not anoint mysel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.2|<< Daniel 10:2]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.4|Daniel 10:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| food of  | <span class="ashebrew"><big>לֶ֣חֶם </big></span><small><small><sup>[[H3899G]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| desirableness\<es>  | <span class="ashebrew"><big>חֲמֻד֞וֹת </big></span><small><small><sup>[[H2532B]]</sup></small></small> &#8207;| cha.mu.Dot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I ate  | <span class="ashebrew"><big>אָכַ֗לְתִּי </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'a.Khal.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and meat  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בָשָׂ֥ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> va.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and wine  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַ֛יִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> Ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it came  | <span class="ashebrew"><big>בָ֥א </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| va' <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| into  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth my  | <span class="ashebrew"><big>פִּ֖ </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| p <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and indeed \<anoint>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ס֣וֹךְ </big></span><small><small><sup>[[H5480]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Sokh <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I anointed myself  | <span class="ashebrew"><big>סָ֑כְתִּי </big></span><small><small><sup>[[H5480]]</sup></small></small> &#8207;| Sa.khe.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| were completed  | <span class="ashebrew"><big>מְלֹ֕את </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| me.Lot <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹ֥שֶׁת </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.Lo.shet <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sevens  | <span class="ashebrew"><big>שָׁבֻעִ֖ים </big></span><small><small><sup>[[H7620I]]</sup></small></small> &#8207;| sha.vu.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִֽים </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food of  |**<big>&#8207;[[H3899G\|לֶ֣חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| desirableness\<es>  |**<big>&#8207;[[H2532B\|חֲמֻד֞וֹת]]&#8207; </big>**| cha.mu.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I ate  |**<big>&#8207;[[H0398\|אָכַ֗לְתִּי]]&#8207; </big>**| 'a.Khal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and meat  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1320\|בָשָׂ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wine  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3196\|יַ֛יִן]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  |**<big>&#8207;[[H0935G\|בָ֥א]]&#8207; </big>**| va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth my  |**<big>&#8207;[[H6310G\|פִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| p<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and indeed \<anoint>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5480\|ס֣וֹךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I anointed myself  |**<big>&#8207;[[H5480\|סָ֑כְתִּי]]&#8207; </big>**| Sa.khe.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| were completed  |**<big>&#8207;[[H4390\|מְלֹ֕את]]&#8207; </big>**| me.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sevens  |**<big>&#8207;[[H7620I\|שָׁבֻעִ֖ים]]&#8207; </big>**| sha.vu.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.2|<< Daniel 10:2]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.4|Daniel 10:4 >>]]</td></tr></table>
 
 

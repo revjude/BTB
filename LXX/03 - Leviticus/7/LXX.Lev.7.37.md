@@ -7,29 +7,29 @@ This [is] the law of the burnt offering, of the meat offering, and of the sin of
 This is the law of the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace offering,<small><sub>**MT:**</sub></small>
 [[Lev.7.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.36|<< Leviticus 7:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.38|Leviticus 7:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This is | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings, | <big><span class="asgreek">ολοκαυτωμάτων</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of sacrifice, | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| a sin \[offering\], | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trespass \[offering\], | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consecration, | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of deliverance \[offering\], | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| This is | **<big>[[G3778\|ούτος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| law | **<big>[[G3551\|νόμος]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| whole burnt-offerings, | **<big>[[G3646\|ολοκαυτωμάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of sacrifice, | **<big>[[G2378\|θυσίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| a sin \[offering\], | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| trespass \[offering\], | **<big>[[G8811\|πλημμελείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| consecration, | **<big>[[G5050\|τελειώσεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sacrifice | **<big>[[G2378\|θυσίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of deliverance \[offering\], | **<big>[[G4992\|σωτηρίου]]</big>** |
 [[Lev.7.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.36|<< Leviticus 7:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.38|Leviticus 7:38 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ But ye shall destroy their altars, break their images, and cut down their groves
 Rather, you must tear down their altars, smash their sacred stones, and chop down their Asherah poles.<small><sub>**MT:**</sub></small>
 [[Exod.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.12|<< Exodus 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.14|Exodus 34:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their shrines | <big><span class="asgreek">βωμούς</span></big> <sup><small><small>[[G1041]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall demolish, | <big><span class="asgreek">καθελείτε</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their monuments | <big><span class="asgreek">στήλας</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall break, | <big><span class="asgreek">συντρίψετε</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sacred groves | <big><span class="asgreek">άλση</span></big> <sup><small><small>[[G6242]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall cut down, | <big><span class="asgreek">εκκόψετε</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their gods | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall incinerate | <big><span class="asgreek">κατακαύσετε</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
-| in fire. | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| Their shrines | **<big>[[G1041\|βωμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall demolish, | **<big>[[G2507\|καθελείτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their monuments | **<big>[[G9171\|στήλας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall break, | **<big>[[G4937\|συντρίψετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their sacred groves | **<big>[[G6242\|άλση]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall cut down, | **<big>[[G1581\|εκκόψετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| carvings | **<big>[[G6745\|γλυπτά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their gods | **<big>[[G2316\|θεών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall incinerate | **<big>[[G2618\|κατακαύσετε]]</big>** |
+| in fire. | **<big>[[G4442\|πυρί]]</big>** |
 [[Exod.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.12|<< Exodus 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.14|Exodus 34:14 >>]]</td></tr></table>
 
 

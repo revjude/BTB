@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּלְטִי‎</span></big> **Palṭîy** <small>*(pal-tee')*</small> ==**Paltite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎פַּלְטִי‎</span><sup><small>[[H6406]]</small></sup></small>
+**<big><span class="ashebrew">‎פַּלְטִי‎</span></big>** **Palṭîy** <small>*(pal-tee')*</small> ==**Paltite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H6406|‎פַּלְטִי‎]]</big>**</small>
 
 $\quad$ Paltite.
 - § Paltite = *"escape"*

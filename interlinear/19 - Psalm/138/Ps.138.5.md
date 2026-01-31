@@ -6,15 +6,15 @@ They will sing of the ways of the LORD, for the glory of the LORD is great.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.4|<< Psalms 138:4]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.6|Psalms 138:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| so they may sing  | <span class="ashebrew"><big>וְ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָשִׁירוּ </big></span><small><small><sup>[[H7891]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ya.shi.ru <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] ways of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דַרְכֵ֣י </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> dar.Khei <small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] great  | <span class="ashebrew"><big>גָ֝ד֗וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] glory of  | <span class="ashebrew"><big>כְּב֣וֹד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| ke.Vod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may sing  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7891\|יָשִׁירוּ]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ya.shi.ru<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] ways of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1870G\|דַרְכֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> dar.Khei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] great  |**<big>&#8207;[[H1419A\|גָ֝ד֗וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] glory of  |**<big>&#8207;[[H3519\|כְּב֣וֹד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.4|<< Psalms 138:4]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.6|Psalms 138:6 >>]]</td></tr></table>
 
 

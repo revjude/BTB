@@ -7,17 +7,17 @@ Lo, all these [things] worketh God oftentimes with man,
 Behold, all these things God does to a man, two or even three times,<small><sub>**MT:**</sub></small>
 [[Job.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.28|<< Job 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.30|Job 33:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| all these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| works | <big><span class="asgreek">εργάται</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong one | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a man. | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| all these \[things\] | **<big>[[G3778\|ταύτα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
+| works | **<big>[[G2038\|εργάται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| strong one | **<big>[[G2478\|ισχυρός]]</big>** |
+| ways | **<big>[[G3598\|οδούς]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a man. | **<big>[[G0435\|ανδρός]]</big>** |
 [[Job.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.28|<< Job 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.30|Job 33:30 >>]]</td></tr></table>
 
 

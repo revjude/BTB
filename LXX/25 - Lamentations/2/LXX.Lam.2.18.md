@@ -9,30 +9,30 @@ Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run d
 The hearts of the people cry out to the Lord. O wall of the Daughter of Zion, let your tears run down like a river day and night. Give yourself no relief, and your eyes no rest.<small><sub>**MT:**</sub></small>
 [[Lam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.17|<< Lamentations 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.19|Lamentations 2:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΣΑΔΗ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΣΑΔΗ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| yelled out | <big><span class="asgreek">εβόησε</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| Their heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, \[saying\], | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O walls | <big><span class="asgreek">τείχη</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| lead down | <big><span class="asgreek">καταγαγέτω</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a rushing stream | <big><span class="asgreek">χειμάρρους</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
-| tears | <big><span class="asgreek">δάκρυα</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| night! | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| give | <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| soberness | <big><span class="asgreek">έκνηψιν</span></big> <sup><small><small>[[G7123]]</small></small></sup> |
-| to yourself; | <big><span class="asgreek">σεαυτή</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| neither | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| keep quiet | <big><span class="asgreek">σιωπησάτω</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
-| \[the\] pupil | <big><span class="asgreek">κόρη</span></big> <sup><small><small>[[G8070]]</small></small></sup> |
-| of your eye | <big><span class="asgreek">οφθαλμού</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΣΑΔΗ <sup><small>[acrostic title]</small></sup> |  |
+| yelled out | **<big>[[G0994\|εβόησε]]</big>** |
+| Their heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, \[saying\], | **<big>[[G2962\|κύριον]]</big>** |
+| O walls | **<big>[[G5038\|τείχη]]</big>** |
+| of Zion, | **<big>[[G4622\|Σιών]]</big>** |
+| lead down | **<big>[[G2609\|καταγαγέτω]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a rushing stream | **<big>[[G5493\|χειμάρρους]]</big>** |
+| tears | **<big>[[G1144\|δάκρυα]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| night! | **<big>[[G3571\|νυκτός]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| give | **<big>[[G1325\|δως]]</big>** |
+| soberness | **<big>[[G7123\|έκνηψιν]]</big>** |
+| to yourself; | **<big>[[G4572\|σεαυτή]]</big>** |
+| neither | **<big>[[G3366\|μηδέ]]</big>** |
+| keep quiet | **<big>[[G4623\|σιωπησάτω]]</big>** |
+| \[the\] pupil | **<big>[[G8070\|κόρη]]</big>** |
+| of your eye | **<big>[[G3788\|οφθαλμού]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Lam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.17|<< Lamentations 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.19|Lamentations 2:19 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Giloh</span>, also known as Gilo, was a city in Judah and the hometown of Ahithophel, David's counselor who later conspired with Absalom \([[Josh.15.51|Joshua 15:51]]; [[2Sam.15.12|2 Samuel 15:12]]; 23:34\).
 - A location first mentioned at [[Josh.15.51|Jos.15.51]]; 
-- referred to as Giloh<[[H1542]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ה</span>\), or Gilonite or Gilo \(KJV, NIV= Gilonite\) <[[H1526]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Giloh **<big>[[H1542|גִּלֹה]]</big>**, or Gilonite or Gilo \(KJV, NIV= Gilonite\)  **<big>[[H1526|גִּילֹנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.616667,35.083333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Giloh, also referred to as Gilo, was a city located in the hill country of Judah
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Giloh | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H1542) <small>*Hebrew*</small> | 2x | [[Jos.15.51] & [2Sa.15.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Giloh\*\|reference=Jos.15.51;2Sa.15.12) |
-| Gilonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H1526) <small>*Hebrew*</small> | 1x | [2Sa.15.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gilonite\*\|reference=2Sa.15.12) |
-| Gilo (KJV, NIV= Gilonite) | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H1526) <small>*Hebrew*</small> | 1x | [2Sa.23.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gilo\*\|reference=2Sa.23.34) |
-All Strong's for **Giloh or Gilo**: \[[[H1542]]\] \[[[H1526]]\]
+| Giloh | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H1542) | 2x | [[Jos.15.51] & [2Sa.15.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Giloh\*\|reference=Jos.15.51;2Sa.15.12) |
+| Gilonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H1526) | 1x | [2Sa.15.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gilonite\*\|reference=2Sa.15.12) |
+| Gilo (KJV, NIV= Gilonite) | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H1526) | 1x | [2Sa.23.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gilo\*\|reference=2Sa.23.34) |
+All entries for **Giloh or Gilo**:  **<big>[[H1542|גִּלֹה]]</big>** ☩  **<big>[[H1526|גִּילֹנִי]]</big>**

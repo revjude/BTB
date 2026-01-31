@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַמְתַּחַת‎</span></big> **ʼamtachath** <small>*(am-takh'-ath)*</small> ==**sack**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎מָתַח‎</span><sup><small>[[H4969]]</small></sup></small>
+**<big><span class="ashebrew">‎אַמְתַּחַת‎</span></big>** **ʼamtachath** <small>*(am-takh'-ath)*</small> ==**sack**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H4969|‎מָתַח‎]]</big>**</small>
 
 $\quad$ sack.
 - properly, ***something expansive***, i.e. ***a bag***

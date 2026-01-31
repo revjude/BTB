@@ -4,9 +4,9 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Ahio</span> was a son of Abiel \(or 'Jeiel'\), a Benjamite who was the re-founder of Gibeon. \([[1Chr.8.31|1Ch.8.31]]; 9.37\)
 - A man from the tribe of Benjamin living at the time of United Monarchy, first mentioned at [[1Chr.8.31|1Ch.8.31]]; 
-- only referred to as Ahio<[[H0283I]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ\); 
--  son of Abiel<[[H0022G]]> and Maacah<[[H4601N]]>; 
-- a brother of Kish<[[H7027G]]>, Ner<[[H5369G]]>, Abdon<[[H5658J]]>, Zur<[[H6698I]]>, Baal<[[H1168B]]>, Nadab<[[H5070J]]>, Gedor<[[H1446I]]>, Zecher<[[H2144]]> and Mikloth<[[H4732G]]>.
+- only referred to as Ahio **<big>[[H0283|אַחְיוֹ]]</big>**; 
+-  son of Abiel **<big>[[H0022|אֲבִיאֵל]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**; 
+- a brother of Kish **<big>[[H7027|קִישׁ]]</big>**, Ner **<big>[[H5369|נֵר]]</big>**, Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, Zur **<big>[[H6698|צוּר]]</big>**, Baal **<big>[[H1168|בַּעַל]]</big>**, Nadab **<big>[[H5070|נָדָב]]</big>**, Gedor **<big>[[H1446|גְדֹר]]</big>**, Zecher **<big>[[H2144|זֶכֶר]]</big>** and Mikloth **<big>[[H4732|מִקְלוֹת]]</big>**.
 
 Ahio is mentioned in the genealogies of the tribe of Benjamin as one of the sons of Abiel \(or 'Jeiel'\), who was the father or re-founder of Gibeon. Abiel \(or 'Jeiel'\) and his wife Maakah had several children, including Ahio. \(1Ch.8.29-31; 9.35-37\) 
 
@@ -16,8 +16,8 @@ Apart from being listed among Jeiel's sons, no further information is given abou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahio | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ](H0283I) <small>*Hebrew*</small> | 2x | [[1Ch.8.31] & [1Ch.9.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahio\*\|reference=1Ch.8.31;1Ch.9.37) |
-All Strong's for **Ahio**: \[[[H0283I]]\]
+| Ahio | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>יו</span>ֹ](H0283I) | 2x | [[1Ch.8.31] & [1Ch.9.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahio\*\|reference=1Ch.8.31;1Ch.9.37) |
+All entries for **Ahio**:  **<big>[[H0283|אַחְיוֹ]]</big>**
 #### Related Profiles:
 - **[Abiel](H0022G)** (father)
 - **[Maacah](H4601N)** (mother)

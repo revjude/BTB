@@ -7,40 +7,40 @@ And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto 
 Ahab answered, “Because I spoke to Naboth the Jezreelite and told him, ‘Give me your vineyard for silver, or if you wish, I will give you another vineyard in its place.’ And he replied, ‘I will not give you my vineyard!’”<small><sub>**MT:**</sub></small>
 [[1Kgs.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.5|<< 1 Kings 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.7|1 Kings 21:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Naboth | <big><span class="asgreek">Ναβούθ</span></big> <sup><small><small>[[H5022]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jezreelite, | <big><span class="asgreek">Ιεζραηλίτην</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your vineyard | <big><span class="asgreek">αμπελώνά</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for money! | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| but if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you do not want, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">βούλει</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a vineyard | <big><span class="asgreek">αμπελώνα</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| in place | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| of it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my fathers. | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Naboth | **<big>[[H5022\|Ναβούθ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Jezreelite, | **<big>[[H3157\|Ιεζραηλίτην]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Give | **<big>[[G1325\|δος]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your vineyard | **<big>[[G0290\|αμπελώνά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for money! | **<big>[[G0694\|αργυρίου]]</big>** |
+| but if | **<big>[[G1487\|ει]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you do not want, | **<big>[[G3361\|μη]]</big>** **<big>[[G1014\|βούλει]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| a vineyard | **<big>[[G0290\|αμπελώνα]]</big>** |
+| in place | **<big>[[G0473\|αντ΄]]</big>** |
+| of it. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[1Kgs.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.5|<< 1 Kings 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.7|1 Kings 21:7 >>]]</td></tr></table>
 
 

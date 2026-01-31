@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹצָדָק‎</span></big> **Yᵉhôwtsâdâq** <small>*(yeh-ho-tsaw-dawk')*</small> ==**Jehozadak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎צָדַק‎</span><sup><small>[[H6663]]</small></sup>; Jehovah-righted</small>
+**<big><span class="ashebrew">‎יְהוֹצָדָק‎</span></big>** **Yᵉhôwtsâdâq** <small>*(yeh-ho-tsaw-dawk')*</small> ==**Jehozadak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H6663|‎צָדַק‎]]</big>**; Jehovah-righted</small>
 
-$\quad$ Jehozadek, Josedech. Compare <span class="ashebrew">‎יוֹצָדָק‎</span><sup><small>[[H3136]]</small></sup>.
+$\quad$ Jehozadek, Josedech. Compare **<big>[[H3136|‎יוֹצָדָק‎]]</big>**.
 - § Jehozadak or Josedech = *"Jehovah is righteous"*
 - ***Jehotsadak***, an Israelite
 

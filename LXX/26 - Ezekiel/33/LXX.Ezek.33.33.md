@@ -11,22 +11,22 @@ So when it comes to pass—and surely it will come—then they will know that a 
 > $\quad$ fulfilled in: [[Mark.3.32|Mark 3:32-35]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| it should come \[to pass\], | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| it is come; | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their midst. | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| it should come \[to pass\], | **<big>[[G2064\|έλθη]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσιν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| it is come; | **<big>[[G2240\|ήκει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall know | **<big>[[G1097\|γνώσονται]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| a prophet | **<big>[[G4396\|προφήτης]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their midst. | **<big>[[G3319\|μέσω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.33.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.32|<< Ezekiel 33:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.1|Ezekiel 34:1 >>]]</td></tr></table>
 
 

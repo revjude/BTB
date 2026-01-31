@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָרַם‎</span></big> **ʻâram** <small>*(aw-ram')*</small> ==**be shrewd**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָרַם‎</span></big>** **ʻâram** <small>*(aw-ram')*</small> ==**be shrewd**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] very, beware, take crafty (counsel), be prudent, deal subtilly.
@@ -9,4 +9,4 @@ $\quad$ [idiom] very, beware, take crafty (counsel), be prudent, deal subtilly.
 $\quad$ **1a)** (Qal) to be crafty, be subtle
 $\quad$ **1b)** (Hiphil) to be crafty, be or become shrewd
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλλόφυλος</span><sup><small>[[G0246]]</small></sup> · <span class="asgreek">διΐστημι</span><sup><small>[[G1339]]</small></sup> · <span class="asgreek">πανοῦργος</span><sup><small>[[G3835]]</small></sup>
+<small>See Greek: </small>**<big>[[G0246|ἀλλόφυλος]]</big>** · **<big>[[G1339|διΐστημι]]</big>** · **<big>[[G3835|πανοῦργος]]</big>**

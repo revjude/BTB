@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָסַר‎</span></big> **mâçar** <small>*(maw-sar')*</small> ==**to commit**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָסַר‎</span></big>** **mâçar** <small>*(maw-sar')*</small> ==**to commit**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ commit, deliver.
@@ -8,4 +8,4 @@ $\quad$ commit, deliver.
 $\quad$ **1a)** (Qal) to set apart
 $\quad$ **1b)** (Niphal) to be delivered over, be assigned to, be set apart
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup>
+<small>See Greek: </small>**<big>[[G0868|ἀφίστημι]]</big>**

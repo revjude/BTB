@@ -6,27 +6,27 @@ Declare ye among the nations, and publish, and set up a standard; publish, [and]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.1|<< Jeremiah 50:1]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.3|Jeremiah 50:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| declare  | <span class="ashebrew"><big>הַגִּ֨ידוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| ha.Gi.du <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among the nations  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גּוֹיִ֤ם </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> go.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and make a proclamation  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַשְׁמִ֙יעוּ֙ </big></span><small><small><sup>[[H8085I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hash.Mi.'u <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and lift up  | <span class="ashebrew"><big>וּֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׂאוּ </big></span><small><small><sup>[[H5375G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> se.'u- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a standard  | <span class="ashebrew"><big>נֵ֔ס </big></span><small><small><sup>[[H5251H]]</sup></small></small> &#8207;| Nes <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| make a proclamation  | <span class="ashebrew"><big>הַשְׁמִ֖יעוּ </big></span><small><small><sup>[[H8085I]]</sup></small></small> &#8207;| hash.Mi.'u <small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you hide [it]  | <span class="ashebrew"><big>תְּכַחֵ֑דוּ </big></span><small><small><sup>[[H3582]]</sup></small></small> &#8207;| te.kha.Che.du <small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אִמְרוּ֩ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'im.Ru <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be captured  | <span class="ashebrew"><big>נִלְכְּדָ֨ה </big></span><small><small><sup>[[H3920]]</sup></small></small> &#8207;| nil.ke.Dah <small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon  | <span class="ashebrew"><big>בָבֶ֜ל </big></span><small><small><sup>[[H0894]]</sup></small></small> &#8207;| va.Vel <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be put to shame  | <span class="ashebrew"><big>הֹבִ֥ישׁ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| ho.Vish <small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bel  | <span class="ashebrew"><big>בֵּל֙ </big></span><small><small><sup>[[H1078]]</sup></small></small> &#8207;| bel <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be shattered  | <span class="ashebrew"><big>חַ֣ת </big></span><small><small><sup>[[H2865]]</sup></small></small> &#8207;| chat <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Marduk  | <span class="ashebrew"><big>מְרֹדָ֔ךְ </big></span><small><small><sup>[[H4781]]</sup></small></small> &#8207;| me.ro.Dakh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be put to shame  | <span class="ashebrew"><big>הֹבִ֣ישׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| ho.Vi.shu <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| images its  | <span class="ashebrew"><big>עֲצַבֶּ֔י </big></span><small><small><sup>[[H6091]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| 'a.tza.Bei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be shattered  | <span class="ashebrew"><big>חַ֖תּוּ </big></span><small><small><sup>[[H2865]]</sup></small></small> &#8207;| Cha.tu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| idols its  | <span class="ashebrew"><big>גִּלּוּלֶֽי </big></span><small><small><sup>[[H1544]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9024]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| gi.lu.Lei. <small><sup>[[HNcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| declare  |**<big>&#8207;[[H5046\|הַגִּ֨ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֤ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and make a proclamation  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8085I\|הַשְׁמִ֙יעוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hash.Mi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lift up  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H5375G\|שְׂאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a standard  |**<big>&#8207;[[H5251H\|נֵ֔ס]]&#8207; </big>**| Nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make a proclamation  |**<big>&#8207;[[H8085I\|הַשְׁמִ֖יעוּ]]&#8207; </big>**| hash.Mi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you hide [it]  |**<big>&#8207;[[H3582\|תְּכַחֵ֑דוּ]]&#8207; </big>**| te.kha.Che.du<small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אִמְרוּ֩]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be captured  |**<big>&#8207;[[H3920\|נִלְכְּדָ֨ה]]&#8207; </big>**| nil.ke.Dah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  |**<big>&#8207;[[H0894\|בָבֶ֜ל]]&#8207; </big>**| va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be put to shame  |**<big>&#8207;[[H0954\|הֹבִ֥ישׁ]]&#8207; </big>**| ho.Vish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bel  |**<big>&#8207;[[H1078\|בֵּל֙]]&#8207; </big>**| bel<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be shattered  |**<big>&#8207;[[H2865\|חַ֣ת]]&#8207; </big>**| chat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Marduk  |**<big>&#8207;[[H4781\|מְרֹדָ֔ךְ]]&#8207; </big>**| me.ro.Dakh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be put to shame  |**<big>&#8207;[[H0954\|הֹבִ֣ישׁוּ]]&#8207; </big>**| ho.Vi.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| images its  |**<big>&#8207;[[H6091\|עֲצַבֶּ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| 'a.tza.Bei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be shattered  |**<big>&#8207;[[H2865\|חַ֖תּוּ]]&#8207; </big>**| Cha.tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| idols its  |**<big>&#8207;[[H1544\|גִּלּוּלֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| gi.lu.Lei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.1|<< Jeremiah 50:1]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.3|Jeremiah 50:3 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ He hath said in his heart, I shall not be moved: for [I shall] never [be] in adv
 He says to himself, “I will not be moved; from age to age I am free of distress.”<small><sub>**MT:**</sub></small>
 [[Ps.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.5|<< Psalm 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.7|Psalm 10:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should I be shaken | <big><span class="asgreek">σαλευθώ</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| generation | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generation; | <big><span class="asgreek">γενεάν</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| \[I shall exist\] without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
-| bad \[happening\]; | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| For he said | **<big>[[G2036\|είπε]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his heart, | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should I be shaken | **<big>[[G4531\|σαλευθώ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| generation | **<big>[[G1074\|γενεάς]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| generation; | **<big>[[G1074\|γενεάν]]</big>** |
+| \[I shall exist\] without | **<big>[[G0427\|άνευ]]</big>** |
+| bad \[happening\]; | **<big>[[G2556\|κακού]]</big>** |
 [[Ps.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.5|<< Psalm 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.7|Psalm 10:7 >>]]</td></tr></table>
 
 

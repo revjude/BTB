@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Eber</span> was a son of Elpaal and a descendant of Benjamin, mentioned in the genealogy of the Benjamites. \([[1Chr.8.12|1Ch.8.12]]\)
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.12|1Ch.8.12]]; 
-- only referred to as Eber<[[H5677I]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Elpaal<[[H0508]]>; 
-- a brother of Misham<[[H4936]]>, Shemed<[[H8106B]]>, Beriah<[[H1283I]]>, Shema<[[H8087I]]>, Zebadiah<[[H2069H]]>, Meshullam<[[H4918J]]>, Hizki<[[H2395]]>, Heber<[[H2268J]]>, Ishmerai<[[H3461]]>, Izliah<[[H3152]]> and Jobab<[[H3103K]]>.
+- only referred to as Eber **<big>[[H5677|עֵבֵר]]</big>**; 
+-  son of Elpaal **<big>[[H0508|אֶלְפַּעַל]]</big>**; 
+- a brother of Misham **<big>[[H4936|מִשְׁעָם]]</big>**, Shemed **<big>[[H8106|שֶׁמֶר]]</big>**, Beriah **<big>[[H1283|בְּרִיעָה]]</big>**, Shema **<big>[[H8087|שֶׁמַע]]</big>**, Zebadiah **<big>[[H2069|זְבַדְיָה]]</big>**, Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Hizki **<big>[[H2395|חִזְקִי]]</big>**, Heber **<big>[[H2268|חֶבֶר]]</big>**, Ishmerai **<big>[[H3461|יִשְׁמְרַי]]</big>**, Izliah **<big>[[H3152|יִזְלִיאָה]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Eber is mentioned in [[1Chr.8.12|1 Chronicles 8:12]] as one of the sons of Elpaal, a descendant of Benjamin. He is listed along with his brothers Misham and Shemed. 
 
@@ -20,8 +20,8 @@ Apart from this brief mention, no further information is provided about Eber or 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eber | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677I) <small>*Hebrew*</small> | 1x | [1Ch.8.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.8.12) |
-All Strong's for **Eber**: \[[[H5677I]]\]
+| Eber | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677I) | 1x | [1Ch.8.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.8.12) |
+All entries for **Eber**:  **<big>[[H5677|עֵבֵר]]</big>**
 #### Related Profiles:
 - **[Elpaal](H0508)** (father)
 - **[Misham](H4936)** (sibling)

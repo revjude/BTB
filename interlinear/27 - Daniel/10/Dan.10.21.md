@@ -10,25 +10,25 @@ But first I will tell you what is inscribed in the Book of Truth. Yet no one has
 > $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| but  | <span class="ashebrew"><big>אֲבָל֙ </big></span><small><small><sup>[[H0061]]</sup></small></small> &#8207;| 'a.Val <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will tell  | <span class="ashebrew"><big>אַגִּ֣יד </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| 'a.Gid <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the [thing] inscribed  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רָשׁ֥וּם </big></span><small><small><sup>[[H7559]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ra.Shum <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in writing of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כְתָ֖ב </big></span><small><small><sup>[[H3791]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> kh.Tav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| truth  | <span class="ashebrew"><big>אֱמֶ֑ת </big></span><small><small><sup>[[H0571H]]</sup></small></small> &#8207;| 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֨ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] one  | <span class="ashebrew"><big>אֶחָ֜ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] shows himself strong  | <span class="ashebrew"><big>מִתְחַזֵּ֤ק </big></span><small><small><sup>[[H2388G]]</sup></small></small> &#8207;| mit.cha.Zek <small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with me  | <span class="ashebrew"><big>עִמִּ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'i.M <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֔לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588B]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| except  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Michael  | <span class="ashebrew"><big>מִיכָאֵ֖ל </big></span><small><small><sup>[[H4317Q]]</sup></small></small> &#8207;| mi.kha.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prince your  | <span class="ashebrew"><big>שַׂרְ </big></span><small><small><sup>[[H8269]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| sar. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| but  |**<big>&#8207;[[H0061\|אֲבָל֙]]&#8207; </big>**| 'a.Val<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will tell  |**<big>&#8207;[[H5046\|אַגִּ֣יד]]&#8207; </big>**| 'a.Gid<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [thing] inscribed  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7559\|רָשׁ֥וּם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Shum<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in writing of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3791\|כְתָ֖ב]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> kh.Tav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truth  |**<big>&#8207;[[H0571H\|אֱמֶ֑ת]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֨ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] one  |**<big>&#8207;[[H0259\|אֶחָ֜ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] shows himself strong  |**<big>&#8207;[[H2388G\|מִתְחַזֵּ֤ק]]&#8207; </big>**| mit.cha.Zek<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  |**<big>&#8207;[[H5973A\|עִמִּ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'i.M<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֔לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588B\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Michael  |**<big>&#8207;[[H4317Q\|מִיכָאֵ֖ל]]&#8207; </big>**| mi.kha.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prince your  |**<big>&#8207;[[H8269\|שַׂרְ]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sar.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.20|<< Daniel 10:20]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.1|Daniel 11:1 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ No Anakim were left in the land of the Israelites; only in Gaza, Gath, and Ashdo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.21|<< Joshua 11:21]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.23|Joshua 11:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it was left  | <span class="ashebrew"><big>נוֹתַ֣ר </big></span><small><small><sup>[[H3498]]</sup></small></small> &#8207;| no.Tar <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Anakites  | <span class="ashebrew"><big>עֲנָקִ֔ים </big></span><small><small><sup>[[H6062]]</sup></small></small> &#8207;| 'a.na.Kim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] land of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֶ֖רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'E.retz <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| only  | <span class="ashebrew"><big>רַ֗ק </big></span><small><small><sup>[[H7535]]</sup></small></small> &#8207;| Rak <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Gaza  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עַזָּ֛ה </big></span><small><small><sup>[[H5804]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.Zah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Gath  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>גַ֥ת </big></span><small><small><sup>[[H1661]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Gat <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in Ashdod  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אַשְׁדּ֖וֹד </big></span><small><small><sup>[[H0795]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> 'ash.Dod <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they remained  | <span class="ashebrew"><big>נִשְׁאָֽרוּ </big></span><small><small><sup>[[H7604]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| nish.'A.ru <small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was left  |**<big>&#8207;[[H3498\|נוֹתַ֣ר]]&#8207; </big>**| no.Tar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Anakites  |**<big>&#8207;[[H6062\|עֲנָקִ֔ים]]&#8207; </big>**| 'a.na.Kim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  |**<big>&#8207;[[H7535\|רַ֗ק]]&#8207; </big>**| Rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Gaza  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5804\|עַזָּ֛ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Zah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Gath  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1661\|גַ֥ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Gat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Ashdod  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0795\|אַשְׁדּ֖וֹד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'ash.Dod<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they remained  |**<big>&#8207;[[H7604\|נִשְׁאָֽרוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nish.'A.ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.21|<< Joshua 11:21]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.23|Joshua 11:23 >>]]</td></tr></table>
 
 

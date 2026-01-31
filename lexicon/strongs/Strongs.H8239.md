@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁפַת‎</span></big> **shâphath** <small>*(shaw-fath')*</small> ==**to set**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁפַת‎</span></big>** **shâphath** <small>*(shaw-fath')*</small> ==**to set**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bring, ordain, set on.

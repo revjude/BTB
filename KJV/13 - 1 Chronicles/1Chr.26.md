@@ -23,9 +23,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.26.29|29]]**<span class=
 
 [^4]: [[Num.26|Num 26:9-11]]; [[Ps.44|Ps 44:1]], [[Ps.49|Ps 49:1]] *titles
 
-[^5]: <span class="asgreek"><span class='asgreek'>ωΡμξιδ</span></span> (<span class="ashebrew">‎שֶׁלֶמְיָה‎</span><sup><small>[[H8018]]</small></sup>), ***Shelemiah***, is merely an abbreviation of <span class="asgreek"><span class='asgreek'>ξωΡμξιδ</span> </span> (<span class="ashebrew">‎מְשֶׁלֶמְיָה‎</span><sup><small>[[H4920]]</small></sup>), ***Meshelemiah***, by the apheresis of <span class="asgreek"><span class='asgreek'>ξ</span></span>, ***mem***. [[1Chr.26|1Chr 26:14]], Shelemiah
+[^5]: <span class="asgreek"><span class='asgreek'>ωΡμξιδ</span></span> ( [[H8018|‎שֶׁלֶמְיָה‎]] ), ***Shelemiah***, is merely an abbreviation of <span class="asgreek"><span class='asgreek'>ξωΡμξιδ</span> </span> ( [[H4920|‎מְשֶׁלֶמְיָה‎]] ), ***Meshelemiah***, by the apheresis of <span class="asgreek"><span class='asgreek'>ξ</span></span>, ***mem***. [[1Chr.26|1Chr 26:14]], Shelemiah
 
-[^6]: This variation arises from the rejection of the word ***ΰ<span class='asgreek'>α</span>*** (<span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup>), ***av***, "father," and the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, into ***ΰ***, ***aleph***; being written in the parallel passages ***ΰ<span class='asgreek'>αιρσ</span>*** (<span class="ashebrew">‎אֶבְיָסָף‎</span><sup><small>[[H0043]]</small></sup>), ***Ebiasaph***, and here ***ΰ<span class='asgreek'>ρσ</span>*** (<span class="ashebrew">‎אָסָף‎</span><sup><small>[[H0623]]</small></sup>), ***Asaph***. [[1Chr.6|1Chr 6:37]], [[1Chr.9|1Chr 9:19]], Ebiasaph
+[^6]: This variation arises from the rejection of the word ***ΰ<span class='asgreek'>α</span>*** ( [[H0001|‎אָב‎]] ), ***av***, "father," and the mutation of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, into ***ΰ***, ***aleph***; being written in the parallel passages ***ΰ<span class='asgreek'>αιρσ</span>*** ( [[H0043|‎אֶבְיָסָף‎]] ), ***Ebiasaph***, and here ***ΰ<span class='asgreek'>ρσ</span>*** ( [[H0623|‎אָסָף‎]] ), ***Asaph***. [[1Chr.6|1Chr 6:37]], [[1Chr.9|1Chr 9:19]], Ebiasaph
 
 [^7]: [[1Chr.15|1Chr 15:18]], [[1Chr.15|1Chr 15:21]], [[1Chr.15|1Chr 15:24]], [[1Chr.16|1Chr 16:5]], [[1Chr.16|1Chr 16:38]]
 
@@ -49,7 +49,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.26.29|29]]**<span class=
 
 [^17]: [[1Chr.26|1Chr 26:2]]
 
-[^18]: Heb. gatherings, (<span class="ashebrew">‎אָסֻף‎</span><sup><small>[[H0624]]</small></sup>), [[1Chr.26|1Chr 26:17]]; [[2Chr.25|2Chr 25:24]]; [[Neh.12|Neh 12:25]]; [[Eccl.12|Eccl 12:11]]; Or collections; probably the place where either the supplies of the porters, or the offerings made for the priests and Levites, were laid up. Obed–edom is said to have had the charge of the treasures, etc., in [[2Chr.25|2Chr 25:24]].
+[^18]: Heb. gatherings, ( [[H0624|‎אָסֻף‎]] ), [[1Chr.26|1Chr 26:17]]; [[2Chr.25|2Chr 25:24]]; [[Neh.12|Neh 12:25]]; [[Eccl.12|Eccl 12:11]]; Or collections; probably the place where either the supplies of the porters, or the offerings made for the priests and Levites, were laid up. Obed–edom is said to have had the charge of the treasures, etc., in [[2Chr.25|2Chr 25:24]].
 
 [^19]: [[1Chr.26|1Chr 26:10-11]]
 
@@ -63,9 +63,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.26.29|29]]**<span class=
 
 [^24]: [[1Chr.26|1Chr 26:15]]
 
-[^25]: i.e. the outside place; he annulled the corn; a quarter of Jerusalem (Strong), (<span class="ashebrew">‎פַּרְבָּר‎</span><sup><small>[[H6503]]</small></sup>), [[1Chr.26|1Chr 26:18]], Also, [[2Kgs.23|2Kgs 23:11]] ***Parbar*** is most probably the same as ***parwar***, which denotes suburbs ([[2Kgs.23|2Kgs 23:11]]), in which sense it is often used in the Chaldee Targums; and consequently this may be considered as leading to the suburbs.
+[^25]: i.e. the outside place; he annulled the corn; a quarter of Jerusalem (Strong), ( [[H6503|‎פַּרְבָּר‎]] ), [[1Chr.26|1Chr 26:18]], Also, [[2Kgs.23|2Kgs 23:11]] ***Parbar*** is most probably the same as ***parwar***, which denotes suburbs ([[2Kgs.23|2Kgs 23:11]]), in which sense it is often used in the Chaldee Targums; and consequently this may be considered as leading to the suburbs.
 
-[^26]: Kore, or rather, ***Korhi***, <span class="asgreek"><span class='asgreek'>χψηι</span></span> (<span class="ashebrew">‎קׇרְחִי‎</span><sup><small>[[H7145]]</small></sup>), is essentially the same with <span class="asgreek"><span class='asgreek'>χψη</span></span> (<span class="ashebrew">‎קֹרַח‎</span><sup><small>[[H7141]]</small></sup>), ***Korah***, merely having a paragogic <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[Num.16|Num 16:11]], Korah
+[^26]: Kore, or rather, ***Korhi***, <span class="asgreek"><span class='asgreek'>χψηι</span></span> ( [[H7145|‎קׇרְחִי‎]] ), is essentially the same with <span class="asgreek"><span class='asgreek'>χψη</span></span> ( [[H7141|‎קֹרַח‎]] ), ***Korah***, merely having a paragogic <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[Num.16|Num 16:11]], Korah
 
 [^27]: [[1Chr.26|1Chr 26:22]], [[1Chr.9|1Chr 9:26-30]], [[1Chr.22|1Chr 22:3-4]], [[1Chr.22|1Chr 22:14-16]], [[1Chr.28|1Chr 28:12-19]], [[1Chr.29|1Chr 29:2-8]]; [[1Kgs.14|1Kgs 14:26]], [[1Kgs.15|1Kgs 15:18]]; [[Mal.3|Mal 3:10]]
 
@@ -73,13 +73,13 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.26.29|29]]**<span class=
 
 [^29]: [[1Chr.6|1Chr 6:17]], Libni, [[1Chr.23|1Chr 23:7]]
 
-[^30]: ***Jehieli***, <span class="asgreek"><span class='asgreek'>ιηι</span>ΰ<span class='asgreek'>μι</span></span> (<span class="ashebrew">‎יְחִיאֵלִי‎</span><sup><small>[[H3172]]</small></sup>), is the same as ***Jehiel***, <span class="asgreek"><span class='asgreek'>ιηι</span>ΰ<span class='asgreek'>μ</span></span> (<span class="ashebrew">‎יְחִיאֵל‎</span><sup><small>[[H3171]]</small></sup>), with the addition of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[1Chr.23|1Chr 23:8]], [[1Chr.29|1Chr 29:8]], Jehiel
+[^30]: ***Jehieli***, <span class="asgreek"><span class='asgreek'>ιηι</span>ΰ<span class='asgreek'>μι</span></span> ( [[H3172|‎יְחִיאֵלִי‎]] ), is the same as ***Jehiel***, <span class="asgreek"><span class='asgreek'>ιηι</span>ΰ<span class='asgreek'>μ</span></span> ( [[H3171|‎יְחִיאֵל‎]] ), with the addition of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***. [[1Chr.23|1Chr 23:8]], [[1Chr.29|1Chr 29:8]], Jehiel
 
 [^31]: [[1Chr.26|1Chr 26:20]]; [[Neh.10|Neh 10:38]]
 
 [^32]: [[1Chr.23|1Chr 23:12]]; [[Num.3|Num 3:19]], [[Num.3|Num 3:27]]
 
-[^33]: The difference between <span class="asgreek"><span class='asgreek'>ωΡεα</span>ΰ<span class='asgreek'>μ</span></span> (<span class="ashebrew">‎שְׁבוּאֵל‎</span><sup><small>[[H7619]]</small></sup>), ***Shubael***, and <span class="asgreek"><span class='asgreek'>ωΡα</span>ΰ<span class='asgreek'>μ</span> </span> (<span class="ashebrew">‎שְׁבוּאֵל‎</span><sup><small>[[H7619]]</small></sup>), ***Shebuel***, simply arises from the elision of <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav*** and a change of vowels. [[1Chr.23|1Chr 23:15-16]], [[1Chr.24|1Chr 24:20]], Shubael
+[^33]: The difference between <span class="asgreek"><span class='asgreek'>ωΡεα</span>ΰ<span class='asgreek'>μ</span></span> ( [[H7619|‎שְׁבוּאֵל‎]] ), ***Shubael***, and <span class="asgreek"><span class='asgreek'>ωΡα</span>ΰ<span class='asgreek'>μ</span> </span> ( [[H7619|‎שְׁבוּאֵל‎]] ), ***Shebuel***, simply arises from the elision of <span class="asgreek"><span class='asgreek'>ε</span></span>, ***wav*** and a change of vowels. [[1Chr.23|1Chr 23:15-16]], [[1Chr.24|1Chr 24:20]], Shubael
 
 [^34]: [[1Chr.23|1Chr 23:15]]; [[Exod.18|Exod 18:4]]
 

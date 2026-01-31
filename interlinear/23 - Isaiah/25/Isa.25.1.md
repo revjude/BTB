@@ -6,21 +6,21 @@ O LORD, You are my God! I will exalt You; I will praise Your name. For You have 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.23|<< Isaiah 24:23]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.2|Isaiah 25:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] God my  | <span class="ashebrew"><big>אֱלֹהַ </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'e.lo.Ha <small><sup>[[HNcmpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַתָּ֔ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will exalt you  | <span class="ashebrew"><big>אֲרֽוֹמִמְ </big></span><small><small><sup>[[H7311A]]</sup></small></small> <span class="ashebrew"><big>ךָ֙ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.ro.mi. <small><sup>[[HVpi1cs]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will give thanks to  | <span class="ashebrew"><big>אוֹדֶ֣ה </big></span><small><small><sup>[[H3034]]</sup></small></small> &#8207;| 'o.Deh <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שִׁמְ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| shim. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have done  | <span class="ashebrew"><big>עָשִׂ֖יתָ </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'a.Si.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wonder[s]  | <span class="ashebrew"><big>פֶּ֑לֶא </big></span><small><small><sup>[[H6382]]</sup></small></small> &#8207;| Pe.le' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| plans  | <span class="ashebrew"><big>עֵצ֥וֹת </big></span><small><small><sup>[[H6098]]</sup></small></small> &#8207;| e.Tzot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from distant [time]  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רָח֖וֹק </big></span><small><small><sup>[[H7350]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> ra.Chok <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness  | <span class="ashebrew"><big>אֱמ֥וּנָה </big></span><small><small><sup>[[H0530]]</sup></small></small> &#8207;| 'e.Mu.nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness  | <span class="ashebrew"><big>אֹֽמֶן </big></span><small><small><sup>[[H0544]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'O.men <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֔ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will exalt you  |**<big>&#8207;[[H7311A\|אֲרֽוֹמִמְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'a.ro.mi.<small><sup>[[HVpi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give thanks to  |**<big>&#8207;[[H3034\|אוֹדֶ֣ה]]&#8207; </big>**| 'o.Deh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have done  |**<big>&#8207;[[H6213A\|עָשִׂ֖יתָ]]&#8207; </big>**| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wonder[s]  |**<big>&#8207;[[H6382\|פֶּ֑לֶא]]&#8207; </big>**| Pe.le'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plans  |**<big>&#8207;[[H6098\|עֵצ֥וֹת]]&#8207; </big>**| e.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from distant [time]  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H7350\|רָח֖וֹק]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness  |**<big>&#8207;[[H0530\|אֱמ֥וּנָה]]&#8207; </big>**| 'e.Mu.nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness  |**<big>&#8207;[[H0544\|אֹֽמֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'O.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.23|<< Isaiah 24:23]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.2|Isaiah 25:2 >>]]</td></tr></table>
 
 

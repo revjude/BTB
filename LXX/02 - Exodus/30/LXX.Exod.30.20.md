@@ -7,32 +7,32 @@ When they go into the tabernacle of the congregation, they shall wash with water
 Whenever they enter the Tent of Meeting or approach the altar to minister by presenting a food offering to the LORD, they must wash with water so that they will not die.<small><sub>**MT:**</sub></small>
 [[Exod.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.19|<< Exodus 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.21|Exodus 30:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| they should enter | <big><span class="asgreek">εισπορεύωνται</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| testimony | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| they shall wash | <big><span class="asgreek">νίψονται</span></big> <sup><small><small>[[G3538]]</small></small></sup> |
-| in water, | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they die. | <big><span class="asgreek">αποθάνωσιν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| they should go | <big><span class="asgreek">προσπορεύωνται</span></big> <sup><small><small>[[G4365]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| to officiate | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to offer | <big><span class="asgreek">αναφέρειν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Whenever | **<big>[[G3752\|όταν]]</big>** |
+| they should enter | **<big>[[G1531\|εισπορεύωνται]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| testimony | **<big>[[G3142\|μαρτυρίου]]</big>** |
+| they shall wash | **<big>[[G3538\|νίψονται]]</big>** |
+| in water, | **<big>[[G5204\|ύδατι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they die. | **<big>[[G0599\|αποθάνωσιν]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| they should go | **<big>[[G4365\|προσπορεύωνται]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| to officiate | **<big>[[G3008\|λειτουργείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to offer | **<big>[[G0399\|αναφέρειν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
 [[Exod.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.19|<< Exodus 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.21|Exodus 30:21 >>]]</td></tr></table>
 
 

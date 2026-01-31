@@ -7,20 +7,20 @@ So we fasted and besought our God for this: and he was intreated of us.
 So we fasted and petitioned our God about this, and He granted our request.<small><sub>**MT:**</sub></small>
 [[Ezra.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.22|<< Ezra 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.24|Ezra 8:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we fasted | <big><span class="asgreek">ενηστεύσαμεν</span></big> <sup><small><small>[[G3522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sought | <big><span class="asgreek">εζητήσαμεν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| this; | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he heeded | <big><span class="asgreek">επήκουσεν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| we fasted | **<big>[[G3522\|ενηστεύσαμεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sought | **<big>[[G2212\|εζητήσαμεν]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our God | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| this; | **<big>[[G3778\|τούτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he heeded | **<big>[[G1873\|επήκουσεν]]</big>** |
+| us. | **<big>[[G1473\|ημών]]</big>** |
 [[Ezra.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.22|<< Ezra 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.24|Ezra 8:24 >>]]</td></tr></table>
 
 

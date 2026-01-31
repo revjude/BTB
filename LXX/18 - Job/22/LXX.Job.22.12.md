@@ -7,19 +7,19 @@ Is it not that the one inhabiting the high \[places\] inspects? and he humbled t
 Is not God as high as the heavens? Look at the highest stars, how lofty they are!<small><sub>**MT:**</sub></small>
 [[Job.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.11|<< Job 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.13|Job 22:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Is it not that | <big><span class="asgreek">μη ουχί</span></big> <sup><small><small>[[G3378]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| high \[places\] | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
-| inhabiting | <big><span class="asgreek">ναίων</span></big> <sup><small><small>[[G8373]]</small></small></sup> |
-| inspects? | <big><span class="asgreek">εφορά</span></big> <sup><small><small>[[G7586]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| insolence | <big><span class="asgreek">ύβρει</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
-| bearing | <big><span class="asgreek">φερομένους</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| he humbled | <big><span class="asgreek">εταπείνωσε</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| Is it not that | **<big>[[G3378\|μη ουχί]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| high \[places\] | **<big>[[G5308\|υψηλά]]</big>** |
+| inhabiting | **<big>[[G8373\|ναίων]]</big>** |
+| inspects? | **<big>[[G7586\|εφορά]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| insolence | **<big>[[G5196\|ύβρει]]</big>** |
+| bearing | **<big>[[G5342\|φερομένους]]</big>** |
+| he humbled | **<big>[[G5013\|εταπείνωσε]]</big>** |
 [[Job.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.11|<< Job 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.13|Job 22:13 >>]]</td></tr></table>
 
 

@@ -10,27 +10,27 @@ In the nine and thirtieth year of Azariah king of Judah began Menahem the son of
 In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.<small><sub>**MT:**</sub></small>
 [[2Kgs.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \[the\] thirtieth | <big><span class="asgreek">τριακοστώ</span></big> <sup><small><small>[[G9482]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ninth | <big><span class="asgreek">εννάτω</span></big> <sup><small><small>[[G1766]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Azariah | <big><span class="asgreek">Αζαρίου</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσε</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Menahem | <big><span class="asgreek">Μαναήμ</span></big> <sup><small><small>[[H4505]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gadi | <big><span class="asgreek">Γαδί</span></big> <sup><small><small>[[H1424]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Samaria | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| year | **<big>[[G2094\|έτει]]</big>** |
+| \[the\] thirtieth | **<big>[[G9482\|τριακοστώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ninth | **<big>[[G1766\|εννάτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Azariah | **<big>[[H5839\|Αζαρίου]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσε]]</big>** |
+| Menahem | **<big>[[H4505\|Μαναήμ]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Gadi | **<big>[[H1424\|Γαδί]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Samaria | **<big>[[G4540\|Σαμαρεία]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| years. | **<big>[[G2094\|έτη]]</big>** |
 [[2Kgs.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
 
 

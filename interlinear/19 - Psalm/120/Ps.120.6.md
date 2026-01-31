@@ -6,15 +6,15 @@ Too long have I dwelt among those who hate peace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.5|<< Psalms 120:5]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.7|Psalms 120:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| much  | <span class="ashebrew"><big>רַ֭בַּת </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| Ra.bat <small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has dwelt  | <span class="ashebrew"><big>שָֽׁכְנָה </big></span><small><small><sup>[[H7931]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| sha.khe.nah- <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> itself  | <span class="ashebrew"><big>לָּ֣ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| la <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self my  | <span class="ashebrew"><big>נַפְשִׁ֑ </big></span><small><small><sup>[[H5315I]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| naf.Sh <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִ֝֗ם </big></span><small><small><sup>[[H5973A]]</sup></small></small> &#8207;| 'Im <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] hates  | <span class="ashebrew"><big>שׂוֹנֵ֥א </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| so.Ne' <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> peace  | <span class="ashebrew"><big>שָׁלֽוֹם </big></span><small><small><sup>[[H7965G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Lom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| much  |**<big>&#8207;[[H7227A\|רַ֭בַּת]]&#8207; </big>**| Ra.bat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has dwelt  |**<big>&#8207;[[H7931\|שָֽׁכְנָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sha.khe.nah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> itself  |**<big>&#8207;[[H9005\|לָּ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  |**<big>&#8207;[[H5315I\|נַפְשִׁ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִ֝֗ם]]&#8207; </big>**| 'Im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] hates  |**<big>&#8207;[[H8130\|שׂוֹנֵ֥א]]&#8207; </big>**| so.Ne'<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> peace  |**<big>&#8207;[[H7965G\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.5|<< Psalms 120:5]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.7|Psalms 120:7 >>]]</td></tr></table>
 
 

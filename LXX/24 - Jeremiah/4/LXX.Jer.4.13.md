@@ -7,25 +7,25 @@ Behold, he shall come up as clouds, and his chariots [shall be] as a whirlwind: 
 Behold, he advances like the clouds, his chariots like the whirlwind. His horses are swifter than eagles. Woe to us, for we are ruined!<small><sub>**MT:**</sub></small>
 [[Jer.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.12|<< Jeremiah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.14|Jeremiah 4:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| he shall ascend, | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a blast | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lighter than | <big><span class="asgreek">κουφότεροι</span></big> <sup><small><small>[[G8080]]</small></small></sup> |
-| eagles | <big><span class="asgreek">αετών</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| \[are\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his horses. | <big><span class="asgreek">ίπποι</span></big> <sup><small><small>[[G2462]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| to us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we are in misery. | <big><span class="asgreek">ταλαιπωρούμεν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a cloud | **<big>[[G3507\|νεφέλη]]</big>** |
+| he shall ascend, | **<big>[[G0305\|αναβήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a blast | **<big>[[G7844\|καταιγίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his chariots | **<big>[[G0716\|άρματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Lighter than | **<big>[[G8080\|κουφότεροι]]</big>** |
+| eagles | **<big>[[G0105\|αετών]]</big>** |
+| \[are\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his horses. | **<big>[[G2462\|ίπποι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| to us, | **<big>[[G1473\|ημίν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| we are in misery. | **<big>[[G5003\|ταλαιπωρούμεν]]</big>** |
 [[Jer.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.12|<< Jeremiah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.14|Jeremiah 4:14 >>]]</td></tr></table>
 
 

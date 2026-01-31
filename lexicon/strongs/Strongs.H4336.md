@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵישַׁךְ‎</span></big> **Mêyshak** <small>*(may-shak')*</small> ==**Meshach**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>(Aramaic) of foreign origin and doubtful significance; name of <span class="ashebrew">‎מִישָׁאֵל‎</span><sup><small>[[H4333]]</small></sup></small>
+**<big><span class="ashebrew">‎מֵישַׁךְ‎</span></big>** **Mêyshak** <small>*(may-shak')*</small> ==**Meshach**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>(Aramaic) of foreign origin and doubtful significance; name of **<big>[[H4333|‎מִישָׁאֵל‎]]</big>**</small>
 
 $\quad$ Meshak.
 - § Meshach = *"guest of the king"*

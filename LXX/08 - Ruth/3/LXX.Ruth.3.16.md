@@ -7,28 +7,28 @@ And when she came to her mother in law, she said, Who [art] thou, my daughter? A
 When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?” Then Ruth told her all that Boaz had done for her.<small><sub>**MT:**</sub></small>
 [[Ruth.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.15|<< Ruth 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.17|Ruth 3:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ruth | <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her mother-in-law. | <big><span class="asgreek">πενθεράν</span></big> <sup><small><small>[[G3994]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And she | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is it, | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| O daughter? | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she reported | <big><span class="asgreek">απήγγειλεν</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ruth | **<big>[[G4503\|Ρουθ]]</big>** |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her mother-in-law. | **<big>[[G3994\|πενθεράν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And she | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| is it, | **<big>[[G1510\|εστι]]</big>** |
+| O daughter? | **<big>[[G2364\|θύγατερ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she reported | **<big>[[G0518\|απήγγειλεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| did | **<big>[[G4160\|εποίησεν]]</big>** |
+| for her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
 [[Ruth.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.15|<< Ruth 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.17|Ruth 3:17 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂכָר‎</span></big> **Sâkâr** <small>*(saw-kar')*</small> ==**Sachar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שָׂכָר‎</span><sup><small>[[H7939]]</small></sup>; recompense</small>
+**<big><span class="ashebrew">‎שָׂכָר‎</span></big>** **Sâkâr** <small>*(saw-kar')*</small> ==**Sachar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7939|‎שָׂכָר‎]]</big>**; recompense</small>
 
 $\quad$ Sacar.
 - § Sacar = *"wages"*

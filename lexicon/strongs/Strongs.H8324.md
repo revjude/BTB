@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁרַר‎</span></big> **shârar** <small>*(shaw-rar')*</small> ==**enemy**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁרַר‎</span></big>** **shârar** <small>*(shaw-rar')*</small> ==**enemy**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ enemy.

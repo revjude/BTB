@@ -14,26 +14,26 @@ This is what the LORD says: “A voice is heard in Ramah, mourning and great wee
 > $\quad$ referenced by: [[Matt.2.18|Matt 2:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Rama | <big><span class="asgreek">Ραμά</span></big> <sup><small><small>[[G4471]]</small></small></sup> |
-| was heard -- | <big><span class="asgreek">ηκούσθη</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| wailing, | <big><span class="asgreek">θρήνος</span></big> <sup><small><small>[[G2355]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weeping, | <big><span class="asgreek">κλαυθμός</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grieving; | <big><span class="asgreek">οδυρμός</span></big> <sup><small><small>[[G3602]]</small></small></sup> |
-| Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> |
-| weeping | <big><span class="asgreek">αποκλαιομένη</span></big> <sup><small><small>[[G6443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for her sons; | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she did not want | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήθελε</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| to be comforted, | <big><span class="asgreek">παρακληθήναι</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they are not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| A voice | **<big>[[G5456\|φωνή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Rama | **<big>[[G4471\|Ραμά]]</big>** |
+| was heard -- | **<big>[[G0191\|ηκούσθη]]</big>** |
+| wailing, | **<big>[[G2355\|θρήνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weeping, | **<big>[[G2805\|κλαυθμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grieving; | **<big>[[G3602\|οδυρμός]]</big>** |
+| Rachel | **<big>[[G4478\|Ραχήλ]]</big>** |
+| weeping | **<big>[[G6443\|αποκλαιομένη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| for her sons; | **<big>[[G5207\|υιούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she did not want | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2309\|ήθελε]]</big>** |
+| to be comforted, | **<big>[[G3870\|παρακληθήναι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they are not. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισίν]]</big>** |
 [[Jer.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.14|<< Jeremiah 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.16|Jeremiah 31:16 >>]]</td></tr></table>
 
 

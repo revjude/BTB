@@ -11,25 +11,25 @@ A voice says, “Cry out!” And I asked, “What should I cry out?” “All fl
 > $\quad$ referenced by: [[Jas.1.10|Jas 1:10-11]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντος</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Yell! | <big><span class="asgreek">βοήσον</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall I yell? | <big><span class="asgreek">βοήσω</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| All | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| \[is as\] grass, | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \[is\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] flower | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
-| of grass. | <big><span class="asgreek">χόρτου</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
+| A voice | **<big>[[G5456\|φωνή]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντος]]</big>** |
+| Yell! | **<big>[[G0994\|βοήσον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| shall I yell? | **<big>[[G0994\|βοήσω]]</big>** |
+| All | **<big>[[G3956\|πάσα]]</big>** |
+| flesh | **<big>[[G4561\|σαρξ]]</big>** |
+| \[is as\] grass, | **<big>[[G5528\|χόρτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \[is\] as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] flower | **<big>[[G0438\|άνθος]]</big>** |
+| of grass. | **<big>[[G5528\|χόρτου]]</big>** |
 [[Isa.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.5|<< Isaiah 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.7|Isaiah 40:7 >>]]</td></tr></table>
 
 

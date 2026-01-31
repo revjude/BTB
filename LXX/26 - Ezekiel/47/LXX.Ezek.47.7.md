@@ -11,22 +11,22 @@ When I arrived, I saw a great number of trees along both banks of the river.<sm
 > $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my turning, | <big><span class="asgreek">επιστροφή</span></big> <sup><small><small>[[G1995]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| edge | <big><span class="asgreek">χείλους</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river \[were\] | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| trees | <big><span class="asgreek">δένδρα</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| on this side and that side. | <big><span class="asgreek">ένθεν και ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my turning, | **<big>[[G1995\|επιστροφή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| edge | **<big>[[G5491\|χείλους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river \[were\] | **<big>[[G4215\|ποταμού]]</big>** |
+| trees | **<big>[[G1186\|δένδρα]]</big>** |
+| many | **<big>[[G4183\|πολλά]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| on this side and that side. | **<big>[[G6033\|ένθεν και ένθεν]]</big>** |
 [[Ezek.47.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.6|<< Ezekiel 47:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.8|Ezekiel 47:8 >>]]</td></tr></table>
 
 

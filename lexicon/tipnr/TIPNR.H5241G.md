@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Nemuel</span> was a son of Eliab and a member of the tribe of Reuben.
 - A man from the tribe of Reuben living at the time of Egypt and Wilderness, only mentioned at [[Num.26.9|Num.26.9]]; 
-- only referred to as Nemuel<[[H5241G]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Eliab<[[H0446H]]>; 
-- a brother of Dathan<[[H1885]]> and Abiram<[[H0048G]]>.
+- only referred to as Nemuel **<big>[[H5241|נְמוּאֵל]]</big>**; 
+-  son of Eliab **<big>[[H0446|אֱלִיאָב]]</big>**; 
+- a brother of Dathan **<big>[[H1885|דָּתָן]]</big>** and Abiram **<big>[[H0048|אֲבִירָם]]</big>**.
 
 Nemuel is briefly mentioned in [[Num.26.9|Numbers 26:9]] as one of the sons of Eliab, who was a descendant of Reuben, the firstborn son of Israel \(or 'Jacob'\). This reference occurs in the context of the census taken by Moses and Eleazar in the plains of Moab, near the end of the Israelites' forty years of wandering in the wilderness. 
 
@@ -20,8 +20,8 @@ The mention of Nemuel in the genealogical record of Reuben serves to provide a c
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nemuel | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5241G) <small>*Hebrew*</small> | 1x | [Num.26.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nemuel\*\|reference=Num.26.9) |
-All Strong's for **Nemuel**: \[[[H5241G]]\]
+| Nemuel | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5241G) | 1x | [Num.26.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nemuel\*\|reference=Num.26.9) |
+All entries for **Nemuel**:  **<big>[[H5241|נְמוּאֵל]]</big>**
 #### Related Profiles:
 - **[Eliab](H0446H)** (father)
 - **[Dathan](H1885)** (sibling)

@@ -7,28 +7,28 @@ Will ye steal, murder, and commit adultery, and swear falsely, and burn incense 
 Will you steal and murder, commit adultery and perjury, burn incense to Baal, and follow other gods that you have not known,<small><sub>**MT:**</sub></small>
 [[Jer.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.8|<< Jeremiah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.10|Jeremiah 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you murder, | <big><span class="asgreek">φονεύετε</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you commit adultery, | <big><span class="asgreek">μοιχάσθε</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| steal, | <big><span class="asgreek">κλέπτετε</span></big> <sup><small><small>[[G2813]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| swear upon an oath | <big><span class="asgreek">ομνύετε</span></big> <sup><small><small>[[G3660]]</small></small></sup> <big><span class="asgreek">επ</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| unjustly, | <big><span class="asgreek">αδίκω</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| burn incense | <big><span class="asgreek">θυμιάτε</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Baal, | <big><span class="asgreek">Βάαλ</span></big> <sup><small><small>[[G0896]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| strange gods | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αλλοτρίων</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know, | <big><span class="asgreek">οίδατε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| you murder, | **<big>[[G5407\|φονεύετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you commit adultery, | **<big>[[G3429\|μοιχάσθε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| steal, | **<big>[[G2813\|κλέπτετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| swear upon an oath | **<big>[[G3660\|ομνύετε]]</big>** **<big>[[G1909\|επ]]</big>** |
+| unjustly, | **<big>[[G0094\|αδίκω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| burn incense | **<big>[[G2370\|θυμιάτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Baal, | **<big>[[G0896\|Βάαλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go | **<big>[[G4198\|πορεύεσθε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| strange gods | **<big>[[G2316\|θεών]]</big>** **<big>[[G0245\|αλλοτρίων]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| you do not | **<big>[[G3756\|ουκ]]</big>** |
+| know, | **<big>[[G1492\|οίδατε]]</big>** |
 [[Jer.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.8|<< Jeremiah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.10|Jeremiah 7:10 >>]]</td></tr></table>
 
 

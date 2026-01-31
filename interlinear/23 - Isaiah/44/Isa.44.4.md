@@ -6,15 +6,15 @@ They will sprout among the grass like willows by flowing streams.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.3|<< Isaiah 44:3]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.5|Isaiah 44:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they will spring up  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>צָמְח֖וּ </big></span><small><small><sup>[[H6779]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> tza.me.Chu <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in between  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בֵ֣ין </big></span><small><small><sup>[[H0996H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Vein <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grass  | <span class="ashebrew"><big>חָצִ֑יר </big></span><small><small><sup>[[H2682A]]</sup></small></small> &#8207;| cha.Tzir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like poplars  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עֲרָבִ֖ים </big></span><small><small><sup>[[H6155H]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.ra.Vim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| watercourses of  | <span class="ashebrew"><big>יִבְלֵי </big></span><small><small><sup>[[H2988]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yiv.lei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מָֽיִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will spring up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6779\|צָמְח֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tza.me.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in between  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0996H\|בֵ֣ין]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grass  |**<big>&#8207;[[H2682A\|חָצִ֑יר]]&#8207; </big>**| cha.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like poplars  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6155H\|עֲרָבִ֖ים]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.ra.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watercourses of  |**<big>&#8207;[[H2988\|יִבְלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yiv.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.3|<< Isaiah 44:3]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.5|Isaiah 44:5 >>]]</td></tr></table>
 
 

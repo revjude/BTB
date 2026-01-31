@@ -7,19 +7,19 @@ Behold, thou [art] fair, my beloved, yea, pleasant: also our bed [is] green.
 How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed.<small><sub>**MT:**</sub></small>
 [[Song.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.15|<< Song of Solomon 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.17|Song of Solomon 1:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| fair, | <big><span class="asgreek">καλός</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| my beloved \[man\]; | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραίος</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| bed | <big><span class="asgreek">κλίνην</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
-| our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shady | <big><span class="asgreek">σύσκιος</span></big> <sup><small><small>[[G9354]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you are | **<big>[[G1510\|ει]]</big>** |
+| fair, | **<big>[[G2570\|καλός]]</big>** |
+| my beloved \[man\]; | **<big>[[G6137\|αδελφιδός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| beautiful | **<big>[[G5611\|ωραίος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| bed | **<big>[[G2825\|κλίνην]]</big>** |
+| our | **<big>[[G1473\|ημών]]</big>** |
+| shady | **<big>[[G9354\|σύσκιος]]</big>** |
 [[Song.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.15|<< Song of Solomon 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.17|Song of Solomon 1:17 >>]]</td></tr></table>
 
 

@@ -10,21 +10,21 @@ For forty years I was angry with that generation, and I said, “They are a peop
 > $\quad$ referenced by: [[Acts.13.18|Acts 13:18]] ☩ [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| forty  | <span class="ashebrew"><big>אַרְבָּ֘עִ֤ים </big></span><small><small><sup>[[H0705]]</sup></small></small> &#8207;| 'ar.Ba.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֨ה </big></span><small><small><sup>[[H8141]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I loathed  | <span class="ashebrew"><big>אָ֘ק֤וּט </big></span><small><small><sup>[[H6962]]</sup></small></small> &#8207;| 'a.Kut <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> a generation  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ד֗וֹר </big></span><small><small><sup>[[H1755]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Dor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I said  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֹמַ֗ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'o.Mar <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a people  | <span class="ashebrew"><big>עַ֤ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] go astray of  | <span class="ashebrew"><big>תֹּעֵ֣י </big></span><small><small><sup>[[H8582]]</sup></small></small> &#8207;| to.'Ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵבָ֣ב </big></span><small><small><sup>[[H3824]]</sup></small></small> &#8207;| le.Vav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  | <span class="ashebrew"><big>הֵ֑ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| Hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֵ֗ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they know  | <span class="ashebrew"><big>יָדְע֥וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ya.de.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ways my  | <span class="ashebrew"><big>דְרָכָֽ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| de.ra.Kha <small><sup>[[HNcbpc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  |**<big>&#8207;[[H0705\|אַרְבָּ֘עִ֤ים]]&#8207; </big>**| 'ar.Ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I loathed  |**<big>&#8207;[[H6962\|אָ֘ק֤וּט]]&#8207; </big>**| 'a.Kut<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a generation  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1755\|ד֗וֹר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֗ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a people  |**<big>&#8207;[[H5971A\|עַ֤ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] go astray of  |**<big>&#8207;[[H8582\|תֹּעֵ֣י]]&#8207; </big>**| to.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3824\|לֵבָ֣ב]]&#8207; </big>**| le.Vav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵ֑ם]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they know  |**<big>&#8207;[[H3045\|יָדְע֥וּ]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ways my  |**<big>&#8207;[[H1870G\|דְרָכָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| de.ra.Kha<small><sup>[[HNcbpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.9|<< Psalms 95:9]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.11|Psalms 95:11 >>]]</td></tr></table>
 
 

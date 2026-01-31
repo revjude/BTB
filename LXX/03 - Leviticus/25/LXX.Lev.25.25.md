@@ -7,33 +7,33 @@ If thy brother be waxen poor, and hath sold away [some] of his possession, and i
 If your brother becomes impoverished and sells some of his property, his nearest of kin may come and redeem what his brother has sold.<small><sub>**MT:**</sub></small>
 [[Lev.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.24|<< Leviticus 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.26|Leviticus 25:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should be in need | <big><span class="asgreek">πένηται</span></big> <sup><small><small>[[G8694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should have sold | <big><span class="asgreek">αποδώται</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| part of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his possession, | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting as next of kin | <big><span class="asgreek">αγχιστεύων</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being near | <big><span class="asgreek">εγγίζων</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall ransom | <big><span class="asgreek">λυτρώσεται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sale | <big><span class="asgreek">πράσιν</span></big> <sup><small><small>[[G8876]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his brother. | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should be in need | **<big>[[G8694\|πένηται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should have sold | **<big>[[G0591\|αποδώται]]</big>** |
+| part of | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his possession, | **<big>[[G2697\|κατασχέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should come | **<big>[[G2064\|έλθη]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| acting as next of kin | **<big>[[G6131\|αγχιστεύων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| being near | **<big>[[G1448\|εγγίζων]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| he shall ransom | **<big>[[G3084\|λυτρώσεται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sale | **<big>[[G8876\|πράσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of his brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Lev.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.24|<< Leviticus 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.26|Leviticus 25:26 >>]]</td></tr></table>
 
 

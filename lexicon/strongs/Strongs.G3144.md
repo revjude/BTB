@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎μάρτυς‎</span></big> **mártys** <small>*(mar'-toos)*</small> ==**witness**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+**<big><span class="asgreek">‎μάρτυς‎</span></big>** **mártys** <small>*(mar'-toos)*</small> ==**witness**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
 <small>of uncertain affinity</small>
 
 $\quad$  martyr, record, witness.

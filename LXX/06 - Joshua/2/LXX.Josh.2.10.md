@@ -7,45 +7,45 @@ For we have heard how the LORD dried up the water of the Red sea for you, when y
 For we have heard how the LORD dried up the waters of the Red Sea before you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites across the Jordan, whom you devoted to destruction.<small><sub>**MT:**</sub></small>
 [[Josh.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.9|<< Joshua 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.11|Joshua 2:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For we have heard | <big><span class="asgreek">ακηκόαμεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| totally dried up | <big><span class="asgreek">κατεξήρανε</span></big> <sup><small><small>[[G7883]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| red | <big><span class="asgreek">ερυθράν</span></big> <sup><small><small>[[G2063]]</small></small></sup> |
-| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| your face, | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
-| you went forth | <big><span class="asgreek">εξεπορεύεσθε</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλεύσι</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amorites, | <big><span class="asgreek">Αμορραίων</span></big> <sup><small><small>[[H0567]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan, | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sihon | <big><span class="asgreek">Σηών</span></big> <sup><small><small>[[H5511]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Og, | <big><span class="asgreek">Ωγ</span></big> <sup><small><small>[[H5747]]</small></small></sup> |
-| of which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you utterly destroyed | <big><span class="asgreek">εξωλοθρεύσατε</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For we have heard | **<big>[[G0191\|ακηκόαμεν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| totally dried up | **<big>[[G7883\|κατεξήρανε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| red | **<big>[[G2063\|ερυθράν]]</big>** |
+| before | **<big>[[G0575\|από]]</big>** |
+| your face, | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| when | **<big>[[G3753\|ότε]]</big>** |
+| you went forth | **<big>[[G1607\|εξεπορεύεσθε]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| you did | **<big>[[G4160\|εποιήσατε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| kings | **<big>[[G0935\|βασιλεύσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Amorites, | **<big>[[H0567\|Αμορραίων]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan, | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Sihon | **<big>[[H5511\|Σηών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Og, | **<big>[[H5747\|Ωγ]]</big>** |
+| of which | **<big>[[G3739\|ους]]</big>** |
+| you utterly destroyed | **<big>[[G1842\|εξωλοθρεύσατε]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Josh.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.9|<< Joshua 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.11|Joshua 2:11 >>]]</td></tr></table>
 
 

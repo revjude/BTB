@@ -7,30 +7,30 @@ And the LORD shall be seen over them, and his arrow shall go forth as the lightn
 Then the LORD will appear over them, and His arrow will go forth like lightning. The Lord GOD will sound the ram’s horn and advance in the whirlwinds of the south.<small><sub>**MT:**</sub></small>
 [[Zech.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.13|<< Zechariah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.15|Zechariah 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be seen | <big><span class="asgreek">οφθήσεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| lightning | <big><span class="asgreek">αστραπή</span></big> <sup><small><small>[[G0796]]</small></small></sup> |
-| his arrow | <big><span class="asgreek">βολίς</span></big> <sup><small><small>[[G1002]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a trumpet | <big><span class="asgreek">σάλπιγγι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| shall trump, | <big><span class="asgreek">σαλπιεί</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| goes | <big><span class="asgreek">πορεύεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| tossing about | <big><span class="asgreek">σάλω</span></big> <sup><small><small>[[G4535]]</small></small></sup> |
-| his intimidation | <big><span class="asgreek">απειλής</span></big> <sup><small><small>[[G0547]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| shall be seen | **<big>[[G3708\|οφθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| lightning | **<big>[[G0796\|αστραπή]]</big>** |
+| his arrow | **<big>[[G1002\|βολίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a trumpet | **<big>[[G4536\|σάλπιγγι]]</big>** |
+| shall trump, | **<big>[[G4537\|σαλπιεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| goes | **<big>[[G4198\|πορεύεται]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| tossing about | **<big>[[G4535\|σάλω]]</big>** |
+| his intimidation | **<big>[[G0547\|απειλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Zech.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.13|<< Zechariah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.15|Zechariah 9:15 >>]]</td></tr></table>
 
 

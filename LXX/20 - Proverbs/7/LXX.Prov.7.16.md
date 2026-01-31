@@ -7,17 +7,17 @@ I have decked my bed with coverings of tapestry, with carved [works], with fine 
 I have decked my bed with coverings, with colored linen from Egypt.<small><sub>**MT:**</sub></small>
 [[Prov.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.15|<< Proverbs 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.17|Proverbs 7:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In trimming, | <big><span class="asgreek">κειρίαις</span></big> <sup><small><small>[[G2750]]</small></small></sup> |
-| I have stretched | <big><span class="asgreek">τέτακα</span></big> <sup><small><small>[[G9407]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bed. | <big><span class="asgreek">κλίνην</span></big> <sup><small><small>[[G2825]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| spreads | <big><span class="asgreek">αμφιτάποις</span></big> <sup><small><small>[[G6269]]</small></small></sup> |
-| I spread | <big><span class="asgreek">διέστρωσα</span></big> <sup><small><small>[[G6883]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| In trimming, | **<big>[[G2750\|κειρίαις]]</big>** |
+| I have stretched | **<big>[[G9407\|τέτακα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my bed. | **<big>[[G2825\|κλίνην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| spreads | **<big>[[G6269\|αμφιτάποις]]</big>** |
+| I spread | **<big>[[G6883\|διέστρωσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Prov.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.15|<< Proverbs 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.17|Proverbs 7:17 >>]]</td></tr></table>
 
 

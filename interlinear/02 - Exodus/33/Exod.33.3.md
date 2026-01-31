@@ -6,25 +6,25 @@ Go up to a land flowing with milk and honey. But I will not go with you, because
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.2|<< Exodus 33:2]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.4|Exodus 33:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a land  | <span class="ashebrew"><big>אֶ֛רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'E.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flowing of  | <span class="ashebrew"><big>זָבַ֥ת </big></span><small><small><sup>[[H2100G]]</sup></small></small> &#8207;| za.Vat <small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| milk  | <span class="ashebrew"><big>חָלָ֖ב </big></span><small><small><sup>[[H2461]]</sup></small></small> &#8207;| cha.Lav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and honey  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דְבָ֑שׁ </big></span><small><small><sup>[[H1706]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> de.Vash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי֩ </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֨א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will go up  | <span class="ashebrew"><big>אֶֽעֱלֶ֜ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'e.'e.Leh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in midst your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קִרְבְּ </big></span><small><small><sup>[[H7130G]]</sup></small></small> <span class="ashebrew"><big>ךָ֗ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> kir.be. <small><sup>[[HNcmsc]]</sup></small> Cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] a people  | <span class="ashebrew"><big>עַם </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'am- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stiff of  | <span class="ashebrew"><big>קְשֵׁה </big></span><small><small><sup>[[H7186]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.sheh- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neck  | <span class="ashebrew"><big>עֹ֙רֶף֙ </big></span><small><small><sup>[[H6203]]</sup></small></small> &#8207;| 'o.ref <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you  | <span class="ashebrew"><big>אַ֔תָּה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'A.tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lest  | <span class="ashebrew"><big>פֶּן </big></span><small><small><sup>[[H6435]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pen- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I should make an end of you  | <span class="ashebrew"><big>אֲכֶלְ </big></span><small><small><sup>[[H3615H]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| 'a.khel. <small><sup>[[HVpi1cs]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the journey  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דָּֽרֶךְ </big></span><small><small><sup>[[H1870L]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Da.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a land  |**<big>&#8207;[[H0776G\|אֶ֛רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flowing of  |**<big>&#8207;[[H2100G\|זָבַ֥ת]]&#8207; </big>**| za.Vat<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| milk  |**<big>&#8207;[[H2461\|חָלָ֖ב]]&#8207; </big>**| cha.Lav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and honey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1706\|דְבָ֑שׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֨א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go up  |**<big>&#8207;[[H5927G\|אֶֽעֱלֶ֜ה]]&#8207; </big>**| 'e.'e.Leh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבְּ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.be.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a people  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stiff of  |**<big>&#8207;[[H7186\|קְשֵׁה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.sheh-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neck  |**<big>&#8207;[[H6203\|עֹ֙רֶף֙]]&#8207; </big>**| 'o.ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַ֔תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I should make an end of you  |**<big>&#8207;[[H3615H\|אֲכֶלְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| 'a.khel.<small><sup>[[HVpi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the journey  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1870L\|דָּֽרֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.2|<< Exodus 33:2]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.4|Exodus 33:4 >>]]</td></tr></table>
 
 

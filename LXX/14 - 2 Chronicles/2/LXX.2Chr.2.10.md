@@ -7,42 +7,42 @@ And, behold, I will give to thy servants, the hewers that cut timber, twenty tho
 I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”<small><sub>**MT:**</sub></small>
 [[2Chr.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.9|<< 2 Chronicles 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.11|2 Chronicles 2:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| working | <big><span class="asgreek">εργαζομένοις</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| in the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| felling | <big><span class="asgreek">κόπτουσι</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| timbers, | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| foods | <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
-| I have given | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| grain | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| gifts | <big><span class="asgreek">δόματα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your servants | <big><span class="asgreek">παισί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of cors | <big><span class="asgreek">κόρων</span></big> <sup><small><small>[[G2884]]</small></small></sup> |
-| of wheat -- | <big><span class="asgreek">πυρού</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| barley | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
-| cors -- | <big><span class="asgreek">κόρων</span></big> <sup><small><small>[[G2884]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| measures -- | <big><span class="asgreek">μέτρων</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand, | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| measures -- | <big><span class="asgreek">μέτρων</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| thousand. | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| working | **<big>[[G2038\|εργαζομένοις]]</big>** |
+| in the | **<big>[[G3588\|τοις]]</big>** |
+| felling | **<big>[[G2875\|κόπτουσι]]</big>** |
+| timbers, | **<big>[[G3586\|ξύλα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| foods | **<big>[[G1033\|βρώματα]]</big>** |
+| I have given | **<big>[[G1325\|δέδωκα]]</big>** |
+| grain | **<big>[[G4621\|σίτον]]</big>** |
+| as | **<big>[[G1519\|εις]]</big>** |
+| gifts | **<big>[[G1390\|δόματα]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your servants | **<big>[[G3816\|παισί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of cors | **<big>[[G2884\|κόρων]]</big>** |
+| of wheat -- | **<big>[[G8994\|πυρού]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| barley | **<big>[[G2915\|κριθών]]</big>** |
+| cors -- | **<big>[[G2884\|κόρων]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνου]]</big>** |
+| measures -- | **<big>[[G3358\|μέτρων]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand, | **<big>[[G5505\|χιλιάδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil | **<big>[[G1637\|ελαίου]]</big>** |
+| measures -- | **<big>[[G3358\|μέτρων]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| thousand. | **<big>[[G5505\|χιλιάδας]]</big>** |
 [[2Chr.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.9|<< 2 Chronicles 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.11|2 Chronicles 2:11 >>]]</td></tr></table>
 
 

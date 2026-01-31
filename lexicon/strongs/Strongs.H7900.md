@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֹׂךְ‎</span></big> **sôk** <small>*(soke)*</small> ==**booth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎סָכַךְ‎</span><sup><small>[[H5526]]</small></sup> in the sense of <span class="ashebrew">‎שׂוּךְ‎</span><sup><small>[[H7753]]</small></sup></small>
+**<big><span class="ashebrew">‎שֹׂךְ‎</span></big>** **sôk** <small>*(soke)*</small> ==**booth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5526|‎סָכַךְ‎]]</big>** in the sense of **<big>[[H7753|‎שׂוּךְ‎]]</big>**</small>
 
 $\quad$ tabernacle.
 - ***a booth*** (as interlaced)

@@ -6,14 +6,14 @@ He spreads the snow like wool; He scatters the frost like ashes;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.15|<< Psalms 147:15]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.17|Psalms 147:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the [one who] gives  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>נֹּתֵ֣ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> no.Ten <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| snow  | <span class="ashebrew"><big>שֶׁ֣לֶג </big></span><small><small><sup>[[H7950]]</sup></small></small> &#8207;| She.leg <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> wool  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>צָּ֑מֶר </big></span><small><small><sup>[[H6785]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> Tza.mer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| frost  | <span class="ashebrew"><big>כְּ֝פ֗וֹר </big></span><small><small><sup>[[H3713B]]</sup></small></small> &#8207;| ke.For <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> ash[es]  | <span class="ashebrew"><big>כָּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֵ֥פֶר </big></span><small><small><sup>[[H0665]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> 'E.fer <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he scatters  | <span class="ashebrew"><big>יְפַזֵּֽר </big></span><small><small><sup>[[H6340]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.fa.Zer <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one who] gives  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5414G\|נֹּתֵ֣ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| snow  |**<big>&#8207;[[H7950\|שֶׁ֣לֶג]]&#8207; </big>**| She.leg<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> wool  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6785\|צָּ֑מֶר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Tza.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| frost  |**<big>&#8207;[[H3713B\|כְּ֝פ֗וֹר]]&#8207; </big>**| ke.For<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> ash[es]  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0665\|אֵ֥פֶר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'E.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he scatters  |**<big>&#8207;[[H6340\|יְפַזֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.fa.Zer<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.15|<< Psalms 147:15]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.17|Psalms 147:17 >>]]</td></tr></table>
 
 

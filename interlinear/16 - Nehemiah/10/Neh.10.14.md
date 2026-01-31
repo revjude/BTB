@@ -6,16 +6,16 @@ And the leaders of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.13|<< Nehemiah 10:13]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.15|Nehemiah 10:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] leaders of  | <span class="ashebrew"><big>רָאשֵׁ֖י </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>עָ֑ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Parosh  | <span class="ashebrew"><big>פַּרְעֹשׁ֙ </big></span><small><small><sup>[[H6551J]]</sup></small></small> &#8207;| par.'Osh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pahath-  | <span class="ashebrew"><big>פַּחַ֣ת </big></span><small><small><sup>[[H6355I]]</sup></small></small> &#8207;| pa.Chat <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָ֔ב </big></span><small><small><sup>[[H6355I]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elam  | <span class="ashebrew"><big>עֵילָ֥ם </big></span><small><small><sup>[[H5867I]]</sup></small></small> &#8207;| 'ei.Lam <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zattu  | <span class="ashebrew"><big>זַתּ֖וּא </big></span><small><small><sup>[[H2240H]]</sup></small></small> &#8207;| za.Tu' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bani  | <span class="ashebrew"><big>בָּנִֽי </big></span><small><small><sup>[[H1137N]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba.Ni <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֖י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Parosh  |**<big>&#8207;[[H6551J\|פַּרְעֹשׁ֙]]&#8207; </big>**| par.'Osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pahath-  |**<big>&#8207;[[H6355I\|פַּחַ֣ת]]&#8207; </big>**| pa.Chat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H6355I\|מוֹאָ֔ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elam  |**<big>&#8207;[[H5867I\|עֵילָ֥ם]]&#8207; </big>**| 'ei.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zattu  |**<big>&#8207;[[H2240H\|זַתּ֖וּא]]&#8207; </big>**| za.Tu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bani  |**<big>&#8207;[[H1137N\|בָּנִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.13|<< Nehemiah 10:13]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.15|Nehemiah 10:15 >>]]</td></tr></table>
 
 

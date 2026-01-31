@@ -7,26 +7,26 @@ And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another pl
 “Please come,” said Balak, “I will take you to another place. Perhaps it will please God that you curse them for me from there.”<small><sub>**MT:**</sub></small>
 [[Num.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.28|Numbers 23:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Balak said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Balaam, | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
-| Come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
-| I should take | <big><span class="asgreek">παραλάβω</span></big> <sup><small><small>[[G3880]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| another | <big><span class="asgreek">άλλον</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it should please | <big><span class="asgreek">αρέση</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| curse | <big><span class="asgreek">κατάρασαί</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| him for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there! | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Balak said | **<big>[[G2036\|είπε]]</big>** **<big>[[G0904\|Βαλαάκ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Balaam, | **<big>[[G0903\|Βαλαάμ]]</big>** |
+| Come, | **<big>[[G1204\|δεύρο]]</big>** |
+| I should take | **<big>[[G3880\|παραλάβω]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| another | **<big>[[G0243\|άλλον]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| it should please | **<big>[[G0700\|αρέση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| God, | **<big>[[G2316\|θεώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| curse | **<big>[[G2672\|κατάρασαί]]</big>** |
+| him for me | **<big>[[G1473\|μοι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| from there! | **<big>[[G1564\|εκείθεν]]</big>** |
 [[Num.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.28|Numbers 23:28 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹז‎</span></big> **ʻôz** <small>*(oze)*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (fully) <span class="ashebrew">עוֹז</span> **ʻôwz** <small>*(oze)*</small>; from <span class="ashebrew">‎עָזַז‎</span><sup><small>[[H5810]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹז‎</span></big>** **ʻôz** <small>*(oze)*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (fully) **<big><span class="ashebrew">עוֹז</span></big>** **ʻôwz** <small>*(oze)*</small>; from **<big>[[H5810|‎עָזַז‎]]</big>**</small>
 
 $\quad$ boldness, loud, might, power, strength, strong.
 - ***strength*** in various applications (force, security, majesty, praise)
@@ -8,4 +8,4 @@ $\quad$ boldness, loud, might, power, strength, strong.
 $\quad$ **1a)** material or physical
 $\quad$ **1b)** personal or social or political
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγιωσύνη</span><sup><small>[[G0042]]</small></sup> · <span class="asgreek">αἶνος</span><sup><small>[[G0136]]</small></sup> · <span class="asgreek">ἀντίληψις</span><sup><small>[[G0484]]</small></sup> · <span class="asgreek">ἁρμόζω</span><sup><small>[[G0718]]</small></sup> · <span class="asgreek">βοήθεια</span><sup><small>[[G0996]]</small></sup> · <span class="asgreek">βοηθός</span><sup><small>[[G0998]]</small></sup> · <span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">κράτος</span><sup><small>[[G2904]]</small></sup> · <span class="asgreek">ὀχύρωμα</span><sup><small>[[G3794]]</small></sup> · <span class="asgreek">τιμή</span><sup><small>[[G5092]]</small></sup> · <span class="asgreek">ὑψηλός</span><sup><small>[[G5308]]</small></sup>
+<small>See Greek: </small>**<big>[[G0042|ἁγιωσύνη]]</big>** · **<big>[[G0136|αἶνος]]</big>** · **<big>[[G0484|ἀντίληψις]]</big>** · **<big>[[G0718|ἁρμόζω]]</big>** · **<big>[[G0996|βοήθεια]]</big>** · **<big>[[G0998|βοηθός]]</big>** · **<big>[[G1391|δόξα]]</big>** · **<big>[[G1411|δύναμις]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G2904|κράτος]]</big>** · **<big>[[G3794|ὀχύρωμα]]</big>** · **<big>[[G5092|τιμή]]</big>** · **<big>[[G5308|ὑψηλός]]</big>**

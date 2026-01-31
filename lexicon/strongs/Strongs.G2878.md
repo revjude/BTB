@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎κορβᾶν‎</span></big> **korbân** <small>*(kor-ban')*</small> ==**Corban**==  <sup><small>[[TEGMC#H:N|H:N]]</small></sup> 
-<small>of Hebrew and Chaldee origin respectively (<span class="ashebrew">‎קׇרְבָּן‎</span><sup><small>[[H7133]]</small></sup>)</small>
+**<big><span class="asgreek">‎κορβᾶν‎</span></big>** **korbân** <small>*(kor-ban')*</small> ==**Corban**==  <sup><small>[[TEGMC#H:N|H:N]]</small></sup> 
+<small>of Hebrew and Chaldee origin respectively (**<big>[[H7133|‎קׇרְבָּן‎]]</big>**)</small>
 
 $\quad$ Corban, treasury.
 - a votive offering and the offering

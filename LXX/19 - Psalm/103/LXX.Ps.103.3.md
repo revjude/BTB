@@ -7,18 +7,18 @@ Who forgiveth all thine iniquities; who healeth all thy diseases;
 He who forgives all your iniquities and heals all your diseases,<small><sub>**MT:**</sub></small>
 [[Ps.103.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.2|<< Psalm 103:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.4|Psalm 103:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| propitiating | <big><span class="asgreek">ευιλατεύοντα</span></big> <sup><small><small>[[G7544]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lawlessnesses; | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| healing | <big><span class="asgreek">ιώμενον</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your diseases; | <big><span class="asgreek">νόσους</span></big> <sup><small><small>[[G3554]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| propitiating | **<big>[[G7544\|ευιλατεύοντα]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your lawlessnesses; | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| healing | **<big>[[G2390\|ιώμενον]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your diseases; | **<big>[[G3554\|νόσους]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.103.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.2|<< Psalm 103:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.4|Psalm 103:4 >>]]</td></tr></table>
 
 

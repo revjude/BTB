@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָדַר‎</span></big> **hâdar** <small>*(haw-dar')*</small> ==**to honor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎הָדַר‎</span></big>** **hâdar** <small>*(haw-dar')*</small> ==**to honor**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ countenance, crooked place, glorious, honour, put forth.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ $\quad$ **1a3a)** adorned (pass participle)
 $\quad$ **1b)** (Niphal) to be honoured
 $\quad$ **1c)** (Hithpael) to honour oneself, claim honour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δοξάζω</span><sup><small>[[G1392]]</small></sup> · <span class="asgreek">εὐλογέω</span><sup><small>[[G2127]]</small></sup> · <span class="asgreek">θαυμάζω</span><sup><small>[[G2296]]</small></sup> · <span class="asgreek">τιμάω</span><sup><small>[[G5091]]</small></sup>
+<small>See Greek: </small>**<big>[[G1392|δοξάζω]]</big>** · **<big>[[G2127|εὐλογέω]]</big>** · **<big>[[G2296|θαυμάζω]]</big>** · **<big>[[G5091|τιμάω]]</big>**

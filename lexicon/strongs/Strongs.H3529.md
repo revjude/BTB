@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎כְּבָר‎</span></big> **Kᵉbâr** <small>*(keb-awr')*</small> ==**Chebar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎כְּבָר‎</span><sup><small>[[H3528]]</small></sup>; length</small>
+**<big><span class="ashebrew">‎כְּבָר‎</span></big>** **Kᵉbâr** <small>*(keb-awr')*</small> ==**Chebar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3528|‎כְּבָר‎]]</big>**; length</small>
 
-$\quad$ Chebar. Compare <span class="ashebrew">‎חָבוֹר‎</span><sup><small>[[H2249]]</small></sup>.
+$\quad$ Chebar. Compare **<big>[[H2249|‎חָבוֹר‎]]</big>**.
 - § Chebar = *"far-off"*
 - ***Kebar***, a river of Mesopotamia
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוֹמֵר‎</span></big> **Shôwmêr** <small>*(sho-mare')*</small> ==**Shomer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שֹׁמֵר</span> **Shômêr** <small>*(sho-mare')*</small>; active participle of <span class="ashebrew">‎שָׁמַר‎</span><sup><small>[[H8104]]</small></sup>; keeper</small>
+**<big><span class="ashebrew">‎שׁוֹמֵר‎</span></big>** **Shôwmêr** <small>*(sho-mare')*</small> ==**Shomer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שֹׁמֵר</span></big>** **Shômêr** <small>*(sho-mare')*</small>; active participle of **<big>[[H8104|‎שָׁמַר‎]]</big>**; keeper</small>
 
 $\quad$ Shomer.
 - § Shomer = *"keeper"*

@@ -1,4 +1,4 @@
-group of: <small>[[H4714G]]</small> 
+group of: <small>**<big>[[H4714G|מִצְרַיִם]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Αἰγύπτιος==</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 

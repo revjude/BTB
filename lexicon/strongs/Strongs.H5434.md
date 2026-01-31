@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סְבָא‎</span></big> **Çᵉbâʼ** <small>*(seb-aw')*</small> ==**Seba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎סְבָא‎</span></big>** **Çᵉbâʼ** <small>*(seb-aw')*</small> ==**Seba**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Seba.

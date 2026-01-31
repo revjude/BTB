@@ -7,30 +7,30 @@ And Reuben answered them, saying, Spake I not unto you, saying, Do not sin again
 And Reuben responded, “Didn’t I tell you not to sin against the boy? But you would not listen. Now we must account for his blood!”<small><sub>**MT:**</sub></small>
 [[Gen.42.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.21|<< Genesis 42:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.23|Genesis 42:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| answering | <big><span class="asgreek">αποκριθείς</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Reuben | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Did I not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| speak | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| wrong | <big><span class="asgreek">αδικήσητε</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lad, | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">εισηκούσατέ</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me? | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is required. | <big><span class="asgreek">εκζητείται</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| answering | **<big>[[G0611\|αποκριθείς]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Reuben | **<big>[[G4502\|Ρουβήν]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| Did I not | **<big>[[G3756\|ουκ]]</big>** |
+| speak | **<big>[[G2980\|ελάλησα]]</big>** |
+| to you, | **<big>[[G1473\|υμίν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| wrong | **<big>[[G0091\|αδικήσητε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| lad, | **<big>[[G3808\|παιδάριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| hearken to | **<big>[[G1522\|εισηκούσατέ]]</big>** |
+| me? | **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is required. | **<big>[[G1567\|εκζητείται]]</big>** |
 [[Gen.42.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.21|<< Genesis 42:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.23|Genesis 42:23 >>]]</td></tr></table>
 
 

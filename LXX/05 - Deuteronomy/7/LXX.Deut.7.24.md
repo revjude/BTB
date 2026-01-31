@@ -7,31 +7,31 @@ And he shall deliver their kings into thine hand, and thou shalt destroy their n
 He will hand their kings over to you, and you will wipe out their names from under heaven. No one will be able to stand against you; you will annihilate them.<small><sub>**MT:**</sub></small>
 [[Deut.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.23|<< Deuteronomy 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.25|Deuteronomy 7:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall deliver up | <big><span class="asgreek">παραδώσει</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall destroy | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| under | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| Not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| withstand | <big><span class="asgreek">αντιστήσεται</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| anyone | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| your face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should have utterly destroyed | <big><span class="asgreek">εξολοθρεύσης</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall deliver up | **<big>[[G3860\|παραδώσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their kings | **<big>[[G0935\|βασιλείς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your hands. | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall destroy | **<big>[[G0622\|απολείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| under | **<big>[[G5270\|υποκάτω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven. | **<big>[[G3772\|ουρανού]]</big>** |
+| Not | **<big>[[G3756\|ουκ]]</big>** |
+| withstand | **<big>[[G0436\|αντιστήσεται]]</big>** |
+| anyone | **<big>[[G3762\|ουδείς]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| your face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| you should have utterly destroyed | **<big>[[G1842\|εξολοθρεύσης]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Deut.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.23|<< Deuteronomy 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.25|Deuteronomy 7:25 >>]]</td></tr></table>
 
 

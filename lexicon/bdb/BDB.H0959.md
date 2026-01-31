@@ -1,4 +1,4 @@
-<small>Also see: [[H5240]]</small>
+<small>Also see: **<big>[[H5240|נְמִבְזֶה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎בָּזָה‎</span> **verb** ==despise== (Palestinian [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎בְּזָא‎</span>, compare <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGAAcAIAAAP///wAAACH5BAAAAAAALAAAAAAYABwAAAJJhI+pu8F/gnRpKmkmjfrSjXQeeEEAZkJoyqwhm3kh+VagW7E4l1pyTzuRaD6bUbPLDDEi2MnZ+gGlqmCSChUGgddqUYfMiseQAgA7"> ***raise the head loftily and disdainfully***) — 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵיתָן‎</span></big> **ʼêythân** <small>*(ay-thawn')*</small> ==**strong**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אֵתָן</span> **ʼêthân** <small>*(ay-thawn')*</small> ; from an unused root (meaning to continue)</small>
+**<big><span class="ashebrew">‎אֵיתָן‎</span></big>** **ʼêythân** <small>*(ay-thawn')*</small> ==**strong**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אֵתָן</span></big>** **ʼêthân** <small>*(ay-thawn')*</small> ; from an unused root (meaning to continue)</small>
 
 $\quad$ hard, mighty, rough, strength, strong.
 - ***permanence***
@@ -10,4 +10,4 @@ $\quad$ hard, mighty, rough, strength, strong.
 $\quad$ **1a)** ever-flowing  (of a stream)
 $\quad$ **1b)** permanence, permanent, enduring (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">ἰσχυρός</span><sup><small>[[G2478]]</small></sup> · <span class="asgreek">κράτος</span><sup><small>[[G2904]]</small></sup> · <span class="asgreek">τραχύς</span><sup><small>[[G5138]]</small></sup> · <span class="asgreek">χώρα</span><sup><small>[[G5561]]</small></sup>
+<small>See Greek: </small>**<big>[[G1413|δυνάστης]]</big>** · **<big>[[G2478|ἰσχυρός]]</big>** · **<big>[[G2904|κράτος]]</big>** · **<big>[[G5138|τραχύς]]</big>** · **<big>[[G5561|χώρα]]</big>**

@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Ibneiah</span>, a descendant of Benjamin, was one of the Israelites who resettled in Jerusalem after the Babylonian exile.
 - A man living at the time of Exile and Return, only mentioned at [[1Chr.9.8|1Ch.9.8]]; 
-- only referred to as Ibneiah<[[H2997]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- a son of Jeroham<[[H3395I]]>.
+- only referred to as Ibneiah **<big>[[H2997|יִבְנְיָה]]</big>**; 
+- a son of Jeroham **<big>[[H3395|יְרֹחָם]]</big>**.
 
 Ibneiah is mentioned briefly in [[1Chr.9.8|1 Chronicles 9:8]] as one of the Benjamites who lived in Jerusalem after the Babylonian exile. He is listed among the descendants of Benjamin who resettled in the city. 
 
@@ -17,7 +17,7 @@ Apart from this brief mention, no other details are provided about Ibneiah's lif
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ibneiah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2997) <small>*Hebrew*</small> | 1x | [1Ch.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibneiah\*\|reference=1Ch.9.8) |
-All Strong's for **Ibneiah**: \[[[H2997]]\]
+| Ibneiah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2997) | 1x | [1Ch.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibneiah\*\|reference=1Ch.9.8) |
+All entries for **Ibneiah**:  **<big>[[H2997|יִבְנְיָה]]</big>**
 #### Related Profiles:
 - **[Jeroham](H3395I)** (father)

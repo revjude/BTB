@@ -6,12 +6,12 @@ Then the man bowed down and worshiped the LORD,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.25|<< Genesis 24:25]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.27|Genesis 24:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he bowed low  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקֹּ֣ד </big></span><small><small><sup>[[H6915]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Kod <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the man  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אִ֔ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he bowed down  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּשְׁתַּ֖חוּ </big></span><small><small><sup>[[H7812]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yish.Ta.chu <small><sup>[[HVvw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  | <span class="ashebrew"><big>לַֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>יהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he bowed low  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6915\|יִּקֹּ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֔ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּשְׁתַּ֖חוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ta.chu<small><sup>[[HVvw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.25|<< Genesis 24:25]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.27|Genesis 24:27 >>]]</td></tr></table>
 
 

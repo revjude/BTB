@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֶרֶס‎</span></big> **hereç** <small>*(heh'-res)*</small> ==**(City of) Destruction**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎הָרַס‎</span><sup><small>[[H2040]]</small></sup></small>
+**<big><span class="ashebrew">‎הֶרֶס‎</span></big>** **hereç** <small>*(heh'-res)*</small> ==**(City of) Destruction**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2040|‎הָרַס‎]]</big>**</small>
 
 $\quad$ destruction.
 - ***demolition***

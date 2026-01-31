@@ -10,15 +10,15 @@ Now these [are] the generations of Esau, who [is] Edom.
 This is the account of Esau (that is, Edom).<small><sub>**MT:**</sub></small>
 [[Gen.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.29|<< Genesis 35:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.2|Genesis 36:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And these | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| generations | <big><span class="asgreek">γενέσεις</span></big> <sup><small><small>[[G1078]]</small></small></sup> |
-| of Esau -- | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Edom. | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| And these | **<big>[[G3778\|αύται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[are\] the | **<big>[[G3588\|αι]]</big>** |
+| generations | **<big>[[G1078\|γενέσεις]]</big>** |
+| of Esau -- | **<big>[[G2269\|Ησαύ]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| Edom. | **<big>[[H0123\|Εδώμ]]</big>** |
 [[Gen.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.29|<< Genesis 35:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.2|Genesis 36:2 >>]]</td></tr></table>
 
 

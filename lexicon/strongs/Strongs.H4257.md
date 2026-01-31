@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַחֲלַת‎</span></big> **machălath** <small>*(makh-al-ath')*</small> ==**Mahalath**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלָה‎</span><sup><small>[[H2470]]</small></sup>; sickness</small>
+**<big><span class="ashebrew">‎מַחֲלַת‎</span></big>** **machălath** <small>*(makh-al-ath')*</small> ==**Mahalath**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H2470|‎חָלָה‎]]</big>**; sickness</small>
 
 $\quad$ Mahalath.
 - ***'Machalath'***, probably the title (initial word) of a popular song

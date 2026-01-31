@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּעָלָה‎</span></big> **tᵉʻâlâh** <small>*(teh-aw-law')*</small> ==**conduit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלָה‎</span><sup><small>[[H5927]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּעָלָה‎</span></big>** **tᵉʻâlâh** <small>*(teh-aw-law')*</small> ==**conduit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5927|‎עָלָה‎]]</big>**</small>
 
 $\quad$ conduit, cured, healing, little river, trench, watercourse.
 - ***a channel*** (into which water is raised for irrigation)
@@ -9,4 +9,4 @@ $\quad$ conduit, cured, healing, little river, trench, watercourse.
 **2)** healing (of new flesh and skin forming over wound)
 $\quad$ **2a)** (CLBL) bandage, plaister (for healing of wound)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θάλασσα</span><sup><small>[[G2281]]</small></sup> · <span class="asgreek">ῥύσις</span><sup><small>[[G4511]]</small></sup>
+<small>See Greek: </small>**<big>[[G2281|θάλασσα]]</big>** · **<big>[[G4511|ῥύσις]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּי‎</span></big> **bîy** <small>*(bee)*</small> ==**please**==  <sup><small>[[TEHMC#H:Part|H:Part]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎בָּעָה‎</span><sup><small>[[H1158]]</small></sup> (in the sense of asking); properly, a request; used only adverbially (always with 'my Lord')</small>
+**<big><span class="ashebrew">‎בִּי‎</span></big>** **bîy** <small>*(bee)*</small> ==**please**==  <sup><small>[[TEHMC#H:Part|H:Part]]</small></sup> 
+<small>perhaps from **<big>[[H1158|‎בָּעָה‎]]</big>** (in the sense of asking); properly, a request; used only adverbially (always with 'my Lord')</small>
 
 $\quad$ alas, O, oh.
 - ***oh that!***

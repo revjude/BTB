@@ -6,18 +6,18 @@ And he came around and measured the west side to be five hundred cubits long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.18|<< Ezekiel 42:18]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.20|Ezekiel 42:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he turned  | <span class="ashebrew"><big>סָבַ֖ב </big></span><small><small><sup>[[H5437G]]</sup></small></small> &#8207;| sa.Vav <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] side of  | <span class="ashebrew"><big>ר֣וּחַ </big></span><small><small><sup>[[H7307I]]</sup></small></small> &#8207;| Ru.ach <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sea  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּ֑ם </big></span><small><small><sup>[[H3220H]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he measured [it]  | <span class="ashebrew"><big>מָדַ֛ד </big></span><small><small><sup>[[H4058]]</sup></small></small> &#8207;| ma.Dad <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חֲמֵשׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| cha.mesh- <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֥וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| reeds  | <span class="ashebrew"><big>קָנִ֖ים </big></span><small><small><sup>[[H7070I]]</sup></small></small> &#8207;| ka.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by [the] reed of  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>קְנֵ֥ה </big></span><small><small><sup>[[H7070H]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> k.Neh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> measurement  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּדָּֽה </big></span><small><small><sup>[[H4060A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mi.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he turned  |**<big>&#8207;[[H5437G\|סָבַ֖ב]]&#8207; </big>**| sa.Vav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] side of  |**<big>&#8207;[[H7307I\|ר֣וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3220H\|יָּ֑ם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he measured [it]  |**<big>&#8207;[[H4058\|מָדַ֛ד]]&#8207; </big>**| ma.Dad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חֲמֵשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.mesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֥וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reeds  |**<big>&#8207;[[H7070I\|קָנִ֖ים]]&#8207; </big>**| ka.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] reed of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7070H\|קְנֵ֥ה]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.Neh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> measurement  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4060A\|מִּדָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.18|<< Ezekiel 42:18]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.20|Ezekiel 42:20 >>]]</td></tr></table>
 
 

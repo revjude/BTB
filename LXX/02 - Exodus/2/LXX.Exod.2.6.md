@@ -11,29 +11,29 @@ When she opened it, she saw the child, and behold, the little boy was crying. So
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And opening, | <big><span class="asgreek">ανοίξασα</span></big> <sup><small><small>[[G0455]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| she sees | <big><span class="asgreek">ορά</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| a male child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| weeping | <big><span class="asgreek">κλαίον</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wicker basket. | <big><span class="asgreek">θίβει</span></big> <sup><small><small>[[G7675]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spared | <big><span class="asgreek">εφείσατο</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">έφη</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| male children | <big><span class="asgreek">παιδίων</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hebrews | <big><span class="asgreek">Εβραίων</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| This one \[is\] | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And opening, | **<big>[[G0455\|ανοίξασα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| she sees | **<big>[[G3708\|ορά]]</big>** |
+| a male child | **<big>[[G3813\|παιδίον]]</big>** |
+| weeping | **<big>[[G2799\|κλαίον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| wicker basket. | **<big>[[G7675\|θίβει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| spared | **<big>[[G5339\|εφείσατο]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G5346\|έφη]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| male children | **<big>[[G3813\|παιδίων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Hebrews | **<big>[[G1444\|Εβραίων]]</big>** |
+| This one \[is\] | **<big>[[G3778\|τούτο]]</big>** |
 [[Exod.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.5|<< Exodus 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.7|Exodus 2:7 >>]]</td></tr></table>
 
 

@@ -10,48 +10,48 @@ Thus saith the LORD; For three transgressions of Edom, and for four, I will not 
 This is what the LORD says: “For three transgressions of Edom, even four, I will not revoke My judgment, because he pursued his brother with the sword and stifled all compassion; his anger raged continually, and his fury flamed incessantly.<small><sub>**MT:**</sub></small>
 [[Amos.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.10|<< Amos 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.12|Amos 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισίν</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| impious deeds | <big><span class="asgreek">ασεβείαις</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Edom, | <big><span class="asgreek">Ιδουμαίας</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four, | <big><span class="asgreek">τέσσαρσιν</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn away from | <big><span class="asgreek">αποστραφήσομαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Because of | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pursuing | <big><span class="asgreek">διώξαι</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he laid waste | <big><span class="asgreek">ελυμήνατο</span></big> <sup><small><small>[[G3075]]</small></small></sup> |
-| \[the\] mother | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seized by force | <big><span class="asgreek">ήρπασεν</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a testimony | <big><span class="asgreek">μαρτύριον</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| of his shuddering awe; | <big><span class="asgreek">φρίκην</span></big> <sup><small><small>[[G9662]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his impulse | <big><span class="asgreek">όρμημα</span></big> <sup><small><small>[[G3731]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he kept | <big><span class="asgreek">εφύλαξεν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| victory. | <big><span class="asgreek">νίκος</span></big> <sup><small><small>[[G3534]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| three | **<big>[[G5140\|τρισίν]]</big>** |
+| impious deeds | **<big>[[G0763\|ασεβείαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Edom, | **<big>[[H0123\|Ιδουμαίας]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| four, | **<big>[[G5064\|τέσσαρσιν]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| turn away from | **<big>[[G0654\|αποστραφήσομαι]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
+| Because of | **<big>[[G1752\|ένεκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| pursuing | **<big>[[G1377\|διώξαι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he laid waste | **<big>[[G3075\|ελυμήνατο]]</big>** |
+| \[the\] mother | **<big>[[G3384\|μητέρα]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seized by force | **<big>[[G0726\|ήρπασεν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a testimony | **<big>[[G3142\|μαρτύριον]]</big>** |
+| of his shuddering awe; | **<big>[[G9662\|φρίκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his impulse | **<big>[[G3731\|όρμημα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he kept | **<big>[[G5442\|εφύλαξεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| victory. | **<big>[[G3534\|νίκος]]</big>** |
 [[Amos.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.10|<< Amos 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.12|Amos 1:12 >>]]</td></tr></table>
 
 

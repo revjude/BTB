@@ -4,8 +4,8 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Achan</span> took devoted things, leading to Israel's defeat at Ai.
 - A man from the tribe of Judah living before Israel's Monarchy, first mentioned at [[Josh.7.1|Jos.7.1]]; 
-- referred to as Achan<[[H5912]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ן</span>\), or Achan \(KJV= Achar\) <[[H5917]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ר</span>\); 
-- a son of Carmi<[[H3756H]]>.
+- referred to as Achan **<big>[[H5912|עָכָן]]</big>**, or Achan \(KJV= Achar\)  **<big>[[H5917|עָכָר]]</big>**; 
+- a son of Carmi **<big>[[H3756|כַּרְמִי]]</big>**.
 
 Achan was an Israelite from the tribe of Judah who violated God's command by taking devoted things from the conquered city of Jericho \(Jos. 7:1\). His sin caused Israel's defeat in the battle against Ai. When Joshua sought the Lord's guidance, God revealed that someone had stolen from the devoted things \(Jos. 7:10-15\). 
 
@@ -13,8 +13,8 @@ Through a process of elimination, Achan was identified as the culprit \(Jos. 7:1
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Achan | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5912) <small>*Hebrew*</small> | 6x | [[Jos.7.1] ... [Jos.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achan\*\|reference=Jos.7.1;Jos.7.18;Jos.7.19;Jos.7.20;Jos.7.24;Jos.22.20) |
-| Achan (KJV= Achar) | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H5917) <small>*Hebrew*</small> | 1x | [1Ch.2.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achan\*\|reference=1Ch.2.7) |
-All Strong's for **Achan**: \[[[H5912]]\] \[[[H5917]]\]
+| Achan | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5912) | 6x | [[Jos.7.1] ... [Jos.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achan\*\|reference=Jos.7.1;Jos.7.18;Jos.7.19;Jos.7.20;Jos.7.24;Jos.22.20) |
+| Achan (KJV= Achar) | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H5917) | 1x | [1Ch.2.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achan\*\|reference=1Ch.2.7) |
+All entries for **Achan**:  **<big>[[H5912|עָכָן]]</big>** ☩  **<big>[[H5917|עָכָר]]</big>**
 #### Related Profiles:
 - **[Carmi](H3756H)** (father)

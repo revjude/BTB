@@ -6,17 +6,17 @@ You divided the sea by Your strength; You smashed the heads of the dragons of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.12|<< Psalms 74:12]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.14|Psalms 74:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you  | <span class="ashebrew"><big>אַתָּ֤ה </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you divided  | <span class="ashebrew"><big>פוֹרַ֣רְתָּ </big></span><small><small><sup>[[H6565B]]</sup></small></small> &#8207;| fo.Rar.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by strength your  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עָזְּ </big></span><small><small><sup>[[H5797]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> 'a.ze. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sea  | <span class="ashebrew"><big>יָ֑ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you shattered  | <span class="ashebrew"><big>שִׁבַּ֖רְתָּ </big></span><small><small><sup>[[H7665]]</sup></small></small> &#8207;| shi.Bar.ta <small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heads of  | <span class="ashebrew"><big>רָאשֵׁ֥י </big></span><small><small><sup>[[H7218A]]</sup></small></small> &#8207;| ra.Shei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sea monsters  | <span class="ashebrew"><big>תַ֝נִּינִ֗ים </big></span><small><small><sup>[[H8577N]]</sup></small></small> &#8207;| ta.ni.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the waters  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מָּֽיִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you divided  |**<big>&#8207;[[H6565B\|פוֹרַ֣רְתָּ]]&#8207; </big>**| fo.Rar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by strength your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5797\|עָזְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.ze.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea  |**<big>&#8207;[[H3220G\|יָ֑ם]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you shattered  |**<big>&#8207;[[H7665\|שִׁבַּ֖רְתָּ]]&#8207; </big>**| shi.Bar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heads of  |**<big>&#8207;[[H7218A\|רָאשֵׁ֥י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sea monsters  |**<big>&#8207;[[H8577N\|תַ֝נִּינִ֗ים]]&#8207; </big>**| ta.ni.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the waters  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.12|<< Psalms 74:12]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.14|Psalms 74:14 >>]]</td></tr></table>
 
 

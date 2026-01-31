@@ -7,26 +7,26 @@ The mountains saw thee, [and] they trembled: the overflowing of the water passed
 The mountains saw You and quaked; torrents of water swept by. The deep roared with its voice and lifted its hands on high.<small><sub>**MT:**</sub></small>
 [[Hab.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.9|<< Habakkuk 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.11|Habakkuk 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They saw | <big><span class="asgreek">ειδόν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall travail | <big><span class="asgreek">ωδινήσουσι</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| You shall disperse | <big><span class="asgreek">διασπερείς</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coursing. | <big><span class="asgreek">πορείας</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
-| gave out | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abyss | <big><span class="asgreek">άβυσσος</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her voice -- | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his visible display. | <big><span class="asgreek">φαντασίας</span></big> <sup><small><small>[[G5325]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They saw | **<big>[[G1492\|ειδόν]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall travail | **<big>[[G5605\|ωδινήσουσι]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
+| You shall disperse | **<big>[[G1289\|διασπερείς]]</big>** |
+| waters | **<big>[[G5204\|ύδατα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| coursing. | **<big>[[G4197\|πορείας]]</big>** |
+| gave out | **<big>[[G1325\|έδωκεν]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| abyss | **<big>[[G0012\|άβυσσος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her voice -- | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his visible display. | **<big>[[G5325\|φαντασίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Hab.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.9|<< Habakkuk 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.11|Habakkuk 3:11 >>]]</td></tr></table>
 
 

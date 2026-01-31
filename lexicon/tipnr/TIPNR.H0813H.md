@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ashkenaz</span>, a kingdom called to join the fight against Babylon in Jeremiah's prophecy.
 - A location in Assyria only mentioned at [[Jer.51.27|Jer.51.27]]; 
-- only referred to as Ashkenaz<[[H0813H]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>\).
+- only referred to as Ashkenaz **<big>[[H0813|אַשְׁכְּנַז]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.6,44.6&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Apart from this single reference in Jeremiah, Ashkenaz is not mentioned elsewher
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ashkenaz | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>](H0813H) <small>*Hebrew*</small> | 1x | [Jer.51.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashkenaz\*\|reference=Jer.51.27) |
-All Strong's for **Ashkenaz**: \[[[H0813H]]\]
+| Ashkenaz | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>](H0813H) | 1x | [Jer.51.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ashkenaz\*\|reference=Jer.51.27) |
+All entries for **Ashkenaz**:  **<big>[[H0813|אַשְׁכְּנַז]]</big>**

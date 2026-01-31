@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּנְּתוֹן‎</span></big> **Ginnᵉthôwn** <small>*(ghin-neth-one)*</small> ==**Ginnethon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">גִּנְּתוֹ</span> **Ginnᵉthôw** <small>*(ghinneth-o')*</small>; from <span class="ashebrew">‎גָּנַן‎</span><sup><small>[[H1598]]</small></sup>; gardener</small>
+**<big><span class="ashebrew">‎גִּנְּתוֹן‎</span></big>** **Ginnᵉthôwn** <small>*(ghin-neth-one)*</small> ==**Ginnethon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">גִּנְּתוֹ</span></big>** **Ginnᵉthôw** <small>*(ghinneth-o')*</small>; from **<big>[[H1598|‎גָּנַן‎]]</big>**; gardener</small>
 
 $\quad$ Ginnetho, Ginnethon.
 - § Ginnetho or Ginnethon = *"gardener"*

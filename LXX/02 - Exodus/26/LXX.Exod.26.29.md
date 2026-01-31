@@ -7,28 +7,28 @@ And thou shalt overlay the boards with gold, and make their rings [of] gold [for
 Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.<small><sub>**MT:**</sub></small>
 [[Exod.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.28|<< Exodus 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.30|Exodus 26:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posts | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| you shall gild | <big><span class="asgreek">καταχρυσώσεις</span></big> <sup><small><small>[[G7958]]</small></small></sup> |
-| in gold. | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of gold, | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you shall insert | <big><span class="asgreek">εισάξεις</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bars. | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall gild | <big><span class="asgreek">καταχρυσώσεις</span></big> <sup><small><small>[[G7958]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bars | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
-| in gold. | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| posts | **<big>[[G4769\|στύλους]]</big>** |
+| you shall gild | **<big>[[G7958\|καταχρυσώσεις]]</big>** |
+| in gold. | **<big>[[G5553\|χρυσίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίους]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| of gold, | **<big>[[G5552\|χρυσούς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| you shall insert | **<big>[[G1521\|εισάξεις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bars. | **<big>[[G8352\|μοχλούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall gild | **<big>[[G7958\|καταχρυσώσεις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bars | **<big>[[G8352\|μοχλούς]]</big>** |
+| in gold. | **<big>[[G5553\|χρυσίω]]</big>** |
 [[Exod.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.28|<< Exodus 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.30|Exodus 26:30 >>]]</td></tr></table>
 
 

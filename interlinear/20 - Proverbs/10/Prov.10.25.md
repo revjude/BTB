@@ -6,15 +6,15 @@ When the whirlwind passes, the wicked are no more, but the righteous are secure 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.24|<< Proverbs 10:24]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.26|Proverbs 10:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| when passes by  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עֲב֣וֹר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| ka. <small><sup>[[HR]]</sup></small> 'a.Vor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a storm-wind  | <span class="ashebrew"><big>ס֭וּפָה </big></span><small><small><sup>[[H5492A]]</sup></small></small> &#8207;| Su.fah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֣ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] wicked  | <span class="ashebrew"><big>רָשָׁ֑ע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a righteous [person]  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צַדִּ֗יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a foundation of  | <span class="ashebrew"><big>יְס֣וֹד </big></span><small><small><sup>[[H3247H]]</sup></small></small> &#8207;| ye.Sod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם </big></span><small><small><sup>[[H5769G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when passes by  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H5674A\|עֲב֣וֹר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Vor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a storm-wind  |**<big>&#8207;[[H5492A\|ס֭וּפָה]]&#8207; </big>**| Su.fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] wicked  |**<big>&#8207;[[H7563\|רָשָׁ֑ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a righteous [person]  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H6662\|צַדִּ֗יק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a foundation of  |**<big>&#8207;[[H3247H\|יְס֣וֹד]]&#8207; </big>**| ye.Sod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.24|<< Proverbs 10:24]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.26|Proverbs 10:26 >>]]</td></tr></table>
 
 

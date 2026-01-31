@@ -7,27 +7,27 @@ And the LORD said unto Moses, Go down, charge the people, lest they break throug
 and the LORD said to him, “Go down and warn the people not to break through to see the LORD, lest many of them perish.<small><sub>**MT:**</sub></small>
 [[Exod.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.20|<< Exodus 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.22|Exodus 19:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Go down | <big><span class="asgreek">καταβάς</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| to testify | <big><span class="asgreek">διαμάρτυραι</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people! | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| they should approach | <big><span class="asgreek">εγγίσωσι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| to contemplate, | <big><span class="asgreek">κατανοήσαι</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should fall | <big><span class="asgreek">πέσωσιν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| of them | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Go down | **<big>[[G2597\|καταβάς]]</big>** |
+| to testify | **<big>[[G1263\|διαμάρτυραι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people! | **<big>[[G2992\|λαώ]]</big>** |
+| lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| they should approach | **<big>[[G1448\|εγγίσωσι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| to contemplate, | **<big>[[G2657\|κατανοήσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should fall | **<big>[[G4098\|πέσωσιν]]</big>** |
+| of them | **<big>[[G0575\|απ΄]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| a multitude | **<big>[[G4128\|πλήθος]]</big>** |
 [[Exod.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.20|<< Exodus 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.22|Exodus 19:22 >>]]</td></tr></table>
 
 

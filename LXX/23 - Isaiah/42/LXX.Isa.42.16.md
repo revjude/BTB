@@ -7,41 +7,41 @@ And I will bring the blind by a way [that] they knew not; I will lead them in pa
 I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them.<small><sub>**MT:**</sub></small>
 [[Isa.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.15|<< Isaiah 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.17|Isaiah 42:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">άξω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| \[the\] blind | <big><span class="asgreek">τυφλούς</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they knew not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| roads | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they had not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seen | <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| to tread | <big><span class="asgreek">πατήσαι</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
-| I will cause | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| light, | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| crooked | <big><span class="asgreek">σκολία</span></big> <sup><small><small>[[G4646]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| straight. | <big><span class="asgreek">ευθεία</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| These are | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| things | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| I will do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκαταλείψω</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will lead | **<big>[[G0071\|άξω]]</big>** |
+| \[the\] blind | **<big>[[G5185\|τυφλούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] way | **<big>[[G3598\|οδώ]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| they knew not, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| roads | **<big>[[G5147\|τρίβους]]</big>** |
+| which | **<big>[[G3739\|ας]]</big>** |
+| they had not | **<big>[[G3756\|ουκ]]</big>** |
+| seen | **<big>[[G1492\|ήδεισαν]]</big>** |
+| to tread | **<big>[[G3961\|πατήσαι]]</big>** |
+| I will cause | **<big>[[G4160\|ποιήσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| I will make | **<big>[[G4160\|ποιήσω]]</big>** |
+| for them | **<big>[[G1473\|αυτοίς]]</big>** |
+| darkness | **<big>[[G4655\|σκότος]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| light, | **<big>[[G5457\|φως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| crooked | **<big>[[G4646\|σκολία]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| straight. | **<big>[[G2117\|ευθεία]]</big>** |
+| These are | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| things | **<big>[[G4487\|ρήματα]]</big>** |
+| I will do | **<big>[[G4160\|ποιήσω]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall not | **<big>[[G3756\|ουκ]]</big>** |
+| abandon | **<big>[[G1459\|εγκαταλείψω]]</big>** |
+| them. | **<big>[[G1473\|αυτούς]]</big>** |
 [[Isa.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.15|<< Isaiah 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.17|Isaiah 42:17 >>]]</td></tr></table>
 
 

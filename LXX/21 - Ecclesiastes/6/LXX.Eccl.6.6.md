@@ -7,22 +7,22 @@ Yea, though he live a thousand years twice [told], yet hath he seen no good: do 
 even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?<small><sub>**MT:**</sub></small>
 [[Eccl.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.5|<< Ecclesiastes 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.7|Ecclesiastes 6:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| he lived | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χιλίων</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of returns, | <big><span class="asgreek">καθόδους</span></big> <sup><small><small>[[G7761]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| goodness | <big><span class="asgreek">αγαθωσυνήν</span></big> <sup><small><small>[[G0019]]</small></small></sup> |
-| he knows not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| is it not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3378]]</small></small></sup> <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| all shall go? | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1487\|ει]]</big>** |
+| he lived | **<big>[[G2198\|έζησε]]</big>** |
+| a thousand | **<big>[[G5507\|χιλίων]]</big>** |
+| years | **<big>[[G2094\|ετών]]</big>** |
+| of returns, | **<big>[[G7761\|καθόδους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| goodness | **<big>[[G0019\|αγαθωσυνήν]]</big>** |
+| he knows not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|είδε]]</big>** |
+| is it not | **<big>[[G3378\|μη]]</big>** **<big>[[G3756\|ουκ]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| one | **<big>[[G1520\|ένα]]</big>** |
+| all shall go? | **<big>[[G4198\|πορεύσεται]]</big>** **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
 [[Eccl.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.5|<< Ecclesiastes 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.7|Ecclesiastes 6:7 >>]]</td></tr></table>
 
 

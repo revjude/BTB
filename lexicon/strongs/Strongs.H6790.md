@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צִן‎</span></big> **Tsin** <small>*(tseen)*</small> ==**Zin**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎צִן‎</span></big>** **Tsin** <small>*(tseen)*</small> ==**Zin**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root meaning to prick; a crag</small>
 
 $\quad$ Zin.

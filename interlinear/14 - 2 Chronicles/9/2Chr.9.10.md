@@ -6,24 +6,24 @@ And the servants also of Huram, and the servants of Solomon, which brought gold 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.9|<< 2 Chronicles 9:9]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.11|2 Chronicles 9:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and also  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] servants of  | <span class="ashebrew"><big>עַבְדֵ֤י </big></span><small><small><sup>[[H5650]]</sup></small></small> &#8207;| 'av.Dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Huram  [^1] | <span class="ashebrew"><big>חוּרָם֙ </big></span><small><small><sup>[[H2361G]]</sup></small></small> &#8207;[^2] | chi.ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| and [the] servants of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַבְדֵ֣י </big></span><small><small><sup>[[H5650]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'av.Dei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֔ה </big></span><small><small><sup>[[H8010]]</sup></small></small> &#8207;| she.lo.Moh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they brought  | <span class="ashebrew"><big>הֵבִ֥יאוּ </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| he.Vi.'u <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֖ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Ophir  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אוֹפִ֑יר </big></span><small><small><sup>[[H0211H]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'o.Fir <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they brought  | <span class="ashebrew"><big>הֵבִ֛יאוּ </big></span><small><small><sup>[[H0935P]]</sup></small></small> &#8207;| he.Vi.'u <small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wood\<s> of  | <span class="ashebrew"><big>עֲצֵ֥י </big></span><small><small><sup>[[H6086G]]</sup></small></small> &#8207;| 'a.Tzei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| algum\<s>  | <span class="ashebrew"><big>אַלְגּוּמִּ֖ים </big></span><small><small><sup>[[H0418]]</sup></small></small> &#8207;| 'al.gu.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and stone[s]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶ֥בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| precious  | <span class="ashebrew"><big>יְקָרָֽה </big></span><small><small><sup>[[H3368]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ye.ka.Rah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵ֤י]]&#8207; </big>**| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Huram  [^1]|**<big>&#8207;[[H2361G\|חוּרָם֙]]&#8207; </big>**[^2] | chi.ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and [the] servants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5650\|עַבְדֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֔ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they brought  |**<big>&#8207;[[H0935P\|הֵבִ֥יאוּ]]&#8207; </big>**| he.Vi.'u<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Ophir  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0211H\|אוֹפִ֑יר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Fir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they brought  |**<big>&#8207;[[H0935P\|הֵבִ֛יאוּ]]&#8207; </big>**| he.Vi.'u<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood\<s> of  |**<big>&#8207;[[H6086G\|עֲצֵ֥י]]&#8207; </big>**| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| algum\<s>  |**<big>&#8207;[[H0418\|אַלְגּוּמִּ֖ים]]&#8207; </big>**| 'al.gu.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and stone[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0068G\|אֶ֥בֶן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| precious  |**<big>&#8207;[[H3368\|יְקָרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ka.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.9|<< 2 Chronicles 9:9]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.11|2 Chronicles 9:11 >>]]</td></tr></table>
 
-[^1]: ==K==: **Hiram ** | <small><sup>[[H2438G]]</sup></small> <span class="ashebrew"><big>חִירָם</big></span>  | chi.ram<small><sup>[[HNpm]]</sup></small> 
+[^1]: ==K==: Hiram  | **<big>[[H2438G|חִירָם]]</big> ** | chi.ram<small><sup>[[HNpm]]</sup></small> 
 [^2]: ==L== spelled: **<span class="ashebrew"><big>חיּרָם֙</big></span>**
 

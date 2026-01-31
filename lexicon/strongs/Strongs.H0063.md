@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָבֵל הַשִּׁטִּים‎</span></big> **ʼÂbêl hash-Shiṭṭîym** <small>*(aw-bale' hash-shit-teem')*</small> ==**Abel-shittim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎אָבֵל‎</span><sup><small>[[H0058]]</small></sup> and the plural of <span class="ashebrew">‎שִׁטָּה‎</span><sup><small>[[H7848]]</small></sup>, with the article inserted; meadow of the acacias</small>
+**<big><span class="ashebrew">‎אָבֵל הַשִּׁטִּים‎</span></big>** **ʼÂbêl hash-Shiṭṭîym** <small>*(aw-bale' hash-shit-teem')*</small> ==**Abel-shittim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0058|‎אָבֵל‎]]</big>** and the plural of **<big>[[H7848|‎שִׁטָּה‎]]</big>**, with the article inserted; meadow of the acacias</small>
 
 $\quad$ Abelshittim.
 - § Abel Shittim = *"meadow of acacias"*

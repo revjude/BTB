@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טְהוֹר‎</span></big> **ṭᵉhôwr** <small>*(teh-hore')*</small> ==**pureness**==  <sup><small>[[TEHMC#H:N-M / H:A|H:N-M / H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎טָהֵר‎</span><sup><small>[[H2891]]</small></sup></small>
+**<big><span class="ashebrew">‎טְהוֹר‎</span></big>** **ṭᵉhôwr** <small>*(teh-hore')*</small> ==**pureness**==  <sup><small>[[TEHMC#H:N-M / H:A|H:N-M / H:A]]</small></sup> 
+<small>from **<big>[[H2891|‎טָהֵר‎]]</big>**</small>
 
 $\quad$ pureness.
 - ***purity***

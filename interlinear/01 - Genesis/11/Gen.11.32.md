@@ -6,18 +6,18 @@ Terah lived 205 years, and he died in Haran.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.31|<< Genesis 11:31]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.1|Genesis 12:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they were  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּהְי֣וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yih.Yu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] days of  | <span class="ashebrew"><big>יְמֵי </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.mei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Terah  | <span class="ashebrew"><big>תֶ֔רַח </big></span><small><small><sup>[[H8646G]]</sup></small></small> &#8207;| Te.rach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  | <span class="ashebrew"><big>חָמֵ֥שׁ </big></span><small><small><sup>[[H2568]]</sup></small></small> &#8207;| cha.Mesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  | <span class="ashebrew"><big>שָׁנִ֖ים </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and two hundred  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָאתַ֣יִם </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Ta.yim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he died  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֥מָת </big></span><small><small><sup>[[H4191]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.mot <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Terah  | <span class="ashebrew"><big>תֶּ֖רַח </big></span><small><small><sup>[[H8646G]]</sup></small></small> &#8207;| Te.rach <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Haran  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חָרָֽן </big></span><small><small><sup>[[H2771A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> cha.Ran <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  |**<big>&#8207;[[H3117G\|יְמֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Terah  |**<big>&#8207;[[H8646G\|תֶ֔רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חָמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִ֖ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two hundred  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3967\|מָאתַ֣יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֥מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Terah  |**<big>&#8207;[[H8646G\|תֶּ֖רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Haran  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2771A\|חָרָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.31|<< Genesis 11:31]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.1|Genesis 12:1 >>]]</td></tr></table>
 
 

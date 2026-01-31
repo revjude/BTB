@@ -1,4 +1,4 @@
-<small>Also see: [[H2676]] | [[H2677]]</small>
+<small>Also see: **<big>[[H2676|חָצוֹת]]</big>** | **<big>[[H2677|חֵצִי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מַחֲצִית‎</span> **noun feminine** ==half, middle== — construct <span class="bdbLangHebrew">‎מַחֲצִית‎</span> [[Exod.30.13|Exod 30:13]] (twice in verse) + 8 t.; <span class="bdbLangHebrew">‎מַחֲצִת‎</span> [[Num.31.30|Num 31:30]]; [[Num.31.47|Num 31:47]] suffix <span class="bdbLangHebrew">‎מַחֲצִיתוֺ‎</span> [[Exod.30.23|Exod 30:23]], <span class="bdbLangHebrew">‎מַחֲצִיתָהּ‎</span> [[Lev.6.13|Lev 6:13]] (twice in verse), <span class="bdbLangHebrew">‎מַחֲצִיתָם‎</span> [[Num.31.29|Num 31:29]] — 
 

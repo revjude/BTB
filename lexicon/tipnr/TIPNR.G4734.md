@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Stephanas</span> was a believer from Corinth who, along with his household, was baptized by Paul and later visited Paul to provide support and encouragement.
 - A man living at the time of the New Testament, first mentioned at [[1Cor.1.16|1Co.1.16]]; 
-- referred to as Stephanas or \[ \] \(KJV= Stephanas\) <[[G4734]]> \(<span class='tipnrLangGreek'>Στεφανᾶς</span>\).
+- referred to as Stephanas or \[ \] \(KJV= Stephanas\)  **<big>[[G4734|Στεφανᾶς]]</big>**.
 
 Stephanas was a member of the church in Corinth who is mentioned in [[1Cor.1.16|1 Corinthians 1:16]] and 16:15-17. He and his household were among the first converts in Achaia \(the region of Greece where Corinth was located\) and were baptized by Paul himself \([[1Cor.1.16|1 Corinthians 1:16]]\). 
 
@@ -18,6 +18,6 @@ Overall, Stephanas emerges as an exemplary member of the early church, whose fai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Stephanas | [<span class='tipnrLangGreek'>Στεφανᾶς</span>](G4734) <small>*Greek*</small> | 3x | [[1Co.1.16] ... [1Co.16.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Stephanas\*\|reference=1Co.1.16;1Co.16.15;1Co.16.17) |
-| [ ] (KJV= Stephanas) | [<span class='tipnrLangGreek'>Στεφανᾶς</span>](G4734) <small>*Greek*</small> | 1x | [1Co.16.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=1Co.16.24) |
-All Strong's for **Stephanas**: \[[[G4734]]\]
+| Stephanas | [<span class='tipnrLangGreek'>Στεφανᾶς</span>](G4734) | 3x | [[1Co.1.16] ... [1Co.16.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Stephanas\*\|reference=1Co.1.16;1Co.16.15;1Co.16.17) |
+| [ ] (KJV= Stephanas) | [<span class='tipnrLangGreek'>Στεφανᾶς</span>](G4734) | 1x | [1Co.16.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=1Co.16.24) |
+All entries for **Stephanas**:  **<big>[[G4734|Στεφανᾶς]]</big>**

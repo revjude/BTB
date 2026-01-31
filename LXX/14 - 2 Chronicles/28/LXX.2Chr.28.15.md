@@ -7,61 +7,61 @@ And the men which were expressed by name rose up, and took the captives, and wit
 Then the men who were designated by name arose, took charge of the captives, and provided from the plunder clothing for the naked. They clothed them, gave them sandals and food and drink, anointed their wounds, and put all the feeble on donkeys. So they brought them to Jericho, the City of Palms, to their brothers. Then they returned to Samaria.<small><sub>**MT:**</sub></small>
 [[2Chr.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.14|<< 2 Chronicles 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.16|2 Chronicles 28:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were called | <big><span class="asgreek">επεκλήθησαν</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| name, | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they took hold of | <big><span class="asgreek">αντελάβοντο</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| captivity. | <big><span class="asgreek">αιχμαλωσίας</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| naked | <big><span class="asgreek">γυμνούς</span></big> <sup><small><small>[[G1131]]</small></small></sup> |
-| they covered | <big><span class="asgreek">περιέβαλον</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils, | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| clothed | <big><span class="asgreek">ενέδυσαν</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tied \[sandals\] upon them, | <big><span class="asgreek">υπέδησαν</span></big> <sup><small><small>[[G5265]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to drink, | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to anoint. | <big><span class="asgreek">αλείψασθαι</span></big> <sup><small><small>[[G0218]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they assisted them | <big><span class="asgreek">αντελάβοντο</span></big> <sup><small><small>[[G0482]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| beasts of burden | <big><span class="asgreek">υποζυγίοις</span></big> <sup><small><small>[[G5268]]</small></small></sup> |
-| for all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] infirm. | <big><span class="asgreek">ασθενούς</span></big> <sup><small><small>[[G0772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they placed | <big><span class="asgreek">κατέστησαν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jericho, | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of palms, | <big><span class="asgreek">φοινίκων</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| their brethren. | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they returned | <big><span class="asgreek">επέστρεψαν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Samaria. | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| who | **<big>[[G3739\|οι]]</big>** |
+| were called | **<big>[[G1941\|επεκλήθησαν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| name, | **<big>[[G3686\|ονόματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they took hold of | **<big>[[G0482\|αντελάβοντο]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| captivity. | **<big>[[G0161\|αιχμαλωσίας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| naked | **<big>[[G1131\|γυμνούς]]</big>** |
+| they covered | **<big>[[G4016\|περιέβαλον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| spoils, | **<big>[[G4661\|σκύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| clothed | **<big>[[G1746\|ενέδυσαν]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tied \[sandals\] upon them, | **<big>[[G5265\|υπέδησαν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave | **<big>[[G1325\|έδωκαν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to eat | **<big>[[G2068\|φαγείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to drink, | **<big>[[G4095\|πιείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to anoint. | **<big>[[G0218\|αλείψασθαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they assisted them | **<big>[[G0482\|αντελάβοντο]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| beasts of burden | **<big>[[G5268\|υποζυγίοις]]</big>** |
+| for all | **<big>[[G3956\|παντός]]</big>** |
+| \[the\] infirm. | **<big>[[G0772\|ασθενούς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they placed | **<big>[[G2525\|κατέστησαν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Jericho, | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| of palms, | **<big>[[G5404\|φοινίκων]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| their brethren. | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they returned | **<big>[[G1994\|επέστρεψαν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Samaria. | **<big>[[G4540\|Σαμάρειαν]]</big>** |
 [[2Chr.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.14|<< 2 Chronicles 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.16|2 Chronicles 28:16 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 and from Mattanah to Nahaliel, and from Nahaliel to Bamoth,<small><sub>**MT:**</sub></small>
 [[Num.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.18|<< Numbers 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.20|Numbers 21:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Mattanah | <big><span class="asgreek">Μανθαναείν</span></big> <sup><small><small>[[H4980]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Nahaliel. | <big><span class="asgreek">Νααλιήλ</span></big> <sup><small><small>[[H5160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Nahaliel | <big><span class="asgreek">Νααλιήλ</span></big> <sup><small><small>[[H5160]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Bamoth. | <big><span class="asgreek">Βαμώθ</span></big> <sup><small><small>[[H1120]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Bamoth | <big><span class="asgreek">Βαμώθ</span></big> <sup><small><small>[[H1120]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Janen | <big><span class="asgreek">Ιανήν</span></big> <sup><small><small>[[G9831]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| \[seen\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">κορυφής</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dressing of the stone -- | <big><span class="asgreek">λελαξευμένου</span></big> <sup><small><small>[[G8162]]</small></small></sup> |
-| the \[place\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλέπον</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| down at | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Mattanah | **<big>[[H4980\|Μανθαναείν]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Nahaliel. | **<big>[[H5160\|Νααλιήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Nahaliel | **<big>[[H5160\|Νααλιήλ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Bamoth. | **<big>[[H1120\|Βαμώθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Bamoth | **<big>[[H1120\|Βαμώθ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Janen | **<big>[[G9831\|Ιανήν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| plain | **<big>[[G8676\|πεδίω]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| \[seen\] from | **<big>[[G0575\|από]]</big>** |
+| \[the\] top | **<big>[[G8073\|κορυφής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| dressing of the stone -- | **<big>[[G8162\|λελαξευμένου]]</big>** |
+| the \[place\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| looking | **<big>[[G0991\|βλέπον]]</big>** |
+| down at | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμου]]</big>** |
 [[Num.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.18|<< Numbers 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.20|Numbers 21:20 >>]]</td></tr></table>
 
 

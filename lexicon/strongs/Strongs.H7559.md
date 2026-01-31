@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָשַׁם‎</span></big> **râsham** <small>*(raw-sham')*</small> ==**to inscribe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָשַׁם‎</span></big>** **râsham** <small>*(raw-sham')*</small> ==**to inscribe**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ note.

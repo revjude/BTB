@@ -7,45 +7,45 @@ When the boughs thereof are withered, they shall be broken off: the women come, 
 When its limbs are dry, they are broken off. Women come and use them for kindling; for this is a people without understanding. Therefore their Maker has no compassion on them, and their Creator shows them no favor.<small><sub>**MT:**</sub></small>
 [[Isa.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.10|<< Isaiah 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.12|Isaiah 27:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| much | <big><span class="asgreek">πολύν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| time | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| there will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| green \[thing\] | <big><span class="asgreek">χλωρόν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| drying out. | <big><span class="asgreek">ξηρανθήναι</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
-| O women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχόμεναι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a spectacle, | <big><span class="asgreek">θέας</span></big> <sup><small><small>[[G2299]]</small></small></sup> |
-| come. | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| having | <big><span class="asgreek">έχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| understanding. | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| pity | <big><span class="asgreek">οικτειρήση</span></big> <sup><small><small>[[G3627]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιήσας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shaping | <big><span class="asgreek">πλάσας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| show mercy. | <big><span class="asgreek">ελεήση</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| much | **<big>[[G4183\|πολύν]]</big>** |
+| time | **<big>[[G5550\|χρόνον]]</big>** |
+| there will not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| green \[thing\] | **<big>[[G5515\|χλωρόν]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| drying out. | **<big>[[G3583\|ξηρανθήναι]]</big>** |
+| O women | **<big>[[G1135\|γυναίκες]]</big>** |
+| coming | **<big>[[G2064\|ερχόμεναι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a spectacle, | **<big>[[G2299\|θέας]]</big>** |
+| come. | **<big>[[G1205\|δεύτε]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| a people | **<big>[[G2992\|λαός]]</big>** |
+| it is | **<big>[[G1510\|εστιν]]</big>** |
+| having | **<big>[[G2192\|έχων]]</big>** |
+| understanding. | **<big>[[G4907\|σύνεσιν]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| pity | **<big>[[G3627\|οικτειρήση]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| making | **<big>[[G4160\|ποιήσας]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| shaping | **<big>[[G4111\|πλάσας]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| show mercy. | **<big>[[G1653\|ελεήση]]</big>** |
 [[Isa.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.10|<< Isaiah 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.12|Isaiah 27:12 >>]]</td></tr></table>
 
 

@@ -1,6 +1,4 @@
-<span class="ashebrew">‎גִּבְלִי‎</span> <small>***(giv.li)***</small> ==**Gebalite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-group of: <small>[[H1380]]</small> 
+<small>group of:</small> <small>**<big>[[H1380|גְּבַל]]</big>**</small> 
 
 
-- Group of <i>ge.val</i> (<span class='ashebrew'>‎ג‎</span>ְּ<span class='ashebrew'>‎ב‎</span>ַ<span class='ashebrew'>‎ל‎</span> "Gebal" [[H1380]])
-
+- Group of <i>ge.val</i> (<span class='ashebrew'>‎ג‎</span>ְּ<span class='ashebrew'>‎ב‎</span>ַ<span class='ashebrew'>‎ל‎</span> "Gebal" **<big>[[H1380|גְּבַל]]</big>**)

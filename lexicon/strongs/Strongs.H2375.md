@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲזוֹ‎</span></big> **Chăzôw** <small>*(khaz-o')*</small> ==**Hazo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָזָה‎</span><sup><small>[[H2372]]</small></sup>; seer</small>
+**<big><span class="ashebrew">‎חֲזוֹ‎</span></big>** **Chăzôw** <small>*(khaz-o')*</small> ==**Hazo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2372|‎חָזָה‎]]</big>**; seer</small>
 
 $\quad$ Hazo.
 - § Hazo = *"vision"*

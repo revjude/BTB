@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Aridatha</span> was one of the ten sons of Haman, who were killed and hanged after their father's downfall.
 - A man living at the time of Exile and Return, only mentioned at [[Esth.9.8|Est.9.8]]; 
-- only referred to as Aridatha<[[H0743]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יד</span>ָ֑<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>א</span>\); 
--  son of Haman<[[H2001]]>; 
-- a brother of Parshandatha<[[H6577]]>, Dalphon<[[H1813]]>, Aspatha<[[H0630]]>, Poratha<[[H6334]]>, Adalia<[[H0118]]>, Parmashta<[[H6534]]>, Arisai<[[H0747]]>, Aridai<[[H0742]]> and Vaizatha<[[H2055]]>.
+- only referred to as Aridatha **<big>[[H0743|אֲרִידָתָא]]</big>**; 
+-  son of Haman **<big>[[H2001|הָמָן]]</big>**; 
+- a brother of Parshandatha **<big>[[H6577|פַּרְשַׁנְדָּתָא]]</big>**, Dalphon **<big>[[H1813|דַּלְפוֹן]]</big>**, Aspatha **<big>[[H0630|אַסְפָּתָא]]</big>**, Poratha **<big>[[H6334|פּוֹרָתָא]]</big>**, Adalia **<big>[[H0118|אֲדַלְיָא]]</big>**, Parmashta **<big>[[H6534|פַּרְמַשְׁתָּא]]</big>**, Arisai **<big>[[H0747|אֲרִיסַי]]</big>**, Aridai **<big>[[H0742|אֲרִידַי]]</big>** and Vaizatha **<big>[[H2055|וַיְזָתָא]]</big>**.
 
 Aridatha is mentioned in the book of Esther as one of the ten sons of Haman, the chief antagonist in the story. Haman, a high-ranking official in the Persian court, plotted to destroy all the Jews in the empire due to his hatred for Mordecai, a Jew who refused to bow down to him. However, Haman's plan was thwarted by Queen Esther, who revealed her Jewish identity to King Ahasuerus and exposed Haman's evil scheme. 
 
@@ -16,8 +16,8 @@ After this victory, Queen Esther requested that the bodies of Haman's sons be ha
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aridatha | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יד</span>ָ֑<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>א</span>](H0743) <small>*Hebrew*</small> | 1x | [Est.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aridatha\*\|reference=Est.9.8) |
-All Strong's for **Aridatha**: \[[[H0743]]\]
+| Aridatha | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יד</span>ָ֑<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>א</span>](H0743) | 1x | [Est.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aridatha\*\|reference=Est.9.8) |
+All entries for **Aridatha**:  **<big>[[H0743|אֲרִידָתָא]]</big>**
 #### Related Profiles:
 - **[Haman](H2001)** (father)
 - **[Zeresh](H2238)** (mother)

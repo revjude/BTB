@@ -7,19 +7,19 @@ Though I have bound [and] strengthened their arms, yet do they imagine mischief 
 Although I trained and strengthened their arms, they plot evil against Me.<small><sub>**MT:**</sub></small>
 [[Hos.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.14|<< Hosea 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.16|Hosea 7:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They were corrected | <big><span class="asgreek">επαιδεύθησαν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me; | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I strengthened | <big><span class="asgreek">κατίσχυσα</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their arms; | <big><span class="asgreek">βραχίονας</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they devised | <big><span class="asgreek">ελογίσαντο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| wicked \[things\]. | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| They were corrected | **<big>[[G3811\|επαιδεύθησαν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| me; | **<big>[[G1473\|εμοί]]</big>** |
+| I strengthened | **<big>[[G2729\|κατίσχυσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their arms; | **<big>[[G1023\|βραχίονας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1519\|εις]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| they devised | **<big>[[G3049\|ελογίσαντο]]</big>** |
+| wicked \[things\]. | **<big>[[G4190\|πονηρά]]</big>** |
 [[Hos.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.14|<< Hosea 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.16|Hosea 7:16 >>]]</td></tr></table>
 
 

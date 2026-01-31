@@ -6,15 +6,15 @@ If I have denied the desires of the poor or allowed the widow’s eyes to fail,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.15|<< Job 31:15]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.17|Job 31:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I withheld  | <span class="ashebrew"><big>אֶ֭מְנַע </big></span><small><small><sup>[[H4513]]</sup></small></small> &#8207;| 'Em.na' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| any of [the] desire of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>חֵ֣פֶץ </big></span><small><small><sup>[[H2656]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Che.fetz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poor [people]  | <span class="ashebrew"><big>דַּלִּ֑ים </big></span><small><small><sup>[[H1800]]</sup></small></small> &#8207;| da.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] eyes of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵינֵ֖י </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Nei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a widow  | <span class="ashebrew"><big>אַלְמָנָ֣ה </big></span><small><small><sup>[[H0490]]</sup></small></small> &#8207;| 'al.ma.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I caused to fail  | <span class="ashebrew"><big>אֲכַלֶּֽה </big></span><small><small><sup>[[H3615J]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.kha.Leh <small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I withheld  |**<big>&#8207;[[H4513\|אֶ֭מְנַע]]&#8207; </big>**| 'Em.na'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any of [the] desire of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2656\|חֵ֣פֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.fetz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor [people]  |**<big>&#8207;[[H1800\|דַּלִּ֑ים]]&#8207; </big>**| da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] eyes of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵינֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a widow  |**<big>&#8207;[[H0490\|אַלְמָנָ֣ה]]&#8207; </big>**| 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I caused to fail  |**<big>&#8207;[[H3615J\|אֲכַלֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.kha.Leh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.15|<< Job 31:15]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.17|Job 31:17 >>]]</td></tr></table>
 
 

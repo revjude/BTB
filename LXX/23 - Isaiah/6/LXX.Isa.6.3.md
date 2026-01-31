@@ -11,27 +11,27 @@ And they were calling out to one another: “Holy, holy, holy is the LORD of Hos
 > $\quad$ referenced by: [[Rev.4.8|Rev 4:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they cried out | <big><span class="asgreek">εκέκραγον</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| another, | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Holy, | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| holy, | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \[is the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts; | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| \[is\] full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his glory. | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they cried out | **<big>[[G2896\|εκέκραγον]]</big>** |
+| another | **<big>[[G2087\|έτερος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| another, | **<big>[[G2087\|έτερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G3004\|έλεγον]]</big>** |
+| Holy, | **<big>[[G0039\|άγιος]]</big>** |
+| holy, | **<big>[[G0039\|άγιος]]</big>** |
+| holy | **<big>[[G0039\|άγιος]]</big>** |
+| \[is the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of Hosts; | **<big>[[G4519\|σαβαώθ]]</big>** |
+| \[is\] full | **<big>[[G4134\|πλήρης]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his glory. | **<big>[[G1391\|δόξης]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Isa.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.2|<< Isaiah 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.4|Isaiah 6:4 >>]]</td></tr></table>
 
 

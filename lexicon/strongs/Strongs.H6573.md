@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎פַּרְשֶׁגֶן‎</span></big> **parshegen** <small>*(par-sheh'-ghen)*</small> ==**copy**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎פַּרְשֶׁגֶן‎</span><sup><small>[[H6572]]</small></sup></small>
+**<big><span class="asaramaic">‎פַּרְשֶׁגֶן‎</span></big>** **parshegen** <small>*(par-sheh'-ghen)*</small> ==**copy**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6572|‎פַּרְשֶׁגֶן‎]]</big>**</small>
 
 $\quad$ copy.
 - {***a transcript***}

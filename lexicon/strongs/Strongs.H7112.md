@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָצַץ‎</span></big> **qâtsats** <small>*(kaw-tsats')*</small> ==**to cut**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָצַץ‎</span></big>** **qâtsats** <small>*(kaw-tsats')*</small> ==**to cut**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cut (asunder, in pieces, in sunder, off), [idiom] utmost.
@@ -9,4 +9,4 @@ $\quad$ **1a)** (Qal) to cut off
 $\quad$ **1b)** (Piel) to cut or hew off, cut in two, cut in pieces
 $\quad$ **1c)** (Pual) to be cut or hewn off
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποκόπτω</span><sup><small>[[G0609]]</small></sup> · <span class="asgreek">κατακόπτω</span><sup><small>[[G2629]]</small></sup> · <span class="asgreek">κείρω</span><sup><small>[[G2751]]</small></sup> · <span class="asgreek">κολοβόω</span><sup><small>[[G2856]]</small></sup>
+<small>See Greek: </small>**<big>[[G0609|ἀποκόπτω]]</big>** · **<big>[[G2629|κατακόπτω]]</big>** · **<big>[[G2751|κείρω]]</big>** · **<big>[[G2856|κολοβόω]]</big>**

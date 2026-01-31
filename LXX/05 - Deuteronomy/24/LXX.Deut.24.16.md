@@ -7,26 +7,26 @@ The fathers shall not be put to death for the children, neither shall the childr
 Fathers shall not be put to death for their children, nor children for their fathers; each is to die for his own sin.<small><sub>**MT:**</sub></small>
 [[Deut.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.15|<< Deuteronomy 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.17|Deuteronomy 24:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| Fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \[the\] children, | <big><span class="asgreek">τέκνων</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die | <big><span class="asgreek">αποθανούνται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| \[the\] fathers; | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die | **<big>[[G0599\|αποθανούνται]]</big>** |
+| Fathers | **<big>[[G3962\|πατέρες]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| \[the\] children, | **<big>[[G5043\|τέκνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die | **<big>[[G0599\|αποθανούνται]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| \[the\] fathers; | **<big>[[G3962\|πατέρων]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his own | **<big>[[G1438\|εαυτού]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
 [[Deut.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.15|<< Deuteronomy 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.17|Deuteronomy 24:17 >>]]</td></tr></table>
 
 

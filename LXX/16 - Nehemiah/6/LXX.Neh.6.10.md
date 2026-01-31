@@ -7,39 +7,39 @@ Afterward I came unto the house of Shemaiah the son of Delaiah the son of Meheta
 Later, I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was confined to his house. He said: “Let us meet at the house of God inside the temple. Let us shut the temple doors because they are coming to kill you—by night they are coming to kill you!”<small><sub>**MT:**</sub></small>
 [[Neh.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.9|<< Nehemiah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.11|Nehemiah 6:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Shemaiah | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Dalaiah, | <big><span class="asgreek">Δελαϊα</span></big> <sup><small><small>[[H1806]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Mehetabeel, | <big><span class="asgreek">Μεταβεήλ</span></big> <sup><small><small>[[H4105]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was constrained; | <big><span class="asgreek">συνεχόμενος</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We should gather together | <big><span class="asgreek">συναχθώμεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we should lock | <big><span class="asgreek">κλείσωμεν</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its doors, | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they are coming | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| by night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| to murder | <big><span class="asgreek">φονεύσαί</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And I | **<big>[[G2504\|καγώ]]</big>** |
+| entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of Shemaiah | **<big>[[H8096\|Σεμεϊ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Dalaiah, | **<big>[[H1806\|Δελαϊα]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Mehetabeel, | **<big>[[H4105\|Μεταβεήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| was constrained; | **<big>[[G4912\|συνεχόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| We should gather together | **<big>[[G4863\|συναχθώμεν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we should lock | **<big>[[G2808\|κλείσωμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| its doors, | **<big>[[G2374\|θύρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they are coming | **<big>[[G2064\|έρχονται]]</big>** |
+| by night | **<big>[[G3571\|νυκτός]]</big>** |
+| to murder | **<big>[[G5407\|φονεύσαί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Neh.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.9|<< Nehemiah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.11|Nehemiah 6:11 >>]]</td></tr></table>
 
 

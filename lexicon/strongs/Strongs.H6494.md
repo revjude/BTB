@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּקַחְיָה‎</span></big> **Pᵉqachyâh** <small>*(pek-akh-yaw')*</small> ==**Pekahiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּקַח‎</span><sup><small>[[H6491]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has observed</small>
+**<big><span class="ashebrew">‎פְּקַחְיָה‎</span></big>** **Pᵉqachyâh** <small>*(pek-akh-yaw')*</small> ==**Pekahiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6491|‎פָּקַח‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has observed</small>
 
 $\quad$ Pekahiah.
 - § Pekahiah = *"Jehovah sees"*

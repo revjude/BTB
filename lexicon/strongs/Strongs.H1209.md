@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּצַי‎</span></big> **Bêtsay** <small>*(bay-tsah'-ee)*</small> ==**Bezai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>perhaps the same as <span class="ashebrew">‎בְּסַי‎</span><sup><small>[[H1153]]</small></sup></small>
+**<big><span class="ashebrew">‎בֵּצַי‎</span></big>** **Bêtsay** <small>*(bay-tsah'-ee)*</small> ==**Bezai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>perhaps the same as **<big>[[H1153|‎בְּסַי‎]]</big>**</small>
 
 $\quad$ Bezai.
 - § Bezai = *"conqueror"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כֶּלַח‎</span></big> **Kelach** <small>*(keh'-lakh)*</small> ==**Calah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎כֶּלַח‎</span><sup><small>[[H3624]]</small></sup></small>
+**<big><span class="ashebrew">‎כֶּלַח‎</span></big>** **Kelach** <small>*(keh'-lakh)*</small> ==**Calah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H3624|‎כֶּלַח‎]]</big>**</small>
 
 $\quad$ Calah.
 - § Calah = *"vigour"*

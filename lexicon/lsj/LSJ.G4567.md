@@ -1,4 +1,4 @@
-spelling of: <small>[[H7854]]</small> 
+spelling of: <small>**<big>[[H7854|שָׂטָן]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==Σατανᾶς==</span></b> 

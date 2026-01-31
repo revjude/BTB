@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָקַב‎</span></big> **nâqab** <small>*(naw-kab')*</small> ==**to pierce**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָקַב‎</span></big>** **nâqab** <small>*(naw-kab')*</small> ==**to pierce**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appoint, blaspheme, bore, curse, express, with holes, name, pierce, strike through.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** to prick off, designate
 $\quad$ **1b)** (Niphal) to be pricked off, be designated, be specified
 **2)** (Qal) to curse, blaspheme
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">ἐπικαλέομαι</span><sup><small>[[G1941]]</small></sup> · <span class="asgreek">ἐπονομάζω</span><sup><small>[[G2028]]</small></sup> · <span class="asgreek">καταράομαι</span><sup><small>[[G2672]]</small></sup> · <span class="asgreek">ὀνομάζω</span><sup><small>[[G3687]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup>
+<small>See Greek: </small>**<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1941|ἐπικαλέομαι]]</big>** · **<big>[[G2028|ἐπονομάζω]]</big>** · **<big>[[G2672|καταράομαι]]</big>** · **<big>[[G3687|ὀνομάζω]]</big>** · **<big>[[G4863|συνάγω]]</big>**

@@ -7,58 +7,58 @@ Then came there unto him all his brethren, and all his sisters, and all they tha
 All his brothers and sisters and prior acquaintances came and dined with him in his house. They consoled him and comforted him over all the adversity that the LORD had brought upon him. And each one gave him a piece of silver and a gold ring.<small><sub>**MT:**</sub></small>
 [[Job.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.10|<< Job 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.12|Job 42:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| heard | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brothers | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sisters | <big><span class="asgreek">αδελφαί</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming to pass | <big><span class="asgreek">συμβεβήκοτα</span></big> <sup><small><small>[[G4819]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| knew | <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| first. | <big><span class="asgreek">πρώτου</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| And eating | <big><span class="asgreek">φαγόντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| drinking | <big><span class="asgreek">πιόντες</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| with | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they comforted | <big><span class="asgreek">παρεκάλεσαν</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they wondered | <big><span class="asgreek">εθαύμασαν</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| brought | <big><span class="asgreek">επήγαγεν</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| ewe-lamb | <big><span class="asgreek">αμνάδα</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a four-drachma | <big><span class="asgreek">τετράδραχμον</span></big> <sup><small><small>[[G9434]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσούν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| \[piece\] of unmarked | <big><span class="asgreek">άσημον</span></big> <sup><small><small>[[G0767]]</small></small></sup> |
+| heard | **<big>[[G0191\|ήκουσαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his brothers | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his sisters | **<big>[[G0079\|αδελφαί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| coming to pass | **<big>[[G4819\|συμβεβήκοτα]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| as many as | **<big>[[G3745\|όσοι]]</big>** |
+| knew | **<big>[[G1492\|ήδεισαν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| first. | **<big>[[G4413\|πρώτου]]</big>** |
+| And eating | **<big>[[G2068\|φαγόντες]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| drinking | **<big>[[G4095\|πιόντες]]</big>** |
+| with | **<big>[[G3844\|παρ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
+| they comforted | **<big>[[G3870\|παρεκάλεσαν]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they wondered | **<big>[[G2296\|εθαύμασαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσιν]]</big>** |
+| which | **<big>[[G3739\|οις]]</big>** |
+| brought | **<big>[[G1863\|επήγαγεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| gave | **<big>[[G1325\|έδωκε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| ewe-lamb | **<big>[[G6261\|αμνάδα]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a four-drachma | **<big>[[G9434\|τετράδραχμον]]</big>** |
+| gold | **<big>[[G5552\|χρυσούν]]</big>** |
+| \[piece\] of unmarked | **<big>[[G0767\|άσημον]]</big>** |
 [[Job.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.10|<< Job 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.12|Job 42:12 >>]]</td></tr></table>
 
 

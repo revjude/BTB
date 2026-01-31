@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁכְמָה‎</span></big> **shikmâh** <small>*(shik-maw')*</small> ==**shoulder**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שְׁכֶם‎</span><sup><small>[[H7926]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁכְמָה‎</span></big>** **shikmâh** <small>*(shik-maw')*</small> ==**shoulder**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H7926|‎שְׁכֶם‎]]</big>**</small>
 
 $\quad$ shoulder blade.
 - ***the shoulderbone***
@@ -8,4 +8,4 @@ $\quad$ shoulder blade.
 $\quad$ **1a)** shoulder, shoulder-blade
 $\quad$ **1b)** back (in general)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλείς</span><sup><small>[[G2807]]</small></sup>
+<small>See Greek: </small>**<big>[[G2807|κλείς]]</big>**

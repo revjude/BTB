@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִידָע‎</span></big> **ʼĂbîydâʻ** <small>*(ab-ee-daw')*</small> ==**Abida**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup>; father of knowledge (i.e. knowing)</small>
+**<big><span class="ashebrew">‎אֲבִידָע‎</span></big>** **ʼĂbîydâʻ** <small>*(ab-ee-daw')*</small> ==**Abida**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H3045|‎יָדַע‎]]</big>**; father of knowledge (i.e. knowing)</small>
 
 $\quad$ Abida, Abidah.
 - § Abida or Abidah = *"my father knows"*

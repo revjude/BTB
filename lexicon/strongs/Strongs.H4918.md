@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְשֻׁלָּם‎</span></big> **Mᵉshullâm** <small>*(mesh-ool-lawm')*</small> ==**Meshullam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup>; allied</small>
+**<big><span class="ashebrew">‎מְשֻׁלָּם‎</span></big>** **Mᵉshullâm** <small>*(mesh-ool-lawm')*</small> ==**Meshullam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7999|‎שָׁלַם‎]]</big>**; allied</small>
 
 $\quad$ Meshullam.
 - § Meshullam = *"friend"*

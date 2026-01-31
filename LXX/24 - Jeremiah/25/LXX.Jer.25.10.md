@@ -11,27 +11,27 @@ Moreover, I will banish from them the sounds of joy and gladness, the voices of 
 > $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will destroy | <big><span class="asgreek">απολώ</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of joy, | <big><span class="asgreek">χαράς</span></big> <sup><small><small>[[G5479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of gladness, | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] groom, | <big><span class="asgreek">νυμφίου</span></big> <sup><small><small>[[G3566]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of \[the\] bride, | <big><span class="asgreek">νύμφης</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
-| \[the\] scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of perfumed liquid, | <big><span class="asgreek">μύρου</span></big> <sup><small><small>[[G3464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of a lamp. | <big><span class="asgreek">λύχνου</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will destroy | **<big>[[G0622\|απολώ]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of joy, | **<big>[[G5479\|χαράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of gladness, | **<big>[[G2167\|ευφροσύνης]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of \[the\] groom, | **<big>[[G3566\|νυμφίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of \[the\] bride, | **<big>[[G3565\|νύμφης]]</big>** |
+| \[the\] scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of perfumed liquid, | **<big>[[G3464\|μύρου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] light | **<big>[[G5457\|φως]]</big>** |
+| of a lamp. | **<big>[[G3088\|λύχνου]]</big>** |
 [[Jer.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.9|<< Jeremiah 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.11|Jeremiah 25:11 >>]]</td></tr></table>
 
 

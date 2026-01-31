@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כּוּשׁ‎</span></big> **Kûwsh** <small>*(koosh)*</small> ==**Cush**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎כּוּשׁ‎</span></big>** **Kûwsh** <small>*(koosh)*</small> ==**Cush**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Chush, Cush, Ethiopia.

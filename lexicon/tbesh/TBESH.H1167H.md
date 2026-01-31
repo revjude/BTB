@@ -1,4 +1,3 @@
-<span class="ashebrew">‎בַּעַל‎</span> <small>***(ba.al)***</small> ==**master: husband**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H1167G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H1167G|בַּעַל]]</big>**</small> 
 
 - : husband/groom

@@ -6,16 +6,16 @@ Hold on to instruction; do not let go. Guard it, for it is your life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.12|<< Proverbs 4:12]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.14|Proverbs 4:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| take hold  | <span class="ashebrew"><big>הַחֲזֵ֣ק </big></span><small><small><sup>[[H2388H]]</sup></small></small> &#8207;| ha.cha.Zek <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on \<the> discipline  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מּוּסָ֣ר </big></span><small><small><sup>[[H4148H]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> mu.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you let go  | <span class="ashebrew"><big>תֶּ֑רֶף </big></span><small><small><sup>[[H7503]]</sup></small></small> &#8207;| Te.ref <small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| keep her  | <span class="ashebrew"><big>נִ֝צְּרֶ֗ </big></span><small><small><sup>[[H5341]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ni.tze.Re. <small><sup>[[HVqv2ms]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she  | <span class="ashebrew"><big>הִ֥יא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] life your  | <span class="ashebrew"><big>חַיֶּֽי </big></span><small><small><sup>[[H2416E]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chai.Yei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take hold  |**<big>&#8207;[[H2388H\|הַחֲזֵ֣ק]]&#8207; </big>**| ha.cha.Zek<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on \<the> discipline  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4148H\|מּוּסָ֣ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mu.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you let go  |**<big>&#8207;[[H7503\|תֶּ֑רֶף]]&#8207; </big>**| Te.ref<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| keep her  |**<big>&#8207;[[H5341\|נִ֝צְּרֶ֗]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ni.tze.Re.<small><sup>[[HVqv2ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  |**<big>&#8207;[[H1931\|הִ֥יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] life your  |**<big>&#8207;[[H2416E\|חַיֶּֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chai.Yei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.12|<< Proverbs 4:12]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.14|Proverbs 4:14 >>]]</td></tr></table>
 
 

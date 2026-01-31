@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎רְגַל‎</span></big> **rᵉgal** <small>*(reg-al')*</small> ==**foot**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎רֶגֶל‎</span><sup><small>[[H7272]]</small></sup></small>
+**<big><span class="asaramaic">‎רְגַל‎</span></big>** **rᵉgal** <small>*(reg-al')*</small> ==**foot**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7272|‎רֶגֶל‎]]</big>**</small>
 
 $\quad$ foot.
 - {***a foot***, ***a step***

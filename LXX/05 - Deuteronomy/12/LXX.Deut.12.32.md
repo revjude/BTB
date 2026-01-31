@@ -11,26 +11,26 @@ See that you do everything I command you; do not add to it or subtract from it.
 > $\quad$ referenced by: [[Rev.22.18|Rev 22:18]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give charge | <big><span class="asgreek">εντέλλομαί</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall guard | <big><span class="asgreek">φυλάξη</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| to do. | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| add | <big><span class="asgreek">προσθήσεις</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| remove | <big><span class="asgreek">αφελείς</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | **<big>[[G3956\|παν]]</big>** |
+| word | **<big>[[G4487\|ρήμα]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| give charge | **<big>[[G1781\|εντέλλομαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| you shall guard | **<big>[[G5442\|φυλάξη]]</big>** |
+| to do. | **<big>[[G4160\|ποιείν]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| add | **<big>[[G4369\|προσθήσεις]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτό]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| remove | **<big>[[G0851\|αφελείς]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| it. | **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.31|<< Deuteronomy 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.1|Deuteronomy 13:1 >>]]</td></tr></table>
 
 

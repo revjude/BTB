@@ -7,19 +7,19 @@ Wilt thou shew wonders to the dead? shall the dead arise [and] praise thee? Sela
 Do You work wonders for the dead? Do departed spirits rise up to praise You? Selah<small><sub>**MT:**</sub></small>
 [[Ps.88.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.9|<< Psalm 88:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.11|Psalm 88:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκροίς</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| you do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| wonders | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| shall physicians | <big><span class="asgreek">ιατροί</span></big> <sup><small><small>[[G2395]]</small></small></sup> |
-| rise up | <big><span class="asgreek">αναστήσουσι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| make acknowledgment | <big><span class="asgreek">εξομολογήσονταί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
-| to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| dead | **<big>[[G3498\|νεκροίς]]</big>** |
+| you do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| wonders | **<big>[[G2297\|θαυμάσια]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| shall physicians | **<big>[[G2395\|ιατροί]]</big>** |
+| rise up | **<big>[[G0450\|αναστήσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| make acknowledgment | **<big>[[G1843\|εξομολογήσονταί]]</big>** |
+| to you? | **<big>[[G1473\|σοι]]</big>** |
 [[Ps.88.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.9|<< Psalm 88:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.11|Psalm 88:11 >>]]</td></tr></table>
 
 

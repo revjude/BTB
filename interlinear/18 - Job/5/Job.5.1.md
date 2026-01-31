@@ -6,16 +6,16 @@ Call now, if there be any that will answer thee; and to which of the saints wilt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.21|<< Job 4:21]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.2|Job 5:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| call  | <span class="ashebrew"><big>קְֽרָא </big></span><small><small><sup>[[H7121I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.ra'- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֭א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ [is] there  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>יֵ֣שׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Yesh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] answers you  | <span class="ashebrew"><big>עוֹנֶ֑ </big></span><small><small><sup>[[H6030B]]</sup></small></small> <span class="ashebrew"><big>ךָּ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| o.Ne. <small><sup>[[HVqrmsc]]</sup></small> ka <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom?  | <span class="ashebrew"><big>מִ֖י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [the] holy [ones]  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>קְּדֹשִׁ֣ים </big></span><small><small><sup>[[H6918G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ke.do.Shim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you turn  | <span class="ashebrew"><big>תִּפְנֶֽה </big></span><small><small><sup>[[H6437G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tif.Neh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| call  |**<big>&#8207;[[H7121I\|קְֽרָא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.ra'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֭א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ [is] there  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] answers you  |**<big>&#8207;[[H6030B\|עוֹנֶ֑]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207; </big>**| o.Ne.<small><sup>[[HVqrmsc]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom?  |**<big>&#8207;[[H4310\|מִ֖י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] holy [ones]  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6918G\|קְּדֹשִׁ֣ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ke.do.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you turn  |**<big>&#8207;[[H6437G\|תִּפְנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tif.Neh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.21|<< Job 4:21]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.2|Job 5:2 >>]]</td></tr></table>
 
 

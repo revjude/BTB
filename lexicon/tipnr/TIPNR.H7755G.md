@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Socoh</span> was a town in the Shephelah region of Judah \(Josh. 15:35\), known for being near the site of David's battle with Goliath \(1 Sam. 17:1\) and later fortified by Rehoboam \(2 Chr. 11:7\).
 - A location first mentioned at [[Josh.15.35|Jos.15.35]]; 
-- referred to as Socoh or Socoh \(KJV= Shochoh, NIV= Sokoh\) <[[H7755G]]> \(<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>\), or Socoh \(KJV= Shochoh, NIV= Sokoh\) or Socoh \(KJV= Sochoh, NIV= Sokoh\) <[[H7755G]]> \(<span class='tipnrLangHebrew'>ש</span>ֹׂ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>\), or Socoh \(KJV= Shoco, NIV= Sokoh\) <[[H7755G]]> \(<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ו</span>ֹ\).
+- referred to as Socoh or Socoh \(KJV= Shochoh, NIV= Sokoh\)  **<big>[[H7755|שׂוֹכֹה]]</big>**, or Socoh \(KJV= Shochoh, NIV= Sokoh\) or Socoh \(KJV= Sochoh, NIV= Sokoh\)  **<big>[[H7755|שׂוֹכֹה]]</big>**, or Socoh \(KJV= Shoco, NIV= Sokoh\)  **<big>[[H7755|שׂוֹכֹה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.68123465358001,34.97639817516712&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,9 +18,9 @@ The exact location of Socoh is uncertain, but it is believed to be either Khirbe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Socoh (NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) <small>*Hebrew*</small> | 1x | [Jos.15.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=Jos.15.35) |
-| Socoh (KJV= Shochoh; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) <small>*Hebrew*</small> | 1x | [1Sa.17.1b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=1Sa.17.1) |
-| Socoh (KJV= Shochoh; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ֹׂ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) <small>*Hebrew*</small> | 1x | [1Sa.17.1a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=1Sa.17.1) |
-| Socoh (KJV= Sochoh; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ֹׂ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) <small>*Hebrew*</small> | 1x | [1Ki.4.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=1Ki.4.10) |
-| Socoh (KJV= Shoco; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ו</span>ֹ](H7755G) <small>*Hebrew*</small> | 2x | [[2Ch.11.7] & [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=2Ch.11.7;2Ch.28.18) |
-All Strong's for **Socoh**: \[[[H7755G]]\]
+| Socoh (NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) | 1x | [Jos.15.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=Jos.15.35) |
+| Socoh (KJV= Shochoh; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) | 1x | [1Sa.17.1b ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=1Sa.17.1) |
+| Socoh (KJV= Shochoh; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ֹׂ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) | 1x | [1Sa.17.1a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=1Sa.17.1) |
+| Socoh (KJV= Sochoh; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ֹׂ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ה</span>](H7755G) | 1x | [1Ki.4.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=1Ki.4.10) |
+| Socoh (KJV= Shoco; NIV= Sokoh) | [<span class='tipnrLangHebrew'>ש</span>ׂ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>כ</span>ֹ<span class='tipnrLangHebrew'>ו</span>ֹ](H7755G) | 2x | [[2Ch.11.7] & [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Socoh\*\|reference=2Ch.11.7;2Ch.28.18) |
+All entries for **Socoh**:  **<big>[[H7755|שׂוֹכֹה]]</big>**

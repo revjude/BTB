@@ -7,27 +7,27 @@ The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and
 The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram. The sons of Aram: Uz, Hul, Gether, and Meshech.<small><sub>**MT:**</sub></small>
 [[1Chr.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.16|<< 1 Chronicles 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.18|1 Chronicles 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Shem -- | <big><span class="asgreek">Σημ</span></big> <sup><small><small>[[G4590]]</small></small></sup> |
-| Elam, | <big><span class="asgreek">Αιλάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asshur, | <big><span class="asgreek">Ασούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Arphaxad, | <big><span class="asgreek">Αρφαξάδ</span></big> <sup><small><small>[[G0742]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lud, | <big><span class="asgreek">Λουδ</span></big> <sup><small><small>[[H3865]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Aram, | <big><span class="asgreek">Αράμ</span></big> <sup><small><small>[[H7410]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Uz, | <big><span class="asgreek">Ους</span></big> <sup><small><small>[[H5780]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hul, | <big><span class="asgreek">Ουλ</span></big> <sup><small><small>[[H2343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gether, | <big><span class="asgreek">Γετηέρ</span></big> <sup><small><small>[[H1666]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Meshech. | <big><span class="asgreek">Μοσόχ</span></big> <sup><small><small>[[H4902]]</small></small></sup> |
+| \[The\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Shem -- | **<big>[[G4590\|Σημ]]</big>** |
+| Elam, | **<big>[[G1639\|Αιλάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asshur, | **<big>[[H0804\|Ασούρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Arphaxad, | **<big>[[G0742\|Αρφαξάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Lud, | **<big>[[H3865\|Λουδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Aram, | **<big>[[H7410\|Αράμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Uz, | **<big>[[H5780\|Ους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hul, | **<big>[[H2343\|Ουλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Gether, | **<big>[[H1666\|Γετηέρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Meshech. | **<big>[[H4902\|Μοσόχ]]</big>** |
 [[1Chr.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.16|<< 1 Chronicles 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.18|1 Chronicles 1:18 >>]]</td></tr></table>
 
 

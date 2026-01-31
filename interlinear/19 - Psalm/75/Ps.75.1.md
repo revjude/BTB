@@ -6,16 +6,16 @@ For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.0|<< Psalms 75:0]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.2|Psalms 75:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| we give thanks  | <span class="ashebrew"><big>ה֘וֹדִ֤ינוּ </big></span><small><small><sup>[[H3034]]</sup></small></small> &#8207;| ho.Di.nu <small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  | <span class="ashebrew"><big>לְּ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֨ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| le. <small><sup>[[HRd]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O God  | <span class="ashebrew"><big>אֱֽלֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'elo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we give thanks  | <span class="ashebrew"><big>ה֭וֹדִינוּ </big></span><small><small><sup>[[H3034]]</sup></small></small> &#8207;| Ho.di.nu <small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] near  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קָר֣וֹב </big></span><small><small><sup>[[H7138]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ka.Rov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name your  | <span class="ashebrew"><big>שְׁמֶ֑ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| she.Me. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people recount  | <span class="ashebrew"><big>סִ֝פְּר֗וּ </big></span><small><small><sup>[[H5608A]]</sup></small></small> &#8207;| si.pe.Ru <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wonders your  | <span class="ashebrew"><big>נִפְלְאוֹתֶֽי </big></span><small><small><sup>[[H6381]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| nif.le.'o.Tei. <small><sup>[[HVNrfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we give thanks  |**<big>&#8207;[[H3034\|ה֘וֹדִ֤ינוּ]]&#8207; </big>**| ho.Di.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we give thanks  |**<big>&#8207;[[H3034\|ה֭וֹדִינוּ]]&#8207; </big>**| Ho.di.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] near  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7138\|קָר֣וֹב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  |**<big>&#8207;[[H8034\|שְׁמֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| she.Me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people recount  |**<big>&#8207;[[H5608A\|סִ֝פְּר֗וּ]]&#8207; </big>**| si.pe.Ru<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wonders your  |**<big>&#8207;[[H6381\|נִפְלְאוֹתֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nif.le.'o.Tei.<small><sup>[[HVNrfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.0|<< Psalms 75:0]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.2|Psalms 75:2 >>]]</td></tr></table>
 
 

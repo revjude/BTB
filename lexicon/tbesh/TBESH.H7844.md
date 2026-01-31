@@ -1,3 +1,1 @@
-<span class="asaramaic">‎שְׁחַת‎</span> <small>***(she.chat)***</small> ==**to corrupt**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H7843]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7843|שָׁחַת]]</big>**</small>

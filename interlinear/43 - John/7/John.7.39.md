@@ -10,36 +10,36 @@ This now He said concerning the Spirit which were about to receive those having 
 > $\quad$ alluding to: [[LXX.Isa.44.3|Isa 44:3]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| This |<big><span class="asgreek">τοῦτο</span></big> <small><small><sup>[[G3778]]</sup></small></small> |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He said |<big><span class="asgreek">εἶπεν</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| concerning |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Spirit |<big><span class="asgreek">πνεύματος</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| which [^1] |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn">N(k)O</abbr> | |
-| were about |<big><span class="asgreek">ἔμελλον</span></big> <small><small><sup>[[G3195]]</sup></small></small> |emellon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to receive |<big><span class="asgreek">λαμβάνειν</span></big> <small><small><sup>[[G2983]]</sup></small></small> |lambanein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having believed [^2] |<big><span class="asgreek">πιστεύσαντες</span></big> <small><small><sup>[[G4100]]</sup></small></small> |pisteusantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| in |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him; |<big><span class="asgreek">αὐτόν·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not yet |<big><span class="asgreek">οὔπω</span></big> <small><small><sup>[[G3768]]</sup></small></small> |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was |<big><span class="asgreek">ἦν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] Spirit |<big><span class="asgreek">πνεῦμα</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneuma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Holy [^3] |<big><span class="asgreek">ἅγιον</span></big> <small><small><sup>[[G0040G]]</sup></small></small> |hagion <small><sup>[[A-NSN]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |
-| given [^4] |<big><span class="asgreek">δεδομένον,</span></big> <small><small><sup>[[G1325]]</sup></small></small> |dedomenon <small><sup>[[V-RPP-NSN]]</sup></small> | <abbr title="NIV+KJV+03">O</abbr> | |
-| because |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754H]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |
-| Jesus |<big><span class="asgreek">Ἰησοῦς</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not yet [^5] |<big><span class="asgreek">οὐδέπω</span></big> <small><small><sup>[[G3764]]</sup></small></small> |oudepō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">N(k)O</abbr> | |
-| was glorified. |<big><span class="asgreek">ἐδοξάσθη.¶</span></big> <small><small><sup>[[G1392]]</sup></small></small> |edoxasthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Spirit |**<big>[[G4151G\|πνεύματος]]</big>**  |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| which [^1] |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn">N(k)O</abbr> | |
+| were about |**<big>[[G3195\|ἔμελλον]]</big>**  |emellon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to receive |**<big>[[G2983\|λαμβάνειν]]</big>**  |lambanein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having believed [^2] |**<big>[[G4100\|πιστεύσαντες]]</big>**  |pisteusantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| in |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him; |**<big>[[G0846\|αὐτόν·]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not yet |**<big>[[G3768\|οὔπω]]</big>**  |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] Spirit |**<big>[[G4151G\|πνεῦμα]]</big>**  |pneuma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Holy [^3] |**<big>[[G0040G\|ἅγιον]]</big>**  |hagion <small><sup>[[A-NSN]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |
+| given [^4] |**<big>[[G1325\|δεδομένον,]]</big>**  |dedomenon <small><sup>[[V-RPP-NSN]]</sup></small> | <abbr title="NIV+KJV+03">O</abbr> | |
+| because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|ὃ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |
+| Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not yet [^5] |**<big>[[G3764\|οὐδέπω]]</big>**  |oudepō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">N(k)O</abbr> | |
+| was glorified. |**<big>[[G1392\|ἐδοξάσθη.¶]]</big>**  |edoxasthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.38|<< John 7:38]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.40|John 7:40 >>]]</td></tr></table>
 
-[^1]: ==SBL+WH+Treg+TR+Byz==: of which | <span class="asgreek">οὗ</span><small><sup>[[G3739]]</sup></small> | hou<small><sup>[[R-GSN]]</sup></small>
-[^2]: ==TR+Byz==: believing | <span class="asgreek">πιστεύοντες</span><small><sup>[[G4100]]</sup></small> | pisteuontes<small><sup>[[V-PAP-NPM]]</sup></small>
-[^3]: Extra Text:  <span class='asgreek'>**ἅγιον**</span>  (<i>hagion</i>) 'Holy' is only in traditional manuscripts (Tyn+Treg+TR+Byz)
-[^4]: Extra Text:  <span class='asgreek'>**δεδομένον**</span>,  (<i>dedomenon</i>) 'given' is only in a few manuscripts (NIV+KJV+03)
-[^5]: ==WH+Treg+KJV==: not yet | <span class="asgreek">οὔπω</span><small><sup>[[G3768]]</sup></small> | oupō<small><sup>[[ADV-N]]</sup></small>
+[^1]: ==SBL+WH+Treg+TR+Byz==: of which | **<big>[[G3739|οὗ]]</big>** | hou<small><sup>[[R-GSN]]</sup></small>
+[^2]: ==TR+Byz==: believing | **<big>[[G4100|πιστεύοντες]]</big>** | pisteuontes<small><sup>[[V-PAP-NPM]]</sup></small>
+[^3]: Extra Text:  **<big><span class='asgreek'>ἅγιον</span></big>**  (<i>hagion</i>) 'Holy' is only in traditional manuscripts (Tyn+Treg+TR+Byz)
+[^4]: Extra Text:  **<big><span class='asgreek'>δεδομένον</span></big>**,  (<i>dedomenon</i>) 'given' is only in a few manuscripts (NIV+KJV+03)
+[^5]: ==WH+Treg+KJV==: not yet | **<big>[[G3768|οὔπω]]</big>** | oupō<small><sup>[[ADV-N]]</sup></small>

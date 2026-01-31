@@ -4,11 +4,11 @@ Joseph's son living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Manasseh</span>, Joseph's firstborn, was blessed by Jacob and became a tribe of Israel \([[Gen.41.51|Gen.41.51]]; 46.20; 48; 50.23; [[Num.1.10|Num.1.10]],34,35; 2.20,20; 7.54; 10.23; 13.11; 26.28,29,34; 27.1,1; 32.33,39,40,41; 34.14,23; 36.1,12; Deu.3.13; 33.17; 34.2; [[Josh.1.12|Jos.1.12]]; 4.12; 12.6; 13.7,29,29,31; 14.4; 16.4; 17; 18.7; 20.8; 21.5,6,25,27; 22; [[Judg.1.27|Jdg.1.27]]; 6.15,35; 7.23; 11.29; 12.4; [[1Kgs.4.13|1Ki.4.13]]; [[1Chr.5.18|1Ch.5.18]],23,26; 6.61,62,70,71; 7.14,17; 9.3; 12.19,20,20,31,37; 27.20,21; [[2Chr.15.9|2Ch.15.9]]; 30.1,10,11,18; 31.1; 34.6,9; Psa.60.7; 80.2; 108.8; Isa.9.21,21; [[Ezek.48.4|Ezk.48.4]],5; [[Rev.7.6|Rev.7.6]]\).
 - Joseph's son who founded the tribe of Manasseh  living at the time of the Patriarchs, first mentioned at [[Gen.41.51|Gen.41.51]]; 
-- referred to as Manasseh or Manassite<[[H4519G]]> \(<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ֶּׁ<span class='tipnrLangHebrew'>ה</span>\), or Manassite \(KJV, NIV= Manasseh\) or Manassite<[[H4520]]> \(<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>\), or Manasseh \(KJV= Manasses\) <[[G3128G]]> \(<span class='tipnrLangGreek'>Μανασσῆς</span>\); 
--  son of Joseph<[[H3130G]]> and Asenath<[[H0621]]>; 
-- a brother of Ephraim<[[H0669G]]>; 
-- husband of Aramitess<[[H0761G]]>; 
--  father of Machir<[[H4353G]]> and Asriel<[[H0844H]]>.
+- referred to as Manasseh or Manassite **<big>[[H4519|מְנַשֶּׁה]]</big>**, or Manassite \(KJV, NIV= Manasseh\) or Manassite **<big>[[H4520|מְנַשִּׁי]]</big>**, or Manasseh \(KJV= Manasses\)  **<big>[[G3128|Μανασσῆς]]</big>**; 
+-  son of Joseph **<big>[[H3130|יוֹסֵף]]</big>** and Asenath **<big>[[H0621|אָסְנַת]]</big>**; 
+- a brother of Ephraim **<big>[[H0669|אֶפְרַיִם]]</big>**; 
+- husband of Aramitess **<big>[[H0761|אֲרַמִּי]]</big>**; 
+-  father of Machir **<big>[[H4353|מָכִיר]]</big>** and Asriel **<big>[[H0844|אַשְׂרִיאֵל]]</big>**.
 
 Manasseh was the firstborn son of Joseph and Asenath, born in Egypt before the famine. When Israel \(or 'Jacob'\) blessed Joseph's sons, he gave the greater blessing to Ephraim, the younger son, despite Joseph's objection. The tribe of Manasseh, along with Ephraim, became one of the twelve tribes of Israel. 
 
@@ -32,12 +32,12 @@ The territory of Manasseh is mentioned in the context of the conquest of Canaan,
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Manasseh | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ֶּׁ<span class='tipnrLangHebrew'>ה</span>](H4519G) <small>*Hebrew*</small> | 116x | [[Gen.41.51] ... [Ezk.48.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manasseh\*\|reference=Gen.41.51;Gen.46.20;Gen.48.1;Gen.48.5;Gen.48.13;Gen.48.14;Gen.48.14;Gen.48.17;Gen.48.20;Gen.48.20;Gen.50.23;Num.1.10;Num.1.34;Num.1.35;Num.2.20;Num.2.20;Num.7.54;Num.10.23;Num.13.11;Num.26.28;Num.26.29;Num.26.34;Num.27.1;Num.27.1;Num.32.33;Num.32.39;Num.32.40;Num.32.41;Num.34.14;Num.34.23;Num.36.1;Num.36.12;Deu.3.13;Deu.33.17;Deu.34.2;Jos.1.12;Jos.4.12;Jos.12.6;Jos.13.7;Jos.13.29) |
-| Manassite | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ֶּׁ<span class='tipnrLangHebrew'>ה</span>](H4519G) <small>*Hebrew*</small> | 3x | [[Deu.3.14] ... [1Ch.7.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manassite\*\|reference=Deu.3.14;Jos.16.9;1Ch.7.29) |
-| Manassite (KJV, NIV= Manasseh) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>](H4520) <small>*Hebrew*</small> | 2x | [[1Ch.26.32] & [Deu.29.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manassite\*\|reference=1Ch.26.32;Deu.29.8) |
-| Manassite | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>](H4520) <small>*Hebrew*</small> | 2x | [[Deu.4.43] & [2Ki.10.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manassite\*\|reference=Deu.4.43;2Ki.10.33) |
-| Manasseh (KJV= Manasses) | [<span class='tipnrLangGreek'>Μανασσῆς</span>](G3128G) <small>*Greek*</small> | 1x | [Rev.7.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manasseh\*\|reference=Rev.7.6) |
-All Strong's for **Manasseh**: \[[[H4519G]]\] \[[[H4520]]\] \[[[G3128G]]\]
+| Manasseh | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ֶּׁ<span class='tipnrLangHebrew'>ה</span>](H4519G) | 116x | [[Gen.41.51] ... [Ezk.48.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manasseh\*\|reference=Gen.41.51;Gen.46.20;Gen.48.1;Gen.48.5;Gen.48.13;Gen.48.14;Gen.48.14;Gen.48.17;Gen.48.20;Gen.48.20;Gen.50.23;Num.1.10;Num.1.34;Num.1.35;Num.2.20;Num.2.20;Num.7.54;Num.10.23;Num.13.11;Num.26.28;Num.26.29;Num.26.34;Num.27.1;Num.27.1;Num.32.33;Num.32.39;Num.32.40;Num.32.41;Num.34.14;Num.34.23;Num.36.1;Num.36.12;Deu.3.13;Deu.33.17;Deu.34.2;Jos.1.12;Jos.4.12;Jos.12.6;Jos.13.7;Jos.13.29) |
+| Manassite | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ֶּׁ<span class='tipnrLangHebrew'>ה</span>](H4519G) | 3x | [[Deu.3.14] ... [1Ch.7.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manassite\*\|reference=Deu.3.14;Jos.16.9;1Ch.7.29) |
+| Manassite (KJV, NIV= Manasseh) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>](H4520) | 2x | [[1Ch.26.32] & [Deu.29.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manassite\*\|reference=1Ch.26.32;Deu.29.8) |
+| Manassite | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ש</span>ִּׁ<span class='tipnrLangHebrew'>י</span>](H4520) | 2x | [[Deu.4.43] & [2Ki.10.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manassite\*\|reference=Deu.4.43;2Ki.10.33) |
+| Manasseh (KJV= Manasses) | [<span class='tipnrLangGreek'>Μανασσῆς</span>](G3128G) | 1x | [Rev.7.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Manasseh\*\|reference=Rev.7.6) |
+All entries for **Manasseh**:  **<big>[[H4519|מְנַשֶּׁה]]</big>** ☩  **<big>[[H4520|מְנַשִּׁי]]</big>** ☩  **<big>[[G3128|Μανασσῆς]]</big>**
 #### Related Profiles:
 - **[Joseph](H3130G)** (father)
 - **[Asenath](H0621)** (mother)

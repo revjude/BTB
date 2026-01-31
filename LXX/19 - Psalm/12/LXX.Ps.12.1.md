@@ -12,23 +12,23 @@ To the chief Musician upon Sheminith, A Psalm of David. Help, LORD; for the godl
 For the choirmaster. According to Sheminith. A Psalm of David. Help, O LORD, for the godly are no more; the faithful have vanished from among men.<small><sub>**MT:**</sub></small>
 [[Ps.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.7|<< Psalm 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.2|Psalm 12:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| has failed | <big><span class="asgreek">εκλέλοιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \[the\] sacred one | <big><span class="asgreek">όσιος</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| were lessened | <big><span class="asgreek">ωλιγώθησαν</span></big> <sup><small><small>[[G8487]]</small></small></sup> |
-| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in truths | <big><span class="asgreek">αλήθειαι</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| Deliver | **<big>[[G4982\|σώσόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| has failed | **<big>[[G1587\|εκλέλοιπεν]]</big>** |
+| \[the\] sacred one | **<big>[[G3741\|όσιος]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| were lessened | **<big>[[G8487\|ωλιγώθησαν]]</big>** |
+| the ones | **<big>[[G3588\|αι]]</big>** |
+| in truths | **<big>[[G0225\|αλήθειαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men. | **<big>[[G0444\|ανθρώπων]]</big>** |
 [[Ps.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.7|<< Psalm 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.2|Psalm 12:2 >>]]</td></tr></table>
 
 

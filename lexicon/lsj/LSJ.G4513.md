@@ -1,4 +1,4 @@
-name of: <small>[[G4515]]</small> 
+name of: <small>**<big>[[G4515|Ῥωμαϊστί]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ῥωμαϊκός==</span>-ϊ<span class='asgreek'>κός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

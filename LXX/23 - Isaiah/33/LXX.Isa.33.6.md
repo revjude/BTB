@@ -7,28 +7,28 @@ And wisdom and knowledge shall be the stability of thy times, [and] strength of 
 He will be the sure foundation for your times, a storehouse of salvation, wisdom, and knowledge. The fear of the LORD is Zion’s treasure.<small><sub>**MT:**</sub></small>
 [[Isa.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.5|<< Isaiah 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.7|Isaiah 33:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] law | <big><span class="asgreek">νόμω</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| They shall be delivered up | <big><span class="asgreek">παραδοθήσονται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| treasuries | <big><span class="asgreek">θησαυροίς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Our deliverance | <big><span class="asgreek">σωτηρία</span></big> <sup><small><small>[[G4991]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[Located\] there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| \[are\] wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| higher knowledge | <big><span class="asgreek">επιστήμη</span></big> <sup><small><small>[[G7454]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| piety | <big><span class="asgreek">ευσέβεια</span></big> <sup><small><small>[[G2150]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| are | <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| treasuries | <big><span class="asgreek">θησαυροί</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| of righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| to | **<big>[[G1722\|εν]]</big>** |
+| \[the\] law | **<big>[[G3551\|νόμω]]</big>** |
+| They shall be delivered up | **<big>[[G3860\|παραδοθήσονται]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| treasuries | **<big>[[G2344\|θησαυροίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Our deliverance | **<big>[[G4991\|σωτηρία]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| \[Located\] there | **<big>[[G1563\|εκεί]]</big>** |
+| \[are\] wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| higher knowledge | **<big>[[G7454\|επιστήμη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| piety | **<big>[[G2150\|ευσέβεια]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριον]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| are | **<big>[[G1510\|εισι]]</big>** |
+| treasuries | **<big>[[G2344\|θησαυροί]]</big>** |
+| of righteousness. | **<big>[[G1343\|δικαιοσύνης]]</big>** |
 [[Isa.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.5|<< Isaiah 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.7|Isaiah 33:7 >>]]</td></tr></table>
 
 

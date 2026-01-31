@@ -10,21 +10,21 @@ Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou 
 Heal me, O LORD, and I will be healed; save me, and I will be saved, for You are my praise.<small><sub>**MT:**</sub></small>
 [[Jer.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.13|<< Jeremiah 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.15|Jeremiah 17:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Heal | <big><span class="asgreek">ίασαί</span></big> <sup><small><small>[[H7495]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be healed. | <big><span class="asgreek">ιαθήσομαι</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| Deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be delivered. | <big><span class="asgreek">σωθήσομαι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| my boasting | <big><span class="asgreek">καύχημά</span></big> <sup><small><small>[[G2745]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Heal | **<big>[[H7495\|ίασαί]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall be healed. | **<big>[[G2390\|ιαθήσομαι]]</big>** |
+| Deliver | **<big>[[G4982\|σώσόν]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall be delivered. | **<big>[[G4982\|σωθήσομαι]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| my boasting | **<big>[[G2745\|καύχημά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| are | **<big>[[G1510\|ει]]</big>** |
 [[Jer.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.13|<< Jeremiah 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.15|Jeremiah 17:15 >>]]</td></tr></table>
 
 

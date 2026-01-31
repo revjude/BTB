@@ -1,4 +1,3 @@
-<span class="ashebrew">‎נְאָצָה‎</span> <small>***(ne.a.tsah)***</small> ==**contempt**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-spelling of: <small>[[H5007B]]</small> 
+<small>spelling of:</small> <small>**<big>[[H5007B|נְאָצָה]]</big>**</small> 
 
-- Another spelling of <i>ne.a.tsah</i> (<span class='ashebrew'>‎נ‎</span>ֶ<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎צ‎</span>ָ<span class='ashebrew'>‎ה‎</span> "contempt" [[H5007B]])
+- Another spelling of <i>ne.a.tsah</i> (<span class='ashebrew'>‎נ‎</span>ֶ<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎צ‎</span>ָ<span class='ashebrew'>‎ה‎</span> "contempt" **<big>[[H5007B|נְאָצָה]]</big>**)

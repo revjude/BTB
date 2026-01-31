@@ -6,29 +6,29 @@ So these were the offerings from the leaders of Israel for the dedication of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.84|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.83|<< Numbers 7:83]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.85|Numbers 7:85 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| this  | <span class="ashebrew"><big>זֹ֣את </big></span><small><small><sup>[[H2063]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] [the] dedication of  | <span class="ashebrew"><big>חֲנֻכַּ֣ת </big></span><small><small><sup>[[H2598]]</sup></small></small> &#8207;| cha.nu.Kat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the altar  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּזְבֵּ֗חַ </big></span><small><small><sup>[[H4196]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> miz.Be.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on [the] day  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יוֹם֙ </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> yOm <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| was anointed  | <span class="ashebrew"><big>הִמָּשַׁ֣ח </big></span><small><small><sup>[[H4886]]</sup></small></small> &#8207;| hi.ma.Shach <small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹת֔ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] leaders of  | <span class="ashebrew"><big>נְשִׂיאֵ֣י </big></span><small><small><sup>[[H5387A]]</sup></small></small> &#8207;| ne.si.'Ei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dishes of  | <span class="ashebrew"><big>קַעֲרֹ֨ת </big></span><small><small><sup>[[H7086]]</sup></small></small> &#8207;| ka.'a.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כֶּ֜סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| Ke.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two [plus]  | <span class="ashebrew"><big>שְׁתֵּ֣ים </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Teim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶשְׂרֵ֗ה </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'es.Reh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bowls of  | <span class="ashebrew"><big>מִֽזְרְקֵי </big></span><small><small><sup>[[H4219]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| miz.re.kei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כֶ֙סֶף֙ </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| khe.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two [plus]  | <span class="ashebrew"><big>שְׁנֵ֣ים </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Neim <small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עָשָׂ֔ר </big></span><small><small><sup>[[H6240]]</sup></small></small> &#8207;| 'a.Sar <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pans of  | <span class="ashebrew"><big>כַּפּ֥וֹת </big></span><small><small><sup>[[H3709I]]</sup></small></small> &#8207;| ka.Pot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֖ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two [plus]  | <span class="ashebrew"><big>שְׁתֵּ֥ים </big></span><small><small><sup>[[H8147]]</sup></small></small> &#8207;| she.Teim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֶשְׂרֵֽה </big></span><small><small><sup>[[H6240]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'es.Reh <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] dedication of  |**<big>&#8207;[[H2598\|חֲנֻכַּ֣ת]]&#8207; </big>**| cha.nu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֗חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| was anointed  |**<big>&#8207;[[H4886\|הִמָּשַׁ֣ח]]&#8207; </big>**| hi.ma.Shach<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֖ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  |**<big>&#8207;[[H5387A\|נְשִׂיאֵ֣י]]&#8207; </big>**| ne.si.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dishes of  |**<big>&#8207;[[H7086\|קַעֲרֹ֨ת]]&#8207; </big>**| ka.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כֶּ֜סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֣ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֗ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bowls of  |**<big>&#8207;[[H4219\|מִֽזְרְקֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| miz.re.kei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כֶ֙סֶף֙]]&#8207; </big>**| khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  |**<big>&#8207;[[H8147\|שְׁנֵ֣ים]]&#8207; </big>**| she.Neim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עָשָׂ֔ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pans of  |**<big>&#8207;[[H3709I\|כַּפּ֥וֹת]]&#8207; </big>**| ka.Pot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֥ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.83|<< Numbers 7:83]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.85|Numbers 7:85 >>]]</td></tr></table>
 
 

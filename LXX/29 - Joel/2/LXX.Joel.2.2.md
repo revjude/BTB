@@ -7,43 +7,43 @@ A day of darkness and of gloominess, a day of clouds and of thick darkness, as t
 a day of darkness and gloom, a day of clouds and blackness. Like the dawn overspreading the mountains a great and strong army appears, such as never was of old, nor will ever be in ages to come.<small><sub>**MT:**</sub></small>
 [[Joel.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.1|<< Joel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.3|Joel 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of darkness | <big><span class="asgreek">σκότους</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dimness, | <big><span class="asgreek">γνόφου</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of cloud | <big><span class="asgreek">νεφέλης</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fog, | <big><span class="asgreek">ομίχλης</span></big> <sup><small><small>[[G6068]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] dawn, | <big><span class="asgreek">όρθρος</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
-| there shall be poured | <big><span class="asgreek">χυθήσεται</span></big> <sup><small><small>[[G9721]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| a vast | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοιος</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| to it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| has not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| happened | <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon, | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be added | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| years, | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| generations | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
-| of generations. | <big><span class="asgreek">γενεών</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| A day | **<big>[[G2250\|ημέρα]]</big>** |
+| of darkness | **<big>[[G4655\|σκότους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dimness, | **<big>[[G1105\|γνόφου]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of cloud | **<big>[[G3507\|νεφέλης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fog, | **<big>[[G6068\|ομίχλης]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] dawn, | **<big>[[G3722\|όρθρος]]</big>** |
+| there shall be poured | **<big>[[G9721\|χυθήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| a vast | **<big>[[G4183\|πολύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| strong | **<big>[[G2478\|ισχυρός]]</big>** |
+| likened | **<big>[[G3664\|όμοιος]]</big>** |
+| to it | **<big>[[G1473\|αυτώ]]</big>** |
+| has not | **<big>[[G3756\|ου]]</big>** |
+| happened | **<big>[[G1096\|γέγονεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| eon, | **<big>[[G0165\|αιώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετ΄]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| there shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be added | **<big>[[G4369\|προστεθήσεται]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| years, | **<big>[[G2094\|ετών]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| generations | **<big>[[G1074\|γενεάς]]</big>** |
+| of generations. | **<big>[[G1074\|γενεών]]</big>** |
 [[Joel.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.1|<< Joel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.3|Joel 2:3 >>]]</td></tr></table>
 
 

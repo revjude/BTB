@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁכַן‎</span></big> **shᵉkan** <small>*(shek-an')*</small> ==**to dwell**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁכַן‎</span><sup><small>[[H7931]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁכַן‎</span></big>** **shᵉkan** <small>*(shek-an')*</small> ==**to dwell**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7931|‎שָׁכַן‎]]</big>**</small>
 
 $\quad$ cause to dwell, have habitation.
 - {***to reside*** or ***permanently stay*** (literally or figuratively)}

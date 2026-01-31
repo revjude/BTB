@@ -1,4 +1,4 @@
-spelling of: <small>[[G4556]]</small> 
+spelling of: <small>**<big>[[G4556|σάρδιος]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==σάρδινος==</span></b>, <span class='asgreek'>τό</span>, 

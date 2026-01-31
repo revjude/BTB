@@ -6,18 +6,18 @@ The head is the elder and honorable man, and the tail is the prophet who teaches
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.14|<< Isaiah 9:14]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.16|Isaiah 9:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| an old [man]  | <span class="ashebrew"><big>זָקֵ֥ן </big></span><small><small><sup>[[H2205G]]</sup></small></small> &#8207;| za.Ken <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one] uplifted of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְשׂוּא </big></span><small><small><sup>[[H5375Q]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.su'- <small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face  | <span class="ashebrew"><big>פָנִ֖ים </big></span><small><small><sup>[[H6440N]]</sup></small></small> &#8207;| fa.Nim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] the head  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רֹ֑אשׁ </big></span><small><small><sup>[[H7218H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Rosh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a prophet  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָבִ֥יא </big></span><small><small><sup>[[H5030]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.Vi' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] teaches  | <span class="ashebrew"><big>מֽוֹרֶה </big></span><small><small><sup>[[H3384B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mo.reh- <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שֶּׁ֖קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֥וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] the tail  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זָּנָֽב </big></span><small><small><sup>[[H2180]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> za.Nav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an old [man]  |**<big>&#8207;[[H2205G\|זָקֵ֥ן]]&#8207; </big>**| za.Ken<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one] uplifted of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5375Q\|נְשׂוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.su'-<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face  |**<big>&#8207;[[H6440N\|פָנִ֖ים]]&#8207; </big>**| fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the head  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7218H\|רֹ֑אשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a prophet  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5030\|נָבִ֥יא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] teaches  |**<big>&#8207;[[H3384B\|מֽוֹרֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mo.reh-<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶּׁ֖קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the tail  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2180\|זָּנָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Nav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.14|<< Isaiah 9:14]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.16|Isaiah 9:16 >>]]</td></tr></table>
 
 

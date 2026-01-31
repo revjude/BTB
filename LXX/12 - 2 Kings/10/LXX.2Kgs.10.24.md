@@ -10,43 +10,43 @@ And when they went in to offer sacrifices and burnt offerings, Jehu appointed fo
 And they went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and warned them, “If anyone allows one of the men I am delivering into your hands to escape, he will forfeit his life for theirs.”<small><sub>**MT:**</sub></small>
 [[2Kgs.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.23|<< 2 Kings 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.25|2 Kings 10:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to offer | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifices | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offerings. | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehu | <big><span class="asgreek">Ιού</span></big> <sup><small><small>[[H3058]]</small></small></sup> |
-| stationed | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| eighty | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
-| men. | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| A man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should preserve \[anyone\] | <big><span class="asgreek">διασωθή</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bring in | <big><span class="asgreek">εισάγω</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| your hands, | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his life. | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to offer | **<big>[[G4160\|ποιήσαι]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| sacrifices | **<big>[[G2378\|θυσίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| whole burnt-offerings. | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jehu | **<big>[[H3058\|Ιού]]</big>** |
+| stationed | **<big>[[G2476\|έστησεν]]</big>** |
+| for himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| outside | **<big>[[G1854\|έξω]]</big>** |
+| eighty | **<big>[[G3589\|ογδοήκοντα]]</big>** |
+| men. | **<big>[[G0435\|άνδρας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| A man | **<big>[[G0435\|ανήρ]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should preserve \[anyone\] | **<big>[[G1295\|διασωθή]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| whom | **<big>[[G3739\|ων]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| bring in | **<big>[[G1521\|εισάγω]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| your hands, | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his life | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| will be for | **<big>[[G0473\|αντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his life. | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.23|<< 2 Kings 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.25|2 Kings 10:25 >>]]</td></tr></table>
 
 

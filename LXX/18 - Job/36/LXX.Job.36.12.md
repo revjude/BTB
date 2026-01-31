@@ -7,23 +7,23 @@ But if they obey not, they shall perish by the sword, and they shall die without
 But if they do not obey, then they perish by the sword and die without knowledge.<small><sub>**MT:**</sub></small>
 [[Job.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.11|<< Job 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.13|Job 36:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But \[the\] impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| are not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| preserved -- | <big><span class="asgreek">διασώζει</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| willing | <big><span class="asgreek">βούλεσθαι</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to behold | <big><span class="asgreek">ειδέναι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| being admonished | <big><span class="asgreek">νουθετούμενοι</span></big> <sup><small><small>[[G3560]]</small></small></sup> |
-| they were unhearing. | <big><span class="asgreek">ανήκοοι</span></big> <sup><small><small>[[G6336]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| But \[the\] impious | **<big>[[G0765\|ασεβείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| are not | **<big>[[G3756\|ου]]</big>** |
+| preserved -- | **<big>[[G1295\|διασώζει]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| willing | **<big>[[G1014\|βούλεσθαι]]</big>** |
+| their | **<big>[[G1473\|αυτούς]]</big>** |
+| to behold | **<big>[[G1492\|ειδέναι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| being admonished | **<big>[[G3560\|νουθετούμενοι]]</big>** |
+| they were unhearing. | **<big>[[G6336\|ανήκοοι]]</big>** **<big>[[G1510\|ήσαν]]</big>** |
 [[Job.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.11|<< Job 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.13|Job 36:13 >>]]</td></tr></table>
 
 

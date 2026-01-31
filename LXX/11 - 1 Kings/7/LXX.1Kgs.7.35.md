@@ -7,42 +7,42 @@ And in the top of the base [was there] a round compass of half a cubit high: and
 At the top of each stand was a circular band half a cubit high. The supports and panels were cast as a unit with the top of the stand.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.34|<< 1 Kings 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.36|1 Kings 7:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| base | <big><span class="asgreek">μεχωνά</span></big> <sup><small><small>[[G8314]]</small></small></sup> |
-| a half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a cubit | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| size | <big><span class="asgreek">μέγεθος</span></big> <sup><small><small>[[G3174]]</small></small></sup> |
-| was its | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| globular | <big><span class="asgreek">στρογγύλον</span></big> <sup><small><small>[[G9203]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| base. | <big><span class="asgreek">μεχωνά</span></big> <sup><small><small>[[G8314]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its joineries | <big><span class="asgreek">συγκλείσματα</span></big> <sup><small><small>[[G9232]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| of it; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it opened | <big><span class="asgreek">ηνοίγετο</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beginnings | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of its hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| base | **<big>[[G8314\|μεχωνά]]</big>** |
+| a half | **<big>[[G2255\|ήμισυ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| a cubit | **<big>[[G4083\|πήχεως]]</big>** |
+| size | **<big>[[G3174\|μέγεθος]]</big>** |
+| was its | **<big>[[G1473\|αυτής]]</big>** |
+| globular | **<big>[[G9203\|στρογγύλον]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| head | **<big>[[G2776\|κεφαλής]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| base. | **<big>[[G8314\|μεχωνά]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| hands | **<big>[[G5495\|χείρες]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its joineries | **<big>[[G9232\|συγκλείσματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| were | **<big>[[G0575\|απ΄]]</big>** |
+| of it; | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it opened | **<big>[[G0455\|ηνοίγετο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| beginnings | **<big>[[G0746\|αρχάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of its hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[1Kgs.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.34|<< 1 Kings 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.36|1 Kings 7:36 >>]]</td></tr></table>
 
 

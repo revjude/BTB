@@ -7,20 +7,20 @@ Have respect unto the covenant: for the dark places of the earth are full of the
 Consider Your covenant, for haunts of violence fill the dark places of the land.<small><sub>**MT:**</sub></small>
 [[Ps.74.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.19|<< Psalm 74:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.21|Psalm 74:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Look | <big><span class="asgreek">επίβλεψον</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your covenant! | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| filled | <big><span class="asgreek">επληρώθησαν</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being darkened | <big><span class="asgreek">εσκοτισμένοι</span></big> <sup><small><small>[[G4654]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| with houses | <big><span class="asgreek">οίκων</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of lawless deeds. | <big><span class="asgreek">ανομιών</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| Look | **<big>[[G1914\|επίβλεψον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your covenant! | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| filled | **<big>[[G4137\|επληρώθησαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being darkened | **<big>[[G4654\|εσκοτισμένοι]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| with houses | **<big>[[G3624\|οίκων]]</big>** |
+| of lawless deeds. | **<big>[[G0458\|ανομιών]]</big>** |
 [[Ps.74.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.19|<< Psalm 74:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.21|Psalm 74:21 >>]]</td></tr></table>
 
 

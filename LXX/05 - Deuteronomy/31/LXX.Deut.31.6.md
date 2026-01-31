@@ -11,31 +11,31 @@ Be strong and courageous; do not be afraid or terrified of them, for it is the L
 > $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Be manly | <big><span class="asgreek">ανδρίζου</span></big> <sup><small><small>[[G0407]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be strong! | <big><span class="asgreek">ίσχυε</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear! | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| should you be timid, | <big><span class="asgreek">δειλιάσης</span></big> <sup><small><small>[[G1168]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| should you be terrified | <big><span class="asgreek">πτοηθής</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| their face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going before | <big><span class="asgreek">προπορευόμενος</span></big> <sup><small><small>[[G4313]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you -- | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| should he forsake you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ανή</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
-| nor in any way | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| should he abandon you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εγκαταλίπη</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| Be manly | **<big>[[G0407\|ανδρίζου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be strong! | **<big>[[G2480\|ίσχυε]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear! | **<big>[[G5399\|φοβού]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| should you be timid, | **<big>[[G1168\|δειλιάσης]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| should you be terrified | **<big>[[G4422\|πτοηθής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| their face. | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| going before | **<big>[[G4313\|προπορευόμενος]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you -- | **<big>[[G1473\|υμών]]</big>** |
+| in no way | **<big>[[G3756\|ου]]</big>** **<big>[[G3361\|μη]]</big>** |
+| should he forsake you, | **<big>[[G1473\|σε]]</big>** **<big>[[G0447\|ανή]]</big>** |
+| nor in any way | **<big>[[G8565\|ουδέ μη]]</big>** |
+| should he abandon you. | **<big>[[G1473\|σε]]</big>** **<big>[[G1459\|εγκαταλίπη]]</big>** |
 [[Deut.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.5|<< Deuteronomy 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.7|Deuteronomy 31:7 >>]]</td></tr></table>
 
 

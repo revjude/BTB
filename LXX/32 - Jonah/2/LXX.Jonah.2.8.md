@@ -7,14 +7,14 @@ They that observe lying vanities forsake their own mercy.
 Those who cling to worthless idols forsake His loving devotion.<small><sub>**MT:**</sub></small>
 [[Jonah.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.7|<< Jonah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.9|Jonah 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] ones watching | <big><span class="asgreek">φυλασσόμενοι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| vanities | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lies | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
-| their mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| \[The\] ones watching | **<big>[[G5442\|φυλασσόμενοι]]</big>** |
+| vanities | **<big>[[G3152\|μάταια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lies | **<big>[[G5571\|ψευδή]]</big>** |
+| their mercy | **<big>[[G1656\|έλεον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατέλιπον]]</big>** |
 [[Jonah.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.7|<< Jonah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.9|Jonah 2:9 >>]]</td></tr></table>
 
 

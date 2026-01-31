@@ -7,29 +7,29 @@ And I will cleanse them from all their iniquity, whereby they have sinned agains
 And I will cleanse them from all the iniquity they have committed against Me, and will forgive all their sins of rebellion against Me.<small><sub>**MT:**</sub></small>
 [[Jer.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will cleanse | <big><span class="asgreek">καθαριώ</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their iniquities | <big><span class="asgreek">αδικιών</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they sinned | <big><span class="asgreek">ημαρτόν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall I remember | <big><span class="asgreek">μνησθήσομαι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| their sins | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they sinned | <big><span class="asgreek">ήμαρτόν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| separated | <big><span class="asgreek">απέστησαν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will cleanse | **<big>[[G2511\|καθαριώ]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πασών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| their iniquities | **<big>[[G0093\|αδικιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| they sinned | **<big>[[G0264\|ημαρτόν]]</big>** |
+| against me. | **<big>[[G1473\|μοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall I remember | **<big>[[G3403\|μνησθήσομαι]]</big>** |
+| their sins | **<big>[[G0266\|αμαρτιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| they sinned | **<big>[[G0264\|ήμαρτόν]]</big>** |
+| against me, | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| separated | **<big>[[G0868\|απέστησαν]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
 [[Jer.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
 

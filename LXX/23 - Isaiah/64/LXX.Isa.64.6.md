@@ -7,31 +7,31 @@ But we are all as an unclean [thing], and all our righteousnesses [are] as filth
 Each of us has become like something unclean, and all our righteous acts are like filthy rags; we all wither like a leaf, and our iniquities carry us away like the wind.<small><sub>**MT:**</sub></small>
 [[Isa.64.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.5|<< Isaiah 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.7|Isaiah 64:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθημεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακάθαρτοι</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a \[menstrual\] rag | <big><span class="asgreek">ράκος</span></big> <sup><small><small>[[G4470]]</small></small></sup> |
-| sitting apart | <big><span class="asgreek">αποκαθημένης</span></big> <sup><small><small>[[G6436]]</small></small></sup> |
-| All | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we flowed away | <big><span class="asgreek">εξερρύημεν</span></big> <sup><small><small>[[G7138]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| leaves | <big><span class="asgreek">φύλλα</span></big> <sup><small><small>[[G5444]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our lawless deeds; | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[the\] wind | <big><span class="asgreek">άνεμος</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| shall bear | <big><span class="asgreek">οίσει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| us \[away\]. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| became | **<big>[[G1096\|εγενήθημεν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| unclean | **<big>[[G0169\|ακάθαρτοι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| \[is\] as | **<big>[[G5613\|ως]]</big>** |
+| a \[menstrual\] rag | **<big>[[G4470\|ράκος]]</big>** |
+| sitting apart | **<big>[[G6436\|αποκαθημένης]]</big>** |
+| All | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| our righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| we flowed away | **<big>[[G7138\|εξερρύημεν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| leaves | **<big>[[G5444\|φύλλα]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| our lawless deeds; | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| \[the\] wind | **<big>[[G0417\|άνεμος]]</big>** |
+| shall bear | **<big>[[G5342\|οίσει]]</big>** |
+| us \[away\]. | **<big>[[G1473\|ημάς]]</big>** |
 [[Isa.64.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.5|<< Isaiah 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.7|Isaiah 64:7 >>]]</td></tr></table>
 
 

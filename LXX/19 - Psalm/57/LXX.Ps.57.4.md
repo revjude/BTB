@@ -7,29 +7,29 @@ My soul [is] among lions: [and] I lie [even among] them that are set on fire, [e
 My soul is among the lions; I lie down with ravenous beasts—with men whose teeth are spears and arrows, whose tongues are sharp swords.<small><sub>**MT:**</sub></small>
 [[Ps.57.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.3|<< Psalm 57:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.5|Psalm 57:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he rescued | <big><span class="asgreek">ερρύσατο</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \[of lion\] cubs. | <big><span class="asgreek">σκύμνων</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
-| I went to bed | <big><span class="asgreek">εκοιμήθην</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| being disturbed; | <big><span class="asgreek">τεταραγμένος</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of men -- | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their teeth | <big><span class="asgreek">οδόντες</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] weapons | <big><span class="asgreek">όπλα</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| arrows, | <big><span class="asgreek">βέλη</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sword | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| a sharp | <big><span class="asgreek">οξεία</span></big> <sup><small><small>[[G3691]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he rescued | **<big>[[G4506\|ερρύσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| \[of lion\] cubs. | **<big>[[G9121\|σκύμνων]]</big>** |
+| I went to bed | **<big>[[G2837\|εκοιμήθην]]</big>** |
+| being disturbed; | **<big>[[G5015\|τεταραγμένος]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of men -- | **<big>[[G0444\|ανθρώπων]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their teeth | **<big>[[G3599\|οδόντες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] weapons | **<big>[[G3696\|όπλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| arrows, | **<big>[[G0956\|βέλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their tongue | **<big>[[G1100\|γλώσσα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| sword | **<big>[[G3162\|μάχαιρα]]</big>** |
+| a sharp | **<big>[[G3691\|οξεία]]</big>** |
 [[Ps.57.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.3|<< Psalm 57:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.5|Psalm 57:5 >>]]</td></tr></table>
 
 

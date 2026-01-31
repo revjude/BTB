@@ -6,16 +6,16 @@ Acquitting the guilty and condemning the righteous—both are detestable to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.14|<< Proverbs 17:14]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.16|Proverbs 17:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] justifies  | <span class="ashebrew"><big>מַצְדִּ֣יק </big></span><small><small><sup>[[H6663]]</sup></small></small> &#8207;| matz.Dik <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wicked  | <span class="ashebrew"><big>רָ֭שָׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| Ra.sho' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] condemns as guilty  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַרְשִׁ֣יעַ </big></span><small><small><sup>[[H7561]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mar.Shi.a' <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַדִּ֑יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] abomination of  | <span class="ashebrew"><big>תּוֹעֲבַ֥ת </big></span><small><small><sup>[[H8441]]</sup></small></small> &#8207;| to.'a.Vat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| both of them  | <span class="ashebrew"><big>שְׁנֵי </big></span><small><small><sup>[[H8147]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| she.nei. <small><sup>[[HAcbdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] justifies  |**<big>&#8207;[[H6663\|מַצְדִּ֣יק]]&#8207; </big>**| matz.Dik<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wicked  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] condemns as guilty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7561\|מַרְשִׁ֣יעַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mar.Shi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֑יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] abomination of  |**<big>&#8207;[[H8441\|תּוֹעֲבַ֥ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both of them  |**<big>&#8207;[[H8147\|שְׁנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.nei.<small><sup>[[HAcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.14|<< Proverbs 17:14]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.16|Proverbs 17:16 >>]]</td></tr></table>
 
 

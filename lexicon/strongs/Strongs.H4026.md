@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִגְדָּל‎</span></big> **migdâl** <small>*(mig-dawl')*</small> ==**(Hananel) Tower**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>also (in plural) feminine <span class="ashebrew">מִגְדָּלָה</span> **migdâlâh** <small>*(mig-daw-law')*</small>; from <span class="ashebrew">‎גָּדַל‎</span><sup><small>[[H1431]]</small></sup></small>
+**<big><span class="ashebrew">‎מִגְדָּל‎</span></big>** **migdâl** <small>*(mig-dawl')*</small> ==**(Hananel) Tower**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>also (in plural) feminine **<big><span class="ashebrew">מִגְדָּלָה</span></big>** **migdâlâh** <small>*(mig-daw-law')*</small>; from **<big>[[H1431|‎גָּדַל‎]]</big>**</small>
 
 $\quad$ castle, flower, tower. Compare the names following.
 - ***a tower*** (from its size or height)
@@ -11,4 +11,4 @@ $\quad$ **1a)** tower
 $\quad$ **1b)** elevated stage, pulpit
 $\quad$ **1c)** raised bed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βῆμα</span><sup><small>[[G0968]]</small></sup> · <span class="asgreek">πύργος</span><sup><small>[[G4444]]</small></sup> · <span class="asgreek">Μαγδαλά</span><sup><small>[[G3093]]</small></sup>
+<small>See Greek: </small>**<big>[[G0968|βῆμα]]</big>** · **<big>[[G4444|πύργος]]</big>** · **<big>[[G3093|Μαγδαλά]]</big>**

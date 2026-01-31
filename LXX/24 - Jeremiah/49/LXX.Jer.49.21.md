@@ -7,18 +7,18 @@ The earth is moved at the noise of their fall, at the cry the noise thereof was 
 At the sound of their fall the earth will quake; their cry will resound to the Red Sea.<small><sub>**MT:**</sub></small>
 [[Jer.49.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.20|<< Jeremiah 49:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.22|Jeremiah 49:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of their downfall | <big><span class="asgreek">πτώσεως</span></big> <sup><small><small>[[G4431]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was shaken | <big><span class="asgreek">εσείσθη</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Your cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| was heard. | <big><span class="asgreek">ηκούσθη</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| \[the\] sound | **<big>[[G5456\|φωνής]]</big>** |
+| of their downfall | **<big>[[G4431\|πτώσεως]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| was shaken | **<big>[[G4579\|εσείσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| Your cry | **<big>[[G2906\|κραυγή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θαλάσση]]</big>** |
+| was heard. | **<big>[[G0191\|ηκούσθη]]</big>** |
 [[Jer.49.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.20|<< Jeremiah 49:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.22|Jeremiah 49:22 >>]]</td></tr></table>
 
 

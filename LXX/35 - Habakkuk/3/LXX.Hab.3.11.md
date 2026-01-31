@@ -7,28 +7,28 @@ The sun [and] moon stood still in their habitation: at the light of thine arrows
 Sun and moon stood still in their places at the flash of Your flying arrows, at the brightness of Your shining spear.<small><sub>**MT:**</sub></small>
 [[Hab.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.10|<< Habakkuk 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.12|Habakkuk 3:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| was exalted | <big><span class="asgreek">υψώθη</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her order. | <big><span class="asgreek">τάξει</span></big> <sup><small><small>[[G5010]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| At | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of your arrows | <big><span class="asgreek">βολίδες</span></big> <sup><small><small>[[G1002]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall go forth, | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| brightness | <big><span class="asgreek">φέγγι</span></big> <sup><small><small>[[G5338]]</small></small></sup> |
-| of lightning | <big><span class="asgreek">αστραπής</span></big> <sup><small><small>[[G0796]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your weapons | <big><span class="asgreek">όπλων σου</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
+| was exalted | **<big>[[G5312\|υψώθη]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| sun | **<big>[[G2246\|ήλιος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| moon | **<big>[[G4582\|σελήνη]]</big>** |
+| stood | **<big>[[G2476\|έστη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her order. | **<big>[[G5010\|τάξει]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| At | **<big>[[G1519\|εις]]</big>** |
+| \[the\] light | **<big>[[G5457\|φως]]</big>** |
+| of your arrows | **<big>[[G1002\|βολίδες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they shall go forth, | **<big>[[G4198\|πορεύσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| brightness | **<big>[[G5338\|φέγγι]]</big>** |
+| of lightning | **<big>[[G0796\|αστραπής]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your weapons | **<big>[[G3696\|όπλων σου]]</big>** |
 [[Hab.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.10|<< Habakkuk 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.12|Habakkuk 3:12 >>]]</td></tr></table>
 
 

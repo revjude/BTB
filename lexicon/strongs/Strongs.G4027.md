@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎περικάθαρμα‎</span></big> **perikátharma** <small>*(per-ee-kath'-ar-mah)*</small> ==**garbage**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
-<small>from a compound of <span class="asgreek">περί</span><sup><small>[[G4012]]</small></sup> and <span class="asgreek">καθαίρω</span><sup><small>[[G2508]]</small></sup></small>
+**<big><span class="asgreek">‎περικάθαρμα‎</span></big>** **perikátharma** <small>*(per-ee-kath'-ar-mah)*</small> ==**garbage**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+<small>from a compound of **<big>[[G4012|‎περί‎]]</big>** and **<big>[[G2508|‎καθαίρω‎]]</big>**</small>
 
 $\quad$ filth.
 - something cleaned off all around, i.e. refuse (figuratively)

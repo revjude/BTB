@@ -4,9 +4,9 @@ Edomite living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Ebal</span> was a son of Shobal and a descendant of Seir the Horite, mentioned in the genealogies of Esau's family. \([[Gen.36.23|Gen.36.23]]; [[1Chr.1.40|1Ch.1.40]]\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.23|Gen.36.23]]; 
-- only referred to as Ebal<[[H5858B]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יב</span>ָ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Shobal<[[H7732G]]>; 
-- a brother of Alvan<[[H5935]]>, Manahath<[[H4506B]]>, Shepho<[[H8195]]> and Onam<[[H0208G]]>.
+- only referred to as Ebal **<big>[[H5858|עֵיבָל]]</big>**; 
+-  son of Shobal **<big>[[H7732|שׁוֹבָל]]</big>**; 
+- a brother of Alvan **<big>[[H5935|עַלְוָן]]</big>**, Manahath **<big>[[H4506|מָנַחַת]]</big>**, Shepho **<big>[[H8195|שְׁפוֹ]]</big>** and Onam **<big>[[H0208|אוֹנָם]]</big>**.
 
 Ebal is mentioned in the genealogies of Esau's family in [[Gen.36.23|Genesis 36:23]] and [[1Chr.1.40|1 Chronicles 1:40]]. He is listed as one of the sons of Shobal, who was a descendant of Seir the Horite. 
 
@@ -20,8 +20,8 @@ It is worth noting that there is another Ebal mentioned in the Bible, which is a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ebal | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H5858B) <small>*Hebrew*</small> | 2x | [[Gen.36.23] & [1Ch.1.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebal\*\|reference=Gen.36.23;1Ch.1.40) |
-All Strong's for **Ebal**: \[[[H5858B]]\]
+| Ebal | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H5858B) | 2x | [[Gen.36.23] & [1Ch.1.40] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebal\*\|reference=Gen.36.23;1Ch.1.40) |
+All entries for **Ebal**:  **<big>[[H5858|עֵיבָל]]</big>**
 #### Related Profiles:
 - **[Shobal](H7732G)** (father)
 - **[Alvan](H5935)** (sibling)

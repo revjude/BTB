@@ -7,62 +7,62 @@ Then shalt thou kill the ram, and take of his blood, and put [it] upon the tip o
 Slaughter the ram, take some of its blood, and put it on the right earlobes of Aaron and his sons, on the thumbs of their right hands, and on the big toes of their right feet. Splatter the remaining blood on all sides of the altar.<small><sub>**MT:**</sub></small>
 [[Exod.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.19|<< Exodus 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.21|Exodus 29:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall slay | <big><span class="asgreek">σφάξεις</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| place \[it\] | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lobe | <big><span class="asgreek">λοβόν</span></big> <sup><small><small>[[G8207]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ear | <big><span class="asgreek">ωτός</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| of Aaron -- | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right \[one\], | <big><span class="asgreek">δεξιού</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| big toe | <big><span class="asgreek">άκρον</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foot -- | <big><span class="asgreek">ποδός</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right \[one\], | <big><span class="asgreek">δεξιού</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lobes | <big><span class="asgreek">λοβούς</span></big> <sup><small><small>[[G8207]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ears | <big><span class="asgreek">ωτών</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thumbs | <big><span class="asgreek">άκρα</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| big toes | <big><span class="asgreek">άκρα</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| of their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall slay | **<big>[[G4969\|σφάξεις]]</big>** |
+| it, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λήψη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| blood | **<big>[[G0129\|αίματος]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| place \[it\] | **<big>[[G2007\|επιθήσεις]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lobe | **<big>[[G8207\|λοβόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ear | **<big>[[G3775\|ωτός]]</big>** |
+| of Aaron -- | **<big>[[G0002\|Ααρών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| right \[one\], | **<big>[[G1188\|δεξιού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| big toe | **<big>[[G6208\|άκρον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| foot -- | **<big>[[G4228\|ποδός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| right \[one\], | **<big>[[G1188\|δεξιού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| lobes | **<big>[[G8207\|λοβούς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ears | **<big>[[G3775\|ωτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his sons | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| right | **<big>[[G1188\|δεξιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| thumbs | **<big>[[G6208\|άκρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| hands | **<big>[[G5495\|χειρών]]</big>** |
+| of their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| right | **<big>[[G1188\|δεξιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| big toes | **<big>[[G6208\|άκρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| feet | **<big>[[G4228\|ποδών]]</big>** |
+| of their | **<big>[[G1473\|αυτών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| right | **<big>[[G1188\|δεξιών]]</big>** |
 [[Exod.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.19|<< Exodus 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.21|Exodus 29:21 >>]]</td></tr></table>
 
 

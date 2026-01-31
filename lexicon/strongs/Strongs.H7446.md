@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רִסָּה‎</span></big> **Riççâh** <small>*(ris-saw')*</small> ==**Rissah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎רָסַס‎</span><sup><small>[[H7450]]</small></sup>; a ruin (as dripping to pieces)</small>
+**<big><span class="ashebrew">‎רִסָּה‎</span></big>** **Riççâh** <small>*(ris-saw')*</small> ==**Rissah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7450|‎רָסַס‎]]</big>**; a ruin (as dripping to pieces)</small>
 
 $\quad$ Rissah.
 - § Rissah = *"ruin"*

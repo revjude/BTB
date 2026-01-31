@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לְבוֹנָה‎</span></big> **lᵉbôwnâh** <small>*(leb-o-naw')*</small> ==**frankincense**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">לְבֹנָה</span> **lᵉbônâh** <small>*(leb-o-naw')*</small>; from <span class="ashebrew">‎לָבָן‎</span><sup><small>[[H3836]]</small></sup></small>
+**<big><span class="ashebrew">‎לְבוֹנָה‎</span></big>** **lᵉbôwnâh** <small>*(leb-o-naw')*</small> ==**frankincense**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">לְבֹנָה</span></big>** **lᵉbônâh** <small>*(leb-o-naw')*</small>; from **<big>[[H3836|‎לָבָן‎]]</big>**</small>
 
 $\quad$ (frank-) incense.
 - ***frankincense*** (from its whiteness or perhaps that of its smoke)
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** ceremonially
 $\quad$ $\quad$ **1a2)** personally
 $\quad$ $\quad$ **1a3)** used in compounding the holy incense
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λίβανος</span><sup><small>[[G3030]]</small></sup> · <span class="asgreek">λιβανωτός</span><sup><small>[[G3031]]</small></sup>
+<small>See Greek: </small>**<big>[[G3030|λίβανος]]</big>** · **<big>[[G3031|λιβανωτός]]</big>**

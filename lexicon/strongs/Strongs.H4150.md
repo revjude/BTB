@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹעֵד‎</span></big> **môwʻêd** <small>*(mo-ade')*</small> ==**meeting: time appointed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מֹעֵד</span> **môʻêd** <small>*(mo-ade')*</small>; or (feminine) <span class="ashebrew">מוֹעָדָה</span> **môwʻâdâh** <small>*(mo-awdaw')*</small>; (2 Chronicles 8:13), from <span class="ashebrew">‎יָעַד‎</span><sup><small>[[H3259]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹעֵד‎</span></big>** **môwʻêd** <small>*(mo-ade')*</small> ==**meeting: time appointed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מֹעֵד</span></big>** **môʻêd** <small>*(mo-ade')*</small>; or (feminine) **<big><span class="ashebrew">מוֹעָדָה</span></big>** **môwʻâdâh** <small>*(mo-awdaw')*</small>; (2 Chronicles 8:13), from **<big>[[H3259|‎יָעַד‎]]</big>**</small>
 
 $\quad$ appointed (sign, time), (place of, solemn) assembly, congregation, (set, solemn) feast, (appointed, due) season, solemn(-ity), synogogue, (set) time (appointed).
 - properly, ***an appointment***, i.e. ***a fixed time*** or ***season***
@@ -19,4 +19,4 @@ $\quad$ **1c)** appointed place
 $\quad$ **1d)** appointed sign or signal
 $\quad$ **1e)** tent of meeting
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βουλή</span><sup><small>[[G1012]]</small></sup> · <span class="asgreek">ἑορτή</span><sup><small>[[G1859]]</small></sup> · <span class="asgreek">καιρός</span><sup><small>[[G2540]]</small></sup> · <span class="asgreek">μαρτυρία</span><sup><small>[[G3141]]</small></sup> · <span class="asgreek">μαρτύριον</span><sup><small>[[G3142]]</small></sup> · <span class="asgreek">πανήγυρις</span><sup><small>[[G3831]]</small></sup> · <span class="asgreek">σημεῖον</span><sup><small>[[G4592]]</small></sup> · <span class="asgreek">ὥρα</span><sup><small>[[G5610]]</small></sup>
+<small>See Greek: </small>**<big>[[G1012|βουλή]]</big>** · **<big>[[G1859|ἑορτή]]</big>** · **<big>[[G2540|καιρός]]</big>** · **<big>[[G3141|μαρτυρία]]</big>** · **<big>[[G3142|μαρτύριον]]</big>** · **<big>[[G3831|πανήγυρις]]</big>** · **<big>[[G4592|σημεῖον]]</big>** · **<big>[[G5610|ὥρα]]</big>**

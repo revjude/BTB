@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Galatia</span>, a region in Asia Minor, was the recipient of Paul's epistle to the Galatians and was visited by Paul on his missionary journeys \(Acts 16:6; 18:23; [[1Cor.16.1|1 Corinthians 16:1]]; [[Gal.1.2|Galatians 1:2]]; 3:1; 6:18; [[2Tim.4.10|2 Timothy 4:10]]; [[1Pet.1.1|1 Peter 1:1]]\).
 - A location first mentioned at Act.16.6; 
-- referred to as Galatia<[[G1053]]> \(<span class='tipnrLangGreek'>Γαλατία</span>\), or Galatia<[[G1054]]> \(<span class='tipnrLangGreek'>Γαλατικός</span>\), or Galatian<[[G1052]]> \(<span class='tipnrLangGreek'>Γαλάτης</span>\).
+- referred to as Galatia **<big>[[G1053|Γαλατία]]</big>**, or Galatia **<big>[[G1054|Γαλατικός]]</big>**, or Galatian **<big>[[G1052|Γαλάτης]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.57813498250009,32.45318282875567&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Galatia was a region located in central Asia Minor, in present-day Turkey. It wa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Galatia | [<span class='tipnrLangGreek'>Γαλατία</span>](G1053) <small>*Greek*</small> | 4x | [[1Co.16.1] ... [1Pe.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galatia\*\|reference=1Co.16.1;Gal.1.2;2Ti.4.10;1Pe.1.1) |
-| Galatia | [<span class='tipnrLangGreek'>Γαλατικός</span>](G1054) <small>*Greek*</small> | 2x | [[Act.16.6] & [Act.18.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galatia\*\|reference=Act.16.6;Act.18.23) |
-| Galatian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Γαλάτης</span>](G1052) <small>*Greek*</small> | 2x | [[Gal.3.1] & [Gal.6.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galatian\*\|reference=Gal.3.1;Gal.6.18) |
-All Strong's for **Galatia**: \[[[G1053]]\] \[[[G1054]]\] \[[[G1052]]\]
+| Galatia | [<span class='tipnrLangGreek'>Γαλατία</span>](G1053) | 4x | [[1Co.16.1] ... [1Pe.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galatia\*\|reference=1Co.16.1;Gal.1.2;2Ti.4.10;1Pe.1.1) |
+| Galatia | [<span class='tipnrLangGreek'>Γαλατικός</span>](G1054) | 2x | [[Act.16.6] & [Act.18.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galatia\*\|reference=Act.16.6;Act.18.23) |
+| Galatian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Γαλάτης</span>](G1052) | 2x | [[Gal.3.1] & [Gal.6.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Galatian\*\|reference=Gal.3.1;Gal.6.18) |
+All entries for **Galatia**:  **<big>[[G1053|Γαλατία]]</big>** ☩  **<big>[[G1054|Γαλατικός]]</big>** ☩  **<big>[[G1052|Γαλάτης]]</big>**

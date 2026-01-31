@@ -11,36 +11,36 @@ In my vision in the night I continued to watch, and I saw One like the Son of Ma
 > $\quad$ referenced by: [[Matt.24.30|Matt 24:30]] ☩ [[Matt.26.64|Matt 26:64]] ☩ [[Mark.13.26|Mark 13:26]] ☩ [[Mark.14.62|Mark 14:62]] ☩ [[Luke.21.27|Luke 21:27]] ☩ [[Luke.22.69|Luke 22:69]] ☩ [[Rev.1.13|Rev 1:13]] ☩ [[Rev.14.14|Rev 14:14]] ☩ [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I viewed | <big><span class="asgreek">εθεώρουν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a vision | <big><span class="asgreek">οράματι</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clouds | <big><span class="asgreek">νεφελών</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[one\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| was coming. | <big><span class="asgreek">ερχόμενος</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| old one | <big><span class="asgreek">παλαιού</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| he came | <big><span class="asgreek">έφθασε</span></big> <sup><small><small>[[G5348]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he was brought | <big><span class="asgreek">προσηνέχθη</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| I viewed | **<big>[[G2334\|εθεώρουν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a vision | **<big>[[G3705\|οράματι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| night, | **<big>[[G3571\|νυκτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| clouds | **<big>[[G3507\|νεφελών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[one\] as | **<big>[[G5613\|ως]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| was coming. | **<big>[[G2064\|ερχόμενος]]</big>** **<big>[[G1510\|ην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| old one | **<big>[[G3820\|παλαιού]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of days | **<big>[[G2250\|ημερών]]</big>** |
+| he came | **<big>[[G5348\|έφθασε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| he was brought | **<big>[[G4374\|προσηνέχθη]]</big>** |
 [[Dan.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.12|<< Daniel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.14|Daniel 7:14 >>]]</td></tr></table>
 
 

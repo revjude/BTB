@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Demetrius</span>, a silversmith in Ephesus, stirred up opposition against Paul because his preaching threatened the business of making shrines of Artemis. \([[Phlm.1.24|Act.19.24]],38\)
 - A man living at the time of the New Testament, first mentioned at [[Phlm.1.24|Act.19.24]]; 
-- only referred to as Demetrius<[[G1216]]> \(<span class='tipnrLangGreek'>Δημήτριος</span>\).
+- only referred to as Demetrius **<big>[[G1216|Δημήτριος]]</big>**.
 
 Demetrius is mentioned in Acts 19 as a silversmith in Ephesus who crafted silver shrines of the goddess Artemis. When Paul's preaching of the gospel led many people to turn away from worshipping Artemis, Demetrius gathered his fellow craftsmen and incited a riot against Paul and his companions. 
 
@@ -16,5 +16,5 @@ The incident with Demetrius highlights the economic and religious challenges tha
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Demetrius | [<span class='tipnrLangGreek'>Δημήτριος</span>](G1216) <small>*Greek*</small> | 3x | [[Act.19.24] ... [3Jn.1.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Demetrius\*\|reference=Act.19.24;Act.19.38;3Jn.1.12) |
-All Strong's for **Demetrius**: \[[[G1216]]\]
+| Demetrius | [<span class='tipnrLangGreek'>Δημήτριος</span>](G1216) | 3x | [[Act.19.24] ... [3Jn.1.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Demetrius\*\|reference=Act.19.24;Act.19.38;3Jn.1.12) |
+All entries for **Demetrius**:  **<big>[[G1216|Δημήτριος]]</big>**

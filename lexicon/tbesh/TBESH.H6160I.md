@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עֲרָבָה‎</span> <small>***(a.ra.vah)***</small> ==**Plains (of Moab)**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-part of: <small>[[H4124I]]</small> 
+<small>part of:</small> <small>**<big>[[H4124I|מוֹאָב]]</big>**</small> 
 
 
-- Combined with <i>mo.av</i> (<span class='ashebrew'>‎מו‎</span>ֹ<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ב‎</span> " of Moab" [[H4124I]])
+- Combined with <i>mo.av</i> (<span class='ashebrew'>‎מו‎</span>ֹ<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎ב‎</span> " of Moab" **<big>[[H4124I|מוֹאָב]]</big>**)

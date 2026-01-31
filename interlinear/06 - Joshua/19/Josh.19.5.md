@@ -6,13 +6,13 @@ Ziklag, Beth-marcaboth, Hazar-susah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.4|<< Joshua 19:4]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.6|Joshua 19:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Ziklag  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צִֽקְלַ֥ג </big></span><small><small><sup>[[H6860]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> tzik.Lag <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Beth  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵית </big></span><small><small><sup>[[H1024]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> veit- <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Marcaboth  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּרְכָּב֖וֹת </big></span><small><small><sup>[[H1024]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mar.ka.Vot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Hazar  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲצַ֥ר </big></span><small><small><sup>[[H2701]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.Tzar <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Susah  | <span class="ashebrew"><big>סוּסָֽה </big></span><small><small><sup>[[H2701]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| su.Sah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ziklag  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6860\|צִֽקְלַ֥ג]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzik.Lag<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1024\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Marcaboth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1024\|מַּרְכָּב֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mar.ka.Vot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hazar  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2701\|חֲצַ֥ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Tzar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Susah  |**<big>&#8207;[[H2701\|סוּסָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| su.Sah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.4|<< Joshua 19:4]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.6|Joshua 19:6 >>]]</td></tr></table>
 
 

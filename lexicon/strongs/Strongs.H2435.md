@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִיצוֹן‎</span></big> **chîytsôwn** <small>*(khee-tsone')*</small> ==**outer**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חַיִץ‎</span><sup><small>[[H2434]]</small></sup></small>
+**<big><span class="ashebrew">‎חִיצוֹן‎</span></big>** **chîytsôwn** <small>*(khee-tsone')*</small> ==**outer**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2434|‎חַיִץ‎]]</big>**</small>
 
 $\quad$ outer, outward, utter, without.
 - properly, ***the*** (outer) ***wall side***
@@ -8,4 +8,4 @@ $\quad$ outer, outward, utter, without.
 
 **1)** outer, external, outward
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐξώτερος</span><sup><small>[[G1857]]</small></sup> · <span class="asgreek">ἐσώτερος</span><sup><small>[[G2082]]</small></sup>
+<small>See Greek: </small>**<big>[[G1857|ἐξώτερος]]</big>** · **<big>[[G2082|ἐσώτερος]]</big>**

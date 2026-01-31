@@ -7,16 +7,16 @@ But ye [are] forgers of lies, ye [are] all physicians of no value.
 You, however, smear with lies; you are all worthless physicians.<small><sub>**MT:**</sub></small>
 [[Job.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.3|<< Job 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.5|Job 13:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| are | <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| physicians | <big><span class="asgreek">ιατροί</span></big> <sup><small><small>[[G2395]]</small></small></sup> |
-| unjust | <big><span class="asgreek">άδικοι</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| healers | <big><span class="asgreek">ιαταί</span></big> <sup><small><small>[[G7704]]</small></small></sup> |
-| bad | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| \[are\] all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| But you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| are | **<big>[[G1510\|εστέ]]</big>** |
+| physicians | **<big>[[G2395\|ιατροί]]</big>** |
+| unjust | **<big>[[G0094\|άδικοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| healers | **<big>[[G7704\|ιαταί]]</big>** |
+| bad | **<big>[[G2556\|κακών]]</big>** |
+| \[are\] all | **<big>[[G3956\|πάντες]]</big>** |
 [[Job.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.3|<< Job 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.5|Job 13:5 >>]]</td></tr></table>
 
 

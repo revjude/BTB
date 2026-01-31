@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶשְׁבּוֹן‎</span></big> **Cheshbôwn** <small>*(khesh-bone')*</small> ==**Heshbon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חֶשְׁבּוֹן‎</span><sup><small>[[H2808]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶשְׁבּוֹן‎</span></big>** **Cheshbôwn** <small>*(khesh-bone')*</small> ==**Heshbon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H2808|‎חֶשְׁבּוֹן‎]]</big>**</small>
 
 $\quad$ Heshbon.
 - § Heshbon = *"stronghold"*

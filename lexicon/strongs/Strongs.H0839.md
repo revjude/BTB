@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲשֻׁר‎</span></big> **ʼăshur** <small>*(ash-oor')*</small> ==**pine**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>contracted for <span class="ashebrew">‎תְּאַשּׁוּר‎</span><sup><small>[[H8391]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲשֻׁר‎</span></big>** **ʼăshur** <small>*(ash-oor')*</small> ==**pine**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>contracted for **<big>[[H8391|‎תְּאַשּׁוּר‎]]</big>**</small>
 
 $\quad$ Ashurite.
 - ***the cedar tree*** or ***some other light elastic wood***

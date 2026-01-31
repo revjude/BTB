@@ -1,8 +1,8 @@
 <small>*Waheb • A place mentioned in the Book of Numbers*</small>
 
 <span class='tipnrhighlight'>Waheb</span>, a place mentioned in the Book of Numbers, possibly located in Moab \(Num. 21:14\).
-- A location near Red\_Sea<[[H5488G]]> only mentioned at [[Num.21.14|Num.21.14]]; 
-- only referred to as Waheb<[[H2052]]> \(<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>ֵ<span class='tipnrLangHebrew'>ב</span>\).
+- A location near Red\_Sea **<big>[[H5488|סוּף]]</big>** only mentioned at [[Num.21.14|Num.21.14]]; 
+- only referred to as Waheb **<big>[[H2052|וָהֵב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=27.088473,34.771729&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Waheb is a place name that appears only once in the Bible, in [[Num.21.14|Number
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Waheb | [<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>ֵ<span class='tipnrLangHebrew'>ב</span>](H2052) <small>*Hebrew*</small> | 1x | [Num.21.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Waheb\*\|reference=Num.21.14) |
-All Strong's for **Waheb**: \[[[H2052]]\]
+| Waheb | [<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>ֵ<span class='tipnrLangHebrew'>ב</span>](H2052) | 1x | [Num.21.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Waheb\*\|reference=Num.21.14) |
+All entries for **Waheb**:  **<big>[[H2052|וָהֵב]]</big>**

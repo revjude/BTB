@@ -6,15 +6,15 @@ Look, O mighty man! The LORD is about to shake you violently. He will take hold 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.16|<< Isaiah 22:16]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.18|Isaiah 22:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּ֤ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] about to hurl away you  | <span class="ashebrew"><big>מְטַלְטֶלְ </big></span><small><small><sup>[[H2904]]</sup></small></small> <span class="ashebrew"><big>ךָ֔ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| me.tal.tel. <small><sup>[[HVprmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hurling  | <span class="ashebrew"><big>טַלְטֵלָ֖ה </big></span><small><small><sup>[[H2925]]</sup></small></small> &#8207;| tal.te.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O man  | <span class="ashebrew"><big>גָּ֑בֶר </big></span><small><small><sup>[[H1397]]</sup></small></small> &#8207;| Ga.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] about to grasp you  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֹטְ </big></span><small><small><sup>[[H5844B]]</sup></small></small> <span class="ashebrew"><big>ךָ֖ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'o.te. <small><sup>[[HVqrmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| completely \<to grasp>  | <span class="ashebrew"><big>עָטֹֽה </big></span><small><small><sup>[[H5844B]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Toh <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] about to hurl away you  |**<big>&#8207;[[H2904\|מְטַלְטֶלְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| me.tal.tel.<small><sup>[[HVprmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hurling  |**<big>&#8207;[[H2925\|טַלְטֵלָ֖ה]]&#8207; </big>**| tal.te.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O man  |**<big>&#8207;[[H1397\|גָּ֑בֶר]]&#8207; </big>**| Ga.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] about to grasp you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5844B\|עֹטְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.te.<small><sup>[[HVqrmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completely \<to grasp>  |**<big>&#8207;[[H5844B\|עָטֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Toh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.16|<< Isaiah 22:16]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.18|Isaiah 22:18 >>]]</td></tr></table>
 
 

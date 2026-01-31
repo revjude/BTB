@@ -6,21 +6,21 @@ And mount on it a setting of gemstones, four rows of stones: In the first row th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.16|<< Exodus 28:16]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.18|Exodus 28:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will fill  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>מִלֵּאתָ֥ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> mi.le.Ta <small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> it  | <span class="ashebrew"><big>ב </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>וֹ֙ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| v <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a setting of  | <span class="ashebrew"><big>מִלֻּ֣אַת </big></span><small><small><sup>[[H4396]]</sup></small></small> &#8207;| mi.Lu.'at <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stone[s]  | <span class="ashebrew"><big>אֶ֔בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'E.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| four  | <span class="ashebrew"><big>אַרְבָּעָ֖ה </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| 'ar.ba.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rows  | <span class="ashebrew"><big>טוּרִ֣ים </big></span><small><small><sup>[[H2905]]</sup></small></small> &#8207;| tu.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stone  | <span class="ashebrew"><big>אָ֑בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] a row of  | <span class="ashebrew"><big>ט֗וּר </big></span><small><small><sup>[[H2905]]</sup></small></small> &#8207;| Tur <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a ruby  | <span class="ashebrew"><big>אֹ֤דֶם </big></span><small><small><sup>[[H0124]]</sup></small></small> &#8207;| 'O.dem <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a topaz  | <span class="ashebrew"><big>פִּטְדָה֙ </big></span><small><small><sup>[[H6357]]</sup></small></small> &#8207;| pit.Dah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a beryl  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בָרֶ֔קֶת </big></span><small><small><sup>[[H1304A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> va.Re.ket <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the row  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>טּ֖וּר </big></span><small><small><sup>[[H2905]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Tur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> one  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֶחָֽד </big></span><small><small><sup>[[H0259]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will fill  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4390\|מִלֵּאתָ֥]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mi.le.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  |**<big>&#8207;[[H9003\|ב]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a setting of  |**<big>&#8207;[[H4396\|מִלֻּ֣אַת]]&#8207; </big>**| mi.Lu.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stone[s]  |**<big>&#8207;[[H0068G\|אֶ֔בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  |**<big>&#8207;[[H0702\|אַרְבָּעָ֖ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rows  |**<big>&#8207;[[H2905\|טוּרִ֣ים]]&#8207; </big>**| tu.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stone  |**<big>&#8207;[[H0068G\|אָ֑בֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] a row of  |**<big>&#8207;[[H2905\|ט֗וּר]]&#8207; </big>**| Tur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ruby  |**<big>&#8207;[[H0124\|אֹ֤דֶם]]&#8207; </big>**| 'O.dem<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a topaz  |**<big>&#8207;[[H6357\|פִּטְדָה֙]]&#8207; </big>**| pit.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a beryl  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1304A\|בָרֶ֔קֶת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Re.ket<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the row  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2905\|טּ֖וּר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> one  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.16|<< Exodus 28:16]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.18|Exodus 28:18 >>]]</td></tr></table>
 
 

@@ -32,11 +32,11 @@
 
 
 
-<small>Also see: [[H7918]]</small>
+<small>Also see: **<big>[[H7918|שָׁכַךְ]]</big>**</small>
 
  II. [<span class="bdbLangHebrew">‎שָׂכַךְ‎</span>] **verb** ==weave== (compare \|\| √ II. <span class="bdbLangHebrew">‎סכך‎</span>); **Po\`lel** ***Imperfect*** 2 masculine singular suffix <span class="bdbLangHebrew">‎תְּשׂכְכֵנִי‎</span> [[Job.10.11|Job 10:11]] with bones and sinews ***thou weavest me together.***. 
 
-<small>Also see: [[H7753]]</small>
+<small>Also see: **<big>[[H7753|שׂוּךְ]]</big>**</small>
 
  III. <span class="bdbLangHebrew">‎שׂכך‎</span> (√ of following; compare I. <span class="bdbLangHebrew">‎שׂוך‎</span>. II. <span class="bdbLangHebrew">‎סוך‎</span>). 
 

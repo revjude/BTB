@@ -4,18 +4,18 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Bethuel</span>, the son of Nahor and Milcah, was the father of Rebekah, Isaac's wife.
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.22.22|Gen.22.22]]; 
-- only referred to as Bethuel<[[H1328A]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
--  son of Nahor<[[H5152H]]> and Milcah<[[H4435G]]>; 
-- a brother of Uz<[[H5780H]]>, Buz<[[H0938G]]>, Kemuel<[[H7055G]]>, Chesed<[[H3777]]>, Hazo<[[H2375]]>, Pildash<[[H6394]]>, Jidlaph<[[H3044]]> and Tebah<[[H2875]]>; 
--  half-brother of: Gaham<[[H1514]]>, Tahash<[[H8477]]> and Maacah<[[H4601G]]>; 
--  father of Rebekah<[[H7259]]> and Laban<[[H3837A]]>.
+- only referred to as Bethuel **<big>[[H1328|בְּתוּאֵל]]</big>**; 
+-  son of Nahor **<big>[[H5152|נָחוֹר]]</big>** and Milcah **<big>[[H4435|מִלְכָּה]]</big>**; 
+- a brother of Uz **<big>[[H5780|עוּץ]]</big>**, Buz **<big>[[H0938|בּוּז]]</big>**, Kemuel **<big>[[H7055|קְמוּאֵל]]</big>**, Chesed **<big>[[H3777|כֶּשֶׂד]]</big>**, Hazo **<big>[[H2375|חֲזוֹ]]</big>**, Pildash **<big>[[H6394|פִּלְדָּשׁ]]</big>**, Jidlaph **<big>[[H3044|יִדְלָף]]</big>** and Tebah **<big>[[H2875|טֶבַח]]</big>**; 
+-  half-brother of: Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**; 
+-  father of Rebekah **<big>[[H7259|רִבְקָה]]</big>** and Laban **<big>[[H3837|לָבָן]]</big>**.
 
 Bethuel was the son of Nahor, Abraham's brother, and Milcah, the daughter of Haran \(Gen. 22:22-23\). He lived in Paddan-aram, the region where Abraham's family originated. Bethuel was the father of Rebekah, who became the wife of Isaac, Abraham's son \(Gen. 24:15, 24, 47\). When Abraham's servant was sent to find a wife for Isaac, he was led to Rebekah, and Bethuel, along with his son Laban, agreed to the marriage \(Gen. 24:50-51\). Bethuel's lineage is significant, as it demonstrates the fulfillment of God's promise to Abraham that his descendants would come from his own family line \(Gen. 17:4-7\). Rebekah's marriage to Isaac ensured the continuation of the covenant promise through the next generation \(Gen. 25:20; 28:2, 5\).
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bethuel | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1328A) <small>*Hebrew*</small> | 9x | [[Gen.22.22] ... [Gen.28.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethuel\*\|reference=Gen.22.22;Gen.22.23;Gen.24.15;Gen.24.24;Gen.24.47;Gen.24.50;Gen.25.20;Gen.28.2;Gen.28.5) |
-All Strong's for **Bethuel**: \[[[H1328A]]\]
+| Bethuel | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>תו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1328A) | 9x | [[Gen.22.22] ... [Gen.28.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethuel\*\|reference=Gen.22.22;Gen.22.23;Gen.24.15;Gen.24.24;Gen.24.47;Gen.24.50;Gen.25.20;Gen.28.2;Gen.28.5) |
+All entries for **Bethuel**:  **<big>[[H1328|בְּתוּאֵל]]</big>**
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

@@ -7,26 +7,26 @@ And thou shalt make the staves [of] shittim wood, and overlay them with gold, th
 Make the poles of acacia wood and overlay them with gold, so that the table may be carried with them.<small><sub>**MT:**</sub></small>
 [[Exod.25.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.27|<< Exodus 25:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.29|Exodus 25:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bearing poles | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| woods | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| incorruptible | <big><span class="asgreek">ασήπτων</span></big> <sup><small><small>[[G6568]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall gild | <big><span class="asgreek">καταχρυσώσεις</span></big> <sup><small><small>[[G7958]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| with pure | <big><span class="asgreek">καθαρώ</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be lifted | <big><span class="asgreek">αρθήσεται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| table | <big><span class="asgreek">τράπεζα</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| bearing poles | **<big>[[G6320\|αναφορείς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| woods | **<big>[[G3586\|ξύλων]]</big>** |
+| incorruptible | **<big>[[G6568\|ασήπτων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall gild | **<big>[[G7958\|καταχρυσώσεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| gold | **<big>[[G5553\|χρυσίω]]</big>** |
+| with pure | **<big>[[G2513\|καθαρώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be lifted | **<big>[[G0142\|αρθήσεται]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| table | **<big>[[G5132\|τράπεζα]]</big>** |
 [[Exod.25.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.27|<< Exodus 25:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.29|Exodus 25:29 >>]]</td></tr></table>
 
 

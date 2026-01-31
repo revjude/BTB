@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שַׁלִּיט‎</span></big> **shallîyṭ** <small>*(shal-leet')*</small> ==**ruling**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שַׁלִּיט‎</span><sup><small>[[H7989]]</small></sup></small>
+**<big><span class="asaramaic">‎שַׁלִּיט‎</span></big>** **shallîyṭ** <small>*(shal-leet')*</small> ==**ruling**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7989|‎שַׁלִּיט‎]]</big>**</small>
 
 $\quad$ captain, be lawful, rule(-r).
 - ***mighty***

@@ -7,38 +7,38 @@ And the other issued out of the city against them; so they were in the midst of 
 Meanwhile, those in the ambush came out of the city against them, and the men of Ai were trapped between the Israelite forces on both sides. So Israel struck them down until no survivor or fugitive remained.<small><sub>**MT:**</sub></small>
 [[Josh.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.21|<< Joshua 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.23|Joshua 8:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they came | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| \[some of\] these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| here | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[some of\] these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| here. | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they struck | <big><span class="asgreek">επάταξαν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \[there was\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| one being left behind | <big><span class="asgreek">καταλειφθήναι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being delivered | <big><span class="asgreek">σεσωσμένον</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| escaping. | <big><span class="asgreek">διαπεφεύγοτα</span></big> <sup><small><small>[[G1309]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| city | **<big>[[G4172\|πόλεως]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G4877\|συνάντησιν]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they came | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολής]]</big>** |
+| \[some of\] these | **<big>[[G3778\|ούτοι]]</big>** |
+| here | **<big>[[G1782\|εντεύθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[some of\] these | **<big>[[G3778\|ούτοι]]</big>** |
+| here. | **<big>[[G1782\|εντεύθεν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they struck | **<big>[[G3960\|επάταξαν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \[there was\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| one being left behind | **<big>[[G2641\|καταλειφθήναι]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| being delivered | **<big>[[G4982\|σεσωσμένον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| escaping. | **<big>[[G1309\|διαπεφεύγοτα]]</big>** |
 [[Josh.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.21|<< Joshua 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.23|Joshua 8:23 >>]]</td></tr></table>
 
 

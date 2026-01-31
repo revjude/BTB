@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁלּוּם‎</span></big> **Shallûwm** <small>*(shal-loom')*</small> ==**Shallum**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (shorter) <span class="ashebrew">שַׁלֻּם</span> **Shallum** <small>*(shal-loom')*</small>; the same as <span class="ashebrew">‎שִׁלּוּם‎</span><sup><small>[[H7966]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁלּוּם‎</span></big>** **Shallûwm** <small>*(shal-loom')*</small> ==**Shallum**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (shorter) **<big><span class="ashebrew">שַׁלֻּם</span></big>** **Shallum** <small>*(shal-loom')*</small>; the same as **<big>[[H7966|‎שִׁלּוּם‎]]</big>**</small>
 
 $\quad$ Shallum.
 - § Shallum = *"retribution"*

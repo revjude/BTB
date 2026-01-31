@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּפַר‎</span></big> **kâphar** <small>*(kaw-far')*</small> ==**to atone**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּפַר‎</span></big>** **kâphar** <small>*(kaw-far')*</small> ==**to atone**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ appease, make (an atonement, cleanse, disannul, forgive, be merciful, pacify, pardon, purge (away), put off, (make) reconcile(-liation).
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1c1)** to be covered over
 $\quad$ $\quad$ **1c2)** to make atonement for
 $\quad$ **1d)** (Hithpael) to be covered
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγιάζω</span><sup><small>[[G0037]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">ἀφίημι</span><sup><small>[[G0863]]</small></sup> · <span class="asgreek">ἱλάσκομαι</span><sup><small>[[G2433]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup>
+<small>See Greek: </small>**<big>[[G0037|ἁγιάζω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G0863|ἀφίημι]]</big>** · **<big>[[G2433|ἱλάσκομαι]]</big>** · **<big>[[G2511|καθαρίζω]]</big>**

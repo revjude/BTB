@@ -7,20 +7,20 @@ Of Judah, Elihu, [one] of the brethren of David: of Issachar, Omri the son of Mi
 over Judah was Elihu, one of David’s brothers; over Issachar was Omri son of Michael;<small><sub>**MT:**</sub></small>
 [[1Chr.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.17|<< 1 Chronicles 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.19|1 Chronicles 27:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[was\] Elihu | <big><span class="asgreek">Ελία</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of David; | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Issachar | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
-| \[was\] Omri | <big><span class="asgreek">Αμβρί</span></big> <sup><small><small>[[H6018]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Michael; | <big><span class="asgreek">Μιχαήλ</span></big> <sup><small><small>[[G3413]]</small></small></sup> |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[was\] Elihu | **<big>[[G2243\|Ελία]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| brethren | **<big>[[G0080\|αδελφών]]</big>** |
+| of David; | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Issachar | **<big>[[G2466\|Ισσάχαρ]]</big>** |
+| \[was\] Omri | **<big>[[H6018\|Αμβρί]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Michael; | **<big>[[G3413\|Μιχαήλ]]</big>** |
 [[1Chr.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.17|<< 1 Chronicles 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.19|1 Chronicles 27:19 >>]]</td></tr></table>
 
 

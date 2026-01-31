@@ -6,14 +6,14 @@ You withheld all Your fury; You turned from Your burning anger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.85.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.2|<< Psalms 85:2]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.4|Psalms 85:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you withdrew  | <span class="ashebrew"><big>אָסַ֥פְתָּ </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| 'a.Saf.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| khol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fury your  | <span class="ashebrew"><big>עֶבְרָתֶ֑ </big></span><small><small><sup>[[H5678]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| 'ev.ra.Te. <small><sup>[[HNcfsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you turned back  | <span class="ashebrew"><big>הֱ֝שִׁיב֗וֹתָ </big></span><small><small><sup>[[H7725I]]</sup></small></small> &#8207;| he.shi.Vo.ta <small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] burning of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>חֲר֥וֹן </big></span><small><small><sup>[[H2740]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> cha.Ron <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger your  | <span class="ashebrew"><big>אַפֶּֽ </big></span><small><small><sup>[[H0639G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Pe. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you withdrew  |**<big>&#8207;[[H0622\|אָסַ֥פְתָּ]]&#8207; </big>**| 'a.Saf.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fury your  |**<big>&#8207;[[H5678\|עֶבְרָתֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'ev.ra.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you turned back  |**<big>&#8207;[[H7725I\|הֱ֝שִׁיב֗וֹתָ]]&#8207; </big>**| he.shi.Vo.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] burning of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2740\|חֲר֥וֹן]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger your  |**<big>&#8207;[[H0639G\|אַפֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Pe.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.2|<< Psalms 85:2]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.4|Psalms 85:4 >>]]</td></tr></table>
 
 

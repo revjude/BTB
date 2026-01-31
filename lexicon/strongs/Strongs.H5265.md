@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָסַע‎</span></big> **nâçaʻ** <small>*(naw-sah')*</small> ==**to set out**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָסַע‎</span></big>** **nâçaʻ** <small>*(naw-sah')*</small> ==**to set out**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cause to blow, bring, get, (make to) go (away, forth, forward, onward, out), (take) journey, march, remove, set aside (forward), [idiom] still, be on his (go their) way.

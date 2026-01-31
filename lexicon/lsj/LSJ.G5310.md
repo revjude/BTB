@@ -1,4 +1,4 @@
-Greek of: <small>[[H3068G]]</small> 
+Greek of: <small>**<big>[[H3068G|יְהֹוָה]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ὕψιστος==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 

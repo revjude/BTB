@@ -7,23 +7,23 @@ And Lamech took unto him two wives: the name of the one [was] Adah, and the name
 And Lamech married two women, one named Adah and the other Zillah.<small><sub>**MT:**</sub></small>
 [[Gen.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.18|<< Genesis 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.20|Genesis 4:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| Lamech | <big><span class="asgreek">Λάμεχ</span></big> <sup><small><small>[[G2984]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| wives; | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μιά</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[was\] Adah, | <big><span class="asgreek">Αδδά</span></big> <sup><small><small>[[H5711]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δευτέρα</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| \[was\] Zillah. | <big><span class="asgreek">Σελλά</span></big> <sup><small><small>[[H6741]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| Lamech | **<big>[[G2984\|Λάμεχ]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| wives; | **<big>[[G1135\|γυναίκας]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| one | **<big>[[G1520\|μιά]]</big>** |
+| \[was\] Adah, | **<big>[[H5711\|Αδδά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομα]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| second | **<big>[[G1208\|δευτέρα]]</big>** |
+| \[was\] Zillah. | **<big>[[H6741\|Σελλά]]</big>** |
 [[Gen.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.18|<< Genesis 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.20|Genesis 4:20 >>]]</td></tr></table>
 
 

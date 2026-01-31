@@ -11,47 +11,47 @@ Therefore Jacob’s guilt will be atoned for, and the full fruit of the removal 
 > $\quad$ referenced by: [[Rom.11.27|Rom 11:27]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| shall be removed | <big><span class="asgreek">αφαιρεθήσεται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| from Jacob; | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his blessing; | <big><span class="asgreek">ευλογία</span></big> <sup><small><small>[[G2129]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| I should remove | <big><span class="asgreek">αφέλωμαι</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| they should furnish | <big><span class="asgreek">θώσι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shrines | <big><span class="asgreek">βωμών</span></big> <sup><small><small>[[G1041]]</small></small></sup> |
-| for being cut in pieces | <big><span class="asgreek">κατακεκομμένους</span></big> <sup><small><small>[[G2629]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| powder | <big><span class="asgreek">κονίαν</span></big> <sup><small><small>[[G8062]]</small></small></sup> |
-| fine | <big><span class="asgreek">λεπτήν</span></big> <sup><small><small>[[G3016]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| remain | <big><span class="asgreek">μείνη</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their trees | <big><span class="asgreek">δένδρα</span></big> <sup><small><small>[[G1186]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[shall be in the state of\] being cut down | <big><span class="asgreek">εκκεκομμένα</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a forest | <big><span class="asgreek">δρυμός</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| far \[off\]. | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| shall be removed | **<big>[[G0851\|αφαιρεθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομία]]</big>** |
+| from Jacob; | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|τούτό]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his blessing; | **<big>[[G2129\|ευλογία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| I should remove | **<big>[[G0851\|αφέλωμαι]]</big>** |
+| from him | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| they should furnish | **<big>[[G5087\|θώσι]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| stones | **<big>[[G3037\|λίθους]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| shrines | **<big>[[G1041\|βωμών]]</big>** |
+| for being cut in pieces | **<big>[[G2629\|κατακεκομμένους]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| powder | **<big>[[G8062\|κονίαν]]</big>** |
+| fine | **<big>[[G3016\|λεπτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| remain | **<big>[[G3306\|μείνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their trees | **<big>[[G1186\|δένδρα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their idols | **<big>[[G1497\|είδωλα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[shall be in the state of\] being cut down | **<big>[[G1581\|εκκεκομμένα]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a forest | **<big>[[G6971\|δρυμός]]</big>** |
+| far \[off\]. | **<big>[[G3112\|μακράν]]</big>** |
 [[Isa.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.8|<< Isaiah 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.10|Isaiah 27:10 >>]]</td></tr></table>
 
 

@@ -7,15 +7,15 @@ Son of man, cause Jerusalem to know her abominations,
 “Son of man, confront Jerusalem with her abominations<small><sub>**MT:**</sub></small>
 [[Ezek.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.1|<< Ezekiel 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.3|Ezekiel 16:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| testify | <big><span class="asgreek">διαμάρτυραι</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her lawless deeds! | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O son | **<big>[[G5207\|υιέ]]</big>** |
+| of man, | **<big>[[G0444\|ανθρώπου]]</big>** |
+| testify | **<big>[[G1263\|διαμάρτυραι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| of her lawless deeds! | **<big>[[G0458\|ανομίας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Ezek.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.1|<< Ezekiel 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.3|Ezekiel 16:3 >>]]</td></tr></table>
 
 

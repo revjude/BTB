@@ -1,8 +1,8 @@
 <small>*Valley of Hamon-gog • A valley where Gog and his army will be buried.*</small>
 
 The Valley of Hamon-gog is the place where Gog and his army will be buried after their defeat, as prophesied by Ezekiel \(Ezekiel 39:11, 15\).
-- A location near Diblathaim<[[H5963]]> first mentioned at Ezk.39.11; 
-- only referred to as Hamon-gog\_Valley<[[H1996]]><[[H1516N]]> \(<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ג</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>\).
+- A location near Diblathaim **<big>[[H5963|עַלְמֹן דִּבְלָתָיְמָה]]</big>** first mentioned at Ezk.39.11; 
+- only referred to as Hamon-gog\_Valley **<big>[[H1996|הֲמוֹן גּוֹג]]</big>** **<big>[[H1516|גַּיְא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.49684513710609,35.78284105296996&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The exact location of the Valley of Hamon-gog is not specified in the Bible, as 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Valley/ of Hamon-gog | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ג</span>](H1996)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516N) <small>*Hebrew*</small> | 2x | [[Ezk.39.11b] & [Ezk.39.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Ezk.39.11;Ezk.39.15) |
-All Strong's for **Hamon-gog_Valley**: \[[[H1996]]\]
+| Valley/ of Hamon-gog | [<span class='tipnrLangHebrew'>ה</span>ֲ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ג</span>](H1996)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>א</span>](H1516N) | 2x | [[Ezk.39.11b] & [Ezk.39.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Valley\*\|reference=Ezk.39.11;Ezk.39.15) |
+All entries for **Hamon-gog Valley**:  **<big>[[H1996|הֲמוֹן גּוֹג]]</big>**

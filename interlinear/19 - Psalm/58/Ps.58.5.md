@@ -6,16 +6,16 @@ refusing to hear the tune of the charmer who skillfully weaves his spell.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.4|<< Psalms 58:4]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.6|Psalms 58:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it listens  | <span class="ashebrew"><big>יִ֭שְׁמַע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| Yish.ma' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] sound of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| charmers  | <span class="ashebrew"><big>מְלַחֲשִׁ֑ים </big></span><small><small><sup>[[H3907]]</sup></small></small> &#8207;| me.la.cha.Shim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] casts  | <span class="ashebrew"><big>חוֹבֵ֖ר </big></span><small><small><sup>[[H2266]]</sup></small></small> &#8207;| cho.Ver <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| spells  | <span class="ashebrew"><big>חֲבָרִ֣ים </big></span><small><small><sup>[[H2267]]</sup></small></small> &#8207;| cha.va.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| skillful  | <span class="ashebrew"><big>מְחֻכָּֽם </big></span><small><small><sup>[[H2449]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.chu.Kam <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it listens  |**<big>&#8207;[[H8085G\|יִ֭שְׁמַע]]&#8207; </big>**| Yish.ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] sound of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| charmers  |**<big>&#8207;[[H3907\|מְלַחֲשִׁ֑ים]]&#8207; </big>**| me.la.cha.Shim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] casts  |**<big>&#8207;[[H2266\|חוֹבֵ֖ר]]&#8207; </big>**| cho.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spells  |**<big>&#8207;[[H2267\|חֲבָרִ֣ים]]&#8207; </big>**| cha.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skillful  |**<big>&#8207;[[H2449\|מְחֻכָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.chu.Kam<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.4|<< Psalms 58:4]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.6|Psalms 58:6 >>]]</td></tr></table>
 
 

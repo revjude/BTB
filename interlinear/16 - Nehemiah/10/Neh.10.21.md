@@ -6,11 +6,11 @@ Meshezabel, Zadok, Jaddua,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.20|<< Nehemiah 10:20]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.22|Nehemiah 10:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Meshezabel  | <span class="ashebrew"><big>מְשֵׁיזַבְאֵ֥ל </big></span><small><small><sup>[[H4898H]]</sup></small></small> &#8207;| me.shei.zav.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zadok  | <span class="ashebrew"><big>צָד֖וֹק </big></span><small><small><sup>[[H6659L]]</sup></small></small> &#8207;| tza.Dok <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jaddua  | <span class="ashebrew"><big>יַדּֽוּעַ </big></span><small><small><sup>[[H3037G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Du.a' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meshezabel  |**<big>&#8207;[[H4898H\|מְשֵׁיזַבְאֵ֥ל]]&#8207; </big>**| me.shei.zav.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zadok  |**<big>&#8207;[[H6659L\|צָד֖וֹק]]&#8207; </big>**| tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jaddua  |**<big>&#8207;[[H3037G\|יַדּֽוּעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Du.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.20|<< Nehemiah 10:20]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.22|Nehemiah 10:22 >>]]</td></tr></table>
 
 

@@ -6,17 +6,17 @@ In those days I, Daniel, was mourning for three full weeks.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.1|<< Daniel 10:1]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.3|Daniel 10:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in the days  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָּמִ֖ים </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> those  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>הֵ֑ם </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Hem <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֤י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Daniel  | <span class="ashebrew"><big>דָֽנִיֵּאל֙ </big></span><small><small><sup>[[H1840G]]</sup></small></small> &#8207;| da.ni.yeL <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I was  | <span class="ashebrew"><big>הָיִ֣יתִי </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yi.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mourning  | <span class="ashebrew"><big>מִתְאַבֵּ֔ל </big></span><small><small><sup>[[H0056]]</sup></small></small> &#8207;| mit.'a.Bel <small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֥ה </big></span><small><small><sup>[[H7969]]</sup></small></small> &#8207;| she.lo.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sevens  | <span class="ashebrew"><big>שָׁבֻעִ֖ים </big></span><small><small><sup>[[H7620I]]</sup></small></small> &#8207;| sha.vu.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִֽים </big></span><small><small><sup>[[H3117G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֖ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> those  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H1992\|הֵ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Daniel  |**<big>&#8207;[[H1840G\|דָֽנִיֵּאל֙]]&#8207; </big>**| da.ni.yeL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was  |**<big>&#8207;[[H1961\|הָיִ֣יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mourning  |**<big>&#8207;[[H0056\|מִתְאַבֵּ֔ל]]&#8207; </big>**| mit.'a.Bel<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֥ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sevens  |**<big>&#8207;[[H7620I\|שָׁבֻעִ֖ים]]&#8207; </big>**| sha.vu.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.1|<< Daniel 10:1]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.3|Daniel 10:3 >>]]</td></tr></table>
 
 

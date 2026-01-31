@@ -7,20 +7,20 @@ This also cometh forth from the LORD of hosts, [which] is wonderful in counsel, 
 This also comes from the LORD of Hosts, who is wonderful in counsel and excellent in wisdom.<small><sub>**MT:**</sub></small>
 [[Isa.28.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.28|<< Isaiah 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.1|Isaiah 29:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| miracles | <big><span class="asgreek">τέρατα</span></big> <sup><small><small>[[G5059]]</small></small></sup> |
-| Take counsel, | <big><span class="asgreek">βουλεύσασθε</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| exalt | <big><span class="asgreek">υψώσατε</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| vain | <big><span class="asgreek">ματαίαν</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| comfort! | <big><span class="asgreek">παράκλησιν</span></big> <sup><small><small>[[G3874]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| miracles | **<big>[[G5059\|τέρατα]]</big>** |
+| Take counsel, | **<big>[[G1011\|βουλεύσασθε]]</big>** |
+| exalt | **<big>[[G5312\|υψώσατε]]</big>** |
+| vain | **<big>[[G3152\|ματαίαν]]</big>** |
+| comfort! | **<big>[[G3874\|παράκλησιν]]</big>** |
 [[Isa.28.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.28|<< Isaiah 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.1|Isaiah 29:1 >>]]</td></tr></table>
 
 

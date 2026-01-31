@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>India</span>, the eastern extent of Ahasuerus' Persian Empire \([[Esth.1.1|Esther 1:1]]; 8:9\).
 - A location first mentioned at [[Esth.1.1|Est.1.1]]; 
-- only referred to as India<[[H1912]]> \(<span class='tipnrLangHebrew'>ה</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ\).
+- only referred to as India **<big>[[H1912|הֹדוּ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=22,77&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ India is mentioned twice in the book of Esther as the eastern boundary of the Pe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| India | [<span class='tipnrLangHebrew'>ה</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ](H1912) <small>*Hebrew*</small> | 2x | [[Est.1.1] & [Est.8.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=India\*\|reference=Est.1.1;Est.8.9) |
-All Strong's for **India**: \[[[H1912]]\]
+| India | [<span class='tipnrLangHebrew'>ה</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ](H1912) | 2x | [[Est.1.1] & [Est.8.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=India\*\|reference=Est.1.1;Est.8.9) |
+All entries for **India**:  **<big>[[H1912|הֹדוּ]]</big>**

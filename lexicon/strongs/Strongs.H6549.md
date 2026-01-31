@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּרְעֹה נְכֹה‎</span></big> **Parʻôh Nᵉkôh** <small>*(par-o' nek-o')*</small> ==**Pharaoh-neco**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">פַּרְעֹה נְכוֹ</span> **Parʻôh Nᵉkôw** <small>*(par-o' nek-o')*</small>; of Egyptian derivation</small>
+**<big><span class="ashebrew">‎פַּרְעֹה נְכֹה‎</span></big>** **Parʻôh Nᵉkôh** <small>*(par-o' nek-o')*</small> ==**Pharaoh-neco**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">פַּרְעֹה נְכוֹ</span></big>** **Parʻôh Nᵉkôw** <small>*(par-o' nek-o')*</small>; of Egyptian derivation</small>
 
 $\quad$ Pharaoh-necho, Pharaohnechoh.
 - § Pharaoh-necho = *"great house-he is smitten"*

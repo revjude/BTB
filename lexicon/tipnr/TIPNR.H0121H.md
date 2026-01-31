@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Adam</span>, a city beside the Jordan, where the river was stopped for Israel's crossing.
 - A location only mentioned at [[Josh.3.16|Jos.3.16]]; 
-- only referred to as Adam<[[H0121H]]> \(<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Adam **<big>[[H0121|אָדָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.09772014797369,35.56469085401976&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Adam is mentioned in [[Josh.3.16|Joshua 3:16]] as a city near the Jordan River, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adam | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0121H) <small>*Hebrew*</small> | 1x | [Jos.3.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Jos.3.16) |
-All Strong's for **Adam**: \[[[H0121H]]\]
+| Adam | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0121H) | 1x | [Jos.3.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adam\*\|reference=Jos.3.16) |
+All entries for **Adam**:  **<big>[[H0121|אָדָם]]</big>**

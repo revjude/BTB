@@ -10,36 +10,36 @@ Salmon then begat <the> Boaz out of <the> Rahab; Boaz then begat <the> Obed out 
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
 
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Salmon |<big><span class="asgreek">Σαλμὼν</span></big> <small><small><sup>[[G4533]]</sup></small></small> |Salmōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| begat |<big><span class="asgreek">ἐγέννησεν</span></big> <small><small><sup>[[G1080]]</sup></small></small> |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Boaz |<big><span class="asgreek">Βόες</span></big> <small><small><sup>[[G1003]]</sup></small></small> [^1] [^2] |Boes <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out of |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Rahab; |<big><span class="asgreek">Ῥαχάβ·</span></big> <small><small><sup>[[G4477]]</sup></small></small> [^3] |Rhachab <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Boaz |<big><span class="asgreek">Βόες</span></big> <small><small><sup>[[G1003]]</sup></small></small> [^4] [^5] |Boes <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| begat |<big><span class="asgreek">ἐγέννησεν</span></big> <small><small><sup>[[G1080]]</sup></small></small> |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Obed |<big><span class="asgreek">Ἰωβὴδ</span></big> <small><small><sup>[[G5601]]</sup></small></small> [^6] |Iōbēd <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out of |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Ruth; |<big><span class="asgreek">Ῥούθ·</span></big> <small><small><sup>[[G4503]]</sup></small></small> [^7] |Rhouth <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Obed |<big><span class="asgreek">Ἰωβὴδ</span></big> <small><small><sup>[[G5601]]</sup></small></small> [^8] |Iōbēd <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| begat |<big><span class="asgreek">ἐγέννησεν</span></big> <small><small><sup>[[G1080]]</sup></small></small> |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jesse; |<big><span class="asgreek">Ἰεσσαί·</span></big> <small><small><sup>[[G2421]]</sup></small></small> |Iessai <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Salmon |**<big>[[G4533\|Σαλμὼν]]</big>**  |Salmōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| begat |**<big>[[G1080\|ἐγέννησεν]]</big>**  |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Boaz |**<big>[[G1003\|Βόες]]</big>**  [^1] [^2] |Boes <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Rahab; |**<big>[[G4477\|Ῥαχάβ·]]</big>**  [^3] |Rhachab <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Boaz |**<big>[[G1003\|Βόες]]</big>**  [^4] [^5] |Boes <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| begat |**<big>[[G1080\|ἐγέννησεν]]</big>**  |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Obed |**<big>[[G5601\|Ἰωβὴδ]]</big>**  [^6] |Iōbēd <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Ruth; |**<big>[[G4503\|Ῥούθ·]]</big>**  [^7] |Rhouth <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Obed |**<big>[[G5601\|Ἰωβὴδ]]</big>**  [^8] |Iōbēd <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| begat |**<big>[[G1080\|ἐγέννησεν]]</big>**  |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jesse; |**<big>[[G2421\|Ἰεσσαί·]]</big>**  |Iessai <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.4|<< Matthew 1:4]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.6|Matthew 1:6 >>]]</td></tr></table>
 
-[^1]: ==Treg== spelled: <span class='asgreek'>**Βοὸς**</span>
-[^2]: ==+Byz+TR== spelled: <span class='asgreek'>**Βοὸζ**</span>
-[^3]: ==Tyn== spelled: ̔<span class='asgreek'>**Ραχάβ**</span>
-[^4]: ==Treg== spelled: <span class='asgreek'>**Βοὸς**</span>
-[^5]: ==+Byz+TR== spelled: <span class='asgreek'>**Βοὸζ**</span>
-[^6]: ==TR+Byz== spelled: <span class='asgreek'>**Ὠβὴδ**</span>
-[^7]: ==Tyn== spelled: ̔<span class='asgreek'>**Ρούθ**</span>
-[^8]: ==TR+Byz== spelled: <span class='asgreek'>**Ὠβὴδ**</span>
+[^1]: ==Treg== spelled: **<big><span class='asgreek'>Βοὸς</span></big>**
+[^2]: ==+Byz+TR== spelled: **<big><span class='asgreek'>Βοὸζ</span></big>**
+[^3]: ==Tyn== spelled: ̔**<big><span class='asgreek'>Ραχάβ</span></big>**
+[^4]: ==Treg== spelled: **<big><span class='asgreek'>Βοὸς</span></big>**
+[^5]: ==+Byz+TR== spelled: **<big><span class='asgreek'>Βοὸζ</span></big>**
+[^6]: ==TR+Byz== spelled: **<big><span class='asgreek'>Ὠβὴδ</span></big>**
+[^7]: ==Tyn== spelled: ̔**<big><span class='asgreek'>Ρούθ</span></big>**
+[^8]: ==TR+Byz== spelled: **<big><span class='asgreek'>Ὠβὴδ</span></big>**

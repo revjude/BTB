@@ -7,40 +7,40 @@ Then the king returned out of the palace garden into the place of the banquet of
 Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, “Would he actually assault the queen while I am in the palace?” As soon as the words had left the king’s mouth, they covered Haman’s face.<small><sub>**MT:**</sub></small>
 [[Esth.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.7|<< Esther 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.9|Esther 7:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| returned | <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| garden; | <big><span class="asgreek">κήπου</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
-| and Haman | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| had fallen | <big><span class="asgreek">επιπεπτώκει</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bed | <big><span class="asgreek">κλίνην</span></big> <sup><small><small>[[G2825]]</small></small></sup> |
-| petitioning | <big><span class="asgreek">αξιών</span></big> <sup><small><small>[[G0515]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| queen. | <big><span class="asgreek">βασίλισσαν</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| So as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with my\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| you use force | <big><span class="asgreek">βιάζη</span></big> <sup><small><small>[[G0971]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house. | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| hearing, | <big><span class="asgreek">ακούσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| was overawed | <big><span class="asgreek">διετράπη</span></big> <sup><small><small>[[G6893]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in front \[of him\]. | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| returned | **<big>[[G1994\|επέστρεψε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| garden; | **<big>[[G2779\|κήπου]]</big>** |
+| and Haman | **<big>[[H2001\|Αμάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| had fallen | **<big>[[G1968\|επιπεπτώκει]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| bed | **<big>[[G2825\|κλίνην]]</big>** |
+| petitioning | **<big>[[G0515\|αξιών]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| queen. | **<big>[[G0938\|βασίλισσαν]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| So as | **<big>[[G5620\|ώστε]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \[with my\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| you use force | **<big>[[G0971\|βιάζη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my house. | **<big>[[G3614\|οικία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And Haman, | **<big>[[H2001\|Αμάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| hearing, | **<big>[[G0191\|ακούσας]]</big>** |
+| was overawed | **<big>[[G6893\|διετράπη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| in front \[of him\]. | **<big>[[G4383\|προσώπω]]</big>** |
 [[Esth.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.7|<< Esther 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.9|Esther 7:9 >>]]</td></tr></table>
 
 

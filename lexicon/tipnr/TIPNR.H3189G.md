@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jahath</span> was the son of Reaiah and a descendant of Judah through Shobal \(1Ch.4.2\).
 - A man from the tribe of Judah living at the time of Divided Monarchy, first mentioned at 1Ch.4.2; 
-- only referred to as Jahath<[[H3189G]]> \(<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>\); 
-- a son of Haroeh<[[H7204]]>; 
--  father of Ahumai<[[H0267]]> and Lahad<[[H3855]]>.
+- only referred to as Jahath **<big>[[H3189|יַחַת]]</big>**; 
+- a son of Haroeh **<big>[[H7204|רֹאֵה]]</big>**; 
+-  father of Ahumai **<big>[[H0267|אֲחוּמַי]]</big>** and Lahad **<big>[[H3855|לַהַד]]</big>**.
 
 Jahath is mentioned in 1 Chronicles 4:2 as part of the genealogy of the tribe of Judah. He is identified as the son of Reaiah, who was a descendant of Judah through Shobal. 
 
@@ -20,8 +20,8 @@ The preservation of such genealogical records was important for the Israelites, 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahath | [<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3189G) <small>*Hebrew*</small> | 2x | [[1Ch.4.2a] & [1Ch.4.2b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahath\*\|reference=1Ch.4.2;1Ch.4.2) |
-All Strong's for **Jahath**: \[[[H3189G]]\]
+| Jahath | [<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3189G) | 2x | [[1Ch.4.2a] & [1Ch.4.2b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahath\*\|reference=1Ch.4.2;1Ch.4.2) |
+All entries for **Jahath**:  **<big>[[H3189|יַחַת]]</big>**
 #### Related Profiles:
 - **[Haroeh](H7204)** (father)
 - **[Ahumai](H0267)** (child)

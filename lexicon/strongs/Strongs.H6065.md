@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עֲנַשׁ‎</span></big> **ʻănash** <small>*(an-ash')*</small> ==**confiscation**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עֹנֶשׁ‎</span><sup><small>[[H6066]]</small></sup></small>
+**<big><span class="asaramaic">‎עֲנַשׁ‎</span></big>** **ʻănash** <small>*(an-ash')*</small> ==**confiscation**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6066|‎עֹנֶשׁ‎]]</big>**</small>
 
 $\quad$ confiscation.
 - ***a mulct***

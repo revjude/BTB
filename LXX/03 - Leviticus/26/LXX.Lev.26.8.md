@@ -7,27 +7,27 @@ And five of you shall chase an hundred, and an hundred of you shall put ten thou
 Five of you will pursue a hundred, and a hundred of you will pursue ten thousand, and your enemies will fall by the sword before you.<small><sub>**MT:**</sub></small>
 [[Lev.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.7|<< Leviticus 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.9|Leviticus 26:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there shall pursue | <big><span class="asgreek">διώξονται</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| five \[after\] | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| a hundred, | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall pursue | <big><span class="asgreek">διώξονται</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| tens of thousands; | <big><span class="asgreek">μυρίαδας</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by sword. | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there shall pursue | **<big>[[G1377\|διώξονται]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| five \[after\] | **<big>[[G4002\|πέντε]]</big>** |
+| a hundred, | **<big>[[G1540\|εκατόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| shall pursue | **<big>[[G1377\|διώξονται]]</big>** |
+| tens of thousands; | **<big>[[G3461\|μυρίαδας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| by sword. | **<big>[[G3162\|μαχαίρα]]</big>** |
 [[Lev.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.7|<< Leviticus 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.9|Leviticus 26:9 >>]]</td></tr></table>
 
 

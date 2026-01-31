@@ -1,5 +1,5 @@
 <span class="asgreek">ὑπερλίαν</span> <small>***(huperlian)***</small> ==**greatly**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
-combination of: <small>[[G3029]] ([[G5228]]+[[G3029]])</small> 
+combination of: <small>**<big>[[G3029|λίαν]]</big>** (**<big>[[G5228|ὑπέρ]]</big>**+**<big>[[G3029|λίαν]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==ὑπερλίαν==</span></b>, 

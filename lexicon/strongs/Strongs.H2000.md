@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הָמַם‎</span></big> **hâmam** <small>*(haw-mam')*</small> ==**to confuse**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎הוּם‎</span><sup><small>[[H1949]]</small></sup>, <span class="ashebrew">‎הָמָה‎</span><sup><small>[[H1993]]</small></sup>)</small>
+**<big><span class="ashebrew">‎הָמַם‎</span></big>** **hâmam** <small>*(haw-mam')*</small> ==**to confuse**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H1949|‎הוּם‎]]</big>**, **<big>[[H1993|‎הָמָה‎]]</big>**)</small>
 
 $\quad$ break, consume, crush, destroy, discomfit, trouble, vex.
 - properly, ***to put in commotion***
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Qal)
 $\quad$ $\quad$ **1a1)** to move noisily
 $\quad$ $\quad$ **1a2)** to confuse, discomfit, vex
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφανίζω</span><sup><small>[[G0853]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup>
+<small>See Greek: </small>**<big>[[G0853|ἀφανίζω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>**

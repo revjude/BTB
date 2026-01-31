@@ -7,18 +7,18 @@ If the foundations be destroyed, what can the righteous do?
 If the foundations are destroyed, what can the righteous do?”<small><sub>**MT:**</sub></small>
 [[Ps.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.2|<< Psalm 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.4|Psalm 11:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| That | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| readied, | <big><span class="asgreek">κατηρτίσω</span></big> <sup><small><small>[[G2675]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| demolished; | <big><span class="asgreek">καθείλον</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| just, | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did they do? | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| That | **<big>[[G3754\|ότι]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| readied, | **<big>[[G2675\|κατηρτίσω]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| demolished; | **<big>[[G2507\|καθείλον]]</big>** |
+| but the | **<big>[[G3588\|ο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| just, | **<big>[[G1342\|δίκαιος]]</big>** |
+| what | **<big>[[G5100\|τι]]</big>** |
+| did they do? | **<big>[[G4160\|εποίησε]]</big>** |
 [[Ps.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.2|<< Psalm 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.4|Psalm 11:4 >>]]</td></tr></table>
 
 

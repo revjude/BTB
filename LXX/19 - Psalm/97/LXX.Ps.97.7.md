@@ -11,23 +11,23 @@ All worshipers of images are put to shame—those who boast in idols. Worship Hi
 > $\quad$ referenced by: [[Heb.1.6|Heb 1:6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were shamed | <big><span class="asgreek">αισχυνθήτωσαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing obeisance to | <big><span class="asgreek">προσκυνούντες</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings | <big><span class="asgreek">γλυπτοίς</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones boasting | <big><span class="asgreek">εγκαυχώμενοι</span></big> <sup><small><small>[[G7013]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their idols. | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do obeisance to | <big><span class="asgreek">προσκυνήσατε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| his angels | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were shamed | **<big>[[G0153\|αισχυνθήτωσαν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| doing obeisance to | **<big>[[G4352\|προσκυνούντες]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| carvings | **<big>[[G6745\|γλυπτοίς]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones boasting | **<big>[[G7013\|εγκαυχώμενοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their idols. | **<big>[[G1497\|ειδώλοις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| do obeisance to | **<big>[[G4352\|προσκυνήσατε]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| his angels | **<big>[[G0032\|άγγελοι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.97.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.6|<< Psalm 97:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.8|Psalm 97:8 >>]]</td></tr></table>
 
 

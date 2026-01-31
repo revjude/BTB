@@ -7,19 +7,19 @@ But to the land whereunto they desire to return, thither shall they not return.
 You will never return to the land for which you long.”<small><sub>**MT:**</sub></small>
 [[Jer.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.26|<< Jeremiah 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.28|Jeremiah 22:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| made a vow | <big><span class="asgreek">εύχονται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their souls, | <big><span class="asgreek">ψυχαίς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall they return. | <big><span class="asgreek">αποστρέψουσιν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| And unto | **<big>[[G1519\|εις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| made a vow | **<big>[[G2172\|εύχονται]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their souls, | **<big>[[G5590\|ψυχαίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall they return. | **<big>[[G0654\|αποστρέψουσιν]]</big>** |
 [[Jer.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.26|<< Jeremiah 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.28|Jeremiah 22:28 >>]]</td></tr></table>
 
 

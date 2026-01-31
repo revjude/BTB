@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Eneglaim</span>, a place mentioned in Ezekiel's vision of the restored land of Israel.
 - A location only mentioned at [[Ezek.47.10|Ezk.47.10]]; 
-- only referred to as Eneglaim<[[H5882]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Eneglaim **<big>[[H5882|עֵין עֶגְלַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.998062,35.498547&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Ezekiel's vision portrays a future restoration of Israel, with the land flourish
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eneglaim | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H5882) <small>*Hebrew*</small> | 1x | [Ezk.47.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eneglaim\*\|reference=Ezk.47.10) |
-All Strong's for **Eneglaim**: \[[[H5882]]\]
+| Eneglaim | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span> <span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H5882) | 1x | [Ezk.47.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eneglaim\*\|reference=Ezk.47.10) |
+All entries for **Eneglaim**:  **<big>[[H5882|עֵין עֶגְלַיִם]]</big>**

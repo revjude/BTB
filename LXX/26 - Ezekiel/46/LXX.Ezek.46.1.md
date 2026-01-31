@@ -10,43 +10,43 @@ Thus saith the Lord GOD; The gate of the inner court that looketh toward the eas
 “This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened.<small><sub>**MT:**</sub></small>
 [[Ezek.46.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.25|<< Ezekiel 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.2|Ezekiel 46:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God; | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλη</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner | <big><span class="asgreek">εσωτέρα</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| looking | <big><span class="asgreek">βλεπουσα</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| locked | <big><span class="asgreek">κεκλεισμένη</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| operative \[times\]; | <big><span class="asgreek">ενεργούς</span></big> <sup><small><small>[[G7234]]</small></small></sup> |
-| but on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| it will be open, | <big><span class="asgreek">ανοιχθήσεται</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| new moons | <big><span class="asgreek">νουμηνίας</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
-| it will be open. | <big><span class="asgreek">ανοιχθήσεται</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God; | **<big>[[G2316\|θεός]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| gate | **<big>[[G4439\|πύλη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard | **<big>[[G0833\|αυλή]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| inner | **<big>[[G2082\|εσωτέρα]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| looking | **<big>[[G0991\|βλεπουσα]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολάς]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| locked | **<big>[[G2808\|κεκλεισμένη]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| of the | **<big>[[G3588\|τας]]</big>** |
+| operative \[times\]; | **<big>[[G7234\|ενεργούς]]</big>** |
+| but on | **<big>[[G1722\|εν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Sabbaths | **<big>[[G4521\|σαββάτων]]</big>** |
+| it will be open, | **<big>[[G0455\|ανοιχθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| new moons | **<big>[[G3561\|νουμηνίας]]</big>** |
+| it will be open. | **<big>[[G0455\|ανοιχθήσεται]]</big>** |
 [[Ezek.46.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.25|<< Ezekiel 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.2|Ezekiel 46:2 >>]]</td></tr></table>
 
 

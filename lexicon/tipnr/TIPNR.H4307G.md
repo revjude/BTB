@@ -1,8 +1,8 @@
 <small>*Gate of the Guard • A gate in Jerusalem's wall, likely the Muster Gate.*</small>
 
 The <span class='tipnrhighlight'>Guard Gate</span> was a gate in Jerusalem's wall, mentioned in [[Neh.12.39|Nehemiah 12:39]], likely the same as the Muster Gate near the Temple.
-- A location in Jerusalem<[[H3389]]> only mentioned at [[Neh.12.39|Neh.12.39]]; 
-- only referred to as Guard\_Gate<[[H4307G]]> \(<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ט</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[Neh.12.39|Neh.12.39]]; 
+- only referred to as Guard\_Gate **<big>[[H4307|מַטָּרָא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Apart from this single reference in Nehemiah, no other information is provided a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Gate of the )Guard (KJV= prison gate) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ט</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4307G) <small>*Hebrew*</small> | 1x | [Neh.12.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Guard\*\|reference=Neh.12.39) |
-All Strong's for **Guard_Gate**: \[[[H4307G]]\]
+| (Gate of the )Guard (KJV= prison gate) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ט</span>ָּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4307G) | 1x | [Neh.12.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Guard\*\|reference=Neh.12.39) |
+All entries for **Guard Gate**:  **<big>[[H4307|מַטָּרָא]]</big>**

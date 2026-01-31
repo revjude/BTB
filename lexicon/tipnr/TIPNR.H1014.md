@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-gamul</span> was a Moabite town mentioned in Jeremiah's prophecy against Moab, likely destroyed or captured by the Babylonians. \([[Jer.48.23|Jeremiah 48:23]]\)
 - A location only mentioned at [[Jer.48.23|Jer.48.23]]; 
-- only referred to as Beth-gamul<[[H1014]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Beth-gamul **<big>[[H1014|בֵּית גָּמוּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.519692,35.844714&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ The mention of Beth-gamul serves to emphasize the extent of the judgment against
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-gamul (NIV= Beth Gamul) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H1014) <small>*Hebrew*</small> | 1x | [Jer.48.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jer.48.23) |
-All Strong's for **Beth-gamul**: \[[[H1014]]\]
+| Beth-gamul (NIV= Beth Gamul) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H1014) | 1x | [Jer.48.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Jer.48.23) |
+All entries for **Beth-gamul**:  **<big>[[H1014|בֵּית גָּמוּל]]</big>**

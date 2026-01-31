@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְרֹרָה‎</span></big> **mᵉrôrâh** <small>*(mer-o-raw')*</small> ==**gall**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מְרוֹרָה</span> **mᵉrôwrâh** <small>*(mer-oraw')*</small>; from <span class="ashebrew">‎מָרַר‎</span><sup><small>[[H4843]]</small></sup></small>
+**<big><span class="ashebrew">‎מְרֹרָה‎</span></big>** **mᵉrôrâh** <small>*(mer-o-raw')*</small> ==**gall**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מְרוֹרָה</span></big>** **mᵉrôwrâh** <small>*(mer-oraw')*</small>; from **<big>[[H4843|‎מָרַר‎]]</big>**</small>
 
 $\quad$ bitter (thing), gall.
 - properly, ***bitterness***
@@ -13,4 +13,4 @@ $\quad$ **1b)** poison, venom
 $\quad$ **1c)** bitter thing
 $\quad$ **1d)** bitterness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κακός</span><sup><small>[[G2556]]</small></sup>
+<small>See Greek: </small>**<big>[[G2556|κακός]]</big>**

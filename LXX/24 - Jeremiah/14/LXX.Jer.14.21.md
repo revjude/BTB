@@ -7,24 +7,24 @@ Do not abhor [us], for thy name’s sake, do not disgrace the throne of thy glor
 For the sake of Your name do not despise us; do not disgrace Your glorious throne. Remember Your covenant with us; do not break it.<small><sub>**MT:**</sub></small>
 [[Jer.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.20|<< Jeremiah 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.22|Jeremiah 14:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Abate, | <big><span class="asgreek">κόπασον</span></big> <sup><small><small>[[G2869]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name! | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| destroy | <big><span class="asgreek">απολέσης</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \[the\] throne | <big><span class="asgreek">θρόνον</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| of your glory. | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Remember! | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| efface | <big><span class="asgreek">διασκεδάσης</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us! | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Abate, | **<big>[[G2869\|κόπασον]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your name! | **<big>[[G3686\|όνομά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| destroy | **<big>[[G0622\|απολέσης]]</big>** |
+| \[the\] throne | **<big>[[G2362\|θρόνον]]</big>** |
+| of your glory. | **<big>[[G1391\|δόξης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Remember! | **<big>[[G3403\|μνήσθητι]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| efface | **<big>[[G6876\|διασκεδάσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the one | **<big>[[G3588\|την]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us! | **<big>[[G1473\|ημών]]</big>** |
 [[Jer.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.20|<< Jeremiah 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.22|Jeremiah 14:22 >>]]</td></tr></table>
 
 

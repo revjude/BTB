@@ -7,26 +7,26 @@ For better [it is] that it be said unto thee, Come up hither; than that thou sho
 for it is better to be told, “Come up here!” than to be demoted in the presence of the prince. Even what you have seen with your own eyes,<small><sub>**MT:**</sub></small>
 [[Prov.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.6|<< Proverbs 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.8|Proverbs 25:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">ρηθήναί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ascend | <big><span class="asgreek">ανάβαινε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| to humble | <big><span class="asgreek">ταπεινώσαί</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] presence | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of a mighty one. | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| What | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your eyes, | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| speak! | <big><span class="asgreek">λέγε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| For better | **<big>[[G2908\|κρείσσον]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| saying | **<big>[[G2046\|ρηθήναί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| Ascend | **<big>[[G0305\|ανάβαινε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me! | **<big>[[G1473\|με]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| to humble | **<big>[[G5013\|ταπεινώσαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] presence | **<big>[[G4383\|προσώπω]]</big>** |
+| of a mighty one. | **<big>[[G1413\|δυνάστου]]</big>** |
+| What | **<big>[[G3739\|α]]</big>** |
+| you beheld | **<big>[[G1492\|είδον]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your eyes, | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| speak! | **<big>[[G3004\|λέγε]]</big>** |
 [[Prov.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.6|<< Proverbs 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.8|Proverbs 25:8 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ After that, Leah gave birth to a daughter and named her Dinah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.20|<< Genesis 30:20]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.22|Genesis 30:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and after  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַחַ֖ר </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Char <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she bore  | <span class="ashebrew"><big>יָ֣לְדָה </big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| Yal.dah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a daughter  | <span class="ashebrew"><big>בַּ֑ת </big></span><small><small><sup>[[H1323G]]</sup></small></small> &#8207;| Bat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she called  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תִּקְרָ֥א </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> tik.Ra' <small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name her  | <span class="ashebrew"><big>שְׁמָ֖ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| she.Ma <small><sup>[[HNcmsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dinah  | <span class="ashebrew"><big>דִּינָֽה </big></span><small><small><sup>[[H1783]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| di.Nah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she bore  |**<big>&#8207;[[H3205\|יָ֣לְדָה]]&#8207; </big>**| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a daughter  |**<big>&#8207;[[H1323G\|בַּ֑ת]]&#8207; </big>**| Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|תִּקְרָ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name her  |**<big>&#8207;[[H8034\|שְׁמָ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| she.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dinah  |**<big>&#8207;[[H1783\|דִּינָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| di.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.20|<< Genesis 30:20]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.22|Genesis 30:22 >>]]</td></tr></table>
 
 

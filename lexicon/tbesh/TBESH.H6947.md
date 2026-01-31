@@ -1,6 +1,5 @@
-<span class="ashebrew">‎קָדֵשׁ בַּרְנֵעַ‎</span> <small>***(qa.desh bar.ne.a)***</small> ==**Kadesh-barnea**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-name of: <small>[[H6946G]]</small> 
+<small>name of:</small> <small>**<big>[[H6946G|קָדֵשׁ]]</big>**</small> 
 
 - Kadesh-barnea = "holy"
 -  same as 'Kedesh' and 'Kadesh'
-- Another name of <i>qa.desh</i> (<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎ד‎</span>ֵ<span class='ashebrew'>‎ש‎</span>ׁ "Kadesh" [[H6946G]])
+- Another name of <i>qa.desh</i> (<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎ד‎</span>ֵ<span class='ashebrew'>‎ש‎</span>ׁ "Kadesh" **<big>[[H6946G|קָדֵשׁ]]</big>**)

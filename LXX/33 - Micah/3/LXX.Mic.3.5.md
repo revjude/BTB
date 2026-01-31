@@ -7,38 +7,38 @@ Thus saith the LORD concerning the prophets that make my people err, that bite w
 This is what the LORD says: “As for the prophets who lead My people astray, who proclaim peace while they chew with their teeth, but declare war against one who puts nothing in their mouths:<small><sub>**MT:**</sub></small>
 [[Mic.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.4|<< Micah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.6|Micah 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| misleading | <big><span class="asgreek">πλανώντας</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people; | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| biting | <big><span class="asgreek">δάκνοντας</span></big> <sup><small><small>[[G1143]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their teeth, | <big><span class="asgreek">οδούσιν</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| proclaiming | <big><span class="asgreek">κηρύσσοντας</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[them\], | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and \[when\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| nothing | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| was put | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouth, | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they \[even\] sanctified | <big><span class="asgreek">ηγίασαν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[them\] | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| concerning | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets, | **<big>[[G4396\|προφήτας]]</big>** |
+| of the ones | **<big>[[G3588\|τους]]</big>** |
+| misleading | **<big>[[G4105\|πλανώντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people; | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| biting | **<big>[[G1143\|δάκνοντας]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their teeth, | **<big>[[G3599\|οδούσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| proclaiming | **<big>[[G2784\|κηρύσσοντας]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[them\], | **<big>[[G1473\|αυτόν]]</big>** |
+| and \[when\] | **<big>[[G2532\|και]]</big>** |
+| nothing | **<big>[[G3756\|ουκ]]</big>** |
+| was put | **<big>[[G1325\|εδόθη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their mouth, | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they \[even\] sanctified | **<big>[[G0037\|ηγίασαν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| \[them\] | **<big>[[G1473\|αυτόν]]</big>** |
+| a war | **<big>[[G4171\|πόλεμον]]</big>** |
 [[Mic.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.4|<< Micah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.6|Micah 3:6 >>]]</td></tr></table>
 
 

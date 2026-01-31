@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎אָוֶן‎</span></big> **ʼÂven** <small>*(aw'-ven)*</small> ==**(Valley of) Aven**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אָוֶן‎</span><sup><small>[[H0205]]</small></sup>; idolatry</small>
+**<big><span class="ashebrew">‎אָוֶן‎</span></big>** **ʼÂven** <small>*(aw'-ven)*</small> ==**(Valley of) Aven**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H0205|‎אָוֶן‎]]</big>**; idolatry</small>
 
-$\quad$ Aven. See also <span class="ashebrew">‎אוֹן‎</span><sup><small>[[H0204]]</small></sup>, <span class="ashebrew">‎בֵּית אָוֶן‎</span><sup><small>[[H1007]]</small></sup>.
+$\quad$ Aven. See also **<big>[[H0204|‎אוֹן‎]]</big>**, **<big>[[H1007|‎בֵּית אָוֶן‎]]</big>**.
 - § Aven = *"vanity"*
 - ***Aven***, the contemptuous synonym of three places, one in Coele-Syria, one in Egypt (On), and one in Palestine (Bethel)
 

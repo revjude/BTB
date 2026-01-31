@@ -7,34 +7,34 @@ And David said unto Jonathan, Behold, to morrow [is] the new moon, and I should 
 So David told him, “Look, tomorrow is the New Moon, and I am supposed to dine with the king. Instead, let me go and hide in the field until the third evening from now.<small><sub>**MT:**</sub></small>
 [[1Sam.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.4|<< 1 Samuel 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.6|1 Samuel 20:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Jonathan, | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \[it is\] a new moon | <big><span class="asgreek">νεομηνία</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
-| tomorrow, | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in sitting | <big><span class="asgreek">καθίσας</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| should sit down | <big><span class="asgreek">καθήσομαι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to eat. | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall send | <big><span class="asgreek">εξαποστελείς</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall be hid | <big><span class="asgreek">κρυβήσομαι</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| afternoon. | <big><span class="asgreek">δείλης</span></big> <sup><small><small>[[G6788]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David said | **<big>[[G2036\|είπε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Jonathan, | **<big>[[H3129\|Ιωναθάν]]</big>** |
+| Behold | **<big>[[G2400\|ιδού]]</big>** |
+| indeed, | **<big>[[G1211\|δη]]</big>** |
+| \[it is\] a new moon | **<big>[[G3561\|νεομηνία]]</big>** |
+| tomorrow, | **<big>[[G0839\|αύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| in sitting | **<big>[[G2523\|καθίσας]]</big>** |
+| should sit down | **<big>[[G2521\|καθήσομαι]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| to eat. | **<big>[[G2068\|φαγείν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall send | **<big>[[G1821\|εξαποστελείς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall be hid | **<big>[[G2928\|κρυβήσομαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| plain | **<big>[[G8676\|πεδίω]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| afternoon. | **<big>[[G6788\|δείλης]]</big>** |
 [[1Sam.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.4|<< 1 Samuel 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.6|1 Samuel 20:6 >>]]</td></tr></table>
 
 

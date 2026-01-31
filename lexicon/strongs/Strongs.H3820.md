@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לֵב‎</span></big> **lêb** <small>*(labe)*</small> ==**heart**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>a form of <span class="ashebrew">‎לֵבָב‎</span><sup><small>[[H3824]]</small></sup></small>
+**<big><span class="ashebrew">‎לֵב‎</span></big>** **lêb** <small>*(labe)*</small> ==**heart**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>a form of **<big>[[H3824|‎לֵבָב‎]]</big>**</small>
 
 $\quad$ [phrase] care for, comfortably, consent, [idiom] considered, courag(-eous), friend(-ly), ((broken-), (hard-), (merry-), (stiff-), (stout-), double) heart(-ed), [idiom] heed, [idiom] I, kindly, midst, mind(-ed), [idiom] regard(-ed), [idiom] themselves, [idiom] unawares, understanding, [idiom] well, willingly, wisdom.
 - ***the heart***
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **1a7)** heart (of moral character)
 $\quad$ $\quad$ **1a8)** as seat of appetites
 $\quad$ $\quad$ **1a9)** as seat of emotions and passions 1a10) as seat of courage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διάνοια</span><sup><small>[[G1271]]</small></sup> · <span class="asgreek">καρδία</span><sup><small>[[G2588]]</small></sup> · <span class="asgreek">νοῦς</span><sup><small>[[G3563]]</small></sup> · <span class="asgreek">στῆθος</span><sup><small>[[G4738]]</small></sup> · <span class="asgreek">φρήν</span><sup><small>[[G5424]]</small></sup> · <span class="asgreek">φρόνησις</span><sup><small>[[G5428]]</small></sup> · <span class="asgreek">ψυχή</span><sup><small>[[G5590]]</small></sup>
+<small>See Greek: </small>**<big>[[G1271|διάνοια]]</big>** · **<big>[[G2588|καρδία]]</big>** · **<big>[[G3563|νοῦς]]</big>** · **<big>[[G4738|στῆθος]]</big>** · **<big>[[G5424|φρήν]]</big>** · **<big>[[G5428|φρόνησις]]</big>** · **<big>[[G5590|ψυχή]]</big>**

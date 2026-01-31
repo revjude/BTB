@@ -7,26 +7,26 @@ And this also [is] a sore evil, [that] in all points as he came, so shall he go:
 This too is a grievous affliction: Exactly as a man is born, so he will depart. What does he gain as he toils for the wind?<small><sub>**MT:**</sub></small>
 [[Eccl.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.15|<< Ecclesiastes 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.17|Ecclesiastes 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] an evil | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| sickness; | <big><span class="asgreek">αρρωστία</span></big> <sup><small><small>[[G6543]]</small></small></sup> |
-| for as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he came, | <big><span class="asgreek">παρεγένετο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall go forth. | <big><span class="asgreek">απελεύσεται</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his advantage | <big><span class="asgreek">περίσσεια</span></big> <sup><small><small>[[G4050]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he makes an effort | <big><span class="asgreek">μοχθεί</span></big> <sup><small><small>[[G8351]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] wind? | <big><span class="asgreek">άνεμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1065\|γε]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] an evil | **<big>[[G4190\|πονηρά]]</big>** |
+| sickness; | **<big>[[G6543\|αρρωστία]]</big>** |
+| for as | **<big>[[G5618\|ώσπερ]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| he came, | **<big>[[G3854\|παρεγένετο]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| he shall go forth. | **<big>[[G0565\|απελεύσεται]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| is | **<big>[[G3588\|η]]</big>** |
+| his advantage | **<big>[[G4050\|περίσσεια]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| he makes an effort | **<big>[[G8351\|μοχθεί]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] wind? | **<big>[[G0417\|άνεμον]]</big>** |
 [[Eccl.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.15|<< Ecclesiastes 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.17|Ecclesiastes 5:17 >>]]</td></tr></table>
 
 

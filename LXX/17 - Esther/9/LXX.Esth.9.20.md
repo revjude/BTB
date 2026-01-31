@@ -7,29 +7,29 @@ And Mordecai wrote these things, and sent letters unto all the Jews that [were] 
 Mordecai recorded these events and sent letters to all the Jews in all the provinces of King Xerxes, both near and far,<small><sub>**MT:**</sub></small>
 [[Esth.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.19|<< Esther 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.21|Esther 9:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| wrote | <big><span class="asgreek">έγραψε</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Mordecai | <big><span class="asgreek">Μαρδοχαίος</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent \[them\] | <big><span class="asgreek">εξαπέστειλε</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews, | <big><span class="asgreek">Ιουδαίοις</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom of Artaxerxes, | <big><span class="asgreek">Αρταξέρξου</span></big> <sup><small><small>[[H0783b]]</small></small></sup> <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| far; | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
+| wrote | **<big>[[G1125\|έγραψε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Mordecai | **<big>[[H4782\|Μαρδοχαίος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these words | **<big>[[G3056\|λόγους]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| a scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sent \[them\] | **<big>[[G1821\|εξαπέστειλε]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Jews, | **<big>[[G2453\|Ιουδαίοις]]</big>** |
+| as many as | **<big>[[G3745\|όσοι]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| kingdom of Artaxerxes, | **<big>[[H0783b\|Αρταξέρξου]]</big>** **<big>[[G0932\|βασιλεία]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| near | **<big>[[G1451\|εγγύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| far; | **<big>[[G3112\|μακράν]]</big>** |
 [[Esth.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.19|<< Esther 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.21|Esther 9:21 >>]]</td></tr></table>
 
 

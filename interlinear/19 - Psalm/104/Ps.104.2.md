@@ -6,14 +6,14 @@ He wraps Himself in light as with a garment; He stretches out the heavens like a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.1|<< Psalms 104:1]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.3|Psalms 104:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [you are] wrapping yourself  | <span class="ashebrew"><big>עֹֽטֶה </big></span><small><small><sup>[[H5844A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'o.teh- <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| light  | <span class="ashebrew"><big>א֭וֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> &#8207;| 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> garment  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>שַּׂלְמָ֑ה </big></span><small><small><sup>[[H8008]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> sal.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [you are] stretching out  | <span class="ashebrew"><big>נוֹטֶ֥ה </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| no.Teh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heavens  | <span class="ashebrew"><big>שָׁ֝מַ֗יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| Sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> tent curtain  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>יְרִיעָֽה </big></span><small><small><sup>[[H3407]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka <small><sup>[[HRd]]</sup></small> y.ri.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [you are] wrapping yourself  |**<big>&#8207;[[H5844A\|עֹֽטֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o.teh-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light  |**<big>&#8207;[[H0216\|א֭וֹר]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> garment  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H8008\|שַּׂלְמָ֑ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> sal.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [you are] stretching out  |**<big>&#8207;[[H5186\|נוֹטֶ֥ה]]&#8207; </big>**| no.Teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֝מַ֗יִם]]&#8207; </big>**| Sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> tent curtain  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3407\|יְרִיעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> y.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.1|<< Psalms 104:1]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.3|Psalms 104:3 >>]]</td></tr></table>
 
 

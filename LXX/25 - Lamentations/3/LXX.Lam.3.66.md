@@ -7,19 +7,19 @@ Persecute and destroy them in anger from under the heavens of the LORD.
 You will pursue them in anger and exterminate them from under Your heavens, O LORD.<small><sub>**MT:**</sub></small>
 [[Lam.3.66|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.65|<< Lamentations 3:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.1|Lamentations 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall pursue them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">καταδιώξεις</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| anger, | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall completely consume | <big><span class="asgreek">εξαναλώσεις</span></big> <sup><small><small>[[G7294]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| beneath | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| You | **<big>[[G1473\|συ]]</big>** |
+| shall pursue them | **<big>[[G1473\|αυτούς]]</big>** **<big>[[G2614\|καταδιώξεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| anger, | **<big>[[G3709\|οργή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall completely consume | **<big>[[G7294\|εξαναλώσεις]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| beneath | **<big>[[G9575\|υποκάτωθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Lam.3.66|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.65|<< Lamentations 3:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.1|Lamentations 4:1 >>]]</td></tr></table>
 
 

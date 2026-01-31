@@ -10,35 +10,35 @@ And Moses went up from the plains of Moab unto the mountain of Nebo, to the top 
 Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan,<small><sub>**MT:**</sub></small>
 [[Deut.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.29|<< Deuteronomy 33:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.2|Deuteronomy 34:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] wilderness | <big><span class="asgreek">αραβώθ</span></big> <sup><small><small>[[G6521]]</small></small></sup> |
-| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Nebo, | <big><span class="asgreek">Ναβαύ</span></big> <sup><small><small>[[H5025]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
-| of Pisgah, | <big><span class="asgreek">Φασγά</span></big> <sup><small><small>[[H6449]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Jericho. | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| showed | <big><span class="asgreek">έδειξεν</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Dan, | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses ascended | **<big>[[G0305\|ανέβη]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] wilderness | **<big>[[G6521\|αραβώθ]]</big>** |
+| of Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| mount | **<big>[[G3735\|όρος]]</big>** |
+| Nebo, | **<big>[[H5025\|Ναβαύ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] top | **<big>[[G8073\|κορυφήν]]</big>** |
+| of Pisgah, | **<big>[[H6449\|Φασγά]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Jericho. | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| showed | **<big>[[G1166\|έδειξεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| land | **<big>[[G1093\|γην]]</big>** |
+| of Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Dan, | **<big>[[H1835\|Δαν]]</big>** |
 [[Deut.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.29|<< Deuteronomy 33:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.2|Deuteronomy 34:2 >>]]</td></tr></table>
 
 

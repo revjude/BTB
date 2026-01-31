@@ -97,7 +97,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.39|39]]**<span class="
 
 [^34]: [[1Chr.4|1Chr 4:19]], [[1Chr.6|1Chr 6:57]]; [[Josh.15|Josh 15:50]], Eshtemoh, [[1Chr.21|1Chr 21:24]]; [[1Sam.30|1Sam 30:28]]
 
-[^35]: i.e. Jewess, (<span class="ashebrew">‎יְהֻדִיָּה‎</span><sup><small>[[H3057]]</small></sup>), [[1Chr.4|1Chr 4:19]]
+[^35]: i.e. Jewess, ( [[H3057|‎יְהֻדִיָּה‎]] ), [[1Chr.4|1Chr 4:19]]
 
 [^36]: [[1Chr.1|1Chr 1:2]]
 
@@ -107,11 +107,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.39|39]]**<span class="
 
 [^39]: [[Gen.46|Gen 46:17]]
 
-[^40]: i.e. inclosure; his branch, (<span class="ashebrew">‎שׂוֹכֹה‎</span><sup><small>[[H7755]]</small></sup>). [[1Chr.4|1Chr 4:18]]; [[2Chr.11|2Chr 11:7]], Shocho, [[1Chr.28|1Chr 28:18]], Also, [[Josh.15|Josh 15:35]], [[Josh.15|Josh 15:48]]; [[1Sam.17|1Sam 17:1]]; [[1Kgs.4|1Kgs 4:10]]
+[^40]: i.e. inclosure; his branch, ( [[H7755|‎שׂוֹכֹה‎]] ). [[1Chr.4|1Chr 4:18]]; [[2Chr.11|2Chr 11:7]], Shocho, [[1Chr.28|1Chr 28:18]], Also, [[Josh.15|Josh 15:35]], [[Josh.15|Josh 15:48]]; [[1Sam.17|1Sam 17:1]]; [[1Kgs.4|1Kgs 4:10]]
 
-[^41]: i.e. the fear or veneration or preservation of God; God is almightiness, (<span class="ashebrew">‎יְקוּתִיאֵל‎</span><sup><small>[[H3354]]</small></sup>), [[Josh.15|Josh 15:34]]
+[^41]: i.e. the fear or veneration or preservation of God; God is almightiness, ( [[H3354|‎יְקוּתִיאֵל‎]] ), [[Josh.15|Josh 15:34]]
 
-[^42]: i.e. worshiper of Jah; daughter of Jah, (<span class="ashebrew">‎בִּתְיָה‎</span><sup><small>[[H1332]]</small></sup>). daughter of Pharaoh. [[1Kgs.3|1Kgs 3:1]], [[1Kgs.3|1Kgs 3:6]], [[1Kgs.7|1Kgs 7:8]], [[1Kgs.9|1Kgs 9:16]], [[1Kgs.9|1Kgs 9:24]]; [[2Chr.8|2Chr 8:11]]
+[^42]: i.e. worshiper of Jah; daughter of Jah, ( [[H1332|‎בִּתְיָה‎]] ). daughter of Pharaoh. [[1Kgs.3|1Kgs 3:1]], [[1Kgs.3|1Kgs 3:6]], [[1Kgs.7|1Kgs 7:8]], [[1Kgs.9|1Kgs 9:16]], [[1Kgs.9|1Kgs 9:24]]; [[2Chr.8|2Chr 8:11]]
 
 [^43]: [[1Chr.4|1Chr 4:17]]
 

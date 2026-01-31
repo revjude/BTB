@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 The descendants of <span class='tipnrhighlight'>Nekoda</span> were among those who could not prove their priestly lineage after returning from the Babylonian exile.
 - A priest living at the time of Exile and Return, first mentioned at [[Ezra.2.60|Ezr.2.60]]; 
-- only referred to as Nekoda<[[H5353H]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Nekoda **<big>[[H5353|נְקוֹדָא]]</big>**.
 
 Nekoda is mentioned in [[Ezra.2.60|Ezra 2:60]] and [[Neh.7.62|Nehemiah 7:62]] as one of the families who returned to Jerusalem from Babylonian captivity but were unable to prove their lineage as Israelites or priests. This incident occurred during the time of Zerubbabel, who led the first group of exiles back to Jerusalem around 538 BC. 
 
@@ -18,5 +18,5 @@ Apart from this incident, no further information is provided about the Nekoda fa
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nekoda | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>א</span>](H5353H) <small>*Hebrew*</small> | 2x | [[Ezr.2.60] & [Neh.7.62] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nekoda\*\|reference=Ezr.2.60;Neh.7.62) |
-All Strong's for **Nekoda**: \[[[H5353H]]\]
+| Nekoda | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>א</span>](H5353H) | 2x | [[Ezr.2.60] & [Neh.7.62] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nekoda\*\|reference=Ezr.2.60;Neh.7.62) |
+All entries for **Nekoda**:  **<big>[[H5353|נְקוֹדָא]]</big>**

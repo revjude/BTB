@@ -63,11 +63,11 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.23.24|24]]**<span class=
 
 [^16]: Heb. divisions, [[1Chr.24|1Chr 24:1]], [[1Chr.26|1Chr 26:1]]
 
-[^17]: ***Gershon***, <span class="asgreek"><span class='asgreek'>βψωΡεο</span></span> (<span class="ashebrew">‎גֵּרְשֹׁם‎</span><sup><small>[[H1647]]</small></sup>), is called <span class="asgreek"><span class='asgreek'>βψωΡν</span></span> (<span class="ashebrew">‎גֵּרְשׁוֹן‎</span><sup><small>[[H1648]]</small></sup>), ***Gershom***, in the parallel passage, simply by the mutation of <span class="asgreek"><span class='asgreek'>π</span></span>, ***noon***, into <span class="asgreek"><span class='asgreek'>ξ</span></span>, ***mem***. [[1Chr.6|1Chr 6:1]], [[1Chr.6|1Chr 6:16]], Gershom, [[Exod.6|Exod 6:16-24]]; [[Num.26|Num 26:57-58]]
+[^17]: ***Gershon***, <span class="asgreek"><span class='asgreek'>βψωΡεο</span></span> ( [[H1647|‎גֵּרְשֹׁם‎]] ), is called <span class="asgreek"><span class='asgreek'>βψωΡν</span></span> ( [[H1648|‎גֵּרְשׁוֹן‎]] ), ***Gershom***, in the parallel passage, simply by the mutation of <span class="asgreek"><span class='asgreek'>π</span></span>, ***noon***, into <span class="asgreek"><span class='asgreek'>ξ</span></span>, ***mem***. [[1Chr.6|1Chr 6:1]], [[1Chr.6|1Chr 6:16]], Gershom, [[Exod.6|Exod 6:16-24]]; [[Num.26|Num 26:57-58]]
 
 [^18]: [[1Chr.6|1Chr 6:17-20]], [[1Chr.15|1Chr 15:7]], [[1Chr.26|1Chr 26:21]]
 
-[^19]: ***Laadan*** and ***Libni***, seem to have been two distinct names of this person; but the variation of ***Shimi*** and ***Shimei*** exists only in the translation, the original being uniformly <span class="asgreek"><span class='asgreek'>ωΡξςι</span></span> (<span class="ashebrew">‎שִׁמְעִי‎</span><sup><small>[[H8096]]</small></sup>). [[Exod.6|Exod 6:17]], Libni, Shimi
+[^19]: ***Laadan*** and ***Libni***, seem to have been two distinct names of this person; but the variation of ***Shimi*** and ***Shimei*** exists only in the translation, the original being uniformly <span class="asgreek"><span class='asgreek'>ωΡξςι</span></span> ( [[H8096|‎שִׁמְעִי‎]] ). [[Exod.6|Exod 6:17]], Libni, Shimi
 
 [^20]: [[1Chr.15|1Chr 15:18]], [[1Chr.15|1Chr 15:20-21]]
 

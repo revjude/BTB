@@ -7,15 +7,15 @@ He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.
 He forced me off my path and tore me to pieces; He left me without help.<small><sub>**MT:**</sub></small>
 [[Lam.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.10|<< Lamentations 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.12|Lamentations 3:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He pursued \[me\] | <big><span class="asgreek">κατεδίωξεν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| \[after\] I revolted, | <big><span class="asgreek">αφεστηκότα</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| caused me to cease. | <big><span class="asgreek">κατέπαυσέ</span></big> <sup><small><small>[[G2664]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| He established | <big><span class="asgreek">έθετό</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for being obliterated. | <big><span class="asgreek">ηφανισμένην</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| He pursued \[me\] | **<big>[[G2614\|κατεδίωξεν]]</big>** |
+| \[after\] I revolted, | **<big>[[G0868\|αφεστηκότα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| caused me to cease. | **<big>[[G2664\|κατέπαυσέ]]</big>** **<big>[[G1473\|με]]</big>** |
+| He established | **<big>[[G5087\|έθετό]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| for being obliterated. | **<big>[[G0853\|ηφανισμένην]]</big>** |
 [[Lam.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.10|<< Lamentations 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.12|Lamentations 3:12 >>]]</td></tr></table>
 
 

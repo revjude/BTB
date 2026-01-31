@@ -6,16 +6,16 @@ For You welcomed him with rich blessings; You placed on his head a crown of pure
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.2|<< Psalms 21:2]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.4|Psalms 21:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you meet him  | <span class="ashebrew"><big>תְ֭קַדְּמֶ </big></span><small><small><sup>[[H6923]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| Te.kad.de.me. <small><sup>[[HVpi2ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blessings of  | <span class="ashebrew"><big>בִּרְכ֣וֹת </big></span><small><small><sup>[[H1293]]</sup></small></small> &#8207;| bir.Khot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good thing[s]  | <span class="ashebrew"><big>ט֑וֹב </big></span><small><small><sup>[[H2896B]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you set  | <span class="ashebrew"><big>תָּשִׁ֥ית </big></span><small><small><sup>[[H7896G]]</sup></small></small> &#8207;| ta.Shit <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to head his  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רֹאשׁ֗ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ro.Sh <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a crown of  | <span class="ashebrew"><big>עֲטֶ֣רֶת </big></span><small><small><sup>[[H5850]]</sup></small></small> &#8207;| 'a.Te.ret <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure gold  | <span class="ashebrew"><big>פָּֽז </big></span><small><small><sup>[[H6337]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Paz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you meet him  |**<big>&#8207;[[H6923\|תְ֭קַדְּמֶ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| Te.kad.de.me.<small><sup>[[HVpi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blessings of  |**<big>&#8207;[[H1293\|בִּרְכ֣וֹת]]&#8207; </big>**| bir.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good thing[s]  |**<big>&#8207;[[H2896B\|ט֑וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you set  |**<big>&#8207;[[H7896G\|תָּשִׁ֥ית]]&#8207; </big>**| ta.Shit<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to head his  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H7218A\|רֹאשׁ֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a crown of  |**<big>&#8207;[[H5850\|עֲטֶ֣רֶת]]&#8207; </big>**| 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure gold  |**<big>&#8207;[[H6337\|פָּֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Paz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.2|<< Psalms 21:2]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.4|Psalms 21:4 >>]]</td></tr></table>
 
 

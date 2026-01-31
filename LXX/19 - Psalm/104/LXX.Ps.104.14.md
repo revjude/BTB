@@ -7,25 +7,25 @@ He causeth the grass to grow for the cattle, and herb for the service of man: th
 He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:<small><sub>**MT:**</sub></small>
 [[Ps.104.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.13|<< Psalm 104:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.15|Psalm 104:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to rise up | <big><span class="asgreek">εξανατέλλων</span></big> <sup><small><small>[[G1816]]</small></small></sup> |
-| grass | <big><span class="asgreek">χόρτον</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτήνεσι</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tender shoots | <big><span class="asgreek">χλόην</span></big> <sup><small><small>[[G5514]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| service | <big><span class="asgreek">δουλεία</span></big> <sup><small><small>[[G1397]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring | <big><span class="asgreek">εξαγαγείν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| The one | **<big>[[G3588\|ο]]</big>** |
+| to rise up | **<big>[[G1816\|εξανατέλλων]]</big>** |
+| grass | **<big>[[G5528\|χόρτον]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| cattle, | **<big>[[G2934\|κτήνεσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tender shoots | **<big>[[G5514\|χλόην]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| service | **<big>[[G1397\|δουλεία]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring | **<big>[[G1806\|εξαγαγείν]]</big>** |
+| bread | **<big>[[G0740\|άρτον]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth; | **<big>[[G1093\|γης]]</big>** |
 [[Ps.104.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.13|<< Psalm 104:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.15|Psalm 104:15 >>]]</td></tr></table>
 
 

@@ -7,16 +7,16 @@ So she caught him, and kissed him, [and] with an impudent face said unto him,
 She seizes him and kisses him; she brazenly says to him:<small><sub>**MT:**</sub></small>
 [[Prov.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.12|<< Proverbs 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.14|Proverbs 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then, | <big><span class="asgreek">είτα</span></big> <sup><small><small>[[G1534]]</small></small></sup> |
-| taking hold, | <big><span class="asgreek">επιλαβομένη</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| she fondles | <big><span class="asgreek">εφίλησεν</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and with impudent | <big><span class="asgreek">αναιδεί</span></big> <sup><small><small>[[G6282]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| face | <big><span class="asgreek">προσώπω</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| she says to | <big><span class="asgreek">προσείπεν</span></big> <sup><small><small>[[G8917]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Then, | **<big>[[G1534\|είτα]]</big>** |
+| taking hold, | **<big>[[G1949\|επιλαβομένη]]</big>** |
+| she fondles | **<big>[[G5368\|εφίλησεν]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| and with impudent | **<big>[[G6282\|αναιδεί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| face | **<big>[[G4383\|προσώπω]]</big>** |
+| she says to | **<big>[[G8917\|προσείπεν]]</big>** |
+| him, | **<big>[[G1473\|αυτώ]]</big>** |
 [[Prov.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.12|<< Proverbs 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.14|Proverbs 7:14 >>]]</td></tr></table>
 
 

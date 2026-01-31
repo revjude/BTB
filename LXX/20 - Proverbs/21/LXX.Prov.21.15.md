@@ -7,16 +7,16 @@
 Justice executed is a joy to the righteous, but a terror to the workers of iniquity.<small><sub>**MT:**</sub></small>
 [[Prov.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.14|<< Proverbs 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.16|Proverbs 21:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[It is with\] gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| for \[the\] just | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| to have | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| equity; | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| but a sacred \[man\] | <big><span class="asgreek">όσιος</span></big> <sup><small><small>[[G3741]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[is\] unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| evildoers. | <big><span class="asgreek">κακούργοις</span></big> <sup><small><small>[[G2557]]</small></small></sup> |
+| \[It is with\] gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| for \[the\] just | **<big>[[G1342\|δικαίων]]</big>** |
+| to have | **<big>[[G4160\|ποιείν]]</big>** |
+| equity; | **<big>[[G2917\|κρίμα]]</big>** |
+| but a sacred \[man\] | **<big>[[G3741\|όσιος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[is\] unclean | **<big>[[G0169\|ακάθαρτος]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| evildoers. | **<big>[[G2557\|κακούργοις]]</big>** |
 [[Prov.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.14|<< Proverbs 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.16|Proverbs 21:16 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָכִיר‎</span></big> **Mâkîyr** <small>*(maw-keer')*</small> ==**Machir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מָכַר‎</span><sup><small>[[H4376]]</small></sup>; salesman</small>
+**<big><span class="ashebrew">‎מָכִיר‎</span></big>** **Mâkîyr** <small>*(maw-keer')*</small> ==**Machir**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4376|‎מָכַר‎]]</big>**; salesman</small>
 
 $\quad$ Machir.
 - § Machir = *"sold"*

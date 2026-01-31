@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָתִיד‎</span></big> **ʻâthîyd** <small>*(aw-theed')*</small> ==**ready**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎עָתַד‎</span><sup><small>[[H6257]]</small></sup></small>
+**<big><span class="ashebrew">‎עָתִיד‎</span></big>** **ʻâthîyd** <small>*(aw-theed')*</small> ==**ready**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H6257|‎עָתַד‎]]</big>**</small>
 
 $\quad$ things that shall come, ready, treasures.
 - ***prepared***
@@ -13,4 +13,4 @@ $\quad$ **1b)** ready, skilled
 $\quad$ **1c)** prepared, impending
 $\quad$ **1d)** prepared, stored up, treasure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μέλλω</span><sup><small>[[G3195]]</small></sup>
+<small>See Greek: </small>**<big>[[G3195|μέλλω]]</big>**

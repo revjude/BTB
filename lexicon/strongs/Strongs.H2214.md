@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָרָא‎</span></big> **zârâʼ** <small>*(zaw-raw')*</small> ==**loathsome**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎זוּר‎</span><sup><small>[[H2114]]</small></sup> (in the sense of estrangement) (compare <span class="ashebrew">‎זָרָה‎</span><sup><small>[[H2219]]</small></sup>)</small>
+**<big><span class="ashebrew">‎זָרָא‎</span></big>** **zârâʼ** <small>*(zaw-raw')*</small> ==**loathsome**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2114|‎זוּר‎]]</big>** (in the sense of estrangement) (compare **<big>[[H2219|‎זָרָה‎]]</big>**)</small>
 
 $\quad$ loathsome.
 - ***disgust***

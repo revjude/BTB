@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּרִי‎</span></big> **pᵉrîy** <small>*(per-ee')*</small> ==**fruit**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּרָה‎</span><sup><small>[[H6509]]</small></sup></small>
+**<big><span class="ashebrew">‎פְּרִי‎</span></big>** **pᵉrîy** <small>*(per-ee')*</small> ==**fruit**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6509|‎פָּרָה‎]]</big>**</small>
 
 $\quad$ bough, (first-)fruit(-ful), reward.
 - ***fruit*** (literally or figuratively)
@@ -9,4 +9,4 @@ $\quad$ **1a)** fruit, produce (of the ground)
 $\quad$ **1b)** fruit, offspring, children, progeny (of the womb)
 $\quad$ **1c)** fruit (of actions) (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔκγονον</span><sup><small>[[G1549]]</small></sup> · <span class="asgreek">ἐκλεκτός</span><sup><small>[[G1588]]</small></sup> · <span class="asgreek">εὐλογία</span><sup><small>[[G2129]]</small></sup> · <span class="asgreek">καρπός</span><sup><small>[[G2590]]</small></sup> · <span class="asgreek">καρποφόρος</span><sup><small>[[G2593]]</small></sup> · <span class="asgreek">τέκνον</span><sup><small>[[G5043]]</small></sup>
+<small>See Greek: </small>**<big>[[G1549|ἔκγονον]]</big>** · **<big>[[G1588|ἐκλεκτός]]</big>** · **<big>[[G2129|εὐλογία]]</big>** · **<big>[[G2590|καρπός]]</big>** · **<big>[[G2593|καρποφόρος]]</big>** · **<big>[[G5043|τέκνον]]</big>**

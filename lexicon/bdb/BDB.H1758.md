@@ -1,4 +1,4 @@
-<small>Also see: [[H0156]]</small>
+<small>Also see: **<big>[[H0156|אָדַשׁ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎דּוּשׁ‎</span>, <span class="bdbLangHebrew">‎דּישׁ‎</span> **verb** ==tread, thresh== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJQAZAIAAAP///wAAACH5BAAAAAAALAAAAAAlABkAAAJZhI+py+2PApwsWEuzuVinu0mh93FiRy5chKZT6z5w3My0Ko53yeau3wLxVIcTyqcrIpW6owJmA5hMxU3kU5sGpVNstrPtDp/LinDc23G10RS77daqK/P6owAAOw==">, Assyrian <abbr title="transliteration"><u>***dâšu***</u></abbr>, Imperfect 1 singular ***adîš*** [[BDB#Dl|Dl]]<sup>Pr 191</sup> [[BDB#COT|COT]]<sup>Gloss</sup> [[BDB#Hom|Hom]]<sup>NS 391</sup>; compare Late Hebrew <span class="bdbLangHebrew">‎דּוּשׁ‎</span>, Aramaic ***id.***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHAAWAIAAAP///wAAACH5BAAAAAAALAAAAAAcABYAAAI/hI+py50BnUQwThlAvtjy5n1LKJZltZkU6rAjmipwfMygLbv1NtM72QuufEHc7lWsrG5Kg86pukUfpKlvqigAADs=">; see further [[BDB#Nö|Nö]]<sup>ZMG 1883, 538</sup>) — 
 

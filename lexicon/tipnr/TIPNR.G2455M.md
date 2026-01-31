@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Judas</span>, also known as Barsabbas, was a prophet and respected leader in the Jerusalem church who accompanied Paul and Barnabas to Antioch.
 - A man living at the time of the New Testament, first mentioned at [[Gal.2.14|Act.15.22]]; 
-- referred to as Judas<[[G2455M]]> \(<span class='tipnrLangGreek'>Ἰούδας</span>\), or Barsabbas \(KJV= Barsabas\) <[[G0923H]]> \(<span class='tipnrLangGreek'>Βαρσαβᾶς</span>\).
+- referred to as Judas **<big>[[G2455|Ἰούδας]]</big>**, or Barsabbas \(KJV= Barsabas\)  **<big>[[G0923|Βαρσαβᾶς]]</big>**.
 
 Judas, also known as Barsabbas, is mentioned in Acts 15:22, 27, 32 as a prophet and leader in the Jerusalem church. The context of the passage is the Jerusalem Council, where the early church leaders discussed and resolved the issue of Gentile believers and the Mosaic law \(Acts 15:1-35\). 
 
@@ -18,6 +18,6 @@ The inclusion of Judas Barsabbas in this narrative highlights the unity and coop
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455M) <small>*Greek*</small> | 3x | [[Act.15.22] ... [Act.15.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Act.15.22;Act.15.27;Act.15.32) |
-| Barsabbas (KJV= Barsabas) | [<span class='tipnrLangGreek'>Βαρσαβᾶς</span>](G0923H) <small>*Greek*</small> | 1x | [Act.15.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barsabbas\*\|reference=Act.15.22) |
-All Strong's for **Judas or Barsabbas**: \[[[G2455M]]\] \[[[G0923H]]\]
+| Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455M) | 3x | [[Act.15.22] ... [Act.15.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Act.15.22;Act.15.27;Act.15.32) |
+| Barsabbas (KJV= Barsabas) | [<span class='tipnrLangGreek'>Βαρσαβᾶς</span>](G0923H) | 1x | [Act.15.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barsabbas\*\|reference=Act.15.22) |
+All entries for **Judas or Barsabbas**:  **<big>[[G2455|Ἰούδας]]</big>** ☩  **<big>[[G0923|Βαρσαβᾶς]]</big>**

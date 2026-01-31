@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲדְרַמֶּלֶךְ‎</span></big> **ʼĂdrammelek** <small>*(ad-ram-meh'-lek)*</small> ==**Adrammelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָדַר‎</span><sup><small>[[H0142]]</small></sup> and <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup>; splendor of (the) king</small>
+**<big><span class="ashebrew">‎אֲדְרַמֶּלֶךְ‎</span></big>** **ʼĂdrammelek** <small>*(ad-ram-meh'-lek)*</small> ==**Adrammelech**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0142|‎אָדַר‎]]</big>** and **<big>[[H4428|‎מֶלֶךְ‎]]</big>**; splendor of (the) king</small>
 
 $\quad$ Adrammelech.
 - § Adrammelech = *"honour of the king" or "Adar is prince" or "Adar is Counsellor, Decider"*

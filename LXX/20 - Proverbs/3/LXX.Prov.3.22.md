@@ -7,27 +7,27 @@ So shall they be life unto thy soul, and grace to thy neck.
 They will be life to your soul and adornment to your neck.<small><sub>**MT:**</sub></small>
 [[Prov.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.21|<< Proverbs 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.23|Proverbs 3:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should live | <big><span class="asgreek">ζήση</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάρις</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| should be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| around | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| your | <big><span class="asgreek">σω</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| neck; | <big><span class="asgreek">τραχήλω</span></big> <sup><small><small>[[G5137]]</small></small></sup> |
-| and it will be | <big><span class="asgreek">εσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flesh, | <big><span class="asgreek">σαρξί</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| care | <big><span class="asgreek">επιμέλεια</span></big> <sup><small><small>[[G1958]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your | <big><span class="asgreek">σοις</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| bones; | <big><span class="asgreek">οστέοις</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should live | **<big>[[G2198\|ζήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| favor | **<big>[[G5485\|χάρις]]</big>** |
+| should be | **<big>[[G1510\|η]]</big>** |
+| around | **<big>[[G4012\|περί]]</big>** |
+| your | **<big>[[G4674\|σω]]</big>** |
+| neck; | **<big>[[G5137\|τραχήλω]]</big>** |
+| and it will be | **<big>[[G1510\|εσται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| healing | **<big>[[G2392\|ίασις]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your flesh, | **<big>[[G4561\|σαρξί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| care | **<big>[[G1958\|επιμέλεια]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your | **<big>[[G4674\|σοις]]</big>** |
+| bones; | **<big>[[G3747\|οστέοις]]</big>** |
 [[Prov.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.21|<< Proverbs 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.23|Proverbs 3:23 >>]]</td></tr></table>
 
 

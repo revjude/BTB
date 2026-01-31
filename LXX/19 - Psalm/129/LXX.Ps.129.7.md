@@ -7,22 +7,22 @@ Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.
 unable to fill the hands of the reaper, or the arms of the binder of sheaves.<small><sub>**MT:**</sub></small>
 [[Ps.129.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.6|<< Psalm 129:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.8|Psalm 129:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| fill | <big><span class="asgreek">επλήρωσε</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one harvesting | <big><span class="asgreek">θερίζων</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| nor | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unto his bosom | <big><span class="asgreek">κόλπον</span></big> <sup><small><small>[[G2859]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheaves | <big><span class="asgreek">δράγματα</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
-| collecting together | <big><span class="asgreek">συλλέγων</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| fill | **<big>[[G4137\|επλήρωσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one harvesting | **<big>[[G2325\|θερίζων]]</big>** |
+| nor | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| unto his bosom | **<big>[[G2859\|κόλπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sheaves | **<big>[[G6967\|δράγματα]]</big>** |
+| collecting together | **<big>[[G4816\|συλλέγων]]</big>** |
 [[Ps.129.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.6|<< Psalm 129:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.8|Psalm 129:8 >>]]</td></tr></table>
 
 

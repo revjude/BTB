@@ -7,45 +7,45 @@ They shall cast their silver in the streets, and their gold shall be removed: th
 They will throw their silver into the streets, and their gold will seem unclean. Their silver and gold cannot save them in the day of the wrath of the LORD. They cannot satisfy their appetites or fill their stomachs with wealth, for it became the stumbling block that brought their iniquity.<small><sub>**MT:**</sub></small>
 [[Ezek.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.18|<< Ezekiel 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.20|Ezekiel 7:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be tossed | <big><span class="asgreek">ριφήσεται</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| squares, | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be spurned. | <big><span class="asgreek">υπεροφθήσεται</span></big> <sup><small><small>[[G9557]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| shall not be able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to rescue | <big><span class="asgreek">εξελέσθαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of wrath | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their souls | <big><span class="asgreek">ψυχαί</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be satisfied, | <big><span class="asgreek">εμπλησθώσι</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bellies | <big><span class="asgreek">κοιλίαι</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be filled; | <big><span class="asgreek">πληρωθήσονται</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[the\] torment | <big><span class="asgreek">βάσανος</span></big> <sup><small><small>[[G0931]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for their iniquities | <big><span class="asgreek">αδικιών</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| took place. | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Their silver | **<big>[[G0694\|αργύριον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall be tossed | **<big>[[G4496\|ριφήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| squares, | **<big>[[G4113\|πλατείαις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their gold | **<big>[[G5553\|χρυσίον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall be spurned. | **<big>[[G9557\|υπεροφθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Their silver | **<big>[[G0694\|αργύριον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their gold | **<big>[[G5553\|χρυσίον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+|  | **<big>[[G3756\|ου]]</big>** |
+| shall not be able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| to rescue | **<big>[[G1807\|εξελέσθαι]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| of wrath | **<big>[[G3709\|οργής]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Their souls | **<big>[[G5590\|ψυχαί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be satisfied, | **<big>[[G1705\|εμπλησθώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their bellies | **<big>[[G2836\|κοιλίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be filled; | **<big>[[G4137\|πληρωθήσονται]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| \[the\] torment | **<big>[[G0931\|βάσανος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| for their iniquities | **<big>[[G0093\|αδικιών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| took place. | **<big>[[G1096\|εγένετο]]</big>** |
 [[Ezek.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.18|<< Ezekiel 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.20|Ezekiel 7:20 >>]]</td></tr></table>
 
 

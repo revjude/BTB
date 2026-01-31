@@ -1,4 +1,4 @@
-<small>Also see: [[H7311]] | [[H7414]]</small>
+<small>Also see: **<big>[[H7311|רוּם]]</big>** | **<big>[[H7414|רָמָה]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎רָאַם‎</span>] **verb** (Masora [[BDB#Thes|Thes]] and others) ==rise== (si vera lectio, \|\| form of <span class="bdbLangHebrew">‎רום‎</span>); — 
 

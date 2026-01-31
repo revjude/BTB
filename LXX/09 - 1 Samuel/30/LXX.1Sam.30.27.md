@@ -7,19 +7,19 @@ To [them] which [were] in Bethel, and to [them] which [were] in south Ramoth, an
 He sent gifts to those in Bethel, Ramoth Negev, and Jattir;<small><sub>**MT:**</sub></small>
 [[1Sam.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.26|<< 1 Samuel 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.28|1 Samuel 30:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Ramoth | <big><span class="asgreek">Ραμά</span></big> <sup><small><small>[[G4471]]</small></small></sup> |
-| of \[the\] south, | <big><span class="asgreek">νότου</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[in\] Jattir, | <big><span class="asgreek">Ιαθήρ</span></big> <sup><small><small>[[H3492]]</small></small></sup> |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Beth-el, | **<big>[[H1008\|Βαιθήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Ramoth | **<big>[[G4471\|Ραμά]]</big>** |
+| of \[the\] south, | **<big>[[G3558\|νότου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| \[in\] Jattir, | **<big>[[H3492\|Ιαθήρ]]</big>** |
 [[1Sam.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.26|<< 1 Samuel 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.28|1 Samuel 30:28 >>]]</td></tr></table>
 
 

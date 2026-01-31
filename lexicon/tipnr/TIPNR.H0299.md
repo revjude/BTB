@@ -4,8 +4,8 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Ahira</span>, son of Enan, was the leader of the tribe of Naphtali during the Israelites' journey through the wilderness. \([[Num.1.15|Num.1.15]]; 2.29; 7.78,83; 10.27\)
 - A man living at the time of Egypt and Wilderness, first mentioned at [[Num.1.15|Num.1.15]]; 
-- only referred to as Ahira<[[H0299]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ַ<span class='tipnrLangHebrew'>ע</span>\); 
-- a son of Enan<[[H5881]]>.
+- only referred to as Ahira **<big>[[H0299|אֲחִירַע]]</big>**; 
+- a son of Enan **<big>[[H5881|עֵינָן]]</big>**.
 
 Ahira, the son of Enan, was a prominent leader of the tribe of Naphtali during the Israelites' exodus from Egypt and their subsequent journey through the wilderness. He was appointed by God as the head of his tribe and played a significant role in the organization and leadership of the Israelite community. \([[Num.1.15|Num.1.15]]\) 
 
@@ -19,7 +19,7 @@ Throughout the wilderness journey, Ahira would have played a crucial role in lea
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahira | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ַ<span class='tipnrLangHebrew'>ע</span>](H0299) <small>*Hebrew*</small> | 5x | [[Num.1.15] ... [Num.10.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahira\*\|reference=Num.1.15;Num.2.29;Num.7.78;Num.7.83;Num.10.27) |
-All Strong's for **Ahira**: \[[[H0299]]\]
+| Ahira | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ַ<span class='tipnrLangHebrew'>ע</span>](H0299) | 5x | [[Num.1.15] ... [Num.10.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahira\*\|reference=Num.1.15;Num.2.29;Num.7.78;Num.7.83;Num.10.27) |
+All entries for **Ahira**:  **<big>[[H0299|אֲחִירַע]]</big>**
 #### Related Profiles:
 - **[Enan](H5881)** (father)

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Havilah</span> was a region inhabited by the descendants of Ishmael \([[Gen.25.18|Gen.25.18]]\), which was later raided by King Saul during his campaign against the Amalekites \(1 Sam 15:7\).
 - A location first mentioned at [[Gen.25.18|Gen.25.18]]; 
-- only referred to as Havilah<[[H2341J]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Havilah **<big>[[H2341|חֲוִילָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.14,35.22&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Havilah was a region located in the northwestern Arabian Peninsula, inhabited by
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Havilah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2341J) <small>*Hebrew*</small> | 2x | [[Gen.25.18] & [1Sa.15.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Havilah\*\|reference=Gen.25.18;1Sa.15.7) |
-All Strong's for **Havilah**: \[[[H2341J]]\]
+| Havilah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2341J) | 2x | [[Gen.25.18] & [1Sa.15.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Havilah\*\|reference=Gen.25.18;1Sa.15.7) |
+All entries for **Havilah**:  **<big>[[H2341|חֲוִילָה]]</big>**

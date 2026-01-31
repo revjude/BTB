@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎זְבֻל‎</span></big> **Zᵉbul** <small>*(zeb-ool')*</small> ==**Zebul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎זְבוּל‎</span><sup><small>[[H2073]]</small></sup>; dwelling</small>
+**<big><span class="ashebrew">‎זְבֻל‎</span></big>** **Zᵉbul** <small>*(zeb-ool')*</small> ==**Zebul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2073|‎זְבוּל‎]]</big>**; dwelling</small>
 
-$\quad$ Zebul. Compare <span class="ashebrew">‎זְבוּל‎</span><sup><small>[[H2073]]</small></sup>.
+$\quad$ Zebul. Compare **<big>[[H2073|‎זְבוּל‎]]</big>**.
 - § Zebul = *"exalted"*
 - ***Zebul***, an Israelite
 

@@ -6,17 +6,17 @@ Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.8|<< Psalms 24:8]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.10|Psalms 24:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| lift up  | <span class="ashebrew"><big>שְׂא֤וּ </big></span><small><small><sup>[[H5375P]]</sup></small></small> &#8207;| se.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O gates  | <span class="ashebrew"><big>שְׁעָרִ֨ים </big></span><small><small><sup>[[H8179G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| she.'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heads your  | <span class="ashebrew"><big>רָֽאשֵׁי </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>כֶ֗ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| ra.shei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and lift up  | <span class="ashebrew"><big>וּ֭ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שְׂאוּ </big></span><small><small><sup>[[H5375P]]</sup></small></small> &#8207;| U. <small><sup>[[HC]]</sup></small> se.'u <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O doors of  | <span class="ashebrew"><big>פִּתְחֵ֣י </big></span><small><small><sup>[[H6607]]</sup></small></small> &#8207;| pit.Chei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| antiquity  | <span class="ashebrew"><big>עוֹלָ֑ם </big></span><small><small><sup>[[H5769J]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so he may come  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָבֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ya.vo' <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| Me.lekh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> glory  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כָּבֽוֹד </big></span><small><small><sup>[[H3519]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ka.Vod <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lift up  |**<big>&#8207;[[H5375P\|שְׂא֤וּ]]&#8207; </big>**| se.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O gates  |**<big>&#8207;[[H8179G\|שְׁעָרִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| she.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heads your  |**<big>&#8207;[[H7218A\|רָֽאשֵׁי]]&#8207;&#8207;[[H9026\|כֶ֗ם]]&#8207; </big>**| ra.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lift up  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H5375P\|שְׂאוּ]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> se.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O doors of  |**<big>&#8207;[[H6607\|פִּתְחֵ֣י]]&#8207; </big>**| pit.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| antiquity  |**<big>&#8207;[[H5769J\|עוֹלָ֑ם]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so he may come  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H0935G\|יָבֹא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ya.vo'<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> glory  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3519\|כָּבֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.8|<< Psalms 24:8]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.10|Psalms 24:10 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ Why is light given to the miserable, and life to the bitter of soul,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.19|<< Job 3:19]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.21|Job 3:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> why?  | <span class="ashebrew"><big>לָ֤ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| La. <small><sup>[[HR]]</sup></small> mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| does someone give  | <span class="ashebrew"><big>יִתֵּ֣ן </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| yi.Ten <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a sufferer  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עָמֵ֣ל </big></span><small><small><sup>[[H6001A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'a.Mel <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| light  | <span class="ashebrew"><big>א֑וֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> &#8207;| 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and life  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַיִּ֗ים </big></span><small><small><sup>[[H2416E]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> chai.Yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [people] bitter of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָ֣רֵי </big></span><small><small><sup>[[H4751]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Ma.rei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| soul  | <span class="ashebrew"><big>נָֽפֶשׁ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| does someone give  |**<big>&#8207;[[H5414G\|יִתֵּ֣ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a sufferer  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6001A\|עָמֵ֣ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Mel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light  |**<big>&#8207;[[H0216\|א֑וֹר]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and life  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H2416E\|חַיִּ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chai.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [people] bitter of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4751\|מָ֣רֵי]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ma.rei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soul  |**<big>&#8207;[[H5315G\|נָֽפֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.19|<< Job 3:19]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.21|Job 3:21 >>]]</td></tr></table>
 
 

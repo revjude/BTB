@@ -6,16 +6,16 @@ Wisdom is found on the lips of the discerning, but a rod is for the back of him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.12|<< Proverbs 10:12]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.14|Proverbs 10:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| on [the] lips of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שִׂפְתֵ֣י </big></span><small><small><sup>[[H8193G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> sif.Tei <small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a discerning [person]  | <span class="ashebrew"><big>נָ֭בוֹן </big></span><small><small><sup>[[H0995]]</sup></small></small> &#8207;| Na.Von <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is found  | <span class="ashebrew"><big>תִּמָּצֵ֣א </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| ti.ma.Tze' <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֑ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a rod  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֗בֶט </big></span><small><small><sup>[[H7626G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> She.vet <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] for [the] back of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>גֵ֣ו </big></span><small><small><sup>[[H1460A]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Gev <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one] lacking of  | <span class="ashebrew"><big>חֲסַר </big></span><small><small><sup>[[H2638]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| cha.sar- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  | <span class="ashebrew"><big>לֵֽב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] lips of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8193G\|שִׂפְתֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sif.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a discerning [person]  |**<big>&#8207;[[H0995\|נָ֭בוֹן]]&#8207; </big>**| Na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is found  |**<big>&#8207;[[H4672\|תִּמָּצֵ֣א]]&#8207; </big>**| ti.ma.Tze'<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֑ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a rod  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H7626G\|שֵׁ֗בֶט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] for [the] back of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1460A\|גֵ֣ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Gev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] lacking of  |**<big>&#8207;[[H2638\|חֲסַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.sar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.12|<< Proverbs 10:12]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.14|Proverbs 10:14 >>]]</td></tr></table>
 
 

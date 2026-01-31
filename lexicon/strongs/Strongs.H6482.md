@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֶּצַע‎</span></big> **petsaʻ** <small>*(peh'-tsah)*</small> ==**wound**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּצַע‎</span><sup><small>[[H6481]]</small></sup></small>
+**<big><span class="ashebrew">‎פֶּצַע‎</span></big>** **petsaʻ** <small>*(peh'-tsah)*</small> ==**wound**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6481|‎פָּצַע‎]]</big>**</small>
 
 $\quad$ wound(-ing).
 - ***a wound***

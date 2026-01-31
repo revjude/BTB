@@ -10,29 +10,29 @@ Then the king of Syria warred against Israel, and took counsel with his servants
 Now the king of Aram was at war against Israel. After consulting with his servants, he said, “My camp will be in such and such a place.”<small><sub>**MT:**</sub></small>
 [[2Kgs.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.7|<< 2 Kings 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.9|2 Kings 6:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Syria | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| waging war | <big><span class="asgreek">πολεμών</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| against | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he consulted | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his servants, | <big><span class="asgreek">παίδας</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| thus | <big><span class="asgreek">τόνδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| in a certain | <big><span class="asgreek">τινά</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| concealed \[place\] | <big><span class="asgreek">ελμωνί</span></big> <sup><small><small>[[G7185]]</small></small></sup> |
-| I will camp | <big><span class="asgreek">παρεμβαλώ</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Syria | **<big>[[G4947\|Συρίας]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| waging war | **<big>[[G4170\|πολεμών]]</big>** |
+| against | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he consulted | **<big>[[G1011\|εβουλεύσατο]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his servants, | **<big>[[G3816\|παίδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| In | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| thus | **<big>[[G3592\|τόνδε]]</big>** |
+| in a certain | **<big>[[G5100\|τινά]]</big>** |
+| concealed \[place\] | **<big>[[G7185\|ελμωνί]]</big>** |
+| I will camp | **<big>[[G6070\|παρεμβαλώ]]</big>** |
 [[2Kgs.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.7|<< 2 Kings 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.9|2 Kings 6:9 >>]]</td></tr></table>
 
 

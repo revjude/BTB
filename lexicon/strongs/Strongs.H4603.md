@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָעַל‎</span></big> **mâʻal** <small>*(maw-al')*</small> ==**be unfaithful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָעַל‎</span></big>** **mâʻal** <small>*(maw-al')*</small> ==**be unfaithful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ transgress, (commit, do a) trespass(-ing).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** against God
 $\quad$ $\quad$ **1a3)** against devoted thing
 $\quad$ $\quad$ **1a4)** against husband
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἀθετέω</span><sup><small>[[G0114]]</small></sup> · <span class="asgreek">ἁμαρτάνω</span><sup><small>[[G0264]]</small></sup> · <span class="asgreek">ἀπειθέω</span><sup><small>[[G0544]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">λανθάνω</span><sup><small>[[G2990]]</small></sup> · <span class="asgreek">παραβαίνω</span><sup><small>[[G3845]]</small></sup> · <span class="asgreek">παραπίπτω</span><sup><small>[[G3895]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0114|ἀθετέω]]</big>** · **<big>[[G0264|ἁμαρτάνω]]</big>** · **<big>[[G0544|ἀπειθέω]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G2990|λανθάνω]]</big>** · **<big>[[G3845|παραβαίνω]]</big>** · **<big>[[G3895|παραπίπτω]]</big>** · **<big>[[G4105|πλανάω]]</big>**

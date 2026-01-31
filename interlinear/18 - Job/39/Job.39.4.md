@@ -6,16 +6,16 @@ Their young ones thrive and grow up in the open field; they leave and do not ret
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.5|Job 39:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they become strong  | <span class="ashebrew"><big>יַחְלְמ֣וּ </big></span><small><small><sup>[[H2492A]]</sup></small></small> &#8207;| yach.le.Mu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young their  | <span class="ashebrew"><big>בְ֭נֵי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>הֶם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| Ve.nei. <small><sup>[[HNcmpc]]</sup></small> hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they grow  | <span class="ashebrew"><big>יִרְבּ֣וּ </big></span><small><small><sup>[[H7235A]]</sup></small></small> &#8207;| yir.Bu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the open  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בָּ֑ר </big></span><small><small><sup>[[H1250B]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they go forth  | <span class="ashebrew"><big>יָ֝צְא֗וּ </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.tze.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they return  | <span class="ashebrew"><big>שָׁ֥בוּ </big></span><small><small><sup>[[H7725G]]</sup></small></small> &#8207;| Sha.vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹ </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> mo <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they become strong  |**<big>&#8207;[[H2492A\|יַחְלְמ֣וּ]]&#8207; </big>**| yach.le.Mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young their  |**<big>&#8207;[[H1121A\|בְ֭נֵי]]&#8207;&#8207;[[H9028\|הֶם]]&#8207; </big>**| Ve.nei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they grow  |**<big>&#8207;[[H7235A\|יִרְבּ֣וּ]]&#8207; </big>**| yir.Bu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the open  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1250B\|בָּ֑ר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they go forth  |**<big>&#8207;[[H3318G\|יָ֝צְא֗וּ]]&#8207; </big>**| ya.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they return  |**<big>&#8207;[[H7725G\|שָׁ֥בוּ]]&#8207; </big>**| Sha.vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.5|Job 39:5 >>]]</td></tr></table>
 
 

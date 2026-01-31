@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶפְצִי בָּהּ‎</span></big> **Chephtsîy bâhh** <small>*(khef-tsee'baw)*</small> ==**Hephzibah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חֵפֶץ‎</span><sup><small>[[H2656]]</small></sup> with suffixes; my delight (is) in her</small>
+**<big><span class="ashebrew">‎חֶפְצִי בָּהּ‎</span></big>** **Chephtsîy bâhh** <small>*(khef-tsee'baw)*</small> ==**Hephzibah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H2656|‎חֵפֶץ‎]]</big>** with suffixes; my delight (is) in her</small>
 
 $\quad$ Hephzi-bah.
 - § Hephzi-bah = *"my delight is in her"*

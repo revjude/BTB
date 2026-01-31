@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מַהֲמֹרָה‎</span></big> **mahămôrâh** <small>*(mah-ham-o-raw')*</small> ==**flood**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎מַהֲמֹרָה‎</span></big>** **mahămôrâh** <small>*(mah-ham-o-raw')*</small> ==**flood**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root of uncertain meaning</small>
 
 $\quad$ deep pit.
@@ -6,4 +6,4 @@ $\quad$ deep pit.
 
 **1)** a flood, a pit of water, watery pit
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ταλαιπωρία</span><sup><small>[[G5004]]</small></sup>
+<small>See Greek: </small>**<big>[[G5004|ταλαιπωρία]]</big>**

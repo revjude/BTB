@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נוֹד‎</span></big> **nôwd** <small>*(node)*</small> ==**wandering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>(only defective <span class="ashebrew">נֹד</span> **Nôd** <small>*(node)*</small> ); from <span class="ashebrew">‎נוּד‎</span><sup><small>[[H5110]]</small></sup></small>
+**<big><span class="ashebrew">‎נוֹד‎</span></big>** **nôwd** <small>*(node)*</small> ==**wandering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>(only defective **<big><span class="ashebrew">נֹד</span></big>** **Nôd** <small>*(node)*</small> ); from **<big>[[H5110|‎נוּד‎]]</big>**</small>
 
 $\quad$ wandering.
 - ***exile***

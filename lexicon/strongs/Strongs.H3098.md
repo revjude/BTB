@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹאָח‎</span></big> **Yôwʼâch** <small>*(yo-awkh')*</small> ==**Joah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎אָח‎</span><sup><small>[[H0251]]</small></sup>; Jehovahbrothered</small>
+**<big><span class="ashebrew">‎יוֹאָח‎</span></big>** **Yôwʼâch** <small>*(yo-awkh')*</small> ==**Joah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H0251|‎אָח‎]]</big>**; Jehovahbrothered</small>
 
 $\quad$ Joah.
 - § Joah = *"Jehovah is brother"*

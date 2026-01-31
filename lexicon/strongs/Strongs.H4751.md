@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַר‎</span></big> **mar** <small>*(mar)*</small> ==**bitter**==  <sup><small>[[TEHMC#H:A-M|H:A-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">מָרָה</span> **mârâh** <small>*(maw-raw')*</small>; from <span class="ashebrew">‎מָרַר‎</span><sup><small>[[H4843]]</small></sup></small>
+**<big><span class="ashebrew">‎מַר‎</span></big>** **mar** <small>*(mar)*</small> ==**bitter**==  <sup><small>[[TEHMC#H:A-M|H:A-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">מָרָה</span></big>** **mârâh** <small>*(maw-raw')*</small>; from **<big>[[H4843|‎מָרַר‎]]</big>**</small>
 
 $\quad$ [phrase] angry, bitter(-ly, -ness), chafed, discontented, [idiom] great, heavy.
 - ***bitter*** (literally or figuratively)
@@ -13,4 +13,4 @@ $\quad$ **1c)** of pain (subst)
 adv
 **2)** bitterly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔλεγχος</span><sup><small>[[G1650]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">πικρία</span><sup><small>[[G4088]]</small></sup> · <span class="asgreek">πικρός</span><sup><small>[[G4089]]</small></sup> · <span class="asgreek">πικρῶς</span><sup><small>[[G4090]]</small></sup>
+<small>See Greek: </small>**<big>[[G1650|ἔλεγχος]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G4088|πικρία]]</big>** · **<big>[[G4089|πικρός]]</big>** · **<big>[[G4090|πικρῶς]]</big>**

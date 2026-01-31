@@ -7,36 +7,36 @@ And he made all the vessels of the altar, the pots, and the shovels, and the bas
 He made all the altar’s utensils of bronze—its pots, shovels, sprinkling bowls, meat forks, and firepans.<small><sub>**MT:**</sub></small>
 [[Exod.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.2|<< Exodus 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.4|Exodus 38:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a rim | <big><span class="asgreek">στεφάνην</span></big> <sup><small><small>[[G9168]]</small></small></sup> |
-| on the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστηρίω</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lid | <big><span class="asgreek">καλυπτήρα</span></big> <sup><small><small>[[G7786]]</small></small></sup> |
-| for it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bowls | <big><span class="asgreek">φιάλας</span></big> <sup><small><small>[[G5357]]</small></small></sup> |
-| for it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meat hooks | <big><span class="asgreek">κρεάγρας</span></big> <sup><small><small>[[G8090]]</small></small></sup> |
-| for it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| censer | <big><span class="asgreek">πυρείον</span></big> <sup><small><small>[[G8992]]</small></small></sup> |
-| for it; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| utensils | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| for it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| of brass. | <big><span class="asgreek">χαλκά</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| a rim | **<big>[[G9168\|στεφάνην]]</big>** |
+| on the | **<big>[[G3588\|τω]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστηρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lid | **<big>[[G7786\|καλυπτήρα]]</big>** |
+| for it, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| bowls | **<big>[[G5357\|φιάλας]]</big>** |
+| for it, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| meat hooks | **<big>[[G8090\|κρεάγρας]]</big>** |
+| for it, | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| censer | **<big>[[G8992\|πυρείον]]</big>** |
+| for it; | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| utensils | **<big>[[G4632\|σκεύη]]</big>** |
+| for it | **<big>[[G1473\|αυτού]]</big>** |
+| he made | **<big>[[G4160\|εποίησε]]</big>** |
+| of brass. | **<big>[[G5470\|χαλκά]]</big>** |
 [[Exod.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.2|<< Exodus 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.4|Exodus 38:4 >>]]</td></tr></table>
 
 

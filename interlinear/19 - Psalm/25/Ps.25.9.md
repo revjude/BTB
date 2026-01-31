@@ -6,14 +6,14 @@ He guides the humble in what is right and teaches them His way.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.8|<< Psalms 25:8]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.10|Psalms 25:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he leads  | <span class="ashebrew"><big>יַדְרֵ֣ךְ </big></span><small><small><sup>[[H1869]]</sup></small></small> &#8207;| yad.Rekh <small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humble [people]  | <span class="ashebrew"><big>עֲ֭נָוִים </big></span><small><small><sup>[[H6035]]</sup></small></small> &#8207;| 'A.na.vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> justice  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּשְׁפָּ֑ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so he may teach  | <span class="ashebrew"><big>וִֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ילַמֵּ֖ד </big></span><small><small><sup>[[H3925G]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> la.Med <small><sup>[[HVpu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| humble [people]  | <span class="ashebrew"><big>עֲנָוִ֣ים </big></span><small><small><sup>[[H6035]]</sup></small></small> &#8207;| 'a.na.Vim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| way his  | <span class="ashebrew"><big>דַּרְכּֽ </big></span><small><small><sup>[[H1870G]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| dar.K <small><sup>[[HNcbsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he leads  |**<big>&#8207;[[H1869\|יַדְרֵ֣ךְ]]&#8207; </big>**| yad.Rekh<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humble [people]  |**<big>&#8207;[[H6035\|עֲ֭נָוִים]]&#8207; </big>**| 'A.na.vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> justice  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4941H\|מִּשְׁפָּ֑ט]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so he may teach  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3925G\|ילַמֵּ֖ד]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> la.Med<small><sup>[[HVpu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humble [people]  |**<big>&#8207;[[H6035\|עֲנָוִ֣ים]]&#8207; </big>**| 'a.na.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| way his  |**<big>&#8207;[[H1870G\|דַּרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.8|<< Psalms 25:8]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.10|Psalms 25:10 >>]]</td></tr></table>
 
 

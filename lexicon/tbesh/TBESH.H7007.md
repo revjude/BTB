@@ -1,3 +1,1 @@
-<span class="asaramaic">‎קַ֫יִט‎</span> <small>***(qa.yit)***</small> ==**summer**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H7019]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H7019|קַיִץ]]</big>**</small>

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂפַן‎</span></big> **sâphan** <small>*(saw-fan')*</small> ==**to treasure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂפַן‎</span></big>** **sâphan** <small>*(saw-fan')*</small> ==**to treasure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ treasure.

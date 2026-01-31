@@ -1,4 +1,4 @@
-<small>Also see: [[H7489]]</small>
+<small>Also see: **<big>[[H7489|רָעַע]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רֹעַ‎</span> **noun [masculine]** ==badness, evil==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> absolute [[Gen.41.19|Gen 41:19]] + 4 t. Jeremiah; construct [[Hos.9.15|Hos 9:15]] + 13 t.; — 
 

@@ -4,8 +4,8 @@ Priest living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Adaiah</span>, a priest and descendant of Malchijah, served in the house of God during the post-exilic period in Jerusalem.
 - A priest from the tribe of Levi  living at the time of Exile and Return, first mentioned at [[1Chr.9.12|1Ch.9.12]]; 
-- only referred to as Adaiah<[[H5718I]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
-- a son of Jeroham<[[H3395J]]>.
+- only referred to as Adaiah **<big>[[H5718|עֲדָיָה]]</big>**; 
+- a son of Jeroham **<big>[[H3395|יְרֹחָם]]</big>**.
 
 Adaiah was a priest who served in the house of God during the post-exilic period in Jerusalem. He was a descendant of Malchijah, who was one of the priestly families \([[1Chr.9.12|1 Chronicles 9:12]]; [[Neh.11.12|Nehemiah 11:12]]\). Adaiah is mentioned in the lists of priests who resided in Jerusalem after the Babylonian exile. 
 
@@ -17,7 +17,7 @@ Adaiah's inclusion in these lists highlights the importance of the priestly fami
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718I) <small>*Hebrew*</small> | 2x | [[1Ch.9.12] & [Neh.11.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=1Ch.9.12;Neh.11.12) |
-All Strong's for **Adaiah**: \[[[H5718I]]\]
+| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718I) | 2x | [[1Ch.9.12] & [Neh.11.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=1Ch.9.12;Neh.11.12) |
+All entries for **Adaiah**:  **<big>[[H5718|עֲדָיָה]]</big>**
 #### Related Profiles:
 - **[Jeroham](H3395J)** (father)

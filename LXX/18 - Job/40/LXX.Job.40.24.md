@@ -7,16 +7,16 @@ He taketh it with his eyes: [his] nose pierceth through snares.
 Can anyone capture him as he looks on, or pierce his nose with a snare?<small><sub>**MT:**</sub></small>
 [[Job.40.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.23|<< Job 40:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.1|Job 41:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his eye | <big><span class="asgreek">οφθαλμώ</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will one take | <big><span class="asgreek">δέξεται</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
-| him? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Being caught in a snare | <big><span class="asgreek">ενσκολιευόμενος</span></big> <sup><small><small>[[G7261]]</small></small></sup> |
-| will you drill | <big><span class="asgreek">τρήσει</span></big> <sup><small><small>[[G9435]]</small></small></sup> |
-| his nose? | <big><span class="asgreek">ρίνα</span></big> <sup><small><small>[[G9027]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his eye | **<big>[[G3788\|οφθαλμώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| will one take | **<big>[[G1209\|δέξεται]]</big>** |
+| him? | **<big>[[G1473\|αυτόν]]</big>** |
+| Being caught in a snare | **<big>[[G7261\|ενσκολιευόμενος]]</big>** |
+| will you drill | **<big>[[G9435\|τρήσει]]</big>** |
+| his nose? | **<big>[[G9027\|ρίνα]]</big>** |
 [[Job.40.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.23|<< Job 40:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.1|Job 41:1 >>]]</td></tr></table>
 
 

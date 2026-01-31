@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׂנֵא‎</span></big> **sᵉnêʼ** <small>*(sen-ay')*</small> ==**to hate**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׂנֵא‎</span><sup><small>[[H8130]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׂנֵא‎</span></big>** **sᵉnêʼ** <small>*(sen-ay')*</small> ==**to hate**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H8130|‎שָׂנֵא‎]]</big>**</small>
 
 $\quad$ hate.
 - {***to hate*** (personally)}

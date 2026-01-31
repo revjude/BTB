@@ -1,4 +1,4 @@
-meaning of: <small>[[G0772G]]</small> 
+meaning of: <small>**<big>[[G0772G|ἀσθενής]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἀσθενής==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 

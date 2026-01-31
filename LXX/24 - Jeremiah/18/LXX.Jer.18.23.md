@@ -7,42 +7,42 @@ Yet, LORD, thou knowest all their counsel against me to slay [me]: forgive not t
 But You, O LORD, know all their deadly plots against me. Do not wipe out their guilt or blot out their sin from Your sight. Let them be overthrown before You; deal with them in the time of Your anger.<small><sub>**MT:**</sub></small>
 [[Jer.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| knew | <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all together | <big><span class="asgreek">άπασαν</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their plan | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| death. | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| acquit | <big><span class="asgreek">αθωώσης</span></big> <sup><small><small>[[G6154]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their iniquities; | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| wipe away | <big><span class="asgreek">εξαλείψης</span></big> <sup><small><small>[[G1813]]</small></small></sup> |
-| come | <big><span class="asgreek">γενέσθω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their weakness | <big><span class="asgreek">ασθένεια</span></big> <sup><small><small>[[G0769]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you! | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of your rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deal | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them! | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| knew | **<big>[[G1097\|έγνως]]</big>** |
+| all together | **<big>[[G0537\|άπασαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their plan | **<big>[[G1012\|βουλήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| death. | **<big>[[G2288\|θάνατον]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| acquit | **<big>[[G6154\|αθωώσης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their iniquities; | **<big>[[G0093\|αδικίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their sins | **<big>[[G0266\|αμαρτίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of you | **<big>[[G1473\|σου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| wipe away | **<big>[[G1813\|εξαλείψης]]</big>** |
+| come | **<big>[[G1096\|γενέσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their weakness | **<big>[[G0769\|ασθένεια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you! | **<big>[[G1473\|σου]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρώ]]</big>** |
+| of your rage | **<big>[[G2372\|θυμού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| deal | **<big>[[G4160\|ποίησον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them! | **<big>[[G1473\|αυτοίς]]</big>** |
 [[Jer.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
 

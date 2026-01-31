@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎טְפַר‎</span></big> **ṭᵉphar** <small>*(tef-ar')*</small> ==**nail/claw**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from a root corresponding to <span class="ashebrew">‎צָפַר‎</span><sup><small>[[H6852]]</small></sup>, and meaning the same as <span class="ashebrew">‎צִפֹּרֶן‎</span><sup><small>[[H6856]]</small></sup></small>
+**<big><span class="asaramaic">‎טְפַר‎</span></big>** **ṭᵉphar** <small>*(tef-ar')*</small> ==**nail/claw**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from a root corresponding to **<big>[[H6852|‎צָפַר‎]]</big>**, and meaning the same as **<big>[[H6856|‎צִפֹּרֶן‎]]</big>**</small>
 
 $\quad$ nail.
 - ***a finger-nail***

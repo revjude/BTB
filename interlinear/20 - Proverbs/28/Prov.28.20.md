@@ -6,16 +6,16 @@ A faithful man will abound with blessings, but one eager to be rich will not go 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.19|<< Proverbs 28:19]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.21|Proverbs 28:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a person of  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faithfulness\<es>  | <span class="ashebrew"><big>אֱ֭מוּנוֹת </big></span><small><small><sup>[[H0530]]</sup></small></small> &#8207;| 'E.mu.not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] great of  | <span class="ashebrew"><big>רַב </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| rav- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blessings  | <span class="ashebrew"><big>בְּרָכ֑וֹת </big></span><small><small><sup>[[H1293]]</sup></small></small> &#8207;| be.ra.Khot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] hastens  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָ֥ץ </big></span><small><small><sup>[[H0213]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Atz <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gain riches  | <span class="ashebrew"><big>לְ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַעֲשִׁ֗יר </big></span><small><small><sup>[[H6238]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ha.'a.Shir <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will go unpunished  | <span class="ashebrew"><big>יִנָּקֶֽה </big></span><small><small><sup>[[H5352]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.na.Keh <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness\<es>  |**<big>&#8207;[[H0530\|אֱ֭מוּנוֹת]]&#8207; </big>**| 'E.mu.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] great of  |**<big>&#8207;[[H7227A\|רַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blessings  |**<big>&#8207;[[H1293\|בְּרָכ֑וֹת]]&#8207; </big>**| be.ra.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] hastens  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0213\|אָ֥ץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Atz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gain riches  |**<big>&#8207;[[H9005\|לְ֝]]&#8207;&#8207;[[H6238\|הַעֲשִׁ֗יר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.'a.Shir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go unpunished  |**<big>&#8207;[[H5352\|יִנָּקֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.na.Keh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.19|<< Proverbs 28:19]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.21|Proverbs 28:21 >>]]</td></tr></table>
 
 

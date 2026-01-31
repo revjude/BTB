@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָה‎</span></big> **mâh** <small>*(maw)*</small> ==**what?**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
-<small>or <span class="ashebrew">מַה</span> **mah** <small>*(mah)*</small>; or <span class="ashebrew">מָ</span> **mâ** <small>*(maw)*</small>; or <span class="ashebrew">מַ</span> **ma** <small>*(mah)*</small>; also <span class="ashebrew">מֶה</span> **meh** <small>*(meh)*</small>; a primitive particle</small>
+**<big><span class="ashebrew">‎מָה‎</span></big>** **mâh** <small>*(maw)*</small> ==**what?**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַה</span></big>** **mah** <small>*(mah)*</small>; or **<big><span class="ashebrew">מָ</span></big>** **mâ** <small>*(maw)*</small>; or **<big><span class="ashebrew">מַ</span></big>** **ma** <small>*(mah)*</small>; also **<big><span class="ashebrew">מֶה</span></big>** **meh** <small>*(meh)*</small>; a primitive particle</small>
 
 $\quad$ how (long, oft, (-soever)), (no-) thing, what (end, good, purpose, thing), whereby(-fore, -in, -to, -with), (for) why.
 - properly, interrogative ***what?*** (including how? why? when?)
@@ -28,4 +28,4 @@ $\quad$ $\quad$ **1c5)** until when?, how long?, upon what?, wherefore?
 indef pron
 **2)** anything, aught, what may
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴτημα</span><sup><small>[[G0155]]</small></sup> · <span class="asgreek">ἱκανός</span><sup><small>[[G2425]]</small></sup> · <span class="asgreek">ἱκανός</span><sup><small>[[G2425]]</small></sup> · <span class="asgreek">λίαν</span><sup><small>[[G3029]]</small></sup> · <span class="asgreek">ποῖος</span><sup><small>[[G4169]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup> · <span class="asgreek">λαμά</span><sup><small>[[G2982]]</small></sup>
+<small>See Greek: </small>**<big>[[G0155|αἴτημα]]</big>** · **<big>[[G2425|ἱκανός]]</big>** · **<big>[[G2425|ἱκανός]]</big>** · **<big>[[G3029|λίαν]]</big>** · **<big>[[G4169|ποῖος]]</big>** · **<big>[[G5101|τίς]]</big>** · **<big>[[G5101|τίς]]</big>** · **<big>[[G5101|τίς]]</big>** · **<big>[[G5101|τίς]]</big>** · **<big>[[G2982|λαμά]]</big>**

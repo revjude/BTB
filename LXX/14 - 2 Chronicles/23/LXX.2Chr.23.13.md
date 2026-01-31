@@ -7,68 +7,68 @@ And she looked, and, behold, the king stood at his pillar at the entering in, an
 And she looked and saw the king standing by his pillar at the entrance. The officers and trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets, while the singers with musical instruments were leading the praises. Then Athaliah tore her clothes and screamed, “Treason, treason!”<small><sub>**MT:**</sub></small>
 [[2Chr.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.12|<< 2 Chronicles 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.14|2 Chronicles 23:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she beheld, | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| stood | <big><span class="asgreek">ειστήκει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his station, | <big><span class="asgreek">στάσεως</span></big> <sup><small><small>[[G4714]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| entrance | <big><span class="asgreek">εισόδου</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
-| were the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets. | <big><span class="asgreek">σάλπιγγες</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| were around | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| were being glad | <big><span class="asgreek">ηυφραινόμενοι</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trumpeting | <big><span class="asgreek">σαλπίζοντες</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets, | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| singing | <big><span class="asgreek">άδοντες</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| instruments | <big><span class="asgreek">οργάνοις</span></big> <sup><small><small>[[G8545]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| odes, | <big><span class="asgreek">ωδής</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| singers | <big><span class="asgreek">ωδοί</span></big> <sup><small><small>[[G9808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ones singing | <big><span class="asgreek">υμνούντες</span></big> <sup><small><small>[[G5214]]</small></small></sup> |
-| praise. | <big><span class="asgreek">αίνον</span></big> <sup><small><small>[[G0136]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Athaliah tore | <big><span class="asgreek">διέρρηξε</span></big> <sup><small><small>[[G1284]]</small></small></sup> <big><span class="asgreek">Γοθολία</span></big> <sup><small><small>[[H6271]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her robe, | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| yelled | <big><span class="asgreek">εβόησεν</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Conspiracy, | <big><span class="asgreek">σύνδεσμος</span></big> <sup><small><small>[[G4886]]</small></small></sup> |
-| conspiracy. | <big><span class="asgreek">σύνδεσμος</span></big> <sup><small><small>[[G4886]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she beheld, | **<big>[[G1492\|είδε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| stood | **<big>[[G2476\|ειστήκει]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his station, | **<big>[[G4714\|στάσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| entrance | **<big>[[G1529\|εισόδου]]</big>** |
+| were the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| trumpets. | **<big>[[G4536\|σάλπιγγες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rulers | **<big>[[G0758\|άρχοντες]]</big>** |
+| were around | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king. | **<big>[[G0935\|βασιλέα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| were being glad | **<big>[[G2165\|ηυφραινόμενοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trumpeting | **<big>[[G4537\|σαλπίζοντες]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| trumpets, | **<big>[[G4536\|σάλπιγξι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| singing | **<big>[[G0103\|άδοντες]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| instruments | **<big>[[G8545\|οργάνοις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| odes, | **<big>[[G5603\|ωδής]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| singers | **<big>[[G9808\|ωδοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ones singing | **<big>[[G5214\|υμνούντες]]</big>** |
+| praise. | **<big>[[G0136\|αίνον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Athaliah tore | **<big>[[G1284\|διέρρηξε]]</big>** **<big>[[H6271\|Γοθολία]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her robe, | **<big>[[G4749\|στολήν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| yelled | **<big>[[G0994\|εβόησεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| Conspiracy, | **<big>[[G4886\|σύνδεσμος]]</big>** |
+| conspiracy. | **<big>[[G4886\|σύνδεσμος]]</big>** |
 [[2Chr.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.12|<< 2 Chronicles 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.14|2 Chronicles 23:14 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָהָר‎</span></big> **nâhâr** <small>*(naw-hawr')*</small> ==**River**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָהַר‎</span><sup><small>[[H5102]]</small></sup></small>
+**<big><span class="ashebrew">‎נָהָר‎</span></big>** **nâhâr** <small>*(naw-hawr')*</small> ==**River**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5102|‎נָהַר‎]]</big>**</small>
 
 $\quad$ flood, river.
 - ***a stream*** (including the sea
@@ -10,4 +10,4 @@ $\quad$ flood, river.
 $\quad$ **1a)** stream, river
 $\quad$ **1b)** (underground) streams
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ποταμός</span><sup><small>[[G4215]]</small></sup>
+<small>See Greek: </small>**<big>[[G4215|ποταμός]]</big>**

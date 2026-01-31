@@ -10,23 +10,23 @@ In that day, saith the LORD, will I assemble her that halteth, and I will gather
 “On that day,” declares the LORD, “I will gather the lame; I will assemble the outcast, even those whom I have afflicted.<small><sub>**MT:**</sub></small>
 [[Mic.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.7|Micah 4:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I will gather together | <big><span class="asgreek">συνάξω</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| \[her\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being broken, | <big><span class="asgreek">συντετριμμένην</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[her\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being thrust away. | <big><span class="asgreek">απωσμένην</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| I will take in | <big><span class="asgreek">εισδέξομαι</span></big> <sup><small><small>[[G1523]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I thrusted away. | <big><span class="asgreek">απωσάμην</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| I will gather together | **<big>[[G4863\|συνάξω]]</big>** |
+| \[her\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| being broken, | **<big>[[G4937\|συντετριμμένην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[her\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| being thrust away. | **<big>[[G0683\|απωσμένην]]</big>** |
+| I will take in | **<big>[[G1523\|εισδέξομαι]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| I thrusted away. | **<big>[[G0683\|απωσάμην]]</big>** |
 [[Mic.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.7|Micah 4:7 >>]]</td></tr></table>
 
 

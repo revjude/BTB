@@ -7,28 +7,28 @@ And I saw in a vision; and it came to pass, when I saw, that I [was] at Shushan 
 And in the vision I saw myself in the citadel of Susa, in the province of Elam. I saw in the vision that I was beside the Ulai Canal.<small><sub>**MT:**</sub></small>
 [[Dan.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.1|<< Daniel 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.3|Daniel 8:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Sushan | <big><span class="asgreek">Σούσοις</span></big> <sup><small><small>[[H7800]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| palace, | <big><span class="asgreek">βάρει</span></big> <sup><small><small>[[G6654]]</small></small></sup> |
-| the one which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] region | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of Elam; | <big><span class="asgreek">Αιλάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a vision, | <big><span class="asgreek">οράματι</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ulai. | <big><span class="asgreek">Ουλαι</span></big> <sup><small><small>[[H0195]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Sushan | **<big>[[H7800\|Σούσοις]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| palace, | **<big>[[G6654\|βάρει]]</big>** |
+| the one which | **<big>[[G3588\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] region | **<big>[[G5561\|χώρα]]</big>** |
+| of Elam; | **<big>[[G1639\|Αιλάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a vision, | **<big>[[G3705\|οράματι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Ulai. | **<big>[[H0195\|Ουλαι]]</big>** |
 [[Dan.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.1|<< Daniel 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.3|Daniel 8:3 >>]]</td></tr></table>
 
 

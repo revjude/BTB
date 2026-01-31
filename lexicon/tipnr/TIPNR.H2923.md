@@ -1,8 +1,8 @@
 <small>*Telaim • Place where Saul gathered his army*</small>
 
 <span class='tipnrhighlight'>Telaim</span>, a place where Saul gathered his army before attacking the Amalekites \(1 Sam. 15:4\).
-- A location near Beersheba<[[H0884]]> only mentioned at [[1Sam.15.4|1Sa.15.4]]; 
-- only referred to as Telaim<[[H2923]]> \(<span class='tipnrLangHebrew'>ט</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Beersheba **<big>[[H0884|בְּאֵר שֶׁבַע]]</big>** only mentioned at [[1Sam.15.4|1Sa.15.4]]; 
+- only referred to as Telaim **<big>[[H2923|טְלָאִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.244952,34.840888&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Telaim is mentioned in [[1Sam.15.4|1 Samuel 15:4]] as the place where King Saul 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Telaim | [<span class='tipnrLangHebrew'>ט</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2923) <small>*Hebrew*</small> | 1x | [1Sa.15.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Telaim\*\|reference=1Sa.15.4) |
-All Strong's for **Telaim**: \[[[H2923]]\]
+| Telaim | [<span class='tipnrLangHebrew'>ט</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2923) | 1x | [1Sa.15.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Telaim\*\|reference=1Sa.15.4) |
+All entries for **Telaim**:  **<big>[[H2923|טְלָאִים]]</big>**

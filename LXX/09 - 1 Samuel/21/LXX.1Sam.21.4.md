@@ -7,35 +7,35 @@ And the priest answered David, and said, [There is] no common bread under mine h
 “There is no common bread on hand,” the priest replied, “but there is some consecrated bread—provided that the young men have kept themselves from women.”<small><sub>**MT:**</sub></small>
 [[1Sam.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.3|<< 1 Samuel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.5|1 Samuel 21:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| responded | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| There are no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| profane | <big><span class="asgreek">βέβηλοι</span></big> <sup><small><small>[[G0952]]</small></small></sup> |
-| bread \[loaves\] | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| in | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand, | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| bread \[loaves\] | <big><span class="asgreek">άρτοι</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιοι</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| there are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| were having been kept | <big><span class="asgreek">πεφυλαγμένα</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παιδάρια</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a woman, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall eat. | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| responded | **<big>[[G0611\|απεκρίθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| There are no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισίν]]</big>** |
+| profane | **<big>[[G0952\|βέβηλοι]]</big>** |
+| bread \[loaves\] | **<big>[[G0740\|άρτοι]]</big>** |
+| in | **<big>[[G5259\|υπό]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my hand, | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| but | **<big>[[G3754\|ότι]]</big>** |
+| only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| bread \[loaves\] | **<big>[[G0740\|άρτοι]]</big>** |
+| holy | **<big>[[G0039\|άγιοι]]</big>** |
+| there are | **<big>[[G1510\|εισιν]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| were having been kept | **<big>[[G5442\|πεφυλαγμένα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| servants | **<big>[[G3808\|παιδάρια]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a woman, | **<big>[[G1135\|γυναικός]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| they shall eat. | **<big>[[G2068\|φάγονται]]</big>** |
 [[1Sam.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.3|<< 1 Samuel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.5|1 Samuel 21:5 >>]]</td></tr></table>
 
 

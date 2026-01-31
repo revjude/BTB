@@ -7,22 +7,22 @@ The meek also shall increase [their] joy in the LORD, and the poor among men sha
 The humble will increase their joy in the LORD, and the poor among men will rejoice in the Holy One of Israel.<small><sub>**MT:**</sub></small>
 [[Isa.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.18|<< Isaiah 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.20|Isaiah 29:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| \[the\] poor | <big><span class="asgreek">πτωχοί</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| despairing | <big><span class="asgreek">απηλπισμέννοι</span></big> <sup><small><small>[[G0560]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| shall be filled up | <big><span class="asgreek">εμπλησθήσονται</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| with gladness. | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall exult | **<big>[[G0021\|αγαλλιάσονται]]</big>** |
+| \[the\] poor | **<big>[[G4434\|πτωχοί]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| despairing | **<big>[[G0560\|απηλπισμέννοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| shall be filled up | **<big>[[G1705\|εμπλησθήσονται]]</big>** |
+| with gladness. | **<big>[[G2167\|ευφροσύνης]]</big>** |
 [[Isa.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.18|<< Isaiah 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.20|Isaiah 29:20 >>]]</td></tr></table>
 
 

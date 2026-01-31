@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎παρά‎</span></big> **pará** <small>*(par-ah')*</small> ==**from/with/beside**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
+**<big><span class="asgreek">‎παρά‎</span></big>** **pará** <small>*(par-ah')*</small> ==**from/with/beside**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
 <small>a primary preposition</small>
 
 $\quad$ above, against, among, at, before, by, contrary to, X friend, from, + give (such things as they), + that (she) had, X his, in, more than, nigh unto, (out) of, past, save, side…by, in the sight of, than, (there-)fore, with.

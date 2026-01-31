@@ -1,5 +1,4 @@
-<span class="ashebrew">‎אֲרַמִּי‎</span> <small>***(a.ram.mi)***</small> ==**Edomite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-spelling of: <small>[[H0123G]]</small> 
+<small>spelling of:</small> <small>**<big>[[H0123G|אֱדֹם]]</big>**</small> 
 
 - Someone from Edom
-- Another spelling of <i>e.dom</i> (<span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Edom" [[H0123]])
+- Another spelling of <i>e.dom</i> (<span class='ashebrew'>‎א‎</span>ֱ<span class='ashebrew'>‎דו‎</span>ֹ<span class='ashebrew'>‎ם‎</span> "Edom" **<big>[[H0123|אֱדֹם]]</big>**)

@@ -10,34 +10,34 @@ But if by turning, you should turn, you and  your children, from me and  my orde
 But if indeed you or your sons turn away from following Me and do not keep the commandments and statutes I have set before you, and if you go off to serve and worship other gods,<small><sub>**MT:**</sub></small>
 [[1Kgs.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.5|<< 1 Kings 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.7|1 Kings 9:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| by turning, | <big><span class="asgreek">αποστραφέντες</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you should turn, | <big><span class="asgreek">αποστραφήτε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your children, | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my orders | <big><span class="asgreek">προστάγματά</span></big> <sup><small><small>[[G8943]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I put | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as to not keep, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">φυλάξητε</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should go | <big><span class="asgreek">πορευθήτε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should serve | <big><span class="asgreek">δουλεύσητε</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| other | <big><span class="asgreek">ετέροις</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should do obeisance to | <big><span class="asgreek">προσκυνήσητε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| by turning, | **<big>[[G0654\|αποστραφέντες]]</big>** |
+| you should turn, | **<big>[[G0654\|αποστραφήτε]]</big>** |
+| you | **<big>[[G1473\|υμείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your children, | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my orders | **<big>[[G8943\|προστάγματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| I put | **<big>[[G1325\|έδωκα]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| so as to not keep, | **<big>[[G3361\|μη]]</big>** **<big>[[G5442\|φυλάξητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you should go | **<big>[[G4198\|πορευθήτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should serve | **<big>[[G1398\|δουλεύσητε]]</big>** |
+| gods | **<big>[[G2316\|θεοίς]]</big>** |
+| other | **<big>[[G2087\|ετέροις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should do obeisance to | **<big>[[G4352\|προσκυνήσητε]]</big>** |
+| them; | **<big>[[G1473\|αυτοίς]]</big>** |
 [[1Kgs.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.5|<< 1 Kings 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.7|1 Kings 9:7 >>]]</td></tr></table>
 
 

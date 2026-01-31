@@ -7,20 +7,20 @@ If thou wilt send our brother with us, we will go down and buy thee food:
 If you will send our brother with us, we will go down and buy food for you.<small><sub>**MT:**</sub></small>
 [[Gen.43.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.3|<< Genesis 43:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.5|Genesis 43:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-|  | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| you send | <big><span class="asgreek">αποστέλλης</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our brother | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we will go down, | <big><span class="asgreek">καταβησόμεθα</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we will buy | <big><span class="asgreek">αγοράσομέν</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
-| foods for you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+|  | **<big>[[G3303\|μεν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| you send | **<big>[[G0649\|αποστέλλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| our brother | **<big>[[G0080\|αδελφόν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| we will go down, | **<big>[[G2597\|καταβησόμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we will buy | **<big>[[G0059\|αγοράσομέν]]</big>** |
+| foods for you. | **<big>[[G1473\|σοι]]</big>** **<big>[[G1033\|βρώματα]]</big>** |
 [[Gen.43.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.3|<< Genesis 43:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.5|Genesis 43:5 >>]]</td></tr></table>
 
 

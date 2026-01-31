@@ -1,4 +1,4 @@
-<small>Also see: [[H1193]]</small>
+<small>Also see: **<big>[[H1193|בַּעַל תָּמָר]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎תָּמָר‎</span><sub>25</sub> **proper name** 
 

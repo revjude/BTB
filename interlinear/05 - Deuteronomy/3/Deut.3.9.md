@@ -6,16 +6,16 @@ which the Sidonians call Sirion but the Amorites call Senir—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.8|<< Deuteronomy 3:8]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.10|Deuteronomy 3:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] Sidonians  | <span class="ashebrew"><big>צִידֹנִ֛ים </big></span><small><small><sup>[[H6722]]</sup></small></small> &#8207;| tzi.do.Nim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they call  | <span class="ashebrew"><big>יִקְרְא֥וּ </big></span><small><small><sup>[[H7121H]]</sup></small></small> &#8207;| yik.re.'U <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Hermon  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חֶרְמ֖וֹן </big></span><small><small><sup>[[H2768]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> cher.Mon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sirion  | <span class="ashebrew"><big>שִׂרְיֹ֑ן </big></span><small><small><sup>[[H8303]]</sup></small></small> &#8207;| sir.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the Amorite[s]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הָ֣ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֱמֹרִ֔י </big></span><small><small><sup>[[H0567]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ha. <small><sup>[[HTd]]</sup></small> 'e.mo.Ri <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they call  | <span class="ashebrew"><big>יִקְרְאוּ </big></span><small><small><sup>[[H7121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yik.re.'u- <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> it  | <span class="ashebrew"><big>ל֖ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Senir  | <span class="ashebrew"><big>שְׂנִֽיר </big></span><small><small><sup>[[H8149]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| se.Nir <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Sidonians  |**<big>&#8207;[[H6722\|צִידֹנִ֛ים]]&#8207; </big>**| tzi.do.Nim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they call  |**<big>&#8207;[[H7121H\|יִקְרְא֥וּ]]&#8207; </big>**| yik.re.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Hermon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2768\|חֶרְמ֖וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cher.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sirion  |**<big>&#8207;[[H8303\|שִׂרְיֹ֑ן]]&#8207; </big>**| sir.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Amorite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0567\|אֱמֹרִ֔י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they call  |**<big>&#8207;[[H7121H\|יִקְרְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yik.re.'u-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> it  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Senir  |**<big>&#8207;[[H8149\|שְׂנִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| se.Nir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.8|<< Deuteronomy 3:8]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.10|Deuteronomy 3:10 >>]]</td></tr></table>
 
 

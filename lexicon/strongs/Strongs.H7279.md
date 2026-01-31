@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָגַן‎</span></big> **râgan** <small>*(raw-gan')*</small> ==**to grumble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָגַן‎</span></big>** **râgan** <small>*(raw-gan')*</small> ==**to grumble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ murmur.
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Niphal)
 $\quad$ $\quad$ **1b1)** to murmur
 $\quad$ $\quad$ **1b2)** backbiter (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γογγύζω</span><sup><small>[[G1111]]</small></sup> · <span class="asgreek">διαγογγύζω</span><sup><small>[[G1234]]</small></sup>
+<small>See Greek: </small>**<big>[[G1111|γογγύζω]]</big>** · **<big>[[G1234|διαγογγύζω]]</big>**

@@ -6,15 +6,15 @@ These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.25|<< Genesis 36:25]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.27|Genesis 36:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and these  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֖לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dishan  | <span class="ashebrew"><big>דִישָׁ֑ן </big></span><small><small><sup>[[H1789H]]</sup></small></small> &#8207;| di.Shan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hemdan  | <span class="ashebrew"><big>חֶמְדָּ֥ן </big></span><small><small><sup>[[H2533]]</sup></small></small> &#8207;| chem.Dan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Eshban  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶשְׁבָּ֖ן </big></span><small><small><sup>[[H0790]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'esh.Ban <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ithran  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִתְרָ֥ן </big></span><small><small><sup>[[H3506G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yit.Ran <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Keran  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְרָֽן </big></span><small><small><sup>[[H3763]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe.Ran <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dishan  |**<big>&#8207;[[H1789H\|דִישָׁ֑ן]]&#8207; </big>**| di.Shan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hemdan  |**<big>&#8207;[[H2533\|חֶמְדָּ֥ן]]&#8207; </big>**| chem.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eshban  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0790\|אֶשְׁבָּ֖ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'esh.Ban<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ithran  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3506G\|יִתְרָ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yit.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Keran  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3763\|כְרָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.25|<< Genesis 36:25]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.27|Genesis 36:27 >>]]</td></tr></table>
 
 

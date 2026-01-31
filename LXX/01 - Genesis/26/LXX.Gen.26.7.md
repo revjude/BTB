@@ -7,41 +7,41 @@ And the men of the place asked [him] of his wife; and he said, She [is] my siste
 But when the men of that place asked about his wife, he said, “She is my sister.” For he was afraid to say, “She is my wife,” since he thought to himself, “The men of this place will kill me on account of Rebekah, because she is so beautiful.”<small><sub>**MT:**</sub></small>
 [[Gen.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| asked | <big><span class="asgreek">επηρώτησαν</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Rebekah | <big><span class="asgreek">Ρεβέκκας</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife. | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
-| She is my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for he feared | <big><span class="asgreek">εφοβήθη</span></big> <sup><small><small>[[G5399]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| to say | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| She is my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μη ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| should kill | <big><span class="asgreek">αποκτείνωσιν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| on account of | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Rebekah; | <big><span class="asgreek">Ρεβέκκας</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραία</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| her | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appearance | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| asked | **<big>[[G1905\|επηρώτησαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Rebekah | **<big>[[G4479\|Ρεβέκκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his wife. | **<big>[[G1135\|γυναικός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| sister | **<big>[[G0079\|αδελφή]]</big>** |
+| She is my | **<big>[[G1473\|μου]]</big>** **<big>[[G1510\|εστίν]]</big>** |
+| for he feared | **<big>[[G5399\|εφοβήθη]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| to say | **<big>[[G2036\|ειπείν]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| She is my | **<big>[[G1473\|μου]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| lest at any time | **<big>[[G3379\|μη ποτε]]</big>** |
+| should kill | **<big>[[G0615\|αποκτείνωσιν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| place | **<big>[[G5117\|τόπου]]</big>** |
+| on account of | **<big>[[G4012\|περί]]</big>** |
+| Rebekah; | **<big>[[G4479\|Ρεβέκκας]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| beautiful | **<big>[[G5611\|ωραία]]</big>** |
+| her | **<big>[[G3588\|τη]]</big>** |
+| appearance | **<big>[[G3799\|όψει]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
 [[Gen.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
 
 

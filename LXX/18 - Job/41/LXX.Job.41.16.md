@@ -7,16 +7,16 @@ One is so near to another, that no air can come between them.
 One scale is so near to another that no air can pass between them.<small><sub>**MT:**</sub></small>
 [[Job.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.15|<< Job 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.17|Job 41:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| One | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| cleaves together, | <big><span class="asgreek">κολλώνται</span></big> <sup><small><small>[[G2853]]</small></small></sup> |
-| and wind | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| goes through | <big><span class="asgreek">διέλθη</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| One | **<big>[[G1520\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of one | **<big>[[G1520\|ενός]]</big>** |
+| cleaves together, | **<big>[[G2853\|κολλώνται]]</big>** |
+| and wind | **<big>[[G4151\|πνεύμα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| goes through | **<big>[[G1330\|διέλθη]]</big>** |
+| it; | **<big>[[G1473\|αυτόν]]</big>** |
 [[Job.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.15|<< Job 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.17|Job 41:17 >>]]</td></tr></table>
 
 

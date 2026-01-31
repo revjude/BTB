@@ -6,17 +6,17 @@ Cursed is the one who is remiss in doing the work of the LORD, and cursed is he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.9|<< Jeremiah 48:9]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.11|Jeremiah 48:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] cursed  | <span class="ashebrew"><big>אָר֗וּר </big></span><small><small><sup>[[H0779]]</sup></small></small> &#8207;| 'a.Rur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] does  | <span class="ashebrew"><big>עֹשֶׂ֛ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| 'o.Seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] work of  | <span class="ashebrew"><big>מְלֶ֥אכֶת </big></span><small><small><sup>[[H4399]]</sup></small></small> &#8207;| me.Le.khet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| slackness  | <span class="ashebrew"><big>רְמִיָּ֑ה </big></span><small><small><sup>[[H7423B]]</sup></small></small> &#8207;| re.mi.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is] cursed  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָר֕וּר </big></span><small><small><sup>[[H0779]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.Rur <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] withholds  | <span class="ashebrew"><big>מֹנֵ֥עַ </big></span><small><small><sup>[[H4513]]</sup></small></small> &#8207;| mo.Ne.a' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sword his  | <span class="ashebrew"><big>חַרְבּ֖ </big></span><small><small><sup>[[H2719]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| char.B <small><sup>[[HNcfsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from blood  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>דָּֽם </big></span><small><small><sup>[[H1818]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] cursed  |**<big>&#8207;[[H0779\|אָר֗וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] does  |**<big>&#8207;[[H6213A\|עֹשֶׂ֛ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] work of  |**<big>&#8207;[[H4399\|מְלֶ֥אכֶת]]&#8207; </big>**| me.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| slackness  |**<big>&#8207;[[H7423B\|רְמִיָּ֑ה]]&#8207; </big>**| re.mi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] cursed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0779\|אָר֕וּר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] withholds  |**<big>&#8207;[[H4513\|מֹנֵ֥עַ]]&#8207; </big>**| mo.Ne.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sword his  |**<big>&#8207;[[H2719\|חַרְבּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| char.B<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from blood  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1818\|דָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.9|<< Jeremiah 48:9]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.11|Jeremiah 48:11 >>]]</td></tr></table>
 
 

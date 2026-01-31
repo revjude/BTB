@@ -6,20 +6,20 @@ Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.30|Job 6:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| turn back  | <span class="ashebrew"><big>שֻֽׁבוּ </big></span><small><small><sup>[[H7725O]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| shu.vu- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| please  | <span class="ashebrew"><big>נָ֭א </big></span><small><small><sup>[[H4994]]</sup></small></small> &#8207;| na' <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it be  | <span class="ashebrew"><big>תְּהִ֣י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| te.Hi <small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| injustice  | <span class="ashebrew"><big>עַוְלָ֑ה </big></span><small><small><sup>[[H5766B]]</sup></small></small> &#8207;| 'av.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and turn back  [^2] | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שׁ֥וּבוּ </big></span><small><small><sup>[[H7725I]]</sup></small></small> &#8207;[^3] | ve. <small><sup>[[HC]]</sup></small> shu.vi <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| still  | <span class="ashebrew"><big>ע֝וֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteousness my  | <span class="ashebrew"><big>צִדְקִ </big></span><small><small><sup>[[H6664G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tzid.k <small><sup>[[HNcmsc]]</sup></small> i- <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in it  | <span class="ashebrew"><big>בָֽ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Va <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| turn back  |**<big>&#8207;[[H7725O\|שֻֽׁבוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shu.vu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֭א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it be  |**<big>&#8207;[[H1961\|תְּהִ֣י]]&#8207; </big>**| te.Hi<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| injustice  |**<big>&#8207;[[H5766B\|עַוְלָ֑ה]]&#8207; </big>**| 'av.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and turn back  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725I\|שׁ֥וּבוּ]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| still  |**<big>&#8207;[[H5750\|ע֝וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness my  |**<big>&#8207;[[H6664G\|צִדְקִ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tzid.k<small><sup>[[HNcmsc]]</sup></small> i-<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.30|Job 6:30 >>]]</td></tr></table>
 
-[^1]: ==K==: **and turn back ** | <small><sup>[[H7725I]]</sup></small> <span class="ashebrew"><big>שֻׁבִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> 
-[^2]: ==K==: **and turn back ** | <small><sup>[[H7725I]]</sup></small> <span class="ashebrew"><big>שֻׁבִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> 
+[^1]: ==K==: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> 
+[^2]: ==K==: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>וְשֻׁ֥ביּ</big></span>**
 

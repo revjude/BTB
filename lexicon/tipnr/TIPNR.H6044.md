@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Anim</span>, a town allotted to Judah in the hill country.
 - A location only mentioned at [[Josh.15.50|Jos.15.50]]; 
-- only referred to as Anim<[[H6044]]> \(<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Anim **<big>[[H6044|עָנִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.373521,35.074552&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Apart from its mention in the list of Judah's cities, no other information about
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Anim | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6044) <small>*Hebrew*</small> | 1x | [Jos.15.50 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anim\*\|reference=Jos.15.50) |
-All Strong's for **Anim**: \[[[H6044]]\]
+| Anim | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6044) | 1x | [Jos.15.50 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anim\*\|reference=Jos.15.50) |
+All entries for **Anim**:  **<big>[[H6044|עָנִים]]</big>**

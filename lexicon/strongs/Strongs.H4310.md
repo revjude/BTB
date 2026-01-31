@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִי‎</span></big> **mîy** <small>*(me)*</small> ==**who?**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
-<small>an interrogative pronoun of persons, as <span class="ashebrew">‎מָה‎</span><sup><small>[[H4100]]</small></sup> is of things,</small>
+**<big><span class="ashebrew">‎מִי‎</span></big>** **mîy** <small>*(me)*</small> ==**who?**==  <sup><small>[[TEHMC#H:Intg|H:Intg]]</small></sup> 
+<small>an interrogative pronoun of persons, as **<big>[[H4100|‎מָה‎]]</big>** is of things,</small>
 
 $\quad$ any (man), [idiom] he, [idiom] him, [phrase] O that! what, which, who(-m, -se, -soever), [phrase] would to God.
 - ***who?*** (occasionally, by a peculiar idiom, of things)
@@ -8,4 +8,4 @@ $\quad$ any (man), [idiom] he, [idiom] him, [phrase] O that! what, which, who(-m
 
 **1)** who?, whose?, whom?, would that, whoever, whosoever
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θάλασσα</span><sup><small>[[G2281]]</small></sup> · <span class="asgreek">κῦμα</span><sup><small>[[G2949]]</small></sup> · <span class="asgreek">ὀφείλω</span><sup><small>[[G3784]]</small></sup> · <span class="asgreek">ὀφείλω</span><sup><small>[[G3784]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup>
+<small>See Greek: </small>**<big>[[G2281|θάλασσα]]</big>** · **<big>[[G2949|κῦμα]]</big>** · **<big>[[G3784|ὀφείλω]]</big>** · **<big>[[G3784|ὀφείλω]]</big>** · **<big>[[G5101|τίς]]</big>**

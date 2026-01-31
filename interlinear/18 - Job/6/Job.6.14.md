@@ -6,14 +6,14 @@ A despairing man should have the kindness of his friend, even if he forsakes the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.13|<< Job 6:13]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.15|Job 6:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [belongs] to \<the> despairing [person]  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָּ֣ס </big></span><small><small><sup>[[H4523]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Mas <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from friend his  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רֵעֵ֣ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> re.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| loyalty  | <span class="ashebrew"><big>חָ֑סֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> &#8207;| Cha.sed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] fear of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִרְאַ֖ת </big></span><small><small><sup>[[H3374]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yir.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Almighty  | <span class="ashebrew"><big>שַׁדַּ֣י </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will forsake  | <span class="ashebrew"><big>יַעֲזֽוֹב </big></span><small><small><sup>[[H5800A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.'a.Zov <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to \<the> despairing [person]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4523\|מָּ֣ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Mas<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from friend his  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7453\|רֵעֵ֣]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loyalty  |**<big>&#8207;[[H2617A\|חָ֑סֶד]]&#8207; </big>**| Cha.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fear of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3374\|יִרְאַ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Almighty  |**<big>&#8207;[[H7706\|שַׁדַּ֣י]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will forsake  |**<big>&#8207;[[H5800A\|יַעֲזֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Zov<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.13|<< Job 6:13]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.15|Job 6:15 >>]]</td></tr></table>
 
 

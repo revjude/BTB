@@ -7,36 +7,36 @@ Thou shalt not be joined with them in burial, because thou hast destroyed thy la
 You will not join them in burial, since you have destroyed your land and slaughtered your own people. The offspring of the wicked will never again be mentioned.<small><sub>**MT:**</sub></small>
 [[Isa.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| being befouled | <big><span class="asgreek">πεφυρμένον</span></big> <sup><small><small>[[G9683]]</small></small></sup> |
-| shall not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| clean, | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| not even | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| shall you be | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| clean; | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you destroyed | <big><span class="asgreek">απώλεσας</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| killed | <big><span class="asgreek">απέκτεινας</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you abide | <big><span class="asgreek">μείνης</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| of time -- | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| O evil | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| In which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| a garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| blood | **<big>[[G0129\|αίματι]]</big>** |
+| being befouled | **<big>[[G9683\|πεφυρμένον]]</big>** |
+| shall not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| clean, | **<big>[[G2513\|καθαρόν]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| not even | **<big>[[G3761\|ουδέ]]</big>** |
+| shall you be | **<big>[[G1473\|συ]]</big>** **<big>[[G1510\|έση]]</big>** |
+| clean; | **<big>[[G2513\|καθαρός]]</big>** |
+| because | **<big>[[G1360\|διότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my land | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you destroyed | **<big>[[G0622\|απώλεσας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| killed | **<big>[[G0615\|απέκτεινας]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you abide | **<big>[[G3306\|μείνης]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| of time -- | **<big>[[G5550\|χρόνον]]</big>** |
+| seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| O evil | **<big>[[G4190\|πονηρόν]]</big>** |
 [[Isa.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 
 

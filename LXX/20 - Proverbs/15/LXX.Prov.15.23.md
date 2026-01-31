@@ -7,21 +7,21 @@ A man hath joy by the answer of his mouth: and a word [spoken] in due season, ho
 A man takes joy in a fitting reply—and how good is a timely word!<small><sub>**MT:**</sub></small>
 [[Prov.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.22|<< Proverbs 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.24|Proverbs 15:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[for\] in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| obey | <big><span class="asgreek">υπακούση</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| an evil man | <big><span class="asgreek">κακός</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| it; | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδε μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| shall he say | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| timely | <big><span class="asgreek">καίριόν</span></big> <sup><small><small>[[G7770]]</small></small></sup> |
-| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| even \[for\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| common | <big><span class="asgreek">κοινώ</span></big> <sup><small><small>[[G2839]]</small></small></sup> |
+| \[for\] in no way | **<big>[[G3364\|ου μη]]</big>** |
+| obey | **<big>[[G5219\|υπακούση]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| an evil man | **<big>[[G2556\|κακός]]</big>** |
+| it; | **<big>[[G1473\|αυτή]]</big>** |
+| nor | **<big>[[G8565\|ουδε μη]]</big>** |
+| shall he say | **<big>[[G2036\|είπη]]</big>** |
+| timely | **<big>[[G7770\|καίριόν]]</big>** |
+| anything | **<big>[[G5100\|τι]]</big>** |
+| even \[for\] | **<big>[[G2532\|και]]</big>** |
+| good | **<big>[[G2570\|καλόν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| common | **<big>[[G2839\|κοινώ]]</big>** |
 [[Prov.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.22|<< Proverbs 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.24|Proverbs 15:24 >>]]</td></tr></table>
 
 

@@ -6,20 +6,20 @@ The bulrushes by the Nile, by the mouth of the river, and all the fields sown al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.6|<< Isaiah 19:6]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.8|Isaiah 19:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| reeds  | <span class="ashebrew"><big>עָר֥וֹת </big></span><small><small><sup>[[H6169]]</sup></small></small> &#8207;| a.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] River  | <span class="ashebrew"><big>יְא֖וֹר </big></span><small><small><sup>[[H2975G]]</sup></small></small> &#8207;| ye.'or <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mouth of  | <span class="ashebrew"><big>פִּ֣י </big></span><small><small><sup>[[H6310H]]</sup></small></small> &#8207;| pi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] River  | <span class="ashebrew"><big>יְא֑וֹר </big></span><small><small><sup>[[H2975G]]</sup></small></small> &#8207;| ye.'or <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֹל֙ </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sown land of  | <span class="ashebrew"><big>מִזְרַ֣ע </big></span><small><small><sup>[[H4218]]</sup></small></small> &#8207;| miz.Ra' <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] River  | <span class="ashebrew"><big>יְא֔וֹר </big></span><small><small><sup>[[H2975G]]</sup></small></small> &#8207;| ye.'or <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be dry  | <span class="ashebrew"><big>יִיבַ֥שׁ </big></span><small><small><sup>[[H3001]]</sup></small></small> &#8207;| yi.Vash <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be driven about  | <span class="ashebrew"><big>נִדַּ֖ף </big></span><small><small><sup>[[H5086]]</sup></small></small> &#8207;| ni.Daf <small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not [will be] it  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵינֶֽ </big></span><small><small><sup>[[H0369]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9043]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ei.Ne. <small><sup>[[HNcmsc]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reeds  |**<big>&#8207;[[H6169\|עָר֥וֹת]]&#8207; </big>**| a.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] River  |**<big>&#8207;[[H2975G\|יְא֖וֹר]]&#8207; </big>**| ye.'or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  |**<big>&#8207;[[H6310H\|פִּ֣י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] River  |**<big>&#8207;[[H2975G\|יְא֑וֹר]]&#8207; </big>**| ye.'or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sown land of  |**<big>&#8207;[[H4218\|מִזְרַ֣ע]]&#8207; </big>**| miz.Ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] River  |**<big>&#8207;[[H2975G\|יְא֔וֹר]]&#8207; </big>**| ye.'or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be dry  |**<big>&#8207;[[H3001\|יִיבַ֥שׁ]]&#8207; </big>**| yi.Vash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be driven about  |**<big>&#8207;[[H5086\|נִדַּ֖ף]]&#8207; </big>**| ni.Daf<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [will be] it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.6|<< Isaiah 19:6]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.8|Isaiah 19:8 >>]]</td></tr></table>
 
 

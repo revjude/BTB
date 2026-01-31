@@ -7,24 +7,24 @@ O thou sword of the LORD, how long [will it be] ere thou be quiet? put up thysel
 ‘Alas, O sword of the LORD, how long until you rest? Return to your sheath; cease and be still!’<small><sub>**MT:**</sub></small>
 [[Jer.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.5|<< Jeremiah 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.7|Jeremiah 47:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| How long | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will you smite, | <big><span class="asgreek">κόψεις</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| sword | <big><span class="asgreek">μάχαιρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| when | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be still? | <big><span class="asgreek">ησυχάσεις</span></big> <sup><small><small>[[G2270]]</small></small></sup> |
-| Restore it | <big><span class="asgreek">αποκατάστηθι</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sheath! | <big><span class="asgreek">κολεόν</span></big> <sup><small><small>[[G8051]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Cause it to rest | <big><span class="asgreek">ανάπαυσαι</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| be lifted away! | <big><span class="asgreek">επάρθητι</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
+| How long | **<big>[[G2193\|έως]]</big>** **<big>[[G5100\|τίνος]]</big>** |
+| will you smite, | **<big>[[G2875\|κόψεις]]</big>** |
+| sword | **<big>[[G3162\|μάχαιρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
+| Until | **<big>[[G2193\|έως]]</big>** |
+| when | **<big>[[G5100\|τίνος]]</big>** |
+| will you not | **<big>[[G3756\|ουκ]]</big>** |
+| be still? | **<big>[[G2270\|ησυχάσεις]]</big>** |
+| Restore it | **<big>[[G0600\|αποκατάστηθι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your sheath! | **<big>[[G8051\|κολεόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Cause it to rest | **<big>[[G0373\|ανάπαυσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| be lifted away! | **<big>[[G1869\|επάρθητι]]</big>** |
 [[Jer.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.5|<< Jeremiah 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.7|Jeremiah 47:7 >>]]</td></tr></table>
 
 

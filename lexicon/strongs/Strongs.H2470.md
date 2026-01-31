@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָלָה‎</span></big> **châlâh** <small>*(khaw-law')*</small> ==**be weak: weak**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎חוּל‎</span><sup><small>[[H2342]]</small></sup>, <span class="ashebrew">‎חָלָה‎</span><sup><small>[[H2470]]</small></sup>, <span class="ashebrew">‎חָלַל‎</span><sup><small>[[H2490]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָלָה‎</span></big>** **châlâh** <small>*(khaw-law')*</small> ==**be weak: weak**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2342|‎חוּל‎]]</big>**, **<big>[[H2470|‎חָלָה‎]]</big>**, **<big>[[H2490|‎חָלַל‎]]</big>**)</small>
 
 $\quad$ beseech, (be) diseased, (put to) grief, be grieved, (be) grievous, infirmity, intreat, lay to, put to pain, [idiom] pray, make prayer, be (fall, make) sick, sore, be sorry, make suit ([idiom] supplication), woman in travail, be (become) weak, be wounded.
 - properly, ***to be rubbed*** or ***worn***
@@ -28,4 +28,4 @@ $\quad$ **1g)** (Hophal)
 $\quad$ $\quad$ **1g1)** to be made sick
 $\quad$ $\quad$ **1g2)** to be wounded
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποστέλλω</span><sup><small>[[G0649]]</small></sup> · <span class="asgreek">ἄῤῥωστος</span><sup><small>[[G0732]]</small></sup> · <span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">ἐκζητέω</span><sup><small>[[G1567]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐνοχλέω</span><sup><small>[[G1776]]</small></sup> · <span class="asgreek">ζητέω</span><sup><small>[[G2212]]</small></sup> · <span class="asgreek">θεραπεύω</span><sup><small>[[G2323]]</small></sup> · <span class="asgreek">κακῶς</span><sup><small>[[G2560]]</small></sup> · <span class="asgreek">κοπιάω</span><sup><small>[[G2872]]</small></sup> · <span class="asgreek">πάσχω</span><sup><small>[[G3958]]</small></sup> · <span class="asgreek">πρότερον</span><sup><small>[[G4386]]</small></sup> · <span class="asgreek">ταραχή</span><sup><small>[[G5016]]</small></sup>
+<small>See Greek: </small>**<big>[[G0649|ἀποστέλλω]]</big>** · **<big>[[G0732|ἄῤῥωστος]]</big>** · **<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G1567|ἐκζητέω]]</big>** · **<big>[[G1587|ἐκλείπω]]</big>** · **<big>[[G1776|ἐνοχλέω]]</big>** · **<big>[[G2212|ζητέω]]</big>** · **<big>[[G2323|θεραπεύω]]</big>** · **<big>[[G2560|κακῶς]]</big>** · **<big>[[G2872|κοπιάω]]</big>** · **<big>[[G3958|πάσχω]]</big>** · **<big>[[G4386|πρότερον]]</big>** · **<big>[[G5016|ταραχή]]</big>**

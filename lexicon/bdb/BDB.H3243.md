@@ -1,4 +1,4 @@
-<small>Also see: [[H5143]]</small>
+<small>Also see: **<big>[[H5143|נֵזֶק]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎יָנַק‎</span>] **verb** ==suck== (Late Hebrew ***id.***; Aramaic <span class="bdbLangAramaic">‎יְנַק‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAUAIAAAAAAAP///yH5BAAAAAAALAAAAAAjABQAAAJHjI+py93gogS0ypugRRA/mlWgFyriSBooF2zpC8dLN9PpaasriecuTxNxdo6g7ffT1XTHpi/Z6uGiUmGoipXWslyi7As+FAAAOw==">, and derivatives; Assyrian <abbr title="transliteration"><u>***êni‡u***</u></abbr>, ***suck***, SA[[BDB#Sm|Sm]]<sup>Assurbanipal i, Gloss</sup>, <abbr title="transliteration"><u>***mušeni‡tu***</u></abbr>, ***nurse***, [[BDB#Jen|Jen]]<sup>ZA, 1886, 402</sup>) — 
 

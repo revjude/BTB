@@ -7,30 +7,30 @@ And Joshua called for them, and he spake unto them, saying, Wherefore have ye be
 Then Joshua summoned the Gibeonites and said, “Why did you deceive us by telling us you live far away from us, when in fact you live among us?<small><sub>**MT:**</sub></small>
 [[Josh.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.21|<< Joshua 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.23|Joshua 9:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| called them together | <big><span class="asgreek">συνεκάλεσεν</span></big> <sup><small><small>[[G4779]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Why did | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| you mislead | <big><span class="asgreek">παρελογίσασθέ</span></big> <sup><small><small>[[G3884]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| far | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
-| We are | <big><span class="asgreek">εσμέν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| but you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| are natives | <big><span class="asgreek">εγχώριοι</span></big> <sup><small><small>[[G7042]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us? | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| called them together | **<big>[[G4779\|συνεκάλεσεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| Joshua | **<big>[[H3091\|Ιησούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he spoke | **<big>[[G2036\|είπεν]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| Why did | **<big>[[G1302\|διατί]]</big>** |
+| you mislead | **<big>[[G3884\|παρελογίσασθέ]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| far | **<big>[[G3112\|μακράν]]</big>** |
+| We are | **<big>[[G1510\|εσμέν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| but you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| are natives | **<big>[[G7042\|εγχώριοι]]</big>** **<big>[[G1510\|εστέ]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντων]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| us? | **<big>[[G1473\|ημίν]]</big>** |
 [[Josh.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.21|<< Joshua 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.23|Joshua 9:23 >>]]</td></tr></table>
 
 

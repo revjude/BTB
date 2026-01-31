@@ -10,29 +10,29 @@ Woe to the rebellious children, saith the LORD, that take counsel, but not of me
 “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin.<small><sub>**MT:**</sub></small>
 [[Isa.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.24|<< Isaiah 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.2|Isaiah 30:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Woe, | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| O children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of defectors! | <big><span class="asgreek">αποστάται</span></big> <sup><small><small>[[G6490]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You made | <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| counsel, | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| but not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| me; | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| treaties | <big><span class="asgreek">συνθήκας</span></big> <sup><small><small>[[G9326]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spirit, | <big><span class="asgreek">πνεύματός</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to add | <big><span class="asgreek">προσθείναι</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| sins | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| sins. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| Woe, | **<big>[[G3759\|ουαί]]</big>** |
+| O children | **<big>[[G5043\|τέκνα]]</big>** |
+| of defectors! | **<big>[[G6490\|αποστάται]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| You made | **<big>[[G4160\|εποιήσατε]]</big>** |
+| counsel, | **<big>[[G1012\|βουλήν]]</big>** |
+| but not | **<big>[[G3756\|ου]]</big>** |
+| through | **<big>[[G1223\|δι΄]]</big>** |
+| me; | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| treaties | **<big>[[G9326\|συνθήκας]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my spirit, | **<big>[[G4151\|πνεύματός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to add | **<big>[[G4369\|προσθείναι]]</big>** |
+| sins | **<big>[[G0266\|αμαρτίας]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| sins. | **<big>[[G0266\|αμαρτίας]]</big>** |
 [[Isa.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.24|<< Isaiah 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.2|Isaiah 30:2 >>]]</td></tr></table>
 
 

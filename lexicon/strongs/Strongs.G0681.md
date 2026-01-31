@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ἅπτω‎</span></big> **háptō** <small>*(hap'-to)*</small> ==**to touch**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎ἅπτω‎</span></big>** **háptō** <small>*(hap'-to)*</small> ==**to touch**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ kindle, light.

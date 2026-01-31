@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קְטַר‎</span></big> **qᵉṭar** <small>*(ket-ar')*</small> ==**joint**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) from a root corresponding to <span class="ashebrew">‎קָטַר‎</span><sup><small>[[H7000]]</small></sup></small>
+**<big><span class="asaramaic">‎קְטַר‎</span></big>** **qᵉṭar** <small>*(ket-ar')*</small> ==**joint**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) from a root corresponding to **<big>[[H7000|‎קָטַר‎]]</big>**</small>
 
 $\quad$ doubt, joint.
 - ***a knot*** (as tied up), i.e. (figuratively) ***a riddle***
@@ -9,4 +9,4 @@ $\quad$ doubt, joint.
 $\quad$ **1a)** joints (of the hip)
 $\quad$ **1b)** difficulties, doubts (fig)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σύνδεσμος</span><sup><small>[[G4886]]</small></sup>
+<small>See Greek: </small>**<big>[[G4886|σύνδεσμος]]</big>**

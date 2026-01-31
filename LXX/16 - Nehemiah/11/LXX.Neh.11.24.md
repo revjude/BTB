@@ -7,27 +7,27 @@ And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah,
 Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the king’s agent in every matter concerning the people.<small><sub>**MT:**</sub></small>
 [[Neh.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.23|<< Nehemiah 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.25|Nehemiah 11:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Pethahiah | <big><span class="asgreek">Φαθαϊα</span></big> <sup><small><small>[[H6611]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Meshezabeel | <big><span class="asgreek">Μασσιζαβήλ</span></big> <sup><small><small>[[H4898]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Zerah, | <big><span class="asgreek">Ζάρα</span></big> <sup><small><small>[[G2196]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[was\] by | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| matters | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[concerning\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Pethahiah | **<big>[[H6611\|Φαθαϊα]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Meshezabeel | **<big>[[H4898\|Μασσιζαβήλ]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Zerah, | **<big>[[G2196\|Ζάρα]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[was\] by | **<big>[[G4314\|προς]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| matters | **<big>[[G3056\|λόγον]]</big>** |
+| \[concerning\] the | **<big>[[G3588\|τω]]</big>** |
+| people. | **<big>[[G2992\|λαώ]]</big>** |
 [[Neh.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.23|<< Nehemiah 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.25|Nehemiah 11:25 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Woman living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Hoglah</span> was one of the five daughters of Zelophehad who received an inheritance in the Promised Land due to their father's lack of male heirs.
 - A woman from the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.33|Num.26.33]]; 
-- only referred to as Hoglah<[[H2295]]> \(<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  daughter of Zelophehad<[[H6765]]>; 
-- a sister of Mahlah<[[H4244G]]>, Noah<[[H5270]]>, Milcah<[[H4435H]]> and Tirzah<[[H8656G]]>.
+- only referred to as Hoglah **<big>[[H2295|חׇגְלָה]]</big>**; 
+-  daughter of Zelophehad **<big>[[H6765|צְלׇפְחָד]]</big>**; 
+- a sister of Mahlah **<big>[[H4244|מַחְלָה]]</big>**, Noah **<big>[[H5270|נֹעָה]]</big>**, Milcah **<big>[[H4435|מִלְכָּה]]</big>** and Tirzah **<big>[[H8656|תִּרְצָה]]</big>**.
 
 Hoglah was one of the five daughters of Zelophehad, a descendant of Manasseh, as recorded in [[Num.26.33|Numbers 26:33]], 27:1, 36:11, and [[Josh.17.3|Joshua 17:3]]. Her sisters were Mahlah, Noah, Milcah, and Tirzah. 
 
@@ -18,8 +18,8 @@ The story of Hoglah and her sisters is significant, as it demonstrates the impor
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hoglah | [<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2295) <small>*Hebrew*</small> | 4x | [[Num.26.33] ... [Jos.17.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoglah\*\|reference=Num.26.33;Num.27.1;Num.36.11;Jos.17.3) |
-All Strong's for **Hoglah**: \[[[H2295]]\]
+| Hoglah | [<span class='tipnrLangHebrew'>ח</span>ׇ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2295) | 4x | [[Num.26.33] ... [Jos.17.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoglah\*\|reference=Num.26.33;Num.27.1;Num.36.11;Jos.17.3) |
+All entries for **Hoglah**:  **<big>[[H2295|חׇגְלָה]]</big>**
 #### Related Profiles:
 - **[Zelophehad](H6765)** (father)
 - **[Mahlah](H4244G)** (sibling)

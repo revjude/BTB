@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָבַךְ‎</span></big> **çâbak** <small>*(saw-bak')*</small> ==**to interweave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָבַךְ‎</span></big>** **çâbak** <small>*(saw-bak')*</small> ==**to interweave**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fold together, wrap.
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to interweave
 $\quad$ $\quad$ **1a2)** interwoven (participle)
 $\quad$ **1b)** (Pual) to be interwoven
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κοιμάω</span><sup><small>[[G2837]]</small></sup>
+<small>See Greek: </small>**<big>[[G2837|κοιμάω]]</big>**

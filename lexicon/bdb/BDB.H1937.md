@@ -1,4 +1,4 @@
-<small>Also see: [[H1938]]</small>
+<small>Also see: **<big>[[H1938|הוֹדַוְיָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎הודוה‎</span> [[BDB#Kt|Kt]], <span class="bdbLangHebrew">‎חוֺדְיָה‎</span> [[BDB#Qr|Qr]], **proper name, masculine** only in <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּנֵי לְה‎</span> [[Neh.7.43|Neh 7:43]] of a Levitical family; = <span class="bdbLangHebrew">‎הוֺדַוְיָה‎</span> [[Ezra.2.40|Ezra 2:40]] q. v. below <span class="bdbLangHebrew">‎ידה‎</span>. 
 

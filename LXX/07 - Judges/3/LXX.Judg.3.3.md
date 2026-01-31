@@ -7,34 +7,34 @@
 the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath.<small><sub>**MT:**</sub></small>
 [[Judg.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.4|Judges 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[namely\] the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| satrapies | <big><span class="asgreek">σατραπειάς</span></big> <sup><small><small>[[G9058]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanite, | <big><span class="asgreek">Χαναναίον</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sidonian, | <big><span class="asgreek">Σιδώνιον</span></big> <sup><small><small>[[G4606]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hivite | <big><span class="asgreek">Ευαίον</span></big> <sup><small><small>[[H2340]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in Lebanon, | <big><span class="asgreek">Λίβανον</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Baal-hermon | <big><span class="asgreek">Βαάλ Ερμών</span></big> <sup><small><small>[[H1179]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Hamath. | <big><span class="asgreek">Λαβώ ημάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
+| \[namely\] the | **<big>[[G3588\|τας]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| satrapies | **<big>[[G9058\|σατραπειάς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines, | **<big>[[G0246\|αλλοφύλων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Canaanite, | **<big>[[G5477\|Χαναναίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Sidonian, | **<big>[[G4606\|Σιδώνιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| Hivite | **<big>[[H2340\|Ευαίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| in Lebanon, | **<big>[[H3844\|Λίβανον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Baal-hermon | **<big>[[H1179\|Βαάλ Ερμών]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Hamath. | **<big>[[H2574\|Λαβώ ημάθ]]</big>** |
 [[Judg.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.4|Judges 3:4 >>]]</td></tr></table>
 
 

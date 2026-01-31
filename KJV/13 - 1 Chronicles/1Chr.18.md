@@ -31,7 +31,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.14|14]]**<span class=
 
 [^6]: [[1Sam.10|1Sam 10:27]]; [[1Kgs.10|1Kgs 10:2]], [[1Kgs.10|1Kgs 10:25]]; [[2Kgs.3|2Kgs 3:4-5]]; [[Ps.68|Ps 68:29-30]], [[Ps.72|Ps 72:8-10]]; [[Isa.16|Isa 16:1]]
 
-[^7]: Hadadezer, <span class="asgreek"><span class='asgreek'>δγγςζψ</span></span> (<span class="ashebrew">‎הֲדַדְעֶזֶר‎</span><sup><small>[[H1909]]</small></sup>), in the parallel passage, seems an evident mistake for <span class="asgreek"><span class='asgreek'>δγψςζψ</span></span> (<span class="ashebrew">‎הֲדַרְעֶזֶר‎</span><sup><small>[[H1928]]</small></sup>), Hadarezer; for the LXX and Vulgate there, as here, read <span class="asgreek"><span class='asgreek'>Αδρααζαρ</span></span>, ***Adarezer***. The difference arises from the mistake of a <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***, for a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, two letters very similar. [[2Sam.8|2Sam 8:3]], Hadadezer
+[^7]: Hadadezer, <span class="asgreek"><span class='asgreek'>δγγςζψ</span></span> ( [[H1909|‎הֲדַדְעֶזֶר‎]] ), in the parallel passage, seems an evident mistake for <span class="asgreek"><span class='asgreek'>δγψςζψ</span></span> ( [[H1928|‎הֲדַרְעֶזֶר‎]] ), Hadarezer; for the LXX and Vulgate there, as here, read <span class="asgreek"><span class='asgreek'>Αδρααζαρ</span></span>, ***Adarezer***. The difference arises from the mistake of a <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***, for a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, two letters very similar. [[2Sam.8|2Sam 8:3]], Hadadezer
 
 [^8]: [[1Sam.14|1Sam 14:47]]; [[2Sam.10|2Sam 10:6]]; [[Ps.60|Ps 60:1]] *title
 

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זִלְפָּה‎</span></big> **Zilpâh** <small>*(zil-paw)*</small> ==**Zilpah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎זִלְפָּה‎</span></big>** **Zilpâh** <small>*(zil-paw)*</small> ==**Zilpah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small> from an unused root apparently meaning to trickle, as myrrh; fragrant dropping</small>
 
 $\quad$ Zilpah.

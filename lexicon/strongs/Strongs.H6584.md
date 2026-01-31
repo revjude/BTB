@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּשַׁט‎</span></big> **pâshaṭ** <small>*(paw-shat')*</small> ==**to strip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּשַׁט‎</span></big>** **pâshaṭ** <small>*(paw-shat')*</small> ==**to strip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fall upon, flay, invade, make an invasion, pull off, put off, make a road, run upon, rush, set, spoil, spread selves (abroad), strip (off, self).
@@ -16,4 +16,4 @@ $\quad$ $\quad$ **1c2)** to strip off
 $\quad$ $\quad$ **1c3)** to flay
 $\quad$ **1d)** (Hithpael) to strip oneself of
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">δέρω</span><sup><small>[[G1194]]</small></sup> · <span class="asgreek">ἐκδύω</span><sup><small>[[G1562]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">ἐκχέω</span><sup><small>[[G1632]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">κυκλόω</span><sup><small>[[G2944]]</small></sup> · <span class="asgreek">ὁρμάω</span><sup><small>[[G3729]]</small></sup>
+<small>See Greek: </small>**<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1194|δέρω]]</big>** · **<big>[[G1562|ἐκδύω]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G1632|ἐκχέω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2944|κυκλόω]]</big>** · **<big>[[G3729|ὁρμάω]]</big>**

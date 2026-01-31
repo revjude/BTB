@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Josiah</span> \(or Hen\), along with others, provided silver and gold for a crown in a symbolic act during Zechariah's time.
 - A man living at the time of Exile and Return, first mentioned at [[Zech.6.10|Zec.6.10]]; 
-- referred to as Josiah<[[H2977H]]> \(<span class='tipnrLangHebrew'>י</span>ֹ<span class='tipnrLangHebrew'>אש</span>ִׁ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ\), or Hen<[[H2581]]> \(<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ן</span>\); 
-- a son of Zephaniah<[[H6846I]]>.
+- referred to as Josiah **<big>[[H2977|יֹאשִׁיָּה]]</big>**, or Hen **<big>[[H2581|חֵן]]</big>**; 
+- a son of Zephaniah **<big>[[H6846|צְפַנְיָה]]</big>**.
 
 Josiah, also known as Hen, is mentioned in [[Zech.6.10|Zechariah 6:10]] and 6:14 in the context of a symbolic act during the prophet Zechariah's ministry. Zechariah was instructed to take silver and gold from the returned exiles, specifically from Heldai, Tobijah, and Jedaiah, who had come from Babylon \([[Zech.6.10|Zechariah 6:10]]\). 
 
@@ -15,8 +15,8 @@ The name "Josiah" is used in verse 10, while "Hen" is used in verse 14. This var
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Josiah | [<span class='tipnrLangHebrew'>י</span>ֹ<span class='tipnrLangHebrew'>אש</span>ִׁ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2977H) <small>*Hebrew*</small> | 1x | [Zec.6.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josiah\*\|reference=Zec.6.10) |
-| Hen | [<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ן</span>](H2581) <small>*Hebrew*</small> | 1x | [Zec.6.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hen\*\|reference=Zec.6.14) |
-All Strong's for **Josiah or Hen**: \[[[H2977H]]\] \[[[H2581]]\]
+| Josiah | [<span class='tipnrLangHebrew'>י</span>ֹ<span class='tipnrLangHebrew'>אש</span>ִׁ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H2977H) | 1x | [Zec.6.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josiah\*\|reference=Zec.6.10) |
+| Hen | [<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ן</span>](H2581) | 1x | [Zec.6.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hen\*\|reference=Zec.6.14) |
+All entries for **Josiah or Hen**:  **<big>[[H2977|יֹאשִׁיָּה]]</big>** ☩  **<big>[[H2581|חֵן]]</big>**
 #### Related Profiles:
 - **[Zephaniah](H6846I)** (father)

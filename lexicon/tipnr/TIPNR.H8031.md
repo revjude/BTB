@@ -1,8 +1,8 @@
 <small>*Shalishah • Region Saul passed through seeking donkeys*</small>
 
 <span class='tipnrhighlight'>Shalishah</span> was a region Saul and his servant passed through while searching for his father's lost donkeys \(1 Sam. 9:4\).
-- A location near Gibeon<[[H1391]]> only mentioned at [[1Sam.9.4|1Sa.9.4]]; 
-- only referred to as Shalishah<[[H8031]]> \(<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ל</span>ִ֫<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Gibeon **<big>[[H1391|גִּבְעוֹן]]</big>** only mentioned at [[1Sam.9.4|1Sa.9.4]]; 
+- only referred to as Shalishah **<big>[[H8031|שָׁלִשָׁה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.84684772753698,35.18491237777512&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shalishah is mentioned briefly in the account of Saul's search for his father's 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shalishah | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ל</span>ִ֫<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H8031) <small>*Hebrew*</small> | 1x | [1Sa.9.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shalishah\*\|reference=1Sa.9.4) |
-All Strong's for **Shalishah**: \[[[H8031]]\]
+| Shalishah | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ל</span>ִ֫<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H8031) | 1x | [1Sa.9.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shalishah\*\|reference=1Sa.9.4) |
+All entries for **Shalishah**:  **<big>[[H8031|שָׁלִשָׁה]]</big>**

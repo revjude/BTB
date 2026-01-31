@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַדְהֵבָה‎</span></big> **madhêbâh** <small>*(mad-hay-baw')*</small> ==**insolence**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>perhaps from the equivalent of <span class="asaramaic">‎דְּהַב‎</span><sup><small>[[H1722]]</small></sup></small>
+**<big><span class="ashebrew">‎מַדְהֵבָה‎</span></big>** **madhêbâh** <small>*(mad-hay-baw')*</small> ==**insolence**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>perhaps from the equivalent of **<big>[[H1722|‎דְּהַב‎]]</big>**</small>
 
 $\quad$ golden city.
 - ***goldmaking***, i.e. ***exactness***

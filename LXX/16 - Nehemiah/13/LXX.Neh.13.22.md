@@ -7,39 +7,39 @@ And I commanded the Levites that they should cleanse themselves, and [that] they
 Then I instructed the Levites to purify themselves and guard the gates in order to keep the Sabbath day holy. Remember me for this as well, O my God, and show me mercy according to Your abundant loving devotion.<small><sub>**MT:**</sub></small>
 [[Neh.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.21|<< Nehemiah 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.23|Nehemiah 13:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I spoke | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| being cleansed, | <big><span class="asgreek">καθαριζόμενοι</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] ones coming | <big><span class="asgreek">ερχόμενοι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| guarding | <big><span class="asgreek">φυλάσσοντες</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gates | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάζειν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbath. | <big><span class="asgreek">σαββάτου</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| For | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| remember | <big><span class="asgreek">μνήσθητί</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσαί</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| magnitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your mercy! | <big><span class="asgreek">ελέους</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I spoke | **<big>[[G2036\|είπα]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Levites | **<big>[[G3017\|Λευίταις]]</big>** |
+| who | **<big>[[G3739\|οι]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| being cleansed, | **<big>[[G2511\|καθαριζόμενοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] ones coming | **<big>[[G2064\|ερχόμενοι]]</big>** |
+| guarding | **<big>[[G5442\|φυλάσσοντες]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| gates | **<big>[[G4439\|πύλας]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάζειν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Sabbath. | **<big>[[G4521\|σαββάτου]]</big>** |
+| For | **<big>[[G4314\|προς]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| remember | **<big>[[G3403\|μνήσθητί]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spare | **<big>[[G5339\|φείσαί]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| magnitude | **<big>[[G4128\|πλήθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your mercy! | **<big>[[G1656\|ελέους]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Neh.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.21|<< Nehemiah 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.23|Nehemiah 13:23 >>]]</td></tr></table>
 
 

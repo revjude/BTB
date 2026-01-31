@@ -10,27 +10,27 @@ And Abijah and his people slew them with a great slaughter: so there fell down s
 Then Abijah and his people struck them with a mighty blow, and 500,000 chosen men of Israel fell slain.<small><sub>**MT:**</sub></small>
 [[2Chr.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.16|<< 2 Chronicles 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.18|2 Chronicles 13:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Abijah | <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| calamity | <big><span class="asgreek">πληγήν</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| \[with\] a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there fell | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| slain | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Israel -- | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιαι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξεν]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| Abijah | **<big>[[G0007\|Αβία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| calamity | **<big>[[G4127\|πληγήν]]</big>** |
+| \[with\] a great | **<big>[[G3173\|μεγάλην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there fell | **<big>[[G4098\|έπεσον]]</big>** |
+| slain | **<big>[[G9470\|τραυματίαι]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| Israel -- | **<big>[[G2474\|Ισραήλ]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιαι]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| mighty | **<big>[[G1415\|δυνατοί]]</big>** |
 [[2Chr.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.16|<< 2 Chronicles 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.18|2 Chronicles 13:18 >>]]</td></tr></table>
 
 

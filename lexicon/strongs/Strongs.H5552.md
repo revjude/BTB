@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סַלְסִלָּה‎</span></big> **çalçillâh** <small>*(sal-sil-law')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎סָלָה‎</span><sup><small>[[H5541]]</small></sup></small>
+**<big><span class="ashebrew">‎סַלְסִלָּה‎</span></big>** **çalçillâh** <small>*(sal-sil-law')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5541|‎סָלָה‎]]</big>**</small>
 
 $\quad$ basket.
 - ***a twig*** (as pendulous)

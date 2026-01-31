@@ -6,26 +6,26 @@ And the Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.3|<< Nehemiah 9:3]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.5|Nehemiah 9:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he stood  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּ֜קָם </big></span><small><small><sup>[[H6965I]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.kom <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַֽל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] platform of  | <span class="ashebrew"><big>מַֽעֲלֵ֣ה </big></span><small><small><sup>[[H4608]]</sup></small></small> &#8207;| ma.'a.Leh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Levites  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>לְוִיִּ֗ם </big></span><small><small><sup>[[H3881]]</sup></small></small> &#8207;| ha <small><sup>[[HTd]]</sup></small> l.vi.Yim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeshua  | <span class="ashebrew"><big>יֵשׁ֨וּעַ </big></span><small><small><sup>[[H3442J]]</sup></small></small> &#8207;| ye.Shu.a' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Bani  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בָנִ֜י </big></span><small><small><sup>[[H1137M]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> va.Ni <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kadmiel  | <span class="ashebrew"><big>קַדְמִיאֵ֧ל </big></span><small><small><sup>[[H6934]]</sup></small></small> &#8207;| kad.mi.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shebaniah  | <span class="ashebrew"><big>שְׁבַנְיָ֛ה </big></span><small><small><sup>[[H7645H]]</sup></small></small> &#8207;| she.van.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bunni  | <span class="ashebrew"><big>בֻּנִּ֥י </big></span><small><small><sup>[[H1138G]]</sup></small></small> &#8207;| bu.Ni <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sherebiah  | <span class="ashebrew"><big>שֵׁרֵבְיָ֖ה </big></span><small><small><sup>[[H8274G]]</sup></small></small> &#8207;| she.re.ve.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bani  | <span class="ashebrew"><big>בָּנִ֣י </big></span><small><small><sup>[[H1137M]]</sup></small></small> &#8207;| ba.Ni <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kenani  | <span class="ashebrew"><big>כְנָ֑נִי </big></span><small><small><sup>[[H3662]]</sup></small></small> &#8207;| khe.Na.ni <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they cried out  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּזְעֲקוּ֙ </big></span><small><small><sup>[[H2199]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yiz.'a.Ku <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with a voice  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ק֣וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>גָּד֔וֹל </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ga.Dol <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּ֜קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] platform of  |**<big>&#8207;[[H4608\|מַֽעֲלֵ֣ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֗ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeshua  |**<big>&#8207;[[H3442J\|יֵשׁ֨וּעַ]]&#8207; </big>**| ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Bani  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1137M\|בָנִ֜י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kadmiel  |**<big>&#8207;[[H6934\|קַדְמִיאֵ֧ל]]&#8207; </big>**| kad.mi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shebaniah  |**<big>&#8207;[[H7645H\|שְׁבַנְיָ֛ה]]&#8207; </big>**| she.van.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bunni  |**<big>&#8207;[[H1138G\|בֻּנִּ֥י]]&#8207; </big>**| bu.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sherebiah  |**<big>&#8207;[[H8274G\|שֵׁרֵבְיָ֖ה]]&#8207; </big>**| she.re.ve.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bani  |**<big>&#8207;[[H1137M\|בָּנִ֣י]]&#8207; </big>**| ba.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kenani  |**<big>&#8207;[[H3662\|כְנָ֑נִי]]&#8207; </big>**| khe.Na.ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they cried out  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2199\|יִּזְעֲקוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.'a.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a voice  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גָּד֔וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.3|<< Nehemiah 9:3]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.5|Nehemiah 9:5 >>]]</td></tr></table>
 
 

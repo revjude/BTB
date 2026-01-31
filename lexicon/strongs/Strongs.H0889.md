@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֹשׁ‎</span></big> **bᵉʼôsh** <small>*(be-oshe')*</small> ==**stench**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎בֹּאר‎</span><sup><small>[[H0877]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּאֹשׁ‎</span></big>** **bᵉʼôsh** <small>*(be-oshe')*</small> ==**stench**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0877|‎בֹּאר‎]]</big>**</small>
 
 $\quad$ stink.
 - ***a stench***

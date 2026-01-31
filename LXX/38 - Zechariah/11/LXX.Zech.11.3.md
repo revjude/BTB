@@ -7,24 +7,24 @@ A sound of wailing of shepherds, for their greatness languishes. A sound of roar
 Listen to the wailing of the shepherds, for their glory is in ruins. Listen to the roaring of the young lions, for the thickets of the Jordan are destroyed.<small><sub>**MT:**</sub></small>
 [[Zech.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.2|<< Zechariah 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.4|Zechariah 11:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of wailing | <big><span class="asgreek">θρηνούντων</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
-| of shepherds, | <big><span class="asgreek">ποιμένων</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| languishes | <big><span class="asgreek">τεταλαιπώρηκεν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their greatness | <big><span class="asgreek">μεγαλωσύνη</span></big> <sup><small><small>[[G3172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| A sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of roaring | <big><span class="asgreek">ωρυομένων</span></big> <sup><small><small>[[G5612]]</small></small></sup> |
-| lions, | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| languishes | <big><span class="asgreek">τεταλαιπώρηκεν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighing | <big><span class="asgreek">φρύαγμα</span></big> <sup><small><small>[[G9668]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
+| A sound | **<big>[[G5456\|φωνή]]</big>** |
+| of wailing | **<big>[[G2354\|θρηνούντων]]</big>** |
+| of shepherds, | **<big>[[G4166\|ποιμένων]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| languishes | **<big>[[G5003\|τεταλαιπώρηκεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their greatness | **<big>[[G3172\|μεγαλωσύνη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| A sound | **<big>[[G5456\|φωνή]]</big>** |
+| of roaring | **<big>[[G5612\|ωρυομένων]]</big>** |
+| lions, | **<big>[[G3023\|λεόντων]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| languishes | **<big>[[G5003\|τεταλαιπώρηκεν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| neighing | **<big>[[G9668\|φρύαγμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
 [[Zech.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.2|<< Zechariah 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.4|Zechariah 11:4 >>]]</td></tr></table>
 
 

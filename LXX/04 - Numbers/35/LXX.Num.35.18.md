@@ -7,26 +7,26 @@ Or [if] he smite him with an hand weapon of wood, wherewith he may die, and he d
 If anyone has in his hand a deadly object of wood, and he strikes and kills another, he is a murderer; the murderer must surely be put to death.<small><sub>**MT:**</sub></small>
 [[Num.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.17|<< Numbers 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.19|Numbers 35:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| an item | <big><span class="asgreek">σκεύει</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of wood | <big><span class="asgreek">ξυλίνω</span></big> <sup><small><small>[[G3585]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[his\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| one should die, | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| as he should strike | <big><span class="asgreek">πατάξη</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one should die, | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| he is a murderer -- | <big><span class="asgreek">φονευτής</span></big> <sup><small><small>[[G9655]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| unto death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| murderer | <big><span class="asgreek">φονευτής</span></big> <sup><small><small>[[G9655]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| an item | **<big>[[G4632\|σκεύει]]</big>** |
+| of wood | **<big>[[G3585\|ξυλίνω]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[his\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| which | **<big>[[G3778\|ου]]</big>** |
+| one should die, | **<big>[[G0599\|αποθανείται]]</big>** |
+| as he should strike | **<big>[[G3960\|πατάξη]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one should die, | **<big>[[G0599\|αποθάνη]]</big>** |
+| he is a murderer -- | **<big>[[G9655\|φονευτής]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| unto death | **<big>[[G2288\|θανάτω]]</big>** |
+| shall die | **<big>[[G0599\|αποθανείται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| murderer | **<big>[[G9655\|φονευτής]]</big>** |
 [[Num.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.17|<< Numbers 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.19|Numbers 35:19 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Woman living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Eglah</span> was one of David's wives and the mother of his son Ithream, born in Hebron. \([[2Sam.3.5|2Sa.3.5]]; [[1Chr.3.3|1Ch.3.3]]\)
 - A woman living at the time of United Monarchy, first mentioned at [[2Sam.3.5|2Sa.3.5]]; 
-- only referred to as Eglah<[[H5698]]> \(<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of David<[[H1732]]>; 
--  mother of Ithream<[[H3507]]>.
+- only referred to as Eglah **<big>[[H5698|עֶגְלָה]]</big>**; 
+- wife of David **<big>[[H1732|דָּוִד]]</big>**; 
+-  mother of Ithream **<big>[[H3507|יִתְרְעָם]]</big>**.
 
 Eglah is mentioned in [[2Sam.3.5|2 Samuel 3:5]] and [[1Chr.3.3|1 Chronicles 3:3]] as one of King David's wives. She is specifically identified as the mother of David's son Ithream, who was born to David while he was reigning in Hebron. 
 
@@ -20,8 +20,8 @@ Apart from being listed as the mother of Ithream, no further information is prov
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eglah | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5698) <small>*Hebrew*</small> | 2x | [[2Sa.3.5] & [1Ch.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eglah\*\|reference=2Sa.3.5;1Ch.3.3) |
-All Strong's for **Eglah**: \[[[H5698]]\]
+| Eglah | [<span class='tipnrLangHebrew'>ע</span>ֶ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5698) | 2x | [[2Sa.3.5] & [1Ch.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eglah\*\|reference=2Sa.3.5;1Ch.3.3) |
+All entries for **Eglah**:  **<big>[[H5698|עֶגְלָה]]</big>**
 #### Related Profiles:
 - **[David](H1732)** (spouse)
 - **[Ithream](H3507)** (child)

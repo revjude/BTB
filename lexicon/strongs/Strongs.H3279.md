@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַעֲלָא‎</span></big> **Yaʻălâʼ** <small>*(yah-al-aw')*</small> ==**Jaalah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">יַעֲלָה</span> **Yaʻălâh** <small>*(yah-al-aw')*</small>; the same as <span class="ashebrew">‎יַעֲלָה‎</span><sup><small>[[H3280]]</small></sup> or direct from <span class="ashebrew">‎יַעַל‎</span><sup><small>[[H3276]]</small></sup></small>
+**<big><span class="ashebrew">‎יַעֲלָא‎</span></big>** **Yaʻălâʼ** <small>*(yah-al-aw')*</small> ==**Jaalah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">יַעֲלָה</span></big>** **Yaʻălâh** <small>*(yah-al-aw')*</small>; the same as **<big>[[H3280|‎יַעֲלָה‎]]</big>** or direct from **<big>[[H3276|‎יַעַל‎]]</big>**</small>
 
 $\quad$ Jaala, Jaalah.
 - § Jaala or Jaalah = *"ascending"*

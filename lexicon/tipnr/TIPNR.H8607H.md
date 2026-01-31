@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Tiphsah</span>, a city attacked and brutally conquered by Menahem, king of Israel \(2 Kgs. 15:16\).
 - A location only mentioned at [[2Kgs.15.16|2Ki.15.16]]; 
-- only referred to as Tiphsah<[[H8607H]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ס</span>ַ<span class='tipnrLangHebrew'>ח</span>\).
+- only referred to as Tiphsah **<big>[[H8607|תִּפְסַח]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.166667,35.166667&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tiphsah is mentioned in [[2Kgs.15.16|2 Kings 15:16]] as a city that was attacked
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tiphsah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ס</span>ַ<span class='tipnrLangHebrew'>ח</span>](H8607H) <small>*Hebrew*</small> | 1x | [2Ki.15.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiphsah\*\|reference=2Ki.15.16) |
-All Strong's for **Tiphsah**: \[[[H8607H]]\]
+| Tiphsah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ס</span>ַ<span class='tipnrLangHebrew'>ח</span>](H8607H) | 1x | [2Ki.15.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiphsah\*\|reference=2Ki.15.16) |
+All entries for **Tiphsah**:  **<big>[[H8607|תִּפְסַח]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָבַע‎</span></big> **qâbaʻ** <small>*(kaw-bah')*</small> ==**to rob**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָבַע‎</span></big>** **qâbaʻ** <small>*(kaw-bah')*</small> ==**to rob**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ rob, spoil.

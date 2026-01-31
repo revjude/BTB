@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-γινώσκω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">נָכַר</span> <small><sup>[[H5234]]</sup></small>: hi., also for <span class="ashebrew">יָדַע</span> <small><sup>[[H3045]]</sup></small>, etc. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπι-γινώσκω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H5234|נָכַר]]</big>**: hi., also for **<big>[[H3045|יָדַע]]</big>**, etc. ;\] </span> </span>
 "directive" of <span class="asgreek">γινώσκω</span> (AR, <span class="asitalic">Eph.</span>, 249), as in cl.;
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to observe, perceive, discern, recognize</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> absol.: [[Acts.25.10|Ac 25:10]], [[1Cor.13.12|I Co 13:12]]; seq. <span class="asgreek">ὅτι</span>, [[Luke.1.22|Lk 1:22]]; <span class="asgreek">τ. πνεύματι</span>, seq. <span class="asgreek">ὅτι</span>, [[Mark.2.8|Mk 2:8]];</span>

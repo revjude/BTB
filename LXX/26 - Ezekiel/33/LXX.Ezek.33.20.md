@@ -7,23 +7,23 @@ Yet ye say, The way of the Lord is not equal. O ye house of Israel, I will judge
 Yet you say, ‘The way of the Lord is not just.’ But I will judge each of you according to his ways, O house of Israel.”<small><sub>**MT:**</sub></small>
 [[Ezek.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.19|<< Ezekiel 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.21|Ezekiel 33:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| straight | <big><span class="asgreek">ευθεία</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστον</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ways | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will judge | <big><span class="asgreek">κρινώ</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you said, | **<big>[[G2036\|είπατε]]</big>** |
+| \[is\] not | **<big>[[G3756\|ουκ]]</big>** |
+| straight | **<big>[[G2117\|ευθεία]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| way | **<big>[[G3598\|οδός]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| each | **<big>[[G1538\|έκαστον]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| his ways | **<big>[[G3598\|οδοίς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| I will judge | **<big>[[G2919\|κρινώ]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.19|<< Ezekiel 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.21|Ezekiel 33:21 >>]]</td></tr></table>
 
 

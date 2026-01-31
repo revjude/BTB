@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דַּרְדַּר‎</span></big> **dardar** <small>*(dar-dar')*</small> ==**thistle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎דַּרְדַּר‎</span></big>** **dardar** <small>*(dar-dar')*</small> ==**thistle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ thistle.
@@ -6,4 +6,4 @@ $\quad$ thistle.
 
 **1)** thistles, thorns
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τρίβολος</span><sup><small>[[G5146]]</small></sup>
+<small>See Greek: </small>**<big>[[G5146|τρίβολος]]</big>**

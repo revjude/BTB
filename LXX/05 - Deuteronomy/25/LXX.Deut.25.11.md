@@ -7,38 +7,38 @@ When men strive together one with another, and the wife of the one draweth near 
 If two men are fighting, and the wife of one comes to rescue her husband from the one striking him, and she reaches out her hand and grabs his genitals,<small><sub>**MT:**</sub></small>
 [[Deut.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.10|<< Deuteronomy 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.12|Deuteronomy 25:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| should do combat | <big><span class="asgreek">μάχωνται</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| men | <big><span class="asgreek">άνθρωποι</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| at the same time -- | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| against | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother; | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should come forward | <big><span class="asgreek">προσέλθη</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to rescue | <big><span class="asgreek">εξελέσθαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her husband | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one beating | <big><span class="asgreek">τύπτοντος</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stretching out | <big><span class="asgreek">εκτείνασα</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should take hold of | <big><span class="asgreek">επιλάβηται</span></big> <sup><small><small>[[G1949]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his twins, | <big><span class="asgreek">διδύμων</span></big> <sup><small><small>[[G1324]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| should do combat | **<big>[[G3164\|μάχωνται]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| men | **<big>[[G0444\|άνθρωποι]]</big>** |
+| at the same time -- | **<big>[[G1909\|επι]]</big>** **<big>[[G3588\|το]]</big>** **<big>[[G1473\|αυτό]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| against | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his brother; | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should come forward | **<big>[[G4334\|προσέλθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| of one | **<big>[[G1520\|ενός]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| to rescue | **<big>[[G1807\|εξελέσθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her husband | **<big>[[G0435\|άνδρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| one beating | **<big>[[G5180\|τύπτοντος]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stretching out | **<big>[[G1614\|εκτείνασα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| should take hold of | **<big>[[G1949\|επιλάβηται]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his twins, | **<big>[[G1324\|διδύμων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.10|<< Deuteronomy 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.12|Deuteronomy 25:12 >>]]</td></tr></table>
 
 

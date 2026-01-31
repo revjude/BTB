@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִוִּי‎</span></big> **Chivvîy** <small>*(khiv-vee')*</small> ==**Hivite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>perhaps from <span class="ashebrew">‎חַוָּה‎</span><sup><small>[[H2333]]</small></sup>; a villager</small>
+**<big><span class="ashebrew">‎חִוִּי‎</span></big>** **Chivvîy** <small>*(khiv-vee')*</small> ==**Hivite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>perhaps from **<big>[[H2333|‎חַוָּה‎]]</big>**; a villager</small>
 
 $\quad$ Hivite.
 - § Hivite = *"villagers"*

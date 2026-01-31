@@ -7,27 +7,27 @@ For the LORD loveth judgment, and forsaketh not his saints; they are preserved f
 For the LORD loves justice and will not forsake His saints. They are preserved forever, but the offspring of the wicked will be cut off.<small><sub>**MT:**</sub></small>
 [[Ps.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.27|<< Psalm 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.29|Psalm 37:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| loves | <big><span class="asgreek">αγαπά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| equity, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| abandon | <big><span class="asgreek">εγκαταλείψει</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sacred ones; | <big><span class="asgreek">οσίους</span></big> <sup><small><small>[[G3741]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
-| they shall be guarded. | <big><span class="asgreek">φυλαχθήσονται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| But lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall be driven out, | <big><span class="asgreek">εκδιωχθήσονται</span></big> <sup><small><small>[[G1559]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| shall be utterly destroyed. | <big><span class="asgreek">εξολοθρευθήσεται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| loves | **<big>[[G0025\|αγαπά]]</big>** |
+| equity, | **<big>[[G2920\|κρίσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| abandon | **<big>[[G1459\|εγκαταλείψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his sacred ones; | **<big>[[G3741\|οσίους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon | **<big>[[G0165\|αιώνα]]</big>** |
+| they shall be guarded. | **<big>[[G5442\|φυλαχθήσονται]]</big>** |
+| But lawless ones | **<big>[[G0459\|άνομοι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall be driven out, | **<big>[[G1559\|εκδιωχθήσονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| of \[the\] impious | **<big>[[G0765\|ασεβών]]</big>** |
+| shall be utterly destroyed. | **<big>[[G1842\|εξολοθρευθήσεται]]</big>** |
 [[Ps.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.27|<< Psalm 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.29|Psalm 37:29 >>]]</td></tr></table>
 
 

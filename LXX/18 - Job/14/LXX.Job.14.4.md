@@ -7,14 +7,14 @@ Who can bring a clean [thing] out of an unclean? not one.
 Who can bring out clean from unclean? No one!<small><sub>**MT:**</sub></small>
 [[Job.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.3|<< Job 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.5|Job 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| will be clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| filth? | <big><span class="asgreek">ρύπου</span></big> <sup><small><small>[[G4509]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| no one; | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| For who | **<big>[[G5100\|τις]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| will be clean | **<big>[[G2513\|καθαρός]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| filth? | **<big>[[G4509\|ρύπου]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| no one; | **<big>[[G3762\|ουδείς]]</big>** |
 [[Job.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.3|<< Job 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.5|Job 14:5 >>]]</td></tr></table>
 
 

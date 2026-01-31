@@ -7,23 +7,23 @@ This is the work of the ones slandering me by \[the\] <span class="smallcaps">lo
 May this be the LORD’s reward to my accusers, to those who speak evil against me.<small><sub>**MT:**</sub></small>
 [[Ps.109.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.19|<< Psalm 109:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.21|Psalm 109:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This is | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| slandering | <big><span class="asgreek">ενδιαβαλλόντων</span></big> <sup><small><small>[[G7223]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλούντων</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| evil | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul. | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| This is | **<big>[[G3778\|τούτο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| slandering | **<big>[[G7223\|ενδιαβαλλόντων]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| speaking | **<big>[[G2980\|λαλούντων]]</big>** |
+| evil | **<big>[[G4190\|πονηρά]]</big>** |
+| against | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my soul. | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.109.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.19|<< Psalm 109:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.21|Psalm 109:21 >>]]</td></tr></table>
 
 

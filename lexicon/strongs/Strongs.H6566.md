@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרַשׂ‎</span></big> **pâras** <small>*(paw-ras')*</small> ==**to spread**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרַשׂ‎</span></big>** **pâras** <small>*(paw-ras')*</small> ==**to spread**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ break, chop in pieces, lay open, scatter, spread (abroad, forth, selves, out), stretch (forth, out).
@@ -13,4 +13,4 @@ $\quad$ **1c)** (Piel)
 $\quad$ $\quad$ **1c1)** to spread out
 $\quad$ $\quad$ **1c1)** to scatter
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴρω</span><sup><small>[[G0142]]</small></sup> · <span class="asgreek">ἀναπτύσσω</span><sup><small>[[G0380]]</small></sup> · <span class="asgreek">ἀνίημι</span><sup><small>[[G0447]]</small></sup> · <span class="asgreek">ἀνοίγω</span><sup><small>[[G0455]]</small></sup> · <span class="asgreek">βάλλω</span><sup><small>[[G0906]]</small></sup> · <span class="asgreek">διανοίγω</span><sup><small>[[G1272]]</small></sup> · <span class="asgreek">διασπείρω</span><sup><small>[[G1289]]</small></sup> · <span class="asgreek">διαστέλλομαι</span><sup><small>[[G1291]]</small></sup> · <span class="asgreek">ἐκπετάννυμι</span><sup><small>[[G1600]]</small></sup> · <span class="asgreek">ἐκτείνω</span><sup><small>[[G1614]]</small></sup> · <span class="asgreek">ἐπιβάλλω</span><sup><small>[[G1911]]</small></sup> · <span class="asgreek">ἐπικαλύπτω</span><sup><small>[[G1943]]</small></sup> · <span class="asgreek">κλάω</span><sup><small>[[G2806]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup> · <span class="asgreek">περιβάλλω</span><sup><small>[[G4016]]</small></sup>
+<small>See Greek: </small>**<big>[[G0142|αἴρω]]</big>** · **<big>[[G0380|ἀναπτύσσω]]</big>** · **<big>[[G0447|ἀνίημι]]</big>** · **<big>[[G0455|ἀνοίγω]]</big>** · **<big>[[G0906|βάλλω]]</big>** · **<big>[[G1272|διανοίγω]]</big>** · **<big>[[G1289|διασπείρω]]</big>** · **<big>[[G1291|διαστέλλομαι]]</big>** · **<big>[[G1600|ἐκπετάννυμι]]</big>** · **<big>[[G1614|ἐκτείνω]]</big>** · **<big>[[G1911|ἐπιβάλλω]]</big>** · **<big>[[G1943|ἐπικαλύπτω]]</big>** · **<big>[[G2806|κλάω]]</big>** · **<big>[[G3935|παρίημι]]</big>** · **<big>[[G4016|περιβάλλω]]</big>**

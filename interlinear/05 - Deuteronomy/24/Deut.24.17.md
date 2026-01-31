@@ -6,17 +6,17 @@ Do not deny justice to the foreigner or the fatherless, and do not take a widow�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.16|<< Deuteronomy 24:16]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.18|Deuteronomy 24:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will turn aside  | <span class="ashebrew"><big>תַטֶּ֔ה </big></span><small><small><sup>[[H5186]]</sup></small></small> &#8207;| ta.Teh <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] justice of  | <span class="ashebrew"><big>מִשְׁפַּ֖ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a sojourner  | <span class="ashebrew"><big>גֵּ֣ר </big></span><small><small><sup>[[H1616]]</sup></small></small> &#8207;| ger <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fatherless one  | <span class="ashebrew"><big>יָת֑וֹם </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ya.Tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will take as pledge  | <span class="ashebrew"><big>תַחֲבֹ֔ל </big></span><small><small><sup>[[H2254A]]</sup></small></small> &#8207;| ta.cha.Vol <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] garment of  | <span class="ashebrew"><big>בֶּ֖גֶד </big></span><small><small><sup>[[H0899B]]</sup></small></small> &#8207;| Be.ged <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a widow  | <span class="ashebrew"><big>אַלְמָנָֽה </big></span><small><small><sup>[[H0490]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'al.ma.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will turn aside  |**<big>&#8207;[[H5186\|תַטֶּ֔ה]]&#8207; </big>**| ta.Teh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] justice of  |**<big>&#8207;[[H4941H\|מִשְׁפַּ֖ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sojourner  |**<big>&#8207;[[H1616\|גֵּ֣ר]]&#8207; </big>**| ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fatherless one  |**<big>&#8207;[[H3490\|יָת֑וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will take as pledge  |**<big>&#8207;[[H2254A\|תַחֲבֹ֔ל]]&#8207; </big>**| ta.cha.Vol<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] garment of  |**<big>&#8207;[[H0899B\|בֶּ֖גֶד]]&#8207; </big>**| Be.ged<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a widow  |**<big>&#8207;[[H0490\|אַלְמָנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.16|<< Deuteronomy 24:16]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.18|Deuteronomy 24:18 >>]]</td></tr></table>
 
 

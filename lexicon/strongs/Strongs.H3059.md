@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹאָחָז‎</span></big> **Yᵉhôwʼâchâz** <small>*(yeh-ho-aw-khawz')*</small> ==**Jehoahaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎אָחַז‎</span><sup><small>[[H0270]]</small></sup>; Jehovah-seized</small>
+**<big><span class="ashebrew">‎יְהוֹאָחָז‎</span></big>** **Yᵉhôwʼâchâz** <small>*(yeh-ho-aw-khawz')*</small> ==**Jehoahaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H0270|‎אָחַז‎]]</big>**; Jehovah-seized</small>
 
-$\quad$ Jehoahaz. Compare <span class="ashebrew">‎יוֹאָחָז‎</span><sup><small>[[H3099]]</small></sup>.
+$\quad$ Jehoahaz. Compare **<big>[[H3099|‎יוֹאָחָז‎]]</big>**.
 - § Jehoahaz = *"Jehovah has seized"*
 - ***Jehoachaz***, the name of three Israelites
 

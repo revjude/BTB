@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּבָה‎</span></big> **kâbâh** <small>*(kaw-baw')*</small> ==**to quench**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּבָה‎</span></big>** **kâbâh** <small>*(kaw-baw')*</small> ==**to quench**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ go (put) out, quench.

@@ -7,23 +7,23 @@ Though ye offer me burnt offerings and your meat offerings, I will not accept [t
 Even though you offer Me burnt offerings and grain offerings, I will not accept them; for your peace offerings of fattened cattle I will have no regard.<small><sub>**MT:**</sub></small>
 [[Amos.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.21|<< Amos 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.23|Amos 5:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should bring | <big><span class="asgreek">ενέγκητέ</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your sacrifice offerings, | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| favorably receive \[them\]. | <big><span class="asgreek">προσδέξομαι</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| deliverance \[offering\] | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| \[the\] grandeur | <big><span class="asgreek">επιφανείας</span></big> <sup><small><small>[[G2015]]</small></small></sup> |
-| of your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| look upon | <big><span class="asgreek">επιβλέψομαι</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should bring | **<big>[[G5342\|ενέγκητέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your sacrifice offerings, | **<big>[[G2378\|θυσίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| favorably receive \[them\]. | **<big>[[G4327\|προσδέξομαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| deliverance \[offering\] | **<big>[[G4992\|σωτηρίου]]</big>** |
+| \[the\] grandeur | **<big>[[G2015\|επιφανείας]]</big>** |
+| of your | **<big>[[G1473\|υμών]]</big>** |
+| I will not | **<big>[[G3756\|ουκ]]</big>** |
+| look upon | **<big>[[G1914\|επιβλέψομαι]]</big>** |
 [[Amos.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.21|<< Amos 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.23|Amos 5:23 >>]]</td></tr></table>
 
 

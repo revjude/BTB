@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎לְאֹם‎</span></big> **lᵉʼôm** <small>*(leh-ome')*</small> ==**people**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">לְאוֹם</span> **lᵉʼôwm** <small>*(leh-ome')*</small>; from an unused root meaning to gather</small>
+**<big><span class="ashebrew">‎לְאֹם‎</span></big>** **lᵉʼôm** <small>*(leh-ome')*</small> ==**people**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">לְאוֹם</span></big>** **lᵉʼôwm** <small>*(leh-ome')*</small>; from an unused root meaning to gather</small>
 
 $\quad$ nation, people.
 - ***a community***
 
 **1)** a people, nation
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄρχων</span><sup><small>[[G0758]]</small></sup> · <span class="asgreek">λαός</span><sup><small>[[G2992]]</small></sup> · <span class="asgreek">φυλή</span><sup><small>[[G5443]]</small></sup>
+<small>See Greek: </small>**<big>[[G0758|ἄρχων]]</big>** · **<big>[[G2992|λαός]]</big>** · **<big>[[G5443|φυλή]]</big>**

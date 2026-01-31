@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מְכַסֶּה‎</span></big> **mᵉkaççeh** <small>*(mek-as-seh')*</small> ==**covering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּסָה‎</span><sup><small>[[H3680]]</small></sup></small>
+**<big><span class="ashebrew">‎מְכַסֶּה‎</span></big>** **mᵉkaççeh** <small>*(mek-as-seh')*</small> ==**covering**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3680|‎כָּסָה‎]]</big>**</small>
 
 $\quad$ clothing, to cover, that which covereth.
 - ***a covering***, i.e. ***garment***
@@ -8,4 +8,4 @@ $\quad$ clothing, to cover, that which covereth.
 
 **1)** covering, that which covers
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐπικάλυμα</span><sup><small>[[G1942]]</small></sup> · <span class="asgreek">κάλυμα</span><sup><small>[[G2571]]</small></sup> · <span class="asgreek">στέγη</span><sup><small>[[G4721]]</small></sup>
+<small>See Greek: </small>**<big>[[G1942|ἐπικάλυμα]]</big>** · **<big>[[G2571|κάλυμα]]</big>** · **<big>[[G4721|στέγη]]</big>**

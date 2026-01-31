@@ -7,28 +7,28 @@ And it shall come to pass in that day, [that] the LORD shall hiss for the fly th
 On that day the LORD will whistle to the flies at the farthest streams of the Nile and to the bees in the land of Assyria.<small><sub>**MT:**</sub></small>
 [[Isa.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.17|<< Isaiah 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.19|Isaiah 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> will whistle for | <big><span class="asgreek">συριεί</span></big> <sup><small><small>[[G9349]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] flies | <big><span class="asgreek">μυίαις</span></big> <sup><small><small>[[G8355]]</small></small></sup> |
-| which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall dominate | <big><span class="asgreek">κυριεύσουσι</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
-| part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
-| of \[the\] river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[for\] the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bee | <big><span class="asgreek">μελίσση</span></big> <sup><small><small>[[G8283]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] place | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| of \[the\] Assyrians. | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day, | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> will whistle for | **<big>[[G9349\|συριεί]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] flies | **<big>[[G8355\|μυίαις]]</big>** |
+| which | **<big>[[G3739\|αι]]</big>** |
+| shall dominate | **<big>[[G2961\|κυριεύσουσι]]</big>** |
+| part | **<big>[[G3313\|μέρος]]</big>** |
+| of \[the\] river | **<big>[[G4215\|ποταμού]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[for\] the | **<big>[[G3588\|τη]]</big>** |
+| bee | **<big>[[G8283\|μελίσση]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] place | **<big>[[G5561\|χώρα]]</big>** |
+| of \[the\] Assyrians. | **<big>[[H0804\|Ασσυρίων]]</big>** |
 [[Isa.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.17|<< Isaiah 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.19|Isaiah 7:19 >>]]</td></tr></table>
 
 

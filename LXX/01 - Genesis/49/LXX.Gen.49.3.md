@@ -7,20 +7,20 @@ Reuben, thou [art] my firstborn, my might, and the beginning of my strength, the
 Reuben, you are my firstborn, my might, and the beginning of my strength, excelling in honor, excelling in power.<small><sub>**MT:**</sub></small>
 [[Gen.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.2|<< Genesis 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.4|Genesis 49:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Reuben | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
-| my first-born, | <big><span class="asgreek">πρωτότοκός</span></big> <sup><small><small>[[G4416]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] my strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] beginning | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of my children, | <big><span class="asgreek">τέκνων</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stubborn | <big><span class="asgreek">σκληρός</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| to bear, | <big><span class="asgreek">φέρεσθαι</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stubborn | <big><span class="asgreek">σκληρός</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| self-willed. | <big><span class="asgreek">αυθάδης</span></big> <sup><small><small>[[G0829]]</small></small></sup> |
+| Reuben | **<big>[[G4502\|Ρουβήν]]</big>** |
+| my first-born, | **<big>[[G4416\|πρωτότοκός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| \[are\] my strength | **<big>[[G2479\|ισχύς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] beginning | **<big>[[G0746\|αρχή]]</big>** |
+| of my children, | **<big>[[G5043\|τέκνων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| stubborn | **<big>[[G4642\|σκληρός]]</big>** |
+| to bear, | **<big>[[G5342\|φέρεσθαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stubborn | **<big>[[G4642\|σκληρός]]</big>** |
+| self-willed. | **<big>[[G0829\|αυθάδης]]</big>** |
 [[Gen.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.2|<< Genesis 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.4|Genesis 49:4 >>]]</td></tr></table>
 
 

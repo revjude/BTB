@@ -7,23 +7,23 @@ And turn ye not aside: for [then should ye go] after vain [things], which cannot
 Do not turn aside after worthless things that cannot profit you or deliver you, for they are empty.<small><sub>**MT:**</sub></small>
 [[1Sam.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.20|<< 1 Samuel 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.22|1 Samuel 12:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| turn aside | <big><span class="asgreek">εκκλίνητε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being nothing, | <big><span class="asgreek">μηθέν</span></big> <sup><small><small>[[G3367]]</small></small></sup> <big><span class="asgreek">όντων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| achieve | <big><span class="asgreek">περανούσιν</span></big> <sup><small><small>[[G8712]]</small></small></sup> |
-| nothing, | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| rescue, | <big><span class="asgreek">εξελούνται</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they are nothing. | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| turn aside | **<big>[[G1578\|εκκλίνητε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| being nothing, | **<big>[[G3367\|μηθέν]]</big>** **<big>[[G1510\|όντων]]</big>** |
+| which | **<big>[[G3739\|οι]]</big>** |
+| achieve | **<big>[[G8712\|περανούσιν]]</big>** |
+| nothing, | **<big>[[G3762\|ουδέν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| which | **<big>[[G3739\|οι]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| rescue, | **<big>[[G1807\|εξελούνται]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they are nothing. | **<big>[[G3762\|ουδέν]]</big>** **<big>[[G1510\|εισιν]]</big>** |
 [[1Sam.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.20|<< 1 Samuel 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.22|1 Samuel 12:22 >>]]</td></tr></table>
 
 

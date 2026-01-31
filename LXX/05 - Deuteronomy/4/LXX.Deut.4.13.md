@@ -7,27 +7,27 @@ And he declared unto you his covenant, which he commanded you to perform, [even]
 He declared to you His covenant, which He commanded you to follow—the Ten Commandments that He wrote on two tablets of stone.<small><sub>**MT:**</sub></small>
 [[Deut.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.12|<< Deuteronomy 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.14|Deuteronomy 4:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he announced | <big><span class="asgreek">ανήγγειλεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his covenant, | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to observe -- | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| discourses; | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he wrote | <big><span class="asgreek">έγραψεν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| tablets | <big><span class="asgreek">πλάκας</span></big> <sup><small><small>[[G4109]]</small></small></sup> |
-| of stone. | <big><span class="asgreek">λιθίνας</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he announced | **<big>[[G0312\|ανήγγειλεν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his covenant, | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he gave charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| to observe -- | **<big>[[G4160\|ποιείν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| discourses; | **<big>[[G4487\|ρήματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he wrote | **<big>[[G1125\|έγραψεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| tablets | **<big>[[G4109\|πλάκας]]</big>** |
+| of stone. | **<big>[[G3035\|λιθίνας]]</big>** |
 [[Deut.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.12|<< Deuteronomy 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.14|Deuteronomy 4:14 >>]]</td></tr></table>
 
 

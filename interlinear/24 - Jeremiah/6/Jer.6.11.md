@@ -6,32 +6,32 @@ But I am full of the LORD’s wrath; I am tired of holding it back. “Pour it o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.10|<< Jeremiah 6:10]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.12|Jeremiah 6:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵת֩ </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] rage of  | <span class="ashebrew"><big>חֲמַ֨ת </big></span><small><small><sup>[[H2534]]</sup></small></small> &#8207;| cha.Mat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am full  | <span class="ashebrew"><big>מָלֵ֙אתִי֙ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| ma.Le.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am weary  | <span class="ashebrew"><big>נִלְאֵ֣יתִי </big></span><small><small><sup>[[H3811]]</sup></small></small> &#8207;| nil.'Ei.ti <small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to hold [it] in  | <span class="ashebrew"><big>הָכִ֔יל </big></span><small><small><sup>[[H3557]]</sup></small></small> &#8207;| ha.Khil <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pour [it] out  | <span class="ashebrew"><big>שְׁפֹ֤ךְ </big></span><small><small><sup>[[H8210G]]</sup></small></small> &#8207;| she.Fokh <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| child[ren]  | <span class="ashebrew"><big>עוֹלָל֙ </big></span><small><small><sup>[[H5768]]</sup></small></small> &#8207;| o.Lal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the street  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ח֔וּץ </big></span><small><small><sup>[[H2351]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> Chutz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַ֛ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gathering of  | <span class="ashebrew"><big>ס֥וֹד </big></span><small><small><sup>[[H5475]]</sup></small></small> &#8207;| Sod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young men  | <span class="ashebrew"><big>בַּחוּרִ֖ים </big></span><small><small><sup>[[H0970]]</sup></small></small> &#8207;| ba.chu.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| alike  | <span class="ashebrew"><big>יַחְדָּ֑ו </big></span><small><small><sup>[[H3162B]]</sup></small></small> &#8207;| yach.Dav <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a husband  | <span class="ashebrew"><big>אִ֤ישׁ </big></span><small><small><sup>[[H0376H]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wife  | <span class="ashebrew"><big>אִשָּׁה֙ </big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be caught  | <span class="ashebrew"><big>יִלָּכֵ֔דוּ </big></span><small><small><sup>[[H3920]]</sup></small></small> &#8207;| yi.la.Khe.du <small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] old  | <span class="ashebrew"><big>זָקֵ֖ן </big></span><small><small><sup>[[H2205H]]</sup></small></small> &#8207;| za.Ken <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] full of  | <span class="ashebrew"><big>מְלֵ֥א </big></span><small><small><sup>[[H4392]]</sup></small></small> &#8207;| me.Le' <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  | <span class="ashebrew"><big>יָמִֽים </big></span><small><small><sup>[[H3117H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אֵת֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rage of  |**<big>&#8207;[[H2534\|חֲמַ֨ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am full  |**<big>&#8207;[[H4390\|מָלֵ֙אתִי֙]]&#8207; </big>**| ma.Le.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am weary  |**<big>&#8207;[[H3811\|נִלְאֵ֣יתִי]]&#8207; </big>**| nil.'Ei.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to hold [it] in  |**<big>&#8207;[[H3557\|הָכִ֔יל]]&#8207; </big>**| ha.Khil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pour [it] out  |**<big>&#8207;[[H8210G\|שְׁפֹ֤ךְ]]&#8207; </big>**| she.Fokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| child[ren]  |**<big>&#8207;[[H5768\|עוֹלָל֙]]&#8207; </big>**| o.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the street  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2351\|ח֔וּץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֛ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gathering of  |**<big>&#8207;[[H5475\|ס֥וֹד]]&#8207; </big>**| Sod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young men  |**<big>&#8207;[[H0970\|בַּחוּרִ֖ים]]&#8207; </big>**| ba.chu.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alike  |**<big>&#8207;[[H3162B\|יַחְדָּ֑ו]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a husband  |**<big>&#8207;[[H0376H\|אִ֤ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wife  |**<big>&#8207;[[H0802H\|אִשָּׁה֙]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be caught  |**<big>&#8207;[[H3920\|יִלָּכֵ֔דוּ]]&#8207; </big>**| yi.la.Khe.du<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] old  |**<big>&#8207;[[H2205H\|זָקֵ֖ן]]&#8207; </big>**| za.Ken<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] full of  |**<big>&#8207;[[H4392\|מְלֵ֥א]]&#8207; </big>**| me.Le'<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117H\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.10|<< Jeremiah 6:10]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.12|Jeremiah 6:12 >>]]</td></tr></table>
 
 

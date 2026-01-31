@@ -7,48 +7,48 @@ And forgettest the LORD thy maker, that hath stretched forth the heavens, and la
 But you have forgotten the LORD, your Maker, who stretched out the heavens and laid the foundations of the earth. You live in terror all day long because of the fury of the oppressor who is bent on destruction. But where is the fury of the oppressor?<small><sub>**MT:**</sub></small>
 [[Isa.51.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.12|<< Isaiah 51:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.14|Isaiah 51:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you forgot | <big><span class="asgreek">επελάθου</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιήσαντά</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιήσαντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| laying the foundation | <big><span class="asgreek">θεμελιώσαντα</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
-| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβού</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| continually | <big><span class="asgreek">αεί</span></big> <sup><small><small>[[G0104]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one afflicting | <big><span class="asgreek">θλίβοντός</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| you! | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| he planned | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to carry you away. | <big><span class="asgreek">άραι</span></big> <sup><small><small>[[G0142]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| where \[is\] | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| afflicting | <big><span class="asgreek">θλίβοντός</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you forgot | **<big>[[G1950\|επελάθου]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| making | **<big>[[G4160\|ποιήσαντά]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| making | **<big>[[G4160\|ποιήσαντα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| laying the foundation | **<big>[[G2311\|θεμελιώσαντα]]</big>** |
+| for the | **<big>[[G3588\|την]]</big>** |
+| earth. | **<big>[[G1093\|γην]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| fear | **<big>[[G5399\|φοβού]]</big>** |
+| continually | **<big>[[G0104\|αεί]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| in front | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| rage | **<big>[[G2372\|θυμού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| one afflicting | **<big>[[G2346\|θλίβοντός]]</big>** |
+| you! | **<big>[[G1473\|σε]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| he planned | **<big>[[G1011\|εβουλεύσατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to carry you away. | **<big>[[G0142\|άραι]]</big>** **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| where \[is\] | **<big>[[G4226\|που]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rage | **<big>[[G2372\|θυμός]]</big>** |
+| of the one | **<big>[[G3588\|του]]</big>** |
+| afflicting | **<big>[[G2346\|θλίβοντός]]</big>** |
+| you? | **<big>[[G1473\|σε]]</big>** |
 [[Isa.51.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.12|<< Isaiah 51:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.14|Isaiah 51:14 >>]]</td></tr></table>
 
 

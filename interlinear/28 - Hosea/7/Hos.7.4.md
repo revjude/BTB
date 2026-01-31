@@ -6,20 +6,20 @@ They are all adulterers, like an oven heated by a baker who needs not stoke the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.3|<< Hosea 7:3]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.5|Hosea 7:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| all of them  | <span class="ashebrew"><big>כֻּלָּ </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ku.La <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] adulterers  | <span class="ashebrew"><big>מְנָ֣אֲפִ֔ים </big></span><small><small><sup>[[H5003]]</sup></small></small> &#8207;| me.Na.'a.Fim <small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמ֣וֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> &#8207;| ke.Mo <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an oven  | <span class="ashebrew"><big>תַנּ֔וּר </big></span><small><small><sup>[[H8574H]]</sup></small></small> &#8207;| ta.Nur <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| burning  | <span class="ashebrew"><big>בֹּעֵ֖רָה </big></span><small><small><sup>[[H1197A]]</sup></small></small> &#8207;| bo.'E.rah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a baker  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֹפֶ֑ה </big></span><small><small><sup>[[H0644]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'o.Peh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] he ceases  | <span class="ashebrew"><big>יִשְׁבּ֣וֹת </big></span><small><small><sup>[[H7673A]]</sup></small></small> &#8207;| yish.Bot <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stirring up  | <span class="ashebrew"><big>מֵעִ֔יר </big></span><small><small><sup>[[H5782]]</sup></small></small> &#8207;| me.'Ir <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from kneading  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>לּ֥וּשׁ </big></span><small><small><sup>[[H3888]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Lush <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] dough  | <span class="ashebrew"><big>בָּצֵ֖ק </big></span><small><small><sup>[[H1217]]</sup></small></small> &#8207;| ba.Tzek <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| is leavened it  | <span class="ashebrew"><big>חֻמְצָתֽ </big></span><small><small><sup>[[H2556A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9043]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| chum.tza.T <small><sup>[[HVqcc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] adulterers  |**<big>&#8207;[[H5003\|מְנָ֣אֲפִ֔ים]]&#8207; </big>**| me.Na.'a.Fim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמ֣וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an oven  |**<big>&#8207;[[H8574H\|תַנּ֔וּר]]&#8207; </big>**| ta.Nur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burning  |**<big>&#8207;[[H1197A\|בֹּעֵ֖רָה]]&#8207; </big>**| bo.'E.rah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a baker  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0644\|אֹפֶ֑ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] he ceases  |**<big>&#8207;[[H7673A\|יִשְׁבּ֣וֹת]]&#8207; </big>**| yish.Bot<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stirring up  |**<big>&#8207;[[H5782\|מֵעִ֔יר]]&#8207; </big>**| me.'Ir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from kneading  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3888\|לּ֥וּשׁ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Lush<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] dough  |**<big>&#8207;[[H1217\|בָּצֵ֖ק]]&#8207; </big>**| ba.Tzek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| is leavened it  |**<big>&#8207;[[H2556A\|חֻמְצָתֽ]]&#8207;&#8207;[[H9043\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chum.tza.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.3|<< Hosea 7:3]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.5|Hosea 7:5 >>]]</td></tr></table>
 
 

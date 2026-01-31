@@ -4,8 +4,8 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Shedeur</span>, the father of Elizur, who was a leader of the tribe of Reuben.
 - A man living at the time of Egypt and Wilderness, first mentioned at [[Num.1.5|Num.1.5]]; 
-- only referred to as Shedeur<[[H7707]]> \(<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>יאו</span>ּ<span class='tipnrLangHebrew'>ר</span>\); 
--  father of Elizur<[[H0468]]>.
+- only referred to as Shedeur **<big>[[H7707|שְׁדֵיאוּר]]</big>**; 
+-  father of Elizur **<big>[[H0468|אֱלִיצוּר]]</big>**.
 
 Shedeur was the father of Elizur, a prominent leader from the tribe of Reuben. Elizur was chosen as the leader of the Reubenites in the census and organization of Israel in the wilderness \([[Num.1.5|Numbers 1:5]]\). He was in charge of the camp of Reuben, which was located on the south side of the tabernacle \([[Num.2.10|Numbers 2:10]]\). 
 
@@ -13,7 +13,7 @@ Elizur represented Reuben when the leaders brought offerings for the dedication 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shedeur | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>יאו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H7707) <small>*Hebrew*</small> | 5x | [[Num.1.5] ... [Num.10.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shedeur\*\|reference=Num.1.5;Num.2.10;Num.7.30;Num.7.35;Num.10.18) |
-All Strong's for **Shedeur**: \[[[H7707]]\]
+| Shedeur | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ד</span>ֵ<span class='tipnrLangHebrew'>יאו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H7707) | 5x | [[Num.1.5] ... [Num.10.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shedeur\*\|reference=Num.1.5;Num.2.10;Num.7.30;Num.7.35;Num.10.18) |
+All entries for **Shedeur**:  **<big>[[H7707|שְׁדֵיאוּר]]</big>**
 #### Related Profiles:
 - **[Elizur](H0468)** (child)

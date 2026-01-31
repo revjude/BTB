@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָנַק‎</span></big> **zânaq** <small>*(zaw-nak')*</small> ==**to leap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָנַק‎</span></big>** **zânaq** <small>*(zaw-nak')*</small> ==**to leap**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ leap.
@@ -6,4 +6,4 @@ $\quad$ leap.
 
 **1)** (Piel) to leap, spring
 
-<sub><small>See Greek: </small></sub><span class="asgreek">εἰσπηδάω</span><sup><small>[[G1530]]</small></sup>
+<small>See Greek: </small>**<big>[[G1530|εἰσπηδάω]]</big>**

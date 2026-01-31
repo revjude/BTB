@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎πείθω‎</span></big> **peíthō** <small>*(pi'-tho)*</small> ==**to persuade**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+**<big><span class="asgreek">‎πείθω‎</span></big>** **peíthō** <small>*(pi'-tho)*</small> ==**to persuade**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
 <small>a primary verb</small>
 
 $\quad$ agree, assure, believe, have confidence, be (wax) conflent, make friend, obey, persuade, trust, yield.

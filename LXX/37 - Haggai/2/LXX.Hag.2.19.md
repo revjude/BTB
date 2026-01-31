@@ -7,38 +7,38 @@ Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pom
 Is there still seed in the barn? The vine, the fig, the pomegranate, and the olive tree have not yet yielded fruit. But from this day on, I will bless you.”<small><sub>**MT:**</sub></small>
 [[Hag.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.18|<< Haggai 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.20|Haggai 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| it be recognized | <big><span class="asgreek">επιγνωσθήσεται</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshing-floor, \[no\]. | <big><span class="asgreek">άλω</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grapevine, | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fig-tree, | <big><span class="asgreek">συκή</span></big> <sup><small><small>[[G4808]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pomegranate, | <big><span class="asgreek">ροά</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive, | <big><span class="asgreek">ελαίας</span></big> <sup><small><small>[[G1636]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| bearing | <big><span class="asgreek">φέροντα</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| fruit \[be recognized\], \[no\]. | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I shall bless. | <big><span class="asgreek">ευλογήσω</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| it be recognized | **<big>[[G1921\|επιγνωσθήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| threshing-floor, \[no\]. | **<big>[[G0257\|άλω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall | **<big>[[G1487\|ει]]</big>** |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| grapevine, | **<big>[[G0288\|άμπελος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| fig-tree, | **<big>[[G4808\|συκή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| pomegranate, | **<big>[[G9029\|ροά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees | **<big>[[G3586\|ξύλα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| olive, | **<big>[[G1636\|ελαίας]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| bearing | **<big>[[G5342\|φέροντα]]</big>** |
+| fruit \[be recognized\], \[no\]. | **<big>[[G2590\|καρπόν]]</big>** |
+| From | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this day | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| I shall bless. | **<big>[[G2127\|ευλογήσω]]</big>** |
 [[Hag.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.18|<< Haggai 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.20|Haggai 2:20 >>]]</td></tr></table>
 
 

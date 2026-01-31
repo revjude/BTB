@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Haeleph</span> was a town allotted to the tribe of Benjamin \([[Josh.18.28|Joshua 18:28]]\).
 - A location only mentioned at [[Josh.18.28|Jos.18.28]]; 
-- only referred to as Haeleph<[[H0507]]> \(<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ף</span>\).
+- only referred to as Haeleph **<big>[[H0507|אֶלֶף]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.792733,35.196862&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Haeleph was a town mentioned in the list of cities and towns allotted to the tri
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Haeleph (KJV= Eleph) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ף</span>](H0507) <small>*Hebrew*</small> | 1x | [Jos.18.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haeleph\*\|reference=Jos.18.28) |
-All Strong's for **Haeleph**: \[[[H0507]]\]
+| Haeleph (KJV= Eleph) | [<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>א</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ף</span>](H0507) | 1x | [Jos.18.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haeleph\*\|reference=Jos.18.28) |
+All entries for **Haeleph**:  **<big>[[H0507|אֶלֶף]]</big>**

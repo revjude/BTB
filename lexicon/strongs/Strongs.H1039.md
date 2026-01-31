@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎בֵּית נִמְרָה‎</span></big> **Bêyth Nimrâh** <small>*(bayth nim-raw')*</small> ==**Beth-nimrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and the feminine of <span class="ashebrew">‎נָמֵר‎</span><sup><small>[[H5246]]</small></sup>; house of (the) leopard</small>
+**<big><span class="ashebrew">‎בֵּית נִמְרָה‎</span></big>** **Bêyth Nimrâh** <small>*(bayth nim-raw')*</small> ==**Beth-nimrah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1004|‎בַּיִת‎]]</big>** and the feminine of **<big>[[H5246|‎נָמֵר‎]]</big>**; house of (the) leopard</small>
 
-$\quad$ Beth-Nimrah. Compare <span class="ashebrew">‎נִמְרָה‎</span><sup><small>[[H5247]]</small></sup>.
+$\quad$ Beth-Nimrah. Compare **<big>[[H5247|‎נִמְרָה‎]]</big>**.
 - § Beth-Nimrah = *"house of the leopard"*
 - ***Beth-Nimrah***, a place east of the Jordan
 

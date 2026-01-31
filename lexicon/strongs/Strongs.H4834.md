@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָרַץ‎</span></big> **mârats** <small>*(maw-rats')*</small> ==**be sick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָרַץ‎</span></big>** **mârats** <small>*(maw-rats')*</small> ==**be sick**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ embolden, be forcible, grievous, sore.
@@ -9,4 +9,4 @@ $\quad$ embolden, be forcible, grievous, sore.
 $\quad$ **1a)** (Niphal) to be grievous or painful
 $\quad$ **1b)** (Hiphil) to make sick
 
-<sub><small>See Greek: </small></sub><span class="asgreek">παρενοχλέω</span><sup><small>[[G3926]]</small></sup>
+<small>See Greek: </small>**<big>[[G3926|παρενοχλέω]]</big>**

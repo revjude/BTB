@@ -1,4 +1,4 @@
-combination of: <small>[[G3756]] ([[G3361]]+[[G3756]])</small> 
+combination of: <small>**<big>[[G3756|οὐ]]</big>** (**<big>[[G3361|μή]]</big>**+**<big>[[G3756|οὐ]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>μὴ</span> <span class='asgreek'>οὐ</span></b> 

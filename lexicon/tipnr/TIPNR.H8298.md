@@ -4,11 +4,11 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Sharai</span> was one of the Israelites who had married a foreign woman and agreed to divorce her as part of Ezra's religious reforms.
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.40|Ezr.10.40]]; 
-- only referred to as Sharai<[[H8298]]> \(<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>ָ֑<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Sharai **<big>[[H8298|שָׁרַי]]</big>**.
 
 Sharai, mentioned in [[Ezra.10.40|Ezra 10:40]], was one of the Israelites who had married a foreign woman during the time of Ezra. Following the Babylonian exile, when the Israelites returned to Jerusalem, Ezra discovered that many of them, including priests and Levites, had intermarried with the neighboring peoples. This was seen as a violation of God's law and a threat to the religious purity of the community. Ezra called for a assembly of the people and urged them to confess their sins and separate themselves from their foreign wives. Sharai was among those who agreed to divorce his foreign wife as part of this religious reform. The text does not provide any further details about Sharai's background or the specific circumstances of his marriage. However, his inclusion in the list of those who divorced their foreign wives highlights the importance of maintaining religious purity and the challenges faced by the Israelites in the post-exilic period.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sharai | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H8298) <small>*Hebrew*</small> | 1x | [Ezr.10.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sharai\*\|reference=Ezr.10.40) |
-All Strong's for **Sharai**: \[[[H8298]]\]
+| Sharai | [<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H8298) | 1x | [Ezr.10.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sharai\*\|reference=Ezr.10.40) |
+All entries for **Sharai**:  **<big>[[H8298|שָׁרַי]]</big>**

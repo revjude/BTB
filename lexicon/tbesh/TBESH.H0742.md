@@ -1,5 +1,3 @@
-<span class="ashebrew">‎אֲרִידַי‎</span> <small>***(a.ri.day)***</small> ==**Aridai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Exile and Return, only mentioned at [[Esth.9.9|Est.9.9]]
--  son of: Haman ([[H2001]])
--  brother of: Parshandatha ([[H6577]]), Dalphon ([[H1813]]), Aspatha ([[H0630]]), Poratha ([[H6334]]), Adalia ([[H0118]]), Aridatha ([[H0743]]), Parmashta ([[H6534]]), Arisai ([[H0747]]) and Vaizatha ([[H2055]])
-
+-  son of: Haman (**<big>[[H2001|הָמָן]]</big>**)
+-  brother of: Parshandatha (**<big>[[H6577|פַּרְשַׁנְדָּתָא]]</big>**), Dalphon (**<big>[[H1813|דַּלְפוֹן]]</big>**), Aspatha (**<big>[[H0630|אַסְפָּתָא]]</big>**), Poratha (**<big>[[H6334|פּוֹרָתָא]]</big>**), Adalia (**<big>[[H0118|אֲדַלְיָא]]</big>**), Aridatha (**<big>[[H0743|אֲרִידָתָא]]</big>**), Parmashta (**<big>[[H6534|פַּרְמַשְׁתָּא]]</big>**), Arisai (**<big>[[H0747|אֲרִיסַי]]</big>**) and Vaizatha (**<big>[[H2055|וַיְזָתָא]]</big>**)

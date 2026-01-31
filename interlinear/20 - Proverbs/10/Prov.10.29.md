@@ -6,15 +6,15 @@ The way of the LORD is a refuge to the upright, but destruction awaits those who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.28|<< Proverbs 10:28]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.30|Proverbs 10:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] a refuge  | <span class="ashebrew"><big>מָע֣וֹז </big></span><small><small><sup>[[H4581]]</sup></small></small> &#8207;| ma.'oz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> integrity  | <span class="ashebrew"><big>לַ֭ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>תֹּם </big></span><small><small><sup>[[H8537]]</sup></small></small> &#8207;| La. <small><sup>[[HRd]]</sup></small> tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ </big></span><small><small><sup>[[H1870G]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and destruction  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְחִתָּ֗ה </big></span><small><small><sup>[[H4288]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me.chi.Tah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for [those who] do  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פֹ֣עֲלֵי </big></span><small><small><sup>[[H6466]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Fo.'a.lei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> wickedness  | <span class="ashebrew"><big>אָֽוֶן </big></span><small><small><sup>[[H0205G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a refuge  |**<big>&#8207;[[H4581\|מָע֣וֹז]]&#8207; </big>**| ma.'oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> integrity  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H8537\|תֹּם]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and destruction  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H4288\|מְחִתָּ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.chi.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [those who] do  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6466\|פֹ֣עֲלֵי]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Fo.'a.lei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> wickedness  |**<big>&#8207;[[H0205G\|אָֽוֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.28|<< Proverbs 10:28]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.30|Proverbs 10:30 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּלְעֵד‎</span></big> **Galʻêd** <small>*(gal-ade')*</small> ==**Galeed**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎גַּל‎</span><sup><small>[[H1530]]</small></sup> and <span class="ashebrew">‎עֵד‎</span><sup><small>[[H5707]]</small></sup>; heap of testimony</small>
+**<big><span class="ashebrew">‎גַּלְעֵד‎</span></big>** **Galʻêd** <small>*(gal-ade')*</small> ==**Galeed**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1530|‎גַּל‎]]</big>** and **<big>[[H5707|‎עֵד‎]]</big>**; heap of testimony</small>
 
 $\quad$ Galeed.
 - § Galeed = *"witness heap"*

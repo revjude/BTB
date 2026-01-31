@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָקַף‎</span></big> **zâqaph** <small>*(zaw-kaf')*</small> ==**to raise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָקַף‎</span></big>** **zâqaph** <small>*(zaw-kaf')*</small> ==**to raise**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ raise (up).
@@ -6,4 +6,4 @@ $\quad$ raise (up).
 
 **1)** (Qal) to raise up
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνορθόω</span><sup><small>[[G0461]]</small></sup>
+<small>See Greek: </small>**<big>[[G0461|ἀνορθόω]]</big>**

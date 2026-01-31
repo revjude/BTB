@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hachilah</span> was a hill in the Wilderness of Ziph, where David hid from Saul and where the Ziphites revealed David's location to Saul \([[1Sam.23.19|1 Samuel 23:19]]; 26:1, 3\).
 - A location first mentioned at [[1Sam.23.19|1Sa.23.19]]; 
-- only referred to as Hachilah<[[H2444]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Hachilah **<big>[[H2444|חֲכִילָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.466604,35.216691&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hachilah was a hill located in the Wilderness of Ziph, in the region of Judah. I
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hachilah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2444) <small>*Hebrew*</small> | 3x | [[1Sa.23.19] ... [1Sa.26.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hachilah\*\|reference=1Sa.23.19;1Sa.26.1;1Sa.26.3) |
-All Strong's for **Hachilah**: \[[[H2444]]\]
+| Hachilah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2444) | 3x | [[1Sa.23.19] ... [1Sa.26.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hachilah\*\|reference=1Sa.23.19;1Sa.26.1;1Sa.26.3) |
+All entries for **Hachilah**:  **<big>[[H2444|חֲכִילָה]]</big>**

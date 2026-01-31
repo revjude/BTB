@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עַתְלַי‎</span></big> **ʻAthlay** <small>*(ath-lah'ee)*</small> ==**Athlai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎עַתְלַי‎</span></big>** **ʻAthlay** <small>*(ath-lah'ee)*</small> ==**Athlai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to compress; constringent</small>
 
 $\quad$ Athlai.

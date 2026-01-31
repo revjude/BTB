@@ -7,39 +7,39 @@ He built also the house of the forest of Lebanon; the length thereof [was] an hu
 He built the House of the Forest of Lebanon a hundred cubits long, fifty cubits wide, and thirty cubits high, with four rows of cedar pillars supporting the cedar beams.<small><sub>**MT:**</sub></small>
 [[1Kgs.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.1|<< 1 Kings 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.3|1 Kings 7:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he constructed | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of \[the\] forest | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon. | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| A hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[was\] its length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its width, | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| rows | <big><span class="asgreek">στίχων</span></big> <sup><small><small>[[G9184]]</small></small></sup> |
-| of columns | <big><span class="asgreek">στύλων</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| of cedars, | <big><span class="asgreek">κεδρίνων</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| protrusions | <big><span class="asgreek">ωμίαι</span></big> <sup><small><small>[[G9810]]</small></small></sup> |
-| of cedars | <big><span class="asgreek">κέδριναι</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columns. | <big><span class="asgreek">στύλοις</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he constructed | **<big>[[G3618\|ωκοδόμησε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| of \[the\] forest | **<big>[[G6971\|δρυμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon. | **<big>[[H3844\|Λιβάνου]]</big>** |
+| A hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[was\] its length, | **<big>[[G3372\|μήκος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its width, | **<big>[[G4114\|πλάτος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| cubits | **<big>[[G4083\|πηχέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| its height | **<big>[[G5311\|ύψος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| upon | **<big>[[G1909\|επι]]</big>** |
+| four | **<big>[[G5064\|τεσσάρων]]</big>** |
+| rows | **<big>[[G9184\|στίχων]]</big>** |
+| of columns | **<big>[[G4769\|στύλων]]</big>** |
+| of cedars, | **<big>[[G7989\|κεδρίνων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| protrusions | **<big>[[G9810\|ωμίαι]]</big>** |
+| of cedars | **<big>[[G7989\|κέδριναι]]</big>** |
+| for the | **<big>[[G3588\|τοις]]</big>** |
+| columns. | **<big>[[G4769\|στύλοις]]</big>** |
 [[1Kgs.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.1|<< 1 Kings 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.3|1 Kings 7:3 >>]]</td></tr></table>
 
 

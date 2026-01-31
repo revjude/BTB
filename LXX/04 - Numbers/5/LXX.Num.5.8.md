@@ -7,41 +7,41 @@ But if the man have no kinsman to recompense the trespass unto, let the trespass
 But if the man has no relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest along with the ram of atonement, by which the atonement is made for him.<small><sub>**MT:**</sub></small>
 [[Num.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.7|<< Numbers 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.9|Numbers 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| there might not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting as next of kin, | <big><span class="asgreek">αγχιστεύων</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to give | <big><span class="asgreek">αποδούναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| to him \[satisfaction\] | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trespass \[offering\], | <big><span class="asgreek">πλημμέλημα</span></big> <sup><small><small>[[G8813]]</small></small></sup> |
-| \[let\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trespass \[offering\], | <big><span class="asgreek">πλημμέλημα</span></big> <sup><small><small>[[G8813]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being given | <big><span class="asgreek">αποδιδόμενον</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
-| \[be\] to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερεί</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριού</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement, | <big><span class="asgreek">ιλασμόυ</span></big> <sup><small><small>[[G2434]]</small></small></sup> |
-| by | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he shall atone | <big><span class="asgreek">εξιλάσεται</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| there might not | **<big>[[G3361\|μη]]</big>** |
+| be | **<big>[[G1510\|η]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| acting as next of kin, | **<big>[[G6131\|αγχιστεύων]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to give | **<big>[[G0591\|αποδούναι]]</big>** |
+| to him \[satisfaction\] | **<big>[[G1473\|αυτώ]]</big>** |
+| for the | **<big>[[G3588\|το]]</big>** |
+| trespass \[offering\], | **<big>[[G8813\|πλημμέλημα]]</big>** |
+| \[let\] the | **<big>[[G3588\|το]]</big>** |
+| trespass \[offering\], | **<big>[[G8813\|πλημμέλημα]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| being given | **<big>[[G0591\|αποδιδόμενον]]</big>** |
+| \[be\] to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίω]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| priest | **<big>[[G2409\|ιερεί]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ram | **<big>[[G8096\|κριού]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| atonement, | **<big>[[G2434\|ιλασμόυ]]</big>** |
+| by | **<big>[[G1223\|δι΄]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| he shall atone | **<big>[[G7331\|εξιλάσεται]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτώ]]</big>** |
+| for | **<big>[[G4012\|περί]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Num.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.7|<< Numbers 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.9|Numbers 5:9 >>]]</td></tr></table>
 
 

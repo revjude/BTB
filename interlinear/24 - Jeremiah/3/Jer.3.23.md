@@ -6,18 +6,18 @@ Surely deception comes from the hills, and commotion from the mountains. Surely 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.22|<< Jeremiah 3:22]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.24|Jeremiah 3:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| truly  | <span class="ashebrew"><big>אָכֵ֥ן </big></span><small><small><sup>[[H0403]]</sup></small></small> &#8207;| 'a.Khen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> deception  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֛קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] hills  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>גְּבָע֖וֹת </big></span><small><small><sup>[[H1389I]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> ge.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tumult  | <span class="ashebrew"><big>הָמ֣וֹן </big></span><small><small><sup>[[H1995A]]</sup></small></small> &#8207;| ha.Mon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountains  | <span class="ashebrew"><big>הָרִ֑ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| truly  | <span class="ashebrew"><big>אָכֵן֙ </big></span><small><small><sup>[[H0403]]</sup></small></small> &#8207;| 'a.Khen <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in Yahweh  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יהֹוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  | <span class="ashebrew"><big>אֱלֹהֵ֔י </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>נוּ </big></span><small><small><sup>[[H9025]]</sup></small></small> &#8207;| 'e.lo.Hei. <small><sup>[[HNcmpc]]</sup></small> nu <small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] salvation of  | <span class="ashebrew"><big>תְּשׁוּעַ֖ת </big></span><small><small><sup>[[H8668G]]</sup></small></small> &#8207;| te.shu.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל </big></span><small><small><sup>[[H3478]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truly  |**<big>&#8207;[[H0403\|אָכֵ֥ן]]&#8207; </big>**| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> deception  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8267\|שֶּׁ֛קֶר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hills  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1389I\|גְּבָע֖וֹת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ge.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tumult  |**<big>&#8207;[[H1995A\|הָמ֣וֹן]]&#8207; </big>**| ha.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  |**<big>&#8207;[[H2022G\|הָרִ֑ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truly  |**<big>&#8207;[[H0403\|אָכֵן֙]]&#8207; </big>**| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהֹוָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֔י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] salvation of  |**<big>&#8207;[[H8668G\|תְּשׁוּעַ֖ת]]&#8207; </big>**| te.shu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.22|<< Jeremiah 3:22]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.24|Jeremiah 3:24 >>]]</td></tr></table>
 
 

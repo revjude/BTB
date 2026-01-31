@@ -1,4 +1,4 @@
-<small>Also see: [[H3256]] | [[H8269]]</small>
+<small>Also see: **<big>[[H3256|יָסַר]]</big>** | **<big>[[H8269|שַׂר]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎שָׂרַר‎</span>] **verb denominative** ([[BDB#Gerber|Gerber]]<sup>20</sup>) ==be, or act as, prince, rule==; — 
 

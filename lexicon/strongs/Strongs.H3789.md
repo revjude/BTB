@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּתַב‎</span></big> **kâthab** <small>*(kaw-thab')*</small> ==**to write**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּתַב‎</span></big>** **kâthab** <small>*(kaw-thab')*</small> ==**to write**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ describe, record, prescribe, subscribe, write(-ing, -ten).
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b1)** to be written
 $\quad$ $\quad$ **1b2)** to be written down, be recorded, be enrolled
 $\quad$ **1c)** (Piel) to continue writing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπογράφω</span><sup><small>[[G0583]]</small></sup> · <span class="asgreek">γράμμα</span><sup><small>[[G1121]]</small></sup> · <span class="asgreek">γραφή</span><sup><small>[[G1124]]</small></sup> · <span class="asgreek">γράφω</span><sup><small>[[G1125]]</small></sup> · <span class="asgreek">γράφω</span><sup><small>[[G1125]]</small></sup> · <span class="asgreek">διαθήκη</span><sup><small>[[G1242]]</small></sup> · <span class="asgreek">δογματίζω</span><sup><small>[[G1379]]</small></sup> · <span class="asgreek">ἐν</span><sup><small>[[G1722]]</small></sup> · <span class="asgreek">ἐπιγράφω</span><sup><small>[[G1924]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">μερίζω</span><sup><small>[[G3307]]</small></sup>
+<small>See Greek: </small>**<big>[[G0583|ἀπογράφω]]</big>** · **<big>[[G1121|γράμμα]]</big>** · **<big>[[G1124|γραφή]]</big>** · **<big>[[G1125|γράφω]]</big>** · **<big>[[G1125|γράφω]]</big>** · **<big>[[G1242|διαθήκη]]</big>** · **<big>[[G1379|δογματίζω]]</big>** · **<big>[[G1722|ἐν]]</big>** · **<big>[[G1924|ἐπιγράφω]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G3307|μερίζω]]</big>**

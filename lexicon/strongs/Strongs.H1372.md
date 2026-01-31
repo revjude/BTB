@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גַּבַּחַת‎</span></big> **gabbachath** <small>*(gab-bakh'-ath)*</small> ==**baldness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎גִּבֵּחַ‎</span><sup><small>[[H1371]]</small></sup></small>
+**<big><span class="ashebrew">‎גַּבַּחַת‎</span></big>** **gabbachath** <small>*(gab-bakh'-ath)*</small> ==**baldness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from the same as **<big>[[H1371|‎גִּבֵּחַ‎]]</big>**</small>
 
 $\quad$ bald forehead, [idiom] without.
 - ***baldness*** in the forehead

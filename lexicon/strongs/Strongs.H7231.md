@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָבַב‎</span></big> **râbab** <small>*(raw-bab')*</small> ==**to multiply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; (compare <span class="ashebrew">‎רָבִיב‎</span><sup><small>[[H7241]]</small></sup>); also as denominative from <span class="ashebrew">‎רְבָבָה‎</span><sup><small>[[H7233]]</small></sup></small>
+**<big><span class="ashebrew">‎רָבַב‎</span></big>** **râbab** <small>*(raw-bab')*</small> ==**to multiply**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; (compare **<big>[[H7241|‎רָבִיב‎]]</big>**); also as denominative from **<big>[[H7233|‎רְבָבָה‎]]</big>**</small>
 
 $\quad$ increase, be many(-ifold), be more, multiply, ten thousands.
 - properly, ***to cast together*** , i.e. ***increase***, especially ***in number***

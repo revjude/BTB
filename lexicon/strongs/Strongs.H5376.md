@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎נְשָׂא‎</span></big> **nᵉsâʼ** <small>*(nes-aw')*</small> ==**to lift**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎נָשָׂא‎</span><sup><small>[[H5375]]</small></sup></small>
+**<big><span class="asaramaic">‎נְשָׂא‎</span></big>** **nᵉsâʼ** <small>*(nes-aw')*</small> ==**to lift**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H5375|‎נָשָׂא‎]]</big>**</small>
 
 $\quad$ carry away, make insurrection, take.
 - {***to lift***}
@@ -8,4 +8,4 @@ $\quad$ carry away, make insurrection, take.
 $\quad$ **1a)** (P'al) to take
 $\quad$ **1b)** (Ithpael) to make a rising, make an insurrection
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ῥιπίζω</span><sup><small>[[G4494]]</small></sup>
+<small>See Greek: </small>**<big>[[G4494|ῥιπίζω]]</big>**

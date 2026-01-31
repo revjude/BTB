@@ -4,11 +4,11 @@ Abraham's brother living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Nahor</span>, the son of Terah and brother of Abraham, was the father of Bethuel and the grandfather of Rebekah.
 - Abraham's brother living at the time of the Patriarchs, first mentioned at [[Gen.11.26|Gen.11.26]]; 
-- only referred to as Nahor<[[H5152H]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ר</span>\); 
--  son of Terah<[[H8646G]]>; 
-- a brother of Abraham<[[H0085]]>, Haran<[[H2039G]]> and Sarah<[[H8283]]>; 
-- husband of Milcah<[[H4435G]]> and Reumah<[[H7208]]>; 
--  father of Uz<[[H5780H]]>, Buz<[[H0938G]]>, Kemuel<[[H7055G]]>, Chesed<[[H3777]]>, Hazo<[[H2375]]>, Pildash<[[H6394]]>, Jidlaph<[[H3044]]>, Bethuel<[[H1328A]]>, Tebah<[[H2875]]>, Gaham<[[H1514]]>, Tahash<[[H8477]]> and Maacah<[[H4601G]]>.
+- only referred to as Nahor **<big>[[H5152|נָחוֹר]]</big>**; 
+-  son of Terah **<big>[[H8646|תֶּרַח]]</big>**; 
+- a brother of Abraham **<big>[[H0085|אַבְרָהָם]]</big>**, Haran **<big>[[H2039|הָרָן]]</big>** and Sarah **<big>[[H8283|שָׂרָה]]</big>**; 
+- husband of Milcah **<big>[[H4435|מִלְכָּה]]</big>** and Reumah **<big>[[H7208|רְאוּמָה]]</big>**; 
+-  father of Uz **<big>[[H5780|עוּץ]]</big>**, Buz **<big>[[H0938|בּוּז]]</big>**, Kemuel **<big>[[H7055|קְמוּאֵל]]</big>**, Chesed **<big>[[H3777|כֶּשֶׂד]]</big>**, Hazo **<big>[[H2375|חֲזוֹ]]</big>**, Pildash **<big>[[H6394|פִּלְדָּשׁ]]</big>**, Jidlaph **<big>[[H3044|יִדְלָף]]</big>**, Bethuel **<big>[[H1328|בְּתוּאֵל]]</big>**, Tebah **<big>[[H2875|טֶבַח]]</big>**, Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Nahor, mentioned in Genesis 11, 22, 24, 29, and 31, was the son of Terah and the brother of Abraham and Haran. He was born in Ur of the Chaldeans and later settled in the city of Nahor, which was likely named after him. 
 
@@ -24,8 +24,8 @@ Nahor's role in the biblical narrative is primarily as a link in the lineage of 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahor | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H5152H) <small>*Hebrew*</small> | 12x | [[Gen.11.26] ... [Gen.31.53] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahor\*\|reference=Gen.11.26;Gen.11.27;Gen.11.29;Gen.11.29;Gen.22.20;Gen.22.23;Gen.24.10;Gen.24.15;Gen.24.24;Gen.24.47;Gen.29.5;Gen.31.53) |
-All Strong's for **Nahor**: \[[[H5152H]]\]
+| Nahor | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ר</span>](H5152H) | 12x | [[Gen.11.26] ... [Gen.31.53] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahor\*\|reference=Gen.11.26;Gen.11.27;Gen.11.29;Gen.11.29;Gen.22.20;Gen.22.23;Gen.24.10;Gen.24.15;Gen.24.24;Gen.24.47;Gen.29.5;Gen.31.53) |
+All entries for **Nahor**:  **<big>[[H5152|נָחוֹר]]</big>**
 #### Related Profiles:
 - **[Terah](H8646G)** (father)
 - **[Milcah](H4435G)** (spouse)

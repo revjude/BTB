@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Migdal-el</span>, a fortified city in the territory of Naphtali \([[Josh.19.38|Joshua 19:38]]\).
 - A location only mentioned at [[Josh.19.38|Jos.19.38]]; 
-- only referred to as Migdal-el<[[H4027]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Migdal-el **<big>[[H4027|מִגְדַּל־אֵל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.232131,35.362942&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Migdal-el is mentioned only once in the Bible, in [[Josh.19.38|Joshua 19:38]], a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Migdal-el (NIV= Migdal El) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H4027) <small>*Hebrew*</small> | 1x | [Jos.19.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Migdal\*\|reference=Jos.19.38) |
-All Strong's for **Migdal-el**: \[[[H4027]]\]
+| Migdal-el (NIV= Migdal El) | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>־<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H4027) | 1x | [Jos.19.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Migdal\*\|reference=Jos.19.38) |
+All entries for **Migdal-el**:  **<big>[[H4027|מִגְדַּל־אֵל]]</big>**

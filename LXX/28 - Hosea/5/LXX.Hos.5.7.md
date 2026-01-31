@@ -7,25 +7,25 @@ They have dealt treacherously against the LORD: for they have begotten strange c
 They have been unfaithful to the LORD; for they have borne illegitimate children. Now the New Moon will devour them along with their land.<small><sub>**MT:**</sub></small>
 [[Hos.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.6|<< Hosea 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.8|Hosea 5:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they abandoned | <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| alien | <big><span class="asgreek">αλλότρια</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| were born | <big><span class="asgreek">εγεννήθησαν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| shall devour | <big><span class="asgreek">καταφάγεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blight | <big><span class="asgreek">ερυσίβη</span></big> <sup><small><small>[[G7511]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lots of \[heritage\]. | <big><span class="asgreek">κλήρους</span></big> <sup><small><small>[[G2819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| they abandoned | **<big>[[G1459\|εγκατέλιπον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| children | **<big>[[G5043\|τέκνα]]</big>** |
+| alien | **<big>[[G0245\|αλλότρια]]</big>** |
+| were born | **<big>[[G1080\|εγεννήθησαν]]</big>** |
+| to them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| blight | **<big>[[G7511\|ερυσίβη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their lots of \[heritage\]. | **<big>[[G2819\|κλήρους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Hos.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.6|<< Hosea 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.8|Hosea 5:8 >>]]</td></tr></table>
 
 

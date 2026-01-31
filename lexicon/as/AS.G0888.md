@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀ-χρεῖος</span></span>, <span class="asgreek">-ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">χρεῖος</span></span>, <span class="asitalic">useful</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.2Sam.6.22|II Ki 6:22]] (<span class="ashebrew">שָׁפָל</span> <small><sup>[[H8217]]</sup></small>), [[EpJer.1.17|Ep. Je 17]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀ-χρεῖος</span></span>, <span class="asgreek">-ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">χρεῖος</span></span>, <span class="asitalic">useful</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.2Sam.6.22|II Ki 6:22]] (**<big>[[H8217|שָׁפָל]]</big>**), [[EpJer.1.17|Ep. Je 17]]\*;\]</span> </span>
 <span class="asitalic">useless</span>, <span class="asitalic">unprofitable</span>: [[Matt.25.30|Mt 25:30]], [[Luke.17.10|Lk 17:10]] (MM, s.v.).†
 
 **Abbott-Smith References**

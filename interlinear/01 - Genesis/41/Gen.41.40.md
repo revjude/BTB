@@ -10,21 +10,21 @@ You shall be in charge of my house, and all my people are to obey your commands.
 > $\quad$ referenced by: [[Acts.7.10|Acts 7:10]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you  | <span class="ashebrew"><big>אַתָּה֙ </big></span><small><small><sup>[[H0859A]]</sup></small></small> &#8207;| 'a.Tah <small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be  | <span class="ashebrew"><big>תִּהְיֶ֣ה </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| tih.Yeh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| house my  | <span class="ashebrew"><big>בֵּיתִ֔ </big></span><small><small><sup>[[H1004M]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| bei.T <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth your  | <span class="ashebrew"><big>פִּ֖י </big></span><small><small><sup>[[H6310I]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| Pi. <small><sup>[[HNcmsc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will kiss  | <span class="ashebrew"><big>יִשַּׁ֣ק </big></span><small><small><sup>[[H5401A]]</sup></small></small> &#8207;| yi.Shak <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  | <span class="ashebrew"><big>עַמִּ֑ </big></span><small><small><sup>[[H5971A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| 'a.M <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| only  | <span class="ashebrew"><big>רַ֥ק </big></span><small><small><sup>[[H7535]]</sup></small></small> &#8207;| rak <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the throne  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כִּסֵּ֖א </big></span><small><small><sup>[[H3678G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ki.Se' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will be great  | <span class="ashebrew"><big>אֶגְדַּ֥ל </big></span><small><small><sup>[[H1431]]</sup></small></small> &#8207;| 'eg.Dal <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than you  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>ךָּ </big></span><small><small><sup>[[H9031]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HRd]]</sup></small> ka <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  |**<big>&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be  |**<big>&#8207;[[H1961\|תִּהְיֶ֣ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house my  |**<big>&#8207;[[H1004M\|בֵּיתִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth your  |**<big>&#8207;[[H6310I\|פִּ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Pi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will kiss  |**<big>&#8207;[[H5401A\|יִשַּׁ֣ק]]&#8207; </big>**| yi.Shak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  |**<big>&#8207;[[H7535\|רַ֥ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the throne  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3678G\|כִּסֵּ֖א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ki.Se'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will be great  |**<big>&#8207;[[H1431\|אֶגְדַּ֥ל]]&#8207; </big>**| 'eg.Dal<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than you  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.39|<< Genesis 41:39]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.41|Genesis 41:41 >>]]</td></tr></table>
 
 

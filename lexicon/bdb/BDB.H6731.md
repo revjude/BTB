@@ -1,4 +1,4 @@
-<small>Also see: [[H6733]] | [[H6732]]</small>
+<small>Also see: **<big>[[H6733|צִיצָה]]</big>** | **<big>[[H6732|צִיץ]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎צִיץ‎</span> **noun masculine**<sup>[[Isa.28.1|Isa 28:1]]</sup> 
 

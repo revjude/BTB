@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שֶׁמֶץ‎</span></big> **shemets** <small>*(sheh'-mets)*</small> ==**whisper**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎שֶׁמֶץ‎</span></big>** **shemets** <small>*(sheh'-mets)*</small> ==**whisper**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to emit a sound</small>
 
 $\quad$ a little.
@@ -6,4 +6,4 @@ $\quad$ a little.
 
 **1)** whisper, little
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἱκμάς</span><sup><small>[[G2429]]</small></sup>
+<small>See Greek: </small>**<big>[[G2429|ἱκμάς]]</big>**

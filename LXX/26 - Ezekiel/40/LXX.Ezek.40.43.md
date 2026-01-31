@@ -7,29 +7,29 @@ And within [were] hooks, an hand broad, fastened round about: and upon the table
 The double-pronged hooks, each a handbreadth long, were fastened all around the inside of the room, and the flesh of the offering was to be placed on the tables.<small><sub>**MT:**</sub></small>
 [[Ezek.40.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.42|<< Ezekiel 40:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.44|Ezekiel 40:44 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a palm \[sized\] | <big><span class="asgreek">παλαιστής</span></big> <sup><small><small>[[G8585]]</small></small></sup> |
-| they shall have | <big><span class="asgreek">έξουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| waved border | <big><span class="asgreek">κυμάτιον</span></big> <sup><small><small>[[G8122]]</small></small></sup> |
-| dressed stone | <big><span class="asgreek">λελαξευμένον</span></big> <sup><small><small>[[G8162]]</small></small></sup> |
-| inside | <big><span class="asgreek">έσωθεν</span></big> <sup><small><small>[[G2081]]</small></small></sup> |
-| round about; | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tables | <big><span class="asgreek">τραπέζας</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
-| on top | <big><span class="asgreek">επάνωθεν</span></big> <sup><small><small>[[G7366]]</small></small></sup> |
-| \[were\] roofs | <big><span class="asgreek">στέγας</span></big> <sup><small><small>[[G4721]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to cover up | <big><span class="asgreek">καλυπτεσθαι</span></big> <sup><small><small>[[G2619]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετού</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dryness. | <big><span class="asgreek">ξηρασίας</span></big> <sup><small><small>[[G8425]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a palm \[sized\] | **<big>[[G8585\|παλαιστής]]</big>** |
+| they shall have | **<big>[[G2192\|έξουσι]]</big>** |
+| waved border | **<big>[[G8122\|κυμάτιον]]</big>** |
+| dressed stone | **<big>[[G8162\|λελαξευμένον]]</big>** |
+| inside | **<big>[[G2081\|έσωθεν]]</big>** |
+| round about; | **<big>[[G2945\|κύκλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| tables | **<big>[[G5132\|τραπέζας]]</big>** |
+| on top | **<big>[[G7366\|επάνωθεν]]</big>** |
+| \[were\] roofs | **<big>[[G4721\|στέγας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to cover up | **<big>[[G2619\|καλυπτεσθαι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| rain | **<big>[[G5205\|υετού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| dryness. | **<big>[[G8425\|ξηρασίας]]</big>** |
 [[Ezek.40.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.42|<< Ezekiel 40:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.44|Ezekiel 40:44 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ they wandered from nation to nation, from one kingdom to another.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.12|<< Psalms 105:12]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.14|Psalms 105:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they went about  | <span class="ashebrew"><big>וַֽ֭ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּתְהַלְּכוּ </big></span><small><small><sup>[[H1980I]]</sup></small></small> &#8207;| Va <small><sup>[[Hc]]</sup></small> i.yit.ha.le.khu <small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from nation  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>גּ֣וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| nation  | <span class="ashebrew"><big>גּ֑וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a kingdom  | <span class="ashebrew"><big>מִ֝ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מַּמְלָכָ֗ה </big></span><small><small><sup>[[H4467]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> mam.la.Khah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>עַ֥ם </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| another  | <span class="ashebrew"><big>אַחֵֽר </big></span><small><small><sup>[[H0312]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Cher <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went about  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H1980I\|יִּתְהַלְּכוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yit.ha.le.khu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from nation  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1471A\|גּ֣וֹי]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nation  |**<big>&#8207;[[H1471A\|גּ֑וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a kingdom  |**<big>&#8207;[[H9006\|מִ֝]]&#8207;&#8207;[[H4467\|מַּמְלָכָ֗ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mam.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H5971A\|עַ֥ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  |**<big>&#8207;[[H0312\|אַחֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.12|<< Psalms 105:12]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.14|Psalms 105:14 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ I saw in the visions of my head upon my bed, and, behold, a watcher and an holy 
 As I lay on my bed, I also saw in the visions of my mind a watcher, a holy one, coming down from heaven.<small><sub>**MT:**</sub></small>
 [[Dan.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.12|<< Daniel 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.14|Daniel 4:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I viewed | <big><span class="asgreek">εθεώρουν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a vision | <big><span class="asgreek">οράματι</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bed, | <big><span class="asgreek">κοίτης</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a sentinel, | <big><span class="asgreek">ειρ</span></big> <sup><small><small>[[G7064]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a holy one | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| came down. | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| I viewed | **<big>[[G2334\|εθεώρουν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a vision | **<big>[[G3705\|οράματι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| night | **<big>[[G3571\|νυκτός]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my bed, | **<big>[[G2845\|κοίτης]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a sentinel, | **<big>[[G7064\|ειρ]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| a holy one | **<big>[[G0039\|άγιος]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| came down. | **<big>[[G2597\|κατέβη]]</big>** |
 [[Dan.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.12|<< Daniel 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.14|Daniel 4:14 >>]]</td></tr></table>
 
 

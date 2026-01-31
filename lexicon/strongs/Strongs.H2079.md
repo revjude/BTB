@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַבַּי‎</span></big> **Zabbay** <small>*(zab-bah'-ee)*</small> ==**Zabbai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably by orthographical error for <span class="ashebrew">‎זַכַּי‎</span><sup><small>[[H2140]]</small></sup></small>
+**<big><span class="ashebrew">‎זַבַּי‎</span></big>** **Zabbay** <small>*(zab-bah'-ee)*</small> ==**Zabbai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably by orthographical error for **<big>[[H2140|‎זַכַּי‎]]</big>**</small>
 
 $\quad$ Zabbai.
 - § Zabbai = *"pure"*

@@ -7,32 +7,32 @@ But his bow abode in strength, and the arms of his hands were made strong by the
 Yet he steadied his bow, and his strong arms were tempered by the hands of the Mighty One of Jacob, in the name of the Shepherd, the Rock of Israel,<small><sub>**MT:**</sub></small>
 [[Gen.49.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.23|<< Genesis 49:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.25|Genesis 49:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were broken | <big><span class="asgreek">συνετρίβη</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| might | <big><span class="asgreek">κράτους</span></big> <sup><small><small>[[G2904]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their bows | <big><span class="asgreek">τόξα</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were loosened | <big><span class="asgreek">εξελύθη</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nerves | <big><span class="asgreek">νεύρα</span></big> <sup><small><small>[[G8391]]</small></small></sup> |
-| arms | <big><span class="asgreek">βραχιόνων</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| of their hand's | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] mighty one | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| of Jacob; | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strengthening | <big><span class="asgreek">κατισχύσας</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| by means of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| were broken | **<big>[[G4937\|συνετρίβη]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| might | **<big>[[G2904\|κράτους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their bows | **<big>[[G5115\|τόξα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were loosened | **<big>[[G1590\|εξελύθη]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| nerves | **<big>[[G8391\|νεύρα]]</big>** |
+| arms | **<big>[[G1023\|βραχιόνων]]</big>** |
+| of their hand's | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χείρα]]</big>** |
+| of \[the\] mighty one | **<big>[[G1413\|δυνάστου]]</big>** |
+| of Jacob; | **<big>[[G2384\|Ιακώβ]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| strengthening | **<big>[[G2729\|κατισχύσας]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| by means of | **<big>[[G3844\|παρά]]</big>** |
+| God | **<big>[[G2316\|θεού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.49.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.23|<< Genesis 49:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.25|Genesis 49:25 >>]]</td></tr></table>
 
 

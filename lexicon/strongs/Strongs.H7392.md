@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎רָכַב‎</span></big> **râkab** <small>*(raw-kab')*</small> ==**to ride**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎רָכַב‎</span></big>** **râkab** <small>*(raw-kab')*</small> ==**to ride**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bring (on (horse-) back), carry, get (oneself) up, on (horse-) back, put, (cause to, make to) ride (in a chariot, on, -r), set.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b1)** to cause to ride, cause to (mount and) ride
 $\quad$ $\quad$ **1b2)** to cause to draw (plough, etc)
 $\quad$ $\quad$ **1b3)** to cause to ride upon (fig)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναβαίνω</span><sup><small>[[G0305]]</small></sup> · <span class="asgreek">ἀναβιβάζω</span><sup><small>[[G0307]]</small></sup> · <span class="asgreek">ἅρμα</span><sup><small>[[G0716]]</small></sup> · <span class="asgreek">διέρχομαι</span><sup><small>[[G1330]]</small></sup> · <span class="asgreek">ἐμβιβάζω</span><sup><small>[[G1688]]</small></sup> · <span class="asgreek">ἐπιβαίνω</span><sup><small>[[G1910]]</small></sup> · <span class="asgreek">ἐπιβιβάζω</span><sup><small>[[G1913]]</small></sup> · <span class="asgreek">ἐπικαθίζω</span><sup><small>[[G1940]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">ἱππεύς</span><sup><small>[[G2460]]</small></sup> · <span class="asgreek">κάθημαι</span><sup><small>[[G2521]]</small></sup> · <span class="asgreek">καθίζω</span><sup><small>[[G2523]]</small></sup>
+<small>See Greek: </small>**<big>[[G0305|ἀναβαίνω]]</big>** · **<big>[[G0307|ἀναβιβάζω]]</big>** · **<big>[[G0716|ἅρμα]]</big>** · **<big>[[G1330|διέρχομαι]]</big>** · **<big>[[G1688|ἐμβιβάζω]]</big>** · **<big>[[G1910|ἐπιβαίνω]]</big>** · **<big>[[G1913|ἐπιβιβάζω]]</big>** · **<big>[[G1940|ἐπικαθίζω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2460|ἱππεύς]]</big>** · **<big>[[G2521|κάθημαι]]</big>** · **<big>[[G2523|καθίζω]]</big>**

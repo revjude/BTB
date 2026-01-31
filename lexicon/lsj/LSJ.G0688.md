@@ -1,4 +1,4 @@
-Greek of: <small>[[H6152B]]</small> 
+Greek of: <small>**<big>[[H6152B|עֲרָב]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ἀραβία==</span>-<span class='asgreek'>ία</span></b>, <span class='asgreek'>ἡ</span>, 

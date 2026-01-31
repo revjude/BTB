@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָרַךְ‎</span></big> **ʼârak** <small>*(aw-rak')*</small> ==**to prolong**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָרַךְ‎</span></big>** **ʼârak** <small>*(aw-rak')*</small> ==**to prolong**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ defer, draw out, lengthen, (be, become, make, pro-) long, [phrase] (out-, over-) live, tarry (long).

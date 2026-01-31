@@ -7,46 +7,46 @@ From Sihor, which [is] before Egypt, even unto the borders of Ekron northward, [
 from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)—that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;<small><sub>**MT:**</sub></small>
 [[Josh.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.2|<< Joshua 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.4|Joshua 13:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| uninhabited part | <big><span class="asgreek">αοικήτου</span></big> <sup><small><small>[[G6384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| borders | <big><span class="asgreek">ορίων</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
-| of Ekron, | <big><span class="asgreek">Ακκαρών</span></big> <sup><small><small>[[H6138]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] left | <big><span class="asgreek">ευωνύμων</span></big> <sup><small><small>[[G2176]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Canaanites -- | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
-| \[which is\] counted in addition to; | <big><span class="asgreek">προσλογίζεται</span></big> <sup><small><small>[[G8932]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| satrapies | <big><span class="asgreek">σατραπειαίς</span></big> <sup><small><small>[[G9058]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines, | <big><span class="asgreek">Φυλιστιείμ</span></big> <sup><small><small>[[H6430]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gazite, | <big><span class="asgreek">Γαζαίω</span></big> <sup><small><small>[[H5841]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashdodite | <big><span class="asgreek">Αζωτίω</span></big> <sup><small><small>[[G0108]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ashkelonite, | <big><span class="asgreek">Ασκαλωνίτη</span></big> <sup><small><small>[[H0831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gittite, | <big><span class="asgreek">Γεθθαίω</span></big> <sup><small><small>[[H1663]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ekronite, | <big><span class="asgreek">Αχαρωνίτι</span></big> <sup><small><small>[[H6139]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hivite; | <big><span class="asgreek">Ευαίω</span></big> <sup><small><small>[[H2340]]</small></small></sup> |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| uninhabited part | **<big>[[G6384\|αοικήτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| borders | **<big>[[G3725\|ορίων]]</big>** |
+| of Ekron, | **<big>[[H6138\|Ακκαρών]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] left | **<big>[[G2176\|ευωνύμων]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Canaanites -- | **<big>[[G5477\|Χαναναίων]]</big>** |
+| \[which is\] counted in addition to; | **<big>[[G8932\|προσλογίζεται]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| satrapies | **<big>[[G9058\|σατραπειαίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Philistines, | **<big>[[H6430\|Φυλιστιείμ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Gazite, | **<big>[[H5841\|Γαζαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Ashdodite | **<big>[[G0108\|Αζωτίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Ashkelonite, | **<big>[[H0831\|Ασκαλωνίτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Gittite, | **<big>[[H1663\|Γεθθαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Ekronite, | **<big>[[H6139\|Αχαρωνίτι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| Hivite; | **<big>[[H2340\|Ευαίω]]</big>** |
 [[Josh.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.2|<< Joshua 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.4|Joshua 13:4 >>]]</td></tr></table>
 
 

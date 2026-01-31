@@ -7,21 +7,21 @@ It is turned as clay [to] the seal; and they stand as a garment.
 The earth takes shape like clay under a seal; its hills stand out like the folds of a garment.<small><sub>**MT:**</sub></small>
 [[Job.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.13|<< Job 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.15|Job 38:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| did you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| having taken | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| earth's | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| clay, | <big><span class="asgreek">πηλόν</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| shape | <big><span class="asgreek">έπλασας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| a living creature, | <big><span class="asgreek">ζώον</span></big> <sup><small><small>[[G2226]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] power of speech | <big><span class="asgreek">λαλητόν</span></big> <sup><small><small>[[G8156]]</small></small></sup> |
-| to it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| establish | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] earth? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Or | **<big>[[G2228\|η]]</big>** |
+| did you, | **<big>[[G1473\|συ]]</big>** |
+| having taken | **<big>[[G2983\|λαβών]]</big>** |
+| earth's | **<big>[[G1093\|γης]]</big>** |
+| clay, | **<big>[[G4081\|πηλόν]]</big>** |
+| shape | **<big>[[G4111\|έπλασας]]</big>** |
+| a living creature, | **<big>[[G2226\|ζώον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] power of speech | **<big>[[G8156\|λαλητόν]]</big>** |
+| to it | **<big>[[G1473\|αυτόν]]</big>** |
+| establish | **<big>[[G5087\|έθου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] earth? | **<big>[[G1093\|γης]]</big>** |
 [[Job.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.13|<< Job 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.15|Job 38:15 >>]]</td></tr></table>
 
 

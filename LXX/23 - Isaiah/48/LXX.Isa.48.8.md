@@ -7,28 +7,28 @@ Yea, thou heardest not; yea, thou knewest not; yea, from that time [that] thine 
 You have never heard; you have never understood; for a long time your ears have not been open. For I knew how deceitful you are; you have been called a rebel from birth.<small><sub>**MT:**</sub></small>
 [[Isa.48.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.7|<< Isaiah 48:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.9|Isaiah 48:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Neither | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| you knew, | <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| were knowing of, | <big><span class="asgreek">ηπίστω</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| when | <big><span class="asgreek">ήνοιξά σου</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[your\] ears; | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
-| for I knew | <big><span class="asgreek">έγνων</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in disregarding | <big><span class="asgreek">αθετών</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| you shall disregard, | <big><span class="asgreek">αθετήσεις</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lawless | <big><span class="asgreek">άνομος</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| even | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] belly | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| you would be called | <big><span class="asgreek">κληθήση</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| Neither | **<big>[[G3777\|ούτε]]</big>** |
+| you knew, | **<big>[[G1097\|έγνως]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| were knowing of, | **<big>[[G1987\|ηπίστω]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning | **<big>[[G0746\|αρχής]]</big>** |
+| when | **<big>[[G0455\|ήνοιξά σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[your\] ears; | **<big>[[G3775\|ώτα]]</big>** |
+| for I knew | **<big>[[G1097\|έγνων]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| in disregarding | **<big>[[G0114\|αθετών]]</big>** |
+| you shall disregard, | **<big>[[G0114\|αθετήσεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lawless | **<big>[[G0459\|άνομος]]</big>** |
+| even | **<big>[[G2089\|έτι]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] belly | **<big>[[G2836\|κοιλίας]]</big>** |
+| you would be called | **<big>[[G2564\|κληθήση]]</big>** |
 [[Isa.48.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.7|<< Isaiah 48:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.9|Isaiah 48:9 >>]]</td></tr></table>
 
 

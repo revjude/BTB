@@ -7,23 +7,23 @@ And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities [are] twenty and n
 Lebaoth, Shilhim, Ain, and Rimmon—twenty-nine cities in all, along with their villages.<small><sub>**MT:**</sub></small>
 [[Josh.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.31|<< Joshua 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.33|Joshua 15:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Lebaoth, | <big><span class="asgreek">Λαβαώθ</span></big> <sup><small><small>[[H3822]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shilhim, | <big><span class="asgreek">Σελείμ</span></big> <sup><small><small>[[H7978]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ain, | <big><span class="asgreek">Αϊν</span></big> <sup><small><small>[[H5871]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Rimmon; | <big><span class="asgreek">Ρεμμών</span></big> <sup><small><small>[[H7417c]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| twenty-nine | <big><span class="asgreek">εικοσιεννέα</span></big> <sup><small><small>[[G7055]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their towns. | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| Lebaoth, | **<big>[[H3822\|Λαβαώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shilhim, | **<big>[[H7978\|Σελείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ain, | **<big>[[H5871\|Αϊν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Rimmon; | **<big>[[H7417c\|Ρεμμών]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| twenty-nine | **<big>[[G7055\|εικοσιεννέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their towns. | **<big>[[G2968\|κώμαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Josh.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.31|<< Joshua 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.33|Joshua 15:33 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-name of: <small>[[G4514]]</small> 
+name of: <small>**<big>[[G4514|Ῥωμαῖος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Ῥώμη==</span></b>, <span class='asgreek'>ἡ</span>, 

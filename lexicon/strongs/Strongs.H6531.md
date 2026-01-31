@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פֶּרֶךְ‎</span></big> **perek** <small>*(peh'-rek)*</small> ==**severity**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎פֶּרֶךְ‎</span></big>** **perek** <small>*(peh'-rek)*</small> ==**severity**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to break apart</small>
 
 $\quad$ cruelty, rigour.
@@ -6,4 +6,4 @@ $\quad$ cruelty, rigour.
 
 **1)** harshness, severity, cruelty
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βία</span><sup><small>[[G0970]]</small></sup> · <span class="asgreek">μόχθος</span><sup><small>[[G3449]]</small></sup>
+<small>See Greek: </small>**<big>[[G0970|βία]]</big>** · **<big>[[G3449|μόχθος]]</big>**

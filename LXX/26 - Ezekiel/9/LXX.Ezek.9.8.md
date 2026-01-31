@@ -7,36 +7,36 @@ And it came to pass, while they were slaying them, and I was left, that I fell u
 While they were killing, I was left alone. And I fell facedown and cried out, “Oh, Lord GOD, when You pour out Your wrath on Jerusalem, will You destroy the entire remnant of Israel?”<small><sub>**MT:**</sub></small>
 [[Ezek.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.7|<< Ezekiel 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.9|Ezekiel 9:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their smiting, | <big><span class="asgreek">κόπτειν</span></big> <sup><small><small>[[G2875]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I fell | <big><span class="asgreek">πίπτω</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my face, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I yelled out, | <big><span class="asgreek">ανεβόησα</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Alas, | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| Adonai, | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| do you wipe away | <big><span class="asgreek">εξαλείφεις</span></big> <sup><small><small>[[G1813]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnant | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pouring out | <big><span class="asgreek">εκχέαι</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your rage | <big><span class="asgreek">θυμόν σου</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jerusalem? | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their smiting, | **<big>[[G2875\|κόπτειν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| I fell | **<big>[[G4098\|πίπτω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| my face, | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I yelled out, | **<big>[[G0310\|ανεβόησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπα]]</big>** |
+| Alas, | **<big>[[G8461\|οίμοι]]</big>** |
+| Adonai, | **<big>[[H0113\|Αδωναϊ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| do you wipe away | **<big>[[G1813\|εξαλείφεις]]</big>** **<big>[[G1473\|συ]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| remnant | **<big>[[G2645\|καταλοίπους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| pouring out | **<big>[[G1632\|εκχέαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of your rage | **<big>[[G2372\|θυμόν σου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| Jerusalem? | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Ezek.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.7|<< Ezekiel 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.9|Ezekiel 9:9 >>]]</td></tr></table>
 
 

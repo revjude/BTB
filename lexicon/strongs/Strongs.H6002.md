@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עֲמָלֵק‎</span></big> **ʻĂmâlêq** <small>*(am-aw-lake')*</small> ==**Amalek**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎עֲמָלֵק‎</span></big>** **ʻĂmâlêq** <small>*(am-aw-lake')*</small> ==**Amalek**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Amalek.

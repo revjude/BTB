@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶבֶל‎</span></big> **chebel** <small>*(kheh'-bel)*</small> ==**Mahalab**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>or <span class="ashebrew">חֵבֶל</span> **chêbel** <small>*(khay'-bel)*</small>; from <span class="ashebrew">‎חָבַל‎</span><sup><small>[[H2254]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶבֶל‎</span></big>** **chebel** <small>*(kheh'-bel)*</small> ==**Mahalab**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֵבֶל</span></big>** **chêbel** <small>*(khay'-bel)*</small>; from **<big>[[H2254|‎חָבַל‎]]</big>**</small>
 
 $\quad$ band, coast, company, cord, country, destruction, line, lot, pain, pang, portion, region, rope, snare, sorrow, tackling.
 - ***a rope*** (as twisted), especially ***a measuring line***
@@ -20,4 +20,4 @@ $\quad$ **2b)** pains, pangs, sorrows
 **3)** union
 **4)** destruction
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαφθορά</span><sup><small>[[G1312]]</small></sup> · <span class="asgreek">κλῆρος</span><sup><small>[[G2819]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">περίχωρος</span><sup><small>[[G4066]]</small></sup> · <span class="asgreek">πόνος</span><sup><small>[[G4192]]</small></sup> · <span class="asgreek">σειρά</span><sup><small>[[G4577]]</small></sup> · <span class="asgreek">σχοινίον</span><sup><small>[[G4979]]</small></sup> · <span class="asgreek">σχοινίον</span><sup><small>[[G4979]]</small></sup> · <span class="asgreek">φθορά</span><sup><small>[[G5356]]</small></sup> · <span class="asgreek">χορός</span><sup><small>[[G5525]]</small></sup> · <span class="asgreek">ὠδίν</span><sup><small>[[G5604]]</small></sup> · <span class="asgreek">ὠδίν</span><sup><small>[[G5604]]</small></sup>
+<small>See Greek: </small>**<big>[[G1312|διαφθορά]]</big>** · **<big>[[G2819|κλῆρος]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G4066|περίχωρος]]</big>** · **<big>[[G4192|πόνος]]</big>** · **<big>[[G4577|σειρά]]</big>** · **<big>[[G4979|σχοινίον]]</big>** · **<big>[[G4979|σχοινίον]]</big>** · **<big>[[G5356|φθορά]]</big>** · **<big>[[G5525|χορός]]</big>** · **<big>[[G5604|ὠδίν]]</big>** · **<big>[[G5604|ὠδίν]]</big>**

@@ -7,43 +7,43 @@ And the bramble said unto the trees, If in truth ye anoint me king over you, [th
 But the thornbush replied, ‘If you really are anointing me as king over you, come and find refuge in my shade. But if not, may fire come out of the thornbush and consume the cedars of Lebanon.’<small><sub>**MT:**</sub></small>
 [[Judg.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.14|<< Judges 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.16|Judges 9:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white-thorn shrub | <big><span class="asgreek">ράμνος</span></big> <sup><small><small>[[G9010]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trees, | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| truth | <big><span class="asgreek">αληθεία</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
-| you anoint | <big><span class="asgreek">χρίετέ</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| yourselves | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to reign | <big><span class="asgreek">βασιλεύειν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| come | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| rely | <big><span class="asgreek">πεποίθατε</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my protection; | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if not | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εξέλθοι</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| white-thorn shrub, | <big><span class="asgreek">ράμνου</span></big> <sup><small><small>[[G9010]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| may it devour | <big><span class="asgreek">καταφάγοι</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cedars | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon. | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| white-thorn shrub | **<big>[[G9010\|ράμνος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| trees, | **<big>[[G3586\|ξύλα]]</big>** |
+| If | **<big>[[G1487\|ει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| truth | **<big>[[G0225\|αληθεία]]</big>** |
+| you anoint | **<big>[[G5548\|χρίετέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| yourselves | **<big>[[G1473\|υμείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to reign | **<big>[[G0936\|βασιλεύειν]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| come | **<big>[[G1205\|δεύτε]]</big>** |
+| rely | **<big>[[G3982\|πεποίθατε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my protection; | **<big>[[G9098\|σκέπη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if not | **<big>[[G1508\|ει μη]]</big>** |
+| come forth | **<big>[[G1831\|εξέλθοι]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| white-thorn shrub, | **<big>[[G9010\|ράμνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| may it devour | **<big>[[G2719\|καταφάγοι]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cedars | **<big>[[G2748\|κέδρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon. | **<big>[[H3844\|Λιβάνου]]</big>** |
 [[Judg.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.14|<< Judges 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.16|Judges 9:16 >>]]</td></tr></table>
 
 

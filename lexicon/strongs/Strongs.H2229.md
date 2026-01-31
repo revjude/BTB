@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זָרַם‎</span></big> **zâram** <small>*(zaw-ram')*</small> ==**to flood**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זָרַם‎</span></big>** **zâram** <small>*(zaw-ram')*</small> ==**to flood**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ carry away as with a flood, pour out.

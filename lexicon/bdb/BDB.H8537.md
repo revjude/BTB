@@ -1,4 +1,4 @@
-<small>Also see: [[H0224]] | [[H8549]]</small>
+<small>Also see: **<big>[[H0224|אוּרִים]]</big>** | **<big>[[H8549|תָּמִים]]</big>**</small>
 
  <span class="bdbLangHebrew">‎תֹּם‎</span> **noun [masculine]** ==completeness, integrity== ; — <span class="bdbLangHebrew">‎תֹּם‎</span> absolute [[Prov.10.20|Prov 10:20]] +; construct [[Job.4.6|Job 4:6]]; [[Ps.78.72|Ps 78:72]], construct also <span class="bdbLangHebrew">‎תָּםֿ‎</span> [[Prov.13.6|Prov 13:6]] + 4 t.; suffix <span class="bdbLangHebrew">‎תֻּמִּי‎</span> [[Ps.26.1|Ps 26:1]] + 11 t. suffix; plural <span class="bdbLangHebrew">‎תֻּמִּים‎</span> [[Exod.28.30|Exod 28:30]] + 3 t.; suffix <span class="bdbLangHebrew">‎תֻּמֶּיךָ‎</span> [[Deut.33.8|Deut 33:8]] ; — 
 

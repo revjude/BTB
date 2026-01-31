@@ -7,19 +7,19 @@ How then comfort ye me in vain, seeing in your answers there remaineth falsehood
 So how can you comfort me with empty words? For your answers remain full of falsehood.”<small><sub>**MT:**</sub></small>
 [[Job.21.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.33|<< Job 21:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.1|Job 22:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| do you comfort | <big><span class="asgreek">παρακαλείτέ</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in vain? | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to rest | <big><span class="asgreek">καταπαύσασθαι</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is nothing. | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| And how | **<big>[[G4459\|πως]]</big>** **<big>[[G1161\|δε]]</big>** |
+| do you comfort | **<big>[[G3870\|παρακαλείτέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| in vain? | **<big>[[G2756\|κενά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| for me | **<big>[[G1473\|εμέ]]</big>** |
+| to rest | **<big>[[G2664\|καταπαύσασθαι]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| is nothing. | **<big>[[G3762\|ουδέν]]</big>** |
 [[Job.21.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.33|<< Job 21:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.1|Job 22:1 >>]]</td></tr></table>
 
 

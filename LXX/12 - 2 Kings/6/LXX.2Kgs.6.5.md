@@ -7,34 +7,34 @@ But as one was felling a beam, the axe head fell into the water: and he cried, a
 As one of them was cutting down a tree, the iron axe head fell into the water. “Oh, my master,” he cried out, “it was borrowed!”<small><sub>**MT:**</sub></small>
 [[2Kgs.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.4|<< 2 Kings 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.6|2 Kings 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| casting down | <big><span class="asgreek">καταβάλλοντος</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beam, | <big><span class="asgreek">δοκόν</span></big> <sup><small><small>[[G1385]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell off | <big><span class="asgreek">εξέπεσεν</span></big> <sup><small><small>[[G1601]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stick | <big><span class="asgreek">στελέχους</span></big> <sup><small><small>[[G9159]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| iron implement | <big><span class="asgreek">σιδήριον</span></big> <sup><small><small>[[G9076]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he yelled, | <big><span class="asgreek">εβόησεν</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| master. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| was hidden. | <big><span class="asgreek">κεκρυμμένον</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it happened | **<big>[[G1096\|εγένετο]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| casting down | **<big>[[G2598\|καταβάλλοντος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| beam, | **<big>[[G1385\|δοκόν]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| fell off | **<big>[[G1601\|εξέπεσεν]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| stick | **<big>[[G9159\|στελέχους]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| iron implement | **<big>[[G9076\|σιδήριον]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he yelled, | **<big>[[G0994\|εβόησεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| master. | **<big>[[G2962\|κύριε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it | **<big>[[G1473\|αυτό]]</big>** |
+| was hidden. | **<big>[[G2928\|κεκρυμμένον]]</big>** |
 [[2Kgs.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.4|<< 2 Kings 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.6|2 Kings 6:6 >>]]</td></tr></table>
 
 

@@ -7,39 +7,39 @@ Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; a
 Therefore hear the plans that the LORD has drawn up against Babylon and the strategies He has devised against the land of the Chaldeans: Surely the little ones of the flock will be dragged away; certainly their pasture will be made desolate because of them.<small><sub>**MT:**</sub></small>
 [[Jer.50.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plan | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he has planned | <big><span class="asgreek">βεβούλευται</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Babylon; | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his devices | <big><span class="asgreek">λογισμούς</span></big> <sup><small><small>[[G3053]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he devised | <big><span class="asgreek">ελογίσατο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans. | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| Surely | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| will be utterly destroyed | <big><span class="asgreek">διαφθαρή</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| little lambs | <big><span class="asgreek">αρνία</span></big> <sup><small><small>[[G0721]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their sheep | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Surely | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| shall be removed | <big><span class="asgreek">αφανισθή</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| \[the\] pasture | <big><span class="asgreek">νομή</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| hear | **<big>[[G0191\|ακούσατε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| plan | **<big>[[G1012\|βουλήν]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| he has planned | **<big>[[G1011\|βεβούλευται]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Babylon; | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his devices | **<big>[[G3053\|λογισμούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| he devised | **<big>[[G3049\|ελογίσατο]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans. | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| Surely | **<big>[[G1437\|εάν]]</big>** **<big>[[G3361\|μη]]</big>** |
+| will be utterly destroyed | **<big>[[G1311\|διαφθαρή]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| little lambs | **<big>[[G0721\|αρνία]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their sheep | **<big>[[G4263\|προβάτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Surely | **<big>[[G1437\|εάν]]</big>** **<big>[[G3361\|μη]]</big>** |
+| shall be removed | **<big>[[G0853\|αφανισθή]]</big>** |
+| \[the\] pasture | **<big>[[G3542\|νομή]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.50.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
 
 

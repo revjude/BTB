@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁשׁ‎</span></big> **shêsh** <small>*(shaysh)*</small> ==**six**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>masculine <span class="ashebrew">שִׁשָּׁה</span> **shishshâh** <small>*(shish-shaw')*</small>; a primitive number; compare <span class="ashebrew">‎שׂוּשׂ‎</span><sup><small>[[H7797]]</small></sup></small>
+**<big><span class="ashebrew">‎שֵׁשׁ‎</span></big>** **shêsh** <small>*(shaysh)*</small> ==**six**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>masculine **<big><span class="ashebrew">שִׁשָּׁה</span></big>** **shishshâh** <small>*(shish-shaw')*</small>; a primitive number; compare **<big>[[H7797|‎שׂוּשׂ‎]]</big>**</small>
 
 $\quad$ six(-teen, -teenth), sixth.
 - ***six*** (as an overplus  beyond five or the fingers of the hand)

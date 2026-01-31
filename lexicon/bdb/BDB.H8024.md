@@ -1,4 +1,4 @@
-<small>Also see: [[H7888]]</small>
+<small>Also see: **<big>[[H7888|שִׁילוֹנִי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שֵׁלָנִי‎</span> **adjective, of a people** of foregoing: with article as collective noun <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַשּׁ‎</span> [[Num.26.20|Num 26:20]] ([[BDB#P|P]]). So read also [[1Chr.9.5|1Chr 9:5]]; [[Neh.11.5|Neh 11:5]], see  <span class="bdbLangHebrew">‎שִׁילֹנִי‎</span>. 
 

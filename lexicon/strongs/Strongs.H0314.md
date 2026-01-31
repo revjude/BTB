@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַחֲרוֹן‎</span></big> **ʼachărôwn** <small>*(akh-ar-one')*</small> ==**last**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">אַחֲרֹן</span> **ʼachărôn** <small>*(akh-ar-one')*</small>; from <span class="ashebrew">‎אָחַר‎</span><sup><small>[[H0309]]</small></sup></small>
+**<big><span class="ashebrew">‎אַחֲרוֹן‎</span></big>** **ʼachărôwn** <small>*(akh-ar-one')*</small> ==**last**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">אַחֲרֹן</span></big>** **ʼachărôn** <small>*(akh-ar-one')*</small>; from **<big>[[H0309|‎אָחַר‎]]</big>**</small>
 
 $\quad$ after (-ward), to come, following, hind(-er, -ermost, -most), last, latter, rereward, ut(ter) most.
 - ***hinder***
@@ -10,4 +10,4 @@ $\quad$ after (-ward), to come, following, hind(-er, -ermost, -most), last, latt
 $\quad$ **1a)** behind, hindermost, western (of location)
 $\quad$ **1b)** later, subsequent, latter, last (of time)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰών</span><sup><small>[[G0165]]</small></sup> · <span class="asgreek">δυσμή</span><sup><small>[[G1424]]</small></sup> · <span class="asgreek">ἔσχατος</span><sup><small>[[G2078]]</small></sup> · <span class="asgreek">καιρός</span><sup><small>[[G2540]]</small></sup> · <span class="asgreek">κατάλοιπος</span><sup><small>[[G2645]]</small></sup> · <span class="asgreek">μέλλω</span><sup><small>[[G3195]]</small></sup> · <span class="asgreek">ὕστερον</span><sup><small>[[G5305]]</small></sup> · <span class="asgreek">ὕστερος</span><sup><small>[[G5306]]</small></sup>
+<small>See Greek: </small>**<big>[[G0165|αἰών]]</big>** · **<big>[[G1424|δυσμή]]</big>** · **<big>[[G2078|ἔσχατος]]</big>** · **<big>[[G2540|καιρός]]</big>** · **<big>[[G2645|κατάλοιπος]]</big>** · **<big>[[G3195|μέλλω]]</big>** · **<big>[[G5305|ὕστερον]]</big>** · **<big>[[G5306|ὕστερος]]</big>**

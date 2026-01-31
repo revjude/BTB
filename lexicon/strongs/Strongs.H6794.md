@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צִנּוּר‎</span></big> **tsinnûwr** <small>*(tsin-noor')*</small> ==**water**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎צִנּוּר‎</span></big>** **tsinnûwr** <small>*(tsin-noor')*</small> ==**water**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root perhaps meaning to be hollow</small>
 
 $\quad$ gutter, water-spout.

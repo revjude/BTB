@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁלַח‎</span></big> **shᵉlach** <small>*(shel-akh')*</small> ==**to send**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎שָׁלַח‎</span><sup><small>[[H7971]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁלַח‎</span></big>** **shᵉlach** <small>*(shel-akh')*</small> ==**to send**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H7971|‎שָׁלַח‎]]</big>**</small>
 
 $\quad$ put, send.
 - {***to send away***, ***for***, or ***out*** (in a great variety of applications)}

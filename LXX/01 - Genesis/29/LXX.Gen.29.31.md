@@ -10,19 +10,19 @@ And when the LORD saw that Leah [was] hated, he opened her womb: but Rachel [was
 When the LORD saw that Leah was unloved, He opened her womb; but Rachel was barren.<small><sub>**MT:**</sub></small>
 [[Gen.29.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.30|<< Genesis 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.32|Genesis 29:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| seeing | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| Leah was detested, | <big><span class="asgreek">μισείται</span></big> <sup><small><small>[[G3404]]</small></small></sup> <big><span class="asgreek">Λεία</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
-| he opened | <big><span class="asgreek">ήνοιξε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her womb. | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But Rachel | <big><span class="asgreek">Ραχήλ</span></big> <sup><small><small>[[G4478]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| sterile. | <big><span class="asgreek">στείρα</span></big> <sup><small><small>[[G4723]]</small></small></sup> |
+| seeing | **<big>[[G1492\|ιδών]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| Leah was detested, | **<big>[[G3404\|μισείται]]</big>** **<big>[[H3812\|Λεία]]</big>** |
+| he opened | **<big>[[G0455\|ήνοιξε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her womb. | **<big>[[G3388\|μήτραν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| But Rachel | **<big>[[G4478\|Ραχήλ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| sterile. | **<big>[[G4723\|στείρα]]</big>** |
 [[Gen.29.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.30|<< Genesis 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.32|Genesis 29:32 >>]]</td></tr></table>
 
 

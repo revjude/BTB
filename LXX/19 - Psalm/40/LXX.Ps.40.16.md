@@ -11,26 +11,26 @@ May all who seek You rejoice and be glad in You; may those who love Your salvati
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| exult | <big><span class="asgreek">αγαλλιάσθωσαν</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| are glad | <big><span class="asgreek">ευφρανθήτωσαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητούντές</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">ειπάτωσαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| let the <span class="smallcaps">lord</span> be magnified | <big><span class="asgreek">μεγαλυνθήτω</span></big> <sup><small><small>[[G3170]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώντες</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| exult | **<big>[[G0021\|αγαλλιάσθωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| are glad | **<big>[[G2165\|ευφρανθήτωσαν]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| seeking | **<big>[[G2212\|ζητούντές]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|ειπάτωσαν]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
+| let the <span class="smallcaps">lord</span> be magnified | **<big>[[G3170\|μεγαλυνθήτω]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| loving | **<big>[[G0025\|αγαπώντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your deliverance | **<big>[[G4992\|σωτήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.15|<< Psalm 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.17|Psalm 40:17 >>]]</td></tr></table>
 
 

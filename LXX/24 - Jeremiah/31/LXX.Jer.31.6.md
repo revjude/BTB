@@ -7,25 +7,25 @@ For there shall be a day, [that] the watchmen upon the mount Ephraim shall cry, 
 For there will be a day when watchmen will call out on the hills of Ephraim, ‘Arise, let us go up to Zion, to the LORD our God!’”<small><sub>**MT:**</sub></small>
 [[Jer.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| it is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of calling, | <big><span class="asgreek">κλήσεως</span></big> <sup><small><small>[[G2821]]</small></small></sup> |
-| of ones pleading | <big><span class="asgreek">απολογουμένων</span></big> <sup><small><small>[[G0626]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] mountains | <big><span class="asgreek">όρεσιν</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of Ephraim, \[saying\], | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| Rise up, | <big><span class="asgreek">ανάστητε</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascend | <big><span class="asgreek">ανάβητε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your God! | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| it is | **<big>[[G1510\|έστιν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of calling, | **<big>[[G2821\|κλήσεως]]</big>** |
+| of ones pleading | **<big>[[G0626\|απολογουμένων]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| \[the\] mountains | **<big>[[G3735\|όρεσιν]]</big>** |
+| of Ephraim, \[saying\], | **<big>[[G2187\|Εφραϊμ]]</big>** |
+| Rise up, | **<big>[[G0450\|ανάστητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ascend | **<big>[[G0305\|ανάβητε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your God! | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Jer.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
 

@@ -14,31 +14,31 @@ On that day the Root of Jesse will stand as a banner for the peoples. The nation
 > $\quad$ referenced by: [[Rom.15.12|Rom 15:12]] ☩ [[Rev.22.16|Rev 22:16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| root | <big><span class="asgreek">ρίζα</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jesse, | <big><span class="asgreek">Ιεσσαί</span></big> <sup><small><small>[[G2421]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rising up | <big><span class="asgreek">ανιστάμενος</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| to rule | <big><span class="asgreek">άρχειν</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
-| nations -- | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| shall hope. | <big><span class="asgreek">ελπιούσι</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his rest | <big><span class="asgreek">ανάπαυσις</span></big> <sup><small><small>[[G0372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| honor. | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| root | **<big>[[G4491\|ρίζα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jesse, | **<big>[[G2421\|Ιεσσαί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| rising up | **<big>[[G0450\|ανιστάμενος]]</big>** |
+| to rule | **<big>[[G0756\|άρχειν]]</big>** |
+| nations -- | **<big>[[G1484\|εθνών]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| shall hope. | **<big>[[G1679\|ελπιούσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his rest | **<big>[[G0372\|ανάπαυσις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| honor. | **<big>[[G5092\|τιμή]]</big>** |
 [[Isa.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.9|<< Isaiah 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.11|Isaiah 11:11 >>]]</td></tr></table>
 
 

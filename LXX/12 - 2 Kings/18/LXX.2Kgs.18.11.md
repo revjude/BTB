@@ -7,29 +7,29 @@ And the king of Assyria did carry away Israel unto Assyria, and put them in Hala
 The king of Assyria exiled the Israelites to Assyria and settled them in Halah, in Gozan by the Habor River, and in the cities of the Medes.<small><sub>**MT:**</sub></small>
 [[2Kgs.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.10|<< 2 Kings 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.12|2 Kings 18:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| resettled | <big><span class="asgreek">απώκισε</span></big> <sup><small><small>[[G6442]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Samarian | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Assyria, | <big><span class="asgreek">Ασσυρίους</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Halah, | <big><span class="asgreek">Ελαά</span></big> <sup><small><small>[[H2458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Habor | <big><span class="asgreek">Αβώρ</span></big> <sup><small><small>[[H2249]]</small></small></sup> |
-| \[by the\] river | <big><span class="asgreek">ποταμώ</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| Gozan, | <big><span class="asgreek">Γωζάν</span></big> <sup><small><small>[[H1470]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in \[the\] mountains | <big><span class="asgreek">όροις</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| of \[the\] Medes; | <big><span class="asgreek">Μήδων</span></big> <sup><small><small>[[G3370]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| resettled | **<big>[[G6442\|απώκισε]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| Samarian | **<big>[[G4541\|Σαμάρειαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Assyria, | **<big>[[H0804\|Ασσυρίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G5087\|έθηκεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Halah, | **<big>[[H2458\|Ελαά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Habor | **<big>[[H2249\|Αβώρ]]</big>** |
+| \[by the\] river | **<big>[[G4215\|ποταμώ]]</big>** |
+| Gozan, | **<big>[[H1470\|Γωζάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in \[the\] mountains | **<big>[[G3735\|όροις]]</big>** |
+| of \[the\] Medes; | **<big>[[G3370\|Μήδων]]</big>** |
 [[2Kgs.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.10|<< 2 Kings 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.12|2 Kings 18:12 >>]]</td></tr></table>
 
 

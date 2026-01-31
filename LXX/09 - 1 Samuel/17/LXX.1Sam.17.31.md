@@ -7,19 +7,19 @@ And when the words were heard which David spake, they rehearsed [them] before Sa
 Now David’s words were overheard and reported to Saul, who sent for him.<small><sub>**MT:**</sub></small>
 [[1Sam.17.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.30|<< 1 Samuel 17:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.32|1 Samuel 17:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they heard | <big><span class="asgreek">ηκούσθησαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he spoke, | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were announced | <big><span class="asgreek">ανηγγέλησαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they heard | **<big>[[G0191\|ηκούσθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| words | **<big>[[G3056\|λόγοι]]</big>** |
+| of David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| he spoke, | **<big>[[G2980\|ελάλησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they were announced | **<big>[[G0312\|ανηγγέλησαν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
 [[1Sam.17.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.30|<< 1 Samuel 17:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.32|1 Samuel 17:32 >>]]</td></tr></table>
 
 

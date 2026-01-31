@@ -7,24 +7,24 @@ Judah, thou [art he] whom thy brethren shall praise: thy hand [shall be] in the 
 Judah, your brothers shall praise you. Your hand shall be on the necks of your enemies; your father’s sons shall bow down to you.<small><sub>**MT:**</sub></small>
 [[Gen.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.7|<< Genesis 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.9|Genesis 49:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| have praised you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αινέσαισαν</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your brothers | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your hands | <big><span class="asgreek">χείρές</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] back | <big><span class="asgreek">νώτου</span></big> <sup><small><small>[[G3577]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your enemies. | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will do obeisance to | <big><span class="asgreek">προσκυνήσουσί</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| have praised you | **<big>[[G1473\|σε]]</big>** **<big>[[G0134\|αινέσαισαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your brothers | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| Your hands | **<big>[[G5495\|χείρές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[are\] upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] back | **<big>[[G3577\|νώτου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your enemies. | **<big>[[G2190\|εχθρών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| will do obeisance to | **<big>[[G4352\|προσκυνήσουσί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Gen.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.7|<< Genesis 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.9|Genesis 49:9 >>]]</td></tr></table>
 
 

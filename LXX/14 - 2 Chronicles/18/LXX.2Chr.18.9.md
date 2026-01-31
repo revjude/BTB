@@ -7,36 +7,36 @@ And the king of Israel and Jehoshaphat king of Judah sat either of them on his t
 Dressed in royal attire, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them.<small><sub>**MT:**</sub></small>
 [[2Chr.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[were\] sitting | <big><span class="asgreek">καθήμενοι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| his throne, | <big><span class="asgreek">θρόνου</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| being clothed | <big><span class="asgreek">ενδεδυμένοι</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| with robes; | <big><span class="asgreek">στολάς</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| they sat down | <big><span class="asgreek">εκάθηντο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| broad space | <big><span class="asgreek">ευρυχώρω</span></big> <sup><small><small>[[G2149]]</small></small></sup> |
-| at the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of Samaria, | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήται</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| were prophesying | <big><span class="asgreek">προεφήτευον</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[were\] sitting | **<big>[[G2521\|καθήμενοι]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| his throne, | **<big>[[G2362\|θρόνου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| being clothed | **<big>[[G1746\|ενδεδυμένοι]]</big>** |
+| with robes; | **<big>[[G4749\|στολάς]]</big>** |
+| they sat down | **<big>[[G2521\|εκάθηντο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| broad space | **<big>[[G2149\|ευρυχώρω]]</big>** |
+| at the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| of Samaria, | **<big>[[G4541\|Σαμαρείας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| prophets | **<big>[[G4396\|προφήται]]</big>** |
+| were prophesying | **<big>[[G4395\|προεφήτευον]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[2Chr.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
 
 

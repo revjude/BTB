@@ -11,44 +11,44 @@ I also wanted to know about the ten horns on its head and the other horn that ca
 > $\quad$ referenced by: [[Rev.17.12|Rev 17:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horns | <big><span class="asgreek">κεράτων</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ten, | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his head, | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other \[one\] | <big><span class="asgreek">ετέρου</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ascending | <big><span class="asgreek">αναβάντος</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shaking off | <big><span class="asgreek">εκτινάξαντος</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| former | <big><span class="asgreek">προτέρων</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| three, | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| that horn | <big><span class="asgreek">κέρας</span></big> <sup><small><small>[[G2768]]</small></small></sup> <big><span class="asgreek">εκείνο</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| spoke | <big><span class="asgreek">λαλούν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| great \[things\], | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sight | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] greater than | <big><span class="asgreek">μείζων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest, | <big><span class="asgreek">λοιπών</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| horns | **<big>[[G2768\|κεράτων]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ten, | **<big>[[G1176\|δέκα]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his head, | **<big>[[G2776\|κεφαλή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| other \[one\] | **<big>[[G2087\|ετέρου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| ascending | **<big>[[G0305\|αναβάντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shaking off | **<big>[[G1621\|εκτινάξαντος]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| former | **<big>[[G4387\|προτέρων]]</big>** |
+| three, | **<big>[[G5140\|τρία]]</big>** |
+| that horn | **<big>[[G2768\|κέρας]]</big>** **<big>[[G1565\|εκείνο]]</big>** |
+| in which | **<big>[[G3739\|ω]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| spoke | **<big>[[G2980\|λαλούν]]</big>** |
+| great \[things\], | **<big>[[G3173\|μεγάλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sight | **<big>[[G3706\|όρασις]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] greater than | **<big>[[G3173\|μείζων]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| rest, | **<big>[[G3062\|λοιπών]]</big>** |
 [[Dan.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.19|<< Daniel 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.21|Daniel 7:21 >>]]</td></tr></table>
 
 

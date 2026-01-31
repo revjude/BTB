@@ -4,10 +4,10 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Neariah</span>, a descendant of King David, was the son of Shemaiah and had three sons: Elioenai, Hizkiah, and Azrikam.
 - A man from the tribe of Judah living at the time of Divided Monarchy, first mentioned at [[1Chr.3.22|1Ch.3.22]]; 
-- only referred to as Neariah<[[H5294G]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Shemaiah<[[H8098B]]>; 
-- a brother of Hattush<[[H2407G]]>, Igal<[[H3008I]]>, Bariah<[[H1282]]> and Shaphat<[[H8202I]]>; 
--  father of Elioenai<[[H0454B]]>, Hizkiah<[[H2396H]]> and Azrikam<[[H5840G]]>.
+- only referred to as Neariah **<big>[[H5294|נְעַרְיָה]]</big>**; 
+-  son of Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**; 
+- a brother of Hattush **<big>[[H2407|חַטּוּשׁ]]</big>**, Igal **<big>[[H3008|יִגְאָל]]</big>**, Bariah **<big>[[H1282|בָּרִיחַ]]</big>** and Shaphat **<big>[[H8202|שָׁפָט]]</big>**; 
+-  father of Elioenai **<big>[[H0454|אֶלְיְהוֹעֵינַי]]</big>**, Hizkiah **<big>[[H2396|חִזְקִיָּה]]</big>** and Azrikam **<big>[[H5840|עַזְרִיקָם]]</big>**.
 
 Neariah is mentioned in [[1Chr.3.22|1 Chronicles 3:22]]-23 as a descendant of King David through the line of Solomon. He was the son of Shemaiah and is listed among the descendants of Jeconiah \(also known as Jehoiachin\), the king of Judah who was exiled to Babylon. 
 
@@ -21,8 +21,8 @@ However, given the limited information available, it is difficult to draw firm c
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Neariah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5294G) <small>*Hebrew*</small> | 2x | [[1Ch.3.22] & [1Ch.3.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Neariah\*\|reference=1Ch.3.22;1Ch.3.23) |
-All Strong's for **Neariah**: \[[[H5294G]]\]
+| Neariah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5294G) | 2x | [[1Ch.3.22] & [1Ch.3.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Neariah\*\|reference=1Ch.3.22;1Ch.3.23) |
+All entries for **Neariah**:  **<big>[[H5294|נְעַרְיָה]]</big>**
 #### Related Profiles:
 - **[Shemaiah](H8098B)** (father)
 - **[Hattush](H2407G)** (sibling)

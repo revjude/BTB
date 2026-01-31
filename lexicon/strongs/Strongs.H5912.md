@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עָכָן‎</span></big> **ʻÂkân** <small>*(aw-kawn')*</small> ==**Achan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎עָכָן‎</span></big>** **ʻÂkân** <small>*(aw-kawn')*</small> ==**Achan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to trouble; troublesome</small>
 
-$\quad$ Achan. Compare <span class="ashebrew">‎עָכָר‎</span><sup><small>[[H5917]]</small></sup>.
+$\quad$ Achan. Compare **<big>[[H5917|‎עָכָר‎]]</big>**.
 - § Achan = *"troubler"*
 - ***Akan***, an Israelite
 

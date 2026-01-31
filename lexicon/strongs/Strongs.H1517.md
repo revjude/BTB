@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גִּיד‎</span></big> **gîyd** <small>*(gheed)*</small> ==**sinew**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>probably from <span class="ashebrew">‎גּוּד‎</span><sup><small>[[H1464]]</small></sup></small>
+**<big><span class="ashebrew">‎גִּיד‎</span></big>** **gîyd** <small>*(gheed)*</small> ==**sinew**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>probably from **<big>[[H1464|‎גּוּד‎]]</big>**</small>
 
 $\quad$ sinew.
 - ***a thong*** (as compressing)

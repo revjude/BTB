@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּרוֹם‎</span></big> **dârôwm** <small>*(daw-rome')*</small> ==**south**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎דָּרוֹם‎</span></big>** **dârôwm** <small>*(daw-rome')*</small> ==**south**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ south.
@@ -7,4 +7,4 @@ $\quad$ south.
 
 **1)** south
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λίψ</span><sup><small>[[G3047]]</small></sup> · <span class="asgreek">νότος</span><sup><small>[[G3558]]</small></sup>
+<small>See Greek: </small>**<big>[[G3047|λίψ]]</big>** · **<big>[[G3558|νότος]]</big>**

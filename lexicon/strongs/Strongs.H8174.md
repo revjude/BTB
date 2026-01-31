@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁעַף‎</span></big> **Shaʻaph** <small>*(shah'-af)*</small> ==**Shaaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎סָעַף‎</span><sup><small>[[H5586]]</small></sup>; fluctuation</small>
+**<big><span class="ashebrew">‎שַׁעַף‎</span></big>** **Shaʻaph** <small>*(shah'-af)*</small> ==**Shaaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5586|‎סָעַף‎]]</big>**; fluctuation</small>
 
 $\quad$ Shaaph.
 - § Shaaph = *"division"*

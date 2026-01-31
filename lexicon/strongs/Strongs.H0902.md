@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בִּגְוַי‎</span></big> **Bigvay** <small>*(big-vah'ee)*</small> ==**Bigvai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בִּגְוַי‎</span></big>** **Bigvay** <small>*(big-vah'ee)*</small> ==**Bigvai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Bigvai.

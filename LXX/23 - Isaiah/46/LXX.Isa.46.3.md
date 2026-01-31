@@ -7,27 +7,27 @@ Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, w
 “Listen to Me, O house of Jacob, all the remnant of the house of Israel, who have been sustained from the womb, carried along since birth.<small><sub>**MT:**</sub></small>
 [[Isa.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.2|<< Isaiah 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.4|Isaiah 46:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">κατάλοιπον</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being lifted | <big><span class="asgreek">αιρόμενοι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] belly, | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being corrected | <big><span class="asgreek">παιδευόμενοι</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| childhood | <big><span class="asgreek">παιδίου</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατέ]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| rest | **<big>[[G2645\|κατάλοιπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| being lifted | **<big>[[G0142\|αιρόμενοι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] belly, | **<big>[[G2836\|κοιλίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being corrected | **<big>[[G3811\|παιδευόμενοι]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| childhood | **<big>[[G3813\|παιδίου]]</big>** |
 [[Isa.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.2|<< Isaiah 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.4|Isaiah 46:4 >>]]</td></tr></table>
 
 

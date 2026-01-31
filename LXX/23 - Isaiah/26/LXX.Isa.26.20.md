@@ -11,27 +11,27 @@ Go, my people, enter your rooms and shut your doors behind you. Hide yourselves 
 > $\quad$ referenced by: [[Heb.10.37|Heb 10:37]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Proceed, | <big><span class="asgreek">βάδιζε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| O my people! | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Enter | <big><span class="asgreek">είσελθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your inner chambers! | <big><span class="asgreek">ταμείά</span></big> <sup><small><small>[[G5009]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lock | <big><span class="asgreek">απόκλεισον</span></big> <sup><small><small>[[G0608]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your door! | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Be concealed | <big><span class="asgreek">αποκρύβηθι</span></big> <sup><small><small>[[G0613]]</small></small></sup> |
-| a little! | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| as much as \[this\], | <big><span class="asgreek">όσον</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as much as \[that\], | <big><span class="asgreek">όσον</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should go by | <big><span class="asgreek">παρέλθη</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Proceed, | **<big>[[G6642\|βάδιζε]]</big>** |
+| O my people! | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Enter | **<big>[[G1525\|είσελθε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your inner chambers! | **<big>[[G5009\|ταμείά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Lock | **<big>[[G0608\|απόκλεισον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your door! | **<big>[[G2374\|θύραν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Be concealed | **<big>[[G0613\|αποκρύβηθι]]</big>** |
+| a little! | **<big>[[G3398\|μικρόν]]</big>** |
+| as much as \[this\], | **<big>[[G3745\|όσον]]</big>** |
+| as much as \[that\], | **<big>[[G3745\|όσον]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should go by | **<big>[[G3928\|παρέλθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 [[Isa.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.19|<< Isaiah 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.21|Isaiah 26:21 >>]]</td></tr></table>
 
 

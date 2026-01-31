@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Mishmannah</span>, a Gadite, was one of the warriors who joined David at Ziklag when he was fleeing from Saul.
 - A man living at the time of Divided Monarchy, only mentioned at [[1Chr.12.10|1Ch.12.10]]; 
-- only referred to as Mishmannah<[[H4925]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Mishmannah **<big>[[H4925|מִשְׁמַנָּה]]</big>**.
 
 Mishmannah is mentioned in [[1Chr.12.10|1 Chronicles 12:10]] as one of the Gadite warriors who joined David at Ziklag when he was seeking refuge from King Saul. He was among the mighty men who came to support David during this challenging period in his life. 
 
@@ -14,5 +14,5 @@ Although no further details are provided about Mishmannah's life or his specific
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mishmannah | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H4925) <small>*Hebrew*</small> | 1x | [1Ch.12.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mishmannah\*\|reference=1Ch.12.10) |
-All Strong's for **Mishmannah**: \[[[H4925]]\]
+| Mishmannah | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H4925) | 1x | [1Ch.12.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mishmannah\*\|reference=1Ch.12.10) |
+All entries for **Mishmannah**:  **<big>[[H4925|מִשְׁמַנָּה]]</big>**

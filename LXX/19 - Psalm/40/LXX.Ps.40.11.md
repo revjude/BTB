@@ -11,24 +11,24 @@ O LORD, do not withhold Your mercy from me; Your loving devotion and faithfulnes
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| should not be | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| far | <big><span class="asgreek">μακρύνης</span></big> <sup><small><small>[[G8239]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your compassions | <big><span class="asgreek">οικτιρμούς</span></big> <sup><small><small>[[G3628]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your mercy | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your truth, | <big><span class="asgreek">αλήθειά</span></big> <sup><small><small>[[G0225]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| may they | <big><span class="asgreek">αντιλάβοιντό</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But you, | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| should not be | **<big>[[G3361\|μη]]</big>** |
+| far | **<big>[[G8239\|μακρύνης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your compassions | **<big>[[G3628\|οικτιρμούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me. | **<big>[[G1473\|εμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| Your mercy | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your truth, | **<big>[[G0225\|αλήθειά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| always | **<big>[[G1275\|διαπαντός]]</big>** |
+| may they | **<big>[[G0482\|αντιλάβοιντό]]</big>** |
+| me. | **<big>[[G1473\|μου]]</big>** |
 [[Ps.40.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.10|<< Psalm 40:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.12|Psalm 40:12 >>]]</td></tr></table>
 
 

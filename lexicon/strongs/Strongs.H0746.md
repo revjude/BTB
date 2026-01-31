@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֲרְיוֹךְ‎</span></big> **ʼĂryôwk** <small>*(ar-yoke')*</small> ==**Arioch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֲרְיוֹךְ‎</span></big>** **ʼĂryôwk** <small>*(ar-yoke')*</small> ==**Arioch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Arioch.

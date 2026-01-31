@@ -7,19 +7,19 @@ Howbeit he will not stretch out [his] hand to the grave, though they cry in his 
 Yet no one stretches out his hand against a ruined man when he cries for help in his distress.<small><sub>**MT:**</sub></small>
 [[Job.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.25|Job 30:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| ought | <big><span class="asgreek">όφελον</span></big> <sup><small><small>[[G3784]]</small></small></sup> |
-| \[that\] I should be able | <big><span class="asgreek">δυναίμην</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| myself | <big><span class="asgreek">εμαυτόν</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| to lay hands upon | <big><span class="asgreek">διαχειρώσασθαι</span></big> <sup><small><small>[[G1315]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| indeed beseech | <big><span class="asgreek">δεηθείς</span></big> <sup><small><small>[[G1189]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| another | <big><span class="asgreek">ετέρου</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| this to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| For | **<big>[[G1487\|ει]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| ought | **<big>[[G3784\|όφελον]]</big>** |
+| \[that\] I should be able | **<big>[[G1410\|δυναίμην]]</big>** |
+| myself | **<big>[[G1683\|εμαυτόν]]</big>** |
+| to lay hands upon | **<big>[[G1315\|διαχειρώσασθαι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| indeed beseech | **<big>[[G1189\|δεηθείς]]</big>** **<big>[[G1065\|γε]]</big>** |
+| another | **<big>[[G2087\|ετέρου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should do | **<big>[[G4160\|ποιήσει]]</big>** |
+| this to me. | **<big>[[G1473\|μοι]]</big>** **<big>[[G3778\|τούτο]]</big>** |
 [[Job.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.25|Job 30:25 >>]]</td></tr></table>
 
 

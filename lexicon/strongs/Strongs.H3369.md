@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָקֹשׁ‎</span></big> **yâqôsh** <small>*(yaw-koshe')*</small> ==**to snare**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָקֹשׁ‎</span></big>** **yâqôsh** <small>*(yaw-koshe')*</small> ==**to snare**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ fowler (lay a) snare.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a2)** fowlers (participle)
 $\quad$ **1b)** (Niphal) to be ensnared, be caught by a bait
 $\quad$ **1c)** (Pual) to be entrapped
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐγγίζω</span><sup><small>[[G1448]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">θηρεύω</span><sup><small>[[G2340]]</small></sup> · <span class="asgreek">κινδυνεύω</span><sup><small>[[G2793]]</small></sup> · <span class="asgreek">παγιδεύω</span><sup><small>[[G3802]]</small></sup> · <span class="asgreek">παγίς</span><sup><small>[[G3803]]</small></sup> · <span class="asgreek">πταίω</span><sup><small>[[G4417]]</small></sup> · <span class="asgreek">συνιστάω</span><sup><small>[[G4921]]</small></sup>
+<small>See Greek: </small>**<big>[[G1448|ἐγγίζω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G2340|θηρεύω]]</big>** · **<big>[[G2793|κινδυνεύω]]</big>** · **<big>[[G3802|παγιδεύω]]</big>** · **<big>[[G3803|παγίς]]</big>** · **<big>[[G4417|πταίω]]</big>** · **<big>[[G4921|συνιστάω]]</big>**

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zemaraim</span> was a town allotted to Benjamin \([[Josh.18.22|Jos.18.22]]\). Mount Zemaraim in Ephraim was where Abijah addressed Jeroboam's army \([[2Chr.13.4|2Ch.13.4]]\).
 - A location first mentioned at [[Josh.18.22|Jos.18.22]]; 
-- referred to as Zemaraim or Zemaraim<[[H6787]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as Zemaraim or Zemaraim **<big>[[H6787|צְמָרַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.910999,35.457280&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Zemaraim refers to two distinct places in the Bible. One is a town in the territ
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Zemaraim | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H6787) <small>*Hebrew*</small> | 1x | [2Ch.13.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zemaraim\*\|reference=2Ch.13.4) |
-| Zemaraim | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H6787) <small>*Hebrew*</small> | 1x | [Jos.18.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zemaraim\*\|reference=Jos.18.22) |
-All Strong's for **Zemaraim**: \[[[H6787]]\]
+| (Mount )Zemaraim | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H6787) | 1x | [2Ch.13.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zemaraim\*\|reference=2Ch.13.4) |
+| Zemaraim | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H6787) | 1x | [Jos.18.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zemaraim\*\|reference=Jos.18.22) |
+All entries for **Zemaraim**:  **<big>[[H6787|צְמָרַיִם]]</big>**

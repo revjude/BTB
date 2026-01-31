@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צָחַח‎</span></big> **tsâchach** <small>*(tsaw-khakh')*</small> ==**be dazzling**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎צָחַח‎</span></big>** **tsâchach** <small>*(tsaw-khakh')*</small> ==**be dazzling**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be whiter.
@@ -6,4 +6,4 @@ $\quad$ be whiter.
 
 **1)** (Qal) to be dazzling, be aglow, glow
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λάμπω</span><sup><small>[[G2989]]</small></sup>
+<small>See Greek: </small>**<big>[[G2989|λάμπω]]</big>**

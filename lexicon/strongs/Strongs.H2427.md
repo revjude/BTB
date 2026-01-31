@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִיל‎</span></big> **chîyl** <small>*(kheel)*</small> ==**agony**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>and (feminine) <span class="ashebrew">חִילָה</span> **chîylâh** <small>*(khee-law')*</small>; from <span class="ashebrew">‎חוּל‎</span><sup><small>[[H2342]]</small></sup></small>
+**<big><span class="ashebrew">‎חִיל‎</span></big>** **chîyl** <small>*(kheel)*</small> ==**agony**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>and (feminine) **<big><span class="ashebrew">חִילָה</span></big>** **chîylâh** <small>*(khee-law')*</small>; from **<big>[[H2342|‎חוּל‎]]</big>**</small>
 
 $\quad$ pain, pang, sorrow.
 - ***a throe*** (expectant of childbirth)
@@ -8,4 +8,4 @@ $\quad$ pain, pang, sorrow.
 $\quad$ **1a)** writhing (of fear)
 $\quad$ **1b)** anguish
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">ταραχή</span><sup><small>[[G5016]]</small></sup> · <span class="asgreek">ὠδίν</span><sup><small>[[G5604]]</small></sup>
+<small>See Greek: </small>**<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G5016|ταραχή]]</big>** · **<big>[[G5604|ὠδίν]]</big>**

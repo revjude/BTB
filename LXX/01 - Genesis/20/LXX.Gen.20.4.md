@@ -7,20 +7,20 @@ But Abimelech had not come near her: and he said, Lord, wilt thou slay also a ri
 Now Abimelech had not gone near her, so he replied, “Lord, would You destroy a nation even though it is innocent?<small><sub>**MT:**</sub></small>
 [[Gen.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.3|<< Genesis 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.5|Genesis 20:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And Abimelech | <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O Lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| ignorant | <big><span class="asgreek">αγνοούν</span></big> <sup><small><small>[[G0050]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| will you destroy | <big><span class="asgreek">απολείς</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| And Abimelech | **<big>[[H0040\|Αβιμέλεχ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| touched | **<big>[[G0680\|ήψατο]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| O Lord, | **<big>[[G2962\|κύριε]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| ignorant | **<big>[[G0050\|αγνοούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| just | **<big>[[G1342\|δίκαιον]]</big>** |
+| will you destroy | **<big>[[G0622\|απολείς]]</big>** |
 [[Gen.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.3|<< Genesis 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.5|Genesis 20:5 >>]]</td></tr></table>
 
 

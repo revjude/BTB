@@ -1,1 +1,0 @@
-<span class="ashebrew">‎שָׁלִישׁ‎</span> <small>***(sha.lish)***</small> ==**third**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

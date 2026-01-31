@@ -7,48 +7,48 @@ I [am] this day fourscore years old: [and] can I discern between good and evil? 
 I am now eighty years old. Can I discern what is good and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of singing men and women? Why should your servant be an added burden to my lord the king?<small><sub>**MT:**</sub></small>
 [[2Sam.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.34|<< 2 Samuel 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.36|2 Samuel 19:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of eighty | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
-| years | <big><span class="asgreek">ετών</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| Can | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| I know | <big><span class="asgreek">γνώσομαι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθού</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| bad? | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| still taste | <big><span class="asgreek">γεύσεται</span></big> <sup><small><small>[[G1089]]</small></small></sup> <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I shall eat | <big><span class="asgreek">φάγομαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| shall drink, \[no\]. | <big><span class="asgreek">πίομαι</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I hear | <big><span class="asgreek">ακούσομαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| \[the\] voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of singing \[men\] | <big><span class="asgreek">αδόντων</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| singing \[women\], \[no\]. | <big><span class="asgreek">αδουσών</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| Then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| be | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[should\] your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a load | <big><span class="asgreek">φορτίον</span></big> <sup><small><small>[[G5413]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master | <big><span class="asgreek">κύριόν</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king? | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| a son | **<big>[[G5207\|υιός]]</big>** |
+| of eighty | **<big>[[G3589\|ογδοήκοντα]]</big>** |
+| years | **<big>[[G2094\|ετών]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| today | **<big>[[G4594\|σήμερον]]</big>** |
+| Can | **<big>[[G3361\|μη]]</big>** |
+| I know | **<big>[[G1097\|γνώσομαι]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| good | **<big>[[G0018\|αγαθού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| bad? | **<big>[[G2556\|κακού]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| still taste | **<big>[[G1089\|γεύσεται]]</big>** **<big>[[G2089\|έτι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| servant | **<big>[[G1401\|δούλός]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| I shall eat | **<big>[[G2068\|φάγομαι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| shall drink, \[no\]. | **<big>[[G4095\|πίομαι]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I hear | **<big>[[G0191\|ακούσομαι]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| \[the\] voice | **<big>[[G5456\|φωνήν]]</big>** |
+| of singing \[men\] | **<big>[[G0103\|αδόντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| singing \[women\], \[no\]. | **<big>[[G0103\|αδουσών]]</big>** |
+| Then | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| be | **<big>[[G1096\|γίνεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[should\] your servant | **<big>[[G1401\|δούλός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| a load | **<big>[[G5413\|φορτίον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my master | **<big>[[G2962\|κύριόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| king? | **<big>[[G0935\|βασιλέα]]</big>** |
 [[2Sam.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.34|<< 2 Samuel 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.36|2 Samuel 19:36 >>]]</td></tr></table>
 
 

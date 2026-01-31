@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָצַץ‎</span></big> **lâtsats** <small>*(law-tsats')*</small> ==**to scorn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָצַץ‎</span></big>** **lâtsats** <small>*(law-tsats')*</small> ==**to scorn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ scorn.

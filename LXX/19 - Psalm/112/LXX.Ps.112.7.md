@@ -7,19 +7,19 @@ He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD
 He does not fear bad news; his heart is steadfast, trusting in the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.112.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.6|<< Psalm 112:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.8|Psalm 112:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακοής</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| a wicked \[report\] | <big><span class="asgreek">πονηράς</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be afraid; | <big><span class="asgreek">φοβηθήσεται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| is prepared | <big><span class="asgreek">ετοίμη</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to hope | <big><span class="asgreek">ελπίζειν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| From | **<big>[[G0575\|από]]</big>** |
+| hearing | **<big>[[G0189\|ακοής]]</big>** |
+| a wicked \[report\] | **<big>[[G4190\|πονηράς]]</big>** |
+| he shall not | **<big>[[G3756\|ου]]</big>** |
+| be afraid; | **<big>[[G5399\|φοβηθήσεται]]</big>** |
+| is prepared | **<big>[[G2092\|ετοίμη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to hope | **<big>[[G1679\|ελπίζειν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριον]]</big>** |
 [[Ps.112.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.6|<< Psalm 112:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.8|Psalm 112:8 >>]]</td></tr></table>
 
 

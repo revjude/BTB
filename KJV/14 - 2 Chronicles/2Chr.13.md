@@ -33,7 +33,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.13.21|21]]**<span class=
 
 [^9]: [[2Chr.14|2Chr 14:9]]
 
-[^10]: Zemaraim could not be, as some have supposed, the same as the hill of Samaria, <span class="asgreek"><span class='asgreek'>ωΡξψεο</span></span> (<span class="ashebrew">‎שֹׁמְרוֹן‎</span><sup><small>[[H8111]]</small></sup>), so called from Shemer, in the days of Omri; but was probably a hill on the confines of Ephraim, near Zemaraim, a city of Benjamin, near Beth–el. [[Gen.10|Gen 10:18]]; [[Josh.18|Josh 18:22]]
+[^10]: Zemaraim could not be, as some have supposed, the same as the hill of Samaria, <span class="asgreek"><span class='asgreek'>ωΡξψεο</span></span> ( [[H8111|‎שֹׁמְרוֹן‎]] ), so called from Shemer, in the days of Omri; but was probably a hill on the confines of Ephraim, near Zemaraim, a city of Benjamin, near Beth–el. [[Gen.10|Gen 10:18]]; [[Josh.18|Josh 18:22]]
 
 [^11]: [[2Chr.15|2Chr 15:2]]; [[Judg.9|Judg 9:7]]
 

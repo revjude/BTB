@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τρύβλιον</span></span> (Rec. <span class="asgreek">τρυβλίον</span>), -ου, τό </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">קְעָרָה</span> <small><sup>[[H7086]]</sup></small> ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τρύβλιον</span></span> (Rec. <span class="asgreek">τρυβλίον</span>), -ου, τό </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7086|קְעָרָה]]</big>** ;\] </span> </span>
 <span class="asitalic">a bowl, dish</span>: [[Matt.26.23|Mt 26:23]], [[Mark.14.20|Mk 14:20]] (Hippocr., Aristoph., Plut., al.).†
 
 **Abbott-Smith References**

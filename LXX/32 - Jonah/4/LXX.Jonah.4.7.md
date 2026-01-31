@@ -11,20 +11,20 @@ When dawn came the next day, God appointed a worm that attacked the plant so tha
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| God assigned | <big><span class="asgreek">προσέταξεν</span></big> <sup><small><small>[[G4367]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| a worm | <big><span class="asgreek">σκώληκι</span></big> <sup><small><small>[[G4663]]</small></small></sup> |
-| for early morning | <big><span class="asgreek">εωθινή</span></big> <sup><small><small>[[G7595]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| next day, | <big><span class="asgreek">επαύριον</span></big> <sup><small><small>[[G1887]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gourd, | <big><span class="asgreek">κολόκυνθαν</span></big> <sup><small><small>[[G8057]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was dried up. | <big><span class="asgreek">εξηράνθη</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| God assigned | **<big>[[G4367\|προσέταξεν]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| a worm | **<big>[[G4663\|σκώληκι]]</big>** |
+| for early morning | **<big>[[G7595\|εωθινή]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| next day, | **<big>[[G1887\|επαύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it struck | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| gourd, | **<big>[[G8057\|κολόκυνθαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it was dried up. | **<big>[[G3583\|εξηράνθη]]</big>** |
 [[Jonah.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.6|<< Jonah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.8|Jonah 4:8 >>]]</td></tr></table>
 
 

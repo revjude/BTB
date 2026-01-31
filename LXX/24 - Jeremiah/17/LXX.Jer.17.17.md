@@ -7,17 +7,17 @@ Be not a terror unto me: thou [art] my hope in the day of evil.
 Do not become a terror to me; You are my refuge in the day of disaster.<small><sub>**MT:**</sub></small>
 [[Jer.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.16|<< Jeremiah 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.18|Jeremiah 17:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You should not be | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">γενηθής</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| alienation; | <big><span class="asgreek">αλλοτρίωσιν</span></big> <sup><small><small>[[G6234]]</small></small></sup> |
-| \[but one\] sparing | <big><span class="asgreek">φειδόμενός</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \[the\] evil | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| You should not be | **<big>[[G3361\|μη]]</big>** **<big>[[G1096\|γενηθής]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| alienation; | **<big>[[G6234\|αλλοτρίωσιν]]</big>** |
+| \[but one\] sparing | **<big>[[G5339\|φειδόμενός]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \[the\] evil | **<big>[[G4190\|πονηρά]]</big>** |
 [[Jer.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.16|<< Jeremiah 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.18|Jeremiah 17:18 >>]]</td></tr></table>
 
 

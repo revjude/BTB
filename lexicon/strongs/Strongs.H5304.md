@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נְפִיסִים‎</span></big> **Nᵉphîyçîym** <small>*(nef-ee-seem')*</small> ==**Nephisim**==  <sup><small>[[TEHMC#N:N--TG|N:N--TG]]</small></sup> 
+**<big><span class="ashebrew">‎נְפִיסִים‎</span></big>** **Nᵉphîyçîym** <small>*(nef-ee-seem')*</small> ==**Nephisim**==  <sup><small>[[TEHMC#N:N--TG|N:N--TG]]</small></sup> 
 <small>plural from an unused root meaning to scatter; expansions</small>
 
 $\quad$ Nephusim (from the margin).

@@ -7,29 +7,29 @@ And in his estate shall stand up a vile person, to whom they shall not give the 
 In his place a despicable person will arise; royal honors will not be given to him, but he will come in a time of peace and seize the kingdom by intrigue.<small><sub>**MT:**</sub></small>
 [[Dan.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.20|<< Daniel 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.22|Daniel 11:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| One shall stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his preparation, | <big><span class="asgreek">ετοιμασίαν</span></big> <sup><small><small>[[G2091]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[who\] was treated with contempt, | <big><span class="asgreek">εξουδενωθή</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of \[the\] kingdom. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| prosperity, | <big><span class="asgreek">ευθηνία</span></big> <sup><small><small>[[G7542]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall prevail over | <big><span class="asgreek">κατισχύσει</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| a kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a slip. | <big><span class="asgreek">ολισθήμασι</span></big> <sup><small><small>[[G8489]]</small></small></sup> |
+| One shall stand | **<big>[[G2476\|στήσεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his preparation, | **<big>[[G2091\|ετοιμασίαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[who\] was treated with contempt, | **<big>[[G1847\|εξουδενωθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they did not | **<big>[[G3756\|ουκ]]</big>** |
+| give | **<big>[[G1325\|έδωκαν]]</big>** |
+| unto | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| of \[the\] kingdom. | **<big>[[G0932\|βασιλείας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall come | **<big>[[G2240\|ήξει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| prosperity, | **<big>[[G7542\|ευθηνία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall prevail over | **<big>[[G2729\|κατισχύσει]]</big>** |
+| a kingdom | **<big>[[G0932\|βασιλείας]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a slip. | **<big>[[G8489\|ολισθήμασι]]</big>** |
 [[Dan.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.20|<< Daniel 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.22|Daniel 11:22 >>]]</td></tr></table>
 
 

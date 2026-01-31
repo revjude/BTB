@@ -7,18 +7,18 @@ I will gather [them that are] sorrowful for the solemn assembly, [who] are of th
 “I will gather those among you who grieve over the appointed feasts, so that you will no longer suffer reproach.<small><sub>**MT:**</sub></small>
 [[Zeph.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.17|<< Zephaniah 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.19|Zephaniah 3:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will gather | <big><span class="asgreek">συνάξω</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ones being broken. | <big><span class="asgreek">συντετριμμένους</span></big> <sup><small><small>[[G4937]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Woe, | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| taken | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| scorning | <big><span class="asgreek">ονειδισμόν</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will gather | **<big>[[G4863\|συνάξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your ones being broken. | **<big>[[G4937\|συντετριμμένους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| Woe, | **<big>[[G3759\|ουαί]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| taken | **<big>[[G2983\|έλαβεν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| scorning | **<big>[[G3680\|ονειδισμόν]]</big>** |
 [[Zeph.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.17|<< Zephaniah 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.19|Zephaniah 3:19 >>]]</td></tr></table>
 
 

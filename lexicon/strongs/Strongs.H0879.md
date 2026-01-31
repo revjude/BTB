@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּאֵר אֵלִים‎</span></big> **Bᵉʼêr ʼÊlîym** <small>*(be-ayr' ay-leem')*</small> ==**Beer-elim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בְּאֵר‎</span><sup><small>[[H0875]]</small></sup> and the plural of <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; well of heroes</small>
+**<big><span class="ashebrew">‎בְּאֵר אֵלִים‎</span></big>** **Bᵉʼêr ʼÊlîym** <small>*(be-ayr' ay-leem')*</small> ==**Beer-elim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H0875|‎בְּאֵר‎]]</big>** and the plural of **<big>[[H0410|‎אֵל‎]]</big>**; well of heroes</small>
 
 $\quad$ Beer-elim.
 - § Beer-elim = *"well of God"*

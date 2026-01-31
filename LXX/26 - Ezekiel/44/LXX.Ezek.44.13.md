@@ -7,37 +7,37 @@ And they shall not come near unto me, to do the office of a priest unto me, nor 
 They must not approach Me to serve Me as priests or come near any of My holy things or the most holy things. They will bear the shame of the abominations they have committed.<small><sub>**MT:**</sub></small>
 [[Ezek.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.12|<< Ezekiel 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.14|Ezekiel 44:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bear | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their lawlessness, | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| approach | <big><span class="asgreek">εγγιούσι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| unto | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to officiate as priest | <big><span class="asgreek">ιερατεύειν</span></big> <sup><small><small>[[G2407]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to lead forward | <big><span class="asgreek">προσάγειν</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holies. | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall bear | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| their dishonor | <big><span class="asgreek">ατιμίαν</span></big> <sup><small><small>[[G0819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| delusion | <big><span class="asgreek">πλανήσει</span></big> <sup><small><small>[[G8801]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they wandered. | <big><span class="asgreek">επλανήθησαν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall bear | **<big>[[G2983\|λήψονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their lawlessness, | **<big>[[G0458\|ανομίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ουκ]]</big>** |
+| approach | **<big>[[G1448\|εγγιούσι]]</big>** |
+| unto | **<big>[[G4314\|προς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to officiate as priest | **<big>[[G2407\|ιερατεύειν]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to lead forward | **<big>[[G4317\|προσάγειν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| all | **<big>[[G3586\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| holies. | **<big>[[G0039\|αγίων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall bear | **<big>[[G2983\|λήψονται]]</big>** |
+| their dishonor | **<big>[[G0819\|ατιμίαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| delusion | **<big>[[G8801\|πλανήσει]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| they wandered. | **<big>[[G4105\|επλανήθησαν]]</big>** |
 [[Ezek.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.12|<< Ezekiel 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.14|Ezekiel 44:14 >>]]</td></tr></table>
 
 

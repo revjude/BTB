@@ -11,35 +11,35 @@ Then I looked and saw a figure like that of a man. From His waist down His appea
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I beheld, | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
-| of a man; | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his loin, | <big><span class="asgreek">οσφύος</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| below | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
-| \[as\] fire; | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his loin | <big><span class="asgreek">οσφύος</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| above | <big><span class="asgreek">υπεράνω</span></big> <sup><small><small>[[G5231]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of brightness, | <big><span class="asgreek">φέγγους</span></big> <sup><small><small>[[G5338]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an appearance | <big><span class="asgreek">είδος</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of molten bronze. | <big><span class="asgreek">ηλέκτρου</span></big> <sup><small><small>[[G7626]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I beheld, | **<big>[[G1492\|είδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a likeness | **<big>[[G3667\|ομοίωμα]]</big>** |
+| of a man; | **<big>[[G0435\|ανδρός]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his loin, | **<big>[[G3751\|οσφύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| below | **<big>[[G2736\|κάτω]]</big>** |
+| \[as\] fire; | **<big>[[G4442\|πυρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his loin | **<big>[[G3751\|οσφύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| above | **<big>[[G5231\|υπεράνω]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] vision | **<big>[[G3706\|όρασις]]</big>** |
+| of brightness, | **<big>[[G5338\|φέγγους]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an appearance | **<big>[[G1491\|είδος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of molten bronze. | **<big>[[G7626\|ηλέκτρου]]</big>** |
 [[Ezek.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.1|<< Ezekiel 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.3|Ezekiel 8:3 >>]]</td></tr></table>
 
 

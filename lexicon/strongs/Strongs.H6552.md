@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּרְעָתוֹן‎</span></big> **Pirʻâthôwn** <small>*(pir-aw-thone')*</small> ==**Pirathon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פַּרְעָה‎</span><sup><small>[[H6546]]</small></sup>; chieftaincy</small>
+**<big><span class="ashebrew">‎פִּרְעָתוֹן‎</span></big>** **Pirʻâthôwn** <small>*(pir-aw-thone')*</small> ==**Pirathon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6546|‎פַּרְעָה‎]]</big>**; chieftaincy</small>
 
 $\quad$ Pirathon.
 - § Pirathon = *"princely"*

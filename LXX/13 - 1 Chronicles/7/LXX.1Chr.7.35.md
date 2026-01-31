@@ -7,19 +7,19 @@ And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal.
 The sons of his brother Helem: Zophah, Imna, Shelesh, and Amal.<small><sub>**MT:**</sub></small>
 [[1Chr.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.34|<< 1 Chronicles 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.36|1 Chronicles 7:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Helem | <big><span class="asgreek">Ελέμ</span></big> <sup><small><small>[[H2494]]</small></small></sup> |
-| his brother -- | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Zophah, | <big><span class="asgreek">Σουφά</span></big> <sup><small><small>[[H6690]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Imna, | <big><span class="asgreek">Ιαμνά</span></big> <sup><small><small>[[H3234]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shelesh, | <big><span class="asgreek">Σελές</span></big> <sup><small><small>[[H8028]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amal. | <big><span class="asgreek">Αμάλ</span></big> <sup><small><small>[[H6000]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Helem | **<big>[[H2494\|Ελέμ]]</big>** |
+| his brother -- | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Zophah, | **<big>[[H6690\|Σουφά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Imna, | **<big>[[H3234\|Ιαμνά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shelesh, | **<big>[[H8028\|Σελές]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amal. | **<big>[[H6000\|Αμάλ]]</big>** |
 [[1Chr.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.34|<< 1 Chronicles 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.36|1 Chronicles 7:36 >>]]</td></tr></table>
 
 

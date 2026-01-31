@@ -7,54 +7,54 @@ As soon as ye be come into the city, ye shall straightway find him, before he go
 As soon as you enter the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he must bless the sacrifice; after that, the guests will eat. Go up at once; you will find him.”<small><sub>**MT:**</sub></small>
 [[1Sam.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.12|<< 1 Samuel 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.14|1 Samuel 9:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| soon as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you enter | <big><span class="asgreek">εισέλθητε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall find | <big><span class="asgreek">ευρήσετε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
-| his ascending | <big><span class="asgreek">αναβήναι</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Bama | <big><span class="asgreek">Βαμά</span></big> <sup><small><small>[[H1117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to eat; | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγη</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his entering. | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| blesses | <big><span class="asgreek">ευλογεί</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice. | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| eat | <big><span class="asgreek">εσθίουσιν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strangers | <big><span class="asgreek">ξένοι</span></big> <sup><small><small>[[G3581]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| ascend! | <big><span class="asgreek">ανάβητε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| you shall find | <big><span class="asgreek">ευρήσετε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As | **<big>[[G5613\|ως]]</big>** |
+| soon as | **<big>[[G0302\|αν]]</big>** |
+| you enter | **<big>[[G1525\|εισέλθητε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city, | **<big>[[G4172\|πόλιν]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| you shall find | **<big>[[G2147\|ευρήσετε]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city, | **<big>[[G4172\|πόλει]]</big>** |
+| before | **<big>[[G4250\|πριν]]</big>** |
+| his ascending | **<big>[[G0305\|αναβήναι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| Bama | **<big>[[H1117\|Βαμά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to eat; | **<big>[[G2068\|φαγείν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| eat | **<big>[[G2068\|φάγη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his entering. | **<big>[[G1525\|εισελθείν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| blesses | **<big>[[G2127\|ευλογεί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice. | **<big>[[G2378\|θυσίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| eat | **<big>[[G2068\|εσθίουσιν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| strangers | **<big>[[G3581\|ξένοι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| now, | **<big>[[G3568\|νυν]]</big>** |
+| ascend! | **<big>[[G0305\|ανάβητε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| you shall find | **<big>[[G2147\|ευρήσετε]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
 [[1Sam.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.12|<< 1 Samuel 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.14|1 Samuel 9:14 >>]]</td></tr></table>
 
 

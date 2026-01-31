@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרָם‎</span></big> **ʼĂrâm** <small>*(arawm')*</small> ==**Aram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎אַרְמוֹן‎</span><sup><small>[[H0759]]</small></sup>; the highland</small>
+**<big><span class="ashebrew">‎אֲרָם‎</span></big>** **ʼĂrâm** <small>*(arawm')*</small> ==**Aram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H0759|‎אַרְמוֹן‎]]</big>**; the highland</small>
 
 $\quad$ Aram, Mesopotamia, Syria, Syrians.
 - § Aram = *"exalted"*

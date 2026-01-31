@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hazeroth</span> was one of the places where the Israelites camped during their wilderness wanderings, mentioned in the context of Moses' leadership challenges \(Num 11:35; 12:16; 33:17-18; Deut 1:1\).
 - A location first mentioned at Num.11.35; 
-- only referred to as Hazeroth<[[H2698]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Hazeroth **<big>[[H2698|חֲצֵרוֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=28.916667,34.500000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hazeroth was a place where the Israelites camped during their wilderness wanderi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hazeroth | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H2698) <small>*Hebrew*</small> | 6x | [[Num.11.35a] ... [Deu.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazeroth\*\|reference=Num.11.35;Num.11.35;Num.12.16;Num.33.17;Num.33.18;Deu.1.1) |
-All Strong's for **Hazeroth**: \[[[H2698]]\]
+| Hazeroth | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֵ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H2698) | 6x | [[Num.11.35a] ... [Deu.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazeroth\*\|reference=Num.11.35;Num.11.35;Num.12.16;Num.33.17;Num.33.18;Deu.1.1) |
+All entries for **Hazeroth**:  **<big>[[H2698|חֲצֵרוֹת]]</big>**

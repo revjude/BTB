@@ -6,18 +6,18 @@ And ten young men who carried Joab’s armor surrounded Absalom, struck him, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.14|<< 2 Samuel 18:14]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.16|2 Samuel 18:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they surrounded [him]  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּסֹ֙בּוּ֙ </big></span><small><small><sup>[[H5437H]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.So.bu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  | <span class="ashebrew"><big>עֲשָׂרָ֣ה </big></span><small><small><sup>[[H6235]]</sup></small></small> &#8207;| 'a.sa.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young men  | <span class="ashebrew"><big>נְעָרִ֔ים </big></span><small><small><sup>[[H5288]]</sup></small></small> &#8207;| ne.'a.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] bearers of  | <span class="ashebrew"><big>נֹשְׂאֵ֖י </big></span><small><small><sup>[[H5375W]]</sup></small></small> &#8207;| no.se.'Ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] armor\<s> of  | <span class="ashebrew"><big>כְּלֵ֣י </big></span><small><small><sup>[[H3627]]</sup></small></small> &#8207;| ke.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joab  | <span class="ashebrew"><big>יוֹאָ֑ב </big></span><small><small><sup>[[H3097G]]</sup></small></small> &#8207;| yo.'Av <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they struck  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּכּ֥וּ </big></span><small><small><sup>[[H5221]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Ku <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Absalom  | <span class="ashebrew"><big>אַבְשָׁל֖וֹם </big></span><small><small><sup>[[H0053]]</sup></small></small> &#8207;| 'av.sha.Lom <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they killed him  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יְמִיתֻֽ </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> y.mi.Tu. <small><sup>[[HVhw3mp]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they surrounded [him]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437H\|יָּסֹ֙בּוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.So.bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֲשָׂרָ֣ה]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young men  |**<big>&#8207;[[H5288\|נְעָרִ֔ים]]&#8207; </big>**| ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bearers of  |**<big>&#8207;[[H5375W\|נֹשְׂאֵ֖י]]&#8207; </big>**| no.se.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] armor\<s> of  |**<big>&#8207;[[H3627\|כְּלֵ֣י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֑ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכּ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֖וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they killed him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יְמִיתֻֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.mi.Tu.<small><sup>[[HVhw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.14|<< 2 Samuel 18:14]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.16|2 Samuel 18:16 >>]]</td></tr></table>
 
 

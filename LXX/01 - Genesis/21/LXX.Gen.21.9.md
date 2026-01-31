@@ -14,25 +14,25 @@ But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mock
 > $\quad$ referenced by: [[Gal.4.22|Gal 4:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| beholding | <big><span class="asgreek">ιδούσα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρρα</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hagar | <big><span class="asgreek">Άγαρ</span></big> <sup><small><small>[[G0028]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptian, | <big><span class="asgreek">Αιγυπτίας</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was born | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
-| playing | <big><span class="asgreek">παίζοντα</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her son, | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| beholding | **<big>[[G1492\|ιδούσα]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρρα]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Hagar | **<big>[[G0028\|Άγαρ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| Egyptian, | **<big>[[G0125\|Αιγυπτίας]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| was born | **<big>[[G1096\|εγένετο]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Abraham, | **<big>[[G0011\|Αβραάμ]]</big>** |
+| playing | **<big>[[G3815\|παίζοντα]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her son, | **<big>[[G5207\|υιού]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Gen.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.8|<< Genesis 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.10|Genesis 21:10 >>]]</td></tr></table>
 
 

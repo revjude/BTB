@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סִיעָא‎</span></big> **Çîyʻâʼ** <small>*(see-ah')*</small> ==**Siaha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">סִיעֲהָא</span> **Çîyʻăhâʼ** <small>*(see-ah-haw')*</small>; from an unused root meaning to converse; congregation</small>
+**<big><span class="ashebrew">‎סִיעָא‎</span></big>** **Çîyʻâʼ** <small>*(see-ah')*</small> ==**Siaha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">סִיעֲהָא</span></big>** **Çîyʻăhâʼ** <small>*(see-ah-haw')*</small>; from an unused root meaning to converse; congregation</small>
 
 $\quad$ Sia, Siaha.
 - § Sia or Siaha = *"departing"*

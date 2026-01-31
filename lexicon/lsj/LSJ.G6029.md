@@ -1,5 +1,5 @@
 <span class="asgreek">ἐκπερισσῶς</span> <small>***(ekperissōs)***</small> ==**overexcessively**==  <sup><small>[[TEGMC#G:ADV|G:ADV]]</small></sup> 
-combination of: <small>[[G4053]] ([[G1537]]+[[G4053]])</small> 
+combination of: <small>**<big>[[G4053|περισσός]]</big>** (**<big>[[G1537|ἐκ]]</big>**+**<big>[[G4053|περισσός]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==ἐκπερισσῶς==</span></b>, 

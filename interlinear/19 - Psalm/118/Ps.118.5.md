@@ -6,15 +6,15 @@ In my distress I called to the LORD, and He answered and set me free.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.4|<< Psalms 118:4]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.6|Psalms 118:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from  | <span class="ashebrew"><big>מִֽן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the distress  | <span class="ashebrew"><big>הַ֭ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מֵּצַ֥ר </big></span><small><small><sup>[[H4712]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> me.Tzar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I called out to  | <span class="ashebrew"><big>קָרָ֣אתִי </big></span><small><small><sup>[[H7121G]]</sup></small></small> &#8207;| ka.Ra.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָּ֑הּ </big></span><small><small><sup>[[H3050]]</sup></small></small> &#8207;| Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he answered me  | <span class="ashebrew"><big>עָנָ֖ </big></span><small><small><sup>[[H6030B]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'a.Na. <small><sup>[[HVqp3ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> roomy place  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מֶּרְחָ֣ב </big></span><small><small><sup>[[H4800]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> mer.Chav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יָֽהּ </big></span><small><small><sup>[[H3050]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the distress  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H4712\|מֵּצַ֥ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I called out to  |**<big>&#8207;[[H7121G\|קָרָ֣אתִי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָּ֑הּ]]&#8207; </big>**| Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he answered me  |**<big>&#8207;[[H6030B\|עָנָ֖]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'a.Na.<small><sup>[[HVqp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> roomy place  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H4800\|מֶּרְחָ֣ב]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> mer.Chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3050\|יָֽהּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.4|<< Psalms 118:4]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.6|Psalms 118:6 >>]]</td></tr></table>
 
 

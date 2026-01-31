@@ -1,4 +1,4 @@
-<small>Also see: [[H1842]]</small>
+<small>Also see: **<big>[[H1842|דָּן יַעַן]]</big>**</small>
 
  <span class="bdbLangHebrew">‎דָּן‎</span> **proper name, masculine** (***judge***) — 
 

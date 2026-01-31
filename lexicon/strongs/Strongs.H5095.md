@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָהַל‎</span></big> **nâhal** <small>*(naw-hal')*</small> ==**to guide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָהַל‎</span></big>** **nâhal** <small>*(naw-hal')*</small> ==**to guide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ carry, feed, guide, lead (gently, on).
@@ -16,4 +16,4 @@ $\quad$ **1b)** (Hithpael)
 $\quad$ $\quad$ **1b1)** to lead on
 $\quad$ $\quad$ **1b2)** to journey by stations or stages
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄγω</span><sup><small>[[G0071]]</small></sup> · <span class="asgreek">ἀντιλαμβάνομαι</span><sup><small>[[G0482]]</small></sup> · <span class="asgreek">ἐκτρέφω</span><sup><small>[[G1625]]</small></sup> · <span class="asgreek">ἐνισχύω</span><sup><small>[[G1765]]</small></sup> · <span class="asgreek">καταπαύω</span><sup><small>[[G2664]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup>
+<small>See Greek: </small>**<big>[[G0071|ἄγω]]</big>** · **<big>[[G0482|ἀντιλαμβάνομαι]]</big>** · **<big>[[G1625|ἐκτρέφω]]</big>** · **<big>[[G1765|ἐνισχύω]]</big>** · **<big>[[G2664|καταπαύω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>**

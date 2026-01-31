@@ -7,21 +7,21 @@ The bellows are burned, the lead is consumed of the fire; the founder melteth in
 The bellows blow fiercely, blasting away the lead with fire. The refining proceeds in vain, for the wicked are not purged.<small><sub>**MT:**</sub></small>
 [[Jer.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.28|<< Jeremiah 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.30|Jeremiah 6:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| failed | <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \[The\] bellows | <big><span class="asgreek">φυσητήρ</span></big> <sup><small><small>[[G9685]]</small></small></sup> |
-| at | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] fire; | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| \[the\] lead | <big><span class="asgreek">μόλιβδος</span></big> <sup><small><small>[[G8337]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| vain | <big><span class="asgreek">κενόν</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| \[the\] silversmith | <big><span class="asgreek">αργυροκόπος</span></big> <sup><small><small>[[G0695]]</small></small></sup> |
-| works silver | <big><span class="asgreek">αργυροκοπεί</span></big> <sup><small><small>[[G6525]]</small></small></sup> |
-| their wickednesses | <big><span class="asgreek">πονηρίαι</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| melt away. | <big><span class="asgreek">ετάκησαν</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
+| failed | **<big>[[G1587\|εξέλιπε]]</big>** |
+| \[The\] bellows | **<big>[[G9685\|φυσητήρ]]</big>** |
+| at | **<big>[[G0575\|από]]</big>** |
+| \[the\] fire; | **<big>[[G4442\|πυρός]]</big>** |
+| failed | **<big>[[G1587\|εξέλιπε]]</big>** |
+| \[the\] lead | **<big>[[G8337\|μόλιβδος]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| vain | **<big>[[G2756\|κενόν]]</big>** |
+| \[the\] silversmith | **<big>[[G0695\|αργυροκόπος]]</big>** |
+| works silver | **<big>[[G6525\|αργυροκοπεί]]</big>** |
+| their wickednesses | **<big>[[G4189\|πονηρίαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| do not | **<big>[[G3756\|ουκ]]</big>** |
+| melt away. | **<big>[[G5080\|ετάκησαν]]</big>** |
 [[Jer.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.28|<< Jeremiah 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.30|Jeremiah 6:30 >>]]</td></tr></table>
 
 

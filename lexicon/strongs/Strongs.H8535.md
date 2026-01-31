@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תָּם‎</span></big> **tâm** <small>*(tawm)*</small> ==**complete**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎תָּמַם‎</span><sup><small>[[H8552]]</small></sup></small>
+**<big><span class="ashebrew">‎תָּם‎</span></big>** **tâm** <small>*(tawm)*</small> ==**complete**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H8552|‎תָּמַם‎]]</big>**</small>
 
 $\quad$ coupled together, perfect, plain, undefiled, upright.
 - ***complete***
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1b1)** an ordinary, quiet sort of person
 $\quad$ **1c)** complete, morally innocent, having integrity
 $\quad$ $\quad$ **1c1)** one who is morally and ethically pure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄκακος</span><sup><small>[[G0172]]</small></sup> · <span class="asgreek">ἀληθινός</span><sup><small>[[G0228]]</small></sup> · <span class="asgreek">ἄμεμπτος</span><sup><small>[[G0273]]</small></sup>
+<small>See Greek: </small>**<big>[[G0172|ἄκακος]]</big>** · **<big>[[G0228|ἀληθινός]]</big>** · **<big>[[G0273|ἄμεμπτος]]</big>**

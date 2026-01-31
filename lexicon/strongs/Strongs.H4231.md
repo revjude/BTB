@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָחוֹז‎</span></big> **mâchôwz** <small>*(maw-khoze')*</small> ==**haven**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מָחוֹז‎</span></big>** **mâchôwz** <small>*(maw-khoze')*</small> ==**haven**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to enclose</small>
 
 $\quad$ haven.
@@ -6,4 +6,4 @@ $\quad$ haven.
 
 **1)** city, haven
 
-<sub><small>See Greek: </small></sub><span class="asgreek">λιμήν</span><sup><small>[[G3040]]</small></sup>
+<small>See Greek: </small>**<big>[[G3040|λιμήν]]</big>**

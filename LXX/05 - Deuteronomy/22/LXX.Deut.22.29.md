@@ -7,34 +7,34 @@ Then the man that lay with her shall give unto the damsel’s father fifty [shek
 then the man who lay with her must pay the young woman’s father fifty shekels of silver, and she must become his wife because he has violated her. He must not divorce her as long as he lives.<small><sub>**MT:**</sub></small>
 [[Deut.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.28|<< Deuteronomy 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.30|Deuteronomy 22:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going to bed | <big><span class="asgreek">κοιμηθείς</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young woman | <big><span class="asgreek">νεάνιδος</span></big> <sup><small><small>[[G8379]]</small></small></sup> |
-| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
-| double-drachmas | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she will be his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| wife, | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| because | <big><span class="asgreek">ανθ΄ ων</span></big> <sup><small><small>[[G6339]]</small></small></sup> |
-| he humbled | <big><span class="asgreek">εταπείνωσεν</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will not be able | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to send | <big><span class="asgreek">εξαποστείλαι</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| her away | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at any | <big><span class="asgreek">άπαντα</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
-| time. | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| shall give | **<big>[[G1325\|δώσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| going to bed | **<big>[[G2837\|κοιμηθείς]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her | **<big>[[G1473\|αυτής]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| father | **<big>[[G3962\|πατρί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| young woman | **<big>[[G8379\|νεάνιδος]]</big>** |
+| fifty | **<big>[[G4004\|πεντήκοντα]]</big>** |
+| double-drachmas | **<big>[[G1323\|δίδραχμα]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she will be his | **<big>[[G1473\|αυτού]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| wife, | **<big>[[G1135\|γυνή]]</big>** |
+| because | **<big>[[G6339\|ανθ΄ ων]]</big>** |
+| he humbled | **<big>[[G5013\|εταπείνωσεν]]</big>** |
+| her; | **<big>[[G1473\|αυτήν]]</big>** |
+| he will not be able | **<big>[[G3756\|ου]]</big>** **<big>[[G1410\|δυνήσεται]]</big>** |
+| to send | **<big>[[G1821\|εξαποστείλαι]]</big>** |
+| her away | **<big>[[G1473\|αυτήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| at any | **<big>[[G0537\|άπαντα]]</big>** |
+| time. | **<big>[[G5550\|χρόνον]]</big>** |
 [[Deut.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.28|<< Deuteronomy 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.30|Deuteronomy 22:30 >>]]</td></tr></table>
 
 

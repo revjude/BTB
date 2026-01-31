@@ -1,9 +1,9 @@
-<big><span class="asaramaic">‎בִּינָה‎</span></big> **bîynâh** <small>*(bee-naw')*</small> ==**understanding**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎בִּינָה‎</span><sup><small>[[H0998]]</small></sup></small>
+**<big><span class="asaramaic">‎בִּינָה‎</span></big>** **bîynâh** <small>*(bee-naw')*</small> ==**understanding**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0998|‎בִּינָה‎]]</big>**</small>
 
 $\quad$ knowledge.
 - {***understanding***}
 
 **1)** understanding, discernment
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διάνοια</span><sup><small>[[G1271]]</small></sup> · <span class="asgreek">ἔννοια</span><sup><small>[[G1771]]</small></sup> · <span class="asgreek">παιδεία</span><sup><small>[[G3809]]</small></sup> · <span class="asgreek">σοφία</span><sup><small>[[G4678]]</small></sup> · <span class="asgreek">σύνεσις</span><sup><small>[[G4907]]</small></sup> · <span class="asgreek">φρόνησις</span><sup><small>[[G5428]]</small></sup>
+<small>See Greek: </small>**<big>[[G1271|διάνοια]]</big>** · **<big>[[G1771|ἔννοια]]</big>** · **<big>[[G3809|παιδεία]]</big>** · **<big>[[G4678|σοφία]]</big>** · **<big>[[G4907|σύνεσις]]</big>** · **<big>[[G5428|φρόνησις]]</big>**

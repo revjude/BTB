@@ -7,21 +7,21 @@ Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth
 You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,<small><sub>**MT:**</sub></small>
 [[Ps.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.10|<< Psalm 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.12|Psalm 30:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| turned | <big><span class="asgreek">έστρεψας</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| The | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| beating of my breast | <big><span class="asgreek">κοπετόν</span></big> <sup><small><small>[[G2870]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| joy | <big><span class="asgreek">χαράν</span></big> <sup><small><small>[[G5479]]</small></small></sup> |
-| for me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You tore up | <big><span class="asgreek">διέρρηξας</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sackcloth, | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| girded | <big><span class="asgreek">περιέζωσάς</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[with\] gladness. | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| turned | **<big>[[G4762\|έστρεψας]]</big>** |
+| The | **<big>[[G3588\|τον]]</big>** |
+| beating of my breast | **<big>[[G2870\|κοπετόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| joy | **<big>[[G5479\|χαράν]]</big>** |
+| for me. | **<big>[[G1473\|εμοί]]</big>** |
+| You tore up | **<big>[[G1284\|διέρρηξας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my sackcloth, | **<big>[[G4526\|σάκκον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| girded | **<big>[[G4024\|περιέζωσάς]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| \[with\] gladness. | **<big>[[G2167\|ευφροσύνην]]</big>** |
 [[Ps.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.10|<< Psalm 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.12|Psalm 30:12 >>]]</td></tr></table>
 
 

@@ -10,24 +10,24 @@ Now when I had delivered the evidence of the purchase unto Baruch the son of Ner
 After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD:<small><sub>**MT:**</sub></small>
 [[Jer.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.15|<< Jeremiah 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.17|Jeremiah 32:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I prayed | <big><span class="asgreek">προσευξάμην</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my giving | <big><span class="asgreek">δούναί</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| possession | <big><span class="asgreek">κτήσεως</span></big> <sup><small><small>[[G8111]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Baruch | <big><span class="asgreek">Βαρούχ</span></big> <sup><small><small>[[H1263]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Neriah, | <big><span class="asgreek">Νηρίου</span></big> <sup><small><small>[[H5374]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I prayed | **<big>[[G4336\|προσευξάμην]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my giving | **<big>[[G1325\|δούναί]]</big>** **<big>[[G1473\|με]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| possession | **<big>[[G8111\|κτήσεως]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Baruch | **<big>[[H1263\|Βαρούχ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Neriah, | **<big>[[H5374\|Νηρίου]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
 [[Jer.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.15|<< Jeremiah 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.17|Jeremiah 32:17 >>]]</td></tr></table>
 
 

@@ -7,23 +7,23 @@ Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard,
 For six years you may sow your field and prune your vineyard and gather its crops.<small><sub>**MT:**</sub></small>
 [[Lev.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.2|<< Leviticus 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.4|Leviticus 25:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| you shall sow | <big><span class="asgreek">σπερείς</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your field, | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| you shall trim | <big><span class="asgreek">τεμείς</span></big> <sup><small><small>[[G9419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your grapevine, | <big><span class="asgreek">άμπελόν</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall bring together | <big><span class="asgreek">συνάξεις</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its fruit. | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Six | **<big>[[G1803\|εξ]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| you shall sow | **<big>[[G4687\|σπερείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your field, | **<big>[[G0068\|αγρόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| six | **<big>[[G1803\|εξ]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| you shall trim | **<big>[[G9419\|τεμείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your grapevine, | **<big>[[G0288\|άμπελόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall bring together | **<big>[[G4863\|συνάξεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| its fruit. | **<big>[[G2590\|καρπόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lev.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.2|<< Leviticus 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.4|Leviticus 25:4 >>]]</td></tr></table>
 
 

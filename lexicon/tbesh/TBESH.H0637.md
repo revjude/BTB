@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אַף‎</span> <small>***(aph)***</small> ==**also**==  <sup><small>[[TEHMC#H:Part|H:Part]]</small></sup> 
 - conj (denoting addition, esp of something greater)
 - adv
-- Aramaic equivalent: <i>aph</i> (<span class='asaramaic'>‎א‎</span>ַ<span class='asaramaic'>‎ף‎</span> "also" [[H0638]])
+- Aramaic equivalent: <i>aph</i> (<span class='asaramaic'>‎א‎</span>ַ<span class='asaramaic'>‎ף‎</span> "also" **<big>[[H0638|אַף]]</big>**)

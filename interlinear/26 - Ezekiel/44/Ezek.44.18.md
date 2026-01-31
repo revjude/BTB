@@ -6,21 +6,21 @@ They are to wear linen turbans on their heads and linen undergarments around the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.17|<< Ezekiel 44:17]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.19|Ezekiel 44:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| head-dresses of  | <span class="ashebrew"><big>פַּאֲרֵ֤י </big></span><small><small><sup>[[H6287]]</sup></small></small> &#8207;| pa.'a.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| linen\<s>  | <span class="ashebrew"><big>פִשְׁתִּים֙ </big></span><small><small><sup>[[H6593]]</sup></small></small> &#8207;| fish.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>יִהְי֣וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head their  | <span class="ashebrew"><big>רֹאשָׁ֔ </big></span><small><small><sup>[[H7218A]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ro.Sha <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and undergarments of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִכְנְסֵ֣י </big></span><small><small><sup>[[H4370]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mikh.ne.Sei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| linen\<s>  | <span class="ashebrew"><big>פִשְׁתִּ֔ים </big></span><small><small><sup>[[H6593]]</sup></small></small> &#8207;| fish.Tim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be  | <span class="ashebrew"><big>יִהְי֖וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| yih.Yu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| loins their  | <span class="ashebrew"><big>מָתְנֵי </big></span><small><small><sup>[[H4975]]</sup></small></small> <span class="ashebrew"><big>הֶ֑ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ma.te.nei. <small><sup>[[HNcmdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will gird themselves  | <span class="ashebrew"><big>יַחְגְּר֖וּ </big></span><small><small><sup>[[H2296]]</sup></small></small> &#8207;| yach.ge.Ru <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> sweat  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>יָּֽזַע </big></span><small><small><sup>[[H3154]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba <small><sup>[[HRd]]</sup></small> i.Ya.za' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head-dresses of  |**<big>&#8207;[[H6287\|פַּאֲרֵ֤י]]&#8207; </big>**| pa.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| linen\<s>  |**<big>&#8207;[[H6593\|פִשְׁתִּים֙]]&#8207; </big>**| fish.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|יִהְי֣וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head their  |**<big>&#8207;[[H7218A\|רֹאשָׁ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ro.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and undergarments of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4370\|מִכְנְסֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mikh.ne.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| linen\<s>  |**<big>&#8207;[[H6593\|פִשְׁתִּ֔ים]]&#8207; </big>**| fish.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  |**<big>&#8207;[[H1961\|יִהְי֖וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loins their  |**<big>&#8207;[[H4975\|מָתְנֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| ma.te.nei.<small><sup>[[HNcmdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will gird themselves  |**<big>&#8207;[[H2296\|יַחְגְּר֖וּ]]&#8207; </big>**| yach.ge.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> sweat  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3154\|יָּֽזַע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Ya.za'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.17|<< Ezekiel 44:17]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.19|Ezekiel 44:19 >>]]</td></tr></table>
 
 

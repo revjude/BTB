@@ -1,5 +1,4 @@
-<span class="ashebrew">‎אֶלְעָזָר‎</span> <small>***(el.a.zar)***</small> ==**Eleazar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.23|Exo.6.23]]
--  son of: Aaron ([[H0175]]) and Elisheba ([[H0472]])
--  brother of: Nadab ([[H5070]]), Abihu ([[H0030]]) and Ithamar ([[H0385]]); married to daughter\_of\_Putiel ([[H6317H]])
--  father of: Phinehas ([[H6372]])
+-  son of: Aaron (**<big>[[H0175|אַהֲרוֹן]]</big>**) and Elisheba (**<big>[[H0472|אֱלִישֶׁבַע]]</big>**)
+-  brother of: Nadab (**<big>[[H5070|נָדָב]]</big>**), Abihu (**<big>[[H0030|אֲבִיהוּא]]</big>**) and Ithamar (**<big>[[H0385|אִיתָמָר]]</big>**); married to daughter\_of\_Putiel (**<big>[[H6317H|פּוּטִיאֵל]]</big>**)
+-  father of: Phinehas (**<big>[[H6372|פִּינְחָס]]</big>**)

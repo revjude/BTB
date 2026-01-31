@@ -6,23 +6,23 @@ For I, the LORD, love justice; I hate robbery and iniquity; in My faithfulness I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.7|<< Isaiah 61:7]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.9|Isaiah 61:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֤י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] loving  | <span class="ashebrew"><big>אֹהֵ֣ב </big></span><small><small><sup>[[H0157G]]</sup></small></small> &#8207;| 'o.Hev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּ֔ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [I am] hating  | <span class="ashebrew"><big>שֹׂנֵ֥א </big></span><small><small><sup>[[H8130]]</sup></small></small> &#8207;| so.Ne' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| robbery  | <span class="ashebrew"><big>גָזֵ֖ל </big></span><small><small><sup>[[H1498]]</sup></small></small> &#8207;| ga.Zel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with injustice  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עוֹלָ֑ה </big></span><small><small><sup>[[H5766B]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'o.Lah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will give  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָתַתִּ֤י </big></span><small><small><sup>[[H5414G]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.ta.Ti <small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| recompense their  | <span class="ashebrew"><big>פְעֻלָּתָ </big></span><small><small><sup>[[H6468]]</sup></small></small> <span class="ashebrew"><big>ם֙ </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| fe.'u.la.Ta <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in faithfulness  | <span class="ashebrew"><big>בֶּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אֱמֶ֔ת </big></span><small><small><sup>[[H0571G]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'e.Met <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a covenant of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְרִ֥ית </big></span><small><small><sup>[[H1285]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Rit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>עוֹלָ֖ם </big></span><small><small><sup>[[H5769G]]</sup></small></small> &#8207;| o.Lam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make  | <span class="ashebrew"><big>אֶכְר֥וֹת </big></span><small><small><sup>[[H3772H]]</sup></small></small> &#8207;| 'ekh.Rot <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] loving  |**<big>&#8207;[[H0157G\|אֹהֵ֣ב]]&#8207; </big>**| 'o.Hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֔ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [I am] hating  |**<big>&#8207;[[H8130\|שֹׂנֵ֥א]]&#8207; </big>**| so.Ne'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| robbery  |**<big>&#8207;[[H1498\|גָזֵ֖ל]]&#8207; </big>**| ga.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with injustice  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5766B\|עוֹלָ֑ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| recompense their  |**<big>&#8207;[[H6468\|פְעֻלָּתָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| fe.'u.la.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in faithfulness  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H0571G\|אֱמֶ֔ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a covenant of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1285\|בְרִ֥ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָ֖ם]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make  |**<big>&#8207;[[H3772H\|אֶכְר֥וֹת]]&#8207; </big>**| 'ekh.Rot<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.7|<< Isaiah 61:7]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.9|Isaiah 61:9 >>]]</td></tr></table>
 
 

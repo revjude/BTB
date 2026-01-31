@@ -11,14 +11,14 @@ The people I formed for Myself will declare My praise.<small><sub>**MT:**</sub>
 > $\quad$ referenced by: [[1Pet.2.9c|1Pet 2:9c]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I procured; | <big><span class="asgreek">περιεποιησάμην</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my virtues | <big><span class="asgreek">αρετάς</span></big> <sup><small><small>[[G0703]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to describe | <big><span class="asgreek">διηγείσθαι</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| I procured; | **<big>[[G4046\|περιεποιησάμην]]</big>** |
+| the ones | **<big>[[G3588\|τας]]</big>** |
+| my virtues | **<big>[[G0703\|αρετάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to describe | **<big>[[G1334\|διηγείσθαι]]</big>** |
 [[Isa.43.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.20|<< Isaiah 43:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.22|Isaiah 43:22 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ For the LORD heareth the poor, and despiseth not his prisoners.
 For the LORD listens to the needy and does not despise His captive people.<small><sub>**MT:**</sub></small>
 [[Ps.69.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.32|<< Psalm 69:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.34|Psalm 69:34 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| listens to | <big><span class="asgreek">εισήκουσε</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| needy | <big><span class="asgreek">πενήτων</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his being shackled | <big><span class="asgreek">πεπεδημένους</span></big> <sup><small><small>[[G8675]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| treat with contempt. | <big><span class="asgreek">εξουδένωσεν</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| listens to | **<big>[[G1522\|εισήκουσε]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| needy | **<big>[[G3993\|πενήτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| of his being shackled | **<big>[[G8675\|πεπεδημένους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| he does not | **<big>[[G3756\|ουκ]]</big>** |
+| treat with contempt. | **<big>[[G1847\|εξουδένωσεν]]</big>** |
 [[Ps.69.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.32|<< Psalm 69:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.34|Psalm 69:34 >>]]</td></tr></table>
 
 

@@ -11,38 +11,38 @@ Go to Pharaoh in the morning as you see him walking out to the water. Wait on th
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You proceed | <big><span class="asgreek">βάδισον</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| in the morning! | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will go forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will be \[able\] | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to meet | <big><span class="asgreek">συναντών</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| edge | <big><span class="asgreek">χείλος</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river, | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod, | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| the \[one\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turning | <big><span class="asgreek">στραφείσαν</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a serpent, | <big><span class="asgreek">όφιν</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
-| take | <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand. | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You proceed | **<big>[[G6642\|βάδισον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| in the morning! | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will go forth | **<big>[[G1607\|εκπορεύεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water. | **<big>[[G5204\|ύδωρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you will be \[able\] | **<big>[[G1510\|έση]]</big>** |
+| to meet | **<big>[[G4876\|συναντών]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| edge | **<big>[[G5491\|χείλος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river, | **<big>[[G4215\|ποταμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rod, | **<big>[[G4464\|ράβδον]]</big>** |
+| the \[one\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| turning | **<big>[[G4762\|στραφείσαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| a serpent, | **<big>[[G3789\|όφιν]]</big>** |
+| take | **<big>[[G2983\|λήψη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your hand. | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Exod.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.14|<< Exodus 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.16|Exodus 7:16 >>]]</td></tr></table>
 
 

@@ -7,19 +7,19 @@ His eyes [shall be] red with wine, and his teeth white with milk.
 His eyes are darker than wine, and his teeth are whiter than milk.<small><sub>**MT:**</sub></small>
 [[Gen.49.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.11|<< Genesis 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.13|Genesis 49:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| causing joy | <big><span class="asgreek">χαροποιοί</span></big> <sup><small><small>[[G9706]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| away from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] white | <big><span class="asgreek">λευκοί</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his teeth | <big><span class="asgreek">οδόντες</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| milk. | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
+| causing joy | **<big>[[G9706\|χαροποιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| His eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| away from | **<big>[[G0575\|από]]</big>** |
+| wine, | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] white | **<big>[[G3022\|λευκοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| of his teeth | **<big>[[G3599\|οδόντες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| than | **<big>[[G2228\|η]]</big>** |
+| milk. | **<big>[[G1051\|γάλα]]</big>** |
 [[Gen.49.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.11|<< Genesis 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.13|Genesis 49:13 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סוּפָה‎</span></big> **çûwphâh** <small>*(soo-faw')*</small> ==**whirlwind**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎סוּף‎</span><sup><small>[[H5486]]</small></sup></small>
+**<big><span class="ashebrew">‎סוּפָה‎</span></big>** **çûwphâh** <small>*(soo-faw')*</small> ==**whirlwind**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5486|‎סוּף‎]]</big>**</small>
 
 $\quad$ Red Sea, storm, tempest, whirlwind, Red sea.
 - § Suphah = *"honeycomb: overflow"*
@@ -10,4 +10,4 @@ n f
 n pr loc
 **2)** a place east of the Jordan
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γνόφος</span><sup><small>[[G1105]]</small></sup> · <span class="asgreek">καταστροφή</span><sup><small>[[G2692]]</small></sup> · <span class="asgreek">λαῖλαψ</span><sup><small>[[G2978]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">ὀργή</span><sup><small>[[G3709]]</small></sup>
+<small>See Greek: </small>**<big>[[G1105|γνόφος]]</big>** · **<big>[[G2692|καταστροφή]]</big>** · **<big>[[G2978|λαῖλαψ]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G3709|ὀργή]]</big>**

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Nimrim</span> was a place in Moab known for its waters, which are mentioned in the context of God's judgment on Moab.
 - A location first mentioned at [[Isa.15.6|Isa.15.6]]; 
-- only referred to as Nimrim<[[H5249]]> \(<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Nimrim **<big>[[H5249|נִמְרִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.133191,35.531138&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Nimrim was a place in the land of Moab, east of the Dead Sea. It is mentioned in
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nimrim | [<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H5249) <small>*Hebrew*</small> | 2x | [[Isa.15.6] & [Jer.48.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nimrim\*\|reference=Isa.15.6;Jer.48.34) |
-All Strong's for **Nimrim**: \[[[H5249]]\]
+| Nimrim | [<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H5249) | 2x | [[Isa.15.6] & [Jer.48.34] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nimrim\*\|reference=Isa.15.6;Jer.48.34) |
+All entries for **Nimrim**:  **<big>[[H5249|נִמְרִים]]</big>**

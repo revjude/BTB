@@ -7,29 +7,29 @@ What prayer and supplication soever be [made] by any man, [or] by all thy people
 then may whatever prayer or petition Your people Israel make—each knowing his own afflictions and spreading out his hands toward this temple—<small><sub>**MT:**</sub></small>
 [[1Kgs.8.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.37|<< 1 Kings 8:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.39|1 Kings 8:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| prayer, | <big><span class="asgreek">προσευχή</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| supplication, | <big><span class="asgreek">δέησις</span></big> <sup><small><small>[[G1162]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| it should happen | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man, | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-|  | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| each \[one\] | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \[the\] infection | <big><span class="asgreek">αφήν</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
-| of his heart, | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should open and spread out | <big><span class="asgreek">διαπετάση</span></big> <sup><small><small>[[G6861]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| prayer, | **<big>[[G4335\|προσευχή]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| supplication, | **<big>[[G1162\|δέησις]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| it should happen | **<big>[[G1096\|γένηται]]</big>** |
+| to any | **<big>[[G3956\|παντί]]</big>** |
+| man, | **<big>[[G0444\|ανθρώπω]]</big>** |
+|  | **<big>[[G5613\|ως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| should know | **<big>[[G1097\|γνώσιν]]</big>** |
+| each \[one\] | **<big>[[G1538\|έκαστος]]</big>** |
+| \[the\] infection | **<big>[[G0860\|αφήν]]</big>** |
+| of his heart, | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should open and spread out | **<big>[[G6861\|διαπετάση]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this house, | **<big>[[G3624\|οίκον]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 [[1Kgs.8.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.37|<< 1 Kings 8:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.39|1 Kings 8:39 >>]]</td></tr></table>
 
 

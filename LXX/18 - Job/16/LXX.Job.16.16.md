@@ -7,17 +7,17 @@ My face is foul with weeping, and on my eyelids [is] the shadow of death;
 My face is red with weeping, and deep shadows ring my eyes;<small><sub>**MT:**</sub></small>
 [[Job.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.17|Job 16:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My belly | <big><span class="asgreek">γαστήρ</span></big> <sup><small><small>[[G1064]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| burns | <big><span class="asgreek">συγκέκαυται</span></big> <sup><small><small>[[G9221]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| weeping, | <big><span class="asgreek">κλαυθμού</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| and upon | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my eyelids | <big><span class="asgreek">βλεφάροις μου</span></big> <sup><small><small>[[G6678]]</small></small></sup> |
-| a shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| of death. | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My belly | **<big>[[G1064\|γαστήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| burns | **<big>[[G9221\|συγκέκαυται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| weeping, | **<big>[[G2805\|κλαυθμού]]</big>** |
+| and upon | **<big>[[G1909\|επι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| my eyelids | **<big>[[G6678\|βλεφάροις μου]]</big>** |
+| a shadow | **<big>[[G4639\|σκιά]]</big>** |
+| of death. | **<big>[[G2288\|θανάτου]]</big>** |
 [[Job.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.17|Job 16:17 >>]]</td></tr></table>
 
 

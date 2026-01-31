@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נִדָּה‎</span></big> **niddâh** <small>*(nid-daw')*</small> ==**impurity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎נָדַד‎</span><sup><small>[[H5074]]</small></sup></small>
+**<big><span class="ashebrew">‎נִדָּה‎</span></big>** **niddâh** <small>*(nid-daw')*</small> ==**impurity**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H5074|‎נָדַד‎]]</big>**</small>
 
 $\quad$ [idiom] far, filthiness, [idiom] flowers, menstruous (woman), put apart, [idiom] removed (woman), separation, set apart, unclean(-ness, thing, with filthiness).
 - properly, ***rejection***
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** of menstruation
 $\quad$ **1b)** impure thing (fig.)
 $\quad$ $\quad$ **1b1)** of idolatry, immorality
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγνισμός</span><sup><small>[[G0049]]</small></sup> · <span class="asgreek">ἀκαθαρσία</span><sup><small>[[G0167]]</small></sup> · <span class="asgreek">μετακινέω</span><sup><small>[[G3334]]</small></sup> · <span class="asgreek">ῥαντισμός</span><sup><small>[[G4473]]</small></sup>
+<small>See Greek: </small>**<big>[[G0049|ἁγνισμός]]</big>** · **<big>[[G0167|ἀκαθαρσία]]</big>** · **<big>[[G3334|μετακινέω]]</big>** · **<big>[[G4473|ῥαντισμός]]</big>**

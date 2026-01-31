@@ -7,45 +7,45 @@ By thy messengers thou hast reproached the Lord, and hast said, With the multitu
 Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest outposts, the densest of its forests.<small><sub>**MT:**</sub></small>
 [[2Kgs.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of your messengers | <big><span class="asgreek">αγγέλων</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you have berated | <big><span class="asgreek">ωνείδικας</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| multitude | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my chariots | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβην</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of \[the\] mountains, | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[the\] sides | <big><span class="asgreek">μήρους</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon, | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I felled | <big><span class="asgreek">έκοψα</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| greatness | <big><span class="asgreek">μέγεθος</span></big> <sup><small><small>[[G3174]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his cedar, | <big><span class="asgreek">κέδρου</span></big> <sup><small><small>[[G2748]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτά</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| cypresses | <big><span class="asgreek">κυπαρίσσων</span></big> <sup><small><small>[[G8130]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of \[the\] grove | <big><span class="asgreek">δρυμόυ</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| of Carmel. | <big><span class="asgreek">Καρμήλου</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
+| By | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of your messengers | **<big>[[G0032\|αγγέλων]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you have berated | **<big>[[G3679\|ωνείδικας]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπας]]</big>** |
+| By | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| multitude | **<big>[[G4128\|πλήθει]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my chariots | **<big>[[G0716\|αρμάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| ascended | **<big>[[G0305\|ανέβην]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] height | **<big>[[G5311\|ύψος]]</big>** |
+| of \[the\] mountains, | **<big>[[G3735\|ορέων]]</big>** |
+| \[the\] sides | **<big>[[G3382\|μήρους]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon, | **<big>[[H3844\|Λιβάνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I felled | **<big>[[G2875\|έκοψα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| greatness | **<big>[[G3174\|μέγεθος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his cedar, | **<big>[[G2748\|κέδρου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτά]]</big>** |
+| cypresses | **<big>[[G8130\|κυπαρίσσων]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I came | **<big>[[G2064\|ήλθον]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσον]]</big>** |
+| of \[the\] grove | **<big>[[G6971\|δρυμόυ]]</big>** |
+| of Carmel. | **<big>[[H3760\|Καρμήλου]]</big>** |
 [[2Kgs.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
 

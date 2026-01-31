@@ -1,8 +1,8 @@
 <small>*Phrygia • A region in Asia Minor with early Christians*</small>
 
 <span class='tipnrhighlight'>Phrygia</span> was a region in Asia Minor where Paul traveled and preached the gospel, and some of its inhabitants were present in Jerusalem on the day of Pentecost.
-- A location near Laodicea<[[G2993]]> first mentioned at [[Zech.9.6|Act.2.10]]; 
-- referred to as Phrygia or - \(KJV= Phrygia\) <[[G5435]]> \(<span class='tipnrLangGreek'>Φρυγία</span>\).
+- A location near Laodicea **<big>[[G2993|Λαοδίκεια]]</big>** first mentioned at [[Zech.9.6|Act.2.10]]; 
+- referred to as Phrygia or - \(KJV= Phrygia\)  **<big>[[G5435|Φρυγία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.76986723761415,29.06450110237073&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Phrygia was an ancient region located in the central part of Asia Minor \(modern
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Phrygia | [<span class='tipnrLangGreek'>Φρυγία</span>](G5435) <small>*Greek*</small> | 3x | [[Act.2.10] ... [Act.18.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phrygia\*\|reference=Act.2.10;Act.16.6;Act.18.23) |
-| - (KJV= Phrygia) | [<span class='tipnrLangGreek'>Φρυγία</span>](G5435) <small>*Greek*</small> | 1x | [1Ti.6.21 ⌕](https://www.stepbible.org/?q=reference=1Ti.6.21) |
-All Strong's for **Phrygia**: \[[[G5435]]\]
+| Phrygia | [<span class='tipnrLangGreek'>Φρυγία</span>](G5435) | 3x | [[Act.2.10] ... [Act.18.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phrygia\*\|reference=Act.2.10;Act.16.6;Act.18.23) |
+| - (KJV= Phrygia) | [<span class='tipnrLangGreek'>Φρυγία</span>](G5435) | 1x | [1Ti.6.21 ⌕](https://www.stepbible.org/?q=reference=1Ti.6.21) |
+All entries for **Phrygia**:  **<big>[[G5435|Φρυγία]]</big>**

@@ -1,4 +1,3 @@
-<span class="asaramaic">‎בָּל‎</span> <small>***(bal)***</small> ==**mind**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H3820A]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H3820A|לֵב]]</big>**</small> 
 
-- Aramaic of <i>lev</i> (<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ב‎</span> "heart" [[H3820A]])
+- Aramaic of <i>lev</i> (<span class='ashebrew'>‎ל‎</span>ֵ<span class='ashebrew'>‎ב‎</span> "heart" **<big>[[H3820A|לֵב]]</big>**)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גּוֹלָן‎</span></big> **Gôwlân** <small>*(go-lawn')*</small> ==**Golan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎גּוֹלָה‎</span><sup><small>[[H1473]]</small></sup>; captive</small>
+**<big><span class="ashebrew">‎גּוֹלָן‎</span></big>** **Gôwlân** <small>*(go-lawn')*</small> ==**Golan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1473|‎גּוֹלָה‎]]</big>**; captive</small>
 
 $\quad$ Golan.
 - § Golan = *"their captivity: their rejoicing"*

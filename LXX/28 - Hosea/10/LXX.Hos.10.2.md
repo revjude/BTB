@@ -7,19 +7,19 @@ Their heart is divided; now shall they be found faulty: he shall break down thei
 Their hearts are devious; now they must bear their guilt. The LORD will break down their altars and demolish their sacred pillars.<small><sub>**MT:**</sub></small>
 [[Hos.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.1|<< Hosea 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.3|Hosea 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They portioned | <big><span class="asgreek">εμερίσαν</span></big> <sup><small><small>[[G3307]]</small></small></sup> |
-| their hearts, | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| they shall be obliterated; | <big><span class="asgreek">αφανισθήσονται</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall raze | <big><span class="asgreek">κατασκάψει</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their altars, | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall languish | <big><span class="asgreek">ταλαιπωρήσουσιν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their monuments | <big><span class="asgreek">στήλαι</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They portioned | **<big>[[G3307\|εμερίσαν]]</big>** |
+| their hearts, | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| they shall be obliterated; | **<big>[[G0853\|αφανισθήσονται]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| shall raze | **<big>[[G2679\|κατασκάψει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their altars, | **<big>[[G2379\|θυσιαστήρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| shall languish | **<big>[[G5003\|ταλαιπωρήσουσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their monuments | **<big>[[G9171\|στήλαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Hos.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.1|<< Hosea 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.3|Hosea 10:3 >>]]</td></tr></table>
 
 

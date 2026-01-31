@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎קַבְצְאֵל‎</span></big> **Qabtsᵉʼêl** <small>*(kab-tseh-ale')*</small> ==**Kabzeel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָבַץ‎</span><sup><small>[[H6908]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God has gathered</small>
+**<big><span class="ashebrew">‎קַבְצְאֵל‎</span></big>** **Qabtsᵉʼêl** <small>*(kab-tseh-ale')*</small> ==**Kabzeel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6908|‎קָבַץ‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God has gathered</small>
 
-$\quad$ Kabzeel. Compare <span class="ashebrew">‎יְקַבְצְאֵל‎</span><sup><small>[[H3343]]</small></sup>.
+$\quad$ Kabzeel. Compare **<big>[[H3343|‎יְקַבְצְאֵל‎]]</big>**.
 - § Kabzeel = *"God gathers"*
 - ***Kabtseel***, a place in Palestine
 

@@ -7,29 +7,29 @@ The best of them [is] as a brier: the most upright [is sharper] than a thorn hed
 The best of them is like a brier; the most upright is sharper than a hedge of thorns. The day for your watchmen has come, the day of your visitation. Now is the time of their confusion.<small><sub>**MT:**</sub></small>
 [[Mic.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.3|<< Micah 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.5|Micah 7:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will take out | <big><span class="asgreek">εξελούμαι</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their good \[things\], | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a moth | <big><span class="asgreek">σης</span></big> <sup><small><small>[[G4597]]</small></small></sup> |
-| chews away, | <big><span class="asgreek">εκτρώγων</span></big> <sup><small><small>[[G7163]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| one proceeding | <big><span class="asgreek">βαδίζων</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] rule | <big><span class="asgreek">κανόνος</span></big> <sup><small><small>[[G2583]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of \[the\] watch. | <big><span class="asgreek">σκοπιάς</span></big> <sup><small><small>[[G9115]]</small></small></sup> |
-| Woe, | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| your punishments | <big><span class="asgreek">εκδικήσεις</span></big> <sup><small><small>[[G1557]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| came, | <big><span class="asgreek">ήκασιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| \[there\] shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| their weeping. | <big><span class="asgreek">κλαυθμοί</span></big> <sup><small><small>[[G2805]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will take out | **<big>[[G1807\|εξελούμαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their good \[things\], | **<big>[[G0018\|αγαθά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a moth | **<big>[[G4597\|σης]]</big>** |
+| chews away, | **<big>[[G7163\|εκτρώγων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| one proceeding | **<big>[[G6642\|βαδίζων]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| \[the\] rule | **<big>[[G2583\|κανόνος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of \[the\] watch. | **<big>[[G9115\|σκοπιάς]]</big>** |
+| Woe, | **<big>[[G3759\|ουαί]]</big>** |
+| your punishments | **<big>[[G1557\|εκδικήσεις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| came, | **<big>[[G2240\|ήκασιν]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| \[there\] shall be | **<big>[[G1510\|έσονται]]</big>** |
+| their weeping. | **<big>[[G2805\|κλαυθμοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Mic.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.3|<< Micah 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.5|Micah 7:5 >>]]</td></tr></table>
 
 

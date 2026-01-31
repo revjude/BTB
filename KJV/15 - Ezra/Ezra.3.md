@@ -57,7 +57,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.3.8|8]]**<span class="en
 
 [^23]: Not Jeshua the high-priest, before mentioned, but another Jeshua, a Levite, mentioned in the parallel passage. [[Ezra.2|Ezra 2:40]]
 
-[^24]: ***Hodaviah***, <span class="asgreek"><span class='asgreek'>δεγειδ</span></span> (<span class="ashebrew">‎הוֹדַוְיָה‎</span><sup><small>[[H1938]]</small></sup>), is called ***Hodevah***, <span class="asgreek"><span class='asgreek'>δεγεδ</span> </span> (<span class="ashebrew">‎הוֹדְוָה‎</span><sup><small>[[H1937]]</small></sup>), by the elision of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, and was probably named Judah, from the word having the same signification. [[Ezra.2|Ezra 2:40]], Hodaviah, [[Neh.7|Neh 7:43]], Hodevah
+[^24]: ***Hodaviah***, <span class="asgreek"><span class='asgreek'>δεγειδ</span></span> ( [[H1938|‎הוֹדַוְיָה‎]] ), is called ***Hodevah***, <span class="asgreek"><span class='asgreek'>δεγεδ</span> </span> ( [[H1937|‎הוֹדְוָה‎]] ), by the elision of <span class="asgreek"><span class='asgreek'>ι</span></span>, ***yood***, and was probably named Judah, from the word having the same signification. [[Ezra.2|Ezra 2:40]], Hodaviah, [[Neh.7|Neh 7:43]], Hodevah
 
 [^25]: Heb. as one
 

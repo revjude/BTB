@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חַרְנֶפֶר‎</span></big> **Charnepher** <small>*(khar-neh'fer)*</small> ==**Harnepher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎חַרְנֶפֶר‎</span></big>** **Charnepher** <small>*(khar-neh'fer)*</small> ==**Harnepher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Harnepher.

@@ -7,21 +7,21 @@ Assur also is joined with them: they have holpen the children of Lot. Selah.
 Even Assyria has joined them, lending strength to the sons of Lot. Selah<small><sub>**MT:**</sub></small>
 [[Ps.83.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.7|<< Psalm 83:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.9|Psalm 83:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Assyria | <big><span class="asgreek">Ασσούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| came together | <big><span class="asgreek">συμπαρεγένετο</span></big> <sup><small><small>[[G4836]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| an | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| assistance | <big><span class="asgreek">αντίληψιν</span></big> <sup><small><small>[[G0484]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Lot. | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
+| For even | **<big>[[G2532\|και]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| Assyria | **<big>[[H0804\|Ασσούρ]]</big>** |
+| came together | **<big>[[G4836\|συμπαρεγένετο]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them; | **<big>[[G1473\|αυτών]]</big>** |
+| they became | **<big>[[G1096\|εγενήθησαν]]</big>** |
+| an | **<big>[[G1519\|εις]]</big>** |
+| assistance | **<big>[[G0484\|αντίληψιν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Lot. | **<big>[[G3091\|Λωτ]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
 [[Ps.83.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.7|<< Psalm 83:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.9|Psalm 83:9 >>]]</td></tr></table>
 
 

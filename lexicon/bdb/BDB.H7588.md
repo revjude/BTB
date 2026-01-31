@@ -1,4 +1,4 @@
-<small>Also see: [[H7723]]</small>
+<small>Also see: **<big>[[H7723|שָׁוְא]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שָׁאוֺן‎</span> **noun masculine**<sup>[[Hos.10.14|Hos 10:14]]</sup> ==roar== (of waters, etc.), ==din, crash, uproar==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[Hos.10.14|Hos 10:14]] +; construct <span class="bdbLangHebrew">‎שְׁאוֺן‎</span> [[Isa.13.4|Isa 13:4]] +; suffix <span class="bdbLangHebrew">‎שְׁאוֺנָהּ‎</span> [[Isa.5.14|Isa 5:14]] — 
 

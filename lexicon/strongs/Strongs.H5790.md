@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוּת‎</span></big> **ʻûwth** <small>*(ooth)*</small> ==**to help**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>for <span class="ashebrew">‎עוּשׁ‎</span><sup><small>[[H5789]]</small></sup></small>
+**<big><span class="ashebrew">‎עוּת‎</span></big>** **ʻûwth** <small>*(ooth)*</small> ==**to help**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>for **<big>[[H5789|‎עוּשׁ‎]]</big>**</small>
 
 $\quad$ speak in season.
 - ***to hasten***, i.e. ***succor***

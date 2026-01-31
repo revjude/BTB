@@ -6,32 +6,32 @@ Or if a person touches anything unclean—whether the carcass of any unclean wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.1|<< Leviticus 5:1]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.3|Leviticus 5:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| or  | <span class="ashebrew"><big>א֣וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>נֶ֗פֶשׁ </big></span><small><small><sup>[[H5315J]]</sup></small></small> &#8207;| Ne.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will touch  | <span class="ashebrew"><big>תִּגַּע֮ </big></span><small><small><sup>[[H5060]]</sup></small></small> &#8207;| ti.Ga' <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> every  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thing  | <span class="ashebrew"><big>דָּבָ֣ר </big></span><small><small><sup>[[H1697I]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unclean  | <span class="ashebrew"><big>טָמֵא֒ </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| ta.Me' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>אוֹ֩ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> a carcass of  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נִבְלַ֨ת </big></span><small><small><sup>[[H5038]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> niv.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an animal  | <span class="ashebrew"><big>חַיָּ֜ה </big></span><small><small><sup>[[H2416C]]</sup></small></small> &#8207;| chai.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unclean  | <span class="ashebrew"><big>טְמֵאָ֗ה </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| te.me.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֤וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> a carcass of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נִבְלַת֙ </big></span><small><small><sup>[[H5038]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> niv.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| livestock  | <span class="ashebrew"><big>בְּהֵמָ֣ה </big></span><small><small><sup>[[H0929]]</sup></small></small> &#8207;| be.he.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unclean  | <span class="ashebrew"><big>טְמֵאָ֔ה </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| te.me.'Ah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or  | <span class="ashebrew"><big>א֕וֹ </big></span><small><small><sup>[[H0176A]]</sup></small></small> &#8207;| 'o <small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> a carcass of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נִבְלַ֖ת </big></span><small><small><sup>[[H5038]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> niv.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a swarming thing  | <span class="ashebrew"><big>שֶׁ֣רֶץ </big></span><small><small><sup>[[H8318]]</sup></small></small> &#8207;| She.retz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unclean  | <span class="ashebrew"><big>טָמֵ֑א </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| ta.Me' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will be hidden  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נֶעְלַ֣ם </big></span><small><small><sup>[[H5956]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ne'.Lam <small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from him  | <span class="ashebrew"><big>מִמֶּ֔ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HRd]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>ה֥וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] unclean  | <span class="ashebrew"><big>טָמֵ֖א </big></span><small><small><sup>[[H2931]]</sup></small></small> &#8207;| ta.Me' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will be guilty  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָשֵֽׁם </big></span><small><small><sup>[[H0816]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Shem <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H5315J\|נֶ֗פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will touch  |**<big>&#8207;[[H5060\|תִּגַּע֮]]&#8207; </big>**| ti.Ga'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> every  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thing  |**<big>&#8207;[[H1697I\|דָּבָ֣ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unclean  |**<big>&#8207;[[H2931\|טָמֵא֒]]&#8207; </big>**| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|אוֹ֩]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a carcass of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5038\|נִבְלַ֨ת]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> niv.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an animal  |**<big>&#8207;[[H2416C\|חַיָּ֜ה]]&#8207; </big>**| chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unclean  |**<big>&#8207;[[H2931\|טְמֵאָ֗ה]]&#8207; </big>**| te.me.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֤וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a carcass of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5038\|נִבְלַת֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> niv.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| livestock  |**<big>&#8207;[[H0929\|בְּהֵמָ֣ה]]&#8207; </big>**| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unclean  |**<big>&#8207;[[H2931\|טְמֵאָ֔ה]]&#8207; </big>**| te.me.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  |**<big>&#8207;[[H0176A\|א֕וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a carcass of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5038\|נִבְלַ֖ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> niv.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a swarming thing  |**<big>&#8207;[[H8318\|שֶׁ֣רֶץ]]&#8207; </big>**| She.retz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unclean  |**<big>&#8207;[[H2931\|טָמֵ֑א]]&#8207; </big>**| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be hidden  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5956\|נֶעְלַ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ne'.Lam<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from him  |**<big>&#8207;[[H4480A\|מִמֶּ֔]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] unclean  |**<big>&#8207;[[H2931\|טָמֵ֖א]]&#8207; </big>**| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will be guilty  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0816\|אָשֵֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Shem<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.1|<< Leviticus 5:1]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.3|Leviticus 5:3 >>]]</td></tr></table>
 
 

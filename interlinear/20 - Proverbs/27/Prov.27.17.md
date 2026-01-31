@@ -6,15 +6,15 @@ As iron sharpens iron, so one man sharpens another.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.16|<< Proverbs 27:16]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.18|Proverbs 27:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| iron  | <span class="ashebrew"><big>בַּרְזֶ֣ל </big></span><small><small><sup>[[H1270]]</sup></small></small> &#8207;| bar.Zel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by iron  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>בַרְזֶ֣ל </big></span><small><small><sup>[[H1270]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> var.Zel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it grows sharp  | <span class="ashebrew"><big>יָ֑חַד </big></span><small><small><sup>[[H2300B]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and each  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִ֗ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sharpens  | <span class="ashebrew"><big>יַ֣חַד </big></span><small><small><sup>[[H2300B]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] face of  | <span class="ashebrew"><big>פְּנֵֽי </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pe.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| neighbor his  | <span class="ashebrew"><big>רֵעֵֽ </big></span><small><small><sup>[[H7453]]</sup></small></small> <span class="ashebrew"><big>הוּ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| re.'E. <small><sup>[[HNcmsc]]</sup></small> hu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iron  |**<big>&#8207;[[H1270\|בַּרְזֶ֣ל]]&#8207; </big>**| bar.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by iron  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1270\|בַרְזֶ֣ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> var.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it grows sharp  |**<big>&#8207;[[H2300B\|יָ֑חַד]]&#8207; </big>**| Ya.chad<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and each  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H0376I\|אִ֗ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sharpens  |**<big>&#8207;[[H2300B\|יַ֣חַד]]&#8207; </big>**| Ya.chad<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  |**<big>&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.16|<< Proverbs 27:16]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.18|Proverbs 27:18 >>]]</td></tr></table>
 
 

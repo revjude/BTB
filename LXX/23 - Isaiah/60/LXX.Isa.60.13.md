@@ -7,32 +7,32 @@ The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the 
 The glory of Lebanon will come to you—its cypress, elm, and boxwood together—to adorn the place of My sanctuary, and I will glorify the place of My feet.<small><sub>**MT:**</sub></small>
 [[Isa.60.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.12|<< Isaiah 60:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.14|Isaiah 60:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Lebanon | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| cypress | <big><span class="asgreek">κυπαρίσσω</span></big> <sup><small><small>[[G8130]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pine | <big><span class="asgreek">πεύκη</span></big> <sup><small><small>[[G8784]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cedar | <big><span class="asgreek">κέδρω</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
-| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
-| to glorify | <big><span class="asgreek">δοξάσαι</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy | <big><span class="asgreek">άγιόν</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of their feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will glorify. | <big><span class="asgreek">δοξάσω</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Lebanon | **<big>[[H3844\|Λιβάνου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| cypress | **<big>[[G8130\|κυπαρίσσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pine | **<big>[[G8784\|πεύκη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cedar | **<big>[[G2748\|κέδρω]]</big>** |
+| together, | **<big>[[G0260\|άμα]]</big>** |
+| to glorify | **<big>[[G1392\|δοξάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my holy | **<big>[[G0039\|άγιόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] place | **<big>[[G5117\|τόπον]]</big>** |
+| of their feet | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| I will glorify. | **<big>[[G1392\|δοξάσω]]</big>** |
 [[Isa.60.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.12|<< Isaiah 60:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.14|Isaiah 60:14 >>]]</td></tr></table>
 
 

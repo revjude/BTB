@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סִיסְרָא‎</span></big> **Çîyçᵉrâʼ** <small>*(see-ser-aw')*</small> ==**Sisera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎סִיסְרָא‎</span></big>** **Çîyçᵉrâʼ** <small>*(see-ser-aw')*</small> ==**Sisera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Sisera.

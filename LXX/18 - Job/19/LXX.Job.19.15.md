@@ -7,16 +7,16 @@ They that dwell in mine house, and my maids, count me for a stranger: I am an al
 My guests and maidservants count me as a stranger; I am a foreigner in their sight.<small><sub>**MT:**</sub></small>
 [[Job.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.14|<< Job 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.16|Job 19:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As for \[the\] neighbors | <big><span class="asgreek">γείτονες</span></big> <sup><small><small>[[G1069]]</small></small></sup> |
-| of \[the\] house, | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| female attendants | <big><span class="asgreek">θεράπαιναι</span></big> <sup><small><small>[[G7654]]</small></small></sup> |
-| and also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I was foreign | <big><span class="asgreek">αλλογενής</span></big> <sup><small><small>[[G0241]]</small></small></sup> <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As for \[the\] neighbors | **<big>[[G1069\|γείτονες]]</big>** |
+| of \[the\] house, | **<big>[[G3614\|οικίας]]</big>** |
+| female attendants | **<big>[[G7654\|θεράπαιναι]]</big>** |
+| and also | **<big>[[G5037\|τε]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| I was foreign | **<big>[[G0241\|αλλογενής]]</big>** **<big>[[G1510\|ήμην]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
 [[Job.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.14|<< Job 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.16|Job 19:16 >>]]</td></tr></table>
 
 

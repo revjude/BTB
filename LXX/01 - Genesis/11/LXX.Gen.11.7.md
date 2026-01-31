@@ -7,21 +7,21 @@ Go to, let us go down, and there confound their language, that they may not unde
 Come, let Us go down and confuse their language, so that they will not understand one another’s speech.”<small><sub>**MT:**</sub></small>
 [[Gen.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Come, | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| going down, | <big><span class="asgreek">καταβάντες</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| let us confound | <big><span class="asgreek">συγχέωμεν</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
-| their language, | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| hearken to | <big><span class="asgreek">ακούσωσιν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
+| Come, | **<big>[[G1205\|δεύτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| going down, | **<big>[[G2597\|καταβάντες]]</big>** |
+| let us confound | **<big>[[G4797\|συγχέωμεν]]</big>** |
+| their language, | **<big>[[G1100\|γλώσσαν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| hearken to | **<big>[[G0191\|ακούσωσιν]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| voice | **<big>[[G5456\|φωνής]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| neighbor. | **<big>[[G4139\|πλησίον]]</big>** |
 [[Gen.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
 

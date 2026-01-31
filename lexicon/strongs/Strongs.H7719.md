@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֹׁהַם‎</span></big> **Shôham** <small>*(sho'-ham)*</small> ==**Shoham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שֹׁהַם‎</span><sup><small>[[H7718]]</small></sup></small>
+**<big><span class="ashebrew">‎שֹׁהַם‎</span></big>** **Shôham** <small>*(sho'-ham)*</small> ==**Shoham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H7718|‎שֹׁהַם‎]]</big>**</small>
 
 $\quad$ Shoham.
 - § Shoham = *"onyx"*

@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Naboth</span>, a Jezreelite, was unjustly killed by King Ahab and Queen Jezebel for refusing to sell his ancestral vineyard.
 - A man living at the time of Divided Monarchy, first mentioned at [[1Kgs.21.1|1Ki.21.1]]; 
-- only referred to as Naboth<[[H5022]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Naboth **<big>[[H5022|נָבוֹת]]</big>**.
 
 Naboth was a Jezreelite who owned a vineyard adjacent to the palace of King Ahab of Israel. His story, recorded in 1 Kings 21 and 2 Kings 9, is a tragic account of injustice and the abuse of power. 
 
@@ -20,5 +20,5 @@ Naboth's story illustrates the importance of justice, the sanctity of ancestral 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naboth | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H5022) <small>*Hebrew*</small> | 22x | [[1Ki.21.1] ... [2Ki.9.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naboth\*\|reference=1Ki.21.1;1Ki.21.2;1Ki.21.3;1Ki.21.4;1Ki.21.6;1Ki.21.7;1Ki.21.8;1Ki.21.9;1Ki.21.12;1Ki.21.13;1Ki.21.13;1Ki.21.14;1Ki.21.15;1Ki.21.15;1Ki.21.15;1Ki.21.16;1Ki.21.16;1Ki.21.18;1Ki.21.19;2Ki.9.21;2Ki.9.25;2Ki.9.26) |
-All Strong's for **Naboth**: \[[[H5022]]\]
+| Naboth | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>בו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H5022) | 22x | [[1Ki.21.1] ... [2Ki.9.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naboth\*\|reference=1Ki.21.1;1Ki.21.2;1Ki.21.3;1Ki.21.4;1Ki.21.6;1Ki.21.7;1Ki.21.8;1Ki.21.9;1Ki.21.12;1Ki.21.13;1Ki.21.13;1Ki.21.14;1Ki.21.15;1Ki.21.15;1Ki.21.15;1Ki.21.16;1Ki.21.16;1Ki.21.18;1Ki.21.19;2Ki.9.21;2Ki.9.25;2Ki.9.26) |
+All entries for **Naboth**:  **<big>[[H5022|נָבוֹת]]</big>**

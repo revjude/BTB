@@ -7,17 +7,17 @@ Gad, a troop shall overcome him: but he shall overcome at the last.
 Gad will be attacked by raiders, but he will attack their heels.<small><sub>**MT:**</sub></small>
 [[Gen.49.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.18|<< Genesis 49:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.20|Genesis 49:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Gad, | <big><span class="asgreek">Γαδ</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| a marauder | <big><span class="asgreek">πειρατήριον</span></big> <sup><small><small>[[G8679]]</small></small></sup> |
-| will maraud against | <big><span class="asgreek">πειρατεύσει</span></big> <sup><small><small>[[G8678]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| will maraud against | <big><span class="asgreek">πειρατεύσει</span></big> <sup><small><small>[[G8678]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| feet. | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| Gad, | **<big>[[G1045\|Γαδ]]</big>** |
+| a marauder | **<big>[[G8679\|πειρατήριον]]</big>** |
+| will maraud against | **<big>[[G8678\|πειρατεύσει]]</big>** |
+| him. | **<big>[[G1473\|αυτόν]]</big>** |
+| But he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| will maraud against | **<big>[[G8678\|πειρατεύσει]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| feet. | **<big>[[G4228\|πόδας]]</big>** |
 [[Gen.49.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.18|<< Genesis 49:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.20|Genesis 49:20 >>]]</td></tr></table>
 
 

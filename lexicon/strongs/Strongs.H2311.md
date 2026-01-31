@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַדְלַי‎</span></big> **Chadlay** <small>*(khad-lah'-ee)*</small> ==**Hadlai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חֶדֶל‎</span><sup><small>[[H2309]]</small></sup>; idle</small>
+**<big><span class="ashebrew">‎חַדְלַי‎</span></big>** **Chadlay** <small>*(khad-lah'-ee)*</small> ==**Hadlai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2309|‎חֶדֶל‎]]</big>**; idle</small>
 
 $\quad$ Hadlai.
 - § Hadlai = *"rest of God"*

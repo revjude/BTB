@@ -7,37 +7,37 @@ When I shall say to the righteous, [that] he shall surely live; if he trust to h
 If I tell the righteous man that he will surely live, but he then trusts in his righteousness and commits iniquity, then none of his righteous works will be remembered; he will die because of the iniquity he has committed.<small><sub>**MT:**</sub></small>
 [[Ezek.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.12|<< Ezekiel 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.14|Ezekiel 33:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my saying | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| righteous \[that\] | <big><span class="asgreek">δικαίω</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| to life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| he shall live | <big><span class="asgreek">ζήσεται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| has relied | <big><span class="asgreek">πέποιθεν</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his righteousness, | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should commit | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| lawlessness, | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his righteousness | <big><span class="asgreek">δικαιοσύναι</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall be called to mind; | <big><span class="asgreek">αναμνησθώσιν</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his iniquity | <big><span class="asgreek">αδικία αυτού</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he committed, | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my saying | **<big>[[G2036\|ειπείν]]</big>** **<big>[[G1473\|με]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| righteous \[that\] | **<big>[[G1342\|δικαίω]]</big>** |
+| to life | **<big>[[G2222\|ζωή]]</big>** |
+| he shall live | **<big>[[G2198\|ζήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this one | **<big>[[G3778\|ούτος]]</big>** |
+| has relied | **<big>[[G3982\|πέποιθεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his righteousness, | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should commit | **<big>[[G4160\|ποιήσει]]</big>** |
+| lawlessness, | **<big>[[G0458\|ανομίαν]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| his righteousness | **<big>[[G1343\|δικαιοσύναι]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall be called to mind; | **<big>[[G0363\|αναμνησθώσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| his iniquity | **<big>[[G0093\|αδικία αυτού]]</big>** |
+| in which | **<big>[[G3739\|η]]</big>** |
+| he committed, | **<big>[[G4160\|εποίησεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it | **<big>[[G1473\|αυτή]]</big>** |
+| he shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
 [[Ezek.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.12|<< Ezekiel 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.14|Ezekiel 33:14 >>]]</td></tr></table>
 
 

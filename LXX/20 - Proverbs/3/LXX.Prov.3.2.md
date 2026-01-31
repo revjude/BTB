@@ -7,17 +7,17 @@ For length of days, and long life, and peace, shall they add to thee.
 for they will add length to your days, years and peace to your life.<small><sub>**MT:**</sub></small>
 [[Prov.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.1|<< Proverbs 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.3|Proverbs 3:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For \[the\] length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of existence, | <big><span class="asgreek">βίου</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| peace | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
-| shall be added | <big><span class="asgreek">προσθήσουσί</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For \[the\] length | **<big>[[G3372\|μήκος]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of existence, | **<big>[[G0979\|βίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| peace | **<big>[[G1515\|ειρήνην]]</big>** |
+| shall be added | **<big>[[G4369\|προσθήσουσί]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Prov.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.1|<< Proverbs 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.3|Proverbs 3:3 >>]]</td></tr></table>
 
 

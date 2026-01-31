@@ -11,19 +11,19 @@ People will live there, and never again will there be an utter destruction. So J
 > $\quad$ referenced by: [[Rev.22.3|Rev 22:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall dwell | <big><span class="asgreek">κατοικήσουσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| anathema | <big><span class="asgreek">ανάθεμα</span></big> <sup><small><small>[[G0331]]</small></small></sup> |
-| it will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| any longer; | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jerusalem shall dwell | <big><span class="asgreek">κατοικήσει</span></big> <sup><small><small>[[G2730]]</small></small></sup> <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| securely. | <big><span class="asgreek">πεποιθότως</span></big> <sup><small><small>[[G8710]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall dwell | **<big>[[G2730\|κατοικήσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| anathema | **<big>[[G0331\|ανάθεμα]]</big>** |
+| it will not be | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| any longer; | **<big>[[G2089\|έτι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jerusalem shall dwell | **<big>[[G2730\|κατοικήσει]]</big>** **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| securely. | **<big>[[G8710\|πεποιθότως]]</big>** |
 [[Zech.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.10|<< Zechariah 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.12|Zechariah 14:12 >>]]</td></tr></table>
 
 

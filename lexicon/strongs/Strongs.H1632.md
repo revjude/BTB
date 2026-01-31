@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎גָּרֹל‎</span></big> **gârôl** <small>*(gaw-role')*</small> ==**harsh**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎גּוֹרָל‎</span><sup><small>[[H1486]]</small></sup></small>
+**<big><span class="ashebrew">‎גָּרֹל‎</span></big>** **gârôl** <small>*(gaw-role')*</small> ==**harsh**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from the same as **<big>[[H1486|‎גּוֹרָל‎]]</big>**</small>
 
-$\quad$ man of great (as in the margin which reads <span class="ashebrew">‎גָּדוֹל‎</span><sup><small>[[H1419]]</small></sup>).
+$\quad$ man of great (as in the margin which reads **<big>[[H1419|‎גָּדוֹל‎]]</big>**).
 - ***harsh***
 
 **1)** harsh, rough

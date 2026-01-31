@@ -7,44 +7,44 @@ His substance also was seven thousand sheep, and three thousand camels, and five
 and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.<small><sub>**MT:**</sub></small>
 [[Job.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.2|<< Job 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.4|Job 1:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[were\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his animals | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| seven thousand | <big><span class="asgreek">επτακισχίλια</span></big> <sup><small><small>[[G2035]]</small></small></sup> |
-| camels | <big><span class="asgreek">κάμηλοι</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
-| three thousand | <big><span class="asgreek">τρισχίλιαι</span></big> <sup><small><small>[[G5153]]</small></small></sup> |
-| teams | <big><span class="asgreek">ζεύγη</span></big> <sup><small><small>[[G2201]]</small></small></sup> |
-| of oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσια</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| donkeys | <big><span class="asgreek">όνοι</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
-| female | <big><span class="asgreek">θήλεια</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
-| grazing | <big><span class="asgreek">νομάδες</span></big> <sup><small><small>[[G8402]]</small></small></sup> |
-| five hundred | <big><span class="asgreek">πεντακόσιαι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for service | <big><span class="asgreek">υπηρεσία</span></big> <sup><small><small>[[G9566]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| there \[were\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of his | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| that man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">εκείνος</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| \[the\] east | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[were\] | **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his animals | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| seven thousand | **<big>[[G2035\|επτακισχίλια]]</big>** |
+| camels | **<big>[[G2574\|κάμηλοι]]</big>** |
+| three thousand | **<big>[[G5153\|τρισχίλιαι]]</big>** |
+| teams | **<big>[[G2201\|ζεύγη]]</big>** |
+| of oxen | **<big>[[G1016\|βοών]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| donkeys | **<big>[[G3688\|όνοι]]</big>** |
+| female | **<big>[[G2338\|θήλεια]]</big>** |
+| grazing | **<big>[[G8402\|νομάδες]]</big>** |
+| five hundred | **<big>[[G4001\|πεντακόσιαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for service | **<big>[[G9566\|υπηρεσία]]</big>** |
+| many | **<big>[[G4183\|πολλή]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| great | **<big>[[G3173\|μεγάλα]]</big>** |
+| there \[were\] | **<big>[[G1510\|ην]]</big>** |
+| of his | **<big>[[G1473\|αυτώ]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land. | **<big>[[G1093\|γης]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| that man | **<big>[[G0444\|άνθρωπος]]</big>** **<big>[[G1565\|εκείνος]]</big>** |
+| great | **<big>[[G3173\|μέγας]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| from | **<big>[[G0575\|αφ΄]]</big>** |
+| sun | **<big>[[G2246\|ηλίου]]</big>** |
+| \[the\] east | **<big>[[G0395\|ανατολών]]</big>** |
 [[Job.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.2|<< Job 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.4|Job 1:4 >>]]</td></tr></table>
 
 

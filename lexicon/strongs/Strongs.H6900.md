@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְבוּרָה‎</span></big> **qᵉbûwrâh** <small>*(keb-oo-raw')*</small> ==**tomb**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">קְבֻרָה</span> **qᵉburâh** <small>*(keb-ooraw')*</small>; feminine passive participle of <span class="ashebrew">‎קָבַר‎</span><sup><small>[[H6912]]</small></sup></small>
+**<big><span class="ashebrew">‎קְבוּרָה‎</span></big>** **qᵉbûwrâh** <small>*(keb-oo-raw')*</small> ==**tomb**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">קְבֻרָה</span></big>** **qᵉburâh** <small>*(keb-ooraw')*</small>; feminine passive participle of **<big>[[H6912|‎קָבַר‎]]</big>**</small>
 
 $\quad$ burial, burying place, grave, sepulchre.
 - ***sepulture***
@@ -9,4 +9,4 @@ $\quad$ burial, burying place, grave, sepulchre.
 $\quad$ **1a)** grave
 $\quad$ **1b)** burial
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μνῆμα</span><sup><small>[[G3418]]</small></sup> · <span class="asgreek">μνημεῖον</span><sup><small>[[G3419]]</small></sup>
+<small>See Greek: </small>**<big>[[G3418|μνῆμα]]</big>** · **<big>[[G3419|μνημεῖον]]</big>**

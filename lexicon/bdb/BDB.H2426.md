@@ -1,4 +1,4 @@
-<small>Also see: [[H2430]]</small>
+<small>Also see: **<big>[[H2430|חֵילָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎חֵל‎</span>, <span class="bdbLangHebrew">‎חֵיל‎</span> **noun masculine**<sup>[[Obad.1.20|Obad 1:20]]</sup> ==rampart, fortress== (perhaps originally ***surrounding wall***, compare [[BDB#SabDenkm|SabDenkm]]<sup>91 n. 2</sup>) — absolute <span class="bdbLangHebrew">‎חֵיל‎</span> [[Nah.3.8|Nah 3:8]], <span class="bdbLangHebrew">‎חֵל‎</span> [[Lam.2.8|Lam 2:8]] + 3 t.;(+ [[Ps.10.10|Ps 10:10]] [[BDB#Qr|Qr]] see  <span class="bdbLangHebrew">‎חלכה‎</span>); construct <span class="bdbLangHebrew">‎חֵל‎</span> [[1Kgs.21.23|1Kgs 21:23]] suffix <span class="bdbLangHebrew">‎חֵילֵךְ‎</span> [[Ps.122.7|Ps 122:7]], <span class="bdbLangHebrew">‎חֵילָהּ‎</span> [[Zech.9.4|Zech 9:4]] <span class="bdbLangHebrew">‎חֵילָה‎</span> = <span class="bdbLangHebrew">‎חֵילָהּ‎</span> [[Ps.48.14|Ps 48:14]], [[BDB#Ol|Ol]]<sup>§ 40 approximately 75g. 96 e</sup> [[BDB#Sta|Sta]]<sup>§ 347 c</sup>; — 
 

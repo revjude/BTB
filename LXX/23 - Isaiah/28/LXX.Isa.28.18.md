@@ -11,32 +11,32 @@ Your covenant with death will be dissolved, and your agreement with Sheol will n
 > $\quad$ related to: [[Rom.8.22|Rom 8:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should not have removed | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">αφελή</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hope, | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδην</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should adhere. | <big><span class="asgreek">εμμείνη</span></big> <sup><small><small>[[G1696]]</small></small></sup> |
-| \[the\] blast | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| being brought | <big><span class="asgreek">φερομένη</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should come, | <big><span class="asgreek">επέλθη</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| you will be | <big><span class="asgreek">έσεσθε</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| trampling | <big><span class="asgreek">καταπάτημα</span></big> <sup><small><small>[[G7888]]</small></small></sup> |
+| even | **<big>[[G2532\|και]]</big>** |
+| should not have removed | **<big>[[G3361\|μη]]</big>** **<big>[[G0851\|αφελή]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of death | **<big>[[G2288\|θανάτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hope, | **<big>[[G1680\|ελπίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| in | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hades | **<big>[[G0086\|άδην]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should adhere. | **<big>[[G1696\|εμμείνη]]</big>** |
+| \[the\] blast | **<big>[[G7844\|καταιγίς]]</big>** |
+| being brought | **<big>[[G5342\|φερομένη]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| should come, | **<big>[[G1904\|επέλθη]]</big>** |
+| you will be | **<big>[[G1510\|έσεσθε]]</big>** |
+| by it | **<big>[[G1473\|αυτή]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| trampling | **<big>[[G7888\|καταπάτημα]]</big>** |
 [[Isa.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.17|<< Isaiah 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.19|Isaiah 28:19 >>]]</td></tr></table>
 
 

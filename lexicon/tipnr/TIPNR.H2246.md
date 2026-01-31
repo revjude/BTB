@@ -4,9 +4,9 @@ Midianite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Hobab</span>, the son of Jethro \(or 'Reuel'\) the Midianite and Moses' brother-in-law, was invited by Moses to join the Israelites on their journey to the Promised Land.
 - A man living at the time of Egypt and Wilderness, first mentioned at [[Num.10.29|Num.10.29]]; 
-- only referred to as Hobab<[[H2246]]> \(<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ב</span>\); 
--  son of Jethro<[[H3503]]>; 
-- a brother of Zipporah<[[H6855]]>.
+- only referred to as Hobab **<big>[[H2246|חֹבָב]]</big>**; 
+-  son of Jethro **<big>[[H3503|יִתְרוֹ]]</big>**; 
+- a brother of Zipporah **<big>[[H6855|צִפֹּרָה]]</big>**.
 
 Hobab was a Midianite and the son of Reuel \(also known as Jethro\), who was Moses' father-in-law \([[Num.10.29|Numbers 10:29]]\). He is mentioned in two passages in the Bible, [[Num.10.29|Numbers 10:29]] and [[Judg.4.11|Judges 4:11]]. 
 
@@ -18,8 +18,8 @@ As a Midianite, Hobab would have had valuable knowledge of the wilderness throug
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hobab | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ב</span>](H2246) <small>*Hebrew*</small> | 2x | [[Num.10.29] & [Jdg.4.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hobab\*\|reference=Num.10.29;Jdg.4.11) |
-All Strong's for **Hobab**: \[[[H2246]]\]
+| Hobab | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ב</span>](H2246) | 2x | [[Num.10.29] & [Jdg.4.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hobab\*\|reference=Num.10.29;Jdg.4.11) |
+All entries for **Hobab**:  **<big>[[H2246|חֹבָב]]</big>**
 #### Related Profiles:
 - **[Jethro](H3503)** (father)
 - **[Zipporah](H6855)** (sibling)

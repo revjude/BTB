@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָחַם‎</span></big> **yâcham** <small>*(yaw-kham')*</small> ==**to conceive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָחַם‎</span></big>** **yâcham** <small>*(yaw-kham')*</small> ==**to conceive**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ get heat, be hot, conceive, be warm.
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Piel)
 $\quad$ $\quad$ **1b1)** to conceive (sexually)
 $\quad$ $\quad$ **1b2)** to be in heat (of animals)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γαστήρ</span><sup><small>[[G1064]]</small></sup>
+<small>See Greek: </small>**<big>[[G1064|γαστήρ]]</big>**

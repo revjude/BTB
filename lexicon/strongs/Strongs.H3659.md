@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כׇּנְיָהוּ‎</span></big> **Konyâhûw** <small>*(kon-yaw'-hoo)*</small> ==**Coniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎יְכׇנְיָה‎</span><sup><small>[[H3204]]</small></sup></small>
+**<big><span class="ashebrew">‎כׇּנְיָהוּ‎</span></big>** **Konyâhûw** <small>*(kon-yaw'-hoo)*</small> ==**Coniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H3204|‎יְכׇנְיָה‎]]</big>**</small>
 
 $\quad$ Coniah.
 - § Coniah = *"Jehovah will establish"*

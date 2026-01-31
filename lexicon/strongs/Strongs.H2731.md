@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲרָדָה‎</span></big> **chărâdâh** <small>*(khar-aw-daw')*</small> ==**trembling**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎חָרֵד‎</span><sup><small>[[H2730]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲרָדָה‎</span></big>** **chărâdâh** <small>*(khar-aw-daw')*</small> ==**trembling**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2730|‎חָרֵד‎]]</big>**</small>
 
 $\quad$ care, [idiom] exceedingly, fear, quaking, trembling.
 - ***fear***, ***anxiety***
@@ -8,4 +8,4 @@ $\quad$ care, [idiom] exceedingly, fear, quaking, trembling.
 $\quad$ **1a)** trembling, quaking
 $\quad$ **1b)** anxious care
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰσχύνομαι</span><sup><small>[[G0153]]</small></sup> · <span class="asgreek">ἔκστασις</span><sup><small>[[G1611]]</small></sup>
+<small>See Greek: </small>**<big>[[G0153|αἰσχύνομαι]]</big>** · **<big>[[G1611|ἔκστασις]]</big>**

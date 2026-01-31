@@ -1,5 +1,3 @@
-<span class="ashebrew">‎הָמָן‎</span> <small>***(ha.man)***</small> ==**Haman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Exile and Return, first mentioned at [[Esth.3.1|Est.3.1]]
--  son of: Hammedatha ([[H4099]]); married to Zeresh ([[H2238]])
--  father of: Parshandatha ([[H6577]]), Dalphon ([[H1813]]), Aspatha ([[H0630]]), Poratha ([[H6334]]), Adalia ([[H0118]]), Aridatha ([[H0743]]), Parmashta ([[H6534]]), Arisai ([[H0747]]), Aridai ([[H0742]]), Vaizatha ([[H2055]])
-
+-  son of: Hammedatha (**<big>[[H4099|מְדָתָא]]</big>**); married to Zeresh (**<big>[[H2238|זֶרֶשׁ]]</big>**)
+-  father of: Parshandatha (**<big>[[H6577|פַּרְשַׁנְדָּתָא]]</big>**), Dalphon (**<big>[[H1813|דַּלְפוֹן]]</big>**), Aspatha (**<big>[[H0630|אַסְפָּתָא]]</big>**), Poratha (**<big>[[H6334|פּוֹרָתָא]]</big>**), Adalia (**<big>[[H0118|אֲדַלְיָא]]</big>**), Aridatha (**<big>[[H0743|אֲרִידָתָא]]</big>**), Parmashta (**<big>[[H6534|פַּרְמַשְׁתָּא]]</big>**), Arisai (**<big>[[H0747|אֲרִיסַי]]</big>**), Aridai (**<big>[[H0742|אֲרִידַי]]</big>**), Vaizatha (**<big>[[H2055|וַיְזָתָא]]</big>**)

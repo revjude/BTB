@@ -7,34 +7,34 @@ And a voice of a multitude being at ease [was] with her: and with the men of the
 accompanied by the sound of a carefree crowd. Drunkards were brought in from the desert along with men from the rabble, who put bracelets on your wrists and beautiful crowns on your head.<small><sub>**MT:**</sub></small>
 [[Ezek.23.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.41|<< Ezekiel 23:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.43|Ezekiel 23:43 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of harmony | <big><span class="asgreek">αρμονίας</span></big> <sup><small><small>[[G6535]]</small></small></sup> |
-| they played music | <big><span class="asgreek">ανεκρούοντο</span></big> <sup><small><small>[[G6288]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| having come | <big><span class="asgreek">ήκοντας</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| being drunk | <big><span class="asgreek">οινωμένους</span></big> <sup><small><small>[[G8466]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wilderness. | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they put | <big><span class="asgreek">εδίδουν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| bracelets | <big><span class="asgreek">ψέλλια</span></big> <sup><small><small>[[G9790]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands, | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a crown | <big><span class="asgreek">στέφανον</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
-| of boasting | <big><span class="asgreek">καυχήσεως</span></big> <sup><small><small>[[G2746]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heads. | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a sound | **<big>[[G5456\|φωνήν]]</big>** |
+| of harmony | **<big>[[G6535\|αρμονίας]]</big>** |
+| they played music | **<big>[[G6288\|ανεκρούοντο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| a multitude | **<big>[[G4128\|πλήθους]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| having come | **<big>[[G2240\|ήκοντας]]</big>** |
+| being drunk | **<big>[[G8466\|οινωμένους]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| wilderness. | **<big>[[G2048\|ερήμου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they put | **<big>[[G1325\|εδίδουν]]</big>** |
+| bracelets | **<big>[[G9790\|ψέλλια]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their hands, | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a crown | **<big>[[G4735\|στέφανον]]</big>** |
+| of boasting | **<big>[[G2746\|καυχήσεως]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their heads. | **<big>[[G2776\|κεφαλάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.23.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.41|<< Ezekiel 23:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.43|Ezekiel 23:43 >>]]</td></tr></table>
 
 

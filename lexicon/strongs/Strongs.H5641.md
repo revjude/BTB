@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָתַר‎</span></big> **çâthar** <small>*(saw-thar')*</small> ==**to hide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָתַר‎</span></big>** **çâthar** <small>*(saw-thar')*</small> ==**to hide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be absent, keep close, conceal, hide (self), (keep) secret, [idiom] surely.
@@ -13,4 +13,4 @@ $\quad$ **1c)** (Pual) to be hidden carefully, be concealed
 $\quad$ **1d)** (Hiphil) to conceal, hide
 $\quad$ **1e)** (Hithpael) to hide oneself carefully
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναβαίνω</span><sup><small>[[G0305]]</small></sup> · <span class="asgreek">ἀπαλλάσσω</span><sup><small>[[G0525]]</small></sup> · <span class="asgreek">ἀποκρύπτω</span><sup><small>[[G0613]]</small></sup> · <span class="asgreek">ἀποστρέφω</span><sup><small>[[G0654]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">κρυπτός</span><sup><small>[[G2927]]</small></sup> · <span class="asgreek">κρύπτω</span><sup><small>[[G2928]]</small></sup> · <span class="asgreek">κρυφῆ</span><sup><small>[[G2931]]</small></sup>
+<small>See Greek: </small>**<big>[[G0305|ἀναβαίνω]]</big>** · **<big>[[G0525|ἀπαλλάσσω]]</big>** · **<big>[[G0613|ἀποκρύπτω]]</big>** · **<big>[[G0654|ἀποστρέφω]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G2927|κρυπτός]]</big>** · **<big>[[G2928|κρύπτω]]</big>** · **<big>[[G2931|κρυφῆ]]</big>**

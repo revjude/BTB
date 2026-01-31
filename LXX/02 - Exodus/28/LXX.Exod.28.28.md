@@ -7,40 +7,40 @@ And they shall bind the breastplate by the rings thereof unto the rings of the e
 The rings of the breastpiece shall be tied to the rings of the ephod with a cord of blue yarn, so that the breastpiece is above the waistband of the ephod and does not swing out from the ephod.<small><sub>**MT:**</sub></small>
 [[Exod.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.27|<< Exodus 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.29|Exodus 28:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall clasp | <big><span class="asgreek">σφίγξεις</span></big> <sup><small><small>[[G9373]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίων</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| banded together | <big><span class="asgreek">συνεχομένους</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blue \[work\], | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
-| closely joined | <big><span class="asgreek">συμπεπλεγμένους</span></big> <sup><small><small>[[G9275]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woven work | <big><span class="asgreek">ύφασμα</span></big> <sup><small><small>[[G9608]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece, | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should not slacken | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">χαλάται</span></big> <sup><small><small>[[G5465]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder-piece. | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall clasp | **<big>[[G9373\|σφίγξεις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G3051\|λογείον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| it, | **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| rings | **<big>[[G1146\|δακτυλίους]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece | **<big>[[G7490\|επωμίδος]]</big>** |
+| banded together | **<big>[[G4912\|συνεχομένους]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| blue \[work\], | **<big>[[G5192\|υακίνθου]]</big>** |
+| closely joined | **<big>[[G9275\|συμπεπλεγμένους]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| woven work | **<big>[[G9608\|ύφασμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece, | **<big>[[G7490\|επωμίδος]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should not slacken | **<big>[[G3361\|μη]]</big>** **<big>[[G5465\|χαλάται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oracle | **<big>[[G3051\|λογείον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| shoulder-piece. | **<big>[[G7490\|επωμίδος]]</big>** |
 [[Exod.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.27|<< Exodus 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.29|Exodus 28:29 >>]]</td></tr></table>
 
 

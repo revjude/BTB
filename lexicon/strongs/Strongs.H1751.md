@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎דּוּק‎</span></big> **dûwq** <small>*(dook)*</small> ==**to shatter**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎דָּקַק‎</span><sup><small>[[H1854]]</small></sup></small>
+**<big><span class="asaramaic">‎דּוּק‎</span></big>** **dûwq** <small>*(dook)*</small> ==**to shatter**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1854|‎דָּקַק‎]]</big>**</small>
 
 $\quad$ be broken to pieces.
 - ***to crumble***

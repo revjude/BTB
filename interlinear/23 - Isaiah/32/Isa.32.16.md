@@ -6,14 +6,14 @@ Then justice will inhabit the wilderness, and righteousness will dwell in the fe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.15|<< Isaiah 32:15]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.17|Isaiah 32:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it will dwell  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>שָׁכַ֥ן </big></span><small><small><sup>[[H7931]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> sha.Khan <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the wilderness  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִּדְבָּ֖ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  | <span class="ashebrew"><big>מִשְׁפָּ֑ט </big></span><small><small><sup>[[H4941H]]</sup></small></small> &#8207;| mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and righteousness  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>צְדָקָ֖ה </big></span><small><small><sup>[[H6666]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> tze.da.Kah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the orchard  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כַּרְמֶ֥ל </big></span><small><small><sup>[[H3759]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> kar.Mel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will remain  | <span class="ashebrew"><big>תֵּשֵֽׁב </big></span><small><small><sup>[[H3427]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.Shev <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7931\|שָׁכַ֥ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Khan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֖ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֑ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and righteousness  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6666\|צְדָקָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the orchard  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3759\|כַּרְמֶ֥ל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> kar.Mel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will remain  |**<big>&#8207;[[H3427\|תֵּשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.Shev<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.15|<< Isaiah 32:15]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.17|Isaiah 32:17 >>]]</td></tr></table>
 
 

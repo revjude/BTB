@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Athens</span>, the intellectual and cultural center of ancient Greece, where Paul preached the gospel and addressed the Areopagus.
 - A location first mentioned at [[Num.21.1|Act.17.15]]; 
-- referred to as Athens or - \(KJV= Athens\) <[[G0116]]> \(<span class='tipnrLangGreek'>Ἀθῆναι</span>\), or Athenian or Athens<[[G0117]]> \(<span class='tipnrLangGreek'>Ἀθηναῖος</span>\).
+- referred to as Athens or - \(KJV= Athens\)  **<big>[[G0116|Ἀθῆναι]]</big>**, or Athenian or Athens **<big>[[G0117|Ἀθηναῖος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.98333333333333,23.73333333333333&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,8 +18,8 @@ After his time in Athens, Paul traveled to Corinth \(Acts 18:1\), where he conti
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Athens | [<span class='tipnrLangGreek'>Ἀθῆναι</span>](G0116) <small>*Greek*</small> | 4x | [[Act.17.15] ... [1Th.3.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athens\*\|reference=Act.17.15;Act.17.16;Act.18.1;1Th.3.1) |
-| - (KJV= Athens) | [<span class='tipnrLangGreek'>Ἀθῆναι</span>](G0116) <small>*Greek*</small> | 2x | [[1Th.5.28] & [2Th.3.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=1Th.5.28;2Th.3.18) |
-| Athenian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀθηναῖος</span>](G0117) <small>*Greek*</small> | 1x | [Act.17.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athenian\*\|reference=Act.17.21) |
-| Athens | [<span class='tipnrLangGreek'>Ἀθηναῖος</span>](G0117) <small>*Greek*</small> | 1x | [Act.17.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athens\*\|reference=Act.17.22) |
-All Strong's for **Athens**: \[[[G0116]]\] \[[[G0117]]\]
+| Athens | [<span class='tipnrLangGreek'>Ἀθῆναι</span>](G0116) | 4x | [[Act.17.15] ... [1Th.3.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athens\*\|reference=Act.17.15;Act.17.16;Act.18.1;1Th.3.1) |
+| - (KJV= Athens) | [<span class='tipnrLangGreek'>Ἀθῆναι</span>](G0116) | 2x | [[1Th.5.28] & [2Th.3.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=1Th.5.28;2Th.3.18) |
+| Athenian <small>*(group)*</small> | [<span class='tipnrLangGreek'>Ἀθηναῖος</span>](G0117) | 1x | [Act.17.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athenian\*\|reference=Act.17.21) |
+| Athens | [<span class='tipnrLangGreek'>Ἀθηναῖος</span>](G0117) | 1x | [Act.17.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Athens\*\|reference=Act.17.22) |
+All entries for **Athens**:  **<big>[[G0116|Ἀθῆναι]]</big>** ☩  **<big>[[G0117|Ἀθηναῖος]]</big>**

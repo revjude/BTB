@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹבָב‎</span></big> **Yôwbâb** <small>*(yo-bawb')*</small> ==**Jobab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָבַב‎</span><sup><small>[[H2980]]</small></sup>; howler</small>
+**<big><span class="ashebrew">‎יוֹבָב‎</span></big>** **Yôwbâb** <small>*(yo-bawb')*</small> ==**Jobab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2980|‎יָבַב‎]]</big>**; howler</small>
 
 $\quad$ Jobab.
 - § Jobab = *"a desert"*

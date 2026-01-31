@@ -7,39 +7,39 @@ And will make an offering by fire unto the LORD, a burnt offering, or a sacrific
 and you present a food offering to the LORD from the herd or flock to produce a pleasing aroma to the LORD—either a burnt offering or a sacrifice, for a special vow or freewill offering or appointed feast—<small><sub>**MT:**</sub></small>
 [[Num.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.2|<< Numbers 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.4|Numbers 15:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| yield \[offerings\] | <big><span class="asgreek">κάρπωματα</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| a whole burnt-offering, | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| to magnify | <big><span class="asgreek">μεγαλύναι</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| a vow, | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| concerning | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| a voluntary \[offering\], | <big><span class="asgreek">εκούσιον</span></big> <sup><small><small>[[G1595]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your holiday \[feasts\], | <big><span class="asgreek">εορταίς</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| either | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall offer | **<big>[[G4160\|ποιήσετε]]</big>** |
+| yield \[offerings\] | **<big>[[G7806\|κάρπωματα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| a whole burnt-offering, | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| sacrifice \[offering\] | **<big>[[G2378\|θυσίαν]]</big>** |
+| to magnify | **<big>[[G3170\|μεγαλύναι]]</big>** |
+| a vow, | **<big>[[G2171\|ευχήν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| concerning | **<big>[[G2596\|καθ΄]]</big>** |
+| a voluntary \[offering\], | **<big>[[G1595\|εκούσιον]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your holiday \[feasts\], | **<big>[[G1859\|εορταίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you shall offer | **<big>[[G4160\|ποιήσαι]]</big>** |
+| a scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of pleasant aroma | **<big>[[G2175\|ευωδίας]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| either | **<big>[[G1487\|ει]]</big>** **<big>[[G3303\|μεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| oxen | **<big>[[G1016\|βοών]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sheep. | **<big>[[G4263\|προβάτων]]</big>** |
 [[Num.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.2|<< Numbers 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.4|Numbers 15:4 >>]]</td></tr></table>
 
 

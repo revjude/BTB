@@ -7,19 +7,19 @@ And this is [but] a light thing in the sight of the LORD: he will deliver the Mo
 This is a simple matter in the sight of the LORD, and He will also deliver the Moabites into your hand.<small><sub>**MT:**</sub></small>
 [[2Kgs.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.17|<< 2 Kings 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.19|2 Kings 3:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it \[is\] a light \[thing\] | <big><span class="asgreek">κούφη</span></big> <sup><small><small>[[G8080]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will deliver up | <big><span class="asgreek">παραδώσω</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| your hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| it \[is\] a light \[thing\] | **<big>[[G8080\|κούφη]]</big>** **<big>[[G3778\|αυτή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will deliver up | **<big>[[G3860\|παραδώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| into | **<big>[[G1722\|εν]]</big>** |
+| your hands. | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[2Kgs.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.17|<< 2 Kings 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.19|2 Kings 3:19 >>]]</td></tr></table>
 
 

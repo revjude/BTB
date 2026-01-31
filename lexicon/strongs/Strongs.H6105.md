@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָצַם‎</span></big> **ʻâtsam** <small>*(aw-tsam')*</small> ==**be vast**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root; also denominatively (from <span class="ashebrew">‎עֶצֶם‎</span><sup><small>[[H6106]]</small></sup>)</small>
+**<big><span class="ashebrew">‎עָצַם‎</span></big>** **ʻâtsam** <small>*(aw-tsam')*</small> ==**be vast**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; also denominatively (from **<big>[[H6106|‎עֶצֶם‎]]</big>**)</small>
 
 $\quad$ break the bones, close, be great, be increased, be (wax) mighty(-ier), be more, shut, be(-come, make) strong(-er).
 - ***to bind fast***, i.e. ***close*** (the eyes)
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Hiphil) to make strong, make mighty
 $\quad$ **2a)** (Qal) to shut (the eyes)
 $\quad$ **2b)** (Piel) to shut tightly (the eyes)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δυνατός</span><sup><small>[[G1415]]</small></sup> · <span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup> · <span class="asgreek">καμμύω</span><sup><small>[[G2576]]</small></sup> · <span class="asgreek">κατισχύω</span><sup><small>[[G2729]]</small></sup> · <span class="asgreek">κραταιός</span><sup><small>[[G2900]]</small></sup> · <span class="asgreek">κραταιόω</span><sup><small>[[G2901]]</small></sup> · <span class="asgreek">πληθύνω</span><sup><small>[[G4129]]</small></sup> · <span class="asgreek">στερεόω</span><sup><small>[[G4732]]</small></sup>
+<small>See Greek: </small>**<big>[[G1415|δυνατός]]</big>** · **<big>[[G2480|ἰσχύω]]</big>** · **<big>[[G2576|καμμύω]]</big>** · **<big>[[G2729|κατισχύω]]</big>** · **<big>[[G2900|κραταιός]]</big>** · **<big>[[G2901|κραταιόω]]</big>** · **<big>[[G4129|πληθύνω]]</big>** · **<big>[[G4732|στερεόω]]</big>**

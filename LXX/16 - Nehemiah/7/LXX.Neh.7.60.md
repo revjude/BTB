@@ -7,18 +7,18 @@ All the Nethinims, and the children of Solomon’s servants, [were] three hundre
 The temple servants and descendants of the servants of Solomon numbered 392 in all.<small><sub>**MT:**</sub></small>
 [[Neh.7.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.59|<< Nehemiah 7:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.61|Nehemiah 7:61 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Nethinim, | <big><span class="asgreek">Ναθηνείμ</span></big> <sup><small><small>[[H5411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of \[the\] servants | <big><span class="asgreek">δουλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| of Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| \[were\] three hundred | <big><span class="asgreek">τριακόσιοι</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| ninety-two. | <big><span class="asgreek">εννενηκονταδύο</span></big> <sup><small><small>[[G7250]]</small></small></sup> |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Nethinim, | **<big>[[H5411\|Ναθηνείμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of \[the\] servants | **<big>[[G1401\|δουλων]]</big>** |
+| of Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| \[were\] three hundred | **<big>[[G5145\|τριακόσιοι]]</big>** |
+| ninety-two. | **<big>[[G7250\|εννενηκονταδύο]]</big>** |
 [[Neh.7.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.59|<< Nehemiah 7:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.61|Nehemiah 7:61 >>]]</td></tr></table>
 
 

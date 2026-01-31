@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Lod</span> \(Lydda\), a city in the territory of Benjamin \([[1Chr.8.12|1 Chronicles 8:12]]\), where Peter healed Aeneas \(Acts 9:32-35\).
 - A location first mentioned at [[1Chr.8.12|1Ch.8.12]]; 
-- referred to as Lod<[[H3850]]> \(<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ד</span>\), or Lydda<[[G3069]]> \(<span class='tipnrLangGreek'>Λύδδα</span>\).
+- referred to as Lod **<big>[[H3850|לֹד]]</big>**, or Lydda **<big>[[G3069|Λύδδα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.95138888888889,34.89527777777778&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Lod, also known as Lydda, was a city located in the territory of Benjamin \([[1C
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Lod | [<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H3850) <small>*Hebrew*</small> | 4x | [[1Ch.8.12] ... [Neh.11.35] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Lod\*\|reference=1Ch.8.12;Ezr.2.33;Neh.7.37;Neh.11.35) |
-| Lydda | [<span class='tipnrLangGreek'>Λύδδα</span>](G3069) <small>*Greek*</small> | 3x | [[Act.9.32] ... [Act.9.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Lydda\*\|reference=Act.9.32;Act.9.35;Act.9.38) |
-All Strong's for **Lod or Lydda**: \[[[H3850]]\] \[[[G3069]]\]
+| Lod | [<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H3850) | 4x | [[1Ch.8.12] ... [Neh.11.35] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Lod\*\|reference=1Ch.8.12;Ezr.2.33;Neh.7.37;Neh.11.35) |
+| Lydda | [<span class='tipnrLangGreek'>Λύδδα</span>](G3069) | 3x | [[Act.9.32] ... [Act.9.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Lydda\*\|reference=Act.9.32;Act.9.35;Act.9.38) |
+All entries for **Lod or Lydda**:  **<big>[[H3850|לֹד]]</big>** ☩  **<big>[[G3069|Λύδδα]]</big>**

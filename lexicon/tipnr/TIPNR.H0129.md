@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Adami-nekeb</span>, a place marking the border of Naphtali's territory.
 - A location only mentioned at [[Josh.19.33|Jos.19.33]]; 
-- only referred to as Adami-nekeb<[[H0129]]><[[H5346]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ב</span>\).
+- only referred to as Adami-nekeb **<big>[[H0129|אֲדָמִי]]</big>** **<big>[[H5346|נֶקֶב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.610500,35.542890&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Adami-nekeb is mentioned in [[Josh.19.33|Joshua 19:33]] as one of the landmarks 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adami/-nekeb (KJV, NIV= Adami Nekeb) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H0129)[<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ב</span>](H5346) <small>*Hebrew*</small> | 1x | [Jos.19.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adami\*\|reference=Jos.19.33) |
-All Strong's for **Adami-nekeb**: \[[[H0129]]\]
+| Adami/-nekeb (KJV, NIV= Adami Nekeb) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H0129)[<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ב</span>](H5346) | 1x | [Jos.19.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adami\*\|reference=Jos.19.33) |
+All entries for **Adami-nekeb**:  **<big>[[H0129|אֲדָמִי]]</big>**

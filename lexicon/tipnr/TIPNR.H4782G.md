@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Mordecai</span> was one of the leaders who returned with Zerubbabel from Babylonian captivity to Jerusalem.
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.2|Ezr.2.2]]; 
-- only referred to as Mordecai<[[H4782G]]> \(<span class='tipnrLangHebrew'>מ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֳּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Mordecai **<big>[[H4782|מׇרְדְּכַי]]</big>**.
 
 Mordecai is mentioned in [[Ezra.2.2|Ezra 2:2]] and [[Neh.7.7|Nehemiah 7:7]] as one of the leaders who returned to Jerusalem from Babylonian captivity along with Zerubbabel. He is listed among the men who led the first group of exiles back to their homeland after the decree of King Cyrus of Persia, which allowed the Jews to return and rebuild the temple in Jerusalem. 
 
@@ -14,5 +14,5 @@ The return of Mordecai and the other leaders marked a significant turning point 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mordecai | [<span class='tipnrLangHebrew'>מ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֳּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>י</span>](H4782G) <small>*Hebrew*</small> | 2x | [[Ezr.2.2] & [Neh.7.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mordecai\*\|reference=Ezr.2.2;Neh.7.7) |
-All Strong's for **Mordecai**: \[[[H4782G]]\]
+| Mordecai | [<span class='tipnrLangHebrew'>מ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ֳּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>י</span>](H4782G) | 2x | [[Ezr.2.2] & [Neh.7.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mordecai\*\|reference=Ezr.2.2;Neh.7.7) |
+All entries for **Mordecai**:  **<big>[[H4782|מׇרְדְּכַי]]</big>**

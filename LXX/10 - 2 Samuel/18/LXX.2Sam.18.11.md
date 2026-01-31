@@ -7,38 +7,38 @@ And Joab said unto the man that told him, And, behold, thou sawest [him], and wh
 “You just saw him!” Joab exclaimed. “Why did you not strike him to the ground right there? I would have given you ten shekels of silver and a warrior’s belt!”<small><sub>**MT:**</sub></small>
 [[2Sam.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.10|<< 2 Samuel 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.12|2 Samuel 18:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joab said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| announcing | <big><span class="asgreek">αναγγέλλοντι</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| you saw it? | <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| is it that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| strike | <big><span class="asgreek">επάταξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| would have given | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σίκλους</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sash | <big><span class="asgreek">παραζώνην</span></big> <sup><small><small>[[G8610]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Joab said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H3097\|Ιωάβ]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| man | **<big>[[G0435\|ανδρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| announcing | **<big>[[G0312\|αναγγέλλοντι]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| you saw it? | **<big>[[G3708\|εώρακας]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G5100\|τι]]</big>** |
+| is it that | **<big>[[G3754\|ότι]]</big>** |
+| you did not | **<big>[[G3756\|ουκ]]</big>** |
+| strike | **<big>[[G3960\|επάταξας]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground, | **<big>[[G1093\|γην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| would have given | **<big>[[G1325\|έδωκα]]</big>** **<big>[[G0302\|αν]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| shekels | **<big>[[G9079\|σίκλους]]</big>** |
+| of silver, | **<big>[[G0694\|αργυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sash | **<big>[[G8610\|παραζώνην]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
 [[2Sam.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.10|<< 2 Samuel 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.12|2 Samuel 18:12 >>]]</td></tr></table>
 
 

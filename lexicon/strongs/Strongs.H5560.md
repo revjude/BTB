@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סֹלֶת‎</span></big> **çôleth** <small>*(so'-leth)*</small> ==**fine flour**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎סֹלֶת‎</span></big>** **çôleth** <small>*(so'-leth)*</small> ==**fine flour**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to strip</small>
 
 $\quad$ (fine) flour, meal.
@@ -6,4 +6,4 @@ $\quad$ (fine) flour, meal.
 
 **1)** fine flour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σεμίδαλις</span><sup><small>[[G4585]]</small></sup>
+<small>See Greek: </small>**<big>[[G4585|σεμίδαλις]]</big>**

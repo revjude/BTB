@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְתַנְיָה‎</span></big> **Nᵉthanyâh** <small>*(neth-an-yaw')*</small> ==**Nethaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">נְתַנְיָהוּ</span> **Nᵉthanyâhûw** <small>*(neth-an-yaw'-hoo)*</small>; from <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; given of Jah</small>
+**<big><span class="ashebrew">‎נְתַנְיָה‎</span></big>** **Nᵉthanyâh** <small>*(neth-an-yaw')*</small> ==**Nethaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">נְתַנְיָהוּ</span></big>** **Nᵉthanyâhûw** <small>*(neth-an-yaw'-hoo)*</small>; from **<big>[[H5414|‎נָתַן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; given of Jah</small>
 
 $\quad$ Nethaniah.
 - § Nethaniah = *"given of Jehovah"*

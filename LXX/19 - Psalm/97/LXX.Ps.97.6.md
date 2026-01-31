@@ -7,20 +7,20 @@ The heavens declare his righteousness, and all the people see his glory.
 The heavens proclaim His righteousness; all the peoples see His glory.<small><sub>**MT:**</sub></small>
 [[Ps.97.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.5|<< Psalm 97:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.7|Psalm 97:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| announced | <big><span class="asgreek">ανήγγειλαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his righteousness; | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδοσαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his glory. | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| announced | **<big>[[G0312\|ανήγγειλαν]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| heavens | **<big>[[G3772\|ουρανοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his righteousness; | **<big>[[G1343\|δικαιοσύνην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδοσαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| peoples | **<big>[[G2992\|λαοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his glory. | **<big>[[G1391\|δόξαν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.97.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.5|<< Psalm 97:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.7|Psalm 97:7 >>]]</td></tr></table>
 
 

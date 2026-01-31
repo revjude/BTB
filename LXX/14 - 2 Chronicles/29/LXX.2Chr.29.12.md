@@ -7,53 +7,53 @@ Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, o
 Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah from the Kohathites; Kish son of Abdi and Azariah son of Jehallelel from the Merarites; Joah son of Zimmah and Eden son of Joah from the Gershonites;<small><sub>**MT:**</sub></small>
 [[2Chr.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.11|<< 2 Chronicles 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.13|2 Chronicles 29:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rose up | <big><span class="asgreek">ανέστησαν</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| Mahath | <big><span class="asgreek">Μαάθ</span></big> <sup><small><small>[[H4287]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Amasai, | <big><span class="asgreek">Αμεσί</span></big> <sup><small><small>[[H6022]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Joel | <big><span class="asgreek">Ιωήλ</span></big> <sup><small><small>[[G2493]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Azariah, | <big><span class="asgreek">Αζαρίου</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kohath; | <big><span class="asgreek">Κάαθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Merari, | <big><span class="asgreek">Μεραρί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
-| Kish | <big><span class="asgreek">Κις</span></big> <sup><small><small>[[G2797]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Abdi, | <big><span class="asgreek">Αβδί</span></big> <sup><small><small>[[H5660]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Azariah | <big><span class="asgreek">Αζαρίας</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehalelel; | <big><span class="asgreek">Ιαλαιήλ</span></big> <sup><small><small>[[H3094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gershon -- | <big><span class="asgreek">Γερσών</span></big> <sup><small><small>[[H1648]]</small></small></sup> |
-| Joah | <big><span class="asgreek">Ιωάχ</span></big> <sup><small><small>[[H3098]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zimmah, | <big><span class="asgreek">Ζεμμά</span></big> <sup><small><small>[[H2155]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eden | <big><span class="asgreek">Ωδαάν</span></big> <sup><small><small>[[H5731b]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joah; | <big><span class="asgreek">Ιωάχ</span></big> <sup><small><small>[[H3098]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| rose up | **<big>[[G0450\|ανέστησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| Mahath | **<big>[[H4287\|Μαάθ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Amasai, | **<big>[[H6022\|Αμεσί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Joel | **<big>[[G2493\|Ιωήλ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Azariah, | **<big>[[H5839\|Αζαρίου]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Kohath; | **<big>[[H6955\|Κάαθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Merari, | **<big>[[H4847\|Μεραρί]]</big>** |
+| Kish | **<big>[[G2797\|Κις]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Abdi, | **<big>[[H5660\|Αβδί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Azariah | **<big>[[H5839\|Αζαρίας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Jehalelel; | **<big>[[H3094\|Ιαλαιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Gershon -- | **<big>[[H1648\|Γερσών]]</big>** |
+| Joah | **<big>[[H3098\|Ιωάχ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Zimmah, | **<big>[[H2155\|Ζεμμά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eden | **<big>[[H5731b\|Ωδαάν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| \[son of\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| Joah; | **<big>[[H3098\|Ιωάχ]]</big>** |
 [[2Chr.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.11|<< 2 Chronicles 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.13|2 Chronicles 29:13 >>]]</td></tr></table>
 
 

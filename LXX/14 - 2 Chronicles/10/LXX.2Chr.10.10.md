@@ -7,51 +7,51 @@ And the young men that were brought up with him spake unto him, saying, Thus sha
 The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!<small><sub>**MT:**</sub></small>
 [[2Chr.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.9|<< 2 Chronicles 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.11|2 Chronicles 10:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young men | <big><span class="asgreek">παιδάρια</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been brought up | <big><span class="asgreek">συνεκτραφέντα</span></big> <sup><small><small>[[G9307]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall you speak | <big><span class="asgreek">λαλήσεις</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλήσαντι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| oppressed | <big><span class="asgreek">εβάρυνε</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our yoke, | <big><span class="asgreek">ζυγόν</span></big> <sup><small><small>[[G2218]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| lighten | <big><span class="asgreek">κούφισον</span></big> <sup><small><small>[[G2893]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our yoke! | <big><span class="asgreek">ζυγού ημών</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| small | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">μικρός</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| finger | <big><span class="asgreek">δάκτυλός</span></big> <sup><small><small>[[G1147]]</small></small></sup> |
-| My | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] thicker than | <big><span class="asgreek">παχύτετος</span></big> <sup><small><small>[[G8674]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loin | <big><span class="asgreek">οσφύος</span></big> <sup><small><small>[[G3751]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2980\|ελάλησαν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| young men | **<big>[[G3808\|παιδάρια]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| having been brought up | **<big>[[G9307\|συνεκτραφέντα]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντα]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| shall you speak | **<big>[[G2980\|λαλήσεις]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| people, | **<big>[[G2992\|λαώ]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| speaking | **<big>[[G2980\|λαλήσαντι]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντι]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| Your father | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| oppressed | **<big>[[G0925\|εβάρυνε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| our yoke, | **<big>[[G2218\|ζυγόν]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| lighten | **<big>[[G2893\|κούφισον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| our yoke! | **<big>[[G2218\|ζυγού ημών]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| you shall say | **<big>[[G2046\|ερείς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| small | **<big>[[G3588\|ο]]</big>** **<big>[[G3398\|μικρός]]</big>** |
+| finger | **<big>[[G1147\|δάκτυλός]]</big>** |
+| My | **<big>[[G1473\|μου]]</big>** |
+| \[is\] thicker than | **<big>[[G8674\|παχύτετος]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| loin | **<big>[[G3751\|οσφύος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[2Chr.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.9|<< 2 Chronicles 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.11|2 Chronicles 10:11 >>]]</td></tr></table>
 
 

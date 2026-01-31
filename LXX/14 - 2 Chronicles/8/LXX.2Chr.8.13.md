@@ -7,52 +7,52 @@ Even after a certain rate every day, offering according to the commandment of Mo
 He observed the daily requirement for offerings according to the commandment of Moses for Sabbaths, New Moons, and the three annual appointed feasts—the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles.<small><sub>**MT:**</sub></small>
 [[2Chr.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.12|<< 2 Chronicles 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.14|2 Chronicles 8:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reckoning, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to offer | <big><span class="asgreek">αναφέρειν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
-| of Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sabbaths, | <big><span class="asgreek">σαββάτοις</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| months, | <big><span class="asgreek">μησί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holidays, | <big><span class="asgreek">εορταίς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| times | <big><span class="asgreek">καιρούς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| \[during\] the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year -- | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| unleavened \[breads\], | <big><span class="asgreek">αζύμων</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| period of sevens, | <big><span class="asgreek">εβδομάδων</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tents. | <big><span class="asgreek">σκηνών</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| reckoning, | **<big>[[G3056\|λόγον]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| day, | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to offer | **<big>[[G0399\|αναφέρειν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| commandments | **<big>[[G1785\|εντολάς]]</big>** |
+| of Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| Sabbaths, | **<big>[[G4521\|σαββάτοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| months, | **<big>[[G3376\|μησί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| holidays, | **<big>[[G1859\|εορταίς]]</big>** |
+| three | **<big>[[G5140\|τρεις]]</big>** |
+| times | **<big>[[G2540\|καιρούς]]</big>** |
+| \[during\] the | **<big>[[G3588\|του]]</big>** |
+| year -- | **<big>[[G1763\|ενιαυτού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| holiday | **<big>[[G1859\|εορτή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| unleavened \[breads\], | **<big>[[G0106\|αζύμων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| holiday | **<big>[[G1859\|εορτή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| period of sevens, | **<big>[[G6988\|εβδομάδων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| holiday | **<big>[[G1859\|εορτή]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| tents. | **<big>[[G4633\|σκηνών]]</big>** |
 [[2Chr.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.12|<< 2 Chronicles 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.14|2 Chronicles 8:14 >>]]</td></tr></table>
 
 

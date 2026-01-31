@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִירָם‎</span></big> **Chîyrâm** <small>*(khee-rawm')*</small> ==**Hiram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חִירוֹם</span> **Chîyrôwm** <small>*(khee-rome')*</small>; another form of <span class="ashebrew">‎חוּרָם‎</span><sup><small>[[H2361]]</small></sup></small>
+**<big><span class="ashebrew">‎חִירָם‎</span></big>** **Chîyrâm** <small>*(khee-rawm')*</small> ==**Hiram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חִירוֹם</span></big>** **Chîyrôwm** <small>*(khee-rome')*</small>; another form of **<big>[[H2361|‎חוּרָם‎]]</big>**</small>
 
 $\quad$ Hiram, Huram.
 - § Hiram, Huram = *"noble"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֵפֶר‎</span></big> **Chêpher** <small>*(khay'-fer)*</small> ==**Hepher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָפַר‎</span><sup><small>[[H2658]]</small></sup> or <span class="ashebrew">‎חָפֵר‎</span><sup><small>[[H2659]]</small></sup>; a pit of shame</small>
+**<big><span class="ashebrew">‎חֵפֶר‎</span></big>** **Chêpher** <small>*(khay'-fer)*</small> ==**Hepher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2658|‎חָפַר‎]]</big>** or **<big>[[H2659|‎חָפֵר‎]]</big>**; a pit of shame</small>
 
 $\quad$ Hepher.
 - § Hepher = *"a well"*

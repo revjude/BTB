@@ -1,4 +1,3 @@
-<span class="ashebrew">‎נָשָׂא‎</span> <small>***(na.sa)***</small> ==**to lift: trust**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H5375G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H5375G|נָשָׂא]]</big>**</small> 
 
 - : trust/desire/lift(soul/heart)

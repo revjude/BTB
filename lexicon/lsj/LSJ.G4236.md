@@ -1,4 +1,4 @@
-form of: <small>[[G4239]]</small> 
+form of: <small>**<big>[[G4239|πραΰς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πραότης==</span></b>, <span class='asgreek'>ητος</span>, <span class='asgreek'>ἡ</span>, 

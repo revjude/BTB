@@ -7,27 +7,27 @@ In the four corners of the court [there were] courts joined of forty [cubits] lo
 In the four corners of the outer court there were enclosed courts, each forty cubits long and thirty cubits wide. Each of the four corner areas had the same dimensions.<small><sub>**MT:**</sub></small>
 [[Ezek.46.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.21|<< Ezekiel 46:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.23|Ezekiel 46:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| sides | <big><span class="asgreek">κλίτη</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| courtyards | <big><span class="asgreek">αυλαί</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \[were\] small | <big><span class="asgreek">μικραί</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| in length | <big><span class="asgreek">μήκους</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| of thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| measure | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four. | <big><span class="asgreek">τέσσαρσι</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| Upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| four | **<big>[[G5064\|τέσσαρα]]</big>** |
+| sides | **<big>[[G8026\|κλίτη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| courtyard | **<big>[[G0833\|αυλής]]</big>** |
+| courtyards | **<big>[[G0833\|αυλαί]]</big>** |
+| \[were\] small | **<big>[[G3398\|μικραί]]</big>** |
+| in length | **<big>[[G3372\|μήκους]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| forty | **<big>[[G5062\|τεσσαράκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a breadth | **<big>[[G7563\|εύρος]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| of thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| measure | **<big>[[G3358\|μέτρον]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| four. | **<big>[[G5064\|τέσσαρσι]]</big>** |
 [[Ezek.46.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.21|<< Ezekiel 46:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.23|Ezekiel 46:23 >>]]</td></tr></table>
 
 

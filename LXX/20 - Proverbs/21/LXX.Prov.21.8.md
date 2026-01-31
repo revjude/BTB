@@ -7,22 +7,22 @@ The way of man [is] froward and strange: but [as for] the pure, his work [is] ri
 The way of a guilty man is crooked, but the conduct of the innocent is upright.<small><sub>**MT:**</sub></small>
 [[Prov.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.7|<< Proverbs 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.9|Proverbs 21:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crooked ones, | <big><span class="asgreek">σκολιούς</span></big> <sup><small><small>[[G4646]]</small></small></sup> |
-| crooked | <big><span class="asgreek">σκολιάς</span></big> <sup><small><small>[[G4646]]</small></small></sup> |
-| ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| sends | <big><span class="asgreek">αποστέλλει</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[are\] pure | <big><span class="asgreek">αγνά</span></big> <sup><small><small>[[G0053]]</small></small></sup> |
-| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| straight | <big><span class="asgreek">ορθά</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| To | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| crooked ones, | **<big>[[G4646\|σκολιούς]]</big>** |
+| crooked | **<big>[[G4646\|σκολιάς]]</big>** |
+| ways | **<big>[[G3598\|οδούς]]</big>** |
+| sends | **<big>[[G0649\|αποστέλλει]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[are\] pure | **<big>[[G0053\|αγνά]]</big>** |
+| for | **<big>[[G1063\|γαρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| straight | **<big>[[G3717\|ορθά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his works | **<big>[[G2041\|έργα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Prov.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.7|<< Proverbs 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.9|Proverbs 21:9 >>]]</td></tr></table>
 
 

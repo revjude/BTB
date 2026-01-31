@@ -1,4 +1,4 @@
-meaning of: <small>[[G4053]]</small> 
+meaning of: <small>**<big>[[G4053|περισσός]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==περισσῶς==</span></b>, 

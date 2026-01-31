@@ -1,4 +1,3 @@
-<span class="ashebrew">‎לְחִי‎</span> <small>***(le.chi)***</small> ==**Lehi**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-name of: <small>[[H3896]]</small> 
+<small>name of:</small> <small>**<big>[[H3896|לֶחִי]]</big>**</small> 
 
-- Another name of <i>le.chi</i> (<span class='ashebrew'>‎ל‎</span>ֶ<span class='ashebrew'>‎ח‎</span>ִ<span class='ashebrew'>‎י‎</span> "Lehi" [[H3896]])
+- Another name of <i>le.chi</i> (<span class='ashebrew'>‎ל‎</span>ֶ<span class='ashebrew'>‎ח‎</span>ִ<span class='ashebrew'>‎י‎</span> "Lehi" **<big>[[H3896|לֶחִי]]</big>**)

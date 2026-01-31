@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵרִי‎</span></big> **ʻÊrîy** <small>*(ay-ree')*</small> ==**Erite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically of <span class="ashebrew">‎עֵרִי‎</span><sup><small>[[H6179]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵרִי‎</span></big>** **ʻÊrîy** <small>*(ay-ree')*</small> ==**Erite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically of **<big>[[H6179|‎עֵרִי‎]]</big>**</small>
 
 $\quad$ Erites.
 - § Erites = *see Erites "watchful"*

@@ -6,22 +6,22 @@ Only this have I found: I have discovered that God made mankind upright, but the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.28|<< Ecclesiastes 7:28]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.1|Ecclesiastes 8:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<to> only  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בַד֙ </big></span><small><small><sup>[[H0905H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Vad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| consider  | <span class="ashebrew"><big>רְאֵה </big></span><small><small><sup>[[H7200I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| re.'eh- <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֶ֣ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have found  | <span class="ashebrew"><big>מָצָ֔אתִי </big></span><small><small><sup>[[H4672]]</sup></small></small> &#8207;| ma.Tza.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>אֲשֶׁ֨ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he made  | <span class="ashebrew"><big>עָשָׂ֧ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Sah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֱלֹהִ֛ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> humankind  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אָדָ֖ם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'a.Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| upright  | <span class="ashebrew"><big>יָשָׁ֑ר </big></span><small><small><sup>[[H3477G]]</sup></small></small> &#8207;| ya.Shar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֵ֥מָּה </big></span><small><small><sup>[[H1992]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> He.mah <small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have sought  | <span class="ashebrew"><big>בִקְשׁ֖וּ </big></span><small><small><sup>[[H1245]]</sup></small></small> &#8207;| vik.Shu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| schemes  | <span class="ashebrew"><big>חִשְּׁבֹנ֥וֹת </big></span><small><small><sup>[[H2810]]</sup></small></small> &#8207;| chi.she.vo.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבִּֽים </big></span><small><small><sup>[[H7227A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.Bim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> only  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַד֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consider  |**<big>&#8207;[[H7200I\|רְאֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.'eh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have found  |**<big>&#8207;[[H4672\|מָצָ֔אתִי]]&#8207; </big>**| ma.Tza.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H6213H\|עָשָׂ֧ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| upright  |**<big>&#8207;[[H3477G\|יָשָׁ֑ר]]&#8207; </big>**| ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֥מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have sought  |**<big>&#8207;[[H1245\|בִקְשׁ֖וּ]]&#8207; </big>**| vik.Shu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| schemes  |**<big>&#8207;[[H2810\|חִשְּׁבֹנ֥וֹת]]&#8207; </big>**| chi.she.vo.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.28|<< Ecclesiastes 7:28]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.1|Ecclesiastes 8:1 >>]]</td></tr></table>
 
 

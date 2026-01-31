@@ -7,25 +7,25 @@ Thy pomp is brought down to the grave, [and] the noise of thy viols: the worm is
 Your pomp has been brought down to Sheol, along with the music of your harps. Maggots are your bed and worms your blanket.<small><sub>**MT:**</sub></small>
 [[Isa.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.10|<< Isaiah 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.12|Isaiah 14:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Your glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall make a bed | <big><span class="asgreek">στρώσουσι</span></big> <sup><small><small>[[G4766]]</small></small></sup> |
-| of putrefaction, | <big><span class="asgreek">σήψιν</span></big> <sup><small><small>[[G9072]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[shall be\] your covering | <big><span class="asgreek">κατακάλυμμά</span></big> <sup><small><small>[[G7845]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] worm | <big><span class="asgreek">σκώληξ</span></big> <sup><small><small>[[G4663]]</small></small></sup> |
+| went down | **<big>[[G2597\|κατέβη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Hades | **<big>[[G0086\|άδου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Your glory | **<big>[[G1391\|δόξα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| great | **<big>[[G4183\|πολλή]]</big>** |
+| gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| they shall make a bed | **<big>[[G4766\|στρώσουσι]]</big>** |
+| of putrefaction, | **<big>[[G9072\|σήψιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| \[shall be\] your covering | **<big>[[G7845\|κατακάλυμμά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[the\] worm | **<big>[[G4663\|σκώληξ]]</big>** |
 [[Isa.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.10|<< Isaiah 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.12|Isaiah 14:12 >>]]</td></tr></table>
 
 

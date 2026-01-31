@@ -7,28 +7,28 @@ Howbeit I sent unto you all my servants the prophets, rising early and sending [
 Yet I sent you all My servants the prophets again and again, saying: ‘Do not do this detestable thing that I hate.’<small><sub>**MT:**</sub></small>
 [[Jer.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.3|<< Jeremiah 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.5|Jeremiah 44:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servants | <big><span class="asgreek">παίδάς</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| early. | <big><span class="asgreek">όρθρου</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[this\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing, | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this contamination | <big><span class="asgreek">μολύνσεως</span></big> <sup><small><small>[[G8339]]</small></small></sup> <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I detested. | <big><span class="asgreek">εμίσησα</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I sent | **<big>[[G0649\|απέστειλα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my servants | **<big>[[G3816\|παίδάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets | **<big>[[G4396\|προφήτας]]</big>** |
+| early. | **<big>[[G3722\|όρθρου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I sent | **<big>[[G0649\|απέστειλα]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| You shall not | **<big>[[G3361\|μη]]</big>** |
+| do | **<big>[[G4160\|ποιήσητε]]</big>** |
+| \[this\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| thing, | **<big>[[G4229\|πράγμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| this contamination | **<big>[[G8339\|μολύνσεως]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| I detested. | **<big>[[G3404\|εμίσησα]]</big>** |
 [[Jer.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.3|<< Jeremiah 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.5|Jeremiah 44:5 >>]]</td></tr></table>
 
 

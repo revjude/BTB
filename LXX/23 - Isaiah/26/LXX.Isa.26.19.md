@@ -11,36 +11,36 @@ Your dead will live; their bodies will rise. Awake and sing, you who dwell in th
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall rise up | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dead | <big><span class="asgreek">νεκροί</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be raised | <big><span class="asgreek">εγερθήσονται</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sepulchres | <big><span class="asgreek">μνημείοις</span></big> <sup><small><small>[[G3419]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be glad | <big><span class="asgreek">ευφρανθήσονται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| for the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| dew | <big><span class="asgreek">δρόσος</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a cure | <big><span class="asgreek">ίαμα</span></big> <sup><small><small>[[G2386]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| but the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| shall fall. | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| shall rise up | **<big>[[G0450\|αναστήσονται]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| dead | **<big>[[G3498\|νεκροί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be raised | **<big>[[G1453\|εγερθήσονται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| sepulchres | **<big>[[G3419\|μνημείοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be glad | **<big>[[G2165\|ευφρανθήσονται]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| for the | **<big>[[G3588\|η]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| dew | **<big>[[G6970\|δρόσος]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| a cure | **<big>[[G2386\|ίαμα]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| but the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| impious | **<big>[[G0765\|ασεβών]]</big>** |
+| shall fall. | **<big>[[G4098\|πεσείται]]</big>** |
 [[Isa.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.18|<< Isaiah 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.20|Isaiah 26:20 >>]]</td></tr></table>
 
 

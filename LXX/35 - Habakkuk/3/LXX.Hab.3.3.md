@@ -7,32 +7,32 @@ God came from Teman, and the Holy One from mount Paran. Selah. His glory covered
 God came from Teman, and the Holy One from Mount Paran. Selah His glory covered the heavens, and His praise filled the earth.<small><sub>**MT:**</sub></small>
 [[Hab.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| from out of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Teman | <big><span class="asgreek">Θεμάν</span></big> <sup><small><small>[[H8486]]</small></small></sup> |
-| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy one | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| \[of the\] shady | <big><span class="asgreek">κατασκίου</span></big> <sup><small><small>[[G7921]]</small></small></sup> |
-| Paran. | <big><span class="asgreek">Φαράν</span></big> <sup><small><small>[[H6290]]</small></small></sup> |
-| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
-| covered | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανούς</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His virtue | <big><span class="asgreek">αρετή</span></big> <sup><small><small>[[G0703]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his praise | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| from out of | **<big>[[G0575\|από]]</big>** |
+| Teman | **<big>[[H8486\|Θεμάν]]</big>** |
+| shall come | **<big>[[G2240\|ήξει]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| holy one | **<big>[[G0039\|άγιος]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] mount | **<big>[[G3735\|όρους]]</big>** |
+| \[of the\] shady | **<big>[[G7921\|κατασκίου]]</big>** |
+| Paran. | **<big>[[H6290\|Φαράν]]</big>** |
+| PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
+| covered | **<big>[[G2572\|εκάλυψεν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| heavens | **<big>[[G3772\|ουρανούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| His virtue | **<big>[[G0703\|αρετή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his praise | **<big>[[G0133\|αινέσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| filled | **<big>[[G4130\|επλήσθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| earth. | **<big>[[G1093\|γη]]</big>** |
 [[Hab.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
 
 

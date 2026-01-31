@@ -7,24 +7,24 @@ For, lo, they lie in wait for my soul: the mighty are gathered against me; not [
 See how they lie in wait for me. Fierce men conspire against me for no transgression or sin of my own, O LORD.<small><sub>**MT:**</sub></small>
 [[Ps.59.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.2|<< Psalm 59:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.4|Psalm 59:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| they hunted | <big><span class="asgreek">εθήρευσαν</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| put | <big><span class="asgreek">επέθεντο</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| strong ones | <big><span class="asgreek">κραταιοί</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| nor \[is it because of\] | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my sin, | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| they hunted | **<big>[[G2340\|εθήρευσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my life; | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| put | **<big>[[G2007\|επέθεντο]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| strong ones | **<big>[[G2900\|κραταιοί]]</big>** |
+| nor \[is it because of\] | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my lawlessness | **<big>[[G0458\|ανομία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my sin, | **<big>[[G0266\|αμαρτία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
 [[Ps.59.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.2|<< Psalm 59:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.4|Psalm 59:4 >>]]</td></tr></table>
 
 

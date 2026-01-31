@@ -7,40 +7,40 @@ And when the LORD saw that they humbled themselves, the word of the LORD came to
 When the LORD saw that they had humbled themselves, the word of the LORD came to Shemaiah, saying, “They have humbled themselves; I will not destroy them, but will soon grant them deliverance. My wrath will not be poured out on Jerusalem through Shishak.<small><sub>**MT:**</sub></small>
 [[2Chr.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.6|<< 2 Chronicles 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.8|2 Chronicles 12:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| the <span class="smallcaps">lord</span> saw | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they were ashamed, | <big><span class="asgreek">ενετράπησαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Shemaiah, | <big><span class="asgreek">Σαμαίαν</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| They felt shame, | <big><span class="asgreek">ενετράπησαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| I shall not utterly ruin | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">καταφθερώ</span></big> <sup><small><small>[[G2704]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| deliverance, | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| be dripped | <big><span class="asgreek">στάξη</span></big> <sup><small><small>[[G9147]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of Shishak, | <big><span class="asgreek">Σουσάκ</span></big> <sup><small><small>[[H7895]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| the <span class="smallcaps">lord</span> saw | **<big>[[G1492\|ιδείν]]</big>** **<big>[[G3588\|τον]]</big>** **<big>[[G2962\|κύριον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they were ashamed, | **<big>[[G1788\|ενετράπησαν]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| \[the\] word | **<big>[[G3056\|λόγος]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Shemaiah, | **<big>[[H8098\|Σαμαίαν]]</big>** |
+| saying, | **<big>[[G3004\|λέγων]]</big>** |
+| They felt shame, | **<big>[[G1788\|ενετράπησαν]]</big>** |
+| I shall not utterly ruin | **<big>[[G3756\|ου]]</big>** **<big>[[G2704\|καταφθερώ]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| I will appoint | **<big>[[G1325\|δώσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| small | **<big>[[G3398\|μικρόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| deliverance, | **<big>[[G4991\|σωτηρίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| be dripped | **<big>[[G9147\|στάξη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my rage | **<big>[[G2372\|θυμός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρί]]</big>** |
+| of Shishak, | **<big>[[H7895\|Σουσάκ]]</big>** |
 [[2Chr.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.6|<< 2 Chronicles 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.8|2 Chronicles 12:8 >>]]</td></tr></table>
 
 

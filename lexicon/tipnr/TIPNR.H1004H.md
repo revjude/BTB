@@ -1,8 +1,8 @@
 <small>*Beth-haggan • Place near Jezreel where Ahaziah fled from Jehu.*</small>
 
 <span class='tipnrhighlight'>Beth-haggan</span> was a place near Jezreel where Ahaziah, king of Judah, fled from Jehu before being killed. \([[2Kgs.9.27|2 Kings 9:27]]\)
-- A location near Megiddo<[[H4023]]> only mentioned at [[2Kgs.9.27|2Ki.9.27]]; 
-- only referred to as Beth-haggan<[[H1004H]]><[[H1588H]]> \(<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Megiddo **<big>[[H4023|מְגִדּוֹן]]</big>** only mentioned at [[2Kgs.9.27|2Ki.9.27]]; 
+- only referred to as Beth-haggan **<big>[[H1004|בַּיִת]]</big>** **<big>[[H1588|גַּן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.58418313614938,35.18229165870594&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The death of Ahaziah at Megiddo, after fleeing from Beth-haggan, marked the end 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth/-haggan (KJV= garden house) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>](H1004H)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ן</span>](H1588H) <small>*Hebrew*</small> | 1x | [2Ki.9.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=2Ki.9.27) |
-All Strong's for **Beth-haggan**: \[[[H1004H]]\]
+| Beth/-haggan (KJV= garden house) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>](H1004H)[<span class='tipnrLangHebrew'>ג</span>ַּ<span class='tipnrLangHebrew'>ן</span>](H1588H) | 1x | [2Ki.9.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=2Ki.9.27) |
+All entries for **Beth-haggan**:  **<big>[[H1004|בַּיִת]]</big>**

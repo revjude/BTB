@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Berea</span> was a city in Macedonia where Paul preached, and the home of Sopater, one of Paul's traveling companions. \(Acts 17:10, 13; 20:4\)
 - A location first mentioned at [[2Chr.20.26b|Act.17.10]]; 
-- referred to as Berea<[[G0960]]> \(<span class='tipnrLangGreek'>Βέροια</span>\), or Berean<[[G0961]]> \(<span class='tipnrLangGreek'>Βεροιαῖος</span>\).
+- referred to as Berea **<big>[[G0960|Βέροια]]</big>**, or Berean **<big>[[G0961|Βεροιαῖος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.5167,22.2&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Berea, also known as Beroea, was a city in Macedonia, located southwest of Thess
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Berea | [<span class='tipnrLangGreek'>Βέροια</span>](G0960) <small>*Greek*</small> | 2x | [[Act.17.10] & [Act.17.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Berea\*\|reference=Act.17.10;Act.17.13) |
-| Berean <small>*(group)*</small> | [<span class='tipnrLangGreek'>Βεροιαῖος</span>](G0961) <small>*Greek*</small> | 1x | [Act.20.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Berean\*\|reference=Act.20.4) |
-All Strong's for **Berea**: \[[[G0960]]\] \[[[G0961]]\]
+| Berea | [<span class='tipnrLangGreek'>Βέροια</span>](G0960) | 2x | [[Act.17.10] & [Act.17.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Berea\*\|reference=Act.17.10;Act.17.13) |
+| Berean <small>*(group)*</small> | [<span class='tipnrLangGreek'>Βεροιαῖος</span>](G0961) | 1x | [Act.20.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Berean\*\|reference=Act.20.4) |
+All entries for **Berea**:  **<big>[[G0960|Βέροια]]</big>** ☩  **<big>[[G0961|Βεροιαῖος]]</big>**

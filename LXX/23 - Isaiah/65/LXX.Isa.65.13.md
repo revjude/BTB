@@ -7,33 +7,33 @@ Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall b
 Therefore this is what the Lord GOD says: “My servants will eat, but you will go hungry; My servants will drink, but you will go thirsty; My servants will rejoice, but you will be put to shame.<small><sub>**MT:**</sub></small>
 [[Isa.65.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.12|<< Isaiah 65:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.14|Isaiah 65:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serving | <big><span class="asgreek">δουλεύοντές</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat, | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| but you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall hunger. | <big><span class="asgreek">πεινάσετε</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my servants | <big><span class="asgreek">δουλεύοντές</span></big> <sup><small><small>[[G1398]]</small></small></sup> <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall drink, | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| but you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall thirst. | <big><span class="asgreek">διψήσετε</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serving | <big><span class="asgreek">δουλεύοντές</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be glad, | <big><span class="asgreek">ευφρανθήσονται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| but you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall be ashamed. | <big><span class="asgreek">αισχυνθήσεσθε</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| serving | **<big>[[G1398\|δουλεύοντές]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| shall eat, | **<big>[[G2068\|φάγονται]]</big>** |
+| but you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall hunger. | **<big>[[G3983\|πεινάσετε]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my servants | **<big>[[G1398\|δουλεύοντές]]</big>** **<big>[[G1473\|μοι]]</big>** |
+| shall drink, | **<big>[[G4095\|πίονται]]</big>** |
+| but you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall thirst. | **<big>[[G1372\|διψήσετε]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| serving | **<big>[[G1398\|δουλεύοντές]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| shall be glad, | **<big>[[G2165\|ευφρανθήσονται]]</big>** |
+| but you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall be ashamed. | **<big>[[G0153\|αισχυνθήσεσθε]]</big>** |
 [[Isa.65.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.12|<< Isaiah 65:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.14|Isaiah 65:14 >>]]</td></tr></table>
 
 

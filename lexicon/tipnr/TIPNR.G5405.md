@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Phoenix</span> was a harbor on the island of Crete where the ship carrying Paul and other prisoners attempted to winter during their journey to Rome.
 - A location only mentioned at [[Zech.9.6|Act.27.12]]; 
-- only referred to as Phoenix<[[G5405]]> \(<span class='tipnrLangGreek'>Φοῖνιξ</span>\).
+- only referred to as Phoenix **<big>[[G5405|Φοῖνιξ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.1988857652248,24.08098202270813&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Phoenix, also known as Phoenice, was a harbor on the southern coast of the islan
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Phoenix (KJV= Phenice) | [<span class='tipnrLangGreek'>Φοῖνιξ</span>](G5405) <small>*Greek*</small> | 1x | [Act.27.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phoenix\*\|reference=Act.27.12) |
-All Strong's for **Phoenix**: \[[[G5405]]\]
+| Phoenix (KJV= Phenice) | [<span class='tipnrLangGreek'>Φοῖνιξ</span>](G5405) | 1x | [Act.27.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Phoenix\*\|reference=Act.27.12) |
+All entries for **Phoenix**:  **<big>[[G5405|Φοῖνιξ]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דְּבִיר‎</span></big> **Dᵉbîyr** <small>*(deb-eer')*</small> ==**Debir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">דְּבִר</span> **Dᵉbir** <small>*(deb-eer')*</small>; (Joshua 13:26 (but see <span class="ashebrew">‎לֹא דְבַר‎</span><sup><small>[[H3810]]</small></sup>)), the same as <span class="ashebrew">‎דְּבִיר‎</span><sup><small>[[H1687]]</small></sup></small>
+**<big><span class="ashebrew">‎דְּבִיר‎</span></big>** **Dᵉbîyr** <small>*(deb-eer')*</small> ==**Debir**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">דְּבִר</span></big>** **Dᵉbir** <small>*(deb-eer')*</small>; (Joshua 13:26 (but see **<big>[[H3810|‎לֹא דְבַר‎]]</big>**)), the same as **<big>[[H1687|‎דְּבִיר‎]]</big>**</small>
 
 $\quad$ Debir.
 - § Debir = *"sanctuary"*

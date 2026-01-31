@@ -7,28 +7,28 @@ Among the smooth [stones] of the stream [is] thy portion; they, they [are] thy l
 Your portion is among the smooth stones of the valley; indeed, they are your lot. Even to them you have poured out a drink offering and offered a grain offering. Should I relent because of these?<small><sub>**MT:**</sub></small>
 [[Isa.57.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| That \[is\] | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion, | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| this is | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lot. | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
-| To those | <big><span class="asgreek">κακείνοις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| you poured out | <big><span class="asgreek">εξέχεας</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| libations, | <big><span class="asgreek">σπονδάς</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you offered | <big><span class="asgreek">ανήνεγκας</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| sacrifices; | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| shall I not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be provoked to anger? | <big><span class="asgreek">οργισθήσομαι</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
+| That \[is\] | **<big>[[G1565\|εκείνη]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| portion, | **<big>[[G3310\|μερίς]]</big>** |
+| this is | **<big>[[G3778\|ούτός]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| lot. | **<big>[[G2819\|κλήρος]]</big>** |
+| To those | **<big>[[G1565\|κακείνοις]]</big>** |
+| you poured out | **<big>[[G1632\|εξέχεας]]</big>** |
+| libations, | **<big>[[G9145\|σπονδάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to these | **<big>[[G3778\|τούτοις]]</big>** |
+| you offered | **<big>[[G0399\|ανήνεγκας]]</big>** |
+| sacrifices; | **<big>[[G2378\|θυσίας]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| these \[things\] | **<big>[[G3778\|τούτοις]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| shall I not | **<big>[[G3756\|ουκ]]</big>** |
+| be provoked to anger? | **<big>[[G3710\|οργισθήσομαι]]</big>** |
 [[Isa.57.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
 

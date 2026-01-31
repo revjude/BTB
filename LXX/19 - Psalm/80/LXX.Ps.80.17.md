@@ -7,21 +7,21 @@ Let thy hand be upon the man of thy right hand, upon the son of man [whom] thou 
 Let Your hand be upon the man at Your right hand, on the son of man You have raised up for Yourself.<small><sub>**MT:**</sub></small>
 [[Ps.80.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.16|<< Psalm 80:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.18|Psalm 80:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| be | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of your right, | <big><span class="asgreek">δεξιάς</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you strengthened | <big><span class="asgreek">εκραταίωσας</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
-| to yourself. | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
+| be | **<big>[[G1096\|γενηθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|σου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] man | **<big>[[G0435\|άνδρα]]</big>** |
+| of your right, | **<big>[[G1188\|δεξιάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] son | **<big>[[G5207\|υιόν]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you strengthened | **<big>[[G2901\|εκραταίωσας]]</big>** |
+| to yourself. | **<big>[[G4572\|σεαυτώ]]</big>** |
 [[Ps.80.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.16|<< Psalm 80:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.18|Psalm 80:18 >>]]</td></tr></table>
 
 

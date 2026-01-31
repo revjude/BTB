@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִיהוּ‎</span></big> **ʼĔlîyhûw** <small>*(el-ee-hoo')*</small> ==**Elihu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (fully) <span class="ashebrew">אֱלִיהוּא</span> **ʼĔlîyhûwʼ** <small>*(elee-hoo')*</small>; from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎הוּא‎</span><sup><small>[[H1931]]</small></sup>; God of him</small>
+**<big><span class="ashebrew">‎אֱלִיהוּ‎</span></big>** **ʼĔlîyhûw** <small>*(el-ee-hoo')*</small> ==**Elihu**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (fully) **<big><span class="ashebrew">אֱלִיהוּא</span></big>** **ʼĔlîyhûwʼ** <small>*(elee-hoo')*</small>; from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H1931|‎הוּא‎]]</big>**; God of him</small>
 
 $\quad$ Elihu.
 - § Elihu = *"He is my God"*

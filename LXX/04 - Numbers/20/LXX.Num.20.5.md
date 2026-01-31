@@ -7,34 +7,34 @@ And wherefore have ye made us to come up out of Egypt, to bring us in unto this 
 Why have you led us up out of Egypt to bring us to this wretched place? It is not a place of grain, figs, vines, or pomegranates—and there is no water to drink!”<small><sub>**MT:**</sub></small>
 [[Num.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.4|<< Numbers 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.6|Numbers 20:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| is this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you led | <big><span class="asgreek">ανηγάγετε</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
-| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| to come | <big><span class="asgreek">παραγενέσθαι</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this bad | <big><span class="asgreek">πονηρόν</span></big> <sup><small><small>[[G4190]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| A place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you cannot | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sow, | <big><span class="asgreek">σπείρεται</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
-| nor \[is there\] | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| fig-trees, | <big><span class="asgreek">συκαί</span></big> <sup><small><small>[[G4808]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| grapevines, | <big><span class="asgreek">άμπελοι</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| pomegranates, | <big><span class="asgreek">ρόαι</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| is there water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to drink. | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| why | **<big>[[G2444\|ινατί]]</big>** |
+| is this | **<big>[[G3778\|τούτο]]</big>** |
+| you led | **<big>[[G0321\|ανηγάγετε]]</big>** |
+| us | **<big>[[G1473\|ημάς]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| to come | **<big>[[G3854\|παραγενέσθαι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| place | **<big>[[G5117\|τόπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this bad | **<big>[[G4190\|πονηρόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| A place | **<big>[[G5117\|τόπος]]</big>** |
+| which | **<big>[[G3739\|ου]]</big>** |
+| you cannot | **<big>[[G3756\|ου]]</big>** |
+| sow, | **<big>[[G4687\|σπείρεται]]</big>** |
+| nor \[is there\] | **<big>[[G3761\|ουδέ]]</big>** |
+| fig-trees, | **<big>[[G4808\|συκαί]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| grapevines, | **<big>[[G0288\|άμπελοι]]</big>** |
+| nor | **<big>[[G3777\|ουδέ]]</big>** |
+| pomegranates, | **<big>[[G9029\|ρόαι]]</big>** |
+| nor | **<big>[[G3777\|ουδέ]]</big>** |
+| is there water | **<big>[[G5204\|ύδωρ]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| to drink. | **<big>[[G4095\|πιείν]]</big>** |
 [[Num.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.4|<< Numbers 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.6|Numbers 20:6 >>]]</td></tr></table>
 
 

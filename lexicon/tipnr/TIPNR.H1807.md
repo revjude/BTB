@@ -4,8 +4,8 @@ Woman living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Delilah</span> was a Philistine woman who deceived Samson into revealing the secret of his strength, leading to his capture. \([[Judg.16.4|Jdg.16.4]],6,10,12,13,18\)
 - A woman living before Israel's Monarchy, first mentioned at [[Judg.16.4|Jdg.16.4]]; 
-- only referred to as Delilah<[[H1807]]> \(<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- wife of Samson<[[H8123]]>.
+- only referred to as Delilah **<big>[[H1807|דְּלִילָה]]</big>**; 
+- wife of Samson **<big>[[H8123|שִׁמְשׁוֹן]]</big>**.
 
 Delilah, a Philistine woman from the Valley of Sorek, is known for her role in the downfall of Samson, one of Israel's judges. Samson fell in love with Delilah, and the Philistine rulers, seeing an opportunity to defeat their enemy, offered Delilah a substantial sum of money to discover the secret of Samson's strength \([[Judg.16.4|Judges 16:4]]-5\). 
 
@@ -19,7 +19,7 @@ Delilah's story serves as a cautionary tale about the dangers of temptation, dec
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Delilah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1807) <small>*Hebrew*</small> | 6x | [[Jdg.16.4] ... [Jdg.16.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delilah\*\|reference=Jdg.16.4;Jdg.16.6;Jdg.16.10;Jdg.16.12;Jdg.16.13;Jdg.16.18) |
-All Strong's for **Delilah**: \[[[H1807]]\]
+| Delilah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1807) | 6x | [[Jdg.16.4] ... [Jdg.16.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delilah\*\|reference=Jdg.16.4;Jdg.16.6;Jdg.16.10;Jdg.16.12;Jdg.16.13;Jdg.16.18) |
+All entries for **Delilah**:  **<big>[[H1807|דְּלִילָה]]</big>**
 #### Related Profiles:
 - **[Samson](H8123)** (spouse)

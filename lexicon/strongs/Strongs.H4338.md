@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵישַׁע‎</span></big> **Mêyshaʻ** <small>*(may-shaw')*</small> ==**Mesha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a variation for <span class="ashebrew">‎מֵישָׁע‎</span><sup><small>[[H4337]]</small></sup>; safety</small>
+**<big><span class="ashebrew">‎מֵישַׁע‎</span></big>** **Mêyshaʻ** <small>*(may-shaw')*</small> ==**Mesha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a variation for **<big>[[H4337|‎מֵישָׁע‎]]</big>**; safety</small>
 
 $\quad$ Mesha.
 - § Mesha = *"deliverance"*

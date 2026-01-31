@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Achzib</span>, a coastal city assigned to Asher but not conquered.
 - A location first mentioned at [[Josh.19.29|Jos.19.29]]; 
-- only referred to as Achzib<[[H0392H]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>\).
+- only referred to as Achzib **<big>[[H0392|אַכְזִיב]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.04846798541127,35.10220252805766&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Achzib was a coastal town allotted to the tribe of Asher \([[Josh.19.29|Joshua 1
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Achzib (NIV= Akzib) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>](H0392H) <small>*Hebrew*</small> | 2x | [[Jos.19.29] & [Jdg.1.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achzib\*\|reference=Jos.19.29;Jdg.1.31) |
-All Strong's for **Achzib**: \[[[H0392H]]\]
+| Achzib (NIV= Akzib) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יב</span>](H0392H) | 2x | [[Jos.19.29] & [Jdg.1.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Achzib\*\|reference=Jos.19.29;Jdg.1.31) |
+All entries for **Achzib**:  **<big>[[H0392|אַכְזִיב]]</big>**

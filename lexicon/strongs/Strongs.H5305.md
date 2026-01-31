@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָפִישׁ‎</span></big> **Nâphîysh** <small>*(naw-feesh')*</small> ==**Naphish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָפַשׁ‎</span><sup><small>[[H5314]]</small></sup>; refreshed</small>
+**<big><span class="ashebrew">‎נָפִישׁ‎</span></big>** **Nâphîysh** <small>*(naw-feesh')*</small> ==**Naphish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5314|‎נָפַשׁ‎]]</big>**; refreshed</small>
 
 $\quad$ Naphish.
 - § Naphish or Nephish = *"refreshment"*

@@ -7,22 +7,22 @@ And I will make them and the places round about my hill a blessing; and I will c
 I will make them and the places around My hill a blessing. I will send down showers in season—showers of blessing.<small><sub>**MT:**</sub></small>
 [[Ezek.34.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.25|<< Ezekiel 34:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.27|Ezekiel 34:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| surrounding | <big><span class="asgreek">περικύκλω</span></big> <sup><small><small>[[G8735]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mountain; | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| its time -- | <big><span class="asgreek">καιρόν αυτού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| a rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| of blessing. | <big><span class="asgreek">ευλογίας</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| surrounding | **<big>[[G8735\|περικύκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my mountain; | **<big>[[G3735\|όρους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| rain | **<big>[[G5205\|υετόν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| its time -- | **<big>[[G2540\|καιρόν αυτού]]</big>** |
+| a rain | **<big>[[G5205\|υετόν]]</big>** |
+| of blessing. | **<big>[[G2129\|ευλογίας]]</big>** |
 [[Ezek.34.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.25|<< Ezekiel 34:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.27|Ezekiel 34:27 >>]]</td></tr></table>
 
 

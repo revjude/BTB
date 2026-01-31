@@ -1,4 +1,4 @@
-<small>Also see: [[H7699]]</small>
+<small>Also see: **<big>[[H7699|שַׁד]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎שֹׁד‎</span>, <span class="bdbLangHebrew">‎שׁוֺד‎</span> (see below) **noun masculine** ==violence, havoc, devastation, ruin==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> absolute [[Hos.7.13|Hos 7:13]] +; construct [[Isa.22.4|Isa 22:4]] +; — 
 

@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Nabal</span>, a wealthy man from Carmel, was known for his foolishness and mistreatment of David, which nearly led to his demise.
 - A man living at the time of United Monarchy, first mentioned at [[1Sam.25.3|1Sa.25.3]]; 
-- only referred to as Nabal<[[H5037]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ל</span>\); 
-- husband of Abigail<[[H0026G]]>.
+- only referred to as Nabal **<big>[[H5037|נָבָל]]</big>**; 
+- husband of Abigail **<big>[[H0026|אֲבִיגַיִל]]</big>**.
 
 Nabal was a wealthy man from Carmel who lived during the time of King David. He is described as a Calebite, indicating his descent from the tribe of Judah. Nabal was married to Abigail, a beautiful and intelligent woman \([[1Sam.25.3|1 Samuel 25:3]]\). 
 
@@ -19,7 +19,7 @@ Nabal's story serves as a cautionary tale about the consequences of foolishness,
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nabal | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H5037) <small>*Hebrew*</small> | 22x | [[1Sa.25.3] ... [2Sa.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nabal\*\|reference=1Sa.25.3;1Sa.25.4;1Sa.25.5;1Sa.25.9;1Sa.25.10;1Sa.25.14;1Sa.25.19;1Sa.25.25;1Sa.25.25;1Sa.25.26;1Sa.25.34;1Sa.25.36;1Sa.25.36;1Sa.25.37;1Sa.25.38;1Sa.25.39;1Sa.25.39;1Sa.25.39;1Sa.27.3;1Sa.30.5;2Sa.2.2;2Sa.3.3) |
-All Strong's for **Nabal**: \[[[H5037]]\]
+| Nabal | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H5037) | 22x | [[1Sa.25.3] ... [2Sa.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nabal\*\|reference=1Sa.25.3;1Sa.25.4;1Sa.25.5;1Sa.25.9;1Sa.25.10;1Sa.25.14;1Sa.25.19;1Sa.25.25;1Sa.25.25;1Sa.25.26;1Sa.25.34;1Sa.25.36;1Sa.25.36;1Sa.25.37;1Sa.25.38;1Sa.25.39;1Sa.25.39;1Sa.25.39;1Sa.27.3;1Sa.30.5;2Sa.2.2;2Sa.3.3) |
+All entries for **Nabal**:  **<big>[[H5037|נָבָל]]</big>**
 #### Related Profiles:
 - **[Abigail](H0026G)** (spouse)

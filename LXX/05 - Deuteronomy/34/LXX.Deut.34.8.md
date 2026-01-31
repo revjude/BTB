@@ -7,32 +7,32 @@ And the children of Israel wept for Moses in the plains of Moab thirty days: so 
 The Israelites grieved for Moses in the plains of Moab thirty days, until the time of weeping and mourning for Moses came to an end.<small><sub>**MT:**</sub></small>
 [[Deut.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.7|<< Deuteronomy 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.9|Deuteronomy 34:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wept over | <big><span class="asgreek">έκλαυσαν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] wilderness | <big><span class="asgreek">αραβώθ</span></big> <sup><small><small>[[G6521]]</small></small></sup> |
-| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| Jericho | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| \[for\] thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| days; | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they completed | <big><span class="asgreek">συνετελέσθησαν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mourning | <big><span class="asgreek">πένθους</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| of weeping | <big><span class="asgreek">κλαυθμού</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
-| for Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| wept over | **<big>[[G2799\|έκλαυσαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] wilderness | **<big>[[G6521\|αραβώθ]]</big>** |
+| of Moab, | **<big>[[H6355\|Μωάβ]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| Jericho | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| \[for\] thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| days; | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they completed | **<big>[[G4931\|συνετελέσθησαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| mourning | **<big>[[G3997\|πένθους]]</big>** |
+| of weeping | **<big>[[G2805\|κλαυθμού]]</big>** |
+| for Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Deut.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.7|<< Deuteronomy 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.9|Deuteronomy 34:9 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קֵינִי‎</span></big> **Qêynîy** <small>*(kay-nee')*</small> ==**Kenite**==  <sup><small>[[TEHMC#N:N-M-PG|N:N-M-PG]]</small></sup> 
-<small>or <span class="ashebrew">קִינִי</span> **Qîynîy** <small>*(kee-nee')*</small>; (1 Chronicles 2:55), patronymic from <span class="ashebrew">‎קַיִן‎</span><sup><small>[[H7014]]</small></sup></small>
+**<big><span class="ashebrew">‎קֵינִי‎</span></big>** **Qêynîy** <small>*(kay-nee')*</small> ==**Kenite**==  <sup><small>[[TEHMC#N:N-M-PG|N:N-M-PG]]</small></sup> 
+<small>or **<big><span class="ashebrew">קִינִי</span></big>** **Qîynîy** <small>*(kee-nee')*</small>; (1 Chronicles 2:55), patronymic from **<big>[[H7014|‎קַיִן‎]]</big>**</small>
 
 $\quad$ Kenite.
 - § Kenite = *"smiths"*

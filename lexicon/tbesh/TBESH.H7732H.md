@@ -1,5 +1,4 @@
-<span class="ashebrew">‎שׁוֹבָל‎</span> <small>***(sho.val)***</small> ==**Shobal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Egypt and Wilderness, first mentioned at [[1Chr.2.50|1Ch.2.50]]
--  son of: Hur ([[H2354]])
--  brother of: Uri ([[H0221]]), Salma ([[H8007H]]), Hareph ([[H2780]]), Jezreel ([[H3157J]]), Ishma ([[H3457]]), Idbash ([[H3031]]), Hazzelelponi ([[H6753]]), Penuel ([[H6439H]]) and Ezer ([[H5829]])
--  father of: Haroeh ([[H7204]])
+-  son of: Hur (**<big>[[H2354|חוּר]]</big>**)
+-  brother of: Uri (**<big>[[H0221|אוּרִי]]</big>**), Salma (**<big>[[H8007H|שַׂלְמָא]]</big>**), Hareph (**<big>[[H2780|חָרֵף]]</big>**), Jezreel (**<big>[[H3157J|יִזְרְעֵאל]]</big>**), Ishma (**<big>[[H3457|יִשְׁמָא]]</big>**), Idbash (**<big>[[H3031|יִדְבָּשׁ]]</big>**), Hazzelelponi (**<big>[[H6753|צְלֶלְפּוֹנִי]]</big>**), Penuel (**<big>[[H6439H|פְּנוּאֵל]]</big>**) and Ezer (**<big>[[H5829|עֵזֶר]]</big>**)
+-  father of: Haroeh (**<big>[[H7204|רֹאֵה]]</big>**)

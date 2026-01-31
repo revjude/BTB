@@ -6,19 +6,19 @@ He follows her on impulse, like an ox going to the slaughter, like a deer boundi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.21|<< Proverbs 7:21]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.23|Proverbs 7:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [he is] walking  | <span class="ashebrew"><big>ה֤וֹלֵ֥ךְ </big></span><small><small><sup>[[H1980N]]</sup></small></small> &#8207;| ho.Lekh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| behind her  | <span class="ashebrew"><big>אַחֲרֶ֗י </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.cha.Rei. <small><sup>[[HAcmpc]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suddenly  | <span class="ashebrew"><big>פִּ֫תְאֹ֥ם </big></span><small><small><sup>[[H6597]]</sup></small></small> &#8207;| pit.'Om <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like an ox  | <span class="ashebrew"><big>כְּ֭ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>שׁוֹר </big></span><small><small><sup>[[H7794]]</sup></small></small> &#8207;| Ke. <small><sup>[[HR]]</sup></small> shor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] slaughter  | <span class="ashebrew"><big>טָ֣בַח </big></span><small><small><sup>[[H2874]]</sup></small></small> &#8207;| Ta.vach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it goes  | <span class="ashebrew"><big>יָב֑וֹא </big></span><small><small><sup>[[H0935G]]</sup></small></small> &#8207;| ya.Vo' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like an anklet  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עֶ֗כֶס </big></span><small><small><sup>[[H5914]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe. <small><sup>[[HR]]</sup></small> 'E.khes <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] chastening of  | <span class="ashebrew"><big>מוּסַ֥ר </big></span><small><small><sup>[[H4148I]]</sup></small></small> &#8207;| mu.Sar <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fool  | <span class="ashebrew"><big>אֱוִֽיל </big></span><small><small><sup>[[H0191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Vil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he is] walking  |**<big>&#8207;[[H1980N\|ה֤וֹלֵ֥ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| behind her  |**<big>&#8207;[[H0310A\|אַחֲרֶ֗י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suddenly  |**<big>&#8207;[[H6597\|פִּ֫תְאֹ֥ם]]&#8207; </big>**| pit.'Om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like an ox  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H7794\|שׁוֹר]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] slaughter  |**<big>&#8207;[[H2874\|טָ֣בַח]]&#8207; </big>**| Ta.vach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it goes  |**<big>&#8207;[[H0935G\|יָב֑וֹא]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like an anklet  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5914\|עֶ֗כֶס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> 'E.khes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chastening of  |**<big>&#8207;[[H4148I\|מוּסַ֥ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fool  |**<big>&#8207;[[H0191\|אֱוִֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.21|<< Proverbs 7:21]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.23|Proverbs 7:23 >>]]</td></tr></table>
 
 

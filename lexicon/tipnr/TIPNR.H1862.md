@@ -4,9 +4,9 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Darda</span> was a wise man, but Solomon's wisdom surpassed his. \([[1Kgs.4.31|1Ki.4.31]]\)
 - A man living at the time of United Monarchy, only mentioned at [[1Kgs.4.31|1Ki.4.31]]; 
-- only referred to as Darda<[[H1862]]> \(<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ע</span>\); 
--  son of Mahol<[[H4235]]>; 
-- a brother of Ethan<[[H0387G]]>, Heman<[[H1968G]]> and Calcol<[[H3633G]]>.
+- only referred to as Darda **<big>[[H1862|דַּרְדַּע]]</big>**; 
+-  son of Mahol **<big>[[H4235|מָחוֹל]]</big>**; 
+- a brother of Ethan **<big>[[H0387|אֵיתָן]]</big>**, Heman **<big>[[H1968|הֵימָן]]</big>** and Calcol **<big>[[H3633|כַּלְכֹּל]]</big>**.
 
 Darda is mentioned in [[1Kgs.4.31|1 Kings 4:31]] as one of the wise men whom King Solomon's wisdom surpassed. He is listed alongside Ethan the Ezrahite and the sons of Mahol, suggesting that he was a well-known figure renowned for his wisdom during that time. 
 
@@ -16,8 +16,8 @@ Apart from this single mention, no other details about Darda's life, background,
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Darda | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ע</span>](H1862) <small>*Hebrew*</small> | 1x | [1Ki.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Darda\*\|reference=1Ki.4.31) |
-All Strong's for **Darda**: \[[[H1862]]\]
+| Darda | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ע</span>](H1862) | 1x | [1Ki.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Darda\*\|reference=1Ki.4.31) |
+All entries for **Darda**:  **<big>[[H1862|דַּרְדַּע]]</big>**
 #### Related Profiles:
 - **[Mahol](H4235)** (father)
 - **[Ethan](H0387G)** (sibling)

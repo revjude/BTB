@@ -1,4 +1,3 @@
-<span class="ashebrew">‎נָתַן‎</span> <small>***(na.tan)***</small> ==**to give: allow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-meaning of: <small>[[H5414G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H5414G|נָתַן]]</big>**</small> 
 
 - : allow/let

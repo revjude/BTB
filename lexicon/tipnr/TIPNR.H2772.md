@@ -4,7 +4,7 @@ People from Horon\(?\)
 
 The <span class='tipnrhighlight'>Horonites</span> were a people group who opposed Nehemiah's efforts to rebuild the walls of Jerusalem.
 - People from Horon\(?\), first mentioned at [[Neh.2.10|Neh.2.10]]; 
-- only referred to as Horonites<[[H2772]]> \(<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- only referred to as Horonites **<big>[[H2772|חֹרֹנִי]]</big>**.
 
 The Horonites were a people group mentioned in the book of Nehemiah who opposed the rebuilding of the walls of Jerusalem. They are named after their place of origin, Horonaim, a city in Moab. 
 
@@ -16,5 +16,5 @@ The opposition of the Horonites and their allies reflects the political and soci
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Horonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2772) <small>*Hebrew*</small> | 3x | [[Neh.2.10] ... [Neh.13.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horonite\*\|reference=Neh.2.10;Neh.2.19;Neh.13.28) |
-All Strong's for **Horonites**: \[[[H2772]]\]
+| Horonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2772) | 3x | [[Neh.2.10] ... [Neh.13.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horonite\*\|reference=Neh.2.10;Neh.2.19;Neh.13.28) |
+All entries for **Horonites**:  **<big>[[H2772|חֹרֹנִי]]</big>**

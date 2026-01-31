@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָבָא‎</span></big> **tsâbâʼ** <small>*(tsaw-baw')*</small> ==**army**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">צְבָאָה</span> **tsᵉbâʼâh** <small>*(tsebaw-aw')*</small>; from <span class="ashebrew">‎צָבָא‎</span><sup><small>[[H6633]]</small></sup></small>
+**<big><span class="ashebrew">‎צָבָא‎</span></big>** **tsâbâʼ** <small>*(tsaw-baw')*</small> ==**army**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">צְבָאָה</span></big>** **tsᵉbâʼâh** <small>*(tsebaw-aw')*</small>; from **<big>[[H6633|‎צָבָא‎]]</big>**</small>
 
 $\quad$ appointed time, ([phrase]) army, ([phrase]) battle, company, host, service, soldiers, waiting upon, war(-fare).
 - ***a mass of persons*** (or figuratively, things), especially ***reg***. ***organized for******war*** (an army)
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1a4)** of whole creation
 $\quad$ **1b)** war, warfare, service, go out to war
 $\quad$ **1c)** service
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">ἀριθμός</span><sup><small>[[G0706]]</small></sup> · <span class="asgreek">ἀστήρ</span><sup><small>[[G0792]]</small></sup> · <span class="asgreek">ἄστρον</span><sup><small>[[G0798]]</small></sup> · <span class="asgreek">βίος</span><sup><small>[[G0979]]</small></sup> · <span class="asgreek">δύναμις</span><sup><small>[[G1411]]</small></sup> · <span class="asgreek">ἔθνος</span><sup><small>[[G1484]]</small></sup> · <span class="asgreek">κόσμος</span><sup><small>[[G2889]]</small></sup> · <span class="asgreek">λειτουργία</span><sup><small>[[G3009]]</small></sup> · <span class="asgreek">μάχη</span><sup><small>[[G3163]]</small></sup> · <span class="asgreek">πλῆθος</span><sup><small>[[G4128]]</small></sup> · <span class="asgreek">πόλεμος</span><sup><small>[[G4171]]</small></sup> · <span class="asgreek">στρατεία</span><sup><small>[[G4752]]</small></sup> · <span class="asgreek">στρατιά</span><sup><small>[[G4756]]</small></sup> · <span class="asgreek">σαβαώθ</span><sup><small>[[G4519]]</small></sup>
+<small>See Greek: </small>**<big>[[G0039|ἅγιον]]</big>** · **<big>[[G0706|ἀριθμός]]</big>** · **<big>[[G0792|ἀστήρ]]</big>** · **<big>[[G0798|ἄστρον]]</big>** · **<big>[[G0979|βίος]]</big>** · **<big>[[G1411|δύναμις]]</big>** · **<big>[[G1484|ἔθνος]]</big>** · **<big>[[G2889|κόσμος]]</big>** · **<big>[[G3009|λειτουργία]]</big>** · **<big>[[G3163|μάχη]]</big>** · **<big>[[G4128|πλῆθος]]</big>** · **<big>[[G4171|πόλεμος]]</big>** · **<big>[[G4752|στρατεία]]</big>** · **<big>[[G4756|στρατιά]]</big>** · **<big>[[G4519|σαβαώθ]]</big>**

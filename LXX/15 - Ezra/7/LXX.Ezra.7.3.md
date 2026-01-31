@@ -7,14 +7,14 @@ The son of Amariah, the son of Azariah, the son of Meraioth,
 the son of Amariah, the son of Azariah, the son of Meraioth,<small><sub>**MT:**</sub></small>
 [[Ezra.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.2|<< Ezra 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.4|Ezra 7:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Amariah, | <big><span class="asgreek">Αμαρίου</span></big> <sup><small><small>[[H0568]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Azariah, | <big><span class="asgreek">Αζαρίου</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Meraioth, | <big><span class="asgreek">Μαριώθ</span></big> <sup><small><small>[[H4812]]</small></small></sup> |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Amariah, | **<big>[[H0568\|Αμαρίου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Azariah, | **<big>[[H5839\|Αζαρίου]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Meraioth, | **<big>[[H4812\|Μαριώθ]]</big>** |
 [[Ezra.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.2|<< Ezra 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.4|Ezra 7:4 >>]]</td></tr></table>
 
 

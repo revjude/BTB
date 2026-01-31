@@ -7,23 +7,23 @@ Though thou exalt [thyself] as the eagle, and though thou set thy nest among the
 Though you soar like the eagle and make your nest among the stars, even from there I will bring you down,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Obad.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.3|<< Obadiah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.5|Obadiah 1:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should rise up on high | <big><span class="asgreek">μετεωρισθής</span></big> <sup><small><small>[[G3349]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an eagle, | <big><span class="asgreek">αετός</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">άναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">άστρων</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
-| you should put | <big><span class="asgreek">θης</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| your nest, | <big><span class="asgreek">νοσσιάν</span></big> <sup><small><small>[[G3555]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| I will lead you down, | <big><span class="asgreek">κατάξω</span></big> <sup><small><small>[[G2609]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| you should rise up on high | **<big>[[G3349\|μετεωρισθής]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an eagle, | **<big>[[G0105\|αετός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| in the midst | **<big>[[G6271\|άναμέσον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| stars | **<big>[[G0798\|άστρων]]</big>** |
+| you should put | **<big>[[G5087\|θης]]</big>** |
+| your nest, | **<big>[[G3555\|νοσσιάν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| I will lead you down, | **<big>[[G2609\|κατάξω]]</big>** **<big>[[G1473\|σε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Obad.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.3|<< Obadiah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.5|Obadiah 1:5 >>]]</td></tr></table>
 
 

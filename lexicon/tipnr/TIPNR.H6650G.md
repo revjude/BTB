@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zeboim</span>, a town resettled by the people of Judah after the Babylonian exile \(Neh. 11:34\).
 - A location only mentioned at [[Neh.11.34|Neh.11.34]]; 
-- only referred to as Zeboim<[[H6650G]]> \(<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Zeboim **<big>[[H6650|צְבֹעִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.10182240291489,35.47633656511371&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Zeboim is mentioned in [[Neh.11.34|Nehemiah 11:34]] as one of the towns resettle
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zeboim | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6650G) <small>*Hebrew*</small> | 1x | [Neh.11.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeboim\*\|reference=Neh.11.34) |
-All Strong's for **Zeboim**: \[[[H6650G]]\]
+| Zeboim | [<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ב</span>ֹ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6650G) | 1x | [Neh.11.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zeboim\*\|reference=Neh.11.34) |
+All entries for **Zeboim**:  **<big>[[H6650|צְבֹעִים]]</big>**

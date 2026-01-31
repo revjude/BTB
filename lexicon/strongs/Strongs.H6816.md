@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎צַעְצֻעַ‎</span></big> **tsaʻtsuaʻ** <small>*(tsah-tsoo'-ah)*</small> ==**image**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎צַעְצֻעַ‎</span></big>** **tsaʻtsuaʻ** <small>*(tsah-tsoo'-ah)*</small> ==**image**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to bestrew with carvings</small>
 
 $\quad$ image (work).

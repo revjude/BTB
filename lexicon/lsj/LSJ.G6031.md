@@ -1,5 +1,5 @@
 <span class="asgreek">ἐλεγμός</span> <small>***(elegmos)***</small> ==**rebuke**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
-spelling of: <small>[[G1650]]</small> 
+spelling of: <small>**<big>[[G1650|ἔλεγχος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐλεγμός==</span></b>, <span class='asgreek'>ὁ</span>,

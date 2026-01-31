@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τροφός</span></span>, <span class="asgreek">-οῦ, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τρέφω</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.35.8|Ge 35:8]], [[LXX.2Kgs.11.2|IV Ki 11:2]], [[LXX.2Chr.22.11|II Ch 22:11]] [[LXX.Isa.49.23|Is 49:23]] (<span class="ashebrew">מֵינֶקֶת</span> <small><sup>[[H3243]]</sup></small>) \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τροφός</span></span>, <span class="asgreek">-οῦ, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τρέφω</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.35.8|Ge 35:8]], [[LXX.2Kgs.11.2|IV Ki 11:2]], [[LXX.2Chr.22.11|II Ch 22:11]] [[LXX.Isa.49.23|Is 49:23]] (**<big>[[H3243|מֵינֶקֶת]]</big>**) \* ;\] </span> </span>
 <span class="asitalic">a nurse</span>: [[1Thess.2.7|I Th 2:7]].†
 
 **Abbott-Smith References**

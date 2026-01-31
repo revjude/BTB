@@ -7,25 +7,25 @@ They are created now, and not from the beginning; even before the day when thou 
 They are created now, and not long ago; you have not heard of them before today. So you cannot claim, ‘I already knew them!’<small><sub>**MT:**</sub></small>
 [[Isa.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.6|<< Isaiah 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.8|Isaiah 48:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| it takes place, | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| earlier; | <big><span class="asgreek">πάλαι</span></big> <sup><small><small>[[G3819]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| in former | <big><span class="asgreek">προτέραις</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| you heard | <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Lest you should say, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Yes, | <big><span class="asgreek">ναι</span></big> <sup><small><small>[[G3483]]</small></small></sup> |
-| I know | <big><span class="asgreek">γινώσκω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| it takes place, | **<big>[[G1096\|γίνεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| earlier; | **<big>[[G3819\|πάλαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| in former | **<big>[[G4387\|προτέραις]]</big>** |
+| days, | **<big>[[G2250\|ημέραις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| you heard | **<big>[[G0191\|ήκουσας]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| Lest you should say, | **<big>[[G3361\|μη]]</big>** **<big>[[G2036\|είπης]]</big>** |
+| Yes, | **<big>[[G3483\|ναι]]</big>** |
+| I know | **<big>[[G1097\|γινώσκω]]</big>** |
+| them. | **<big>[[G1473\|αυτά]]</big>** |
 [[Isa.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.6|<< Isaiah 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.8|Isaiah 48:8 >>]]</td></tr></table>
 
 

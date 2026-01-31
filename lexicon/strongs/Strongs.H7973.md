@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁלַח‎</span></big> **shelach** <small>*(sheh'-lakh)*</small> ==**missile**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁלַח‎</span><sup><small>[[H7971]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁלַח‎</span></big>** **shelach** <small>*(sheh'-lakh)*</small> ==**missile**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7971|‎שָׁלַח‎]]</big>**</small>
 
 $\quad$ dart, plant, [idiom] put off, sword, weapon.
 - ***a missile of attack***, i.e. ***spear***
@@ -10,4 +10,4 @@ $\quad$ dart, plant, [idiom] put off, sword, weapon.
 $\quad$ **1a)** missile, weapon
 $\quad$ **1b)** sprout, shoot
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βέλος</span><sup><small>[[G0956]]</small></sup> · <span class="asgreek">βολίς</span><sup><small>[[G1002]]</small></sup> · <span class="asgreek">ὅπλον</span><sup><small>[[G3696]]</small></sup> · <span class="asgreek">πόλεμος</span><sup><small>[[G4171]]</small></sup>
+<small>See Greek: </small>**<big>[[G0956|βέλος]]</big>** · **<big>[[G1002|βολίς]]</big>** · **<big>[[G3696|ὅπλον]]</big>** · **<big>[[G4171|πόλεμος]]</big>**

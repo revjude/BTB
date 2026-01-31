@@ -7,27 +7,27 @@ And the Tirshatha said unto them, that they should not eat of the most holy thin
 The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.<small><sub>**MT:**</sub></small>
 [[Neh.7.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Arthasastha said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Αρθασασθά</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
-| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| eat | <big><span class="asgreek">φάγωσιν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of holies | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| should rise up | <big><span class="asgreek">αναστή</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| a priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lights | <big><span class="asgreek">φωτισμοίς</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perfections. | <big><span class="asgreek">τελειώσεσι</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Arthasastha said | **<big>[[G2036\|είπεν]]</big>** **<big>[[H0783b\|Αρθασασθά]]</big>** |
+| to them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| eat | **<big>[[G2068\|φάγωσιν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of holies | **<big>[[G0039\|αγίων]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| should rise up | **<big>[[G0450\|αναστή]]</big>** |
+| a priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| lights | **<big>[[G5461\|φωτισμοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| perfections. | **<big>[[G5050\|τελειώσεσι]]</big>** |
 [[Neh.7.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 
 

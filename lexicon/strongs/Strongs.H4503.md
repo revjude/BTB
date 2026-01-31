@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מִנְחָה‎</span></big> **minchâh** <small>*(min-khaw')*</small> ==**offering**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎מִנְחָה‎</span></big>** **minchâh** <small>*(min-khaw')*</small> ==**offering**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to apportion, i.e. bestow</small>
 
 $\quad$ gift, oblation, (meat) offering, present, sacrifice.
@@ -12,4 +12,4 @@ $\quad$ **1b)** tribute
 $\quad$ **1c)** offering (to God)
 $\quad$ **1d)** grain offering
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δῶρον</span><sup><small>[[G1435]]</small></sup> · <span class="asgreek">θυσία</span><sup><small>[[G2378]]</small></sup> · <span class="asgreek">μάννα</span><sup><small>[[G3131]]</small></sup> · <span class="asgreek">ὁλοκαύτωμα</span><sup><small>[[G3646]]</small></sup> · <span class="asgreek">προσφορά</span><sup><small>[[G4376]]</small></sup>
+<small>See Greek: </small>**<big>[[G1435|δῶρον]]</big>** · **<big>[[G2378|θυσία]]</big>** · **<big>[[G3131|μάννα]]</big>** · **<big>[[G3646|ὁλοκαύτωμα]]</big>** · **<big>[[G4376|προσφορά]]</big>**

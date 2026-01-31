@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Dalmatia</span>, a region in Illyricum where Titus traveled \([[2Tim.4.10|2 Timothy 4:10]]\).
 - A location only mentioned at [[2Tim.4.10|2Ti.4.10]]; 
-- only referred to as Dalmatia<[[G1149]]> \(<span class='tipnrLangGreek'>Δαλματία</span>\).
+- only referred to as Dalmatia **<big>[[G1149|Δαλματία]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=43.515484,16.071538&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Dalmatia was a region located on the eastern coast of the Adriatic Sea, in what 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dalmatia | [<span class='tipnrLangGreek'>Δαλματία</span>](G1149) <small>*Greek*</small> | 1x | [2Ti.4.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dalmatia\*\|reference=2Ti.4.10) |
-All Strong's for **Dalmatia**: \[[[G1149]]\]
+| Dalmatia | [<span class='tipnrLangGreek'>Δαλματία</span>](G1149) | 1x | [2Ti.4.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dalmatia\*\|reference=2Ti.4.10) |
+All entries for **Dalmatia**:  **<big>[[G1149|Δαλματία]]</big>**

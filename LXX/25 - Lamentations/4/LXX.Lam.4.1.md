@@ -12,25 +12,25 @@ How is the gold become dim! [how] is the most fine gold changed! the stones of t
 How the gold has become tarnished, the pure gold has become dull! The gems of the temple lie scattered on every street corner.<small><sub>**MT:**</sub></small>
 [[Lam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΑΛΕΦ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΑΛΕΦ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| shall be darkened | <big><span class="asgreek">αμαυρωθήσεται</span></big> <sup><small><small>[[G6253]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| changed | <big><span class="asgreek">αλλοιωθήσεται</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| were discharged | <big><span class="asgreek">εξεχύθησαν</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθοι</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιοι</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] top | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| of all | <big><span class="asgreek">πασών</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] streets, | <big><span class="asgreek">εξόδων</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| ΑΛΕΦ <sup><small>[acrostic title]</small></sup> |  |
+| O how | **<big>[[G4459\|πως]]</big>** |
+| shall be darkened | **<big>[[G6253\|αμαυρωθήσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
+| changed | **<big>[[G6230\|αλλοιωθήσεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| good | **<big>[[G0018\|αγαθόν]]</big>** |
+| were discharged | **<big>[[G1632\|εξεχύθησαν]]</big>** |
+| stones | **<big>[[G3037\|λίθοι]]</big>** |
+| holy | **<big>[[G0039\|άγιοι]]</big>** |
+| at | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] top | **<big>[[G0746\|αρχής]]</big>** |
+| of all | **<big>[[G3956\|πασών]]</big>** |
+| \[the\] streets, | **<big>[[G1841\|εξόδων]]</big>** |
 [[Lam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
 

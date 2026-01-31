@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִדָּה‎</span></big> **middâh** <small>*(mid-daw')*</small> ==**measure**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מַד‎</span><sup><small>[[H4055]]</small></sup></small>
+**<big><span class="ashebrew">‎מִדָּה‎</span></big>** **middâh** <small>*(mid-daw')*</small> ==**measure**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4055|‎מַד‎]]</big>**</small>
 
 $\quad$ garment, measure(-ing, meteyard, piece, size, (great) stature, tribute, wide.
 - properly, ***extension***, i.e. ***height*** or ***breadth***
@@ -14,4 +14,4 @@ $\quad$ **1c)** measured portion, extent
 $\quad$ **1d)** garment
 **2)** (BDB) tribute
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀριθμός</span><sup><small>[[G0706]]</small></sup> · <span class="asgreek">διάστημα</span><sup><small>[[G1292]]</small></sup> · <span class="asgreek">ἔνδυμα</span><sup><small>[[G1742]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">μέτρον</span><sup><small>[[G3358]]</small></sup> · <span class="asgreek">ὑψηλός</span><sup><small>[[G5308]]</small></sup> · <span class="asgreek">φόρος</span><sup><small>[[G5411]]</small></sup>
+<small>See Greek: </small>**<big>[[G0706|ἀριθμός]]</big>** · **<big>[[G1292|διάστημα]]</big>** · **<big>[[G1742|ἔνδυμα]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G3358|μέτρον]]</big>** · **<big>[[G5308|ὑψηλός]]</big>** · **<big>[[G5411|φόρος]]</big>**

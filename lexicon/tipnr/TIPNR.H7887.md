@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Shiloh</span> was an important Israelite sanctuary and assembly point during the period of the judges, where the tabernacle was set up and the land was allotted to the tribes \(Josh. 18:1, 8-10; 19:51; 21:2; 22:9, 12; Judg. 18:31; 21:12, 19, 21; 1 Sam. 1:3, 9, 24; 2:14; 3:21; 4:3, 4, 12; 14:3; 1 Ki. 2:27; 14:2, 4; Ps. 78:60; Jer. 7:12, 14; 26:6, 9; 41:5\).
 - A location first mentioned at [[Josh.18.1|Jos.18.1]]; 
-- referred to as Shiloh<[[H7887]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>לו</span>ֹ\), or Shilonite<[[H7888]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Shiloh **<big>[[H7887|שִׁילֹה]]</big>**, or Shilonite **<big>[[H7888|שִׁילוֹנִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.05570050712985,35.28952869712683&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,6 +16,6 @@ Shiloh's significance in the biblical narrative lies in its role as a religious 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shiloh | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>לו</span>ֹ](H7887) <small>*Hebrew*</small> | 32x | [[Jos.18.1] ... [Jer.41.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shiloh\*\|reference=Jos.18.1;Jos.18.8;Jos.18.9;Jos.18.10;Jos.19.51;Jos.21.2;Jos.22.9;Jos.22.12;Jdg.18.31;Jdg.21.12;Jdg.21.19;Jdg.21.21;Jdg.21.21;1Sa.1.3;1Sa.1.9;1Sa.1.24;1Sa.2.14;1Sa.3.21;1Sa.3.21;1Sa.4.3;1Sa.4.4;1Sa.4.12;1Sa.14.3;1Ki.2.27;1Ki.14.2;1Ki.14.4;Psa.78.60;Jer.7.12;Jer.7.14;Jer.26.6;Jer.26.9;Jer.41.5) |
-| Shilonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H7888) <small>*Hebrew*</small> | 6x | [[1Ki.11.29] ... [2Ch.10.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shilonite\*\|reference=1Ki.11.29;1Ki.12.15;1Ki.15.29;1Ch.9.5;2Ch.9.29;2Ch.10.15) |
-All Strong's for **Shiloh**: \[[[H7887]]\] \[[[H7888]]\]
+| Shiloh | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>לו</span>ֹ](H7887) | 32x | [[Jos.18.1] ... [Jer.41.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shiloh\*\|reference=Jos.18.1;Jos.18.8;Jos.18.9;Jos.18.10;Jos.19.51;Jos.21.2;Jos.22.9;Jos.22.12;Jdg.18.31;Jdg.21.12;Jdg.21.19;Jdg.21.21;Jdg.21.21;1Sa.1.3;1Sa.1.9;1Sa.1.24;1Sa.2.14;1Sa.3.21;1Sa.3.21;1Sa.4.3;1Sa.4.4;1Sa.4.12;1Sa.14.3;1Ki.2.27;1Ki.14.2;1Ki.14.4;Psa.78.60;Jer.7.12;Jer.7.14;Jer.26.6;Jer.26.9;Jer.41.5) |
+| Shilonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>יל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H7888) | 6x | [[1Ki.11.29] ... [2Ch.10.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shilonite\*\|reference=1Ki.11.29;1Ki.12.15;1Ki.15.29;1Ch.9.5;2Ch.9.29;2Ch.10.15) |
+All entries for **Shiloh**:  **<big>[[H7887|שִׁילֹה]]</big>** ☩  **<big>[[H7888|שִׁילוֹנִי]]</big>**

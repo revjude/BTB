@@ -7,21 +7,21 @@ Yet let no man strive, nor reprove another: for thy people [are] as they that st
 But let no man contend; let no man offer reproof; for your people are like those who contend with a priest.<small><sub>**MT:**</sub></small>
 [[Hos.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.3|<< Hosea 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.5|Hosea 4:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| no | <big><span class="asgreek">μηθείς</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| one | <big><span class="asgreek">μήτε</span></big> <sup><small><small>[[G3383]]</small></small></sup> |
-| should adjudicate, | <big><span class="asgreek">δικάζηται</span></big> <sup><small><small>[[G6927]]</small></small></sup> |
-| nor | <big><span class="asgreek">μήτε</span></big> <sup><small><small>[[G3383]]</small></small></sup> |
-| reprove | <big><span class="asgreek">ελέγχη</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
-| should any one | <big><span class="asgreek">μηθείς</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| disputing; | <big><span class="asgreek">αντιλεγόμενος</span></big> <sup><small><small>[[G0483]]</small></small></sup> |
+| so that | **<big>[[G3704\|όπως]]</big>** |
+| no | **<big>[[G3367\|μηθείς]]</big>** |
+| one | **<big>[[G3383\|μήτε]]</big>** |
+| should adjudicate, | **<big>[[G6927\|δικάζηται]]</big>** |
+| nor | **<big>[[G3383\|μήτε]]</big>** |
+| reprove | **<big>[[G1651\|ελέγχη]]</big>** |
+| should any one | **<big>[[G3367\|μηθείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| but | **<big>[[G1161\|δε]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| are as | **<big>[[G5613\|ως]]</big>** |
+| a priest | **<big>[[G2409\|ιερεύς]]</big>** |
+| disputing; | **<big>[[G0483\|αντιλεγόμενος]]</big>** |
 [[Hos.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.3|<< Hosea 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.5|Hosea 4:5 >>]]</td></tr></table>
 
 

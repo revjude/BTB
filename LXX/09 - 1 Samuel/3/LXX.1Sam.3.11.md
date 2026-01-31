@@ -7,27 +7,27 @@ And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both 
 Then the LORD said to Samuel, “I am about to do something in Israel at which the ears of all who hear it will tingle.<small><sub>**MT:**</sub></small>
 [[1Sam.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.10|<< 1 Samuel 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.12|1 Samuel 3:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Samuel, | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| perform | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">ρήματά</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| so that | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| every one | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| hearing | <big><span class="asgreek">ακούοντος</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it shall sound | <big><span class="asgreek">ηχήσει</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
-| in both | <big><span class="asgreek">αμφότερα</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his ears. | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Samuel, | **<big>[[G4545\|Σαμουήλ]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| perform | **<big>[[G4160\|ποιώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my words | **<big>[[G4487\|ρήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| so that | **<big>[[G5620\|ώστε]]</big>** |
+| every one | **<big>[[G3956\|παντός]]</big>** |
+| hearing | **<big>[[G0191\|ακούοντος]]</big>** |
+| them, | **<big>[[G1473\|αυτά]]</big>** |
+| it shall sound | **<big>[[G2278\|ηχήσει]]</big>** |
+| in both | **<big>[[G0297\|αμφότερα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of his ears. | **<big>[[G3775\|ώτα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[1Sam.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.10|<< 1 Samuel 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.12|1 Samuel 3:12 >>]]</td></tr></table>
 
 

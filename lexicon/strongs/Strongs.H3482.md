@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשְׂרְאֵלִית‎</span></big> **Yisrᵉʼêlîyth** <small>*(yis-reh-ay-leeth')*</small> ==**Israelitess**==  <sup><small>[[TEHMC#N:N-F-PG|N:N-F-PG]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎יִשְׂרְאֵלִי‎</span><sup><small>[[H3481]]</small></sup></small>
+**<big><span class="ashebrew">‎יִשְׂרְאֵלִית‎</span></big>** **Yisrᵉʼêlîyth** <small>*(yis-reh-ay-leeth')*</small> ==**Israelitess**==  <sup><small>[[TEHMC#N:N-F-PG|N:N-F-PG]]</small></sup> 
+<small>feminine of **<big>[[H3481|‎יִשְׂרְאֵלִי‎]]</big>**</small>
 
 $\quad$ Israelitish.
 - § Israelitess = *see Israel "God prevails"*

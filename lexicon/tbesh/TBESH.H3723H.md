@@ -1,1 +1,0 @@
-<span class="ashebrew">‎כָּפָר‎</span> <small>***(ka.phar)***</small> ==**village**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

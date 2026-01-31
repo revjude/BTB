@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בִּירָנִית‎</span></big> **bîyrânîyth** <small>*(bee-raw-neeth')*</small> ==**fortress**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎בִּירָה‎</span><sup><small>[[H1002]]</small></sup></small>
+**<big><span class="ashebrew">‎בִּירָנִית‎</span></big>** **bîyrânîyth** <small>*(bee-raw-neeth')*</small> ==**fortress**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1002|‎בִּירָה‎]]</big>**</small>
 
 $\quad$ castle.
 - ***a fortress***

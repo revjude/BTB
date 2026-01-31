@@ -7,31 +7,31 @@ Should we again break thy commandments, and join in affinity with the people of 
 shall we again break Your commandments and intermarry with the peoples who commit these abominations? Would You not become so angry with us as to wipe us out, leaving no remnant or survivor?<small><sub>**MT:**</sub></small>
 [[Ezra.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.13|<< Ezra 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.15|Ezra 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we turned | <big><span class="asgreek">επεστρέψαμεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| to efface | <big><span class="asgreek">διασκεδάσαι</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| allied by marriage | <big><span class="asgreek">επιγαμβρεύσαι</span></big> <sup><small><small>[[G1918]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">λαοίς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these lands. | <big><span class="asgreek">γαιών</span></big> <sup><small><small>[[G6710]]</small></small></sup> <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be provoked | <big><span class="asgreek">παροξυνθής</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| consumption, | <big><span class="asgreek">συντελείας</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| \[so that\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| there should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[one\] left over | <big><span class="asgreek">εγκατάλειμμα</span></big> <sup><small><small>[[G7010]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| preserved \[to us\]. | <big><span class="asgreek">διασωζόμενον</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| we turned | **<big>[[G1994\|επεστρέψαμεν]]</big>** |
+| to efface | **<big>[[G6876\|διασκεδάσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your commandments, | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| allied by marriage | **<big>[[G1918\|επιγαμβρεύσαι]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| peoples | **<big>[[G2992\|λαοίς]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| these lands. | **<big>[[G6710\|γαιών]]</big>** **<big>[[G1473\|τούτων]]</big>** |
+| You should not | **<big>[[G3361\|μη]]</big>** |
+| be provoked | **<big>[[G3947\|παροξυνθής]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| us | **<big>[[G1473\|ημίν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| consumption, | **<big>[[G4930\|συντελείας]]</big>** |
+| \[so that\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| there should not | **<big>[[G3361\|μη]]</big>** |
+| be | **<big>[[G1510\|είναι]]</big>** |
+| \[one\] left over | **<big>[[G7010\|εγκατάλειμμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| preserved \[to us\]. | **<big>[[G1295\|διασωζόμενον]]</big>** |
 [[Ezra.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.13|<< Ezra 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.15|Ezra 9:15 >>]]</td></tr></table>
 
 

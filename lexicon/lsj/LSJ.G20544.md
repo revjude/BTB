@@ -1,4 +1,4 @@
-spelling of: <small>[[G7754]]</small> 
+spelling of: <small>**<big>[[G7754|κάθαρσις]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==καθάρισις==</span>-<span class='asgreek'>ῐσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>,

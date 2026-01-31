@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎σιαγών‎</span></big> **siagṓn** <small>*(see-ag-one')*</small> ==**cheek**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+**<big><span class="asgreek">‎σιαγών‎</span></big>** **siagṓn** <small>*(see-ag-one')*</small> ==**cheek**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ cheek.

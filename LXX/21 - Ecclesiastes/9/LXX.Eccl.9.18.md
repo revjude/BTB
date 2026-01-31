@@ -7,19 +7,19 @@ Wisdom [is] better than weapons of war: but one sinner destroyeth much good.
 Wisdom is better than weapons of war, but one sinner destroys much good.<small><sub>**MT:**</sub></small>
 [[Eccl.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.17|<< Ecclesiastes 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.1|Ecclesiastes 10:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| Wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| weapons | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| of war; | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sinning | <big><span class="asgreek">αμαρτάνων</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| shall destroy | <big><span class="asgreek">απολέσει</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| goodness | <big><span class="asgreek">αγαθωσύνην</span></big> <sup><small><small>[[G0019]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλήν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| \[is\] good | **<big>[[G0018\|αγαθή]]</big>** |
+| Wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| over | **<big>[[G5228\|υπέρ]]</big>** |
+| weapons | **<big>[[G4632\|σκεύη]]</big>** |
+| of war; | **<big>[[G4171\|πολέμου]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| sinning | **<big>[[G0264\|αμαρτάνων]]</big>** |
+| one | **<big>[[G1520\|εις]]</big>** |
+| shall destroy | **<big>[[G0622\|απολέσει]]</big>** |
+| goodness | **<big>[[G0019\|αγαθωσύνην]]</big>** |
+| much | **<big>[[G4183\|πολλήν]]</big>** |
 [[Eccl.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.17|<< Ecclesiastes 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.1|Ecclesiastes 10:1 >>]]</td></tr></table>
 
 

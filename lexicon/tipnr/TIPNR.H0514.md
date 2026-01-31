@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Eltekeh</span>, a city in Dan's territory that was later given to the Levites.
 - A location first mentioned at [[Josh.19.44|Jos.19.44]]; 
-- referred to as Eltekeh or Elteke<[[H0514]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>א</span>\).
+- referred to as Eltekeh or Elteke **<big>[[H0514|אֶלְתְּקֵא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.869521,35.066880&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ Apart from its allocation to Dan and its designation as a Levitical city, no oth
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Eltekeh | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0514) <small>*Hebrew*</small> | 1x | [Jos.19.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eltekeh\*\|reference=Jos.19.44) |
-| Elteke | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0514) <small>*Hebrew*</small> | 1x | [Jos.21.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elteke\*\|reference=Jos.21.23) |
-All Strong's for **Eltekeh or Elteke**: \[[[H0514]]\]
+| Eltekeh | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0514) | 1x | [Jos.19.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eltekeh\*\|reference=Jos.19.44) |
+| Elteke | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>א</span>](H0514) | 1x | [Jos.21.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elteke\*\|reference=Jos.21.23) |
+All entries for **Eltekeh or Elteke**:  **<big>[[H0514|אֶלְתְּקֵא]]</big>**

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">βραχίων</span></span>, <span class="asgreek">-ὀνος, ὁ</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX, <span class="asgreek">β. Κυρίου</span>, freq. for <span class="ashebrew">זְרוֹעַ יהוָֹה</span> <small><sup>[[H2220]]</sup></small><small><sup>[[H3068]]</sup></small> ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">βραχίων</span></span>, <span class="asgreek">-ὀνος, ὁ</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX, <span class="asgreek">β. Κυρίου</span>, freq. for **<big>[[H2220|זְרוֹעַ]]</big>** **<big>[[H3068|יהוָֹה]]</big>** ;\]</span> </span>
 <span class="asitalic">the arm</span>; as in OT, <span class="asgreek">β. Κυρίου</span>, metaph., for the Divine power: [[Luke.1.51|Lk 1:51]], [[John.12.38|Jo 12:38]] <span class="assuperscript">(LXX)</span>, [[Acts.13.17|Ac 13:17]].†
 
 **Abbott-Smith References**

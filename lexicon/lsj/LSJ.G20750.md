@@ -1,4 +1,4 @@
-spelling of: <small>[[G3429]]</small> 
+spelling of: <small>**<big>[[G3429|μοιχάω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==μοιχαίνω==</span>-<span class='asgreek'>αίνω</span></b>, 

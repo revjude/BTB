@@ -7,23 +7,23 @@ And wine [that] maketh glad the heart of man, [and] oil to make [his] face to sh
 wine that gladdens the heart of man, oil that makes his face to shine, and bread that sustains his heart.<small><sub>**MT:**</sub></small>
 [[Ps.104.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.14|<< Psalm 104:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.16|Psalm 104:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| makes glad | <big><span class="asgreek">ευφραίνει</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of man; | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| happy | <big><span class="asgreek">ιλαρύναι</span></big> <sup><small><small>[[G7718]]</small></small></sup> |
-| \[his\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| olive oil; | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bread | <big><span class="asgreek">άρτος</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| supports | <big><span class="asgreek">στήριζει</span></big> <sup><small><small>[[G4741]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine | **<big>[[G3631\|οίνος]]</big>** |
+| makes glad | **<big>[[G2165\|ευφραίνει]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| of man; | **<big>[[G0444\|ανθρώπου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| happy | **<big>[[G7718\|ιλαρύναι]]</big>** |
+| \[his\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| olive oil; | **<big>[[G1637\|ελαίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bread | **<big>[[G0740\|άρτος]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| supports | **<big>[[G4741\|στήριζει]]</big>** |
 [[Ps.104.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.14|<< Psalm 104:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.16|Psalm 104:16 >>]]</td></tr></table>
 
 

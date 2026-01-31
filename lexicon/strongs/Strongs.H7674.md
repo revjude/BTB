@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁבֶת‎</span></big> **shebeth** <small>*(sheh'-beth)*</small> ==**cessation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁבַת‎</span><sup><small>[[H7673]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁבֶת‎</span></big>** **shebeth** <small>*(sheh'-beth)*</small> ==**cessation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7673|‎שָׁבַת‎]]</big>**</small>
 
 $\quad$ cease, sit still, loss of time.
 - ***rest***, ***interruption***, ***cessation***

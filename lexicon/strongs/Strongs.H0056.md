@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָבַל‎</span></big> **ʼâbal** <small>*(aw-bal')*</small> ==**to mourn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָבַל‎</span></big>** **ʼâbal** <small>*(aw-bal')*</small> ==**to mourn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ lament, mourn.
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Hithpael)
 $\quad$ $\quad$ **1c1)** to mourn
 $\quad$ $\quad$ **1c2)** play the mourner
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θρηνέω</span><sup><small>[[G2354]]</small></sup> · <span class="asgreek">ἰδού</span><sup><small>[[G2400]]</small></sup> · <span class="asgreek">πενθέω</span><sup><small>[[G3996]]</small></sup> · <span class="asgreek">πλήν</span><sup><small>[[G4133]]</small></sup> · <span class="asgreek">στενάζω</span><sup><small>[[G4727]]</small></sup>
+<small>See Greek: </small>**<big>[[G2354|θρηνέω]]</big>** · **<big>[[G2400|ἰδού]]</big>** · **<big>[[G3996|πενθέω]]</big>** · **<big>[[G4133|πλήν]]</big>** · **<big>[[G4727|στενάζω]]</big>**

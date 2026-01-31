@@ -7,26 +7,26 @@ To hearken to the words of my servants the prophets, whom I sent unto you, both 
 and if you do not listen to the words of My servants the prophets, whom I have sent you again and again even though you did not listen,<small><sub>**MT:**</sub></small>
 [[Jer.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.4|<< Jeremiah 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.6|Jeremiah 26:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| to listen to | <big><span class="asgreek">εισακούειν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγων</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my servants | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| sent | <big><span class="asgreek">αποστέλλω</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at dawn, | <big><span class="asgreek">όρθρου</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
-| (for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I sent, | <big><span class="asgreek">απέστειλα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you hearkened not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισηκούσατε</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| me;) | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to listen to | **<big>[[G1522\|εισακούειν]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| words | **<big>[[G3056\|λόγων]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my servants | **<big>[[G3816\|παίδων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| prophets | **<big>[[G4396\|προφητών]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| sent | **<big>[[G0649\|αποστέλλω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| at dawn, | **<big>[[G3722\|όρθρου]]</big>** |
+| (for | **<big>[[G2532\|και]]</big>** |
+| I sent, | **<big>[[G0649\|απέστειλα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you hearkened not to | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1522\|εισηκούσατε]]</big>** |
+| me;) | **<big>[[G1473\|μου]]</big>** |
 [[Jer.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.4|<< Jeremiah 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.6|Jeremiah 26:6 >>]]</td></tr></table>
 
 

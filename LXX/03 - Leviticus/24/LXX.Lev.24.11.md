@@ -7,36 +7,36 @@ And the Israelitish woman’s son blasphemed the name [of the LORD], and cursed.
 The son of the Israelite woman blasphemed the Name with a curse. So they brought him to Moses. (His mother’s name was Shelomith daughter of Dibri, of the tribe of Dan.)<small><sub>**MT:**</sub></small>
 [[Lev.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.10|<< Leviticus 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.12|Leviticus 24:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| named | <big><span class="asgreek">επονομάσας</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Israelitish | <big><span class="asgreek">Ισραηλίτιδος</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name -- | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| he cursed. | <big><span class="asgreek">κατηρασατο</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his mother \[was\] | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Shelomith, | <big><span class="asgreek">Σαλωμίθ</span></big> <sup><small><small>[[H8019b]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Dibri | <big><span class="asgreek">Δαβρει</span></big> <sup><small><small>[[H1704]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Dan. | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| named | **<big>[[G2028\|επονομάσας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| woman | **<big>[[G1135\|γυναικός]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Israelitish | **<big>[[G2474\|Ισραηλίτιδος]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name -- | **<big>[[G3686\|όνομα]]</big>** |
+| he cursed. | **<big>[[G2672\|κατηρασατο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they led | **<big>[[G0071\|ήγαγον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his mother \[was\] | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Shelomith, | **<big>[[H8019b\|Σαλωμίθ]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Dibri | **<big>[[H1704\|Δαβρει]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tribe | **<big>[[G5443\|φυλής]]</big>** |
+| of Dan. | **<big>[[H1835\|Δαν]]</big>** |
 [[Lev.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.10|<< Leviticus 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.12|Leviticus 24:12 >>]]</td></tr></table>
 
 

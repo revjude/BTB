@@ -6,15 +6,15 @@ at the scent of water it will bud and put forth twigs like a sapling.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.8|<< Job 14:8]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.10|Job 14:10 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| from [the] scent of  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>רֵ֣יחַ </big></span><small><small><sup>[[H7381]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Rei.ach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| water  | <span class="ashebrew"><big>מַ֣יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will show buds  | <span class="ashebrew"><big>יַפְרִ֑חַ </big></span><small><small><sup>[[H6524A]]</sup></small></small> &#8207;| yaf.Ri.ach <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it will produce  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָשָׂ֖ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Sah <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| shoot[s]  | <span class="ashebrew"><big>קָצִ֣יר </big></span><small><small><sup>[[H7105B]]</sup></small></small> &#8207;| ka.Tzir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like  | <span class="ashebrew"><big>כְּמוֹ </big></span><small><small><sup>[[H3644G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.mov- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a plant  | <span class="ashebrew"><big>נָֽטַע </big></span><small><small><sup>[[H5194]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.ta' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] scent of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7381\|רֵ֣יחַ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will show buds  |**<big>&#8207;[[H6524A\|יַפְרִ֑חַ]]&#8207; </big>**| yaf.Ri.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will produce  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשָׂ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shoot[s]  |**<big>&#8207;[[H7105B\|קָצִ֣יר]]&#8207; </big>**| ka.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  |**<big>&#8207;[[H3644G\|כְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a plant  |**<big>&#8207;[[H5194\|נָֽטַע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.ta'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.8|<< Job 14:8]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.10|Job 14:10 >>]]</td></tr></table>
 
 

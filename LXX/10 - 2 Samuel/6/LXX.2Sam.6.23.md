@@ -7,21 +7,21 @@ Therefore Michal the daughter of Saul had no child unto the day of her death.
 And Michal the daughter of Saul had no children to the day of her death.<small><sub>**MT:**</sub></small>
 [[2Sam.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.22|<< 2 Samuel 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.1|2 Samuel 7:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Michal | <big><span class="asgreek">Μελχόλ</span></big> <sup><small><small>[[H4324]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατρί</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| have | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her dying. | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| Michal | **<big>[[H4324\|Μελχόλ]]</big>** |
+| daughter | **<big>[[G2364\|θυγατρί]]</big>** |
+| of Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| have | **<big>[[G1096\|εγένετο]]</big>** |
+| a child | **<big>[[G3813\|παιδίον]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| day | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of her dying. | **<big>[[G0599\|αποθανείν]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
 [[2Sam.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.22|<< 2 Samuel 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.1|2 Samuel 7:1 >>]]</td></tr></table>
 
 

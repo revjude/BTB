@@ -6,15 +6,15 @@ If you are wise, you are wise to your own advantage; but if you scoff, you alone
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you are wise  | <span class="ashebrew"><big>חָ֭כַמְתָּ </big></span><small><small><sup>[[H2449]]</sup></small></small> &#8207;| Cha.kham.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you are wise  | <span class="ashebrew"><big>חָכַ֣מְתָּ </big></span><small><small><sup>[[H2449]]</sup></small></small> &#8207;| cha.Kham.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for yourself  | <span class="ashebrew"><big>לָּ֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| La <small><sup>[[HR]]</sup></small> kh <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you mock  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>לַ֗צְתָּ </big></span><small><small><sup>[[H3887]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> Latz.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to alone you  | <span class="ashebrew"><big>לְֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בַדְּ </big></span><small><small><sup>[[H0905H]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> va.de. <small><sup>[[HNcmsc]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will bear [it]  | <span class="ashebrew"><big>תִשָּֽׂא </big></span><small><small><sup>[[H5375H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ti.Sa' <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you are wise  |**<big>&#8207;[[H2449\|חָ֭כַמְתָּ]]&#8207; </big>**| Cha.kham.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you are wise  |**<big>&#8207;[[H2449\|חָכַ֣מְתָּ]]&#8207; </big>**| cha.Kham.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for yourself  |**<big>&#8207;[[H9005\|לָּ֑]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you mock  |**<big>&#8207;[[H9001\|וְ֝]]&#8207;&#8207;[[H3887\|לַ֗צְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Latz.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to alone you  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H0905H\|בַדְּ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bear [it]  |**<big>&#8207;[[H5375H\|תִשָּֽׂא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 
 

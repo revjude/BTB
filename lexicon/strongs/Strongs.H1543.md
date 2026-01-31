@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גֻּלָּה‎</span></big> **gullâh** <small>*(gool-law')*</small> ==**bowl**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine from <span class="ashebrew">‎גָּלַל‎</span><sup><small>[[H1556]]</small></sup></small>
+**<big><span class="ashebrew">‎גֻּלָּה‎</span></big>** **gullâh** <small>*(gool-law')*</small> ==**bowl**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine from **<big>[[H1556|‎גָּלַל‎]]</big>**</small>
 
 $\quad$ bowl, pommel, spring.
 - ***a fountain***, ***bowl*** or ***globe*** (all as round)

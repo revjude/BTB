@@ -7,41 +7,41 @@ And the other woman said, Nay; but the living [is] my son, and the dead [is] thy
 “No,” said the other woman, “the living one is my son and the dead one is your son.” But the first woman insisted, “No, the dead one is yours and the living one is mine.” So they argued before the king.<small><sub>**MT:**</sub></small>
 [[1Kgs.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.21|<< 1 Kings 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.23|1 Kings 3:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other | <big><span class="asgreek">ετέρα</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| Not \[so\], | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| for | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living, | <big><span class="asgreek">ζων</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| your son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having died. | <big><span class="asgreek">τεθνηκώς</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Not \[so\], | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having died, | <big><span class="asgreek">τενηκώς</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living. | <big><span class="asgreek">ζων</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| other | **<big>[[G2087\|ετέρα]]</big>** |
+| Not \[so\], | **<big>[[G3780\|ουχί]]</big>** |
+| for | **<big>[[G0235\|αλλά]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] the one | **<big>[[G3588\|ο]]</big>** |
+| living, | **<big>[[G2198\|ζων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| your son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is\] the one | **<big>[[G3588\|ο]]</big>** |
+| having died. | **<big>[[G2348\|τεθνηκώς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she | **<big>[[G1473\|αυτή]]</big>** |
+| said, | **<big>[[G2036\|είπεν]]</big>** |
+| Not \[so\], | **<big>[[G3780\|ουχί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[is\] the one | **<big>[[G3588\|ο]]</big>** |
+| having died, | **<big>[[G2348\|τενηκώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[is\] the one | **<big>[[G3588\|ο]]</big>** |
+| living. | **<big>[[G2198\|ζων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they spoke | **<big>[[G2980\|ελάλησαν]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
 [[1Kgs.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.21|<< 1 Kings 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.23|1 Kings 3:23 >>]]</td></tr></table>
 
 

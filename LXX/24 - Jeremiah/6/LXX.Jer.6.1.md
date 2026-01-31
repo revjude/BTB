@@ -10,34 +10,34 @@ O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusal
 “Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction.<small><sub>**MT:**</sub></small>
 [[Jer.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Grow in strength, | <big><span class="asgreek">ενισχύσατε</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Tekoa | <big><span class="asgreek">Θεκουέ</span></big> <sup><small><small>[[H8621]]</small></small></sup> |
-| signify | <big><span class="asgreek">σημάνατε</span></big> <sup><small><small>[[G4591]]</small></small></sup> |
-| by trumpet! | <big><span class="asgreek">σάλπιγγι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">υπερ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| Beth-haccerem | <big><span class="asgreek">Βηθαχάρμα</span></big> <sup><small><small>[[H1021]]</small></small></sup> |
-| lift | <big><span class="asgreek">άρατε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| a sign! | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| bad \[things\] | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| look | <big><span class="asgreek">εκκέκυφεν</span></big> <sup><small><small>[[G7107]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| destruction | <big><span class="asgreek">συντριβή</span></big> <sup><small><small>[[G9340]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| is happening. | <big><span class="asgreek">γινεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| Grow in strength, | **<big>[[G1765\|ενισχύσατε]]</big>** |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Jerusalem! | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Tekoa | **<big>[[H8621\|Θεκουέ]]</big>** |
+| signify | **<big>[[G4591\|σημάνατε]]</big>** |
+| by trumpet! | **<big>[[G4536\|σάλπιγγι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G5228\|υπερ]]</big>** |
+| Beth-haccerem | **<big>[[H1021\|Βηθαχάρμα]]</big>** |
+| lift | **<big>[[G0142\|άρατε]]</big>** |
+| a sign! | **<big>[[G4592\|σημείον]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| bad \[things\] | **<big>[[G2556\|κακά]]</big>** |
+| look | **<big>[[G7107\|εκκέκυφεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north, | **<big>[[G1005\|βορρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| destruction | **<big>[[G9340\|συντριβή]]</big>** |
+| great | **<big>[[G3173\|μεγάλη]]</big>** |
+| is happening. | **<big>[[G1096\|γινεται]]</big>** |
 [[Jer.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 
 

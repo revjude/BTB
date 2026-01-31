@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּלַטְיָה‎</span></big> **Pᵉlaṭyâh** <small>*(pel-at-yaw')*</small> ==**Pelatiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">פְּלַטְיָהוּ</span> **Pᵉlaṭyâhûw** <small>*(pel-atyaw'-hoo)*</small>; from <span class="ashebrew">‎פָּלַט‎</span><sup><small>[[H6403]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has delivered</small>
+**<big><span class="ashebrew">‎פְּלַטְיָה‎</span></big>** **Pᵉlaṭyâh** <small>*(pel-at-yaw')*</small> ==**Pelatiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">פְּלַטְיָהוּ</span></big>** **Pᵉlaṭyâhûw** <small>*(pel-atyaw'-hoo)*</small>; from **<big>[[H6403|‎פָּלַט‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has delivered</small>
 
 $\quad$ Pelatiah.
 - § Pelatiah = *"Jehovah delivers"*

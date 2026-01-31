@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַבְרֵךְ‎</span></big> **ʼabrêk** <small>*(ab-rake')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אַבְרֵךְ‎</span></big>** **ʼabrêk** <small>*(ab-rake')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>probably an Egyptian word meaning</small>
 
 $\quad$ bow the knee.

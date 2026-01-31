@@ -10,20 +10,20 @@ Behold, the LORD’S hand is not shortened, that it cannot save; neither his ear
 Surely the arm of the LORD is not too short to save, nor His ear too dull to hear.<small><sub>**MT:**</sub></small>
 [[Isa.59.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.14|<< Isaiah 58:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.2|Isaiah 59:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[Is\] not | <big><span class="asgreek">μη ουκ</span></big> <sup><small><small>[[G3378]]</small></small></sup> |
-| strong | <big><span class="asgreek">ισχύει</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to deliver? | <big><span class="asgreek">σώσαι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| weighed down | <big><span class="asgreek">εβάρυνε</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to not listen? | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εισακούσαι</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| \[Is\] not | **<big>[[G3378\|μη ουκ]]</big>** |
+| strong | **<big>[[G2480\|ισχύει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to deliver? | **<big>[[G4982\|σώσαι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| weighed down | **<big>[[G0925\|εβάρυνε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his ear | **<big>[[G3775\|ους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to not listen? | **<big>[[G3361\|μη]]</big>** **<big>[[G1522\|εισακούσαι]]</big>** |
 [[Isa.59.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.14|<< Isaiah 58:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.2|Isaiah 59:2 >>]]</td></tr></table>
 
 

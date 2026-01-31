@@ -10,20 +10,20 @@ You have taken along Sakkuth your king and Kaiwan your star god, the idols you m
 > $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will lift up  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נְשָׂאתֶ֗ם </big></span><small><small><sup>[[H5375G]]</sup></small></small> &#8207;| u. <small><sup>[[Hc]]</sup></small> ne.sa.Tem <small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| 'et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sikkuth  | <span class="ashebrew"><big>סִכּ֣וּת </big></span><small><small><sup>[[H5522]]</sup></small></small> &#8207;| si.Kut <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king your  | <span class="ashebrew"><big>מַלְכְּ </big></span><small><small><sup>[[H4428G]]</sup></small></small> <span class="ashebrew"><big>כֶ֔ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| mal.ke. <small><sup>[[HNcmsc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<obj.>  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0853]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'Et <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kiyyun  | <span class="ashebrew"><big>כִּיּ֣וּן </big></span><small><small><sup>[[H3594]]</sup></small></small> &#8207;| ki.Yun <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| images your  | <span class="ashebrew"><big>צַלְמֵי </big></span><small><small><sup>[[H6754]]</sup></small></small> <span class="ashebrew"><big>כֶ֑ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| tzal.mei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] star of  | <span class="ashebrew"><big>כּוֹכַב֙ </big></span><small><small><sup>[[H3556]]</sup></small></small> &#8207;| ko.Khav <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  | <span class="ashebrew"><big>אֱלֹ֣הֵי </big></span><small><small><sup>[[H0430J]]</sup></small></small> <span class="ashebrew"><big>כֶ֔ם </big></span><small><small><sup>[[H9026]]</sup></small></small> &#8207;| 'e.Lo.hei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you made  | <span class="ashebrew"><big>עֲשִׂיתֶ֖ם </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.si.Tem <small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for yourselves  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will lift up  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5375G\|נְשָׂאתֶ֗ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.sa.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sikkuth  |**<big>&#8207;[[H5522\|סִכּ֣וּת]]&#8207; </big>**| si.Kut<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king your  |**<big>&#8207;[[H4428G\|מַלְכְּ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| mal.ke.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kiyyun  |**<big>&#8207;[[H3594\|כִּיּ֣וּן]]&#8207; </big>**| ki.Yun<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| images your  |**<big>&#8207;[[H6754\|צַלְמֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| tzal.mei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] star of  |**<big>&#8207;[[H3556\|כּוֹכַב֙]]&#8207; </big>**| ko.Khav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430J\|אֱלֹ֣הֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'e.Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you made  |**<big>&#8207;[[H6213H\|עֲשִׂיתֶ֖ם]]&#8207; </big>**| 'a.si.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.25|<< Amos 5:25]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.27|Amos 5:27 >>]]</td></tr></table>
 
 

@@ -6,11 +6,11 @@ Mijamin, Maadiah, Bilgah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.4|<< Nehemiah 12:4]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.6|Nehemiah 12:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Mijamin  | <span class="ashebrew"><big>מִיָּמִ֥ין </big></span><small><small><sup>[[H4326I]]</sup></small></small> &#8207;| mi.ya.Min <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moadiah  | <span class="ashebrew"><big>מַֽעַדְיָ֖ה </big></span><small><small><sup>[[H4573]]</sup></small></small> &#8207;| ma.'ad.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bilgah  | <span class="ashebrew"><big>בִּלְגָּֽה </big></span><small><small><sup>[[H1083H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| bil.Gah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mijamin  |**<big>&#8207;[[H4326I\|מִיָּמִ֥ין]]&#8207; </big>**| mi.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moadiah  |**<big>&#8207;[[H4573\|מַֽעַדְיָ֖ה]]&#8207; </big>**| ma.'ad.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilgah  |**<big>&#8207;[[H1083H\|בִּלְגָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bil.Gah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.4|<< Nehemiah 12:4]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.6|Nehemiah 12:6 >>]]</td></tr></table>
 
 

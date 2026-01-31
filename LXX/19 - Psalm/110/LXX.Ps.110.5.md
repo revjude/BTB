@@ -11,16 +11,16 @@ The Lord is at Your right hand; He will crush kings in the day of His wrath.<sm
 > $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your right \[hand\] | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in pieces | <big><span class="asgreek">συνέθλασεν</span></big> <sup><small><small>[[G4917]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of his anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| at | **<big>[[G1537\|εκ]]</big>** |
+| your right \[hand\] | **<big>[[G1188\|δεξιών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in pieces | **<big>[[G4917\|συνέθλασεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of his anger | **<big>[[G3709\|οργής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| kings | **<big>[[G0935\|βασιλείς]]</big>** |
 [[Ps.110.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.110.4|<< Psalm 110:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.6|Psalm 110:6 >>]]</td></tr></table>
 
 

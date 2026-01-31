@@ -7,15 +7,15 @@ Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?
 Can you bind the chains of the Pleiades or loosen the belt of Orion?<small><sub>**MT:**</sub></small>
 [[Job.38.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.30|<< Job 38:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.32|Job 38:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And do you perceive | <big><span class="asgreek">συνήκας</span></big> <sup><small><small>[[G4920]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] bond | <big><span class="asgreek">δεσμόν</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
-| of Pleiades; | <big><span class="asgreek">Πλειάδος</span></big> <sup><small><small>[[H3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] barrier | <big><span class="asgreek">φραγμόν</span></big> <sup><small><small>[[G5418]]</small></small></sup> |
-| of Orion | <big><span class="asgreek">Ωρίωνος</span></big> <sup><small><small>[[H3685]]</small></small></sup> |
-| did you open | <big><span class="asgreek">ήνοιξας</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| And do you perceive | **<big>[[G4920\|συνήκας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] bond | **<big>[[G1199\|δεσμόν]]</big>** |
+| of Pleiades; | **<big>[[H3598\|Πλειάδος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] barrier | **<big>[[G5418\|φραγμόν]]</big>** |
+| of Orion | **<big>[[H3685\|Ωρίωνος]]</big>** |
+| did you open | **<big>[[G0455\|ήνοιξας]]</big>** |
 [[Job.38.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.30|<< Job 38:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.32|Job 38:32 >>]]</td></tr></table>
 
 

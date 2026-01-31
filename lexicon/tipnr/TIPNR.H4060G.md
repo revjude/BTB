@@ -4,9 +4,9 @@ Giant living at the time of United Monarchy
 
 A <span class='tipnrhighlight'>huge man</span> from Gath, possibly a descendant of the Rephaim, was killed by David's warriors during a battle with the Philistines.
 - A gigantic man living at the time of United Monarchy, first mentioned at [[2Sam.21.20|2Sa.21.20]]; 
-- only referred to as huge\_man<[[H4060G]]> \(<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Rapha<[[H7497A]]>; 
-- a brother of Goliath<[[H1555]]>, Ishbi-benob<[[H3430]]>, Saph<[[H5593]]>, Lahmi<[[H3902]]>.
+- only referred to as huge\_man **<big>[[H4060|מִדָּה]]</big>**; 
+-  son of Rapha **<big>[[H7497|רָפָא]]</big>**; 
+- a brother of Goliath **<big>[[H1555|גׇּלְיַת]]</big>**, Ishbi-benob **<big>[[H3430|יִשְׁבּוֹ בְּנֹב]]</big>**, Saph **<big>[[H5593|סַף]]</big>**, Lahmi **<big>[[H3902|לַחְמִי]]</big>**.
 
 The Bible mentions a huge man from Gath in [[2Sam.21.20|2 Samuel 21:20]] and [[1Chr.20.6|1 Chronicles 20:6]]. This man is not named but is described as having six fingers on each hand and six toes on each foot, a total of twenty-four digits. 
 
@@ -20,8 +20,8 @@ The defeat of the huge man from Gath demonstrates the bravery and skill of David
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| great stature | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H4060G) <small>*Hebrew*</small> | 2x | [[2Sa.21.20] & [1Ch.20.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="great\*\|reference=2Sa.21.20;1Ch.20.6) |
-All Strong's for **huge_man**: \[[[H4060G]]\]
+| great stature | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H4060G) | 2x | [[2Sa.21.20] & [1Ch.20.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="great\*\|reference=2Sa.21.20;1Ch.20.6) |
+All entries for **huge man**:  **<big>[[H4060|מִדָּה]]</big>**
 #### Related Profiles:
 - **[Rapha](H7497A)** (father)
 - **[Goliath](H1555)** (sibling)

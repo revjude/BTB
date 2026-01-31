@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jaareshiah</span> was a descendant of Benjamin through Jeroham \([[1Chr.8.27|1Ch.8.27]]\).
 - A man from the tribe of Benjamin living at the time of Divided Monarchy, only mentioned at [[1Chr.8.27|1Ch.8.27]]; 
-- only referred to as Jaareshiah<[[H3298]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Jeroham<[[H3395H]]>; 
-- a brother of Shamsherai<[[H8125]]>, Shehariah<[[H7841]]>, Athaliah<[[H6271H]]>, Elijah<[[H0452H]]> and Zichri<[[H2147J]]>.
+- only referred to as Jaareshiah **<big>[[H3298|יַעֲרֶשְׁיָה]]</big>**; 
+-  son of Jeroham **<big>[[H3395|יְרֹחָם]]</big>**; 
+- a brother of Shamsherai **<big>[[H8125|שַׁמְשְׁרַי]]</big>**, Shehariah **<big>[[H7841|שְׁחַרְיָה]]</big>**, Athaliah **<big>[[H6271|עֲתַלְיָה]]</big>**, Elijah **<big>[[H0452|אֵלִיָּה]]</big>** and Zichri **<big>[[H2147|זִכְרִי]]</big>**.
 
 Jaareshiah is mentioned briefly in a genealogy of the tribe of Benjamin in [[1Chr.8.27|1 Chronicles 8:27]]. He is listed as one of the sons of Jeroham, who was a descendant of Benjamin. 
 
@@ -16,8 +16,8 @@ No other details are provided about Jaareshiah's life, occupation, or role withi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaareshiah (KJV= Jaresiah) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3298) <small>*Hebrew*</small> | 1x | [1Ch.8.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaareshiah\*\|reference=1Ch.8.27) |
-All Strong's for **Jaareshiah**: \[[[H3298]]\]
+| Jaareshiah (KJV= Jaresiah) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3298) | 1x | [1Ch.8.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaareshiah\*\|reference=1Ch.8.27) |
+All entries for **Jaareshiah**:  **<big>[[H3298|יַעֲרֶשְׁיָה]]</big>**
 #### Related Profiles:
 - **[Jeroham](H3395H)** (father)
 - **[Shamsherai](H8125)** (sibling)

@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H0612]]</small>
-<small>Also see: [[H0612]]</small>
+<small>Aramaic form: **<big>[[H0612|אֵסוּר]]</big>**</small>
+<small>Also see: **<big>[[H0612|אֵסוּר]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎אָסַר‎</span>] **verb** ==tie, bind, imprison== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAkAIAAAAAAAP///yH5BAAAAAAALAAAAAAjACQAAAJfjI+py+0P4wOyBoCzjRlv2X2cJ0Ja2XQkulDWybiv2oaHnMKJfeOpuGLFfMIdsdhDDpUxpiLoNBw/Mhz0h/CcVtcaRQW2VsLk7PSpbbG6SHZRx4S35Wta3B6/RPd8RwEAOw==">, Assyrian <abbr title="transliteration"><u>***asâru***</u></abbr>, compare [[BDB#COT|COT]]<sup>Gloss</sup>, Aramaic <span class="bdbLangAramaic">‎אֲסַר‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAXAIAAAAAAAP///yH5BAAAAAAALAAAAAApABcAAAJejI+py+3vAJwL2GMzNTdIpnlcR2Vk9Y3iJp1g+qWT28hbQoN3ddv77vuxgsLZUGEaBXMvmekZwhQxl2TUQzyqttyZU5PEUnvQMhTBRJnX6LS6umqtcFnU1D3V5feOAgA7">, Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhXgASAIAAAAAAAP///yH5BAAAAAAALAAAAABeABIAAAK8jI+py+0Po1Sgzovzq7x1rwGBpZUHR1Kot0qtmbwMKooxPX+uDp98jvPRbLdUZEiEGBEyIG/VHEU3UVur+mMlDbpfkLtcPD8vr9lZFDKb2bRbShyH50hwUq4Kr7/dVF9PN2S3pya2VcTnR1Kmh3ZlRNZ4tBgZVzc48WgFSXmYqVgIB/SpuHnXSShqiGpXIznms2dpOtuKqZpnKdSWistZ6tpJK4j7JuO5Siwlu7kbatEMh8zYE3NSjZ3dUwAAOw==">) — 
 

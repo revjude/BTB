@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דָּתָן‎</span></big> **Dâthân** <small>*(daw-thawn')*</small> ==**Dathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎דָּתָן‎</span></big>** **Dâthân** <small>*(daw-thawn')*</small> ==**Dathan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Dathan.

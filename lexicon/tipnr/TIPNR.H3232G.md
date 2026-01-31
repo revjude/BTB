@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Imnah</span> was a son of Asher and the ancestor of the Imnite clan within the tribe of Asher.
 - A man from the tribe of Asher living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.17|Gen.46.17]]; 
-- referred to as Imnah or Imnite<[[H3232G]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Asher<[[H0836]]>; 
-- a brother of Ishvah<[[H3438]]>, Ishvi<[[H3440G]]>, Beriah<[[H1283G]]> and Serah<[[H8294]]>.
+- referred to as Imnah or Imnite **<big>[[H3232|יִמְנָה]]</big>**; 
+-  son of Asher **<big>[[H0836|אָשֵׁר]]</big>**; 
+- a brother of Ishvah **<big>[[H3438|יִשְׁוָה]]</big>**, Ishvi **<big>[[H3440|יִשְׁוִי]]</big>**, Beriah **<big>[[H1283|בְּרִיעָה]]</big>** and Serah **<big>[[H8294|שֶׂרַח]]</big>**.
 
 Imnah is mentioned in [[Gen.46.17|Genesis 46:17]], [[Num.26.44|Numbers 26:44]], and [[1Chr.7.30|1 Chronicles 7:30]] as one of the sons of Asher, who was one of the twelve sons of Israel \(or 'Jacob'\) \(Israel\). Asher was the founder of the tribe of Asher, one of the twelve tribes of Israel. 
 
@@ -22,9 +22,9 @@ These genealogical records in Genesis, Numbers, and Chronicles serve to establis
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Imnah (KJV= Jimnah, Jimna) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232G) <small>*Hebrew*</small> | 3x | [[Gen.46.17] ... [1Ch.7.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnah\*\|reference=Gen.46.17;Num.26.44;1Ch.7.30) |
-| Imnite | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232G) <small>*Hebrew*</small> | 1x | [Num.26.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnite\*\|reference=Num.26.44) |
-All Strong's for **Imnah**: \[[[H3232G]]\]
+| Imnah (KJV= Jimnah, Jimna) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232G) | 3x | [[Gen.46.17] ... [1Ch.7.30] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnah\*\|reference=Gen.46.17;Num.26.44;1Ch.7.30) |
+| Imnite | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232G) | 1x | [Num.26.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnite\*\|reference=Num.26.44) |
+All entries for **Imnah**:  **<big>[[H3232|יִמְנָה]]</big>**
 #### Related Profiles:
 - **[Asher](H0836)** (father)
 - **[Ishvah](H3438)** (sibling)

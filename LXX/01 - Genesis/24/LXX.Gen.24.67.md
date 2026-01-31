@@ -7,33 +7,33 @@ And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she 
 And Isaac brought her into the tent of his mother Sarah and took Rebekah as his wife. And Isaac loved her and was comforted after his mother’s death.<small><sub>**MT:**</sub></small>
 [[Gen.24.67|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.66|<< Genesis 24:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.1|Genesis 25:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his mother, | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Rebekah, | <big><span class="asgreek">Ρεβέκκαν</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wife. | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he loved | <big><span class="asgreek">ηγάπησεν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Isaac was comforted | <big><span class="asgreek">παρεκλήθη</span></big> <sup><small><small>[[G3870]]</small></small></sup> <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρρας</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his mother. | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| entered | **<big>[[G1525\|εισήλθε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Isaac | **<big>[[G2464\|Ισαάκ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house | **<big>[[G3624\|οίκον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his mother, | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Rebekah, | **<big>[[G4479\|Ρεβέκκαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she became | **<big>[[G1096\|εγένετο]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| wife. | **<big>[[G1135\|γυνή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he loved | **<big>[[G0025\|ηγάπησεν]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Isaac was comforted | **<big>[[G3870\|παρεκλήθη]]</big>** **<big>[[G2464\|Ισαάκ]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his mother. | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.24.67|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.66|<< Genesis 24:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.1|Genesis 25:1 >>]]</td></tr></table>
 
 

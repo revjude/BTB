@@ -7,33 +7,33 @@ And the LORD turned a mighty strong west wind, which took away the locusts, and 
 And the LORD changed the wind to a very strong west wind that carried off the locusts and blew them into the Red Sea. Not a single locust remained anywhere in Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.18|<< Exodus 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.20|Exodus 10:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> turned | <big><span class="asgreek">μετέβαλε</span></big> <sup><small><small>[[G3328]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| wind | <big><span class="asgreek">άνεμον</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| a vehement | <big><span class="asgreek">σφοδρόν</span></big> <sup><small><small>[[G9374]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it took up | <big><span class="asgreek">άνελαβε</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| locust, | <big><span class="asgreek">ακρίδα</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cast | <big><span class="asgreek">ενέβαλεν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| red | <big><span class="asgreek">ερυθράν</span></big> <sup><small><small>[[G2063]]</small></small></sup> |
-| sea. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was not left behind | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπελείφθη</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| locust | <big><span class="asgreek">ακρίς</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> turned | **<big>[[G3328\|μετέβαλε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| wind | **<big>[[G0417\|άνεμον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] sea | **<big>[[G2281\|θαλάσσης]]</big>** |
+| a vehement | **<big>[[G9374\|σφοδρόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it took up | **<big>[[G0353\|άνελαβε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| locust, | **<big>[[G0200\|ακρίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cast | **<big>[[G1685\|ενέβαλεν]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| red | **<big>[[G2063\|ερυθράν]]</big>** |
+| sea. | **<big>[[G2281\|θάλασσαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| there was not left behind | **<big>[[G3756\|ουχ]]</big>** **<big>[[G5275\|υπελείφθη]]</big>** |
+| locust | **<big>[[G0200\|ακρίς]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.18|<< Exodus 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.20|Exodus 10:20 >>]]</td></tr></table>
 
 

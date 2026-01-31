@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עָלֶמֶת‎</span></big> **ʻÂlemeth** <small>*(aw-leh'-meth)*</small> ==**Alemeth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלַם‎</span><sup><small>[[H5956]]</small></sup>; a covering</small>
+**<big><span class="ashebrew">‎עָלֶמֶת‎</span></big>** **ʻÂlemeth** <small>*(aw-leh'-meth)*</small> ==**Alemeth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5956|‎עָלַם‎]]</big>**; a covering</small>
 
 $\quad$ Alameth, Alemeth.
 - § Alameth or Alemeth = *"covering"*

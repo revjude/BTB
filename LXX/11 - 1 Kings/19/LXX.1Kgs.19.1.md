@@ -14,22 +14,22 @@ Now Ahab told Jezebel everything that Elijah had done and how he had killed all 
 > $\quad$ referenced by: [[Heb.11.35|Heb 11:35]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahab announced | <big><span class="asgreek">ανήγγειλεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jezebel | <big><span class="asgreek">Ιεζάβελ</span></big> <sup><small><small>[[G2403]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| Elijah did, | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| to kill | <big><span class="asgreek">απέκτεινε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword. | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ahab announced | **<big>[[G0312\|ανήγγειλεν]]</big>** **<big>[[H0256\|Αχαάβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| to Jezebel | **<big>[[G2403\|Ιεζάβελ]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| Elijah did, | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| to kill | **<big>[[G0615\|απέκτεινε]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets | **<big>[[G4396\|προφήτας]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword. | **<big>[[G4501\|ρομφαία]]</big>** |
 [[1Kgs.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.46|<< 1 Kings 18:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.2|1 Kings 19:2 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
 <span class="asgreek">ἐννενήκοντα</span> <small>***(ennenēkonta)***</small> ==**ninety**==  <sup><small>[[TEGMC#|]]</small></sup> 
-spelling of: <small>[[G1768]]</small> 
+spelling of: <small>**<big>[[G1768|ἐννενηκονταεννέα]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐννενήκοντα==</span></b>, <span class='asgreek'>οἱ</span>, <span class='asgreek'>αἱ</span>, <span class='asgreek'>τά</span>, 

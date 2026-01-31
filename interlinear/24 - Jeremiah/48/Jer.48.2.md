@@ -6,25 +6,25 @@ There is no longer praise for Moab; in Heshbon they devise evil against her: ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.1|<< Jeremiah 48:1]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.3|Jeremiah 48:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there not  | <span class="ashebrew"><big>אֵ֣ין </big></span><small><small><sup>[[H0369]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  | <span class="ashebrew"><big>עוֹד֮ </big></span><small><small><sup>[[H5750]]</sup></small></small> &#8207;| 'Od <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] [the] praise of  | <span class="ashebrew"><big>תְּהִלַּ֣ת </big></span><small><small><sup>[[H8416]]</sup></small></small> &#8207;| te.hi.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָב֒ </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Heshbon  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>חֶשְׁבּ֗וֹן </big></span><small><small><sup>[[H2809]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> chesh.Bon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people have planned  | <span class="ashebrew"><big>חָשְׁב֤וּ </big></span><small><small><sup>[[H2803I]]</sup></small></small> &#8207;| cha.she.Vu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on it  | <span class="ashebrew"><big>עָלֶ֙י </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הָ֙ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| 'a.Lei. <small><sup>[[HRd]]</sup></small> ha <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| calamity  | <span class="ashebrew"><big>רָעָ֔ה </big></span><small><small><sup>[[H7451C]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| come  | <span class="ashebrew"><big>לְכ֖וּ </big></span><small><small><sup>[[H1980N]]</sup></small></small> &#8207;| le.Khu <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and let us cut off it  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נַכְרִיתֶ֣ </big></span><small><small><sup>[[H3772I]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> nakh.ri.Te. <small><sup>[[HVhu1cp]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from a nation  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>גּ֑וֹי </big></span><small><small><sup>[[H1471A]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Goy <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Madmen  | <span class="ashebrew"><big>מַדְמֵ֣ן </big></span><small><small><sup>[[H4086]]</sup></small></small> &#8207;| mad.Men <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be silent  | <span class="ashebrew"><big>תִּדֹּ֔מִּי </big></span><small><small><sup>[[H1826H]]</sup></small></small> &#8207;| ti.Do.mi <small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after you  | <span class="ashebrew"><big>אַחֲרַ֖יִ </big></span><small><small><sup>[[H0310A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| 'a.cha.Ra.yi <small><sup>[[HAcmpc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will go  | <span class="ashebrew"><big>תֵּ֥לֶךְ </big></span><small><small><sup>[[H1980N]]</sup></small></small> &#8207;| Te.lekh <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sword  | <span class="ashebrew"><big>חָֽרֶב </big></span><small><small><sup>[[H2719]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.rev <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עוֹד֮]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] [the] praise of  |**<big>&#8207;[[H8416\|תְּהִלַּ֣ת]]&#8207; </big>**| te.hi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֒]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Heshbon  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2809\|חֶשְׁבּ֗וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people have planned  |**<big>&#8207;[[H2803I\|חָשְׁב֤וּ]]&#8207; </big>**| cha.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  |**<big>&#8207;[[H5921A\|עָלֶ֙י]]&#8207;&#8207;[[H9034\|הָ֙]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| calamity  |**<big>&#8207;[[H7451C\|רָעָ֔ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come  |**<big>&#8207;[[H1980N\|לְכ֖וּ]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let us cut off it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3772I\|נַכְרִיתֶ֣]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nakh.ri.Te.<small><sup>[[HVhu1cp]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a nation  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1471A\|גּ֑וֹי]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Madmen  |**<big>&#8207;[[H4086\|מַדְמֵ֣ן]]&#8207; </big>**| mad.Men<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be silent  |**<big>&#8207;[[H1826H\|תִּדֹּ֔מִּי]]&#8207; </big>**| ti.Do.mi<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after you  |**<big>&#8207;[[H0310A\|אַחֲרַ֖יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.cha.Ra.yi<small><sup>[[HAcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go  |**<big>&#8207;[[H1980N\|תֵּ֥לֶךְ]]&#8207; </big>**| Te.lekh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sword  |**<big>&#8207;[[H2719\|חָֽרֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.1|<< Jeremiah 48:1]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.3|Jeremiah 48:3 >>]]</td></tr></table>
 
 

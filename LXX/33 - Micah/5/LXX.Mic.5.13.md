@@ -7,25 +7,25 @@ Thy graven images also will I cut off, and thy standing images out of the midst 
 I will also cut off the carved images and sacred pillars from among you, so that you will no longer bow down to the work of your own hands.<small><sub>**MT:**</sub></small>
 [[Mic.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.12|<< Micah 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.14|Micah 5:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will utterly destroy | <big><span class="asgreek">εξολοθρεύσω</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your carved \[images\], | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your monuments | <big><span class="asgreek">στήλας</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your midst. | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκ έτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| should you | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do obeisance | <big><span class="asgreek">προσκυνησεις</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your hands. | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will utterly destroy | **<big>[[G1842\|εξολοθρεύσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your carved \[images\], | **<big>[[G6745\|γλυπτά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your monuments | **<big>[[G9171\|στήλας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| your midst. | **<big>[[G3319\|μέσου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| no longer | **<big>[[G3765\|ουκ έτι]]</big>** |
+| should you | **<big>[[G3361\|μη]]</big>** |
+| do obeisance | **<big>[[G4352\|προσκυνησεις]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| works | **<big>[[G2041\|έργοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of your hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Mic.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.12|<< Micah 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.14|Micah 5:14 >>]]</td></tr></table>
 
 

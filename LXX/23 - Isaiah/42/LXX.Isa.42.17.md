@@ -7,27 +7,27 @@ They shall be turned back, they shall be greatly ashamed, that trust in graven i
 But those who trust in idols and say to molten images, ‘You are our gods!’ will be turned back in utter shame.<small><sub>**MT:**</sub></small>
 [[Isa.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.16|<< Isaiah 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.18|Isaiah 42:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| were turned | <big><span class="asgreek">απεστράφησαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear. | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| You should be ashamed | <big><span class="asgreek">αισχύνθητε</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| with shame, | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| relying | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| carvings, | <big><span class="asgreek">γλυπτοίς</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saying | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| molten \[images\], | <big><span class="asgreek">χωνευτοίς</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
-| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are | <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| our gods. | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But they | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| were turned | **<big>[[G0654\|απεστράφησαν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear. | **<big>[[G3694\|οπίσω]]</big>** |
+| You should be ashamed | **<big>[[G0153\|αισχύνθητε]]</big>** |
+| with shame, | **<big>[[G0152\|αισχύνην]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| relying | **<big>[[G3982\|πεποιθότες]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| carvings, | **<big>[[G6745\|γλυπτοίς]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| saying | **<big>[[G3004\|λέγοντες]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| molten \[images\], | **<big>[[G9778\|χωνευτοίς]]</big>** |
+| You | **<big>[[G1473\|υμείς]]</big>** |
+| are | **<big>[[G1510\|εστέ]]</big>** |
+| our gods. | **<big>[[G2316\|θεοί]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Isa.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.16|<< Isaiah 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.18|Isaiah 42:18 >>]]</td></tr></table>
 
 

@@ -10,36 +10,36 @@ And in the fifth month, on the seventh [day] of the month, which [is] the ninete
 On the seventh day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.<small><sub>**MT:**</sub></small>
 [[2Kgs.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.7|<< 2 Kings 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.9|2 Kings 25:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fifth | <big><span class="asgreek">πέμπτω</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
-| \[the\] seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| this \[is\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[the\] nineteenth | <big><span class="asgreek">εννεακαιδέκατος</span></big> <sup><small><small>[[G7248]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reign | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| of Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| Nabuzar-adan, | <big><span class="asgreek">Ναβουζαρδάν</span></big> <sup><small><small>[[H5018]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief guard, | <big><span class="asgreek">αρχιμάγειρος</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστηκώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| in the presence | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| fifth | **<big>[[G3991\|πέμπτω]]</big>** |
+| \[the\] seventh | **<big>[[G1442\|εβδόμη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month, | **<big>[[G3376\|μηνός]]</big>** |
+| this \[is\] | **<big>[[G1473\|αυτός]]</big>** |
+| year | **<big>[[G1763\|ενιαυτός]]</big>** |
+| \[the\] nineteenth | **<big>[[G7248\|εννεακαιδέκατος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| reign | **<big>[[G0932\|βασιλείας]]</big>** |
+| of Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| came | **<big>[[G2064\|ήλθε]]</big>** |
+| Nabuzar-adan, | **<big>[[H5018\|Ναβουζαρδάν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief guard, | **<big>[[G6554\|αρχιμάγειρος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| standing | **<big>[[G2476\|εστηκώς]]</big>** |
+| in the presence | **<big>[[G1799\|ενώπιον]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Babylon, | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[2Kgs.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.7|<< 2 Kings 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.9|2 Kings 25:9 >>]]</td></tr></table>
 
 

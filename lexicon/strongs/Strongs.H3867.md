@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָוָה‎</span></big> **lâvâh** <small>*(law-vaw')*</small> ==**to join**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָוָה‎</span></big>** **lâvâh** <small>*(law-vaw')*</small> ==**to join**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ abide with, borrow(-er), cleave, join (self), lend(-er).
@@ -12,4 +12,4 @@ $\quad$ **1b)** (Niphal) to join oneself to, be joined unto
 $\quad$ **2a)** (Qal) to borrow
 $\quad$ **2b)** (Hiphil) to cause to borrow, lend to
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δανείζω</span><sup><small>[[G1155]]</small></sup> · <span class="asgreek">καταφεύγω</span><sup><small>[[G2703]]</small></sup> · <span class="asgreek">προστίθημι</span><sup><small>[[G4369]]</small></sup> · <span class="asgreek">προτίθεμαι</span><sup><small>[[G4388]]</small></sup> · <span class="asgreek">χράω</span><sup><small>[[G5531]]</small></sup>
+<small>See Greek: </small>**<big>[[G1155|δανείζω]]</big>** · **<big>[[G2703|καταφεύγω]]</big>** · **<big>[[G4369|προστίθημι]]</big>** · **<big>[[G4388|προτίθεμαι]]</big>** · **<big>[[G5531|χράω]]</big>**

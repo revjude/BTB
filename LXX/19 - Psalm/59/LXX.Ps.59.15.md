@@ -7,17 +7,17 @@ Let them wander up and down for meat, and grudge if they be not satisfied.
 They scavenge for food, and growl if they are not satisfied.<small><sub>**MT:**</sub></small>
 [[Ps.59.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.14|<< Psalm 59:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.16|Psalm 59:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall be dispersed | <big><span class="asgreek">διασκορπισθήσονται</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to eat, | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| but if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be filled, | <big><span class="asgreek">χορτασθώσι</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall grumble. | <big><span class="asgreek">γογγύσουσιν</span></big> <sup><small><small>[[G1111]]</small></small></sup> |
+| They | **<big>[[G1473\|αυτοί]]</big>** |
+| shall be dispersed | **<big>[[G1287\|διασκορπισθήσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to eat, | **<big>[[G2068\|φαγείν]]</big>** |
+| but if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| they should not | **<big>[[G3361\|μη]]</big>** |
+| be filled, | **<big>[[G5526\|χορτασθώσι]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| they shall grumble. | **<big>[[G1111\|γογγύσουσιν]]</big>** |
 [[Ps.59.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.14|<< Psalm 59:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.16|Psalm 59:16 >>]]</td></tr></table>
 
 

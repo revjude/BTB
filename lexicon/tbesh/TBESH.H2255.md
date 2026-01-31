@@ -1,3 +1,1 @@
-<span class="asaramaic">‎חֲבַל‎</span> <small>***(cha.val)***</small> ==**to destroy**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H2254B]]</small> 
-
+<small>Aramaic of:</small> <small>**<big>[[H2254B|חָבַל]]</big>**</small>

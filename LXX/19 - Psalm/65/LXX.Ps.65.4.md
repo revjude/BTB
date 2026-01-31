@@ -7,27 +7,27 @@ Blessed [is the man whom] thou choosest, and causest to approach [unto thee, tha
 Blessed is the one You choose and bring near to dwell in Your courts! We are filled with the goodness of Your house, the holiness of Your temple.<small><sub>**MT:**</sub></small>
 [[Ps.65.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.3|<< Psalm 65:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.5|Psalm 65:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Blessed \[is\] | <big><span class="asgreek">μακάριος</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you chose, | <big><span class="asgreek">εξελέξω</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took to yourself; | <big><span class="asgreek">προσελάβου</span></big> <sup><small><small>[[G4355]]</small></small></sup> |
-| he shall encamp | <big><span class="asgreek">κατασκηνώσει</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your courtyards. | <big><span class="asgreek">αυλαίς</span></big> <sup><small><small>[[G0833]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| We shall be filled | <big><span class="asgreek">πλησθησόμεθα</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good \[things\] | <big><span class="asgreek">αγαθοίς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your house, | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιος</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| temple | <big><span class="asgreek">ναός</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Blessed \[is\] | **<big>[[G3107\|μακάριος]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you chose, | **<big>[[G1586\|εξελέξω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took to yourself; | **<big>[[G4355\|προσελάβου]]</big>** |
+| he shall encamp | **<big>[[G2681\|κατασκηνώσει]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your courtyards. | **<big>[[G0833\|αυλαίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| We shall be filled | **<big>[[G4130\|πλησθησόμεθα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| good \[things\] | **<big>[[G0018\|αγαθοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your house, | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| holy | **<big>[[G0039\|άγιος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| temple | **<big>[[G3485\|ναός]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
 [[Ps.65.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.3|<< Psalm 65:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.5|Psalm 65:5 >>]]</td></tr></table>
 
 

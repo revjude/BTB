@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יַבֹּק‎</span></big> **Yabbôq** <small>*(yab-boke')*</small> ==**Jabbok**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from <span class="ashebrew">‎בָּקַק‎</span><sup><small>[[H1238]]</small></sup>; pouring forth</small>
+**<big><span class="ashebrew">‎יַבֹּק‎</span></big>** **Yabbôq** <small>*(yab-boke')*</small> ==**Jabbok**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from **<big>[[H1238|‎בָּקַק‎]]</big>**; pouring forth</small>
 
 $\quad$ Jabbok.
 - § Jabbok = *"emptying"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֹגַהּ‎</span></big> **Nôgahh** <small>*(no'-gah)*</small> ==**Nogah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נֹגַהּ‎</span><sup><small>[[H5051]]</small></sup></small>
+**<big><span class="ashebrew">‎נֹגַהּ‎</span></big>** **Nôgahh** <small>*(no'-gah)*</small> ==**Nogah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5051|‎נֹגַהּ‎]]</big>**</small>
 
 $\quad$ Nogah.
 - § Nogah = *"brightness"*
@@ -7,4 +7,4 @@ $\quad$ Nogah.
 
 **1)** one of the 13 sons of David born to him in Jerusalem
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ναγγαί</span><sup><small>[[G3477]]</small></sup>
+<small>See Greek: </small>**<big>[[G3477|Ναγγαί]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דְּרוֹר‎</span></big> **dᵉrôwr** <small>*(der-ore')*</small> ==**liberty**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎דְּרוֹר‎</span></big>** **dᵉrôwr** <small>*(der-ore')*</small> ==**liberty**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root (meaning to move rapidly)</small>
 
 $\quad$ liberty, pure.
@@ -9,4 +9,4 @@ $\quad$ liberty, pure.
 $\quad$ **1a)** flowing (of myrrh)
 $\quad$ **1b)** liberty
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄφεσις</span><sup><small>[[G0859]]</small></sup> · <span class="asgreek">ἐκλεκτός</span><sup><small>[[G1588]]</small></sup>
+<small>See Greek: </small>**<big>[[G0859|ἄφεσις]]</big>** · **<big>[[G1588|ἐκλεκτός]]</big>**

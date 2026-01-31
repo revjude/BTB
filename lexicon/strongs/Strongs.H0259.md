@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶחָד‎</span></big> **ʼechâd** <small>*(ekh-awd')*</small> ==**one**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>a numeral from <span class="ashebrew">‎אָחַד‎</span><sup><small>[[H0258]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶחָד‎</span></big>** **ʼechâd** <small>*(ekh-awd')*</small> ==**one**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>a numeral from **<big>[[H0258|‎אָחַד‎]]</big>**</small>
 
 $\quad$ a, alike, alone, altogether, and, any(-thing), apiece, a certain, (dai-) ly, each (one), [phrase] eleven, every, few, first, [phrase] highway, a man, once, one, only, other, some, together,
 - properly, ***united***, i.e. ***one***
@@ -15,4 +15,4 @@ $\quad$ **1f)** one...another, the one...the other, one after another, one by on
 $\quad$ **1g)** first
 $\quad$ **1h)** eleven (in combination), eleventh (ordinal)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄλλος</span><sup><small>[[G0243]]</small></sup> · <span class="asgreek">ἅπαξ</span><sup><small>[[G0530]]</small></sup> · <span class="asgreek">ἕκαστος</span><sup><small>[[G1538]]</small></sup> · <span class="asgreek">ἕτερος</span><sup><small>[[G2087]]</small></sup> · <span class="asgreek">ἴσος</span><sup><small>[[G2470]]</small></sup> · <span class="asgreek">κοινός</span><sup><small>[[G2839]]</small></sup> · <span class="asgreek">νουμηνία</span><sup><small>[[G3561]]</small></sup> · <span class="asgreek">ὀλίγος</span><sup><small>[[G3641]]</small></sup> · <span class="asgreek">πρότερος</span><sup><small>[[G4387]]</small></sup>
+<small>See Greek: </small>**<big>[[G0243|ἄλλος]]</big>** · **<big>[[G0530|ἅπαξ]]</big>** · **<big>[[G1538|ἕκαστος]]</big>** · **<big>[[G2087|ἕτερος]]</big>** · **<big>[[G2470|ἴσος]]</big>** · **<big>[[G2839|κοινός]]</big>** · **<big>[[G3561|νουμηνία]]</big>** · **<big>[[G3641|ὀλίγος]]</big>** · **<big>[[G4387|πρότερος]]</big>**

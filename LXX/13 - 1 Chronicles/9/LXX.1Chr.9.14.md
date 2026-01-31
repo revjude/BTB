@@ -7,23 +7,23 @@ And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of 
 From the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, a descendant of Merari;<small><sub>**MT:**</sub></small>
 [[1Chr.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.13|<< 1 Chronicles 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.15|1 Chronicles 9:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites -- | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| Shemaiah | <big><span class="asgreek">Σαμέας</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hashub, | <big><span class="asgreek">Ασούβ</span></big> <sup><small><small>[[H2815]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Azrikam, | <big><span class="asgreek">Εζρικάμ</span></big> <sup><small><small>[[H5840]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hashabiah, | <big><span class="asgreek">Ασαβία</span></big> <sup><small><small>[[H2811]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Merari; | <big><span class="asgreek">Μεραρί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| Levites -- | **<big>[[G3017\|Λευιτών]]</big>** |
+| Shemaiah | **<big>[[H8098\|Σαμέας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Hashub, | **<big>[[H2815\|Ασούβ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Azrikam, | **<big>[[H5840\|Εζρικάμ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Hashabiah, | **<big>[[H2811\|Ασαβία]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Merari; | **<big>[[H4847\|Μεραρί]]</big>** |
 [[1Chr.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.13|<< 1 Chronicles 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.15|1 Chronicles 9:15 >>]]</td></tr></table>
 
 

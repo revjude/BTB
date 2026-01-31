@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אֲבַד‎</span></big> **ʼăbad** <small>*(ab-ad')*</small> ==**to destroy**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אָבַד‎</span><sup><small>[[H0006]]</small></sup></small>
+**<big><span class="asaramaic">‎אֲבַד‎</span></big>** **ʼăbad** <small>*(ab-ad')*</small> ==**to destroy**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0006|‎אָבַד‎]]</big>**</small>
 
 $\quad$ destroy, perish.
 - {properly, ***to wander away***, i.e. ***lose oneself***

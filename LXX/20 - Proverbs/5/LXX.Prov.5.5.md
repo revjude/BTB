@@ -7,27 +7,27 @@ Her feet go down to death; her steps take hold on hell.
 Her feet go down to death; her steps lead straight to Sheol.<small><sub>**MT:**</sub></small>
 [[Prov.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.4|<< Proverbs 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.6|Proverbs 5:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of folly | <big><span class="asgreek">αφροσύνης</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδες</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| down | <big><span class="asgreek">κατάγουσι</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dealing with | <big><span class="asgreek">χρωμένους</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Hades | <big><span class="asgreek">άδην</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| her tracks | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| established; | <big><span class="asgreek">ερείδεται</span></big> <sup><small><small>[[G2043]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| of folly | **<big>[[G0877\|αφροσύνης]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| feet | **<big>[[G4228\|πόδες]]</big>** |
+| down | **<big>[[G2609\|κατάγουσι]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| dealing with | **<big>[[G5530\|χρωμένους]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| death | **<big>[[G2288\|θανάτου]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Hades | **<big>[[G0086\|άδην]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| her tracks | **<big>[[G2487\|ίχνη]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| are not | **<big>[[G3756\|ουκ]]</big>** |
+| established; | **<big>[[G2043\|ερείδεται]]</big>** |
 [[Prov.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.4|<< Proverbs 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.6|Proverbs 5:6 >>]]</td></tr></table>
 
 

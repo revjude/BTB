@@ -11,32 +11,32 @@ To the woman He said: “I will sharply increase your pain in childbirth; in pai
 > $\quad$ referenced by: [[1Cor.14.34|1Cor 14:34]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[In\] multiplying | <big><span class="asgreek">πληθύνων</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| I will multiply | <big><span class="asgreek">πληθυνώ</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your distresses, | <big><span class="asgreek">λύπας</span></big> <sup><small><small>[[G3077]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your moanings. | <big><span class="asgreek">στεναγμους</span></big> <sup><small><small>[[G4726]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| distresses | <big><span class="asgreek">λύπαις</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| you will bear | <big><span class="asgreek">τέξη</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| children, | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your husband | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your submission, | <big><span class="asgreek">αποστροφή</span></big> <sup><small><small>[[G6493]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will dominate you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κυριεύσει</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τη]]</big>** |
+| woman | **<big>[[G1135\|γυναικί]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| \[In\] multiplying | **<big>[[G4129\|πληθύνων]]</big>** |
+| I will multiply | **<big>[[G4129\|πληθυνώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your distresses, | **<big>[[G3077\|λύπας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your moanings. | **<big>[[G4726\|στεναγμους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| distresses | **<big>[[G3077\|λύπαις]]</big>** |
+| you will bear | **<big>[[G5088\|τέξη]]</big>** |
+| children, | **<big>[[G5043\|τέκνα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your husband | **<big>[[G0435\|άνδρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your submission, | **<big>[[G6493\|αποστροφή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| will dominate you. | **<big>[[G1473\|σου]]</big>** **<big>[[G2961\|κυριεύσει]]</big>** |
 [[Gen.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.15|<< Genesis 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.17|Genesis 3:17 >>]]</td></tr></table>
 
 

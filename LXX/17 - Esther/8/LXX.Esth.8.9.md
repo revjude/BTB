@@ -7,56 +7,56 @@ Then were the king’s scribes called at that time in the third month, that [is]
 At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush—writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language.<small><sub>**MT:**</sub></small>
 [[Esth.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.8|<< Esther 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.10|Esther 8:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| were called | <big><span class="asgreek">εκλήθησαν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribes | <big><span class="asgreek">γραμματείς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| first | <big><span class="asgreek">πρώτω</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
-| month, | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Nisan, | <big><span class="asgreek">Νισάν</span></big> <sup><small><small>[[G8397]]</small></small></sup> |
-| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| twentieth day | <big><span class="asgreek">εικάδι</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| same | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| year. | <big><span class="asgreek">έτους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was written | <big><span class="asgreek">εγράφη</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews, | <big><span class="asgreek">Ιουδαίοις</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| was given charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[local\] managers, | <big><span class="asgreek">οικονόμοις</span></big> <sup><small><small>[[G3623]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rulers | <big><span class="asgreek">άρχουσι</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| satrapies | <big><span class="asgreek">σατραπών</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| India | <big><span class="asgreek">Ινδικής</span></big> <sup><small><small>[[H1912]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ethiopia -- | <big><span class="asgreek">Αιθιοπίας</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| twenty-seven | <big><span class="asgreek">εικοσιεπτά</span></big> <sup><small><small>[[G7057]]</small></small></sup> |
-| satrapies, | <big><span class="asgreek">σατράπαις</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| place | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| by | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| place, | <big><span class="asgreek">χώραν</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| form of speech. | <big><span class="asgreek">λέξιν</span></big> <sup><small><small>[[G8178]]</small></small></sup> |
+| were called | **<big>[[G2564\|εκλήθησαν]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| scribes | **<big>[[G1122\|γραμματείς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| first | **<big>[[G4413\|πρώτω]]</big>** |
+| month, | **<big>[[G3376\|μηνί]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| Nisan, | **<big>[[G8397\|Νισάν]]</big>** |
+| on the | **<big>[[G3588\|τη]]</big>** |
+| third | **<big>[[G5154\|τρίτη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| twentieth day | **<big>[[G7051\|εικάδι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| same | **<big>[[G1473\|αυτού]]</big>** |
+| year. | **<big>[[G2094\|έτους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was written | **<big>[[G1125\|εγράφη]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| Jews, | **<big>[[G2453\|Ιουδαίοις]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| was given charge | **<big>[[G1781\|ενετείλατο]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| \[local\] managers, | **<big>[[G3623\|οικονόμοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| rulers | **<big>[[G0758\|άρχουσι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| satrapies | **<big>[[G9059\|σατραπών]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| India | **<big>[[H1912\|Ινδικής]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Ethiopia -- | **<big>[[G0128\|Αιθιοπίας]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| twenty-seven | **<big>[[G7057\|εικοσιεπτά]]</big>** |
+| satrapies, | **<big>[[G9059\|σατράπαις]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| place | **<big>[[G5561\|χώραν]]</big>** |
+| by | **<big>[[G2532\|και]]</big>** |
+| place, | **<big>[[G5561\|χώραν]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| their | **<big>[[G1438\|αυτών]]</big>** |
+| form of speech. | **<big>[[G8178\|λέξιν]]</big>** |
 [[Esth.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.8|<< Esther 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.10|Esther 8:10 >>]]</td></tr></table>
 
 

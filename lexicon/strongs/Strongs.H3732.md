@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּפְתֹּרִי‎</span></big> **Kaphtôrîy** <small>*(kaf-to-ree')*</small> ==**Caphtorim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎כַּפְתֹּר‎</span><sup><small>[[H3731]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּפְתֹּרִי‎</span></big>** **Kaphtôrîy** <small>*(kaf-to-ree')*</small> ==**Caphtorim**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H3731|‎כַּפְתֹּר‎]]</big>**</small>
 
 $\quad$ Caphthorim, Caphtorim(-s).
 - § Caphtorim = *see Caphtor "a crown"*

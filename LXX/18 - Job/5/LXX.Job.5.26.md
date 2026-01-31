@@ -7,24 +7,24 @@ Thou shalt come to [thy] grave in a full age, like as a shock of corn cometh in 
 You will come to the grave in full vigor, like a sheaf of grain gathered in season.<small><sub>**MT:**</sub></small>
 [[Job.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.25|<< Job 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.27|Job 5:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And you shall come | <big><span class="asgreek">ελεύση</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| unto | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] grave | <big><span class="asgreek">τάφω</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| grain | <big><span class="asgreek">σίτος</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| in season, | <big><span class="asgreek">ώριμος</span></big> <sup><small><small>[[G9816]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of harvesting; | <big><span class="asgreek">θεριζόμενος</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a heap | <big><span class="asgreek">θιμωνία</span></big> <sup><small><small>[[G7667]]</small></small></sup> |
-| of \[the\] threshing-floor | <big><span class="asgreek">άλωνος</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] hour | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| of its being collected. | <big><span class="asgreek">συγκομισθείσα</span></big> <sup><small><small>[[G4792]]</small></small></sup> |
+| And you shall come | **<big>[[G2064\|ελεύση]]</big>** **<big>[[G1161\|δε]]</big>** |
+| unto | **<big>[[G1722\|εν]]</big>** |
+| \[the\] grave | **<big>[[G5028\|τάφω]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| grain | **<big>[[G4621\|σίτος]]</big>** |
+| in season, | **<big>[[G9816\|ώριμος]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρόν]]</big>** |
+| of harvesting; | **<big>[[G2325\|θεριζόμενος]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a heap | **<big>[[G7667\|θιμωνία]]</big>** |
+| of \[the\] threshing-floor | **<big>[[G0257\|άλωνος]]</big>** |
+| according to | **<big>[[G2596\|καθ΄]]</big>** |
+| \[the\] hour | **<big>[[G5610\|ώραν]]</big>** |
+| of its being collected. | **<big>[[G4792\|συγκομισθείσα]]</big>** |
 [[Job.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.25|<< Job 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.27|Job 5:27 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּית הַמַּרְכָּבוֹת‎</span></big> **Bêyth ham-Markâbôwth** <small>*(bayth ham-markaw-both')*</small> ==**Beth-marcaboth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (shortened) <span class="ashebrew">בֵּית מַרְכָּבוֹת</span> **Bêyth Mar-kâbôwth** <small>*(bayth mar-kaw-both')*</small>; from <span class="ashebrew">‎בַּיִת‎</span><sup><small>[[H1004]]</small></sup> and the plural of <span class="ashebrew">‎מֶרְכָּבָה‎</span><sup><small>[[H4818]]</small></sup> (with or without the article interposed); place of (the) chariots</small>
+**<big><span class="ashebrew">‎בֵּית הַמַּרְכָּבוֹת‎</span></big>** **Bêyth ham-Markâbôwth** <small>*(bayth ham-markaw-both')*</small> ==**Beth-marcaboth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (shortened) **<big><span class="ashebrew">בֵּית מַרְכָּבוֹת</span></big>** **Bêyth Mar-kâbôwth** <small>*(bayth mar-kaw-both')*</small>; from **<big>[[H1004|‎בַּיִת‎]]</big>** and the plural of **<big>[[H4818|‎מֶרְכָּבָה‎]]</big>** (with or without the article interposed); place of (the) chariots</small>
 
 $\quad$ Bethmarcaboth.
 - § Beth-marcaboth = *"house of the chariots"*

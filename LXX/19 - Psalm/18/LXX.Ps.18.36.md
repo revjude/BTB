@@ -7,17 +7,17 @@ Thou hast enlarged my steps under me, that my feet did not slip.
 You broaden the path beneath me so that my ankles do not give way.<small><sub>**MT:**</sub></small>
 [[Ps.18.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.35|<< Psalm 18:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.37|Psalm 18:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You widened | <big><span class="asgreek">επλάτυνας</span></big> <sup><small><small>[[G4115]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my footsteps | <big><span class="asgreek">διαβήματά</span></big> <sup><small><small>[[G6811]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| weakened not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ησθένησε</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soles | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You widened | **<big>[[G4115\|επλάτυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my footsteps | **<big>[[G6811\|διαβήματά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| underneath | **<big>[[G5270\|υποκάτω]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| weakened not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0770\|ησθένησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my soles | **<big>[[G2487\|ίχνη]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.18.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.35|<< Psalm 18:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.37|Psalm 18:37 >>]]</td></tr></table>
 
 

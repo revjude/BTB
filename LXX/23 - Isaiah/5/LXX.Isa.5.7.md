@@ -7,33 +7,33 @@ For the vineyard of the LORD of hosts [is] the house of Israel, and the men of J
 For the vineyard of the LORD of Hosts is the house of Israel, and the men of Judah are the plant of His delight. He looked for justice, but saw bloodshed; for righteousness, but heard a cry of distress.<small><sub>**MT:**</sub></small>
 [[Isa.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.6|<< Isaiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.8|Isaiah 5:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| vineyard | <big><span class="asgreek">αμπελών</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[is the\] newly planted | <big><span class="asgreek">νεόφυτον</span></big> <sup><small><small>[[G3504]]</small></small></sup> |
-| one being loved. | <big><span class="asgreek">ηγαπημένον</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| I waited | <big><span class="asgreek">έμεινα</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for it to produce | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| equity, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| but it produced | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| lawlessness; | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| a cry. | <big><span class="asgreek">κραυγήν</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
+| For the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| vineyard | **<big>[[G0290\|αμπελών]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of Hosts | **<big>[[G4519\|σαβαώθ]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| is | **<big>[[G1510\|εστι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[is the\] newly planted | **<big>[[G3504\|νεόφυτον]]</big>** |
+| one being loved. | **<big>[[G0025\|ηγαπημένον]]</big>** |
+| I waited | **<big>[[G3306\|έμεινα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for it to produce | **<big>[[G4160\|ποιήσαι]]</big>** |
+| equity, | **<big>[[G2920\|κρίσιν]]</big>** |
+| but it produced | **<big>[[G4160\|εποίησε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| lawlessness; | **<big>[[G0458\|ανομίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| a cry. | **<big>[[G2906\|κραυγήν]]</big>** |
 [[Isa.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.6|<< Isaiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.8|Isaiah 5:8 >>]]</td></tr></table>
 
 

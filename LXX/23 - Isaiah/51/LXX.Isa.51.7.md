@@ -7,29 +7,29 @@ Hearken unto me, ye that know righteousness, the people in whose heart [is] my l
 Listen to Me, you who know what is right, you people with My law in your hearts: Do not fear the scorn of men; do not be broken by their insults.<small><sub>**MT:**</sub></small>
 [[Isa.51.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.6|<< Isaiah 51:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.8|Isaiah 51:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Hear | <big><span class="asgreek">ακούσατέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">ειδότες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| equity! | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| of whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their heart. | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| fear | <big><span class="asgreek">φοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| \[the\] scorning | <big><span class="asgreek">ονειδισμόν</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their disparagement | <big><span class="asgreek">φαυλισμώ</span></big> <sup><small><small>[[G9628]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| let | <big><span class="asgreek">ηττάσθε</span></big> <sup><small><small>[[G2274]]</small></small></sup> |
+| Hear | **<big>[[G0191\|ακούσατέ]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| knowing | **<big>[[G1492\|ειδότες]]</big>** |
+| equity! | **<big>[[G2920\|κρίσιν]]</big>** |
+| a people | **<big>[[G2992\|λαός]]</big>** |
+| of whom | **<big>[[G3739\|ου]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my law | **<big>[[G3551\|νόμος]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| their heart. | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| fear | **<big>[[G5399\|φοβείσθε]]</big>** |
+| \[the\] scorning | **<big>[[G3680\|ονειδισμόν]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| their disparagement | **<big>[[G9628\|φαυλισμώ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| let | **<big>[[G2274\|ηττάσθε]]</big>** |
 [[Isa.51.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.6|<< Isaiah 51:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.8|Isaiah 51:8 >>]]</td></tr></table>
 
 

@@ -14,39 +14,39 @@ As I continued to watch, thrones were set in place, and the Ancient of Days took
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I viewed | <big><span class="asgreek">εθεώρουν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| when | <big><span class="asgreek">ότου</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| thrones | <big><span class="asgreek">θρόνοι</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
-| were set, | <big><span class="asgreek">ετέθησαν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] old one | <big><span class="asgreek">παλαιός</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
-| of days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| sat down. | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his garment | <big><span class="asgreek">ένδυμα</span></big> <sup><small><small>[[G1742]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| snow -- | <big><span class="asgreek">χιών</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
-| white. | <big><span class="asgreek">λευκόν</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hair | <big><span class="asgreek">θριξ</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[was\] as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| wool | <big><span class="asgreek">έριον</span></big> <sup><small><small>[[G2053]]</small></small></sup> |
-| pure | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| His throne | <big><span class="asgreek">θρόνος</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλοξ</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| of fire, | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its wheels | <big><span class="asgreek">τροχοί</span></big> <sup><small><small>[[G5164]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as\] fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| blazing. | <big><span class="asgreek">φλέγον</span></big> <sup><small><small>[[G9645]]</small></small></sup> |
+| I viewed | **<big>[[G2334\|εθεώρουν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| when | **<big>[[G3748\|ότου]]</big>** |
+| thrones | **<big>[[G2362\|θρόνοι]]</big>** |
+| were set, | **<big>[[G5087\|ετέθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] old one | **<big>[[G3820\|παλαιός]]</big>** |
+| of days | **<big>[[G2250\|ημερών]]</big>** |
+| sat down. | **<big>[[G2521\|εκάθητο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his garment | **<big>[[G1742\|ένδυμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] as | **<big>[[G5616\|ωσεί]]</big>** |
+| snow -- | **<big>[[G5510\|χιών]]</big>** |
+| white. | **<big>[[G3022\|λευκόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| hair | **<big>[[G2359\|θριξ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his head | **<big>[[G2776\|κεφαλής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[was\] as | **<big>[[G5616\|ωσεί]]</big>** |
+| wool | **<big>[[G2053\|έριον]]</big>** |
+| pure | **<big>[[G2513\|καθαρόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| His throne | **<big>[[G2362\|θρόνος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a flame | **<big>[[G5395\|φλοξ]]</big>** |
+| of fire, | **<big>[[G4442\|πυρός]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| its wheels | **<big>[[G5164\|τροχοί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[as\] fire | **<big>[[G4442\|πυρ]]</big>** |
+| blazing. | **<big>[[G9645\|φλέγον]]</big>** |
 [[Dan.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.8|<< Daniel 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.10|Daniel 7:10 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Hodaviah</span> was a descendant of Benjamin who resided in Jerusalem after the Babylonian exile.
 - A man living at the time of Exile and Return, only mentioned at [[1Chr.9.7|1Ch.9.7]]; 
-- only referred to as Hodaviah<[[H1938I]]> \(<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
-- a son of Hassenuah<[[H5574]]>; 
--  father of Meshullam<[[H4918K]]>.
+- only referred to as Hodaviah **<big>[[H1938|הוֹדַוְיָה]]</big>**; 
+- a son of Hassenuah **<big>[[H5574|סְנוּאָה]]</big>**; 
+-  father of Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**.
 
 Hodaviah is mentioned in [[1Chr.9.7|1 Chronicles 9:7]] as one of the Benjamites who lived in Jerusalem after the Babylonian exile. He is listed among the first to resettle in the city, along with other members of his tribe. 
 
@@ -18,8 +18,8 @@ The mention of Hodaviah and other Benjamites in this passage underscores the imp
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938I) <small>*Hebrew*</small> | 1x | [1Ch.9.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=1Ch.9.7) |
-All Strong's for **Hodaviah**: \[[[H1938I]]\]
+| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938I) | 1x | [1Ch.9.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=1Ch.9.7) |
+All entries for **Hodaviah**:  **<big>[[H1938|הוֹדַוְיָה]]</big>**
 #### Related Profiles:
 - **[Hassenuah](H5574)** (father)
 - **[Meshullam](H4918K)** (child)

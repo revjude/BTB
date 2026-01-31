@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ham</span> was a place where Chedorlaomer and his allies defeated the Zuzim in battle during the war of the kings \([[Gen.14.5|Genesis 14:5]]\).
 - A location only mentioned at [[Gen.14.5|Gen.14.5]]; 
-- only referred to as Ham<[[H1990]]> \(<span class='tipnrLangHebrew'>ה</span>ָ֑<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Ham **<big>[[H1990|הָם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.108086,31.338220&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Ham is mentioned briefly in the account of the war of the kings in Genesis 14. D
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ham | [<span class='tipnrLangHebrew'>ה</span>ָ֑<span class='tipnrLangHebrew'>ם</span>](H1990) <small>*Hebrew*</small> | 1x | [Gen.14.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ham\*\|reference=Gen.14.5) |
-All Strong's for **Ham**: \[[[H1990]]\]
+| Ham | [<span class='tipnrLangHebrew'>ה</span>ָ֑<span class='tipnrLangHebrew'>ם</span>](H1990) | 1x | [Gen.14.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ham\*\|reference=Gen.14.5) |
+All entries for **Ham**:  **<big>[[H1990|הָם]]</big>**

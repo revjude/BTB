@@ -4,10 +4,10 @@ Man living before Israel's Monarchy
 
 <span class='tipnrhighlight'>Nahshon</span>, the son of Amminadab, was a leader of the tribe of Judah during the Exodus and an ancestor of King David and Jesus Christ.
 - A man from the tribe of Judah living before Israel's Monarchy, first mentioned at [[Exod.6.23|Exo.6.23]]; 
-- referred to as Nahshon<[[H5177]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Nahshon \(KJV= Naasson\) <[[G3476]]> \(<span class='tipnrLangGreek'>Ναασσών</span>\); 
--  son of Amminadab<[[H5992G]]>; 
-- a brother of Elisheba<[[H0472]]>; 
--  father of Salmon<[[H8007G]]>.
+- referred to as Nahshon **<big>[[H5177|נַחְשׁוֹן]]</big>**, or Nahshon \(KJV= Naasson\)  **<big>[[G3476|Ναασσών]]</big>**; 
+-  son of Amminadab **<big>[[H5992|עַמִּינָדָב]]</big>**; 
+- a brother of Elisheba **<big>[[H0472|אֱלִישֶׁבַע]]</big>**; 
+-  father of Salmon **<big>[[H8007|שַׂלְמָא]]</big>**.
 
 Nahshon, the son of Amminadab, was a prominent figure in the tribe of Judah during the Israelites' exodus from Egypt and their subsequent wilderness journey. He is mentioned in several books of the Bible, including Exodus, Numbers, Ruth, 1 Chronicles, Matthew, and Luke. 
 
@@ -25,9 +25,9 @@ Nahshon's life and leadership during the exodus and wilderness journey demonstra
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nahshon (KJV= Naashon) | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5177) <small>*Hebrew*</small> | 10x | [[Exo.6.23] ... [1Ch.2.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahshon\*\|reference=Exo.6.23;Num.1.7;Num.2.3;Num.7.12;Num.7.17;Num.10.14;Rut.4.20;Rut.4.20;1Ch.2.10;1Ch.2.11) |
-| Nahshon (KJV= Naasson) | [<span class='tipnrLangGreek'>Ναασσών</span>](G3476) <small>*Greek*</small> | 3x | [[Mat.1.4a] ... [Luk.3.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahshon\*\|reference=Mat.1.4;Mat.1.4;Luk.3.32) |
-All Strong's for **Nahshon**: \[[[H5177]]\] \[[[G3476]]\]
+| Nahshon (KJV= Naashon) | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H5177) | 10x | [[Exo.6.23] ... [1Ch.2.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahshon\*\|reference=Exo.6.23;Num.1.7;Num.2.3;Num.7.12;Num.7.17;Num.10.14;Rut.4.20;Rut.4.20;1Ch.2.10;1Ch.2.11) |
+| Nahshon (KJV= Naasson) | [<span class='tipnrLangGreek'>Ναασσών</span>](G3476) | 3x | [[Mat.1.4a] ... [Luk.3.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahshon\*\|reference=Mat.1.4;Mat.1.4;Luk.3.32) |
+All entries for **Nahshon**:  **<big>[[H5177|נַחְשׁוֹן]]</big>** ☩  **<big>[[G3476|Ναασσών]]</big>**
 #### Related Profiles:
 - **[Amminadab](H5992G)** (father)
 - **[Elisheba](H0472)** (sibling)

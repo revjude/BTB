@@ -7,15 +7,15 @@ He giveth [his] cheek to him that smiteth him: he is filled full with reproach.
 Let him offer his cheek to the one who would strike him; let him be filled with reproach.<small><sub>**MT:**</sub></small>
 [[Lam.3.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.29|<< Lamentations 3:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.31|Lamentations 3:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He will give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hitting | <big><span class="asgreek">παίοντι</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[his\] cheek | <big><span class="asgreek">σιαγόνα</span></big> <sup><small><small>[[G4600]]</small></small></sup> |
-| He will be filled | <big><span class="asgreek">χορτασθήσεται</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
-| of scornings. | <big><span class="asgreek">ονειδισμών</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
+| He will give | **<big>[[G1325\|δώσει]]</big>** |
+| to the one | **<big>[[G3588\|τω]]</big>** |
+| hitting | **<big>[[G3817\|παίοντι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \[his\] cheek | **<big>[[G4600\|σιαγόνα]]</big>** |
+| He will be filled | **<big>[[G5526\|χορτασθήσεται]]</big>** |
+| of scornings. | **<big>[[G3680\|ονειδισμών]]</big>** |
 [[Lam.3.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.29|<< Lamentations 3:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.31|Lamentations 3:31 >>]]</td></tr></table>
 
 

@@ -7,33 +7,33 @@ And afterward [offered] the continual burnt offering, both of the new moons, and
 After that, they presented the regular burnt offerings and those for New Moons and for all the appointed sacred feasts of the LORD, as well as all the freewill offerings brought to the LORD.<small><sub>**MT:**</sub></small>
 [[Ezra.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.4|<< Ezra 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.6|Ezra 3:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| perpetual | <big><span class="asgreek">ενδελεχισμόυ</span></big> <sup><small><small>[[G7219]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| new moons, | <big><span class="asgreek">νουμηνίας</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| holidays | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| were sanctified, | <big><span class="asgreek">ηγιασμένας</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| willing | <big><span class="asgreek">εκουσιαζομένω</span></big> <sup><small><small>[[G7124]]</small></small></sup> |
-| voluntary \[offering\] | <big><span class="asgreek">εκούσιον</span></big> <sup><small><small>[[G1595]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| whole burnt-offering | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| perpetual | **<big>[[G7219\|ενδελεχισμόυ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| new moons, | **<big>[[G3561\|νουμηνίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| holidays | **<big>[[G1859\|εορτάς]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| were sanctified, | **<big>[[G0037\|ηγιασμένας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for every | **<big>[[G3956\|παντί]]</big>** |
+| willing | **<big>[[G7124\|εκουσιαζομένω]]</big>** |
+| voluntary \[offering\] | **<big>[[G1595\|εκούσιον]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Ezra.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.4|<< Ezra 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.6|Ezra 3:6 >>]]</td></tr></table>
 
 

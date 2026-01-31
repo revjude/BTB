@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָם‎</span></big> **Châm** <small>*(khawm)*</small> ==**Ham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎חָם‎</span><sup><small>[[H2525]]</small></sup>; hot (from the tropical habitat)</small>
+**<big><span class="ashebrew">‎חָם‎</span></big>** **Châm** <small>*(khawm)*</small> ==**Ham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2525|‎חָם‎]]</big>**; hot (from the tropical habitat)</small>
 
 $\quad$ Ham.
 - § Ham = *"hot"*

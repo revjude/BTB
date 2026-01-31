@@ -6,21 +6,21 @@ Who is this coming up from the wilderness like a column of smoke, scented with m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.5|<< Song of Solomon 3:5]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.7|Song of Solomon 3:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֗את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] coming up  | <span class="ashebrew"><big>עֹלָה֙ </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'o.Lah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from  | <span class="ashebrew"><big>מִן </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the wilderness  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּדְבָּ֔ר </big></span><small><small><sup>[[H4057B]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mid.Bar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like columns of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>תִֽימֲר֖וֹת </big></span><small><small><sup>[[H8490]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> ti.ma.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| smoke  | <span class="ashebrew"><big>עָשָׁ֑ן </big></span><small><small><sup>[[H6227]]</sup></small></small> &#8207;| 'a.Shan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who is] perfumed of  | <span class="ashebrew"><big>מְקֻטֶּ֤רֶת </big></span><small><small><sup>[[H6999I]]</sup></small></small> &#8207;| me.ku.Te.ret <small><sup>[[HVPsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| myrrh  | <span class="ashebrew"><big>מוֹר֙ </big></span><small><small><sup>[[H4753]]</sup></small></small> &#8207;| mOr <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and frankincense  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְבוֹנָ֔ה </big></span><small><small><sup>[[H3828]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le.vo.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from all  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>כֹּ֖ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Kol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] scent-powder of  | <span class="ashebrew"><big>אַבְקַ֥ת </big></span><small><small><sup>[[H0081]]</sup></small></small> &#8207;| 'av.Kat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a trader  | <span class="ashebrew"><big>רוֹכֵֽל </big></span><small><small><sup>[[H7402]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ro.Khel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֗את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] coming up  |**<big>&#8207;[[H5927G\|עֹלָה֙]]&#8207; </big>**| 'o.Lah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wilderness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like columns of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8490\|תִֽימֲר֖וֹת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ti.ma.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| smoke  |**<big>&#8207;[[H6227\|עָשָׁ֑ן]]&#8207; </big>**| 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who is] perfumed of  |**<big>&#8207;[[H6999I\|מְקֻטֶּ֤רֶת]]&#8207; </big>**| me.ku.Te.ret<small><sup>[[HVPsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| myrrh  |**<big>&#8207;[[H4753\|מוֹר֙]]&#8207; </big>**| mOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and frankincense  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3828\|לְבוֹנָ֔ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.vo.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] scent-powder of  |**<big>&#8207;[[H0081\|אַבְקַ֥ת]]&#8207; </big>**| 'av.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trader  |**<big>&#8207;[[H7402\|רוֹכֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.Khel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.5|<< Song of Solomon 3:5]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.7|Song of Solomon 3:7 >>]]</td></tr></table>
 
 

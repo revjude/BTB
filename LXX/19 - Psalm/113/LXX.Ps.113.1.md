@@ -12,15 +12,15 @@ Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LO
 Hallelujah! Give praise, O servants of the LORD; praise the name of the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.113.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.10|<< Psalm 112:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.2|Psalm 113:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Praise, | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| O servants, | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Praise, | **<big>[[G0134\|αινείτε]]</big>** |
+| O servants, | **<big>[[G3816\|παίδες]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριον]]</big>** |
+| Praise | **<big>[[G0134\|αινείτε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κυρίου]]</big>** |
 [[Ps.113.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.10|<< Psalm 112:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.2|Psalm 113:2 >>]]</td></tr></table>
 
 

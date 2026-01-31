@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תִּקְוָה‎</span></big> **Tiqvâh** <small>*(tik-vaw')*</small> ==**Tikvah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎תִּקְוָה‎</span><sup><small>[[H8615]]</small></sup></small>
+**<big><span class="ashebrew">‎תִּקְוָה‎</span></big>** **Tiqvâh** <small>*(tik-vaw')*</small> ==**Tikvah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H8615|‎תִּקְוָה‎]]</big>**</small>
 
 $\quad$ Tikvah.
 - § Tikvath or Tikvah = *"hope"*

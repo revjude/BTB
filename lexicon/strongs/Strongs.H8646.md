@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תֶּרַח‎</span></big> **Terach** <small>*(teh'-rakh)*</small> ==**Terah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎תֶּרַח‎</span></big>** **Terach** <small>*(teh'-rakh)*</small> ==**Terah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Tarah, Terah.
@@ -11,4 +11,4 @@ n pr m
 n pr loc
 **2)** a station of Israel in the wilderness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Θάρα</span><sup><small>[[G2291]]</small></sup>
+<small>See Greek: </small>**<big>[[G2291|Θάρα]]</big>**

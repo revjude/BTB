@@ -7,33 +7,33 @@ For the transgression of Jacob [is] all this, and for the sins of the house of I
 All this is for the transgression of Jacob and the sins of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what is the high place of Judah? Is it not Jerusalem?<small><sub>**MT:**</sub></small>
 [[Mic.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.4|<< Micah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.6|Micah 1:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[are\] on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] impiety | <big><span class="asgreek">ασέβειαν</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impiety | <big><span class="asgreek">ασέβεια</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| of Jacob? | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \[Is it\] not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Samaria? | <big><span class="asgreek">Σαμάρεια</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Judah? | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| \[Is it\] not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| Jerusalem? | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| \[are\] on account of | **<big>[[G1223\|διά]]</big>** |
+| \[the\] impiety | **<big>[[G0763\|ασέβειαν]]</big>** |
+| of Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| \[the\] sin | **<big>[[G0266\|αμαρτίαν]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| What | **<big>[[G5100\|τις]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| impiety | **<big>[[G0763\|ασέβεια]]</big>** |
+| of Jacob? | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \[Is it\] not | **<big>[[G3780\|ουχί]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| Samaria? | **<big>[[G4540\|Σαμάρεια]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| \[is\] the | **<big>[[G3588\|η]]</big>** |
+| sin | **<big>[[G0266\|αμαρτία]]</big>** |
+| of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
+| of Judah? | **<big>[[G2448\|Ιούδα]]</big>** |
+| \[Is it\] not | **<big>[[G3780\|ουχί]]</big>** |
+| Jerusalem? | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 [[Mic.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.4|<< Micah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.6|Micah 1:6 >>]]</td></tr></table>
 
 

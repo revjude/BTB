@@ -7,14 +7,14 @@ Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.
 Laziness brings on deep sleep, and an idle soul will suffer hunger.<small><sub>**MT:**</sub></small>
 [[Prov.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.14|<< Proverbs 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.16|Proverbs 19:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Dread | <big><span class="asgreek">δειλία</span></big> <sup><small><small>[[G1167]]</small></small></sup> |
-| holds down | <big><span class="asgreek">κατέχει</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| an effeminate \[man\]; | <big><span class="asgreek">ανδρόγυνον</span></big> <sup><small><small>[[G6328]]</small></small></sup> |
-| and \[the\] soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of \[the\] idle | <big><span class="asgreek">αεργού</span></big> <sup><small><small>[[G6146]]</small></small></sup> |
-| hungers. | <big><span class="asgreek">πεινάσει</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
+| Dread | **<big>[[G1167\|δειλία]]</big>** |
+| holds down | **<big>[[G2722\|κατέχει]]</big>** |
+| an effeminate \[man\]; | **<big>[[G6328\|ανδρόγυνον]]</big>** |
+| and \[the\] soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of \[the\] idle | **<big>[[G6146\|αεργού]]</big>** |
+| hungers. | **<big>[[G3983\|πεινάσει]]</big>** |
 [[Prov.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.14|<< Proverbs 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.16|Proverbs 19:16 >>]]</td></tr></table>
 
 

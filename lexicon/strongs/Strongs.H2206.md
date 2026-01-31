@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָקָן‎</span></big> **zâqân** <small>*(zaw-kawn')*</small> ==**beard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎זָקֵן‎</span><sup><small>[[H2204]]</small></sup></small>
+**<big><span class="ashebrew">‎זָקָן‎</span></big>** **zâqân** <small>*(zaw-kawn')*</small> ==**beard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2204|‎זָקֵן‎]]</big>**</small>
 
 $\quad$ beard.
 - ***the beard*** (as indicating age)

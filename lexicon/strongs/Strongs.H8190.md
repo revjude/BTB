@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שַׁעַשְׁגַּז‎</span></big> **Shaʻashgaz** <small>*(shah-ash-gaz')*</small> ==**Shaashgaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שַׁעַשְׁגַּז‎</span></big>** **Shaʻashgaz** <small>*(shah-ash-gaz')*</small> ==**Shaashgaz**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian derivation</small>
 
 $\quad$ Shaashgaz.

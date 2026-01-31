@@ -1,8 +1,6 @@
-<span class="ashebrew">‎חֲנֹכִי‎</span> <small>***(cha.no.khi)***</small> ==**Hanochite **==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H2585J]]</small> 
+<small>group of:</small> <small>**<big>[[H2585J|חֲנוֹךְ]]</big>**</small> 
 
 - Someone descended from Hanoch who was a man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.9|Gen.46.9]]
--  son of: Reuben ([[H7205]])
--  brother of: Pallu ([[H6396]]), Hezron ([[H2696]]) and Carmi ([[H3756]])
-- Group of <i>cha.nokh</i> (<span class='ashebrew'>‎ח‎</span>ֲ<span class='ashebrew'>‎נו‎</span>ֹ<span class='ashebrew'>‎ך‎</span>ְ "Hanoch" [[H2585J]])
-
+-  son of: Reuben (**<big>[[H7205|רְאוּבֵן]]</big>**)
+-  brother of: Pallu (**<big>[[H6396|פַּלּוּא]]</big>**), Hezron (**<big>[[H2696|חֶצְרוֹן]]</big>**) and Carmi (**<big>[[H3756|כַּרְמִי]]</big>**)
+- Group of <i>cha.nokh</i> (<span class='ashebrew'>‎ח‎</span>ֲ<span class='ashebrew'>‎נו‎</span>ֹ<span class='ashebrew'>‎ך‎</span>ְ "Hanoch" **<big>[[H2585J|חֲנוֹךְ]]</big>**)

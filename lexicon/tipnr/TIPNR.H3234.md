@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Imna</span> was a descendant of Asher, mentioned in the genealogy of the tribe of Asher in 1 Chronicles.
 - A man from the tribe of Asher living at the time of Divided Monarchy, only mentioned at [[1Chr.7.35|1Ch.7.35]]; 
-- only referred to as Imna<[[H3234]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ע</span>\); 
--  son of Hotham<[[H2369G]]>; 
-- a brother of Zophah<[[H6690]]>, Shelesh<[[H8028]]> and Amal<[[H6000]]>.
+- only referred to as Imna **<big>[[H3234|יִמְנָע]]</big>**; 
+-  son of Hotham **<big>[[H2369|חוֹתָם]]</big>**; 
+- a brother of Zophah **<big>[[H6690|צוֹפַח]]</big>**, Shelesh **<big>[[H8028|שֶׁלֶשׁ]]</big>** and Amal **<big>[[H6000|עָמָל]]</big>**.
 
 Imna is mentioned briefly in [[1Chr.7.35|1 Chronicles 7:35]] as one of the sons of Helem, who was a descendant of Asher. Asher was one of the twelve tribes of Israel, and the genealogy in 1 Chronicles 7 lists the descendants of this tribe. 
 
@@ -18,8 +18,8 @@ The genealogical records in Chronicles serve to establish the family lines and t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Imna | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H3234) <small>*Hebrew*</small> | 1x | [1Ch.7.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imna\*\|reference=1Ch.7.35) |
-All Strong's for **Imna**: \[[[H3234]]\]
+| Imna | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H3234) | 1x | [1Ch.7.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imna\*\|reference=1Ch.7.35) |
+All entries for **Imna**:  **<big>[[H3234|יִמְנָע]]</big>**
 #### Related Profiles:
 - **[Hotham](H2369G)** (father)
 - **[Zophah](H6690)** (sibling)

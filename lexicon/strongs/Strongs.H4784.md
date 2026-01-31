@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָרָה‎</span></big> **mârâh** <small>*(maw-raw')*</small> ==**to rebel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָרָה‎</span></big>** **mârâh** <small>*(maw-raw')*</small> ==**to rebel**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bitter, change, be disobedient, disobey, grievously, provocation, provoke(-ing), (be) rebel (against, -lious).
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a1)** towards father
 $\quad$ $\quad$ **1a2)** towards God
 $\quad$ **1b)** (Hiphil) to show rebelliousness, show disobedience, disobey
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀμελέω</span><sup><small>[[G0272]]</small></sup> · <span class="asgreek">ἀνθίστημι</span><sup><small>[[G0436]]</small></sup> · <span class="asgreek">ἀπειθέω</span><sup><small>[[G0544]]</small></sup> · <span class="asgreek">ἀσεβέω</span><sup><small>[[G0764]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">εἰσακούω</span><sup><small>[[G1522]]</small></sup> · <span class="asgreek">ἐρεθίζω</span><sup><small>[[G2042]]</small></sup> · <span class="asgreek">ἐρίζω</span><sup><small>[[G2051]]</small></sup> · <span class="asgreek">παραβαίνω</span><sup><small>[[G3845]]</small></sup> · <span class="asgreek">παραπικραίνω</span><sup><small>[[G3893]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup>
+<small>See Greek: </small>**<big>[[G0272|ἀμελέω]]</big>** · **<big>[[G0436|ἀνθίστημι]]</big>** · **<big>[[G0544|ἀπειθέω]]</big>** · **<big>[[G0764|ἀσεβέω]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G1522|εἰσακούω]]</big>** · **<big>[[G2042|ἐρεθίζω]]</big>** · **<big>[[G2051|ἐρίζω]]</big>** · **<big>[[G3845|παραβαίνω]]</big>** · **<big>[[G3893|παραπικραίνω]]</big>** · **<big>[[G3947|παροξύνω]]</big>**

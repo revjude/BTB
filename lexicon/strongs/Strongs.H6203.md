@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹרֶף‎</span></big> **ʻôreph** <small>*(o-ref')*</small> ==**neck**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָרַף‎</span><sup><small>[[H6202]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹרֶף‎</span></big>** **ʻôreph** <small>*(o-ref')*</small> ==**neck**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6202|‎עָרַף‎]]</big>**</small>
 
 $\quad$ back ((stiff-) neck((-ed).
 - ***the nape*** or ***back of the neck*** (as declining)
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a1)** of fleeing foe
 $\quad$ $\quad$ **1a2)** of apostasy (fig.)
 $\quad$ **1b)** stiff of neck, obstinate (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καρδία</span><sup><small>[[G2588]]</small></sup> · <span class="asgreek">κόμη</span><sup><small>[[G2864]]</small></sup> · <span class="asgreek">νῶτος</span><sup><small>[[G3577]]</small></sup> · <span class="asgreek">τράχηλος</span><sup><small>[[G5137]]</small></sup>
+<small>See Greek: </small>**<big>[[G2588|καρδία]]</big>** · **<big>[[G2864|κόμη]]</big>** · **<big>[[G3577|νῶτος]]</big>** · **<big>[[G5137|τράχηλος]]</big>**

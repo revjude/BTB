@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צֹרִי‎</span></big> **Tsôrîy** <small>*(tso-ree')*</small> ==**Tyrian**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎צֹר‎</span><sup><small>[[H6865]]</small></sup></small>
+**<big><span class="ashebrew">‎צֹרִי‎</span></big>** **Tsôrîy** <small>*(tso-ree')*</small> ==**Tyrian**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H6865|‎צֹר‎]]</big>**</small>
 
 $\quad$ (man) of Tyre.
 - § Tyrian = *see Tyre "to distress"*

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לֶתֶךְ‎</span></big> **lethek** <small>*(leh'-thek)*</small> ==**lethek**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎לֶתֶךְ‎</span></big>** **lethek** <small>*(leh'-thek)*</small> ==**lethek**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root of uncertain meaning</small>
 
 $\quad$ half homer. m

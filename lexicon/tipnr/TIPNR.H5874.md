@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>En-dor</span>, a Canaanite city where Saul consulted a medium before his final battle with the Philistines.
 - A location first mentioned at [[Josh.17.11|Jos.17.11]]; 
-- only referred to as En-dor<[[H5874]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span>־<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as En-dor **<big>[[H5874|עֵין־דֹּאר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.62570020915744,35.38566744418715&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Psalm 83:10 mentions En-dor in the context of a prayer for God's judgment agains
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| En-dor (KJV, NIV= Endor) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span>־<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>ר</span>](H5874) <small>*Hebrew*</small> | 3x | [[Jos.17.11] ... [Psa.83.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.17.11;1Sa.28.7;Psa.83.10) |
-All Strong's for **En-dor**: \[[[H5874]]\]
+| En-dor (KJV, NIV= Endor) | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ין</span>־<span class='tipnrLangHebrew'>ד</span>ֹּ<span class='tipnrLangHebrew'>ר</span>](H5874) | 3x | [[Jos.17.11] ... [Psa.83.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=En\*\|reference=Jos.17.11;1Sa.28.7;Psa.83.10) |
+All entries for **En-dor**:  **<big>[[H5874|עֵין־דֹּאר]]</big>**

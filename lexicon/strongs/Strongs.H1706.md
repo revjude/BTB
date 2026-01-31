@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎דְּבַשׁ‎</span></big> **dᵉbash** <small>*(deb-ash')*</small> ==**honey**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎דְּבַשׁ‎</span></big>** **dᵉbash** <small>*(deb-ash')*</small> ==**honey**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to be gummy</small>
 
 $\quad$ honey(-comb).
@@ -7,4 +7,4 @@ $\quad$ honey(-comb).
 
 **1)** honey
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μέλι</span><sup><small>[[G3192]]</small></sup>
+<small>See Greek: </small>**<big>[[G3192|μέλι]]</big>**

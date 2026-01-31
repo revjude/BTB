@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מֵעֶה‎</span></big> **mêʻeh** <small>*(may-aw')*</small> ==**belly**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מֵעֶה‎</span></big>** **mêʻeh** <small>*(may-aw')*</small> ==**belly**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning to be soft</small>
 
 $\quad$ belly, bowels, [idiom] heart, womb.
@@ -13,4 +13,4 @@ $\quad$ **1c)** organs of procreation, womb
 $\quad$ **1d)** place of emotions or distress or love (fig.)
 $\quad$ **1e)** external belly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κοιλία</span><sup><small>[[G2836]]</small></sup>
+<small>See Greek: </small>**<big>[[G2836|κοιλία]]</big>**

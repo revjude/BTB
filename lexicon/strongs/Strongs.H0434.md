@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלוּל‎</span></big> **ʼĕlûwl** <small>*(el-ool')*</small> ==**worthless**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>for <span class="ashebrew">‎אֱלִיל‎</span><sup><small>[[H0457]]</small></sup></small>
+**<big><span class="ashebrew">‎אֱלוּל‎</span></big>** **ʼĕlûwl** <small>*(el-ool')*</small> ==**worthless**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>for **<big>[[H0457|‎אֱלִיל‎]]</big>**</small>
 
 $\quad$ thing of nought.
 - ***good for nothing***

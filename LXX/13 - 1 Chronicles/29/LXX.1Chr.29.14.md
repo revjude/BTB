@@ -7,31 +7,31 @@ But who [am] I, and what [is] my people, that we should be able to offer so will
 But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You.<small><sub>**MT:**</sub></small>
 [[1Chr.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.13|<< 1 Chronicles 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.15|1 Chronicles 29:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| what \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people, | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| we were strong | <big><span class="asgreek">ισχύσαμεν</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to volunteer | <big><span class="asgreek">εκουσιάσασθαί</span></big> <sup><small><small>[[G7124]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| thus? | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[are\] yours | <big><span class="asgreek">σα</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| your \[things\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">σων</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| we give | <big><span class="asgreek">δεδώκαμέν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| am | **<big>[[G1510\|ειμί]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| what \[is\] | **<big>[[G5100\|τις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my people, | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| we were strong | **<big>[[G2480\|ισχύσαμεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to volunteer | **<big>[[G7124\|εκουσιάσασθαί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| thus? | **<big>[[G3779\|ούτως]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[are\] yours | **<big>[[G4674\|σα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| all \[things\] | **<big>[[G3956\|πάντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| your \[things\]\<obj.> | **<big>[[G3588\|των]]</big>** **<big>[[G4674\|σων]]</big>** |
+| we give | **<big>[[G1325\|δεδώκαμέν]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[1Chr.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.13|<< 1 Chronicles 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.15|1 Chronicles 29:15 >>]]</td></tr></table>
 
 

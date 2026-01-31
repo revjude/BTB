@@ -1,6 +1,6 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δίκτυον</span></span>, <span class="asgreek">-ον, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">רֶשֶׁת</span> <small><sup>[[H7568]]</sup></small>, <span class="ashebrew">שְׂבָכָה</span> <small><sup>[[H7639]]</sup></small> ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δίκτυον</span></span>, <span class="asgreek">-ον, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7568|רֶשֶׁת]]</big>**, **<big>[[H7639|שְׂבָכָה]]</big>** ;\] </span> </span>
 general term for a <span class="asitalic">net</span>: [[Matt.4.20|Mt 4:20]], [[Matt.4.21|21]], [[Mark.1.18|Mk 1:18]], [[Mark.1.19|19]], [[Luke.5.2|Lk 5:2]], [[Luke.5.4|4-6]], [[John.21.6|Jo 21:6]], [[John.21.8|8]], [[John.21.11|11]].†
-<span class="asre"><span class="asitalic">SYN.</span>: <span class="asgreek">ἀμφίβληστρον</span> <small><sup>[[G0293]]</sup></small> (q.v.), <span class="asgreek">σαγήνη</span> <small><sup>[[G4522]]</sup></small>. </span>
+<span class="asre"><span class="asitalic">SYN.</span>: **<big>[[G0293|ἀμφίβληστρον]]</big>** (q.v.), **<big>[[G4522|σαγήνη]]</big>**. </span>
 
 **Abbott-Smith References**
 

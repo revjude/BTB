@@ -11,30 +11,30 @@ You have turned things upside down, as if the potter were regarded as clay. Shal
 > $\quad$ referenced by: [[Rom.9.20|Rom 9:20]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| clay | <big><span class="asgreek">πηλός</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
-| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| potter | <big><span class="asgreek">κεραμέως</span></big> <sup><small><small>[[G2763]]</small></small></sup> |
-| be considered | <big><span class="asgreek">λογισθήσεσθε</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing shaped | <big><span class="asgreek">πλάσμα</span></big> <sup><small><small>[[G4110]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one shaping, | <big><span class="asgreek">πλάσαντι</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| You did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shape me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έπλασας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thing made | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| by the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one making it, | <big><span class="asgreek">ποιήσαντι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| expertly | <big><span class="asgreek">συνετώς</span></big> <sup><small><small>[[G9319]]</small></small></sup> |
-| You did | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| clay | **<big>[[G4081\|πηλός]]</big>** |
+| for the | **<big>[[G3588\|του]]</big>** |
+| potter | **<big>[[G2763\|κεραμέως]]</big>** |
+| be considered | **<big>[[G3049\|λογισθήσεσθε]]</big>** |
+| Shall | **<big>[[G3361\|μη]]</big>** |
+| say | **<big>[[G2046\|ερεί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| thing shaped | **<big>[[G4110\|πλάσμα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one shaping, | **<big>[[G4111\|πλάσαντι]]</big>** |
+| You did not | **<big>[[G3756\|ου]]</big>** **<big>[[G1473\|συ]]</big>** |
+| shape me. | **<big>[[G1473\|με]]</big>** **<big>[[G4111\|έπλασας]]</big>** |
+| Or | **<big>[[G2228\|η]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| thing made | **<big>[[G4161\|ποίημα]]</big>** |
+| by the | **<big>[[G3588\|τω]]</big>** |
+| one making it, | **<big>[[G4160\|ποιήσαντι]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| expertly | **<big>[[G9319\|συνετώς]]</big>** |
+| You did | **<big>[[G1473\|με]]</big>** **<big>[[G4160\|εποίησας]]</big>** |
 [[Isa.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.15|<< Isaiah 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.17|Isaiah 29:17 >>]]</td></tr></table>
 
 

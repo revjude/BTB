@@ -7,24 +7,24 @@ Have all the workers of iniquity no knowledge? who eat up my people [as] they ea
 Will the workers of iniquity never learn? They devour my people like bread; they refuse to call upon the LORD.<small><sub>**MT:**</sub></small>
 [[Ps.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.3|<< Psalm 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.5|Psalm 14:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
-| know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| working | <big><span class="asgreek">εργαζόμενοι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devouring | <big><span class="asgreek">εσθίοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[as the\] food | <big><span class="asgreek">βρώσει</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| of bread? | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| They called not upon | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επεκαλέσαντο</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| not | **<big>[[G3780\|ουχί]]</big>** |
+| know | **<big>[[G1097\|γνώσονται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| working | **<big>[[G2038\|εργαζόμενοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομίαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| devouring | **<big>[[G2068\|εσθίοντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[as the\] food | **<big>[[G1035\|βρώσει]]</big>** |
+| of bread? | **<big>[[G0740\|άρτου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| They called not upon | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1941\|επεκαλέσαντο]]</big>** |
 [[Ps.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.3|<< Psalm 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.5|Psalm 14:5 >>]]</td></tr></table>
 
 

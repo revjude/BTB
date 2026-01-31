@@ -6,15 +6,15 @@ But together they lie down in the dust, and worms cover them both.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.25|<< Job 21:25]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.27|Job 21:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| together  | <span class="ashebrew"><big>יַ֭חַד </big></span><small><small><sup>[[H3162A]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dust  | <span class="ashebrew"><big>עָפָ֣ר </big></span><small><small><sup>[[H6083]]</sup></small></small> &#8207;| 'a.Far <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will lie  | <span class="ashebrew"><big>יִשְׁכָּ֑בוּ </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| yish.Ka.vu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a maggot  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רִמָּ֗ה </big></span><small><small><sup>[[H7415]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ri.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will cover  | <span class="ashebrew"><big>תְּכַסֶּ֥ה </big></span><small><small><sup>[[H3680]]</sup></small></small> &#8207;| te.kha.Seh <small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over them  | <span class="ashebrew"><big>עֲלֵי </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.lei. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162A\|יַ֭חַד]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dust  |**<big>&#8207;[[H6083\|עָפָ֣ר]]&#8207; </big>**| 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will lie  |**<big>&#8207;[[H7901G\|יִשְׁכָּ֑בוּ]]&#8207; </big>**| yish.Ka.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a maggot  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H7415\|רִמָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ri.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will cover  |**<big>&#8207;[[H3680\|תְּכַסֶּ֥ה]]&#8207; </big>**| te.kha.Seh<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.25|<< Job 21:25]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.27|Job 21:27 >>]]</td></tr></table>
 
 

@@ -1,5 +1,4 @@
-<span class="asaramaic">‎נְהִירוּ‎</span> <small>***(ne.hi.ru)***</small> ==**illumination**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H5102B]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H5102B|נָהַר]]</big>**</small> 
 
 - illumination, insight
-- Aramaic of <i>na.har</i> (<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ה‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to shine" [[H5102B]])
+- Aramaic of <i>na.har</i> (<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎ה‎</span>ַ<span class='ashebrew'>‎ר‎</span> "to shine" **<big>[[H5102B|נָהַר]]</big>**)

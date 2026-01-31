@@ -7,32 +7,32 @@ Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; fo
 Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for Nebuchadnezzar king of Babylon has drawn up a plan against you; he has devised a strategy against you.<small><sub>**MT:**</sub></small>
 [[Jer.49.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Flee | <big><span class="asgreek">φεύγετε</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| exceedingly! | <big><span class="asgreek">λίαν</span></big> <sup><small><small>[[G3029]]</small></small></sup> |
-| Deepen | <big><span class="asgreek">εβαθύνατε</span></big> <sup><small><small>[[G0900]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| sitting! | <big><span class="asgreek">κάθισιν</span></big> <sup><small><small>[[G7759]]</small></small></sup> |
-| sitting down | <big><span class="asgreek">καθήμενοι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard, | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| planned | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| a plan, | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| devised | <big><span class="asgreek">ελογίσατο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a device. | <big><span class="asgreek">λογισμόν</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
+| Flee | **<big>[[G5343\|φεύγετε]]</big>** |
+| exceedingly! | **<big>[[G3029\|λίαν]]</big>** |
+| Deepen | **<big>[[G0900\|εβαθύνατε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| sitting! | **<big>[[G7759\|κάθισιν]]</big>** |
+| sitting down | **<big>[[G2521\|καθήμενοι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| courtyard, | **<big>[[G0833\|αυλή]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| planned | **<big>[[G1011\|εβουλεύσατο]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| a plan, | **<big>[[G1012\|βουλήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| devised | **<big>[[G3049\|ελογίσατο]]</big>** |
+| against | **<big>[[G1909\|εφ΄]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| a device. | **<big>[[G3053\|λογισμόν]]</big>** |
 [[Jer.49.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
 

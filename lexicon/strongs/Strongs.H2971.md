@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָאִיר‎</span></big> **Yâʼîyr** <small>*(yaw-ere')*</small> ==**Jair**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אוֹר‎</span><sup><small>[[H0215]]</small></sup>; enlightener</small>
+**<big><span class="ashebrew">‎יָאִיר‎</span></big>** **Yâʼîyr** <small>*(yaw-ere')*</small> ==**Jair**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0215|‎אוֹר‎]]</big>**; enlightener</small>
 
 $\quad$ Jair.
 - § Jair = *"he enlightens"*
@@ -10,4 +10,4 @@ $\quad$ Jair.
 **3)** a Benjamite, son of Kish, and father of Mordecai
 **4)** father of Elhanan, one of David's mighty warriors
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἰάειρος</span><sup><small>[[G2383]]</small></sup>
+<small>See Greek: </small>**<big>[[G2383|Ἰάειρος]]</big>**

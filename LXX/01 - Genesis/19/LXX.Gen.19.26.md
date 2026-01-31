@@ -14,19 +14,19 @@ But Lot’s wife looked back, and she became a pillar of salt.<small><sub>**MT:
 > $\quad$ referenced by: [[Luke.17.32|Luke 17:32]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| looked | <big><span class="asgreek">επέβλεψεν</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rear, | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a monument | <big><span class="asgreek">στήλη</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
-| of salt. | <big><span class="asgreek">αλός</span></big> <sup><small><small>[[G0251]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| looked | **<big>[[G1914\|επέβλεψεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rear, | **<big>[[G3694\|οπίσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she became | **<big>[[G1096\|εγένετο]]</big>** |
+| a monument | **<big>[[G9171\|στήλη]]</big>** |
+| of salt. | **<big>[[G0251\|αλός]]</big>** |
 [[Gen.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.25|<< Genesis 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.27|Genesis 19:27 >>]]</td></tr></table>
 
 

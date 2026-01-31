@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עֶשְׂרִין‎</span></big> **ʻesrîyn** <small>*(es-reen')*</small> ==**twenty**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עֶשְׂרִים‎</span><sup><small>[[H6242]]</small></sup></small>
+**<big><span class="asaramaic">‎עֶשְׂרִין‎</span></big>** **ʻesrîyn** <small>*(es-reen')*</small> ==**twenty**==  <sup><small>[[TEHMC#A:N|A:N]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6242|‎עֶשְׂרִים‎]]</big>**</small>
 
 $\quad$ twenty.
 - {***twenty***

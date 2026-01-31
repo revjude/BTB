@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אוּל‎</span></big> **ʼûwl** <small>*(ool)*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎אוּל‎</span></big>** **ʼûwl** <small>*(ool)*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to twist, i.e. (by implication) be strong</small>
 
 $\quad$ mighty, strength.

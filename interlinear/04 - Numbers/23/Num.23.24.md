@@ -6,22 +6,22 @@ Behold, the people rise like a lioness; they rouse themselves like a lion, not r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.23|<< Numbers 23:23]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.25|Numbers 23:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הֶן </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hen- <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a people  | <span class="ashebrew"><big>עָם֙ </big></span><small><small><sup>[[H5971A]]</sup></small></small> &#8207;| 'am <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a lion  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>לָבִ֣יא </big></span><small><small><sup>[[H3833C]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> la.Vi' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it rises  | <span class="ashebrew"><big>יָק֔וּם </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| ya.Kum <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like a lion  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כַ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>אֲרִ֖י </big></span><small><small><sup>[[H0738A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha. <small><sup>[[HR]]</sup></small> 'a.Ri <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it lifts itself up  | <span class="ashebrew"><big>יִתְנַשָּׂ֑א </big></span><small><small><sup>[[H5375G]]</sup></small></small> &#8207;| yit.na.Sa' <small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will lie down  | <span class="ashebrew"><big>יִשְׁכַּב֙ </big></span><small><small><sup>[[H7901G]]</sup></small></small> &#8207;| yish.Kav <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will devour  | <span class="ashebrew"><big>יֹ֣אכַל </big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| Yo.khal <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prey  | <span class="ashebrew"><big>טֶ֔רֶף </big></span><small><small><sup>[[H2964]]</sup></small></small> &#8207;| Te.ref <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] blood of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דַם </big></span><small><small><sup>[[H1818]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> dam- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those] slain  | <span class="ashebrew"><big>חֲלָלִ֖ים </big></span><small><small><sup>[[H2491A]]</sup></small></small> &#8207;| cha.la.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will drink  | <span class="ashebrew"><big>יִשְׁתֶּֽה </big></span><small><small><sup>[[H8354]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yish.Teh <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2005\|הֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  |**<big>&#8207;[[H5971A\|עָם֙]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a lion  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3833C\|לָבִ֣יא]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> la.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it rises  |**<big>&#8207;[[H6965B\|יָק֔וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like a lion  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H0738A\|אֲרִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HR]]</sup></small> 'a.Ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it lifts itself up  |**<big>&#8207;[[H5375G\|יִתְנַשָּׂ֑א]]&#8207; </big>**| yit.na.Sa'<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will lie down  |**<big>&#8207;[[H7901G\|יִשְׁכַּב֙]]&#8207; </big>**| yish.Kav<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will devour  |**<big>&#8207;[[H0398\|יֹ֣אכַל]]&#8207; </big>**| Yo.khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prey  |**<big>&#8207;[[H2964\|טֶ֔רֶף]]&#8207; </big>**| Te.ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] blood of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1818\|דַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> dam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] slain  |**<big>&#8207;[[H2491A\|חֲלָלִ֖ים]]&#8207; </big>**| cha.la.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will drink  |**<big>&#8207;[[H8354\|יִשְׁתֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.Teh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.23|<< Numbers 23:23]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.25|Numbers 23:25 >>]]</td></tr></table>
 
 

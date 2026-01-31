@@ -6,11 +6,11 @@ Pelatiah, Hanan, Anaiah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.21|<< Nehemiah 10:21]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.23|Nehemiah 10:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Pelatiah  | <span class="ashebrew"><big>פְּלַטְיָ֥ה </big></span><small><small><sup>[[H6410I]]</sup></small></small> &#8207;| pe.lat.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hanan  | <span class="ashebrew"><big>חָנָ֖ן </big></span><small><small><sup>[[H2605L]]</sup></small></small> &#8207;| cha.Nan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Anaiah  | <span class="ashebrew"><big>עֲנָיָֽה </big></span><small><small><sup>[[H6043H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.na.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pelatiah  |**<big>&#8207;[[H6410I\|פְּלַטְיָ֥ה]]&#8207; </big>**| pe.lat.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hanan  |**<big>&#8207;[[H2605L\|חָנָ֖ן]]&#8207; </big>**| cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Anaiah  |**<big>&#8207;[[H6043H\|עֲנָיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.na.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.21|<< Nehemiah 10:21]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.23|Nehemiah 10:23 >>]]</td></tr></table>
 
 

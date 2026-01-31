@@ -6,19 +6,19 @@ For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.0|<< Psalms 13:0]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.2|Psalms 13:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>אָ֣נָה </big></span><small><small><sup>[[H0575]]</sup></small></small> &#8207;| 'A.nah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you forget me  | <span class="ashebrew"><big>תִּשְׁכָּחֵ֣ </big></span><small><small><sup>[[H7911]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| tish.ka.Che. <small><sup>[[HVqi2ms]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  | <span class="ashebrew"><big>נֶ֑צַח </big></span><small><small><sup>[[H5331]]</sup></small></small> &#8207;| Ne.tzach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| when?  | <span class="ashebrew"><big>אָ֓נָה </big></span><small><small><sup>[[H0575]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| 'A.nah <small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you hide  | <span class="ashebrew"><big>תַּסְתִּ֖יר </big></span><small><small><sup>[[H5641]]</sup></small></small> &#8207;| tas.Tir <small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face your  | <span class="ashebrew"><big>פָּנֶ֣י </big></span><small><small><sup>[[H6440H]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| pa.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from me  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נִּי </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H0575\|אָ֣נָה]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you forget me  |**<big>&#8207;[[H7911\|תִּשְׁכָּחֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| tish.ka.Che.<small><sup>[[HVqi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5331\|נֶ֑צַח]]&#8207; </big>**| Ne.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  |**<big>&#8207;[[H0575\|אָ֓נָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you hide  |**<big>&#8207;[[H5641\|תַּסְתִּ֖יר]]&#8207; </big>**| tas.Tir<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  |**<big>&#8207;[[H6440H\|פָּנֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9030\|נִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.0|<< Psalms 13:0]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.2|Psalms 13:2 >>]]</td></tr></table>
 
 

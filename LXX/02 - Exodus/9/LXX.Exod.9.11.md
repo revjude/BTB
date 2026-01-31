@@ -7,31 +7,31 @@ And the magicians could not stand before Moses because of the boils; for the boi
 The magicians could not stand before Moses, because the boils had broken out on them and on all the Egyptians.<small><sub>**MT:**</sub></small>
 [[Exod.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.10|<< Exodus 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.12|Exodus 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sorcerers | <big><span class="asgreek">φαρμακοί</span></big> <sup><small><small>[[G5333]]</small></small></sup> |
-| to stand | <big><span class="asgreek">στήναι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sores. | <big><span class="asgreek">έλκη</span></big> <sup><small><small>[[G1668]]</small></small></sup> |
-| happened | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sores | <big><span class="asgreek">έλκη</span></big> <sup><small><small>[[G1668]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sorcerers, | <big><span class="asgreek">φαρμακοίς</span></big> <sup><small><small>[[G5333]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδύναντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sorcerers | **<big>[[G5333\|φαρμακοί]]</big>** |
+| to stand | **<big>[[G2476\|στήναι]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sores. | **<big>[[G1668\|έλκη]]</big>** |
+| happened | **<big>[[G1096\|εγένετο]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sores | **<big>[[G1668\|έλκη]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| sorcerers, | **<big>[[G5333\|φαρμακοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτω]]</big>** |
 [[Exod.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.10|<< Exodus 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.12|Exodus 9:12 >>]]</td></tr></table>
 
 

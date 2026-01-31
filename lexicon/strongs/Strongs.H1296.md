@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֶּרֶכְיָה‎</span></big> **Berekyâh** <small>*(beh-rek-yaw')*</small> ==**Berechiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">בֶּרֶכְיָהוּ</span> **Berekyâhûw** <small>*(beh-rek-yaw'-hoo)*</small>; from <span class="ashebrew">‎בֶּרֶךְ‎</span><sup><small>[[H1290]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; knee (i.e. blessing) of Jah</small>
+**<big><span class="ashebrew">‎בֶּרֶכְיָה‎</span></big>** **Berekyâh** <small>*(beh-rek-yaw')*</small> ==**Berechiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">בֶּרֶכְיָהוּ</span></big>** **Berekyâhûw** <small>*(beh-rek-yaw'-hoo)*</small>; from **<big>[[H1290|‎בֶּרֶךְ‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; knee (i.e. blessing) of Jah</small>
 
 $\quad$ Berachiah, Berechiah.
 - § Berachiah or Berechiah = *"Jehovah blesses"*
@@ -12,4 +12,4 @@ $\quad$ Berachiah, Berechiah.
 **5)** a Gershonite Levite, the father of Asaph, the singer, doorkeeper of the ark
 **6)** an Ephraimite chief in the time of Ahaz
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Βαραχίας</span><sup><small>[[G0914]]</small></sup>
+<small>See Greek: </small>**<big>[[G0914|Βαραχίας]]</big>**

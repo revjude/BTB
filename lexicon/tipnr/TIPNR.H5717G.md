@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Adiel</span> was one of the Simeonite leaders who, during the reign of King Hezekiah, attacked the Hamites and Meunites in the valley of Gedor and settled in their lands.
 - A man from the tribe of Simeon\(?\) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.36|1Ch.4.36]]; 
-- only referred to as Adiel<[[H5717G]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- only referred to as Adiel **<big>[[H5717|עֲדִיאֵל]]</big>**.
 
 Adiel is mentioned in [[1Chr.4.36|1 Chronicles 4:36]] as one of the leaders of the tribe of Simeon during the reign of King Hezekiah of Judah. He is listed among the Simeonites who attacked the Hamites and Meunites in the valley of Gedor, east of Gerar. 
 
@@ -16,5 +16,5 @@ Apart from this brief account, no other details are provided about Adiel's life,
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Adiel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5717G) <small>*Hebrew*</small> | 1x | [1Ch.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adiel\*\|reference=1Ch.4.36) |
-All Strong's for **Adiel**: \[[[H5717G]]\]
+| Adiel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5717G) | 1x | [1Ch.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adiel\*\|reference=1Ch.4.36) |
+All entries for **Adiel**:  **<big>[[H5717|עֲדִיאֵל]]</big>**

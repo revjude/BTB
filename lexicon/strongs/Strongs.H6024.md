@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲנָב‎</span></big> **ʻĂnâb** <small>*(an-awb')*</small> ==**Anab**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎עֵנָב‎</span><sup><small>[[H6025]]</small></sup>; fruit</small>
+**<big><span class="ashebrew">‎עֲנָב‎</span></big>** **ʻĂnâb** <small>*(an-awb')*</small> ==**Anab**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the same as **<big>[[H6025|‎עֵנָב‎]]</big>**; fruit</small>
 
 $\quad$ Anab.
 - § Anab = *"fruit"*

@@ -9,30 +9,30 @@ They say to their mothers, Where [is] corn and wine? when they swooned as the wo
 They cry out to their mothers: “Where is the grain and wine?” as they faint like the wounded in the streets of the city, as their lives fade away in the arms of their mothers.<small><sub>**MT:**</sub></small>
 [[Lam.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.11|<< Lamentations 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.13|Lamentations 2:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΛΑΜΕΔ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΛΑΜΕΔ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| To their mothers | <big><span class="asgreek">μητράσιν</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Where \[is\] | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| \[the\] grain | <big><span class="asgreek">σίτος</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine? | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| while | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| they were enfeebled | <big><span class="asgreek">εκλύεσθαι</span></big> <sup><small><small>[[G1590]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| wounded men | <big><span class="asgreek">τραυματίας</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] squares | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| of the city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pouring out | <big><span class="asgreek">εκχείσθαι</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| of their souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] bosom | <big><span class="asgreek">κόλπον</span></big> <sup><small><small>[[G2859]]</small></small></sup> |
-| of their mothers. | <big><span class="asgreek">μητέρων</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΛΑΜΕΔ <sup><small>[acrostic title]</small></sup> |  |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| To their mothers | **<big>[[G3384\|μητράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| Where \[is\] | **<big>[[G4226\|που]]</big>** |
+| \[the\] grain | **<big>[[G4621\|σίτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine? | **<big>[[G3631\|οίνος]]</big>** |
+| while | **<big>[[G1722\|εν]]</big>** **<big>[[G3588\|τω]]</big>** |
+| they were enfeebled | **<big>[[G1590\|εκλύεσθαι]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| wounded men | **<big>[[G9470\|τραυματίας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] squares | **<big>[[G4113\|πλατείαις]]</big>** |
+| of the city, | **<big>[[G4172\|πόλεως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| pouring out | **<big>[[G1632\|εκχείσθαι]]</big>** |
+| of their souls | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] bosom | **<big>[[G2859\|κόλπον]]</big>** |
+| of their mothers. | **<big>[[G3384\|μητέρων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lam.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.11|<< Lamentations 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.13|Lamentations 2:13 >>]]</td></tr></table>
 
 

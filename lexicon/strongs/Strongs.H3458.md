@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשְׁמָעֵאל‎</span></big> **Yishmâʻêʼl** <small>*(yish-maw-ale')*</small> ==**Ishmael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God will hear</small>
+**<big><span class="ashebrew">‎יִשְׁמָעֵאל‎</span></big>** **Yishmâʻêʼl** <small>*(yish-maw-ale')*</small> ==**Ishmael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8085|‎שָׁמַע‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God will hear</small>
 
 $\quad$ Ishmael.
 - § Ishmael = *"God will hear"*

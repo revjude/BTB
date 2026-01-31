@@ -7,30 +7,30 @@ Woe unto them that join house to house, [that] lay field to field, till [there b
 Woe to you who add house to house and join field to field until no place is left and you live alone in the land.<small><sub>**MT:**</sub></small>
 [[Isa.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.7|<< Isaiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.9|Isaiah 5:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| to the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones joining together | <big><span class="asgreek">συνάπτοντες</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| nearing | <big><span class="asgreek">εγγίζοντες</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
-| they should remove | <big><span class="asgreek">αφέλωνταί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will you not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| live | <big><span class="asgreek">οικήσετε</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνοι</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| to the | **<big>[[G3588\|οι]]</big>** |
+| ones joining together | **<big>[[G9297\|συνάπτοντες]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| house, | **<big>[[G3614\|οικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| field | **<big>[[G0068\|αγρόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| field | **<big>[[G0068\|αγρόν]]</big>** |
+| nearing | **<big>[[G1448\|εγγίζοντες]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of their neighbor | **<big>[[G4139\|πλησίον]]</big>** |
+| they should remove | **<big>[[G0851\|αφέλωνταί]]</big>** |
+| anything | **<big>[[G5100\|τι]]</big>** |
+| will you not | **<big>[[G3361\|μη]]</big>** |
+| live | **<big>[[G3611\|οικήσετε]]</big>** |
+| alone | **<big>[[G3441\|μόνοι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land? | **<big>[[G1093\|γης]]</big>** |
 [[Isa.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.7|<< Isaiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.9|Isaiah 5:9 >>]]</td></tr></table>
 
 

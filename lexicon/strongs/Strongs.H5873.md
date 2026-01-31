@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵין גַּנִּים‎</span></big> **ʻÊyn Gannîym** <small>*(ane gan-neem')*</small> ==**En-gannim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup> and the plural of <span class="ashebrew">‎גַּן‎</span><sup><small>[[H1588]]</small></sup>; fountain of gardens</small>
+**<big><span class="ashebrew">‎עֵין גַּנִּים‎</span></big>** **ʻÊyn Gannîym** <small>*(ane gan-neem')*</small> ==**En-gannim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5869|‎עַיִן‎]]</big>** and the plural of **<big>[[H1588|‎גַּן‎]]</big>**; fountain of gardens</small>
 
 $\quad$ En-gannim.
 - § En-gannim = *"fountain of the garden"*

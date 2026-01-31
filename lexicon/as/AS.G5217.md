@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὑπ-άγω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Exod.14.21|Ex 14:21]] (<span class="ashebrew">הָלַךְ</span> <small><sup>[[H1980]]</sup></small> hi.), elsewhere only as v.l., [[Tob.8.21|To 8:21]], al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὑπ-άγω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Exod.14.21|Ex 14:21]] (**<big>[[H1980|הָלַךְ]]</big>** hi.), elsewhere only as v.l., [[Tob.8.21|To 8:21]], al. ;\] </span> </span>
 a word of the vulgar language, in Pres. and impf. only (Bl., § 53, 1).
 <span class="asbullet"><span class="asbold">I.</span> Trans.</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to lead</span> or <span class="asitalic">bring under, subdue</span> (Hom., Hdt., al.; [[LXX.Exod.14.21|Ex, l.c.]].</span>

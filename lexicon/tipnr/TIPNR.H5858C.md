@@ -2,7 +2,7 @@
 
 Mount Ebal, also known as Mount Zalmon or Mount Ephraim, was a mountain in Canaan where the Israelites held a ceremony of curses and blessings \(Deuteronomy 11:29; 27:4, 13; [[Josh.8.30|Joshua 8:30]], 33; [[Judg.9.48|Judges 9:48]]; Psalm 68:14; [[Jer.4.15|Jeremiah 4:15]]\).
 - A location first mentioned at [[Neh.3.29|Deu.11.29]]; 
-- referred to as Ebal\_Mount<[[H5858C]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יב</span>ָ<span class='tipnrLangHebrew'>ל</span>\), or \(Mount \)Zalmon or Zalmon<[[H6756A]]> \(<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or \(Mount \)Ephraim<[[H0669J]]> \(<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>\).
+- referred to as Ebal\_Mount **<big>[[H5858|עֵיבָל]]</big>**, or \(Mount \)Zalmon or Zalmon **<big>[[H6756|צַלְמוֹן]]</big>**, or \(Mount \)Ephraim **<big>[[H0669|אֶפְרַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.23293813761263,35.27304180036391&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,8 +10,8 @@ Mount Ebal, also referred to as Mount Zalmon or Mount Ephraim, was a mountain lo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Ebal | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H5858C) <small>*Hebrew*</small> | 5x | [[Deu.11.29] ... [Jos.8.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebal\*\|reference=Deu.11.29;Deu.27.4;Deu.27.13;Jos.8.30;Jos.8.33) |
-| (Mount )Zalmon | [<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6756A) <small>*Hebrew*</small> | 1x | [Jdg.9.48 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zalmon\*\|reference=Jdg.9.48) |
-| Zalmon | [<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6756A) <small>*Hebrew*</small> | 1x | [Psa.68.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zalmon\*\|reference=Psa.68.14) |
-| (Mount )Ephraim | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669J) <small>*Hebrew*</small> | 1x | [Jer.4.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=Jer.4.15) |
-All Strong's for **Ebal_Mount or Zalmon_Mount or Zalmon or Ephraim_Mount**: \[[[H5858C]]\] \[[[H6756A]]\] \[[[H0669J]]\]
+| (Mount )Ebal | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יב</span>ָ<span class='tipnrLangHebrew'>ל</span>](H5858C) | 5x | [[Deu.11.29] ... [Jos.8.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ebal\*\|reference=Deu.11.29;Deu.27.4;Deu.27.13;Jos.8.30;Jos.8.33) |
+| (Mount )Zalmon | [<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6756A) | 1x | [Jdg.9.48 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zalmon\*\|reference=Jdg.9.48) |
+| Zalmon | [<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6756A) | 1x | [Psa.68.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zalmon\*\|reference=Psa.68.14) |
+| (Mount )Ephraim | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ם</span>](H0669J) | 1x | [Jer.4.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephraim\*\|reference=Jer.4.15) |
+All entries for **Ebal Mount or Zalmon Mount or Zalmon or Ephraim Mount**:  **<big>[[H5858|עֵיבָל]]</big>** ☩  **<big>[[H6756|צַלְמוֹן]]</big>** ☩  **<big>[[H0669|אֶפְרַיִם]]</big>**

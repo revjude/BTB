@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תּוֹרָה‎</span></big> **tôwrâh** <small>*(to-raw')*</small> ==**instruction**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">תֹּרָה</span> **tôrâh** <small>*(to-raw')*</small>; from <span class="ashebrew">‎יָרָה‎</span><sup><small>[[H3384]]</small></sup></small>
+**<big><span class="ashebrew">‎תּוֹרָה‎</span></big>** **tôwrâh** <small>*(to-raw')*</small> ==**instruction**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">תֹּרָה</span></big>** **tôrâh** <small>*(to-raw')*</small>; from **<big>[[H3384|‎יָרָה‎]]</big>**</small>
 
 $\quad$ law.
 - ***a precept*** or ***statute***, especially the Decalogue or Pentateuch

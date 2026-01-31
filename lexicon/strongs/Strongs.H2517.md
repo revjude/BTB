@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶלְקַי‎</span></big> **Chelqay** <small>*(khel-kah'ee)*</small> ==**Helkai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָלַק‎</span><sup><small>[[H2505]]</small></sup>; apportioned</small>
+**<big><span class="ashebrew">‎חֶלְקַי‎</span></big>** **Chelqay** <small>*(khel-kah'ee)*</small> ==**Helkai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2505|‎חָלַק‎]]</big>**; apportioned</small>
 
 $\quad$ Helkai.
 - § Helkai = *"my portion is Jehovah"*

@@ -1,1 +1,0 @@
-<span class="ashebrew">‎דַּלָּה‎</span> <small>***(dal.lah)***</small> ==**hair**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 

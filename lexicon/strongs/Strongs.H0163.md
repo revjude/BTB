@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַהֲוָא‎</span></big> **ʼAhăvâʼ** <small>*(a-hav-aw')*</small> ==**Ahava**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אַהֲוָא‎</span></big>** **ʼAhăvâʼ** <small>*(a-hav-aw')*</small> ==**Ahava**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of foreign origin</small>
 
 $\quad$ Ahava.

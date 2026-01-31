@@ -7,25 +7,25 @@ In measure, when it shooteth forth, thou wilt debate with it: he stayeth his rou
 By warfare and exile You contended with her and removed her with a fierce wind, as on the day the east wind blows.<small><sub>**MT:**</sub></small>
 [[Isa.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| doing combat | <big><span class="asgreek">μαχόμενος</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| berating | <big><span class="asgreek">ονειδίζων</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
-| He shall send them out | <big><span class="asgreek">εξαποστελεί</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτους</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| meditating with | <big><span class="asgreek">μελετών</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a harsh | <big><span class="asgreek">σκληρώ</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
-| to do away with | <big><span class="asgreek">ανελείν</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in a spirit | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of rage? | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| doing combat | **<big>[[G3164\|μαχόμενος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| berating | **<big>[[G3679\|ονειδίζων]]</big>** |
+| He shall send them out | **<big>[[G1821\|εξαποστελεί]]</big>** **<big>[[G1473\|αυτους]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| Were | **<big>[[G1510\|ήσθα]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| meditating with | **<big>[[G3191\|μελετών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| spirit | **<big>[[G4151\|πνεύματι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| a harsh | **<big>[[G4642\|σκληρώ]]</big>** |
+| to do away with | **<big>[[G0337\|ανελείν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in a spirit | **<big>[[G4151\|πνεύματι]]</big>** |
+| of rage? | **<big>[[G2372\|θυμού]]</big>** |
 [[Isa.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 
 

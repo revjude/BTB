@@ -10,48 +10,48 @@ I saw the Lord standing upon the altar: and he said, Smite the lintel of the doo
 I saw the Lord standing beside the altar, and He said: “Strike the tops of the pillars so that the thresholds shake. Topple them on the heads of all the people, and I will kill the rest with the sword. None of those who flee will get away; none of the fugitives will escape.<small><sub>**MT:**</sub></small>
 [[Amos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.2|Amos 9:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| standing | <big><span class="asgreek">εφεστώτα</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Strike | <big><span class="asgreek">πάταξον</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| atonement-seat! | <big><span class="asgreek">ιλαστήριον</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be shaken | <big><span class="asgreek">σεισθήσεται</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gateways | <big><span class="asgreek">πρόπυλα</span></big> <sup><small><small>[[G8908]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cut | <big><span class="asgreek">διάκοψον</span></big> <sup><small><small>[[G6839]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] heads | <big><span class="asgreek">κεφαλάς</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| of all! | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remaining | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| I will kill | <big><span class="asgreek">αποκτενώ</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should one evade | <big><span class="asgreek">διαφύγη</span></big> <sup><small><small>[[G1309]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by fleeing, | <big><span class="asgreek">φεύγων</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall there be preserved one | <big><span class="asgreek">διασωθή</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by rescuing. | <big><span class="asgreek">ανασωζόμενος</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριον]]</big>** |
+| standing | **<big>[[G2186\|εφεστώτα]]</big>** |
+| at | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Strike | **<big>[[G3960\|πάταξον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| atonement-seat! | **<big>[[G2435\|ιλαστήριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be shaken | **<big>[[G4579\|σεισθήσεται]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| gateways | **<big>[[G8908\|πρόπυλα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| cut | **<big>[[G6839\|διάκοψον]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \[the\] heads | **<big>[[G2776\|κεφαλάς]]</big>** |
+| of all! | **<big>[[G3956\|πάντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| remaining | **<big>[[G2645\|καταλοίπους]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword | **<big>[[G4501\|ρομφαία]]</big>** |
+| I will kill | **<big>[[G0615\|αποκτενώ]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should one evade | **<big>[[G1309\|διαφύγη]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| by fleeing, | **<big>[[G5343\|φεύγων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall there be preserved one | **<big>[[G1295\|διασωθή]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| by rescuing. | **<big>[[G6314\|ανασωζόμενος]]</big>** |
 [[Amos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.2|Amos 9:2 >>]]</td></tr></table>
 
 

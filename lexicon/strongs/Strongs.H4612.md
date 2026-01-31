@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַעֲמָד‎</span></big> **maʻămâd** <small>*(mah-am-awd')*</small> ==**office**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָמַד‎</span><sup><small>[[H5975]]</small></sup></small>
+**<big><span class="ashebrew">‎מַעֲמָד‎</span></big>** **maʻămâd** <small>*(mah-am-awd')*</small> ==**office**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5975|‎עָמַד‎]]</big>**</small>
 
 $\quad$ attendance, office, place, state.
 - (figuratively) ***a position***

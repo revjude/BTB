@@ -1,4 +1,4 @@
-<small>Also see: [[H8048]] | [[H8051]]</small>
+<small>Also see: **<big>[[H8048|שַׁמָּה]]</big>** | **<big>[[H8051|שַׁמּוּעַ]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שִׁמְעָא‎</span> 
 
@@ -14,7 +14,7 @@ $\quad$ $\quad$ **b.** v.[[1Chr.6.24|1Chr 6:24]].
 
 
 
-<small>Also see: [[H8093]]</small>
+<small>Also see: **<big>[[H8093|שִׁמְעָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎שִׁמְעָה‎</span> **proper name, masculine** see  <span class="bdbLangHebrew">‎שִׁמְעָא‎</span> 
 

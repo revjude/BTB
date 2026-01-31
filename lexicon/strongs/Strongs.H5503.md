@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָחַר‎</span></big> **çâchar** <small>*(saw-khar')*</small> ==**to trade**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָחַר‎</span></big>** **çâchar** <small>*(saw-khar')*</small> ==**to trade**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ go about, merchant(-man), occupy with, pant, trade, traffick.
@@ -11,4 +11,4 @@ $\quad$ $\quad$ **1a1)** to go about to and fro (in business)
 $\quad$ $\quad$ **1a2)** trader, trafficker (participle)
 $\quad$ **1b)** (Pilpel) to palpitate
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐμπορεύομαι</span><sup><small>[[G1710]]</small></sup> · <span class="asgreek">ἐμπορία</span><sup><small>[[G1711]]</small></sup> · <span class="asgreek">ἔμπορος</span><sup><small>[[G1713]]</small></sup> · <span class="asgreek">ἐργάζομαι</span><sup><small>[[G2038]]</small></sup> · <span class="asgreek">πορεύομαι</span><sup><small>[[G4198]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup>
+<small>See Greek: </small>**<big>[[G1710|ἐμπορεύομαι]]</big>** · **<big>[[G1711|ἐμπορία]]</big>** · **<big>[[G1713|ἔμπορος]]</big>** · **<big>[[G2038|ἐργάζομαι]]</big>** · **<big>[[G4198|πορεύομαι]]</big>** · **<big>[[G5015|ταράσσω]]</big>**

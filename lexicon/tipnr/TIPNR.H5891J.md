@@ -1,8 +1,8 @@
 <small>*Ephah • Arabian tribe; known for their camels and dromedaries*</small>
 
 <span class='tipnrhighlight'>Ephah</span>, an Arabian tribe known for their camels and dromedaries, mentioned in Isaiah's prophecy of nations coming to Jerusalem.
-- A location near Midian<[[H4080H]]> only mentioned at [[Isa.60.6|Isa.60.6]]; 
-- only referred to as Ephah<[[H5891J]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יפ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- A location near Midian **<big>[[H4080|מִדְיָן]]</big>** only mentioned at [[Isa.60.6|Isa.60.6]]; 
+- only referred to as Ephah **<big>[[H5891|עֵיפָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=28.932881,34.90832&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Isaiah's prophecy portrays a future time when the wealth of the nations, includi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ephah | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יפ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5891J) <small>*Hebrew*</small> | 1x | [Isa.60.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephah\*\|reference=Isa.60.6) |
-All Strong's for **Ephah**: \[[[H5891J]]\]
+| Ephah | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יפ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5891J) | 1x | [Isa.60.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ephah\*\|reference=Isa.60.6) |
+All entries for **Ephah**:  **<big>[[H5891|עֵיפָה]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹשָׁה‎</span></big> **Yôwshâh** <small>*(yo-shaw')*</small> ==**Joshah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably a form of <span class="ashebrew">‎יוֹשַׁוְיָה‎</span><sup><small>[[H3145]]</small></sup></small>
+**<big><span class="ashebrew">‎יוֹשָׁה‎</span></big>** **Yôwshâh** <small>*(yo-shaw')*</small> ==**Joshah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably a form of **<big>[[H3145|‎יוֹשַׁוְיָה‎]]</big>**</small>
 
 $\quad$ Joshah.
 - § Joshah = *"Jehovah makes equal"*

@@ -7,16 +7,16 @@ The wicked worketh a deceitful work: but to him that soweth righteousness [shall
 The wicked man earns an empty wage, but he who sows righteousness reaps a true reward.<small><sub>**MT:**</sub></small>
 [[Prov.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.17|<< Proverbs 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.19|Proverbs 11:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] impious | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιεί</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| unjust | <big><span class="asgreek">άδικα</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| but \[the\] seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of \[the\] just | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| \[is a\] wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
-| of truth. | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| \[The\] impious | **<big>[[G0765\|ασεβής]]</big>** |
+| do | **<big>[[G4160\|ποιεί]]</big>** |
+| works | **<big>[[G2041\|έργα]]</big>** |
+| unjust | **<big>[[G0094\|άδικα]]</big>** |
+| but \[the\] seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of \[the\] just | **<big>[[G1342\|δικαίων]]</big>** |
+| \[is a\] wage | **<big>[[G3408\|μισθός]]</big>** |
+| of truth. | **<big>[[G0225\|αληθείας]]</big>** |
 [[Prov.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.17|<< Proverbs 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.19|Proverbs 11:19 >>]]</td></tr></table>
 
 

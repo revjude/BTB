@@ -7,25 +7,25 @@ And their feet [were] straight feet; and the sole of their feet [was] like the s
 Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze.<small><sub>**MT:**</sub></small>
 [[Ezek.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.6|<< Ezekiel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.8|Ezekiel 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their legs | <big><span class="asgreek">σκέλη</span></big> <sup><small><small>[[G4628]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] straight; | <big><span class="asgreek">ορθά</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| feathered | <big><span class="asgreek">πτερωτοί</span></big> <sup><small><small>[[G8978]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their feet | <big><span class="asgreek">πόδες</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[there were\] sparks | <big><span class="asgreek">σπινθήρες</span></big> <sup><small><small>[[G9141]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| flashing | <big><span class="asgreek">εξαστράπτων</span></big> <sup><small><small>[[G1823]]</small></small></sup> |
-| brass; | <big><span class="asgreek">χαλκός</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[were\] light | <big><span class="asgreek">ελαφραί</span></big> <sup><small><small>[[G1645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their wings | <big><span class="asgreek">πτέρυγες</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their legs | **<big>[[G4628\|σκέλη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[were\] straight; | **<big>[[G3717\|ορθά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| feathered | **<big>[[G8978\|πτερωτοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their feet | **<big>[[G4228\|πόδες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[there were\] sparks | **<big>[[G9141\|σπινθήρες]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| flashing | **<big>[[G1823\|εξαστράπτων]]</big>** |
+| brass; | **<big>[[G5475\|χαλκός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[were\] light | **<big>[[G1645\|ελαφραί]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their wings | **<big>[[G4420\|πτέρυγες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.6|<< Ezekiel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.8|Ezekiel 1:8 >>]]</td></tr></table>
 
 

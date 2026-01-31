@@ -7,42 +7,42 @@ And it shall be, [that] whosoever shall go out of the doors of thy house into th
 If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our heads.<small><sub>**MT:**</sub></small>
 [[Josh.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.18|<< Joshua 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.20|Joshua 2:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| any | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should come forth | <big><span class="asgreek">εξέλθη</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| by the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your house | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[unto\] outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| liable | <big><span class="asgreek">ένοχος</span></big> <sup><small><small>[[G1777]]</small></small></sup> |
-| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[will be\] innocent | <big><span class="asgreek">αθώοι</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your oath | <big><span class="asgreek">όρκω</span></big> <sup><small><small>[[G3727]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as many | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be | <big><span class="asgreek">γένωνται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your house, | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be liable | <big><span class="asgreek">ένοχοι</span></big> <sup><small><small>[[G1777]]</small></small></sup> <big><span class="asgreek">εσόμεθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| a hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| should have touched | <big><span class="asgreek">άψηται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| any | **<big>[[G3956\|πας]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should come forth | **<big>[[G1831\|εξέλθη]]</big>** |
+| by the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your house | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[unto\] outside, | **<big>[[G1854\|έξω]]</big>** |
+| liable | **<big>[[G1777\|ένοχος]]</big>** |
+| to himself | **<big>[[G1438\|εαυτώ]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| and we | **<big>[[G1473\|ημείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[will be\] innocent | **<big>[[G0121\|αθώοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your oath | **<big>[[G3727\|όρκω]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in this | **<big>[[G3778\|τούτω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| as many | **<big>[[G3745\|όσοι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| should be | **<big>[[G1096\|γένωνται]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your house, | **<big>[[G3614\|οικία]]</big>** **<big>[[G1473\|σου]]</big>** |
+| we | **<big>[[G1473\|ημείς]]</big>** |
+| will be liable | **<big>[[G1777\|ένοχοι]]</big>** **<big>[[G1510\|εσόμεθα]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| a hand | **<big>[[G5495\|χειρ]]</big>** |
+| should have touched | **<big>[[G0680\|άψηται]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Josh.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.18|<< Joshua 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.20|Joshua 2:20 >>]]</td></tr></table>
 
 

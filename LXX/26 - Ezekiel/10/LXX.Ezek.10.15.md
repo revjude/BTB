@@ -10,22 +10,22 @@ And the cherubims were lifted up. This [is] the living creature that I saw by th
 Then the cherubim rose upward. These were the living creatures I had seen by the River Kebar.<small><sub>**MT:**</sub></small>
 [[Ezek.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.14|<< Ezekiel 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.16|Ezekiel 10:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| departed | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim | <big><span class="asgreek">χερουβείμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living creature | <big><span class="asgreek">ζώον</span></big> <sup><small><small>[[G2226]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I saw | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chebar. | <big><span class="asgreek">Χοβάρ</span></big> <sup><small><small>[[H3529]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| departed | **<big>[[G0522\|απήραν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| cherubim | **<big>[[G5502\|χερουβείμ]]</big>** |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| living creature | **<big>[[G2226\|ζώον]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| I saw | **<big>[[G1492\|ίδον]]</big>** |
+| by | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| river | **<big>[[G4215\|ποταμού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Chebar. | **<big>[[H3529\|Χοβάρ]]</big>** |
 [[Ezek.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.14|<< Ezekiel 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.16|Ezekiel 10:16 >>]]</td></tr></table>
 
 

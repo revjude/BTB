@@ -7,33 +7,33 @@ And if so be that the king’s wrath arise, and he say unto thee, Wherefore appr
 if the king’s anger flares, he may ask you, ‘Why did you get so close to the city to fight? Did you not realize they would shoot from atop the wall?<small><sub>**MT:**</sub></small>
 [[2Sam.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.19|<< 2 Samuel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.21|2 Samuel 11:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| ascends | <big><span class="asgreek">αναβή</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should say | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is it\] that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you approached | <big><span class="asgreek">ηγγίσατε</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| to wage war? | <big><span class="asgreek">πολεμήσαι</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
-| Did you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">ήδειτε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they would shoot | <big><span class="asgreek">τοξεύσουσιν</span></big> <sup><small><small>[[G9464]]</small></small></sup> |
-| from on top | <big><span class="asgreek">απάνωθεν</span></big> <sup><small><small>[[G6400]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall? | <big><span class="asgreek">τείχους</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| that | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| ascends | **<big>[[G0305\|αναβή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| rage | **<big>[[G2372\|θυμός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should say | **<big>[[G2036\|είπη]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| Why | **<big>[[G5100\|τι]]</big>** |
+| \[is it\] that | **<big>[[G3754\|ότι]]</big>** |
+| you approached | **<big>[[G1448\|ηγγίσατε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| to wage war? | **<big>[[G4170\|πολεμήσαι]]</big>** |
+| Did you not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|ήδειτε]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| they would shoot | **<big>[[G9464\|τοξεύσουσιν]]</big>** |
+| from on top | **<big>[[G6400\|απάνωθεν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| wall? | **<big>[[G5038\|τείχους]]</big>** |
 [[2Sam.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.19|<< 2 Samuel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.21|2 Samuel 11:21 >>]]</td></tr></table>
 
 

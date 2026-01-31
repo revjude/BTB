@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Mesha</span>, a place mentioned as the limit of the territory settled by the descendants of Joktan \([[Gen.10.30|Genesis 10:30]]\).
 - A location only mentioned at [[Gen.10.30|Gen.10.30]]; 
-- only referred to as Mesha<[[H4852]]> \(<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>א</span>\).
+- only referred to as Mesha **<big>[[H4852|מֵשָׁא]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=28.857260,34.859127&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Mesha is mentioned in [[Gen.10.30|Genesis 10:30]] as one of the boundaries of th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Mesha | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>א</span>](H4852) <small>*Hebrew*</small> | 1x | [Gen.10.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesha\*\|reference=Gen.10.30) |
-All Strong's for **Mesha**: \[[[H4852]]\]
+| Mesha | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>א</span>](H4852) | 1x | [Gen.10.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mesha\*\|reference=Gen.10.30) |
+All entries for **Mesha**:  **<big>[[H4852|מֵשָׁא]]</big>**

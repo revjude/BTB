@@ -7,23 +7,23 @@ Let thy fountains be dispersed abroad, [and] rivers of waters in the streets.
 Why should your springs flow in the streets, your streams of water in the public squares?<small><sub>**MT:**</sub></small>
 [[Prov.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.15|<< Proverbs 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.17|Proverbs 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| overflow | <big><span class="asgreek">υπερεκχείσθω</span></big> <sup><small><small>[[G9547]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your own | <big><span class="asgreek">σης</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| spring; | <big><span class="asgreek">πηγής</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
-| and into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your own | <big><span class="asgreek">σας</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| squares | <big><span class="asgreek">πλατείας</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
-| go along | <big><span class="asgreek">διαπορευέσθω</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your | <big><span class="asgreek">σα</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| overflow | **<big>[[G9547\|υπερεκχείσθω]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| waters | **<big>[[G5204\|ύδατα]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your own | **<big>[[G4674\|σης]]</big>** |
+| spring; | **<big>[[G4077\|πηγής]]</big>** |
+| and into | **<big>[[G1519\|εις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| your own | **<big>[[G4674\|σας]]</big>** |
+| squares | **<big>[[G4113\|πλατείας]]</big>** |
+| go along | **<big>[[G1279\|διαπορευέσθω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your | **<big>[[G4674\|σα]]</big>** |
+| waters | **<big>[[G5204\|ύδατα]]</big>** |
 [[Prov.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.15|<< Proverbs 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.17|Proverbs 5:17 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea
 So you extended your promiscuity to Chaldea, the land of merchants—but even with this you were not satisfied!<small><sub>**MT:**</sub></small>
 [[Ezek.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.28|<< Ezekiel 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.30|Ezekiel 16:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you multiplied | <big><span class="asgreek">επλήθυνας</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your harlotries | <big><span class="asgreek">πορνείας</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Canaan, | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans; | <big><span class="asgreek">Χαλδαίους</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not even | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| were you satisfied. | <big><span class="asgreek">ενεπλήσθης</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you multiplied | **<big>[[G4129\|επλήθυνας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your harlotries | **<big>[[G4202\|πορνείας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| \[the\] land | **<big>[[G1093\|γην]]</big>** |
+| of Canaan, | **<big>[[H3668\|Χαναάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Chaldeans; | **<big>[[G5466\|Χαλδαίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not even | **<big>[[G3761\|ουδέ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| these | **<big>[[G3778\|τούτοις]]</big>** |
+| were you satisfied. | **<big>[[G1705\|ενεπλήσθης]]</big>** |
 [[Ezek.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.28|<< Ezekiel 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.30|Ezekiel 16:30 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎עֳפִי‎</span></big> **ʻŏphîy** <small>*(of-ee')*</small> ==**foliage**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎עֳפֶא‎</span><sup><small>[[H6073]]</small></sup></small>
+**<big><span class="asaramaic">‎עֳפִי‎</span></big>** **ʻŏphîy** <small>*(of-ee')*</small> ==**foliage**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6073|‎עֳפֶא‎]]</big>**</small>
 
 $\quad$ leaves.
 - ***a twig***
@@ -7,4 +7,4 @@ $\quad$ leaves.
 
 **1)** leafage, foliage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φύλλον</span><sup><small>[[G5444]]</small></sup>
+<small>See Greek: </small>**<big>[[G5444|φύλλον]]</big>**

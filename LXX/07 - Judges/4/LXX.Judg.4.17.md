@@ -7,33 +7,33 @@ Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the K
 Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite.<small><sub>**MT:**</sub></small>
 [[Judg.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.16|<< Judges 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.18|Judges 4:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Sisera | <big><span class="asgreek">Σισάρα</span></big> <sup><small><small>[[H5516]]</small></small></sup> |
-| withdrew | <big><span class="asgreek">ανεχώρησε</span></big> <sup><small><small>[[G0402]]</small></small></sup> |
-| \[by\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his feet | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of Jael | <big><span class="asgreek">Ιαήλ</span></big> <sup><small><small>[[H3278]]</small></small></sup> |
-| wife of | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| Heber | <big><span class="asgreek">Χαβέρ</span></big> <sup><small><small>[[H2268]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kenite; | <big><span class="asgreek">Κιναίου</span></big> <sup><small><small>[[H7017]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there was peace | <big><span class="asgreek">ειρήνη</span></big> <sup><small><small>[[G1515]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| Jabin | <big><span class="asgreek">Ιαβίν</span></big> <sup><small><small>[[H3003]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Hazor | <big><span class="asgreek">Ασώρ</span></big> <sup><small><small>[[H2674]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Heber | <big><span class="asgreek">Χαβέρ</span></big> <sup><small><small>[[H2268]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Kenite. | <big><span class="asgreek">Κιναίου</span></big> <sup><small><small>[[H7017]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Sisera | **<big>[[H5516\|Σισάρα]]</big>** |
+| withdrew | **<big>[[G0402\|ανεχώρησε]]</big>** |
+| \[by\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| his feet | **<big>[[G4228\|ποσίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] tent | **<big>[[G4633\|σκηνήν]]</big>** |
+| of Jael | **<big>[[H3278\|Ιαήλ]]</big>** |
+| wife of | **<big>[[G1135\|γυναικός]]</big>** |
+| Heber | **<big>[[H2268\|Χαβέρ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Kenite; | **<big>[[H7017\|Κιναίου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| there was peace | **<big>[[G1515\|ειρήνη]]</big>** **<big>[[G1510\|ην]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| Jabin | **<big>[[H3003\|Ιαβίν]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Hazor | **<big>[[H2674\|Ασώρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| of Heber | **<big>[[H2268\|Χαβέρ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Kenite. | **<big>[[H7017\|Κιναίου]]</big>** |
 [[Judg.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.16|<< Judges 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.18|Judges 4:18 >>]]</td></tr></table>
 
 

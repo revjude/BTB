@@ -1,4 +1,3 @@
-<span class="ashebrew">‎פֶּ֫לֶט‎</span> <small>***(pe.let)***</small> ==**Pelet**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.2.47|1Ch.2.47]]
--  son of Caleb ([[H3612H]]) and Jahdai ([[H3056]])
--  brother of: Regem ([[H7276]]), Jotham ([[H3147I]]), Geshan ([[H1529]]), Ephah ([[H5891I]]) and Shaaph ([[H8174]])
+-  son of Caleb (**<big>[[H3612H|כָּלֵב]]</big>**) and Jahdai (**<big>[[H3056|יֶהְדַי]]</big>**)
+-  brother of: Regem (**<big>[[H7276|רֶגֶם]]</big>**), Jotham (**<big>[[H3147I|יוֹתָם]]</big>**), Geshan (**<big>[[H1529|גֵּישָׁן]]</big>**), Ephah (**<big>[[H5891I|עֵיפָה]]</big>**) and Shaaph (**<big>[[H8174|שַׁעַף]]</big>**)

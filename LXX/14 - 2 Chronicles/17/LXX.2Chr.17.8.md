@@ -7,40 +7,40 @@ And with them [he sent] Levites, [even] Shemaiah, and Nethaniah, and Zebadiah, a
 accompanied by certain Levites—Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tob-adonijah—along with the priests Elishama and Jehoram.<small><sub>**MT:**</sub></small>
 [[2Chr.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.7|<< 2 Chronicles 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.9|2 Chronicles 17:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites -- | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| Shemaiah, | <big><span class="asgreek">Σαμαίας</span></big> <sup><small><small>[[H8098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nethaniah, | <big><span class="asgreek">Ναθανίας</span></big> <sup><small><small>[[H5418]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zebadiah, | <big><span class="asgreek">Ζαβδίας</span></big> <sup><small><small>[[H2069]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Asahel, | <big><span class="asgreek">Ασιήλ</span></big> <sup><small><small>[[H6221]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shemiramoth, | <big><span class="asgreek">Σεμιραμώθ</span></big> <sup><small><small>[[H8070]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehonathan, | <big><span class="asgreek">Ιωνάθαν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Adonijah, | <big><span class="asgreek">Αδωνίας</span></big> <sup><small><small>[[H0138]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tobijah, | <big><span class="asgreek">Τωβίας</span></big> <sup><small><small>[[H2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tob-adonijah | <big><span class="asgreek">Τωβαδωνία</span></big> <sup><small><small>[[H2899]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites; | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Elishama | <big><span class="asgreek">Ελισαμά</span></big> <sup><small><small>[[H0476]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoram, | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests. | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites -- | **<big>[[G3017\|Λευίται]]</big>** |
+| Shemaiah, | **<big>[[H8098\|Σαμαίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nethaniah, | **<big>[[H5418\|Ναθανίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zebadiah, | **<big>[[H2069\|Ζαβδίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Asahel, | **<big>[[H6221\|Ασιήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shemiramoth, | **<big>[[H8070\|Σεμιραμώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehonathan, | **<big>[[H3129\|Ιωνάθαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Adonijah, | **<big>[[H0138\|Αδωνίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tobijah, | **<big>[[H2900\|Τωβίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tob-adonijah | **<big>[[H2899\|Τωβαδωνία]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites; | **<big>[[G3017\|Λευίται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| Elishama | **<big>[[H0476\|Ελισαμά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehoram, | **<big>[[G2496\|Ιωράμ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests. | **<big>[[G2409\|ιερείς]]</big>** |
 [[2Chr.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.7|<< 2 Chronicles 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.9|2 Chronicles 17:9 >>]]</td></tr></table>
 
 

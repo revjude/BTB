@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פִּיתוֹן‎</span></big> **Pîythôwn** <small>*(pee-thone')*</small> ==**Pithon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from the same as <span class="ashebrew">‎פֹּת‎</span><sup><small>[[H6596]]</small></sup>; expansive</small>
+**<big><span class="ashebrew">‎פִּיתוֹן‎</span></big>** **Pîythôwn** <small>*(pee-thone')*</small> ==**Pithon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from the same as **<big>[[H6596|‎פֹּת‎]]</big>**; expansive</small>
 
 $\quad$ Pithon.
 - § Pithon = *"harmless"*

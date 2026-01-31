@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּשׁוּרִי‎</span></big> **Gᵉshûwrîy** <small>*(ghe-shoo-ree')*</small> ==**Geshurite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎גְּשׁוּר‎</span><sup><small>[[H1650]]</small></sup></small>
+**<big><span class="ashebrew">‎גְּשׁוּרִי‎</span></big>** **Gᵉshûwrîy** <small>*(ghe-shoo-ree')*</small> ==**Geshurite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H1650|‎גְּשׁוּר‎]]</big>**</small>
 
 $\quad$ Geshuri, Geshurites.
 - § Geshuri or Geshurites = *see Geshur*

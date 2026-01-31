@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּד‎</span></big> **Gâd** <small>*(gawd)*</small> ==**Gad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גּוּד‎</span><sup><small>[[H1464]]</small></sup></small>
+**<big><span class="ashebrew">‎גָּד‎</span></big>** **Gâd** <small>*(gawd)*</small> ==**Gad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1464|‎גּוּד‎]]</big>**</small>
 
 $\quad$ Gad.
 - § Gad = *"troop"*
@@ -10,4 +10,4 @@ $\quad$ Gad.
 **2)** the tribe descended from Gad
 **3)** a prophet during the time of David; appears to have joined David when in the hold; reappears in connection with the punishment for taking a census; also assisted in the arrangements for the musical service of the "house of God"
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Γάδ</span><sup><small>[[G1045]]</small></sup>
+<small>See Greek: </small>**<big>[[G1045|Γάδ]]</big>**

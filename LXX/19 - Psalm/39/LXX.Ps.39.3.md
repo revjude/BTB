@@ -7,22 +7,22 @@ My heart was hot within me, while I was musing the fire burned: [then] spake I w
 My heart grew hot within me; as I mused, the fire burned. Then I spoke with my tongue:<small><sub>**MT:**</sub></small>
 [[Ps.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.2|<< Psalm 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.4|Psalm 39:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| heated | <big><span class="asgreek">εθερμάνθη</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| within | <big><span class="asgreek">εντός</span></big> <sup><small><small>[[G1787]]</small></small></sup> |
-| me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my meditation | <big><span class="asgreek">μελέτη</span></big> <sup><small><small>[[G8281]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| would burn away | <big><span class="asgreek">εκκαυθήσεται</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
-| a fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| I spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| my tongue. | <big><span class="asgreek">γλώσση</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| heated | **<big>[[G2328\|εθερμάνθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| within | **<big>[[G1787\|εντός]]</big>** |
+| me; | **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my meditation | **<big>[[G8281\|μελέτη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| would burn away | **<big>[[G1572\|εκκαυθήσεται]]</big>** |
+| a fire | **<big>[[G4442\|πυρ]]</big>** |
+| I spoke | **<big>[[G2980\|ελάλησα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| my tongue. | **<big>[[G1100\|γλώσση]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.2|<< Psalm 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.4|Psalm 39:4 >>]]</td></tr></table>
 
 

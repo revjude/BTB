@@ -6,15 +6,15 @@ the birds of the air and the fish of the sea, all that swim the paths of the sea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.7|<< Psalms 8:7]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.9|Psalms 8:9 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] bird[s] of  | <span class="ashebrew"><big>צִפּ֣וֹר </big></span><small><small><sup>[[H6833]]</sup></small></small> &#8207;| tzi.Por <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] heavens  | <span class="ashebrew"><big>שָׁ֭מַיִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| Sha.ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] fish of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דְגֵ֣י </big></span><small><small><sup>[[H1709H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> de.Gei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sea  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יָּ֑ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [that which] passes through  | <span class="ashebrew"><big>עֹ֝בֵ֗ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'o.Ver <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] paths of  | <span class="ashebrew"><big>אָרְח֥וֹת </big></span><small><small><sup>[[H0734]]</sup></small></small> &#8207;| 'a.re.Chot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] seas  | <span class="ashebrew"><big>יַמִּֽים </big></span><small><small><sup>[[H3220G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bird[s] of  |**<big>&#8207;[[H6833\|צִפּ֣וֹר]]&#8207; </big>**| tzi.Por<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fish of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1709H\|דְגֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Gei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3220G\|יָּ֑ם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that which] passes through  |**<big>&#8207;[[H5674A\|עֹ֝בֵ֗ר]]&#8207; </big>**| 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] paths of  |**<big>&#8207;[[H0734\|אָרְח֥וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  |**<big>&#8207;[[H3220G\|יַמִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.7|<< Psalms 8:7]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.9|Psalms 8:9 >>]]</td></tr></table>
 
 

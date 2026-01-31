@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">βάτος</span></span>, <span class="asgreek">-ου, ὁ, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX (always masc, as in Attic): [[LXX.Exod.3.2|Ex 3:2-4]], [[LXX.Deut.33.16|De 33:16]] (<span class="ashebrew">סְנֶה</span> <small><sup>[[H5572]]</sup></small>), [[LXX.Job.31.40|Jb 31:40]] (<span class="ashebrew">בָּאְשָׁה</span> <small><sup>[[H0890]]</sup></small>)\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">βάτος</span></span>, <span class="asgreek">-ου, ὁ, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX (always masc, as in Attic): [[LXX.Exod.3.2|Ex 3:2-4]], [[LXX.Deut.33.16|De 33:16]] (**<big>[[H5572|סְנֶה]]</big>**), [[LXX.Job.31.40|Jb 31:40]] (**<big>[[H0890|בָּאְשָׁה]]</big>**)\*;\]</span> </span>
 <span class="asitalic">a bramble-bush</span>: [[Luke.6.44|Lk 6:44]], [[Acts.7.30|Ac 7:30]], [[Acts.7.35|35]]; <span class="asgreek">ἐπὶ τοῦ (τῆς) β.</span>, <span class="asitalic">in the place concerning the bush</span>: [[Mark.12.26|Mk 12:26]], [[Luke.20.37|Lk 20:37]].†
 
 **Abbott-Smith References**

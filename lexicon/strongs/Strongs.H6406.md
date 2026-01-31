@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּלְטִי‎</span></big> **Palṭîy** <small>*(pal-tee')*</small> ==**Palti**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּלַט‎</span><sup><small>[[H6403]]</small></sup>; delivered</small>
+**<big><span class="ashebrew">‎פַּלְטִי‎</span></big>** **Palṭîy** <small>*(pal-tee')*</small> ==**Palti**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6403|‎פָּלַט‎]]</big>**; delivered</small>
 
 $\quad$ Palti, Phalti.
 - § Palti or Phalti = *"my deliverance"*

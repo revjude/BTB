@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָגוֹג‎</span></big> **Mâgôwg** <small>*(maw-gogue')*</small> ==**Magog**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎גּוֹג‎</span><sup><small>[[H1463]]</small></sup></small>
+**<big><span class="ashebrew">‎מָגוֹג‎</span></big>** **Mâgôwg** <small>*(maw-gogue')*</small> ==**Magog**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1463|‎גּוֹג‎]]</big>**</small>
 
 $\quad$ Magog.
 - § Magog = *"land of Gog"*
@@ -11,4 +11,4 @@ n pr m
 n pr loc
 **2)** the mountainous region between Cappadocia and Media and habitation of the descendants of Magog, son of Japheth and grandson of Noah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Γώγ</span><sup><small>[[G1136]]</small></sup> · <span class="asgreek">Μαγώγ</span><sup><small>[[G3098]]</small></sup>
+<small>See Greek: </small>**<big>[[G1136|Γώγ]]</big>** · **<big>[[G3098|Μαγώγ]]</big>**

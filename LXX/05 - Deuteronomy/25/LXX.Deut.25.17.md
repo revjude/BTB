@@ -7,19 +7,19 @@ Remember what Amalek did unto thee by the way, when ye were come forth out of Eg
 Remember what the Amalekites did to you along your way from Egypt,<small><sub>**MT:**</sub></small>
 [[Deut.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.16|<< Deuteronomy 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.18|Deuteronomy 25:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Remember | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| as many \[things\] | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| did | <big><span class="asgreek">εποίησέ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Amalek | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of your going forth | <big><span class="asgreek">εκπορευομένου</span></big> <sup><small><small>[[G1607]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Egypt! | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| Remember | **<big>[[G3403\|μνήσθητι]]</big>** |
+| as many \[things\] | **<big>[[G3745\|όσα]]</big>** |
+| did | **<big>[[G4160\|εποίησέ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| Amalek | **<big>[[H6002\|Αμαλήκ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| way | **<big>[[G3598\|οδώ]]</big>** |
+| of your going forth | **<big>[[G1607\|εκπορευομένου]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Egypt! | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Deut.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.16|<< Deuteronomy 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.18|Deuteronomy 25:18 >>]]</td></tr></table>
 
 

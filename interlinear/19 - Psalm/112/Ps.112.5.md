@@ -6,15 +6,15 @@ It is well with the man who is generous and lends freely, whose affairs are guid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.4|<< Psalms 112:4]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.6|Psalms 112:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] good  | <span class="ashebrew"><big>טֽוֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| tov- <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אִ֭ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] shows favor  | <span class="ashebrew"><big>חוֹנֵ֣ן </big></span><small><small><sup>[[H2603A]]</sup></small></small> &#8207;| cho.Nen <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [who] lends  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַלְוֶ֑ה </big></span><small><small><sup>[[H3867B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mal.Veh <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he maintains  | <span class="ashebrew"><big>יְכַלְכֵּ֖ל </big></span><small><small><sup>[[H3557]]</sup></small></small> &#8207;| ye.khal.Kel <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| affairs his  | <span class="ashebrew"><big>דְּבָרָ֣י </big></span><small><small><sup>[[H1697L]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| de.va.Ra <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with justice  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מִשְׁפָּֽט </big></span><small><small><sup>[[H4941H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> mish.Pat <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  |**<big>&#8207;[[H2896A\|טֽוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0376G\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] shows favor  |**<big>&#8207;[[H2603A\|חוֹנֵ֣ן]]&#8207; </big>**| cho.Nen<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] lends  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3867B\|מַלְוֶ֑ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.Veh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he maintains  |**<big>&#8207;[[H3557\|יְכַלְכֵּ֖ל]]&#8207; </big>**| ye.khal.Kel<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| affairs his  |**<big>&#8207;[[H1697L\|דְּבָרָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with justice  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.4|<< Psalms 112:4]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.6|Psalms 112:6 >>]]</td></tr></table>
 
 

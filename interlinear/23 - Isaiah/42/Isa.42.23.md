@@ -6,15 +6,15 @@ Who among you will pay attention to this? Who will listen and obey hereafter?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.22|<< Isaiah 42:22]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.24|Isaiah 42:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| who?  | <span class="ashebrew"><big>מִ֥י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among you  | <span class="ashebrew"><big>בָ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כֶ֖ם </big></span><small><small><sup>[[H9036]]</sup></small></small> &#8207;| va. <small><sup>[[HR]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he give ear to  | <span class="ashebrew"><big>יַאֲזִ֣ין </big></span><small><small><sup>[[H0238]]</sup></small></small> &#8207;| ya.'a.Zin <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֑את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he pay attention?  | <span class="ashebrew"><big>יַקְשִׁ֥ב </big></span><small><small><sup>[[H7181]]</sup></small></small> &#8207;| yak.Shiv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he may listen?  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִשְׁמַ֖ע </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yish.Ma' <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to afterwards  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָחֽוֹר </big></span><small><small><sup>[[H0268]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'a.Chor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  |**<big>&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among you  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he give ear to  |**<big>&#8207;[[H0238\|יַאֲזִ֣ין]]&#8207; </big>**| ya.'a.Zin<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֑את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he pay attention?  |**<big>&#8207;[[H7181\|יַקְשִׁ֥ב]]&#8207; </big>**| yak.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may listen?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8085G\|יִשְׁמַ֖ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yish.Ma'<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to afterwards  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0268\|אָחֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.22|<< Isaiah 42:22]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.24|Isaiah 42:24 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ He will be buried like a donkey, dragged away and thrown outside the gates of Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.18|<< Jeremiah 22:18]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.20|Jeremiah 22:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] burial of  | <span class="ashebrew"><big>קְבוּרַ֥ת </big></span><small><small><sup>[[H6900]]</sup></small></small> &#8207;| ke.vu.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a donkey  | <span class="ashebrew"><big>חֲמ֖וֹר </big></span><small><small><sup>[[H2543]]</sup></small></small> &#8207;| cha.Mor <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be buried  | <span class="ashebrew"><big>יִקָּבֵ֑ר </big></span><small><small><sup>[[H6912]]</sup></small></small> &#8207;| yi.ka.Ver <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people will drag  | <span class="ashebrew"><big>סָח֣וֹב </big></span><small><small><sup>[[H5498]]</sup></small></small> &#8207;| sa.Chov <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and people will throw out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הַשְׁלֵ֔ךְ </big></span><small><small><sup>[[H7993]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hash.Lekh <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from beyond  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>הָ֖לְאָה </big></span><small><small><sup>[[H1973]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> Hal.'ah <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> [the] gates of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שַׁעֲרֵ֥י </big></span><small><small><sup>[[H8179G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> sha.'a.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָֽם </big></span><small><small><sup>[[H3389]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] burial of  |**<big>&#8207;[[H6900\|קְבוּרַ֥ת]]&#8207; </big>**| ke.vu.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a donkey  |**<big>&#8207;[[H2543\|חֲמ֖וֹר]]&#8207; </big>**| cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be buried  |**<big>&#8207;[[H6912\|יִקָּבֵ֑ר]]&#8207; </big>**| yi.ka.Ver<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will drag  |**<big>&#8207;[[H5498\|סָח֣וֹב]]&#8207; </big>**| sa.Chov<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people will throw out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7993\|הַשְׁלֵ֔ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hash.Lekh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from beyond  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H1973\|הָ֖לְאָה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hal.'ah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> [the] gates of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8179G\|שַׁעֲרֵ֥י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.18|<< Jeremiah 22:18]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.20|Jeremiah 22:20 >>]]</td></tr></table>
 
 

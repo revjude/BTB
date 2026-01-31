@@ -11,34 +11,34 @@ Then the LORD said, “I will surely return to you at this time next year, and y
 > $\quad$ referenced by: [[Rom.9.9|Rom 9:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Returning, | <big><span class="asgreek">επαναστρέφων</span></big> <sup><small><small>[[G7362]]</small></small></sup> |
-| I will come | <big><span class="asgreek">ήξω</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hour; | <big><span class="asgreek">ώρας</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will have | <big><span class="asgreek">έξει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Sarah | <big><span class="asgreek">Σάρρα</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And Sarah | <big><span class="asgreek">Σάρρα</span></big> <sup><small><small>[[G4564]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| by | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent, | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| being | <big><span class="asgreek">ούσα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| behind | <big><span class="asgreek">όπισθεν</span></big> <sup><small><small>[[G3693]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And he said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Returning, | **<big>[[G7362\|επαναστρέφων]]</big>** |
+| I will come | **<big>[[G2240\|ήξω]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this time | **<big>[[G2540\|καιρόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hour; | **<big>[[G5610\|ώρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will have | **<big>[[G2192\|έξει]]</big>** |
+| a son | **<big>[[G5207\|υιόν]]</big>** |
+| Sarah | **<big>[[G4564\|Σάρρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your wife | **<big>[[G1135\|γυνή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And Sarah | **<big>[[G4564\|Σάρρα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| heard | **<big>[[G0191\|ήκουσε]]</big>** |
+| by | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door | **<big>[[G2374\|θύραν]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent, | **<big>[[G4633\|σκηνής]]</big>** |
+| being | **<big>[[G1510\|ούσα]]</big>** |
+| behind | **<big>[[G3693\|όπισθεν]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Gen.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.9|<< Genesis 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.11|Genesis 18:11 >>]]</td></tr></table>
 
 

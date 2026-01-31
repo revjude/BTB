@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gomorrah</span> was a wicked city in the plain of Jordan that God destroyed with sulfur and fire, along with Sodom, due to their grave sins.
 - A location first mentioned at [[Gen.10.19|Gen.10.19]]; 
-- referred to as Gomorrah<[[H6017]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or - \(KJV= Gomorrha\) or Gomorrah \(KJV= Gomorrha\) <[[G1116]]> \(<span class='tipnrLangGreek'>Γόμορρα</span>\).
+- referred to as Gomorrah **<big>[[H6017|עֲמֹרָה]]</big>**, or - \(KJV= Gomorrha\) or Gomorrah \(KJV= Gomorrha\)  **<big>[[G1116|Γόμοῤῥα]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.15724866533878,35.4739543300078&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,7 +18,7 @@ The exact location of Gomorrah remains unknown, as the cities were completely de
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gomorrah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6017) <small>*Hebrew*</small> | 19x | [[Gen.10.19] ... [Zep.2.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gomorrah\*\|reference=Gen.10.19;Gen.13.10;Gen.14.2;Gen.14.8;Gen.14.10;Gen.14.11;Gen.18.20;Gen.19.24;Gen.19.28;Deu.29.23;Deu.32.32;Isa.1.9;Isa.1.10;Isa.13.19;Jer.23.14;Jer.49.18;Jer.50.40;Amo.4.11;Zep.2.9) |
-| - (KJV= Gomorrha) | [<span class='tipnrLangGreek'>Γόμορρα</span>](G1116) <small>*Greek*</small> | 1x | [Mrk.6.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Mrk.6.11) |
-| Gomorrah (KJV= Gomorrha) | [<span class='tipnrLangGreek'>Γόμορρα</span>](G1116) <small>*Greek*</small> | 4x | [[Mat.10.15] ... [Jud.1.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gomorrah\*\|reference=Mat.10.15;Rom.9.29;2Pe.2.6;Jud.1.7) |
-All Strong's for **Gomorrah**: \[[[H6017]]\] \[[[G1116]]\]
+| Gomorrah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6017) | 19x | [[Gen.10.19] ... [Zep.2.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gomorrah\*\|reference=Gen.10.19;Gen.13.10;Gen.14.2;Gen.14.8;Gen.14.10;Gen.14.11;Gen.18.20;Gen.19.24;Gen.19.28;Deu.29.23;Deu.32.32;Isa.1.9;Isa.1.10;Isa.13.19;Jer.23.14;Jer.49.18;Jer.50.40;Amo.4.11;Zep.2.9) |
+| - (KJV= Gomorrha) | [<span class='tipnrLangGreek'>Γόμορρα</span>](G1116) | 1x | [Mrk.6.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Mrk.6.11) |
+| Gomorrah (KJV= Gomorrha) | [<span class='tipnrLangGreek'>Γόμορρα</span>](G1116) | 4x | [[Mat.10.15] ... [Jud.1.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gomorrah\*\|reference=Mat.10.15;Rom.9.29;2Pe.2.6;Jud.1.7) |
+All entries for **Gomorrah**:  **<big>[[H6017|עֲמֹרָה]]</big>** ☩  **<big>[[G1116|Γόμοῤῥα]]</big>**

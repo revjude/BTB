@@ -1,5 +1,4 @@
-<span class="ashebrew">‎רָם‎</span> <small>***(ram)***</small> ==**Ram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of United Monarchy, first mentioned at [[Ruth.4.19|Rut.4.19]]
--  son of: Hezron ([[H2696H]])
--  brother of: Jerahmeel ([[H3396]]), Caleb ([[H3612H]]), Segub ([[H7687H]]) and Ashhur ([[H0806]])
--  father of: Amminadab ([[H5992]]); also called Admin (KJV: Aram) at [[Luke.3.33|Luk.3.33]]
+-  son of: Hezron (**<big>[[H2696H|חֶצְרוֹן]]</big>**)
+-  brother of: Jerahmeel (**<big>[[H3396|יְרַחְמְאֵל]]</big>**), Caleb (**<big>[[H3612H|כָּלֵב]]</big>**), Segub (**<big>[[H7687H|שְׂגוּב]]</big>**) and Ashhur (**<big>[[H0806|אַשְׁחוּר]]</big>**)
+-  father of: Amminadab (**<big>[[H5992|עַמִּינָדָב]]</big>**); also called Admin (KJV: Aram) at [[Luke.3.33|Luk.3.33]]

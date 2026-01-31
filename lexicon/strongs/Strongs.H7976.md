@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁלֻּחָה‎</span></big> **shilluchâh** <small>*(shil-loo-khaw')*</small> ==**shoot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שִׁלּוּחַ‎</span><sup><small>[[H7964]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁלֻּחָה‎</span></big>** **shilluchâh** <small>*(shil-loo-khaw')*</small> ==**shoot**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H7964|‎שִׁלּוּחַ‎]]</big>**</small>
 
 $\quad$ branch.
 - ***a shoot***

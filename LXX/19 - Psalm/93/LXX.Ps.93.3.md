@@ -7,16 +7,16 @@ The floods have lifted up, O LORD, the floods have lifted up their voice; the fl
 The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves.<small><sub>**MT:**</sub></small>
 [[Ps.93.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.93.2|<< Psalm 93:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.93.4|Psalm 93:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| lifted up | <big><span class="asgreek">επήραν</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμοί</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| lifted up | <big><span class="asgreek">επήραν</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμοί</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| their voices. | <big><span class="asgreek">φωνάς</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lifted up | **<big>[[G1869\|επήραν]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| rivers | **<big>[[G4215\|ποταμοί]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| lifted up | **<big>[[G1869\|επήραν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| rivers | **<big>[[G4215\|ποταμοί]]</big>** |
+| their voices. | **<big>[[G5456\|φωνάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.93.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.93.2|<< Psalm 93:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.93.4|Psalm 93:4 >>]]</td></tr></table>
 
 

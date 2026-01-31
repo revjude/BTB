@@ -7,20 +7,20 @@ And on the sixth day eight bullocks, two rams, [and] fourteen lambs of the first
 On the sixth day you are to present eight bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
 [[Num.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.28|<< Numbers 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.30|Numbers 29:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sixth | <big><span class="asgreek">έκτη</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
-| calves | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
-| eight | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| rams | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| lambs | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| of a year \[old\] | <big><span class="asgreek">ενιαυσίους</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
-| fourteen | <big><span class="asgreek">δεκατέσσαρας</span></big> <sup><small><small>[[G1180]]</small></small></sup> |
-| unblemished | <big><span class="asgreek">αμώμους</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
+| The | **<big>[[G3588\|τη]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| sixth | **<big>[[G1623\|έκτη]]</big>** |
+| calves | **<big>[[G3448\|μόσχους]]</big>** |
+| eight | **<big>[[G3638\|οκτώ]]</big>** |
+| rams | **<big>[[G8096\|κριούς]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| lambs | **<big>[[G0286\|αμνούς]]</big>** |
+| of a year \[old\] | **<big>[[G7245\|ενιαυσίους]]</big>** |
+| fourteen | **<big>[[G1180\|δεκατέσσαρας]]</big>** |
+| unblemished | **<big>[[G0299\|αμώμους]]</big>** |
 [[Num.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.28|<< Numbers 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.30|Numbers 29:30 >>]]</td></tr></table>
 
 

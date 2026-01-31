@@ -1,4 +1,3 @@
-<span class="ashebrew">‎זִכְרִי‎</span> <small>***(zikh.ri)***</small> ==**Zichri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Divided Monarchy, only mentioned at [[1Chr.26.25|1Ch.26.25]]
--  son of: Joram ([[H3141I]])
--  father of: Shelomoth ([[H8013H]])
+-  son of: Joram (**<big>[[H3141I|יוֹרָם]]</big>**)
+-  father of: Shelomoth (**<big>[[H8013H|שְׁלֹמוֹת]]</big>**)

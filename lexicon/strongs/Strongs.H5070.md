@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָדָב‎</span></big> **Nâdâb** <small>*(naw-dawb')*</small> ==**Nadab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָדַב‎</span><sup><small>[[H5068]]</small></sup>; liberal</small>
+**<big><span class="ashebrew">‎נָדָב‎</span></big>** **Nâdâb** <small>*(naw-dawb')*</small> ==**Nadab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5068|‎נָדַב‎]]</big>**; liberal</small>
 
 $\quad$ Nadab.
 - § Nadab = *"generous"*

@@ -11,27 +11,27 @@ And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the 
 > $\quad$ referenced by: [[Acts.7.33|Acts 7:33]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| You should not approach | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εγγίσης</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| Untie | <big><span class="asgreek">λύσαι</span></big> <sup><small><small>[[G3089]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sandal | <big><span class="asgreek">υπόδημα</span></big> <sup><small><small>[[G5266]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your feet, | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| stand | <big><span class="asgreek">έστηκας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| ground | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| is holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| You should not approach | **<big>[[G3361\|μη]]</big>** **<big>[[G1448\|εγγίσης]]</big>** |
+| here. | **<big>[[G5602\|ώδε]]</big>** |
+| Untie | **<big>[[G3089\|λύσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| sandal | **<big>[[G5266\|υπόδημα]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your feet, | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for the | **<big>[[G3588\|ο]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|ω]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| stand | **<big>[[G2476\|έστηκας]]</big>** |
+| ground | **<big>[[G1093\|γη]]</big>** |
+| is holy | **<big>[[G0039\|αγία]]</big>** **<big>[[G1510\|εστί]]</big>** |
 [[Exod.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.4|<< Exodus 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.6|Exodus 3:6 >>]]</td></tr></table>
 
 

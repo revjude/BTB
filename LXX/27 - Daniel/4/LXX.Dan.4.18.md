@@ -10,44 +10,44 @@ This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare th
 This is the dream that I, King Nebuchadnezzar, saw. Now, Belteshazzar, tell me the interpretation, because none of the wise men of my kingdom can interpret it for me. But you are able, because the spirit of the holy gods is in you.”<small><sub>**MT:**</sub></small>
 [[Dan.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.17|<< Daniel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.19|Daniel 4:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| I beheld, | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Nebuchadnezzar. | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O Belteshazzar, | <big><span class="asgreek">Βαλτάσαρ</span></big> <sup><small><small>[[H1113]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκριμα</span></big> <sup><small><small>[[G9240]]</small></small></sup> |
-| tell | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise men | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δύνανται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκριμα</span></big> <sup><small><small>[[G9240]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to manifest | <big><span class="asgreek">δηλώσαί</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| are able, | <big><span class="asgreek">δύνασαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| This | **<big>[[G3778\|τούτο]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| dream | **<big>[[G1798\|ενύπνιον]]</big>** |
+| I beheld, | **<big>[[G1492\|είδον]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king, | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Nebuchadnezzar. | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O Belteshazzar, | **<big>[[H1113\|Βαλτάσαρ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| interpretation | **<big>[[G9240\|σύγκριμα]]</big>** |
+| tell | **<big>[[G2036\|είπον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| wise men | **<big>[[G4680\|σοφοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my kingdom | **<big>[[G0932\|βασιλείας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| are not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δύνανται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| interpretation | **<big>[[G9240\|σύγκριμα]]</big>** |
+| of it | **<big>[[G1473\|αυτού]]</big>** |
+| to manifest | **<big>[[G1213\|δηλώσαί]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
+| But you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| Daniel | **<big>[[G1158\|Δανιήλ]]</big>** |
+| are able, | **<big>[[G1410\|δύνασαι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| holy | **<big>[[G0039\|άγιον]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Dan.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.17|<< Daniel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.19|Daniel 4:19 >>]]</td></tr></table>
 
 

@@ -7,22 +7,22 @@ I will do these [things] unto thee, because thou hast gone a whoring after the h
 have brought these things upon you, because you have prostituted yourself with the nations and defiled yourself with their idols.<small><sub>**MT:**</sub></small>
 [[Ezek.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.29|<< Ezekiel 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.31|Ezekiel 23:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He did | <big><span class="asgreek">εποίησέ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fornicating | <big><span class="asgreek">εκπορνεύσαι</span></big> <sup><small><small>[[G1608]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you defiled yourself | <big><span class="asgreek">εμιαίνου</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ideas. | <big><span class="asgreek">ενθυμήμασιν</span></big> <sup><small><small>[[G7243]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He did | **<big>[[G4160\|εποίησέ]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your fornicating | **<big>[[G1608\|εκπορνεύσαι]]</big>** **<big>[[G1473\|σε]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| nations, | **<big>[[G1484\|εθνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you defiled yourself | **<big>[[G3392\|εμιαίνου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| their ideas. | **<big>[[G7243\|ενθυμήμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.29|<< Ezekiel 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.31|Ezekiel 23:31 >>]]</td></tr></table>
 
 

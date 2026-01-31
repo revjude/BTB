@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹרֵב‎</span></big> **ʻÔrêb** <small>*(o-rabe')*</small> ==**Oreb**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עוֹרֵב</span> **ʻÔwrêb** <small>*(o-rabe')*</small>; the same as <span class="ashebrew">‎עֹרֵב‎</span><sup><small>[[H6158]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹרֵב‎</span></big>** **ʻÔrêb** <small>*(o-rabe')*</small> ==**Oreb**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עוֹרֵב</span></big>** **ʻÔwrêb** <small>*(o-rabe')*</small>; the same as **<big>[[H6158|‎עֹרֵב‎]]</big>**</small>
 
 $\quad$ Oreb.
 - § Oreb = *"raven"*

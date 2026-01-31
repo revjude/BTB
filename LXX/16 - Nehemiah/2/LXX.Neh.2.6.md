@@ -7,40 +7,40 @@ And the king said unto me, (the queen also sitting by him,) For how long shall t
 Then the king, with the queen seated beside him, asked me, “How long will your journey take, and when will you return?” So it pleased the king to send me, and I set a time.<small><sub>**MT:**</sub></small>
 [[Neh.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.5|<< Nehemiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.7|Nehemiah 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[his\] concubine | <big><span class="asgreek">παλλακή</span></big> <sup><small><small>[[G8589]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sitting | <big><span class="asgreek">καθημένη</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For how long | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορεία</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
-| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
-| will you return? | <big><span class="asgreek">επιστρέψεις</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was good | <big><span class="asgreek">ηγαθύνθη</span></big> <sup><small><small>[[G6108]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he sent | <big><span class="asgreek">απέστειλέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I gave | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a confirmation. | <big><span class="asgreek">όρον</span></big> <sup><small><small>[[G8554]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| \[his\] concubine | **<big>[[G8589\|παλλακή]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| sitting | **<big>[[G2521\|καθημένη]]</big>** |
+| next to | **<big>[[G2192\|εχόμενα]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| For how long | **<big>[[G2193\|έως]]</big>** **<big>[[G4219\|πότε]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| going | **<big>[[G4197\|πορεία]]</big>** |
+| you | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G4219\|πότε]]</big>** |
+| will you return? | **<big>[[G1994\|επιστρέψεις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it was good | **<big>[[G6108\|ηγαθύνθη]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| king. | **<big>[[G0935\|βασιλέως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he sent | **<big>[[G0649\|απέστειλέ]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I gave | **<big>[[G1325\|έδωκα]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| a confirmation. | **<big>[[G8554\|όρον]]</big>** |
 [[Neh.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.5|<< Nehemiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.7|Nehemiah 2:7 >>]]</td></tr></table>
 
 

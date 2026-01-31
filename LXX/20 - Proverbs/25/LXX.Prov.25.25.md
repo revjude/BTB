@@ -7,20 +7,20 @@ As cold water is kind to a thirsting soul, so a good message from a land far off
 Like cold water to a weary soul is good news from a distant land.<small><sub>**MT:**</sub></small>
 [[Prov.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.24|<< Proverbs 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.26|Proverbs 25:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| cold | <big><span class="asgreek">ψυχρόν</span></big> <sup><small><small>[[G5593]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| to a thirsting | <big><span class="asgreek">διψώση</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
-| is kind | <big><span class="asgreek">προσηνές</span></big> <sup><small><small>[[G8922]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| message | <big><span class="asgreek">αγγελία</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
-| a good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| far off. | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
+| As | **<big>[[G5618\|ώσπερ]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| cold | **<big>[[G5593\|ψυχρόν]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| to a thirsting | **<big>[[G1372\|διψώση]]</big>** |
+| is kind | **<big>[[G8922\|προσηνές]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| message | **<big>[[G0031\|αγγελία]]</big>** |
+| a good | **<big>[[G0018\|αγαθή]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| a land | **<big>[[G1093\|γης]]</big>** |
+| far off. | **<big>[[G3113\|μακρόθεν]]</big>** |
 [[Prov.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.24|<< Proverbs 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.26|Proverbs 25:26 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִיר שֶׁמֶשׁ‎</span></big> **ʻÎyr Shemesh** <small>*(eer sheh'-mesh)*</small> ==**Ir-shemesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עִיר‎</span><sup><small>[[H5892]]</small></sup> and <span class="ashebrew">‎שֶׁמֶשׁ‎</span><sup><small>[[H8121]]</small></sup>; city of the sun</small>
+**<big><span class="ashebrew">‎עִיר שֶׁמֶשׁ‎</span></big>** **ʻÎyr Shemesh** <small>*(eer sheh'-mesh)*</small> ==**Ir-shemesh**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5892|‎עִיר‎]]</big>** and **<big>[[H8121|‎שֶׁמֶשׁ‎]]</big>**; city of the sun</small>
 
 $\quad$ Irshemesh.
 - § Ir-shemesh = *"city of the sun-god"*

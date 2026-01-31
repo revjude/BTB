@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוּרָא‎</span></big> **Dûwrâʼ** <small>*(doo-raw')*</small> ==**Dura**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>(Aramaic) probably from <span class="asaramaic">‎דּוּר‎</span><sup><small>[[H1753]]</small></sup>; circle or dwelling</small>
+**<big><span class="ashebrew">‎דּוּרָא‎</span></big>** **Dûwrâʼ** <small>*(doo-raw')*</small> ==**Dura**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>(Aramaic) probably from **<big>[[H1753|‎דּוּר‎]]</big>**; circle or dwelling</small>
 
 $\quad$ Dura.
 - § Dura = *"dwelling"*

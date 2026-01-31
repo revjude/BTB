@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּכַן‎</span></big> **tâkan** <small>*(taw-kan')*</small> ==**to measure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּכַן‎</span></big>** **tâkan** <small>*(taw-kan')*</small> ==**to measure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear up, direct, be (un-)equal, mete, ponder, tell, weigh.
@@ -15,4 +15,4 @@ $\quad$ **1d)** (Pual)
 $\quad$ $\quad$ **1d1)** to be weighed out, be measured out
 $\quad$ $\quad$ **1d2)** measured out (participle)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γινώσκω</span><sup><small>[[G1097]]</small></sup> · <span class="asgreek">ἑτοιμάζω</span><sup><small>[[G2090]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup> · <span class="asgreek">κατευθύνω</span><sup><small>[[G2720]]</small></sup> · <span class="asgreek">στερεόω</span><sup><small>[[G4732]]</small></sup>
+<small>See Greek: </small>**<big>[[G1097|γινώσκω]]</big>** · **<big>[[G2090|ἑτοιμάζω]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2117|εὐθύς]]</big>** · **<big>[[G2720|κατευθύνω]]</big>** · **<big>[[G4732|στερεόω]]</big>**

@@ -6,19 +6,19 @@ For the arrows of the Almighty have pierced me; my spirit drinks in their poison
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.5|Job 6:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] arrows of  | <span class="ashebrew"><big>חִצֵּ֪י </big></span><small><small><sup>[[H2671]]</sup></small></small> &#8207;| chi.Tzei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Almighty  | <span class="ashebrew"><big>שַׁדַּ֡י </big></span><small><small><sup>[[H7706]]</sup></small></small> &#8207;| sha.Dai <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] with me  | <span class="ashebrew"><big>עִמָּדִ֗ </big></span><small><small><sup>[[H5978]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'i.ma.D <small><sup>[[HR]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| poison their  | <span class="ashebrew"><big>חֲ֭מָתָ </big></span><small><small><sup>[[H2534]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| Cha.ma.to <small><sup>[[HNcfsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] drinking  | <span class="ashebrew"><big>שֹׁתָ֣ה </big></span><small><small><sup>[[H8354]]</sup></small></small> &#8207;| sho.Tah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| spirit my  | <span class="ashebrew"><big>רוּחִ֑ </big></span><small><small><sup>[[H7307G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ru.Ch <small><sup>[[HNcbsc]]</sup></small> i <small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] terrors of  | <span class="ashebrew"><big>בִּעוּתֵ֖י </big></span><small><small><sup>[[H1161]]</sup></small></small> &#8207;| bi.'u.Tei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱל֣וֹהַּ </big></span><small><small><sup>[[H0433]]</sup></small></small> &#8207;| 'e.Lo.ah <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are arranged against me  | <span class="ashebrew"><big>יַֽעַרְכֽוּ </big></span><small><small><sup>[[H6186A]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ya.'ar.Khu. <small><sup>[[HVqi3mp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] arrows of  |**<big>&#8207;[[H2671\|חִצֵּ֪י]]&#8207; </big>**| chi.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Almighty  |**<big>&#8207;[[H7706\|שַׁדַּ֡י]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] with me  |**<big>&#8207;[[H5978\|עִמָּדִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.ma.D<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poison their  |**<big>&#8207;[[H2534\|חֲ֭מָתָ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| Cha.ma.to<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] drinking  |**<big>&#8207;[[H8354\|שֹׁתָ֣ה]]&#8207; </big>**| sho.Tah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spirit my  |**<big>&#8207;[[H7307G\|רוּחִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ru.Ch<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] terrors of  |**<big>&#8207;[[H1161\|בִּעוּתֵ֖י]]&#8207; </big>**| bi.'u.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0433\|אֱל֣וֹהַּ]]&#8207; </big>**| 'e.Lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are arranged against me  |**<big>&#8207;[[H6186A\|יַֽעַרְכֽוּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.'ar.Khu.<small><sup>[[HVqi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.5|Job 6:5 >>]]</td></tr></table>
 
 

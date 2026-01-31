@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Huri</span> was a descendant of Gad, mentioned in the genealogy of the Gadites.
 - A man from the tribe of Gad  living at the time of Divided Monarchy, only mentioned at [[1Chr.5.14|1Ch.5.14]]; 
-- only referred to as Huri<[[H2359]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>\); 
-- a son of Jaroah<[[H3386]]>; 
--  father of Abihail<[[H0032I]]>.
+- only referred to as Huri **<big>[[H2359|חוּרִי]]</big>**; 
+- a son of Jaroah **<big>[[H3386|יָרוֹחַ]]</big>**; 
+-  father of Abihail **<big>[[H0032|אֲבִיהַיִל]]</big>**.
 
 Huri is mentioned in [[1Chr.5.14|1 Chronicles 5:14]] as part of the genealogy of the tribe of Gad. He is listed as the son of Jaroah, who was a descendant of Gad through Buz. 
 
@@ -18,8 +18,8 @@ Apart from being listed in this genealogy, no other information is provided abou
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Huri | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2359) <small>*Hebrew*</small> | 1x | [1Ch.5.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huri\*\|reference=1Ch.5.14) |
-All Strong's for **Huri**: \[[[H2359]]\]
+| Huri | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2359) | 1x | [1Ch.5.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huri\*\|reference=1Ch.5.14) |
+All entries for **Huri**:  **<big>[[H2359|חוּרִי]]</big>**
 #### Related Profiles:
 - **[Jaroah](H3386)** (father)
 - **[Abihail](H0032I)** (child)

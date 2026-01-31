@@ -6,13 +6,13 @@ And the east side, toward the sunrise, was also fifty cubits long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.12|<< Exodus 38:12]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.14|Exodus 38:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and for [the] side of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְאַ֛ת </big></span><small><small><sup>[[H6285]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> li <small><sup>[[HR]]</sup></small> f.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| east -ward  | <span class="ashebrew"><big>קֵ֥דְמָ </big></span><small><small><sup>[[H6924B]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| Ke.de.ma <small><sup>[[HNcmsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| east -ward  | <span class="ashebrew"><big>מִזְרָ֖חָ </big></span><small><small><sup>[[H4217H]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> &#8207;| miz.Ra.cha <small><sup>[[HNcmsa]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֥ים </big></span><small><small><sup>[[H2572]]</sup></small></small> &#8207;| cha.mi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cubit[s]  | <span class="ashebrew"><big>אַמָּֽה </big></span><small><small><sup>[[H0520A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [the] side of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6285\|פְאַ֛ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| east -ward  |**<big>&#8207;[[H6924B\|קֵ֥דְמָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Ke.de.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| east -ward  |**<big>&#8207;[[H4217H\|מִזְרָ֖חָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| miz.Ra.cha<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֥ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  |**<big>&#8207;[[H0520A\|אַמָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.12|<< Exodus 38:12]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.14|Exodus 38:14 >>]]</td></tr></table>
 
 

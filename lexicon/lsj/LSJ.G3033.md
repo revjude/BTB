@@ -1,4 +1,4 @@
-Greek of: <small>[[H3864]]</small> 
+Greek of: <small>**<big>[[H3864|לוּבִי]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==Λιβύη==</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>ἡ</span>, 

@@ -1,4 +1,4 @@
-spelling of: <small>[[G3938]]</small> 
+spelling of: <small>**<big>[[G3938|πάροδος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πάροδος==</span></b>, <span class='asgreek'>ὁ</span>, 

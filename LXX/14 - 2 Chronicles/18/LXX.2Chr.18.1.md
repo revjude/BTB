@@ -10,23 +10,23 @@ Now Jehoshaphat had riches and honour in abundance, and joined affinity with Aha
 Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage.<small><sub>**MT:**</sub></small>
 [[2Chr.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.19|<< 2 Chronicles 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.2|2 Chronicles 18:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he was allied by marriage | <big><span class="asgreek">επιγαμβρεύσατο</span></big> <sup><small><small>[[G1918]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Ahab. | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there came | **<big>[[G1096\|εγένετο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Jehoshaphat | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| still | **<big>[[G2089\|έτι]]</big>** |
+| riches | **<big>[[G4149\|πλούτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| glory | **<big>[[G1391\|δόξα]]</big>** |
+| much | **<big>[[G4183\|πολλή]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he was allied by marriage | **<big>[[G1918\|επιγαμβρεύσατο]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| house | **<big>[[G3624\|οίκω]]</big>** |
+| of Ahab. | **<big>[[H0256\|Αχαάβ]]</big>** |
 [[2Chr.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.19|<< 2 Chronicles 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.2|2 Chronicles 18:2 >>]]</td></tr></table>
 
 

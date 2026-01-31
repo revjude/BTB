@@ -1,5 +1,5 @@
 <span class="asgreek">εἰ δὲ καί</span> <small>***(ei de kai)***</small> ==**but if even**==  <sup><small>[[TEGMC#|]]</small></sup> 
-combination of: <small>[[G1487G]] ([[G1487G]]+[[G1161]]+[[G2532]])</small> 
+combination of: <small>**<big>[[G1487G|εἰ]]</big>** (**<big>[[G1487G|εἰ]]</big>**+**<big>[[G1161|δέ]]</big>**+**<big>[[G2532|καί]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==εἰ δὲ καί==</span></b>, 

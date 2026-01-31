@@ -7,18 +7,18 @@ The daughter of Egypt shall be confounded; she shall be delivered into the hand 
 The Daughter of Egypt will be put to shame; she will be delivered into the hands of the people of the north.”<small><sub>**MT:**</sub></small>
 [[Jer.46.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.23|<< Jeremiah 46:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.25|Jeremiah 46:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall be disgraced | <big><span class="asgreek">κατησχύνθη</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
-| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| She is delivered | <big><span class="asgreek">παρεδόθη</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] north. | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| shall be disgraced | **<big>[[G2617\|κατησχύνθη]]</big>** |
+| The | **<big>[[G3588\|η]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Egypt | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| She is delivered | **<big>[[G3860\|παρεδόθη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of \[the\] people | **<big>[[G2992\|λαού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] north. | **<big>[[G1005\|βορρά]]</big>** |
 [[Jer.46.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.23|<< Jeremiah 46:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.25|Jeremiah 46:25 >>]]</td></tr></table>
 
 

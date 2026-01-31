@@ -1,4 +1,4 @@
-form of: <small>[[G3778]]</small> 
+form of: <small>**<big>[[G3778|οὗτος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==τούτῳ==</span></b>, <span class='asgreek'>αὕτη</span>, <span class='asgreek'>τοῦτο</span>, 

@@ -6,12 +6,12 @@ of Hilkiah, Hashabiah; and of Jedaiah, Nethanel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.20|<< Nehemiah 12:20]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.22|Nehemiah 12:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| of Hilkiah  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>חִלְקִיָּ֣ה </big></span><small><small><sup>[[H2518L]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> chil.ki.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hashabiah  | <span class="ashebrew"><big>חֲשַׁבְיָ֔ה </big></span><small><small><sup>[[H2811P]]</sup></small></small> &#8207;| cha.shav.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Jedaiah  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ידַֽעְיָ֖ה </big></span><small><small><sup>[[H3048I]]</sup></small></small> &#8207;| li. <small><sup>[[HR]]</sup></small> da'.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nethanel  | <span class="ashebrew"><big>נְתַנְאֵֽל </big></span><small><small><sup>[[H5417O]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ne.tan.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Hilkiah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2518L\|חִלְקִיָּ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> chil.ki.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hashabiah  |**<big>&#8207;[[H2811P\|חֲשַׁבְיָ֔ה]]&#8207; </big>**| cha.shav.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Jedaiah  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H3048I\|ידַֽעְיָ֖ה]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> da'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nethanel  |**<big>&#8207;[[H5417O\|נְתַנְאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.tan.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.20|<< Nehemiah 12:20]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.22|Nehemiah 12:22 >>]]</td></tr></table>
 
 

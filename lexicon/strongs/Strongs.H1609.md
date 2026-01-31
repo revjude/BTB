@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גַּעְתָּם‎</span></big> **Gaʻtâm** <small>*(gah-tawm')*</small> ==**Gatam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎גַּעְתָּם‎</span></big>** **Gaʻtâm** <small>*(gah-tawm')*</small> ==**Gatam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Gatam.

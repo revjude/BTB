@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָמַר‎</span></big> **çâmar** <small>*(saw-mar')*</small> ==**to bristle up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָמַר‎</span></big>** **çâmar** <small>*(saw-mar')*</small> ==**to bristle up**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ stand up, tremble.
@@ -8,4 +8,4 @@ $\quad$ stand up, tremble.
 $\quad$ **1a)** (Qal) to bristle up, shiver
 $\quad$ **1b)** (Piel) to bristle up, stand up
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φρίσσω</span><sup><small>[[G5425]]</small></sup>
+<small>See Greek: </small>**<big>[[G5425|φρίσσω]]</big>**

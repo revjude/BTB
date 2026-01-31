@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עׇצְמָה‎</span></big> **ʻotsmâh** <small>*(ots-maw')*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עֹצֶם‎</span><sup><small>[[H6108]]</small></sup></small>
+**<big><span class="ashebrew">‎עׇצְמָה‎</span></big>** **ʻotsmâh** <small>*(ots-maw')*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6108|‎עֹצֶם‎]]</big>**</small>
 
 $\quad$ abundance, strength.
 - ***powerfulness***
@@ -7,4 +7,4 @@ $\quad$ abundance, strength.
 
 **1)** power, strength, might
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup>
+<small>See Greek: </small>**<big>[[G2479|ἰσχύς]]</big>**

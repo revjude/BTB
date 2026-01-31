@@ -14,44 +14,44 @@ If a man marries a woman, but she becomes displeasing to him because he finds so
 > $\quad$ referenced by: [[Matt.5.31|Matt 5:31]] ☩ [[Matt.19.7|Matt 19:7]] ☩ [[Mark.10.4|Mark 10:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should live with | <big><span class="asgreek">συνοικήση</span></big> <sup><small><small>[[G4924]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| she should not find | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εύρη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| he finds | <big><span class="asgreek">εύρηκεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an indecent | <big><span class="asgreek">άσχημον</span></big> <sup><small><small>[[G0809]]</small></small></sup> |
-| thing, | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall write | <big><span class="asgreek">γράψει</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| a certificate of divorce | <big><span class="asgreek">αποστασίου</span></big> <sup><small><small>[[G0647]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall put it | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hands, | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall send | <big><span class="asgreek">εξαποστελεί</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his house. | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| any | **<big>[[G5100\|τις]]</big>** |
+| take | **<big>[[G2983\|λάβη]]</big>** |
+| a woman | **<big>[[G1135\|γυναίκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should live with | **<big>[[G4924\|συνοικήση]]</big>** |
+| her, | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| she should not find | **<big>[[G3361\|μη]]</big>** **<big>[[G2147\|εύρη]]</big>** |
+| favor | **<big>[[G5485\|χάριν]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| he finds | **<big>[[G2147\|εύρηκεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| her | **<big>[[G1473\|αυτή]]</big>** |
+| an indecent | **<big>[[G0809\|άσχημον]]</big>** |
+| thing, | **<big>[[G4229\|πράγμα]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| he shall write | **<big>[[G1125\|γράψει]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| scroll | **<big>[[G0975\|βιβλίον]]</big>** |
+| a certificate of divorce | **<big>[[G0647\|αποστασίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall put it | **<big>[[G1325\|δώσει]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her hands, | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall send | **<big>[[G1821\|εξαποστελεί]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his house. | **<big>[[G3614\|οικίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Deut.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.25|<< Deuteronomy 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.2|Deuteronomy 24:2 >>]]</td></tr></table>
 
 

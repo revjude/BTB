@@ -7,25 +7,25 @@ I sink in deep mire, where [there is] no standing: I am come into deep waters, w
 I have sunk into the miry depths, where there is no footing; I have drifted into deep waters, where the flood engulfs me.<small><sub>**MT:**</sub></small>
 [[Ps.69.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.1|<< Psalm 69:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.3|Psalm 69:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I was stuck | <big><span class="asgreek">ενεπάγην</span></big> <sup><small><small>[[G7195]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| slime | <big><span class="asgreek">ιλύν</span></big> <sup><small><small>[[G7720]]</small></small></sup> |
-| deep | <big><span class="asgreek">βυθού</span></big> <sup><small><small>[[G1037]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| support. | <big><span class="asgreek">υπόστασις</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
-| I came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| depths | <big><span class="asgreek">βάθη</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] gale | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
-| sank | <big><span class="asgreek">κατεπόντισέ</span></big> <sup><small><small>[[G2670]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I was stuck | **<big>[[G7195\|ενεπάγην]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| slime | **<big>[[G7720\|ιλύν]]</big>** |
+| deep | **<big>[[G1037\|βυθού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| support. | **<big>[[G5287\|υπόστασις]]</big>** |
+| I came | **<big>[[G2064\|ήλθον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| depths | **<big>[[G0899\|βάθη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sea, | **<big>[[G2281\|θαλάσσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] gale | **<big>[[G7844\|καταιγίς]]</big>** |
+| sank | **<big>[[G2670\|κατεπόντισέ]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Ps.69.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.1|<< Psalm 69:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.3|Psalm 69:3 >>]]</td></tr></table>
 
 

@@ -7,25 +7,25 @@ Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all t
 Wail, O dwellers of the Hollow, for all your merchants will be silenced; all who weigh out silver will be cut off.<small><sub>**MT:**</sub></small>
 [[Zeph.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.10|<< Zephaniah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.12|Zephaniah 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Wail! | <big><span class="asgreek">θρηνήσατε</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
-| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[place\] being cut in pieces, | <big><span class="asgreek">κατακεκομμένην</span></big> <sup><small><small>[[G2629]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| are like | <big><span class="asgreek">ωμοιώθη</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
-| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| Canaan, | <big><span class="asgreek">Χαναάν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were utterly destroyed | <big><span class="asgreek">εξωλοθρεύθησαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lifting up | <big><span class="asgreek">επηρμένοι</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργυρίω</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| Wail! | **<big>[[G2354\|θρηνήσατε]]</big>** |
+| O ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| \[place\] being cut in pieces, | **<big>[[G2629\|κατακεκομμένην]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| are like | **<big>[[G3666\|ωμοιώθη]]</big>** |
+| all | **<big>[[G3956\|πας]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| people | **<big>[[G2992\|λαός]]</big>** |
+| Canaan, | **<big>[[H3668\|Χαναάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were utterly destroyed | **<big>[[G1842\|εξωλοθρεύθησαν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| lifting up | **<big>[[G1869\|επηρμένοι]]</big>** |
+| silver | **<big>[[G0694\|αργυρίω]]</big>** |
 [[Zeph.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.10|<< Zephaniah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.12|Zephaniah 1:12 >>]]</td></tr></table>
 
 

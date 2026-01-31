@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מְרַט‎</span></big> **mᵉraṭ** <small>*(mer-at')*</small> ==**to pluck**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מָרַט‎</span><sup><small>[[H4803]]</small></sup></small>
+**<big><span class="asaramaic">‎מְרַט‎</span></big>** **mᵉraṭ** <small>*(mer-at')*</small> ==**to pluck**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4803|‎מָרַט‎]]</big>**</small>
 
 $\quad$ be plucked.
 - ***to pull off***

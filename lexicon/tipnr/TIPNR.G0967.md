@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Bethphage</span> was a village near Bethany, where Jesus sent His disciples to find a donkey and a colt for His triumphal entry into Jerusalem. \([[Matt.21.1|Matthew 21:1]]; [[Mark.11.1|Mark 11:1]]; [[Luke.19.29|Luke 19:29]]\)
 - A location first mentioned at [[Matt.21.1|Mat.21.1]]; 
-- only referred to as Bethphage<[[G0967]]> \(<span class='tipnrLangGreek'>Βηθφαγή</span>\).
+- only referred to as Bethphage **<big>[[G0967|Βηθφαγή]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.79038300543012,35.25667232374259&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Bethphage's significance in the Gospels lies in its role as the starting point f
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bethphage | [<span class='tipnrLangGreek'>Βηθφαγή</span>](G0967) <small>*Greek*</small> | 3x | [[Mat.21.1] ... [Luk.19.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethphage\*\|reference=Mat.21.1;Mrk.11.1;Luk.19.29) |
-All Strong's for **Bethphage**: \[[[G0967]]\]
+| Bethphage | [<span class='tipnrLangGreek'>Βηθφαγή</span>](G0967) | 3x | [[Mat.21.1] ... [Luk.19.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bethphage\*\|reference=Mat.21.1;Mrk.11.1;Luk.19.29) |
+All entries for **Bethphage**:  **<big>[[G0967|Βηθφαγή]]</big>**

@@ -6,25 +6,25 @@ From there it curved northward and proceeded to En-shemesh and on to Geliloth fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.16|<< Joshua 18:16]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.18|Joshua 18:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and it turns  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תָאַ֣ר </big></span><small><small><sup>[[H8388A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ta.'Ar <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] north  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>צָּפ֗וֹן </big></span><small><small><sup>[[H6828G]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> tza.Fon <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it goes out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָצָא֙ </big></span><small><small><sup>[[H3318I]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.Tza' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| En  | <span class="ashebrew"><big>עֵ֣ין </big></span><small><small><sup>[[H5885]]</sup></small></small> &#8207;| 'ein <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shemesh  | <span class="ashebrew"><big>שֶׁ֔מֶשׁ </big></span><small><small><sup>[[H5885]]</sup></small></small> &#8207;| She.mesh <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it goes out  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָצָא֙ </big></span><small><small><sup>[[H3318I]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.Tza' <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Geliloth  | <span class="ashebrew"><big>גְּלִיל֔וֹת </big></span><small><small><sup>[[H1553]]</sup></small></small> &#8207;| ge.li.Lot <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁר </big></span><small><small><sup>[[H0834A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.Sher- <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] opposite  | <span class="ashebrew"><big>נֹ֖כַח </big></span><small><small><sup>[[H5227]]</sup></small></small> &#8207;| No.khach <small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ascent of  | <span class="ashebrew"><big>מַעֲלֵ֣ה </big></span><small><small><sup>[[H4608]]</sup></small></small> &#8207;| ma.'a.Leh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Adummim  | <span class="ashebrew"><big>אֲדֻמִּ֑ים </big></span><small><small><sup>[[H0131]]</sup></small></small> &#8207;| 'a.du.Mim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and it goes down  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָרַ֕ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.Rad <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] stone of  | <span class="ashebrew"><big>אֶ֥בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'E.ven <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bohan  | <span class="ashebrew"><big>בֹּ֖הַן </big></span><small><small><sup>[[H0932]]</sup></small></small> &#8207;| Bo.han <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Reuben  | <span class="ashebrew"><big>רְאוּבֵֽן </big></span><small><small><sup>[[H7205]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| re.'u.Ven <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it turns  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8388A\|תָאַ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.'Ar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] north  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6828G\|צָּפ֗וֹן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it goes out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318I\|יָצָא֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| En  |**<big>&#8207;[[H5885\|עֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shemesh  |**<big>&#8207;[[H5885\|שֶׁ֔מֶשׁ]]&#8207; </big>**| She.mesh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it goes out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318I\|יָצָא֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Geliloth  |**<big>&#8207;[[H1553\|גְּלִיל֔וֹת]]&#8207; </big>**| ge.li.Lot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] opposite  |**<big>&#8207;[[H5227\|נֹ֖כַח]]&#8207; </big>**| No.khach<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ascent of  |**<big>&#8207;[[H4608\|מַעֲלֵ֣ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adummim  |**<big>&#8207;[[H0131\|אֲדֻמִּ֑ים]]&#8207; </big>**| 'a.du.Mim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it goes down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַ֕ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Rad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stone of  |**<big>&#8207;[[H0068G\|אֶ֥בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bohan  |**<big>&#8207;[[H0932\|בֹּ֖הַן]]&#8207; </big>**| Bo.han<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.16|<< Joshua 18:16]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.18|Joshua 18:18 >>]]</td></tr></table>
 
 

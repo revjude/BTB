@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָעַב‎</span></big> **lâʻab** <small>*(law-ab')*</small> ==**to jest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָעַב‎</span></big>** **lâʻab** <small>*(law-ab')*</small> ==**to jest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ mock.
@@ -7,4 +7,4 @@ $\quad$ mock.
 **1)** to joke, jest
 $\quad$ **1a)** (Hiphil) to make jokes
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μυκτηρίζω</span><sup><small>[[G3456]]</small></sup>
+<small>See Greek: </small>**<big>[[G3456|μυκτηρίζω]]</big>**

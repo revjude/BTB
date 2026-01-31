@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עַלִּיז‎</span></big> **ʻallîyz** <small>*(al-leez')*</small> ==**jubilant**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎עָלַז‎</span><sup><small>[[H5937]]</small></sup></small>
+**<big><span class="ashebrew">‎עַלִּיז‎</span></big>** **ʻallîyz** <small>*(al-leez')*</small> ==**jubilant**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H5937|‎עָלַז‎]]</big>**</small>
 
 $\quad$ joyous, (that) rejoice(-ing)
 - ***exultant***
 
 **1)** exultant, jubilant
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσεβής</span><sup><small>[[G0765]]</small></sup> · <span class="asgreek">πλούσιος</span><sup><small>[[G4145]]</small></sup> · <span class="asgreek">ὕβρις</span><sup><small>[[G5196]]</small></sup>
+<small>See Greek: </small>**<big>[[G0765|ἀσεβής]]</big>** · **<big>[[G4145|πλούσιος]]</big>** · **<big>[[G5196|ὕβρις]]</big>**

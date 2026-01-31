@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נוֹעַדְיָה‎</span></big> **Nôwʻadyâh** <small>*(no-ad-yaw')*</small> ==**Noadiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָעַד‎</span><sup><small>[[H3259]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; convened of Jah</small>
+**<big><span class="ashebrew">‎נוֹעַדְיָה‎</span></big>** **Nôwʻadyâh** <small>*(no-ad-yaw')*</small> ==**Noadiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3259|‎יָעַד‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; convened of Jah</small>
 
 $\quad$ Noadiah.
 - § Noadiah = *"meeting with Jehovah"*

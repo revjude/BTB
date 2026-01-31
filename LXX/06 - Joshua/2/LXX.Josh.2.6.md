@@ -7,26 +7,26 @@ But she had brought them up to the roof of the house, and hid them with the stal
 (But Rahab had taken them up to the roof and hidden them among the stalks of flax that she had laid out there.)<small><sub>**MT:**</sub></small>
 [[Josh.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.5|<< Joshua 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.7|Joshua 2:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| brought | <big><span class="asgreek">ανεβίβασεν</span></big> <sup><small><small>[[G0307]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roof, | <big><span class="asgreek">δώμα</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hid | <big><span class="asgreek">έκρυψεν</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stalk of flax | <big><span class="asgreek">λινοκαλάμη</span></big> <sup><small><small>[[G8201]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been piled | <big><span class="asgreek">εστοιβασμένη</span></big> <sup><small><small>[[G9185]]</small></small></sup> |
-| by her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roof. | <big><span class="asgreek">δώματος</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
+| But she | **<big>[[G1473\|αυτή]]</big>** **<big>[[G1161\|δε]]</big>** |
+| brought | **<big>[[G0307\|ανεβίβασεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| roof, | **<big>[[G1430\|δώμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hid | **<big>[[G2928\|έκρυψεν]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| stalk of flax | **<big>[[G8201\|λινοκαλάμη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| having been piled | **<big>[[G9185\|εστοιβασμένη]]</big>** |
+| by her | **<big>[[G1473\|αυτή]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| roof. | **<big>[[G1430\|δώματος]]</big>** |
 [[Josh.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.5|<< Joshua 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.7|Joshua 2:7 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בְּתוּל‎</span></big> **Bᵉthûwl** <small>*(beth-ool')*</small> ==**Bethul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>for <span class="ashebrew">‎בְּתוּאֵל‎</span><sup><small>[[H1328]]</small></sup></small>
+**<big><span class="ashebrew">‎בְּתוּל‎</span></big>** **Bᵉthûwl** <small>*(beth-ool')*</small> ==**Bethul**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>for **<big>[[H1328|‎בְּתוּאֵל‎]]</big>**</small>
 
 $\quad$ Bethuel.
 - § Bethul = *"God destroys" or "man of God" or "dweller in God"*

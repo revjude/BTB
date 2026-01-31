@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֶתֶק‎</span></big> **metheq** <small>*(meh'-thek)*</small> ==**sweetness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎מָתַק‎</span><sup><small>[[H4985]]</small></sup></small>
+**<big><span class="ashebrew">‎מֶתֶק‎</span></big>** **metheq** <small>*(meh'-thek)*</small> ==**sweetness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H4985|‎מָתַק‎]]</big>**</small>
 
 $\quad$ sweetness.
 - figuratively, ***pleasantness*** (of discourse)

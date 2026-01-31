@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָכוֹן‎</span></big> **Nâkôwn** <small>*(naw-kone')*</small> ==**Nacon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כּוּן‎</span><sup><small>[[H3559]]</small></sup>; prepared</small>
+**<big><span class="ashebrew">‎נָכוֹן‎</span></big>** **Nâkôwn** <small>*(naw-kone')*</small> ==**Nacon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3559|‎כּוּן‎]]</big>**; prepared</small>
 
 $\quad$ Nachon.
 - § Nachon = *"prepared"*

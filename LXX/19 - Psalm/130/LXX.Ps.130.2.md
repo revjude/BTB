@@ -7,21 +7,21 @@ Lord, hear my voice: let thine ears be attentive to the voice of my supplication
 O Lord, hear my voice; let Your ears be attentive to my plea for mercy.<small><sub>**MT:**</sub></small>
 [[Ps.130.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.1|<< Psalm 130:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.3|Psalm 130:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| listen to | <big><span class="asgreek">εισάκουσον</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my voice! | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ears | <big><span class="asgreek">ωτά</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| attentive | <big><span class="asgreek">προσέχοντα</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my supplication! | <big><span class="asgreek">δεήσεώς</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| listen to | **<big>[[G1522\|εισάκουσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my voice! | **<big>[[G5456\|φωνής]]</big>** **<big>[[G1473\|μου]]</big>** |
+| be | **<big>[[G1096\|γενηθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ears | **<big>[[G3775\|ωτά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| attentive | **<big>[[G4337\|προσέχοντα]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| voice | **<big>[[G5456\|φωνήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of my supplication! | **<big>[[G1162\|δεήσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.130.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.1|<< Psalm 130:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.3|Psalm 130:3 >>]]</td></tr></table>
 
 

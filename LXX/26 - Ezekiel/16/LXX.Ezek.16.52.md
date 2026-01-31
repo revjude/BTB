@@ -7,42 +7,42 @@ Thou also, which hast judged thy sisters, bear thine own shame for thy sins that
 So now you must bear your disgrace, since you have brought justification for your sisters. For they appear more righteous than you, because your sins were more vile than theirs. So you too must bear your shame and disgrace, since you have made your sisters appear righteous.<small><sub>**MT:**</sub></small>
 [[Ezek.16.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.51|<< Ezekiel 16:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.53|Ezekiel 16:53 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| carry | <big><span class="asgreek">κόμισαι</span></big> <sup><small><small>[[G2865]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your torment! | <big><span class="asgreek">βάσανόν</span></big> <sup><small><small>[[G0931]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you corrupted | <big><span class="asgreek">έφθειρας</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sisters | <big><span class="asgreek">αδελφάς</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">αις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you acted lawlessly | <big><span class="asgreek">ηνόμησας</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| justified | <big><span class="asgreek">εδικαίωσας</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| yourself. | <big><span class="asgreek">σεαυτήν</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| be ashamed | <big><span class="asgreek">αισχύνθητι</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your dishonor! | <big><span class="asgreek">ατιμίαν</span></big> <sup><small><small>[[G0819]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| that | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| you justified | <big><span class="asgreek">δικαιώσαί</span></big> <sup><small><small>[[G1344]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sisters. | <big><span class="asgreek">αδελφάς</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| carry | **<big>[[G2865\|κόμισαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your torment! | **<big>[[G0931\|βάσανόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| you corrupted | **<big>[[G5351\|έφθειρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your sisters | **<big>[[G0079\|αδελφάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your sins | **<big>[[G0266\|αμαρτίαις]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|αις]]</big>** |
+| you acted lawlessly | **<big>[[G6349\|ηνόμησας]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| them, | **<big>[[G1473\|αυτάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| justified | **<big>[[G1344\|εδικαίωσας]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| above | **<big>[[G5228\|υπέρ]]</big>** |
+| yourself. | **<big>[[G4572\|σεαυτήν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| be ashamed | **<big>[[G0153\|αισχύνθητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your dishonor! | **<big>[[G0819\|ατιμίαν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| that | **<big>[[G3588\|τω]]</big>** |
+| you justified | **<big>[[G1344\|δικαιώσαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your sisters. | **<big>[[G0079\|αδελφάς]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ezek.16.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.51|<< Ezekiel 16:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.53|Ezekiel 16:53 >>]]</td></tr></table>
 
 

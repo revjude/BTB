@@ -7,48 +7,48 @@ Then answered all the wicked men and [men] of Belial, of those that went with Da
 but all the wicked and worthless men among those who had gone with David said, “Because they did not go with us, we will not share with them the plunder we recovered, except for each man’s wife and children. They may take them and go.”<small><sub>**MT:**</sub></small>
 [[1Sam.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.21|<< 1 Samuel 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.23|1 Samuel 30:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| responded | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| pestilent | <big><span class="asgreek">λοιμός</span></big> <sup><small><small>[[G3061]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wicked | <big><span class="asgreek">πονηρός</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warriors | <big><span class="asgreek">πολεμιστών</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευθέντων</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| David. | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| They did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| pursue | <big><span class="asgreek">κατεδίωξαν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| give | <big><span class="asgreek">δώσομεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spoils | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| we rescued, | <big><span class="asgreek">εξειλάμεθα</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| take away | <big><span class="asgreek">απαγέσθωσαν</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them return! | <big><span class="asgreek">αποστρεφέτωσαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| responded | **<big>[[G0611\|απεκρίθη]]</big>** |
+| every | **<big>[[G3956\|πας]]</big>** |
+| man | **<big>[[G0435\|ανήρ]]</big>** |
+| pestilent | **<big>[[G3061\|λοιμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wicked | **<big>[[G4190\|πονηρός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| men | **<big>[[G0435\|ανδρών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| warriors | **<big>[[G8841\|πολεμιστών]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| going | **<big>[[G4198\|πορευθέντων]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| David. | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said | **<big>[[G2036\|είπον]]</big>** |
+| that, | **<big>[[G3754\|ότι]]</big>** |
+| They did not | **<big>[[G3756\|ου]]</big>** |
+| pursue | **<big>[[G2614\|κατεδίωξαν]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| we shall not | **<big>[[G3756\|ου]]</big>** |
+| give | **<big>[[G1325\|δώσομεν]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| spoils | **<big>[[G4661\|σκύλων]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| we rescued, | **<big>[[G1807\|εξειλάμεθα]]</big>** |
+| but | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his wife | **<big>[[G1135\|γυναίκα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| take away | **<big>[[G0520\|απαγέσθωσαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| let them return! | **<big>[[G0654\|αποστρεφέτωσαν]]</big>** |
 [[1Sam.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.21|<< 1 Samuel 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.23|1 Samuel 30:23 >>]]</td></tr></table>
 
 

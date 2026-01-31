@@ -7,24 +7,24 @@ Strangers have devoured his strength, and he knoweth [it] not: yea, gray hairs a
 Foreigners consume his strength, but he does not notice. Even his hair is streaked with gray, but he does not know.<small><sub>**MT:**</sub></small>
 [[Hos.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.8|<< Hosea 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.10|Hosea 7:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| strangers | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his strength, | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know \[it\]; | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gray hairs | <big><span class="asgreek">πολιαί</span></big> <sup><small><small>[[G8842]]</small></small></sup> |
-| broke out | <big><span class="asgreek">εξήνθησαν</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know \[it\]. | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| ate | **<big>[[G2068\|έφαγον]]</big>** |
+| strangers | **<big>[[G0245\|αλλότριοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his strength, | **<big>[[G2479\|ισχύν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| but he | **<big>[[G1473\|αυτός]]</big>** **<big>[[G1161\|δε]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know \[it\]; | **<big>[[G1097\|έγνω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gray hairs | **<big>[[G8842\|πολιαί]]</big>** |
+| broke out | **<big>[[G7296\|εξήνθησαν]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| did not | **<big>[[G3756\|ουκ]]</big>** |
+| know \[it\]. | **<big>[[G1097\|έγνω]]</big>** |
 [[Hos.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.8|<< Hosea 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.10|Hosea 7:10 >>]]</td></tr></table>
 
 

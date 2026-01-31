@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמְרָמִי‎</span></big> **ʻAmrâmîy** <small>*(am-raw-mee')*</small> ==**Amramite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>from <span class="ashebrew">‎עַמְרָם‎</span><sup><small>[[H6019]]</small></sup></small>
+**<big><span class="ashebrew">‎עַמְרָמִי‎</span></big>** **ʻAmrâmîy** <small>*(am-raw-mee')*</small> ==**Amramite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>from **<big>[[H6019|‎עַמְרָם‎]]</big>**</small>
 
 $\quad$ Amramite.
 - § Amramites = *see Aram "exalted"*

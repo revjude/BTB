@@ -7,20 +7,20 @@ The LORD is known [by] the judgment [which] he executeth: the wicked is snared i
 The LORD is known by the justice He brings; the wicked are ensnared by the work of their hands. Higgaion Selah<small><sub>**MT:**</sub></small>
 [[Ps.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.15|<< Psalm 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.17|Psalm 9:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> is known | <big><span class="asgreek">γινώσκεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| judgments | <big><span class="asgreek">κρίματα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| by executing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is seized | <big><span class="asgreek">συνελήφθη</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinner | <big><span class="asgreek">αμαρτωλός</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| AN ODE. | <big><span class="asgreek">ωδή</span></big> <sup><small><small>[[G5603]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> is known | **<big>[[G1097\|γινώσκεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| judgments | **<big>[[G2917\|κρίματα]]</big>** |
+| by executing | **<big>[[G4160\|ποιών]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| works | **<big>[[G2041\|έργοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his hands | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is seized | **<big>[[G4815\|συνελήφθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| sinner | **<big>[[G0268\|αμαρτωλός]]</big>** |
+| AN ODE. | **<big>[[G5603\|ωδή]]</big>** |
 [[Ps.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.15|<< Psalm 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.17|Psalm 9:17 >>]]</td></tr></table>
 
 

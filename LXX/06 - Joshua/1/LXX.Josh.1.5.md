@@ -11,34 +11,34 @@ No one shall stand against you all the days of your life. As I was with Moses, s
 > $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| withstand | <big><span class="asgreek">αντιστήσεται</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| A man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| before | <big><span class="asgreek">κατενώπιον</span></big> <sup><small><small>[[G2714]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your life. | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| I was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will not abandon | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εγκαταλείψω</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| will I neglect | <big><span class="asgreek">υπερόψομαί</span></big> <sup><small><small>[[G9557]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| withstand | **<big>[[G0436\|αντιστήσεται]]</big>** |
+| A man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| before | **<big>[[G2714\|κατενώπιον]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| days | **<big>[[G2250\|ημέρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your life. | **<big>[[G2222\|ζωής]]</big>** **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| I was | **<big>[[G1510\|ήμην]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| I will be | **<big>[[G1510\|έσομαι]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will not abandon | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1459\|εγκαταλείψω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| nor | **<big>[[G3761\|ουδ΄]]</big>** |
+| will I neglect | **<big>[[G9557\|υπερόψομαί]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
 [[Josh.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.4|<< Joshua 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.6|Joshua 1:6 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Parbar</span> was a colonnade or structure located on the west side of the temple complex in Jerusalem.
 - A location only mentioned at [[1Chr.26.18|1Ch.26.18]]; 
-- only referred to as Parbar<[[H6503]]> \(<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ר</span>\).
+- only referred to as Parbar **<big>[[H6503|פַּרְבָּר]]</big>**.
 
 Parbar, meaning "colonnade" or "portico," was a structure mentioned in connection with the organization of the Levites and their duties in the temple during the reign of King David \(1 Chr. 26:18\). It was located on the west side of the temple complex in Jerusalem. The Levites were assigned to guard the gates and entrances of the temple, including the gate of Shallecheth, which led to the Parbar. 
 
@@ -10,5 +10,5 @@ The exact nature and purpose of the Parbar are not described in detail in the Bi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| colonnade (KJV= Parbar; NIV= court) | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ר</span>](H6503) <small>*Hebrew*</small> | 1x | [1Ch.26.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=colonnade\*\|reference=1Ch.26.18) |
-All Strong's for **Parbar or "colonnade"**: \[[[H6503]]\]
+| colonnade (KJV= Parbar; NIV= court) | [<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ר</span>](H6503) | 1x | [1Ch.26.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=colonnade\*\|reference=1Ch.26.18) |
+All entries for **Parbar or "colonnade"**:  **<big>[[H6503|פַּרְבָּר]]</big>**

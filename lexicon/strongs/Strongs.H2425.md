@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָיַי‎</span></big> **châyay** <small>*(khaw-yah'-ee)*</small> ==**to live**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (compare <span class="ashebrew">‎חָיָה‎</span><sup><small>[[H2421]]</small></sup>)</small>
+**<big><span class="ashebrew">‎חָיַי‎</span></big>** **châyay** <small>*(khaw-yah'-ee)*</small> ==**to live**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (compare **<big>[[H2421|‎חָיָה‎]]</big>**)</small>
 
 $\quad$ live, save life.
 - ***to live***

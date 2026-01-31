@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תְּהִלָּה‎</span></big> **tᵉhillâh** <small>*(teh-hil-law')*</small> ==**praise**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎הָלַל‎</span><sup><small>[[H1984]]</small></sup></small>
+**<big><span class="ashebrew">‎תְּהִלָּה‎</span></big>** **tᵉhillâh** <small>*(teh-hil-law')*</small> ==**praise**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H1984|‎הָלַל‎]]</big>**</small>
 
 $\quad$ praise.
 - ***laudation***
@@ -14,4 +14,4 @@ $\quad$ **1e)** renown, fame, glory
 $\quad$ $\quad$ **1e1)** of Damascus, God
 $\quad$ $\quad$ **1e2)** object of praise, possessor of renown (fig)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἴνεσις</span><sup><small>[[G0133]]</small></sup> · <span class="asgreek">ἀρέτη</span><sup><small>[[G0703]]</small></sup> · <span class="asgreek">δόξα</span><sup><small>[[G1391]]</small></sup> · <span class="asgreek">ἔνδοξος</span><sup><small>[[G1741]]</small></sup> · <span class="asgreek">ἔπαινος</span><sup><small>[[G1868]]</small></sup> · <span class="asgreek">καύχημα</span><sup><small>[[G2745]]</small></sup> · <span class="asgreek">ὕμνος</span><sup><small>[[G5215]]</small></sup> · <span class="asgreek">ὑπόμνησις</span><sup><small>[[G5280]]</small></sup> · <span class="asgreek">ψαλμός</span><sup><small>[[G5568]]</small></sup>
+<small>See Greek: </small>**<big>[[G0133|αἴνεσις]]</big>** · **<big>[[G0703|ἀρέτη]]</big>** · **<big>[[G1391|δόξα]]</big>** · **<big>[[G1741|ἔνδοξος]]</big>** · **<big>[[G1868|ἔπαινος]]</big>** · **<big>[[G2745|καύχημα]]</big>** · **<big>[[G5215|ὕμνος]]</big>** · **<big>[[G5280|ὑπόμνησις]]</big>** · **<big>[[G5568|ψαλμός]]</big>**

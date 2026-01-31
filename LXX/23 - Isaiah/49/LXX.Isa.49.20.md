@@ -7,26 +7,26 @@ The children which thou shalt have, after thou hast lost the other, shall say ag
 Yet the children of your bereavement will say in your hearing, ‘This place is too small for us; make room for us to live here.’<small><sub>**MT:**</sub></small>
 [[Isa.49.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.19|<< Isaiah 49:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.21|Isaiah 49:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall say | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ears | <big><span class="asgreek">ώτά</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have lost | <big><span class="asgreek">απολώλεκας</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \[is too\] narrow | <big><span class="asgreek">στενός</span></big> <sup><small><small>[[G4728]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| make | <big><span class="asgreek">ποίησόν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| I shall dwell! | <big><span class="asgreek">κατοικήσω</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| shall say | **<big>[[G2046\|ερούσι]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ears | **<big>[[G3775\|ώτά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| you have lost | **<big>[[G0622\|απολώλεκας]]</big>** |
+| \[is too\] narrow | **<big>[[G4728\|στενός]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| make | **<big>[[G4160\|ποίησόν]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| a place | **<big>[[G5117\|τόπον]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| I shall dwell! | **<big>[[G2730\|κατοικήσω]]</big>** |
 [[Isa.49.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.19|<< Isaiah 49:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.21|Isaiah 49:21 >>]]</td></tr></table>
 
 

@@ -7,24 +7,24 @@ If thou lend money to [any of] my people [that is] poor by thee, thou shalt not 
 If you lend money to one of My people among you who is poor, you must not act as a creditor to him; you are not to charge him interest.<small><sub>**MT:**</sub></small>
 [[Exod.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.24|<< Exodus 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.26|Exodus 22:26 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| should be lent with interest | <big><span class="asgreek">εκδανείσης</span></big> <sup><small><small>[[G7085]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| \[that is\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| destitute | <big><span class="asgreek">πενιχρώ</span></big> <sup><small><small>[[G3998]]</small></small></sup> |
-| close | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| coercing him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κατεπείγων</span></big> <sup><small><small>[[G7964]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| upon | <big><span class="asgreek">επιθήσεις</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| interest | <big><span class="asgreek">τόκον</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| should be lent with interest | **<big>[[G7085\|εκδανείσης]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| brother | **<big>[[G0080\|αδελφώ]]</big>** |
+| \[that is\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| destitute | **<big>[[G3998\|πενιχρώ]]</big>** |
+| close | **<big>[[G3844\|παρά]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έση]]</big>** |
+| coercing him, | **<big>[[G1473\|αυτόν]]</big>** **<big>[[G7964\|κατεπείγων]]</big>** |
+| you shall not | **<big>[[G3756\|ουκ]]</big>** |
+| upon | **<big>[[G2007\|επιθήσεις]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| interest | **<big>[[G5110\|τόκον]]</big>** |
 [[Exod.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.24|<< Exodus 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.26|Exodus 22:26 >>]]</td></tr></table>
 
 

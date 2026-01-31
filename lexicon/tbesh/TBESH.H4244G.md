@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מַחְלָה‎</span> <small>***(mach.lah)***</small> ==**Mahlah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.33|Num.26.33]]
--  daughter of: Zelophehad ([[H6765]])
--  sister of: Noah ([[H5270]]), Hoglah ([[H2295]]), Milcah ([[H4435H]]) and Tirzah ([[H8656]])
+-  daughter of: Zelophehad (**<big>[[H6765|צְלׇפְחָד]]</big>**)
+-  sister of: Noah (**<big>[[H5270|נֹעָה]]</big>**), Hoglah (**<big>[[H2295|חׇגְלָה]]</big>**), Milcah (**<big>[[H4435H|מִלְכָּה]]</big>**) and Tirzah (**<big>[[H8656|תִּרְצָה]]</big>**)

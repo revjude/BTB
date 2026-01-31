@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Ai</span>, a Canaanite city near Bethel, captured by Israel under Joshua.
 - A location first mentioned at [[Gen.12.8|Gen.12.8]]; 
-- referred to as Ai or "city" \(=Ketiv. Qere, KJV, NIV= Ai\) or Aiath or Aija<[[H5857G]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>\).
+- referred to as Ai or "city" \(=Ketiv. Qere, KJV, NIV= Ai\) or Aiath or Aija **<big>[[H5857|עַי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.91697811712517,35.26122639380886&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,8 +14,8 @@ After the Babylonian exile, some people from Ai returned to Jerusalem \([[Ezra.2
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ai | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) <small>*Hebrew*</small> | 36x | [[Gen.12.8] ... [Neh.7.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ai\*\|reference=Gen.12.8;Gen.13.3;Jos.7.2;Jos.7.2;Jos.7.3;Jos.7.4;Jos.7.5;Jos.8.1;Jos.8.1;Jos.8.2;Jos.8.3;Jos.8.9;Jos.8.9;Jos.8.10;Jos.8.11;Jos.8.11;Jos.8.12;Jos.8.14;Jos.8.17;Jos.8.18;Jos.8.20;Jos.8.21;Jos.8.23;Jos.8.24;Jos.8.24;Jos.8.25;Jos.8.26;Jos.8.28;Jos.8.29;Jos.9.3;Jos.10.1;Jos.10.1;Jos.10.2;Jos.12.9;Ezr.2.28;Neh.7.32) |
-| city (=Ketiv. Qere, KJV, NIV= Ai) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) <small>*Hebrew*</small> | 1x | [Jos.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=city\*\|reference=Jos.8.16) |
-| Aiath | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) <small>*Hebrew*</small> | 1x | [Isa.10.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aiath\*\|reference=Isa.10.28) |
-| Aija | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) <small>*Hebrew*</small> | 1x | [Neh.11.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aija\*\|reference=Neh.11.31) |
-All Strong's for **Ai**: \[[[H5857G]]\]
+| Ai | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) | 36x | [[Gen.12.8] ... [Neh.7.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ai\*\|reference=Gen.12.8;Gen.13.3;Jos.7.2;Jos.7.2;Jos.7.3;Jos.7.4;Jos.7.5;Jos.8.1;Jos.8.1;Jos.8.2;Jos.8.3;Jos.8.9;Jos.8.9;Jos.8.10;Jos.8.11;Jos.8.11;Jos.8.12;Jos.8.14;Jos.8.17;Jos.8.18;Jos.8.20;Jos.8.21;Jos.8.23;Jos.8.24;Jos.8.24;Jos.8.25;Jos.8.26;Jos.8.28;Jos.8.29;Jos.9.3;Jos.10.1;Jos.10.1;Jos.10.2;Jos.12.9;Ezr.2.28;Neh.7.32) |
+| city (=Ketiv. Qere, KJV, NIV= Ai) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) | 1x | [Jos.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=city\*\|reference=Jos.8.16) |
+| Aiath | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) | 1x | [Isa.10.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aiath\*\|reference=Isa.10.28) |
+| Aija | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>י</span>](H5857G) | 1x | [Neh.11.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aija\*\|reference=Neh.11.31) |
+All entries for **Ai**:  **<big>[[H5857|עַי]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎גַּב‎</span></big> **gab** <small>*(gab)*</small> ==**back**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎גַב‎</span><sup><small>[[H1354]]</small></sup></small>
+**<big><span class="asaramaic">‎גַּב‎</span></big>** **gab** <small>*(gab)*</small> ==**back**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1354|‎גַב‎]]</big>**</small>
 
 $\quad$ back.
 - {***the back*** (as rounded)
@@ -7,4 +7,4 @@ $\quad$ back.
 
 **1)** back or side
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γαββαθά</span><sup><small>[[G1042]]</small></sup>
+<small>See Greek: </small>**<big>[[G1042|γαββαθά]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָשָׁר‎</span></big> **yâshâr** <small>*(yaw-shawr')*</small> ==**upright**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎יָשַׁר‎</span><sup><small>[[H3474]]</small></sup></small>
+**<big><span class="ashebrew">‎יָשָׁר‎</span></big>** **yâshâr** <small>*(yaw-shawr')*</small> ==**upright**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H3474|‎יָשַׁר‎]]</big>**</small>
 
 $\quad$ convenient, equity, Jasher, just, meet(-est), [phrase] pleased well right(-eous), straight, (most) upright(-ly, -ness).
 - ***straight*** (literally or figuratively)
@@ -11,4 +11,4 @@ $\quad$ **1c)** straightforward, just, upright, fitting, proper
 $\quad$ **1d)** uprightness, righteous, upright
 $\quad$ **1e)** that which is upright (subst)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀγαθός</span><sup><small>[[G0018]]</small></sup> · <span class="asgreek">ἀλήθεια</span><sup><small>[[G0225]]</small></sup> · <span class="asgreek">ἀληθινός</span><sup><small>[[G0228]]</small></sup> · <span class="asgreek">ἄμεμπτος</span><sup><small>[[G0273]]</small></sup> · <span class="asgreek">ἀρεστός</span><sup><small>[[G0701]]</small></sup> · <span class="asgreek">βελτίον</span><sup><small>[[G0957]]</small></sup> · <span class="asgreek">δίκαιος</span><sup><small>[[G1342]]</small></sup> · <span class="asgreek">εὐθύτης</span><sup><small>[[G2118]]</small></sup> · <span class="asgreek">καλός</span><sup><small>[[G2570]]</small></sup> · <span class="asgreek">ὀρθός</span><sup><small>[[G3717]]</small></sup> · <span class="asgreek">ὅσιος</span><sup><small>[[G3741]]</small></sup> · <span class="asgreek">χρηστός</span><sup><small>[[G5543]]</small></sup>
+<small>See Greek: </small>**<big>[[G0018|ἀγαθός]]</big>** · **<big>[[G0225|ἀλήθεια]]</big>** · **<big>[[G0228|ἀληθινός]]</big>** · **<big>[[G0273|ἄμεμπτος]]</big>** · **<big>[[G0701|ἀρεστός]]</big>** · **<big>[[G0957|βελτίον]]</big>** · **<big>[[G1342|δίκαιος]]</big>** · **<big>[[G2118|εὐθύτης]]</big>** · **<big>[[G2570|καλός]]</big>** · **<big>[[G3717|ὀρθός]]</big>** · **<big>[[G3741|ὅσιος]]</big>** · **<big>[[G5543|χρηστός]]</big>**

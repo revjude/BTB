@@ -6,14 +6,14 @@ Simeon and Levi are brothers; their swords are weapons of violence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.4|<< Genesis 49:4]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.6|Genesis 49:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Simeon  | <span class="ashebrew"><big>שִׁמְע֥וֹן </big></span><small><small><sup>[[H8095G]]</sup></small></small> &#8207;| shim.'on <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Levi  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֵוִ֖י </big></span><small><small><sup>[[H3878]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> le.Vi <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] brothers  | <span class="ashebrew"><big>אַחִ֑ים </big></span><small><small><sup>[[H0251G]]</sup></small></small> &#8207;| 'a.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] weapons of  | <span class="ashebrew"><big>כְּלֵ֥י </big></span><small><small><sup>[[H3627]]</sup></small></small> &#8207;| ke.Lei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| violence  | <span class="ashebrew"><big>חָמָ֖ס </big></span><small><small><sup>[[H2555]]</sup></small></small> &#8207;| cha.Mas <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| swords their  | <span class="ashebrew"><big>מְכֵרֹתֵי </big></span><small><small><sup>[[H4380]]</sup></small></small> <span class="ashebrew"><big>הֶֽם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| me.khe.ro.tei. <small><sup>[[HNcfpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Simeon  |**<big>&#8207;[[H8095G\|שִׁמְע֥וֹן]]&#8207; </big>**| shim.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Levi  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3878\|לֵוִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] brothers  |**<big>&#8207;[[H0251G\|אַחִ֑ים]]&#8207; </big>**| 'a.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] weapons of  |**<big>&#8207;[[H3627\|כְּלֵ֥י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| violence  |**<big>&#8207;[[H2555\|חָמָ֖ס]]&#8207; </big>**| cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| swords their  |**<big>&#8207;[[H4380\|מְכֵרֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.khe.ro.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.4|<< Genesis 49:4]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.6|Genesis 49:6 >>]]</td></tr></table>
 
 

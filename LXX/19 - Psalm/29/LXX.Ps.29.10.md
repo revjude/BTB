@@ -7,19 +7,19 @@ The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.
 The LORD sits enthroned over the flood; the LORD is enthroned as King forever.<small><sub>**MT:**</sub></small>
 [[Ps.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.9|<< Psalm 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.11|Psalm 29:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flood | <big><span class="asgreek">κατακλυσμόν</span></big> <sup><small><small>[[G2627]]</small></small></sup> |
-| shall settle | <big><span class="asgreek">κατοικιεί</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will sit | <big><span class="asgreek">καθιείται</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| a king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| flood | **<big>[[G2627\|κατακλυσμόν]]</big>** |
+| shall settle | **<big>[[G6052\|κατοικιεί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will sit | **<big>[[G2523\|καθιείται]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| a king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| eon. | **<big>[[G0165\|αιώνα]]</big>** |
 [[Ps.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.9|<< Psalm 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.11|Psalm 29:11 >>]]</td></tr></table>
 
 

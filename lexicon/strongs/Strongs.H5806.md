@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲזוּבָה‎</span></big> **ʻĂzûwbâh** <small>*(az-oo-baw')*</small> ==**Azubah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֲזוּבָה‎</span><sup><small>[[H5805]]</small></sup></small>
+**<big><span class="ashebrew">‎עֲזוּבָה‎</span></big>** **ʻĂzûwbâh** <small>*(az-oo-baw')*</small> ==**Azubah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>the same as **<big>[[H5805|‎עֲזוּבָה‎]]</big>**</small>
 
 $\quad$ Azubah.
 - § Azubah = *"forsaken"*

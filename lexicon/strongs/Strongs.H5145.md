@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֶזֶר‎</span></big> **nezer** <small>*(neh'-zer)*</small> ==**consecration: Nazirite vow**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">נֵזֶר</span> **nêzer** <small>*(nay'-zer)*</small>; from <span class="ashebrew">‎נָזַר‎</span><sup><small>[[H5144]]</small></sup></small>
+**<big><span class="ashebrew">‎נֶזֶר‎</span></big>** **nezer** <small>*(neh'-zer)*</small> ==**consecration: Nazirite vow**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">נֵזֶר</span></big>** **nêzer** <small>*(nay'-zer)*</small>; from **<big>[[H5144|‎נָזַר‎]]</big>**</small>
 
 $\quad$ consecration, crown, hair, separation.
 - properly, ***something set apart***, i.e. (abstractly) ***dedication*** (of a priet or Nazirite)
@@ -14,4 +14,4 @@ $\quad$ **1c)** consecration
 $\quad$ $\quad$ **1c1)** of high priest
 $\quad$ $\quad$ **1c2)** of Nazarite
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἅγιον</span><sup><small>[[G0039]]</small></sup> · <span class="asgreek">ἁγνεία</span><sup><small>[[G0047]]</small></sup> · <span class="asgreek">ἁγνισμός</span><sup><small>[[G0049]]</small></sup>
+<small>See Greek: </small>**<big>[[G0039|ἅγιον]]</big>** · **<big>[[G0047|ἁγνεία]]</big>** · **<big>[[G0049|ἁγνισμός]]</big>**

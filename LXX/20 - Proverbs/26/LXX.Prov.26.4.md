@@ -7,19 +7,19 @@ Answer not a fool according to his folly, lest thou also be like unto him.
 Do not answer a fool according to his folly, or you yourself will be like him.<small><sub>**MT:**</sub></small>
 [[Prov.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| give an answer | <big><span class="asgreek">αποκρίνου</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| to a fool | <big><span class="asgreek">άφρονι</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that one's | <big><span class="asgreek">εκείνου</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| folly, | <big><span class="asgreek">αφροσύνην</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
-| lest | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| likened | <big><span class="asgreek">όμοιος</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
-| you should become | <big><span class="asgreek">γένη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to him! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| give an answer | **<big>[[G0611\|αποκρίνου]]</big>** |
+| to a fool | **<big>[[G0878\|άφρονι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| that one's | **<big>[[G1565\|εκείνου]]</big>** |
+| folly, | **<big>[[G0877\|αφροσύνην]]</big>** |
+| lest | **<big>[[G2443\|ίνα]]</big>** **<big>[[G3361\|μη]]</big>** |
+| likened | **<big>[[G3664\|όμοιος]]</big>** |
+| you should become | **<big>[[G1096\|γένη]]</big>** |
+| to him! | **<big>[[G1473\|αυτώ]]</big>** |
 [[Prov.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
 
 

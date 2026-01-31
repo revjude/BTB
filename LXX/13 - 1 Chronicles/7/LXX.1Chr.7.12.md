@@ -7,19 +7,19 @@ Shuppim also, and Huppim, the children of Ir, [and] Hushim, the sons of Aher.
 The Shuppites and Huppites were descendants of Ir, and the Hushites were descendants of Aher.<small><sub>**MT:**</sub></small>
 [[1Chr.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.11|<< 1 Chronicles 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.13|1 Chronicles 7:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shuppim, | <big><span class="asgreek">Σαπάμ</span></big> <sup><small><small>[[H8206]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Huppim, | <big><span class="asgreek">Ηφάμ</span></big> <sup><small><small>[[H2650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ir | <big><span class="asgreek">Ιρ</span></big> <sup><small><small>[[H5893]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hushim, | <big><span class="asgreek">Ασίμ</span></big> <sup><small><small>[[H2366b]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Aher. | <big><span class="asgreek">Αχέρ</span></big> <sup><small><small>[[H0313]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shuppim, | **<big>[[H8206\|Σαπάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Huppim, | **<big>[[H2650\|Ηφάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ir | **<big>[[H5893\|Ιρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hushim, | **<big>[[H2366b\|Ασίμ]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| Aher. | **<big>[[H0313\|Αχέρ]]</big>** |
 [[1Chr.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.11|<< 1 Chronicles 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.13|1 Chronicles 7:13 >>]]</td></tr></table>
 
 

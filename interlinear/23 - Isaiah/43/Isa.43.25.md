@@ -6,17 +6,17 @@ I, yes I, am He who blots out your transgressions for My own sake and remembers 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.24|<< Isaiah 43:24]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.26|Isaiah 43:26 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I  | <span class="ashebrew"><big>אָנֹכִ֨י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אָנֹכִ֥י </big></span><small><small><sup>[[H0595]]</sup></small></small> &#8207;| 'a.no.Khi <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] he  | <span class="ashebrew"><big>ה֛וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who is] wiping out  | <span class="ashebrew"><big>מֹחֶ֥ה </big></span><small><small><sup>[[H4229A]]</sup></small></small> &#8207;| mo.Cheh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| transgressions your  | <span class="ashebrew"><big>פְשָׁעֶ֖י </big></span><small><small><sup>[[H6588]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| fe.sha.'Ei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for own sake my  | <span class="ashebrew"><big>לְמַעֲנִ֑ </big></span><small><small><sup>[[H4616]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| le.ma.'a. <small><sup>[[HTc]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sins your  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַטֹּאתֶ֖י </big></span><small><small><sup>[[H2403B]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cha.to.Tei. <small><sup>[[HNcfpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will remember  | <span class="ashebrew"><big>אֶזְכֹּֽר </big></span><small><small><sup>[[H2142]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ez.Kor <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹכִ֨י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹכִ֥י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] he  |**<big>&#8207;[[H1931\|ה֛וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who is] wiping out  |**<big>&#8207;[[H4229A\|מֹחֶ֥ה]]&#8207; </big>**| mo.Cheh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgressions your  |**<big>&#8207;[[H6588\|פְשָׁעֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| fe.sha.'Ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for own sake my  |**<big>&#8207;[[H4616\|לְמַעֲנִ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| le.ma.'a.<small><sup>[[HTc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sins your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2403B\|חַטֹּאתֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.to.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will remember  |**<big>&#8207;[[H2142\|אֶזְכֹּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ez.Kor<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.24|<< Isaiah 43:24]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.26|Isaiah 43:26 >>]]</td></tr></table>
 
 

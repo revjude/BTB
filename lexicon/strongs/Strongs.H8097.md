@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְעִי‎</span></big> **Shimʻîy** <small>*(shim-ee')*</small> ==**Shimeite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎שִׁמְעִי‎</span><sup><small>[[H8096]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁמְעִי‎</span></big>** **Shimʻîy** <small>*(shim-ee')*</small> ==**Shimeite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H8096|‎שִׁמְעִי‎]]</big>**</small>
 
 $\quad$ of Shimi, Shimites.
 - § Shimites = *see Shimei "renowned"*

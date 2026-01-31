@@ -11,26 +11,26 @@ Behold, the Day of the LORD is coming—cruel, with fury and burning anger—to 
 > $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24-25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| comes; | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| incurable | <big><span class="asgreek">ανίατος</span></big> <sup><small><small>[[G6345]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| to make | <big><span class="asgreek">θείναι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| world | <big><span class="asgreek">οικουμένην</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| desolate, | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sinners | <big><span class="asgreek">αμαρτωλούς</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| to destroy | <big><span class="asgreek">απολέσαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For behold | **<big>[[G2400\|ιδού]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| comes; | **<big>[[G2064\|έρχεται]]</big>** |
+| incurable | **<big>[[G6345\|ανίατος]]</big>** |
+| rage | **<big>[[G2372\|θυμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| anger | **<big>[[G3709\|οργής]]</big>** |
+| to make | **<big>[[G5087\|θείναι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| world | **<big>[[G3611\|οικουμένην]]</big>** |
+| desolate, | **<big>[[G2048\|έρημον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| sinners | **<big>[[G0268\|αμαρτωλούς]]</big>** |
+| to destroy | **<big>[[G0622\|απολέσαι]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| it. | **<big>[[G1473\|αυτής]]</big>** |
 [[Isa.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.8|<< Isaiah 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.10|Isaiah 13:10 >>]]</td></tr></table>
 
 

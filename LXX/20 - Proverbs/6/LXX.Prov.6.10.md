@@ -7,19 +7,19 @@ A little then to sleep, and a little you sit down, and a little you slumber, and
 A little sleep, a little slumber, a little folding of the hands to rest,<small><sub>**MT:**</sub></small>
 [[Prov.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.9|<< Proverbs 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.11|Proverbs 6:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| then | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
-| to sleep, | <big><span class="asgreek">υπνοίς</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
-| and a little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you sit down, | <big><span class="asgreek">κάθησαι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| and a little | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you slumber, | <big><span class="asgreek">νυστάζεις</span></big> <sup><small><small>[[G3573]]</small></small></sup> |
-| and a little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| you fold your arms | <big><span class="asgreek">εναγκαλίζη</span></big> <sup><small><small>[[G1723]]</small></small></sup> |
-| \[with\] hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| to \[the\] breasts. | <big><span class="asgreek">στήθη</span></big> <sup><small><small>[[G4738]]</small></small></sup> |
+| A little | **<big>[[G3641\|ολίγον]]</big>** |
+| then | **<big>[[G3303\|μεν]]</big>** |
+| to sleep, | **<big>[[G9567\|υπνοίς]]</big>** |
+| and a little | **<big>[[G3641\|ολίγον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you sit down, | **<big>[[G2521\|κάθησαι]]</big>** |
+| and a little | **<big>[[G3398\|μικρόν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you slumber, | **<big>[[G3573\|νυστάζεις]]</big>** |
+| and a little | **<big>[[G3641\|ολίγον]]</big>** **<big>[[G1161\|δε]]</big>** |
+| you fold your arms | **<big>[[G1723\|εναγκαλίζη]]</big>** |
+| \[with\] hands | **<big>[[G5495\|χερσί]]</big>** |
+| to \[the\] breasts. | **<big>[[G4738\|στήθη]]</big>** |
 [[Prov.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.9|<< Proverbs 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.11|Proverbs 6:11 >>]]</td></tr></table>
 
 

@@ -11,20 +11,20 @@ Who has given to Me that I should repay him? Everything under heaven is Mine.<s
 > $\quad$ referenced by: [[Rom.11.35|Rom 11:35]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall oppose | <big><span class="asgreek">αντιστήσεταί</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| remain, | <big><span class="asgreek">υπομενεί</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| since | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| under | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| is mine? | <big><span class="asgreek">εμή</span></big> <sup><small><small>[[G1699]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Or | **<big>[[G2228\|η]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| shall oppose | **<big>[[G0436\|αντιστήσεταί]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| remain, | **<big>[[G5278\|υπομενεί]]</big>** |
+| since | **<big>[[G1487\|ει]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| under | **<big>[[G5259\|υπ΄]]</big>** |
+| heaven | **<big>[[G3772\|ουρανόν]]</big>** |
+| is mine? | **<big>[[G1699\|εμή]]</big>** **<big>[[G1510\|εστιν]]</big>** |
 [[Job.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.10|<< Job 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.12|Job 41:12 >>]]</td></tr></table>
 
 

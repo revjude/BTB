@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זְכַרְיָה‎</span></big> **Zᵉkaryâh** <small>*(zek-ar-yaw')*</small> ==**Zechariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">זְכַרְיָהוּ</span> **Zᵉkaryâhûw** <small>*(zekar-yaw'-hoo)*</small>; from <span class="ashebrew">‎זָכַר‎</span><sup><small>[[H2142]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has remembered</small>
+**<big><span class="ashebrew">‎זְכַרְיָה‎</span></big>** **Zᵉkaryâh** <small>*(zek-ar-yaw')*</small> ==**Zechariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">זְכַרְיָהוּ</span></big>** **Zᵉkaryâhûw** <small>*(zekar-yaw'-hoo)*</small>; from **<big>[[H2142|‎זָכַר‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has remembered</small>
 
 $\quad$ Zachariah, Zechariah.
 - § Zechariah = *"Jehovah remembers"*
@@ -35,4 +35,4 @@ $\quad$ Zachariah, Zechariah.
 **28)** one of the rulers of the temple in the reign of Josiah
 **29)** son of Jeberechiah who was taken by the prophet Isaiah as one of the 'faithful witnesses to record' when he wrote concerning Maher-shalal-hash-baz
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ζαχαρίας</span><sup><small>[[G2197]]</small></sup>
+<small>See Greek: </small>**<big>[[G2197|Ζαχαρίας]]</big>**

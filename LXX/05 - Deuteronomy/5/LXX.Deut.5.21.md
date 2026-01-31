@@ -11,45 +11,45 @@ You shall not covet your neighbor’s wife. You shall not covet your neighbor’
 > $\quad$ referenced by: [[Rom.7.7|Rom 7:7]] ☩ [[Rom.13.9|Rom 13:9]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| desire | <big><span class="asgreek">επιθυμήσεις</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| desire | <big><span class="asgreek">επιθυμήσεις</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his field, | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his manservant, | <big><span class="asgreek">παίδα</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his maidservant, | <big><span class="asgreek">παιδίσκην</span></big> <sup><small><small>[[G3814]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ox, | <big><span class="asgreek">βοός</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his beast of burden, | <big><span class="asgreek">υποζυγίου</span></big> <sup><small><small>[[G5268]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| any | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| beast | <big><span class="asgreek">κτήνους</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| of his, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| any \[thing\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| desire | **<big>[[G1937\|επιθυμήσεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| wife | **<big>[[G1135\|γυναίκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your neighbor. | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| You shall not | **<big>[[G3756\|ουκ]]</big>** |
+| desire | **<big>[[G1937\|επιθυμήσεις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your neighbor, | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his field, | **<big>[[G0068\|αγρόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his manservant, | **<big>[[G3816\|παίδα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his maidservant, | **<big>[[G3814\|παιδίσκην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his ox, | **<big>[[G1016\|βοός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his beast of burden, | **<big>[[G5268\|υποζυγίου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| any | **<big>[[G3956\|παντός]]</big>** |
+| beast | **<big>[[G2934\|κτήνους]]</big>** |
+| of his, | **<big>[[G1473\|αυτού]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| any \[thing\] | **<big>[[G3956\|πάντα]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your neighbor | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|σου]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
 [[Deut.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.20|<< Deuteronomy 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.22|Deuteronomy 5:22 >>]]</td></tr></table>
 
 

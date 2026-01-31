@@ -7,22 +7,22 @@ Behold, I [am] against the prophets, saith the LORD, that use their tongues, and
 “Yes,” declares the LORD, “I am against the prophets who wag their own tongues and proclaim, ‘The LORD declares it.’”<small><sub>**MT:**</sub></small>
 [[Jer.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.30|<< Jeremiah 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.32|Jeremiah 23:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prophets, | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| casting out | <big><span class="asgreek">εκβάλλοντας</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| prophecies | <big><span class="asgreek">προφητείας</span></big> <sup><small><small>[[G4394]]</small></small></sup> |
-| of \[the\] tongue, | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| slumbering | <big><span class="asgreek">νυστάζοντας</span></big> <sup><small><small>[[G3573]]</small></small></sup> |
-| of their own slumber. | <big><span class="asgreek">νυσταγμόν</span></big> <sup><small><small>[[G8418]]</small></small></sup> <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
+| against | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| prophets, | **<big>[[G4396\|προφήτας]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| casting out | **<big>[[G1544\|εκβάλλοντας]]</big>** |
+| prophecies | **<big>[[G4394\|προφητείας]]</big>** |
+| of \[the\] tongue, | **<big>[[G1100\|γλώσσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| slumbering | **<big>[[G3573\|νυστάζοντας]]</big>** |
+| of their own slumber. | **<big>[[G8418\|νυσταγμόν]]</big>** **<big>[[G1438\|εαυτών]]</big>** |
 [[Jer.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.30|<< Jeremiah 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.32|Jeremiah 23:32 >>]]</td></tr></table>
 
 

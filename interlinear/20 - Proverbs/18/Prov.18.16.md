@@ -6,15 +6,15 @@ A man’s gift opens doors for him, and brings him before great men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.15|<< Proverbs 18:15]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.17|Proverbs 18:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] gift of  | <span class="ashebrew"><big>מַתָּ֣ן </big></span><small><small><sup>[[H4976]]</sup></small></small> &#8207;| ma.Tan <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a person  | <span class="ashebrew"><big>אָ֭דָם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'A.dom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it makes space  | <span class="ashebrew"><big>יַרְחִ֣יב </big></span><small><small><sup>[[H7337]]</sup></small></small> &#8207;| yar.Chiv <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for him  | <span class="ashebrew"><big>ל֑ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and \<to> before  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵ֖י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> li <small><sup>[[HR]]</sup></small> f.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great [people]  | <span class="ashebrew"><big>גְדֹלִ֣ים </big></span><small><small><sup>[[H1419A]]</sup></small></small> &#8207;| ge.do.Lim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it leads him  | <span class="ashebrew"><big>יַנְחֶֽ </big></span><small><small><sup>[[H5148]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yan.Che. <small><sup>[[HVhi3ms]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gift of  |**<big>&#8207;[[H4976\|מַתָּ֣ן]]&#8207; </big>**| ma.Tan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it makes space  |**<big>&#8207;[[H7337\|יַרְחִ֣יב]]&#8207; </big>**| yar.Chiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for him  |**<big>&#8207;[[H9005\|ל֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great [people]  |**<big>&#8207;[[H1419A\|גְדֹלִ֣ים]]&#8207; </big>**| ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it leads him  |**<big>&#8207;[[H5148\|יַנְחֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yan.Che.<small><sup>[[HVhi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.15|<< Proverbs 18:15]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.17|Proverbs 18:17 >>]]</td></tr></table>
 
 

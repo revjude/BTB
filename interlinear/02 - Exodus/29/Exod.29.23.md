@@ -6,22 +6,22 @@ along with one loaf of bread, one cake of bread made with oil, and one wafer fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.22|<< Exodus 29:22]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.24|Exodus 29:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and a round loaf of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כִכַּ֨ר </big></span><small><small><sup>[[H3603H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khi.Kar <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bread  | <span class="ashebrew"><big>לֶ֜חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אַחַ֗ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'a.Chat <small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a cake of  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חַלַּ֨ת </big></span><small><small><sup>[[H2471]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.Lat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bread of  | <span class="ashebrew"><big>לֶ֥חֶם </big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| Le.chem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| oil  | <span class="ashebrew"><big>שֶׁ֛מֶן </big></span><small><small><sup>[[H8081]]</sup></small></small> &#8207;| She.men <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אַחַ֖ת </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'a.Chat <small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a wafer  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רָקִ֣יק </big></span><small><small><sup>[[H7550]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ra.Kik <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  | <span class="ashebrew"><big>אֶחָ֑ד </big></span><small><small><sup>[[H0259]]</sup></small></small> &#8207;| 'e.Chad <small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] basket of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>סַּל֙ </big></span><small><small><sup>[[H5536]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Sal <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the unleavened bread\<s>  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּצּ֔וֹת </big></span><small><small><sup>[[H4682]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.Tzot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] \<to> before  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵ֥י </big></span><small><small><sup>[[H6440G]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָֽה </big></span><small><small><sup>[[H3068G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a round loaf of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3603H\|כִכַּ֨ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi.Kar<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread  |**<big>&#8207;[[H3899H\|לֶ֜חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אַחַ֗ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a cake of  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H2471\|חַלַּ֨ת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread of  |**<big>&#8207;[[H3899H\|לֶ֥חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oil  |**<big>&#8207;[[H8081\|שֶׁ֛מֶן]]&#8207; </big>**| She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אַחַ֖ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a wafer  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7550\|רָקִ֣יק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Kik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָ֑ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] basket of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5536\|סַּל֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the unleavened bread\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4682\|מַּצּ֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.22|<< Exodus 29:22]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.24|Exodus 29:24 >>]]</td></tr></table>
 
 

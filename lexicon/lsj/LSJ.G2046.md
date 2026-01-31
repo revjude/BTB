@@ -1,4 +1,4 @@
-form of: <small>[[G2036]]</small> 
+form of: <small>**<big>[[G2036|ἔπω]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐρῶ==</span></b>, 

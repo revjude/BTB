@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גָּלָל‎</span></big> **gâlâl** <small>*(gaw-lawl')*</small> ==**because of**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּלַל‎</span><sup><small>[[H1556]]</small></sup></small>
+**<big><span class="ashebrew">‎גָּלָל‎</span></big>** **gâlâl** <small>*(gaw-lawl')*</small> ==**because of**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1556|‎גָּלַל‎]]</big>**</small>
 
 $\quad$ because of, for (sake).
 - ***a circumstance*** (as rolled around)

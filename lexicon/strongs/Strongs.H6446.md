@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּס‎</span></big> **paç** <small>*(pas)*</small> ==**long-sleeved**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּסַס‎</span><sup><small>[[H6461]]</small></sup>; properly, the palm (of the hand) or sole (of the foot) (compare <span class="asaramaic">‎פַּס‎</span><sup><small>[[H6447]]</small></sup>); by implication (plural)</small>
+**<big><span class="ashebrew">‎פַּס‎</span></big>** **paç** <small>*(pas)*</small> ==**long-sleeved**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6461|‎פָּסַס‎]]</big>**; properly, the palm (of the hand) or sole (of the foot) (compare **<big>[[H6447|‎פַּס‎]]</big>**); by implication (plural)</small>
 
 $\quad$ (divers) colours.
 - ***a long and sleeved tunic*** (perhaps simply a wide one

@@ -6,16 +6,16 @@ Kings of armies did flee apace: and she that tarried at home divided the spoil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.11|<< Psalms 68:11]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.13|Psalms 68:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| kings of  | <span class="ashebrew"><big>מַלְכֵ֣י </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| mal.Khei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| armies  | <span class="ashebrew"><big>צְ֭בָאוֹת </big></span><small><small><sup>[[H6635B]]</sup></small></small> &#8207;| Tze.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they flee !  | <span class="ashebrew"><big>יִדֹּד֣וּ </big></span><small><small><sup>[[H5074]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| yi.do.Du <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they flee !  | <span class="ashebrew"><big>יִדֹּד֑וּ </big></span><small><small><sup>[[H5074]]</sup></small></small> <span class="ashebrew"><big>ן </big></span><small><small><sup>[[H9013]]</sup></small></small> &#8207;| yi.do.Du <small><sup>[[HVqi3mp]]</sup></small> n <small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] beautiful woman of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נְוַת </big></span><small><small><sup>[[H5116B]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ne.vat <small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] house  | <span class="ashebrew"><big>בַּ֝֗יִת </big></span><small><small><sup>[[H1004B]]</sup></small></small> &#8207;| Ba.yit <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she divides  | <span class="ashebrew"><big>תְּחַלֵּ֥ק </big></span><small><small><sup>[[H2505A]]</sup></small></small> &#8207;| te.cha.Lek <small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] plunder  | <span class="ashebrew"><big>שָׁלָֽל </big></span><small><small><sup>[[H7998]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| sha.Lal <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֣י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| armies  |**<big>&#8207;[[H6635B\|צְ֭בָאוֹת]]&#8207; </big>**| Tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they flee !  |**<big>&#8207;[[H5074\|יִדֹּד֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| yi.do.Du<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they flee !  |**<big>&#8207;[[H5074\|יִדֹּד֑וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| yi.do.Du<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] beautiful woman of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5116B\|נְוַת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.vat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house  |**<big>&#8207;[[H1004B\|בַּ֝֗יִת]]&#8207; </big>**| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she divides  |**<big>&#8207;[[H2505A\|תְּחַלֵּ֥ק]]&#8207; </big>**| te.cha.Lek<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] plunder  |**<big>&#8207;[[H7998\|שָׁלָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.11|<< Psalms 68:11]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.13|Psalms 68:13 >>]]</td></tr></table>
 
 

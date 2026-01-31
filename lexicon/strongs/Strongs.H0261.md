@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵחוּד‎</span></big> **ʼÊchûwd** <small>*(ay-khood')*</small> ==**Ehud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אָחַד‎</span><sup><small>[[H0258]]</small></sup>; united</small>
+**<big><span class="ashebrew">‎אֵחוּד‎</span></big>** **ʼÊchûwd** <small>*(ay-khood')*</small> ==**Ehud**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0258|‎אָחַד‎]]</big>**; united</small>
 
 $\quad$ Ehud.
 - § Ehud = *"united"*

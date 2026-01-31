@@ -7,22 +7,22 @@ Thou hast put away mine acquaintance far from me; thou hast made me an abominati
 You have removed my friends from me; You have made me repulsive to them; I am confined and cannot escape.<small><sub>**MT:**</sub></small>
 [[Ps.88.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.7|<< Psalm 88:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.9|Psalm 88:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You distanced | <big><span class="asgreek">εμάκρυνας</span></big> <sup><small><small>[[G8239]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γνωστούς</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You made | <big><span class="asgreek">έθεντό</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| to them. | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| I have been delivered up, | <big><span class="asgreek">παρεδόθην</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| gone forth. | <big><span class="asgreek">εξεπορευόμην</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| You distanced | **<big>[[G8239\|εμάκρυνας]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| knowing | **<big>[[G1110\|γνωστούς]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| You made | **<big>[[G5087\|έθεντό]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| an abomination | **<big>[[G0946\|βδέλυγμα]]</big>** |
+| to them. | **<big>[[G1438\|εαυτοίς]]</big>** |
+| I have been delivered up, | **<big>[[G3860\|παρεδόθην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| have not | **<big>[[G3756\|ουκ]]</big>** |
+| gone forth. | **<big>[[G1607\|εξεπορευόμην]]</big>** |
 [[Ps.88.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.7|<< Psalm 88:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.9|Psalm 88:9 >>]]</td></tr></table>
 
 

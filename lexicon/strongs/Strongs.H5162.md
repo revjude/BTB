@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָחַם‎</span></big> **nâcham** <small>*(naw-kham')*</small> ==**to be sorry: comfort**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָחַם‎</span></big>** **nâcham** <small>*(naw-kham')*</small> ==**to be sorry: comfort**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ comfort (self), ease (one's self), repent(-er,-ing, self).
@@ -20,4 +20,4 @@ $\quad$ $\quad$ **1d2)** to rue, repent of
 $\quad$ $\quad$ **1d3)** to comfort oneself, be comforted
 $\quad$ $\quad$ **1d4)** to ease oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναπαύω</span><sup><small>[[G0373]]</small></sup> · <span class="asgreek">ἀνίημι</span><sup><small>[[G0447]]</small></sup> · <span class="asgreek">ἐλεέω</span><sup><small>[[G1653]]</small></sup> · <span class="asgreek">ἐνθυμέομαι</span><sup><small>[[G1760]]</small></sup> · <span class="asgreek">ἡγέομαι</span><sup><small>[[G2233]]</small></sup> · <span class="asgreek">θαυμάζω</span><sup><small>[[G2296]]</small></sup> · <span class="asgreek">θυμόω</span><sup><small>[[G2373]]</small></sup> · <span class="asgreek">ἱλάσκομαι</span><sup><small>[[G2433]]</small></sup> · <span class="asgreek">ἵλεως</span><sup><small>[[G2436]]</small></sup> · <span class="asgreek">μεταμέλλομαι</span><sup><small>[[G3338]]</small></sup> · <span class="asgreek">μετανοέω</span><sup><small>[[G3340]]</small></sup> · <span class="asgreek">παρακαλέω</span><sup><small>[[G3870]]</small></sup> · <span class="asgreek">παράκλησις</span><sup><small>[[G3874]]</small></sup> · <span class="asgreek">παύω</span><sup><small>[[G3973]]</small></sup>
+<small>See Greek: </small>**<big>[[G0373|ἀναπαύω]]</big>** · **<big>[[G0447|ἀνίημι]]</big>** · **<big>[[G1653|ἐλεέω]]</big>** · **<big>[[G1760|ἐνθυμέομαι]]</big>** · **<big>[[G2233|ἡγέομαι]]</big>** · **<big>[[G2296|θαυμάζω]]</big>** · **<big>[[G2373|θυμόω]]</big>** · **<big>[[G2433|ἱλάσκομαι]]</big>** · **<big>[[G2436|ἵλεως]]</big>** · **<big>[[G3338|μεταμέλλομαι]]</big>** · **<big>[[G3340|μετανοέω]]</big>** · **<big>[[G3870|παρακαλέω]]</big>** · **<big>[[G3874|παράκλησις]]</big>** · **<big>[[G3973|παύω]]</big>**

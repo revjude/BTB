@@ -10,31 +10,31 @@ The righteous perisheth, and no man layeth [it] to heart: and merciful men [are]
 The righteous perish, and no one takes it to heart; devout men are taken away, while no one considers that the righteous are taken away from the presence of evil.<small><sub>**MT:**</sub></small>
 [[Isa.57.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.12|<< Isaiah 56:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.2|Isaiah 57:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| how | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just one | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| perishes, | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| looks out for | <big><span class="asgreek">εκδέχεται</span></big> <sup><small><small>[[G1551]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart; | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| just | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| are lifted away, | <big><span class="asgreek">αίρονται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
-| contemplates. | <big><span class="asgreek">κατανοεί</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| For from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of injustice | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| has been lifted away | <big><span class="asgreek">ήρται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just one | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| Behold! | **<big>[[G1492\|ίδετε]]</big>** |
+| how | **<big>[[G5613\|ως]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| just one | **<big>[[G1342\|δίκαιος]]</big>** |
+| perishes, | **<big>[[G0622\|απώλετο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no one | **<big>[[G3762\|ουδείς]]</big>** |
+| looks out for | **<big>[[G1551\|εκδέχεται]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| heart; | **<big>[[G2588\|καρδία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| just | **<big>[[G1342\|δίκαιοι]]</big>** |
+| are lifted away, | **<big>[[G0142\|αίρονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no one | **<big>[[G3762\|ουδείς]]</big>** |
+| contemplates. | **<big>[[G2657\|κατανοεί]]</big>** |
+| For from | **<big>[[G0575\|από]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of injustice | **<big>[[G0093\|αδικίας]]</big>** |
+| has been lifted away | **<big>[[G0142\|ήρται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| just one | **<big>[[G1342\|δίκαιος]]</big>** |
 [[Isa.57.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.12|<< Isaiah 56:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.2|Isaiah 57:2 >>]]</td></tr></table>
 
 

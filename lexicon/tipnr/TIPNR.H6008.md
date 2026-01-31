@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Amad</span>, a town on the boundary of Asher's territory.
 - A location only mentioned at [[Josh.19.26|Jos.19.26]]; 
-- only referred to as Amad<[[H6008]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Amad **<big>[[H6008|עַמְעָד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.019337,35.173644&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Amad is mentioned in [[Josh.19.26|Joshua 19:26]] as one of the towns on the bord
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amad | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>](H6008) <small>*Hebrew*</small> | 1x | [Jos.19.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amad\*\|reference=Jos.19.26) |
-All Strong's for **Amad**: \[[[H6008]]\]
+| Amad | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>](H6008) | 1x | [Jos.19.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amad\*\|reference=Jos.19.26) |
+All entries for **Amad**:  **<big>[[H6008|עַמְעָד]]</big>**

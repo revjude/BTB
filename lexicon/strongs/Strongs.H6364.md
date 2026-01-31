@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פִּי־בֶסֶת‎</span></big> **Pîy-Beçeth** <small>*(pee beh'-seth)*</small> ==**Pi-beseth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎פִּי־בֶסֶת‎</span></big>** **Pîy-Beçeth** <small>*(pee beh'-seth)*</small> ==**Pi-beseth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>of Egyptian origin</small>
 
 $\quad$ Pi-beseth.

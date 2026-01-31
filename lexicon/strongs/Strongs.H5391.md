@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָשַׁךְ‎</span></big> **nâshak** <small>*(naw-shak')*</small> ==**to bite**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָשַׁךְ‎</span></big>** **nâshak** <small>*(naw-shak')*</small> ==**to bite**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bite, lend upon usury.
@@ -12,4 +12,4 @@ $\quad$ **1b)** (Piel) to bite
 $\quad$ **2a)** (Qal) to give interest
 $\quad$ **2b)** (Hiphil) to make to give interest
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δάκνω</span><sup><small>[[G1143]]</small></sup> · <span class="asgreek">πλήσσω</span><sup><small>[[G4141]]</small></sup>
+<small>See Greek: </small>**<big>[[G1143|δάκνω]]</big>** · **<big>[[G4141|πλήσσω]]</big>**

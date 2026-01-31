@@ -12,24 +12,24 @@ A Psalm of David. Give unto the LORD, O ye mighty, give unto the LORD glory and 
 A Psalm of David. Ascribe to the LORD, O heavenly beings, ascribe to the LORD glory and strength.<small><sub>**MT:**</sub></small>
 [[Ps.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.9|<< Psalm 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.2|Psalm 29:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| offspring | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of rams! | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| Bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honor! | <big><span class="asgreek">τιμήν</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
+| Bring | **<big>[[G5342\|ενέγκατε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| O sons | **<big>[[G5207\|υιοί]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| bring | **<big>[[G5342\|ενέγκατε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| offspring | **<big>[[G5207\|υιούς]]</big>** |
+| of rams! | **<big>[[G8096\|κριών]]</big>** |
+| Bring | **<big>[[G5342\|ενέγκατε]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| glory | **<big>[[G1391\|δόξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honor! | **<big>[[G5092\|τιμήν]]</big>** |
 [[Ps.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.9|<< Psalm 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.2|Psalm 29:2 >>]]</td></tr></table>
 
 

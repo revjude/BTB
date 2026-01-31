@@ -4,10 +4,10 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Ahikam</span>, son of Shaphan, was an official during the reigns of Josiah and Jehoiakim, and he protected Jeremiah from death. \([[2Kgs.22.12|2Ki.22.12]]; [[Jer.26.24|Jer.26.24]]\)
 - A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.22.12|2Ki.22.12]]; 
-- only referred to as Ahikam<[[H0296]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יק</span>ָ<span class='tipnrLangHebrew'>ם</span>\); 
--  son of Shaphan<[[H8227B]]>; 
-- a brother of Elasah<[[H0501J]]> and Gemariah<[[H1587H]]>; 
--  father of Gedaliah<[[H1436B]]>.
+- only referred to as Ahikam **<big>[[H0296|אֲחִיקָם]]</big>**; 
+-  son of Shaphan **<big>[[H8227|שָׁפָן]]</big>**; 
+- a brother of Elasah **<big>[[H0501|אֶלְעָשָׂה]]</big>** and Gemariah **<big>[[H1587|גְּמַרְיָה]]</big>**; 
+-  father of Gedaliah **<big>[[H1436|גְּדַּלְיָה]]</big>**.
 
 Ahikam was the son of Shaphan the scribe and an important official during the reigns of King Josiah and King Jehoiakim of Judah. He first appears in the biblical narrative when Josiah sends him, along with other officials, to consult the prophetess Huldah regarding the book of the Law discovered in the temple. \([[2Kgs.22.12|2Ki.22.12]]-14; [[2Chr.34.20|2Ch.34.20]]\) 
 
@@ -19,8 +19,8 @@ Gedaliah establishes his headquarters at Mizpah and encourages the remaining peo
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ahikam | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יק</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0296) <small>*Hebrew*</small> | 20x | [[2Ki.22.12] ... [Jer.43.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahikam\*\|reference=2Ki.22.12;2Ki.22.14;2Ki.25.22;2Ch.34.20;Jer.26.24;Jer.39.14;Jer.40.5;Jer.40.6;Jer.40.7;Jer.40.9;Jer.40.11;Jer.40.14;Jer.40.16;Jer.41.1;Jer.41.2;Jer.41.6;Jer.41.10;Jer.41.16;Jer.41.18;Jer.43.6) |
-All Strong's for **Ahikam**: \[[[H0296]]\]
+| Ahikam | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יק</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0296) | 20x | [[2Ki.22.12] ... [Jer.43.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahikam\*\|reference=2Ki.22.12;2Ki.22.14;2Ki.25.22;2Ch.34.20;Jer.26.24;Jer.39.14;Jer.40.5;Jer.40.6;Jer.40.7;Jer.40.9;Jer.40.11;Jer.40.14;Jer.40.16;Jer.41.1;Jer.41.2;Jer.41.6;Jer.41.10;Jer.41.16;Jer.41.18;Jer.43.6) |
+All entries for **Ahikam**:  **<big>[[H0296|אֲחִיקָם]]</big>**
 #### Related Profiles:
 - **[Shaphan](H8227B)** (father)
 - **[Elasah](H0501J)** (sibling)

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּרְמִי‎</span></big> **Karmîy** <small>*(kar-mee')*</small> ==**Carmite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎כַּרְמִי‎</span><sup><small>[[H3756]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּרְמִי‎</span></big>** **Karmîy** <small>*(kar-mee')*</small> ==**Carmite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H3756|‎כַּרְמִי‎]]</big>**</small>
 
 $\quad$ Carmites.
 - § Carmites = *see Carmi "my vineyard"*

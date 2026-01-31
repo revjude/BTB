@@ -1,5 +1,4 @@
-<span class="ashebrew">‎בֶּ֫כֶר‎</span> <small>***(be.kher)***</small> ==**Becher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]
--  son of: Benjamin ([[H1144]])
--  brother of: Bela ([[H1106A]]), Ashbel ([[H0788]]), Gera ([[H1617]]), Naaman ([[H5283]]), Ehi ([[H0278]]), Rosh ([[H7220]]), Muppim ([[H4649]]), Huppim ([[H2650H]]), Ard ([[H0714]]), Ahiram ([[H0297]]) and Jediael ([[H3043]])
--  father of: Zemirah ([[H2160]]), Joash ([[H3135]]), Eliezer ([[H0461I]]), Elioenai ([[H0454I]]), Omri ([[H6018H]]), Jeremoth ([[H3406H]]), Abijah ([[H0029K]]), Anathoth ([[H6068H]]) and Alemeth ([[H5964H]])
+-  son of: Benjamin (**<big>[[H1144|בִּנְיָמִין]]</big>**)
+-  brother of: Bela (**<big>[[H1106A|בֶּלַע]]</big>**), Ashbel (**<big>[[H0788|אַשְׁבֵּל]]</big>**), Gera (**<big>[[H1617|גֵּרָא]]</big>**), Naaman (**<big>[[H5283|נַעֲמָן]]</big>**), Ehi (**<big>[[H0278|אֵחִי]]</big>**), Rosh (**<big>[[H7220|רֹאשׁ]]</big>**), Muppim (**<big>[[H4649|מֻפִּים]]</big>**), Huppim (**<big>[[H2650H|חֻפִּים]]</big>**), Ard (**<big>[[H0714|אַרְדְּ]]</big>**), Ahiram (**<big>[[H0297|אֲחִירָם]]</big>**) and Jediael (**<big>[[H3043|יְדִיעֲאֵל]]</big>**)
+-  father of: Zemirah (**<big>[[H2160|זְמִירָה]]</big>**), Joash (**<big>[[H3135|יוֹעָשׁ]]</big>**), Eliezer (**<big>[[H0461I|אֱלִיעֶזֶר]]</big>**), Elioenai (**<big>[[H0454I|אֶלְיְהוֹעֵינַי]]</big>**), Omri (**<big>[[H6018H|עׇמְרִי]]</big>**), Jeremoth (**<big>[[H3406H|יְרִימוֹת]]</big>**), Abijah (**<big>[[H0029K|אֲבִיָּה]]</big>**), Anathoth (**<big>[[H6068H|עֲנָתוֹת]]</big>**) and Alemeth (**<big>[[H5964H|עָלֶמֶת]]</big>**)

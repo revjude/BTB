@@ -1,4 +1,4 @@
-<small>Also see: [[H4192]]</small>
+<small>Also see: **<big>[[H4192|מוּת]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עַלְמָה‎</span> **noun feminine** ==young woman== (ripe sexually; maid or newly married); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Gen.24.43|Gen 24:43]] ([[BDB#J|J]]), [[Exod.2.8|Exod 2:8]] ([[BDB#E|E]]), [[Prov.30.19|Prov 30:19]]; [[Isa.7.14|Isa 7:14]] plural <span class="bdbLangHebrew">‎עֲלָמוֺת‎</span> [[Ps.68.26|Ps 68:26]]; [[Song.1.3|Song 1:3]]; [[Song.6.8|Song 6:8]] <span class="bdbLangHebrew">‎עַלעֲֿלָמוֺת‎</span> ***to*** (the voice of) ***young women***, either literally, or of soprano or falsetto of boys: [[1Chr.15.20|1Chr 15:20]]; [[Ps.9.1|Ps 9:1]] (read <span class="bdbLangHebrew">‎עַלעֲֿלָמוֺת לַבֵּן‎</span> [for <span class="bdbLangHebrew">‎עַלמֿוּת לַבֵּן‎</span>], '***voce virginea a pueris*** decantandum,' [[BDB#Thes|Thes]]), [[Ps.46.1|Ps 46:1]]; [[Ps.48.15|Ps 48:15]] (read <span class="bdbLangHebrew">‎עַלעֲֿלָמוֺת‎</span> [for <span class="bdbLangHebrew">‎עַלמֿוּת‎</span>]; translated probably to [[Ps.49.1|Ps 49:1]]). 
 

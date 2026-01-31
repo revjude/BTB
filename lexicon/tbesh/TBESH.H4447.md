@@ -1,6 +1,4 @@
-<span class="ashebrew">‎הַמֹּלֶכֶת‎</span> <small>***(mo.le.khet)***</small> ==**Hammolecheth**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 - A woman of the tribe of Manasseh living at the time of Egypt and Wilderness, only mentioned at [[1Chr.7.18|1Ch.7.18]]
--  daughter of: Machir ([[H4353]])
--  sister of: Gilead ([[H1568H]]), daughter\_of\_Machir ([[H4353I]]), Peresh ([[H6570]]) and Sheresh ([[H8329]])
--  mother of: Ishhod ([[H0379]]), Abiezer ([[H0044H]]) and Mahlah ([[H4244H]])
-
+-  daughter of: Machir (**<big>[[H4353|מָכִיר]]</big>**)
+-  sister of: Gilead (**<big>[[H1568H|גִּלְעָד]]</big>**), daughter\_of\_Machir (**<big>[[H4353I|מָכִיר]]</big>**), Peresh (**<big>[[H6570|פֶּרֶשׁ]]</big>**) and Sheresh (**<big>[[H8329|שֶׁרֶשׁ]]</big>**)
+-  mother of: Ishhod (**<big>[[H0379|אִישְׁהוֹד]]</big>**), Abiezer (**<big>[[H0044H|אֲבִיעֶזֶר]]</big>**) and Mahlah (**<big>[[H4244H|מַחְלָה]]</big>**)

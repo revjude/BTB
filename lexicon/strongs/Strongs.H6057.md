@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָנָף‎</span></big> **ʻânâph** <small>*(aw-nawf')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎עָנָף‎</span></big>** **ʻânâph** <small>*(aw-nawf')*</small> ==**branch**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to cover</small>
 
 $\quad$ bough, branch.
@@ -6,4 +6,4 @@ $\quad$ bough, branch.
 
 **1)** bough, branch
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλάδος</span><sup><small>[[G2798]]</small></sup> · <span class="asgreek">κλῆμα</span><sup><small>[[G2814]]</small></sup> · <span class="asgreek">πρόσωπον</span><sup><small>[[G4383]]</small></sup>
+<small>See Greek: </small>**<big>[[G2798|κλάδος]]</big>** · **<big>[[G2814|κλῆμα]]</big>** · **<big>[[G4383|πρόσωπον]]</big>**

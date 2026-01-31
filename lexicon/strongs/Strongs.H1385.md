@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎גְּבִנָה‎</span></big> **gᵉbinâh** <small>*(gheb-ee-naw')*</small> ==**cheese**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine from the same as <span class="ashebrew">‎גִּבֵּן‎</span><sup><small>[[H1384]]</small></sup></small>
+**<big><span class="ashebrew">‎גְּבִנָה‎</span></big>** **gᵉbinâh** <small>*(gheb-ee-naw')*</small> ==**cheese**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine from the same as **<big>[[H1384|‎גִּבֵּן‎]]</big>**</small>
 
 $\quad$ cheese.
 - ***curdled milk***

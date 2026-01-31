@@ -4,16 +4,16 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Sheba</span>, a descendant of Joktan, is associated with the ancient kingdom of Sheba in southern Arabia, known for its wealth and trade.
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.28|Gen.10.28]]; 
-- only referred to as Sheba<[[H7614H]]> \(<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>\); 
--  son of Joktan<[[H3355]]>; 
-- a brother of Almodad<[[H0486]]>, Sheleph<[[H8026]]>, Hazarmaveth<[[H2700]]>, Jerah<[[H3392]]>, Hadoram<[[H1913A]]>, Uzal<[[H0187G]]>, Diklah<[[H1853]]>, Obal<[[H5745]]>, Abimael<[[H0039]]>, Ophir<[[H0211G]]>, Havilah<[[H2341I]]> and Jobab<[[H3103G]]>.
+- only referred to as Sheba **<big>[[H7614|שְׁבָא]]</big>**; 
+-  son of Joktan **<big>[[H3355|יׇקְטָן]]</big>**; 
+- a brother of Almodad **<big>[[H0486|אַלְמוֹדָד]]</big>**, Sheleph **<big>[[H8026|שֶׁלֶף]]</big>**, Hazarmaveth **<big>[[H2700|חֲצַרְמָוֶת]]</big>**, Jerah **<big>[[H3392|יֶרַח]]</big>**, Hadoram **<big>[[H1913|הֲדוֹרָם]]</big>**, Uzal **<big>[[H0187|אוּזָל]]</big>**, Diklah **<big>[[H1853|דִּקְלָה]]</big>**, Obal **<big>[[H5745|עוֹבָל]]</big>**, Abimael **<big>[[H0039|אֲבִימָאֵל]]</big>**, Ophir **<big>[[H0211|אוֹפִיר]]</big>**, Havilah **<big>[[H2341|חֲוִילָה]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Sheba, mentioned in [[Gen.10.28|Genesis 10:28]] and [[1Chr.1.22|1 Chronicles 1:22]], was a descendant of Joktan, who was a descendant of Shem, one of Noah's sons. Joktan's descendants are associated with the peoples and tribes of southern Arabia. Sheba, in particular, is linked to the ancient kingdom of Sheba, located in the southern part of the Arabian Peninsula, in modern-day Yemen. The Sabeans, the inhabitants of Sheba, were renowned for their wealth, trade in spices, gold, and precious stones, and their influential position in the ancient Near Eastern trade network. The connection between Sheba, the descendant of Joktan, and the kingdom of Sheba suggests that the Joktanites may have been among the early settlers and founders of this prosperous kingdom. The mention of Sheba in the Table of Nations \(Genesis 10\) and the genealogy in 1 Chronicles highlights the spread and distribution of the descendants of Noah's sons after the Flood and their role in populating various regions of the ancient world.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sheba | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H7614H) <small>*Hebrew*</small> | 2x | [[Gen.10.28] & [1Ch.1.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheba\*\|reference=Gen.10.28;1Ch.1.22) |
-All Strong's for **Sheba**: \[[[H7614H]]\]
+| Sheba | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>א</span>](H7614H) | 2x | [[Gen.10.28] & [1Ch.1.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheba\*\|reference=Gen.10.28;1Ch.1.22) |
+All entries for **Sheba**:  **<big>[[H7614|שְׁבָא]]</big>**
 #### Related Profiles:
 - **[Joktan](H3355)** (father)
 - **[Almodad](H0486)** (sibling)

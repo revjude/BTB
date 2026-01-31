@@ -14,41 +14,41 @@ Then the king will do as he pleases and will exalt and magnify himself above eve
 > $\quad$ referenced by: [[2Thess.2.4|2Thess 2:4]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his will; | <big><span class="asgreek">θέλημα</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| shall be exalted, | <big><span class="asgreek">υψωθήσεται</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| magnified | <big><span class="asgreek">μεγαλυνθήσεται</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| god, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of gods. | <big><span class="asgreek">θεών</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall speak | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| pompous words, | <big><span class="asgreek">υπέρογκα</span></big> <sup><small><small>[[G5246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall prosper | <big><span class="asgreek">κατευθυνεί</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
-| until | <big><span class="asgreek">μέχρις</span></big> <sup><small><small>[[G3360]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| should be completed | <big><span class="asgreek">συντελεσθή</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wrath | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| For unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| completion | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
-| it is coming to pass. | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his will; | **<big>[[G2307\|θέλημα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| shall be exalted, | **<big>[[G5312\|υψωθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| magnified | **<big>[[G3170\|μεγαλυνθήσεται]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|πάντα]]</big>** |
+| god, | **<big>[[G2316\|θεόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| God | **<big>[[G2316\|θεόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of gods. | **<big>[[G2316\|θεών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall speak | **<big>[[G2980\|λαλήσει]]</big>** |
+| pompous words, | **<big>[[G5246\|υπέρογκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall prosper | **<big>[[G2720\|κατευθυνεί]]</big>** |
+| until | **<big>[[G3360\|μέχρις]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| should be completed | **<big>[[G4931\|συντελεσθή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wrath | **<big>[[G3709\|οργή]]</big>** |
+| For unto | **<big>[[G1519\|εις]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| completion | **<big>[[G4930\|συντέλειαν]]</big>** |
+| it is coming to pass. | **<big>[[G1096\|γίνεται]]</big>** |
 [[Dan.11.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.35|<< Daniel 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.37|Daniel 11:37 >>]]</td></tr></table>
 
 

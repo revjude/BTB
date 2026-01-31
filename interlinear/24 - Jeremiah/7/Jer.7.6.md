@@ -6,26 +6,26 @@ if you no longer oppress the foreigner and the fatherless and the widow, and if 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sojourner  | <span class="ashebrew"><big>גֵּ֣ר </big></span><small><small><sup>[[H1616]]</sup></small></small> &#8207;| ger <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] fatherless  | <span class="ashebrew"><big>יָת֤וֹם </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ya.Tom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] widow  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַלְמָנָה֙ </big></span><small><small><sup>[[H0490]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'al.ma.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must oppress  | <span class="ashebrew"><big>תַֽעֲשֹׁ֔קוּ </big></span><small><small><sup>[[H6231]]</sup></small></small> &#8207;| ta.'a.Sho.ku <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and blood  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>דָ֣ם </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| innocent  | <span class="ashebrew"><big>נָקִ֔י </big></span><small><small><sup>[[H5355A]]</sup></small></small> &#8207;| na.Ki <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַֽל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you shed  | <span class="ashebrew"><big>תִּשְׁפְּכ֖וּ </big></span><small><small><sup>[[H8210H]]</sup></small></small> &#8207;| tish.pe.Khu <small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the place  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מָּק֣וֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>זֶּ֑ה </big></span><small><small><sup>[[H2088]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Zeh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and after  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַחֲרֵ֨י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  | <span class="ashebrew"><big>אֱלֹהִ֧ים </big></span><small><small><sup>[[H0430J]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| other  | <span class="ashebrew"><big>אֲחֵרִ֛ים </big></span><small><small><sup>[[H0312]]</sup></small></small> &#8207;| 'a.che.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you must walk  | <span class="ashebrew"><big>תֵלְכ֖וּ </big></span><small><small><sup>[[H1980N]]</sup></small></small> &#8207;| te.le.Khu <small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for harm  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>רַ֥ע </big></span><small><small><sup>[[H7451B]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Ra' <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of you  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9036]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sojourner  |**<big>&#8207;[[H1616\|גֵּ֣ר]]&#8207; </big>**| ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fatherless  |**<big>&#8207;[[H3490\|יָת֤וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] widow  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0490\|אַלְמָנָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must oppress  |**<big>&#8207;[[H6231\|תַֽעֲשֹׁ֔קוּ]]&#8207; </big>**| ta.'a.Sho.ku<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and blood  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1818\|דָ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| innocent  |**<big>&#8207;[[H5355A\|נָקִ֔י]]&#8207; </big>**| na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you shed  |**<big>&#8207;[[H8210H\|תִּשְׁפְּכ֖וּ]]&#8207; </big>**| tish.pe.Khu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the place  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4725\|מָּק֣וֹם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֧ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| other  |**<big>&#8207;[[H0312\|אֲחֵרִ֛ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must walk  |**<big>&#8207;[[H1980N\|תֵלְכ֖וּ]]&#8207; </big>**| te.le.Khu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for harm  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7451B\|רַ֥ע]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 
 

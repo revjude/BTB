@@ -7,34 +7,34 @@ And Saul sought to smite David even to the wall with the javelin; but he slipped
 Saul tried to pin him to the wall with his spear. But David eluded him and the spear struck the wall. And David fled and escaped that night.<small><sub>**MT:**</sub></small>
 [[1Sam.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.9|<< 1 Samuel 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.11|1 Samuel 19:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul sought | <big><span class="asgreek">εζήτει</span></big> <sup><small><small>[[G2212]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| to strike | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a wooden spear | <big><span class="asgreek">δόρατι</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David departed | <big><span class="asgreek">απέστη</span></big> <sup><small><small>[[G0868]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck \[with\] | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| spear | <big><span class="asgreek">δόρυ</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall. | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| withdrew | <big><span class="asgreek">ανεχώρησε</span></big> <sup><small><small>[[G0402]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was delivered | <big><span class="asgreek">διεσώθη</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| that night. | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Saul sought | **<big>[[G2212\|εζήτει]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| to strike | **<big>[[G3960\|πατάξαι]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| a wooden spear | **<big>[[G6965\|δόρατι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David departed | **<big>[[G0868\|απέστη]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Saul, | **<big>[[G4549\|Σαούλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he struck \[with\] | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| spear | **<big>[[G6965\|δόρυ]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| wall. | **<big>[[G5109\|τοίχον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| withdrew | **<big>[[G0402\|ανεχώρησε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was delivered | **<big>[[G1295\|διεσώθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| that night. | **<big>[[G3571\|νυκτί]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 [[1Sam.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.9|<< 1 Samuel 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.11|1 Samuel 19:11 >>]]</td></tr></table>
 
 

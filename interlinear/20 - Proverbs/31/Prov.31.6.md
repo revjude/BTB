@@ -6,14 +6,14 @@ Give strong drink to one who is perishing, and wine to the bitter in soul.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.5|<< Proverbs 31:5]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.7|Proverbs 31:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| give  | <span class="ashebrew"><big>תְּנוּ </big></span><small><small><sup>[[H5414G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| te.nu- <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strong drink  | <span class="ashebrew"><big>שֵׁכָ֣ר </big></span><small><small><sup>[[H7941]]</sup></small></small> &#8207;| she.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [one who] is perishing  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אוֹבֵ֑ד </big></span><small><small><sup>[[H0006]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'o.Ved <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and wine  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַיִן </big></span><small><small><sup>[[H3196]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ya.yin <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [people] bitter of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מָ֣רֵי </big></span><small><small><sup>[[H4751]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Ma.rei <small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| soul  | <span class="ashebrew"><big>נָֽפֶשׁ </big></span><small><small><sup>[[H5315G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Na.fesh <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give  |**<big>&#8207;[[H5414G\|תְּנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strong drink  |**<big>&#8207;[[H7941\|שֵׁכָ֣ר]]&#8207; </big>**| she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [one who] is perishing  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0006\|אוֹבֵ֑ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wine  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3196\|יַיִן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [people] bitter of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4751\|מָ֣רֵי]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ma.rei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soul  |**<big>&#8207;[[H5315G\|נָֽפֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.5|<< Proverbs 31:5]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.7|Proverbs 31:7 >>]]</td></tr></table>
 
 

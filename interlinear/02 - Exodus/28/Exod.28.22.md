@@ -6,17 +6,17 @@ For the breastpiece, make braided chains like cords of pure gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.21|<< Exodus 28:21]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.23|Exodus 28:23 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will make  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָשִׂ֧יתָ </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Si.ta <small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the breastpiece  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>חֹ֛שֶׁן </big></span><small><small><sup>[[H2833]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Cho.shen <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| chains of  | <span class="ashebrew"><big>שַֽׁרְשֹׁ֥ת </big></span><small><small><sup>[[H8331]]</sup></small></small> &#8207;| shar.Shot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| twisting  | <span class="ashebrew"><big>גַּבְלֻ֖ת </big></span><small><small><sup>[[H1383]]</sup></small></small> &#8207;| gav.Lut <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a work of  | <span class="ashebrew"><big>מַעֲשֵׂ֣ה </big></span><small><small><sup>[[H4639G]]</sup></small></small> &#8207;| ma.'a.Seh <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cordage  | <span class="ashebrew"><big>עֲבֹ֑ת </big></span><small><small><sup>[[H5688]]</sup></small></small> &#8207;| 'a.Vot <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gold  | <span class="ashebrew"><big>זָהָ֖ב </big></span><small><small><sup>[[H2091]]</sup></small></small> &#8207;| za.Hav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure  | <span class="ashebrew"><big>טָהֽוֹר </big></span><small><small><sup>[[H2889]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.Hor <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֧יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the breastpiece  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2833\|חֹ֛שֶׁן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Cho.shen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chains of  |**<big>&#8207;[[H8331\|שַֽׁרְשֹׁ֥ת]]&#8207; </big>**| shar.Shot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twisting  |**<big>&#8207;[[H1383\|גַּבְלֻ֖ת]]&#8207; </big>**| gav.Lut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֣ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cordage  |**<big>&#8207;[[H5688\|עֲבֹ֑ת]]&#8207; </big>**| 'a.Vot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  |**<big>&#8207;[[H2889\|טָהֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.21|<< Exodus 28:21]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.23|Exodus 28:23 >>]]</td></tr></table>
 
 

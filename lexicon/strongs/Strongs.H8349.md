@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁשַׁק‎</span></big> **Shâshaq** <small>*(shaw-shak')*</small> ==**Shashak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from the base of <span class="ashebrew">‎שׁוֹק‎</span><sup><small>[[H7785]]</small></sup>; pedestrian</small>
+**<big><span class="ashebrew">‎שָׁשַׁק‎</span></big>** **Shâshaq** <small>*(shaw-shak')*</small> ==**Shashak**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from the base of **<big>[[H7785|‎שׁוֹק‎]]</big>**; pedestrian</small>
 
 $\quad$ Shashak.
 - § Shashak = *"longing"*

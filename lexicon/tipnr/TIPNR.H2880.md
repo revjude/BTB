@@ -1,8 +1,8 @@
 <small>*Tibhath • City from which David took bronze for the Temple*</small>
 
 <span class='tipnrhighlight'>Tibhath</span>, a city from which David took a large amount of bronze, used in the construction of the Temple \(1 Chr. 18:8\).
-- A location near Berothah<[[H1268A]]> only mentioned at [[1Chr.18.8|1Ch.18.8]]; 
-- only referred to as Tibhath<[[H2880]]> \(<span class='tipnrLangHebrew'>ט</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>\).
+- A location near Berothah **<big>[[H1268|בֵּרוֹתָה]]</big>** only mentioned at [[1Chr.18.8|1Ch.18.8]]; 
+- only referred to as Tibhath **<big>[[H2880|טִבְחַת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.931480,36.152049&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Tibhath is mentioned in [[1Chr.18.8|1 Chronicles 18:8]] as one of the cities fro
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tibhath | [<span class='tipnrLangHebrew'>ט</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H2880) <small>*Hebrew*</small> | 1x | [1Ch.18.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tibhath\*\|reference=1Ch.18.8) |
-All Strong's for **Tibhath**: \[[[H2880]]\]
+| Tibhath | [<span class='tipnrLangHebrew'>ט</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H2880) | 1x | [1Ch.18.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tibhath\*\|reference=1Ch.18.8) |
+All entries for **Tibhath**:  **<big>[[H2880|טִבְחַת]]</big>**

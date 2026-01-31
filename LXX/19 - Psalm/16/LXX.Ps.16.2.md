@@ -7,19 +7,19 @@ I said to the <span class="smallcaps">lord</span>, You are my <span class="small
 I said to the LORD, “You are my Lord; apart from You I have no good thing.”<small><sub>**MT:**</sub></small>
 [[Ps.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.1|<< Psalm 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.3|Psalm 16:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| my <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my goodness | <big><span class="asgreek">αγαθών</span></big> <sup><small><small>[[G0018]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| need | <big><span class="asgreek">χρείαν</span></big> <sup><small><small>[[G5532]]</small></small></sup> |
-| you have | <big><span class="asgreek">έχεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| I said | **<big>[[G2036\|είπα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| my <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You are | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my goodness | **<big>[[G0018\|αγαθών]]</big>** **<big>[[G1473\|μου]]</big>** |
+| no | **<big>[[G3756\|ου]]</big>** |
+| need | **<big>[[G5532\|χρείαν]]</big>** |
+| you have | **<big>[[G2192\|έχεις]]</big>** |
 [[Ps.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.1|<< Psalm 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.3|Psalm 16:3 >>]]</td></tr></table>
 
 

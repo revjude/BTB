@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Hazerim</span>, meaning "villages," refers to the settlements inhabited by the Avvim, a people group dispossessed by the Caphtorim \(Deut 2:23\).
 - A location only mentioned at [[Ezek.47.16|Deu.2.23]]; 
-- only referred to as Hazerim<[[H2699]]> \(<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֵ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- only referred to as Hazerim **<big>[[H2699|חֲצֵרִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.52481769532773,34.4333647185274&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Hazerim, meaning "villages," is a term used in Deuteronomy 2:23 to describe the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| villages (KJV= Hazerim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֵ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2699) <small>*Hebrew*</small> | 1x | [Deu.2.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=temple\*\|reference=Deu.2.23) |
-All Strong's for **Hazerim or "villages"**: \[[[H2699]]\]
+| villages (KJV= Hazerim) | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>צ</span>ֵ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H2699) | 1x | [Deu.2.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=temple\*\|reference=Deu.2.23) |
+All entries for **Hazerim or "villages"**:  **<big>[[H2699|חֲצֵרִים]]</big>**

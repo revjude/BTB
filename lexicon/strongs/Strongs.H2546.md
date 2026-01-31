@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֹמֶט‎</span></big> **chômeṭ** <small>*(kho'met)*</small> ==**lizard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎חֹמֶט‎</span></big>** **chômeṭ** <small>*(kho'met)*</small> ==**lizard**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root probably meaning, to lie low</small>
 
 $\quad$ snail.

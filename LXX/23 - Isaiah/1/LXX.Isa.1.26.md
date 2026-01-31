@@ -7,35 +7,35 @@ And I will restore thy judges as at the first, and thy counsellers as at the beg
 I will restore your judges as at first, and your counselors as at the beginning. After that you will be called the City of Righteousness, the Faithful City.”<small><sub>**MT:**</sub></small>
 [[Isa.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.25|<< Isaiah 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.27|Isaiah 1:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] proud | <big><span class="asgreek">υπερηφάνους</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
-| I will abase; | <big><span class="asgreek">ταπεινώσω</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will stand | <big><span class="asgreek">επιστήσω</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your judges | <big><span class="asgreek">κριτάς</span></big> <sup><small><small>[[G2923]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| formerly, | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your counselors | <big><span class="asgreek">συμβούλους</span></big> <sup><small><small>[[G4825]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| at | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] beginning. | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall be called, | <big><span class="asgreek">κληθήση</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| City | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Righteousness, | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| mother-city | <big><span class="asgreek">μητρόπολις</span></big> <sup><small><small>[[G3390]]</small></small></sup> |
-| \[the\] trustworthy | <big><span class="asgreek">πιστή</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \[the\] proud | **<big>[[G5244\|υπερηφάνους]]</big>** |
+| I will abase; | **<big>[[G5013\|ταπεινώσω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will stand | **<big>[[G2186\|επιστήσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your judges | **<big>[[G2923\|κριτάς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| formerly, | **<big>[[G4387\|πρότερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your counselors | **<big>[[G4825\|συμβούλους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| at | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] beginning. | **<big>[[G0746\|αρχής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| these \[things\] | **<big>[[G3778\|ταύτα]]</big>** |
+| you shall be called, | **<big>[[G2564\|κληθήση]]</big>** |
+| City | **<big>[[G4172\|πόλις]]</big>** |
+| of Righteousness, | **<big>[[G1343\|δικαιοσύνης]]</big>** |
+| mother-city | **<big>[[G3390\|μητρόπολις]]</big>** |
+| \[the\] trustworthy | **<big>[[G4103\|πιστή]]</big>** |
+| Zion. | **<big>[[G4622\|Σιών]]</big>** |
 [[Isa.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.25|<< Isaiah 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.27|Isaiah 1:27 >>]]</td></tr></table>
 
 

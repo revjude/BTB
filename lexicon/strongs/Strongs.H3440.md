@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִשְׁוִי‎</span></big> **Yishvîy** <small>*(yish-vee')*</small> ==**Ishvi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁוָה‎</span><sup><small>[[H7737]]</small></sup>; level</small>
+**<big><span class="ashebrew">‎יִשְׁוִי‎</span></big>** **Yishvîy** <small>*(yish-vee')*</small> ==**Ishvi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7737|‎שָׁוָה‎]]</big>**; level</small>
 
 $\quad$ Ishuai, Ishvi, Isui, Jesui.
 - § Ishui or Ishuai or Isui or Jesui = *"he resembles me"*

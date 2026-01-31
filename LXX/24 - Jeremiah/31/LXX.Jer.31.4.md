@@ -7,22 +7,22 @@ Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt
 Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out in joyful dancing.<small><sub>**MT:**</sub></small>
 [[Jer.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.3|<< Jeremiah 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.5|Jeremiah 31:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I will build | <big><span class="asgreek">οικοδομήσω</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall be built, | <big><span class="asgreek">οικοδομηθήση</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| O virgin | <big><span class="asgreek">παρθένος</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| You shall still take | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| your tambourine, | <big><span class="asgreek">τύμπανόν</span></big> <sup><small><small>[[G9515]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go forth | <big><span class="asgreek">εξελεύση</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| playing. | <big><span class="asgreek">παιζόντων</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I will build | **<big>[[G3618\|οικοδομήσω]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall be built, | **<big>[[G3618\|οικοδομηθήση]]</big>** |
+| O virgin | **<big>[[G3933\|παρθένος]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| You shall still take | **<big>[[G2089\|έτι]]</big>** **<big>[[G2983\|λήψη]]</big>** |
+| your tambourine, | **<big>[[G9515\|τύμπανόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go forth | **<big>[[G1831\|εξελεύση]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a congregation | **<big>[[G4864\|συναγωγής]]</big>** |
+| playing. | **<big>[[G3815\|παιζόντων]]</big>** |
 [[Jer.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.3|<< Jeremiah 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.5|Jeremiah 31:5 >>]]</td></tr></table>
 
 

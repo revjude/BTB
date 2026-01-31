@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֲנַנְיָה‎</span></big> **ʻĂnanyâh** <small>*(an-an-yaw')*</small> ==**Ananiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָנַן‎</span><sup><small>[[H6049]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has covered</small>
+**<big><span class="ashebrew">‎עֲנַנְיָה‎</span></big>** **ʻĂnanyâh** <small>*(an-an-yaw')*</small> ==**Ananiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6049|‎עָנַן‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has covered</small>
 
 $\quad$ Ananiah.
 - § Ananiah = *"Jehovah clouds"*

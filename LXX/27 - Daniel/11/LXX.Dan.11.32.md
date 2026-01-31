@@ -7,22 +7,22 @@ And such as do wickedly against the covenant shall he corrupt by flatteries: but
 With flattery he will corrupt those who violate the covenant, but the people who know their God will firmly resist him.<small><sub>**MT:**</sub></small>
 [[Dan.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.31|<< Daniel 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.33|Daniel 11:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| acting lawlessly | <big><span class="asgreek">ανομούντες</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
-| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
-| shall bring upon | <big><span class="asgreek">επάξουσιν</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a slip. | <big><span class="asgreek">ολισθήμασι</span></big> <sup><small><small>[[G8489]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γινώσκοντες</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| his God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall grow strong, | <big><span class="asgreek">κατισχύσουσι</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall act. | <big><span class="asgreek">ποιήσουσι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| acting lawlessly | **<big>[[G6349\|ανομούντες]]</big>** |
+| a covenant | **<big>[[G1242\|διαθήκην]]</big>** |
+| shall bring upon | **<big>[[G1863\|επάξουσιν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| a slip. | **<big>[[G8489\|ολισθήμασι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| a people | **<big>[[G2992\|λαός]]</big>** |
+| knowing | **<big>[[G1097\|γινώσκοντες]]</big>** |
+| his God | **<big>[[G2316\|θεόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| shall grow strong, | **<big>[[G2729\|κατισχύσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall act. | **<big>[[G4160\|ποιήσουσι]]</big>** |
 [[Dan.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.31|<< Daniel 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.33|Daniel 11:33 >>]]</td></tr></table>
 
 

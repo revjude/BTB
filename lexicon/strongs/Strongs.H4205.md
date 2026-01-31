@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָזוֹר‎</span></big> **mâzôwr** <small>*(maw-zore')*</small> ==**wound**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מָזֹר</span> **mâzôr** <small>*(maw-zore')*</small>; from <span class="ashebrew">‎זוּר‎</span><sup><small>[[H2115]]</small></sup> in the sense of binding up</small>
+**<big><span class="ashebrew">‎מָזוֹר‎</span></big>** **mâzôwr** <small>*(maw-zore')*</small> ==**wound**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מָזֹר</span></big>** **mâzôr** <small>*(maw-zore')*</small>; from **<big>[[H2115|‎זוּר‎]]</big>** in the sense of binding up</small>
 
 $\quad$ bound up, wound.
 - ***a bandage***, i.e. ***remedy***
@@ -8,4 +8,4 @@ $\quad$ bound up, wound.
 **1)** wound
 $\quad$ **1a)** wound (fig. of injury to or sufferings of Israel or Judah)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup>
+<small>See Greek: </small>**<big>[[G3601|ὀδύνη]]</big>**

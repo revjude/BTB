@@ -1,4 +1,4 @@
-spelling of: <small>[[G9352]]</small> 
+spelling of: <small>**<big>[[G9352|σύσκηνος]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==συσκήνιος==</span>-<span class='asgreek'>ιος</span></b>, 

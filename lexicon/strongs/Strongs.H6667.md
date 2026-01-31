@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צִדְקִיָּה‎</span></big> **Tsidqîyâh** <small>*(tsid-kee-yaw')*</small> ==**Zedekiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">צִדְקִיָּהוּ</span> **Tsidqîyâhûw** <small>*(tsid-kee-yaw'-hoo)*</small>; from <span class="ashebrew">‎צֶדֶק‎</span><sup><small>[[H6664]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; right of Jah</small>
+**<big><span class="ashebrew">‎צִדְקִיָּה‎</span></big>** **Tsidqîyâh** <small>*(tsid-kee-yaw')*</small> ==**Zedekiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">צִדְקִיָּהוּ</span></big>** **Tsidqîyâhûw** <small>*(tsid-kee-yaw'-hoo)*</small>; from **<big>[[H6664|‎צֶדֶק‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; right of Jah</small>
 
 $\quad$ Zedekiah, Zidkijah.
 - § Zedekiah = *"Jehovah is righteous"*

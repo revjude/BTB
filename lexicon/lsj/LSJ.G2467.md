@@ -1,4 +1,4 @@
-form of: <small>[[G1492H]]</small> 
+form of: <small>**<big>[[G1492H|εἴδω]]</big>**</small> 
 
 
 Related to: <b> <span class='asgreek'>==ἴσημι==</span></b>, 

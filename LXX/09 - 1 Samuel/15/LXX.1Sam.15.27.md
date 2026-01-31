@@ -7,23 +7,23 @@ And as Samuel turned about to go away, he laid hold upon the skirt of his mantle
 As Samuel turned to go, Saul grabbed the hem of his robe, and it tore.<small><sub>**MT:**</sub></small>
 [[1Sam.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.26|<< 1 Samuel 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.28|1 Samuel 15:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Samuel turned | <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to go forth, | <big><span class="asgreek">απελθείν</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Saul took hold | <big><span class="asgreek">εκράτησε</span></big> <sup><small><small>[[G2902]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| border | <big><span class="asgreek">πτερυγίου</span></big> <sup><small><small>[[G4419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his doubled garment, | <big><span class="asgreek">διπλοϊδος</span></big> <sup><small><small>[[G6943]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tore | <big><span class="asgreek">διέρρηξεν</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Samuel turned | **<big>[[G1994\|επέστρεψε]]</big>** **<big>[[G4545\|Σαμουήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to go forth, | **<big>[[G0565\|απελθείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Saul took hold | **<big>[[G2902\|εκράτησε]]</big>** **<big>[[G4549\|Σαούλ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| border | **<big>[[G4419\|πτερυγίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his doubled garment, | **<big>[[G6943\|διπλοϊδος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tore | **<big>[[G1284\|διέρρηξεν]]</big>** |
+| it. | **<big>[[G1473\|αυτό]]</big>** |
 [[1Sam.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.26|<< 1 Samuel 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.28|1 Samuel 15:28 >>]]</td></tr></table>
 
 

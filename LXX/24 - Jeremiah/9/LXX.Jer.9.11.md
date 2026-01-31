@@ -7,29 +7,29 @@ And I will make Jerusalem heaps, [and] a den of dragons; and I will make the cit
 “And I will make Jerusalem a heap of rubble, a haunt for jackals; and I will make the cities of Judah a desolation, without inhabitant.”<small><sub>**MT:**</sub></small>
 [[Jer.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.10|<< Jeremiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.12|Jeremiah 9:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| displacement, | <big><span class="asgreek">μετοικίαν</span></big> <sup><small><small>[[G8310]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a home | <big><span class="asgreek">κατοικητήριον</span></big> <sup><small><small>[[G2732]]</small></small></sup> |
-| of dragons. | <big><span class="asgreek">δρακόντων</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| extinction | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
-| I will appoint | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| so as | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be dwelt in. | <big><span class="asgreek">κατοικείσθαι</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| displacement, | **<big>[[G8310\|μετοικίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a home | **<big>[[G2732\|κατοικητήριον]]</big>** |
+| of dragons. | **<big>[[G1404\|δρακόντων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| extinction | **<big>[[G0854\|αφανισμόν]]</big>** |
+| I will appoint | **<big>[[G5087\|θήσομαι]]</big>** |
+| so as | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| be dwelt in. | **<big>[[G2730\|κατοικείσθαι]]</big>** |
 [[Jer.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.10|<< Jeremiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.12|Jeremiah 9:12 >>]]</td></tr></table>
 
 

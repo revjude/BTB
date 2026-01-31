@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Βαλάκ</span></span>, <span class="asgreek">ὁ</span>, indecl. (Heb. <span class="ashebrew">בָּלָק</span> <small><sup>[[H1111]]</sup></small>), </span>
+<span class="asform"><span class="asgreek"><span class="asbold">Βαλάκ</span></span>, <span class="asgreek">ὁ</span>, indecl. (Heb. **<big>[[H1111|בָּלָק]]</big>**), </span>
 <span class="asitalic">Balak</span>; ([[LXX.Num.22.2|Nu 22:2]]): [[Rev.2.14|Re 2:14]].†
 
 **Abbott-Smith References**

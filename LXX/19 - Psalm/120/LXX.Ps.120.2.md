@@ -7,19 +7,19 @@ Deliver my soul, O LORD, from lying lips, [and] from a deceitful tongue.
 Deliver my soul, O LORD, from lying lips and a deceitful tongue.<small><sub>**MT:**</sub></small>
 [[Ps.120.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.1|<< Psalm 120:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.3|Psalm 120:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| rescue | <big><span class="asgreek">ρύσαι</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| lips | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
-| unjust | <big><span class="asgreek">αδίκων</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| tongue | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| a deceitful | <big><span class="asgreek">δολίας</span></big> <sup><small><small>[[G1386]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| rescue | **<big>[[G4506\|ρύσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| lips | **<big>[[G5491\|χειλέων]]</big>** |
+| unjust | **<big>[[G0094\|αδίκων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| tongue | **<big>[[G1100\|γλώσσης]]</big>** |
+| a deceitful | **<big>[[G1386\|δολίας]]</big>** |
 [[Ps.120.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.1|<< Psalm 120:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.3|Psalm 120:3 >>]]</td></tr></table>
 
 

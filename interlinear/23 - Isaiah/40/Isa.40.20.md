@@ -6,22 +6,22 @@ One lacking such an offering chooses wood that will not rot. He seeks a skilled 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.19|<< Isaiah 40:19]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.21|Isaiah 40:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the impoverished [person]  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מְסֻכָּ֣ן </big></span><small><small><sup>[[H5533B]]</sup></small></small> &#8207;| ha <small><sup>[[HTd]]</sup></small> m.su.Kan <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a contribution  | <span class="ashebrew"><big>תְּרוּמָ֔ה </big></span><small><small><sup>[[H8641]]</sup></small></small> &#8207;| te.ru.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wood  | <span class="ashebrew"><big>עֵ֥ץ </big></span><small><small><sup>[[H6086G]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will rot  | <span class="ashebrew"><big>יִרְקַ֖ב </big></span><small><small><sup>[[H7537]]</sup></small></small> &#8207;| yir.Kav <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he chooses  | <span class="ashebrew"><big>יִבְחָ֑ר </big></span><small><small><sup>[[H0977]]</sup></small></small> &#8207;| yiv.Char <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a craftsman  | <span class="ashebrew"><big>חָרָ֤שׁ </big></span><small><small><sup>[[H2796]]</sup></small></small> &#8207;| cha.Rash <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| skillful  | <span class="ashebrew"><big>חָכָם֙ </big></span><small><small><sup>[[H2450]]</sup></small></small> &#8207;| cha.Kham <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he seeks  | <span class="ashebrew"><big>יְבַקֶּשׁ </big></span><small><small><sup>[[H1245]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ye.va.kesh- <small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for himself  | <span class="ashebrew"><big>ל֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| l <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to prepare  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הָכִ֥ין </big></span><small><small><sup>[[H3559H]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ha.Khin <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an idol  | <span class="ashebrew"><big>פֶּ֖סֶל </big></span><small><small><sup>[[H6459]]</sup></small></small> &#8207;| Pe.sel <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] not  | <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be shaken  | <span class="ashebrew"><big>יִמּֽוֹט </big></span><small><small><sup>[[H4131]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yi.Mot <small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the impoverished [person]  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5533B\|מְסֻכָּ֣ן]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.su.Kan<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a contribution  |**<big>&#8207;[[H8641\|תְּרוּמָ֔ה]]&#8207; </big>**| te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood  |**<big>&#8207;[[H6086G\|עֵ֥ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will rot  |**<big>&#8207;[[H7537\|יִרְקַ֖ב]]&#8207; </big>**| yir.Kav<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he chooses  |**<big>&#8207;[[H0977\|יִבְחָ֑ר]]&#8207; </big>**| yiv.Char<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a craftsman  |**<big>&#8207;[[H2796\|חָרָ֤שׁ]]&#8207; </big>**| cha.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skillful  |**<big>&#8207;[[H2450\|חָכָם֙]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he seeks  |**<big>&#8207;[[H1245\|יְבַקֶּשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.va.kesh-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for himself  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to prepare  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3559H\|הָכִ֥ין]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Khin<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an idol  |**<big>&#8207;[[H6459\|פֶּ֖סֶל]]&#8207; </big>**| Pe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be shaken  |**<big>&#8207;[[H4131\|יִמּֽוֹט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.Mot<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.19|<< Isaiah 40:19]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.21|Isaiah 40:21 >>]]</td></tr></table>
 
 

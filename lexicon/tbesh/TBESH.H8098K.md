@@ -1,4 +1,3 @@
-<span class="ashebrew">‎שְׁמַעְיָ֫הוּ‎</span> <small>***(she.ma.yah)***</small> ==**Shemaiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Divided Monarchy, only mentioned at [[2Chr.29.14|2Ch.29.14]]
--  son of: Jeduthun ([[H3038]])
--  brother of: Uzziel ([[H5816K]])
+-  son of: Jeduthun (**<big>[[H3038|יְדוּתוּן]]</big>**)
+-  brother of: Uzziel (**<big>[[H5816K|עֻזִּיאֵל]]</big>**)

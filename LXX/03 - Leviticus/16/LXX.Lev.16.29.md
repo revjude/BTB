@@ -7,37 +7,37 @@ And [this] shall be a statute for ever unto you: [that] in the seventh month, on
 This is to be a permanent statute for you: On the tenth day of the seventh month, you shall humble yourselves and not do any work—whether the native or the foreigner who resides among you—<small><sub>**MT:**</sub></small>
 [[Lev.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.28|<< Leviticus 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.30|Leviticus 16:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| law | <big><span class="asgreek">νόμιμον</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
-| an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
-| \[the\] tenth | <big><span class="asgreek">δεκάτη</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| humble | <big><span class="asgreek">ταπεινώσετε</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your souls! | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| you shall not do | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| native born | <big><span class="asgreek">αυτόχθων</span></big> <sup><small><small>[[G6611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigner | <big><span class="asgreek">προσήλυτος</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| joining up | <big><span class="asgreek">προσκείμενος</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| this shall be | **<big>[[G1510\|έσται]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| law | **<big>[[G8403\|νόμιμον]]</big>** |
+| an eternal | **<big>[[G0166\|αιώνιον]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| month | **<big>[[G3376\|μηνί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| seventh | **<big>[[G1442\|εβδόμω]]</big>** |
+| \[the\] tenth | **<big>[[G1181\|δεκάτη]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| month | **<big>[[G3376\|μηνός]]</big>** |
+| humble | **<big>[[G5013\|ταπεινώσετε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| your souls! | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| any | **<big>[[G3956\|παν]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| you shall not do | **<big>[[G3756\|ου]]</big>** **<big>[[G4160\|ποιήσετε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| native born | **<big>[[G6611\|αυτόχθων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| foreigner | **<big>[[G4339\|προσήλυτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| joining up | **<big>[[G8929\|προσκείμενος]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Lev.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.28|<< Leviticus 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.30|Leviticus 16:30 >>]]</td></tr></table>
 
 

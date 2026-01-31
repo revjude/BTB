@@ -6,15 +6,15 @@ The harvest is past, the summer is ended, and we are not saved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.19|<< Jeremiah 8:19]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.21|Jeremiah 8:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| it has passed  | <span class="ashebrew"><big>עָבַ֥ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| 'a.Var <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| harvest  | <span class="ashebrew"><big>קָצִ֖יר </big></span><small><small><sup>[[H7105A]]</sup></small></small> &#8207;| ka.Tzir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has come to an end  | <span class="ashebrew"><big>כָּ֣לָה </big></span><small><small><sup>[[H3615G]]</sup></small></small> &#8207;| Ka.lah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| summer  | <span class="ashebrew"><big>קָ֑יִץ </big></span><small><small><sup>[[H7019]]</sup></small></small> &#8207;| Ka.yitz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and we  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲנַ֖חְנוּ </big></span><small><small><sup>[[H0587]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Nach.nu <small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>ל֥וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we have been saved  | <span class="ashebrew"><big>נוֹשָֽׁעְנוּ </big></span><small><small><sup>[[H3467]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| no.Sha.'e.nu <small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has passed  |**<big>&#8207;[[H5674A\|עָבַ֥ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| harvest  |**<big>&#8207;[[H7105A\|קָצִ֖יר]]&#8207; </big>**| ka.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come to an end  |**<big>&#8207;[[H3615G\|כָּ֣לָה]]&#8207; </big>**| Ka.lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| summer  |**<big>&#8207;[[H7019\|קָ֑יִץ]]&#8207; </big>**| Ka.yitz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0587\|אֲנַ֖חְנוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|ל֥וֹא]]&#8207; </big>**| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have been saved  |**<big>&#8207;[[H3467\|נוֹשָֽׁעְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| no.Sha.'e.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.19|<< Jeremiah 8:19]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.21|Jeremiah 8:21 >>]]</td></tr></table>
 
 

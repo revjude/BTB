@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְבִיאָה‎</span></big> **nᵉbîyʼâh** <small>*(neb-ee-yaw')*</small> ==**prophetess**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נָבִיא‎</span><sup><small>[[H5030]]</small></sup></small>
+**<big><span class="ashebrew">‎נְבִיאָה‎</span></big>** **nᵉbîyʼâh** <small>*(neb-ee-yaw')*</small> ==**prophetess**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H5030|‎נָבִיא‎]]</big>**</small>
 
 $\quad$ prophetess.
 - ***a prophetess*** or (generally) ***inspired woman***
@@ -12,4 +12,4 @@ $\quad$ **1b)** later type consulted for a word (Huldah)
 $\quad$ **1c)** false prophetess (Noadiah)
 $\quad$ **1d)** wife of Isaiah the prophet
 
-<sub><small>See Greek: </small></sub><span class="asgreek">προφῆτις</span><sup><small>[[G4398]]</small></sup>
+<small>See Greek: </small>**<big>[[G4398|προφῆτις]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎קְטַל‎</span></big> **qᵉṭal** <small>*(ket-al')*</small> ==**to slay**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎קָטַל‎</span><sup><small>[[H6991]]</small></sup></small>
+**<big><span class="asaramaic">‎קְטַל‎</span></big>** **qᵉṭal** <small>*(ket-al')*</small> ==**to slay**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6991|‎קָטַל‎]]</big>**</small>
 
 $\quad$ slay.
 - ***to kill***
@@ -10,4 +10,4 @@ $\quad$ **1b)** (Pael) to slay
 $\quad$ **1c)** (Ithp'al) to be slain
 $\quad$ **1d)** (Ithpael) to be slain
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναιρέω</span><sup><small>[[G0337]]</small></sup> · <span class="asgreek">ἐξάγω</span><sup><small>[[G1806]]</small></sup> · <span class="asgreek">συναπόλλυμι</span><sup><small>[[G4881]]</small></sup>
+<small>See Greek: </small>**<big>[[G0337|ἀναιρέω]]</big>** · **<big>[[G1806|ἐξάγω]]</big>** · **<big>[[G4881|συναπόλλυμι]]</big>**

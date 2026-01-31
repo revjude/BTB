@@ -7,31 +7,31 @@ Many waters cannot quench love, neither can the floods drown it: if a man would 
 Mighty waters cannot quench love; rivers cannot sweep it away. If a man were to give all the wealth of his house for love, his offer would be utterly scorned.<small><sub>**MT:**</sub></small>
 [[Song.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.6|<< Song of Solomon 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.8|Song of Solomon 8:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| Much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to extinguish | <big><span class="asgreek">σβέσαι</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| love, | <big><span class="asgreek">αγάπην</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rivers | <big><span class="asgreek">ποταμοί</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| engulf | <big><span class="asgreek">συγκλύσουσιν</span></big> <sup><small><small>[[G9236]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his livelihood | <big><span class="asgreek">βίον</span></big> <sup><small><small>[[G0979]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| love, | <big><span class="asgreek">αγάπη</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
-| \[with\] contempt | <big><span class="asgreek">εξουδενώσει</span></big> <sup><small><small>[[G7352]]</small></small></sup> |
-| \[men\] will treat it contemptuously. | <big><span class="asgreek">εξουδενώσουσιν</span></big> <sup><small><small>[[G1847]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| Much | **<big>[[G4183\|πολύ]]</big>** |
+| will not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| to extinguish | **<big>[[G4570\|σβέσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| love, | **<big>[[G0026\|αγάπην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rivers | **<big>[[G4215\|ποταμοί]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| engulf | **<big>[[G9236\|συγκλύσουσιν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
+| If | **<big>[[G1437\|εάν]]</big>** |
+| should give | **<big>[[G1325\|δω]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his livelihood | **<big>[[G0979\|βίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| love, | **<big>[[G0026\|αγάπη]]</big>** |
+| \[with\] contempt | **<big>[[G7352\|εξουδενώσει]]</big>** |
+| \[men\] will treat it contemptuously. | **<big>[[G1847\|εξουδενώσουσιν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
 [[Song.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.6|<< Song of Solomon 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.8|Song of Solomon 8:8 >>]]</td></tr></table>
 
 

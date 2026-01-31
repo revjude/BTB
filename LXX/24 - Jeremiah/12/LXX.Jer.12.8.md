@@ -7,25 +7,25 @@ Mine heritage is unto me as a lion in the forest; it crieth out against me: ther
 My inheritance has become to Me like a lion in the forest. She has roared against Me; therefore I hate her.<small><sub>**MT:**</sub></small>
 [[Jer.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.7|<< Jeremiah 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.9|Jeremiah 12:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] forest; | <big><span class="asgreek">δρυμώ</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
-| she uttered | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I detested | <big><span class="asgreek">εμίσησα</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| My inheritance | **<big>[[G2817\|κληρονομία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] forest; | **<big>[[G6971\|δρυμώ]]</big>** |
+| she uttered | **<big>[[G1325\|έδωκεν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her voice | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| on account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| I detested | **<big>[[G3404\|εμίσησα]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Jer.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.7|<< Jeremiah 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.9|Jeremiah 12:9 >>]]</td></tr></table>
 
 

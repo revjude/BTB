@@ -1,4 +1,4 @@
-<small>Also see: [[H6176]]</small>
+<small>Also see: **<big>[[H6176|עֲרוֹעֵר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עַרְעָר‎</span> **adjective** ==stripped, destitute==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָע‎</span> as substantive [[Ps.102.18|Ps 102:18]] ***the prayer of the destitute***. — [[Jer.17.6|Jer 17:6]] see  <span class="bdbLangHebrew">‎עֲרוֺעֵר‎</span>. below 
 

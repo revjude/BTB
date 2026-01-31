@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נוּץ‎</span></big> **nûwts** <small>*(noots)*</small> ==**to flee**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נוּץ‎</span></big>** **nûwts** <small>*(noots)*</small> ==**to flee**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ flee away, bud (forth).

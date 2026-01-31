@@ -7,27 +7,27 @@ And his mother said unto him, Upon me [be] thy curse, my son: only obey my voice
 His mother replied, “Your curse be on me, my son. Just obey my voice and go get them for me.”<small><sub>**MT:**</sub></small>
 [[Gen.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.12|<< Genesis 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.14|Genesis 27:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| Upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me \[be\] | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your curse, | <big><span class="asgreek">κατάρα</span></big> <sup><small><small>[[G2671]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| child. | <big><span class="asgreek">τέκνον</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| Only | <big><span class="asgreek">μόνον</span></big> <sup><small><small>[[G3440]]</small></small></sup> |
-| you heed | <big><span class="asgreek">επάκουσόν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| voice! | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in going | <big><span class="asgreek">πορευθείς</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| bring \[them\] | <big><span class="asgreek">ένεγκέ</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| mother | **<big>[[G3384\|μήτηρ]]</big>** |
+| Upon | **<big>[[G1909\|επ΄]]</big>** |
+| me \[be\] | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your curse, | **<big>[[G2671\|κατάρα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| child. | **<big>[[G5043\|τέκνον]]</big>** |
+| Only | **<big>[[G3440\|μόνον]]</big>** |
+| you heed | **<big>[[G1873\|επάκουσόν]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| voice! | **<big>[[G5456\|φωνής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| in going | **<big>[[G4198\|πορευθείς]]</big>** |
+| bring \[them\] | **<big>[[G5342\|ένεγκέ]]</big>** |
+| to me! | **<big>[[G1473\|μοι]]</big>** |
 [[Gen.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.12|<< Genesis 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.14|Genesis 27:14 >>]]</td></tr></table>
 
 

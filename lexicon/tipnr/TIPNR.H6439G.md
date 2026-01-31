@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Peniel</span>, also called Penuel, was the place where Jacob wrestled with God and had his name changed to Israel.
 - A location first mentioned at [[Gen.32.30|Gen.32.30]]; 
-- referred to as Peniel or Penuel \(NIV= Peniel\) <[[H6439G]]> \(<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>\).
+- referred to as Peniel or Penuel \(NIV= Peniel\)  **<big>[[H6439|פְּנוּאֵל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.1843727808126,35.70287002746794&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,6 +12,6 @@ Later in the Bible, Penuel is mentioned as a city in the territory of Gad, east 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Peniel | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6439G) <small>*Hebrew*</small> | 1x | [Gen.32.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Peniel\*\|reference=Gen.32.30) |
-| Penuel (NIV= Peniel) | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6439G) <small>*Hebrew*</small> | 6x | [[Gen.32.31] ... [1Ki.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Penuel\*\|reference=Gen.32.31;Jdg.8.8;Jdg.8.8;Jdg.8.9;Jdg.8.17;1Ki.12.25) |
-All Strong's for **Peniel or Penuel**: \[[[H6439G]]\]
+| Peniel | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6439G) | 1x | [Gen.32.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Peniel\*\|reference=Gen.32.30) |
+| Penuel (NIV= Peniel) | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6439G) | 6x | [[Gen.32.31] ... [1Ki.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Penuel\*\|reference=Gen.32.31;Jdg.8.8;Jdg.8.8;Jdg.8.9;Jdg.8.17;1Ki.12.25) |
+All entries for **Peniel or Penuel**:  **<big>[[H6439|פְּנוּאֵל]]</big>**

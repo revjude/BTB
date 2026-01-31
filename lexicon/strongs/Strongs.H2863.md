@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֶתֶף‎</span></big> **chetheph** <small>*(kheh'-thef)*</small> ==**robber**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָתַף‎</span><sup><small>[[H2862]]</small></sup></small>
+**<big><span class="ashebrew">‎חֶתֶף‎</span></big>** **chetheph** <small>*(kheh'-thef)*</small> ==**robber**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2862|‎חָתַף‎]]</big>**</small>
 
 $\quad$ prey.
 - properly, ***rapine***

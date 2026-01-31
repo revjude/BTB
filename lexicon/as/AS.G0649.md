@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀπο-στέλλω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX very freq., almost always for <span class="ashebrew">שׁלח</span> <small><sup>[[H7971]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀπο-στέλλω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX very freq., almost always for **<big>[[H7971|שׁלח]]</big>**;\]</span> </span>
 prop., <span class="asitalic">to send away</span>, <span class="asitalic">to dispatch</span> on service;
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to send</span> with a commission, or on service;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of persons: Christ, [[Matt.10.40|Mt 10:40]]; the apostles, [[Matt.10.16|10:16]]; servants, [[Mark.12.2|Mk 12:2]]; angels, [[Mark.13.27|13:27]];</span>

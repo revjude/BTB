@@ -6,15 +6,15 @@ For though their princes are at Zoan and their envoys have arrived in Hanes,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.3|<< Isaiah 30:3]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.5|Isaiah 30:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have been  | <span class="ashebrew"><big>הָי֥וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| ha.Yu <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Zoan  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>צֹ֖עַן </big></span><small><small><sup>[[H6814]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> Tzo.'an <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| officials its  | <span class="ashebrew"><big>שָׂרָ֑י </big></span><small><small><sup>[[H8269]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| sa.Ra <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and messengers its  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַלְאָכָ֖י </big></span><small><small><sup>[[H4397G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mal.'a.Kha <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hanes  | <span class="ashebrew"><big>חָנֵ֥ס </big></span><small><small><sup>[[H2609]]</sup></small></small> &#8207;| cha.Nes <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have reached  | <span class="ashebrew"><big>יַגִּֽיעוּ </big></span><small><small><sup>[[H5060]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ya.Gi.'u <small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been  |**<big>&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zoan  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6814\|צֹ֖עַן]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Tzo.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| officials its  |**<big>&#8207;[[H8269\|שָׂרָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| sa.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and messengers its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397G\|מַלְאָכָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'a.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hanes  |**<big>&#8207;[[H2609\|חָנֵ֥ס]]&#8207; </big>**| cha.Nes<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have reached  |**<big>&#8207;[[H5060\|יַגִּֽיעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Gi.'u<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.3|<< Isaiah 30:3]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.5|Isaiah 30:5 >>]]</td></tr></table>
 
 

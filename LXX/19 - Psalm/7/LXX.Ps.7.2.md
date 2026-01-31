@@ -7,19 +7,19 @@ Lest he tear my soul like a lion, rending [it] in pieces, while [there is] none 
 or they will shred my soul like a lion and tear me to pieces with no one to rescue me.<small><sub>**MT:**</sub></small>
 [[Ps.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.1|<< Psalm 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.3|Psalm 7:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| should be snatched away | <big><span class="asgreek">αρπάση</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| as \[by\] | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[while there is\] none | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for ransoming | <big><span class="asgreek">λυτρουμένου</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| delivering. | <big><span class="asgreek">σώζοντος</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| Lest at any time | **<big>[[G3379\|μήποτε]]</big>** |
+| should be snatched away | **<big>[[G0726\|αρπάση]]</big>** |
+| as \[by\] | **<big>[[G5613\|ως]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my soul | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \[while there is\] none | **<big>[[G3361\|μη]]</big>** |
+| being | **<big>[[G1510\|όντος]]</big>** |
+| for ransoming | **<big>[[G3084\|λυτρουμένου]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| delivering. | **<big>[[G4982\|σώζοντος]]</big>** |
 [[Ps.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.1|<< Psalm 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.3|Psalm 7:3 >>]]</td></tr></table>
 
 

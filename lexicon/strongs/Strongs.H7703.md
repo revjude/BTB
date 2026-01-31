@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁדַד‎</span></big> **shâdad** <small>*(shaw-dad')*</small> ==**to ruin**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁדַד‎</span></big>** **shâdad** <small>*(shaw-dad')*</small> ==**to ruin**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ dead, destroy(-er), oppress, robber, spoil(-er), [idiom] utterly, (lay) waste.
@@ -17,4 +17,4 @@ $\quad$ **1d)** (Pual) to be devastated
 $\quad$ **1e)** (Poel) to violently destroy
 $\quad$ **1f)** (Hophal) to be devastated
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπόλλυμι</span><sup><small>[[G0622]]</small></sup> · <span class="asgreek">ἀπώλεια</span><sup><small>[[G0684]]</small></sup> · <span class="asgreek">ἀτιμάζω</span><sup><small>[[G0818]]</small></sup> · <span class="asgreek">διώκω</span><sup><small>[[G1377]]</small></sup> · <span class="asgreek">ἐξολοθρεύω</span><sup><small>[[G1842]]</small></sup> · <span class="asgreek">καταστροφή</span><sup><small>[[G2692]]</small></sup> · <span class="asgreek">λῃστής</span><sup><small>[[G3027]]</small></sup> · <span class="asgreek">ὄλεθρος</span><sup><small>[[G3639]]</small></sup> · <span class="asgreek">ὀλοθρεύω</span><sup><small>[[G3645]]</small></sup> · <span class="asgreek">ταλαιπωρέω</span><sup><small>[[G5003]]</small></sup> · <span class="asgreek">ταλαίπωρος</span><sup><small>[[G5005]]</small></sup>
+<small>See Greek: </small>**<big>[[G0622|ἀπόλλυμι]]</big>** · **<big>[[G0684|ἀπώλεια]]</big>** · **<big>[[G0818|ἀτιμάζω]]</big>** · **<big>[[G1377|διώκω]]</big>** · **<big>[[G1842|ἐξολοθρεύω]]</big>** · **<big>[[G2692|καταστροφή]]</big>** · **<big>[[G3027|λῃστής]]</big>** · **<big>[[G3639|ὄλεθρος]]</big>** · **<big>[[G3645|ὀλοθρεύω]]</big>** · **<big>[[G5003|ταλαιπωρέω]]</big>** · **<big>[[G5005|ταλαίπωρος]]</big>**

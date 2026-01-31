@@ -4,7 +4,7 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Izziah</span>, a descendant of Parosh, was among those who agreed to put away their foreign wives during Ezra's reforms \([[Ezra.10.25|Ezr.10.25]]\).
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.25|Ezr.10.25]]; 
-- only referred to as Izziah<[[H3150]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Izziah **<big>[[H3150|יִזִּיָּה]]</big>**.
 
 Izziah is mentioned briefly in [[Ezra.10.25|Ezra 10:25]] as one of the descendants of Parosh who had married foreign women. This occurred during the time of Ezra, who led a significant reform movement among the Jews who had returned from Babylonian exile. 
 
@@ -14,5 +14,5 @@ Izziah is listed among those who complied with this decision \([[Ezra.10.25|Ezr.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Izziah (KJV= Jeziah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H3150) <small>*Hebrew*</small> | 1x | [Ezr.10.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Izziah\*\|reference=Ezr.10.25) |
-All Strong's for **Izziah**: \[[[H3150]]\]
+| Izziah (KJV= Jeziah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ִּ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H3150) | 1x | [Ezr.10.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Izziah\*\|reference=Ezr.10.25) |
+All entries for **Izziah**:  **<big>[[H3150|יִזִּיָּה]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶלְעָשָׂה‎</span></big> **ʼElʻâsâh** <small>*(el-aw-saw')*</small> ==**Eleasah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎עָשָׂה‎</span><sup><small>[[H6213]]</small></sup>; God has made</small>
+**<big><span class="ashebrew">‎אֶלְעָשָׂה‎</span></big>** **ʼElʻâsâh** <small>*(el-aw-saw')*</small> ==**Eleasah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H6213|‎עָשָׂה‎]]</big>**; God has made</small>
 
 $\quad$ Elasah, Eleasah.
 - § Elasah or Eleasah = *"God has made"*

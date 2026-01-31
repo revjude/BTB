@@ -11,33 +11,33 @@ And he said, I will make all my goodness pass before thee, and I will proclaim t
 > $\quad$ referenced by: [[Rom.9.15|Rom 9:15]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will go by | <big><span class="asgreek">παρελεύσομαι</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| in front | <big><span class="asgreek">πρότερός</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
-| of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my glory; | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will call | <big><span class="asgreek">καλέσω</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name, | <big><span class="asgreek">ονόματι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will show mercy | <big><span class="asgreek">ελεήσω</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| \[on\] whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should show mercy, | <big><span class="asgreek">ελεώ</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will pity | <big><span class="asgreek">οικτειρήσω</span></big> <sup><small><small>[[G3627]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| I should pity. | <big><span class="asgreek">οικτειρώ</span></big> <sup><small><small>[[G3627]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| will go by | **<big>[[G3928\|παρελεύσομαι]]</big>** |
+| in front | **<big>[[G4387\|πρότερός]]</big>** |
+| of you | **<big>[[G1473\|σου]]</big>** |
+| \[in\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my glory; | **<big>[[G1391\|δόξη]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will call | **<big>[[G2564\|καλέσω]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| name, | **<big>[[G3686\|ονόματι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| you; | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will show mercy | **<big>[[G1653\|ελεήσω]]</big>** |
+| \[on\] whom | **<big>[[G3739\|ον]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I should show mercy, | **<big>[[G1653\|ελεώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will pity | **<big>[[G3627\|οικτειρήσω]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| I should pity. | **<big>[[G3627\|οικτειρώ]]</big>** |
 [[Exod.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.18|<< Exodus 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.20|Exodus 33:20 >>]]</td></tr></table>
 
 

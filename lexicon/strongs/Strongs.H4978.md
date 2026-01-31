@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מַתְּנָא‎</span></big> **mattᵉnâʼ** <small>*(mat-ten-aw')*</small> ==**gift**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎מַתָּנָה‎</span><sup><small>[[H4979]]</small></sup></small>
+**<big><span class="asaramaic">‎מַתְּנָא‎</span></big>** **mattᵉnâʼ** <small>*(mat-ten-aw')*</small> ==**gift**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H4979|‎מַתָּנָה‎]]</big>**</small>
 
 $\quad$ gift.
 - {***a present***
@@ -7,4 +7,4 @@ $\quad$ gift.
 
 **1)** gift
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δωρεά</span><sup><small>[[G1431]]</small></sup>
+<small>See Greek: </small>**<big>[[G1431|δωρεά]]</big>**

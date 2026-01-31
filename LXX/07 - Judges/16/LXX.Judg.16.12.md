@@ -7,41 +7,41 @@ Delilah therefore took new ropes, and bound him therewith, and said unto him, Th
 So Delilah took new ropes, tied him up with them, and called out, “Samson, the Philistines are here!” But while the men were hidden in her room, he snapped the ropes off his arms like they were threads.<small><sub>**MT:**</sub></small>
 [[Judg.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.13|Judges 16:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Delilah took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Δαλιλά</span></big> <sup><small><small>[[H1807]]</small></small></sup> |
-| ropes | <big><span class="asgreek">καλώδια</span></big> <sup><small><small>[[G7787]]</small></small></sup> |
-| new | <big><span class="asgreek">καινά</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tied | <big><span class="asgreek">έδησεν</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistines | <big><span class="asgreek">αλλόφυλοι</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| are upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Samson. | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ambush | <big><span class="asgreek">ένεδρον</span></big> <sup><small><small>[[G1749]]</small></small></sup> |
-| sat | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| storeroom. | <big><span class="asgreek">ταμείω</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he pulled | <big><span class="asgreek">διέσπασεν</span></big> <sup><small><small>[[G1288]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his arms | <big><span class="asgreek">βραχιόνων</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| thread. | <big><span class="asgreek">ράμμα</span></big> <sup><small><small>[[G9009]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Delilah took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[H1807\|Δαλιλά]]</big>** |
+| ropes | **<big>[[G7787\|καλώδια]]</big>** |
+| new | **<big>[[G2537\|καινά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tied | **<big>[[G1210\|έδησεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυτοίς]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| The | **<big>[[G3588\|οι]]</big>** |
+| Philistines | **<big>[[G0246\|αλλόφυλοι]]</big>** |
+| are upon | **<big>[[G1909\|επί]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| Samson. | **<big>[[G4546\|Σαμψών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| ambush | **<big>[[G1749\|ένεδρον]]</big>** |
+| sat | **<big>[[G2521\|εκάθητο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| storeroom. | **<big>[[G5009\|ταμείω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he pulled | **<big>[[G1288\|διέσπασεν]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his arms | **<big>[[G1023\|βραχιόνων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| as | **<big>[[G5616\|ωσεί]]</big>** |
+| thread. | **<big>[[G9009\|ράμμα]]</big>** |
 [[Judg.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.13|Judges 16:13 >>]]</td></tr></table>
 
 

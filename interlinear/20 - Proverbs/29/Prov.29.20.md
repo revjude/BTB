@@ -6,15 +6,15 @@ Do you see a man who speaks in haste? There is more hope for a fool than for him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.19|<< Proverbs 29:19]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.21|Proverbs 29:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| do you see?  | <span class="ashebrew"><big>חָזִ֗יתָ </big></span><small><small><sup>[[H2372]]</sup></small></small> &#8207;| cha.Zi.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>אִ֭ישׁ </big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hasty  | <span class="ashebrew"><big>אָ֣ץ </big></span><small><small><sup>[[H0213]]</sup></small></small> &#8207;| 'atz <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in words his  | <span class="ashebrew"><big>בִּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>דְבָרָ֑י </big></span><small><small><sup>[[H1697G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| bi <small><sup>[[HR]]</sup></small> d.va.Ra <small><sup>[[HNcmpc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hope  | <span class="ashebrew"><big>תִּקְוָ֖ה </big></span><small><small><sup>[[H8615B]]</sup></small></small> &#8207;| tik.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to a fool  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>כְסִ֣יל </big></span><small><small><sup>[[H3684]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> kh.Sil <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| more than him  | <span class="ashebrew"><big>מִמֶּֽ </big></span><small><small><sup>[[H4480A]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi.Me. <small><sup>[[HR]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you see?  |**<big>&#8207;[[H2372\|חָזִ֗יתָ]]&#8207; </big>**| cha.Zi.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H0376I\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hasty  |**<big>&#8207;[[H0213\|אָ֣ץ]]&#8207; </big>**| 'atz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in words his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1697G\|דְבָרָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> d.va.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hope  |**<big>&#8207;[[H8615B\|תִּקְוָ֖ה]]&#8207; </big>**| tik.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to a fool  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3684\|כְסִ֣יל]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> kh.Sil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than him  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.19|<< Proverbs 29:19]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.21|Proverbs 29:21 >>]]</td></tr></table>
 
 

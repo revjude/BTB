@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎מְנָא‎</span></big> **mᵉnâʼ** <small>*(men-aw')*</small> ==**to reckon/appoint**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) or <span class="ashebrew">מְנָה</span> **mᵉnâh** <small>*(men-aw')*</small>; (Aramaic), corresponding to <span class="ashebrew">‎מָנָה‎</span><sup><small>[[H4487]]</small></sup></small>
+**<big><span class="asaramaic">‎מְנָא‎</span></big>** **mᵉnâʼ** <small>*(men-aw')*</small> ==**to reckon/appoint**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) or **<big><span class="ashebrew">מְנָה</span></big>** **mᵉnâh** <small>*(men-aw')*</small>; (Aramaic), corresponding to **<big>[[H4487|‎מָנָה‎]]</big>**</small>
 
 $\quad$ number, ordain, set.
 - ***to count***, ***appoint***
@@ -8,4 +8,4 @@ $\quad$ number, ordain, set.
 $\quad$ **1a)** (P'al) to number
 $\quad$ **1b)** (Pael) to appoint
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μετρέω</span><sup><small>[[G3354]]</small></sup>
+<small>See Greek: </small>**<big>[[G3354|μετρέω]]</big>**

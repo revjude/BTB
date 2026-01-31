@@ -4,8 +4,8 @@ David's compatriot living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Hushai</span> the Arkite was a loyal friend and advisor to King David, who helped him during Absalom's rebellion by countering the advice of Ahithophel.
 - David's compatriot living at the time of United Monarchy, first mentioned at [[2Sam.15.32|2Sa.15.32]]; 
-- only referred to as Hushai<[[H2365]]> \(<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>י</span>\); 
--  father of Baana<[[H1195H]]>.
+- only referred to as Hushai **<big>[[H2365|חוּשַׁי]]</big>**; 
+-  father of Baana **<big>[[H1195|בַּעֲנָא]]</big>**.
 
 Hushai, also known as Hushai the Arkite, was a close friend and advisor to King David. He played a significant role during the rebellion of David's son Absalom, as recorded in 2 Samuel 15-17. 
 
@@ -21,7 +21,7 @@ Hushai's service to both David and Solomon highlights his enduring loyalty to th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Hushai | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>י</span>](H2365) <small>*Hebrew*</small> | 14x | [[2Sa.15.32] ... [1Ch.27.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushai\*\|reference=2Sa.15.32;2Sa.15.37;2Sa.16.16;2Sa.16.16;2Sa.16.17;2Sa.16.18;2Sa.17.5;2Sa.17.6;2Sa.17.7;2Sa.17.8;2Sa.17.14;2Sa.17.15;1Ki.4.16;1Ch.27.33) |
-All Strong's for **Hushai**: \[[[H2365]]\]
+| Hushai | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>י</span>](H2365) | 14x | [[2Sa.15.32] ... [1Ch.27.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushai\*\|reference=2Sa.15.32;2Sa.15.37;2Sa.16.16;2Sa.16.16;2Sa.16.17;2Sa.16.18;2Sa.17.5;2Sa.17.6;2Sa.17.7;2Sa.17.8;2Sa.17.14;2Sa.17.15;1Ki.4.16;1Ch.27.33) |
+All entries for **Hushai**:  **<big>[[H2365|חוּשַׁי]]</big>**
 #### Related Profiles:
 - **[Baana](H1195H)** (child)

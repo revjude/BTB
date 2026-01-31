@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֶפֶךְ‎</span></big> **hephek** <small>*(heh'-fek)*</small> ==**contrariness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small> or <span class="ashebrew">הֵפֶךְ</span> **hêphek** <small>*(hay'-fek)*</small>; from <span class="ashebrew">‎הָפַךְ‎</span><sup><small>[[H2015]]</small></sup></small>
+**<big><span class="ashebrew">‎הֶפֶךְ‎</span></big>** **hephek** <small>*(heh'-fek)*</small> ==**contrariness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small> or **<big><span class="ashebrew">הֵפֶךְ</span></big>** **hêphek** <small>*(hay'-fek)*</small>; from **<big>[[H2015|‎הָפַךְ‎]]</big>**</small>
 
 $\quad$ contrary.
 - ***a turn***, i.e. ***the reverse***

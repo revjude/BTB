@@ -7,25 +7,25 @@ The eye [that] mocketh at [his] father, and despiseth to obey [his] mother, the 
 As for the eye that mocks a father and scorns obedience to a mother, may the ravens of the valley pluck it out and young vultures devour it.<small><sub>**MT:**</sub></small>
 [[Prov.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] eye | <big><span class="asgreek">οφθαλμόν</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| ridiculing | <big><span class="asgreek">καταγελώντα</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
-| a father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| dishonoring | <big><span class="asgreek">ατιμάζοντα</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
-| \[the\] old age | <big><span class="asgreek">γήρας</span></big> <sup><small><small>[[G1094]]</small></small></sup> |
-| of a mother -- | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| cut it out | <big><span class="asgreek">εκκόψαισαν</span></big> <sup><small><small>[[G1581]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| let \[the\] crows | <big><span class="asgreek">κόρακες</span></big> <sup><small><small>[[G2876]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravines | <big><span class="asgreek">φαράγγων</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| devour | <big><span class="asgreek">καταφάγοισαν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] young | <big><span class="asgreek">νεοσσοί</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
-| of \[the\] eagles | <big><span class="asgreek">αετών</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
+| \[The\] eye | **<big>[[G3788\|οφθαλμόν]]</big>** |
+| ridiculing | **<big>[[G2606\|καταγελώντα]]</big>** |
+| a father, | **<big>[[G3962\|πατρός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| dishonoring | **<big>[[G0818\|ατιμάζοντα]]</big>** |
+| \[the\] old age | **<big>[[G1094\|γήρας]]</big>** |
+| of a mother -- | **<big>[[G3384\|μητρός]]</big>** |
+| cut it out | **<big>[[G1581\|εκκόψαισαν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| let \[the\] crows | **<big>[[G2876\|κόρακες]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| ravines | **<big>[[G5327\|φαράγγων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| devour | **<big>[[G2719\|καταφάγοισαν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| \[the\] young | **<big>[[G3502\|νεοσσοί]]</big>** |
+| of \[the\] eagles | **<big>[[G0105\|αετών]]</big>** |
 [[Prov.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָרֵד‎</span></big> **chârêd** <small>*(khaw-rade')*</small> ==**trembling**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָרַד‎</span><sup><small>[[H2729]]</small></sup></small>
+**<big><span class="ashebrew">‎חָרֵד‎</span></big>** **chârêd** <small>*(khaw-rade')*</small> ==**trembling**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2729|‎חָרַד‎]]</big>**</small>
 
 $\quad$ afraid, trembling.
 - ***fearful***
@@ -7,4 +7,4 @@ $\quad$ afraid, trembling.
 
 **1)** trembling, fearful, afraid
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δειλός</span><sup><small>[[G1169]]</small></sup> · <span class="asgreek">ἐκφοβέω</span><sup><small>[[G1629]]</small></sup> · <span class="asgreek">ἐξίστημι</span><sup><small>[[G1839]]</small></sup> · <span class="asgreek">λαμβάνω</span><sup><small>[[G2983]]</small></sup> · <span class="asgreek">παρενοχλέω</span><sup><small>[[G3926]]</small></sup> · <span class="asgreek">πτοέω</span><sup><small>[[G4422]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup> · <span class="asgreek">φοβέω</span><sup><small>[[G5399]]</small></sup> · <span class="asgreek">φόβος</span><sup><small>[[G5401]]</small></sup>
+<small>See Greek: </small>**<big>[[G1169|δειλός]]</big>** · **<big>[[G1629|ἐκφοβέω]]</big>** · **<big>[[G1839|ἐξίστημι]]</big>** · **<big>[[G2983|λαμβάνω]]</big>** · **<big>[[G3926|παρενοχλέω]]</big>** · **<big>[[G4422|πτοέω]]</big>** · **<big>[[G5015|ταράσσω]]</big>** · **<big>[[G5399|φοβέω]]</big>** · **<big>[[G5401|φόβος]]</big>**

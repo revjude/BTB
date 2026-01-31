@@ -7,30 +7,30 @@ Turn again, my daughters, go [your way]; for I am too old to have an husband. If
 Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,<small><sub>**MT:**</sub></small>
 [[Ruth.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Turn back | <big><span class="asgreek">επιστράφητε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| please, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| my daughters! | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Go | <big><span class="asgreek">πορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| please! | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I grow old | <big><span class="asgreek">γεγήρακα</span></big> <sup><small><small>[[G1095]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not \[have\] | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| a husband. | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Is it | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a reality | <big><span class="asgreek">υπόστασις</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to be | <big><span class="asgreek">γενηθήναί</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a husband, | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall I give birth to | <big><span class="asgreek">τέξομαι</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| sons? | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| Turn back | **<big>[[G1994\|επιστράφητε]]</big>** |
+| please, | **<big>[[G1211\|δη]]</big>** |
+| my daughters! | **<big>[[G2364\|θυγατέρες]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Go | **<big>[[G4198\|πορεύθητε]]</big>** |
+| please! | **<big>[[G1211\|δη]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I grow old | **<big>[[G1095\|γεγήρακα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not \[have\] | **<big>[[G3361\|μη]]</big>** **<big>[[G1510\|είναι]]</big>** |
+| a husband. | **<big>[[G0435\|ανδρί]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| Is it | **<big>[[G1510\|έστι]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a reality | **<big>[[G5287\|υπόστασις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to be | **<big>[[G1096\|γενηθήναί]]</big>** |
+| to me | **<big>[[G1473\|με]]</big>** |
+| a husband, | **<big>[[G0435\|ανδρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall I give birth to | **<big>[[G5088\|τέξομαι]]</big>** |
+| sons? | **<big>[[G5207\|υιούς]]</big>** |
 [[Ruth.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אִישׁ־טוֹב‎</span> <small>***(ish-tov)***</small> ==**Ish-tob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-group of: <small>[[H2897]] ([[H0376G]]+[[H2897]])</small> 
+<small>group of:</small> <small>**<big>[[H2897|טוֹב]]</big>** (**<big>[[H0376G|אִישׁ]]</big>**+**<big>[[H2897|טוֹב]]</big>**)</small> 
 
 - Ishtob = "man of Tob"

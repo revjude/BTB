@@ -7,24 +7,24 @@ But the angel of the LORD stood in a path of the vineyards, a wall [being] on th
 Then the angel of the LORD stood in a narrow passage between two vineyards, with walls on either side.<small><sub>**MT:**</sub></small>
 [[Num.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.23|<< Numbers 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.25|Numbers 22:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| furrows | <big><span class="asgreek">αύλαξι</span></big> <sup><small><small>[[G6603]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grapevines, | <big><span class="asgreek">αμπέλων</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| a barrier | <big><span class="asgreek">φραγμός</span></big> <sup><small><small>[[G5418]]</small></small></sup> |
-| here \[on this side\] | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a barrier | <big><span class="asgreek">φραγμός</span></big> <sup><small><small>[[G5418]]</small></small></sup> |
-| here \[on that side\]. | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| stood | **<big>[[G2476\|έστη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God | **<big>[[G2316\|θεού]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| furrows | **<big>[[G6603\|αύλαξι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| grapevines, | **<big>[[G0288\|αμπέλων]]</big>** |
+| a barrier | **<big>[[G5418\|φραγμός]]</big>** |
+| here \[on this side\] | **<big>[[G1782\|εντεύθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a barrier | **<big>[[G5418\|φραγμός]]</big>** |
+| here \[on that side\]. | **<big>[[G1782\|εντεύθεν]]</big>** |
 [[Num.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.23|<< Numbers 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.25|Numbers 22:25 >>]]</td></tr></table>
 
 

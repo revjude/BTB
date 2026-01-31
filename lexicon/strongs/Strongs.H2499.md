@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎חֲלַף‎</span></big> **chălaph** <small>*(khal-af')*</small> ==**to pass**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎חָלַף‎</span><sup><small>[[H2498]]</small></sup></small>
+**<big><span class="asaramaic">‎חֲלַף‎</span></big>** **chălaph** <small>*(khal-af')*</small> ==**to pass**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H2498|‎חָלַף‎]]</big>**</small>
 
 $\quad$ pass.
 - ***to pass on*** (of time)

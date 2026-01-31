@@ -6,14 +6,14 @@ Set plans by consultation, and wage war under sound guidance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.17|<< Proverbs 20:17]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.19|Proverbs 20:19 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| plans  | <span class="ashebrew"><big>מַ֭חֲשָׁבוֹת </big></span><small><small><sup>[[H4284]]</sup></small></small> &#8207;| Ma.cha.sha.Vot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by counsel  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵצָ֣ה </big></span><small><small><sup>[[H6098]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'e.Tzah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is established  | <span class="ashebrew"><big>תִכּ֑וֹן </big></span><small><small><sup>[[H3559H]]</sup></small></small> &#8207;| ti.Kon <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and by wise directions  | <span class="ashebrew"><big>וּ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תַחְבֻּל֗וֹת </big></span><small><small><sup>[[H8458]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve. <small><sup>[[HR]]</sup></small> tach.bu.Lot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| make  | <span class="ashebrew"><big>עֲשֵׂ֣ה </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Seh <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  | <span class="ashebrew"><big>מִלְחָמָֽה </big></span><small><small><sup>[[H4421]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plans  |**<big>&#8207;[[H4284\|מַ֭חֲשָׁבוֹת]]&#8207; </big>**| Ma.cha.sha.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by counsel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6098\|עֵצָ֣ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is established  |**<big>&#8207;[[H3559H\|תִכּ֑וֹן]]&#8207; </big>**| ti.Kon<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by wise directions  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8458\|תַחְבֻּל֗וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tach.bu.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make  |**<big>&#8207;[[H6213H\|עֲשֵׂ֣ה]]&#8207; </big>**| 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H4421\|מִלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.17|<< Proverbs 20:17]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.19|Proverbs 20:19 >>]]</td></tr></table>
 
 

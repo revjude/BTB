@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻנִּי‎</span></big> **ʻUnnîy** <small>*(oon-nee')*</small> ==**Unni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6031]]</small></sup>; afflicted</small>
+**<big><span class="ashebrew">‎עֻנִּי‎</span></big>** **ʻUnnîy** <small>*(oon-nee')*</small> ==**Unni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6031|‎עָנָה‎]]</big>**; afflicted</small>
 
 $\quad$ Unni.
 - § Unni = *"afflicted"*

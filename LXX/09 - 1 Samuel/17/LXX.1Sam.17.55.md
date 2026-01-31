@@ -7,39 +7,39 @@ And when Saul saw David go forth against the Philistine, he said unto Abner, the
 As Saul had watched David going out to confront the Philistine, he said to Abner the commander of the army, “Abner, whose son is this young man?” “As surely as you live, O king,” Abner replied, “I do not know.”<small><sub>**MT:**</sub></small>
 [[1Sam.17.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.54|<< 1 Samuel 17:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.56|1 Samuel 17:56 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| Saul saw | <big><span class="asgreek">είδε Σαούλ</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| going forth | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meeting | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Philistine, | <big><span class="asgreek">αλλοφύλου</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler | <big><span class="asgreek">άρχοντα</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| Whose son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[is\] this young man, | <big><span class="asgreek">νεανίσκος ούτος</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| Abner? | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abner responded | <big><span class="asgreek">απεκρίθη Αβενήρ</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| should live | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your soul | <big><span class="asgreek">ψυχή σου</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| O my lord | <big><span class="asgreek">κύριέ μου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| I do not know. | <big><span class="asgreek">ουκ οίδα</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| Saul saw | **<big>[[G1492\|είδε Σαούλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| going forth | **<big>[[G1607\|εκπορευόμενον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| meeting | **<big>[[G0529\|απάντησιν]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Philistine, | **<big>[[G0246\|αλλοφύλου]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Abner | **<big>[[H0074\|Αβενήρ]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| ruler | **<big>[[G0758\|άρχοντα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force, | **<big>[[G1411\|δυνάμεως]]</big>** |
+| Whose son | **<big>[[G5207\|υιός]]</big>** **<big>[[G5100\|τίνος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[is\] this young man, | **<big>[[G3495\|νεανίσκος ούτος]]</big>** |
+| Abner? | **<big>[[H0074\|Αβενήρ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Abner responded | **<big>[[G0611\|απεκρίθη Αβενήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπε]]</big>** |
+| should live | **<big>[[G2198\|ζη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| your soul | **<big>[[G5590\|ψυχή σου]]</big>** |
+| O my lord | **<big>[[G2962\|κύριέ μου]]</big>** |
+| king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| I do not know. | **<big>[[G3756\|ουκ οίδα]]</big>** |
 [[1Sam.17.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.54|<< 1 Samuel 17:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.56|1 Samuel 17:56 >>]]</td></tr></table>
 
 

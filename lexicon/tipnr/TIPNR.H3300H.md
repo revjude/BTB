@@ -4,8 +4,8 @@ Man living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Jaasiel</span>, the son of Abner, was the leader of the half-tribe of Manasseh during King David's reign \([[1Chr.27.21|1Ch.27.21]]\).
 - A man from the tribe of Benjamin living at the time of United Monarchy, only mentioned at [[1Chr.27.21|1Ch.27.21]]; 
-- only referred to as Jaasiel<[[H3300H]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>\); 
-- a son of Abner<[[H0074]]>.
+- only referred to as Jaasiel **<big>[[H3300|יַעֲשִׂיאֵל]]</big>**; 
+- a son of Abner **<big>[[H0074|אַבְנֵר]]</big>**.
 
 Jaasiel, the son of Abner, is mentioned in [[1Chr.27.21|1 Chronicles 27:21]] as the leader of the half-tribe of Manasseh during King David's reign. This passage lists the leaders of the tribes of Israel who served in David's administration, with each leader responsible for overseeing their tribe's affairs for one month out of the year. 
 
@@ -17,7 +17,7 @@ No other information is given about Jaasiel's specific actions or achievements a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jaasiel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3300H) <small>*Hebrew*</small> | 1x | [1Ch.27.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaasiel\*\|reference=1Ch.27.21) |
-All Strong's for **Jaasiel**: \[[[H3300H]]\]
+| Jaasiel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3300H) | 1x | [1Ch.27.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaasiel\*\|reference=1Ch.27.21) |
+All entries for **Jaasiel**:  **<big>[[H3300|יַעֲשִׂיאֵל]]</big>**
 #### Related Profiles:
 - **[Abner](H0074)** (father)

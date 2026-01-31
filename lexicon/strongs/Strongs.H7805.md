@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁזַף‎</span></big> **shâzaph** <small>*(shaw-zaf')*</small> ==**to see**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁזַף‎</span></big>** **shâzaph** <small>*(shaw-zaf')*</small> ==**to see**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ look up, see.

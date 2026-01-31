@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵפֶר‎</span></big> **ʻÊpher** <small>*(ay'-fer)*</small> ==**Epher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably a variation of <span class="ashebrew">‎עֹפֶר‎</span><sup><small>[[H6082]]</small></sup>; gazelle</small>
+**<big><span class="ashebrew">‎עֵפֶר‎</span></big>** **ʻÊpher** <small>*(ay'-fer)*</small> ==**Epher**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably a variation of **<big>[[H6082|‎עֹפֶר‎]]</big>**; gazelle</small>
 
 $\quad$ Epher.
 - § Epher = *"a calf"*

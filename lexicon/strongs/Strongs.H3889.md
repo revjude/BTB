@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎לוּשׁ‎</span></big> **Lûwsh** <small>*(loosh)*</small> ==**Laish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎לוּשׁ‎</span><sup><small>[[H3888]]</small></sup>; kneading</small>
+**<big><span class="ashebrew">‎לוּשׁ‎</span></big>** **Lûwsh** <small>*(loosh)*</small> ==**Laish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3888|‎לוּשׁ‎]]</big>**; kneading</small>
 
-$\quad$ Laish (from the margin). Compare <span class="ashebrew">‎לַיִשׁ‎</span><sup><small>[[H3919]]</small></sup>.
+$\quad$ Laish (from the margin). Compare **<big>[[H3919|‎לַיִשׁ‎]]</big>**.
 - § Laish = *"lion"*
 - ***Lush***, a place in Palestine
 

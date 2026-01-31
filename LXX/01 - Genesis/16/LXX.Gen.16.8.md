@@ -7,31 +7,31 @@ And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go
 “Hagar, servant of Sarai,” he said, “where have you come from, and where are you going?” “I am running away from my mistress Sarai,” she replied.<small><sub>**MT:**</sub></small>
 [[Gen.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.7|<< Genesis 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.9|Genesis 16:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angel | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Hagar, | <big><span class="asgreek">Άγαρ</span></big> <sup><small><small>[[G0028]]</small></small></sup> |
-| maidservant | <big><span class="asgreek">παιδίσκη</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
-| of Sarai, | <big><span class="asgreek">Σάρας</span></big> <sup><small><small>[[H8297]]</small></small></sup> |
-| from what place | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| \[do\] you come, | <big><span class="asgreek">έρχη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
-| \[do\] you go? | <big><span class="asgreek">πορεύη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of Sarai | <big><span class="asgreek">Σάρας</span></big> <sup><small><small>[[H8297]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lady | <big><span class="asgreek">κυρίας</span></big> <sup><small><small>[[G2959]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am running away | <big><span class="asgreek">αποδιδράσκω</span></big> <sup><small><small>[[G6424]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| angel | **<big>[[G0032\|άγγελος]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| Hagar, | **<big>[[G0028\|Άγαρ]]</big>** |
+| maidservant | **<big>[[G3814\|παιδίσκη]]</big>** |
+| of Sarai, | **<big>[[H8297\|Σάρας]]</big>** |
+| from what place | **<big>[[G4159\|πόθεν]]</big>** |
+| \[do\] you come, | **<big>[[G2064\|έρχη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| where | **<big>[[G4226\|που]]</big>** |
+| \[do\] you go? | **<big>[[G4198\|πορεύη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of Sarai | **<big>[[H8297\|Σάρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| my lady | **<big>[[G2959\|κυρίας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am running away | **<big>[[G6424\|αποδιδράσκω]]</big>** |
 [[Gen.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.7|<< Genesis 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.9|Genesis 16:9 >>]]</td></tr></table>
 
 

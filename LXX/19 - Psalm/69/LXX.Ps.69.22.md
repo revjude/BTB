@@ -11,21 +11,21 @@ May their table become a snare; may it be a retribution and a trap.<small><sub>
 > $\quad$ referenced by: [[Rom.11.9|Rom 11:9-10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| become | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their table | <big><span class="asgreek">τράπεζα</span></big> <sup><small><small>[[G5132]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as a | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| snare, | <big><span class="asgreek">παγίδα</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a recompense, | <big><span class="asgreek">ανταπόδοσιν</span></big> <sup><small><small>[[G0469]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an obstacle! | <big><span class="asgreek">σκάνδαλον</span></big> <sup><small><small>[[G4625]]</small></small></sup> |
+| become | **<big>[[G1096\|γενηθήτω]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their table | **<big>[[G5132\|τράπεζα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| as a | **<big>[[G1519\|εις]]</big>** |
+| snare, | **<big>[[G3803\|παγίδα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a recompense, | **<big>[[G0469\|ανταπόδοσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an obstacle! | **<big>[[G4625\|σκάνδαλον]]</big>** |
 [[Ps.69.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.21|<< Psalm 69:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.23|Psalm 69:23 >>]]</td></tr></table>
 
 

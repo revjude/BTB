@@ -1,6 +1,5 @@
-<span class="ashebrew">‎עֻזִּיאֵל‎</span> <small>***(uz.zi.el)***</small> ==**Uzziel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[Exod.6.18|Exo.6.18]]
--  son of: Kohath ([[H6955]])
--  brother of: Amram ([[H6019]]), Izhar ([[H3324]]) and Hebron ([[H2275B]])
--  father of: Mishael ([[H4332]]), Elizaphan ([[H0469]]), Sithri ([[H5644]]), Micah ([[H4318J]]) and Isshiah ([[H3449I]])
-- Also named: <i>oz.zi.e.li</i> (<span class='ashebrew'>‎ע‎</span>ׇ<span class='ashebrew'>‎ז‎</span>ִּ<span class='ashebrew'>‎יא‎</span>ֵ<span class='ashebrew'>‎ל‎</span>ִ<span class='ashebrew'>‎י‎</span> "Uzzielite" [[H5817]])
+-  son of: Kohath (**<big>[[H6955|קְהָת]]</big>**)
+-  brother of: Amram (**<big>[[H6019|עַמְרָם]]</big>**), Izhar (**<big>[[H3324|יִצְהָר]]</big>**) and Hebron (**<big>[[H2275B|חֶבְרוֹן]]</big>**)
+-  father of: Mishael (**<big>[[H4332|מִישָׁאֵל]]</big>**), Elizaphan (**<big>[[H0469|אֱלִיצָפָן]]</big>**), Sithri (**<big>[[H5644|סִתְרִי]]</big>**), Micah (**<big>[[H4318J|מִיכָה]]</big>**) and Isshiah (**<big>[[H3449I|יִשִּׁיָּה]]</big>**)
+- Also named: <i>oz.zi.e.li</i> (<span class='ashebrew'>‎ע‎</span>ׇ<span class='ashebrew'>‎ז‎</span>ִּ<span class='ashebrew'>‎יא‎</span>ֵ<span class='ashebrew'>‎ל‎</span>ִ<span class='ashebrew'>‎י‎</span> "Uzzielite" **<big>[[H5817|עׇזִּיאֵלִי]]</big>**)

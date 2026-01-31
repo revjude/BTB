@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נַחֲמָנִי‎</span></big> **Nachămânîy** <small>*(nakh-am-aw-nee')*</small> ==**Nahamani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָחַם‎</span><sup><small>[[H5162]]</small></sup>; consolatory</small>
+**<big><span class="ashebrew">‎נַחֲמָנִי‎</span></big>** **Nachămânîy** <small>*(nakh-am-aw-nee')*</small> ==**Nahamani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5162|‎נָחַם‎]]</big>**; consolatory</small>
 
 $\quad$ Nahamani.
 - § Nahamani = *"merciful"*

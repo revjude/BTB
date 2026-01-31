@@ -7,29 +7,29 @@ And Elijah took his mantle, and wrapped [it] together, and smote the waters, and
 And Elijah took his cloak, rolled it up, and struck the waters, which parted to the right and to the left, so that the two of them crossed over on dry ground.<small><sub>**MT:**</sub></small>
 [[2Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.7|<< 2 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.9|2 Kings 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elijah took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sheepskin, | <big><span class="asgreek">μηλωτήν</span></big> <sup><small><small>[[G3374]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wrapped | <big><span class="asgreek">είλησε</span></big> <sup><small><small>[[G7062]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was divided | <big><span class="asgreek">διηρέθη</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| here and there, | <big><span class="asgreek">ένθα και ένθα</span></big> <sup><small><small>[[G7240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| passed over | <big><span class="asgreek">διέβησαν</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| dry \[ground\]. | <big><span class="asgreek">ξηράς</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elijah took | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his sheepskin, | **<big>[[G3374\|μηλωτήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wrapped | **<big>[[G7062\|είλησε]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| struck | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water, | **<big>[[G5204\|ύδωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was divided | **<big>[[G1244\|διηρέθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| here and there, | **<big>[[G7240\|ένθα και ένθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| passed over | **<big>[[G1224\|διέβησαν]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| dry \[ground\]. | **<big>[[G3584\|ξηράς]]</big>** |
 [[2Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.7|<< 2 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.9|2 Kings 2:9 >>]]</td></tr></table>
 
 

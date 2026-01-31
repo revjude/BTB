@@ -7,24 +7,24 @@ As concerning the rest of the beasts, they had their dominion taken away: yet th
 As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time.<small><sub>**MT:**</sub></small>
 [[Dan.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.11|<< Daniel 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.13|Daniel 7:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">λοιπών</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| of \[the\] wild beasts | <big><span class="asgreek">θηρίων</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| was changed over | <big><span class="asgreek">μετεστάθη</span></big> <sup><small><small>[[G3179]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rule | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a duration | <big><span class="asgreek">μακρότης</span></big> <sup><small><small>[[G8236]]</small></small></sup> |
-| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
-| was given | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| a time | <big><span class="asgreek">χρόνου</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a season. | <big><span class="asgreek">καιρού</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| rest | **<big>[[G3062\|λοιπών]]</big>** |
+| of \[the\] wild beasts | **<big>[[G2342\|θηρίων]]</big>** |
+| was changed over | **<big>[[G3179\|μετεστάθη]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| rule | **<big>[[G0746\|αρχή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a duration | **<big>[[G8236\|μακρότης]]</big>** |
+| of life | **<big>[[G2222\|ζωής]]</big>** |
+| was given | **<big>[[G1325\|εδόθη]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| a time | **<big>[[G5550\|χρόνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a season. | **<big>[[G2540\|καιρού]]</big>** |
 [[Dan.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.11|<< Daniel 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.13|Daniel 7:13 >>]]</td></tr></table>
 
 

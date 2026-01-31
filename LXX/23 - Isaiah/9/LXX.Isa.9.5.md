@@ -7,23 +7,23 @@ For every battle of the warrior [is] with confused noise, and garments rolled in
 For every trampling boot of battle and every garment rolled in blood will be burned as fuel for the fire.<small><sub>**MT:**</sub></small>
 [[Isa.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.4|<< Isaiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.6|Isaiah 9:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| apparel | <big><span class="asgreek">στολήν</span></big> <sup><small><small>[[G4749]]</small></small></sup> |
-| assembled | <big><span class="asgreek">επισυνηγμένην</span></big> <sup><small><small>[[G1996]]</small></small></sup> |
-| by treachery | <big><span class="asgreek">δόλω</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| reparation | <big><span class="asgreek">καταλλαγής</span></big> <sup><small><small>[[G2643]]</small></small></sup> |
-| they shall pay | <big><span class="asgreek">αποτίσουσι</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall want to | <big><span class="asgreek">θελήσουσιν</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
-| \[even\] if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| scorched. | <big><span class="asgreek">πυρίκαυστοι</span></big> <sup><small><small>[[G8993]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| apparel | **<big>[[G4749\|στολήν]]</big>** |
+| assembled | **<big>[[G1996\|επισυνηγμένην]]</big>** |
+| by treachery | **<big>[[G1388\|δόλω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| garment | **<big>[[G2440\|ιμάτιον]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| reparation | **<big>[[G2643\|καταλλαγής]]</big>** |
+| they shall pay | **<big>[[G0661\|αποτίσουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall want to | **<big>[[G2309\|θελήσουσιν]]</big>** |
+| \[even\] if | **<big>[[G1487\|ει]]</big>** |
+| it became | **<big>[[G1096\|εγένοντο]]</big>** |
+| scorched. | **<big>[[G8993\|πυρίκαυστοι]]</big>** |
 [[Isa.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.4|<< Isaiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.6|Isaiah 9:6 >>]]</td></tr></table>
 
 

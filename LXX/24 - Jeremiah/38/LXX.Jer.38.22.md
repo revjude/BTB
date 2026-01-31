@@ -7,41 +7,41 @@ And, behold, all the women that are left in the king of Judah’s house [shall b
 All the women who remain in the palace of the king of Judah will be brought out to the officials of the king of Babylon, and those women will say: ‘They misled you and overcame you—those trusted friends of yours. Your feet sank into the mire, and they deserted you.’<small><sub>**MT:**</sub></small>
 [[Jer.38.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.21|<< Jeremiah 38:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.23|Jeremiah 38:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being left behind | <big><span class="asgreek">καταλειφθείσαι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| having been led out | <big><span class="asgreek">εξήγοντο</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| of \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon; | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[women\] | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[shall say\], | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| deceived | <big><span class="asgreek">ηπάτησάν</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| prevailed over | <big><span class="asgreek">ηδυνάσθησάν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| at peace with you | <big><span class="asgreek">ειρηνικοί</span></big> <sup><small><small>[[G1516]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they will depose \[you\] | <big><span class="asgreek">καταλύσουσιν</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| slips | <big><span class="asgreek">ολισθήμασι</span></big> <sup><small><small>[[G8489]]</small></small></sup> |
-| of your feet; | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they turned | <big><span class="asgreek">απέστρεψαν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| women | **<big>[[G1135\|γυναίκες]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| being left behind | **<big>[[G2641\|καταλειφθείσαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3614\|οικία]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
+| having been led out | **<big>[[G1806\|εξήγοντο]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] rulers | **<big>[[G0758\|άρχοντας]]</big>** |
+| of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Babylon; | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| these \[women\] | **<big>[[G3778\|αύται]]</big>** |
+| \[shall say\], | **<big>[[G3004\|έλεγον]]</big>** |
+| deceived | **<big>[[G0538\|ηπάτησάν]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| prevailed over | **<big>[[G1410\|ηδυνάσθησάν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| at peace with you | **<big>[[G1516\|ειρηνικοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they will depose \[you\] | **<big>[[G2647\|καταλύσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| slips | **<big>[[G8489\|ολισθήμασι]]</big>** |
+| of your feet; | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they turned | **<big>[[G0654\|απέστρεψαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Jer.38.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.21|<< Jeremiah 38:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.23|Jeremiah 38:23 >>]]</td></tr></table>
 
 

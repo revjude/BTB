@@ -6,17 +6,17 @@ I made gardens and parks for myself, where I planted all kinds of fruit trees.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.4|<< Ecclesiastes 2:4]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.6|Ecclesiastes 2:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I made  | <span class="ashebrew"><big>עָשִׂ֣יתִי </big></span><small><small><sup>[[H6213H]]</sup></small></small> &#8207;| 'a.Si.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> myself  | <span class="ashebrew"><big>לִ֔ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| L <small><sup>[[HRd]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gardens  | <span class="ashebrew"><big>גַּנּ֖וֹת </big></span><small><small><sup>[[H1593]]</sup></small></small> &#8207;| ga.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and parks  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פַרְדֵּסִ֑ים </big></span><small><small><sup>[[H6508]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> far.de.Sim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I planted  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>נָטַ֥עְתִּי </big></span><small><small><sup>[[H5193]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> na.Ta'.ti <small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> them  | <span class="ashebrew"><big>בָ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tree[s] of  | <span class="ashebrew"><big>עֵ֥ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| every  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit  | <span class="ashebrew"><big>פֶּֽרִי </big></span><small><small><sup>[[H6529]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Pe.ri <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I made  |**<big>&#8207;[[H6213H\|עָשִׂ֣יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> myself  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gardens  |**<big>&#8207;[[H1593\|גַּנּ֖וֹת]]&#8207; </big>**| ga.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and parks  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6508\|פַרְדֵּסִ֑ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> far.de.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I planted  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5193\|נָטַ֥עְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ta'.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tree[s] of  |**<big>&#8207;[[H6086H\|עֵ֥ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit  |**<big>&#8207;[[H6529\|פֶּֽרִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Pe.ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.4|<< Ecclesiastes 2:4]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.6|Ecclesiastes 2:6 >>]]</td></tr></table>
 
 

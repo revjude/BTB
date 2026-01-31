@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִירָד‎</span></big> **ʻÎyrâd** <small>*(ee-rawd')*</small> ==**Irad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎עֲרָד‎</span><sup><small>[[H6166]]</small></sup>; fugitive</small>
+**<big><span class="ashebrew">‎עִירָד‎</span></big>** **ʻÎyrâd** <small>*(ee-rawd')*</small> ==**Irad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H6166|‎עֲרָד‎]]</big>**; fugitive</small>
 
 $\quad$ Irad.
 - § Irad = *"fleet"*

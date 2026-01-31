@@ -11,14 +11,14 @@ I believed, therefore I said, “I am greatly afflicted.”<small><sub>**MT:**<
 > $\quad$ referenced by: [[2Cor.4.13|2Cor 4:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I trusted, | <big><span class="asgreek">επίστευσα</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
-| therefore | <big><span class="asgreek">διό</span></big> <sup><small><small>[[G1352]]</small></small></sup> |
-| I spoke; | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| was humbled | <big><span class="asgreek">εταπεινώθην</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
-| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| I trusted, | **<big>[[G4100\|επίστευσα]]</big>** |
+| therefore | **<big>[[G1352\|διό]]</big>** |
+| I spoke; | **<big>[[G2980\|ελάλησα]]</big>** |
+| but I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| was humbled | **<big>[[G5013\|εταπεινώθην]]</big>** |
+| exceedingly. | **<big>[[G4970\|σφόδρα]]</big>** |
 [[Ps.116.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.9|<< Psalm 116:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.11|Psalm 116:11 >>]]</td></tr></table>
 
 

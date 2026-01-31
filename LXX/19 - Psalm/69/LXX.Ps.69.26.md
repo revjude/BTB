@@ -7,21 +7,21 @@ For they persecute [him] whom thou hast smitten; and they talk to the grief of t
 For they persecute the one You struck and recount the pain of those You wounded.<small><sub>**MT:**</sub></small>
 [[Ps.69.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.25|<< Psalm 69:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.27|Psalm 69:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| struck, | <big><span class="asgreek">επάταξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| pursued; | <big><span class="asgreek">κατεδίωξαν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pain | <big><span class="asgreek">άλγος</span></big> <sup><small><small>[[G6220]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my wounds | <big><span class="asgreek">τραυμάτων</span></big> <sup><small><small>[[G5134]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they added | <big><span class="asgreek">προσέθηκαν</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| struck, | **<big>[[G3960\|επάταξας]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| pursued; | **<big>[[G2614\|κατεδίωξαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| pain | **<big>[[G6220\|άλγος]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my wounds | **<big>[[G5134\|τραυμάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they added | **<big>[[G4369\|προσέθηκαν]]</big>** |
 [[Ps.69.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.25|<< Psalm 69:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.27|Psalm 69:27 >>]]</td></tr></table>
 
 

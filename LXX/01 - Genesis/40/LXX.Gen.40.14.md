@@ -7,34 +7,34 @@ But think on me when it shall be well with thee, and shew kindness, I pray thee,
 But when it goes well for you, please remember me and show me kindness by mentioning me to Pharaoh, that he might bring me out of this prison.<small><sub>**MT:**</sub></small>
 [[Gen.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.13|<< Genesis 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.15|Genesis 40:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| remember | <big><span class="asgreek">μνήσθητί</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| yourself, | <big><span class="asgreek">σεαυτού</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
-| happens | <big><span class="asgreek">γενηταί</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[an act of\] mercy. | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall remind | <big><span class="asgreek">μνησθήση</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
-| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-|  | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lead | <big><span class="asgreek">εξάξεις</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this fortress. | <big><span class="asgreek">οχυρώματος</span></big> <sup><small><small>[[G3794]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλά]]</big>** |
+| remember | **<big>[[G3403\|μνήσθητί]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| of | **<big>[[G1223\|διά]]</big>** |
+| yourself, | **<big>[[G4572\|σεαυτού]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| good | **<big>[[G2095\|ευ]]</big>** |
+| happens | **<big>[[G1096\|γενηταί]]</big>** |
+| to you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall do | **<big>[[G4160\|ποιήσεις]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+| \[an act of\] mercy. | **<big>[[G1656\|έλεος]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall remind | **<big>[[G3403\|μνησθήση]]</big>** |
+| concerning | **<big>[[G4012\|περί]]</big>** |
+| me | **<big>[[G1473\|εμού]]</big>** |
+|  | **<big>[[G4314\|προς]]</big>** |
+| Pharaoh | **<big>[[G5328\|Φαραώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lead | **<big>[[G1806\|εξάξεις]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| this fortress. | **<big>[[G3794\|οχυρώματος]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 [[Gen.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.13|<< Genesis 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.15|Genesis 40:15 >>]]</td></tr></table>
 
 

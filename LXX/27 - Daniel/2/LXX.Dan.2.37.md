@@ -11,24 +11,24 @@ You, O king, are the king of kings, to whom the God of heaven has given sovereig
 > $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \[are\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of kings, | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| a strong | <big><span class="asgreek">ισχυράν</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fortified | <big><span class="asgreek">κραταιάν</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| honorable | <big><span class="asgreek">έντιμον</span></big> <sup><small><small>[[G1784]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| You, | **<big>[[G1473\|συ]]</big>** |
+| O king, | **<big>[[G0935\|βασιλεύ]]</big>** |
+| \[are\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of kings, | **<big>[[G0935\|βασιλέων]]</big>** |
+| to whom | **<big>[[G3739\|ω]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of heaven | **<big>[[G3772\|ουρανού]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλείαν]]</big>** |
+| a strong | **<big>[[G2478\|ισχυράν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fortified | **<big>[[G2900\|κραταιάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| honorable | **<big>[[G1784\|έντιμον]]</big>** |
+| gave | **<big>[[G1325\|έδωκεν]]</big>** |
 [[Dan.2.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.36|<< Daniel 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.38|Daniel 2:38 >>]]</td></tr></table>
 
 

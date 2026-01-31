@@ -7,24 +7,24 @@ For the LORD hath turned away the excellency of Jacob, as the excellency of Isra
 For the LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and ruined the branches of their vine.<small><sub>**MT:**</sub></small>
 [[Nah.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.1|<< Nahum 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.3|Nahum 2:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> perverted | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
-| \[the\] insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| for \[the ones\] | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| shaking off | <big><span class="asgreek">εκτινάσσοντες</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
-| shook them off, | <big><span class="asgreek">εξετίναξαν</span></big> <sup><small><small>[[G1621]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their vine branches | <big><span class="asgreek">κλήματα</span></big> <sup><small><small>[[G2814]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they ruined | <big><span class="asgreek">διέφθειραν</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> perverted | **<big>[[G0654\|απέστρεψε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| insolence | **<big>[[G5196\|ύβριν]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| as | **<big>[[G2531\|καθώς]]</big>** |
+| \[the\] insolence | **<big>[[G5196\|ύβριν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
+| for \[the ones\] | **<big>[[G1360\|διότι]]</big>** |
+| shaking off | **<big>[[G1621\|εκτινάσσοντες]]</big>** |
+| shook them off, | **<big>[[G1621\|εξετίναξαν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their vine branches | **<big>[[G2814\|κλήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they ruined | **<big>[[G1311\|διέφθειραν]]</big>** |
 [[Nah.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.1|<< Nahum 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.3|Nahum 2:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲוִילָה‎</span></big> **Chăvîylâh** <small>*(khav-ee-law')*</small> ==**Havilah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably from <span class="ashebrew">‎חוּל‎</span><sup><small>[[H2342]]</small></sup>; circular</small>
+**<big><span class="ashebrew">‎חֲוִילָה‎</span></big>** **Chăvîylâh** <small>*(khav-ee-law')*</small> ==**Havilah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably from **<big>[[H2342|‎חוּל‎]]</big>**; circular</small>
 
 $\quad$ Havilah.
 - § Havilah = *"circle"*

@@ -6,15 +6,15 @@ He who trusts in his riches will fall, but the righteous will thrive like foliag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.27|<< Proverbs 11:27]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.29|Proverbs 11:29 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] trusts  | <span class="ashebrew"><big>בּוֹטֵ֣חַ </big></span><small><small><sup>[[H0982]]</sup></small></small> &#8207;| bo.Te.ach <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in wealth his  | <span class="ashebrew"><big>בְּ֭ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עָשְׁר </big></span><small><small><sup>[[H6239]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'a.she.r <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  | <span class="ashebrew"><big>ה֣וּא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hu' <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will fall  | <span class="ashebrew"><big>יִפֹּ֑ל </big></span><small><small><sup>[[H5307G]]</sup></small></small> &#8207;| yi.Pol <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like \<the> leaf  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֶ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>עָלֶ֗ה </big></span><small><small><sup>[[H5929]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khe. <small><sup>[[HRd]]</sup></small> 'a.Leh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֥ים </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.di.Kim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will bud  | <span class="ashebrew"><big>יִפְרָֽחוּ </big></span><small><small><sup>[[H6524A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yif.Ra.chu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] trusts  |**<big>&#8207;[[H0982\|בּוֹטֵ֣חַ]]&#8207; </big>**| bo.Te.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in wealth his  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H6239\|עָשְׁר]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.she.r<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will fall  |**<big>&#8207;[[H5307G\|יִפֹּ֑ל]]&#8207; </big>**| yi.Pol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like \<the> leaf  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H9004\|כֶ]]&#8207;&#8207;[[H5929\|עָלֶ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HRd]]</sup></small> 'a.Leh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֥ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will bud  |**<big>&#8207;[[H6524A\|יִפְרָֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yif.Ra.chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.27|<< Proverbs 11:27]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.29|Proverbs 11:29 >>]]</td></tr></table>
 
 

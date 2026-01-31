@@ -6,17 +6,17 @@ They had 736 horses, 245 mules,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.65|<< Ezra 2:65]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.67|Ezra 2:67 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| horses their  | <span class="ashebrew"><big>סוּסֵי </big></span><small><small><sup>[[H5483M]]</sup></small></small> <span class="ashebrew"><big>הֶ֕ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| su.sei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| seven  | <span class="ashebrew"><big>שְׁבַ֥ע </big></span><small><small><sup>[[H7651]]</sup></small></small> &#8207;| she.Va' <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| me.'ot <small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֣ים </big></span><small><small><sup>[[H7970]]</sup></small></small> &#8207;| she.lo.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and six  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שִׁשָּׁ֑ה </big></span><small><small><sup>[[H8337]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> shi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mules their  | <span class="ashebrew"><big>פִּרְדֵי </big></span><small><small><sup>[[H6505]]</sup></small></small> <span class="ashebrew"><big>הֶ֕ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| pir.dei. <small><sup>[[HNcmpc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two hundred  | <span class="ashebrew"><big>מָאתַ֖יִם </big></span><small><small><sup>[[H3967]]</sup></small></small> &#8207;| ma.Ta.yim <small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| forty  | <span class="ashebrew"><big>אַרְבָּעִ֥ים </big></span><small><small><sup>[[H0705]]</sup></small></small> &#8207;| 'ar.ba.'Im <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֲמִשָּֽׁה </big></span><small><small><sup>[[H2568]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> cha.mi.Shah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horses their  |**<big>&#8207;[[H5483M\|סוּסֵי]]&#8207;&#8207;[[H9028\|הֶ֕ם]]&#8207; </big>**| su.sei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  |**<big>&#8207;[[H7651\|שְׁבַ֥ע]]&#8207; </big>**| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֣ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שִׁשָּׁ֑ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mules their  |**<big>&#8207;[[H6505\|פִּרְדֵי]]&#8207;&#8207;[[H9028\|הֶ֕ם]]&#8207; </big>**| pir.dei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two hundred  |**<big>&#8207;[[H3967\|מָאתַ֖יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.65|<< Ezra 2:65]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.67|Ezra 2:67 >>]]</td></tr></table>
 
 

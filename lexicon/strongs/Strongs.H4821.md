@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִרְמָה‎</span></big> **Mirmâh** <small>*(meer-maw')*</small> ==**Mirmah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מִרְמָה‎</span><sup><small>[[H4820]]</small></sup></small>
+**<big><span class="ashebrew">‎מִרְמָה‎</span></big>** **Mirmâh** <small>*(meer-maw')*</small> ==**Mirmah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H4820|‎מִרְמָה‎]]</big>**</small>
 
 $\quad$ Mirma.
 - § Mirma = *"fraud"*

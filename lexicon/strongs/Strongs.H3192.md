@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יׇטְבָה‎</span></big> **Yoṭbâh** <small>*(yot-baw')*</small> ==**Jotbah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָטַב‎</span><sup><small>[[H3190]]</small></sup>; pleasantness</small>
+**<big><span class="ashebrew">‎יׇטְבָה‎</span></big>** **Yoṭbâh** <small>*(yot-baw')*</small> ==**Jotbah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3190|‎יָטַב‎]]</big>**; pleasantness</small>
 
 $\quad$ Jotbah.
 - § Jotbah = *"pleasing"*

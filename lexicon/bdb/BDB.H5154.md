@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H5174]]</small>
+<small>Aramaic form: **<big>[[H5174|נְחָשׁ]]</big>**</small>
  <span class="bdbLangHebrew">‎נְחוּשָׁה‎</span> and ([[Lev.26.19|Lev 26:19]]; [[Job.40.18|Job 40:18]]) <span class="bdbLangHebrew">‎נְחֻשָׁה‎</span> **noun feminine** ==copper, bronze== (only in poetry; compare I. <span class="bdbLangHebrew">‎נְחשֶׁת‎</span>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> always absolute; — 
 
 **1.** ***copper*** produced from ore by melting [[Job.28.2|Job 28:2]]. 

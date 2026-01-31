@@ -9,41 +9,41 @@ She weepeth sore in the night, and her tears [are] on her cheeks: among all her 
 She weeps aloud in the night, with tears upon her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies.<small><sub>**MT:**</sub></small>
 [[Lam.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.1|<< Lamentations 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.3|Lamentations 1:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΒΗΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΒΗΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| In weeping, | <big><span class="asgreek">κλαίουσα</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| she wept | <big><span class="asgreek">έκλαυσεν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] night, | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her tears | <big><span class="asgreek">δάκρυα</span></big> <sup><small><small>[[G1144]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her cheeks, | <big><span class="asgreek">σιαγόνων</span></big> <sup><small><small>[[G4600]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| existed | <big><span class="asgreek">υπήρχεν</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| comforting | <big><span class="asgreek">παρακαλών</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| loving | <big><span class="asgreek">αγαπώντων</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being fond of | <big><span class="asgreek">φιλούντες</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| discarded | <big><span class="asgreek">ηθέτησαν</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they became | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| enemies. | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| ΒΗΘ <sup><small>[acrostic title]</small></sup> |  |
+| In weeping, | **<big>[[G2799\|κλαίουσα]]</big>** |
+| she wept | **<big>[[G2799\|έκλαυσεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] night, | **<big>[[G3571\|νυκτί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her tears | **<big>[[G1144\|δάκρυα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[are\] upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| her cheeks, | **<big>[[G4600\|σιαγόνων]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| no one | **<big>[[G3756\|ουχ]]</big>** |
+| existed | **<big>[[G5225\|υπήρχεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| comforting | **<big>[[G3870\|παρακαλών]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| of the ones | **<big>[[G3588\|των]]</big>** |
+| loving | **<big>[[G0025\|αγαπώντων]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being fond of | **<big>[[G5368\|φιλούντες]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| discarded | **<big>[[G0114\|ηθέτησαν]]</big>** |
+|  | **<big>[[G1722\|εν]]</big>** |
+| her, | **<big>[[G1473\|αυτή]]</big>** |
+| they became | **<big>[[G1096\|εγένοντο]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| enemies. | **<big>[[G2190\|εχθρούς]]</big>** |
 [[Lam.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.1|<< Lamentations 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.3|Lamentations 1:3 >>]]</td></tr></table>
 
 

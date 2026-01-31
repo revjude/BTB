@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוּנִי‎</span></big> **Pûwnîy** <small>*(poo-nee')*</small> ==**Punite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+**<big><span class="ashebrew">‎פּוּנִי‎</span></big>** **Pûwnîy** <small>*(poo-nee')*</small> ==**Punite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
 <small>patronymically from an unused name meaning a turn</small>
 
 $\quad$ Punites.

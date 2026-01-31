@@ -1,6 +1,4 @@
-<span class="ashebrew">‎תֵּימְנִי‎</span> <small>***(te.me.ni)***</small> ==**Temeni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.4.6|1Ch.4.6]]
--  son of: Ashhur ([[H0806]]) and Naarah ([[H5292B]])
--  brother of: Ahuzzam ([[H0275]]), Hepher ([[H2660]]) and Haahashtari ([[H0326]])
--  half-brother of: Zereth ([[H6889]]), Izhar ([[H3328]]), Ethnan ([[H0869]]) and Koz ([[H6976]])
-
+-  son of: Ashhur (**<big>[[H0806|אַשְׁחוּר]]</big>**) and Naarah (**<big>[[H5292B|נַעֲרָה]]</big>**)
+-  brother of: Ahuzzam (**<big>[[H0275|אֲחֻזָּם]]</big>**), Hepher (**<big>[[H2660|חֵפֶר]]</big>**) and Haahashtari (**<big>[[H0326|אֲחַשְׁתָּרִי]]</big>**)
+-  half-brother of: Zereth (**<big>[[H6889|צֶרֶת]]</big>**), Izhar (**<big>[[H3328|יִצְחַר]]</big>**), Ethnan (**<big>[[H0869|אֶתְנַן]]</big>**) and Koz (**<big>[[H6976|קוֹץ]]</big>**)

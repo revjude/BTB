@@ -1,4 +1,3 @@
-<span class="ashebrew">‎בַּ֫עַל‎</span> <small>***(ba.al)***</small> ==**Baal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at [[1Chr.8.30|1Ch.8.30]]
--  son of: Abiel ([[H0022]]) and Maacah ([[H4601N]])
--  brother of: Kish ([[H7027]]), Ner ([[H5369]]), Abdon ([[H5658J]]), Zur ([[H6698I]]), Nadab ([[H5070J]]), Gedor ([[H1446I]]), Ahio ([[H0283I]]), Zecher ([[H2144]]) and Mikloth ([[H4732]])
+-  son of: Abiel (**<big>[[H0022|אֲבִיאֵל]]</big>**) and Maacah (**<big>[[H4601N|מַעֲכָה]]</big>**)
+-  brother of: Kish (**<big>[[H7027|קִישׁ]]</big>**), Ner (**<big>[[H5369|נֵר]]</big>**), Abdon (**<big>[[H5658J|עַבְדוֹן]]</big>**), Zur (**<big>[[H6698I|צוּר]]</big>**), Nadab (**<big>[[H5070J|נָדָב]]</big>**), Gedor (**<big>[[H1446I|גְדֹר]]</big>**), Ahio (**<big>[[H0283I|אַחְיוֹ]]</big>**), Zecher (**<big>[[H2144|זֶכֶר]]</big>**) and Mikloth (**<big>[[H4732|מִקְלוֹת]]</big>**)

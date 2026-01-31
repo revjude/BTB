@@ -6,17 +6,17 @@ When the Council members heard this, they were enraged, and they resolved to put
 <small><sub>**Literal:**</sub></small>
 <the> And having heard they felt cut up and they were desiring to execute them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.32|<< Acts 5:32]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.34|Acts 5:34 >>]]</td></tr></table>
 
-| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having heard [^1] |<big><span class="asgreek">ἀκούσαντες</span></big> <small><small><sup>[[G0191]]</sup></small></small> |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
-| they felt cut up |<big><span class="asgreek">διεπρίοντο</span></big> <small><small><sup>[[G1282]]</sup></small></small> |dieprionto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were desiring [^2] |<big><span class="asgreek">ἐβούλοντο</span></big> <small><small><sup>[[G1014]]</sup></small></small> |eboulonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| to execute |<big><span class="asgreek">ἀνελεῖν</span></big> <small><small><sup>[[G0337]]</sup></small></small> |anelein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them. |<big><span class="asgreek">αὐτούς.¶</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having heard [^1] |**<big>[[G0191\|ἀκούσαντες]]</big>**  |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| they felt cut up |**<big>[[G1282\|διεπρίοντο]]</big>**  |dieprionto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were desiring [^2] |**<big>[[G1014\|ἐβούλοντο]]</big>**  |eboulonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| to execute |**<big>[[G0337\|ἀνελεῖν]]</big>**  |anelein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them. |**<big>[[G0846\|αὐτούς.¶]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.32|<< Acts 5:32]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.34|Acts 5:34 >>]]</td></tr></table>
 
-[^1]: ==Byz==: hearing | <span class="asgreek">ἀκούοντες</span><small><sup>[[G0191]]</sup></small> | akouontes<small><sup>[[V-PAP-NPM]]</sup></small>
-[^2]: ==NA28+TR==: they were determining | <span class="asgreek">ἐβουλεύοντο</span><small><sup>[[G1011]]</sup></small> | ebouleuonto<small><sup>[[V-INI-3P]]</sup></small>
+[^1]: ==Byz==: hearing | **<big>[[G0191|ἀκούοντες]]</big>** | akouontes<small><sup>[[V-PAP-NPM]]</sup></small>
+[^2]: ==NA28+TR==: they were determining | **<big>[[G1011|ἐβουλεύοντο]]</big>** | ebouleuonto<small><sup>[[V-INI-3P]]</sup></small>

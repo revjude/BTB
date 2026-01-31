@@ -7,29 +7,29 @@ Were they ashamed when they had committed abomination? nay, they were not at all
 Are they ashamed of the abomination they have committed? No, they have no shame at all; they do not even know how to blush. So they will fall among the fallen; when I punish them, they will collapse, says the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.11|<< Jeremiah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.13|Jeremiah 8:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They have been shamed, | <big><span class="asgreek">ησχύνθησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| with shame | <big><span class="asgreek">αισχύνη</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
-| they were not ashamed, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ησχύνθησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to be ashamed | <big><span class="asgreek">αισχυνθήναι</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| they did not know. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οίδασι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| in the midst | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| of ones falling. | <big><span class="asgreek">πίπτοντες</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| of his visit | <big><span class="asgreek">επισκοπής</span></big> <sup><small><small>[[G1984]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall fall, | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| They have been shamed, | **<big>[[G0153\|ησχύνθησαν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| an abomination | **<big>[[G0946\|βδέλυγμα]]</big>** |
+| they did | **<big>[[G4160\|εποίησαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| with shame | **<big>[[G0152\|αισχύνη]]</big>** |
+| they were not ashamed, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G0153\|ησχύνθησαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to be ashamed | **<big>[[G0153\|αισχυνθήναι]]</big>** |
+| they did not know. | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|οίδασι]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G1473\|τούτο]]</big>** |
+| they shall fall | **<big>[[G4098\|πεσούνται]]</big>** |
+| in the midst | **<big>[[G6271\|αναμέσον]]</big>** |
+| of ones falling. | **<big>[[G4098\|πίπτοντες]]</big>** |
+| In | **<big>[[G1722\|εν]]</big>** |
+| \[the\] time | **<big>[[G2540\|καιρώ]]</big>** |
+| of his visit | **<big>[[G1984\|επισκοπής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they shall fall, | **<big>[[G4098\|πεσούνται]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
 [[Jer.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.11|<< Jeremiah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.13|Jeremiah 8:13 >>]]</td></tr></table>
 
 

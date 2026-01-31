@@ -7,19 +7,19 @@ Deliver thyself as a roe from the hand [of the hunter], and as a bird from the h
 Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.<small><sub>**MT:**</sub></small>
 [[Prov.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.4|<< Proverbs 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.6|Proverbs 6:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| so that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| you should escape | <big><span class="asgreek">σώζη</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a doe | <big><span class="asgreek">δορκάς</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| nooses, | <big><span class="asgreek">βρόχων</span></big> <sup><small><small>[[G1029]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a fowl | <big><span class="asgreek">όρνεον</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a snare. | <big><span class="asgreek">παγίδος</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| so that | **<big>[[G2443\|ίνα]]</big>** |
+| you should escape | **<big>[[G4982\|σώζη]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a doe | **<big>[[G1393\|δορκάς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| nooses, | **<big>[[G1029\|βρόχων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a fowl | **<big>[[G3732\|όρνεον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| a snare. | **<big>[[G3803\|παγίδος]]</big>** |
 [[Prov.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.4|<< Proverbs 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.6|Proverbs 6:6 >>]]</td></tr></table>
 
 

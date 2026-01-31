@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עוּד‎</span></big> **ʻûwd** <small>*(ood)*</small> ==**to uphold**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עוּד‎</span></big>** **ʻûwd** <small>*(ood)*</small> ==**to uphold**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ admonish, charge, earnestly, lift up, protest, call (take) to record, relieve, rob, solemnly, stand upright, testify, give warning, (bear, call to, give, take to) witness.
@@ -18,4 +18,4 @@ $\quad$ $\quad$ **2b2)** to cause to testify, take or call as witness, invoke
 $\quad$ $\quad$ **2b3)** to protest, affirm solemnly, warn, exhort or enjoin solemnly, admonish, charge
 $\quad$ **2c)** (Hophal) to protest, give warning
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναλαμβάνω</span><sup><small>[[G0353]]</small></sup> · <span class="asgreek">ἀνορθόω</span><sup><small>[[G0461]]</small></sup> · <span class="asgreek">διαμαρτύρομαι</span><sup><small>[[G1263]]</small></sup> · <span class="asgreek">καταμαρτυρέω</span><sup><small>[[G2649]]</small></sup> · <span class="asgreek">μαρτυρέω</span><sup><small>[[G3140]]</small></sup>
+<small>See Greek: </small>**<big>[[G0353|ἀναλαμβάνω]]</big>** · **<big>[[G0461|ἀνορθόω]]</big>** · **<big>[[G1263|διαμαρτύρομαι]]</big>** · **<big>[[G2649|καταμαρτυρέω]]</big>** · **<big>[[G3140|μαρτυρέω]]</big>**

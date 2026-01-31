@@ -7,22 +7,22 @@ And with thee will I break in pieces the horse and his rider; and with thee will
 With you I shatter the horse and rider; with you I shatter the chariot and driver.<small><sub>**MT:**</sub></small>
 [[Jer.51.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.20|<< Jeremiah 51:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.22|Jeremiah 51:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασκορπιώ</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] horse | <big><span class="asgreek">ίππον</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| his rider. | <big><span class="asgreek">επιβάτην</span></big> <sup><small><small>[[G7388]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασκορπιώ</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| their riders. | <big><span class="asgreek">αναβάτας</span></big> <sup><small><small>[[G6275]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1287\|διασκορπιώ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] horse | **<big>[[G2462\|ίππον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| his rider. | **<big>[[G7388\|επιβάτην]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1287\|διασκορπιώ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| chariots | **<big>[[G0716\|άρματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| their riders. | **<big>[[G6275\|αναβάτας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.51.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.20|<< Jeremiah 51:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.22|Jeremiah 51:22 >>]]</td></tr></table>
 
 

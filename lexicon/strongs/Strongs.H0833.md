@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָשַׁר‎</span></big> **ʼâshar** <small>*(aw-shar')*</small> ==**to bless**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">אָשֵׁר</span> **ʼâshêr** <small>*(aw-share')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎אָשַׁר‎</span></big>** **ʼâshar** <small>*(aw-shar')*</small> ==**to bless**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">אָשֵׁר</span></big>** **ʼâshêr** <small>*(aw-share')*</small>; a primitive root</small>
 
 $\quad$ (call, be) bless(-ed, happy), go, guide, lead, relieve.
 - ***to be straight*** (used in the widest sense, especially to be level, right, happy)
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Pual)
 $\quad$ $\quad$ **1c1)** to be advanced, be led on
 $\quad$ $\quad$ **1c2)** to be made happy, be blessed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσφαλής</span><sup><small>[[G0804]]</small></sup> · <span class="asgreek">ζηλόω</span><sup><small>[[G2206]]</small></sup> · <span class="asgreek">κατευθύνω</span><sup><small>[[G2720]]</small></sup> · <span class="asgreek">μακαρίζω</span><sup><small>[[G3106]]</small></sup> · <span class="asgreek">πλανάω</span><sup><small>[[G4105]]</small></sup>
+<small>See Greek: </small>**<big>[[G0804|ἀσφαλής]]</big>** · **<big>[[G2206|ζηλόω]]</big>** · **<big>[[G2720|κατευθύνω]]</big>** · **<big>[[G3106|μακαρίζω]]</big>** · **<big>[[G4105|πλανάω]]</big>**

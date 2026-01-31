@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵת‎</span></big> **ʻêth** <small>*(ayth)*</small> ==**time**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
-<small>from <span class="ashebrew">‎עַד‎</span><sup><small>[[H5703]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵת‎</span></big>** **ʻêth** <small>*(ayth)*</small> ==**time**==  <sup><small>[[TEHMC#H:N|H:N]]</small></sup> 
+<small>from **<big>[[H5703|‎עַד‎]]</big>**</small>
 
 $\quad$ [phrase] after, (al-) ways, [idiom] certain, [phrase] continually, [phrase] evening, long, (due) season, so (long) as, (even-, evening-, noon-) tide, (meal-), what) time, when.
 - ***time***, especially (adverb with preposition) ***now***, ***when***, etc.
@@ -10,4 +10,4 @@ $\quad$ **1b)** time (usual)
 $\quad$ **1c)** experiences, fortunes
 $\quad$ **1d)** occurrence, occasion
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄροτρον</span><sup><small>[[G0723]]</small></sup> · <span class="asgreek">ἐκεῖνος</span><sup><small>[[G1565]]</small></sup> · <span class="asgreek">ἐκτός</span><sup><small>[[G1622]]</small></sup> · <span class="asgreek">ἐπάνω</span><sup><small>[[G1883]]</small></sup> · <span class="asgreek">εὐκαιρία</span><sup><small>[[G2120]]</small></sup> · <span class="asgreek">εὔκαιρος</span><sup><small>[[G2121]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup> · <span class="asgreek">ἡμέρα</span><sup><small>[[G2250]]</small></sup> · <span class="asgreek">καιρός</span><sup><small>[[G2540]]</small></sup> · <span class="asgreek">κάλαμος</span><sup><small>[[G2563]]</small></sup> · <span class="asgreek">μεσημβρία</span><sup><small>[[G3314]]</small></sup> · <span class="asgreek">μετά</span><sup><small>[[G3326]]</small></sup> · <span class="asgreek">μετέχω</span><sup><small>[[G3348]]</small></sup> · <span class="asgreek">πέρας</span><sup><small>[[G4009]]</small></sup> · <span class="asgreek">χρόνος</span><sup><small>[[G5550]]</small></sup> · <span class="asgreek">ὥρα</span><sup><small>[[G5610]]</small></sup>
+<small>See Greek: </small>**<big>[[G0723|ἄροτρον]]</big>** · **<big>[[G1565|ἐκεῖνος]]</big>** · **<big>[[G1622|ἐκτός]]</big>** · **<big>[[G1883|ἐπάνω]]</big>** · **<big>[[G2120|εὐκαιρία]]</big>** · **<big>[[G2121|εὔκαιρος]]</big>** · **<big>[[G2192|ἔχω]]</big>** · **<big>[[G2250|ἡμέρα]]</big>** · **<big>[[G2540|καιρός]]</big>** · **<big>[[G2563|κάλαμος]]</big>** · **<big>[[G3314|μεσημβρία]]</big>** · **<big>[[G3326|μετά]]</big>** · **<big>[[G3348|μετέχω]]</big>** · **<big>[[G4009|πέρας]]</big>** · **<big>[[G5550|χρόνος]]</big>** · **<big>[[G5610|ὥρα]]</big>**

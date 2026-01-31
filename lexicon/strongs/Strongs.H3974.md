@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָאוֹר‎</span></big> **mâʼôwr** <small>*(maw-ore')*</small> ==**light**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מָאֹר</span> **mâʼôr** <small>*(maw-ore')*</small>; also (in plural) feminine <span class="ashebrew">מְאוֹרָה</span> **mᵉʼôwrâh** <small>*(meh-o-raw')*</small>; or <span class="ashebrew">מְאֹרָה</span> **mᵉʼôrâh** <small>*(meh-o-raw')*</small>; from <span class="ashebrew">‎אוֹר‎</span><sup><small>[[H0215]]</small></sup></small>
+**<big><span class="ashebrew">‎מָאוֹר‎</span></big>** **mâʼôwr** <small>*(maw-ore')*</small> ==**light**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מָאֹר</span></big>** **mâʼôr** <small>*(maw-ore')*</small>; also (in plural) feminine **<big><span class="ashebrew">מְאוֹרָה</span></big>** **mᵉʼôwrâh** <small>*(meh-o-raw')*</small>; or **<big><span class="ashebrew">מְאֹרָה</span></big>** **mᵉʼôrâh** <small>*(meh-o-raw')*</small>; from **<big>[[H0215|‎אוֹר‎]]</big>**</small>
 
 $\quad$ bright, light.
 - properly, ***a luminous body*** or ***luminary***, i.e. (abstractly) ***light*** (as an element)
@@ -8,4 +8,4 @@ $\quad$ bright, light.
 
 **1)** light, luminary
 
-<sub><small>See Greek: </small></sub><span class="asgreek">θεωρέω</span><sup><small>[[G2334]]</small></sup> · <span class="asgreek">μέγας</span><sup><small>[[G3173]]</small></sup> · <span class="asgreek">φωστήρ</span><sup><small>[[G5458]]</small></sup> · <span class="asgreek">φωτισμός</span><sup><small>[[G5462]]</small></sup>
+<small>See Greek: </small>**<big>[[G2334|θεωρέω]]</big>** · **<big>[[G3173|μέγας]]</big>** · **<big>[[G5458|φωστήρ]]</big>** · **<big>[[G5462|φωτισμός]]</big>**

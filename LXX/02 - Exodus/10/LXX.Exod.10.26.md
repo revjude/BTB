@@ -7,38 +7,38 @@ Our cattle also shall go with us; there shall not an hoof be left behind; for th
 Even our livestock must go with us; not a hoof will be left behind, for we will need some of them to worship the LORD our God, and we will not know how we are to worship the LORD until we arrive.”<small><sub>**MT:**</sub></small>
 [[Exod.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.25|<< Exodus 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.27|Exodus 10:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us, | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| leave behind | <big><span class="asgreek">υπολειψόμεθα</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| a hoof. | <big><span class="asgreek">οπλήν</span></big> <sup><small><small>[[G8535]]</small></small></sup> |
-| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| we shall take | <big><span class="asgreek">ληψόμεθα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to serve | <big><span class="asgreek">λατρεύσαι</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| know not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">οίδαμεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| how | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| we shall serve | <big><span class="asgreek">λατρεύσομεν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| arriving | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| of us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| our cattle | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| shall go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us, | **<big>[[G1473\|ημών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we shall not | **<big>[[G3756\|ουχ]]</big>** |
+| leave behind | **<big>[[G5275\|υπολειψόμεθα]]</big>** |
+| a hoof. | **<big>[[G8535\|οπλήν]]</big>** |
+| of | **<big>[[G0575\|απ΄]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| we shall take | **<big>[[G2983\|ληψόμεθα]]</big>** |
+| to serve | **<big>[[G3000\|λατρεύσαι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| our God. | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| But we | **<big>[[G1473\|ημείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| know not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1492\|οίδαμεν]]</big>** |
+| how | **<big>[[G5100\|τι]]</big>** |
+| we shall serve | **<big>[[G3000\|λατρεύσομεν]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| our God | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| arriving | **<big>[[G2064\|ελθείν]]</big>** |
+| of us | **<big>[[G1473\|ημάς]]</big>** |
+| there. | **<big>[[G1563\|εκεί]]</big>** |
 [[Exod.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.25|<< Exodus 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.27|Exodus 10:27 >>]]</td></tr></table>
 
 

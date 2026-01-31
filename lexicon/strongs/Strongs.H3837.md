@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לָבָן‎</span></big> **Lâbân** <small>*(law-bawn')*</small> ==**Laban**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎לָבָן‎</span><sup><small>[[H3836]]</small></sup></small>
+**<big><span class="ashebrew">‎לָבָן‎</span></big>** **Lâbân** <small>*(law-bawn')*</small> ==**Laban**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H3836|‎לָבָן‎]]</big>**</small>
 
 $\quad$ Laban.
 - § Laban = *"white"*

@@ -4,11 +4,11 @@ Woman living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Abigail</span>, David's sister, was the mother of Amasa, who became the commander of Absalom's army.
 - A woman living at the time of United Monarchy, first mentioned at [[2Sam.17.25|2Sa.17.25]]; 
-- referred to as Abigail<[[H0026H]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>\), or Abigal \(KJV= Abigail\) <[[H0026H]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>ל</span>\); 
--  daughter of Nahash<[[H5176I]]> and Nahash<[[H5176I]]>\(?\); 
-- a sister of David<[[H1732]]>\(?\), Eliab<[[H0446I]]>\(?\), Abinadab<[[H0041I]]>\(?\), Shimeah<[[H8093]]>\(?\), Nethanel<[[H5417H]]>\(?\), Raddai<[[H7288]]>\(?\), Ozem<[[H0684G]]>\(?\), Zeruiah<[[H6870G]]>\(?\), and Elihu<[[H0453J]]>\(?\); 
-- wife of Jether<[[H3500H]]>; 
--  mother of Amasa<[[H6021G]]>.
+- referred to as Abigail **<big>[[H0026|אֲבִיגַיִל]]</big>**, or Abigal \(KJV= Abigail\)  **<big>[[H0026|אֲבִיגַיִל]]</big>**; 
+-  daughter of Nahash **<big>[[H5176|נָחָשׁ]]</big>** and Nahash **<big>[[H5176|נָחָשׁ]]</big>**; 
+- a sister of David **<big>[[H1732|דָּוִד]]</big>**, Eliab **<big>[[H0446|אֱלִיאָב]]</big>**, Abinadab **<big>[[H0041|אֲבִינָדָב]]</big>**, Shimeah **<big>[[H8093|שִׁמְעָה]]</big>**, Nethanel **<big>[[H5417|נְתַנְאֵל]]</big>**, Raddai **<big>[[H7288|רַדַּי]]</big>**, Ozem **<big>[[H0684|אֹצֶם]]</big>**, Zeruiah **<big>[[H6870|צְרוּיָה]]</big>**, and Elihu **<big>[[H0453|אֱלִיהוּ]]</big>**; 
+- wife of Jether **<big>[[H3500|יֶתֶר]]</big>**; 
+-  mother of Amasa **<big>[[H6021|עֲמָשָׂא]]</big>**.
 
 Abigail was the daughter of Jesse and the sister of King David, as mentioned in [[1Chr.2.16|1 Chronicles 2:16]]-17. She married a man named Jether, who was an Ishmaelite \([[2Sam.17.25|2 Samuel 17:25]]\). Abigail and Jether had a son named Amasa, who played a significant role during the rebellion of David's son Absalom. 
 
@@ -18,9 +18,9 @@ However, when David sent Amasa to gather the men of Judah, he took longer than e
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abigail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>](H0026H) <small>*Hebrew*</small> | 2x | [[1Ch.2.16] & [1Ch.2.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigail\*\|reference=1Ch.2.16;1Ch.2.17) |
-| Abigal (KJV= Abigail) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>ל</span>](H0026H) <small>*Hebrew*</small> | 1x | [2Sa.17.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigal\*\|reference=2Sa.17.25) |
-All Strong's for **Abigail**: \[[[H0026H]]\]
+| Abigail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>](H0026H) | 2x | [[1Ch.2.16] & [1Ch.2.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigail\*\|reference=1Ch.2.16;1Ch.2.17) |
+| Abigal (KJV= Abigail) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>ל</span>](H0026H) | 1x | [2Sa.17.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigal\*\|reference=2Sa.17.25) |
+All entries for **Abigail**:  **<big>[[H0026|אֲבִיגַיִל]]</big>**
 #### Related Profiles:
 - **[Jesse](H3448)** (father)
 - **[Nahash](H5176I)** (mother)

@@ -6,15 +6,15 @@ He shatters the mighty without inquiry and sets up others in their place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.23|<< Job 34:23]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.25|Job 34:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| he breaks  | <span class="ashebrew"><big>יָרֹ֣עַ </big></span><small><small><sup>[[H7489B]]</sup></small></small> &#8207;| ya.Ro.a' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty [ones]  | <span class="ashebrew"><big>כַּבִּירִ֣ים </big></span><small><small><sup>[[H3524]]</sup></small></small> &#8207;| ka.bi.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| inquiry  | <span class="ashebrew"><big>חֵ֑קֶר </big></span><small><small><sup>[[H2714]]</sup></small></small> &#8207;| Che.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he appointed  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּעֲמֵ֖ד </big></span><small><small><sup>[[H5975G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.'a.Med <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| others  | <span class="ashebrew"><big>אֲחֵרִ֣ים </big></span><small><small><sup>[[H0312]]</sup></small></small> &#8207;| 'a.che.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of them  | <span class="ashebrew"><big>תַּחְתָּֽ </big></span><small><small><sup>[[H8478H]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9038]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tach.Ta <small><sup>[[HNcmsc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he breaks  |**<big>&#8207;[[H7489B\|יָרֹ֣עַ]]&#8207; </big>**| ya.Ro.a'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [ones]  |**<big>&#8207;[[H3524\|כַּבִּירִ֣ים]]&#8207; </big>**| ka.bi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inquiry  |**<big>&#8207;[[H2714\|חֵ֑קֶר]]&#8207; </big>**| Che.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּעֲמֵ֖ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| others  |**<big>&#8207;[[H0312\|אֲחֵרִ֣ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of them  |**<big>&#8207;[[H8478H\|תַּחְתָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.23|<< Job 34:23]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.25|Job 34:25 >>]]</td></tr></table>
 
 

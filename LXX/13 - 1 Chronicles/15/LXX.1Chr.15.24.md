@@ -7,41 +7,41 @@ And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Be
 Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer—the priests—were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also to be guardians of the ark.<small><sub>**MT:**</sub></small>
 [[1Chr.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shebaniah, | <big><span class="asgreek">Σαβανέα</span></big> <sup><small><small>[[H7645]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoshaphat, | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nethaneel, | <big><span class="asgreek">Ναθαναήλ</span></big> <sup><small><small>[[H5417]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Amasai, | <big><span class="asgreek">Αμασαϊ</span></big> <sup><small><small>[[H6022]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zechariah, | <big><span class="asgreek">Ζαχαρίας</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Benaiah, | <big><span class="asgreek">Βαναίας</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eliezer | <big><span class="asgreek">Ελιέζερ</span></big> <sup><small><small>[[G1663]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| \[were\] trumpeting | <big><span class="asgreek">σαλπίζοντες</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| trumpets | <big><span class="asgreek">σάλπιγξιν</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Obed | <big><span class="asgreek">Ωβήδ</span></big> <sup><small><small>[[G5601]]</small></small></sup> |
-| Edom | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehiah | <big><span class="asgreek">Ιεχία</span></big> <sup><small><small>[[H3174]]</small></small></sup> |
-| \[were\] gatekeepers | <big><span class="asgreek">πυλωροί</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ark. | <big><span class="asgreek">κιβωτού</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Shebaniah, | **<big>[[H7645\|Σαβανέα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehoshaphat, | **<big>[[G2498\|Ιωσαφάτ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nethaneel, | **<big>[[H5417\|Ναθαναήλ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Amasai, | **<big>[[H6022\|Αμασαϊ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zechariah, | **<big>[[G2197\|Ζαχαρίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Benaiah, | **<big>[[H1141\|Βαναίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eliezer | **<big>[[G1663\|Ελιέζερ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests, | **<big>[[G2409\|ιερείς]]</big>** |
+| \[were\] trumpeting | **<big>[[G4537\|σαλπίζοντες]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| trumpets | **<big>[[G4536\|σάλπιγξιν]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ark | **<big>[[G2787\|κιβωτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God. | **<big>[[G2316\|θεού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Obed | **<big>[[G5601\|Ωβήδ]]</big>** |
+| Edom | **<big>[[H0123\|Εδώμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehiah | **<big>[[H3174\|Ιεχία]]</big>** |
+| \[were\] gatekeepers | **<big>[[G8988\|πυλωροί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ark. | **<big>[[G2787\|κιβωτού]]</big>** |
 [[1Chr.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
 

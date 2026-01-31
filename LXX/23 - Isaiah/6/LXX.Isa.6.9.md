@@ -11,26 +11,26 @@ And He replied: “Go and tell this people, ‘Be ever hearing, but never unders
 > $\quad$ referenced by: [[Matt.13.14|Matt 13:14-15]] ☩ [[Mark.4.12|Mark 4:12]] ☩ [[Luke.8.10|Luke 8:10]] ☩ [[John.12.40|John 12:40]] ☩ [[Acts.28.26|Acts 28:26-27]] ☩ [[Rom.11.8|Rom 11:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Go! | <big><span class="asgreek">πορεύθητι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| say | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to this people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| Hearing, | <big><span class="asgreek">ακοή</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
-| you shall hear, | <big><span class="asgreek">ακούσετε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you perceive; | <big><span class="asgreek">συνείτε</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seeing | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| you shall see, | <big><span class="asgreek">βλέψετε</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall you know. | <big><span class="asgreek">ίδητε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Go! | **<big>[[G4198\|πορεύθητι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| say | **<big>[[G2036\|είπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to this people, | **<big>[[G2992\|λαώ]]</big>** **<big>[[G3778\|τούτω]]</big>** |
+| Hearing, | **<big>[[G0189\|ακοή]]</big>** |
+| you shall hear, | **<big>[[G0191\|ακούσετε]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you perceive; | **<big>[[G4920\|συνείτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seeing | **<big>[[G0991\|βλέποντες]]</big>** |
+| you shall see, | **<big>[[G0991\|βλέψετε]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall you know. | **<big>[[G1492\|ίδητε]]</big>** |
 [[Isa.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.8|<< Isaiah 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.10|Isaiah 6:10 >>]]</td></tr></table>
 
 

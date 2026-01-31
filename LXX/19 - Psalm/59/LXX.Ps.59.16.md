@@ -7,25 +7,25 @@ But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning
 But I will sing of Your strength and proclaim Your loving devotion in the morning. For You are my fortress, my refuge in times of trouble.<small><sub>**MT:**</sub></small>
 [[Ps.59.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.15|<< Psalm 59:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.17|Psalm 59:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall sing | <big><span class="asgreek">άσομαι</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your power, | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall exult | <big><span class="asgreek">αγαλλιάσομαι</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your mercy; | <big><span class="asgreek">έλεός</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you became | <big><span class="asgreek">εγενήθης</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| my shielder | <big><span class="asgreek">αντιλήπτωρ</span></big> <sup><small><small>[[G6367]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| my refuge | <big><span class="asgreek">καταφυγή</span></big> <sup><small><small>[[G7950]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of my affliction. | <big><span class="asgreek">θλίψεώς</span></big> <sup><small><small>[[G2347]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But I | **<big>[[G1473\|εγώ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall sing | **<big>[[G0103\|άσομαι]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your power, | **<big>[[G1411\|δυνάμει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall exult | **<big>[[G0021\|αγαλλιάσομαι]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of your mercy; | **<big>[[G1656\|έλεός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| you became | **<big>[[G1096\|εγενήθης]]</big>** |
+| my shielder | **<big>[[G6367\|αντιλήπτωρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| my refuge | **<big>[[G7950\|καταφυγή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of my affliction. | **<big>[[G2347\|θλίψεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.59.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.15|<< Psalm 59:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.17|Psalm 59:17 >>]]</td></tr></table>
 
 

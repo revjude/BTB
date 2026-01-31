@@ -1,4 +1,4 @@
-<small>Also see: [[H7216]]</small>
+<small>Also see: **<big>[[H7216|רָאמוֹת]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎רָמָה‎</span> **proper name, of a location** usually with article <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָר‎</span> ==the Height, Rama==, <span class="bdbLangHebrew">‎הָרָמָה‎</span> (except [[Jer.31.15|Jer 31:15]]; [[Neh.11.33|Neh 11:33]]): 
 
@@ -18,7 +18,7 @@
 
 
 
-<small>Also see: [[H7436]]</small>
+<small>Also see: **<big>[[H7436|רָמָתַיִם צוֹפִים]]</big>**</small>
 
  <span class="bdbLangHebrew">‎רָמָתַיִם‎</span> **proper name, of a location** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָר‎</span> [[1Sam.1.1|1Sam 1:1]], see II.<span class="bdbLangHebrew">‎רָמָה‎</span> 
 

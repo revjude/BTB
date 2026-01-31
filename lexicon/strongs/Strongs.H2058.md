@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎וׇפְסִי‎</span></big> **Vophçîy** <small>*(vof-see')*</small> ==**Vophsi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎יָסַף‎</span><sup><small>[[H3254]]</small></sup>; additional</small>
+**<big><span class="ashebrew">‎וׇפְסִי‎</span></big>** **Vophçîy** <small>*(vof-see')*</small> ==**Vophsi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H3254|‎יָסַף‎]]</big>**; additional</small>
 
 $\quad$ Vophsi.
 - § Vophsi = *"rich"*

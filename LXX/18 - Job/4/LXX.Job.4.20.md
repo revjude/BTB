@@ -7,22 +7,22 @@ They are destroyed from morning to evening: they perish for ever without any reg
 They are smashed to pieces from dawn to dusk; unnoticed, they perish forever.<small><sub>**MT:**</sub></small>
 [[Job.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.19|<< Job 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.21|Job 4:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| morning | <big><span class="asgreek">πρωϊθεν</span></big> <sup><small><small>[[G8961]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| no longer | <big><span class="asgreek">ουκ έτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| they are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[their\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| being able | <big><span class="asgreek">δύνασθαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| themselves | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to help themselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> <big><span class="asgreek">βοηθήσαι</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| they | <big><span class="asgreek">απώλοντο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| morning | **<big>[[G8961\|πρωϊθεν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| evening | **<big>[[G2073\|εσπέρας]]</big>** |
+| no longer | **<big>[[G3765\|ουκ έτι]]</big>** |
+| they are | **<big>[[G1510\|εισί]]</big>** |
+| by | **<big>[[G3844\|παρά]]</big>** |
+| \[their\]\<obj.> | **<big>[[G3588\|το]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| being able | **<big>[[G1410\|δύνασθαι]]</big>** |
+| themselves | **<big>[[G1473\|αυτούς]]</big>** |
+| to help themselves | **<big>[[G1438\|εαυτοίς]]</big>** **<big>[[G0997\|βοηθήσαι]]</big>** |
+| they | **<big>[[G0622\|απώλοντο]]</big>** |
 [[Job.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.19|<< Job 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.21|Job 4:21 >>]]</td></tr></table>
 
 

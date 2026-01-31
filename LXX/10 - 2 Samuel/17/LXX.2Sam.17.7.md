@@ -7,21 +7,21 @@ And Hushai said unto Absalom, The counsel that Ahithophel hath given [is] not go
 Hushai replied, “This time the advice of Ahithophel is not sound.”<small><sub>**MT:**</sub></small>
 [[2Sam.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.6|<< 2 Samuel 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.8|2 Samuel 17:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hushai said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Χουσί</span></big> <sup><small><small>[[H2365]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Absalom, | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
-| \[It is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| good, | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Ahithophel counseled | <big><span class="asgreek">εβουλεύσατο</span></big> <sup><small><small>[[G1011]]</small></small></sup> <big><span class="asgreek">Αχιτόφελ</span></big> <sup><small><small>[[H0302]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this one time. | <big><span class="asgreek">άπαξ</span></big> <sup><small><small>[[G0530]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Hushai said | **<big>[[G2036\|είπε]]</big>** **<big>[[H2365\|Χουσί]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Absalom, | **<big>[[H0053\|Αβεσαλώμ]]</big>** |
+| \[It is\] not | **<big>[[G3756\|ουκ]]</big>** |
+| good, | **<big>[[G0018\|αγαθή]]</big>** |
+| this | **<big>[[G3778\|αύτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| counsel | **<big>[[G1012\|βουλή]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| Ahithophel counseled | **<big>[[G1011\|εβουλεύσατο]]</big>** **<big>[[H0302\|Αχιτόφελ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this one time. | **<big>[[G0530\|άπαξ]]</big>** **<big>[[G3778\|τούτο]]</big>** |
 [[2Sam.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.6|<< 2 Samuel 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.8|2 Samuel 17:8 >>]]</td></tr></table>
 
 

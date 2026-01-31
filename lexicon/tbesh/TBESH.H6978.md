@@ -1,3 +1,1 @@
-<span class="ashebrew">‎קַוְקָו‎</span> <small>***(qav-qav)***</small> ==**might**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-form of: <small>[[H6957A]]</small> 
-
+<small>form of:</small> <small>**<big>[[H6957A|קַו]]</big>**</small>

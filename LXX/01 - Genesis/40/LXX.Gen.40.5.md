@@ -7,35 +7,35 @@ And they dreamed a dream both of them, each man his dream in one night, each man
 both of these men—the Egyptian king’s cupbearer and baker, who were being held in the prison—had a dream on the same night, and each dream had its own meaning.<small><sub>**MT:**</sub></small>
 [[Gen.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.4|<< Genesis 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.6|Genesis 40:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| a dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| night. | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| And the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| vision | <big><span class="asgreek">οράσις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dream | <big><span class="asgreek">ενυπνίου</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief wine taster | <big><span class="asgreek">αρχιοινοχόου</span></big> <sup><small><small>[[G6556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] chief baker, | <big><span class="asgreek">αρχισιτοποιού</span></big> <sup><small><small>[[G6558]]</small></small></sup> |
-| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| were \[in service\] | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλει</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| the \[ones\]\<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">όντες</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| jail, | <big><span class="asgreek">δεσμωτηρίω</span></big> <sup><small><small>[[G1201]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| this. | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| saw | **<big>[[G1492\|είδον]]</big>** |
+| both | **<big>[[G0297\|αμφότεροι]]</big>** |
+| a dream | **<big>[[G1798\|ενύπνιον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| night. | **<big>[[G3571\|νυκτί]]</big>** |
+| And the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| vision | **<big>[[G3706\|οράσις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| dream | **<big>[[G1798\|ενυπνίου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| chief wine taster | **<big>[[G6556\|αρχιοινοχόου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] chief baker, | **<big>[[G6558\|αρχισιτοποιού]]</big>** |
+| the ones who | **<big>[[G3739\|οι]]</big>** |
+| were \[in service\] | **<big>[[G1510\|ήσαν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλει]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| the \[ones\]\<obj.> | **<big>[[G3588\|οι]]</big>** |
+| being | **<big>[[G1510\|όντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| jail, | **<big>[[G1201\|δεσμωτηρίω]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| this. | **<big>[[G3778\|αύτη]]</big>** |
 [[Gen.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.4|<< Genesis 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.6|Genesis 40:6 >>]]</td></tr></table>
 
 

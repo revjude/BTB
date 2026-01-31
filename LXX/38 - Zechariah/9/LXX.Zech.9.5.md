@@ -7,32 +7,32 @@ Ashkelon shall see [it], and fear; Gaza also [shall see it], and be very sorrowf
 Ashkelon will see and fear; Gaza will writhe in agony, as will Ekron, for her hope will wither. There will cease to be a king in Gaza, and Ashkelon will be uninhabited.<small><sub>**MT:**</sub></small>
 [[Zech.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.4|<< Zechariah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.6|Zechariah 9:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ashkelon shall see, | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> <big><span class="asgreek">Ασκαλών</span></big> <sup><small><small>[[H0831]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fear; | <big><span class="asgreek">φοβηθήσεται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gaza, | <big><span class="asgreek">Γάζα</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she shall grieve | <big><span class="asgreek">οδυνηθήσεται</span></big> <sup><small><small>[[G3600]]</small></small></sup> |
-| exceedingly; | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ekron, | <big><span class="asgreek">Ακκαρών</span></big> <sup><small><small>[[H6138]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| she shall be ashamed | <big><span class="asgreek">ησχύνθη</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her transgression; | <big><span class="asgreek">παραπτώματι</span></big> <sup><small><small>[[G3900]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall perish | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Gaza; | <big><span class="asgreek">Γάζης</span></big> <sup><small><small>[[G1048]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ashkelon | <big><span class="asgreek">Ασκαλών</span></big> <sup><small><small>[[H0831]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should be inhabited. | <big><span class="asgreek">κατοικηθή</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| Ashkelon shall see, | **<big>[[G3708\|όψεται]]</big>** **<big>[[H0831\|Ασκαλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fear; | **<big>[[G5399\|φοβηθήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Gaza, | **<big>[[G1048\|Γάζα]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| she shall grieve | **<big>[[G3600\|οδυνηθήσεται]]</big>** |
+| exceedingly; | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ekron, | **<big>[[H6138\|Ακκαρών]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| she shall be ashamed | **<big>[[G0153\|ησχύνθη]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her transgression; | **<big>[[G3900\|παραπτώματι]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall perish | **<big>[[G0622\|απολείται]]</big>** |
+| \[the\] king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| Gaza; | **<big>[[G1048\|Γάζης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ashkelon | **<big>[[H0831\|Ασκαλών]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should be inhabited. | **<big>[[G2730\|κατοικηθή]]</big>** |
 [[Zech.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.4|<< Zechariah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.6|Zechariah 9:6 >>]]</td></tr></table>
 
 

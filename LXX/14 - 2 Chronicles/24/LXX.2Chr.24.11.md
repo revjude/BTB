@@ -7,66 +7,66 @@ Now it came to pass, that at what time the chest was brought unto the king’s o
 Whenever the chest was brought by the Levites to the king’s overseers and they saw that there was a large amount of money, the royal scribe and the officer of the high priest would come and empty the chest and carry it back to its place. They did this daily and gathered the money in abundance.<small><sub>**MT:**</sub></small>
 [[2Chr.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.10|<< 2 Chronicles 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.12|2 Chronicles 24:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to bring in | <big><span class="asgreek">ενεγκείν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| container | <big><span class="asgreek">γλωσσόκομον</span></big> <sup><small><small>[[G1101]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| superintendents | <big><span class="asgreek">προστάτας</span></big> <sup><small><small>[[G8945]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
-| they beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| was superabundant | <big><span class="asgreek">επλεόνασε</span></big> <sup><small><small>[[G4121]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scribe | <big><span class="asgreek">γραμματεύς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| superintendent | <big><span class="asgreek">προστάτης</span></big> <sup><small><small>[[G8945]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| priest; | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they emptied out | <big><span class="asgreek">εξεκένωσαν</span></big> <sup><small><small>[[G7100]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| container, | <big><span class="asgreek">γλωσσόκομον</span></big> <sup><small><small>[[G1101]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they lifted | <big><span class="asgreek">ήραν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| placed | <big><span class="asgreek">κατέστησαν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its place. | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| they did | <big><span class="asgreek">εποίουν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| by | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they gathered | <big><span class="asgreek">συνήγαγον</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| time | **<big>[[G2540\|καιρώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to bring in | **<big>[[G5342\|ενεγκείν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| container | **<big>[[G1101\|γλωσσόκομον]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| superintendents | **<big>[[G8945\|προστάτας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| by | **<big>[[G1223\|διά]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρός]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Levites, | **<big>[[G3017\|Λευιτών]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| when | **<big>[[G2259\|ηνίκα]]</big>** |
+| they beheld | **<big>[[G1492\|είδον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| was superabundant | **<big>[[G4121\|επλεόνασε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G2064\|ήλθεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| scribe | **<big>[[G1122\|γραμματεύς]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| superintendent | **<big>[[G8945\|προστάτης]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| great | **<big>[[G3173\|μεγάλου]]</big>** |
+| priest; | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they emptied out | **<big>[[G7100\|εξεκένωσαν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| container, | **<big>[[G1101\|γλωσσόκομον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they lifted | **<big>[[G0142\|ήραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| placed | **<big>[[G2525\|κατέστησαν]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its place. | **<big>[[G5117\|τόπου]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| they did | **<big>[[G4160\|εποίουν]]</big>** |
+| day | **<big>[[G2250\|ημέραν]]</big>** |
+| by | **<big>[[G1537\|εξ]]</big>** |
+| day, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they gathered | **<big>[[G4863\|συνήγαγον]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| much | **<big>[[G4183\|πολύ]]</big>** |
 [[2Chr.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.10|<< 2 Chronicles 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.12|2 Chronicles 24:12 >>]]</td></tr></table>
 
 

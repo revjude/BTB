@@ -7,31 +7,31 @@ Fear and dread shall fall upon them; by the greatness of thine arm they shall be
 and terror and dread will fall on them. By the power of Your arm they will be as still as a stone until Your people pass by, O LORD, until the people You have bought pass by.<small><sub>**MT:**</sub></small>
 [[Exod.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.15|<< Exodus 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.17|Exodus 15:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| May there fall | <big><span class="asgreek">επιπέσοι</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| trembling; | <big><span class="asgreek">τρόμος</span></big> <sup><small><small>[[G5156]]</small></small></sup> |
-| \[by the\] greatness | <big><span class="asgreek">μεγέθει</span></big> <sup><small><small>[[G3174]]</small></small></sup> |
-| of your arm | <big><span class="asgreek">βραχίονός</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they are petrified, | <big><span class="asgreek">απολιθωθήτωσαν</span></big> <sup><small><small>[[G6456]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| may go by | <big><span class="asgreek">παρέλθη</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| may go by | <big><span class="asgreek">παρέλθη</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you acquired. | <big><span class="asgreek">εκτήσω</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
+| May there fall | **<big>[[G1968\|επιπέσοι]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| fear | **<big>[[G5401\|φόβος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| trembling; | **<big>[[G5156\|τρόμος]]</big>** |
+| \[by the\] greatness | **<big>[[G3174\|μεγέθει]]</big>** |
+| of your arm | **<big>[[G1023\|βραχίονός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they are petrified, | **<big>[[G6456\|απολιθωθήτωσαν]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| may go by | **<big>[[G3928\|παρέλθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| whenever | **<big>[[G0302\|αν]]</big>** |
+| may go by | **<big>[[G3928\|παρέλθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| your people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| this | **<big>[[G3778\|ούτος]]</big>** |
+| whom | **<big>[[G3739\|ον]]</big>** |
+| you acquired. | **<big>[[G2932\|εκτήσω]]</big>** |
 [[Exod.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.15|<< Exodus 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.17|Exodus 15:17 >>]]</td></tr></table>
 
 

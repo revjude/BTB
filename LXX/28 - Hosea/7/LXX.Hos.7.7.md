@@ -7,26 +7,26 @@ They are all hot as an oven, and have devoured their judges; all their kings are
 All of them are hot as an oven, and they devour their rulers. All their kings fall; not one of them calls upon Me.<small><sub>**MT:**</sub></small>
 [[Hos.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.6|<< Hosea 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.8|Hosea 7:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They were all heated | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">εθερμάνθησαν</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an oven, | <big><span class="asgreek">κλίβανος</span></big> <sup><small><small>[[G2823]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they devoured | <big><span class="asgreek">κατέφαγον</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their judges; | <big><span class="asgreek">κριτάς</span></big> <sup><small><small>[[G2923]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| are fallen; | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| there was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[one\] among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| calling | <big><span class="asgreek">επικαλούμενος</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They were all heated | **<big>[[G3956\|πάντες]]</big>** **<big>[[G2328\|εθερμάνθησαν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an oven, | **<big>[[G2823\|κλίβανος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they devoured | **<big>[[G2719\|κατέφαγον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their judges; | **<big>[[G2923\|κριτάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their kings | **<big>[[G0935\|βασιλείς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| are fallen; | **<big>[[G4098\|έπεσον]]</big>** |
+| there was not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \[one\] among | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| calling | **<big>[[G1941\|επικαλούμενος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
 [[Hos.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.6|<< Hosea 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.8|Hosea 7:8 >>]]</td></tr></table>
 
 

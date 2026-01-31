@@ -6,14 +6,14 @@ Hear diligently my speech, and let this be your consolations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.1|<< Job 21:1]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.3|Job 21:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| listen  | <span class="ashebrew"><big>שִׁמְע֣וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| shim.'U <small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| completely [to] \<to listen>  | <span class="ashebrew"><big>שָׁ֭מוֹעַ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| Sha.mo.a' <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| speech my  | <span class="ashebrew"><big>מִלָּתִ֑ </big></span><small><small><sup>[[H4405]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| mi.la.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and let it be  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תְהִי </big></span><small><small><sup>[[H1961]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> te.hi- <small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֝֗את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| Zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| consolations your  | <span class="ashebrew"><big>תַּנְח֥וּמֹֽתֵי </big></span><small><small><sup>[[H8575]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tan.Chu.mo.tei. <small><sup>[[HNcfpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| listen  |**<big>&#8207;[[H8085G\|שִׁמְע֣וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| completely [to] \<to listen>  |**<big>&#8207;[[H8085G\|שָׁ֭מוֹעַ]]&#8207; </big>**| Sha.mo.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| speech my  |**<big>&#8207;[[H4405\|מִלָּתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let it be  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1961\|תְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.hi-<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֝֗את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consolations your  |**<big>&#8207;[[H8575\|תַּנְח֥וּמֹֽתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tan.Chu.mo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.1|<< Job 21:1]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.3|Job 21:3 >>]]</td></tr></table>
 
 

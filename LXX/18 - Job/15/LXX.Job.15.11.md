@@ -7,15 +7,15 @@ You have been whipped \[but\] little for \[your\] sins, \[but\] greatly above me
 Are the consolations of God not enough for you, even words spoken gently to you?<small><sub>**MT:**</sub></small>
 [[Job.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.10|<< Job 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.12|Job 15:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[but\] little | <big><span class="asgreek">ολίγα</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| for | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \[your\] sins | <big><span class="asgreek">ημάρτηκας</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| You have been whipped | <big><span class="asgreek">μεμαστίγωσαι</span></big> <sup><small><small>[[G3146]]</small></small></sup> |
-| \[but\] greatly | <big><span class="asgreek">μεγάλως</span></big> <sup><small><small>[[G3171]]</small></small></sup> |
-| above measure | <big><span class="asgreek">υπερβαλλόντως</span></big> <sup><small><small>[[G5234]]</small></small></sup> |
-| have you spoken. | <big><span class="asgreek">λελάληκας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| \[but\] little | **<big>[[G3641\|ολίγα]]</big>** |
+| for | **<big>[[G3739\|ων]]</big>** |
+| \[your\] sins | **<big>[[G0264\|ημάρτηκας]]</big>** |
+| You have been whipped | **<big>[[G3146\|μεμαστίγωσαι]]</big>** |
+| \[but\] greatly | **<big>[[G3171\|μεγάλως]]</big>** |
+| above measure | **<big>[[G5234\|υπερβαλλόντως]]</big>** |
+| have you spoken. | **<big>[[G2980\|λελάληκας]]</big>** |
 [[Job.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.10|<< Job 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.12|Job 15:12 >>]]</td></tr></table>
 
 

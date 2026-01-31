@@ -7,27 +7,27 @@ Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, e
 And this is how you will be tested: As surely as Pharaoh lives, you shall not leave this place unless your youngest brother comes here.<small><sub>**MT:**</sub></small>
 [[Gen.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.14|<< Genesis 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.16|Genesis 42:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall appear \[exposed\], | <big><span class="asgreek">φανείσθε</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
-| by | <big><span class="asgreek">νη</span></big> <sup><small><small>[[G3513]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| health | <big><span class="asgreek">υγίειαν</span></big> <sup><small><small>[[G9523]]</small></small></sup> |
-| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
-| no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you go forth | <big><span class="asgreek">εξέλθητε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from here, | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| this | **<big>[[G3778\|τούτω]]</big>** |
+| you shall appear \[exposed\], | **<big>[[G5316\|φανείσθε]]</big>** |
+| by | **<big>[[G3513\|νη]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| health | **<big>[[G9523\|υγίειαν]]</big>** |
+| of Pharaoh, | **<big>[[G5328\|Φαραώ]]</big>** |
+| no way | **<big>[[G3364\|ου μη]]</big>** |
+| should you go forth | **<big>[[G1831\|εξέλθητε]]</big>** |
+| from here, | **<big>[[G1782\|εντεύθεν]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| should not | **<big>[[G3361\|μη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| brother | **<big>[[G0080\|αδελφός]]</big>** |
+| your | **<big>[[G1473\|υμών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| younger | **<big>[[G3501\|νεώτερος]]</big>** |
+| come | **<big>[[G2064\|έλθη]]</big>** |
+| here. | **<big>[[G5602\|ώδε]]</big>** |
 [[Gen.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.14|<< Genesis 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.16|Genesis 42:16 >>]]</td></tr></table>
 
 

@@ -4,9 +4,9 @@ Moabite living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Moab</span>, the son of Lot by his eldest daughter, was the ancestor of the Moabite people.
 - A man living at the time of the Patriarchs, only mentioned at Gen.19.37; 
-- only referred to as Moab<[[H4124H]]> \(<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>\); 
-- a son of Lot<[[H3876G]]> and his first daughter<[[H3876H]]>; 
--  half-brother of Ben-ammi<[[H1151]]>.
+- only referred to as Moab **<big>[[H4124|מוֹאָב]]</big>**; 
+- a son of Lot **<big>[[H3876|לוֹט]]</big>** and his first daughter **<big>[[H3876|לוֹט]]</big>**; 
+-  half-brother of Ben-ammi **<big>[[H1151|בֶּן־עַמִּי]]</big>**.
 
 Moab, as mentioned in Genesis 19:37, was the son of Lot, born as a result of an incestuous relationship between Lot and his eldest daughter. This event occurred after the destruction of Sodom and Gomorrah when Lot and his two daughters were living in a cave in the mountains. 
 
@@ -20,8 +20,8 @@ The story of Moab's birth serves as an example of the consequences of sin and th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Moab | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>](H4124H) <small>*Hebrew*</small> | 1x | [Gen.19.37a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Moab\*\|reference=Gen.19.37) |
-All Strong's for **Moab**: \[[[H4124H]]\]
+| Moab | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>](H4124H) | 1x | [Gen.19.37a ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Moab\*\|reference=Gen.19.37) |
+All entries for **Moab**:  **<big>[[H4124|מוֹאָב]]</big>**
 #### Related Profiles:
 - **[Lot](H3876G)** (father)
 - **[daughter1_of_Lot](H3876H)** (mother)

@@ -6,19 +6,19 @@ But if the manslayer ever goes outside the limits of the city of refuge to which
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.25|<< Numbers 35:25]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.27|Numbers 35:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and if  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ever \<to go out>  | <span class="ashebrew"><big>יָצֹ֥א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ya.Tzo' <small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will go out  | <span class="ashebrew"><big>יֵצֵ֖א </big></span><small><small><sup>[[H3318I]]</sup></small></small> &#8207;| ye.Tze' <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the killer  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רֹצֵ֑חַ </big></span><small><small><sup>[[H7523]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ro.Tze.ach <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] border of  | <span class="ashebrew"><big>גְּבוּל֙ </big></span><small><small><sup>[[H1366G]]</sup></small></small> &#8207;| ge.Vul <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] city of  | <span class="ashebrew"><big>עִ֣יר </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| 'ir <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| refuge his  | <span class="ashebrew"><big>מִקְלָט֔ </big></span><small><small><sup>[[H4733]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| mik.la.T <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| where  | <span class="ashebrew"><big>אֲשֶׁ֥ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will flee  | <span class="ashebrew"><big>יָנ֖וּס </big></span><small><small><sup>[[H5127]]</sup></small></small> &#8207;| ya.Nus <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there towards  | <span class="ashebrew"><big>שָֽׁמָּ </big></span><small><small><sup>[[H8033G]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9011]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Sha.ma <small><sup>[[HD]]</sup></small> h <small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ever \<to go out>  |**<big>&#8207;[[H3318G\|יָצֹ֥א]]&#8207; </big>**| ya.Tzo'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go out  |**<big>&#8207;[[H3318I\|יֵצֵ֖א]]&#8207; </big>**| ye.Tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the killer  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7523\|רֹצֵ֑חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ro.Tze.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] border of  |**<big>&#8207;[[H1366G\|גְּבוּל֙]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] city of  |**<big>&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| refuge his  |**<big>&#8207;[[H4733\|מִקְלָט֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| mik.la.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will flee  |**<big>&#8207;[[H5127\|יָנ֖וּס]]&#8207; </big>**| ya.Nus<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there towards  |**<big>&#8207;[[H8033G\|שָֽׁמָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.25|<< Numbers 35:25]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.27|Numbers 35:27 >>]]</td></tr></table>
 
 

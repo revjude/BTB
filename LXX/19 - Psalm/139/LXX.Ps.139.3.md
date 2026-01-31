@@ -7,19 +7,19 @@ Thou compassest my path and my lying down, and art acquainted [with] all my ways
 You search out my path and my lying down; You are aware of all my ways.<small><sub>**MT:**</sub></small>
 [[Ps.139.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.2|<< Psalm 139:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.4|Psalm 139:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My path | <big><span class="asgreek">τρίβον</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my \[bent\] rush \[grass\] | <big><span class="asgreek">σχοίνόν</span></big> <sup><small><small>[[G9387]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you traced; | <big><span class="asgreek">εξιχνίασας</span></big> <sup><small><small>[[G7337]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you looked out ahead. | <big><span class="asgreek">προείδες</span></big> <sup><small><small>[[G4275]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| My path | **<big>[[G5147\|τρίβον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my \[bent\] rush \[grass\] | **<big>[[G9387\|σχοίνόν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you traced; | **<big>[[G7337\|εξιχνίασας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| you looked out ahead. | **<big>[[G4275\|προείδες]]</big>** |
 [[Ps.139.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.2|<< Psalm 139:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.4|Psalm 139:4 >>]]</td></tr></table>
 
 

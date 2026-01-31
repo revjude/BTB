@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זַבְדִּיאֵל‎</span></big> **Zabdîyʼêl** <small>*(zab-dee-ale')*</small> ==**Zabdiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זֶבֶד‎</span><sup><small>[[H2065]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup></small>
+**<big><span class="ashebrew">‎זַבְדִּיאֵל‎</span></big>** **Zabdîyʼêl** <small>*(zab-dee-ale')*</small> ==**Zabdiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2065|‎זֶבֶד‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**</small>
 
 $\quad$ Zabdiel.
 - § Zabdiel = *"God is my endowment"*

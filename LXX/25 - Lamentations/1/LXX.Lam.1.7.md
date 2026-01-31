@@ -9,42 +9,42 @@ Jerusalem remembered in the days of her affliction and of her miseries all her p
 In the days of her affliction and wandering Jerusalem remembers all the treasures that were hers in days of old. When her people fell into enemy hands she received no help. Her enemies looked upon her, laughing at her downfall.<small><sub>**MT:**</sub></small>
 [[Lam.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.6|<< Lamentations 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.8|Lamentations 1:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΖΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΖΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| Jerusalem remembered | <big><span class="asgreek">εμνήσθη</span></big> <sup><small><small>[[G3403]]</small></small></sup> <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \[the\] days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of her humiliation, | <big><span class="asgreek">ταπεινώσεως</span></big> <sup><small><small>[[G5014]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| her repulsions. | <big><span class="asgreek">απωσμών</span></big> <sup><small><small>[[G6519]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her desirable \[things\], | <big><span class="asgreek">επιθυμήματα</span></big> <sup><small><small>[[G7410]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| \[were\] | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| ancient | <big><span class="asgreek">αρχαίων</span></big> <sup><small><small>[[G0744]]</small></small></sup> |
-| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| falling | <big><span class="asgreek">πεσείν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of her people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| of \[the\] one afflicting, | <big><span class="asgreek">θλίβοντος</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there was no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| helping | <big><span class="asgreek">βοηθών</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Seeing, | <big><span class="asgreek">ιδόντες</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| laughed | <big><span class="asgreek">εγέλασαν</span></big> <sup><small><small>[[G1070]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-|  | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| her displacement. | <big><span class="asgreek">μετοικεσία</span></big> <sup><small><small>[[G3350]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΖΑΙΝ <sup><small>[acrostic title]</small></sup> |  |
+| Jerusalem remembered | **<big>[[G3403\|εμνήσθη]]</big>** **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \[the\] days | **<big>[[G2250\|ημερών]]</big>** |
+| of her humiliation, | **<big>[[G5014\|ταπεινώσεως]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| her repulsions. | **<big>[[G6519\|απωσμών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| All | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her desirable \[things\], | **<big>[[G7410\|επιθυμήματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| as many as | **<big>[[G3745\|όσα]]</big>** |
+| \[were\] | **<big>[[G1510\|ην]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| days | **<big>[[G2250\|ημερών]]</big>** |
+| ancient | **<big>[[G0744\|αρχαίων]]</big>** |
+| during | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| falling | **<big>[[G4098\|πεσείν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| of her people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
+| of \[the\] one afflicting, | **<big>[[G2346\|θλίβοντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there was no one | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ην]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| helping | **<big>[[G0997\|βοηθών]]</big>** |
+| her. | **<big>[[G1473\|αυτή]]</big>** |
+| Seeing, | **<big>[[G1492\|ιδόντες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| her enemies | **<big>[[G2190\|εχθροί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| laughed | **<big>[[G1070\|εγέλασαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+|  | **<big>[[G2532\|τη]]</big>** |
+| her displacement. | **<big>[[G3350\|μετοικεσία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Lam.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.6|<< Lamentations 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.8|Lamentations 1:8 >>]]</td></tr></table>
 
 

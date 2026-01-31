@@ -7,23 +7,23 @@ The height of the one cherub [was] ten cubits, and so [was it] of the other cher
 and the height of each cherub was ten cubits.<small><sub>**MT:**</sub></small>
 [[1Kgs.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.25|<< 1 Kings 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.27|1 Kings 6:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherub | <big><span class="asgreek">χερούβ</span></big> <sup><small><small>[[G9717]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[was\] ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a cubit. | <big><span class="asgreek">πήχει</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| So | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
-| cherub. | <big><span class="asgreek">χερούβ</span></big> <sup><small><small>[[G9717]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| height | **<big>[[G5311\|ύψος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| cherub | **<big>[[G9717\|χερούβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| one | **<big>[[G1520\|ενός]]</big>** |
+| \[was\] ten | **<big>[[G1176\|δέκα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a cubit. | **<big>[[G4083\|πήχει]]</big>** |
+| So | **<big>[[G3779\|ούτως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| second | **<big>[[G1208\|δεύτερον]]</big>** |
+| cherub. | **<big>[[G9717\|χερούβ]]</big>** |
 [[1Kgs.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.25|<< 1 Kings 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.27|1 Kings 6:27 >>]]</td></tr></table>
 
 

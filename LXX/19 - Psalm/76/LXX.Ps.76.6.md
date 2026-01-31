@@ -7,18 +7,18 @@ At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead s
 At Your rebuke, O God of Jacob, both horse and rider lie stunned.<small><sub>**MT:**</sub></small>
 [[Ps.76.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.5|<< Psalm 76:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.7|Psalm 76:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| your reproach, | <big><span class="asgreek">επιτιμήσεώς</span></big> <sup><small><small>[[G7463]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| slumbered | <big><span class="asgreek">ενύσταξαν</span></big> <sup><small><small>[[G3573]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mounting | <big><span class="asgreek">επιβεβηκότες</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horses | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| Because of | **<big>[[G0575\|από]]</big>** |
+| your reproach, | **<big>[[G7463\|επιτιμήσεώς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| slumbered | **<big>[[G3573\|ενύσταξαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| mounting | **<big>[[G1910\|επιβεβηκότες]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| horses | **<big>[[G2462\|ίπποις]]</big>** |
 [[Ps.76.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.5|<< Psalm 76:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.7|Psalm 76:7 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שְׁפוֹ‎</span></big> **Shᵉphôw** <small>*(shef-o')*</small> ==**Shepho**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">שְׁפִי</span> **Shᵉphîy** <small>*(shef-ee')*</small>; from <span class="ashebrew">‎שָׁפָה‎</span><sup><small>[[H8192]]</small></sup>; baldness (compare <span class="ashebrew">‎שְׁפִי‎</span><sup><small>[[H8205]]</small></sup>)</small>
+**<big><span class="ashebrew">‎שְׁפוֹ‎</span></big>** **Shᵉphôw** <small>*(shef-o')*</small> ==**Shepho**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">שְׁפִי</span></big>** **Shᵉphîy** <small>*(shef-ee')*</small>; from **<big>[[H8192|‎שָׁפָה‎]]</big>**; baldness (compare **<big>[[H8205|‎שְׁפִי‎]]</big>**)</small>
 
 $\quad$ Shephi, Shepho.
 - § Shepho or Shephi = *"bold"*

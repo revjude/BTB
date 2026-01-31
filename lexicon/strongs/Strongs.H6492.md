@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פֶּקַח‎</span></big> **Peqach** <small>*(peh'-kakh)*</small> ==**Pekah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּקַח‎</span><sup><small>[[H6491]]</small></sup>; watch</small>
+**<big><span class="ashebrew">‎פֶּקַח‎</span></big>** **Peqach** <small>*(peh'-kakh)*</small> ==**Pekah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6491|‎פָּקַח‎]]</big>**; watch</small>
 
 $\quad$ Pekah.
 - § Pekah = *"opened"*

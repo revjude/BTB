@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎יָלַד‎</span></big> **yâlad** <small>*(yaw-lad')*</small> ==**to beget**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎יָלַד‎</span></big>** **yâlad** <small>*(yaw-lad')*</small> ==**to beget**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bear, beget, birth(-day), born, (make to) bring forth (children, young), bring up, calve, child, come, be delivered (of a child), time of delivery, gender, hatch, labour, (do the office of a) midwife, declare pedigrees, be the son of, (woman in, woman that) travail(-eth, -ing woman).
@@ -26,4 +26,4 @@ $\quad$ $\quad$ **1e2)** to bear (fig. -of wicked bringing forth iniquity)
 $\quad$ **1f)** (Hophal) day of birth, birthday (infinitive)
 $\quad$ **1g)** (Hithpael) to declare one's birth (pedigree)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γένεσις</span><sup><small>[[G1078]]</small></sup> · <span class="asgreek">γέννημα</span><sup><small>[[G1081]]</small></sup> · <span class="asgreek">γέννησις</span><sup><small>[[G1083]]</small></sup> · <span class="asgreek">γεννητός</span><sup><small>[[G1084]]</small></sup> · <span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">γυνή</span><sup><small>[[G1135]]</small></sup> · <span class="asgreek">ἐπισκέπτομαι</span><sup><small>[[G1980]]</small></sup> · <span class="asgreek">κτάομαι</span><sup><small>[[G2932]]</small></sup> · <span class="asgreek">μήτηρ</span><sup><small>[[G3384]]</small></sup> · <span class="asgreek">τέκνον</span><sup><small>[[G5043]]</small></sup> · <span class="asgreek">τίκτω</span><sup><small>[[G5088]]</small></sup> · <span class="asgreek">ὠδίν</span><sup><small>[[G5604]]</small></sup>
+<small>See Greek: </small>**<big>[[G1078|γένεσις]]</big>** · **<big>[[G1081|γέννημα]]</big>** · **<big>[[G1083|γέννησις]]</big>** · **<big>[[G1084|γεννητός]]</big>** · **<big>[[G1096|γίνομαι]]</big>** · **<big>[[G1135|γυνή]]</big>** · **<big>[[G1980|ἐπισκέπτομαι]]</big>** · **<big>[[G2932|κτάομαι]]</big>** · **<big>[[G3384|μήτηρ]]</big>** · **<big>[[G5043|τέκνον]]</big>** · **<big>[[G5088|τίκτω]]</big>** · **<big>[[G5604|ὠδίν]]</big>**

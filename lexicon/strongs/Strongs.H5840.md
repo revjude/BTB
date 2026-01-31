@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַזְרִיקָם‎</span></big> **ʻAzrîyqâm** <small>*(az-ree-kawm')*</small> ==**Azrikam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עֵזֶר‎</span><sup><small>[[H5828]]</small></sup> and active participle of <span class="ashebrew">‎קוּם‎</span><sup><small>[[H6965]]</small></sup>; help of an enemy</small>
+**<big><span class="ashebrew">‎עַזְרִיקָם‎</span></big>** **ʻAzrîyqâm** <small>*(az-ree-kawm')*</small> ==**Azrikam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5828|‎עֵזֶר‎]]</big>** and active participle of **<big>[[H6965|‎קוּם‎]]</big>**; help of an enemy</small>
 
 $\quad$ Azrikam.
 - § Azrikam = *"help against the enemy"*

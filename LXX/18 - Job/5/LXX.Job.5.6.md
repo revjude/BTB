@@ -7,21 +7,21 @@ Although affliction cometh not forth of the dust, neither doth trouble spring ou
 For distress does not spring from the dust, and trouble does not sprout from the ground.<small><sub>**MT:**</sub></small>
 [[Job.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.5|<< Job 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.7|Job 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| can | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| come forth | <big><span class="asgreek">εξέλθη</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| toil | <big><span class="asgreek">κόπος</span></big> <sup><small><small>[[G2873]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| sprout up | <big><span class="asgreek">αναβλαστήσει</span></big> <sup><small><small>[[G6276]]</small></small></sup> |
-| \[shall\] misery | <big><span class="asgreek">πόνος</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
+| not | **<big>[[G3756\|ου]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| can | **<big>[[G3361\|μη]]</big>** |
+| come forth | **<big>[[G1831\|εξέλθη]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth | **<big>[[G1093\|γης]]</big>** |
+| toil | **<big>[[G2873\|κόπος]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] mountains | **<big>[[G3735\|ορέων]]</big>** |
+| sprout up | **<big>[[G6276\|αναβλαστήσει]]</big>** |
+| \[shall\] misery | **<big>[[G4192\|πόνος]]</big>** |
 [[Job.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.5|<< Job 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.7|Job 5:7 >>]]</td></tr></table>
 
 

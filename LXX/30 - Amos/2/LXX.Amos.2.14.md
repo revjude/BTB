@@ -7,27 +7,27 @@ Therefore the flight shall perish from the swift, and the strong shall not stren
 Escape will fail the swift, the strong will not prevail by his strength, and the mighty will not save his life.<small><sub>**MT:**</sub></small>
 [[Amos.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.13|<< Amos 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.15|Amos 2:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be destroyed | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| flight into exile | <big><span class="asgreek">φυγή</span></big> <sup><small><small>[[G5437]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] runner; | <big><span class="asgreek">δρομέως</span></big> <sup><small><small>[[G6969]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| strong | <big><span class="asgreek">κραταιός</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should hold | <big><span class="asgreek">κρατήση</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his strength; | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| warrior | <big><span class="asgreek">μαχήτης</span></big> <sup><small><small>[[G8263]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should deliver | <big><span class="asgreek">σώση</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his soul; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be destroyed | **<big>[[G0622\|απολείται]]</big>** |
+| flight into exile | **<big>[[G5437\|φυγή]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] runner; | **<big>[[G6969\|δρομέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| strong | **<big>[[G2900\|κραταιός]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should hold | **<big>[[G2902\|κρατήση]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| his strength; | **<big>[[G2479\|ισχύος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| warrior | **<big>[[G8263\|μαχήτης]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| should deliver | **<big>[[G4982\|σώση]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| his soul; | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Amos.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.13|<< Amos 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.15|Amos 2:15 >>]]</td></tr></table>
 
 

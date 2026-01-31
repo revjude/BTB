@@ -6,14 +6,14 @@ Come, my beloved, let us go to the countryside; let us spend the night among the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.10|<< Song of Solomon 7:10]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.12|Song of Solomon 7:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| come !  | <span class="ashebrew"><big>לְכָ֤ </big></span><small><small><sup>[[H1980K]]</sup></small></small> <span class="ashebrew"><big>ה </big></span><small><small><sup>[[H9012]]</sup></small></small> &#8207;| le.Kha <small><sup>[[HVqv2ms]]</sup></small> h <small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O lover my  | <span class="ashebrew"><big>דוֹדִ </big></span><small><small><sup>[[H1730G]]</sup></small></small> <span class="ashebrew"><big>י֙ </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| do.D <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us go  | <span class="ashebrew"><big>נֵצֵ֣א </big></span><small><small><sup>[[H3318G]]</sup></small></small> &#8207;| ne.Tze' <small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶ֔ה </big></span><small><small><sup>[[H7704G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let us pass [the] night  | <span class="ashebrew"><big>נָלִ֖ינָה </big></span><small><small><sup>[[H3885A]]</sup></small></small> &#8207;| na.Li.nah <small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the villages  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כְּפָרִֽים </big></span><small><small><sup>[[H3723H]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> ke.fa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come !  |**<big>&#8207;[[H1980K\|לְכָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| le.Kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O lover my  |**<big>&#8207;[[H1730G\|דוֹדִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us go  |**<big>&#8207;[[H3318G\|נֵצֵ֣א]]&#8207; </big>**| ne.Tze'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us pass [the] night  |**<big>&#8207;[[H3885A\|נָלִ֖ינָה]]&#8207; </big>**| na.Li.nah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the villages  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3723H\|כְּפָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ke.fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.10|<< Song of Solomon 7:10]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.12|Song of Solomon 7:12 >>]]</td></tr></table>
 
 

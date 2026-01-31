@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מַלְכָּה‎</span></big> **malkâh** <small>*(mal-kaw')*</small> ==**Queen (of Sheba)**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎מֶלֶךְ‎</span><sup><small>[[H4428]]</small></sup></small>
+**<big><span class="ashebrew">‎מַלְכָּה‎</span></big>** **malkâh** <small>*(mal-kaw')*</small> ==**Queen (of Sheba)**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H4428|‎מֶלֶךְ‎]]</big>**</small>
 
 $\quad$ queen.
 - ***a queen***
 
 **1)** queen
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βασίλισσα</span><sup><small>[[G0938]]</small></sup> · <span class="asgreek">γυνή</span><sup><small>[[G1135]]</small></sup>
+<small>See Greek: </small>**<big>[[G0938|βασίλισσα]]</big>** · **<big>[[G1135|γυνή]]</big>**

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎לָחַץ‎</span></big> **lâchats** <small>*(law-khats')*</small> ==**to oppress**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎לָחַץ‎</span></big>** **lâchats** <small>*(law-khats')*</small> ==**to oppress**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ afflict, crush, force, hold fast, oppress(-or), thrust self.
@@ -10,4 +10,4 @@ $\quad$ $\quad$ **1a1)** to squeeze, press
 $\quad$ $\quad$ **1a2)** to oppress
 $\quad$ **1b)** (Niphal) to squeeze oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποθλίβω</span><sup><small>[[G0598]]</small></sup> · <span class="asgreek">κακόω</span><sup><small>[[G2559]]</small></sup>
+<small>See Greek: </small>**<big>[[G0598|ἀποθλίβω]]</big>** · **<big>[[G2559|κακόω]]</big>**

@@ -7,28 +7,28 @@ And the king took off his ring, which he had taken from Haman, and gave it unto 
 The king removed the signet ring he had recovered from Haman and presented it to Mordecai. And Esther appointed Mordecai over the estate of Haman.<small><sub>**MT:**</sub></small>
 [[Esth.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.1|<< Esther 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.3|Esther 8:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ring | <big><span class="asgreek">δακτύλιον</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he removed | <big><span class="asgreek">αφείλετο</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| \[from\] Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he gave \[it\] | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to Mordecai. | <big><span class="asgreek">Μαρδοχαίω</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Esther placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
-| Mordecai | <big><span class="asgreek">Μαρδοχαίον</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Haman. | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
+| took | **<big>[[G2983\|έλαβε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| ring | **<big>[[G1146\|δακτύλιον]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| he removed | **<big>[[G0851\|αφείλετο]]</big>** |
+| \[from\] Haman, | **<big>[[H2001\|Αμάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he gave \[it\] | **<big>[[G1325\|έδωκε]]</big>** |
+| to Mordecai. | **<big>[[H4782\|Μαρδοχαίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Esther placed | **<big>[[G2525\|κατέστησεν]]</big>** **<big>[[H0635\|Εσθήρ]]</big>** |
+| Mordecai | **<big>[[H4782\|Μαρδοχαίον]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάντων]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Haman. | **<big>[[H2001\|Αμάν]]</big>** |
 [[Esth.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.1|<< Esther 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.3|Esther 8:3 >>]]</td></tr></table>
 
 

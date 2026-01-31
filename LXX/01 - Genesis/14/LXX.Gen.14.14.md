@@ -7,29 +7,29 @@ And when Abram heard that his brother was taken captive, he armed his trained [s
 And when Abram heard that his relative had been captured, he mobilized the 318 trained men born in his household, and they set out in pursuit as far as Dan.<small><sub>**MT:**</sub></small>
 [[Gen.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.13|<< Genesis 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.15|Genesis 14:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| having heard | <big><span class="asgreek">ακούσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| Abram | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| has been captured | <big><span class="asgreek">ηχμαλώτευται</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
-| Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| the \[son\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| counted out | <big><span class="asgreek">ηρίθμησε</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| own | <big><span class="asgreek">ιδίους</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
-| native-born servants | <big><span class="asgreek">οικογενείς</span></big> <sup><small><small>[[G8456]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| three hundred | <big><span class="asgreek">τριακοσίους</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| eight. | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he pursued | <big><span class="asgreek">κατεδίωξεν</span></big> <sup><small><small>[[G2613]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| Dan. | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| having heard | **<big>[[G0191\|ακούσας]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| Abram | **<big>[[H0087\|Άβραμ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| has been captured | **<big>[[G0162\|ηχμαλώτευται]]</big>** |
+| Lot | **<big>[[G3091\|Λωτ]]</big>** |
+| the \[son\]\<obj.> | **<big>[[G3588\|ο]]</big>** |
+| of his brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| counted out | **<big>[[G0705\|ηρίθμησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| own | **<big>[[G2398\|ιδίους]]</big>** |
+| native-born servants | **<big>[[G8456\|οικογενείς]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| three hundred | **<big>[[G5145\|τριακοσίους]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| eight. | **<big>[[G3638\|οκτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he pursued | **<big>[[G2613\|κατεδίωξεν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| Dan. | **<big>[[H1835\|Δαν]]</big>** |
 [[Gen.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.13|<< Genesis 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.15|Genesis 14:15 >>]]</td></tr></table>
 
 

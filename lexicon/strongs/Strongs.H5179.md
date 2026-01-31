@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְחֻשְׁתָּא‎</span></big> **Nᵉchushtâʼ** <small>*(nekh-oosh-taw')*</small> ==**Nehushta**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נְחֹשֶׁת‎</span><sup><small>[[H5178]]</small></sup>; copper</small>
+**<big><span class="ashebrew">‎נְחֻשְׁתָּא‎</span></big>** **Nᵉchushtâʼ** <small>*(nekh-oosh-taw')*</small> ==**Nehushta**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>from **<big>[[H5178|‎נְחֹשֶׁת‎]]</big>**; copper</small>
 
 $\quad$ Nehushta.
 - § Nehushta = *"brass"*

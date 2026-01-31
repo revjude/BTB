@@ -7,21 +7,21 @@
 Our oxen will bear great loads. There will be no breach in the walls, no going into captivity, and no cry of lament in our streets.<small><sub>**MT:**</sub></small>
 [[Ps.144.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.13|<< Psalm 144:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.15|Psalm 144:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their oxen | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] thick; | <big><span class="asgreek">παχείς</span></big> <sup><small><small>[[G8674]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| ruined | <big><span class="asgreek">κατάπτωμα</span></big> <sup><small><small>[[G7905]]</small></small></sup> |
-| fence, | <big><span class="asgreek">φραγμού</span></big> <sup><small><small>[[G5418]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| stream, | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| a cry | <big><span class="asgreek">κραυγή</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their broad \[spaces\]; | <big><span class="asgreek">πλατείαις</span></big> <sup><small><small>[[G4116]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their oxen | **<big>[[G1016\|βόες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[are\] thick; | **<big>[[G8674\|παχείς]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| ruined | **<big>[[G7905\|κατάπτωμα]]</big>** |
+| fence, | **<big>[[G5418\|φραγμού]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| stream, | **<big>[[G1327\|διέξοδος]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| a cry | **<big>[[G2906\|κραυγή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their broad \[spaces\]; | **<big>[[G4116\|πλατείαις]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ps.144.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.13|<< Psalm 144:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.15|Psalm 144:15 >>]]</td></tr></table>
 
 

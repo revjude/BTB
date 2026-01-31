@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲרֻבּוֹת‎</span></big> **ʼĂrubbôwth** <small>*(ar-oob-both)*</small> ==**Arubboth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of <span class="ashebrew">‎אֲרֻבָּה‎</span><sup><small>[[H0699]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲרֻבּוֹת‎</span></big>** **ʼĂrubbôwth** <small>*(ar-oob-both)*</small> ==**Arubboth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of **<big>[[H0699|‎אֲרֻבָּה‎]]</big>**</small>
 
 $\quad$ Aruboth.
 - § Aruboth = *"windows"*

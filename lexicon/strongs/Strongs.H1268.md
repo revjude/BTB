@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֵּרוֹתָה‎</span></big> **Bêrôwthâh** <small>*(bay-ro-thaw')*</small> ==**Berothah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">בֵּרֹתַי</span> **Bêrôthay** <small>*(bayro-that'-ee)*</small>; probably from <span class="ashebrew">‎בְּרוֹת‎</span><sup><small>[[H1266]]</small></sup>; cypress or cypresslike</small>
+**<big><span class="ashebrew">‎בֵּרוֹתָה‎</span></big>** **Bêrôwthâh** <small>*(bay-ro-thaw')*</small> ==**Berothah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">בֵּרֹתַי</span></big>** **Bêrôthay** <small>*(bayro-that'-ee)*</small>; probably from **<big>[[H1266|‎בְּרוֹת‎]]</big>**; cypress or cypresslike</small>
 
 $\quad$ Berothah, Berothai.
 - § Berothah or Berothai = *"cypress grove"*

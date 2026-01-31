@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זֵתַר‎</span></big> **Zêthar** <small>*(zay-thar')*</small> ==**Zethar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎זֵתַר‎</span></big>** **Zêthar** <small>*(zay-thar')*</small> ==**Zethar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of Persian origin</small>
 
 $\quad$ Zethar. j

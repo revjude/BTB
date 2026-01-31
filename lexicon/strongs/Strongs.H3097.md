@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יוֹאָב‎</span></big> **Yôwʼâb** <small>*(yo-awb')*</small> ==**Joab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup>; Jehovah-fathered</small>
+**<big><span class="ashebrew">‎יוֹאָב‎</span></big>** **Yôwʼâb** <small>*(yo-awb')*</small> ==**Joab**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H0001|‎אָב‎]]</big>**; Jehovah-fathered</small>
 
 $\quad$ Joab.
 - § Joab = *"Jehovah is father"*

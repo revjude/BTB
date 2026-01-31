@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּבַשׁ‎</span></big> **kâbash** <small>*(kaw-bash')*</small> ==**to subdue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּבַשׁ‎</span></big>** **kâbash** <small>*(kaw-bash')*</small> ==**to subdue**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bring into bondage, force, keep under, subdue, bring into subjection.
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Niphal) to be subdued
 $\quad$ **1c)** (Piel) to subdue
 $\quad$ **1d)** (Hiphil) to bring into bondage
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βιάζω</span><sup><small>[[G0971]]</small></sup> · <span class="asgreek">καταδυναστεύω</span><sup><small>[[G2616]]</small></sup> · <span class="asgreek">κατακυριεύω</span><sup><small>[[G2634]]</small></sup> · <span class="asgreek">κραταιόω</span><sup><small>[[G2901]]</small></sup> · <span class="asgreek">κρατέω</span><sup><small>[[G2902]]</small></sup> · <span class="asgreek">ὑποτάσσω</span><sup><small>[[G5293]]</small></sup>
+<small>See Greek: </small>**<big>[[G0971|βιάζω]]</big>** · **<big>[[G2616|καταδυναστεύω]]</big>** · **<big>[[G2634|κατακυριεύω]]</big>** · **<big>[[G2901|κραταιόω]]</big>** · **<big>[[G2902|κρατέω]]</big>** · **<big>[[G5293|ὑποτάσσω]]</big>**

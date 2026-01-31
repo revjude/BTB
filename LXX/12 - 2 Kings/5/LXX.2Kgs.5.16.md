@@ -7,23 +7,23 @@ But he said, [As] the LORD liveth, before whom I stand, I will receive none. And
 But Elisha replied, “As surely as the LORD lives, before whom I stand, I will not accept it.” And although Naaman urged him to accept it, he refused.<small><sub>**MT:**</sub></small>
 [[2Kgs.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.15|<< 2 Kings 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.17|2 Kings 5:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
-| As \[the\] <span class="smallcaps">lord</span> lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| in whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I stand | <big><span class="asgreek">παρέστην</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I take \[it\]? | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he pressed | <big><span class="asgreek">παρεβιάσατο</span></big> <sup><small><small>[[G3849]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to take, | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he resisted persuasion. | <big><span class="asgreek">ηπείθησε</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elisha said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G1666\|Ελισεαί]]</big>** |
+| As \[the\] <span class="smallcaps">lord</span> lives | **<big>[[G2198\|ζη]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| in whom | **<big>[[G3739\|ω]]</big>** |
+| I stand | **<big>[[G3936\|παρέστην]]</big>** |
+| before | **<big>[[G1799\|ενώπιον]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| shall | **<big>[[G1487\|ει]]</big>** |
+| I take \[it\]? | **<big>[[G2983\|λήψομαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he pressed | **<big>[[G3849\|παρεβιάσατο]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to take, | **<big>[[G2983\|λαβείν]]</big>** |
+| but | **<big>[[G2532\|και]]</big>** |
+| he resisted persuasion. | **<big>[[G0544\|ηπείθησε]]</big>** |
 [[2Kgs.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.15|<< 2 Kings 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.17|2 Kings 5:17 >>]]</td></tr></table>
 
 

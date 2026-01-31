@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מְרַאֲשָׁוֹת‎</span> <small>***(mar.a.shah)***</small> ==**head**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-form of: <small>[[H4763]]</small> 
+<small>form of:</small> <small>**<big>[[H4763|מְרַאֲשָׁה]]</big>**</small> 
 
 - adv

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὑστερέω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὕστερος</span>), </span>  <span class="asseptuagint">\[in LXX for <span class="ashebrew">חָסֵר</span> <small><sup>[[H2637]]</sup></small>, <span class="ashebrew">חָדַל</span> <small><sup>[[H2308]]</sup></small> etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὑστερέω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὕστερος</span>), </span>  <span class="asseptuagint">\[in LXX for **<big>[[H2637|חָסֵר]]</big>**, **<big>[[H2308|חָדַל]]</big>** etc. ;\]</span> </span>
 <span class="asitalic">to come late, be behind</span> (opp. to <span class="asgreek">προτερέω, φθάνω</span>; c. gen. rei, <span class="asitalic">for</span>; c. gen. pers., <span class="asitalic">later than</span>).
 Metaph.,
 <span class="asbullet"><span class="asbold">1.</span> of persons,</span>

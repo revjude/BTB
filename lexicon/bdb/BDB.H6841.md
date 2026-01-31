@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H6842]]</small>
+<small>Hebrew form: **<big>[[H6842|צָפִיר]]</big>**</small>
  [<span class="bdbLangAramaic">‎צְפִיר‎</span>] **noun masculine** ==he-goat== (see Biblical Hebrew V. <span class="bdbLangAramaic">‎צפר‎</span>); — plural construct <span class="bdbLangAramaic">‎צְפִירֵי עִזִּין‎</span> [[Ezra.6.17|Ezra 6:17]]. 
 
 **Brown-Driver-Briggs References**

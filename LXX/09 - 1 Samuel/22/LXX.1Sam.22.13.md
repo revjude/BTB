@@ -7,42 +7,42 @@ And Saul said unto him, Why have ye conspired against me, thou and the son of Je
 And Saul asked him, “Why have you and the son of Jesse conspired against me? You gave him bread and a sword and inquired of God for him so that he could rise up against me to lie in wait, as he is doing today.”<small><sub>**MT:**</sub></small>
 [[1Sam.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.12|<< 1 Samuel 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.14|1 Samuel 22:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
-| Why did | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
-| you agree | <big><span class="asgreek">συνέθου</span></big> <sup><small><small>[[G4934]]</small></small></sup> |
-| against | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jesse, | <big><span class="asgreek">Ιεσσαί</span></big> <sup><small><small>[[G2421]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for you to give | <big><span class="asgreek">δούναί</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bread, | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a broadsword, | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should ask | <big><span class="asgreek">ερωτάν</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| on his account | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δια</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to put | <big><span class="asgreek">θέσθαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an enemy, | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| as \[he is\] | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this day? | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Saul | **<big>[[G4549\|Σαούλ]]</big>** |
+| Why did | **<big>[[G2444\|ινατί]]</big>** |
+| you agree | **<big>[[G4934\|συνέθου]]</big>** |
+| against | **<big>[[G2596\|κατ΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jesse, | **<big>[[G2421\|Ιεσσαί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for you to give | **<big>[[G1325\|δούναί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| him | **<big>[[G1473\|αυτώ]]</big>** |
+| bread, | **<big>[[G0740\|άρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a broadsword, | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should ask | **<big>[[G2065\|ερωτάν]]</big>** |
+| on his account | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G1223\|δια]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to put | **<big>[[G5087\|θέσθαι]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an enemy, | **<big>[[G2190\|εχθρόν]]</big>** |
+| as \[he is\] | **<big>[[G5613\|ως]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| this day? | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
 [[1Sam.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.12|<< 1 Samuel 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.14|1 Samuel 22:14 >>]]</td></tr></table>
 
 

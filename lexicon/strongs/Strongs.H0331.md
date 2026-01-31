@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אָטַם‎</span></big> **ʼâṭam** <small>*(aw-tam')*</small> ==**to shutter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎אָטַם‎</span></big>** **ʼâṭam** <small>*(aw-tam')*</small> ==**to shutter**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ narrow, shut, stop.
@@ -9,4 +9,4 @@ $\quad$ narrow, shut, stop.
 $\quad$ **1a)** (Qal) to shut, stop (of lips)
 $\quad$ **1b)** (Hiphil) of the wicked stopping their ears (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κρυπτός</span><sup><small>[[G2927]]</small></sup> · <span class="asgreek">φράσσω</span><sup><small>[[G5420]]</small></sup>
+<small>See Greek: </small>**<big>[[G2927|κρυπτός]]</big>** · **<big>[[G5420|φράσσω]]</big>**

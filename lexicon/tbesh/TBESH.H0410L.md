@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אֵל‎</span> <small>***(el)***</small> ==**god: power**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H0410K]]</small> 
+<small>meaning of:</small> <small>**<big>[[H0410K|אֵל]]</big>**</small> 
 
 - : power

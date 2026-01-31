@@ -7,25 +7,25 @@ And Solomon told her all her questions: and there was nothing hid from Solomon w
 And Solomon answered all her questions; nothing was too difficult for him to explain.<small><sub>**MT:**</sub></small>
 [[2Chr.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.1|<< 2 Chronicles 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.3|2 Chronicles 9:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| announced | <big><span class="asgreek">ανήγγειλεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her words, | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| went by | <big><span class="asgreek">παρήλθε</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| a word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| report | <big><span class="asgreek">ανήγγειλεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| announced | **<big>[[G0312\|ανήγγειλεν]]</big>** |
+| to her | **<big>[[G1473\|αυτή]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομών]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| her words, | **<big>[[G3056\|λόγους]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| went by | **<big>[[G3928\|παρήλθε]]</big>** |
+| a word | **<big>[[G3056\|λόγος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| report | **<big>[[G0312\|ανήγγειλεν]]</big>** |
+| to her. | **<big>[[G1473\|αυτή]]</big>** |
 [[2Chr.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.1|<< 2 Chronicles 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.3|2 Chronicles 9:3 >>]]</td></tr></table>
 
 

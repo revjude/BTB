@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H0999]]</small>
+<small>Aramaic form: **<big>[[H0999|בִּינָה]]</big>**</small>
  <span class="bdbLangHebrew">‎בִּינָה‎</span> **noun feminine** ==understanding== [[1Chr.12.32|1Chr 12:32]] + 28 t.; construct <span class="bdbLangHebrew">‎בִּינַת‎</span> [[Prov.30.2|Prov 30:2]]; [[Isa.29.14|Isa 29:14]] suffix <span class="bdbLangHebrew">‎בִּינָתִי‎</span> [[Job.20.3|Job 20:3]] + 4 t.; plural <span class="bdbLangHebrew">‎בִּינוֺת‎</span> [[Isa.27.11|Isa 27:11]] — 
 
 **1.** ***the act*** [[Isa.33.19|Isa 33:19]]; [[Jer.23.20|Jer 23:20]]; [[Dan.1.20|Dan 1:20]]; [[Dan.8.15|Dan 8:15]]; [[Dan.9.22|Dan 9:22]]; [[Dan.10.1|Dan 10:1]]. 

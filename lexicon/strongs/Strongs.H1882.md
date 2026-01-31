@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎דָּת‎</span></big> **dâth** <small>*(dawth)*</small> ==**law**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎דָּת‎</span><sup><small>[[H1881]]</small></sup></small>
+**<big><span class="asaramaic">‎דָּת‎</span></big>** **dâth** <small>*(dawth)*</small> ==**law**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1881|‎דָּת‎]]</big>**</small>
 
 $\quad$ decree, law.
 - {***a royal edict*** or ***statute***}

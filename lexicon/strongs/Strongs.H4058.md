@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מָדַד‎</span></big> **mâdad** <small>*(maw-dad')*</small> ==**to measure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎מָדַד‎</span></big>** **mâdad** <small>*(maw-dad')*</small> ==**to measure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ measure, mete, stretch self.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1c2)** to measure, measure off
 $\quad$ **1d)** (Po) measured
 $\quad$ **1e)** (Hithpolel) to extend oneself, stretch oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποδίδωμι</span><sup><small>[[G0591]]</small></sup> · <span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">διατάσσω</span><sup><small>[[G1299]]</small></sup> · <span class="asgreek">ἐμφυσάω</span><sup><small>[[G1720]]</small></sup> · <span class="asgreek">μετρέω</span><sup><small>[[G3354]]</small></sup>
+<small>See Greek: </small>**<big>[[G0591|ἀποδίδωμι]]</big>** · **<big>[[G1096|γίνομαι]]</big>** · **<big>[[G1299|διατάσσω]]</big>** · **<big>[[G1720|ἐμφυσάω]]</big>** · **<big>[[G3354|μετρέω]]</big>**

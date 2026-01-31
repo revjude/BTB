@@ -7,25 +7,25 @@ And [there were] narrow windows and palm trees on the one side and on the other 
 There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies.<small><sub>**MT:**</sub></small>
 [[Ezek.41.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And \[there were\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| windows | <big><span class="asgreek">θυρίδες</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
-| hidden | <big><span class="asgreek">κρυπταί</span></big> <sup><small><small>[[G2927]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησεν</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| on this side and that side | <big><span class="asgreek">ένθεν και ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| roofing | <big><span class="asgreek">οροφώματα</span></big> <sup><small><small>[[G8555]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch; | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sides | <big><span class="asgreek">πλευρά</span></big> <sup><small><small>[[G8810]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| were joined together. | <big><span class="asgreek">εζυγωμένα</span></big> <sup><small><small>[[G7605]]</small></small></sup> |
+| And \[there were\] | **<big>[[G2532\|και]]</big>** |
+| windows | **<big>[[G2376\|θυρίδες]]</big>** |
+| hidden | **<big>[[G2927\|κρυπταί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησεν]]</big>** |
+| on this side and that side | **<big>[[G6033\|ένθεν και ένθεν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| roofing | **<big>[[G8555\|οροφώματα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| columned porch; | **<big>[[G6161\|αιλάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sides | **<big>[[G8810\|πλευρά]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house | **<big>[[G3624\|οίκου]]</big>** |
+| were joined together. | **<big>[[G7605\|εζυγωμένα]]</big>** |
 [[Ezek.41.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
 
 

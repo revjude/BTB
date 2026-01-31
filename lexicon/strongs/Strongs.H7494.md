@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רַעַשׁ‎</span></big> **raʻash** <small>*(rah'-ash)*</small> ==**quaking**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָעַשׁ‎</span><sup><small>[[H7493]]</small></sup></small>
+**<big><span class="ashebrew">‎רַעַשׁ‎</span></big>** **raʻash** <small>*(rah'-ash)*</small> ==**quaking**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7493|‎רָעַשׁ‎]]</big>**</small>
 
 $\quad$ commotion, confused noise, earthquake, fierceness, quaking, rattling, rushing, shaking.
 - ***vibration***, ***bounding***, ***uproar***
@@ -9,4 +9,4 @@ $\quad$ **1a)** earthquake
 $\quad$ **1b)** quaking, trembling (of person)
 $\quad$ **1c)** shaking, quivering (of dart)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δόλος</span><sup><small>[[G1388]]</small></sup> · <span class="asgreek">ἔντρομος</span><sup><small>[[G1790]]</small></sup> · <span class="asgreek">ὀδύνη</span><sup><small>[[G3601]]</small></sup> · <span class="asgreek">σεισμός</span><sup><small>[[G4578]]</small></sup>
+<small>See Greek: </small>**<big>[[G1388|δόλος]]</big>** · **<big>[[G1790|ἔντρομος]]</big>** · **<big>[[G3601|ὀδύνη]]</big>** · **<big>[[G4578|σεισμός]]</big>**

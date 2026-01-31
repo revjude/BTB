@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָרׇבְעָם‎</span></big> **Yârobʻâm** <small>*(yaw-rob-awm')*</small> ==**Jeroboam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רִיב‎</span><sup><small>[[H7378]]</small></sup> and <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup>; (the) people will contend</small>
+**<big><span class="ashebrew">‎יָרׇבְעָם‎</span></big>** **Yârobʻâm** <small>*(yaw-rob-awm')*</small> ==**Jeroboam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7378|‎רִיב‎]]</big>** and **<big>[[H5971|‎עַם‎]]</big>**; (the) people will contend</small>
 
 $\quad$ Jeroboam.
 - § Jeroboam = *"the people will contend"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חׇפְנִי‎</span></big> **Chophnîy** <small>*(khof-nee')*</small> ==**Hophni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חֹפֶן‎</span><sup><small>[[H2651]]</small></sup>; perhaps pugilist</small>
+**<big><span class="ashebrew">‎חׇפְנִי‎</span></big>** **Chophnîy** <small>*(khof-nee')*</small> ==**Hophni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2651|‎חֹפֶן‎]]</big>**; perhaps pugilist</small>
 
 $\quad$ Hophni.
 - § Hophni = *"pugilist"*

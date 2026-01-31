@@ -10,21 +10,21 @@ A voice says, “Cry out!” And I asked, “What should I cry out?” “All fl
 > $\quad$ referenced by: [[Jas.1.10|Jas 1:10-11]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a voice  | <span class="ashebrew"><big>ק֚וֹל </big></span><small><small><sup>[[H6963A]]</sup></small></small> &#8207;| Kol <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] saying  | <span class="ashebrew"><big>אֹמֵ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'o.Mer <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| proclaim  | <span class="ashebrew"><big>קְרָ֔א </big></span><small><small><sup>[[H7121I]]</sup></small></small> &#8207;| ke.Ra' <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אָמַ֖ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Mar <small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| what?  | <span class="ashebrew"><big>מָ֣ה </big></span><small><small><sup>[[H4100]]</sup></small></small> &#8207;| mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will I proclaim  | <span class="ashebrew"><big>אֶקְרָ֑א </big></span><small><small><sup>[[H7121I]]</sup></small></small> &#8207;| 'ek.Ra' <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> flesh  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>בָּשָׂ֣ר </big></span><small><small><sup>[[H1320]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ba.Sar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] grass  | <span class="ashebrew"><big>חָצִ֔יר </big></span><small><small><sup>[[H2682A]]</sup></small></small> &#8207;| cha.Tzir <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| loyalty its  | <span class="ashebrew"><big>חַסְדּ֖ </big></span><small><small><sup>[[H2617A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| chas.D <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] like [the] flower of  | <span class="ashebrew"><big>כְּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>צִ֥יץ </big></span><small><small><sup>[[H6731A]]</sup></small></small> &#8207;| ke. <small><sup>[[HR]]</sup></small> Tzitz <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶֽה </big></span><small><small><sup>[[H7704G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a voice  |**<big>&#8207;[[H6963A\|ק֚וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] saying  |**<big>&#8207;[[H0559\|אֹמֵ֣ר]]&#8207; </big>**| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| proclaim  |**<big>&#8207;[[H7121I\|קְרָ֔א]]&#8207; </big>**| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֖ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I proclaim  |**<big>&#8207;[[H7121I\|אֶקְרָ֑א]]&#8207; </big>**| 'ek.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> flesh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1320\|בָּשָׂ֣ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] grass  |**<big>&#8207;[[H2682A\|חָצִ֔יר]]&#8207; </big>**| cha.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loyalty its  |**<big>&#8207;[[H2617A\|חַסְדּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| chas.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like [the] flower of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6731A\|צִ֥יץ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Tzitz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.5|<< Isaiah 40:5]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.7|Isaiah 40:7 >>]]</td></tr></table>
 
 

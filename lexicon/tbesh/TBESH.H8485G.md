@@ -1,4 +1,3 @@
-<span class="ashebrew">‎תֵּימָא‎</span> <small>***(te.ma)***</small> ==**Tema**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the Arabs living at the time of the Patriarchs, first mentioned at [[Gen.25.15|Gen.25.15]]
--  son of: Ishmael ([[H3458]])
--  brother of: Nebaioth ([[H5032]]), Kedar ([[H6938]]), Adbeel ([[H0110]]), Mibsam ([[H4017]]), Mishma ([[H4927]]), Dumah ([[H1746]]), Massa ([[H4854]]), Hadad ([[H2301]]), Jetur ([[H3195]]), Naphish ([[H5305]]), Kedemah ([[H6929]]) and Mahalath ([[H4258]])
+-  son of: Ishmael (**<big>[[H3458|יִשְׁמָעֵאל]]</big>**)
+-  brother of: Nebaioth (**<big>[[H5032|נְבָיוֹת]]</big>**), Kedar (**<big>[[H6938|קֵדָר]]</big>**), Adbeel (**<big>[[H0110|אַדְבְּאֵל]]</big>**), Mibsam (**<big>[[H4017|מִבְשָׂם]]</big>**), Mishma (**<big>[[H4927|מִשְׁמָע]]</big>**), Dumah (**<big>[[H1746|דּוּמָה]]</big>**), Massa (**<big>[[H4854|מַשָּׂא]]</big>**), Hadad (**<big>[[H2301|חֲדַד]]</big>**), Jetur (**<big>[[H3195|יְטוּר]]</big>**), Naphish (**<big>[[H5305|נָפִישׁ]]</big>**), Kedemah (**<big>[[H6929|קֵדְמָה]]</big>**) and Mahalath (**<big>[[H4258|מַחֲלַת]]</big>**)

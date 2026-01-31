@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זָבָד‎</span></big> **Zâbâd** <small>*(zaw-bawd')*</small> ==**Zabad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זָבַד‎</span><sup><small>[[H2064]]</small></sup>; giver</small>
+**<big><span class="ashebrew">‎זָבָד‎</span></big>** **Zâbâd** <small>*(zaw-bawd')*</small> ==**Zabad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2064|‎זָבַד‎]]</big>**; giver</small>
 
 $\quad$ Zabad.
 - § Zabad = *"he endows"*

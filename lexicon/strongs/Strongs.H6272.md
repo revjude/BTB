@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎עָתַם‎</span></big> **ʻâtham** <small>*(aw-tham)*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎עָתַם‎</span></big>** **ʻâtham** <small>*(aw-tham)*</small> ==**to burn**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ be darkened.

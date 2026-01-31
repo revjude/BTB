@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָרַךְ‎</span></big> **bârak** <small>*(baw-rak')*</small> ==**to bless**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָרַךְ‎</span></big>** **bârak** <small>*(baw-rak')*</small> ==**to bless**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] abundantly, [idiom] altogether, [idiom] at all, blaspheme, bless, congratulate, curse, [idiom] greatly, [idiom] indeed, kneel (down), praise, salute, [idiom] still, thank.
@@ -17,4 +17,4 @@ $\quad$ **1e)** (Hiphil) to cause to kneel
 $\quad$ **1f)** (Hithpael) to bless oneself
 **2)** (TWOT) to praise, salute, curse
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰνέω</span><sup><small>[[G0134]]</small></sup> · <span class="asgreek">ἐνευλογέω</span><sup><small>[[G1757]]</small></sup> · <span class="asgreek">εὐλογέω</span><sup><small>[[G2127]]</small></sup> · <span class="asgreek">εὐλογητός</span><sup><small>[[G2128]]</small></sup> · <span class="asgreek">εὐλογία</span><sup><small>[[G2129]]</small></sup> · <span class="asgreek">κλαίω</span><sup><small>[[G2799]]</small></sup> · <span class="asgreek">πίπτω</span><sup><small>[[G4098]]</small></sup>
+<small>See Greek: </small>**<big>[[G0134|αἰνέω]]</big>** · **<big>[[G1757|ἐνευλογέω]]</big>** · **<big>[[G2127|εὐλογέω]]</big>** · **<big>[[G2128|εὐλογητός]]</big>** · **<big>[[G2129|εὐλογία]]</big>** · **<big>[[G2799|κλαίω]]</big>** · **<big>[[G4098|πίπτω]]</big>**

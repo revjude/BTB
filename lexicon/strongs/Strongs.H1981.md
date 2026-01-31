@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎הֲלַךְ‎</span></big> **hălak** <small>*(hal-ak')*</small> ==**to go**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎הָלַךְ‎</span><sup><small>[[H1980]]</small></sup> (compare <span class="asaramaic">‎הוּךְ‎</span><sup><small>[[H1946]]</small></sup>)</small>
+**<big><span class="asaramaic">‎הֲלַךְ‎</span></big>** **hălak** <small>*(hal-ak')*</small> ==**to go**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H1980|‎הָלַךְ‎]]</big>** (compare **<big>[[H1946|‎הוּךְ‎]]</big>**)</small>
 
 $\quad$ walk.
 - ***to walk***

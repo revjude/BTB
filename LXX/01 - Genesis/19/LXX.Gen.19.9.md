@@ -7,36 +7,36 @@ And they said, Stand back. And they said [again], This one [fellow] came in to s
 “Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door.<small><sub>**MT:**</sub></small>
 [[Gen.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.8|<< Genesis 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.10|Genesis 19:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You left | <big><span class="asgreek">απόστα</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| to enter \[here\] | <big><span class="asgreek">εισήλθες</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| to sojourn, | <big><span class="asgreek">παροικείν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| and not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[with\] judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| to judge | <big><span class="asgreek">κρίνειν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| to you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| we will inflict evil | <big><span class="asgreek">κακώσομεν</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| rather | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> |
-|  | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| \[than\] them. | <big><span class="asgreek">εκείνους</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were pressing | <big><span class="asgreek">παρεβιάζοντο</span></big> <sup><small><small>[[G3849]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lot | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| exceedingly, | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they approached | <big><span class="asgreek">ήγγισαν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to break | <big><span class="asgreek">συντρίψαι</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door. | <big><span class="asgreek">θύραν</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
+| And they said | **<big>[[G2036\|είπαν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to him, | **<big>[[G1473\|αυτώ]]</big>** |
+| You left | **<big>[[G0868\|απόστα]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| to enter \[here\] | **<big>[[G1525\|εισήλθες]]</big>** |
+| to sojourn, | **<big>[[G3939\|παροικείν]]</big>** |
+| and not | **<big>[[G3361\|μη]]</big>** **<big>[[G2532\|και]]</big>** |
+| \[with\] judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| to judge | **<big>[[G2919\|κρίνειν]]</big>** |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| to you | **<big>[[G1473\|σε]]</big>** |
+| we will inflict evil | **<big>[[G2559\|κακώσομεν]]</big>** |
+| rather | **<big>[[G3123\|μάλλον]]</big>** |
+|  | **<big>[[G2228\|η]]</big>** |
+| \[than\] them. | **<big>[[G1565\|εκείνους]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they were pressing | **<big>[[G3849\|παρεβιάζοντο]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| man | **<big>[[G0435\|άνδρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Lot | **<big>[[G3091\|Λωτ]]</big>** |
+| exceedingly, | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they approached | **<big>[[G1448\|ήγγισαν]]</big>** |
+| to break | **<big>[[G4937\|συντρίψαι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| door. | **<big>[[G2374\|θύραν]]</big>** |
 [[Gen.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.8|<< Genesis 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.10|Genesis 19:10 >>]]</td></tr></table>
 
 

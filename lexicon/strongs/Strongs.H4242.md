@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מְחִיר‎</span></big> **mᵉchîyr** <small>*(mekk-eer')*</small> ==**price**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎מְחִיר‎</span></big>** **mᵉchîyr** <small>*(mekk-eer')*</small> ==**price**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to buy</small>
 
 $\quad$ gain, hire, price, sold, worth.
@@ -8,4 +8,4 @@ $\quad$ gain, hire, price, sold, worth.
 $\quad$ **1a)** price
 $\quad$ **1b)** hire, reward, gain
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀντάλλαγμα</span><sup><small>[[G0465]]</small></sup> · <span class="asgreek">δωρεά</span><sup><small>[[G1431]]</small></sup> · <span class="asgreek">δῶρον</span><sup><small>[[G1435]]</small></sup> · <span class="asgreek">λύτρον</span><sup><small>[[G3083]]</small></sup> · <span class="asgreek">μισθός</span><sup><small>[[G3408]]</small></sup> · <span class="asgreek">τιμή</span><sup><small>[[G5092]]</small></sup> · <span class="asgreek">χρῆμα</span><sup><small>[[G5536]]</small></sup>
+<small>See Greek: </small>**<big>[[G0465|ἀντάλλαγμα]]</big>** · **<big>[[G1431|δωρεά]]</big>** · **<big>[[G1435|δῶρον]]</big>** · **<big>[[G3083|λύτρον]]</big>** · **<big>[[G3408|μισθός]]</big>** · **<big>[[G5092|τιμή]]</big>** · **<big>[[G5536|χρῆμα]]</big>**

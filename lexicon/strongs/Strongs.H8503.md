@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּכְלִית‎</span></big> **taklîyth** <small>*(tak-leeth')*</small> ==**limit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלָה‎</span><sup><small>[[H3615]]</small></sup></small>
+**<big><span class="ashebrew">‎תַּכְלִית‎</span></big>** **taklîyth** <small>*(tak-leeth')*</small> ==**limit**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H3615|‎כָּלָה‎]]</big>**</small>
 
 $\quad$ end, perfect(-ion).
 - ***completion***
@@ -9,4 +9,4 @@ $\quad$ end, perfect(-ion).
 $\quad$ **1a)** end
 $\quad$ **1b)** completeness
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔσχατος</span><sup><small>[[G2078]]</small></sup> · <span class="asgreek">πέρας</span><sup><small>[[G4009]]</small></sup> · <span class="asgreek">τέλειος</span><sup><small>[[G5046]]</small></sup>
+<small>See Greek: </small>**<big>[[G2078|ἔσχατος]]</big>** · **<big>[[G4009|πέρας]]</big>** · **<big>[[G5046|τέλειος]]</big>**

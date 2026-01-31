@@ -7,37 +7,37 @@ And David dwelt with Achish at Gath, he and his men, every man with his househol
 David and his men settled in Gath with Achish. Each man had his family with him, and David had his two wives: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal.<small><sub>**MT:**</sub></small>
 [[1Sam.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.2|<< 1 Samuel 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.4|1 Samuel 27:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David sat | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| Achish | <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Gath, | <big><span class="asgreek">Γεθ</span></big> <sup><small><small>[[H1661]]</small></small></sup> |
-| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his men, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[with\] his house, | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| both | <big><span class="asgreek">αμφότεραι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his wives -- | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ahinoam | <big><span class="asgreek">Αχιναάμ</span></big> <sup><small><small>[[H0293]]</small></small></sup> |
-| \[the\] Jezreelitess, | <big><span class="asgreek">Ιεζραηλίτις</span></big> <sup><small><small>[[H3157]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Abigail | <big><span class="asgreek">Αβιγαϊλ</span></big> <sup><small><small>[[H0026]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Nabal | <big><span class="asgreek">Ναβάλ</span></big> <sup><small><small>[[H5037]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Carmelite. | <big><span class="asgreek">Καρμηλίου</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David sat | **<big>[[G2523\|εκάθισε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| Achish | **<big>[[H0397\|Ακχίς]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Gath, | **<big>[[H1661\|Γεθ]]</big>** |
+| he | **<big>[[G1473\|αυτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| his men, | **<big>[[G0435\|άνδρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| \[with\] his house, | **<big>[[G3624\|οίκος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| both | **<big>[[G0297\|αμφότεραι]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| of his wives -- | **<big>[[G1135\|γυναίκες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Ahinoam | **<big>[[H0293\|Αχιναάμ]]</big>** |
+| \[the\] Jezreelitess, | **<big>[[H3157\|Ιεζραηλίτις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Abigail | **<big>[[H0026\|Αβιγαϊλ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| wife | **<big>[[G1135\|γυνή]]</big>** |
+| of Nabal | **<big>[[H5037\|Ναβάλ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| Carmelite. | **<big>[[H3760\|Καρμηλίου]]</big>** |
 [[1Sam.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.2|<< 1 Samuel 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.4|1 Samuel 27:4 >>]]</td></tr></table>
 
 

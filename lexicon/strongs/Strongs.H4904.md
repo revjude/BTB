@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁכָּב‎</span></big> **mishkâb** <small>*(mish-kawb')*</small> ==**bed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁכַב‎</span><sup><small>[[H7901]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁכָּב‎</span></big>** **mishkâb** <small>*(mish-kawb')*</small> ==**bed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7901|‎שָׁכַב‎]]</big>**</small>
 
 $\quad$ bed(-chamber), couch, lieth (lying) with.
 - ***a bed*** (figuratively, a bier)
@@ -11,4 +11,4 @@ $\quad$ **1a)** couch, bed
 $\quad$ **1b)** act of lying, lying down or sleeping room, bedroom
 $\quad$ **1c)** lying down (for sexual contact)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλίνη</span><sup><small>[[G2825]]</small></sup> · <span class="asgreek">κοίτη</span><sup><small>[[G2845]]</small></sup> · <span class="asgreek">κοιτών</span><sup><small>[[G2846]]</small></sup>
+<small>See Greek: </small>**<big>[[G2825|κλίνη]]</big>** · **<big>[[G2845|κοίτη]]</big>** · **<big>[[G2846|κοιτών]]</big>**

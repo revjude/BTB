@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֱלִישָׁה‎</span></big> **ʼĔlîyshâh** <small>*(el-ee-shaw')*</small> ==**Elishah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אֱלִישָׁה‎</span></big>** **ʼĔlîyshâh** <small>*(el-ee-shaw')*</small> ==**Elishah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Elishah.

@@ -6,31 +6,31 @@ Then all the trees of the field will know that I am the LORD. I bring the tall t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.23|<< Ezekiel 17:23]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.1|Ezekiel 18:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they will know  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָדְע֞וּ </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> ya.de.'U <small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] trees of  | <span class="ashebrew"><big>עֲצֵ֣י </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'a.Tzei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂדֶ֗ה </big></span><small><small><sup>[[H7704G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> sa.Deh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֤י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֙ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I bring low  | <span class="ashebrew"><big>הִשְׁפַּ֣לְתִּי </big></span><small><small><sup>[[H8213]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| hish.Pal.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tree  | <span class="ashebrew"><big>עֵ֣ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tall  | <span class="ashebrew"><big>גָּבֹ֗הַ </big></span><small><small><sup>[[H1364]]</sup></small></small> &#8207;| ga.Vo.ha <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I raise up  | <span class="ashebrew"><big>הִגְבַּ֙הְתִּי֙ </big></span><small><small><sup>[[H1361]]</sup></small></small> &#8207;| hig.Bah.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tree  | <span class="ashebrew"><big>עֵ֣ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| low  | <span class="ashebrew"><big>שָׁפָ֔ל </big></span><small><small><sup>[[H8217]]</sup></small></small> &#8207;| sha.Fal <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I make dry  | <span class="ashebrew"><big>הוֹבַ֙שְׁתִּי֙ </big></span><small><small><sup>[[H3001]]</sup></small></small> &#8207;| ho.Vash.ti <small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tree  | <span class="ashebrew"><big>עֵ֣ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| moist  | <span class="ashebrew"><big>לָ֔ח </big></span><small><small><sup>[[H3892]]</sup></small></small> &#8207;| Lach <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I make sprout  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>הִפְרַ֖חְתִּי </big></span><small><small><sup>[[H6524A]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> hif.Rach.ti <small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tree  | <span class="ashebrew"><big>עֵ֣ץ </big></span><small><small><sup>[[H6086H]]</sup></small></small> &#8207;| 'etz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dry  | <span class="ashebrew"><big>יָבֵ֑שׁ </big></span><small><small><sup>[[H3002]]</sup></small></small> &#8207;| ya.Vesh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲנִ֥י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have spoken  | <span class="ashebrew"><big>דִּבַּ֥רְתִּי </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| di.Bar.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will act  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>עָשִֽׂיתִי </big></span><small><small><sup>[[H6213A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>פ </big></span><small><small><sup>[[H9017]]</sup></small></small> &#8207;| ve. <small><sup>[[Hc]]</sup></small> 'a.Si.ti <small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will know  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H3045\|יָדְע֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] trees of  |**<big>&#8207;[[H6086H\|עֲצֵ֣י]]&#8207; </big>**| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I bring low  |**<big>&#8207;[[H8213\|הִשְׁפַּ֣לְתִּי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hish.Pal.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tree  |**<big>&#8207;[[H6086H\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tall  |**<big>&#8207;[[H1364\|גָּבֹ֗הַ]]&#8207; </big>**| ga.Vo.ha<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I raise up  |**<big>&#8207;[[H1361\|הִגְבַּ֙הְתִּי֙]]&#8207; </big>**| hig.Bah.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tree  |**<big>&#8207;[[H6086H\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| low  |**<big>&#8207;[[H8217\|שָׁפָ֔ל]]&#8207; </big>**| sha.Fal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I make dry  |**<big>&#8207;[[H3001\|הוֹבַ֙שְׁתִּי֙]]&#8207; </big>**| ho.Vash.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tree  |**<big>&#8207;[[H6086H\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| moist  |**<big>&#8207;[[H3892\|לָ֔ח]]&#8207; </big>**| Lach<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I make sprout  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6524A\|הִפְרַ֖חְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hif.Rach.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tree  |**<big>&#8207;[[H6086H\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dry  |**<big>&#8207;[[H3002\|יָבֵ֑שׁ]]&#8207; </big>**| ya.Vesh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּ֥רְתִּי]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will act  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִֽׂיתִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.23|<< Ezekiel 17:23]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.1|Ezekiel 18:1 >>]]</td></tr></table>
 
 

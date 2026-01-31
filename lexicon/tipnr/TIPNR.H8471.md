@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Tahpanhes</span> \(or Tehaphnehes\), an Egyptian city where Jewish refugees, including Jeremiah, settled after the destruction of Jerusalem \(Jer. 43:7-9; 44:1; 46:14; Ezek. 30:18\).
 - A location first mentioned at [[Jer.2.16|Jer.2.16]]; 
-- referred to as Tahpanhes or Tehaphnehes \(NIV= Tahpanhes\) <[[H8471]]> \(<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ס</span>\).
+- referred to as Tahpanhes or Tehaphnehes \(NIV= Tahpanhes\)  **<big>[[H8471|תַּחְפַּנְחֵס]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.860556,32.171389&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Tahpanhes \(also known as Tehaphnehes or Tahapanes\) was an important Egyptian c
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Tahpanhes | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H8471) <small>*Hebrew*</small> | 6x | [[Jer.2.16] ... [Jer.46.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tahpanhes\*\|reference=Jer.2.16;Jer.43.7;Jer.43.8;Jer.43.9;Jer.44.1;Jer.46.14) |
-| Tehaphnehes (NIV= Tahpanhes) | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H8471) <small>*Hebrew*</small> | 1x | [Ezk.30.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tehaphnehes\*\|reference=Ezk.30.18) |
-All Strong's for **Tahpanhes or Tehaphnehes**: \[[[H8471]]\]
+| Tahpanhes | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H8471) | 6x | [[Jer.2.16] ... [Jer.46.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tahpanhes\*\|reference=Jer.2.16;Jer.43.7;Jer.43.8;Jer.43.9;Jer.44.1;Jer.46.14) |
+| Tehaphnehes (NIV= Tahpanhes) | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>פ</span>ַּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H8471) | 1x | [Ezk.30.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tehaphnehes\*\|reference=Ezk.30.18) |
+All entries for **Tahpanhes or Tehaphnehes**:  **<big>[[H8471|תַּחְפַּנְחֵס]]</big>**

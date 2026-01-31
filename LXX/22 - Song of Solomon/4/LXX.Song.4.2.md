@@ -7,26 +7,26 @@ Thy teeth [are] like a flock [of sheep that are even] shorn, which came up from 
 Your teeth are like a flock of newly shorn sheep coming up from the washing; each has its twin, and not one of them is lost.<small><sub>**MT:**</sub></small>
 [[Song.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.1|<< Song of Solomon 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.3|Song of Solomon 4:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Your teeth | <big><span class="asgreek">οδόντες</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| herds | <big><span class="asgreek">αγέλαι</span></big> <sup><small><small>[[G0034]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones being sheared, | <big><span class="asgreek">κεκαρμένων</span></big> <sup><small><small>[[G2751]]</small></small></sup> |
-| the ones which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bath, | <big><span class="asgreek">λουτρού</span></big> <sup><small><small>[[G3067]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| bearing twins, | <big><span class="asgreek">διδυμεύουσαι</span></big> <sup><small><small>[[G6911]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a childless one | <big><span class="asgreek">ατεκνούσα</span></big> <sup><small><small>[[G6589]]</small></small></sup> |
-| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Your teeth | **<big>[[G3599\|οδόντες]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[are\] as | **<big>[[G5613\|ως]]</big>** |
+| herds | **<big>[[G0034\|αγέλαι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| ones being sheared, | **<big>[[G2751\|κεκαρμένων]]</big>** |
+| the ones which | **<big>[[G3739\|αι]]</big>** |
+| ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| bath, | **<big>[[G3067\|λουτρού]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| bearing twins, | **<big>[[G6911\|διδυμεύουσαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a childless one | **<big>[[G6589\|ατεκνούσα]]</big>** |
+| there is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| them. | **<big>[[G1473\|αυταίς]]</big>** |
 [[Song.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.1|<< Song of Solomon 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.3|Song of Solomon 4:3 >>]]</td></tr></table>
 
 

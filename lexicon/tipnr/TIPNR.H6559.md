@@ -1,8 +1,8 @@
 <small>*Mount Perazim • A place where David defeated the Philistines*</small>
 
 Mount Perazim was the location where David, with God's help, defeated the Philistines, and it is used by Isaiah as an example of God's judgment.
-- A location near Rephaim\_Valley<[[H7497G]]> only mentioned at [[Isa.28.21|Isa.28.21]]; 
-- only referred to as Perazim\_Mount<[[H6559]]> \(<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Rephaim\_Valley **<big>[[H7497|רָפָא]]</big>** only mentioned at [[Isa.28.21|Isa.28.21]]; 
+- only referred to as Perazim\_Mount **<big>[[H6559|פְּרָצִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.756332,35.223059&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ By using Mount Perazim as an example, Isaiah emphasizes that just as God granted
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Perazim | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6559) <small>*Hebrew*</small> | 1x | [Isa.28.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Perazim\*\|reference=Isa.28.21) |
-All Strong's for **Perazim_Mount**: \[[[H6559]]\]
+| (Mount )Perazim | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>ים</span>](H6559) | 1x | [Isa.28.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Perazim\*\|reference=Isa.28.21) |
+All entries for **Perazim Mount**:  **<big>[[H6559|פְּרָצִים]]</big>**

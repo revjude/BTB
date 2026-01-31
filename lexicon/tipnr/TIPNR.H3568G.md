@@ -4,10 +4,10 @@ Man living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Cush</span>, a son of Ham, was the father of Nimrod and other descendants who became nations. \([[Gen.10.6|Gen.10.6]],7,8; [[1Chr.1.8|1Ch.1.8]],9,10\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.10.6|Gen.10.6]]; 
-- only referred to as Cush<[[H3568G]]> \(<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ\); 
--  son of Ham<[[H2526G]]>; 
-- a brother of Canaan<[[H3667G]]>, Egypt<[[H4714H]]> and Put<[[H6316G]]>; 
--  father of Seba<[[H5434G]]>, Havilah<[[H2341H]]>, Sabtah<[[H5454]]>, Raamah<[[H7484G]]>, Sabteca<[[H5455]]> and Nimrod<[[H5248]]>.
+- only referred to as Cush **<big>[[H3568|כּוּשׁ]]</big>**; 
+-  son of Ham **<big>[[H2526|חָם]]</big>**; 
+- a brother of Canaan **<big>[[H3667|כְּנַעַן]]</big>**, Egypt **<big>[[H4714|מִצְרַיִם]]</big>** and Put **<big>[[H6316|פּוּט]]</big>**; 
+-  father of Seba **<big>[[H5434|סְבָא]]</big>**, Havilah **<big>[[H2341|חֲוִילָה]]</big>**, Sabtah **<big>[[H5454|סַבְתָּא]]</big>**, Raamah **<big>[[H7484|רַעְמָה]]</big>**, Sabteca **<big>[[H5455|סַבְתְּכָא]]</big>** and Nimrod **<big>[[H5248|נִמְרוֹד]]</big>**.
 
 Cush is mentioned in the genealogies of Genesis 10 and 1 Chronicles 1 as one of the sons of Ham, the son of Noah. He is listed alongside his brothers Mizraim, Put, and Canaan. 
 
@@ -21,8 +21,8 @@ The genealogy of Cush and his descendants in Genesis 10 and 1 Chronicles 1 provi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cush | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ](H3568G) <small>*Hebrew*</small> | 6x | [[Gen.10.6] ... [1Ch.1.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cush\*\|reference=Gen.10.6;Gen.10.7;Gen.10.8;1Ch.1.8;1Ch.1.9;1Ch.1.10) |
-All Strong's for **Cush**: \[[[H3568G]]\]
+| Cush | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ](H3568G) | 6x | [[Gen.10.6] ... [1Ch.1.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cush\*\|reference=Gen.10.6;Gen.10.7;Gen.10.8;1Ch.1.8;1Ch.1.9;1Ch.1.10) |
+All entries for **Cush**:  **<big>[[H3568|כּוּשׁ]]</big>**
 #### Related Profiles:
 - **[Ham](H2526G)** (father)
 - **[Canaan](H3667G)** (sibling)

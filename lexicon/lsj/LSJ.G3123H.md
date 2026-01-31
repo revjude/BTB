@@ -1,4 +1,4 @@
-meaning of: <small>[[G3123G]]</small> 
+meaning of: <small>**<big>[[G3123G|μᾶλλον]]</big>**</small> 
 
 
 Included with: <b> <span class='asgreek'>==μᾶλλον==</span></b> [<span class='asgreek'>μᾰλᾰ</span>; 

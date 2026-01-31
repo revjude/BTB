@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְקוּתִיאֵל‎</span></big> **Yᵉqûwthîyʼêl** <small>*(yek-ooth-ee'-ale)*</small> ==**Jekuthiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎יָקֶה‎</span><sup><small>[[H3348]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; obedience of God</small>
+**<big><span class="ashebrew">‎יְקוּתִיאֵל‎</span></big>** **Yᵉqûwthîyʼêl** <small>*(yek-ooth-ee'-ale)*</small> ==**Jekuthiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H3348|‎יָקֶה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; obedience of God</small>
 
 $\quad$ Jekuthiel.
 - § Jekuthiel = *"cleansing of God"*

@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּעַם‎</span></big> **pâʻam** <small>*(paw-am')*</small> ==**to trouble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּעַם‎</span></big>** **pâʻam** <small>*(paw-am')*</small> ==**to trouble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ move, trouble.

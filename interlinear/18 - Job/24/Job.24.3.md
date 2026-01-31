@@ -6,14 +6,14 @@ They drive away the donkey of the fatherless and take the widow’s ox in pledge
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.2|<< Job 24:2]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.4|Job 24:4 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] donkey of  | <span class="ashebrew"><big>חֲמ֣וֹר </big></span><small><small><sup>[[H2543]]</sup></small></small> &#8207;| cha.Mor <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fatherless ones  | <span class="ashebrew"><big>יְתוֹמִ֣ים </big></span><small><small><sup>[[H3490]]</sup></small></small> &#8207;| ye.to.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they drive away  | <span class="ashebrew"><big>יִנְהָ֑גוּ </big></span><small><small><sup>[[H5090A]]</sup></small></small> &#8207;| yin.Ha.gu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they take as pledge  | <span class="ashebrew"><big>יַ֝חְבְּל֗וּ </big></span><small><small><sup>[[H2254A]]</sup></small></small> &#8207;| yach.be.Lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] ox of  | <span class="ashebrew"><big>שׁ֣וֹר </big></span><small><small><sup>[[H7794]]</sup></small></small> &#8207;| Shor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a widow  | <span class="ashebrew"><big>אַלְמָנָֽה </big></span><small><small><sup>[[H0490]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'al.ma.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] donkey of  |**<big>&#8207;[[H2543\|חֲמ֣וֹר]]&#8207; </big>**| cha.Mor<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fatherless ones  |**<big>&#8207;[[H3490\|יְתוֹמִ֣ים]]&#8207; </big>**| ye.to.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they drive away  |**<big>&#8207;[[H5090A\|יִנְהָ֑גוּ]]&#8207; </big>**| yin.Ha.gu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they take as pledge  |**<big>&#8207;[[H2254A\|יַ֝חְבְּל֗וּ]]&#8207; </big>**| yach.be.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ox of  |**<big>&#8207;[[H7794\|שׁ֣וֹר]]&#8207; </big>**| Shor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a widow  |**<big>&#8207;[[H0490\|אַלְמָנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.2|<< Job 24:2]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.4|Job 24:4 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ Put yourselves in array against Babylon round about: all ye that bend the bow, s
 Line up in formation around Babylon, all you who draw the bow! Shoot at her! Spare no arrows! For she has sinned against the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.50.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.13|<< Jeremiah 50:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.15|Jeremiah 50:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Deploy | <big><span class="asgreek">παρατάξασθε</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Babylon | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| round about, | <big><span class="asgreek">κύκλοθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| stretching | <big><span class="asgreek">τείνοντες</span></big> <sup><small><small>[[G9407]]</small></small></sup> |
-| \[the\] bow! | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| Shoot | <big><span class="asgreek">τοξεύσατε</span></big> <sup><small><small>[[G9464]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her! | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Spare not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">φείσησθε</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| against \[her\] | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your bows! | <big><span class="asgreek">τοξεύμασιν</span></big> <sup><small><small>[[G9463]]</small></small></sup> <big><span class="asgreek">υμων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| against the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυριω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| she sinned. | <big><span class="asgreek">ημαρτεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| Deploy | **<big>[[G8641\|παρατάξασθε]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Babylon | **<big>[[G0897\|Βαβυλώνα]]</big>** |
+| round about, | **<big>[[G2943\|κύκλοθεν]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| stretching | **<big>[[G9407\|τείνοντες]]</big>** |
+| \[the\] bow! | **<big>[[G5115\|τόξον]]</big>** |
+| Shoot | **<big>[[G9464\|τοξεύσατε]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| her! | **<big>[[G1473\|αυτήν]]</big>** |
+| Spare not | **<big>[[G3361\|μη]]</big>** **<big>[[G5339\|φείσησθε]]</big>** |
+| against \[her\] | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your bows! | **<big>[[G9463\|τοξεύμασιν]]</big>** **<big>[[G1473\|υμων]]</big>** |
+| for | **<big>[[G3754\|οτι]]</big>** |
+| against the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυριω]]</big>** |
+| she sinned. | **<big>[[G0264\|ημαρτεν]]</big>** |
 [[Jer.50.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.13|<< Jeremiah 50:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.15|Jeremiah 50:15 >>]]</td></tr></table>
 
 

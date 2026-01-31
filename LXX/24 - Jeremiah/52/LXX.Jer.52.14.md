@@ -7,22 +7,22 @@ And all the army of the Chaldeans, that [were] with the captain of the guard, br
 And the whole army of the Chaldeans under the captain of the guard broke down all the walls around Jerusalem.<small><sub>**MT:**</sub></small>
 [[Jer.52.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.13|<< Jeremiah 52:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.15|Jeremiah 52:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| was demolished | <big><span class="asgreek">καθείλεν</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
-| by the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief guard. | <big><span class="asgreek">αρχιμαγείρου</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| of Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| was demolished | **<big>[[G2507\|καθείλεν]]</big>** |
+| by the | **<big>[[G3588\|η]]</big>** |
+| force | **<big>[[G1411\|δύναμις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| chief guard. | **<big>[[G6554\|αρχιμαγείρου]]</big>** |
 [[Jer.52.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.13|<< Jeremiah 52:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.15|Jeremiah 52:15 >>]]</td></tr></table>
 
 

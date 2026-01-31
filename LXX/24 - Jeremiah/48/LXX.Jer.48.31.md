@@ -7,20 +7,20 @@ Therefore will I howl for Moab, and I will cry out for all Moab; [mine heart] sh
 Therefore I will wail for Moab; I will cry out for all of Moab; I will moan for the men of Kir-heres.<small><sub>**MT:**</sub></small>
 [[Jer.48.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.30|<< Jeremiah 48:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.32|Jeremiah 48:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| shriek | <big><span class="asgreek">ολολύξατε</span></big> <sup><small><small>[[G3649]]</small></small></sup> |
-| on all sides! | <big><span class="asgreek">πάντοθεν</span></big> <sup><small><small>[[G3840]]</small></small></sup> |
-| Yell | <big><span class="asgreek">βοήσατε</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| of Keir | <big><span class="asgreek">Κειρ</span></big> <sup><small><small>[[H7025]]</small></small></sup> |
-| Heres | <big><span class="asgreek">Αράς</span></big> <sup><small><small>[[H2745]]</small></small></sup> |
-| of squalid \[conditions\]! | <big><span class="asgreek">αυχμού</span></big> <sup><small><small>[[G6613]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this | **<big>[[G3778\|τούτο]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| shriek | **<big>[[G3649\|ολολύξατε]]</big>** |
+| on all sides! | **<big>[[G3840\|πάντοθεν]]</big>** |
+| Yell | **<big>[[G0994\|βοήσατε]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| of Keir | **<big>[[H7025\|Κειρ]]</big>** |
+| Heres | **<big>[[H2745\|Αράς]]</big>** |
+| of squalid \[conditions\]! | **<big>[[G6613\|αυχμού]]</big>** |
 [[Jer.48.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.30|<< Jeremiah 48:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.32|Jeremiah 48:32 >>]]</td></tr></table>
 
 

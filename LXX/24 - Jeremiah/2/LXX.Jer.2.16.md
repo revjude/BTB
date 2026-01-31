@@ -7,18 +7,18 @@ Also the children of Noph and Tahapanes have broken the crown of thy head.
 The men of Memphis and Tahpanhes have shaved the crown of your head.<small><sub>**MT:**</sub></small>
 [[Jer.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.15|<< Jeremiah 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.17|Jeremiah 2:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Memphis | <big><span class="asgreek">Μέμφεως</span></big> <sup><small><small>[[H5297]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tahapanhes | <big><span class="asgreek">Τάφνας</span></big> <sup><small><small>[[H8472]]</small></small></sup> |
-| knew | <big><span class="asgreek">έγνωσάν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were mocking | <big><span class="asgreek">κατέπαιζόν</span></big> <sup><small><small>[[G7885]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Memphis | **<big>[[H5297\|Μέμφεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tahapanhes | **<big>[[H8472\|Τάφνας]]</big>** |
+| knew | **<big>[[G1097\|έγνωσάν]]</big>** |
+| you, | **<big>[[G1473\|σε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were mocking | **<big>[[G7885\|κατέπαιζόν]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
 [[Jer.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.15|<< Jeremiah 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.17|Jeremiah 2:17 >>]]</td></tr></table>
 
 

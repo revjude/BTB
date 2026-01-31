@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵט‎</span></big> **ʻêṭ** <small>*(ate)*</small> ==**stylus**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עִיט‎</span><sup><small>[[H5860]]</small></sup> (contracted) in the sense of swooping, i.e. side-long stroke</small>
+**<big><span class="ashebrew">‎עֵט‎</span></big>** **ʻêṭ** <small>*(ate)*</small> ==**stylus**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5860|‎עִיט‎]]</big>** (contracted) in the sense of swooping, i.e. side-long stroke</small>
 
 $\quad$ pen.
 - ***a stylus*** or ***marking stick***

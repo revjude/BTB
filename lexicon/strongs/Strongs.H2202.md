@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זִפְרֹן‎</span></big> **Ziphrôn** <small>*(zi-frone')*</small> ==**Ziphron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎זִפְרֹן‎</span></big>** **Ziphrôn** <small>*(zi-frone')*</small> ==**Ziphron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>from an unused root (meaning to be fragrant)</small>
 
 $\quad$ Ziphron.

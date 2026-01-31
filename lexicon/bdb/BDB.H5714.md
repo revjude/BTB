@@ -1,4 +1,4 @@
-<small>Also see: [[H3260]]</small>
+<small>Also see: **<big>[[H3260|יֶעְדִּי]]</big>**</small>
 
  <span class="bdbLangHebrew">‎עִדּוֺ‎</span>, <span class="bdbLangHebrew">‎עִדֹּא‎</span>, <span class="bdbLangHebrew">‎עִדּוֺא‎</span> **proper name, masculine** ==Iddo==; — 
 

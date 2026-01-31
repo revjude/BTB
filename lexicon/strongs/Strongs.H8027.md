@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׁלַשׁ‎</span></big> **shâlash** <small>*(shaw-lash')*</small> ==**to do three**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root perhaps originally to intensify, i.e. treble; but apparently used only as denominative from <span class="ashebrew">‎שָׁלוֹשׁ‎</span><sup><small>[[H7969]]</small></sup>,</small>
+**<big><span class="ashebrew">‎שָׁלַשׁ‎</span></big>** **shâlash** <small>*(shaw-lash')*</small> ==**to do three**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root perhaps originally to intensify, i.e. treble; but apparently used only as denominative from **<big>[[H7969|‎שָׁלוֹשׁ‎]]</big>**,</small>
 
 $\quad$ do the third time, (divide into, stay) three (days, -fold, parts, years old).
 - ***to be*** (causatively, make) ***triplicate*** (by restoration, in portions, strands, days or years)

@@ -7,17 +7,17 @@ The wicked have waited for me to destroy me: [but] I will consider thy testimoni
 The wicked wait to destroy me, but I will ponder Your testimonies.<small><sub>**MT:**</sub></small>
 [[Ps.119.95|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.94|<< Psalm 119:94]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.96|Psalm 119:96 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| remained behind | <big><span class="asgreek">υπέμειναν</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
-| Sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to destroy | <big><span class="asgreek">απολέσαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your testimonies | <big><span class="asgreek">μαρτύριά</span></big> <sup><small><small>[[G3142]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I perceived | <big><span class="asgreek">συνήκα</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| for me | **<big>[[G1473\|εμέ]]</big>** |
+| remained behind | **<big>[[G5278\|υπέμειναν]]</big>** |
+| Sinners | **<big>[[G0268\|αμαρτωλοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to destroy | **<big>[[G0622\|απολέσαι]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your testimonies | **<big>[[G3142\|μαρτύριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I perceived | **<big>[[G4920\|συνήκα]]</big>** |
 [[Ps.119.95|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.94|<< Psalm 119:94]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.96|Psalm 119:96 >>]]</td></tr></table>
 
 

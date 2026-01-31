@@ -6,14 +6,14 @@ Men listened to me with expectation, waiting silently for my counsel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.20|<< Job 29:20]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.22|Job 29:22 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to me  | <span class="ashebrew"><big>לִֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> - <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people listened  | <span class="ashebrew"><big>שָׁמְע֥וּ </big></span><small><small><sup>[[H8085G]]</sup></small></small> &#8207;| sha.me.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they waited  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִחֵ֑לּוּ </big></span><small><small><sup>[[H3176G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yi.Che.lu <small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may be silent  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יִדְּמ֗וּ </big></span><small><small><sup>[[H1826H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yi.de.Mu <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>לְמ֣וֹ </big></span><small><small><sup>[[H3926]]</sup></small></small> &#8207;| le.Mo <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| counsel my  | <span class="ashebrew"><big>עֲצָתִֽ </big></span><small><small><sup>[[H6098]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.tza.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> -<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people listened  |**<big>&#8207;[[H8085G\|שָׁמְע֥וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they waited  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3176G\|יִחֵ֑לּוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Che.lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may be silent  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1826H\|יִדְּמ֗וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.de.Mu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3926\|לְמ֣וֹ]]&#8207; </big>**| le.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| counsel my  |**<big>&#8207;[[H6098\|עֲצָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.tza.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.20|<< Job 29:20]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.22|Job 29:22 >>]]</td></tr></table>
 
 

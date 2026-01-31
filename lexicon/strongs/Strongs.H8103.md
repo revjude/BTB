@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁמְצָה‎</span></big> **shimtsâh** <small>*(shim-tsaw')*</small> ==**derision**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎שֶׁמֶץ‎</span><sup><small>[[H8102]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁמְצָה‎</span></big>** **shimtsâh** <small>*(shim-tsaw')*</small> ==**derision**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H8102|‎שֶׁמֶץ‎]]</big>**</small>
 
 $\quad$ shame.
 - ***scornful whispering*** (of hostile spectators)

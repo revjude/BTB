@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַיָּה‎</span></big> **ʼAyâh** <small>*(ah-yaw')*</small> ==**Aiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎אַיָּה‎</span><sup><small>[[H0344]]</small></sup></small>
+**<big><span class="ashebrew">‎אַיָּה‎</span></big>** **ʼAyâh** <small>*(ah-yaw')*</small> ==**Aiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H0344|‎אַיָּה‎]]</big>**</small>
 
 $\quad$ Aiah, Ajah.
 - § Aiah or Ajah = *"falcon"*

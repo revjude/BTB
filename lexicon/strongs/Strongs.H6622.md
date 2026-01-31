@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּתַר‎</span></big> **pâthar** <small>*(paw-thar')*</small> ==**to interpret**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּתַר‎</span></big>** **pâthar** <small>*(paw-thar')*</small> ==**to interpret**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ interpret(-ation, -er).
@@ -6,4 +6,4 @@ $\quad$ interpret(-ation, -er).
 
 **1)** (Qal) to interpret (dreams)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπαγγέλλω</span><sup><small>[[G0518]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">διατάσσω</span><sup><small>[[G1299]]</small></sup> · <span class="asgreek">καταλύω</span><sup><small>[[G2647]]</small></sup>
+<small>See Greek: </small>**<big>[[G0518|ἀπαγγέλλω]]</big>** · **<big>[[G0868|ἀφίστημι]]</big>** · **<big>[[G1299|διατάσσω]]</big>** · **<big>[[G2647|καταλύω]]</big>**

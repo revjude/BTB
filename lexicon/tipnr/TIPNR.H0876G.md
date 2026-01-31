@@ -1,8 +1,8 @@
 <small>*Beer • Site where God provided water for the Israelites.*</small>
 
 <span class='tipnrhighlight'>Beer</span> was a site where God provided water for the Israelites during their wilderness journey. \([[Num.21.16|Numbers 21:16]]\)
-- A location near Eneglaim<[[H5882]]> only mentioned at [[Num.21.16|Num.21.16]]; 
-- only referred to as Beer<[[H0876G]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span>\).
+- A location near Eneglaim **<big>[[H5882|עֵין עֶגְלַיִם]]</big>** only mentioned at [[Num.21.16|Num.21.16]]; 
+- only referred to as Beer **<big>[[H0876|בְּאֵר]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.998062,35.498547&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact location of Beer is not specified in the Bible, but it was likely some
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beer | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H0876G) <small>*Hebrew*</small> | 1x | [Num.21.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Num.21.16) |
-All Strong's for **Beer**: \[[[H0876G]]\]
+| Beer | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H0876G) | 1x | [Num.21.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beer\*\|reference=Num.21.16) |
+All entries for **Beer**:  **<big>[[H0876|בְּאֵר]]</big>**

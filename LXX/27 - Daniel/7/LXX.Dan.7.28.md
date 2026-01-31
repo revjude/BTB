@@ -7,34 +7,34 @@ Hitherto [is] the end of the matter. As for me Daniel, my cogitations much troub
 Thus ends the matter. As for me, Daniel, my thoughts troubled me greatly, and my face turned pale. But I kept the matter to myself.”<small><sub>**MT:**</sub></small>
 [[Dan.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.27|<< Daniel 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.1|Daniel 8:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| end | <big><span class="asgreek">πέρας</span></big> <sup><small><small>[[G4009]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matter. | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Daniel, | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
-| very much | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thoughts | <big><span class="asgreek">διαλογισμοί</span></big> <sup><small><small>[[G1261]]</small></small></sup> |
-| of mine | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| disturbed me, | <big><span class="asgreek">συνετάρασσόν</span></big> <sup><small><small>[[G9337]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my appearance | <big><span class="asgreek">μορφή</span></big> <sup><small><small>[[G3444]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| changed | <big><span class="asgreek">ηλλοιώθη</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I preserved | <big><span class="asgreek">συνετήρησα</span></big> <sup><small><small>[[G4933]]</small></small></sup> |
+| Unto | **<big>[[G2193\|έως]]</big>** |
+| here | **<big>[[G5602\|ώδε]]</big>** |
+| \[is\] the | **<big>[[G3588\|το]]</big>** |
+| end | **<big>[[G4009\|πέρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| matter. | **<big>[[G3056\|λόγου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| Daniel, | **<big>[[G1158\|Δανιήλ]]</big>** |
+| very much | **<big>[[G1909\|επί]]</big>** **<big>[[G4183\|πολύ]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| thoughts | **<big>[[G1261\|διαλογισμοί]]</big>** |
+| of mine | **<big>[[G1473\|μου]]</big>** |
+| disturbed me, | **<big>[[G9337\|συνετάρασσόν]]</big>** **<big>[[G1473\|με]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my appearance | **<big>[[G3444\|μορφή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| changed | **<big>[[G6230\|ηλλοιώθη]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| matter | **<big>[[G4487\|ρήμα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my heart | **<big>[[G2588\|καρδία]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I preserved | **<big>[[G4933\|συνετήρησα]]</big>** |
 [[Dan.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.27|<< Daniel 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.1|Daniel 8:1 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ Because my people hath forgotten me, they have burned incense to vanity, and the
 Yet My people have forgotten Me. They burn incense to worthless idols that make them stumble in their ways, leaving the ancient roads to walk on rutted bypaths instead of on the highway.<small><sub>**MT:**</sub></small>
 [[Jer.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.14|<< Jeremiah 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.16|Jeremiah 18:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| forgot | <big><span class="asgreek">επελάθοντο</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| vain | <big><span class="asgreek">κενόν</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
-| They burned incense | <big><span class="asgreek">εθυμίασαν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall weaken | <big><span class="asgreek">ασθενήσουσιν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their ways -- | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| roads | <big><span class="asgreek">τρίβοις</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| eternal | <big><span class="asgreek">αιωνίοις</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to mount | <big><span class="asgreek">επιβήναι</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| roads | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| having | <big><span class="asgreek">έχοντας</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| a way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| going; | <big><span class="asgreek">πορείαν</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| forgot | **<big>[[G1950\|επελάθοντο]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| vain | **<big>[[G2756\|κενόν]]</big>** |
+| They burned incense | **<big>[[G2370\|εθυμίασαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall weaken | **<big>[[G0770\|ασθενήσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their ways -- | **<big>[[G3598\|οδοίς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| roads | **<big>[[G5147\|τρίβοις]]</big>** |
+| eternal | **<big>[[G0166\|αιωνίοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to mount | **<big>[[G1910\|επιβήναι]]</big>** |
+| roads | **<big>[[G5147\|τρίβους]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| having | **<big>[[G2192\|έχοντας]]</big>** |
+| a way | **<big>[[G3598\|οδόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| going; | **<big>[[G4197\|πορείαν]]</big>** |
 [[Jer.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.14|<< Jeremiah 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.16|Jeremiah 18:16 >>]]</td></tr></table>
 
 

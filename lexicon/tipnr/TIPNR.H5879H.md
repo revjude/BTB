@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Enam</span>, a town in the Shephelah region, allotted to the tribe of Judah.
 - A location only mentioned at [[Josh.15.34|Jos.15.34]]; 
-- only referred to as Enam<[[H5879H]]> \(<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ם</span>\).
+- only referred to as Enam **<big>[[H5879|עֵינַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.15,35.1260&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Enam was a town located in the Shephelah, the lowland region of Judah, and was i
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Enam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5879H) <small>*Hebrew*</small> | 1x | [Jos.15.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Enam\*\|reference=Jos.15.34) |
-All Strong's for **Enam**: \[[[H5879H]]\]
+| Enam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5879H) | 1x | [Jos.15.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Enam\*\|reference=Jos.15.34) |
+All entries for **Enam**:  **<big>[[H5879|עֵינַיִם]]</big>**

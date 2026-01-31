@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cyprus</span>, also referred to as Kittim and Elishah, was an island in the Mediterranean Sea that played a significant role in the spread of early Christianity.
 - A location in Cyprus first mentioned at [[Num.24.24|Num.24.24]]; 
-- referred to as Cyprus or Kittim \(KJV= Chittim, NIV= Cyprus\) or Kittim \(KJV= Chittim, NIV= "western coastlands"\) <[[H3794H]]> \(<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>\), or Elishah<[[H0473H]]> \(<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>\), or Cyprus<[[G2953]]> \(<span class='tipnrLangGreek'>Κύπριος</span>\), or Cyprus<[[G2954]]> \(<span class='tipnrLangGreek'>Κύπρος</span>\).
+- referred to as Cyprus or Kittim \(KJV= Chittim, NIV= Cyprus\) or Kittim \(KJV= Chittim, NIV= "western coastlands"\)  **<big>[[H3794|כִּתִּי]]</big>**, or Elishah **<big>[[H0473|אֱלִישָׁה]]</big>**, or Cyprus **<big>[[G2953|Κύπριος]]</big>**, or Cyprus **<big>[[G2954|Κύπρος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.018306,33.207693&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,10 +18,10 @@ The early Christian community in Cyprus included Mnason, an early disciple who p
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cyprus (KJV= Chittim) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H3794H) <small>*Hebrew*</small> | 4x | [[Isa.23.1] ... [Ezk.27.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyprus\*\|reference=Isa.23.1;Isa.23.12;Jer.2.10;Ezk.27.6) |
-| Kittim (KJV= Chittim; NIV= Cyprus) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H3794H) <small>*Hebrew*</small> | 1x | [Num.24.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kittim\*\|reference=Num.24.24) |
-| Kittim (KJV= Chittim; NIV= western coastlands) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H3794H) <small>*Hebrew*</small> | 1x | [Dan.11.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kittim\*\|reference=Dan.11.30) |
-| Elishah | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H0473H) <small>*Hebrew*</small> | 1x | [Ezk.27.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elishah\*\|reference=Ezk.27.7) |
-| Cyprus | [<span class='tipnrLangGreek'>Κύπριος</span>](G2953) <small>*Greek*</small> | 3x | [[Act.4.36] ... [Act.21.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyprus\*\|reference=Act.4.36;Act.11.20;Act.21.16) |
-| Cyprus | [<span class='tipnrLangGreek'>Κύπρος</span>](G2954) <small>*Greek*</small> | 5x | [[Act.11.19] ... [Act.27.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyprus\*\|reference=Act.11.19;Act.13.4;Act.15.39;Act.21.3;Act.27.4) |
-All Strong's for **Cyprus or Kittim or Elishah**: \[[[H3794H]]\] \[[[H0473H]]\] \[[[G2953]]\] \[[[G2954]]\]
+| Cyprus (KJV= Chittim) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H3794H) | 4x | [[Isa.23.1] ... [Ezk.27.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyprus\*\|reference=Isa.23.1;Isa.23.12;Jer.2.10;Ezk.27.6) |
+| Kittim (KJV= Chittim; NIV= Cyprus) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H3794H) | 1x | [Num.24.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kittim\*\|reference=Num.24.24) |
+| Kittim (KJV= Chittim; NIV= western coastlands) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>י</span>](H3794H) | 1x | [Dan.11.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kittim\*\|reference=Dan.11.30) |
+| Elishah | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ה</span>](H0473H) | 1x | [Ezk.27.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elishah\*\|reference=Ezk.27.7) |
+| Cyprus | [<span class='tipnrLangGreek'>Κύπριος</span>](G2953) | 3x | [[Act.4.36] ... [Act.21.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyprus\*\|reference=Act.4.36;Act.11.20;Act.21.16) |
+| Cyprus | [<span class='tipnrLangGreek'>Κύπρος</span>](G2954) | 5x | [[Act.11.19] ... [Act.27.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyprus\*\|reference=Act.11.19;Act.13.4;Act.15.39;Act.21.3;Act.27.4) |
+All entries for **Cyprus or Kittim or Elishah**:  **<big>[[H3794|כִּתִּי]]</big>** ☩  **<big>[[H0473|אֱלִישָׁה]]</big>** ☩  **<big>[[G2953|Κύπριος]]</big>** ☩  **<big>[[G2954|Κύπρος]]</big>**

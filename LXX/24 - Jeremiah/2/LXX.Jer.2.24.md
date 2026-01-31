@@ -7,33 +7,33 @@ A wild ass used to the wilderness, [that] snuffeth up the wind at her pleasure; 
 a wild donkey at home in the wilderness, sniffing the wind in the heat of her desire. Who can restrain her passion? All who seek her need not weary themselves; in mating season they will find her.<small><sub>**MT:**</sub></small>
 [[Jer.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.23|<< Jeremiah 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.25|Jeremiah 2:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Her ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| widen | <big><span class="asgreek">επλάτυνεν</span></big> <sup><small><small>[[G4115]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of \[the\] wilderness; | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] desires | <big><span class="asgreek">επιθυμίαις</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
-| of her soul | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she was being carried by the wind; | <big><span class="asgreek">επνευματοφορείτο</span></big> <sup><small><small>[[G8825]]</small></small></sup> |
-| she was delivered up to them, | <big><span class="asgreek">παρεδόθη</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| will turn | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| her? | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seeking | <big><span class="asgreek">ζητούντες</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| tire; | <big><span class="asgreek">κοπιάσουσιν</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her humiliation | <big><span class="asgreek">ταπεινώσει</span></big> <sup><small><small>[[G5014]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall find | <big><span class="asgreek">ευρήσουσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| Her ways | **<big>[[G3598\|οδούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| widen | **<big>[[G4115\|επλάτυνεν]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| waters | **<big>[[G5204\|ύδατα]]</big>** |
+| of \[the\] wilderness; | **<big>[[G2048\|ερήμου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] desires | **<big>[[G1939\|επιθυμίαις]]</big>** |
+| of her soul | **<big>[[G5590\|ψυχής]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| she was being carried by the wind; | **<big>[[G8825\|επνευματοφορείτο]]</big>** |
+| she was delivered up to them, | **<big>[[G3860\|παρεδόθη]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| will turn | **<big>[[G1994\|επιστρέψει]]</big>** |
+| her? | **<big>[[G1473\|αυτήν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| seeking | **<big>[[G2212\|ζητούντες]]</big>** |
+| her | **<big>[[G1473\|αυτήν]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| tire; | **<big>[[G2872\|κοπιάσουσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her humiliation | **<big>[[G5014\|ταπεινώσει]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| they shall find | **<big>[[G2147\|ευρήσουσιν]]</big>** |
+| her. | **<big>[[G1473\|αυτήν]]</big>** |
 [[Jer.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.23|<< Jeremiah 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.25|Jeremiah 2:25 >>]]</td></tr></table>
 
 

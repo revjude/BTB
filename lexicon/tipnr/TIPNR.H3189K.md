@@ -4,7 +4,7 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Jahath</span>, along with Obadiah, were Levites from the Merarites who faithfully supervised the workmen repairing the temple during Josiah's reign \([[2Chr.34.12|2Ch.34.12]]\).
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.34.12|2Ch.34.12]]; 
-- only referred to as Jahath<[[H3189K]]> \(<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Jahath **<big>[[H3189|יַחַת]]</big>**.
 
 Jahath is mentioned in [[2Chr.34.12|2 Chronicles 34:12]] as one of the Levites who supervised the repairs of the temple during the reign of King Josiah. Along with Obadiah, another Levite, Jahath is described as a faithful supervisor over the workmen who were restoring the house of the Lord. 
 
@@ -18,5 +18,5 @@ No other specific details are provided about Jahath's life or other responsibili
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jahath | [<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3189K) <small>*Hebrew*</small> | 1x | [2Ch.34.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahath\*\|reference=2Ch.34.12) |
-All Strong's for **Jahath**: \[[[H3189K]]\]
+| Jahath | [<span class='tipnrLangHebrew'>י</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3189K) | 1x | [2Ch.34.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahath\*\|reference=2Ch.34.12) |
+All entries for **Jahath**:  **<big>[[H3189|יַחַת]]</big>**

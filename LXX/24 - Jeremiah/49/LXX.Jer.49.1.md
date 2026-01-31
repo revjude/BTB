@@ -10,34 +10,34 @@ Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no h
 Concerning the Ammonites, this is what the LORD says: “Has Israel no sons? Is he without heir? Why then has Milcom taken possession of Gad? Why have his people settled in their cities?<small><sub>**MT:**</sub></small>
 [[Jer.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.47|<< Jeremiah 48:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.2|Jeremiah 49:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| no | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| Are there | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel? | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| inheriting | <big><span class="asgreek">παραληψόμενος</span></big> <sup><small><small>[[G3880]]</small></small></sup> |
-| no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| is there | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of them? | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Why did | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| Milcom inherit | <big><span class="asgreek">παρέλαβε</span></big> <sup><small><small>[[G3880]]</small></small></sup> <big><span class="asgreek">Μολχόμ</span></big> <sup><small><small>[[H4445b]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gad, | <big><span class="asgreek">Γαδ</span></big> <sup><small><small>[[G1045]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their cities | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell | <big><span class="asgreek">ενοικεί</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
+| To the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμών]]</big>** |
+| thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| no | **<big>[[G3361\|μη]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| Are there | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|εισίν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| inheriting | **<big>[[G3880\|παραληψόμενος]]</big>** |
+| no one | **<big>[[G3756\|ουκ]]</big>** |
+| is there | **<big>[[G1510\|έστιν]]</big>** |
+| of them? | **<big>[[G1473\|αυτών]]</big>** |
+| Why did | **<big>[[G1302\|διατί]]</big>** |
+| Milcom inherit | **<big>[[G3880\|παρέλαβε]]</big>** **<big>[[H4445b\|Μολχόμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Gad, | **<big>[[G1045\|Γαδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| their people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their cities | **<big>[[G4172\|πόλεσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| dwell | **<big>[[G1774\|ενοικεί]]</big>** |
 [[Jer.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.47|<< Jeremiah 48:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.2|Jeremiah 49:2 >>]]</td></tr></table>
 
 

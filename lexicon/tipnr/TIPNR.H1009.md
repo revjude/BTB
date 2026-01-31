@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-arbel</span> was a place destroyed by Shalman, mentioned in Hosea's prophecy as an example of destruction. \([[Hos.10.14|Hosea 10:14]]\)
 - A location only mentioned at [[Hos.10.14|Hos.10.14]]; 
-- only referred to as Beth-arbel<[[H1009]]> \(<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>א</span>ַֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ב</span>ֵֿ<span class='tipnrLangHebrew'>אל</span>\).
+- only referred to as Beth-arbel **<big>[[H1009|בֵּית אַרְבֵּאל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.56101132918748,35.84782996762625&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The destruction of Beth-arbel is used by Hosea as an example of the impending ju
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth-arbel (NIV= Beth Arbel) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>א</span>ַֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ב</span>ֵֿ<span class='tipnrLangHebrew'>אל</span>](H1009) <small>*Hebrew*</small> | 1x | [Hos.10.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Hos.10.14) |
-All Strong's for **Beth-arbel**: \[[[H1009]]\]
+| Beth-arbel (NIV= Beth Arbel) | [<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ית</span> <span class='tipnrLangHebrew'>א</span>ַֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ב</span>ֵֿ<span class='tipnrLangHebrew'>אל</span>](H1009) | 1x | [Hos.10.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=Hos.10.14) |
+All entries for **Beth-arbel**:  **<big>[[H1009|בֵּית אַרְבֵּאל]]</big>**

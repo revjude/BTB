@@ -7,25 +7,25 @@ These [are] the children of Abihail the son of Huri, the son of Jaroah, the son 
 These were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz.<small><sub>**MT:**</sub></small>
 [[1Chr.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.13|<< 1 Chronicles 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.15|1 Chronicles 5:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Abihail | <big><span class="asgreek">Αβιήλ</span></big> <sup><small><small>[[H0032]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Huri, | <big><span class="asgreek">Ουρί</span></big> <sup><small><small>[[H2359]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jaroah, | <big><span class="asgreek">Ιαρουέ</span></big> <sup><small><small>[[H3386]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Michael, | <big><span class="asgreek">Μιχαήλ</span></big> <sup><small><small>[[G3413]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jeshishai, | <big><span class="asgreek">Σουσί</span></big> <sup><small><small>[[H3454]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jahdo, | <big><span class="asgreek">Ιεδδώ</span></big> <sup><small><small>[[H3163]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Buz, | <big><span class="asgreek">Βουζ</span></big> <sup><small><small>[[H0938]]</small></small></sup> |
+| These \[are\] | **<big>[[G3778\|ούτοι]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Abihail | **<big>[[H0032\|Αβιήλ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Huri, | **<big>[[H2359\|Ουρί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jaroah, | **<big>[[H3386\|Ιαρουέ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Michael, | **<big>[[G3413\|Μιχαήλ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jeshishai, | **<big>[[H3454\|Σουσί]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Jahdo, | **<big>[[H3163\|Ιεδδώ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Buz, | **<big>[[H0938\|Βουζ]]</big>** |
 [[1Chr.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.13|<< 1 Chronicles 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.15|1 Chronicles 5:15 >>]]</td></tr></table>
 
 

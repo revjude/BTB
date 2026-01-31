@@ -1,4 +1,4 @@
-<small>Also see: [[H7967]]</small>
+<small>Also see: **<big>[[H7967|שַׁלּוּם]]</big>**</small>
 
  <span class="bdbLangHebrew">‎מְשֻׁלָּם‎</span> **proper name, masculine** <span class="bdbLangGreek">Μεσουλαμ</span>, <span class="bdbLangGreek">Μοσολλαμ</span>, etc.:
 

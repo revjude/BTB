@@ -7,20 +7,20 @@ Have mercy upon me, O LORD; for I [am] weak: O LORD, heal me; for my bones are v
 Be merciful to me, O LORD, for I am frail; heal me, O LORD, for my bones are in agony.<small><sub>**MT:**</sub></small>
 [[Ps.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.1|<< Psalm 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.3|Psalm 6:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Show mercy on | <big><span class="asgreek">ελέησόν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I am weak. | <big><span class="asgreek">ασθενής</span></big> <sup><small><small>[[G0772]]</small></small></sup> <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Heal | <big><span class="asgreek">ίασαί</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[are\] disturbed | <big><span class="asgreek">εταράχθη</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Show mercy on | **<big>[[G1653\|ελέησόν]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| I am weak. | **<big>[[G0772\|ασθενής]]</big>** **<big>[[G1510\|ειμί]]</big>** |
+| Heal | **<big>[[G2390\|ίασαί]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[are\] disturbed | **<big>[[G5015\|εταράχθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my bones | **<big>[[G3747\|οστά]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.1|<< Psalm 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.3|Psalm 6:3 >>]]</td></tr></table>
 
 

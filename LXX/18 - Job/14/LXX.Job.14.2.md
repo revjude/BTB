@@ -11,19 +11,19 @@ Like a flower, he comes forth, then withers away; like a fleeting shadow, he doe
 > $\quad$ referenced by: [[Jas.1.10|Jas 1:10]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \[the\] flower | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
-| blooming | <big><span class="asgreek">ανθήσαν</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
-| he falls off; | <big><span class="asgreek">εξέπεσεν</span></big> <sup><small><small>[[G1601]]</small></small></sup> |
-| and he runs away | <big><span class="asgreek">απέδρα</span></big> <sup><small><small>[[G6424]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a shadow, | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| stands. | <big><span class="asgreek">στη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| Or | **<big>[[G2228\|η]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \[the\] flower | **<big>[[G0438\|άνθος]]</big>** |
+| blooming | **<big>[[G6341\|ανθήσαν]]</big>** |
+| he falls off; | **<big>[[G1601\|εξέπεσεν]]</big>** |
+| and he runs away | **<big>[[G6424\|απέδρα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a shadow, | **<big>[[G4639\|σκιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| stands. | **<big>[[G2476\|στη]]</big>** |
 [[Job.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.1|<< Job 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.3|Job 14:3 >>]]</td></tr></table>
 
 

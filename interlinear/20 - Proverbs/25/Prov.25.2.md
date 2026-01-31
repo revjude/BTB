@@ -6,16 +6,16 @@ It is the glory of God to conceal a matter and the glory of kings to search it o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.1|<< Proverbs 25:1]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.3|Proverbs 25:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [is] [the] glory of  | <span class="ashebrew"><big>כְּבֹ֣ד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| ke.Vod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God  | <span class="ashebrew"><big>אֱ֭לֹהִים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to conceal  | <span class="ashebrew"><big>הַסְתֵּ֣ר </big></span><small><small><sup>[[H5641]]</sup></small></small> &#8207;| has.Ter <small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a matter  | <span class="ashebrew"><big>דָּבָ֑ר </big></span><small><small><sup>[[H1697I]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [is the] glory of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְבֹ֥ד </big></span><small><small><sup>[[H3519]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe.Vod <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| kings  | <span class="ashebrew"><big>מְ֝לָכִ֗ים </big></span><small><small><sup>[[H4428G]]</sup></small></small> &#8207;| me.la.Khim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to search out  | <span class="ashebrew"><big>חֲקֹ֣ר </big></span><small><small><sup>[[H2713]]</sup></small></small> &#8207;| cha.Kor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a matter  | <span class="ashebrew"><big>דָּבָֽר </big></span><small><small><sup>[[H1697I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| da.Var <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] glory of  |**<big>&#8207;[[H3519\|כְּבֹ֣ד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to conceal  |**<big>&#8207;[[H5641\|הַסְתֵּ֣ר]]&#8207; </big>**| has.Ter<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a matter  |**<big>&#8207;[[H1697I\|דָּבָ֑ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is the] glory of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3519\|כְבֹ֥ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings  |**<big>&#8207;[[H4428G\|מְ֝לָכִ֗ים]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to search out  |**<big>&#8207;[[H2713\|חֲקֹ֣ר]]&#8207; </big>**| cha.Kor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a matter  |**<big>&#8207;[[H1697I\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.1|<< Proverbs 25:1]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.3|Proverbs 25:3 >>]]</td></tr></table>
 
 

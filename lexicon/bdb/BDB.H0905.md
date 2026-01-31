@@ -1,4 +1,4 @@
-<small>Also see: [[H0907]]</small>
+<small>Also see: **<big>[[H0907|בַּד]]</big>**</small>
 
  II, III. <span class="bdbLangHebrew">‎בַּד‎</span> see below I, II. <span class="bdbLangHebrew">‎בדד‎</span>. 
 

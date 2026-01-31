@@ -1,4 +1,3 @@
-<span class="asaramaic">‎נְהַר‎</span> <small>***(ne.har)***</small> ==**River**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H6578]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6578|פְּרָת]]</big>**</small> 
 
-- Aramaic of <i>pe.rat</i> (<span class='ashebrew'>‎פ‎</span>ְּ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ת‎</span> "Euphrates" [[H6578]])
+- Aramaic of <i>pe.rat</i> (<span class='ashebrew'>‎פ‎</span>ְּ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ת‎</span> "Euphrates" **<big>[[H6578|פְּרָת]]</big>**)

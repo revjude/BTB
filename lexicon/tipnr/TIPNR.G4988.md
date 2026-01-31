@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Sosthenes</span> was a synagogue ruler in Corinth who was beaten by a mob and later became a co-sender of Paul's first letter to the Corinthians.
 - A man living at the time of the New Testament, first mentioned at [[Ezra.2.55|Act.18.17]]; 
-- only referred to as Sosthenes<[[G4988]]> \(<span class='tipnrLangGreek'>Σωσθένης</span>\).
+- only referred to as Sosthenes **<big>[[G4988|Σωσθένης]]</big>**.
 
 Sosthenes is mentioned twice in the New Testament, first in Acts 18:17 and later in [[1Cor.1.1|1 Corinthians 1:1]]. In Acts, Sosthenes is identified as the ruler of the synagogue in Corinth during the time when Paul was preaching there. After the proconsul Gallio dismissed the charges brought against Paul by the Jews, the crowd seized Sosthenes and beat him in front of the tribunal. It is not clear whether Sosthenes was targeted because of his position or because he had shown sympathy toward Paul's message. 
 
@@ -14,5 +14,5 @@ The inclusion of Sosthenes as a co-sender of 1 Corinthians suggests that he was 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sosthenes | [<span class='tipnrLangGreek'>Σωσθένης</span>](G4988) <small>*Greek*</small> | 2x | [[Act.18.17] & [1Co.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sosthenes\*\|reference=Act.18.17;1Co.1.1) |
-All Strong's for **Sosthenes**: \[[[G4988]]\]
+| Sosthenes | [<span class='tipnrLangGreek'>Σωσθένης</span>](G4988) | 2x | [[Act.18.17] & [1Co.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sosthenes\*\|reference=Act.18.17;1Co.1.1) |
+All entries for **Sosthenes**:  **<big>[[G4988|Σωσθένης]]</big>**

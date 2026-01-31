@@ -6,19 +6,19 @@ And Israel said, [It is] enough; Joseph my son [is] yet alive: I will go and see
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.27|<< Genesis 45:27]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.1|Genesis 46:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּ֙אמֶר֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Yo.mer <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| enough  | <span class="ashebrew"><big>רַ֛ב </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| rav <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still  | <span class="ashebrew"><big>עוֹד </big></span><small><small><sup>[[H5750]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'od- <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joseph  | <span class="ashebrew"><big>יוֹסֵ֥ף </big></span><small><small><sup>[[H3130G]]</sup></small></small> &#8207;| yo.Sef <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son my  | <span class="ashebrew"><big>בְּנִ֖ </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| be.N <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] alive  | <span class="ashebrew"><big>חָ֑י </big></span><small><small><sup>[[H2416A]]</sup></small></small> &#8207;| Chai <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will go  | <span class="ashebrew"><big>אֵֽלְכָ֥ה </big></span><small><small><sup>[[H1980G]]</sup></small></small> &#8207;| 'e.le.Khah <small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so I may see him  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֶרְאֶ֖ </big></span><small><small><sup>[[H7200G]]</sup></small></small> <span class="ashebrew"><big>נּוּ </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'er.'E. <small><sup>[[HVqu1cs]]</sup></small> nu <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> before  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>טֶ֥רֶם </big></span><small><small><sup>[[H2962]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Te.rem <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will die  | <span class="ashebrew"><big>אָמֽוּת </big></span><small><small><sup>[[H4191]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mut <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enough  |**<big>&#8207;[[H7227A\|רַ֛ב]]&#8207; </big>**| rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|עוֹד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'od-<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֥ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son my  |**<big>&#8207;[[H1121A\|בְּנִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] alive  |**<big>&#8207;[[H2416A\|חָ֑י]]&#8207; </big>**| Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go  |**<big>&#8207;[[H1980G\|אֵֽלְכָ֥ה]]&#8207; </big>**| 'e.le.Khah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so I may see him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|אֶרְאֶ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'er.'E.<small><sup>[[HVqu1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֥רֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will die  |**<big>&#8207;[[H4191\|אָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mut<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.27|<< Genesis 45:27]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.1|Genesis 46:1 >>]]</td></tr></table>
 
 

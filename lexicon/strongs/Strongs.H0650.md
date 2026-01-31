@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אָפִיק‎</span></big> **ʼâphîyq** <small>*(aw-feek')*</small> ==**channel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אָסַף‎</span><sup><small>[[H0622]]</small></sup></small>
+**<big><span class="ashebrew">‎אָפִיק‎</span></big>** **ʼâphîyq** <small>*(aw-feek')*</small> ==**channel**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0622|‎אָסַף‎]]</big>**</small>
 
 $\quad$ brook, channel, mighty, river, [phrase] scale, stream, strong piece.
 - properly, ***containing***, i.e. ***a tube***

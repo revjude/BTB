@@ -7,28 +7,28 @@ Else if ye do in any wise go back, and cleave unto the remnant of these nations,
 For if you turn away and cling to the rest of these nations that remain among you, and if you intermarry and associate with them,<small><sub>**MT:**</sub></small>
 [[Josh.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.11|<< Joshua 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.13|Joshua 23:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| you should turn away, | <big><span class="asgreek">αποστραφήτε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should proceed | <big><span class="asgreek">προστεθήτε</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to leave behind | <big><span class="asgreek">υπολειφθείσιν</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| these nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| connections by marriage | <big><span class="asgreek">επιγαμίας</span></big> <sup><small><small>[[G7393]]</small></small></sup> |
-| you should make | <big><span class="asgreek">ποιήσησθε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mix together with | <big><span class="asgreek">συγκαταμιγήτε</span></big> <sup><small><small>[[G9224]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| you should turn away, | **<big>[[G0654\|αποστραφήτε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should proceed | **<big>[[G4369\|προστεθήτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| to leave behind | **<big>[[G5275\|υπολειφθείσιν]]</big>** |
+| these nations | **<big>[[G1484\|έθνεσι]]</big>** **<big>[[G3778\|τούτοις]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| you, | **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| connections by marriage | **<big>[[G7393\|επιγαμίας]]</big>** |
+| you should make | **<big>[[G4160\|ποιήσησθε]]</big>** |
+| with | **<big>[[G4314\|προς]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mix together with | **<big>[[G9224\|συγκαταμιγήτε]]</big>** |
+| them, | **<big>[[G1473\|αυτοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| with you. | **<big>[[G1473\|υμίν]]</big>** |
 [[Josh.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.11|<< Joshua 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.13|Joshua 23:13 >>]]</td></tr></table>
 
 

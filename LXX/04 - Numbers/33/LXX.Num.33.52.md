@@ -7,35 +7,35 @@ Then ye shall drive out all the inhabitants of the land from before you, and des
 you must drive out before you all the inhabitants of the land, destroy all their carved images and cast idols, and demolish all their high places.<small><sub>**MT:**</sub></small>
 [[Num.33.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.51|<< Numbers 33:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.53|Numbers 33:53 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall destroy | <big><span class="asgreek">απολείτε</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| your face; | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall lift away | <big><span class="asgreek">εξαρείτε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their \[sacred\] heights; | <big><span class="asgreek">σκοπιάς</span></big> <sup><small><small>[[G9115]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their molten | <big><span class="asgreek">χωνευτά</span></big> <sup><small><small>[[G9778]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall destroy | <big><span class="asgreek">απολείτε</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| them; | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their \[sacred\] monuments | <big><span class="asgreek">στήλας</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall lift away. | <big><span class="asgreek">εξαρείτε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall destroy | **<big>[[G0622\|απολείτε]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| your face; | **<big>[[G4383\|προσώπου]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you shall lift away | **<big>[[G1808\|εξαρείτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their \[sacred\] heights; | **<big>[[G9115\|σκοπιάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| idols | **<big>[[G1497\|είδωλα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their molten | **<big>[[G9778\|χωνευτά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall destroy | **<big>[[G0622\|απολείτε]]</big>** |
+| them; | **<big>[[G1473\|αυτά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάσας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their \[sacred\] monuments | **<big>[[G9171\|στήλας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| you shall lift away. | **<big>[[G1808\|εξαρείτε]]</big>** |
 [[Num.33.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.51|<< Numbers 33:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.53|Numbers 33:53 >>]]</td></tr></table>
 
 

@@ -10,22 +10,22 @@ For behold, I will create new heavens and a new earth. The former things will no
 > $\quad$ referenced by: [[2Pet.3.13|2Pet 3:13]] ☩ [[Rev.21.1|Rev 21:1]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here I  | <span class="ashebrew"><big>הִנְ </big></span><small><small><sup>[[H2005]]</sup></small></small> <span class="ashebrew"><big>נִ֥י </big></span><small><small><sup>[[H9040]]</sup></small></small> &#8207;| hi. <small><sup>[[HTj]]</sup></small> Ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] about to create  | <span class="ashebrew"><big>בוֹרֵ֛א </big></span><small><small><sup>[[H1254A]]</sup></small></small> &#8207;| vo.Re' <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heavens  | <span class="ashebrew"><big>שָׁמַ֥יִם </big></span><small><small><sup>[[H8064]]</sup></small></small> &#8207;| sha.Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new  | <span class="ashebrew"><big>חֲדָשִׁ֖ים </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| cha.da.Shim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and an earth  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אָ֣רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new  | <span class="ashebrew"><big>חֲדָשָׁ֑ה </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| cha.da.Shah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֤א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be remembered  | <span class="ashebrew"><big>תִזָּכַ֙רְנָה֙ </big></span><small><small><sup>[[H2142]]</sup></small></small> &#8207;| ti.za.Khar.nah <small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the former [things]  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>רִ֣אשֹׁנ֔וֹת </big></span><small><small><sup>[[H7223H]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Ri.sho.Not <small><sup>[[HAofpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will come up  | <span class="ashebrew"><big>תַעֲלֶ֖ינָה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| ta.'a.Lei.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a heart  | <span class="ashebrew"><big>לֵֽב </big></span><small><small><sup>[[H3820A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Lev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֥י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to create  |**<big>&#8207;[[H1254A\|בוֹרֵ֛א]]&#8207; </big>**| vo.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavens  |**<big>&#8207;[[H8064\|שָׁמַ֥יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new  |**<big>&#8207;[[H2319H\|חֲדָשִׁ֖ים]]&#8207; </big>**| cha.da.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an earth  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0776G\|אָ֣רֶץ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new  |**<big>&#8207;[[H2319H\|חֲדָשָׁ֑ה]]&#8207; </big>**| cha.da.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be remembered  |**<big>&#8207;[[H2142\|תִזָּכַ֙רְנָה֙]]&#8207; </big>**| ti.za.Khar.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the former [things]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223H\|רִ֣אשֹׁנ֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ri.sho.Not<small><sup>[[HAofpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come up  |**<big>&#8207;[[H5927G\|תַעֲלֶ֖ינָה]]&#8207; </big>**| ta.'a.Lei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.16|<< Isaiah 65:16]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.18|Isaiah 65:18 >>]]</td></tr></table>
 
 

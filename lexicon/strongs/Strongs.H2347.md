@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חוּס‎</span></big> **chûwç** <small>*(khoos)*</small> ==**to pity**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חוּס‎</span></big>** **chûwç** <small>*(khoos)*</small> ==**to pity**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ pity, regard, spare.
@@ -6,4 +6,4 @@ $\quad$ pity, regard, spare.
 
 **1)** (Qal) to pity, have compassion, spare, look upon with compassion
 
-<sub><small>See Greek: </small></sub><span class="asgreek">φείδομαι</span><sup><small>[[G5339]]</small></sup>
+<small>See Greek: </small>**<big>[[G5339|φείδομαι]]</big>**

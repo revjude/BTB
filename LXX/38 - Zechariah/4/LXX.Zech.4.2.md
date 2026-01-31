@@ -11,42 +11,42 @@ And said unto me, What seest thou? And I said, I have looked, and behold a candl
 > $\quad$ referenced by: [[Rev.1.12|Rev 1:12]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| do you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| see? | <big><span class="asgreek">βλέπεις</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I have seen, | <big><span class="asgreek">εώρακα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a lamp-stand | <big><span class="asgreek">λυχνία</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
-| of gold | <big><span class="asgreek">χρυσή</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| entirely | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| oil lamp bowl | <big><span class="asgreek">λαμπάδιον</span></big> <sup><small><small>[[G8157]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| lamps | <big><span class="asgreek">λύχνοι</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| oil funnels | <big><span class="asgreek">επαρυστρίδες</span></big> <sup><small><small>[[G7373]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| lamps | <big><span class="asgreek">λύχνοις</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| What | **<big>[[G5100\|τι]]</big>** |
+| do you | **<big>[[G1473\|συ]]</big>** |
+| see? | **<big>[[G0991\|βλέπεις]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I said, | **<big>[[G2036\|είπα]]</big>** |
+| I have seen, | **<big>[[G3708\|εώρακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a lamp-stand | **<big>[[G3087\|λυχνία]]</big>** |
+| of gold | **<big>[[G5552\|χρυσή]]</big>** |
+| entirely | **<big>[[G3650\|όλη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| oil lamp bowl | **<big>[[G8157\|λαμπάδιον]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| lamps | **<big>[[G3088\|λύχνοι]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| oil funnels | **<big>[[G7373\|επαρυστρίδες]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| lamps | **<big>[[G3088\|λύχνοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| it, | **<big>[[G1473\|αυτής]]</big>** |
 [[Zech.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.1|<< Zechariah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.3|Zechariah 4:3 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Chorazin</span> was a town in Galilee that Jesus rebuked for its lack of repentance despite the mighty works he had done there.
 - A location first mentioned at [[Matt.11.21|Mat.11.21]]; 
-- only referred to as Chorazin<[[G5523]]> \(<span class='tipnrLangGreek'>Χοραζίν</span>\).
+- only referred to as Chorazin **<big>[[G5523|Χοραζίν]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.90909168933021,35.55292324144203&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Chorazin serves as a sobering example of the consequences of unbelief and the im
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Chorazin | [<span class='tipnrLangGreek'>Χοραζίν</span>](G5523) <small>*Greek*</small> | 2x | [[Mat.11.21] & [Luk.10.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chorazin\*\|reference=Mat.11.21;Luk.10.13) |
-All Strong's for **Chorazin**: \[[[G5523]]\]
+| Chorazin | [<span class='tipnrLangGreek'>Χοραζίν</span>](G5523) | 2x | [[Mat.11.21] & [Luk.10.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chorazin\*\|reference=Mat.11.21;Luk.10.13) |
+All entries for **Chorazin**:  **<big>[[G5523|Χοραζίν]]</big>**

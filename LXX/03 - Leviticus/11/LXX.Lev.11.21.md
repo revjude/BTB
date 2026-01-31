@@ -7,33 +7,33 @@ Yet these may ye eat of every flying creeping thing that goeth upon [all] four, 
 However, you may eat the following kinds of flying insects that walk on all fours: those having jointed legs above their feet for hopping on the ground.<small><sub>**MT:**</sub></small>
 [[Lev.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.20|<< Leviticus 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.22|Leviticus 11:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-|  | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| crawling things | <big><span class="asgreek">ερπετών</span></big> <sup><small><small>[[G2062]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| winged creatures | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| fours -- | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
-| \[the ones\] which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| have | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| legs | <big><span class="asgreek">σκέλη</span></big> <sup><small><small>[[G4628]]</small></small></sup> |
-| upward | <big><span class="asgreek">ανώτερον</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| from their feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to spring up | <big><span class="asgreek">πηδάν</span></big> <sup><small><small>[[G8788]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| But | **<big>[[G0235\|αλλ΄]]</big>** |
+|  | **<big>[[G2228\|η]]</big>** |
+| these | **<big>[[G3778\|ταύτα]]</big>** |
+| you shall eat | **<big>[[G2068\|φάγεσθε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| crawling things | **<big>[[G2062\|ερπετών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| winged creatures | **<big>[[G4071\|πετεινών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| go | **<big>[[G4198\|πορεύεται]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| fours -- | **<big>[[G5064\|τεσσάρων]]</big>** |
+| \[the ones\] which | **<big>[[G3739\|α]]</big>** |
+| have | **<big>[[G2192\|έχει]]</big>** |
+| legs | **<big>[[G4628\|σκέλη]]</big>** |
+| upward | **<big>[[G0507\|ανώτερον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| from their feet | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| to spring up | **<big>[[G8788\|πηδάν]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Lev.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.20|<< Leviticus 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.22|Leviticus 11:22 >>]]</td></tr></table>
 
 

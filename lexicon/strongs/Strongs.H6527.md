@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פָּרַט‎</span></big> **pâraṭ** <small>*(paw-rat')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎פָּרַט‎</span></big>** **pâraṭ** <small>*(paw-rat')*</small> ==**to divide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ chant.

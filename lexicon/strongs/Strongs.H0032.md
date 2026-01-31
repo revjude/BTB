@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲבִיהַיִל‎</span></big> **ʼĂbîyhayil** <small>*(ab-ee-hah'-yil)*</small> ==**Abihail**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or (more correctly) <span class="ashebrew">אֲבִיחַיִל</span> **ʼĂbîychayil** <small>*(ab-ee-khah'-yil)*</small> ; from <span class="ashebrew">‎אָב‎</span><sup><small>[[H0001]]</small></sup> and <span class="ashebrew">‎חַיִל‎</span><sup><small>[[H2428]]</small></sup>; father (i.e. possessor) of might</small>
+**<big><span class="ashebrew">‎אֲבִיהַיִל‎</span></big>** **ʼĂbîyhayil** <small>*(ab-ee-hah'-yil)*</small> ==**Abihail**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or (more correctly) **<big><span class="ashebrew">אֲבִיחַיִל</span></big>** **ʼĂbîychayil** <small>*(ab-ee-khah'-yil)*</small> ; from **<big>[[H0001|‎אָב‎]]</big>** and **<big>[[H2428|‎חַיִל‎]]</big>**; father (i.e. possessor) of might</small>
 
 $\quad$ Abihail.
 - § Abihail = *"my father is might"*

@@ -6,19 +6,19 @@ Avenge the children of Israel of the Midianites: afterward shalt thou be gathere
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.1|<< Numbers 31:1]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.3|Numbers 31:3 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| avenge  | <span class="ashebrew"><big>נְקֹ֗ם </big></span><small><small><sup>[[H5358]]</sup></small></small> &#8207;| ne.Kom <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] vengeance of  | <span class="ashebrew"><big>נִקְמַת֙ </big></span><small><small><sup>[[H5360]]</sup></small></small> &#8207;| nik.Mat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from with  | <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אֵ֖ת </big></span><small><small><sup>[[H0854]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Midianites  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּדְיָנִ֑ים </big></span><small><small><sup>[[H4084]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> mid.ya.Nim <small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  [^1] | <span class="ashebrew"><big>אַחַ֖ר </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.Char <small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(P)</abbr> |
-| you will be gathered  | <span class="ashebrew"><big>תֵּאָסֵ֥ף </big></span><small><small><sup>[[H0622]]</sup></small></small> &#8207;| te.'a.Sef <small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to  | <span class="ashebrew"><big>אֶל </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'el- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people\<s> your  | <span class="ashebrew"><big>עַמֶּֽי </big></span><small><small><sup>[[H5971B]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Mei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| avenge  |**<big>&#8207;[[H5358\|נְקֹ֗ם]]&#8207; </big>**| ne.Kom<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vengeance of  |**<big>&#8207;[[H5360\|נִקְמַת֙]]&#8207; </big>**| nik.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֖ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Midianites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4084\|מִּדְיָנִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mid.ya.Nim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  [^1]|**<big>&#8207;[[H0310A\|אַחַ֖ר]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(P)</abbr> |
+| you will be gathered  |**<big>&#8207;[[H0622\|תֵּאָסֵ֥ף]]&#8207; </big>**| te.'a.Sef<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people\<s> your  |**<big>&#8207;[[H5971B\|עַמֶּֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.1|<< Numbers 31:1]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.3|Numbers 31:3 >>]]</td></tr></table>
 
-[^1]: ==P==: **and after ** | <small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>אַחַ֖ר</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> 
+[^1]: ==P==: and after  | **<big>[[H0310A|אַחַ֖ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> 
 

@@ -7,32 +7,32 @@ And they made their father drink wine that night also: and the younger arose, an
 So again that night they got their father drunk with wine, and the younger daughter went in and slept with him; he was not aware when she lay down or when she got up.<small><sub>**MT:**</sub></small>
 [[Gen.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.34|<< Genesis 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.36|Genesis 19:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And they gave to drink | <big><span class="asgreek">επότισαν</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that night | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[for\] their father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| entering, | <big><span class="asgreek">εισελθούσα</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεωτέρα</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| went to bed | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her father. | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| about | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her going to bed | <big><span class="asgreek">κοιμηθήναι</span></big> <sup><small><small>[[G2837]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rising up. | <big><span class="asgreek">αναστήναι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| And they gave to drink | **<big>[[G4222\|επότισαν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| that night | **<big>[[G3571\|νυκτί]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| \[for\] their father | **<big>[[G3962\|πατέρα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| wine | **<big>[[G3631\|οίνον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| entering, | **<big>[[G1525\|εισελθούσα]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| younger | **<big>[[G3501\|νεωτέρα]]</big>** |
+| went to bed | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| her father. | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| know | **<big>[[G1492\|ήδει]]</big>** |
+| about | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her going to bed | **<big>[[G2837\|κοιμηθήναι]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rising up. | **<big>[[G0450\|αναστήναι]]</big>** |
 [[Gen.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.34|<< Genesis 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.36|Genesis 19:36 >>]]</td></tr></table>
 
 

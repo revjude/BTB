@@ -7,18 +7,18 @@ And [thine] age shall be clearer than the noonday; thou shalt shine forth, thou 
 Your life will be brighter than noonday; its darkness will be like the morning.<small><sub>**MT:**</sub></small>
 [[Job.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.16|<< Job 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.18|Job 11:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| your vow | <big><span class="asgreek">ευχή</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[will be\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \[the\] morning star; | <big><span class="asgreek">Εωσφόρος</span></big> <sup><small><small>[[G7596]]</small></small></sup> |
-| and from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| midday | <big><span class="asgreek">μεσημβρίας</span></big> <sup><small><small>[[G3314]]</small></small></sup> |
-| shall arise | <big><span class="asgreek">ανατελεί</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| life | <big><span class="asgreek">ζωή</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| your vow | **<big>[[G2171\|ευχή]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[will be\] as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \[the\] morning star; | **<big>[[G7596\|Εωσφόρος]]</big>** |
+| and from | **<big>[[G1537\|εκ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| midday | **<big>[[G3314\|μεσημβρίας]]</big>** |
+| shall arise | **<big>[[G0393\|ανατελεί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| life | **<big>[[G2222\|ζωή]]</big>** |
 [[Job.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.16|<< Job 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.18|Job 11:18 >>]]</td></tr></table>
 
 

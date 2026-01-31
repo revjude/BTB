@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אֶלָּסָר‎</span></big> **ʼEllâçâr** <small>*(el-law-sawr')*</small> ==**Ellasar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+**<big><span class="ashebrew">‎אֶלָּסָר‎</span></big>** **ʼEllâçâr** <small>*(el-law-sawr')*</small> ==**Ellasar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 <small>probably of foreign derivation</small>
 
 $\quad$ Ellasar.

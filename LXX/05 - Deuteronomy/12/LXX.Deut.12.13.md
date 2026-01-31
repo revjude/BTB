@@ -7,20 +7,20 @@ Take heed to thyself that thou offer not thy burnt offerings in every place that
 Be careful not to offer your burnt offerings in just any place you see;<small><sub>**MT:**</sub></small>
 [[Deut.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.12|<< Deuteronomy 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.14|Deuteronomy 12:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Take heed | <big><span class="asgreek">πρόσεχε</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
-| \[that\] you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| offer | <big><span class="asgreek">ανενέγκης</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματά</span></big> <sup><small><small>[[G3646]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| any | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| you should behold, | <big><span class="asgreek">ίδης</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| Take heed | **<big>[[G4337\|πρόσεχε]]</big>** |
+| to yourself | **<big>[[G4572\|σεαυτώ]]</big>** |
+| \[that\] you should not | **<big>[[G3361\|μη]]</big>** |
+| offer | **<big>[[G0399\|ανενέγκης]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| of your whole burnt-offerings | **<big>[[G3646\|ολοκαυτώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| any | **<big>[[G3956\|παντί]]</big>** |
+| place | **<big>[[G5117\|τόπω]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| you should behold, | **<big>[[G1492\|ίδης]]</big>** |
 [[Deut.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.12|<< Deuteronomy 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.14|Deuteronomy 12:14 >>]]</td></tr></table>
 
 

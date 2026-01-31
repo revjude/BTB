@@ -10,15 +10,15 @@ He thwarts the schemes of the crafty, so that their hands find no success.
 > $\quad$ referenced by: [[1Cor.3.19|1Cor 3:19]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [who] frustrates  | <span class="ashebrew"><big>מֵ֭פֵר </big></span><small><small><sup>[[H6565A]]</sup></small></small> &#8207;| Me.fer <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] plans of  | <span class="ashebrew"><big>מַחְשְׁב֣וֹת </big></span><small><small><sup>[[H4284]]</sup></small></small> &#8207;| mach.she.Vot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| crafty [people]  | <span class="ashebrew"><big>עֲרוּמִ֑ים </big></span><small><small><sup>[[H6175]]</sup></small></small> &#8207;| 'a.ru.Mim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will bring about  | <span class="ashebrew"><big>תַעֲשֶׂ֥ינָה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| ta.'a.Sei.nah <small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands their  | <span class="ashebrew"><big>יְ֝דֵי </big></span><small><small><sup>[[H3027G]]</sup></small></small> <span class="ashebrew"><big>הֶ֗ם </big></span><small><small><sup>[[H9028]]</sup></small></small> &#8207;| ye.dei. <small><sup>[[HNcbdc]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| success  | <span class="ashebrew"><big>תּוּשִׁיָּֽה </big></span><small><small><sup>[[H8454]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tu.shi.Yah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] frustrates  |**<big>&#8207;[[H6565A\|מֵ֭פֵר]]&#8207; </big>**| Me.fer<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] plans of  |**<big>&#8207;[[H4284\|מַחְשְׁב֣וֹת]]&#8207; </big>**| mach.she.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crafty [people]  |**<big>&#8207;[[H6175\|עֲרוּמִ֑ים]]&#8207; </big>**| 'a.ru.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will bring about  |**<big>&#8207;[[H6213A\|תַעֲשֶׂ֥ינָה]]&#8207; </big>**| ta.'a.Sei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands their  |**<big>&#8207;[[H3027G\|יְ֝דֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| success  |**<big>&#8207;[[H8454\|תּוּשִׁיָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tu.shi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.11|<< Job 5:11]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.13|Job 5:13 >>]]</td></tr></table>
 
 

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gimzo</span> was a city in the plain of Judah that was captured by the Philistines during the reign of Ahaz \([[2Chr.28.18|2 Chronicles 28:18]]\).
 - A location only mentioned at [[2Chr.28.18|2Ch.28.18]]; 
-- only referred to as Gimzo<[[H1579]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>זו</span>ֹ\).
+- only referred to as Gimzo **<big>[[H1579|גִּמְזוֹ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.928659,34.943219&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gimzo was a city located in the plain of Judah, known for its abundance of sycam
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gimzo | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>זו</span>ֹ](H1579) <small>*Hebrew*</small> | 1x | [2Ch.28.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gimzo\*\|reference=2Ch.28.18) |
-All Strong's for **Gimzo**: \[[[H1579]]\]
+| Gimzo | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>זו</span>ֹ](H1579) | 1x | [2Ch.28.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gimzo\*\|reference=2Ch.28.18) |
+All entries for **Gimzo**:  **<big>[[H1579|גִּמְזוֹ]]</big>**

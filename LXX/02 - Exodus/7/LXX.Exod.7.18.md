@@ -11,30 +11,30 @@ The fish in the Nile will die, the river will stink, and the Egyptians will be u
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fishes | <big><span class="asgreek">ιχθύες</span></big> <sup><small><small>[[G2486]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμώ</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| shall come to an end. | <big><span class="asgreek">τελευτήσουσι</span></big> <sup><small><small>[[G5053]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will stink | <big><span class="asgreek">εποζέσει</span></big> <sup><small><small>[[G7478]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be able | <big><span class="asgreek">δυνήσονται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| to drink | <big><span class="asgreek">πιείν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river. | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| fishes | **<big>[[G2486\|ιχθύες]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| river | **<big>[[G4215\|ποταμώ]]</big>** |
+| shall come to an end. | **<big>[[G5053\|τελευτήσουσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| will stink | **<big>[[G7478\|εποζέσει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| river | **<big>[[G4215\|ποταμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will not | **<big>[[G3756\|ου]]</big>** |
+| be able | **<big>[[G1410\|δυνήσονται]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Egyptians | **<big>[[G0125\|Αιγύπτιοι]]</big>** |
+| to drink | **<big>[[G4095\|πιείν]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| river. | **<big>[[G4215\|ποταμού]]</big>** |
 [[Exod.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.17|<< Exodus 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.19|Exodus 7:19 >>]]</td></tr></table>
 
 

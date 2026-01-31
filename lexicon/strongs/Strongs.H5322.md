@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נֵץ‎</span></big> **nêts** <small>*(nayts)*</small> ==**flower**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎נָצַץ‎</span><sup><small>[[H5340]]</small></sup></small>
+**<big><span class="ashebrew">‎נֵץ‎</span></big>** **nêts** <small>*(nayts)*</small> ==**flower**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5340|‎נָצַץ‎]]</big>**</small>
 
 $\quad$ blossom, hawk.
 - ***a flower*** (from its brilliancy)

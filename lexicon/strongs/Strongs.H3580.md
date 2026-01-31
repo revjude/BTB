@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּזִיב‎</span></big> **Kᵉzîyb** <small>*(kez-eeb')*</small> ==**Chezib**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּזַב‎</span><sup><small>[[H3576]]</small></sup>; falsified</small>
+**<big><span class="ashebrew">‎כְּזִיב‎</span></big>** **Kᵉzîyb** <small>*(kez-eeb')*</small> ==**Chezib**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3576|‎כָּזַב‎]]</big>**; falsified</small>
 
 $\quad$ Chezib.
 - § Chezib = *"false"*

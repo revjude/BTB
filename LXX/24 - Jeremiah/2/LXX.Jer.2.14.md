@@ -7,19 +7,19 @@ Is Israel a servant or is he native-born? Why did he become for plunder?
 Is Israel a slave? Was he born into slavery? Why then has he become prey?<small><sub>**MT:**</sub></small>
 [[Jer.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.13|<< Jeremiah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.15|Jeremiah 2:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-|  | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| a servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
-| Is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| native-born | <big><span class="asgreek">οικογενής</span></big> <sup><small><small>[[G8456]]</small></small></sup> |
-| is he | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| Why did | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plunder | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
-| he become | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+|  | **<big>[[G3361\|μη]]</big>** |
+| a servant | **<big>[[G1401\|δούλός]]</big>** |
+| Is | **<big>[[G1510\|εστιν]]</big>** |
+| Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| native-born | **<big>[[G8456\|οικογενής]]</big>** |
+| is he | **<big>[[G1510\|εστι]]</big>** |
+| Why did | **<big>[[G1302\|διατί]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| plunder | **<big>[[G8903\|προνομήν]]</big>** |
+| he become | **<big>[[G1096\|εγένετο]]</big>** |
 [[Jer.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.13|<< Jeremiah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.15|Jeremiah 2:15 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זֶבַח‎</span></big> **Zebach** <small>*(zeh'-bakh)*</small> ==**Zebah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎זֶבַח‎</span><sup><small>[[H2077]]</small></sup>; sacrifice</small>
+**<big><span class="ashebrew">‎זֶבַח‎</span></big>** **Zebach** <small>*(zeh'-bakh)*</small> ==**Zebah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2077|‎זֶבַח‎]]</big>**; sacrifice</small>
 
 $\quad$ Zebah.
 - § Zebah = *"deprived of protection"*

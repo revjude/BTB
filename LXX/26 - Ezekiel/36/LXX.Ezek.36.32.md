@@ -7,26 +7,26 @@ Not for your sakes do I [this], saith the Lord GOD, be it known unto you: be ash
 It is not for your sake that I will act, declares the Lord GOD—let it be known to you. Be ashamed and disgraced for your ways, O house of Israel!<small><sub>**MT:**</sub></small>
 [[Ezek.36.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.31|<< Ezekiel 36:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.33|Ezekiel 36:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| for | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| your \[sakes\] | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| do I do \[this\], | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| made known | <big><span class="asgreek">γνωστόν</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Be ashamed | <big><span class="asgreek">αισχύνθητε</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| feel remorse | <big><span class="asgreek">εντράπητε</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
-| for | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ways, | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of Israel! | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Not | **<big>[[G3756\|ου]]</big>** |
+| for | **<big>[[G1223\|δι΄]]</big>** |
+| your \[sakes\] | **<big>[[G1473\|υμάς]]</big>** |
+| do I do \[this\], | **<big>[[G1473\|εγώ]]</big>** **<big>[[G4160\|ποιώ]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| made known | **<big>[[G1110\|γνωστόν]]</big>** |
+| it is | **<big>[[G1510\|εστιν]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| Be ashamed | **<big>[[G0153\|αισχύνθητε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| feel remorse | **<big>[[G1788\|εντράπητε]]</big>** |
+| for | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your ways, | **<big>[[G3598\|οδών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| O house | **<big>[[G3624\|οίκος]]</big>** |
+| of Israel! | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Ezek.36.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.31|<< Ezekiel 36:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.33|Ezekiel 36:33 >>]]</td></tr></table>
 
 

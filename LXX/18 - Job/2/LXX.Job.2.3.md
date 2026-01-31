@@ -7,46 +7,46 @@ And the LORD said unto Satan, Hast thou considered my servant Job, that [there i
 Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil. He still retains his integrity, even though you incited Me against him to ruin him without cause.”<small><sub>**MT:**</sub></small>
 [[Job.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.2|<< Job 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.4|Job 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| devil, | <big><span class="asgreek">διάβολον</span></big> <sup><small><small>[[G1228]]</small></small></sup> |
-| \[Have\] you taken heed | <big><span class="asgreek">προσέσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
-| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my attendant | <big><span class="asgreek">θεράποντί</span></big> <sup><small><small>[[G2324]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Job, | <big><span class="asgreek">Ιωβ</span></big> <sup><small><small>[[G2492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the \[ones\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| not wicked, | <big><span class="asgreek">άκακος</span></big> <sup><small><small>[[G0172]]</small></small></sup> |
-| true, | <big><span class="asgreek">αληθινός</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
-| blameless, | <big><span class="asgreek">άμεμπτος</span></big> <sup><small><small>[[G0273]]</small></small></sup> |
-| godly, | <big><span class="asgreek">θεοσεβής</span></big> <sup><small><small>[[G2318]]</small></small></sup> |
-| \[and\] at a distance | <big><span class="asgreek">απεχόμενος</span></big> <sup><small><small>[[G0568]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| evil? | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| But still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| he has | <big><span class="asgreek">έχεται</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| innocence, | <big><span class="asgreek">ακακίας</span></big> <sup><small><small>[[G6177]]</small></small></sup> |
-| but you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| spoke | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his substance | <big><span class="asgreek">υπάρχοντα</span></big> <sup><small><small>[[G5225]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| without cause | <big><span class="asgreek">διακενής</span></big> <sup><small><small>[[G6833]]</small></small></sup> |
-| to destroy | <big><span class="asgreek">απολέσαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| devil, | **<big>[[G1228\|διάβολον]]</big>** |
+| \[Have\] you taken heed | **<big>[[G4337\|προσέσχες]]</big>** |
+| then | **<big>[[G3767\|ουν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| my attendant | **<big>[[G2324\|θεράποντί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Job, | **<big>[[G2492\|Ιωβ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| according to | **<big>[[G2596\|κατ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| of the \[ones\]\<obj.> | **<big>[[G3588\|των]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| not wicked, | **<big>[[G0172\|άκακος]]</big>** |
+| true, | **<big>[[G0228\|αληθινός]]</big>** |
+| blameless, | **<big>[[G0273\|άμεμπτος]]</big>** |
+| godly, | **<big>[[G2318\|θεοσεβής]]</big>** |
+| \[and\] at a distance | **<big>[[G0568\|απεχόμενος]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| evil? | **<big>[[G2556\|κακού]]</big>** |
+| But still | **<big>[[G2089\|έτι]]</big>** **<big>[[G1161\|δε]]</big>** |
+| he has | **<big>[[G2192\|έχεται]]</big>** |
+| innocence, | **<big>[[G6177\|ακακίας]]</big>** |
+| but you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| spoke | **<big>[[G2036\|είπας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his substance | **<big>[[G5225\|υπάρχοντα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| without cause | **<big>[[G6833\|διακενής]]</big>** |
+| to destroy | **<big>[[G0622\|απολέσαι]]</big>** |
 [[Job.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.2|<< Job 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.4|Job 2:4 >>]]</td></tr></table>
 
 

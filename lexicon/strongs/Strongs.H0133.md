@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎אַדְמָתָא‎</span></big> **ʼAdmâthâʼ** <small>*(ad-maw-thaw')*</small> ==**Admatha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎אַדְמָתָא‎</span></big>** **ʼAdmâthâʼ** <small>*(ad-maw-thaw')*</small> ==**Admatha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>probably of Persian derivation</small>
 
 $\quad$ Admatha.

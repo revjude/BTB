@@ -6,16 +6,16 @@ The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.10|<< Genesis 36:10]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.12|Genesis 36:12 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and they were  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּהְי֖וּ </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yih.Yu <small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliphaz  | <span class="ashebrew"><big>אֱלִיפָ֑ז </big></span><small><small><sup>[[H0464G]]</sup></small></small> &#8207;| 'e.li.Faz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Teman  | <span class="ashebrew"><big>תֵּימָ֣ן </big></span><small><small><sup>[[H8487G]]</sup></small></small> &#8207;| tei.Man <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Omar  | <span class="ashebrew"><big>אוֹמָ֔ר </big></span><small><small><sup>[[H0201]]</sup></small></small> &#8207;| 'o.Mar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zepho  | <span class="ashebrew"><big>צְפ֥וֹ </big></span><small><small><sup>[[H6825]]</sup></small></small> &#8207;| tze.Fo <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Gatam  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גַעְתָּ֖ם </big></span><small><small><sup>[[H1609]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ga'.Tam <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Kenaz  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>קְנַֽז </big></span><small><small><sup>[[H7073G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ke.Naz <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliphaz  |**<big>&#8207;[[H0464G\|אֱלִיפָ֑ז]]&#8207; </big>**| 'e.li.Faz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Teman  |**<big>&#8207;[[H8487G\|תֵּימָ֣ן]]&#8207; </big>**| tei.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Omar  |**<big>&#8207;[[H0201\|אוֹמָ֔ר]]&#8207; </big>**| 'o.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zepho  |**<big>&#8207;[[H6825\|צְפ֥וֹ]]&#8207; </big>**| tze.Fo<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Gatam  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1609\|גַעְתָּ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga'.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kenaz  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7073G\|קְנַֽז]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.Naz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.10|<< Genesis 36:10]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.12|Genesis 36:12 >>]]</td></tr></table>
 
 

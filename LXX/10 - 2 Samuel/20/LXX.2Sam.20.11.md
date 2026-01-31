@@ -7,29 +7,29 @@ And one of Joab’s men stood by him, and said, He that favoureth Joab, and he t
 One of Joab’s young men stood near Amasa and said, “Whoever favors Joab, and whoever is for David, let him follow Joab!”<small><sub>**MT:**</sub></small>
 [[2Sam.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.10|<< 2 Samuel 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.12|2 Samuel 20:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[one\] of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| servants | <big><span class="asgreek">παιδαρίων</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
-| of Joab. | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one wanting | <big><span class="asgreek">βουλόμενος</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
-| Joab, | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] the \[one wanting\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David? | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \[Be\] behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Joab. | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| stood | **<big>[[G2476\|έστη]]</big>** |
+| by | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| \[one\] of the | **<big>[[G3588\|των]]</big>** |
+| servants | **<big>[[G3808\|παιδαρίων]]</big>** |
+| of Joab. | **<big>[[H3097\|Ιωάβ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπε]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] the | **<big>[[G3588\|ο]]</big>** |
+| one wanting | **<big>[[G1014\|βουλόμενος]]</big>** |
+| Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] the \[one wanting\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| David? | **<big>[[G4622\|Δαυίδ]]</big>** |
+| \[Be\] behind | **<big>[[G3694\|οπίσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Joab. | **<big>[[H3097\|Ιωάβ]]</big>** |
 [[2Sam.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.10|<< 2 Samuel 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.12|2 Samuel 20:12 >>]]</td></tr></table>
 
 

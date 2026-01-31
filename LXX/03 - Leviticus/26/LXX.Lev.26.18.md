@@ -7,23 +7,23 @@ And if ye will not yet for all this hearken unto me, then I will punish you seve
 And if after all this you will not obey Me, I will proceed to punish you sevenfold for your sins.<small><sub>**MT:**</sub></small>
 [[Lev.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.17|<< Leviticus 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.19|Leviticus 26:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| in this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| obey | <big><span class="asgreek">υπακούσητέ</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will add | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| to correct | <big><span class="asgreek">παιδεύσαι</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
-| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with strokes | <big><span class="asgreek">πληγαίς</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
-| seven times | <big><span class="asgreek">επτάκις</span></big> <sup><small><small>[[G2034]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sins, | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| in this | **<big>[[G3778\|τούτου]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| obey | **<big>[[G5219\|υπακούσητέ]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| then | **<big>[[G2532\|και]]</big>** |
+| I will add | **<big>[[G4369\|προσθήσω]]</big>** |
+| to correct | **<big>[[G3811\|παιδεύσαι]]</big>** |
+| you | **<big>[[G1473\|υμάς]]</big>** |
+| with strokes | **<big>[[G4127\|πληγαίς]]</big>** |
+| seven times | **<big>[[G2034\|επτάκις]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your sins, | **<big>[[G0266\|αμαρτίαις]]</big>** **<big>[[G1473\|υμών]]</big>** |
 [[Lev.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.17|<< Leviticus 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.19|Leviticus 26:19 >>]]</td></tr></table>
 
 

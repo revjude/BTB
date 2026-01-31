@@ -1,6 +1,4 @@
-<span class="ashebrew">‎יַעְלָם‎</span> <small>***(ya.lam)***</small> ==**Jalam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the Edomites living at the time of the Patriarchs, first mentioned at [[Gen.36.5|Gen.36.5]]
--  son of: Esau ([[H6215]]) and Oholibamah ([[H0173]])
--  brother of: Jeush ([[H3266]]) and Korah ([[H7141]])
--  half-brother of: Eliphaz ([[H0464]]) and Reuel ([[H7467]])
-
+-  son of: Esau (**<big>[[H6215|עֵשָׂו]]</big>**) and Oholibamah (**<big>[[H0173|אׇהֳלִיבָמָה]]</big>**)
+-  brother of: Jeush (**<big>[[H3266|יְעוּשׁ]]</big>**) and Korah (**<big>[[H7141|קֹרַח]]</big>**)
+-  half-brother of: Eliphaz (**<big>[[H0464|אֱלִיפַז]]</big>**) and Reuel (**<big>[[H7467|רְעוּאֵל]]</big>**)

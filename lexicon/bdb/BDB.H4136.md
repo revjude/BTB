@@ -1,4 +1,4 @@
-<small>Also see: [[H8040]]</small>
+<small>Also see: **<big>[[H8040|שְׂמֹאול]]</big>**</small>
 
  <span class="bdbLangHebrew">‎לְמוֺא֯ל‎</span> [[Neh.12.38|Neh 12:38]] read <span class="bdbLangHebrew">‎לַשְּׂמאֹל‎</span>, see  <span class="bdbLangHebrew">‎שׂמאל‎</span>. 
 

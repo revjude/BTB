@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חוֹמָה‎</span></big> **chôwmâh** <small>*(kho-maw')*</small> ==**wall**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎חוֹמָה‎</span></big>** **chôwmâh** <small>*(kho-maw')*</small> ==**wall**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>feminine active participle of an unused root apparently meaning to join</small>
 
 $\quad$ wall, walled.
@@ -6,4 +6,4 @@ $\quad$ wall, walled.
 
 **1)** wall
 
-<sub><small>See Greek: </small></sub><span class="asgreek">τεῖχος</span><sup><small>[[G5038]]</small></sup> · <span class="asgreek">τοῖχος</span><sup><small>[[G5109]]</small></sup>
+<small>See Greek: </small>**<big>[[G5038|τεῖχος]]</big>** · **<big>[[G5109|τοῖχος]]</big>**

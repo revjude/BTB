@@ -1,5 +1,3 @@
-<span class="ashebrew">‎בֶּן־חָנָן‎</span> <small>***(ben-cha.nan)***</small> ==**Ben-hanan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-- A man of the tribe of Judah(?) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.20|1Ch.4.20]]
--  son of: Shimon ([[H7889]])
--  brother of: Amnon ([[H0550H]]), Rinnah ([[H7441]]) and Tilon ([[H8436]])
-
+- A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.4.20|1Ch.4.20]]
+-  son of: Shimon (**<big>[[H7889|שִׁימוֹן]]</big>**)
+-  brother of: Amnon (**<big>[[H0550H|אַמְנוֹן]]</big>**), Rinnah (**<big>[[H7441|רִנָּה]]</big>**) and Tilon (**<big>[[H8436|תּוּלוֹן]]</big>**)

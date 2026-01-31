@@ -7,27 +7,27 @@ I would lead thee, [and] bring thee into my mother’s house, [who] would instru
 I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates.<small><sub>**MT:**</sub></small>
 [[Song.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.1|<< Song of Solomon 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.3|Song of Solomon 8:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall take you; | <big><span class="asgreek">παραλήψομαί</span></big> <sup><small><small>[[G3880]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall bring you | <big><span class="asgreek">εισάξω</span></big> <sup><small><small>[[G1521]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| of my mother, | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \[the\] inner chamber | <big><span class="asgreek">ταμιείον</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| conceiving | <big><span class="asgreek">συλλαβούσης</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will give you to drink | <big><span class="asgreek">ποτιώ</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| scented | <big><span class="asgreek">μυρεψικού</span></big> <sup><small><small>[[G8360]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] juice | <big><span class="asgreek">νάματος</span></big> <sup><small><small>[[G8374]]</small></small></sup> |
-| of my pomegranates. | <big><span class="asgreek">ροών</span></big> <sup><small><small>[[G9029]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall take you; | **<big>[[G3880\|παραλήψομαί]]</big>** **<big>[[G1473\|σε]]</big>** |
+| I shall bring you | **<big>[[G1521\|εισάξω]]</big>** **<big>[[G1473\|σε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκον]]</big>** |
+| of my mother, | **<big>[[G3384\|μητρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| \[the\] inner chamber | **<big>[[G5009\|ταμιείον]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| conceiving | **<big>[[G4815\|συλλαβούσης]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| I will give you to drink | **<big>[[G4222\|ποτιώ]]</big>** **<big>[[G1473\|σε]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| wine | **<big>[[G3631\|οίνου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| scented | **<big>[[G8360\|μυρεψικού]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| \[the\] juice | **<big>[[G8374\|νάματος]]</big>** |
+| of my pomegranates. | **<big>[[G9029\|ροών]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Song.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.1|<< Song of Solomon 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.3|Song of Solomon 8:3 >>]]</td></tr></table>
 
 

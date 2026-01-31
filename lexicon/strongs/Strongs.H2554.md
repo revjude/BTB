@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָמַס‎</span></big> **châmaç** <small>*(khaw-mas')*</small> ==**to injure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָמַס‎</span></big>** **châmaç** <small>*(khaw-mas')*</small> ==**to injure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ make bare, shake off, violate, do violence, take away violently, wrong, imagine wrongfully.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** of ethical wrong
 $\quad$ $\quad$ **1a3)** of physical and ethical wrong
 $\quad$ **1b)** (Niphal) to be treated violently
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup> · <span class="asgreek">ἀθετέω</span><sup><small>[[G0114]]</small></sup> · <span class="asgreek">ἀσεβέω</span><sup><small>[[G0764]]</small></sup> · <span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">ἐπίκειμαι</span><sup><small>[[G1945]]</small></sup> · <span class="asgreek">παραδειγματίζω</span><sup><small>[[G3856]]</small></sup> · <span class="asgreek">τρυγάω</span><sup><small>[[G5166]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>** · **<big>[[G0114|ἀθετέω]]</big>** · **<big>[[G0764|ἀσεβέω]]</big>** · **<big>[[G1572|ἐκκαίω]]</big>** · **<big>[[G1945|ἐπίκειμαι]]</big>** · **<big>[[G3856|παραδειγματίζω]]</big>** · **<big>[[G5166|τρυγάω]]</big>**

@@ -1,4 +1,4 @@
-<small>Also see: [[H8337]]</small>
+<small>Also see: **<big>[[H8337|שֵׁשׁ]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎שֵׁשׁ‎</span> **noun masculine** id.; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַמּוּדֵי שׁ‎</span> [[Song.5.15|Song 5:15]] (in figurative), [[Esth.1.6|Esth 1:6]]a, material of pavement v[[Esth.1.6|Esth 1:6]]b (see  <span class="bdbLangHebrew">‎בַּ֫הַט‎</span>). — I. <span class="bdbLangHebrew">‎שֵׁשׁ‎</span> see  <span class="bdbLangHebrew">‎שׁדשׁ‎</span>. 
 

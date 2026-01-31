@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִדּוֹ‎</span></big> **Yiddôw** <small>*(yid-do')*</small> ==**Iddo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָדָה‎</span><sup><small>[[H3034]]</small></sup>; praised</small>
+**<big><span class="ashebrew">‎יִדּוֹ‎</span></big>** **Yiddôw** <small>*(yid-do')*</small> ==**Iddo**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3034|‎יָדָה‎]]</big>**; praised</small>
 
 $\quad$ Iddo.
 - § Iddo = *"timely" or "lovely"*

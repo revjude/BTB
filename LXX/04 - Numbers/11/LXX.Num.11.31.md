@@ -7,39 +7,39 @@ And there went forth a wind from the LORD, and brought quails from the sea, and 
 Now a wind sent by the LORD came up, drove in quail from the sea, and brought them near the camp, about two cubits above the surface of the ground, for a day’s journey in every direction around the camp.<small><sub>**MT:**</sub></small>
 [[Num.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.30|<< Numbers 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.32|Numbers 11:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a wind | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| went forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| carried over | <big><span class="asgreek">εξεπέρασεν</span></big> <sup><small><small>[[G7126]]</small></small></sup> |
-| mother-quail | <big><span class="asgreek">ορτυγομήτραν</span></big> <sup><small><small>[[G8556]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it put \[them\] | <big><span class="asgreek">επέβαλεν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| journey | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| a days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| here \[on this side\], | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| journey | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| a days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| here \[on that side\], | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
-| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp, | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| about | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
-| two cubits | <big><span class="asgreek">δίπηχυ</span></big> <sup><small><small>[[G6940]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a wind | **<big>[[G4151\|πνεύμα]]</big>** |
+| went forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| carried over | **<big>[[G7126\|εξεπέρασεν]]</big>** |
+| mother-quail | **<big>[[G8556\|ορτυγομήτραν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| sea, | **<big>[[G2281\|θαλάσσης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it put \[them\] | **<big>[[G1911\|επέβαλεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολής]]</big>** |
+| journey | **<big>[[G3598\|οδόν]]</big>** |
+| a days | **<big>[[G2250\|ημέρας]]</big>** |
+| here \[on this side\], | **<big>[[G1782\|εντεύθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| journey | **<big>[[G3598\|οδόν]]</big>** |
+| a days | **<big>[[G2250\|ημέρας]]</big>** |
+| here \[on that side\], | **<big>[[G1782\|εντεύθεν]]</big>** |
+| round about | **<big>[[G2945\|κύκλω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| camp, | **<big>[[G3925\|παρεμβολής]]</big>** |
+| about | **<big>[[G5616\|ωσεί]]</big>** |
+| two cubits | **<big>[[G6940\|δίπηχυ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth. | **<big>[[G1093\|γης]]</big>** |
 [[Num.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.30|<< Numbers 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.32|Numbers 11:32 >>]]</td></tr></table>
 
 

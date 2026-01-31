@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְרִיאֵל‎</span></big> **Yᵉrîyʼêl** <small>*(yer-ee-ale')*</small> ==**Jeriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יָרָה‎</span><sup><small>[[H3384]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; thrown of God</small>
+**<big><span class="ashebrew">‎יְרִיאֵל‎</span></big>** **Yᵉrîyʼêl** <small>*(yer-ee-ale')*</small> ==**Jeriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3384|‎יָרָה‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; thrown of God</small>
 
-$\quad$ Jeriel. Compare <span class="ashebrew">‎יְרוּאֵל‎</span><sup><small>[[H3385]]</small></sup>.
+$\quad$ Jeriel. Compare **<big>[[H3385|‎יְרוּאֵל‎]]</big>**.
 - § Jeriel = *"taught by God"*
 - ***Jeriel***, an Israelite
 

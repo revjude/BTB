@@ -7,25 +7,25 @@ Then thou spakest in vision to thy holy one, and saidst, I have laid help upon [
 You once spoke in a vision; to Your godly ones You said, “I have bestowed help on a warrior; I have exalted one chosen from the people.<small><sub>**MT:**</sub></small>
 [[Ps.89.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.18|<< Psalm 89:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.20|Psalm 89:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
-| you spoke | <big><span class="asgreek">ελάλησας</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a vision | <big><span class="asgreek">οράσει</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said, | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| I put | <big><span class="asgreek">εθέμην</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| help | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a mighty one; | <big><span class="asgreek">δυνατόν</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| raising up high | <big><span class="asgreek">ύψωσα</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
-| a chosen one | <big><span class="asgreek">εκλεκτόν</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Then | **<big>[[G5119\|τότε]]</big>** |
+| you spoke | **<big>[[G2980\|ελάλησας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a vision | **<big>[[G3706\|οράσει]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your sons, | **<big>[[G5207\|υιοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said, | **<big>[[G2036\|είπας]]</big>** |
+| I put | **<big>[[G5087\|εθέμην]]</big>** |
+| help | **<big>[[G0996\|βοήθειαν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a mighty one; | **<big>[[G1415\|δυνατόν]]</big>** |
+| raising up high | **<big>[[G5312\|ύψωσα]]</big>** |
+| a chosen one | **<big>[[G1588\|εκλεκτόν]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my people. | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Ps.89.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.18|<< Psalm 89:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.20|Psalm 89:20 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎סְגוֹר‎</span></big> **çᵉgôwr** <small>*(seg-ore')*</small> ==**enclosure**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎סָגַר‎</span><sup><small>[[H5462]]</small></sup></small>
+**<big><span class="ashebrew">‎סְגוֹר‎</span></big>** **çᵉgôwr** <small>*(seg-ore')*</small> ==**enclosure**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H5462|‎סָגַר‎]]</big>**</small>
 
 $\quad$ caul, gold.
 - properly, ***shut up***, i.e. ***the breast*** (as enclosing the heart)

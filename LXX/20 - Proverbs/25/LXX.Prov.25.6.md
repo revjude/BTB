@@ -11,17 +11,17 @@ Do not exalt yourself in the presence of the king, and do not stand in the place
 > $\quad$ referenced by: [[Luke.14.8|Luke 14:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| act ostentatiously | <big><span class="asgreek">αλαζονεύου</span></big> <sup><small><small>[[G6212]]</small></small></sup> |
-| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| \[the\] king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| places | <big><span class="asgreek">τόποις</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of mighty ones | <big><span class="asgreek">δυναστών</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
-| stand | <big><span class="asgreek">υφίστασο</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
+| Do not | **<big>[[G3361\|μη]]</big>** |
+| act ostentatiously | **<big>[[G6212\|αλαζονεύου]]</big>** |
+| in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
+| \[the\] king, | **<big>[[G0935\|βασιλέως]]</big>** |
+| nor | **<big>[[G3366\|μηδέ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| places | **<big>[[G5117\|τόποις]]</big>** |
+| of mighty ones | **<big>[[G1413\|δυναστών]]</big>** |
+| stand | **<big>[[G9609\|υφίστασο]]</big>** |
 [[Prov.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.5|<< Proverbs 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.7|Proverbs 25:7 >>]]</td></tr></table>
 
 

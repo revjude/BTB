@@ -10,19 +10,19 @@ And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.
 And Menahem rested with his fathers, and his son Pekahiah reigned in his place.<small><sub>**MT:**</sub></small>
 [[2Kgs.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.21|<< 2 Kings 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.23|2 Kings 15:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Menahem slept | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> <big><span class="asgreek">Μαναήμ</span></big> <sup><small><small>[[H4505]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his fathers. | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσε</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Pekahiah | <big><span class="asgreek">Φακεϊα</span></big> <sup><small><small>[[H6494]]</small></small></sup> |
-| his son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Menahem slept | **<big>[[G2837\|εκοιμήθη]]</big>** **<big>[[H4505\|Μαναήμ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσε]]</big>** |
+| Pekahiah | **<big>[[H6494\|Φακεϊα]]</big>** |
+| his son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.21|<< 2 Kings 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.23|2 Kings 15:23 >>]]</td></tr></table>
 
 

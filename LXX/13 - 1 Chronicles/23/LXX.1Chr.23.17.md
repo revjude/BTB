@@ -7,28 +7,28 @@ And the sons of Eliezer [were], Rehabiah the chief. And Eliezer had none other s
 The descendants of Eliezer: Rehabiah was the first. Eliezer did not have any other sons, but the sons of Rehabiah were very numerous.<small><sub>**MT:**</sub></small>
 [[1Chr.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.16|<< 1 Chronicles 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.18|1 Chronicles 23:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Eliezer -- | <big><span class="asgreek">Ελιέζερ</span></big> <sup><small><small>[[G1663]]</small></small></sup> |
-| Rehabiah | <big><span class="asgreek">Ραβία</span></big> <sup><small><small>[[H7345]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ruler. | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons to Eliezer | <big><span class="asgreek">Ελιέζερ</span></big> <sup><small><small>[[G1663]]</small></small></sup> <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| other | <big><span class="asgreek">έτεροι</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Rehabiah | <big><span class="asgreek">Ραβία</span></big> <sup><small><small>[[H7345]]</small></small></sup> |
-| increased | <big><span class="asgreek">ηυξήθησαν</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| stature. | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1510\|ήσαν]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Eliezer -- | **<big>[[G1663\|Ελιέζερ]]</big>** |
+| Rehabiah | **<big>[[H7345\|Ραβία]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| ruler. | **<big>[[G0758\|άρχων]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| there were no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| sons to Eliezer | **<big>[[G1663\|Ελιέζερ]]</big>** **<big>[[G5207\|υιοί]]</big>** |
+| other | **<big>[[G2087\|έτεροι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Rehabiah | **<big>[[H7345\|Ραβία]]</big>** |
+| increased | **<big>[[G0837\|ηυξήθησαν]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| stature. | **<big>[[G5311\|ύψος]]</big>** |
 [[1Chr.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.16|<< 1 Chronicles 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.18|1 Chronicles 23:18 >>]]</td></tr></table>
 
 

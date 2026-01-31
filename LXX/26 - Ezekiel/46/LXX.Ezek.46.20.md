@@ -7,47 +7,47 @@ Then said he unto me, This [is] the place where the priests shall boil the tresp
 and said to me, “This is the place where the priests shall boil the guilt offering and the sin offering, and where they shall bake the grain offering, so that they do not bring them into the outer court and transmit holiness to the people.”<small><sub>**MT:**</sub></small>
 [[Ezek.46.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.19|<< Ezekiel 46:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.21|Ezekiel 46:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| boil | <big><span class="asgreek">εψήσουσιν</span></big> <sup><small><small>[[G7594]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the \[sacrifices\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| an ignorance \[offering\], | <big><span class="asgreek">αγνοίας</span></big> <sup><small><small>[[G0052]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the \[sacrifices\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
-| a sin \[offering\]; | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| they bake | <big><span class="asgreek">πέψουσι</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gift \[offering\] | <big><span class="asgreek">μαναά</span></big> <sup><small><small>[[G8246]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thoroughly | <big><span class="asgreek">παράπαν</span></big> <sup><small><small>[[G8630]]</small></small></sup> |
-| \[so as\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| bring \[them\] forth | <big><span class="asgreek">εκφέρειν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| courtyard | <big><span class="asgreek">αυλήν</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| outer | <big><span class="asgreek">εξωτέραν</span></big> <sup><small><small>[[G1857]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sanctify | <big><span class="asgreek">αγιάζειν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said | **<big>[[G2036\|είπε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| me, | **<big>[[G1473\|με]]</big>** |
+| This | **<big>[[G3778\|ούτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| is | **<big>[[G1510\|εστίν]]</big>** |
+| of which | **<big>[[G3739\|ου]]</big>** |
+| boil | **<big>[[G7594\|εψήσουσιν]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| the \[sacrifices\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| an ignorance \[offering\], | **<big>[[G0052\|αγνοίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the \[sacrifices\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| for | **<big>[[G5228\|υπέρ]]</big>** |
+| a sin \[offering\]; | **<big>[[G0266\|αμαρτίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| they bake | **<big>[[G8778\|πέψουσι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gift \[offering\] | **<big>[[G8246\|μαναά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| thoroughly | **<big>[[G8630\|παράπαν]]</big>** |
+| \[so as\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| bring \[them\] forth | **<big>[[G1627\|εκφέρειν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| courtyard | **<big>[[G0833\|αυλήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| outer | **<big>[[G1857\|εξωτέραν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sanctify | **<big>[[G0037\|αγιάζειν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| people. | **<big>[[G2992\|λαόν]]</big>** |
 [[Ezek.46.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.19|<< Ezekiel 46:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.21|Ezekiel 46:21 >>]]</td></tr></table>
 
 

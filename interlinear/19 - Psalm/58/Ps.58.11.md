@@ -6,18 +6,18 @@ Then men will say, “There is surely a reward for the righteous! There is surel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.10|<< Psalms 58:10]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.0|Psalms 59:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| so he may say  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֹאמַ֣ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yo.Mar <small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  | <span class="ashebrew"><big>אָ֭דָם </big></span><small><small><sup>[[H0120G]]</sup></small></small> &#8207;| 'A.dom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| surely  | <span class="ashebrew"><big>אַךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'akh- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit  | <span class="ashebrew"><big>פְּרִ֣י </big></span><small><small><sup>[[H6529]]</sup></small></small> &#8207;| pe.Ri <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to the righteous  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>צַּדִּ֑יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| surely  | <span class="ashebrew"><big>אַ֥ךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> &#8207;| 'akh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  | <span class="ashebrew"><big>יֵשׁ </big></span><small><small><sup>[[H3426]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yesh- <small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a God  | <span class="ashebrew"><big>אֱ֝לֹהִ֗ים </big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'E.lo.Him <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] judges  | <span class="ashebrew"><big>שֹׁפְטִ֥ים </big></span><small><small><sup>[[H8199]]</sup></small></small> &#8207;| sho.fe.Tim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on the earth  | <span class="ashebrew"><big>בָּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>אָֽרֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so he may say  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0559\|יֹאמַ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Mar<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit  |**<big>&#8207;[[H6529\|פְּרִ֣י]]&#8207; </big>**| pe.Ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to the righteous  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6662\|צַּדִּ֑יק]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely  |**<big>&#8207;[[H0389\|אַ֥ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H3426\|יֵשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a God  |**<big>&#8207;[[H0430G\|אֱ֝לֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] judges  |**<big>&#8207;[[H8199\|שֹׁפְטִ֥ים]]&#8207; </big>**| sho.fe.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the earth  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.10|<< Psalms 58:10]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.0|Psalms 59:0 >>]]</td></tr></table>
 
 

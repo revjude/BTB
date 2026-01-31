@@ -7,27 +7,27 @@ Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of 
 My servants will shout for joy with a glad heart, but you will cry out with a heavy heart and wail with a broken spirit.<small><sub>**MT:**</sub></small>
 [[Isa.65.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.13|<< Isaiah 65:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.15|Isaiah 65:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| serving | <big><span class="asgreek">δουλεύοντές</span></big> <sup><small><small>[[G1398]]</small></small></sup> |
-| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| gladness, | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
-| but you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall cry out | <big><span class="asgreek">κεκράξεσθε</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| misery | <big><span class="asgreek">πόνον</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your heart; | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] destruction | <big><span class="asgreek">συντριβής</span></big> <sup><small><small>[[G9340]]</small></small></sup> |
-| of your spirit | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you shall shriek. | <big><span class="asgreek">ολολύξετε</span></big> <sup><small><small>[[G3649]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| serving | **<big>[[G1398\|δουλεύοντές]]</big>** |
+| me | **<big>[[G1473\|μοι]]</big>** |
+| shall exult | **<big>[[G0021\|αγαλλιάσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| gladness, | **<big>[[G2167\|ευφροσύνη]]</big>** |
+| but you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall cry out | **<big>[[G2896\|κεκράξεσθε]]</big>** |
+| because of | **<big>[[G1223\|διά]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| misery | **<big>[[G4192\|πόνον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your heart; | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] destruction | **<big>[[G9340\|συντριβής]]</big>** |
+| of your spirit | **<big>[[G4151\|πνεύματος]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| you shall shriek. | **<big>[[G3649\|ολολύξετε]]</big>** |
 [[Isa.65.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.13|<< Isaiah 65:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.15|Isaiah 65:15 >>]]</td></tr></table>
 
 

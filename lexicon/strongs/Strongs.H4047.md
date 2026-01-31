@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַגְפִּיעָשׁ‎</span></big> **Magpîyʻâsh** <small>*(mag-pee-awsh')*</small> ==**Magpiash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎גּוּף‎</span><sup><small>[[H1479]]</small></sup> or <span class="ashebrew">‎נָגַף‎</span><sup><small>[[H5062]]</small></sup> and <span class="ashebrew">‎עָשׁ‎</span><sup><small>[[H6211]]</small></sup>; exterminator of (the) moth</small>
+**<big><span class="ashebrew">‎מַגְפִּיעָשׁ‎</span></big>** **Magpîyʻâsh** <small>*(mag-pee-awsh')*</small> ==**Magpiash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently from **<big>[[H1479|‎גּוּף‎]]</big>** or **<big>[[H5062|‎נָגַף‎]]</big>** and **<big>[[H6211|‎עָשׁ‎]]</big>**; exterminator of (the) moth</small>
 
 $\quad$ Magpiash.
 - § Magpiash = *"moth-killer"*

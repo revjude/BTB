@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְהֹוָה שָׁלוֹם‎</span></big> **Yᵉhôvâh shâlôwm** <small>*(yeh-ho-vaw' shaw-lome')*</small> ==**YHWH/Yahweh-shalom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎שָׁלוֹם‎</span><sup><small>[[H7965]]</small></sup>; Jehovah (is) peace</small>
+**<big><span class="ashebrew">‎יְהֹוָה שָׁלוֹם‎</span></big>** **Yᵉhôvâh shâlôwm** <small>*(yeh-ho-vaw' shaw-lome')*</small> ==**YHWH/Yahweh-shalom**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H7965|‎שָׁלוֹם‎]]</big>**; Jehovah (is) peace</small>
 
 $\quad$ Jehovah-shalom.
 - § Jehovah-shalom = *"Jehovah is peace"*

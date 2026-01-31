@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּנָנִי‎</span></big> **Kᵉnânîy** <small>*(ken-aw-nee')*</small> ==**Chenani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּנַן‎</span><sup><small>[[H3661]]</small></sup>; planted</small>
+**<big><span class="ashebrew">‎כְּנָנִי‎</span></big>** **Kᵉnânîy** <small>*(ken-aw-nee')*</small> ==**Chenani**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3661|‎כָּנַן‎]]</big>**; planted</small>
 
 $\quad$ Chenani.
 - § Chenani = *"my station"*

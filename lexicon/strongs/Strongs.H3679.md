@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כַּסְדַּי‎</span></big> **Kaçday** <small>*(kas-dah'-ee)*</small> ==**Chaldean**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>for <span class="ashebrew">‎כַּשְׂדִּי‎</span><sup><small>[[H3778]]</small></sup></small>
+**<big><span class="ashebrew">‎כַּסְדַּי‎</span></big>** **Kaçday** <small>*(kas-dah'-ee)*</small> ==**Chaldean**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>for **<big>[[H3778|‎כַּשְׂדִּי‎]]</big>**</small>
 
 $\quad$ Chaldean.
 - § Chaldean = *see Chaldea "clod-breakers"*

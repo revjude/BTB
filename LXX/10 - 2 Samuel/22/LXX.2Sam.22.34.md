@@ -7,19 +7,19 @@ He maketh my feet like hinds’ [feet]: and setteth me upon my high places.
 He makes my feet like those of a deer and stations me upon the heights.<small><sub>**MT:**</sub></small>
 [[2Sam.22.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.33|<< 2 Samuel 22:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.35|2 Samuel 22:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| setting | <big><span class="asgreek">τιθείς</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a stag, | <big><span class="asgreek">ελάφου</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| standing | <big><span class="asgreek">ιστών</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heights; | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| setting | **<big>[[G5087\|τιθείς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my feet | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a stag, | **<big>[[G7180\|ελάφου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| standing | **<big>[[G2476\|ιστών]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| heights; | **<big>[[G5308\|υψηλά]]</big>** |
 [[2Sam.22.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.33|<< 2 Samuel 22:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.35|2 Samuel 22:35 >>]]</td></tr></table>
 
 

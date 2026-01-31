@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Zorah</span> was a town in the Shephelah region, originally allotted to Judah and later to Dan, and was the hometown of Samson \([[Josh.15.33|Jos.15.33]]; 19:41; [[Judg.13.2|Jdg.13.2]]\).
 - A location first mentioned at [[Josh.15.33|Jos.15.33]]; 
-- only referred to as Zorah<[[H6881]]> \(<span class='tipnrLangHebrew'>צ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Zorah **<big>[[H6881|צׇרְעָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.762141,34.969319&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Zorah was a town located in the Shephelah, the foothills between the coastal pla
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zorah | [<span class='tipnrLangHebrew'>צ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6881) <small>*Hebrew*</small> | 10x | [[Jos.15.33] ... [Neh.11.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zorah\*\|reference=Jos.15.33;Jos.19.41;Jdg.13.2;Jdg.13.25;Jdg.16.31;Jdg.18.2;Jdg.18.8;Jdg.18.11;2Ch.11.10;Neh.11.29) |
-All Strong's for **Zorah**: \[[[H6881]]\]
+| Zorah | [<span class='tipnrLangHebrew'>צ</span>ׇ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6881) | 10x | [[Jos.15.33] ... [Neh.11.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zorah\*\|reference=Jos.15.33;Jos.19.41;Jdg.13.2;Jdg.13.25;Jdg.16.31;Jdg.18.2;Jdg.18.8;Jdg.18.11;2Ch.11.10;Neh.11.29) |
+All entries for **Zorah**:  **<big>[[H6881|צׇרְעָה]]</big>**

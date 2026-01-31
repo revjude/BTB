@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֵׁן‎</span></big> **Shên** <small>*(shane)*</small> ==**Shen**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎שֵׁן‎</span><sup><small>[[H8127]]</small></sup>; crag</small>
+**<big><span class="ashebrew">‎שֵׁן‎</span></big>** **Shên** <small>*(shane)*</small> ==**Shen**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H8127|‎שֵׁן‎]]</big>**; crag</small>
 
 $\quad$ Shen.
 - § Shen = *"crag"*

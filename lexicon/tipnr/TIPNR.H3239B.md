@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Janoah</span>, a town on the border of Ephraim's territory \([[Josh.16.6|Joshua 16:6]],7\).
 - A location first mentioned at [[Josh.16.6|Jos.16.6]]; 
-- only referred to as Janoah<[[H3239B]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>נ</span>֫<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Janoah **<big>[[H3239|יָנוֹחַ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.260246,35.302915&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Janoah was a town located on the northern border of the territory allocated to t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Janoah | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>נ</span>֫<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3239B) <small>*Hebrew*</small> | 2x | [[Jos.16.6] & [Jos.16.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Janoah\*\|reference=Jos.16.6;Jos.16.7) |
-All Strong's for **Janoah**: \[[[H3239B]]\]
+| Janoah | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>נ</span>֫<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3239B) | 2x | [[Jos.16.6] & [Jos.16.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Janoah\*\|reference=Jos.16.6;Jos.16.7) |
+All entries for **Janoah**:  **<big>[[H3239|יָנוֹחַ]]</big>**

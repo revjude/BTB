@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָתַע‎</span></big> **nâthaʻ** <small>*(naw-thah')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>for <span class="ashebrew">‎נָתַץ‎</span><sup><small>[[H5422]]</small></sup></small>
+**<big><span class="ashebrew">‎נָתַע‎</span></big>** **nâthaʻ** <small>*(naw-thah')*</small> ==**to break**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>for **<big>[[H5422|‎נָתַץ‎]]</big>**</small>
 
 $\quad$ break.
 - ***to tear out***

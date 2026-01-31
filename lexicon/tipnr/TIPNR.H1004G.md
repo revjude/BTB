@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Beth-ashbea</span> was a place associated with the families of the house of Ashbea, who were known for their fine linen work. \([[1Chr.4.21|1 Chronicles 4:21]]\)
 - A location in Judea only mentioned at [[1Chr.4.21|1Ch.4.21]]; 
-- only referred to as Beth-ashbea<[[H1004G]]><[[H0791]]> \(<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span> <span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ע</span>ַ\).
+- only referred to as Beth-ashbea **<big>[[H1004|בַּיִת]]</big>** **<big>[[H0791|אַשְׁבֵּעַ]]</big>**.
 
 Beth-ashbea is mentioned only once in the Bible, in [[1Chr.4.21|1 Chronicles 4:21]], as part of the genealogy of the tribe of Judah. The verse states that the families of the house of Ashbea, who were from Beth-ashbea, were known for their work with fine linen. 
 
@@ -14,5 +14,5 @@ No other details about Beth-ashbea or the families of the house of Ashbea are pr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Beth/-ashbea (KJV= house of Ashbea) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>](H1004G)[<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ע</span>ַ](H0791) <small>*Hebrew*</small> | 1x | [1Ch.4.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Ch.4.21) |
-All Strong's for **Beth-ashbea**: \[[[H1004G]]\]
+| Beth/-ashbea (KJV= house of Ashbea) | [<span class='tipnrLangHebrew'>ב</span>ַּ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>](H1004G)[<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ֵּ<span class='tipnrLangHebrew'>ע</span>ַ](H0791) | 1x | [1Ch.4.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beth\*\|reference=1Ch.4.21) |
+All entries for **Beth-ashbea**:  **<big>[[H1004|בַּיִת]]</big>**

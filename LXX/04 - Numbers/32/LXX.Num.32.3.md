@@ -7,25 +7,25 @@ Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam,
 “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,<small><sub>**MT:**</sub></small>
 [[Num.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.2|<< Numbers 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.4|Numbers 32:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Ataroth | <big><span class="asgreek">Αταρώθ</span></big> <sup><small><small>[[H5852]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Dibon | <big><span class="asgreek">Δεβών</span></big> <sup><small><small>[[H1769]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jazer | <big><span class="asgreek">Ιαζήρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nimrah | <big><span class="asgreek">Ναμβρών</span></big> <sup><small><small>[[H5247]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Heshbon | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elealeh | <big><span class="asgreek">Ελεαλή</span></big> <sup><small><small>[[H0500]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shebam | <big><span class="asgreek">Σεβαμά</span></big> <sup><small><small>[[H7643]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Nebo | <big><span class="asgreek">Ναβαύ</span></big> <sup><small><small>[[H5025]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Beon, | <big><span class="asgreek">Βαϊαν</span></big> <sup><small><small>[[H1194]]</small></small></sup> |
+| Ataroth | **<big>[[H5852\|Αταρώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Dibon | **<big>[[H1769\|Δεβών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jazer | **<big>[[H3270\|Ιαζήρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nimrah | **<big>[[H5247\|Ναμβρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Heshbon | **<big>[[H2809\|Εσεβών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Elealeh | **<big>[[H0500\|Ελεαλή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shebam | **<big>[[H7643\|Σεβαμά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Nebo | **<big>[[H5025\|Ναβαύ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Beon, | **<big>[[H1194\|Βαϊαν]]</big>** |
 [[Num.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.2|<< Numbers 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.4|Numbers 32:4 >>]]</td></tr></table>
 
 

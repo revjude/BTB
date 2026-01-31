@@ -1,5 +1,5 @@
 <span class="asgreek">ουδὲ μή</span> <small>***(oude mē)***</small> ==**neither**==  <sup><small>[[TEGMC#G:PRT-N+G:CONJ + G:PRT-N|G:PRT-N+G:CONJ + G:PRT-N]]</small></sup> 
-combination of: <small>[[G3361]] ([[G3761]]+[[G3361]])</small> 
+combination of: <small>**<big>[[G3361|μή]]</big>** (**<big>[[G3761|οὐδέ]]</big>**+**<big>[[G3361|μή]]</big>**)</small> 
 
 
 Related to: <b> <span class='asgreek'>==ουδὲ μή==</span></b>, 

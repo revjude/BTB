@@ -14,31 +14,31 @@ Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is 
 > $\quad$ referenced by: [[Rev.19.13|Rev 19:13]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\] this, | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">παραγενόμενος</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Edom, | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
-| dyed red | <big><span class="asgreek">ερύθημα</span></big> <sup><small><small>[[G7509]]</small></small></sup> |
-| garments | <big><span class="asgreek">ιματίων</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Bozrah? | <big><span class="asgreek">Βοσόρ</span></big> <sup><small><small>[[H1308]]</small></small></sup> |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| beautiful | <big><span class="asgreek">ωραίος</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his apparel, | <big><span class="asgreek">στολή</span></big> <sup><small><small>[[G4749]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| force | <big><span class="asgreek">βία</span></big> <sup><small><small>[[G0970]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| a mighty | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| reason | <big><span class="asgreek">διαλέγομαι</span></big> <sup><small><small>[[G1256]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] case | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| of deliverance. | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| \[is\] this, | **<big>[[G3778\|ούτος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| coming | **<big>[[G3854\|παραγενόμενος]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| Edom, | **<big>[[H0123\|Εδώμ]]</big>** |
+| dyed red | **<big>[[G7509\|ερύθημα]]</big>** |
+| garments | **<big>[[G2440\|ιματίων]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Bozrah? | **<big>[[H1308\|Βοσόρ]]</big>** |
+| This one | **<big>[[G3779\|ούτος]]</big>** |
+| beautiful | **<big>[[G5611\|ωραίος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| his apparel, | **<big>[[G4749\|στολή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| force | **<big>[[G0970\|βία]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| a mighty | **<big>[[G2479\|ισχύος]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| reason | **<big>[[G1256\|διαλέγομαι]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] case | **<big>[[G2920\|κρίσιν]]</big>** |
+| of deliverance. | **<big>[[G4992\|σωτηρίου]]</big>** |
 [[Isa.63.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.12|<< Isaiah 62:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.2|Isaiah 63:2 >>]]</td></tr></table>
 
 

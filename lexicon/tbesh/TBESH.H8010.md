@@ -1,7 +1,5 @@
-<span class="ashebrew">‎שְׁלֹמֹה‎</span> <small>***(she.lo.moh)***</small> ==**Solomon**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A king of the tribe of Judah living at the time of United Monarchy, first mentioned at [[2Sam.5.14|2Sa.5.14]]
--  son of: David ([[H1732]]) and Bathsheba ([[H1339]])
--  brother of: Shammua ([[H8051H]]), Shobab ([[H7727]]) and Nathan ([[H5416]])
--  half-brother of: Amnon ([[H0550]]), Chileab ([[H3609]]), Absalom ([[H0053]]), Adonijah ([[H0138]]), Shephatiah ([[H8203]]), Ithream ([[H3507]]), Ibhar ([[H2984]]), Elishua ([[H0474]]), Nepheg ([[H5298H]]), Japhia ([[H3309I]]), Elishama ([[H0476H]]), Eliada ([[H0450]]), Eliphelet ([[H0467]]), Tamar ([[H8559H]]), Elpelet ([[H0467I]]), Nogah ([[H5052]]) and Jerimoth ([[H3406N]]); married to daughter\_of\_Pharaoh ([[H6547P]]) and Naamah ([[H5279A]])
--  father of: Taphath ([[H2955]]), Basemath ([[H1315]]) and Rehoboam ([[H7346]]); also called Jedidiah at [[2Sam.12.25|2Sa.12.25]]
-
+-  son of: David (**<big>[[H1732|דָּוִד]]</big>**) and Bathsheba (**<big>[[H1339|בַּת־שֶׁבַע]]</big>**)
+-  brother of: Shammua (**<big>[[H8051H|שַׁמּוּעַ]]</big>**), Shobab (**<big>[[H7727|שׁוֹבָב]]</big>**) and Nathan (**<big>[[H5416|נָתָן]]</big>**)
+-  half-brother of: Amnon (**<big>[[H0550|אַמְנוֹן]]</big>**), Chileab (**<big>[[H3609|כִּלְאָב]]</big>**), Absalom (**<big>[[H0053|אֲבִישָׁלוֹם]]</big>**), Adonijah (**<big>[[H0138|אֲדֹנִיָּה]]</big>**), Shephatiah (**<big>[[H8203|שְׁפַטְיָה]]</big>**), Ithream (**<big>[[H3507|יִתְרְעָם]]</big>**), Ibhar (**<big>[[H2984|יִבְחַר]]</big>**), Elishua (**<big>[[H0474|אֱלִישׁוּעַ]]</big>**), Nepheg (**<big>[[H5298H|נֶפֶג]]</big>**), Japhia (**<big>[[H3309I|יָפִיעַ]]</big>**), Elishama (**<big>[[H0476H|אֱלִישָׁמָע]]</big>**), Eliada (**<big>[[H0450|אֶלְיָדָע]]</big>**), Eliphelet (**<big>[[H0467|אֱלִיפֶלֶט]]</big>**), Tamar (**<big>[[H8559H|תָּמָר]]</big>**), Elpelet (**<big>[[H0467I|אֱלִיפֶלֶט]]</big>**), Nogah (**<big>[[H5052|נֹגַהּ]]</big>**) and Jerimoth (**<big>[[H3406N|יְרִימוֹת]]</big>**); married to daughter\_of\_Pharaoh (**<big>[[H6547P|פַּרְעֹה]]</big>**) and Naamah (**<big>[[H5279A|נַעֲמָה]]</big>**)
+-  father of: Taphath (**<big>[[H2955|טָפַת]]</big>**), Basemath (**<big>[[H1315|בׇּשְׂמַת]]</big>**) and Rehoboam (**<big>[[H7346|רְחַבְעָם]]</big>**); also called Jedidiah at [[2Sam.12.25|2Sa.12.25]]

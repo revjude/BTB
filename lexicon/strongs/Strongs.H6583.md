@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּשְׁחוּר‎</span></big> **Pashchûwr** <small>*(pash-khoor')*</small> ==**Pashhur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎פָּשַׁח‎</span><sup><small>[[H6582]]</small></sup>; liberation</small>
+**<big><span class="ashebrew">‎פַּשְׁחוּר‎</span></big>** **Pashchûwr** <small>*(pash-khoor')*</small> ==**Pashhur**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H6582|‎פָּשַׁח‎]]</big>**; liberation</small>
 
 $\quad$ Pashur.
 - § Pashur = *"freedom"*

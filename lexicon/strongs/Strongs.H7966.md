@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שִׁלּוּם‎</span></big> **shillûwm** <small>*(shil-loom')*</small> ==**recompense**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">שִׁלֻּם</span> **shillum** <small>*(shil-loom')*</small>; from <span class="ashebrew">‎שָׁלַם‎</span><sup><small>[[H7999]]</small></sup></small>
+**<big><span class="ashebrew">‎שִׁלּוּם‎</span></big>** **shillûwm** <small>*(shil-loom')*</small> ==**recompense**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">שִׁלֻּם</span></big>** **shillum** <small>*(shil-loom')*</small>; from **<big>[[H7999|‎שָׁלַם‎]]</big>**</small>
 
 $\quad$ recompense, reward.
 - ***a requital***, i.e. (secure) ***retribution***, (venal) ***a fee***
@@ -8,4 +8,4 @@ $\quad$ recompense, reward.
 $\quad$ **1a)** requital, retribution
 $\quad$ **1b)** reward, bribe
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνταπόδοσις</span><sup><small>[[G0469]]</small></sup>
+<small>See Greek: </small>**<big>[[G0469|ἀνταπόδοσις]]</big>**

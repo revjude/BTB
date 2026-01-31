@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎κατεξουσιάζω‎</span></big> **katexousiázō** <small>*(kat-ex-oo-see-ad'-zo)*</small> ==**to rule**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">κατά</span><sup><small>[[G2596]]</small></sup> and <span class="asgreek">ἐξουσιάζω</span><sup><small>[[G1850]]</small></sup></small>
+**<big><span class="asgreek">‎κατεξουσιάζω‎</span></big>** **katexousiázō** <small>*(kat-ex-oo-see-ad'-zo)*</small> ==**to rule**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G2596|‎κατά‎]]</big>** and **<big>[[G1850|‎ἐξουσιάζω‎]]</big>**</small>
 
 $\quad$ exercise authority.
 - to have (wield) full privilege over

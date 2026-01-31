@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַתַּי‎</span></big> **ʻAttay** <small>*(at-tah'ee)*</small> ==**Attai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>for <span class="ashebrew">‎עִתִּי‎</span><sup><small>[[H6261]]</small></sup></small>
+**<big><span class="ashebrew">‎עַתַּי‎</span></big>** **ʻAttay** <small>*(at-tah'ee)*</small> ==**Attai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for **<big>[[H6261|‎עִתִּי‎]]</big>**</small>
 
 $\quad$ Attai.
 - § Attai = *"opportune"*

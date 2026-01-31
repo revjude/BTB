@@ -10,29 +10,29 @@ Now it came to pass in the fourteenth year of king Hezekiah, [that] Sennacherib 
 In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.<small><sub>**MT:**</sub></small>
 [[Isa.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.10|<< Isaiah 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.2|Isaiah 36:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fourteenth | <big><span class="asgreek">τεσσαρεσκαιδεκάτου</span></big> <sup><small><small>[[G5065]]</small></small></sup> |
-| year | <big><span class="asgreek">έτους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| of \[the\] reigning | <big><span class="asgreek">βασιλεύοντος</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| of Hezekiah, | <big><span class="asgreek">Εζεκίου</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| Sennacherib | <big><span class="asgreek">Σενναχηρείμ</span></big> <sup><small><small>[[H5576]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judea | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| fourteenth | **<big>[[G5065\|τεσσαρεσκαιδεκάτου]]</big>** |
+| year | **<big>[[G2094\|έτους]]</big>** |
+| of \[the\] reigning | **<big>[[G0936\|βασιλεύοντος]]</big>** |
+| of Hezekiah, | **<big>[[G1478\|Εζεκίου]]</big>** |
+| ascended | **<big>[[G0305\|ανέβη]]</big>** |
+| Sennacherib | **<big>[[H5576\|Σενναχηρείμ]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Judea | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| fortified | **<big>[[G8575\|οχυράς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| took | **<big>[[G2983\|έλαβεν]]</big>** |
+| them. | **<big>[[G1473\|αυτάς]]</big>** |
 [[Isa.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.10|<< Isaiah 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.2|Isaiah 36:2 >>]]</td></tr></table>
 
 

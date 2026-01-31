@@ -6,18 +6,18 @@ Bakbakkar, Heresh, Galal, and Mattaniah son of Mica, the son of Zichri, the son 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.14|<< 1 Chronicles 9:14]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.16|1 Chronicles 9:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Bakbakkar  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בַקְבַּקַּ֥ר </big></span><small><small><sup>[[H1230]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vak.ba.Kar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Heresh  | <span class="ashebrew"><big>חֶ֖רֶשׁ </big></span><small><small><sup>[[H2792]]</sup></small></small> &#8207;| Che.resh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Galal  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גָלָ֑ל </big></span><small><small><sup>[[H1559G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ga.Lal <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Mattaniah  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַתַּנְיָה֙ </big></span><small><small><sup>[[H4983G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.tan.Yah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Mica  | <span class="ashebrew"><big>מִיכָ֔א </big></span><small><small><sup>[[H4316G]]</sup></small></small> &#8207;| mi.Kha' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zikri  | <span class="ashebrew"><big>זִכְרִ֖י </big></span><small><small><sup>[[H2147K]]</sup></small></small> &#8207;| zikh.Ri <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Asaph  | <span class="ashebrew"><big>אָסָֽף </big></span><small><small><sup>[[H0623I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.Saf <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Bakbakkar  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1230\|בַקְבַּקַּ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vak.ba.Kar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heresh  |**<big>&#8207;[[H2792\|חֶ֖רֶשׁ]]&#8207; </big>**| Che.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Galal  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1559G\|גָלָ֑ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Lal<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Mattaniah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4983G\|מַתַּנְיָה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.tan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mica  |**<big>&#8207;[[H4316G\|מִיכָ֔א]]&#8207; </big>**| mi.Kha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zikri  |**<big>&#8207;[[H2147K\|זִכְרִ֖י]]&#8207; </big>**| zikh.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asaph  |**<big>&#8207;[[H0623I\|אָסָֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Saf<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.14|<< 1 Chronicles 9:14]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.16|1 Chronicles 9:16 >>]]</td></tr></table>
 
 

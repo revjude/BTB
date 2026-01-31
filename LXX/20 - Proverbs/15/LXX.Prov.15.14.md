@@ -7,16 +7,16 @@ The heart of him that hath understanding seeketh knowledge: but the mouth of foo
 A discerning heart seeks knowledge, but the mouth of a fool feeds on folly.<small><sub>**MT:**</sub></small>
 [[Prov.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.13|<< Proverbs 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.15|Proverbs 15:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| An upright | <big><span class="asgreek">ορθή</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
-| seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| perception; | <big><span class="asgreek">αίσθησιν</span></big> <sup><small><small>[[G0144]]</small></small></sup> |
-| but \[the\] mouth | <big><span class="asgreek">στόμα δε</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| of \[the\] uninstructed | <big><span class="asgreek">απαιδεύτων</span></big> <sup><small><small>[[G0521]]</small></small></sup> |
-| shall know | <big><span class="asgreek">γνώσεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| evils. | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| An upright | **<big>[[G3717\|ορθή]]</big>** |
+| seeks | **<big>[[G2212\|ζητεί]]</big>** |
+| perception; | **<big>[[G0144\|αίσθησιν]]</big>** |
+| but \[the\] mouth | **<big>[[G4750\|στόμα δε]]</big>** |
+| of \[the\] uninstructed | **<big>[[G0521\|απαιδεύτων]]</big>** |
+| shall know | **<big>[[G1097\|γνώσεται]]</big>** |
+| evils. | **<big>[[G2556\|κακά]]</big>** |
 [[Prov.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.13|<< Proverbs 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.15|Proverbs 15:15 >>]]</td></tr></table>
 
 

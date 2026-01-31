@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Naamah</span> was a town in the Judean lowlands, mentioned in the tribal allotment of Judah.
 - A location only mentioned at [[Josh.15.41|Jos.15.41]]; 
-- only referred to as Naamah<[[H5279B]]> \(<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- only referred to as Naamah **<big>[[H5279|נַעֲמָה]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.871782,34.871894&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Naamah was a town in the Judean lowlands, also known as the Shephelah \(Josh. 15
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Naamah | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5279B) <small>*Hebrew*</small> | 1x | [Jos.15.41 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naamah\*\|reference=Jos.15.41) |
-All Strong's for **Naamah**: \[[[H5279B]]\]
+| Naamah | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5279B) | 1x | [Jos.15.41 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naamah\*\|reference=Jos.15.41) |
+All entries for **Naamah**:  **<big>[[H5279|נַעֲמָה]]</big>**

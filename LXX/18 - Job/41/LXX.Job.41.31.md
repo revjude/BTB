@@ -7,18 +7,18 @@ He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
 He makes the depths seethe like a cauldron; he makes the sea like a jar of ointment.<small><sub>**MT:**</sub></small>
 [[Job.41.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.30|<< Job 41:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.32|Job 41:32 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| breaks out | <big><span class="asgreek">άναζει</span></big> <sup><small><small>[[G6280]]</small></small></sup> |
-| The | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abyss | <big><span class="asgreek">άβυσσον</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a brazen cauldron; | <big><span class="asgreek">χαλκείον</span></big> <sup><small><small>[[G9694]]</small></small></sup> |
-| and he esteems | <big><span class="asgreek">ήγηται</span></big> <sup><small><small>[[G2233]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| an ointment jar. | <big><span class="asgreek">εξάλειπτρον</span></big> <sup><small><small>[[G7288]]</small></small></sup> |
+| breaks out | **<big>[[G6280\|άναζει]]</big>** |
+| The | **<big>[[G3588\|την]]</big>** |
+| abyss | **<big>[[G0012\|άβυσσον]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a brazen cauldron; | **<big>[[G9694\|χαλκείον]]</big>** |
+| and he esteems | **<big>[[G2233\|ήγηται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sea | **<big>[[G2281\|θάλασσαν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| an ointment jar. | **<big>[[G7288\|εξάλειπτρον]]</big>** |
 [[Job.41.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.30|<< Job 41:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.32|Job 41:32 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִבְצַיִם‎</span></big> **Qibtsayim** <small>*(kib-tsah'-yim)*</small> ==**Kibzaim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>dual from <span class="ashebrew">‎קָבַץ‎</span><sup><small>[[H6908]]</small></sup>; a double heap</small>
+**<big><span class="ashebrew">‎קִבְצַיִם‎</span></big>** **Qibtsayim** <small>*(kib-tsah'-yim)*</small> ==**Kibzaim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>dual from **<big>[[H6908|‎קָבַץ‎]]</big>**; a double heap</small>
 
 $\quad$ Kibzaim.
 - § Kibzaim = *"two gatherings"*

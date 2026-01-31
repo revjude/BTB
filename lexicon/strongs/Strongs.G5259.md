@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎ὑπό‎</span></big> **hypó** <small>*(hoop-o')*</small> ==**by/under: by**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
+**<big><span class="asgreek">‎ὑπό‎</span></big>** **hypó** <small>*(hoop-o')*</small> ==**by/under: by**==  <sup><small>[[TEGMC#G:PREP|G:PREP]]</small></sup> 
 <small>a primary preposition</small>
 
 $\quad$ among, by, from, in, of, under, with.

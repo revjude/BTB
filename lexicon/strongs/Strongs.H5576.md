@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סַנְחֵרִיב‎</span></big> **Çanchêrîyb** <small>*(san-khay-reeb')*</small> ==**Sennacherib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎סַנְחֵרִיב‎</span></big>** **Çanchêrîyb** <small>*(san-khay-reeb')*</small> ==**Sennacherib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign origin</small>
 
 $\quad$ Sennacherib.

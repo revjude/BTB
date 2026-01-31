@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הֵימָם‎</span></big> **Hêymâm** <small>*(hay-mawm')*</small> ==**Hemam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>another form for <span class="ashebrew">‎הוֹמָם‎</span><sup><small>[[H1950]]</small></sup></small>
+**<big><span class="ashebrew">‎הֵימָם‎</span></big>** **Hêymâm** <small>*(hay-mawm')*</small> ==**Hemam**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>another form for **<big>[[H1950|‎הוֹמָם‎]]</big>**</small>
 
 $\quad$ Hemam.
 - § Hemam = *"exterminating"*

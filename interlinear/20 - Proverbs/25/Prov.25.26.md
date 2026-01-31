@@ -6,16 +6,16 @@ Like a muddied spring or a polluted well is a righteous man who gives way to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.25|<< Proverbs 25:25]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.27|Proverbs 25:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a spring  | <span class="ashebrew"><big>מַעְיָ֣ן </big></span><small><small><sup>[[H4599]]</sup></small></small> &#8207;| ma'.Yan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fouled  | <span class="ashebrew"><big>נִ֭רְפָּשׂ </big></span><small><small><sup>[[H7515]]</sup></small></small> &#8207;| Nir.pos <small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a fountain  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מָק֣וֹר </big></span><small><small><sup>[[H4726]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ma.Kor <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ruined  | <span class="ashebrew"><big>מָשְׁחָ֑ת </big></span><small><small><sup>[[H7843]]</sup></small></small> &#8207;| ma.she.Chat <small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a righteous [person]  | <span class="ashebrew"><big>צַ֝דִּ֗יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] sways  | <span class="ashebrew"><big>מָ֣ט </big></span><small><small><sup>[[H4131]]</sup></small></small> &#8207;| mat <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְנֵֽי </big></span><small><small><sup>[[H6440G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a wicked [person]  | <span class="ashebrew"><big>רָשָֽׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spring  |**<big>&#8207;[[H4599\|מַעְיָ֣ן]]&#8207; </big>**| ma'.Yan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fouled  |**<big>&#8207;[[H7515\|נִ֭רְפָּשׂ]]&#8207; </big>**| Nir.pos<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a fountain  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4726\|מָק֣וֹר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Kor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ruined  |**<big>&#8207;[[H7843\|מָשְׁחָ֑ת]]&#8207; </big>**| ma.she.Chat<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a righteous [person]  |**<big>&#8207;[[H6662\|צַ֝דִּ֗יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] sways  |**<big>&#8207;[[H4131\|מָ֣ט]]&#8207; </big>**| mat<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wicked [person]  |**<big>&#8207;[[H7563\|רָשָֽׁע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.25|<< Proverbs 25:25]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.27|Proverbs 25:27 >>]]</td></tr></table>
 
 

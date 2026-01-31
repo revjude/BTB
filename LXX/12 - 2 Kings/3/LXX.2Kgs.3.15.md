@@ -7,25 +7,25 @@ But now bring me a minstrel. And it came to pass, when the minstrel played, that
 But now, bring me a harpist.” And while the harpist played, the hand of the LORD came upon Elisha<small><sub>**MT:**</sub></small>
 [[2Kgs.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.14|<< 2 Kings 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.16|2 Kings 3:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| bring | <big><span class="asgreek">λάβετέ</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| one for strumming! | <big><span class="asgreek">ψάλλοντα</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| strummed | <big><span class="asgreek">έψαλλεν</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one strumming | <big><span class="asgreek">ψάλλων</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόυ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| bring | **<big>[[G2983\|λάβετέ]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| one for strumming! | **<big>[[G5567\|ψάλλοντα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it came to pass | **<big>[[G1096\|εγένετο]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| strummed | **<big>[[G5567\|έψαλλεν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| one strumming | **<big>[[G5567\|ψάλλων]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him | **<big>[[G1473\|αυτόυ]]</big>** |
+| \[the\] hand | **<big>[[G5495\|χειρ]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Kgs.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.14|<< 2 Kings 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.16|2 Kings 3:16 >>]]</td></tr></table>
 
 

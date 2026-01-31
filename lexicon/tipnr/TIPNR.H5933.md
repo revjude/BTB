@@ -4,7 +4,7 @@ Edomite living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Alvah</span> was an Edomite chief, a descendant of Esau through his son Eliphaz. \([[Gen.36.40|Gen.36.40]]; [[1Chr.1.51|1Ch.1.51]]\)
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.36.40|Gen.36.40]]; 
-- referred to as Alvah or Alvah \(=Qere. Ketiv= Aliah, KJV= Aliah\) <[[H5933]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+- referred to as Alvah or Alvah \(=Qere. Ketiv= Aliah, KJV= Aliah\)  **<big>[[H5933|עַלְוָה]]</big>**.
 
 Alvah is mentioned in the genealogies of Esau, the son of Isaac and the brother of Israel \(or 'Jacob'\), who became the ancestor of the Edomites. He is listed as one of the chiefs of Edom, descended from Esau through his son Eliphaz. \([[Gen.36.40|Gen.36.40]]; [[1Chr.1.51|1Ch.1.51]]\) 
 
@@ -16,6 +16,6 @@ The mention of Alvah in the genealogies serves to document the growth and organi
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Alvah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5933) <small>*Hebrew*</small> | 1x | [Gen.36.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alvah\*\|reference=Gen.36.40) |
-| Alvah (=Qere. Ketiv= Aliah; KJV= Aliah) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5933) <small>*Hebrew*</small> | 1x | [1Ch.1.51 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alvah\*\|reference=1Ch.1.51) |
-All Strong's for **Alvah**: \[[[H5933]]\]
+| Alvah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5933) | 1x | [Gen.36.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alvah\*\|reference=Gen.36.40) |
+| Alvah (=Qere. Ketiv= Aliah; KJV= Aliah) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5933) | 1x | [1Ch.1.51 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alvah\*\|reference=1Ch.1.51) |
+All entries for **Alvah**:  **<big>[[H5933|עַלְוָה]]</big>**

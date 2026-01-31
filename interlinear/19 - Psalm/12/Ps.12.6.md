@@ -6,18 +6,18 @@ The words of the LORD are flawless, like silver refined in a furnace, like gold 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.5|<< Psalms 12:5]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.7|Psalms 12:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] words of  | <span class="ashebrew"><big>אִֽמֲר֣וֹת </big></span><small><small><sup>[[H0565A]]</sup></small></small> &#8207;| 'i.ma.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָה֮ </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] words  | <span class="ashebrew"><big>אֲמָר֪וֹת </big></span><small><small><sup>[[H0565A]]</sup></small></small> &#8207;| 'a.ma.Rot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pure  | <span class="ashebrew"><big>טְהֹ֫ר֥וֹת </big></span><small><small><sup>[[H2889]]</sup></small></small> &#8207;| te.Ho.Rot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| silver  | <span class="ashebrew"><big>כֶּ֣סֶף </big></span><small><small><sup>[[H3701G]]</sup></small></small> &#8207;| Ke.sef <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| refined  | <span class="ashebrew"><big>צָ֭רוּף </big></span><small><small><sup>[[H6884]]</sup></small></small> &#8207;| Tza.ruf <small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a crucible  | <span class="ashebrew"><big>בַּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֲלִ֣יל </big></span><small><small><sup>[[H5948]]</sup></small></small> &#8207;| ba. <small><sup>[[HR]]</sup></small> 'a.Lil <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of the earth  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776H]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| purified  | <span class="ashebrew"><big>מְ֝זֻקָּ֗ק </big></span><small><small><sup>[[H2212]]</sup></small></small> &#8207;| me.zu.Kak <small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sevenfold  | <span class="ashebrew"><big>שִׁבְעָתָֽיִם </big></span><small><small><sup>[[H7659]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| shiv.'a.Ta.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  |**<big>&#8207;[[H0565A\|אִֽמֲר֣וֹת]]&#8207; </big>**| 'i.ma.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] words  |**<big>&#8207;[[H0565A\|אֲמָר֪וֹת]]&#8207; </big>**| 'a.ma.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  |**<big>&#8207;[[H2889\|טְהֹ֫ר֥וֹת]]&#8207; </big>**| te.Ho.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| refined  |**<big>&#8207;[[H6884\|צָ֭רוּף]]&#8207; </big>**| Tza.ruf<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a crucible  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5948\|עֲלִ֣יל]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Lil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the earth  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֑רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purified  |**<big>&#8207;[[H2212\|מְ֝זֻקָּ֗ק]]&#8207; </big>**| me.zu.Kak<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sevenfold  |**<big>&#8207;[[H7659\|שִׁבְעָתָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shiv.'a.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.5|<< Psalms 12:5]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.7|Psalms 12:7 >>]]</td></tr></table>
 
 

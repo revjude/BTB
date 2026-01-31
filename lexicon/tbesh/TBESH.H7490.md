@@ -1,4 +1,3 @@
-<span class="asaramaic">‎רְעַע‎</span> <small>***(re.a)***</small> ==**to break**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-Aramaic of: <small>[[H7489B]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7489B|רָעַע]]</big>**</small> 
 
-- Aramaic of <i>ra.a</i> (<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ע‎</span>ַ<span class='ashebrew'>‎ע‎</span> "to shatter" [[H7489B]])
+- Aramaic of <i>ra.a</i> (<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ע‎</span>ַ<span class='ashebrew'>‎ע‎</span> "to shatter" **<big>[[H7489B|רָעַע]]</big>**)

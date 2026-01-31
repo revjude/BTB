@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אוֹרָה‎</span></big> **ʼôwrâh** <small>*(o-raw')*</small> ==**light**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אוֹר‎</span><sup><small>[[H0216]]</small></sup></small>
+**<big><span class="ashebrew">‎אוֹרָה‎</span></big>** **ʼôwrâh** <small>*(o-raw')*</small> ==**light**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0216|‎אוֹר‎]]</big>**</small>
 
 $\quad$ herb, light.
 - ***luminousness***, i.e. (figuratively) ***prosperity***

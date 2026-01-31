@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲמַרְיָה‎</span></big> **ʼĂmaryâh** <small>*(am-ar-yaw')*</small> ==**Amariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or prolonged <span class="ashebrew">אֲמַרְיָהוּ</span> **ʼĂmaryâhûw** <small>*(am-ar-yaw'-hoo)*</small>; from <span class="ashebrew">‎אָמַר‎</span><sup><small>[[H0559]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; Jah has said (i.e. promised)</small>
+**<big><span class="ashebrew">‎אֲמַרְיָה‎</span></big>** **ʼĂmaryâh** <small>*(am-ar-yaw')*</small> ==**Amariah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or prolonged **<big><span class="ashebrew">אֲמַרְיָהוּ</span></big>** **ʼĂmaryâhûw** <small>*(am-ar-yaw'-hoo)*</small>; from **<big>[[H0559|‎אָמַר‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; Jah has said (i.e. promised)</small>
 
 $\quad$ Amariah.
 - § Amariah = *"Jehovah speaks" or "Yah(u) has promised"*

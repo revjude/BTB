@@ -6,15 +6,15 @@ From Asher: 40,000 fit for service, prepared for battle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.35|<< 1 Chronicles 12:35]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.37|1 Chronicles 12:37 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and of Asher  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מֵ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>אָשֵׁ֗ר </big></span><small><small><sup>[[H0836]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> me. <small><sup>[[HR]]</sup></small> 'a.Sher <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] go forth of  | <span class="ashebrew"><big>יוֹצְאֵ֥י </big></span><small><small><sup>[[H3318N]]</sup></small></small> &#8207;| yotz.'Ei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  | <span class="ashebrew"><big>צָבָ֛א </big></span><small><small><sup>[[H6635H]]</sup></small></small> &#8207;| tza.Va' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to deploy  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲרֹ֥ךְ </big></span><small><small><sup>[[H6186A]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.Rokh <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| battle  | <span class="ashebrew"><big>מִלְחָמָ֖ה </big></span><small><small><sup>[[H4421]]</sup></small></small> &#8207;| mil.cha.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| forty  | <span class="ashebrew"><big>אַרְבָּעִ֥ים </big></span><small><small><sup>[[H0705]]</sup></small></small> &#8207;| 'ar.ba.'Im <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  | <span class="ashebrew"><big>אָֽלֶף </big></span><small><small><sup>[[H0505G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'A.lef <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of Asher  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0836\|אָשֵׁ֗ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] go forth of  |**<big>&#8207;[[H3318N\|יוֹצְאֵ֥י]]&#8207; </big>**| yotz.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H6635H\|צָבָ֛א]]&#8207; </big>**| tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to deploy  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6186A\|עֲרֹ֥ךְ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Rokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battle  |**<big>&#8207;[[H4421\|מִלְחָמָ֖ה]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.35|<< 1 Chronicles 12:35]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.37|1 Chronicles 12:37 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טוֹב‎</span></big> **Ṭôwb** <small>*(tobe)*</small> ==**Tob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎טוֹב‎</span><sup><small>[[H2896]]</small></sup>; good</small>
+**<big><span class="ashebrew">‎טוֹב‎</span></big>** **Ṭôwb** <small>*(tobe)*</small> ==**Tob**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H2896|‎טוֹב‎]]</big>**; good</small>
 
 $\quad$ Tob.
 - § Tob = *"good"*

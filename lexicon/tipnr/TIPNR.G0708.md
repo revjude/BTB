@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Aristarchus</span>, a Macedonian from Thessalonica, was a faithful companion of Paul during his missionary journeys and imprisonment.
 - A man living at the time of the New Testament, first mentioned at [[Esth.9.9|Act.19.29]]; 
-- only referred to as Aristarchus<[[G0708]]> \(<span class='tipnrLangGreek'>Ἀρίσταρχος</span>\).
+- only referred to as Aristarchus **<big>[[G0708|Ἀρίσταρχος]]</big>**.
 
 Aristarchus was a Macedonian Christian from Thessalonica who became a close companion and fellow worker of the apostle Paul. He is mentioned several times in the New Testament, providing insight into his dedication to the gospel and his support of Paul's ministry. 
 
@@ -18,5 +18,5 @@ Aristarchus' consistent presence in Paul's life, from his missionary journeys to
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aristarchus | [<span class='tipnrLangGreek'>Ἀρίσταρχος</span>](G0708) <small>*Greek*</small> | 5x | [[Act.19.29] ... [Phm.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aristarchus\*\|reference=Act.19.29;Act.20.4;Act.27.2;Col.4.10;Phm.1.24) |
-All Strong's for **Aristarchus**: \[[[G0708]]\]
+| Aristarchus | [<span class='tipnrLangGreek'>Ἀρίσταρχος</span>](G0708) | 5x | [[Act.19.29] ... [Phm.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aristarchus\*\|reference=Act.19.29;Act.20.4;Act.27.2;Col.4.10;Phm.1.24) |
+All entries for **Aristarchus**:  **<big>[[G0708|Ἀρίσταρχος]]</big>**

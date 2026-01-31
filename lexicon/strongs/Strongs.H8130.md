@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂנֵא‎</span></big> **sânêʼ** <small>*(saw-nay')*</small> ==**to hate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂנֵא‎</span></big>** **sânêʼ** <small>*(saw-nay')*</small> ==**to hate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ enemy, foe, (be) hate(-ful, -r), odious, [idiom] utterly.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Niphal) to be hated
 $\quad$ **1c)** (Piel) hater (participle)
 $\quad$ $\quad$ **1c1)** of persons, nations, God, wisdom
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐχθρός</span><sup><small>[[G2190]]</small></sup> · <span class="asgreek">μισέω</span><sup><small>[[G3404]]</small></sup> · <span class="asgreek">ὑπεναντίος</span><sup><small>[[G5227]]</small></sup>
+<small>See Greek: </small>**<big>[[G2190|ἐχθρός]]</big>** · **<big>[[G3404|μισέω]]</big>** · **<big>[[G5227|ὑπεναντίος]]</big>**

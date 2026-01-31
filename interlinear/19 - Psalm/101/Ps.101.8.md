@@ -6,19 +6,19 @@ Every morning I will remove all the wicked of the land, that I may cut off every
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.7|<< Psalms 101:7]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.0|Psalms 102:0 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to the mornings  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>בְּקָרִ֗ים </big></span><small><small><sup>[[H1242]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> be.ka.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will destroy  | <span class="ashebrew"><big>אַצְמִ֥ית </big></span><small><small><sup>[[H6789]]</sup></small></small> &#8207;| 'atz.Mit <small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wicked [people] of  | <span class="ashebrew"><big>רִשְׁעֵי </big></span><small><small><sup>[[H7563]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| rish.'ei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land  | <span class="ashebrew"><big>אָ֑רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to cut off  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הַכְרִ֥ית </big></span><small><small><sup>[[H3772I]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> hakh.Rit <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] city of  | <span class="ashebrew"><big>מֵֽ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>עִיר </big></span><small><small><sup>[[H5892B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| me. <small><sup>[[HR]]</sup></small> 'ir- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [those who] do  | <span class="ashebrew"><big>פֹּ֥עֲלֵי </big></span><small><small><sup>[[H6466]]</sup></small></small> &#8207;| Po.'a.lei <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> wickedness  | <span class="ashebrew"><big>אָֽוֶן </big></span><small><small><sup>[[H0205G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.ven <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the mornings  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1242\|בְּקָרִ֗ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> be.ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will destroy  |**<big>&#8207;[[H6789\|אַצְמִ֥ית]]&#8207; </big>**| 'atz.Mit<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wicked [people] of  |**<big>&#8207;[[H7563\|רִשְׁעֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rish.'ei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  |**<big>&#8207;[[H0776G\|אָ֑רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to cut off  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3772I\|הַכְרִ֥ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hakh.Rit<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] city of  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5892B\|עִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'ir-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְ֝הוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] do  |**<big>&#8207;[[H6466\|פֹּ֥עֲלֵי]]&#8207; </big>**| Po.'a.lei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> wickedness  |**<big>&#8207;[[H0205G\|אָֽוֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.7|<< Psalms 101:7]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.0|Psalms 102:0 >>]]</td></tr></table>
 
 

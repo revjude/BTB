@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בָּרוּךְ‎</span></big> **Bârûwk** <small>*(baw-rook')*</small> ==**Baruch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>passive participle from <span class="ashebrew">‎בָרַךְ‎</span><sup><small>[[H1288]]</small></sup>; blessed</small>
+**<big><span class="ashebrew">‎בָּרוּךְ‎</span></big>** **Bârûwk** <small>*(baw-rook')*</small> ==**Baruch**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>passive participle from **<big>[[H1288|‎בָרַךְ‎]]</big>**; blessed</small>
 
 $\quad$ Baruch.
 - § Baruch = *"blessed"*

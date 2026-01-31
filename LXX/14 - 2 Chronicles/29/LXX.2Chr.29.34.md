@@ -7,43 +7,43 @@ But the priests were too few, so that they could not flay all the burnt offering
 However, since there were not enough priests to skin all the burnt offerings, their Levite brothers helped them until the work was finished and until the priests had consecrated themselves. For the Levites had been more diligent in consecrating themselves than the priests had been.<small><sub>**MT:**</sub></small>
 [[2Chr.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.33|<< 2 Chronicles 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.35|2 Chronicles 29:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| few, | <big><span class="asgreek">ολίγοι</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to flay | <big><span class="asgreek">δείραι</span></big> <sup><small><small>[[G1194]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering; | <big><span class="asgreek">ολοκαύτωσιν</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| assisting | <big><span class="asgreek">αντελαβόντο</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[were\] the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites, | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was completed | <big><span class="asgreek">συνετελέσθη</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| sanctified \[themselves\] | <big><span class="asgreek">ηγιάσθησαν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[other\] priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| more eagerly | <big><span class="asgreek">προθύμως</span></big> <sup><small><small>[[G4290]]</small></small></sup> |
-| sanctified \[themselves\] | <big><span class="asgreek">ηγιάσθησαν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| than | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests. | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| But | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| priests | **<big>[[G2409\|ιερείς]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| few, | **<big>[[G3641\|ολίγοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδύναντο]]</big>** |
+| to flay | **<big>[[G1194\|δείραι]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| whole burnt-offering; | **<big>[[G8495\|ολοκαύτωσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| assisting | **<big>[[G0482\|αντελαβόντο]]</big>** |
+| them | **<big>[[G1473\|αυτών]]</big>** |
+| \[were\] the | **<big>[[G3588\|οι]]</big>** |
+| Levites, | **<big>[[G3017\|Λευίται]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| was completed | **<big>[[G4931\|συνετελέσθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| of which \[time\] | **<big>[[G3739\|ου]]</big>** |
+| sanctified \[themselves\] | **<big>[[G0037\|ηγιάσθησαν]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| \[other\] priests | **<big>[[G2409\|ιερείς]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| more eagerly | **<big>[[G4290\|προθύμως]]</big>** |
+| sanctified \[themselves\] | **<big>[[G0037\|ηγιάσθησαν]]</big>** |
+| than | **<big>[[G3844\|παρά]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| priests. | **<big>[[G2409\|ιερείς]]</big>** |
 [[2Chr.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.33|<< 2 Chronicles 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.35|2 Chronicles 29:35 >>]]</td></tr></table>
 
 

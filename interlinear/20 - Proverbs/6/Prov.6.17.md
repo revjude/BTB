@@ -6,16 +6,16 @@ haughty eyes, a lying tongue, hands that shed innocent blood,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.16|<< Proverbs 6:16]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.18|Proverbs 6:18 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| eyes  | <span class="ashebrew"><big>עֵינַ֣יִם </big></span><small><small><sup>[[H5869A]]</sup></small></small> &#8207;| 'ei.Na.yim <small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| haughty  | <span class="ashebrew"><big>רָ֭מוֹת </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| Ra.mot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tongue of  | <span class="ashebrew"><big>לְשׁ֣וֹן </big></span><small><small><sup>[[H3956G]]</sup></small></small> &#8207;| le.Shon <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שָׁ֑קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| Sha.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hands  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָדַ֗יִם </big></span><small><small><sup>[[H3027G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Da.yim <small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [which] shed  | <span class="ashebrew"><big>שֹׁפְכ֥וֹת </big></span><small><small><sup>[[H8210H]]</sup></small></small> &#8207;| sho.fe.Khot <small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood  | <span class="ashebrew"><big>דָּם </big></span><small><small><sup>[[H1818]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| dom- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| innocent  | <span class="ashebrew"><big>נָקִֽי </big></span><small><small><sup>[[H5355A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| na.Ki <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes  |**<big>&#8207;[[H5869A\|עֵינַ֣יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| haughty  |**<big>&#8207;[[H7311A\|רָ֭מוֹת]]&#8207; </big>**| Ra.mot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tongue of  |**<big>&#8207;[[H3956G\|לְשׁ֣וֹן]]&#8207; </big>**| le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שָׁ֑קֶר]]&#8207; </big>**| Sha.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hands  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3027G\|יָדַ֗יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] shed  |**<big>&#8207;[[H8210H\|שֹׁפְכ֥וֹת]]&#8207; </big>**| sho.fe.Khot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  |**<big>&#8207;[[H1818\|דָּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| innocent  |**<big>&#8207;[[H5355A\|נָקִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.16|<< Proverbs 6:16]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.18|Proverbs 6:18 >>]]</td></tr></table>
 
 

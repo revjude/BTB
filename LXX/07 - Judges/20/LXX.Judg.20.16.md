@@ -7,29 +7,29 @@ Among all this people [there were] seven hundred chosen men lefthanded; every on
 Among all these soldiers there were 700 select left-handers, each of whom could sling a stone at a hair without missing.<small><sub>**MT:**</sub></small>
 [[Judg.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.15|<< Judges 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.17|Judges 20:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| numbered | <big><span class="asgreek">επεσκέπησαν</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| seven hundred | <big><span class="asgreek">επτακόσιοι</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| chosen | <big><span class="asgreek">εκλεκτοί</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| ambidextrous; | <big><span class="asgreek">αμφοτεροδέξιοι</span></big> <sup><small><small>[[G6270]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[were\] slingers | <big><span class="asgreek">σφενδονήται</span></big> <sup><small><small>[[G9370]]</small></small></sup> |
-| casting | <big><span class="asgreek">βάλλοντες</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
-| stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| \[accurate\] to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hair, | <big><span class="asgreek">τρίχα</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| missing. | <big><span class="asgreek">διαμαρτάνοντες</span></big> <sup><small><small>[[G6846]]</small></small></sup> |
+| These | **<big>[[G3778\|ούτοι]]</big>** |
+| numbered | **<big>[[G1980\|επεσκέπησαν]]</big>** |
+| seven hundred | **<big>[[G7485\|επτακόσιοι]]</big>** |
+| men | **<big>[[G0435\|άνδρες]]</big>** |
+| chosen | **<big>[[G1588\|εκλεκτοί]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| all | **<big>[[G3956\|παντός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people, | **<big>[[G2992\|λαού]]</big>** |
+| ambidextrous; | **<big>[[G6270\|αμφοτεροδέξιοι]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| these | **<big>[[G3778\|ούτοι]]</big>** |
+| \[were\] slingers | **<big>[[G9370\|σφενδονήται]]</big>** |
+| casting | **<big>[[G0906\|βάλλοντες]]</big>** |
+| stones | **<big>[[G3037\|λίθοις]]</big>** |
+| \[accurate\] to | **<big>[[G4314\|προς]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hair, | **<big>[[G2359\|τρίχα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| missing. | **<big>[[G6846\|διαμαρτάνοντες]]</big>** |
 [[Judg.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.15|<< Judges 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.17|Judges 20:17 >>]]</td></tr></table>
 
 

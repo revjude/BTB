@@ -7,30 +7,30 @@ And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramoth
 And the LORD said, ‘Who will entice Ahab to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.<small><sub>**MT:**</sub></small>
 [[1Kgs.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.19|<< 1 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.21|1 Kings 22:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| shall deceive | <big><span class="asgreek">απατήσει</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall ascend | <big><span class="asgreek">αναβήσεται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Ramoth | <big><span class="asgreek">Ραμώθ</span></big> <sup><small><small>[[H7432]]</small></small></sup> |
-| Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| there? | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this one said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus, | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this \[other one\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> said, | **<big>[[G2036\|είπε]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| shall deceive | **<big>[[G0538\|απατήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ahab | **<big>[[H0256\|Αχαάβ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| he shall ascend | **<big>[[G0305\|αναβήσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Ramoth | **<big>[[H7432\|Ραμώθ]]</big>** |
+| Gilead | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall fall | **<big>[[G4098\|πεσείται]]</big>** |
+| there? | **<big>[[G1563\|εκεί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| this one said | **<big>[[G2036\|είπεν]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| thus, | **<big>[[G3779\|ούτως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| this \[other one\] | **<big>[[G3778\|ούτος]]</big>** |
+| thus. | **<big>[[G3779\|ούτως]]</big>** |
 [[1Kgs.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.19|<< 1 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.21|1 Kings 22:21 >>]]</td></tr></table>
 
 

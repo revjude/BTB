@@ -7,36 +7,36 @@ But will God indeed dwell on the earth? behold, the heaven and heaven of heavens
 But will God indeed dwell upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built.<small><sub>**MT:**</sub></small>
 [[1Kgs.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.26|<< 1 Kings 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.28|1 Kings 8:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| truly | <big><span class="asgreek">αληθώς</span></big> <sup><small><small>[[G0230]]</small></small></sup> |
-| God dwell | <big><span class="asgreek">κατοικήσει</span></big> <sup><small><small>[[G2730]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανών</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-|  | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be sufficient | <big><span class="asgreek">αρκέσουσί</span></big> <sup><small><small>[[G0714]]</small></small></sup> |
-| for you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| How \[then\] | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I built | <big><span class="asgreek">ωκοδόμησα</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your name? | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G3754\|ότι]]</big>** |
+| shall | **<big>[[G1487\|ει]]</big>** |
+| truly | **<big>[[G0230\|αληθώς]]</big>** |
+| God dwell | **<big>[[G2730\|κατοικήσει]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| earth? | **<big>[[G1093\|γης]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| heavens | **<big>[[G3772\|ουρανοί]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| heavens | **<big>[[G3772\|ουρανών]]</big>** |
+|  | **<big>[[G3756\|ουκ]]</big>** |
+| be sufficient | **<big>[[G0714\|αρκέσουσί]]</big>** |
+| for you? | **<big>[[G1473\|σοι]]</big>** |
+| How \[then\] | **<big>[[G4459\|πως]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| this house | **<big>[[G3624\|οίκος]]</big>** **<big>[[G3778\|ούτος]]</big>** |
+| which | **<big>[[G3739\|ον]]</big>** |
+| I built | **<big>[[G3618\|ωκοδόμησα]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| your name? | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[1Kgs.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.26|<< 1 Kings 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.28|1 Kings 8:28 >>]]</td></tr></table>
 
 

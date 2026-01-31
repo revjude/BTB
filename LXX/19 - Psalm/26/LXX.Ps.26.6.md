@@ -7,18 +7,18 @@ I will wash mine hands in innocency: so will I compass thine altar, O LORD:
 I wash my hands in innocence that I may go about Your altar, O LORD,<small><sub>**MT:**</sub></small>
 [[Ps.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.5|<< Psalm 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.7|Psalm 26:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall wash | <big><span class="asgreek">νίψομαι</span></big> <sup><small><small>[[G3538]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| innocent \[things\] | <big><span class="asgreek">αθώοις</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall encircle | <big><span class="asgreek">κυκλώσω</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your altar, | <big><span class="asgreek">θυσιαστήριόν</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I shall wash | **<big>[[G3538\|νίψομαι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| innocent \[things\] | **<big>[[G0121\|αθώοις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| my hands | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall encircle | **<big>[[G2944\|κυκλώσω]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your altar, | **<big>[[G2379\|θυσιαστήριόν]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
 [[Ps.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.5|<< Psalm 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.7|Psalm 26:7 >>]]</td></tr></table>
 
 

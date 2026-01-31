@@ -7,27 +7,27 @@ Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy tea
 So you revisited the indecency of your youth, when the Egyptians caressed your bosom and pressed your young breasts.<small><sub>**MT:**</sub></small>
 [[Ezek.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.20|<< Ezekiel 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.22|Ezekiel 23:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you overlooked | <big><span class="asgreek">επεσκέψω</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your youth, | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you did | <big><span class="asgreek">εποίεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Egypt | <big><span class="asgreek">Αιγύπτω</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your lodging, | <big><span class="asgreek">καταλύματί</span></big> <sup><small><small>[[G2646]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of which \[place\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breasts | <big><span class="asgreek">μαστοί</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your youth | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| fell. | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you overlooked | **<big>[[G1980\|επεσκέψω]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| lawlessness | **<big>[[G0458\|ανομίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your youth, | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| you did | **<big>[[G4160\|εποίεις]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Egypt | **<big>[[G0125\|Αιγύπτω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| your lodging, | **<big>[[G2646\|καταλύματί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| of which \[place\] | **<big>[[G3739\|ου]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| breasts | **<big>[[G3149\|μαστοί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your youth | **<big>[[G3503\|νεότητός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| fell. | **<big>[[G4098\|έπεσον]]</big>** |
 [[Ezek.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.20|<< Ezekiel 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.22|Ezekiel 23:22 >>]]</td></tr></table>
 
 

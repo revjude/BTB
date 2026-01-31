@@ -1,4 +1,3 @@
-<span class="asaramaic">‎זְמַן‎</span> <small>***(ze.man)***</small> ==**time**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H2165]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H2165|זְמָן]]</big>**</small> 
 
-- Aramaic of <i>ze.man</i> (<span class='ashebrew'>‎ז‎</span>ְ<span class='ashebrew'>‎מ‎</span>ָ֑<span class='ashebrew'>‎ן‎</span> "time" [[H2165]])
+- Aramaic of <i>ze.man</i> (<span class='ashebrew'>‎ז‎</span>ְ<span class='ashebrew'>‎מ‎</span>ָ֑<span class='ashebrew'>‎ן‎</span> "time" **<big>[[H2165|זְמָן]]</big>**)

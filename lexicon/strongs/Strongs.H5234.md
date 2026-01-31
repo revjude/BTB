@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָכַר‎</span></big> **nâkar** <small>*(naw-kar')*</small> ==**to recognize**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָכַר‎</span></big>** **nâkar** <small>*(naw-kar')*</small> ==**to recognize**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ acknowledge, [idiom] could, deliver, discern, dissemble, estrange, feign self to be another, know, take knowledge (notice), perceive, regard, (have) respect, behave (make) self strange(-ly).
@@ -24,4 +24,4 @@ $\quad$ **2c)** (Hithpael)
 $\quad$ $\quad$ **2c1)** to act as alien
 $\quad$ $\quad$ **2c2)** to disguise oneself
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰσχύνομαι</span><sup><small>[[G0153]]</small></sup> · <span class="asgreek">ἀπαλλοτριόω</span><sup><small>[[G0526]]</small></sup> · <span class="asgreek">γινώσκω</span><sup><small>[[G1097]]</small></sup> · <span class="asgreek">γνωρίζω</span><sup><small>[[G1107]]</small></sup> · <span class="asgreek">ἐπιγινώσκω</span><sup><small>[[G1921]]</small></sup> · <span class="asgreek">ἐπινεύω</span><sup><small>[[G1962]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">πιπράσκω</span><sup><small>[[G4097]]</small></sup>
+<small>See Greek: </small>**<big>[[G0153|αἰσχύνομαι]]</big>** · **<big>[[G0526|ἀπαλλοτριόω]]</big>** · **<big>[[G1097|γινώσκω]]</big>** · **<big>[[G1107|γνωρίζω]]</big>** · **<big>[[G1921|ἐπιγινώσκω]]</big>** · **<big>[[G1962|ἐπινεύω]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G4097|πιπράσκω]]</big>**

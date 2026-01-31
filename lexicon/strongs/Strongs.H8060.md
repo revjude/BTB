@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁמַּי‎</span></big> **Shammay** <small>*(sham-mah'-ee)*</small> ==**Shammai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שַׁמְלַי‎</span><sup><small>[[H8073]]</small></sup>; destructive</small>
+**<big><span class="ashebrew">‎שַׁמַּי‎</span></big>** **Shammay** <small>*(sham-mah'-ee)*</small> ==**Shammai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H8073|‎שַׁמְלַי‎]]</big>**; destructive</small>
 
 $\quad$ Shammai.
 - § Shammai = *"desolate"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָרִיב‎</span></big> **yârîyb** <small>*(yaw-rebe')*</small> ==**opponent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רִיב‎</span><sup><small>[[H7378]]</small></sup></small>
+**<big><span class="ashebrew">‎יָרִיב‎</span></big>** **yârîyb** <small>*(yaw-rebe')*</small> ==**opponent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7378|‎רִיב‎]]</big>**</small>
 
 $\quad$ that content(-eth), that strive.
 - literally ***he will contend***
@@ -8,4 +8,4 @@ $\quad$ that content(-eth), that strive.
 
 **1)** contender, opponent, adversary
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδικέω</span><sup><small>[[G0091]]</small></sup>
+<small>See Greek: </small>**<big>[[G0091|ἀδικέω]]</big>**

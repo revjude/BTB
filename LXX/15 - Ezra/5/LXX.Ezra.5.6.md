@@ -7,34 +7,34 @@ The copy of the letter that Tatnai, governor on this side the river, and Shethar
 This is the text of the letter that Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates, the officials in the region, sent to King Darius.<small><sub>**MT:**</sub></small>
 [[Ezra.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.5|<< Ezra 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.7|Ezra 5:7 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] explanation | <big><span class="asgreek">διασάφησις</span></big> <sup><small><small>[[G6875]]</small></small></sup> |
-| by letter | <big><span class="asgreek">επιστολής</span></big> <sup><small><small>[[G1992]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| was sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \[by\] Tatnai | <big><span class="asgreek">Θαθθαναϊ</span></big> <sup><small><small>[[H8674]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| chief ruler | <big><span class="asgreek">έπαρχος</span></big> <sup><small><small>[[G7374]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river, | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Shethar-boznai, | <big><span class="asgreek">Σαθραβουζάνης</span></big> <sup><small><small>[[H8370]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their fellow-servants -- | <big><span class="asgreek">σύνδουλοι</span></big> <sup><small><small>[[G4889]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Apharsachites, | <big><span class="asgreek">Αφασατχαίοι</span></big> <sup><small><small>[[H0671a]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river, | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| to Darius | <big><span class="asgreek">Δαρείω</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| \[The\] explanation | **<big>[[G6875\|διασάφησις]]</big>** |
+| by letter | **<big>[[G1992\|επιστολής]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| was sent | **<big>[[G0649\|απέστειλε]]</big>** |
+| \[by\] Tatnai | **<big>[[H8674\|Θαθθαναϊ]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| chief ruler | **<big>[[G7374\|έπαρχος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river, | **<big>[[G4215\|ποταμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Shethar-boznai, | **<big>[[H8370\|Σαθραβουζάνης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| their fellow-servants -- | **<big>[[G4889\|σύνδουλοι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| Apharsachites, | **<big>[[H0671a\|Αφασατχαίοι]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river, | **<big>[[G4215\|ποταμού]]</big>** |
+| to Darius | **<big>[[H1868\|Δαρείω]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| king. | **<big>[[G0935\|βασιλεί]]</big>** |
 [[Ezra.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.5|<< Ezra 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.7|Ezra 5:7 >>]]</td></tr></table>
 
 

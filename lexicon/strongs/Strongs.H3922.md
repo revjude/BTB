@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לֵכָה‎</span></big> **lêkâh** <small>*(lay-kaw')*</small> ==**Lecah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָלַךְ‎</span><sup><small>[[H3212]]</small></sup>; a journey</small>
+**<big><span class="ashebrew">‎לֵכָה‎</span></big>** **lêkâh** <small>*(lay-kaw')*</small> ==**Lecah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3212|‎יָלַךְ‎]]</big>**; a journey</small>
 
 $\quad$ Lecah.
 - § Lecah = *"journey"*

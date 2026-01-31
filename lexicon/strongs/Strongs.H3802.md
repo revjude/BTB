@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּתֵף‎</span></big> **kâthêph** <small>*(kaw-thafe')*</small> ==**shoulder**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎כָּתֵף‎</span></big>** **kâthêph** <small>*(kaw-thafe')*</small> ==**shoulder**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>from an unused root meaning to clothe</small>
 
 $\quad$ arm, corner, shoulder(-piece), side, undersetter.
@@ -12,4 +12,4 @@ $\quad$ **1b)** shoulder, shoulder-pieces (of animals)
 $\quad$ **1c)** side, slope (of mountain)
 $\quad$ **1d)** supports (of laver)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γωνία</span><sup><small>[[G1137]]</small></sup> · <span class="asgreek">νότος</span><sup><small>[[G3558]]</small></sup> · <span class="asgreek">νῶτος</span><sup><small>[[G3577]]</small></sup> · <span class="asgreek">ὦμος</span><sup><small>[[G5606]]</small></sup>
+<small>See Greek: </small>**<big>[[G1137|γωνία]]</big>** · **<big>[[G3558|νότος]]</big>** · **<big>[[G3577|νῶτος]]</big>** · **<big>[[G5606|ὦμος]]</big>**

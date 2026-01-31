@@ -7,16 +7,16 @@ Behold, the hope of him is in vain: shall not [one] be cast down even at the sig
 Surely hope of overcoming him is false. Is not the sight of him overwhelming?<small><sub>**MT:**</sub></small>
 [[Job.41.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.8|<< Job 41:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.10|Job 41:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Have you not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| seen | <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λεγομένοις</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| wondered | <big><span class="asgreek">τεθαύμακας</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
+| Have you not | **<big>[[G3756\|ουχ]]</big>** |
+| seen | **<big>[[G3708\|εώρακας]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| the ones | **<big>[[G3588\|τοις]]</big>** |
+| speaking | **<big>[[G3004\|λεγομένοις]]</big>** |
+| wondered | **<big>[[G2296\|τεθαύμακας]]</big>** |
 [[Job.41.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.8|<< Job 41:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.10|Job 41:10 >>]]</td></tr></table>
 
 

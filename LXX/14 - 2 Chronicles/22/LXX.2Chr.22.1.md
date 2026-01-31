@@ -10,40 +10,40 @@ And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead
 Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, since the raiders who had come into the camp with the Arabs had killed all the older sons. So Ahaziah son of Jehoram became king of Judah.<small><sub>**MT:**</sub></small>
 [[2Chr.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.20|<< 2 Chronicles 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.2|2 Chronicles 22:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave reign | <big><span class="asgreek">εβασίλευσαν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Ahaziah | <big><span class="asgreek">Οχοζίαν</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
-| his son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| youngest, | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
-| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| elder \[sons\] | <big><span class="asgreek">πρεσβυτέρους</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| were killed | <big><span class="asgreek">απέκτεινε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones coming | <big><span class="asgreek">επελθόν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| them -- | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the band of robbers, | <big><span class="asgreek">ληστήριον</span></big> <sup><small><small>[[G8190]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Arabians. | <big><span class="asgreek">Αραβες</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| Ahaziah | <big><span class="asgreek">Οχοζίας</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jehoram | <big><span class="asgreek">Ιωράμ</span></big> <sup><small><small>[[G2496]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| gave reign | **<big>[[G0936\|εβασίλευσαν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| to Ahaziah | **<big>[[H0274\|Οχοζίαν]]</big>** |
+| his son, | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| youngest, | **<big>[[G3398\|μικρόν]]</big>** |
+| instead of | **<big>[[G0473\|αντ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| elder \[sons\] | **<big>[[G4245\|πρεσβυτέρους]]</big>** |
+| were killed | **<big>[[G0615\|απέκτεινε]]</big>** |
+| by the | **<big>[[G3588\|το]]</big>** |
+| ones coming | **<big>[[G1904\|επελθόν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| them -- | **<big>[[G1473\|αυτούς]]</big>** |
+| the band of robbers, | **<big>[[G8190\|ληστήριον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Arabians. | **<big>[[G0688\|Αραβες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| reigned | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| Ahaziah | **<big>[[H0274\|Οχοζίας]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Jehoram | **<big>[[G2496\|Ιωράμ]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of Judah | **<big>[[G2448\|Ιούδα]]</big>** |
 [[2Chr.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.20|<< 2 Chronicles 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.2|2 Chronicles 22:2 >>]]</td></tr></table>
 
 

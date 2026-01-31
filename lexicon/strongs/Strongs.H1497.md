@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎גָּזַל‎</span></big> **gâzal** <small>*(gaw-zal')*</small> ==**to plunder**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎גָּזַל‎</span></big>** **gâzal** <small>*(gaw-zal')*</small> ==**to plunder**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ catch, consume, exercise (robbery), pluck (off), rob, spoil, take away (by force, violence), tear.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Niphal)
 $\quad$ $\quad$ **1b1)** to be robbed
 $\quad$ $\quad$ **1b2)** to be taken away
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁρπάζω</span><sup><small>[[G0726]]</small></sup> · <span class="asgreek">ἀφαιρέω</span><sup><small>[[G0851]]</small></sup> · <span class="asgreek">διαρπάζω</span><sup><small>[[G1283]]</small></sup>
+<small>See Greek: </small>**<big>[[G0726|ἁρπάζω]]</big>** · **<big>[[G0851|ἀφαιρέω]]</big>** · **<big>[[G1283|διαρπάζω]]</big>**

@@ -7,17 +7,17 @@ The morsel [which] thou hast eaten shalt thou vomit up, and lose thy sweet words
 You will vomit up what little you have eaten and waste your pleasant words.<small><sub>**MT:**</sub></small>
 [[Prov.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.7|<< Proverbs 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.9|Proverbs 23:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| for he will vomit | <big><span class="asgreek">εξεμέσει</span></big> <sup><small><small>[[G7311]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lay waste | <big><span class="asgreek">λυμανείται</span></big> <sup><small><small>[[G3075]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">καλούς</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| for he will vomit | **<big>[[G7311\|εξεμέσει]]</big>** **<big>[[G1161\|γαρ]]</big>** |
+| it, | **<big>[[G1473\|αυτόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lay waste | **<big>[[G3075\|λυμανείται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| words | **<big>[[G3056\|λόγους]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| good | **<big>[[G2570\|καλούς]]</big>** |
 [[Prov.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.7|<< Proverbs 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.9|Proverbs 23:9 >>]]</td></tr></table>
 
 

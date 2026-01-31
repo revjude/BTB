@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְמוּאֵל‎</span></big> **Nᵉmûwʼêl** <small>*(nem-oo-ale')*</small> ==**Nemuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>apparently for <span class="ashebrew">‎יְמוּאֵל‎</span><sup><small>[[H3223]]</small></sup></small>
+**<big><span class="ashebrew">‎נְמוּאֵל‎</span></big>** **Nᵉmûwʼêl** <small>*(nem-oo-ale')*</small> ==**Nemuel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>apparently for **<big>[[H3223|‎יְמוּאֵל‎]]</big>**</small>
 
 $\quad$ Nemuel.
 - § Nemuel = *"day of God"*

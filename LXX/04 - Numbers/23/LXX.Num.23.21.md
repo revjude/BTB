@@ -7,28 +7,28 @@ He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israe
 He considers no disaster for Jacob; He sees no trouble for Israel. The LORD their God is with them, and the shout of the King is among them.<small><sub>**MT:**</sub></small>
 [[Num.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.20|<< Numbers 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.22|Numbers 23:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| There shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| trouble | <big><span class="asgreek">μόχθος</span></big> <sup><small><small>[[G3449]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| appear | <big><span class="asgreek">οφθήσεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| misery | <big><span class="asgreek">πόνος</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| honorable ones | <big><span class="asgreek">ένδοξα</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
-| of \[the\] rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
-| \[are\] with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| There shall not | **<big>[[G3756\|ουκ]]</big>** |
+| be | **<big>[[G1510\|έσται]]</big>** |
+| trouble | **<big>[[G3449\|μόχθος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| appear | **<big>[[G3708\|οφθήσεται]]</big>** |
+| misery | **<big>[[G4192\|πόνος]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \[The\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| his God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| \[is\] with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| honorable ones | **<big>[[G1741\|ένδοξα]]</big>** |
+| of \[the\] rulers | **<big>[[G0758\|αρχόντων]]</big>** |
+| \[are\] with | **<big>[[G1722\|εν]]</big>** |
+| him. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Num.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.20|<< Numbers 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.22|Numbers 23:22 >>]]</td></tr></table>
 
 

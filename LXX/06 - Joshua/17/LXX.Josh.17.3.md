@@ -7,39 +7,39 @@ But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son
 But Zelophehad son of Hepher (the son of Gilead, the son of Machir, the son of Manasseh) had no sons but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.<small><sub>**MT:**</sub></small>
 [[Josh.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.2|<< Joshua 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.4|Joshua 17:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zelophehad, | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Hepher, | <big><span class="asgreek">Οφέρ</span></big> <sup><small><small>[[H2660b]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Machir, | <big><span class="asgreek">Μαχείρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| there were no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| sons to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υιοι</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| daughters. | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zelophehad -- | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
-| Mahlah, | <big><span class="asgreek">Μααλά</span></big> <sup><small><small>[[H4244]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Noah, | <big><span class="asgreek">Νουά</span></big> <sup><small><small>[[H5270]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Hoglah, | <big><span class="asgreek">Εγλά</span></big> <sup><small><small>[[H2295]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Milcha, | <big><span class="asgreek">Μελχά</span></big> <sup><small><small>[[H4435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tirzah. | <big><span class="asgreek">Θερσά</span></big> <sup><small><small>[[H8656]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Zelophehad, | **<big>[[H6765\|Σαλπαάδ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Hepher, | **<big>[[H2660b\|Οφέρ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Gilead, | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Machir, | **<big>[[H4353\|Μαχείρ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Manasseh, | **<big>[[G3128\|Μανασσή]]</big>** |
+| there were no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|ήσαν]]</big>** |
+| sons to him, | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G5207\|υιοι]]</big>** |
+| but | **<big>[[G0235\|αλλά]]</big>** |
+| daughters. | **<big>[[G2364\|θυγατέρες]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| these \[are\] | **<big>[[G3778\|ταύτα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| names | **<big>[[G3686\|ονόματα]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρων]]</big>** |
+| of Zelophehad -- | **<big>[[H6765\|Σαλπαάδ]]</big>** |
+| Mahlah, | **<big>[[H4244\|Μααλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Noah, | **<big>[[H5270\|Νουά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Hoglah, | **<big>[[H2295\|Εγλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Milcha, | **<big>[[H4435\|Μελχά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tirzah. | **<big>[[H8656\|Θερσά]]</big>** |
 [[Josh.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.2|<< Joshua 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.4|Joshua 17:4 >>]]</td></tr></table>
 
 

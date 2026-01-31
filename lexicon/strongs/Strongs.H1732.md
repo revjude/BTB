@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דָּוִד‎</span></big> **Dâvid** <small>*(daw-veed')*</small> ==**David**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>rarely (fully); <span class="ashebrew">דָּוִיד</span> **Dâvîyd** <small>*(dawveed')*</small>; from the same as <span class="ashebrew">‎דּוֹד‎</span><sup><small>[[H1730]]</small></sup>; loving</small>
+**<big><span class="ashebrew">‎דָּוִד‎</span></big>** **Dâvid** <small>*(daw-veed')*</small> ==**David**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>rarely (fully); **<big><span class="ashebrew">דָּוִיד</span></big>** **Dâvîyd** <small>*(dawveed')*</small>; from the same as **<big>[[H1730|‎דּוֹד‎]]</big>**; loving</small>
 
 $\quad$ David.
 - § David = *"beloved"*
@@ -7,4 +7,4 @@ $\quad$ David.
 
 **1)** youngest son of Jesse and second king of Israel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Δαβίδ</span><sup><small>[[G1138]]</small></sup>
+<small>See Greek: </small>**<big>[[G1138|Δαβίδ]]</big>**

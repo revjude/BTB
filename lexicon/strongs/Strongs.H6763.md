@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צֵלָע‎</span></big> **tsêlâʻ** <small>*(tsay-law')*</small> ==**side**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">צַלְעָה</span> **tsalʻâh** <small>*(tsal-aw')*</small>; from <span class="ashebrew">‎צָלַע‎</span><sup><small>[[H6760]]</small></sup></small>
+**<big><span class="ashebrew">‎צֵלָע‎</span></big>** **tsêlâʻ** <small>*(tsay-law')*</small> ==**side**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">צַלְעָה</span></big>** **tsalʻâh** <small>*(tsal-aw')*</small>; from **<big>[[H6760|‎צָלַע‎]]</big>**</small>
 
 $\quad$ beam, board, chamber, corner, leaf, plank, rib, side (chamber).
 - ***a rib*** (as curved), literally (of the body) or figuratively (of a door, i.e. leaf)
@@ -14,4 +14,4 @@ $\quad$ **1d)** rib, plank, board (of cedar or fir)
 $\quad$ **1e)** leaves (of door)
 $\quad$ **1f)** side (of ark)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">μάστιξ</span><sup><small>[[G3148]]</small></sup> · <span class="asgreek">μέρος</span><sup><small>[[G3313]]</small></sup> · <span class="asgreek">ξύλον</span><sup><small>[[G3586]]</small></sup> · <span class="asgreek">πέρας</span><sup><small>[[G4009]]</small></sup> · <span class="asgreek">πλευρά</span><sup><small>[[G4125]]</small></sup>
+<small>See Greek: </small>**<big>[[G3148|μάστιξ]]</big>** · **<big>[[G3313|μέρος]]</big>** · **<big>[[G3586|ξύλον]]</big>** · **<big>[[G4009|πέρας]]</big>** · **<big>[[G4125|πλευρά]]</big>**

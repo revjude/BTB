@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַרְוָדִי‎</span></big> **ʼArvâdîy** <small>*(ar-vaw-dee')*</small> ==**Arvadite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎אַרְוַד‎</span><sup><small>[[H0719]]</small></sup></small>
+**<big><span class="ashebrew">‎אַרְוָדִי‎</span></big>** **ʼArvâdîy** <small>*(ar-vaw-dee')*</small> ==**Arvadite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patrial from **<big>[[H0719|‎אַרְוַד‎]]</big>**</small>
 
 $\quad$ Arvadite.
 - § Arvadites = *"I shall break loose"*

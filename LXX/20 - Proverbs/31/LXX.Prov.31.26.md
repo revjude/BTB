@@ -7,20 +7,20 @@ She openeth her mouth with wisdom; and in her tongue [is] the law of kindness.
 She opens her mouth with wisdom, and faithful instruction is on her tongue.<small><sub>**MT:**</sub></small>
 [[Prov.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.25|<< Proverbs 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.27|Proverbs 31:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she opens | <big><span class="asgreek">ανοίγει</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| wisely | <big><span class="asgreek">σοφώς</span></big> <sup><small><small>[[G9132]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| lawfully; | <big><span class="asgreek">νομοθέσμως</span></big> <sup><small><small>[[G8404]]</small></small></sup> |
-| and | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| her charity | <big><span class="asgreek">ελεημοσυνη</span></big> <sup><small><small>[[G1654]]</small></small></sup> <big><span class="asgreek">αυτης</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her tongue. | <big><span class="asgreek">γλωσση αυτης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| mouth | **<big>[[G4750\|στόμα]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| of her | **<big>[[G1473\|αυτής]]</big>** |
+| she opens | **<big>[[G0455\|ανοίγει]]</big>** |
+| wisely | **<big>[[G9132\|σοφώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| lawfully; | **<big>[[G8404\|νομοθέσμως]]</big>** |
+| and | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| her charity | **<big>[[G1654\|ελεημοσυνη]]</big>** **<big>[[G1473\|αυτης]]</big>** |
+| \[is\] in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| her tongue. | **<big>[[G1100\|γλωσση αυτης]]</big>** |
 [[Prov.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.25|<< Proverbs 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.27|Proverbs 31:27 >>]]</td></tr></table>
 
 

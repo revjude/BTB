@@ -7,38 +7,38 @@ Ye looked for much, and, lo, [it came] to little; and when ye brought [it] home,
 You expected much, but behold, it amounted to little. And what you brought home, I blew away. Why? declares the LORD of Hosts. Because My house still lies in ruins, while each of you is busy with his own house.<small><sub>**MT:**</sub></small>
 [[Hag.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.8|<< Haggai 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.10|Haggai 1:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You looked | <big><span class="asgreek">επεβλέψατε</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| much, | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| little; | <big><span class="asgreek">ολίγα</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it was carried | <big><span class="asgreek">εισηνέχθη</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house, | <big><span class="asgreek">όικον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I blew it away. | <big><span class="asgreek">εξεφύσησα</span></big> <sup><small><small>[[G7171]]</small></small></sup> <big><span class="asgreek">αυτα</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| Because | <big><span class="asgreek">ανθ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my house | <big><span class="asgreek">οικός</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| deserted, | <big><span class="asgreek">ερημός</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
-| and you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| pursue | <big><span class="asgreek">διώκετε</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
-| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his \[own\] house. | <big><span class="asgreek">όικον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You looked | **<big>[[G1914\|επεβλέψατε]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| much, | **<big>[[G4183\|πολλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there became | **<big>[[G1096\|εγένετο]]</big>** |
+| little; | **<big>[[G3641\|ολίγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it was carried | **<big>[[G1533\|εισηνέχθη]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| house, | **<big>[[G3624\|όικον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I blew it away. | **<big>[[G7171\|εξεφύσησα]]</big>** **<big>[[G1473\|αυτα]]</big>** |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| Because | **<big>[[G0473\|ανθ΄]]</big>** **<big>[[G3739\|ων]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my house | **<big>[[G3624\|οικός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is | **<big>[[G1510\|έστιν]]</big>** |
+| deserted, | **<big>[[G2048\|ερημός]]</big>** |
+| and you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
+| pursue | **<big>[[G1377\|διώκετε]]</big>** |
+| each | **<big>[[G1538\|έκαστος]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his \[own\] house. | **<big>[[G3624\|όικον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Hag.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.8|<< Haggai 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.10|Haggai 1:10 >>]]</td></tr></table>
 
 

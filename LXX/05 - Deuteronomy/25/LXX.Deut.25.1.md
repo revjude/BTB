@@ -10,27 +10,27 @@ If there be a controversy between men, and they come unto judgment, that [the ju
 If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned.<small><sub>**MT:**</sub></small>
 [[Deut.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.22|<< Deuteronomy 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.2|Deuteronomy 25:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| there be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a dispute | <big><span class="asgreek">αντιλογία</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should come forward | <big><span class="asgreek">προσέλθωσιν</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| judgment, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they should judge, | <big><span class="asgreek">κρίνωσι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should do justice | <big><span class="asgreek">δικαιώσωσι</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
-| for the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| should condemn | <big><span class="asgreek">καταγνώσι</span></big> <sup><small><small>[[G2607]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| impious; | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| And if | **<big>[[G0302\|αν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| there be | **<big>[[G1096\|γένηται]]</big>** |
+| a dispute | **<big>[[G0485\|αντιλογία]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they should come forward | **<big>[[G4334\|προσέλθωσιν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| judgment, | **<big>[[G2920\|κρίσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they should judge, | **<big>[[G2919\|κρίνωσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should do justice | **<big>[[G1344\|δικαιώσωσι]]</big>** |
+| for the | **<big>[[G3588\|τον]]</big>** |
+| just, | **<big>[[G1342\|δίκαιον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| should condemn | **<big>[[G2607\|καταγνώσι]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| impious; | **<big>[[G0765\|ασεβούς]]</big>** |
 [[Deut.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.22|<< Deuteronomy 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.2|Deuteronomy 25:2 >>]]</td></tr></table>
 
 

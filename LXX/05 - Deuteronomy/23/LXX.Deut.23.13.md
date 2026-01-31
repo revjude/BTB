@@ -7,31 +7,31 @@ And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ea
 And you must have a digging tool in your equipment so that when you relieve yourself you can dig a hole and cover up your excrement.<small><sub>**MT:**</sub></small>
 [[Deut.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.12|<< Deuteronomy 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.14|Deuteronomy 23:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a trowel | <big><span class="asgreek">πάσσαλος</span></big> <sup><small><small>[[G8662]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-|  | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your belt, | <big><span class="asgreek">ζώνης</span></big> <sup><small><small>[[G2223]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
-| you should sit separately | <big><span class="asgreek">διακαθιζάνης</span></big> <sup><small><small>[[G6831]]</small></small></sup> |
-| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall dig | <big><span class="asgreek">ορύξεις</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| bringing it | <big><span class="asgreek">επαγαγών</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| you shall cover | <big><span class="asgreek">καλύψεις</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| a trowel | **<big>[[G8662\|πάσσαλος]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+|  | **<big>[[G1473\|σοι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your belt, | **<big>[[G2223\|ζώνης]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| whenever | **<big>[[G3752\|όταν]]</big>** |
+| you should sit separately | **<big>[[G6831\|διακαθιζάνης]]</big>** |
+| outside, | **<big>[[G1854\|έξω]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| you shall dig | **<big>[[G3736\|ορύξεις]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| bringing it | **<big>[[G1863\|επαγαγών]]</big>** |
+| you shall cover | **<big>[[G2572\|καλύψεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your indecency | **<big>[[G0808\|ασχημοσύνην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Deut.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.12|<< Deuteronomy 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.14|Deuteronomy 23:14 >>]]</td></tr></table>
 
 

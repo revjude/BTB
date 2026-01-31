@@ -14,33 +14,33 @@ I will give you a new heart and put a new spirit within you; I will remove your 
 > $\quad$ related to: [[John.3.5|John 3:5]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| in you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| a new | <big><span class="asgreek">καινήν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| a new | <big><span class="asgreek">καινόν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
-| I will put | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will remove | <big><span class="asgreek">αφελώ</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stone | <big><span class="asgreek">λιθίνην</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flesh, | <big><span class="asgreek">σαρκός</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| \[of\] flesh. | <big><span class="asgreek">σαρκίνην</span></big> <sup><small><small>[[G4560]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| in you | **<big>[[G1473\|υμίν]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| a new | **<big>[[G2537\|καινήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| a new | **<big>[[G2537\|καινόν]]</big>** |
+| I will put | **<big>[[G1325\|δώσω]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| you, | **<big>[[G1473\|υμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will remove | **<big>[[G0851\|αφελώ]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| stone | **<big>[[G3035\|λιθίνην]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| your flesh, | **<big>[[G4561\|σαρκός]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I will give | **<big>[[G1325\|δώσω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| a heart | **<big>[[G2588\|καρδίαν]]</big>** |
+| \[of\] flesh. | **<big>[[G4560\|σαρκίνην]]</big>** |
 [[Ezek.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.25|<< Ezekiel 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.27|Ezekiel 36:27 >>]]</td></tr></table>
 
 

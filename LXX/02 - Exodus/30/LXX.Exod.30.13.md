@@ -7,39 +7,39 @@ This they shall give, every one that passeth among them that are numbered, half 
 Everyone who crosses over to those counted must pay a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD.<small><sub>**MT:**</sub></small>
 [[Exod.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.12|<< Exodus 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.14|Exodus 30:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they shall give, | <big><span class="asgreek">δώσουσιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| as many | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| pass | <big><span class="asgreek">παραπορεύωνται</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| numbering -- | <big><span class="asgreek">επίσκεψιν</span></big> <sup><small><small>[[G7448]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| double-drachma, | <big><span class="asgreek">διδράχμου</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| double-drachma | <big><span class="asgreek">δίδραχμον</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of the holy place -- | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσιν</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| oboli | <big><span class="asgreek">οβολοί</span></big> <sup><small><small>[[G8438]]</small></small></sup> |
-| to the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| double-drachma; | <big><span class="asgreek">δίδραχμον</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| but the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| double-drachma | <big><span class="asgreek">διδράχμου</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
-| \[is a\] contribution | <big><span class="asgreek">εισφορά</span></big> <sup><small><small>[[G7072]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| this | **<big>[[G3778\|τούτό]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| what | **<big>[[G3739\|ο]]</big>** |
+| they shall give, | **<big>[[G1325\|δώσουσιν]]</big>** |
+| as many | **<big>[[G3745\|όσοι]]</big>** |
+| as | **<big>[[G0302\|αν]]</big>** |
+| pass | **<big>[[G3899\|παραπορεύωνται]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| numbering -- | **<big>[[G7448\|επίσκεψιν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| double-drachma, | **<big>[[G1323\|διδράχμου]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| it shall be | **<big>[[G1510\|εστι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| double-drachma | **<big>[[G1323\|δίδραχμον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of the holy place -- | **<big>[[G0039\|άγιον]]</big>** |
+| twenty | **<big>[[G1501\|είκοσιν]]</big>** |
+| oboli | **<big>[[G8438\|οβολοί]]</big>** |
+| to the | **<big>[[G3588\|το]]</big>** |
+| double-drachma; | **<big>[[G1323\|δίδραχμον]]</big>** |
+| but the | **<big>[[G3588\|το]]</big>** **<big>[[G1161\|δε]]</big>** |
+| half | **<big>[[G2255\|ήμισυ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| double-drachma | **<big>[[G1323\|διδράχμου]]</big>** |
+| \[is a\] contribution | **<big>[[G7072\|εισφορά]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[Exod.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.12|<< Exodus 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.14|Exodus 30:14 >>]]</td></tr></table>
 
 

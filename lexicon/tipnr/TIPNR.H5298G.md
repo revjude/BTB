@@ -4,9 +4,9 @@ Levite living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Nepheg</span> was a son of Izhar and a member of the Levite clan of Kohath.
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, only mentioned at [[Exod.6.21|Exo.6.21]]; 
-- only referred to as Nepheg<[[H5298G]]> \(<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ג</span>\); 
--  son of Izhar<[[H3324]]>; 
-- a brother of Korah<[[H7141I]]>, Zichri<[[H2147G]]> and Shelomith<[[H8019A]]>.
+- only referred to as Nepheg **<big>[[H5298|נֶפֶג]]</big>**; 
+-  son of Izhar **<big>[[H3324|יִצְהָר]]</big>**; 
+- a brother of Korah **<big>[[H7141|קֹרַח]]</big>**, Zichri **<big>[[H2147|זִכְרִי]]</big>** and Shelomith **<big>[[H8019|שְׁלֹמִית]]</big>**.
 
 Nepheg is mentioned in [[Exod.6.21|Exodus 6:21]] as one of the sons of Izhar, who was a grandson of Levi, the founder of the Levite tribe. The Levites were set apart by God to serve in the tabernacle and, later, in the temple. 
 
@@ -20,8 +20,8 @@ The Levites' dedication to the service of God and their role in maintaining the 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Nepheg | [<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ג</span>](H5298G) <small>*Hebrew*</small> | 1x | [Exo.6.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nepheg\*\|reference=Exo.6.21) |
-All Strong's for **Nepheg**: \[[[H5298G]]\]
+| Nepheg | [<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ג</span>](H5298G) | 1x | [Exo.6.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nepheg\*\|reference=Exo.6.21) |
+All entries for **Nepheg**:  **<big>[[H5298|נֶפֶג]]</big>**
 #### Related Profiles:
 - **[Izhar](H3324)** (father)
 - **[Korah](H7141I)** (sibling)

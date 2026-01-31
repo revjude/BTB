@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמִּי נָדִיב‎</span></big> **ʻAmmîy Nâdîyb** <small>*(am-mee' naw-deeb')*</small> ==**Amminadib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup> and <span class="ashebrew">‎נָדִיב‎</span><sup><small>[[H5081]]</small></sup>; my people (is) liberal</small>
+**<big><span class="ashebrew">‎עַמִּי נָדִיב‎</span></big>** **ʻAmmîy Nâdîyb** <small>*(am-mee' naw-deeb')*</small> ==**Amminadib**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5971|‎עַם‎]]</big>** and **<big>[[H5081|‎נָדִיב‎]]</big>**; my people (is) liberal</small>
 
 $\quad$ Amminadib.
 - § Amminadib = *"my people are willing"*

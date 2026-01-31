@@ -7,51 +7,51 @@ And he brought me to the porch of the house, and measured [each] post of the por
 Then he brought me to the portico of the temple and measured the side pillars of the portico to be five cubits on each side. The width of the gateway was fourteen cubits and its sidewalls were three cubits on either side.<small><sub>**MT:**</sub></small>
 [[Ezek.40.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.47|<< Ezekiel 40:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.49|Ezekiel 40:49 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he brought | <big><span class="asgreek">εισήγαγέ</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
-| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house; | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he measured | <big><span class="asgreek">διεμέτρησε</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portal | <big><span class="asgreek">αιλ</span></big> <sup><small><small>[[G6160]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch -- | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| \[was\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| on this side, | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
-| on that side; | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doorway -- | <big><span class="asgreek">θυρώματος</span></big> <sup><small><small>[[G7699]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| fourteen | <big><span class="asgreek">δεκατεσσάρων</span></big> <sup><small><small>[[G1180]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| side-pieces | <big><span class="asgreek">επωμίδες</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| columned porch -- | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| on this side, | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| on that side. | <big><span class="asgreek">ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he brought | **<big>[[G1521\|εισήγαγέ]]</big>** |
+| me | **<big>[[G1473\|με]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| columned porch | **<big>[[G6161\|αιλάμ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| house; | **<big>[[G3624\|οίκου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he measured | **<big>[[G6848\|διεμέτρησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| portal | **<big>[[G6160\|αιλ]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| columned porch -- | **<big>[[G6161\|αιλάμ]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| \[was\] the | **<big>[[G3588\|το]]</big>** |
+| width | **<big>[[G4114\|πλάτος]]</big>** |
+| on this side, | **<big>[[G6033\|ένθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| five | **<big>[[G4002\|πέντε]]</big>** |
+| on that side; | **<big>[[G6033\|ένθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breadth | **<big>[[G7563\|εύρος]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| doorway -- | **<big>[[G7699\|θυρώματος]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| fourteen | **<big>[[G1180\|δεκατεσσάρων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| side-pieces | **<big>[[G7490\|επωμίδες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| door | **<big>[[G2374\|θύρας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| columned porch -- | **<big>[[G6161\|αιλάμ]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| on this side, | **<big>[[G6033\|ένθεν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cubits | **<big>[[G4083\|πηχών]]</big>** |
+| three | **<big>[[G5140\|τριών]]</big>** |
+| on that side. | **<big>[[G6033\|ένθεν]]</big>** |
 [[Ezek.40.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.47|<< Ezekiel 40:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.49|Ezekiel 40:49 >>]]</td></tr></table>
 
 

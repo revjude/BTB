@@ -11,18 +11,18 @@ They open their jaws against me like lions that roar and maul.<small><sub>**MT:
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]] ☩ [[1Pet.5.8|1Pet 5:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| They opened | <big><span class="asgreek">ηνοίξαν</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their mouths | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| snatching away | <big><span class="asgreek">αρπαζών</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| roaring. | <big><span class="asgreek">ωρυόμενος</span></big> <sup><small><small>[[G5612]]</small></small></sup> |
+| They opened | **<big>[[G0455\|ηνοίξαν]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their mouths | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| snatching away | **<big>[[G0726\|αρπαζών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| roaring. | **<big>[[G5612\|ωρυόμενος]]</big>** |
 [[Ps.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.12|<< Psalm 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.14|Psalm 22:14 >>]]</td></tr></table>
 
 

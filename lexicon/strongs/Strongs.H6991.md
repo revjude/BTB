@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָטַל‎</span></big> **qâṭal** <small>*(kaw-tal')*</small> ==**to slay**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָטַל‎</span></big>** **qâṭal** <small>*(kaw-tal')*</small> ==**to slay**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ kill, slay.
@@ -6,4 +6,4 @@ $\quad$ kill, slay.
 
 **1)** (Qal) to slay, kill
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀποκτείνω</span><sup><small>[[G0615]]</small></sup>
+<small>See Greek: </small>**<big>[[G0615|ἀποκτείνω]]</big>**

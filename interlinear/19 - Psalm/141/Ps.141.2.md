@@ -10,16 +10,16 @@ May my prayer be set before You like incense; my uplifted hands, like the evenin
 > $\quad$ referenced by: [[Rev.5.8|Rev 5:8]] ☩ [[Rev.8.3|Rev 8:3]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may it be established  | <span class="ashebrew"><big>תִּכּ֤וֹן </big></span><small><small><sup>[[H3559I]]</sup></small></small> &#8207;| ti.Kon <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prayer my  | <span class="ashebrew"><big>תְּפִלָּתִ֣ </big></span><small><small><sup>[[H8605]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| te.fi.la.T <small><sup>[[HNcfsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| incense  | <span class="ashebrew"><big>קְטֹ֣רֶת </big></span><small><small><sup>[[H7004]]</sup></small></small> &#8207;| ke.To.ret <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פָנֶ֑י </big></span><small><small><sup>[[H6440G]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> fa.Nei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] raising of  | <span class="ashebrew"><big>מַֽשְׂאַ֥ת </big></span><small><small><sup>[[H4864]]</sup></small></small> &#8207;| mas.'At <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands my  | <span class="ashebrew"><big>כַּ֝פַּ֗ </big></span><small><small><sup>[[H3709G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| ka.Pa <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an offering of  | <span class="ashebrew"><big>מִנְחַת </big></span><small><small><sup>[[H4503G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| min.chat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evening  | <span class="ashebrew"><big>עָֽרֶב </big></span><small><small><sup>[[H6153]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'A.rev <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it be established  |**<big>&#8207;[[H3559I\|תִּכּ֤וֹן]]&#8207; </big>**| ti.Kon<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prayer my  |**<big>&#8207;[[H8605\|תְּפִלָּתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| te.fi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| incense  |**<big>&#8207;[[H7004\|קְטֹ֣רֶת]]&#8207; </big>**| ke.To.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] raising of  |**<big>&#8207;[[H4864\|מַֽשְׂאַ֥ת]]&#8207; </big>**| mas.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands my  |**<big>&#8207;[[H3709G\|כַּ֝פַּ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ka.Pa<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an offering of  |**<big>&#8207;[[H4503G\|מִנְחַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min.chat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evening  |**<big>&#8207;[[H6153\|עָֽרֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.1|<< Psalms 141:1]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.3|Psalms 141:3 >>]]</td></tr></table>
 
 

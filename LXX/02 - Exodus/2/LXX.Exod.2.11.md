@@ -14,39 +14,39 @@ One day, after Moses had grown up, he went out to his own people and observed th
 > $\quad$ referenced by: [[Acts.7.24|Acts 7:24]] ☩ [[Heb.11.25|Heb 11:25]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| many | <big><span class="asgreek">πολλαίς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| those | <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| older | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| becoming | <big><span class="asgreek">γενόμενος</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| Moses | <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| he went forth | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| And contemplating | <big><span class="asgreek">κατανοήσας</span></big> <sup><small><small>[[G2657]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their misery, | <big><span class="asgreek">πόνον</span></big> <sup><small><small>[[G4192]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he saw | <big><span class="asgreek">ορά</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| an Egyptian man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">Αιγύπτιον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| beating | <big><span class="asgreek">τύπτοντά</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
-| a certain | <big><span class="asgreek">τινα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| Hebrew | <big><span class="asgreek">Εβραίον</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
-| brethren | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And it came to pass | **<big>[[G1096\|εγένετο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| days | **<big>[[G2250\|ημέραις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| many | **<big>[[G4183\|πολλαίς]]</big>** |
+| those | **<big>[[G1565\|εκείναις]]</big>** |
+| older | **<big>[[G3173\|μέγας]]</big>** |
+| becoming | **<big>[[G1096\|γενόμενος]]</big>** |
+| Moses | **<big>[[G3475\|Μωυσής]]</big>** |
+| he went forth | **<big>[[G1831\|εξήλθε]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of the | **<big>[[G3588\|τους]]</big>** |
+| sons | **<big>[[G5207\|υιούς]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| And contemplating | **<big>[[G2657\|κατανοήσας]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| their misery, | **<big>[[G4192\|πόνον]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| he saw | **<big>[[G3708\|ορά]]</big>** |
+| an Egyptian man | **<big>[[G0444\|άνθρωπον]]</big>** **<big>[[G0125\|Αιγύπτιον]]</big>** |
+| beating | **<big>[[G5180\|τύπτοντά]]</big>** |
+| a certain | **<big>[[G5100\|τινα]]</big>** |
+| Hebrew | **<big>[[G1444\|Εβραίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of his own | **<big>[[G1438\|εαυτού]]</big>** |
+| brethren | **<big>[[G0080\|αδελφών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
 [[Exod.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.10|<< Exodus 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.12|Exodus 2:12 >>]]</td></tr></table>
 
 

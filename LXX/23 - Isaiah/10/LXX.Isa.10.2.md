@@ -7,25 +7,25 @@ To turn aside the needy from judgment, and to take away the right from the poor 
 to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder.<small><sub>**MT:**</sub></small>
 [[Isa.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| turning aside | <big><span class="asgreek">εκκλίνοντες</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
-| equity | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| \[of the\] poor, | <big><span class="asgreek">πτωχών</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
-| snatching away | <big><span class="asgreek">αρπάζοντες</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
-| a judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
-| of \[the\] needy | <big><span class="asgreek">πενήτων</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so that | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| would be to them | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a widow | <big><span class="asgreek">χήραν</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| ravaging, | <big><span class="asgreek">διαρπαγήν</span></big> <sup><small><small>[[G6869]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| an orphan | <big><span class="asgreek">ορφανόν</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| plunder. | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
+| turning aside | **<big>[[G1578\|εκκλίνοντες]]</big>** |
+| equity | **<big>[[G2920\|κρίσιν]]</big>** |
+| \[of the\] poor, | **<big>[[G4434\|πτωχών]]</big>** |
+| snatching away | **<big>[[G0726\|αρπάζοντες]]</big>** |
+| a judgment | **<big>[[G2917\|κρίμα]]</big>** |
+| of \[the\] needy | **<big>[[G3993\|πενήτων]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of my people, | **<big>[[G2992\|λαού]]</big>** **<big>[[G1473\|μου]]</big>** |
+| so that | **<big>[[G5620\|ώστε]]</big>** |
+| would be to them | **<big>[[G1510\|είναι]]</big>** **<big>[[G1473\|αυτοίς]]</big>** |
+| a widow | **<big>[[G5503\|χήραν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| ravaging, | **<big>[[G6869\|διαρπαγήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| an orphan | **<big>[[G3737\|ορφανόν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| plunder. | **<big>[[G8903\|προνομήν]]</big>** |
 [[Isa.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
 
 

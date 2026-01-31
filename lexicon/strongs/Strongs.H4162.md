@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹצָא‎</span></big> **môwtsâʼ** <small>*(mo-tsaw')*</small> ==**Moza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מוֹצָא‎</span><sup><small>[[H4161]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹצָא‎</span></big>** **môwtsâʼ** <small>*(mo-tsaw')*</small> ==**Moza**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H4161|‎מוֹצָא‎]]</big>**</small>
 
 $\quad$ Moza.
 - § Moza = *"fountain"*

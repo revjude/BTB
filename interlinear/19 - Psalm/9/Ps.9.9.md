@@ -10,15 +10,15 @@ The LORD is a refuge for the oppressed, a stronghold in times of trouble.
 > $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he may be  | <span class="ashebrew"><big>וִ֘ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יהִ֤י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| vi. <small><sup>[[HC]]</sup></small> Hi <small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a refuge  | <span class="ashebrew"><big>מִשְׂגָּ֣ב </big></span><small><small><sup>[[H4869A]]</sup></small></small> &#8207;| mis.Gav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for the oppressed  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָּ֑ךְ </big></span><small><small><sup>[[H1790]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Dakh <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a refuge  | <span class="ashebrew"><big>מִ֝שְׂגָּ֗ב </big></span><small><small><sup>[[H4869A]]</sup></small></small> &#8207;| mis.Gav <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to times of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עִתּ֥וֹת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'i.Tot <small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trouble  | <span class="ashebrew"><big>בַּצָּרָֽה </big></span><small><small><sup>[[H6869A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ba.tza.Rah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may be  |**<big>&#8207;[[H9002\|וִ֘]]&#8207;&#8207;[[H1961\|יהִ֤י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a refuge  |**<big>&#8207;[[H4869A\|מִשְׂגָּ֣ב]]&#8207; </big>**| mis.Gav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the oppressed  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1790\|דָּ֑ךְ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Dakh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a refuge  |**<big>&#8207;[[H4869A\|מִ֝שְׂגָּ֗ב]]&#8207; </big>**| mis.Gav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to times of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6256\|עִתּ֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.Tot<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  |**<big>&#8207;[[H6869A\|בַּצָּרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.8|<< Psalms 9:8]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.10|Psalms 9:10 >>]]</td></tr></table>
 
 

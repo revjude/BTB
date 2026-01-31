@@ -7,20 +7,20 @@ Doth God pervert judgment? or doth the Almighty pervert justice?
 Does God pervert justice? Does the Almighty pervert what is right?<small><sub>**MT:**</sub></small>
 [[Job.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.2|<< Job 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.4|Job 8:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Will | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| transgress | <big><span class="asgreek">αδικήσει</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| judging? | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">ποιήσας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| disturb | <big><span class="asgreek">ταράξει</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| just? | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| Will | **<big>[[G3361\|μη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| transgress | **<big>[[G0091\|αδικήσει]]</big>** |
+| judging? | **<big>[[G2919\|κρίνων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| making all \[things\] | **<big>[[G3956\|πάντα]]</big>** **<big>[[G4160\|ποιήσας]]</big>** |
+| disturb | **<big>[[G5015\|ταράξει]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| just? | **<big>[[G1342\|δίκαιον]]</big>** |
 [[Job.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.2|<< Job 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.4|Job 8:4 >>]]</td></tr></table>
 
 

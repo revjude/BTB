@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂבֵעַ‎</span></big> **sâbêaʻ** <small>*(saw-bay'-ah)*</small> ==**sated**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׂבַע‎</span><sup><small>[[H7646]]</small></sup></small>
+**<big><span class="ashebrew">‎שָׂבֵעַ‎</span></big>** **sâbêaʻ** <small>*(saw-bay'-ah)*</small> ==**sated**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H7646|‎שָׂבַע‎]]</big>**</small>
 
 $\quad$ full (of), satisfied (with).
 - ***satiated*** (in a pleasant or disagreeable sense)
@@ -8,4 +8,4 @@ $\quad$ full (of), satisfied (with).
 $\quad$ **1a)** sated, abounding, satisfied
 $\quad$ **1b)** surfeited (bad sense)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πλήρης</span><sup><small>[[G4134]]</small></sup> · <span class="asgreek">πλησμονή</span><sup><small>[[G4140]]</small></sup>
+<small>See Greek: </small>**<big>[[G4134|πλήρης]]</big>** · **<big>[[G4140|πλησμονή]]</big>**

@@ -7,24 +7,24 @@ These [are the countries] which Moses did distribute for inheritance in the plai
 These were the portions Moses had given them on the plains of Moab beyond the Jordan, east of Jericho.<small><sub>**MT:**</sub></small>
 [[Josh.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.31|<< Joshua 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.33|Joshua 13:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| These \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| Moses gave to inherit | <big><span class="asgreek">κατεκληρονόμησε</span></big> <sup><small><small>[[G7853]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] wilderness | <big><span class="asgreek">αραβώθ</span></big> <sup><small><small>[[G6521]]</small></small></sup> |
-| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| Jericho | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] east. | <big><span class="asgreek">ανατολών</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| These \[are\] | **<big>[[G3778\|ούτοι]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| Moses gave to inherit | **<big>[[G7853\|κατεκληρονόμησε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] wilderness | **<big>[[G6521\|αραβώθ]]</big>** |
+| of Moab | **<big>[[H6355\|Μωάβ]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| Jordan | **<big>[[G2446\|Ιορδάνου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| Jericho | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| \[the\] east. | **<big>[[G0395\|ανατολών]]</big>** |
 [[Josh.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.31|<< Joshua 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.33|Joshua 13:33 >>]]</td></tr></table>
 
 

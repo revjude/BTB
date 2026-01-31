@@ -1,6 +1,5 @@
-<span class="ashebrew">‎גִּלְעָד‎</span> <small>***(gil.ad)***</small> ==**(Jabesh)-gilead**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-part of: <small>[[H3003G]]</small> 
+<small>part of:</small> <small>**<big>[[H3003G|יָבֵשׁ]]</big>**</small> 
 
 - Gilead = "rocky region"
 
-- Combined with <i>ya.vesh</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ב‎</span>ֵ<span class='ashebrew'>‎ש‎</span>ׁ "Jabesh" [[H3003]])
+- Combined with <i>ya.vesh</i> (<span class='ashebrew'>‎י‎</span>ָ<span class='ashebrew'>‎ב‎</span>ֵ<span class='ashebrew'>‎ש‎</span>ׁ "Jabesh" **<big>[[H3003|יָבֵשׁ]]</big>**)

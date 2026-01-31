@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שֶׁסַע‎</span></big> **sheçaʻ** <small>*(sheh'-sah)*</small> ==**cleft**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁסַע‎</span><sup><small>[[H8156]]</small></sup></small>
+**<big><span class="ashebrew">‎שֶׁסַע‎</span></big>** **sheçaʻ** <small>*(sheh'-sah)*</small> ==**cleft**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8156|‎שָׁסַע‎]]</big>**</small>
 
 $\quad$ cleft, clovenfooted.
 - ***a fissure***

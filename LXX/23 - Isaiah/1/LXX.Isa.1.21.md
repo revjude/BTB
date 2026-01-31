@@ -10,24 +10,24 @@ How is the faithful city become an harlot! it was full of judgment; righteousnes
 See how the faithful city has become a harlot! She once was full of justice; righteousness resided within her, but now only murderers!<small><sub>**MT:**</sub></small>
 [[Isa.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
-| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| a harlot | <big><span class="asgreek">πόρνη</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \[the\] trustworthy | <big><span class="asgreek">πιστή</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
-| of judgment; | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| slept | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| murderers. | <big><span class="asgreek">φονευταί</span></big> <sup><small><small>[[G9655]]</small></small></sup> |
+| O how | **<big>[[G4459\|πως]]</big>** |
+| became | **<big>[[G1096\|εγένετο]]</big>** |
+| a harlot | **<big>[[G4204\|πόρνη]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| \[the\] trustworthy | **<big>[[G4103\|πιστή]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| full | **<big>[[G4134\|πλήρης]]</big>** |
+| of judgment; | **<big>[[G2920\|κρίσεως]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| which | **<big>[[G3739\|η]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| slept | **<big>[[G2837\|εκοιμήθη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it, | **<big>[[G1473\|αυτή]]</big>** |
+| but now | **<big>[[G3568\|νυν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| murderers. | **<big>[[G9655\|φονευταί]]</big>** |
 [[Isa.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 
 

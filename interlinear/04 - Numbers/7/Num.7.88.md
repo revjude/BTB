@@ -6,29 +6,29 @@ All the livestock sacrificed for the peace offering totaled twenty-four bulls, s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.88|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.87|<< Numbers 7:87]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.89|Numbers 7:89 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and all  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כֹ֞ל </big></span><small><small><sup>[[H3605]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Khol <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] cattle of  | <span class="ashebrew"><big>בְּקַ֣ר </big></span><small><small><sup>[[H1241]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| be.Kar <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sacrifice of  | <span class="ashebrew"><big>זֶ֣בַח </big></span><small><small><sup>[[H2077]]</sup></small></small> &#8207;| Ze.vach <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the peace offerings  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שְּׁלָמִ֗ים </big></span><small><small><sup>[[H8002]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> she.la.Mim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] twenty  | <span class="ashebrew"><big>עֶשְׂרִ֣ים </big></span><small><small><sup>[[H6242]]</sup></small></small> &#8207;| 'es.Rim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and four  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַרְבָּעָה֮ </big></span><small><small><sup>[[H0702]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'ar.ba.'Ah <small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| young bulls  | <span class="ashebrew"><big>פָּרִים֒ </big></span><small><small><sup>[[H6499]]</sup></small></small> &#8207;| pa.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rams  | <span class="ashebrew"><big>אֵילִ֤ם </big></span><small><small><sup>[[H0352A]]</sup></small></small> &#8207;| 'ei.Lim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sixty  | <span class="ashebrew"><big>שִׁשִּׁים֙ </big></span><small><small><sup>[[H8346]]</sup></small></small> &#8207;| shi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| goats  | <span class="ashebrew"><big>עַתֻּדִ֣ים </big></span><small><small><sup>[[H6260]]</sup></small></small> &#8207;| 'a.tu.Dim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֔ים </big></span><small><small><sup>[[H8346]]</sup></small></small> &#8207;| shi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lambs  | <span class="ashebrew"><big>כְּבָשִׂ֥ים </big></span><small><small><sup>[[H3532]]</sup></small></small> &#8207;| ke.va.Sim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a year  | <span class="ashebrew"><big>שָׁנָ֖ה </big></span><small><small><sup>[[H8141]]</sup></small></small> &#8207;| sha.Nah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֑ים </big></span><small><small><sup>[[H8346]]</sup></small></small> &#8207;| shi.Shim <small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  | <span class="ashebrew"><big>זֹ֚את </big></span><small><small><sup>[[H2063]]</sup></small></small> &#8207;| zot <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] [the] dedication of  | <span class="ashebrew"><big>חֲנֻכַּ֣ת </big></span><small><small><sup>[[H2598]]</sup></small></small> &#8207;| cha.nu.Kat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the altar  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מִּזְבֵּ֔חַ </big></span><small><small><sup>[[H4196]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> miz.Be.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֖י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| was anointed  | <span class="ashebrew"><big>הִמָּשַׁ֥ח </big></span><small><small><sup>[[H4886]]</sup></small></small> &#8207;| hi.ma.Shach <small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  | <span class="ashebrew"><big>אֹתֽ </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'o.T <small><sup>[[HTo]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֞ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cattle of  |**<big>&#8207;[[H1241\|בְּקַ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.Kar<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sacrifice of  |**<big>&#8207;[[H2077\|זֶ֣בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the peace offerings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8002\|שְּׁלָמִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֣ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָה֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young bulls  |**<big>&#8207;[[H6499\|פָּרִים֒]]&#8207; </big>**| pa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rams  |**<big>&#8207;[[H0352A\|אֵילִ֤ם]]&#8207; </big>**| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  |**<big>&#8207;[[H8346\|שִׁשִּׁים֙]]&#8207; </big>**| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  |**<big>&#8207;[[H6260\|עַתֻּדִ֣ים]]&#8207; </big>**| 'a.tu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  |**<big>&#8207;[[H8346\|שִׁשִּׁ֔ים]]&#8207; </big>**| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  |**<big>&#8207;[[H3532\|כְּבָשִׂ֥ים]]&#8207; </big>**| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  |**<big>&#8207;[[H1121H\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  |**<big>&#8207;[[H8141\|שָׁנָ֖ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  |**<big>&#8207;[[H8346\|שִׁשִּׁ֑ים]]&#8207; </big>**| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹ֚את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] dedication of  |**<big>&#8207;[[H2598\|חֲנֻכַּ֣ת]]&#8207; </big>**| cha.nu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֔חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֖י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| was anointed  |**<big>&#8207;[[H4886\|הִמָּשַׁ֥ח]]&#8207; </big>**| hi.ma.Shach<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.87|<< Numbers 7:87]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.89|Numbers 7:89 >>]]</td></tr></table>
 
 

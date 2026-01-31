@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צְעָדָה‎</span></big> **tsᵉʻâdâh** <small>*(tseh-aw-daw')*</small> ==**marching**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎צַעַד‎</span><sup><small>[[H6806]]</small></sup></small>
+**<big><span class="ashebrew">‎צְעָדָה‎</span></big>** **tsᵉʻâdâh** <small>*(tseh-aw-daw')*</small> ==**marching**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6806|‎צַעַד‎]]</big>**</small>
 
 $\quad$ going, ornament of the legs.
 - ***a march***

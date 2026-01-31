@@ -7,45 +7,45 @@ Therefore they shall come and sing in the height of Zion, and shall flow togethe
 They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the LORD—the grain, new wine, and oil, and the young of the flocks and herds. Their life will be like a well-watered garden, and never again will they languish.<small><sub>**MT:**</sub></small>
 [[Jer.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.11|<< Jeremiah 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.13|Jeremiah 31:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall come | <big><span class="asgreek">ήξουσι</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be glad | <big><span class="asgreek">ευφρανθήσονται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall come | <big><span class="asgreek">ήξουσιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] good \[things\] | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of grain, | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wine, | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| olive oil, | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fruits, | <big><span class="asgreek">καρπών</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cattle, | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \[the\] tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| containing fruit. | <big><span class="asgreek">έγκαρπον</span></big> <sup><small><small>[[G7007]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hunger | <big><span class="asgreek">πεινάσουσιν</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall come | **<big>[[G2240\|ήξουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be glad | **<big>[[G2165\|ευφρανθήσονται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| mount | **<big>[[G3735\|όρει]]</big>** |
+| Zion. | **<big>[[G4622\|Σιών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall come | **<big>[[G2240\|ήξουσιν]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| \[the\] good \[things\] | **<big>[[G0018\|αγαθά]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| a land | **<big>[[G1093\|γην]]</big>** |
+| of grain, | **<big>[[G4621\|σίτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wine, | **<big>[[G3631\|οίνου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| olive oil, | **<big>[[G1637\|ελαίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fruits, | **<big>[[G2590\|καρπών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cattle, | **<big>[[G2934\|κτηνών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| sheep. | **<big>[[G4263\|προβάτων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \[the\] tree | **<big>[[G3586\|ξύλον]]</big>** |
+| containing fruit. | **<big>[[G7007\|έγκαρπον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall not | **<big>[[G3756\|ου]]</big>** |
+| hunger | **<big>[[G3983\|πεινάσουσιν]]</big>** |
+| any longer. | **<big>[[G2089\|έτι]]</big>** |
 [[Jer.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.11|<< Jeremiah 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.13|Jeremiah 31:13 >>]]</td></tr></table>
 
 

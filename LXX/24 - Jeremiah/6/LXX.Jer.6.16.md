@@ -11,43 +11,43 @@ This is what the LORD says: “Stand at the crossroads and look. Ask for the anc
 > $\quad$ referenced by: [[Matt.11.29|Matt 11:29]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| Stand | <big><span class="asgreek">στήτε</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ways, | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ask | <big><span class="asgreek">ερωτήσατε</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
-| roads | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of eternal | <big><span class="asgreek">αιωνίους</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| see | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| what kind | <big><span class="asgreek">ποιά</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| proceed | <big><span class="asgreek">βαδίζετε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| it! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you will find | <big><span class="asgreek">ευρήσετε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| purification | <big><span class="asgreek">αγνισμόν</span></big> <sup><small><small>[[G0049]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your souls. | <big><span class="asgreek">ψυχαίς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| We will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go. | <big><span class="asgreek">πορευσόμεθα</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| Stand | **<big>[[G2476\|στήτε]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| ways, | **<big>[[G3598\|οδοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold! | **<big>[[G1492\|ίδετε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ask | **<big>[[G2065\|ερωτήσατε]]</big>** |
+| roads | **<big>[[G5147\|τρίβους]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| of eternal | **<big>[[G0166\|αιωνίους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| see | **<big>[[G1492\|ίδετε]]</big>** |
+| what kind | **<big>[[G4169\|ποιά]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| way | **<big>[[G3598\|οδός]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| good | **<big>[[G0018\|αγαθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| proceed | **<big>[[G6642\|βαδίζετε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| it! | **<big>[[G1473\|αυτή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you will find | **<big>[[G2147\|ευρήσετε]]</big>** |
+| purification | **<big>[[G0049\|αγνισμόν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| your souls. | **<big>[[G5590\|ψυχαίς]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they said, | **<big>[[G2036\|είπαν]]</big>** |
+| We will not | **<big>[[G3756\|ου]]</big>** |
+| go. | **<big>[[G4198\|πορευσόμεθα]]</big>** |
 [[Jer.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.15|<< Jeremiah 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.17|Jeremiah 6:17 >>]]</td></tr></table>
 
 

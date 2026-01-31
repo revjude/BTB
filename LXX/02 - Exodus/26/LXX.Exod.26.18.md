@@ -7,21 +7,21 @@ And thou shalt make the boards for the tabernacle, twenty boards on the south si
 Construct twenty frames for the south side of the tabernacle,<small><sub>**MT:**</sub></small>
 [[Exod.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.17|<< Exodus 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.19|Exodus 26:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| posts | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent -- | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
-| posts | <big><span class="asgreek">στύλους</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| side | <big><span class="asgreek">κλίτους</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
-| towards the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| south. | <big><span class="asgreek">νότον</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| posts | **<big>[[G4769\|στύλους]]</big>** |
+| for the | **<big>[[G3588\|της]]</big>** |
+| tent -- | **<big>[[G4633\|σκηνής]]</big>** |
+| twenty | **<big>[[G1501\|είκοσι]]</big>** |
+| posts | **<big>[[G4769\|στύλους]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| side | **<big>[[G8026\|κλίτους]]</big>** |
+| towards the | **<big>[[G3588\|του]]</big>** **<big>[[G4314\|προς]]</big>** |
+| south. | **<big>[[G3558\|νότον]]</big>** |
 [[Exod.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.17|<< Exodus 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.19|Exodus 26:19 >>]]</td></tr></table>
 
 

@@ -7,47 +7,47 @@ And he shall take the cedar wood, and the hyssop, and the scarlet, and the livin
 Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them in the blood of the slaughtered bird and the fresh water, and sprinkle the house seven times.<small><sub>**MT:**</sub></small>
 [[Lev.14.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.50|<< Leviticus 14:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.52|Leviticus 14:52 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of cedar, | <big><span class="asgreek">κέδρινον</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| twined | <big><span class="asgreek">κεκλωσμένον</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hyssop, | <big><span class="asgreek">ύσσωπον</span></big> <sup><small><small>[[G5301]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small bird | <big><span class="asgreek">ορνίθιον</span></big> <sup><small><small>[[G8551]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living | <big><span class="asgreek">ζων</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall dip | <big><span class="asgreek">βάψει</span></big> <sup><small><small>[[G0911]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| small bird | <big><span class="asgreek">ορνιθίου</span></big> <sup><small><small>[[G8551]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having been slain | <big><span class="asgreek">εσφαγμένου</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
-| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντος</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall sprinkle about | <big><span class="asgreek">περιρρανεί</span></big> <sup><small><small>[[G8751]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| seven times. | <big><span class="asgreek">επτάκις</span></big> <sup><small><small>[[G2034]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall take | **<big>[[G2983\|λήψεται]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| wood | **<big>[[G3586\|ξύλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| of cedar, | **<big>[[G7989\|κέδρινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| twined | **<big>[[G8029\|κεκλωσμένον]]</big>** |
+| scarlet, | **<big>[[G2847\|κόκκινον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| hyssop, | **<big>[[G5301\|ύσσωπον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| small bird | **<big>[[G8551\|ορνίθιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| living | **<big>[[G2198\|ζων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall dip | **<big>[[G0911\|βάψει]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| small bird | **<big>[[G8551\|ορνιθίου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| having been slain | **<big>[[G4969\|εσφαγμένου]]</big>** |
+| over | **<big>[[G1909\|εφ΄]]</big>** |
+| water | **<big>[[G5204\|ύδατος]]</big>** |
+| living | **<big>[[G2198\|ζώντος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall sprinkle about | **<big>[[G8751\|περιρρανεί]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| them | **<big>[[G1473\|αυτοίς]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| house | **<big>[[G3614\|οικίαν]]</big>** |
+| seven times. | **<big>[[G2034\|επτάκις]]</big>** |
 [[Lev.14.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.50|<< Leviticus 14:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.52|Leviticus 14:52 >>]]</td></tr></table>
 
 

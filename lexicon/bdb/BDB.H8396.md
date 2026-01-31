@@ -1,6 +1,6 @@
  <span class="bdbLangHebrew">‎תַּאֲנִיָּה‎</span> **noun feminine** id. ***id***. 
 
-<small>Also see: [[H3694]]</small>
+<small>Also see: **<big>[[H3694|כְּסֻלּוֹת]]</big>**</small>
 
  <span class="bdbLangHebrew">‎תָּבוֺר‎</span> **proper name** 
 

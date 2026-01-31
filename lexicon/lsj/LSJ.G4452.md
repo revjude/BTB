@@ -1,4 +1,4 @@
-form of: <small>[[G4458]]</small> 
+form of: <small>**<big>[[G4458|-πώς]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==πω==</span></b>, 

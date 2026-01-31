@@ -1,4 +1,4 @@
-combination of: <small>[[G3756]] ([[G3756]]+[[G2089]])</small> 
+combination of: <small>**<big>[[G3756|οὐ]]</big>** (**<big>[[G3756|οὐ]]</big>**+**<big>[[G2089|ἔτι]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==οὐκέτι==</span></b> 

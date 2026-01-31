@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַשְׂרִיאֵל‎</span></big> **ʼAsrîyʼêl** <small>*(as-ree-ale')*</small> ==**Asriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>an orthographical variation for <span class="ashebrew">‎אֲשַׂרְאֵל‎</span><sup><small>[[H0840]]</small></sup></small>
+**<big><span class="ashebrew">‎אַשְׂרִיאֵל‎</span></big>** **ʼAsrîyʼêl** <small>*(as-ree-ale')*</small> ==**Asriel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>an orthographical variation for **<big>[[H0840|‎אֲשַׂרְאֵל‎]]</big>**</small>
 
 $\quad$ Ashriel, Asriel.
 - § Ashriel or Asriel = *"I shall be prince of God"*

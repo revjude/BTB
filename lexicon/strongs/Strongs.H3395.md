@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יְרֹחָם‎</span></big> **Yᵉrôchâm** <small>*(yer-o-khawm')*</small> ==**Jeroham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎רָחַם‎</span><sup><small>[[H7355]]</small></sup>; compassionate</small>
+**<big><span class="ashebrew">‎יְרֹחָם‎</span></big>** **Yᵉrôchâm** <small>*(yer-o-khawm')*</small> ==**Jeroham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7355|‎רָחַם‎]]</big>**; compassionate</small>
 
 $\quad$ Jeroham.
 - § Jeroham = *"showing pity"*

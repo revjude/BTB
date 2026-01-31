@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בַּרְקוֹס‎</span></big> **Barqôwç** <small>*(bar-kose')*</small> ==**Barkos**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎בַּרְקוֹס‎</span></big>** **Barqôwç** <small>*(bar-kose')*</small> ==**Barkos**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of uncertain derivation</small>
 
 $\quad$ Barkos.

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קָלָה‎</span></big> **qâlâh** <small>*(kaw-law')*</small> ==**to roast**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (rather identical with <span class="ashebrew">‎קָלָה‎</span><sup><small>[[H7034]]</small></sup> through the idea of shrinkage by heat)</small>
+**<big><span class="ashebrew">‎קָלָה‎</span></big>** **qâlâh** <small>*(kaw-law')*</small> ==**to roast**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (rather identical with **<big>[[H7034|‎קָלָה‎]]</big>** through the idea of shrinkage by heat)</small>
 
 $\quad$ dried, loathsome, parch, roast.
 - ***to toast***, i.e. ***scorch partially*** or ***slowly***

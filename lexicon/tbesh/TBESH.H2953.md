@@ -1,4 +1,3 @@
-<span class="asaramaic">‎טְפַר‎</span> <small>***(te.phar)***</small> ==**nail/claw**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
-Aramaic of: <small>[[H6856]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H6856|צִפֹּרֶן]]</big>**</small> 
 
-- Aramaic of <i>tsip.po.ren</i> (<span class='ashebrew'>‎צ‎</span>ִ<span class='ashebrew'>‎פ‎</span>ֹּ֫<span class='ashebrew'>‎ר‎</span>ֶ<span class='ashebrew'>‎ן‎</span> "fingernail" [[H6856]])
+- Aramaic of <i>tsip.po.ren</i> (<span class='ashebrew'>‎צ‎</span>ִ<span class='ashebrew'>‎פ‎</span>ֹּ֫<span class='ashebrew'>‎ר‎</span>ֶ<span class='ashebrew'>‎ן‎</span> "fingernail" **<big>[[H6856|צִפֹּרֶן]]</big>**)

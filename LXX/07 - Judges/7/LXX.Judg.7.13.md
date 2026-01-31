@@ -7,48 +7,48 @@ And when Gideon was come, behold, [there was] a man that told a dream unto his f
 And as Gideon arrived, a man was telling his friend about a dream. “Behold, I had a dream,” he said, “and I saw a loaf of barley bread come tumbling into the Midianite camp. It struck the tent so hard that the tent overturned and collapsed.”<small><sub>**MT:**</sub></small>
 [[Judg.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.12|<< Judges 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.14|Judges 7:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Gideon came, | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| was describing | <big><span class="asgreek">εξηγείτο</span></big> <sup><small><small>[[G1834]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a dream. | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I dreamed | <big><span class="asgreek">ενύπνιασαμην</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
-| a dream. | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a loaf | <big><span class="asgreek">μαγίς</span></big> <sup><small><small>[[G8222]]</small></small></sup> |
-| of bread | <big><span class="asgreek">άρτου</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
-| of barley | <big><span class="asgreek">κριθίνου</span></big> <sup><small><small>[[G2916]]</small></small></sup> |
-| was rolling | <big><span class="asgreek">κυλιομένη</span></big> <sup><small><small>[[G2947]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
-| of Midian, | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| of Midian, | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it overturned | <big><span class="asgreek">κατέστρεψεν</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fell | <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Gideon came, | **<big>[[G2064\|ήλθε]]</big>** **<big>[[G1066\|Γεδεών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| was describing | **<big>[[G1834\|εξηγείτο]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his neighbor | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| a dream. | **<big>[[G1798\|ενύπνιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I dreamed | **<big>[[G1797\|ενύπνιασαμην]]</big>** |
+| a dream. | **<big>[[G1798\|ενύπνιον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a loaf | **<big>[[G8222\|μαγίς]]</big>** |
+| of bread | **<big>[[G0740\|άρτου]]</big>** |
+| of barley | **<big>[[G2916\|κριθίνου]]</big>** |
+| was rolling | **<big>[[G2947\|κυλιομένη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| camp | **<big>[[G3925\|παρεμβολή]]</big>** |
+| of Midian, | **<big>[[G3099\|Μαδιάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it came | **<big>[[G2064\|ήλθεν]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| of Midian, | **<big>[[G3099\|Μαδιάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it struck | **<big>[[G3960\|επάταξεν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it overturned | **<big>[[G2690\|κατέστρεψεν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fell | **<big>[[G4098\|έπεσεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| tent | **<big>[[G4633\|σκηνή]]</big>** |
 [[Judg.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.12|<< Judges 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.14|Judges 7:14 >>]]</td></tr></table>
 
 

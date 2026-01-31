@@ -6,15 +6,15 @@ For even if I were right, I could not answer. I could only beg my Judge for merc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.14|<< Job 9:14]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.16|Job 9:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [I] who  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| though  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I am righteous  | <span class="ashebrew"><big>צָ֭דַקְתִּי </big></span><small><small><sup>[[H6663]]</sup></small></small> &#8207;| Tza.dak.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will answer  | <span class="ashebrew"><big>אֶעֱנֶ֑ה </big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| 'e.'e.Neh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to judge my  | <span class="ashebrew"><big>לִ֝ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מְשֹׁפְטִ֗ </big></span><small><small><sup>[[H8199]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> m.sho.fe.T <small><sup>[[HVprmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will seek favor  | <span class="ashebrew"><big>אֶתְחַנָּֽן </big></span><small><small><sup>[[H2603A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'et.cha.Nan <small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [I] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am righteous  |**<big>&#8207;[[H6663\|צָ֭דַקְתִּי]]&#8207; </big>**| Tza.dak.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will answer  |**<big>&#8207;[[H6030B\|אֶעֱנֶ֑ה]]&#8207; </big>**| 'e.'e.Neh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to judge my  |**<big>&#8207;[[H9005\|לִ֝]]&#8207;&#8207;[[H8199\|מְשֹׁפְטִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.sho.fe.T<small><sup>[[HVprmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will seek favor  |**<big>&#8207;[[H2603A\|אֶתְחַנָּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'et.cha.Nan<small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.14|<< Job 9:14]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.16|Job 9:16 >>]]</td></tr></table>
 
 

@@ -7,26 +7,26 @@ Therefore I will wail and howl, I will go stripped and naked: I will make a wail
 Because of this I will lament and wail; I will walk barefoot and naked. I will howl like a jackal and mourn like an ostrich.<small><sub>**MT:**</sub></small>
 [[Mic.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.7|<< Micah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.9|Micah 1:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| she shall beat her chest | <big><span class="asgreek">κόψεται</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wail. | <big><span class="asgreek">θρηνήσει</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
-| She shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| barefoot | <big><span class="asgreek">ανυπόδετος</span></big> <sup><small><small>[[G6377]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| naked. | <big><span class="asgreek">γυμνή</span></big> <sup><small><small>[[G1131]]</small></small></sup> |
-| She shall make | <big><span class="asgreek">ποιήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| a beating of the breast | <big><span class="asgreek">κοπετόν</span></big> <sup><small><small>[[G2870]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dragons, | <big><span class="asgreek">δρακόντων</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mourning | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] daughters | <big><span class="asgreek">θυγατέρων</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of sirens. | <big><span class="asgreek">σειρήνων</span></big> <sup><small><small>[[G9063]]</small></small></sup> |
+| Because of | **<big>[[G1752\|ένεκεν]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| she shall beat her chest | **<big>[[G2875\|κόψεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wail. | **<big>[[G2354\|θρηνήσει]]</big>** |
+| She shall go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| barefoot | **<big>[[G6377\|ανυπόδετος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| naked. | **<big>[[G1131\|γυμνή]]</big>** |
+| She shall make | **<big>[[G4160\|ποιήσεται]]</big>** |
+| a beating of the breast | **<big>[[G2870\|κοπετόν]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dragons, | **<big>[[G1404\|δρακόντων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mourning | **<big>[[G3997\|πένθος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] daughters | **<big>[[G2364\|θυγατέρων]]</big>** |
+| of sirens. | **<big>[[G9063\|σειρήνων]]</big>** |
 [[Mic.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.7|<< Micah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.9|Micah 1:9 >>]]</td></tr></table>
 
 

@@ -6,11 +6,11 @@ A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.18|<< Psalms 88:18]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.1|Psalms 89:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a poem  | <span class="ashebrew"><big>מַ֝שְׂכִּ֗יל </big></span><small><small><sup>[[H4905]]</sup></small></small> &#8207;| mas.Kil <small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of Ethan  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>אֵיתָ֥ן </big></span><small><small><sup>[[H0387G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'ei.Tan <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Ezrachite  | <span class="ashebrew"><big>הָֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אֶזְרָחִֽי </big></span><small><small><sup>[[H0250]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ha. <small><sup>[[HTd]]</sup></small> 'ez.ra.Chi <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a poem  |**<big>&#8207;[[H4905\|מַ֝שְׂכִּ֗יל]]&#8207; </big>**| mas.Kil<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Ethan  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0387G\|אֵיתָ֥ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ei.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Ezrachite  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0250\|אֶזְרָחִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'ez.ra.Chi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.18|<< Psalms 88:18]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.1|Psalms 89:1 >>]]</td></tr></table>
 
 

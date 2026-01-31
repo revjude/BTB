@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎תַּרְשִׁישׁ‎</span></big> **Tarshîysh** <small>*(tar-sheesh')*</small> ==**Tarshish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably the same as <span class="ashebrew">‎תַּרְשִׁישׁ‎</span><sup><small>[[H8658]]</small></sup> (as the region of the stone, or the reverse)</small>
+**<big><span class="ashebrew">‎תַּרְשִׁישׁ‎</span></big>** **Tarshîysh** <small>*(tar-sheesh')*</small> ==**Tarshish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably the same as **<big>[[H8658|‎תַּרְשִׁישׁ‎]]</big>** (as the region of the stone, or the reverse)</small>
 
 $\quad$ Tarshish, Tharshish.
 - § Tarshish or Tharshish = *"yellow jasper"*

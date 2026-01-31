@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כְּלוּהַי‎</span></big> **Kᵉlûwhay** <small>*(kel-oo-hah'-ee)*</small> ==**Cheluhi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּלָה‎</span><sup><small>[[H3615]]</small></sup>; completed</small>
+**<big><span class="ashebrew">‎כְּלוּהַי‎</span></big>** **Kᵉlûwhay** <small>*(kel-oo-hah'-ee)*</small> ==**Cheluhi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3615|‎כָּלָה‎]]</big>**; completed</small>
 
 $\quad$ Chelluh.
 - § Chelluh = *"my accomplishment"*

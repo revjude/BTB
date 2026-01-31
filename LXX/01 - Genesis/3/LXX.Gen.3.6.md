@@ -11,43 +11,43 @@ When the woman saw that the tree was good for food and pleasing to the eyes, and
 > $\quad$ referenced by: [[1Tim.2.14|1Tim 2:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| beheld | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[is\] good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| food, | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[it is\] pleasing | <big><span class="asgreek">αρεστόν</span></big> <sup><small><small>[[G0701]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| to behold, | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| is beautiful | <big><span class="asgreek">ωραίόν</span></big> <sup><small><small>[[G5611]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for contemplating. | <big><span class="asgreek">κατανοήσαι</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having taken | <big><span class="asgreek">λαβούσα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fruit | <big><span class="asgreek">καρπού</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she ate, | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her husband | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they ate. | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| beheld | **<big>[[G1492\|είδεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| woman | **<big>[[G1135\|γυνή]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[is\] good | **<big>[[G2570\|καλόν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| tree | **<big>[[G3586\|ξύλον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| food, | **<big>[[G1035\|βρώσιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[it is\] pleasing | **<big>[[G0701\|αρεστόν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοίς]]</big>** |
+| to behold, | **<big>[[G1492\|ιδείν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| is beautiful | **<big>[[G5611\|ωραίόν]]</big>** **<big>[[G1510\|εστι]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| for contemplating. | **<big>[[G2657\|κατανοήσαι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| having taken | **<big>[[G2983\|λαβούσα]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| fruit | **<big>[[G2590\|καρπού]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| she ate, | **<big>[[G2068\|έφαγε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she gave | **<big>[[G1325\|έδωκε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| her husband | **<big>[[G0435\|ανδρί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they ate. | **<big>[[G2068\|έφαγον]]</big>** |
 [[Gen.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.5|<< Genesis 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.7|Genesis 3:7 >>]]</td></tr></table>
 
 

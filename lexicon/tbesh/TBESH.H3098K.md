@@ -1,3 +1,2 @@
-<span class="ashebrew">‎יוֹאָח‎</span> <small>***(yo.ach)***</small> ==**Joah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Divided Monarchy, first mentioned at [[2Chr.29.12|2Ch.29.12a]]
--  son of: Zimmah ([[H2155H]])
+-  son of: Zimmah (**<big>[[H2155H|זִמָּה]]</big>**)

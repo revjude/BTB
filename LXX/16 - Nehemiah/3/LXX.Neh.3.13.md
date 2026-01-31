@@ -7,38 +7,38 @@ The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, an
 The Valley Gate was repaired by Hanun and the residents of Zanoah. They rebuilt it, installed its doors, bolts, and bars, and repaired a thousand cubits of the wall as far as the Dung Gate.<small><sub>**MT:**</sub></small>
 [[Neh.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.12|<< Nehemiah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.14|Nehemiah 3:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravine | <big><span class="asgreek">φάραγγος</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
-| Hanun repaired, | <big><span class="asgreek">εκράτησαν</span></big> <sup><small><small>[[G2902]]</small></small></sup> <big><span class="asgreek">Ανούν</span></big> <sup><small><small>[[H2586]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ones dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| at Zanoah; | <big><span class="asgreek">Ζανώ</span></big> <sup><small><small>[[H2182]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| constructed | <big><span class="asgreek">ωκοδόμησαν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| set | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| its doors, | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its bolts, | <big><span class="asgreek">κλείθρα</span></big> <sup><small><small>[[G8017]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| its bars, | <big><span class="asgreek">μοχλούς</span></big> <sup><small><small>[[G8352]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a thousand | <big><span class="asgreek">χίλιοι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
-| cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
-| of | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχει</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| dung | <big><span class="asgreek">κοπρίας</span></big> <sup><small><small>[[G2874]]</small></small></sup> |
+| The | **<big>[[G3588\|την]]</big>** |
+| gate | **<big>[[G4439\|πύλην]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| ravine | **<big>[[G5327\|φάραγγος]]</big>** |
+| Hanun repaired, | **<big>[[G2902\|εκράτησαν]]</big>** **<big>[[H2586\|Ανούν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| ones dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
+| at Zanoah; | **<big>[[H2182\|Ζανώ]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| constructed | **<big>[[G3618\|ωκοδόμησαν]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| set | **<big>[[G2476\|έστησαν]]</big>** |
+| its doors, | **<big>[[G2374\|θύρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| its bolts, | **<big>[[G8017\|κλείθρα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| its bars, | **<big>[[G8352\|μοχλούς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a thousand | **<big>[[G5507\|χίλιοι]]</big>** |
+| cubits | **<big>[[G4083\|πήχεις]]</big>** |
+| of | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| wall | **<big>[[G5038\|τείχει]]</big>** |
+| unto | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| gate | **<big>[[G4439\|πύλης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| dung | **<big>[[G2874\|κοπρίας]]</big>** |
 [[Neh.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.12|<< Nehemiah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.14|Nehemiah 3:14 >>]]</td></tr></table>
 
 

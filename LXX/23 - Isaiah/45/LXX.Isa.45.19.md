@@ -7,33 +7,33 @@ I have not spoken in secret, in a dark place of the earth: I said not unto the s
 I have not spoken in secret, from a place in a land of darkness. I did not say to the descendants of Jacob, ‘Seek Me in a wasteland.’ I, the LORD, speak the truth; I say what is right.<small><sub>**MT:**</sub></small>
 [[Isa.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.18|<< Isaiah 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.20|Isaiah 45:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| secret | <big><span class="asgreek">κρυφή</span></big> <sup><small><small>[[G2931]]</small></small></sup> |
-| spoken | <big><span class="asgreek">λελάληκα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| of \[the\] earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[that is\] dark. | <big><span class="asgreek">σκοτεινώ</span></big> <sup><small><small>[[G4652]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| tell | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seed | <big><span class="asgreek">σπέρματι</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| a vain \[thing\] | <big><span class="asgreek">μάταιον</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| Seek | <big><span class="asgreek">ζητήσατε</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| speaking | <big><span class="asgreek">λαλών</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| righteousness, | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| announcing | <big><span class="asgreek">αναγγέλλων</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| truth. | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| not | **<big>[[G3756\|ουκ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| secret | **<big>[[G2931\|κρυφή]]</big>** |
+| spoken | **<big>[[G2980\|λελάληκα]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| a place | **<big>[[G5117\|τόπω]]</big>** |
+| of \[the\] earth | **<big>[[G1093\|γης]]</big>** |
+| \[that is\] dark. | **<big>[[G4652\|σκοτεινώ]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| tell | **<big>[[G2036\|είπα]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| seed | **<big>[[G4690\|σπέρματι]]</big>** |
+| of Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| a vain \[thing\] | **<big>[[G3152\|μάταιον]]</big>** |
+| Seek | **<big>[[G2212\|ζητήσατε]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| am | **<big>[[G1510\|ειμι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| speaking | **<big>[[G2980\|λαλών]]</big>** |
+| righteousness, | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| announcing | **<big>[[G0312\|αναγγέλλων]]</big>** |
+| truth. | **<big>[[G0225\|αλήθειαν]]</big>** |
 [[Isa.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.18|<< Isaiah 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.20|Isaiah 45:20 >>]]</td></tr></table>
 
 

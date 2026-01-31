@@ -6,15 +6,15 @@ In the time of evil they will not be ashamed, and in the days of famine they wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.18|<< Psalms 37:18]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.20|Psalms 37:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| not  | <span class="ashebrew"><big>לֹֽא </big></span><small><small><sup>[[H3808]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| lo'- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be ashamed  | <span class="ashebrew"><big>יֵ֭בֹשׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| Ye.vo.shu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a time  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֵ֣ת </big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'Et <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil  | <span class="ashebrew"><big>רָעָ֑ה </big></span><small><small><sup>[[H7451B]]</sup></small></small> &#8207;| ra.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in days of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בִ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>ימֵ֖י </big></span><small><small><sup>[[H3117G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> vi. <small><sup>[[HR]]</sup></small> Mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| famine  | <span class="ashebrew"><big>רְעָב֣וֹן </big></span><small><small><sup>[[H7459]]</sup></small></small> &#8207;| re.'a.Von <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be satisfied  | <span class="ashebrew"><big>יִשְׂבָּֽעוּ </big></span><small><small><sup>[[H7646]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yis.Ba.'u <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be ashamed  |**<big>&#8207;[[H0954\|יֵ֭בֹשׁוּ]]&#8207; </big>**| Ye.vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a time  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  |**<big>&#8207;[[H7451B\|רָעָ֑ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in days of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3117G\|ימֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| famine  |**<big>&#8207;[[H7459\|רְעָב֣וֹן]]&#8207; </big>**| re.'a.Von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be satisfied  |**<big>&#8207;[[H7646\|יִשְׂבָּֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yis.Ba.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.18|<< Psalms 37:18]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.20|Psalms 37:20 >>]]</td></tr></table>
 
 

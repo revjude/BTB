@@ -7,36 +7,36 @@ And he washed the inwards and the legs in water; and Moses burnt the whole ram u
 He washed the entrails and legs with water and burned the entire ram on the altar as a burnt offering, a pleasing aroma, a food offering to the LORD, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
 [[Lev.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.20|<< Leviticus 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.22|Leviticus 8:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| belly | <big><span class="asgreek">κοιλίαν</span></big> <sup><small><small>[[G2836]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
-| he washed | <big><span class="asgreek">έπλυνεν</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
-| in water. | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Moses offered up | <big><span class="asgreek">ανήνεγκε</span></big> <sup><small><small>[[G0399]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar. | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκαύτωμά</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| It is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of pleasant aroma; | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
-| a yield \[offering\] | <big><span class="asgreek">κάρπωμά</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
-| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| just as | <big><span class="asgreek">καθάπερ</span></big> <sup><small><small>[[G2509]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses. | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| belly | **<big>[[G2836\|κοιλίαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| feet | **<big>[[G4228\|πόδας]]</big>** |
+| he washed | **<big>[[G4150\|έπλυνεν]]</big>** |
+| in water. | **<big>[[G5204\|ύδατι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Moses offered up | **<big>[[G0399\|ανήνεγκε]]</big>** **<big>[[G3475\|Μωυσής]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| ram | **<big>[[G8096\|κριόν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar. | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| a whole burnt-offering | **<big>[[G3646\|ολοκαύτωμά]]</big>** |
+| It is | **<big>[[G1510\|εστιν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of pleasant aroma; | **<big>[[G2175\|ευωδίας]]</big>** |
+| a yield \[offering\] | **<big>[[G7806\|κάρπωμά]]</big>** |
+| it is | **<big>[[G1510\|εστι]]</big>** |
+| \[to the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| just as | **<big>[[G2509\|καθάπερ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> gave charge | **<big>[[G1781\|ενετείλατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Moses. | **<big>[[G3475\|Μωυσή]]</big>** |
 [[Lev.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.20|<< Leviticus 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.22|Leviticus 8:22 >>]]</td></tr></table>
 
 

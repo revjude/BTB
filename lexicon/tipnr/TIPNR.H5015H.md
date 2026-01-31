@@ -2,7 +2,7 @@
 
 Mount Nebo, also called Abarim, was the mountain from which Moses viewed the Promised Land before his death.
 - A location first mentioned at [[Jer.48.22|Deu.32.49]]; 
-- referred to as Nebo\_Mount<[[H5015H]]> \(<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ֹ\), or Abarim<[[H5682]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>\).
+- referred to as Nebo\_Mount **<big>[[H5015|נְבוֹ]]</big>**, or Abarim **<big>[[H5682|עֲבָרִים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.76135780447535,35.74614824478083&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Mount Nebo, also known as Abarim, was a mountain range east of the Jordan River 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| (Mount )Nebo | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ֹ](H5015H) <small>*Hebrew*</small> | 2x | [[Deu.32.49] & [Deu.34.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebo\*\|reference=Deu.32.49;Deu.34.1) |
-| Abarim | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H5682) <small>*Hebrew*</small> | 5x | [[Num.27.12] ... [Jer.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abarim\*\|reference=Num.27.12;Num.33.47;Num.33.48;Deu.32.49;Jer.22.20) |
-All Strong's for **Nebo_Mount or Abarim**: \[[[H5015H]]\] \[[[H5682]]\]
+| (Mount )Nebo | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>בו</span>ֹ](H5015H) | 2x | [[Deu.32.49] & [Deu.34.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebo\*\|reference=Deu.32.49;Deu.34.1) |
+| Abarim | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ים</span>](H5682) | 5x | [[Num.27.12] ... [Jer.22.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abarim\*\|reference=Num.27.12;Num.33.47;Num.33.48;Deu.32.49;Jer.22.20) |
+All entries for **Nebo Mount or Abarim**:  **<big>[[H5015|נְבוֹ]]</big>** ☩  **<big>[[H5682|עֲבָרִים]]</big>**

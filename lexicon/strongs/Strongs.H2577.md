@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲמָתִי‎</span></big> **Chămâthîy** <small>*(kham-aw-thee')*</small> ==**Hamathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎חֲמָת‎</span><sup><small>[[H2574]]</small></sup></small>
+**<big><span class="ashebrew">‎חֲמָתִי‎</span></big>** **Chămâthîy** <small>*(kham-aw-thee')*</small> ==**Hamathite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H2574|‎חֲמָת‎]]</big>**</small>
 
 $\quad$ Hamathite.
 - § Hamathite = *see Hamath*

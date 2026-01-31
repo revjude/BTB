@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲפֵק‎</span></big> **ʼĂphêq** <small>*(af-ake')*</small> ==**Aphek**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or <span class="ashebrew">אֲפִיק</span> **ʼĂphîyq** <small>*(af-eek')*</small>; from <span class="ashebrew">‎אָפַק‎</span><sup><small>[[H0662]]</small></sup> (in the sense of strength); fortress</small>
+**<big><span class="ashebrew">‎אֲפֵק‎</span></big>** **ʼĂphêq** <small>*(af-ake')*</small> ==**Aphek**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or **<big><span class="ashebrew">אֲפִיק</span></big>** **ʼĂphîyq** <small>*(af-eek')*</small>; from **<big>[[H0662|‎אָפַק‎]]</big>** (in the sense of strength); fortress</small>
 
 $\quad$ Aphek, Aphik.
 - § Aphek or Aphik = *"enclosure"*
@@ -9,4 +9,4 @@ $\quad$ Aphek, Aphik.
 **2)** a city in territory of Asher
 **3)** a city northeast of Beirut in Transjordan
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄφεσις</span><sup><small>[[G0859]]</small></sup> · <span class="asgreek">κῦμα</span><sup><small>[[G2949]]</small></sup> · <span class="asgreek">πηγή</span><sup><small>[[G4077]]</small></sup> · <span class="asgreek">πλευρά</span><sup><small>[[G4125]]</small></sup> · <span class="asgreek">πλήρωμα</span><sup><small>[[G4138]]</small></sup> · <span class="asgreek">φάραγξ</span><sup><small>[[G5327]]</small></sup> · <span class="asgreek">χείμαῤῥος</span><sup><small>[[G5493]]</small></sup>
+<small>See Greek: </small>**<big>[[G0859|ἄφεσις]]</big>** · **<big>[[G2949|κῦμα]]</big>** · **<big>[[G4077|πηγή]]</big>** · **<big>[[G4125|πλευρά]]</big>** · **<big>[[G4138|πλήρωμα]]</big>** · **<big>[[G5327|φάραγξ]]</big>** · **<big>[[G5493|χείμαῤῥος]]</big>**

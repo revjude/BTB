@@ -7,25 +7,25 @@ And he shall offer the one of the turtledoves, or of the young pigeons, such as 
 Then he must sacrifice the turtledoves or young pigeons, whichever he can afford,<small><sub>**MT:**</sub></small>
 [[Lev.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.29|<< Leviticus 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.31|Leviticus 14:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall offer | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turtle-doves, | <big><span class="asgreek">τρυγόνων</span></big> <sup><small><small>[[G5167]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| young ones | <big><span class="asgreek">νεοσσών</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| pigeons, | <big><span class="asgreek">περιστερών</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
-| in so far as | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
-| found | <big><span class="asgreek">εύρεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall offer | **<big>[[G4160\|ποιήσει]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| turtle-doves, | **<big>[[G5167\|τρυγόνων]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| young ones | **<big>[[G3502\|νεοσσών]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| pigeons, | **<big>[[G4058\|περιστερών]]</big>** |
+| in so far as | **<big>[[G2530\|καθότι]]</big>** |
+| found | **<big>[[G2147\|εύρεν]]</big>** |
+| his | **<big>[[G1473\|αυτού]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| hand | **<big>[[G5495\|χειρ]]</big>** |
 [[Lev.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.29|<< Leviticus 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.31|Leviticus 14:31 >>]]</td></tr></table>
 
 

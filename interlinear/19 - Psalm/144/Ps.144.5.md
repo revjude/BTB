@@ -6,15 +6,15 @@ Part Your heavens, O LORD, and come down; touch the mountains, that they may smo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.4|<< Psalms 144:4]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.6|Psalms 144:6 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O Yahweh  | <span class="ashebrew"><big>יְ֭הוָה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bend down  | <span class="ashebrew"><big>הַט </big></span><small><small><sup>[[H5186]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| hat- <small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heavens your  | <span class="ashebrew"><big>שָׁמֶ֣י </big></span><small><small><sup>[[H8064]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> &#8207;| sha.Mei. <small><sup>[[HNcmpc]]</sup></small> kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so you may come down  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תֵרֵ֑ד </big></span><small><small><sup>[[H3381]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> te.Red <small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| touch  | <span class="ashebrew"><big>גַּ֖ע </big></span><small><small><sup>[[H5060]]</sup></small></small> &#8207;| ga' <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> the mountains  | <span class="ashebrew"><big>בֶּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הָרִ֣ים </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| be. <small><sup>[[HRd]]</sup></small> ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so they may smoke  | <span class="ashebrew"><big>וְֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יֶעֱשָֽׁנוּ </big></span><small><small><sup>[[H6225]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ve. <small><sup>[[HC]]</sup></small> ye.'e.Sha.nu <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bend down  |**<big>&#8207;[[H5186\|הַט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hat-<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavens your  |**<big>&#8207;[[H8064\|שָׁמֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| sha.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so you may come down  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3381\|תֵרֵ֑ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> te.Red<small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| touch  |**<big>&#8207;[[H5060\|גַּ֖ע]]&#8207; </big>**| ga'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> the mountains  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H2022G\|הָרִ֣ים]]&#8207; </big>**| be.<small><sup>[[HRd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may smoke  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H6225\|יֶעֱשָֽׁנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ye.'e.Sha.nu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.4|<< Psalms 144:4]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.6|Psalms 144:6 >>]]</td></tr></table>
 
 

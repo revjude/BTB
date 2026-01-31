@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Caesarea</span> was a coastal city in Judea that served as a center of Roman administration.
 - A location first mentioned at [[Josh.19.27|Act.8.40]]; 
-- only referred to as Caesarea<[[G2542H]]> \(<span class='tipnrLangGreek'>Καισάρεια</span>\).
+- only referred to as Caesarea **<big>[[G2542|Καισάρεια]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.499544608298,34.89218497556097&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ Caesarea was known for its impressive harbor, which was constructed using advanc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Caesarea | [<span class='tipnrLangGreek'>Καισάρεια</span>](G2542H) <small>*Greek*</small> | 15x | [[Act.8.40] ... [Act.25.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesarea\*\|reference=Act.8.40;Act.9.30;Act.10.1;Act.10.24;Act.11.11;Act.12.19;Act.18.22;Act.21.8;Act.21.16;Act.23.23;Act.23.33;Act.25.1;Act.25.4;Act.25.6;Act.25.13) |
-All Strong's for **Caesarea**: \[[[G2542H]]\]
+| Caesarea | [<span class='tipnrLangGreek'>Καισάρεια</span>](G2542H) | 15x | [[Act.8.40] ... [Act.25.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesarea\*\|reference=Act.8.40;Act.9.30;Act.10.1;Act.10.24;Act.11.11;Act.12.19;Act.18.22;Act.21.8;Act.21.16;Act.23.23;Act.23.33;Act.25.1;Act.25.4;Act.25.6;Act.25.13) |
+All entries for **Caesarea**:  **<big>[[G2542|Καισάρεια]]</big>**

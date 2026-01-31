@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֹצֶם‎</span></big> **ʻôtsem** <small>*(o'-tsem)*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎עָצַם‎</span><sup><small>[[H6105]]</small></sup></small>
+**<big><span class="ashebrew">‎עֹצֶם‎</span></big>** **ʻôtsem** <small>*(o'-tsem)*</small> ==**strength**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H6105|‎עָצַם‎]]</big>**</small>
 
 $\quad$ might, strong, substance.
 - ***power***

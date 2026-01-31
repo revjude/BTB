@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎Ταβέρναι‎</span></big> **Tabérnai** <small>*(tab-er'-nahee)*</small> ==**Taverns**==  <sup><small>[[TEGMC#N:N-F-L|N:N-F-L]]</small></sup> 
+**<big><span class="asgreek">‎Ταβέρναι‎</span></big>** **Tabérnai** <small>*(tab-er'-nahee)*</small> ==**Taverns**==  <sup><small>[[TEGMC#N:N-F-L|N:N-F-L]]</small></sup> 
 <small>plural of Latin origin</small>
 
 $\quad$ taverns.

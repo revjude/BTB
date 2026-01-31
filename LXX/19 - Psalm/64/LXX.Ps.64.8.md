@@ -7,17 +7,17 @@ So they shall make their own tongue to fall upon themselves: all that see them s
 They will be made to stumble, their own tongues turned against them. All who see will shake their heads.<small><sub>**MT:**</sub></small>
 [[Ps.64.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.7|<< Psalm 64:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.9|Psalm 64:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| treated him with contempt | <big><span class="asgreek">εξουθένησαν</span></big> <sup><small><small>[[G1848]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tongues | <big><span class="asgreek">γλώσσαι</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were disturbed | <big><span class="asgreek">εταράχθησαν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
-| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| viewing | <big><span class="asgreek">θεωρούντες</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| treated him with contempt | **<big>[[G1848\|εξουθένησαν]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|αι]]</big>** |
+| their tongues | **<big>[[G1100\|γλώσσαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| were disturbed | **<big>[[G5015\|εταράχθησαν]]</big>** |
+| All | **<big>[[G3956\|πάντες]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| viewing | **<big>[[G2334\|θεωρούντες]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
 [[Ps.64.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.7|<< Psalm 64:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.9|Psalm 64:9 >>]]</td></tr></table>
 
 

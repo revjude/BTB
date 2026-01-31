@@ -7,23 +7,23 @@ But the fields of the city, and the villages thereof, gave they to Caleb the son
 But they had given the fields and villages around the city to Caleb son of Jephunneh as his possession.<small><sub>**MT:**</sub></small>
 [[Josh.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.11|<< Joshua 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.13|Joshua 21:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fields | <big><span class="asgreek">αγρούς</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her towns | <big><span class="asgreek">κώμας</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Joshua gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
-| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Jephunneh | <big><span class="asgreek">Ιεφωνή</span></big> <sup><small><small>[[H3312]]</small></small></sup> |
-| for | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| his possession. | <big><span class="asgreek">κατασχέσει</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| fields | **<big>[[G0068\|αγρούς]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city, | **<big>[[G4172\|πόλεως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her towns | **<big>[[G2968\|κώμας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| Joshua gave | **<big>[[G1325\|έδωκεν]]</big>** **<big>[[H3091\|Ιησούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| to Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
+| son | **<big>[[G5207\|υιώ]]</big>** |
+| of Jephunneh | **<big>[[H3312\|Ιεφωνή]]</big>** |
+| for | **<big>[[G1722\|εν]]</big>** |
+| his possession. | **<big>[[G2697\|κατασχέσει]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Josh.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.11|<< Joshua 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.13|Joshua 21:13 >>]]</td></tr></table>
 
 

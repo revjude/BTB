@@ -7,25 +7,25 @@ That all flesh may know that I the LORD have drawn forth my sword out of his she
 Then all flesh will know that I, the LORD, have taken My sword from its sheath, not to return it again.’<small><sub>**MT:**</sub></small>
 [[Ezek.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.4|<< Ezekiel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.6|Ezekiel 21:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall realize | <big><span class="asgreek">επιγνώσεται</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| pulled out | <big><span class="asgreek">εξέσπασα</span></big> <sup><small><small>[[G7145]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my knife | <big><span class="asgreek">εγχειρίδιον</span></big> <sup><small><small>[[G7038]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its sheath; | <big><span class="asgreek">κολεού</span></big> <sup><small><small>[[G8051]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| turn back | <big><span class="asgreek">αποστρέψει</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| any longer. | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall realize | **<big>[[G1921\|επιγνώσεται]]</big>** |
+| all | **<big>[[G3956\|πάσα]]</big>** |
+| flesh | **<big>[[G4561\|σαρξ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| pulled out | **<big>[[G7145\|εξέσπασα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my knife | **<big>[[G7038\|εγχειρίδιον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| its sheath; | **<big>[[G8051\|κολεού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not | **<big>[[G3756\|ουκ]]</big>** |
+| turn back | **<big>[[G0654\|αποστρέψει]]</big>** |
+| any longer. | **<big>[[G3765\|ουκέτι]]</big>** |
 [[Ezek.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.4|<< Ezekiel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.6|Ezekiel 21:6 >>]]</td></tr></table>
 
 

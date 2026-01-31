@@ -7,19 +7,19 @@ KOPH. I cried with [my] whole heart; hear me, O LORD: I will keep thy statutes.
 I call with all my heart; answer me, O LORD! I will obey Your statutes.<small><sub>**MT:**</sub></small>
 [[Ps.119.145|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.144|<< Psalm 119:144]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.146|Psalm 119:146 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I cried out | <big><span class="asgreek">εκέκραξα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| whole | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Heed | <big><span class="asgreek">επάκουσόν</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
-| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your ordinances | <big><span class="asgreek">δικαιώματά</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I will seek after | <big><span class="asgreek">εκζητήσω</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| I cried out | **<big>[[G2896\|εκέκραξα]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| whole | **<big>[[G3650\|όλη]]</big>** |
+| heart | **<big>[[G2588\|καρδία]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| Heed | **<big>[[G1873\|επάκουσόν]]</big>** |
+| me, | **<big>[[G1473\|μου]]</big>** |
+| O <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your ordinances | **<big>[[G1345\|δικαιώματά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| I will seek after | **<big>[[G1567\|εκζητήσω]]</big>** |
 [[Ps.119.145|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.144|<< Psalm 119:144]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.146|Psalm 119:146 >>]]</td></tr></table>
 
 

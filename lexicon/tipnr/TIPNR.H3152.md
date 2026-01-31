@@ -4,16 +4,16 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Izliah</span> was a Benjamite, one of the sons of Elpaal.
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.18|1Ch.8.18]]; 
-- only referred to as Izliah<[[H3152]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
--  son of Elpaal<[[H0508]]>; 
-- a brother of Eber<[[H5677I]]>, Misham<[[H4936]]>, Shemed<[[H8106B]]>, Beriah<[[H1283I]]>, Shema<[[H8087I]]>, Zebadiah<[[H2069H]]>, Meshullam<[[H4918J]]>, Hizki<[[H2395]]>, Heber<[[H2268J]]>, Ishmerai<[[H3461]]> and Jobab<[[H3103K]]>.
+- only referred to as Izliah **<big>[[H3152|יִזְלִיאָה]]</big>**; 
+-  son of Elpaal **<big>[[H0508|אֶלְפַּעַל]]</big>**; 
+- a brother of Eber **<big>[[H5677|עֵבֵר]]</big>**, Misham **<big>[[H4936|מִשְׁעָם]]</big>**, Shemed **<big>[[H8106|שֶׁמֶר]]</big>**, Beriah **<big>[[H1283|בְּרִיעָה]]</big>**, Shema **<big>[[H8087|שֶׁמַע]]</big>**, Zebadiah **<big>[[H2069|זְבַדְיָה]]</big>**, Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Hizki **<big>[[H2395|חִזְקִי]]</big>**, Heber **<big>[[H2268|חֶבֶר]]</big>**, Ishmerai **<big>[[H3461|יִשְׁמְרַי]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Izliah is mentioned briefly in [[1Chr.8.18|1 Chronicles 8:18]] as one of the sons of Elpaal, a Benjamite. He is listed among the descendants of Benjamin who lived in Jerusalem. The name Izliah means "God delivers" in Hebrew. No further details about Izliah's life or role are provided in the Bible. His mention in the genealogy of Benjamin suggests that he was part of the Benjamite clan that resided in Jerusalem, but his specific contributions or significance are not recorded in the biblical text.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Izliah (KJV= Jezliah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3152) <small>*Hebrew*</small> | 1x | [1Ch.8.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Izliah\*\|reference=1Ch.8.18) |
-All Strong's for **Izliah**: \[[[H3152]]\]
+| Izliah (KJV= Jezliah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יא</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3152) | 1x | [1Ch.8.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Izliah\*\|reference=1Ch.8.18) |
+All entries for **Izliah**:  **<big>[[H3152|יִזְלִיאָה]]</big>**
 #### Related Profiles:
 - **[Elpaal](H0508)** (father)
 - **[Eber](H5677I)** (sibling)

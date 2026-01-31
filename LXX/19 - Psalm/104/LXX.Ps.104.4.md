@@ -11,18 +11,18 @@ He makes the winds His messengers, flames of fire His servants.<small><sub>**MT
 > $\quad$ referenced by: [[Heb.1.7|Heb 1:7]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| making | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his angels | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| winds, | <big><span class="asgreek">πνεύματα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his ministers | <big><span class="asgreek">λειτουργούς</span></big> <sup><small><small>[[G3011]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλόγα</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| making | **<big>[[G4160\|ποιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his angels | **<big>[[G0032\|αγγέλους]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| winds, | **<big>[[G4151\|πνεύματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| his ministers | **<big>[[G3011\|λειτουργούς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of fire | **<big>[[G4442\|πυρός]]</big>** |
+| a flame | **<big>[[G5395\|φλόγα]]</big>** |
 [[Ps.104.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.3|<< Psalm 104:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.5|Psalm 104:5 >>]]</td></tr></table>
 
 

@@ -7,32 +7,32 @@ Declare ye among the nations, and publish, and set up a standard; publish, [and]
 “Announce and declare to the nations; lift up a banner and proclaim it; hold nothing back when you say, ‘Babylon is captured; Bel is put to shame; Marduk is shattered, her images are disgraced, her idols are broken in pieces.’<small><sub>**MT:**</sub></small>
 [[Jer.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.1|<< Jeremiah 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.3|Jeremiah 50:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Announce | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations, | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| audible | <big><span class="asgreek">ακουστά</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| make \[it\] | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| Lift up | <big><span class="asgreek">άρατε</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| a sign | <big><span class="asgreek">σημείον</span></big> <sup><small><small>[[G4592]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| audible | <big><span class="asgreek">ακουστόν</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
-| make \[it\] | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you should not hide \[it\]. | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">κρύψητε</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
-| Say! | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Babylon is captured. | <big><span class="asgreek">εάλωκε</span></big> <sup><small><small>[[G6226]]</small></small></sup> <big><span class="asgreek">Βαβυλών</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| Bel was disgraced. | <big><span class="asgreek">κατησχύνθη</span></big> <sup><small><small>[[G2617]]</small></small></sup> <big><span class="asgreek">Βήλ</span></big> <sup><small><small>[[H1078]]</small></small></sup> |
-| Merodach was delivered up. | <big><span class="asgreek">παρεδόθη</span></big> <sup><small><small>[[G3860]]</small></small></sup> <big><span class="asgreek">Μαιρωδάχ</span></big> <sup><small><small>[[H1255]]</small></small></sup> |
-| were shamed | <big><span class="asgreek">ησχύνθησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their carvings | <big><span class="asgreek">γλυπτά</span></big> <sup><small><small>[[G6745]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| were delivered up | <big><span class="asgreek">παρεδόθη</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Their idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Announce | **<big>[[G0312\|αναγγείλατε]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| nations, | **<big>[[G1484\|έθνεσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| audible | **<big>[[G6200\|ακουστά]]</big>** |
+| make \[it\] | **<big>[[G4160\|ποιήσατε]]</big>** |
+| Lift up | **<big>[[G0142\|άρατε]]</big>** |
+| a sign | **<big>[[G4592\|σημείον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| audible | **<big>[[G6200\|ακουστόν]]</big>** |
+| make \[it\] | **<big>[[G4160\|ποιήσατε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you should not hide \[it\]. | **<big>[[G3361\|μη]]</big>** **<big>[[G2928\|κρύψητε]]</big>** |
+| Say! | **<big>[[G2036\|είπατε]]</big>** |
+| Babylon is captured. | **<big>[[G6226\|εάλωκε]]</big>** **<big>[[G0897\|Βαβυλών]]</big>** |
+| Bel was disgraced. | **<big>[[G2617\|κατησχύνθη]]</big>** **<big>[[H1078\|Βήλ]]</big>** |
+| Merodach was delivered up. | **<big>[[G3860\|παρεδόθη]]</big>** **<big>[[H1255\|Μαιρωδάχ]]</big>** |
+| were shamed | **<big>[[G0153\|ησχύνθησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their carvings | **<big>[[G6745\|γλυπτά]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| were delivered up | **<big>[[G3860\|παρεδόθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| Their idols | **<big>[[G1497\|είδωλα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Jer.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.1|<< Jeremiah 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.3|Jeremiah 50:3 >>]]</td></tr></table>
 
 

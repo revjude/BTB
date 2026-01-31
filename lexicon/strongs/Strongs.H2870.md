@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טָבְאֵל‎</span></big> **ṭâbᵉʼêl** <small>*(taw-beh-ale')*</small> ==**Tabeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎טוֹב‎</span><sup><small>[[H2895]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; pleasing (to) God</small>
+**<big><span class="ashebrew">‎טָבְאֵל‎</span></big>** **ṭâbᵉʼêl** <small>*(taw-beh-ale')*</small> ==**Tabeel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2895|‎טוֹב‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; pleasing (to) God</small>
 
 $\quad$ Tabeal, Tabeel.
 - § Tabeel = *"God is good"*

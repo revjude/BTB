@@ -4,8 +4,8 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Igdaliah</span>, a man of God, was associated with a chamber in the house of the Lord during the time of the prophet Jeremiah.
 - A man living at the time of Divided Monarchy, only mentioned at [[Jer.35.4|Jer.35.4]]; 
-- only referred to as Igdaliah<[[H3012]]> \(<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ\); 
--  father of Hanan<[[H2605O]]>.
+- only referred to as Igdaliah **<big>[[H3012|יִגְדַּלְיָהוּ]]</big>**; 
+-  father of Hanan **<big>[[H2605|חָנָן]]</big>**.
 
 Igdaliah is mentioned in [[Jer.35.4|Jeremiah 35:4]] as a man of God during the time of the prophet Jeremiah. He is described as having a chamber in the upper court of the house of the Lord, near the chamber of the officials. 
 
@@ -15,7 +15,7 @@ Jeremiah brings the Rechabites to the chamber of Igdaliah, which is described as
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Igdaliah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3012) <small>*Hebrew*</small> | 1x | [Jer.35.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igdaliah\*\|reference=Jer.35.4) |
-All Strong's for **Igdaliah**: \[[[H3012]]\]
+| Igdaliah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3012) | 1x | [Jer.35.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igdaliah\*\|reference=Jer.35.4) |
+All entries for **Igdaliah**:  **<big>[[H3012|יִגְדַּלְיָהוּ]]</big>**
 #### Related Profiles:
 - **[Hanan](H2605O)** (child)

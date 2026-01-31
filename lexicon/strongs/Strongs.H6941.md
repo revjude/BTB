@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְדֹרַנִּית‎</span></big> **qᵉdôrannîyth** <small>*(ked-o-ran-neeth')*</small> ==**mournfully**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>adverb from <span class="ashebrew">‎קָדַר‎</span><sup><small>[[H6937]]</small></sup></small>
+**<big><span class="ashebrew">‎קְדֹרַנִּית‎</span></big>** **qᵉdôrannîyth** <small>*(ked-o-ran-neeth')*</small> ==**mournfully**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>adverb from **<big>[[H6937|‎קָדַר‎]]</big>**</small>
 
 $\quad$ mournfully.
 - ***blackish ones*** (i.e. in sackcloth)

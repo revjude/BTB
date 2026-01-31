@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁחַח‎</span></big> **shâchach** <small>*(shaw-khakh')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁחַח‎</span></big>** **shâchach** <small>*(shaw-khakh')*</small> ==**to bow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bend, bow (down), bring (cast) down, couch, humble self, be (bring) low, stoop.
@@ -14,4 +14,4 @@ $\quad$ **1b)** (Niphal) to be prostrated, be humbled, be reduced, be weakened, 
 $\quad$ **1c)** (Hiphil) to prostrate, lay low, bow down
 $\quad$ **1d)** (Hithpolel) to be cast down, be despairing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δύνω</span><sup><small>[[G1416]]</small></sup> · <span class="asgreek">κακόω</span><sup><small>[[G2559]]</small></sup> · <span class="asgreek">κάμπτω</span><sup><small>[[G2578]]</small></sup> · <span class="asgreek">κατάγω</span><sup><small>[[G2609]]</small></sup> · <span class="asgreek">κύπτω</span><sup><small>[[G2955]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">ταράσσω</span><sup><small>[[G5015]]</small></sup> · <span class="asgreek">τήκω</span><sup><small>[[G5080]]</small></sup>
+<small>See Greek: </small>**<big>[[G1416|δύνω]]</big>** · **<big>[[G2559|κακόω]]</big>** · **<big>[[G2578|κάμπτω]]</big>** · **<big>[[G2609|κατάγω]]</big>** · **<big>[[G2955|κύπτω]]</big>** · **<big>[[G5013|ταπεινόω]]</big>** · **<big>[[G5015|ταράσσω]]</big>** · **<big>[[G5080|τήκω]]</big>**

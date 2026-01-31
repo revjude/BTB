@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַבִּיר‎</span></big> **ʼabbîyr** <small>*(ab-beer')*</small> ==**mighty: ox**==  <sup><small>[[TEHMC#H:A-M|H:A-M]]</small></sup> 
-<small>for <span class="ashebrew">‎אָבִיר‎</span><sup><small>[[H0046]]</small></sup></small>
+**<big><span class="ashebrew">‎אַבִּיר‎</span></big>** **ʼabbîyr** <small>*(ab-beer')*</small> ==**mighty: ox**==  <sup><small>[[TEHMC#H:A-M|H:A-M]]</small></sup> 
+<small>for **<big>[[H0046|‎אָבִיר‎]]</big>**</small>
 
 $\quad$ angel, bull, chiefest, mighty (one), stout(-hearted), strong (one), valiant.
 - {***mighty*** (spoken of God)}
@@ -14,4 +14,4 @@ $\quad$ $\quad$ **1d2)** of princes
 $\quad$ $\quad$ **1d3)** of sacrificial objects
 $\quad$ **1e)** obstinate (fig.)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀδύνατος</span><sup><small>[[G0102]]</small></sup> · <span class="asgreek">δυνάστης</span><sup><small>[[G1413]]</small></sup> · <span class="asgreek">θεός</span><sup><small>[[G2316]]</small></sup> · <span class="asgreek">ἰσχύς</span><sup><small>[[G2479]]</small></sup> · <span class="asgreek">ἰσχύω</span><sup><small>[[G2480]]</small></sup>
+<small>See Greek: </small>**<big>[[G0102|ἀδύνατος]]</big>** · **<big>[[G1413|δυνάστης]]</big>** · **<big>[[G2316|θεός]]</big>** · **<big>[[G2479|ἰσχύς]]</big>** · **<big>[[G2480|ἰσχύω]]</big>**

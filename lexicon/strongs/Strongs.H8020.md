@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎שַׁלְמַן‎</span></big> **Shalman** <small>*(shal-man')*</small> ==**Shalman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שַׁלְמַן‎</span></big>** **Shalman** <small>*(shal-man')*</small> ==**Shalman**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>of foreign derivation</small>
 
-$\quad$ Shalman. Compare <span class="ashebrew">‎שַׁלְמַנְאֶסֶר‎</span><sup><small>[[H8022]]</small></sup>.
+$\quad$ Shalman. Compare **<big>[[H8022|‎שַׁלְמַנְאֶסֶר‎]]</big>**.
 - § Shalman = *"fire-worshipper"*
 - ***Shalman***, a king apparently of Assyria
 

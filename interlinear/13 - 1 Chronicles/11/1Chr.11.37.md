@@ -6,13 +6,13 @@ Hezro the Carmelite, Naarai son of Ezbai,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.36|<< 1 Chronicles 11:36]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.38|1 Chronicles 11:38 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Hezro  | <span class="ashebrew"><big>חֶצְרוֹ֙ </big></span><small><small><sup>[[H2695]]</sup></small></small> &#8207;| chetz.Ro <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Carmelite  | <span class="ashebrew"><big>הַֽ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כַּרְמְלִ֔י </big></span><small><small><sup>[[H3761]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> kar.me.Li <small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Naarai  | <span class="ashebrew"><big>נַעֲרַ֖י </big></span><small><small><sup>[[H5293]]</sup></small></small> &#8207;| na.'a.Rai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ezbai  | <span class="ashebrew"><big>אֶזְבָּֽי </big></span><small><small><sup>[[H0229]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| 'ez.Bai <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezro  |**<big>&#8207;[[H2695\|חֶצְרוֹ֙]]&#8207; </big>**| chetz.Ro<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Carmelite  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3761\|כַּרְמְלִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kar.me.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naarai  |**<big>&#8207;[[H5293\|נַעֲרַ֖י]]&#8207; </big>**| na.'a.Rai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ezbai  |**<big>&#8207;[[H0229\|אֶזְבָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ez.Bai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.36|<< 1 Chronicles 11:36]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.38|1 Chronicles 11:38 >>]]</td></tr></table>
 
 

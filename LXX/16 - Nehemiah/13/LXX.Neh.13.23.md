@@ -7,21 +7,21 @@ In those days also saw I Jews [that] had married wives of Ashdod, of Ammon, [and
 In those days I also saw Jews who had married women from Ashdod, Ammon, and Moab.<small><sub>**MT:**</sub></small>
 [[Neh.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.22|<< Nehemiah 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.24|Nehemiah 13:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| those days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jews | <big><span class="asgreek">Ιουδαίους</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
-| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| settled | <big><span class="asgreek">εκάθισαν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
-| with wives | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| of Ashdod, | <big><span class="asgreek">Αζωτίας</span></big> <sup><small><small>[[G0108]]</small></small></sup> |
-| of Ammon, | <big><span class="asgreek">Αμμανίτιδας</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| \[and\] Moab. | <big><span class="asgreek">Μωαβίτιδας</span></big> <sup><small><small>[[H4124]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| those days | **<big>[[G2250\|ημέραις]]</big>** **<big>[[G1565\|εκείναις]]</big>** |
+| I saw | **<big>[[G1492\|είδον]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| Jews | **<big>[[G2453\|Ιουδαίους]]</big>** |
+| who | **<big>[[G3739\|οι]]</big>** |
+| settled | **<big>[[G2523\|εκάθισαν]]</big>** |
+| with wives | **<big>[[G1135\|γυναίκας]]</big>** |
+| of Ashdod, | **<big>[[G0108\|Αζωτίας]]</big>** |
+| of Ammon, | **<big>[[H5983\|Αμμανίτιδας]]</big>** |
+| \[and\] Moab. | **<big>[[H4124\|Μωαβίτιδας]]</big>** |
 [[Neh.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.22|<< Nehemiah 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.24|Nehemiah 13:24 >>]]</td></tr></table>
 
 

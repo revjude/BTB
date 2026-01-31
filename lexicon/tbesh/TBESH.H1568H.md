@@ -1,5 +1,4 @@
-<span class="ashebrew">‎גִּלְעָד‎</span> <small>***(gil.ad)***</small> ==**Gilead**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Manasseh living at the time of Egypt and Wilderness, first mentioned at [[Num.26.29|Num.26.29]]
--  son of: Machir ([[H4353]])
--  brother of: daughter\_of\_Machir ([[H4353I]]), Peresh ([[H6570]]), Sheresh ([[H8329]]) and Hammolecheth ([[H4447]])
--  father of: Abiezer ([[H0044I]]), Helek ([[H2507]]), Asriel ([[H0844]]), Shechem ([[H7928]]), Shemida ([[H8061]]) and Hepher ([[H2660A]])
+-  son of: Machir (**<big>[[H4353|מָכִיר]]</big>**)
+-  brother of: daughter\_of\_Machir (**<big>[[H4353I|מָכִיר]]</big>**), Peresh (**<big>[[H6570|פֶּרֶשׁ]]</big>**), Sheresh (**<big>[[H8329|שֶׁרֶשׁ]]</big>**) and Hammolecheth (**<big>[[H4447|מֹלֶכֶת]]</big>**)
+-  father of: Abiezer (**<big>[[H0044I|אֲבִיעֶזֶר]]</big>**), Helek (**<big>[[H2507|חֵלֶק]]</big>**), Asriel (**<big>[[H0844|אַשְׂרִיאֵל]]</big>**), Shechem (**<big>[[H7928|שֶׁכֶם]]</big>**), Shemida (**<big>[[H8061|שְׁמִידָע]]</big>**) and Hepher (**<big>[[H2660A|חֵפֶר]]</big>**)

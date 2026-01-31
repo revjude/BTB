@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּנַס‎</span></big> **kânaç** <small>*(kaw-nas')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּנַס‎</span></big>** **kânaç** <small>*(kaw-nas')*</small> ==**to gather**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ gather (together), heap up, wrap self.
@@ -10,4 +10,4 @@ $\quad$ **1a)** (Qal) to gather
 $\quad$ **1b)** (Piel) to gather
 $\quad$ **1c)** (Hithpael) to gather together, wrap oneself up
 
-<sub><small>See Greek: </small></sub><span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup>
+<small>See Greek: </small>**<big>[[G4863|συνάγω]]</big>**

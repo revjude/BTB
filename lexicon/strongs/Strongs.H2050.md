@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎הָתַת‎</span></big> **hâthath** <small>*(haw-thath')*</small> ==**to plot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎הָתַת‎</span></big>** **hâthath** <small>*(haw-thath')*</small> ==**to plot**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ imagine mischief. w

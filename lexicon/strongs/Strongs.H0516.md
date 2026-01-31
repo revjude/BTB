@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַל תַּשְׁחֵת‎</span></big> **ʼAl tashchêth** <small>*(al tash-kayth')*</small> ==**Do Not Destroy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎אַל‎</span><sup><small>[[H0408]]</small></sup> and <span class="ashebrew">‎שָׁחַת‎</span><sup><small>[[H7843]]</small></sup></small>
+**<big><span class="ashebrew">‎אַל תַּשְׁחֵת‎</span></big>** **ʼAl tashchêth** <small>*(al tash-kayth')*</small> ==**Do Not Destroy**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H0408|‎אַל‎]]</big>** and **<big>[[H7843|‎שָׁחַת‎]]</big>**</small>
 
 $\quad$ Al-taschith.
 - § Al-taschith = *"do not destroy"*

@@ -7,20 +7,20 @@ For a voice declareth from Dan, and publisheth affliction from mount Ephraim.
 For a voice resounds from Dan, proclaiming disaster from the hills of Ephraim.<small><sub>**MT:**</sub></small>
 [[Jer.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.14|<< Jeremiah 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.16|Jeremiah 4:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| a voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
-| of one announcing | <big><span class="asgreek">αναγγέλλοντος</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Dan | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
-| shall come; | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be heard | <big><span class="asgreek">ακουσθήσεται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| \[the\] misery | <big><span class="asgreek">πόνος</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| Because | **<big>[[G1360\|διότι]]</big>** |
+| a voice | **<big>[[G5456\|φωνή]]</big>** |
+| of one announcing | **<big>[[G0312\|αναγγέλλοντος]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Dan | **<big>[[H1835\|Δαν]]</big>** |
+| shall come; | **<big>[[G2240\|ήξει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be heard | **<big>[[G0191\|ακουσθήσεται]]</big>** |
+| \[the\] misery | **<big>[[G4192\|πόνος]]</big>** |
+| from out of | **<big>[[G1537\|εξ]]</big>** |
+| mount | **<big>[[G3735\|όρους]]</big>** |
+| Ephraim | **<big>[[G2187\|Εφραϊμ]]</big>** |
 [[Jer.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.14|<< Jeremiah 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.16|Jeremiah 4:16 >>]]</td></tr></table>
 
 

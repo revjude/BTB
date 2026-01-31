@@ -7,16 +7,16 @@ Trouble and anguish shall make him afraid; they shall prevail against him, as a 
 Distress and anguish terrify him, overwhelming him like a king poised to attack.<small><sub>**MT:**</sub></small>
 [[Job.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.23|<< Job 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.25|Job 15:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And distress | <big><span class="asgreek">ανάγκη</span></big> <sup><small><small>[[G0318]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| affliction | <big><span class="asgreek">θλίψις</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
-| shall hold him down. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">καθέξει</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
-| \[is\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a commandant | <big><span class="asgreek">στρατηγός</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
-| of \[the\] front rank | <big><span class="asgreek">πρωτοστάτης</span></big> <sup><small><small>[[G4414]]</small></small></sup> |
-| \[His\] falling down | <big><span class="asgreek">πίπτων</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| And distress | **<big>[[G0318\|ανάγκη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| affliction | **<big>[[G2347\|θλίψις]]</big>** |
+| shall hold him down. | **<big>[[G1473\|αυτόν]]</big>** **<big>[[G2722\|καθέξει]]</big>** |
+| \[is\] as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a commandant | **<big>[[G4755\|στρατηγός]]</big>** |
+| of \[the\] front rank | **<big>[[G4414\|πρωτοστάτης]]</big>** |
+| \[His\] falling down | **<big>[[G4098\|πίπτων]]</big>** |
 [[Job.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.23|<< Job 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.25|Job 15:25 >>]]</td></tr></table>
 
 

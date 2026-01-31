@@ -6,23 +6,23 @@ The waters of Dimon are full of blood, but I will bring more upon Dimon—a lion
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.8|<< Isaiah 15:8]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.1|Isaiah 16:1 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] waters of  | <span class="ashebrew"><big>מֵ֤י </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dimon  | <span class="ashebrew"><big>דִימוֹן֙ </big></span><small><small><sup>[[H1775]]</sup></small></small> &#8207;| di.mOn <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are full  | <span class="ashebrew"><big>מָ֣לְאוּ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| Mal.'u <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood  | <span class="ashebrew"><big>דָ֔ם </big></span><small><small><sup>[[H1818]]</sup></small></small> &#8207;| Dam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will put  | <span class="ashebrew"><big>אָשִׁ֥ית </big></span><small><small><sup>[[H7896H]]</sup></small></small> &#8207;| 'a.Shit <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dimon  | <span class="ashebrew"><big>דִּימ֖וֹן </big></span><small><small><sup>[[H1775]]</sup></small></small> &#8207;| di.Mon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| added [things]  | <span class="ashebrew"><big>נוֹסָפ֑וֹת </big></span><small><small><sup>[[H3254H]]</sup></small></small> &#8207;| no.sa.Fot <small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] for [the] escaped remnant of  | <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>פְלֵיטַ֤ת </big></span><small><small><sup>[[H6413]]</sup></small></small> &#8207;| li <small><sup>[[HR]]</sup></small> f.lei.Tat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moab  | <span class="ashebrew"><big>מוֹאָב֙ </big></span><small><small><sup>[[H4124G]]</sup></small></small> &#8207;| mo.'Av <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a lion  | <span class="ashebrew"><big>אַרְיֵ֔ה </big></span><small><small><sup>[[H0738B]]</sup></small></small> &#8207;| 'ar.Yeh <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for [the] remainder of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לִ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שְׁאֵרִ֖ית </big></span><small><small><sup>[[H7611]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> li <small><sup>[[HR]]</sup></small> sh.'e.Rit <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] land  | <span class="ashebrew"><big>אֲדָמָֽה </big></span><small><small><sup>[[H0127G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.da.Mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] waters of  |**<big>&#8207;[[H4325G\|מֵ֤י]]&#8207; </big>**| mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dimon  |**<big>&#8207;[[H1775\|דִימוֹן֙]]&#8207; </big>**| di.mOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are full  |**<big>&#8207;[[H4390\|מָ֣לְאוּ]]&#8207; </big>**| Mal.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  |**<big>&#8207;[[H1818\|דָ֔ם]]&#8207; </big>**| Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will put  |**<big>&#8207;[[H7896H\|אָשִׁ֥ית]]&#8207; </big>**| 'a.Shit<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dimon  |**<big>&#8207;[[H1775\|דִּימ֖וֹן]]&#8207; </big>**| di.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| added [things]  |**<big>&#8207;[[H3254H\|נוֹסָפ֑וֹת]]&#8207; </big>**| no.sa.Fot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] for [the] escaped remnant of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6413\|פְלֵיטַ֤ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.lei.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֙]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lion  |**<big>&#8207;[[H0738B\|אַרְיֵ֔ה]]&#8207; </big>**| 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [the] remainder of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7611\|שְׁאֵרִ֖ית]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.'e.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  |**<big>&#8207;[[H0127G\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.8|<< Isaiah 15:8]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.1|Isaiah 16:1 >>]]</td></tr></table>
 
 

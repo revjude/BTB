@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חֲטִיטָא‎</span></big> **Chăṭîyṭâʼ** <small>*(khat-ee-taw')*</small> ==**Hatita**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎חֲטִיטָא‎</span></big>** **Chăṭîyṭâʼ** <small>*(khat-ee-taw')*</small> ==**Hatita**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root apparently meaning to dig out; explorer</small>
 
 $\quad$ Hatita.

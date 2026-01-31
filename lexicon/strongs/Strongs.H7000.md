@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָטַר‎</span></big> **qâṭar** <small>*(kaw-tar')*</small> ==**to enclose**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָטַר‎</span></big>** **qâṭar** <small>*(kaw-tar')*</small> ==**to enclose**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ join.

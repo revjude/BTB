@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זְבוּלוּן‎</span></big> **Zᵉbûwlûwn** <small>*(zeb-oo-loon')*</small> ==**Zebulun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">זְבֻלוּן</span> **Zᵉbulûwn** <small>*(zeb-ooloon')*</small>; or <span class="ashebrew">זְבוּלֻן</span> **Zᵉbûwlun** <small>*(zeb-oo-loon')*</small>; from <span class="ashebrew">‎זָבַל‎</span><sup><small>[[H2082]]</small></sup>; habitation</small>
+**<big><span class="ashebrew">‎זְבוּלוּן‎</span></big>** **Zᵉbûwlûwn** <small>*(zeb-oo-loon')*</small> ==**Zebulun**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">זְבֻלוּן</span></big>** **Zᵉbulûwn** <small>*(zeb-ooloon')*</small>; or **<big><span class="ashebrew">זְבוּלֻן</span></big>** **Zᵉbûwlun** <small>*(zeb-oo-loon')*</small>; from **<big>[[H2082|‎זָבַל‎]]</big>**; habitation</small>
 
 $\quad$ Zebulun.
 - § Zebulun = *"exalted"*
@@ -12,4 +12,4 @@ n pr m
 n pr loc
 **3)** the land allocated to the tribe of Zebulun
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ζαβουλών</span><sup><small>[[G2194]]</small></sup>
+<small>See Greek: </small>**<big>[[G2194|Ζαβουλών]]</big>**

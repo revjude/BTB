@@ -7,25 +7,25 @@ For thou shalt break forth on the right hand and on the left; and thy seed shall
 For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities.<small><sub>**MT:**</sub></small>
 [[Isa.54.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.2|<< Isaiah 54:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.4|Isaiah 54:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| right | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| left | <big><span class="asgreek">αριστερά</span></big> <sup><small><small>[[G0710]]</small></small></sup> |
-| Spread forth | <big><span class="asgreek">εκπέτασον</span></big> <sup><small><small>[[G1600]]</small></small></sup> |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| shall inherit | <big><span class="asgreek">κληρονομήσει</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| having been made desolate | <big><span class="asgreek">ηρημωμένας</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| you shall dwell in | <big><span class="asgreek">κατοικιείς</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| yet | **<big>[[G2089\|έτι]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| right | **<big>[[G1188\|δεξιά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| left | **<big>[[G0710\|αριστερά]]</big>** |
+| Spread forth | **<big>[[G1600\|εκπέτασον]]</big>** |
+| For | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your seed | **<big>[[G4690\|σπέρμα]]</big>** **<big>[[G1473\|σου]]</big>** |
+| nations | **<big>[[G1484\|έθνη]]</big>** |
+| shall inherit | **<big>[[G2816\|κληρονομήσει]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| cities | **<big>[[G4172\|πόλεις]]</big>** |
+| having been made desolate | **<big>[[G2049\|ηρημωμένας]]</big>** |
+| you shall dwell in | **<big>[[G2730\|κατοικιείς]]</big>** |
 [[Isa.54.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.2|<< Isaiah 54:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.4|Isaiah 54:4 >>]]</td></tr></table>
 
 

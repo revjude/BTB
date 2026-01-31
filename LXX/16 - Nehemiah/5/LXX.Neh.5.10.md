@@ -7,25 +7,25 @@ I likewise, [and] my brethren, and my servants, might exact of them money and co
 I, as well as my brothers and my servants, have been lending the people money and grain. Please, let us stop this usury.<small><sub>**MT:**</sub></small>
 [[Neh.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.9|<< Nehemiah 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.11|Nehemiah 5:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my brethren, | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my acquaintances, | <big><span class="asgreek">γνωστοί</span></big> <sup><small><small>[[G1110]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| put up | <big><span class="asgreek">εθήκαμεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for them | <big><span class="asgreek">αυτοις</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| money | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| grain; | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
-| we abandoned | <big><span class="asgreek">εγκατελίπομεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this exaction. | <big><span class="asgreek">απαίτησιν</span></big> <sup><small><small>[[G6389]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And also | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| I, | **<big>[[G1473\|εγώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my brethren, | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my acquaintances, | **<big>[[G1110\|γνωστοί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| put up | **<big>[[G5087\|εθήκαμεν]]</big>** |
+| for them | **<big>[[G1473\|αυτοις]]</big>** |
+| money | **<big>[[G0694\|αργύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| grain; | **<big>[[G4621\|σίτον]]</big>** |
+| we abandoned | **<big>[[G1459\|εγκατελίπομεν]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this exaction. | **<big>[[G6389\|απαίτησιν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
 [[Neh.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.9|<< Nehemiah 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.11|Nehemiah 5:11 >>]]</td></tr></table>
 
 

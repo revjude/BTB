@@ -1,5 +1,4 @@
-<span class="ashebrew">‎גֵּרָא‎</span> <small>***(ge.ra)***</small> ==**Gera**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Benjamin living before Israel's Monarchy, only mentioned at [[1Chr.8.7|1Ch.8.7]]
--  son of: Ehud ([[H0164]])
--  brother of: Naaman ([[H5283J]]), Ahijah ([[H0281K]]), Uzza ([[H5798H]]) and Ahihud ([[H0284]]); also called Heglam (KJV: "removed"; NIV: "deported") at [[1Chr.8.7|1Ch.8.7]]
-- Also named: <i>ga.lah</i> (<span class='ashebrew'>‎ה‎</span>ֶ<span class='ashebrew'>‎ג‎</span>ְ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ם‎</span> "Heglam" [[H1540]])
+-  son of: Ehud (**<big>[[H0164|אֵהוּד]]</big>**)
+-  brother of: Naaman (**<big>[[H5283J|נַעֲמָן]]</big>**), Ahijah (**<big>[[H0281K|אֲחִיָּה]]</big>**), Uzza (**<big>[[H5798H|עֻזָּא]]</big>**) and Ahihud (**<big>[[H0284|אֲחִיחֻד]]</big>**); also called Heglam (KJV: "removed"; NIV: "deported") at [[1Chr.8.7|1Ch.8.7]]
+- Also named: <i>ga.lah</i> (<span class='ashebrew'>‎ה‎</span>ֶ<span class='ashebrew'>‎ג‎</span>ְ<span class='ashebrew'>‎ל‎</span>ָ<span class='ashebrew'>‎ם‎</span> "Heglam" **<big>[[H1540|גָּלָה]]</big>**)

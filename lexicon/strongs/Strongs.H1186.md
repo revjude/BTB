@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּעַל מְעוֹן‎</span></big> **Baʻal Mᵉʻôwn** <small>*(bah-al meh-one')*</small> ==**Baal-meon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1168]]</small></sup> and <span class="ashebrew">‎מָעוֹן‎</span><sup><small>[[H4583]]</small></sup>; Baal of (the) habitation (of) (compare <span class="ashebrew">‎בֵּית בַּעַל מְעוֹן‎</span><sup><small>[[H1010]]</small></sup>)</small>
+**<big><span class="ashebrew">‎בַּעַל מְעוֹן‎</span></big>** **Baʻal Mᵉʻôwn** <small>*(bah-al meh-one')*</small> ==**Baal-meon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H1168|‎בַּעַל‎]]</big>** and **<big>[[H4583|‎מָעוֹן‎]]</big>**; Baal of (the) habitation (of) (compare **<big>[[H1010|‎בֵּית בַּעַל מְעוֹן‎]]</big>**)</small>
 
 $\quad$ Baal-meon.
 - § Baal-meon = *"lord of the habitation"*

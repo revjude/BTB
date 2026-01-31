@@ -7,13 +7,13 @@ Of Benjamin; Abidan the son of Gideoni.
 from Benjamin, Abidan son of Gideoni;<small><sub>**MT:**</sub></small>
 [[Num.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.10|<< Numbers 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.12|Numbers 1:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Benjamin -- | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| Abidan | <big><span class="asgreek">Αβιδάν</span></big> <sup><small><small>[[H0027]]</small></small></sup> |
-| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Gideoni. | <big><span class="asgreek">Γαδεωνί</span></big> <sup><small><small>[[H1441]]</small></small></sup> |
+| Of the ones | **<big>[[G3588\|των]]</big>** |
+| of Benjamin -- | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| Abidan | **<big>[[H0027\|Αβιδάν]]</big>** |
+| son | **<big>[[G5207\|υιός]]</big>** |
+| of Gideoni. | **<big>[[H1441\|Γαδεωνί]]</big>** |
 [[Num.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.10|<< Numbers 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.12|Numbers 1:12 >>]]</td></tr></table>
 
 

@@ -6,19 +6,19 @@ Jacob set up a pillar on her grave; it marks Rachel’s tomb to this day.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.19|<< Genesis 35:19]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.21|Genesis 35:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he set up  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּצֵּ֧ב </big></span><small><small><sup>[[H5324]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Tzev <small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֛ב </big></span><small><small><sup>[[H3290]]</sup></small></small> &#8207;| ya.'a.Ko <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a pillar  | <span class="ashebrew"><big>מַצֵּבָ֖ה </big></span><small><small><sup>[[H4676]]</sup></small></small> &#8207;| ma.tze.Vah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| over  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| grave her  | <span class="ashebrew"><big>קְבֻרָתָ֑ </big></span><small><small><sup>[[H6900]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9024]]</sup></small></small> &#8207;| ke.vu.ra.Ta <small><sup>[[HNcfsc]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  | <span class="ashebrew"><big>הִ֛וא </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] [the] pillar of  | <span class="ashebrew"><big>מַצֶּ֥בֶת </big></span><small><small><sup>[[H4678]]</sup></small></small> &#8207;| ma.Tze.vet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] grave of  | <span class="ashebrew"><big>קְבֻֽרַת </big></span><small><small><sup>[[H6900]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ke.vu.rat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rachel  | <span class="ashebrew"><big>רָחֵ֖ל </big></span><small><small><sup>[[H7354]]</sup></small></small> &#8207;| ra.Chel <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| until  | <span class="ashebrew"><big>עַד </big></span><small><small><sup>[[H5704]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'ad- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this day  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>יּֽוֹם </big></span><small><small><sup>[[H3117L]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| hai. <small><sup>[[HTd]]</sup></small> Yom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5324\|יַּצֵּ֧ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tzev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֛ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pillar  |**<big>&#8207;[[H4676\|מַצֵּבָ֖ה]]&#8207; </big>**| ma.tze.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grave her  |**<big>&#8207;[[H6900\|קְבֻרָתָ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ke.vu.ra.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִ֛וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] pillar of  |**<big>&#8207;[[H4678\|מַצֶּ֥בֶת]]&#8207; </big>**| ma.Tze.vet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] grave of  |**<big>&#8207;[[H6900\|קְבֻֽרַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.vu.rat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rachel  |**<big>&#8207;[[H7354\|רָחֵ֖ל]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.19|<< Genesis 35:19]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.21|Genesis 35:21 >>]]</td></tr></table>
 
 

@@ -7,17 +7,17 @@ Jerusalem is builded as a city that is compact together:
 Jerusalem is built up as a city united together,<small><sub>**MT:**</sub></small>
 [[Ps.122.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.122.2|<< Psalm 122:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.122.4|Psalm 122:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
-| being built | <big><span class="asgreek">οικοδομουμένη</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sharing | <big><span class="asgreek">μετοχή</span></big> <sup><small><small>[[G3352]]</small></small></sup> |
-| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] together. | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
+| being built | **<big>[[G3618\|οικοδομουμένη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a city | **<big>[[G4172\|πόλις]]</big>** |
+| of which | **<big>[[G3739\|ης]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| sharing | **<big>[[G3352\|μετοχή]]</big>** |
+| of it | **<big>[[G1473\|αυτής]]</big>** |
+| \[is\] together. | **<big>[[G7464\|επιτοαυτό]]</big>** |
 [[Ps.122.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.122.2|<< Psalm 122:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.122.4|Psalm 122:4 >>]]</td></tr></table>
 
 

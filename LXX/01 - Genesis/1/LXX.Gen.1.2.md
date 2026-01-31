@@ -11,26 +11,26 @@ Now the earth was formless and void, and darkness was over the surface of the de
 > $\quad$ referenced by: [[2Pet.3.5|2Pet 3:5-6]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| unseen | <big><span class="asgreek">αόρατος</span></big> <sup><small><small>[[G0517]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unready, | <big><span class="asgreek">ακατασκεύαστος</span></big> <sup><small><small>[[G6181]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
-| \[was\] upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| abyss, | <big><span class="asgreek">αβύσσου</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| \[of\] God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| bore | <big><span class="asgreek">επεφέρετο</span></big> <sup><small><small>[[G2018]]</small></small></sup> |
-| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water. | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| But the | **<big>[[G3588\|η]]</big>** **<big>[[G1161\|δε]]</big>** |
+| earth | **<big>[[G1093\|γη]]</big>** |
+| was | **<big>[[G1510\|ην]]</big>** |
+| unseen | **<big>[[G0517\|αόρατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unready, | **<big>[[G6181\|ακατασκεύαστος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| darkness | **<big>[[G4655\|σκότος]]</big>** |
+| \[was\] upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| abyss, | **<big>[[G0012\|αβύσσου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| spirit | **<big>[[G4151\|πνεύμα]]</big>** |
+| \[of\] God | **<big>[[G2316\|θεού]]</big>** |
+| bore | **<big>[[G2018\|επεφέρετο]]</big>** |
+| upon | **<big>[[G1883\|επάνω]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| water. | **<big>[[G5204\|ύδατος]]</big>** |
 [[Gen.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.1|<< Genesis 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.3|Genesis 1:3 >>]]</td></tr></table>
 
 

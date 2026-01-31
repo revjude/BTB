@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּין‎</span></big> **dîyn** <small>*(deen)*</small> ==**to judge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or (Genesis 6:3) <span class="ashebrew">דּוּן</span> **dûwn** <small>*(doon)*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎דִּין‎</span></big>** **dîyn** <small>*(deen)*</small> ==**to judge**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or (Genesis 6:3) **<big><span class="ashebrew">דּוּן</span></big>** **dûwn** <small>*(doon)*</small>; a primitive root</small>
 
 $\quad$ (come) with a straight course.
 - ***a straight course***, i.e. ***sail direct***
@@ -13,4 +13,4 @@ $\quad$ $\quad$ **1a4)** to govern
 $\quad$ $\quad$ **1a5)** to contend, strive
 $\quad$ **1b)** (Niphal) to be at strife, quarrel
 
-<sub><small>See Greek: </small></sub><span class="asgreek">καταμένω</span><sup><small>[[G2650]]</small></sup> · <span class="asgreek">τίθημι</span><sup><small>[[G5087]]</small></sup>
+<small>See Greek: </small>**<big>[[G2650|καταμένω]]</big>** · **<big>[[G5087|τίθημι]]</big>**

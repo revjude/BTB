@@ -4,9 +4,9 @@ Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Huppim</span> is mentioned in the genealogy of Manasseh as a descendant of Ir or as a son of Machir.
 - A man from the tribe of Benjamin  living at the time of Egypt and Wilderness, first mentioned at [[1Chr.7.12|1Ch.7.12]]; 
-- only referred to as Huppim<[[H2650G]]> \(<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>\); 
--  son of Ir<[[H5893G]]>; 
-- a brother of Shuppim<[[H8206G]]> and Maacah<[[H4601M]]>.
+- only referred to as Huppim **<big>[[H2650|חֻפִּים]]</big>**; 
+-  son of Ir **<big>[[H5893|עִיר]]</big>**; 
+- a brother of Shuppim **<big>[[H8206|שֻׁפִּים]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Huppim is mentioned in [[1Chr.7.12|1 Chronicles 7:12]] and 7:15 as part of the genealogy of the tribe of Manasseh, one of the twelve tribes of Israel. However, there is some ambiguity in the text regarding his exact relationship to the other members of the tribe. 
 
@@ -20,8 +20,8 @@ Despite the ambiguity in the genealogical details, the inclusion of Huppim in th
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Huppim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H2650G) <small>*Hebrew*</small> | 2x | [[1Ch.7.12] & [1Ch.7.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppim\*\|reference=1Ch.7.12;1Ch.7.15) |
-All Strong's for **Huppim**: \[[[H2650G]]\]
+| Huppim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H2650G) | 2x | [[1Ch.7.12] & [1Ch.7.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppim\*\|reference=1Ch.7.12;1Ch.7.15) |
+All entries for **Huppim**:  **<big>[[H2650|חֻפִּים]]</big>**
 #### Related Profiles:
 - **[Ir](H5893G)** (father)
 - **[Shuppim](H8206G)** (sibling)

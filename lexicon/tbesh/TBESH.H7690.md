@@ -1,5 +1,4 @@
-<span class="asaramaic">‎שַׂגִּיא‎</span> <small>***(sag.gi)***</small> ==**greatly**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-Aramaic of: <small>[[H7689]]</small> 
+<small>Aramaic of:</small> <small>**<big>[[H7689|שַׂגִּיא]]</big>**</small> 
 
 - adj
 - adv

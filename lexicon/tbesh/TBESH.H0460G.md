@@ -1,4 +1,3 @@
-<span class="ashebrew">‎אֶלְיָסָף‎</span> <small>***(el.ya.saph)***</small> ==**Eliasaph**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Egypt and Wilderness, first mentioned at [[Num.1.14|Num.1.14]]
--  son of: Jethro ([[H3503]])
--  brother of: Zipporah ([[H6855]]) and Hobab ([[H2246]])
+-  son of: Jethro (**<big>[[H3503|יִתְרוֹ]]</big>**)
+-  brother of: Zipporah (**<big>[[H6855|צִפֹּרָה]]</big>**) and Hobab (**<big>[[H2246|חֹבָב]]</big>**)

@@ -7,39 +7,39 @@ And also I have withholden the rain from you, when [there were] yet three months
 “I also withheld the rain from you when the harvest was three months away. I sent rain on one city but withheld it from another. One field received rain; another without rain withered.<small><sub>**MT:**</sub></small>
 [[Amos.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.6|<< Amos 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.8|Amos 4:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I withheld | <big><span class="asgreek">ανέσχον</span></big> <sup><small><small>[[G0430]]</small></small></sup> |
-| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| \[the\] three | <big><span class="asgreek">τριών</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| months | <big><span class="asgreek">μηνών</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering of crops; | <big><span class="asgreek">τρυγητού</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I shall rain | <big><span class="asgreek">βρέξω</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| but upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[other\] city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| rain; | <big><span class="asgreek">βρέξω</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| \[there\] shall be rain, | <big><span class="asgreek">βραχήσεται</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| rain | <big><span class="asgreek">βρέξω</span></big> <sup><small><small>[[G1026]]</small></small></sup> |
-| shall be dry. | <big><span class="asgreek">ξηρανθήσεται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I withheld | **<big>[[G0430\|ανέσχον]]</big>** |
+| from | **<big>[[G1537\|εξ]]</big>** |
+| you | **<big>[[G1473\|υμών]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rain | **<big>[[G5205\|υετόν]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| \[the\] three | **<big>[[G5140\|τριών]]</big>** |
+| months | **<big>[[G3376\|μηνών]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| gathering of crops; | **<big>[[G9506\|τρυγητού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I shall rain | **<big>[[G1026\|βρέξω]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| city | **<big>[[G4172\|πόλιν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| but upon | **<big>[[G1909\|επί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[other\] city | **<big>[[G4172\|πόλιν]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| I will not | **<big>[[G3756\|ου]]</big>** |
+| rain; | **<big>[[G1026\|βρέξω]]</big>** |
+| portion | **<big>[[G3310\|μερίς]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| \[there\] shall be rain, | **<big>[[G1026\|βραχήσεται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] portion | **<big>[[G3310\|μερίς]]</big>** |
+| upon | **<big>[[G1909\|εφ΄]]</big>** |
+| which | **<big>[[G3739\|ην]]</big>** |
+| I shall not | **<big>[[G3756\|ου]]</big>** |
+| rain | **<big>[[G1026\|βρέξω]]</big>** |
+| shall be dry. | **<big>[[G3583\|ξηρανθήσεται]]</big>** |
 [[Amos.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.6|<< Amos 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.8|Amos 4:8 >>]]</td></tr></table>
 
 

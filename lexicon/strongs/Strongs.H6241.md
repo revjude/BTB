@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עִשָּׂרוֹן‎</span></big> **ʻissârôwn** <small>*(is-saw-rone')*</small> ==**tenth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">עִשָּׂרֹן</span> **ʻissârôn** <small>*(is-sawrone')*</small>; from <span class="ashebrew">‎עֶשֶׂר‎</span><sup><small>[[H6235]]</small></sup></small>
+**<big><span class="ashebrew">‎עִשָּׂרוֹן‎</span></big>** **ʻissârôwn** <small>*(is-saw-rone')*</small> ==**tenth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">עִשָּׂרֹן</span></big>** **ʻissârôn** <small>*(is-sawrone')*</small>; from **<big>[[H6235|‎עֶשֶׂר‎]]</big>**</small>
 
 $\quad$ tenth deal.
 - (fractional) ***a tenth part***

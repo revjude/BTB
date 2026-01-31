@@ -7,40 +7,40 @@ Behold, therefore I will deliver thee to the men of the east for a possession, a
 therefore I will indeed give you as a possession to the people of the East. They will set up their camps and pitch their tents among you. They will eat your fruit and drink your milk.<small><sub>**MT:**</sub></small>
 [[Ezek.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.3|<< Ezekiel 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.5|Ezekiel 25:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| deliver you up | <big><span class="asgreek">παραδίδωμι</span></big> <sup><small><small>[[G3860]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kedem | <big><span class="asgreek">Κεδέμ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| an inheritance. | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall encamp | <big><span class="asgreek">κατασκηνώσουσιν</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your chattel | <big><span class="asgreek">απαρτία</span></big> <sup><small><small>[[G6403]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall put | <big><span class="asgreek">δώσουσιν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their tents | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your fruits, | <big><span class="asgreek">καρπούς</span></big> <sup><small><small>[[G2590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall drink | <big><span class="asgreek">πίονται</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your fatness. | <big><span class="asgreek">πιότητά σου</span></big> <sup><small><small>[[G4096]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| deliver you up | **<big>[[G3860\|παραδίδωμι]]</big>** **<big>[[G1473\|υμάς]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| sons | **<big>[[G5207\|υιοίς]]</big>** |
+| of Kedem | **<big>[[H6938\|Κεδέμ]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| an inheritance. | **<big>[[G2817\|κληρονομίαν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall encamp | **<big>[[G2681\|κατασκηνώσουσιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| your chattel | **<big>[[G6403\|απαρτία]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you; | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall put | **<big>[[G1325\|δώσουσιν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their tents | **<big>[[G4638\|σκηνώματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall eat | **<big>[[G2068\|φάγονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your fruits, | **<big>[[G2590\|καρπούς]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they | **<big>[[G1473\|αυτοί]]</big>** |
+| shall drink | **<big>[[G4095\|πίονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| of your fatness. | **<big>[[G4096\|πιότητά σου]]</big>** |
 [[Ezek.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.3|<< Ezekiel 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.5|Ezekiel 25:5 >>]]</td></tr></table>
 
 

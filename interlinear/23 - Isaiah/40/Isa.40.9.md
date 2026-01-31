@@ -10,28 +10,28 @@ Go up on a high mountain, O Zion, herald of good news. Raise your voice loudly, 
 > $\quad$ referenced by: [[John.12.15|John 12:15]]
 
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| on  | <span class="ashebrew"><big>עַ֣ל </big></span><small><small><sup>[[H5921A]]</sup></small></small> &#8207;| 'al <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a mountain  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| high  | <span class="ashebrew"><big>גָּבֹ֤הַ </big></span><small><small><sup>[[H1364]]</sup></small></small> &#8207;| ga.Vo.ha <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| go up  | <span class="ashebrew"><big>עֲלִי </big></span><small><small><sup>[[H5927G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.li- <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<for> yourself  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךְ֙ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| lo <small><sup>[[HR]]</sup></small> Kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O bearer of news of  | <span class="ashebrew"><big>מְבַשֶּׂ֣רֶת </big></span><small><small><sup>[[H1319]]</sup></small></small> &#8207;| me.va.Se.ret <small><sup>[[HVprfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן </big></span><small><small><sup>[[H6726]]</sup></small></small> &#8207;| tzi.Yon <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lift up  | <span class="ashebrew"><big>הָרִ֤ימִי </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ha.Ri.mi <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> strength  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>כֹּ֙חַ֙ </big></span><small><small><sup>[[H3581B]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> Ko.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| voice your  | <span class="ashebrew"><big>קוֹלֵ֔ </big></span><small><small><sup>[[H6963A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9022]]</sup></small></small> &#8207;| ko.Le <small><sup>[[HNcmsc]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O bearer of news of  | <span class="ashebrew"><big>מְבַשֶּׂ֖רֶת </big></span><small><small><sup>[[H1319]]</sup></small></small> &#8207;| me.va.Se.ret <small><sup>[[HVprfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָ֑ם </big></span><small><small><sup>[[H3389]]</sup></small></small> &#8207;| ye.ru.sha.Lim <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lift [it] up  | <span class="ashebrew"><big>הָרִ֙ימִי֙ </big></span><small><small><sup>[[H7311A]]</sup></small></small> &#8207;| ha.Ri.mi <small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be afraid  | <span class="ashebrew"><big>תִּירָ֔אִי </big></span><small><small><sup>[[H3372G]]</sup></small></small> &#8207;| ti.Ra.'i <small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| say  | <span class="ashebrew"><big>אִמְרִי֙ </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| 'im.Ri <small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] cities of  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עָרֵ֣י </big></span><small><small><sup>[[H5892B]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> 'a.Rei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה </big></span><small><small><sup>[[H3063G]]</sup></small></small> &#8207;| ye.hu.Dah <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here!  | <span class="ashebrew"><big>הִנֵּ֖ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  | <span class="ashebrew"><big>אֱלֹהֵי </big></span><small><small><sup>[[H0430G]]</sup></small></small> <span class="ashebrew"><big>כֶֽם </big></span><small><small><sup>[[H9026]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.lo.hei. <small><sup>[[HNcmpc]]</sup></small> Khem <small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mountain  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high  |**<big>&#8207;[[H1364\|גָּבֹ֤הַ]]&#8207; </big>**| ga.Vo.ha<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go up  |**<big>&#8207;[[H5927G\|עֲלִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.li-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> yourself  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| lo<small><sup>[[HR]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O bearer of news of  |**<big>&#8207;[[H1319\|מְבַשֶּׂ֣רֶת]]&#8207; </big>**| me.va.Se.ret<small><sup>[[HVprfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lift up  |**<big>&#8207;[[H7311A\|הָרִ֤ימִי]]&#8207; </big>**| ha.Ri.mi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> strength  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3581B\|כֹּ֙חַ֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Ko.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voice your  |**<big>&#8207;[[H6963A\|קוֹלֵ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ko.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O bearer of news of  |**<big>&#8207;[[H1319\|מְבַשֶּׂ֖רֶת]]&#8207; </big>**| me.va.Se.ret<small><sup>[[HVprfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lift [it] up  |**<big>&#8207;[[H7311A\|הָרִ֙ימִי֙]]&#8207; </big>**| ha.Ri.mi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be afraid  |**<big>&#8207;[[H3372G\|תִּירָ֔אִי]]&#8207; </big>**| ti.Ra.'i<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| say  |**<big>&#8207;[[H0559\|אִמְרִי֙]]&#8207; </big>**| 'im.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] cities of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5892B\|עָרֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֖ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.8|<< Isaiah 40:8]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.10|Isaiah 40:10 >>]]</td></tr></table>
 
 

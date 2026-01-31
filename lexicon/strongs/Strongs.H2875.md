@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טֶבַח‎</span></big> **Ṭebach** <small>*(teh'-bakh)*</small> ==**Tebah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎טֶבַח‎</span><sup><small>[[H2874]]</small></sup>; massacre</small>
+**<big><span class="ashebrew">‎טֶבַח‎</span></big>** **Ṭebach** <small>*(teh'-bakh)*</small> ==**Tebah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H2874|‎טֶבַח‎]]</big>**; massacre</small>
 
 $\quad$ Tebah.
 - § Tebah = *"a slaughter"*

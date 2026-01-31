@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Holon</span>, a Levitical city in Judah's hill country, also called Hilen.
 - A location first mentioned at [[Josh.15.51|Jos.15.51]]; 
-- referred to as Holon<[[H2473G]]> \(<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Hilen<[[H2432]]> \(<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יל</span>ֵ<span class='tipnrLangHebrew'>ן</span>\).
+- referred to as Holon **<big>[[H2473|חֹלוֹן]]</big>**, or Hilen **<big>[[H2432|חִילֵן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.583333,34.950000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Holon was a town located in the hill country of Judah that was assigned to the L
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Holon | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2473G) <small>*Hebrew*</small> | 2x | [[Jos.15.51] & [Jos.21.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Holon\*\|reference=Jos.15.51;Jos.21.15) |
-| Hilen | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יל</span>ֵ<span class='tipnrLangHebrew'>ן</span>](H2432) <small>*Hebrew*</small> | 1x | [1Ch.6.58 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilen\*\|reference=1Ch.6.58) |
-All Strong's for **Holon or Hilen**: \[[[H2473G]]\] \[[[H2432]]\]
+| Holon | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>לו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2473G) | 2x | [[Jos.15.51] & [Jos.21.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Holon\*\|reference=Jos.15.51;Jos.21.15) |
+| Hilen | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יל</span>ֵ<span class='tipnrLangHebrew'>ן</span>](H2432) | 1x | [1Ch.6.58 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilen\*\|reference=1Ch.6.58) |
+All entries for **Holon or Hilen**:  **<big>[[H2473|חֹלוֹן]]</big>** ☩  **<big>[[H2432|חִילֵן]]</big>**

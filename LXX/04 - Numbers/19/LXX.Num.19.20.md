@@ -7,36 +7,36 @@ But the man that shall be unclean, and shall not purify himself, that soul shall
 But if a person who is unclean does not purify himself, he will be cut off from the assembly, because he has defiled the sanctuary of the LORD. The water of purification has not been sprinkled on him; he is unclean.<small><sub>**MT:**</sub></small>
 [[Num.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.19|<< Numbers 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.21|Numbers 19:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| should be defiled, | <big><span class="asgreek">μιανθή</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be purified, | <big><span class="asgreek">αφαγνισθή</span></big> <sup><small><small>[[G6615]]</small></small></sup> |
-| shall be utterly destroyed | <big><span class="asgreek">εξολοθρευθήσεται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| that | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] midst | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| congregation, | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[things\] | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| he defiled, | <big><span class="asgreek">εμίανεν</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| of sprinkling | <big><span class="asgreek">ραντισμού</span></big> <sup><small><small>[[G4473]]</small></small></sup> |
-| was not sprinkled about | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">περιερραντίσθη</span></big> <sup><small><small>[[G8751]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he is unclean. | <big><span class="asgreek">ακάθαρτός</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| ever | **<big>[[G0302\|αν]]</big>** |
+| should be defiled, | **<big>[[G3392\|μιανθή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall not | **<big>[[G3361\|μη]]</big>** |
+| be purified, | **<big>[[G6615\|αφαγνισθή]]</big>** |
+| shall be utterly destroyed | **<big>[[G1842\|εξολοθρευθήσεται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| that | **<big>[[G1565\|εκείνη]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] midst | **<big>[[G3319\|μέσου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| congregation, | **<big>[[G4864\|συναγωγής]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| holy \[things\] | **<big>[[G0039\|άγια]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| he defiled, | **<big>[[G3392\|εμίανεν]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] water | **<big>[[G5204\|ύδωρ]]</big>** |
+| of sprinkling | **<big>[[G4473\|ραντισμού]]</big>** |
+| was not sprinkled about | **<big>[[G3756\|ου]]</big>** **<big>[[G8751\|περιερραντίσθη]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him; | **<big>[[G1473\|αυτόν]]</big>** |
+| he is unclean. | **<big>[[G0169\|ακάθαρτός]]</big>** **<big>[[G1510\|εστι]]</big>** |
 [[Num.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.19|<< Numbers 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.21|Numbers 19:21 >>]]</td></tr></table>
 
 

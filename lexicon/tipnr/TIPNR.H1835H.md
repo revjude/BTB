@@ -4,11 +4,11 @@ Jacob's son living at the time of the Patriarchs
 
 <span class='tipnrhighlight'>Dan</span> was the fifth son of Jacob and the founder of the Israelite tribe bearing his name. \([[Gen.30.6|Gen.30.6]]; 35.25; 46.23; 49.16,17; [[1Chr.2.2|1Ch.2.2]]\)
 - Jacob's son who founded the tribe of Dan  living at the time of the Patriarchs, first mentioned at [[Gen.30.6|Gen.30.6]]; 
-- only referred to as Dan<[[H1835H]]> \(<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ן</span>\); 
--  son of Israel<[[H3478]]> and Bilhah<[[H1090A]]>; 
-- a brother of Naphtali<[[H5321G]]>; 
--  half-brother of: Reuben<[[H7205]]>, Simeon<[[H8095G]]>, Levi<[[H3878]]>, Judah<[[H3063G]]>, Gad<[[H1410G]]>, Asher<[[H0836]]>, Issachar<[[H3485G]]>, Zebulun<[[H2074]]>, Dinah<[[H1783]]>, Joseph<[[H3130G]]> and Benjamin<[[H1144G]]>; 
--  father of Hushim<[[H2366B]]>.
+- only referred to as Dan **<big>[[H1835|דָּן]]</big>**; 
+-  son of Israel **<big>[[H3478|יִשְׂרָאֵל]]</big>** and Bilhah **<big>[[H1090|בִּלְהָה]]</big>**; 
+- a brother of Naphtali **<big>[[H5321|נַפְתָּלִי]]</big>**; 
+-  half-brother of: Reuben **<big>[[H7205|רְאוּבֵן]]</big>**, Simeon **<big>[[H8095|שִׁמְעוֹן]]</big>**, Levi **<big>[[H3878|לֵוִי]]</big>**, Judah **<big>[[H3063|יְהוּדָה]]</big>**, Gad **<big>[[H1410|גָּד]]</big>**, Asher **<big>[[H0836|אָשֵׁר]]</big>**, Issachar **<big>[[H3485|יִשָּׂשכָר]]</big>**, Zebulun **<big>[[H2074|זְבוּלוּן]]</big>**, Dinah **<big>[[H1783|דִּינָה]]</big>**, Joseph **<big>[[H3130|יוֹסֵף]]</big>** and Benjamin **<big>[[H1144|בִּנְיָמִין]]</big>**; 
+-  father of Hushim **<big>[[H2366|חוּשִׁים]]</big>**.
 
 Dan was the fifth son of Israel \(or 'Jacob'\) and the firstborn of Bilhah, Rachel's maidservant. His birth is recorded in [[Gen.30.6|Genesis 30:6]], where Rachel, who had been unable to conceive, gave Bilhah to Jacob as a wife to bear children on her behalf. When Bilhah gave birth to a son, Rachel named him Dan, saying, "God has vindicated me; he has listened to my plea and given me a son." 
 
@@ -22,8 +22,8 @@ In [[1Chr.2.2|1 Chronicles 2:2]], Dan is listed among the twelve tribes of Israe
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Dan | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H1835H) <small>*Hebrew*</small> | 6x | [[Gen.30.6] ... [1Ch.2.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dan\*\|reference=Gen.30.6;Gen.35.25;Gen.46.23;Gen.49.16;Gen.49.17;1Ch.2.2) |
-All Strong's for **Dan**: \[[[H1835H]]\]
+| Dan | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H1835H) | 6x | [[Gen.30.6] ... [1Ch.2.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dan\*\|reference=Gen.30.6;Gen.35.25;Gen.46.23;Gen.49.16;Gen.49.17;1Ch.2.2) |
+All entries for **Dan**:  **<big>[[H1835|דָּן]]</big>**
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Bilhah](H1090A)** (mother)

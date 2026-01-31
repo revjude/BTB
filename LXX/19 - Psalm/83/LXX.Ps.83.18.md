@@ -7,21 +7,21 @@ That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most hig
 May they know that You alone, whose name is the LORD, are Most High over all the earth.<small><sub>**MT:**</sub></small>
 [[Ps.83.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.17|<< Psalm 83:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.1|Psalm 84:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| let them know | <big><span class="asgreek">γνώτωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| to you \[is\], | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| \[are\] highest | <big><span class="asgreek">ύψιστος</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| let them know | **<big>[[G1097\|γνώτωσαν]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] name | **<big>[[G3686\|όνομά]]</big>** |
+| to you \[is\], | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>! | **<big>[[G2962\|κύριος]]</big>** |
+| You | **<big>[[G1473\|συ]]</big>** |
+| alone | **<big>[[G3441\|μόνος]]</big>** |
+| \[are\] highest | **<big>[[G5310\|ύψιστος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth. | **<big>[[G1093\|γην]]</big>** |
 [[Ps.83.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.17|<< Psalm 83:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.1|Psalm 84:1 >>]]</td></tr></table>
 
 

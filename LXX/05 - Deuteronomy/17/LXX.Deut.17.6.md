@@ -11,22 +11,22 @@ On the testimony of two or three witnesses a man shall be put to death, but he s
 > $\quad$ referenced by: [[Heb.10.28|Heb 10:28]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| By | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| two | <big><span class="asgreek">δυσί</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| witnesses | <big><span class="asgreek">μάρτυσιν</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| three | <big><span class="asgreek">τρισί</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
-| witnesses | <big><span class="asgreek">μάρτυσιν</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
-| one shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one dying | <big><span class="asgreek">αποθνήσκων</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| by | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| witness. | <big><span class="asgreek">μάρτυρι</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| By | **<big>[[G1909\|επί]]</big>** |
+| two | **<big>[[G1417\|δυσί]]</big>** |
+| witnesses | **<big>[[G3144\|μάρτυσιν]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| three | **<big>[[G5140\|τρισί]]</big>** |
+| witnesses | **<big>[[G3144\|μάρτυσιν]]</big>** |
+| one shall die. | **<big>[[G0599\|αποθανείται]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| one dying | **<big>[[G0599\|αποθνήσκων]]</big>** |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| die | **<big>[[G0599\|αποθανείται]]</big>** |
+| by | **<big>[[G1909\|εφ΄]]</big>** |
+| one | **<big>[[G1520\|ενί]]</big>** |
+| witness. | **<big>[[G3144\|μάρτυρι]]</big>** |
 [[Deut.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.5|<< Deuteronomy 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.7|Deuteronomy 17:7 >>]]</td></tr></table>
 
 

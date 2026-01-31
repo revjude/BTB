@@ -7,35 +7,35 @@ And thou shalt sanctify the breast of the wave offering, and the shoulder of the
 Consecrate for Aaron and his sons the breast of the wave offering that is waved and the thigh of the heave offering that is lifted up from the ram of ordination.<small><sub>**MT:**</sub></small>
 [[Exod.29.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.26|<< Exodus 29:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.28|Exodus 29:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you shall sanctify | <big><span class="asgreek">αγιάσεις</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| breast | <big><span class="asgreek">στηθύνιον</span></big> <sup><small><small>[[G9170]]</small></small></sup> |
-| separation \[offering\] | <big><span class="asgreek">αφόρισμα</span></big> <sup><small><small>[[G6627]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shoulder | <big><span class="asgreek">βραχίονα</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| choice portion | <big><span class="asgreek">αφαιρέματος</span></big> <sup><small><small>[[G6616]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| has been separated, | <big><span class="asgreek">αφώρισται</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| has been removed | <big><span class="asgreek">αφήρηται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ram | <big><span class="asgreek">κριού</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consecration -- | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his sons. | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you shall sanctify | **<big>[[G0037\|αγιάσεις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| breast | **<big>[[G9170\|στηθύνιον]]</big>** |
+| separation \[offering\] | **<big>[[G6627\|αφόρισμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shoulder | **<big>[[G1023\|βραχίονα]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| choice portion | **<big>[[G6616\|αφαιρέματος]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| has been separated, | **<big>[[G0873\|αφώρισται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| which | **<big>[[G3739\|ος]]</big>** |
+| has been removed | **<big>[[G0851\|αφήρηται]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| ram | **<big>[[G8096\|κριού]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| consecration -- | **<big>[[G5050\|τελειώσεως]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| Aaron, | **<big>[[G0002\|Ααρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| his sons. | **<big>[[G5207\|υιών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Exod.29.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.26|<< Exodus 29:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.28|Exodus 29:28 >>]]</td></tr></table>
 
 

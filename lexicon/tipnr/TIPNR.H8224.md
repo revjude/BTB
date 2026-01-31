@@ -1,8 +1,8 @@
 <small>*Siphmoth • Town in southern Judah that received spoils from David*</small>
 
 <span class='tipnrhighlight'>Siphmoth</span> was one of the towns in southern Judah that received a share of the spoils from David after he defeated the Amalekites \(1 Sam. 30:28\).
-- A location near Anim<[[H6044]]> only mentioned at [[1Sam.30.28|1Sa.30.28]]; 
-- only referred to as Siphmoth<[[H8224]]> \(<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>\).
+- A location near Anim **<big>[[H6044|עָנִים]]</big>** only mentioned at [[1Sam.30.28|1Sa.30.28]]; 
+- only referred to as Siphmoth **<big>[[H8224|שִׂפְמוֹת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.373521,35.074552&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Siphmoth is mentioned only once in the Bible, in the context of David's distribu
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Siphmoth | [<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H8224) <small>*Hebrew*</small> | 1x | [1Sa.30.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Siphmoth\*\|reference=1Sa.30.28) |
-All Strong's for **Siphmoth**: \[[[H8224]]\]
+| Siphmoth | [<span class='tipnrLangHebrew'>ש</span>ִׂ<span class='tipnrLangHebrew'>פ</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H8224) | 1x | [1Sa.30.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Siphmoth\*\|reference=1Sa.30.28) |
+All entries for **Siphmoth**:  **<big>[[H8224|שִׂפְמוֹת]]</big>**

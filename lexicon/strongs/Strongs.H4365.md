@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מִכְמֶרֶת‎</span></big> **mikmereth** <small>*(mik-meh'-reth)*</small> ==**net**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>or <span class="ashebrew">מִכְמֹרֶת</span> **mikmôreth** <small>*(mik-mo'-reth)*</small>; feminine of <span class="ashebrew">‎מַכְמָר‎</span><sup><small>[[H4364]]</small></sup></small>
+**<big><span class="ashebrew">‎מִכְמֶרֶת‎</span></big>** **mikmereth** <small>*(mik-meh'-reth)*</small> ==**net**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִכְמֹרֶת</span></big>** **mikmôreth** <small>*(mik-mo'-reth)*</small>; feminine of **<big>[[H4364|‎מַכְמָר‎]]</big>**</small>
 
 $\quad$ drag, net.
 - ***a*** (fisher's) ***net***
 
 **1)** net, fishing net
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σαγήνη</span><sup><small>[[G4522]]</small></sup>
+<small>See Greek: </small>**<big>[[G4522|σαγήνη]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁבָּת‎</span></big> **shabbâth** <small>*(shab-bawth')*</small> ==**Sabbath**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>intensive from <span class="ashebrew">‎שָׁבַת‎</span><sup><small>[[H7673]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁבָּת‎</span></big>** **shabbâth** <small>*(shab-bawth')*</small> ==**Sabbath**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>intensive from **<big>[[H7673|‎שָׁבַת‎]]</big>**</small>
 
 $\quad$ ([phrase] every) sabbath.
 - ***intermission***, i.e (specifically) ***the Sabbath***
@@ -11,4 +11,4 @@ $\quad$ **1c)** sabbath year
 $\quad$ **1d)** week
 $\quad$ **1e)** produce (in sabbath year)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀνάπαυσις</span><sup><small>[[G0372]]</small></sup> · <span class="asgreek">ἕβδομος</span><sup><small>[[G1442]]</small></sup> · <span class="asgreek">προσάββατον</span><sup><small>[[G4315]]</small></sup> · <span class="asgreek">σάββατον</span><sup><small>[[G4521]]</small></sup>
+<small>See Greek: </small>**<big>[[G0372|ἀνάπαυσις]]</big>** · **<big>[[G1442|ἕβδομος]]</big>** · **<big>[[G4315|προσάββατον]]</big>** · **<big>[[G4521|σάββατον]]</big>**

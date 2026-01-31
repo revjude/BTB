@@ -11,32 +11,32 @@ Then you are to say, ‘In the same way Babylon will sink and never rise again, 
 > $\quad$ referenced by: [[Rev.18.21|Rev 18:21]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| So | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| shall Babylon descend, | <big><span class="asgreek">καταδύσεται</span></big> <sup><small><small>[[G7840]]</small></small></sup> <big><span class="asgreek">Βαβυλών</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall she rise up | <big><span class="asgreek">αναστή</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| evils | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bring | <big><span class="asgreek">επάγω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall vanish. | <big><span class="asgreek">εκλείψει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| Until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[are\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| words | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Jeremiah. | <big><span class="asgreek">Ιερεμίου</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall say, | **<big>[[G2046\|ερείς]]</big>** |
+| So | **<big>[[G3779\|ούτως]]</big>** |
+| shall Babylon descend, | **<big>[[G7840\|καταδύσεται]]</big>** **<big>[[G0897\|Βαβυλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall she rise up | **<big>[[G0450\|αναστή]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| evils | **<big>[[G2556\|κακών]]</big>** |
+| which | **<big>[[G3739\|ων]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| bring | **<big>[[G1863\|επάγω]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall vanish. | **<big>[[G1587\|εκλείψει]]</big>** |
+| Until | **<big>[[G2193\|έως]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| \[are\] the | **<big>[[G3588\|τα]]</big>** |
+| words | **<big>[[G4487\|ρήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of Jeremiah. | **<big>[[G2408\|Ιερεμίου]]</big>** |
 [[Jer.51.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.63|<< Jeremiah 51:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.1|Jeremiah 52:1 >>]]</td></tr></table>
 
 

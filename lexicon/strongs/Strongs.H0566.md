@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אִמְרִי‎</span></big> **ʼImrîy** <small>*(im-ree')*</small> ==**Imri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אִמֵּר‎</span><sup><small>[[H0564]]</small></sup></small>
+**<big><span class="ashebrew">‎אִמְרִי‎</span></big>** **ʼImrîy** <small>*(im-ree')*</small> ==**Imri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0564|‎אִמֵּר‎]]</big>**</small>
 
 $\quad$ Imri.
 - § Imri = *"eloquent"*

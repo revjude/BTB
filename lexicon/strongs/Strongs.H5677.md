@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵבֵר‎</span></big> **ʻÊbêr** <small>*(ay'-ber)*</small> ==**Eber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎עֵבֶר‎</span><sup><small>[[H5676]]</small></sup></small>
+**<big><span class="ashebrew">‎עֵבֵר‎</span></big>** **ʻÊbêr** <small>*(ay'-ber)*</small> ==**Eber**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5676|‎עֵבֶר‎]]</big>**</small>
 
 $\quad$ Eber, Heber.
 - § Eber or Heber = *"the region beyond"*
@@ -11,4 +11,4 @@ $\quad$ Eber, Heber.
 **4)** a Benjamite, son of Shashak
 **5)** a priest in the days of Joiakim the son of Jeshua
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐβέρ</span><sup><small>[[G1443]]</small></sup>
+<small>See Greek: </small>**<big>[[G1443|Ἐβέρ]]</big>**

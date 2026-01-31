@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סְגֻלָּה‎</span></big> **çᵉgullâh** <small>*(seg-ool-law')*</small> ==**possession**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+**<big><span class="ashebrew">‎סְגֻלָּה‎</span></big>** **çᵉgullâh** <small>*(seg-ool-law')*</small> ==**possession**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
 <small>feminine passive participle of an unused root meaning to shut up</small>
 
 $\quad$ jewel, peculiar (treasure), proper good, special.
@@ -8,4 +8,4 @@ $\quad$ jewel, peculiar (treasure), proper good, special.
 $\quad$ **1a)** valued property, peculiar treasure
 $\quad$ **1b)** treasure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">περιούσιος</span><sup><small>[[G4041]]</small></sup> · <span class="asgreek">περιποιέομαι</span><sup><small>[[G4046]]</small></sup> · <span class="asgreek">περιποίησις</span><sup><small>[[G4047]]</small></sup>
+<small>See Greek: </small>**<big>[[G4041|περιούσιος]]</big>** · **<big>[[G4046|περιποιέομαι]]</big>** · **<big>[[G4047|περιποίησις]]</big>**

@@ -7,22 +7,22 @@ Thus shall they prepare the lamb, and the meat offering, and the oil, every morn
 Thus they shall provide the lamb, the grain offering, and the oil every morning as a regular burnt offering.’<small><sub>**MT:**</sub></small>
 [[Ezek.46.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.14|<< Ezekiel 46:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.16|Ezekiel 46:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| You shall prepare | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lamb, | <big><span class="asgreek">αμνόν</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gift \[offering\], | <big><span class="asgreek">μαναά</span></big> <sup><small><small>[[G8246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| olive oil; | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
-| you shall offer | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \[by\] morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| a whole burnt-offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| continually. | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| You shall prepare | **<big>[[G4160\|ποιήσετε]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| lamb, | **<big>[[G0286\|αμνόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gift \[offering\], | **<big>[[G8246\|μαναά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| olive oil; | **<big>[[G1637\|έλαιον]]</big>** |
+| you shall offer | **<big>[[G4160\|ποιήσετε]]</big>** |
+| morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \[by\] morning | **<big>[[G4404\|πρωϊ]]</big>** |
+| a whole burnt-offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| continually. | **<big>[[G1275\|διαπαντός]]</big>** |
 [[Ezek.46.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.14|<< Ezekiel 46:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.16|Ezekiel 46:16 >>]]</td></tr></table>
 
 

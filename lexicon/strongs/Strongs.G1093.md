@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎γῆ‎</span></big> **gē** <small>*(ghay)*</small> ==**earth: planet**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+**<big><span class="asgreek">‎γῆ‎</span></big>** **gē** <small>*(ghay)*</small> ==**earth: planet**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
 <small>contracted from a primary word</small>
 
 $\quad$ country, earth(-ly), ground, land, world.

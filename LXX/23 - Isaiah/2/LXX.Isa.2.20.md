@@ -7,28 +7,28 @@ In that day a man shall cast his idols of silver, and his idols of gold, which t
 In that day men will cast away to the moles and bats their idols of silver and gold—the idols they made to worship.<small><sub>**MT:**</sub></small>
 [[Isa.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.19|<< Isaiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.21|Isaiah 2:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| will cast out | <big><span class="asgreek">εκβαλεί</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his abominations, | <big><span class="asgreek">βδελύγματα</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| made of silver | <big><span class="asgreek">αργυρά</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσά</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to do obeisance | <big><span class="asgreek">προσκυνείν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| vain \[things\], | <big><span class="asgreek">ματαίοις</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bats, | <big><span class="asgreek">νυκτερίσι</span></big> <sup><small><small>[[G8413]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| will cast out | **<big>[[G1544\|εκβαλεί]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπος]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| his abominations, | **<big>[[G0946\|βδελύγματα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| made of silver | **<big>[[G0693\|αργυρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| gold | **<big>[[G5552\|χρυσά]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they made | **<big>[[G4160\|εποίησαν]]</big>** |
+| to do obeisance | **<big>[[G4352\|προσκυνείν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| vain \[things\], | **<big>[[G3152\|ματαίοις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to the | **<big>[[G3588\|ταις]]</big>** |
+| bats, | **<big>[[G8413\|νυκτερίσι]]</big>** |
 [[Isa.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.19|<< Isaiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.21|Isaiah 2:21 >>]]</td></tr></table>
 
 

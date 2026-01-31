@@ -7,29 +7,29 @@ Who [is] a God like unto thee, that pardoneth iniquity, and passeth by the trans
 Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion?<small><sub>**MT:**</sub></small>
 [[Mic.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.17|<< Micah 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.19|Micah 7:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[is\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| removing | <big><span class="asgreek">εξαίρων</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
-| iniquities | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| passing over | <big><span class="asgreek">υπερβαίνων</span></big> <sup><small><small>[[G5233]]</small></small></sup> |
-| impiety | <big><span class="asgreek">ασεβείας</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnants | <big><span class="asgreek">καταλοίποις</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of his inheritance? | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is not constrained | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνέσχεν</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a testimony | <big><span class="asgreek">μαρτύριον</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
-| His anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a wisher | <big><span class="asgreek">θελητής</span></big> <sup><small><small>[[G7649]]</small></small></sup> |
-| of mercy | <big><span class="asgreek">ελέους</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
-| he is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| What | **<big>[[G5100\|τις]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \[is\] as | **<big>[[G5618\|ώσπερ]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| removing | **<big>[[G1808\|εξαίρων]]</big>** |
+| iniquities | **<big>[[G0093\|αδικίας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| passing over | **<big>[[G5233\|υπερβαίνων]]</big>** |
+| impiety | **<big>[[G0763\|ασεβείας]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| remnants | **<big>[[G2645\|καταλοίποις]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of his inheritance? | **<big>[[G2817\|κληρονομίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| is not constrained | **<big>[[G3756\|ου]]</big>** **<big>[[G4912\|συνέσχεν]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a testimony | **<big>[[G3142\|μαρτύριον]]</big>** |
+| His anger | **<big>[[G3709\|οργήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| a wisher | **<big>[[G7649\|θελητής]]</big>** |
+| of mercy | **<big>[[G1656\|ελέους]]</big>** |
+| he is | **<big>[[G1510\|εστίν]]</big>** |
 [[Mic.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.17|<< Micah 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.19|Micah 7:19 >>]]</td></tr></table>
 
 

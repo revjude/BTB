@@ -7,24 +7,24 @@ Whom shall he teach knowledge? and whom shall he make to understand doctrine? [t
 Whom is He trying to teach? To whom is He explaining His message? To infants just weaned from milk? To babies removed from the breast?<small><sub>**MT:**</sub></small>
 [[Isa.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.8|<< Isaiah 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.10|Isaiah 28:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| To whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did we announce | <big><span class="asgreek">ανηγγείλαμεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| evils? | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| did we announce | <big><span class="asgreek">ανηγγείλαμεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| a message? | <big><span class="asgreek">αγγελίαν</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
-| \[even to\] the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being weaned | <big><span class="asgreek">απογεγαλακτισμένοι</span></big> <sup><small><small>[[G6418]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| milk, | <big><span class="asgreek">γάλακτος</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being drawn away | <big><span class="asgreek">απεσπασμένοι</span></big> <sup><small><small>[[G0645]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] breast. | <big><span class="asgreek">μαστού</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
+| To whom | **<big>[[G5100\|τίνι]]</big>** |
+| did we announce | **<big>[[G0312\|ανηγγείλαμεν]]</big>** |
+| evils? | **<big>[[G2556\|κακά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to whom | **<big>[[G5100\|τίνι]]</big>** |
+| did we announce | **<big>[[G0312\|ανηγγείλαμεν]]</big>** |
+| a message? | **<big>[[G0031\|αγγελίαν]]</big>** |
+| \[even to\] the ones | **<big>[[G3588\|οι]]</big>** |
+| being weaned | **<big>[[G6418\|απογεγαλακτισμένοι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| milk, | **<big>[[G1051\|γάλακτος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| being drawn away | **<big>[[G0645\|απεσπασμένοι]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] breast. | **<big>[[G3149\|μαστού]]</big>** |
 [[Isa.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.8|<< Isaiah 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.10|Isaiah 28:10 >>]]</td></tr></table>
 
 

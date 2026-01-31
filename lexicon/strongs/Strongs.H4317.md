@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִיכָאֵל‎</span></big> **Mîykâʼêl** <small>*(me-kaw-ale')*</small> ==**Michael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎מִי‎</span><sup><small>[[H4310]]</small></sup> and (the prefix derivative from) <span class="ashebrew">‎כִּי‎</span><sup><small>[[H3588]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; who (is) like God?</small>
+**<big><span class="ashebrew">‎מִיכָאֵל‎</span></big>** **Mîykâʼêl** <small>*(me-kaw-ale')*</small> ==**Michael**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H4310|‎מִי‎]]</big>** and (the prefix derivative from) **<big>[[H3588|‎כִּי‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; who (is) like God?</small>
 
 $\quad$ Michael.
 - § Michael = *"who is like God"*
@@ -17,4 +17,4 @@ $\quad$ Michael.
 **10)** one of the sons of Jehoshaphat who were murdered by their elder brother, Jehoram
 **11)** father or ancestor of Zebadiah, of the sons of Shephatiah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Μιχαήλ</span><sup><small>[[G3413]]</small></sup>
+<small>See Greek: </small>**<big>[[G3413|Μιχαήλ]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִשְׁמָר‎</span></big> **mishmâr** <small>*(mish-mawr')*</small> ==**custody**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שָׁמַר‎</span><sup><small>[[H8104]]</small></sup></small>
+**<big><span class="ashebrew">‎מִשְׁמָר‎</span></big>** **mishmâr** <small>*(mish-mawr')*</small> ==**custody**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H8104|‎שָׁמַר‎]]</big>**</small>
 
 $\quad$ diligence, guard, office, prison, ward, watch.
 - ***a guard*** (the man, the post or the prison)
@@ -11,4 +11,4 @@ $\quad$ **1a)** jail, prison, guard-house
 $\quad$ **1b)** guard, guard post, act of guarding
 $\quad$ **1c)** observances
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐφημερία</span><sup><small>[[G2183]]</small></sup>
+<small>See Greek: </small>**<big>[[G2183|ἐφημερία]]</big>**

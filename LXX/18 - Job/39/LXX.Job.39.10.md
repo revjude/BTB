@@ -7,17 +7,17 @@ Canst thou bind the unicorn with his band in the furrow? or will he harrow the v
 Can you hold him to the furrow with a harness? Will he plow the valleys behind you?<small><sub>**MT:**</sub></small>
 [[Job.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.9|<< Job 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.11|Job 39:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And will you tie | <big><span class="asgreek">δήσεις</span></big> <sup><small><small>[[G1210]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| straps | <big><span class="asgreek">ιμάσι</span></big> <sup><small><small>[[G2438]]</small></small></sup> |
-| his yoke | <big><span class="asgreek">ζυγόν</span></big> <sup><small><small>[[G2218]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| will he draw | <big><span class="asgreek">ελκύσει</span></big> <sup><small><small>[[G1670]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| furrows | <big><span class="asgreek">αύλακας</span></big> <sup><small><small>[[G6603]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] plain? | <big><span class="asgreek">πεδίω</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| And will you tie | **<big>[[G1210\|δήσεις]]</big>** **<big>[[G1161\|δε]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| straps | **<big>[[G2438\|ιμάσι]]</big>** |
+| his yoke | **<big>[[G2218\|ζυγόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| will he draw | **<big>[[G1670\|ελκύσει]]</big>** **<big>[[G1473\|σου]]</big>** |
+| furrows | **<big>[[G6603\|αύλακας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] plain? | **<big>[[G8676\|πεδίω]]</big>** |
 [[Job.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.9|<< Job 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.11|Job 39:11 >>]]</td></tr></table>
 
 

@@ -1,4 +1,4 @@
-combination of: <small>[[G0737]] ([[G0575]]+[[G0737]])</small> 
+combination of: <small>**<big>[[G0737|ἄρτι]]</big>** (**<big>[[G0575|ἀπό]]</big>**+**<big>[[G0737|ἄρτι]]</big>**)</small> 
 
 
 <b> <span class='asgreek'>==ἀπαρτί==</span></b> [<span class='asgreek'>ῐ</span>], 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁבָּתוֹן‎</span></big> **shabbâthôwn** <small>*(shab-baw-thone')*</small> ==**sabbath observance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎שַׁבָּת‎</span><sup><small>[[H7676]]</small></sup></small>
+**<big><span class="ashebrew">‎שַׁבָּתוֹן‎</span></big>** **shabbâthôwn** <small>*(shab-baw-thone')*</small> ==**sabbath observance**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7676|‎שַׁבָּת‎]]</big>**</small>
 
 $\quad$ rest, sabbath.
 - ***a sabbatism*** or ***special holiday***
@@ -11,4 +11,4 @@ $\quad$ **1c)** sabbatical year
 $\quad$ **1d)** of Feast of Trumpets
 $\quad$ **1e)** of the 1st and last days of the Feast of Tabernacles
 
-<sub><small>See Greek: </small></sub><span class="asgreek">σάββατον</span><sup><small>[[G4521]]</small></sup>
+<small>See Greek: </small>**<big>[[G4521|σάββατον]]</big>**

@@ -6,13 +6,13 @@ Foreigners lose heart and come trembling from their strongholds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.45|<< 2 Samuel 22:45]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.47|2 Samuel 22:47 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| sons of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121I]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foreignness  | <span class="ashebrew"><big>נֵכָ֖ר </big></span><small><small><sup>[[H5236]]</sup></small></small> &#8207;| ne.Khar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they withered  | <span class="ashebrew"><big>יִבֹּ֑לוּ </big></span><small><small><sup>[[H5034B]]</sup></small></small> &#8207;| yi.Bo.lu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may girdethemselves  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יַחְגְּר֖וּ </big></span><small><small><sup>[[H2296]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> yach.ge.Ru <small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from strongholds their  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>מִּסְגְּרוֹתָֽ </big></span><small><small><sup>[[H4526]]</sup></small></small> <span class="ashebrew"><big>ם </big></span><small><small><sup>[[H9028]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> mis.ge.ro.Ta <small><sup>[[HNcfpc]]</sup></small> m <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  |**<big>&#8207;[[H1121I\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foreignness  |**<big>&#8207;[[H5236\|נֵכָ֖ר]]&#8207; </big>**| ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they withered  |**<big>&#8207;[[H5034B\|יִבֹּ֑לוּ]]&#8207; </big>**| yi.Bo.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may girdethemselves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2296\|יַחְגְּר֖וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yach.ge.Ru<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from strongholds their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4526\|מִּסְגְּרוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mis.ge.ro.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.45|<< 2 Samuel 22:45]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.47|2 Samuel 22:47 >>]]</td></tr></table>
 
 

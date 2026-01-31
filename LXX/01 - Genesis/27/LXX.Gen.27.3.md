@@ -7,27 +7,27 @@ Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out
 Take your weapons—your quiver and bow—and go out into the field to hunt some game for me.<small><sub>**MT:**</sub></small>
 [[Gen.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.2|<< Genesis 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.4|Genesis 27:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your \[hunting\] equipment, | <big><span class="asgreek">σκεύός</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| both the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| quiver | <big><span class="asgreek">φάρετραν</span></big> <sup><small><small>[[G9617]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bow! | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| go forth | <big><span class="asgreek">έξελθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain, | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| hunt | <big><span class="asgreek">θήρευσόν</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
-| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| game! | <big><span class="asgreek">θήραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
+| Now | **<big>[[G3568\|νυν]]</big>** |
+| then, | **<big>[[G3767\|ουν]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your \[hunting\] equipment, | **<big>[[G4632\|σκεύός]]</big>** **<big>[[G1473\|σου]]</big>** |
+| both the | **<big>[[G3588\|την]]</big>** **<big>[[G5037\|τε]]</big>** |
+| quiver | **<big>[[G9617\|φάρετραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| bow! | **<big>[[G5115\|τόξον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| go forth | **<big>[[G1831\|έξελθε]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| plain, | **<big>[[G8676\|πεδίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| hunt | **<big>[[G2340\|θήρευσόν]]</big>** |
+| for me | **<big>[[G1473\|μοι]]</big>** |
+| game! | **<big>[[G2339\|θήραν]]</big>** |
 [[Gen.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.2|<< Genesis 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.4|Genesis 27:4 >>]]</td></tr></table>
 
 

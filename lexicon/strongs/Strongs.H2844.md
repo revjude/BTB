@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַת‎</span></big> **chath** <small>*(khath)*</small> ==**terror**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חָתַת‎</span><sup><small>[[H2865]]</small></sup></small>
+**<big><span class="ashebrew">‎חַת‎</span></big>** **chath** <small>*(khath)*</small> ==**terror**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2865|‎חָתַת‎]]</big>**</small>
 
 $\quad$ broken, dismayed, dread, fear.
 - concretely, ***crushed***
@@ -11,4 +11,4 @@ $\quad$ broken, dismayed, dread, fear.
 $\quad$ **2a)** shattered
 $\quad$ **2b)** dismayed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀσθενέω</span><sup><small>[[G0770]]</small></sup> · <span class="asgreek">φόβος</span><sup><small>[[G5401]]</small></sup>
+<small>See Greek: </small>**<big>[[G0770|ἀσθενέω]]</big>** · **<big>[[G5401|φόβος]]</big>**

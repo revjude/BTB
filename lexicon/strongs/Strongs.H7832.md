@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׂחַק‎</span></big> **sâchaq** <small>*(saw-khak')*</small> ==**to laugh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׂחַק‎</span></big>** **sâchaq** <small>*(saw-khak')*</small> ==**to laugh**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ deride, have in derision, laugh, make merry, mock(-er), play, rejoice, (laugh to) scorn, be in (make) sport.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ **1b2)** to jest
 $\quad$ $\quad$ **1b3)** to play (including instrumental music, singing, dancing)
 $\quad$ **1c)** (Hiphil) to laugh mockingly
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γελάω</span><sup><small>[[G1070]]</small></sup> · <span class="asgreek">ἐμπαίζω</span><sup><small>[[G1702]]</small></sup> · <span class="asgreek">καταγελάω</span><sup><small>[[G2606]]</small></sup> · <span class="asgreek">ὀρχέομαι</span><sup><small>[[G3738]]</small></sup> · <span class="asgreek">παίζω</span><sup><small>[[G3815]]</small></sup>
+<small>See Greek: </small>**<big>[[G1070|γελάω]]</big>** · **<big>[[G1702|ἐμπαίζω]]</big>** · **<big>[[G2606|καταγελάω]]</big>** · **<big>[[G3738|ὀρχέομαι]]</big>** · **<big>[[G3815|παίζω]]</big>**

@@ -7,18 +7,18 @@ But where shall wisdom be found? and where [is] the place of understanding?
 But where can wisdom be found, and where does understanding dwell?<small><sub>**MT:**</sub></small>
 [[Job.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.11|<< Job 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.13|Job 28:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[is\] wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| from what place | <big><span class="asgreek">πόθεν</span></big> <sup><small><small>[[G4159]]</small></small></sup> |
-| found? | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| and of what | <big><span class="asgreek">ποίος</span></big> <sup><small><small>[[G4169]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| higher knowledge? | <big><span class="asgreek">επιστήμης</span></big> <sup><small><small>[[G7454]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| But | **<big>[[G1161\|δε]]</big>** |
+| \[is\] wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| from what place | **<big>[[G4159\|πόθεν]]</big>** |
+| found? | **<big>[[G2147\|ευρέθη]]</big>** |
+| and of what | **<big>[[G4169\|ποίος]]</big>** **<big>[[G1161\|δε]]</big>** |
+| place | **<big>[[G5117\|τόπος]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| higher knowledge? | **<big>[[G7454\|επιστήμης]]</big>** |
 [[Job.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.11|<< Job 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.13|Job 28:13 >>]]</td></tr></table>
 
 

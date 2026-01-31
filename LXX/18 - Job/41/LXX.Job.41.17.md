@@ -7,17 +7,17 @@ They are joined one to another, they stick together, that they cannot be sundere
 They are joined to one another; they clasp and cannot be separated.<small><sub>**MT:**</sub></small>
 [[Job.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.16|<< Job 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.18|Job 41:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall be cleaved; | <big><span class="asgreek">προσκολληθήσονται</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
-| they are held together, | <big><span class="asgreek">συνέχονται</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| draw apart. | <big><span class="asgreek">αποσπασθώσιν</span></big> <sup><small><small>[[G0645]]</small></small></sup> |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a man | **<big>[[G0435\|ανήρ]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| his brother | **<big>[[G0080\|αδελφώ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| they shall be cleaved; | **<big>[[G4347\|προσκολληθήσονται]]</big>** |
+| they are held together, | **<big>[[G4912\|συνέχονται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| draw apart. | **<big>[[G0645\|αποσπασθώσιν]]</big>** |
 [[Job.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.16|<< Job 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.18|Job 41:18 >>]]</td></tr></table>
 
 

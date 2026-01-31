@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֶפְרוֹן‎</span></big> **ʻEphrôwn** <small>*(ef-rone')*</small> ==**Ephron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from the same as <span class="ashebrew">‎עֵפֶר‎</span><sup><small>[[H6081]]</small></sup>; fawn-like</small>
+**<big><span class="ashebrew">‎עֶפְרוֹן‎</span></big>** **ʻEphrôwn** <small>*(ef-rone')*</small> ==**Ephron**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from the same as **<big>[[H6081|‎עֵפֶר‎]]</big>**; fawn-like</small>
 
 $\quad$ Ephron, Ephrain (from the margin).
 - § Ephron = *"fawn-like"*
@@ -11,4 +11,4 @@ n pr loc
 **2)** a city on the borders of Benjamin
 **3)** a mountain on the northern border of Judah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐφραίμ</span><sup><small>[[G2187]]</small></sup>
+<small>See Greek: </small>**<big>[[G2187|Ἐφραίμ]]</big>**

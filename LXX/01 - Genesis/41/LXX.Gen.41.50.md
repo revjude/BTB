@@ -7,31 +7,31 @@ And unto Joseph were born two sons before the years of famine came, which Asenat
 Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.<small><sub>**MT:**</sub></small>
 [[Gen.41.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.49|<< Genesis 41:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.51|Genesis 41:51 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| were born | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ελθείν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| of the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
-| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of famine, | <big><span class="asgreek">λιμού</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Asenath | <big><span class="asgreek">Ασενέθ</span></big> <sup><small><small>[[H0621]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Poti-phera, | <big><span class="asgreek">Πετεφρή</span></big> <sup><small><small>[[H6318]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of Heliopolis. | <big><span class="asgreek">Ηλιουπόλεως</span></big> <sup><small><small>[[G9829]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| to Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| were born | **<big>[[G1096\|εγένοντο]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| before | **<big>[[G4253\|προ]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| coming | **<big>[[G2064\|ελθείν]]</big>** |
+| of the | **<big>[[G3588\|τα]]</big>** |
+| seven | **<big>[[G2033\|επτά]]</big>** |
+| years | **<big>[[G2094\|έτη]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of famine, | **<big>[[G3042\|λιμού]]</big>** |
+| which | **<big>[[G3739\|ους]]</big>** |
+| bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Asenath | **<big>[[H0621\|Ασενέθ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Poti-phera, | **<big>[[H6318\|Πετεφρή]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| of Heliopolis. | **<big>[[G9829\|Ηλιουπόλεως]]</big>** |
 [[Gen.41.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.49|<< Genesis 41:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.51|Genesis 41:51 >>]]</td></tr></table>
 
 

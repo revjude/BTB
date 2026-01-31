@@ -1,8 +1,8 @@
 <small>*Magog • In Asia • A nation that will attack Israel in the future*</small>
 
 <span class='tipnrhighlight'>Magog</span>, a nation that will join forces with Gog to attack Israel in the future, as prophesied in Ezekiel and Revelation \([[Ezek.38.2|Ezekiel 38:2]]; 39:6; [[Rev.20.8|Revelation 20:8]]\).
-- A location near Asia Gog<[[H1463H]]> first mentioned at [[Ezek.38.2|Ezk.38.2]]; 
-- referred to as Magog<[[H4031H]]> \(<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ג</span>\), or Magog<[[G3098]]> \(<span class='tipnrLangGreek'>Μαγώγ</span>\).
+- A location near Asia Gog **<big>[[H1463|גּוֹג]]</big>** first mentioned at [[Ezek.38.2|Ezk.38.2]]; 
+- referred to as Magog **<big>[[H4031|מָגוֹג]]</big>**, or Magog **<big>[[G3098|Μαγώγ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=46,47&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,6 +10,6 @@ Magog is mentioned in the prophetic books of Ezekiel and Revelation as a nation 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Magog | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ג</span>](H4031H) <small>*Hebrew*</small> | 2x | [[Ezk.38.2] & [Ezk.39.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Magog\*\|reference=Ezk.38.2;Ezk.39.6) |
-| Magog | [<span class='tipnrLangGreek'>Μαγώγ</span>](G3098) <small>*Greek*</small> | 1x | [Rev.20.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Magog\*\|reference=Rev.20.8) |
-All Strong's for **Magog**: \[[[H4031H]]\] \[[[G3098]]\]
+| Magog | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>גו</span>ֹ<span class='tipnrLangHebrew'>ג</span>](H4031H) | 2x | [[Ezk.38.2] & [Ezk.39.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Magog\*\|reference=Ezk.38.2;Ezk.39.6) |
+| Magog | [<span class='tipnrLangGreek'>Μαγώγ</span>](G3098) | 1x | [Rev.20.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Magog\*\|reference=Rev.20.8) |
+All entries for **Magog**:  **<big>[[H4031|מָגוֹג]]</big>** ☩  **<big>[[G3098|Μαγώγ]]</big>**

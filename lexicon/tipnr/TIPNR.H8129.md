@@ -1,8 +1,8 @@
 <small>*Shen • Place where Samuel set up the Ebenezer stone*</small>
 
 <span class='tipnrhighlight'>Shen</span> was the place where Samuel set up the Ebenezer stone to commemorate the Israelites' victory over the Philistines \(1 Sam. 7:12\).
-- A location near Mizpah<[[H4709G]]> only mentioned at [[1Sam.7.12|1Sa.7.12]]; 
-- only referred to as Shen<[[H8129]]> \(<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Mizpah **<big>[[H4709|מִצְפָּה]]</big>** only mentioned at [[1Sam.7.12|1Sa.7.12]]; 
+- only referred to as Shen **<big>[[H8129|שֵׁן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.83273947023218,35.1801628605877&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Shen is mentioned briefly in the account of Samuel's leadership over Israel \(1 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Shen | [<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ן</span>](H8129) <small>*Hebrew*</small> | 1x | [1Sa.7.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shen\*\|reference=1Sa.7.12) |
-All Strong's for **Shen**: \[[[H8129]]\]
+| Shen | [<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ן</span>](H8129) | 1x | [1Sa.7.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shen\*\|reference=1Sa.7.12) |
+All entries for **Shen**:  **<big>[[H8129|שֵׁן]]</big>**

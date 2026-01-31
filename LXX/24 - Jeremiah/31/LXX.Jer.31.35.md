@@ -7,37 +7,37 @@ Thus saith the LORD, which giveth the sun for a light by day, [and] the ordinanc
 Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:<small><sub>**MT:**</sub></small>
 [[Jer.31.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| appointing | <big><span class="asgreek">δους</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sun | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| moon | <big><span class="asgreek">σελήνην</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stars | <big><span class="asgreek">αστέρας</span></big> <sup><small><small>[[G0792]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] roar | <big><span class="asgreek">κραυγήν</span></big> <sup><small><small>[[G2906]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] sea, | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| resonated | <big><span class="asgreek">εβόμβησαν</span></big> <sup><small><small>[[G6683]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its waves | <big><span class="asgreek">κύματα</span></big> <sup><small><small>[[G2949]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| \[is\] his name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | **<big>[[G3779\|ούτως]]</big>** |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| the one | **<big>[[G3588\|ο]]</big>** |
+| appointing | **<big>[[G1325\|δους]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| sun | **<big>[[G2246\|ήλιον]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| day, | **<big>[[G2250\|ημέρας]]</big>** |
+| moon | **<big>[[G4582\|σελήνην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stars | **<big>[[G0792\|αστέρας]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| light | **<big>[[G5457\|φως]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| night, | **<big>[[G3571\|νυκτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] roar | **<big>[[G2906\|κραυγήν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] sea, | **<big>[[G2281\|θαλάσση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| resonated | **<big>[[G6683\|εβόμβησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| its waves | **<big>[[G2949\|κύματα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| \[is\] his name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
 [[Jer.31.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 
 

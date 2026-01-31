@@ -7,39 +7,39 @@ Until thy brother’s anger turn away from thee, and he forget [that] which thou
 until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?”<small><sub>**MT:**</sub></small>
 [[Gen.27.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.44|<< Genesis 27:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.46|Genesis 27:46 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turning back | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he should forget | <big><span class="asgreek">επιλάθηται</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
-| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have done | <big><span class="asgreek">πεποίηκας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sending, | <big><span class="asgreek">αποστείλασα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| I will fetch | <big><span class="asgreek">μεταπέμψομαί</span></big> <sup><small><small>[[G3343]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| lest at any time | <big><span class="asgreek">μη ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
-| I should be childless | <big><span class="asgreek">αποτεκνωθώ</span></big> <sup><small><small>[[G6589]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| of you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| until | **<big>[[G2193\|έως]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| turning back | **<big>[[G0654\|αποστρέψαι]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| rage | **<big>[[G2372\|θυμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| anger | **<big>[[G3709\|οργήν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of your brother | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|σου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| you, | **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he should forget | **<big>[[G1950\|επιλάθηται]]</big>** |
+| what | **<big>[[G3739\|α]]</big>** |
+| you have done | **<big>[[G4160\|πεποίηκας]]</big>** |
+| to him. | **<big>[[G1473\|αυτώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sending, | **<big>[[G0649\|αποστείλασα]]</big>** |
+| I will fetch | **<big>[[G3343\|μεταπέμψομαί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| from there, | **<big>[[G1564\|εκείθεν]]</big>** |
+| lest at any time | **<big>[[G3379\|μη ποτε]]</big>** |
+| I should be childless | **<big>[[G6589\|αποτεκνωθώ]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|των]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| of you | **<big>[[G1473\|υμών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
 [[Gen.27.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.44|<< Genesis 27:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.46|Genesis 27:46 >>]]</td></tr></table>
 
 

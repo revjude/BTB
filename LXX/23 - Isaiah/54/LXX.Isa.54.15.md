@@ -7,21 +7,21 @@ Behold, they shall surely gather together, [but] not by me: whosoever shall gath
 If anyone attacks you, it is not from Me; whoever assails you will fall before you.<small><sub>**MT:**</sub></small>
 [[Isa.54.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.14|<< Isaiah 54:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.16|Isaiah 54:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| converts | <big><span class="asgreek">προσήλυτοι</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
-| shall come forward | <big><span class="asgreek">προσελεύσονταί</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
-| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall sojourn | <big><span class="asgreek">παροικήσουσί</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
-| with you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they shall take refuge. | <big><span class="asgreek">καταφεύξονται</span></big> <sup><small><small>[[G2703]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| converts | **<big>[[G4339\|προσήλυτοι]]</big>** |
+| shall come forward | **<big>[[G4334\|προσελεύσονταί]]</big>** |
+| to you | **<big>[[G1473\|σοι]]</big>** |
+| because of | **<big>[[G1223\|δι΄]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall sojourn | **<big>[[G3939\|παροικήσουσί]]</big>** |
+| with you, | **<big>[[G1473\|σοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| unto | **<big>[[G1909\|επί]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| they shall take refuge. | **<big>[[G2703\|καταφεύξονται]]</big>** |
 [[Isa.54.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.14|<< Isaiah 54:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.16|Isaiah 54:16 >>]]</td></tr></table>
 
 

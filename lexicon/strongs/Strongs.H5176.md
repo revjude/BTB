@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נָחָשׁ‎</span></big> **Nâchâsh** <small>*(naw-khawsh')*</small> ==**Nahash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎נָחָשׁ‎</span><sup><small>[[H5175]]</small></sup></small>
+**<big><span class="ashebrew">‎נָחָשׁ‎</span></big>** **Nâchâsh** <small>*(naw-khawsh')*</small> ==**Nahash**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H5175|‎נָחָשׁ‎]]</big>**</small>
 
 $\quad$ Nahash.
 - § Nahash = *"serpent"*

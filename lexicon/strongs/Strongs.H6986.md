@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קֶטֶב‎</span></big> **qeṭeb** <small>*(keh'-teb)*</small> ==**destruction**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎קֶטֶב‎</span></big>** **qeṭeb** <small>*(keh'-teb)*</small> ==**destruction**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>from an unused root meaning to cut off</small>
 
 $\quad$ destroying, destruction.
@@ -6,4 +6,4 @@ $\quad$ destroying, destruction.
 
 **1)** destruction
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βία</span><sup><small>[[G0970]]</small></sup> · <span class="asgreek">καταφέρω</span><sup><small>[[G2702]]</small></sup>
+<small>See Greek: </small>**<big>[[G0970|βία]]</big>** · **<big>[[G2702|καταφέρω]]</big>**

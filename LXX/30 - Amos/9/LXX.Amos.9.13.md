@@ -7,36 +7,36 @@ Behold, the days come, saith the LORD, that the plowman shall overtake the reape
 “Behold, the days are coming,” declares the LORD, “when the plowman will overtake the reaper and the treader of grapes, the sower of seed. The mountains will drip with sweet wine, with which all the hills will flow.<small><sub>**MT:**</sub></small>
 [[Amos.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.12|<< Amos 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.14|Amos 9:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| come, | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall overtake | <big><span class="asgreek">καταλήψεται</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshing | <big><span class="asgreek">αλοητός</span></big> <sup><small><small>[[G6240]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gathering of crops; | <big><span class="asgreek">τρυγητόν</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall grow dark | <big><span class="asgreek">περκάσει</span></big> <sup><small><small>[[G8777]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| grape | <big><span class="asgreek">σταφυλή</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sowing; | <big><span class="asgreek">σπόρω</span></big> <sup><small><small>[[G4703]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall trickle down | <big><span class="asgreek">αποσταλάξει</span></big> <sup><small><small>[[G6487]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
-| sweetness | <big><span class="asgreek">γλυκασμόν</span></big> <sup><small><small>[[G6741]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hills | <big><span class="asgreek">βουνοί</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
-| shall be planted together. | <big><span class="asgreek">σύμφυτοι</span></big> <sup><small><small>[[G4854]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| days | **<big>[[G2250\|ημέραι]]</big>** |
+| come, | **<big>[[G2064\|έρχονται]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall overtake | **<big>[[G2638\|καταλήψεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| threshing | **<big>[[G6240\|αλοητός]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| gathering of crops; | **<big>[[G9506\|τρυγητόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall grow dark | **<big>[[G8777\|περκάσει]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| grape | **<big>[[G4718\|σταφυλή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| sowing; | **<big>[[G4703\|σπόρω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall trickle down | **<big>[[G6487\|αποσταλάξει]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| mountains | **<big>[[G3735\|όρη]]</big>** |
+| sweetness | **<big>[[G6741\|γλυκασμόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| hills | **<big>[[G1015\|βουνοί]]</big>** |
+| shall be planted together. | **<big>[[G4854\|σύμφυτοι]]</big>** **<big>[[G1510\|έσονται]]</big>** |
 [[Amos.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.12|<< Amos 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.14|Amos 9:14 >>]]</td></tr></table>
 
 

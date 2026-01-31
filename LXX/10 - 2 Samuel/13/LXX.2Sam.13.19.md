@@ -7,37 +7,37 @@ And Tamar put ashes on her head, and rent her garment of divers colours that [wa
 And Tamar put ashes on her head and tore her robe. And putting her hand on her head, she went away crying aloud.<small><sub>**MT:**</sub></small>
 [[2Sam.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.18|<< 2 Samuel 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.20|2 Samuel 13:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tamar took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Θαμάρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
-| ashes, | <big><span class="asgreek">σποδόν</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| put \[them\] | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inner garment, | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with long sleeves, | <big><span class="asgreek">καρπωτόν</span></big> <sup><small><small>[[G7808]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| she tore; | <big><span class="asgreek">διέρρηξε</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she put | <big><span class="asgreek">επέθηκε</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her head, | <big><span class="asgreek">κεφαλην</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| going | <big><span class="asgreek">πορευομένη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| crying out. | <big><span class="asgreek">κράζουσα</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Tamar took | **<big>[[G2983\|έλαβε]]</big>** **<big>[[G2283\|Θαμάρ]]</big>** |
+| ashes, | **<big>[[G4700\|σποδόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| put \[them\] | **<big>[[G2007\|επέθηκεν]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| inner garment, | **<big>[[G5509\|χιτώνα]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| with long sleeves, | **<big>[[G7808\|καρπωτόν]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| her, | **<big>[[G1473\|αυτής]]</big>** |
+| she tore; | **<big>[[G1284\|διέρρηξε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she put | **<big>[[G2007\|επέθηκε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| her hands | **<big>[[G5495\|χείρας]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| her head, | **<big>[[G2776\|κεφαλην]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she went | **<big>[[G4198\|επορεύθη]]</big>** |
+| going | **<big>[[G4198\|πορευομένη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| crying out. | **<big>[[G2896\|κράζουσα]]</big>** |
 [[2Sam.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.18|<< 2 Samuel 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.20|2 Samuel 13:20 >>]]</td></tr></table>
 
 

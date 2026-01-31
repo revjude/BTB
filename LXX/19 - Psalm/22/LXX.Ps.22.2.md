@@ -11,22 +11,22 @@ I cry out by day, O my God, but You do not answer, and by night, but I have no r
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall cry out | <big><span class="asgreek">κεκράξομαι</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
-| by day, | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| hear; | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| by night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[it shall\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| \[be accounted\] for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| thoughtlessness | <big><span class="asgreek">άνοιαν</span></big> <sup><small><small>[[G0454]]</small></small></sup> |
-| to me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| My God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I shall cry out | **<big>[[G2896\|κεκράξομαι]]</big>** |
+| by day, | **<big>[[G2250\|ημέρας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you do not | **<big>[[G3756\|ουκ]]</big>** |
+| hear; | **<big>[[G1522\|εισακούση]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| by night | **<big>[[G3571\|νυκτός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[it shall\] not | **<big>[[G3756\|ουκ]]</big>** |
+| \[be accounted\] for | **<big>[[G1519\|εις]]</big>** |
+| thoughtlessness | **<big>[[G0454\|άνοιαν]]</big>** |
+| to me. | **<big>[[G1473\|εμοί]]</big>** |
 [[Ps.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.1|<< Psalm 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.3|Psalm 22:3 >>]]</td></tr></table>
 
 

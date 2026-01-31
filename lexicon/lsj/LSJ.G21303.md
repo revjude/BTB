@@ -1,4 +1,4 @@
-spelling of: <small>[[G5331]]</small> 
+spelling of: <small>**<big>[[G5331|φαρμακεία]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==φαρμακία==</span>-<span class='asgreek'>ία</span></b>, 

@@ -7,29 +7,29 @@ And he said, Thou shalt no more rejoice, O thou oppressed virgin, daughter of Zi
 He said, “You shall rejoice no more, O oppressed Virgin Daughter of Sidon. Get up and cross over to Cyprus—even there you will find no rest.”<small><sub>**MT:**</sub></small>
 [[Isa.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.11|<< Isaiah 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.13|Isaiah 23:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall say, | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
-| No longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
-| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should you proceed | <big><span class="asgreek">προστεθήτε</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to insult | <big><span class="asgreek">υβρίζειν</span></big> <sup><small><small>[[G5195]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to wrong | <big><span class="asgreek">αδικείν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion; | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should go forth | <big><span class="asgreek">απέλθης</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Chittim, | <big><span class="asgreek">Κιτιείς</span></big> <sup><small><small>[[H3794]]</small></small></sup> |
-| not even | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
-| shall be rest | <big><span class="asgreek">ανάπαυσις</span></big> <sup><small><small>[[G0372]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| they shall say, | **<big>[[G2046\|ερούσιν]]</big>** |
+| No longer | **<big>[[G3765\|ουκέτι]]</big>** |
+| in any way | **<big>[[G3364\|ου μη]]</big>** |
+| should you proceed | **<big>[[G4369\|προστεθήτε]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to insult | **<big>[[G5195\|υβρίζειν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to wrong | **<big>[[G0091\|αδικείν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| daughter | **<big>[[G2364\|θυγατέρα]]</big>** |
+| of Zion; | **<big>[[G4622\|Σιών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should go forth | **<big>[[G0565\|απέλθης]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Chittim, | **<big>[[H3794\|Κιτιείς]]</big>** |
+| not even | **<big>[[G3761\|ουδέ]]</big>** |
+| there | **<big>[[G1563\|εκεί]]</big>** |
+| shall be rest | **<big>[[G0372\|ανάπαυσις]]</big>** **<big>[[G1510\|έσται]]</big>** |
+| to you. | **<big>[[G1473\|σοι]]</big>** |
 [[Isa.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.11|<< Isaiah 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.13|Isaiah 23:13 >>]]</td></tr></table>
 
 

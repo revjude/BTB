@@ -7,40 +7,40 @@ Behold now, I have two daughters which have not known man; let me, I pray you, b
 Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”<small><sub>**MT:**</sub></small>
 [[Gen.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| who | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| a man. | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| I will lead | <big><span class="asgreek">εξάξω</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you treat | <big><span class="asgreek">χράσθε</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
-| them | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
-|  | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
-| pleases | <big><span class="asgreek">αρέσκοι</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
-| you! | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Only | <big><span class="asgreek">μόνον</span></big> <sup><small><small>[[G3440]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| these men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">τούτους</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| do | <big><span class="asgreek">ποιήσητε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| unjust, | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
-| because | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">είνεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| protection | <big><span class="asgreek">σκέπην</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my beams. | <big><span class="asgreek">δοκών</span></big> <sup><small><small>[[G1385]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But there are | **<big>[[G1510\|εισί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρες]]</big>** |
+| who | **<big>[[G3739\|αι]]</big>** |
+| knew not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1097\|έγνωσαν]]</big>** |
+| a man. | **<big>[[G0435\|άνδρα]]</big>** |
+| I will lead | **<big>[[G1806\|εξάξω]]</big>** |
+| them | **<big>[[G1473\|αυτάς]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| you, | **<big>[[G1473\|υμάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you treat | **<big>[[G5530\|χράσθε]]</big>** |
+| them | **<big>[[G1473\|αυταίς]]</big>** |
+| as | **<big>[[G2505\|καθά]]</big>** |
+|  | **<big>[[G0302\|αν]]</big>** |
+| pleases | **<big>[[G0700\|αρέσκοι]]</big>** |
+| you! | **<big>[[G1473\|υμίν]]</big>** |
+| Only | **<big>[[G3440\|μόνον]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| these men | **<big>[[G0435\|άνδρας]]</big>** **<big>[[G3778\|τούτους]]</big>** |
+| you should not | **<big>[[G3361\|μη]]</big>** |
+| do | **<big>[[G4160\|ποιήσητε]]</big>** |
+| unjust, | **<big>[[G0094\|άδικον]]</big>** |
+| because | **<big>[[G3739\|ου]]</big>** **<big>[[G1752\|είνεκεν]]</big>** |
+| they entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| under | **<big>[[G5259\|υπό]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| protection | **<big>[[G9098\|σκέπην]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of my beams. | **<big>[[G1385\|δοκών]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Gen.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
 
 

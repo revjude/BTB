@@ -7,22 +7,22 @@ The things [that] my soul refused to touch [are] as my sorrowful meat.
 My soul refuses to touch them; they are loathsome food to me.<small><sub>**MT:**</sub></small>
 [[Job.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.6|<< Job 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.8|Job 6:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">δύναται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to cease | <big><span class="asgreek">παύσασθαι</span></big> <sup><small><small>[[G3973]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| for groaning | <big><span class="asgreek">βρόμον</span></big> <sup><small><small>[[G6697]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| I see | <big><span class="asgreek">ορώ</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my grain | <big><span class="asgreek">σίτά</span></big> <sup><small><small>[[G4621]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| \[the\] scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
-| of a lion. | <big><span class="asgreek">λέοντος</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| is not | **<big>[[G3756\|ου]]</big>** |
+| able | **<big>[[G1410\|δύναται]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| my | **<big>[[G1473\|μου]]</big>** |
+| to cease | **<big>[[G3973\|παύσασθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| soul | **<big>[[G5590\|ψυχή]]</big>** |
+| for groaning | **<big>[[G6697\|βρόμον]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| I see | **<big>[[G3708\|ορώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my grain | **<big>[[G4621\|σίτά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| \[the\] scent | **<big>[[G3744\|οσμήν]]</big>** |
+| of a lion. | **<big>[[G3023\|λέοντος]]</big>** |
 [[Job.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.6|<< Job 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.8|Job 6:8 >>]]</td></tr></table>
 
 

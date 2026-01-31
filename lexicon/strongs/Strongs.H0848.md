@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֶשְׁתָּאֻלִי‎</span></big> **ʼEshtâʼulîy** <small>*(esh-taw-oo-lee')*</small> ==**Eshtaolite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>patrial from <span class="ashebrew">‎אֶשְׁתָּאֹל‎</span><sup><small>[[H0847]]</small></sup></small>
+**<big><span class="ashebrew">‎אֶשְׁתָּאֻלִי‎</span></big>** **ʼEshtâʼulîy** <small>*(esh-taw-oo-lee')*</small> ==**Eshtaolite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>patrial from **<big>[[H0847|‎אֶשְׁתָּאֹל‎]]</big>**</small>
 
 $\quad$ Eshtaulites.
 - § Eshtaulites = *"I will be entreated"*

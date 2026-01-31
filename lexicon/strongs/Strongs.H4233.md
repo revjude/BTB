@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎מַחֲוִים‎</span></big> **Machăvîym** <small>*(makh-av-eem')*</small> ==**Mahavite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+**<big><span class="ashebrew">‎מַחֲוִים‎</span></big>** **Machăvîym** <small>*(makh-av-eem')*</small> ==**Mahavite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
 <small>apparently a patrial, but from an unknown place (in the plural only for a singular)</small>
 
 $\quad$ Mahavite.

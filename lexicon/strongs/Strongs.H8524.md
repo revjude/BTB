@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎תָּלַל‎</span></big> **tâlal** <small>*(taw-lal')*</small> ==**be eminent**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּלַל‎</span></big>** **tâlal** <small>*(taw-lal')*</small> ==**be eminent**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
-$\quad$ eminent. Compare <span class="ashebrew">‎הָתַל‎</span><sup><small>[[H2048]]</small></sup>.
+$\quad$ eminent. Compare **<big>[[H2048|‎הָתַל‎]]</big>**.
 - ***to pile up***, i.e. ***elevate***
 
 v

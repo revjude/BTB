@@ -7,43 +7,43 @@ But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plain
 But the army of the Chaldeans pursued them and overtook Zedekiah in the plains of Jericho. They seized him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced judgment on him.<small><sub>**MT:**</sub></small>
 [[Jer.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.4|<< Jeremiah 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.6|Jeremiah 39:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pursued | <big><span class="asgreek">κατεδίωξεν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δύναμις</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Chaldeans | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
-| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they seized | <big><span class="asgreek">συνέλαβον</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zedekiah | <big><span class="asgreek">Σεδεκίαν</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
-| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of Jericho, | <big><span class="asgreek">Ιεριχώ</span></big> <sup><small><small>[[G2410]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they led | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Riblah | <big><span class="asgreek">Ρεβλάθα</span></big> <sup><small><small>[[H7247]]</small></small></sup> |
-| the \[city\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Hamath. | <big><span class="asgreek">Αιμάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| against him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| judgment. | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| pursued | **<big>[[G2614\|κατεδίωξεν]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| force | **<big>[[G1411\|δύναμις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| Chaldeans | **<big>[[G5466\|Χαλδαίων]]</big>** |
+| after | **<big>[[G3694\|οπίσω]]</big>** |
+| them. | **<big>[[G1473\|αυτών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| they seized | **<big>[[G4815\|συνέλαβον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zedekiah | **<big>[[H6667\|Σεδεκίαν]]</big>** |
+| on | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| other side | **<big>[[G4008\|πέραν]]</big>** |
+| of Jericho, | **<big>[[G2410\|Ιεριχώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they led | **<big>[[G0071\|ήγαγον]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Nebuchadnezzar | **<big>[[H5020\|Ναβουχοδονόσορ]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Babylon | **<big>[[G0897\|Βαβυλώνος]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Riblah | **<big>[[H7247\|Ρεβλάθα]]</big>** |
+| the \[city\]\<obj.> | **<big>[[G3588\|την]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| land | **<big>[[G1093\|γη]]</big>** |
+| of Hamath. | **<big>[[H2574\|Αιμάθ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he spoke | **<big>[[G3004\|ελάλησεν]]</big>** |
+| against him | **<big>[[G1473\|αυτώ]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| judgment. | **<big>[[G2920\|κρίσεως]]</big>** |
 [[Jer.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.4|<< Jeremiah 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.6|Jeremiah 39:6 >>]]</td></tr></table>
 
 

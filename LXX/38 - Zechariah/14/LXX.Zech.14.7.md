@@ -7,27 +7,27 @@ But it shall be one day which shall be known to the LORD, not day, nor night: bu
 It will be a unique day known only to the LORD, without day or night; but when evening comes, there will be light.<small><sub>**MT:**</sub></small>
 [[Zech.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.6|<< Zechariah 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.8|Zechariah 14:8 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| It shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| day, | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| shall be known | <big><span class="asgreek">γνωσθήσεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| neither | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
-| night, | <big><span class="asgreek">νυξ</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| evening | <big><span class="asgreek">εσπέραν</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
-| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| light. | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| It shall be | **<big>[[G1510\|έσται]]</big>** |
+| one | **<big>[[G1520\|μίαν]]</big>** |
+| day, | **<big>[[G2250\|ημέραν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| shall be known | **<big>[[G1097\|γνωσθήσεται]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| neither | **<big>[[G3777\|ούτε]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| nor | **<big>[[G3777\|ούτε]]</big>** |
+| night, | **<big>[[G3571\|νυξ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| towards | **<big>[[G4314\|προς]]</big>** |
+| evening | **<big>[[G2073\|εσπέραν]]</big>** |
+| it shall be | **<big>[[G1510\|έσται]]</big>** |
+| light. | **<big>[[G5457\|φως]]</big>** |
 [[Zech.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.6|<< Zechariah 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.8|Zechariah 14:8 >>]]</td></tr></table>
 
 

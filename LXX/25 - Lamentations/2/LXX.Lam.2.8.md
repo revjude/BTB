@@ -9,30 +9,30 @@ The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stre
 The LORD determined to destroy the wall of the Daughter of Zion. He stretched out a measuring line and did not withdraw His hand from destroying. He made the ramparts and walls lament; together they waste away.<small><sub>**MT:**</sub></small>
 [[Lam.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΗΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΗΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| \[The\] <span class="smallcaps">lord</span> devised | <big><span class="asgreek">ελογίσατο</span></big> <sup><small><small>[[G3049]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to ruin | <big><span class="asgreek">διαφθείραι</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
-| \[the\] wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| He stretched out | <big><span class="asgreek">εξέτεινε</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| a measure, | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
-| he did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| return | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| trampling; | <big><span class="asgreek">καταπατήματος</span></big> <sup><small><small>[[G7888]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mourned | <big><span class="asgreek">επένθησε</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| area around the wall | <big><span class="asgreek">προτείχισμα</span></big> <sup><small><small>[[G8950]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| with one accord | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> |
-| was weakened. | <big><span class="asgreek">ησθένησεν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
+| ΗΘ <sup><small>[acrostic title]</small></sup> |  |
+| \[The\] <span class="smallcaps">lord</span> devised | **<big>[[G3049\|ελογίσατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to ruin | **<big>[[G1311\|διαφθείραι]]</big>** |
+| \[the\] wall | **<big>[[G5038\|τείχος]]</big>** |
+| of \[the\] daughter | **<big>[[G2364\|θυγατρός]]</big>** |
+| of Zion. | **<big>[[G4622\|Σιών]]</big>** |
+| He stretched out | **<big>[[G1614\|εξέτεινε]]</big>** |
+| a measure, | **<big>[[G3358\|μέτρον]]</big>** |
+| he did not | **<big>[[G3756\|ουκ]]</big>** |
+| return | **<big>[[G0654\|απέστρεψε]]</big>** |
+| his hand | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| trampling; | **<big>[[G7888\|καταπατήματος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mourned | **<big>[[G3996\|επένθησε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| area around the wall | **<big>[[G8950\|προτείχισμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] wall | **<big>[[G5038\|τείχος]]</big>** |
+| with one accord | **<big>[[G3661\|ομοθυμαδόν]]</big>** |
+| was weakened. | **<big>[[G0770\|ησθένησεν]]</big>** |
 [[Lam.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
 
 

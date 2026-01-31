@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֻזִּיאֵל‎</span></big> **ʻUzzîyʼêl** <small>*(ooz-zee-ale')*</small> ==**Uzziel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עֹז‎</span><sup><small>[[H5797]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; strength of God</small>
+**<big><span class="ashebrew">‎עֻזִּיאֵל‎</span></big>** **ʻUzzîyʼêl** <small>*(ooz-zee-ale')*</small> ==**Uzziel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5797|‎עֹז‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; strength of God</small>
 
 $\quad$ Uzziel.
 - § Uzziel = *"my strength is God"*

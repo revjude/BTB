@@ -7,39 +7,39 @@ And if it be not redeemed within the space of a full year, then the house that [
 If it is not redeemed by the end of a full year, then the house in the walled city is permanently transferred to its buyer and his descendants. It is not to be released in the Jubilee.<small><sub>**MT:**</sub></small>
 [[Lev.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.29|<< Leviticus 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.31|Leviticus 25:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| be ransomed | <big><span class="asgreek">λυτρωθή</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| should be fulfilled | <big><span class="asgreek">πληρωθή</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
-| \[the\] entire | <big><span class="asgreek">όλος</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
-| shall be validated | <big><span class="asgreek">κυρωθήσεται</span></big> <sup><small><small>[[G2964]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">ούσα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| having | <big><span class="asgreek">εχούση</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| a wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| firmly | <big><span class="asgreek">βεβαίως</span></big> <sup><small><small>[[G6663]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one acquiring | <big><span class="asgreek">κτησαμένω</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his generations, | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| release. | <big><span class="asgreek">αφέσει</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
+| But if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| it should not | **<big>[[G3361\|μη]]</big>** |
+| be ransomed | **<big>[[G3084\|λυτρωθή]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| should be fulfilled | **<big>[[G4137\|πληρωθή]]</big>** |
+| year | **<big>[[G1763\|ενιαυτός]]</big>** |
+| \[the\] entire | **<big>[[G3650\|όλος]]</big>** |
+| shall be validated | **<big>[[G2964\|κυρωθήσεται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| house | **<big>[[G3614\|οικία]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| being | **<big>[[G1510\|ούσα]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city | **<big>[[G4172\|πόλει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| having | **<big>[[G2192\|εχούση]]</big>** |
+| a wall | **<big>[[G5038\|τείχος]]</big>** |
+| firmly | **<big>[[G6663\|βεβαίως]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| one acquiring | **<big>[[G2932\|κτησαμένω]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| his generations, | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall not | **<big>[[G3756\|ουκ]]</big>** |
+| go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| release. | **<big>[[G0859\|αφέσει]]</big>** |
 [[Lev.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.29|<< Leviticus 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.31|Leviticus 25:31 >>]]</td></tr></table>
 
 

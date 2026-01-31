@@ -6,16 +6,16 @@ May the arrogant be put to shame for subverting me with a lie; I will meditate o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.77|<< Psalms 119:77]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.79|Psalms 119:79 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| let them be ashamed  | <span class="ashebrew"><big>יֵבֹ֣שׁוּ </big></span><small><small><sup>[[H0954]]</sup></small></small> &#8207;| ye.Vo.shu <small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arrogant [people]  | <span class="ashebrew"><big>זֵ֭דִים </big></span><small><small><sup>[[H2086]]</sup></small></small> &#8207;| Ze.dim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| falsehood  | <span class="ashebrew"><big>שֶׁ֣קֶר </big></span><small><small><sup>[[H8267]]</sup></small></small> &#8207;| She.ker <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have subverted me  | <span class="ashebrew"><big>עִוְּת֑וּ </big></span><small><small><sup>[[H5791]]</sup></small></small> <span class="ashebrew"><big>נִי </big></span><small><small><sup>[[H9030]]</sup></small></small> &#8207;| 'i.ve.Tu. <small><sup>[[HVpp3cp]]</sup></small> ni <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  | <span class="ashebrew"><big>אֲ֝נִ֗י </big></span><small><small><sup>[[H0589]]</sup></small></small> &#8207;| 'a.Ni <small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will meditate  | <span class="ashebrew"><big>אָשִׂ֥יחַ </big></span><small><small><sup>[[H7878]]</sup></small></small> &#8207;| 'a.Si.ach <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on precepts your  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>פִקּוּדֶֽי </big></span><small><small><sup>[[H6490]]</sup></small></small> <span class="ashebrew"><big>ךָ </big></span><small><small><sup>[[H9021]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> fi.ku.Dei. <small><sup>[[HNcmpc]]</sup></small> cha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֣שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrogant [people]  |**<big>&#8207;[[H2086\|זֵ֭דִים]]&#8207; </big>**| Ze.dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  |**<big>&#8207;[[H8267\|שֶׁ֣קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have subverted me  |**<big>&#8207;[[H5791\|עִוְּת֑וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'i.ve.Tu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0589\|אֲ֝נִ֗י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will meditate  |**<big>&#8207;[[H7878\|אָשִׂ֥יחַ]]&#8207; </big>**| 'a.Si.ach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on precepts your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6490\|פִקּוּדֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> fi.ku.Dei.<small><sup>[[HNcmpc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.77|<< Psalms 119:77]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.79|Psalms 119:79 >>]]</td></tr></table>
 
 

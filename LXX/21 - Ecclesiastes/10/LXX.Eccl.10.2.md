@@ -7,17 +7,17 @@ A wise man’s heart [is] at his right hand; but a fool’s heart at his left.
 A wise man’s heart inclines to the right, but the heart of a fool to the left.<small><sub>**MT:**</sub></small>
 [[Eccl.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.1|<< Ecclesiastes 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.3|Ecclesiastes 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| A heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of a wise \[man\] | <big><span class="asgreek">σοφού</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| \[is\] at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his right \[hand\]; | <big><span class="asgreek">δεξιόν</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| of a fool | <big><span class="asgreek">άφρονος</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
-| \[is\] at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| his left. | <big><span class="asgreek">αριστερόν</span></big> <sup><small><small>[[G0710]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A heart | **<big>[[G2588\|καρδία]]</big>** |
+| of a wise \[man\] | **<big>[[G4680\|σοφού]]</big>** |
+| \[is\] at | **<big>[[G1519\|εις]]</big>** |
+| his right \[hand\]; | **<big>[[G1188\|δεξιόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
+| of a fool | **<big>[[G0878\|άφρονος]]</big>** |
+| \[is\] at | **<big>[[G1519\|εις]]</big>** |
+| his left. | **<big>[[G0710\|αριστερόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Eccl.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.1|<< Ecclesiastes 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.3|Ecclesiastes 10:3 >>]]</td></tr></table>
 
 

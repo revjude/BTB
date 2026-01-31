@@ -7,41 +7,41 @@ Ye said also, Behold, what a weariness [is it]! and ye have snuffed at it, saith
 You also say: ‘Oh, what a nuisance!’ And you turn up your nose at it,” says the LORD of Hosts. “You bring offerings that are stolen, lame, or sick! Should I accept these from your hands?” asks the LORD.<small><sub>**MT:**</sub></small>
 [[Mal.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.12|<< Malachi 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.14|Malachi 1:14 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| it is troublesome. | <big><span class="asgreek">κακοπαθείας</span></big> <sup><small><small>[[G2552]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you blew them away, | <big><span class="asgreek">εξεφυσήσατε</span></big> <sup><small><small>[[G7171]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty; | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you carried in | <big><span class="asgreek">εισεφέρετε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| prey, | <big><span class="asgreek">αρπάγματα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lame, | <big><span class="asgreek">χωλά</span></big> <sup><small><small>[[G5560]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| troubled. | <big><span class="asgreek">ενοχλούμενα</span></big> <sup><small><small>[[G1776]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[thus\] you brought | <big><span class="asgreek">εισεφέρετε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sacrifice. | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
-| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| I favorably receive | <big><span class="asgreek">προσδέξομαι</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your hands, | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty, \[no\]. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| you said, | **<big>[[G2036\|είπατε]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| it is troublesome. | **<big>[[G2552\|κακοπαθείας]]</big>** **<big>[[G1510\|εστί]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| you blew them away, | **<big>[[G7171\|εξεφυσήσατε]]</big>** **<big>[[G1473\|αυτά]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty; | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you carried in | **<big>[[G1533\|εισεφέρετε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| prey, | **<big>[[G6540\|αρπάγματα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| lame, | **<big>[[G5560\|χωλά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| troubled. | **<big>[[G1776\|ενοχλούμενα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \[thus\] you brought | **<big>[[G1533\|εισεφέρετε]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| sacrifice. | **<big>[[G2378\|θυσίαν]]</big>** |
+| Shall | **<big>[[G1487\|ει]]</big>** |
+| I favorably receive | **<big>[[G4327\|προσδέξομαι]]</big>** |
+| them | **<big>[[G1473\|αυτά]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| your hands, | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty, \[no\]. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
 [[Mal.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.12|<< Malachi 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.14|Malachi 1:14 >>]]</td></tr></table>
 
 

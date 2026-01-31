@@ -4,7 +4,7 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Philetus</span>, along with Hymenaeus, was a false teacher who had strayed from the truth and taught that the resurrection had already taken place.
 - A man living at the time of the New Testament, only mentioned at [[2Tim.2.17|2Ti.2.17]]; 
-- only referred to as Philetus<[[G5372]]> \(<span class='tipnrLangGreek'>Φίλητος</span>\).
+- only referred to as Philetus **<big>[[G5372|Φίλητος]]</big>**.
 
 Philetus is mentioned in [[2Tim.2.17|2 Timothy 2:17]] as one of two individuals, along with Hymenaeus, who had strayed from the truth and were promoting false teachings in the early Christian church. According to Paul, their message was spreading like gangrene, causing spiritual harm to those who listened to them. 
 
@@ -14,5 +14,5 @@ Paul's mention of Philetus and Hymenaeus serves as a warning to Timothy, and by 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Philetus | [<span class='tipnrLangGreek'>Φίλητος</span>](G5372) <small>*Greek*</small> | 1x | [2Ti.2.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philetus\*\|reference=2Ti.2.17) |
-All Strong's for **Philetus**: \[[[G5372]]\]
+| Philetus | [<span class='tipnrLangGreek'>Φίλητος</span>](G5372) | 1x | [2Ti.2.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philetus\*\|reference=2Ti.2.17) |
+All entries for **Philetus**:  **<big>[[G5372|Φίλητος]]</big>**

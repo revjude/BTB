@@ -7,41 +7,41 @@ Her priests have violated my law, and have profaned mine holy things: they have 
 Her priests do violence to My law and profane My holy things. They make no distinction between the holy and the common, and they fail to distinguish between the clean and the unclean. They disregard My Sabbaths, so that I am profaned among them.<small><sub>**MT:**</sub></small>
 [[Ezek.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.25|<< Ezekiel 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.27|Ezekiel 22:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| annulled | <big><span class="asgreek">ηθέτησαν</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my law, | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they profaned | <big><span class="asgreek">εβεβήλουν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my holy \[things\]. | <big><span class="asgreek">άγιά</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| profane | <big><span class="asgreek">βεβήλου</span></big> <sup><small><small>[[G0952]]</small></small></sup> |
-| they distinguished not, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διέστελλον</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
-| unclean | <big><span class="asgreek">ακαθάρτου</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| clean | <big><span class="asgreek">καθαρού</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
-| they distinguished not; | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διέστελλον</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my Sabbaths | <big><span class="asgreek">σαββάτων</span></big> <sup><small><small>[[G4521]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they covered up | <big><span class="asgreek">παρεκάλυπτον</span></big> <sup><small><small>[[G3871]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I was profaned | <big><span class="asgreek">εβεβηλούμην</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| their midst. | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| her priests | **<big>[[G2409\|ιερείς]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| annulled | **<big>[[G0114\|ηθέτησαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| my law, | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they profaned | **<big>[[G0953\|εβεβήλουν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my holy \[things\]. | **<big>[[G0039\|άγιά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Between | **<big>[[G6271\|αναμέσον]]</big>** |
+| holy | **<big>[[G0039\|αγίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| profane | **<big>[[G0952\|βεβήλου]]</big>** |
+| they distinguished not, | **<big>[[G3756\|ου]]</big>** **<big>[[G1291\|διέστελλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| between | **<big>[[G6271\|αναμέσον]]</big>** |
+| unclean | **<big>[[G0169\|ακαθάρτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| clean | **<big>[[G2513\|καθαρού]]</big>** |
+| they distinguished not; | **<big>[[G3756\|ου]]</big>** **<big>[[G1291\|διέστελλον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my Sabbaths | **<big>[[G4521\|σαββάτων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| they covered up | **<big>[[G3871\|παρεκάλυπτον]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their eyes, | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I was profaned | **<big>[[G0953\|εβεβηλούμην]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| their midst. | **<big>[[G3319\|μέσω]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.25|<< Ezekiel 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.27|Ezekiel 22:27 >>]]</td></tr></table>
 
 

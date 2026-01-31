@@ -6,27 +6,27 @@ And Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.28|<< Genesis 11:28]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.30|Genesis 11:30 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he took  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּקַּ֨ח </big></span><small><small><sup>[[H3947I]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Kach <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abram  | <span class="ashebrew"><big>אַבְרָ֧ם </big></span><small><small><sup>[[H0087]]</sup></small></small> &#8207;| 'av.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Nahor  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נָח֛וֹר </big></span><small><small><sup>[[H5152H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> na.Chor <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> themselves  | <span class="ashebrew"><big>לָ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֖ם </big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> Hem <small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wives  | <span class="ashebrew"><big>נָשִׁ֑ים </big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| na.Shim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] name of  | <span class="ashebrew"><big>שֵׁ֤ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wife of  | <span class="ashebrew"><big>אֵֽשֶׁת </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'e.shet- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abram  | <span class="ashebrew"><big>אַבְרָם֙ </big></span><small><small><sup>[[H0087]]</sup></small></small> &#8207;| 'av.Ram <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Sarai  | <span class="ashebrew"><big>שָׂרָ֔י </big></span><small><small><sup>[[H8297]]</sup></small></small> &#8207;| sa.Rai <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] name of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>שֵׁ֤ם </big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wife of  | <span class="ashebrew"><big>אֵֽשֶׁת </big></span><small><small><sup>[[H0802H]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'e.shet- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Nahor  | <span class="ashebrew"><big>נָחוֹר֙ </big></span><small><small><sup>[[H5152H]]</sup></small></small> &#8207;| na.chOr <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] Milcah  | <span class="ashebrew"><big>מִלְכָּ֔ה </big></span><small><small><sup>[[H4435G]]</sup></small></small> &#8207;| mil.Kah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] daughter of  | <span class="ashebrew"><big>בַּת </big></span><small><small><sup>[[H1323G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| bat- <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Haran  | <span class="ashebrew"><big>הָרָ֥ן </big></span><small><small><sup>[[H2039G]]</sup></small></small> &#8207;| ha.Ran <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] father of  | <span class="ashebrew"><big>אֲבִֽי </big></span><small><small><sup>[[H0001G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'a.vi- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Milcah  | <span class="ashebrew"><big>מִלְכָּ֖ה </big></span><small><small><sup>[[H4435G]]</sup></small></small> &#8207;| mil.Kah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] father of  | <span class="ashebrew"><big>וַֽ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אֲבִ֥י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| va. <small><sup>[[HC]]</sup></small> 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Iscah  | <span class="ashebrew"><big>יִסְכָּֽה </big></span><small><small><sup>[[H3252]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| yis.Kah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947I\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abram  |**<big>&#8207;[[H0087\|אַבְרָ֧ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nahor  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5152H\|נָח֛וֹר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Chor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wives  |**<big>&#8207;[[H0802H\|נָשִׁ֑ים]]&#8207; </big>**| na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֤ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  |**<big>&#8207;[[H0802H\|אֵֽשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abram  |**<big>&#8207;[[H0087\|אַבְרָם֙]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Sarai  |**<big>&#8207;[[H8297\|שָׂרָ֔י]]&#8207; </big>**| sa.Rai<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  |**<big>&#8207;[[H0802H\|אֵֽשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nahor  |**<big>&#8207;[[H5152H\|נָחוֹר֙]]&#8207; </big>**| na.chOr<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Milcah  |**<big>&#8207;[[H4435G\|מִלְכָּ֔ה]]&#8207; </big>**| mil.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haran  |**<big>&#8207;[[H2039G\|הָרָ֥ן]]&#8207; </big>**| ha.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father of  |**<big>&#8207;[[H0001G\|אֲבִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.vi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Milcah  |**<big>&#8207;[[H4435G\|מִלְכָּ֖ה]]&#8207; </big>**| mil.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] father of  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H0001G\|אֲבִ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Iscah  |**<big>&#8207;[[H3252\|יִסְכָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yis.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.28|<< Genesis 11:28]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.30|Genesis 11:30 >>]]</td></tr></table>
 
 

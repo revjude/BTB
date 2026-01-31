@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חֲשׂוּפָא‎</span></big> **Chăsûwphâʼ** <small>*(khas-oo-faw')*</small> ==**Hasupha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">חֲשֻׂפָא</span> **Chăsuphâʼ** <small>*(khas-oo-faw')*</small>; from <span class="ashebrew">‎חָשַׂף‎</span><sup><small>[[H2834]]</small></sup>; nakedness</small>
+**<big><span class="ashebrew">‎חֲשׂוּפָא‎</span></big>** **Chăsûwphâʼ** <small>*(khas-oo-faw')*</small> ==**Hasupha**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">חֲשֻׂפָא</span></big>** **Chăsuphâʼ** <small>*(khas-oo-faw')*</small>; from **<big>[[H2834|‎חָשַׂף‎]]</big>**; nakedness</small>
 
 $\quad$ Hashupha, Hasupha.
 - § Hasupha or Hashupha = *"stripped"*

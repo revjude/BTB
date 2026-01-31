@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎גַּנָּב‎</span></big> **gannâb** <small>*(gaw-nab')*</small> ==**thief**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎גָּנַב‎</span><sup><small>[[H1589]]</small></sup></small>
+**<big><span class="ashebrew">‎גַּנָּב‎</span></big>** **gannâb** <small>*(gaw-nab')*</small> ==**thief**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1589|‎גָּנַב‎]]</big>**</small>
 
 $\quad$ thief.
 - ***a stealer***
 
 **1)** thief
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κλέπτης</span><sup><small>[[G2812]]</small></sup> · <span class="asgreek">κλέπτης</span><sup><small>[[G2812]]</small></sup>
+<small>See Greek: </small>**<big>[[G2812|κλέπτης]]</big>** · **<big>[[G2812|κλέπτης]]</big>**

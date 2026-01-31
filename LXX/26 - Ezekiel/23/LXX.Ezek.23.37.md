@@ -7,29 +7,29 @@ That they have committed adultery, and blood [is] in their hands, and with their
 For they have committed adultery, and blood is on their hands. They have committed adultery with their idols. They have even sacrificed their children, whom they bore to Me, in the fire as food for their idols.<small><sub>**MT:**</sub></small>
 [[Ezek.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.36|<< Ezekiel 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.38|Ezekiel 23:38 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they committed adultery, | <big><span class="asgreek">εμοιχώντο</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \[is\] on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their hands; | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with their thoughts | <big><span class="asgreek">ενθυμήμασιν</span></big> <sup><small><small>[[G7243]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they committed adultery. | <big><span class="asgreek">εμοιχώντο</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they bore | <big><span class="asgreek">εγέννησάν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| led them | <big><span class="asgreek">διήγαγον</span></big> <sup><small><small>[[G1236]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| fire. | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| they committed adultery, | **<big>[[G3429\|εμοιχώντο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| \[is\] on | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| their hands; | **<big>[[G5495\|χερσίν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| with their thoughts | **<big>[[G7243\|ενθυμήμασιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| they committed adultery. | **<big>[[G3429\|εμοιχώντο]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their children | **<big>[[G5043\|τέκνα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| which | **<big>[[G3739\|α]]</big>** |
+| they bore | **<big>[[G1080\|εγέννησάν]]</big>** |
+| to me, | **<big>[[G1473\|μοι]]</big>** |
+| led them | **<big>[[G1236\|διήγαγον]]</big>** **<big>[[G1473\|αυτά]]</big>** |
+| they | **<big>[[G1473\|αυτοίς]]</big>** |
+| through | **<big>[[G1223\|διά]]</big>** |
+| fire. | **<big>[[G4442\|πυρός]]</big>** |
 [[Ezek.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.36|<< Ezekiel 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.38|Ezekiel 23:38 >>]]</td></tr></table>
 
 

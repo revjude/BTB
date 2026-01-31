@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎הוֹדְוָה‎</span></big> **Hôwdᵉvâh** <small>*(ho-dev-aw')*</small> ==**Hodevah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>a form of <span class="ashebrew">‎הוֹדַוְיָה‎</span><sup><small>[[H1938]]</small></sup></small>
+**<big><span class="ashebrew">‎הוֹדְוָה‎</span></big>** **Hôwdᵉvâh** <small>*(ho-dev-aw')*</small> ==**Hodevah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>a form of **<big>[[H1938|‎הוֹדַוְיָה‎]]</big>**</small>
 
 $\quad$ Hodevah.
 - § Hodevah = *"praise of Jehovah"*

@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Secu</span> was a place near Ramah where Saul went in search of David \(1 Sam. 19:22\).
 - A location only mentioned at [[1Sam.19.22|1Sa.19.22]]; 
-- only referred to as Secu<[[H7906]]> \(<span class='tipnrLangHebrew'>ש</span>ֵׂ֫<span class='tipnrLangHebrew'>כו</span>ּ\).
+- only referred to as Secu **<big>[[H7906|שֵׂכוּ]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.883333,35.200000&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The mention of Secu in this narrative highlights the extent of Saul's pursuit of
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Secu (KJV= Sechu; NIV= Seku) | [<span class='tipnrLangHebrew'>ש</span>ֵׂ֫<span class='tipnrLangHebrew'>כו</span>ּ](H7906) <small>*Hebrew*</small> | 1x | [1Sa.19.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Secu\*\|reference=1Sa.19.22) |
-All Strong's for **Secu**: \[[[H7906]]\]
+| Secu (KJV= Sechu; NIV= Seku) | [<span class='tipnrLangHebrew'>ש</span>ֵׂ֫<span class='tipnrLangHebrew'>כו</span>ּ](H7906) | 1x | [1Sa.19.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Secu\*\|reference=1Sa.19.22) |
+All entries for **Secu**:  **<big>[[H7906|שֵׂכוּ]]</big>**

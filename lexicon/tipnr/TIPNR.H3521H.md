@@ -1,8 +1,8 @@
 <small>*Cabul\_2 • Name given to 20 cities by Hiram*</small>
 
 <span class='tipnrhighlight'>Cabul</span> was the name given by Hiram, king of Tyre, to the twenty cities given to him by Solomon.
-- A location near Cabul<[[H3521G]]> only mentioned at [[1Kgs.9.13|1Ki.9.13]]; 
-- only referred to as Cabul<[[H3521H]]> \(<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>\).
+- A location near Cabul **<big>[[H3521|כָּבוּל]]</big>** only mentioned at [[1Kgs.9.13|1Ki.9.13]]; 
+- only referred to as Cabul **<big>[[H3521|כָּבוּל]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.865661,35.211814&zoom=10&maptype=satellite"></iframe>
 
 
@@ -12,5 +12,5 @@ The exact location and identity of these cities are not specified in the Bible. 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cabul | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H3521H) <small>*Hebrew*</small> | 1x | [1Ki.9.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cabul\*\|reference=1Ki.9.13) |
-All Strong's for **Cabul**: \[[[H3521H]]\]
+| Cabul | [<span class='tipnrLangHebrew'>כ</span>ָּ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>](H3521H) | 1x | [1Ki.9.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cabul\*\|reference=1Ki.9.13) |
+All entries for **Cabul**:  **<big>[[H3521|כָּבוּל]]</big>**

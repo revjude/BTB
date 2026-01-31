@@ -7,21 +7,21 @@ The eyes of all wait upon thee; and thou givest them their meat in due season.
 The eyes of all look to You, and You give them their food in season.<small><sub>**MT:**</sub></small>
 [[Ps.145.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.14|<< Psalm 145:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.16|Psalm 145:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| hope | <big><span class="asgreek">ελπίζουσι</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| give | <big><span class="asgreek">δίδως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| them nourishment | <big><span class="asgreek">τροφήν</span></big> <sup><small><small>[[G5160]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| an opportune time. | <big><span class="asgreek">ευκαιρία</span></big> <sup><small><small>[[G2120]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| eyes | **<big>[[G3788\|οφθαλμοί]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| you | **<big>[[G1473\|σε]]</big>** |
+| hope | **<big>[[G1679\|ελπίζουσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| give | **<big>[[G1325\|δίδως]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| them nourishment | **<big>[[G5160\|τροφήν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| an opportune time. | **<big>[[G2120\|ευκαιρία]]</big>** |
 [[Ps.145.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.14|<< Psalm 145:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.16|Psalm 145:16 >>]]</td></tr></table>
 
 

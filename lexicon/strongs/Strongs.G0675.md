@@ -1,4 +1,4 @@
-<big><span class="asgreek">‎Ἄππιος‎</span></big> **Áppios** <small>*(ap'-pee-os)*</small> ==**of Appius**==  <sup><small>[[TEGMC#N:N-M-L|N:N-M-L]]</small></sup> 
+**<big><span class="asgreek">‎Ἄππιος‎</span></big>** **Áppios** <small>*(ap'-pee-os)*</small> ==**of Appius**==  <sup><small>[[TEGMC#N:N-M-L|N:N-M-L]]</small></sup> 
 <small>of Latin origin</small>
 
 $\quad$ Appii.

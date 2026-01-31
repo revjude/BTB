@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎טִבְחָה‎</span></big> **ṭibchâh** <small>*(tib-khaw')*</small> ==**slaughtered**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎טֶבַח‎</span><sup><small>[[H2874]]</small></sup> and meaning the same</small>
+**<big><span class="ashebrew">‎טִבְחָה‎</span></big>** **ṭibchâh** <small>*(tib-khaw')*</small> ==**slaughtered**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H2874|‎טֶבַח‎]]</big>** and meaning the same</small>
 
 $\quad$ flesh, slaughter.
 - {properly, ***something slaughtered***

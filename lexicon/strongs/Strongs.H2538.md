@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָמוּל‎</span></big> **Châmûwl** <small>*(khaw-mool')*</small> ==**Hamul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חָמַל‎</span><sup><small>[[H2550]]</small></sup>; pitied</small>
+**<big><span class="ashebrew">‎חָמוּל‎</span></big>** **Châmûwl** <small>*(khaw-mool')*</small> ==**Hamul**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2550|‎חָמַל‎]]</big>**; pitied</small>
 
 $\quad$ Hamul.
 - § Hamul = *"spared"*

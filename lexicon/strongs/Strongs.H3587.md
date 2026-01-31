@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎כִּי‎</span></big> **kîy** <small>*(kee)*</small> ==**branding**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎כָּוָה‎</span><sup><small>[[H3554]]</small></sup></small>
+**<big><span class="ashebrew">‎כִּי‎</span></big>** **kîy** <small>*(kee)*</small> ==**branding**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3554|‎כָּוָה‎]]</big>**</small>
 
 $\quad$ burning.
 - ***a brand*** or ***scar***

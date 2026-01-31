@@ -1,8 +1,8 @@
 <small>*Water Gate • A gate in Jerusalem's wall, rebuilt by Nehemiah*</small>
 
 The <span class='tipnrhighlight'>Water Gate</span>, one of the gates in Jerusalem's wall, rebuilt by Nehemiah and associated with the reading of the Law and the celebration of the Feast of Tabernacles \(Neh. 3:26; 8:1, 3, 16; 12:37\).
-- A location in Jerusalem<[[H3389]]> first mentioned at [[Neh.3.26|Neh.3.26]]; 
-- only referred to as Water\_Gate<[[H4325H]]> \(<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>\).
+- A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** first mentioned at [[Neh.3.26|Neh.3.26]]; 
+- only referred to as Water\_Gate **<big>[[H4325|מַיִם]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Water Gate was one of the gates in the wall of Jerusalem, mentioned in the B
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Water (Gate) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>](H4325H) <small>*Hebrew*</small> | 5x | [[Neh.3.26] ... [Neh.12.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Water\*\|reference=Neh.3.26;Neh.8.1;Neh.8.3;Neh.8.16;Neh.12.37) |
-All Strong's for **Water_Gate**: \[[[H4325H]]\]
+| Water (Gate) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>](H4325H) | 5x | [[Neh.3.26] ... [Neh.12.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Water\*\|reference=Neh.3.26;Neh.8.1;Neh.8.3;Neh.8.16;Neh.12.37) |
+All entries for **Water Gate**:  **<big>[[H4325|מַיִם]]</big>**

@@ -4,8 +4,8 @@ Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Abihail</span> was the father of Esther \(also known as Hadassah\), who became Queen of Persia and saved the Jewish people from Haman's plot.
 - A man living at the time of Exile and Return, first mentioned at [[Esth.2.15|Est.2.15]]; 
-- only referred to as Abihail<[[H0032K]]> \(<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יח</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>\); 
--  father of Esther<[[H0635]]>.
+- only referred to as Abihail **<big>[[H0032|אֲבִיהַיִל]]</big>**; 
+-  father of Esther **<big>[[H0635|אֶסְתֵּר]]</big>**.
 
 Abihail is mentioned in the book of Esther as the father of Esther, also known as Hadassah \([[Esth.2.15|Esther 2:15]]\). Esther was a young Jewish woman living in Persia during the reign of King Ahasuerus \(Xerxes I\). After Queen Vashti was deposed, Esther was chosen to become the new queen. 
 
@@ -15,7 +15,7 @@ Esther, along with her cousin and guardian Mordecai, wrote a letter to confirm t
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Abihail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יח</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>](H0032K) <small>*Hebrew*</small> | 2x | [[Est.2.15] & [Est.9.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abihail\*\|reference=Est.2.15;Est.9.29) |
-All Strong's for **Abihail**: \[[[H0032K]]\]
+| Abihail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יח</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>](H0032K) | 2x | [[Est.2.15] & [Est.9.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abihail\*\|reference=Est.2.15;Est.9.29) |
+All entries for **Abihail**:  **<big>[[H0032|אֲבִיהַיִל]]</big>**
 #### Related Profiles:
 - **[Esther](H0635)** (child)

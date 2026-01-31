@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Sepharad</span>, possibly referring to Sardis, was a destination of exiled Jews \(Obad. 1:20\) and one of the seven churches mentioned in Revelation \(Rev. 1:11; 3:1, 4\).
 - A location first mentioned at [[Gen.10.30|Oba.1.20]]; 
-- referred to as Sepharad<[[H5614]]> \(<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ֑<span class='tipnrLangHebrew'>ד</span>\), or Sardis<[[G4554]]> \(<span class='tipnrLangGreek'>Σάρδεις</span>\).
+- referred to as Sepharad **<big>[[H5614|סְפָרָד]]</big>**, or Sardis **<big>[[G4554|Σάρδεις]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=38.47682690345803,28.11413118732089&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,6 +14,6 @@ If Sepharad and Sardis are indeed the same place, the reference in Obadiah sugge
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sepharad | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ֑<span class='tipnrLangHebrew'>ד</span>](H5614) <small>*Hebrew*</small> | 1x | [Oba.1.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sepharad\*\|reference=Oba.1.20) |
-| Sardis | [<span class='tipnrLangGreek'>Σάρδεις</span>](G4554) <small>*Greek*</small> | 3x | [[Rev.1.11] ... [Rev.3.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sardis\*\|reference=Rev.1.11;Rev.3.1;Rev.3.4) |
-All Strong's for **Sepharad or Sardis**: \[[[H5614]]\] \[[[G4554]]\]
+| Sepharad | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ר</span>ַ֑<span class='tipnrLangHebrew'>ד</span>](H5614) | 1x | [Oba.1.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sepharad\*\|reference=Oba.1.20) |
+| Sardis | [<span class='tipnrLangGreek'>Σάρδεις</span>](G4554) | 3x | [[Rev.1.11] ... [Rev.3.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sardis\*\|reference=Rev.1.11;Rev.3.1;Rev.3.4) |
+All entries for **Sepharad or Sardis**:  **<big>[[H5614|סְפָרָד]]</big>** ☩  **<big>[[G4554|Σάρδεις]]</big>**

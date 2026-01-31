@@ -7,34 +7,34 @@ As thou knowest not what [is] the way of the spirit, [nor] how the bones [do gro
 As you do not know the path of the wind, or how the bones are formed in a mother’s womb, so you cannot understand the work of God, the Maker of all things.<small><sub>**MT:**</sub></small>
 [[Eccl.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.4|<< Ecclesiastes 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.6|Ecclesiastes 11:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the ones in whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| knowing | <big><span class="asgreek">γινώσκων</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wind \[is\], | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| \[the\] bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[of one\] being with child, | <big><span class="asgreek">κυοφορούσης</span></big> <sup><small><small>[[G8128]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| know | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| actions | <big><span class="asgreek">ποιήματα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
-| he shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[in\] all things. | <big><span class="asgreek">σύμπαντα</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
+| Among | **<big>[[G1722\|εν]]</big>** |
+| the ones in whom | **<big>[[G3739\|οις]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| knowing | **<big>[[G1097\|γινώσκων]]</big>** |
+| what | **<big>[[G5100\|τις]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| way | **<big>[[G3598\|οδός]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| wind \[is\], | **<big>[[G4151\|πνεύματος]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| \[the\] bones | **<big>[[G3747\|οστά]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] womb | **<big>[[G1064\|γαστρί]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| \[of one\] being with child, | **<big>[[G8128\|κυοφορούσης]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| you shall not | **<big>[[G3756\|ου]]</big>** |
+| know | **<big>[[G1097\|γνώση]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| actions | **<big>[[G4161\|ποιήματα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| as much as | **<big>[[G3745\|όσα]]</big>** |
+| he shall do | **<big>[[G4160\|ποιήσει]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| \[in\] all things. | **<big>[[G9270\|σύμπαντα]]</big>** |
 [[Eccl.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.4|<< Ecclesiastes 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.6|Ecclesiastes 11:6 >>]]</td></tr></table>
 
 

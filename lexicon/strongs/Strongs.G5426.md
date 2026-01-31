@@ -1,5 +1,5 @@
-<big><span class="asgreek">‎φρονέω‎</span></big> **phronéō** <small>*(fron-eh'-o)*</small> ==**to reason**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
-<small>from <span class="asgreek">φρήν</span><sup><small>[[G5424]]</small></sup></small>
+**<big><span class="asgreek">‎φρονέω‎</span></big>** **phronéō** <small>*(fron-eh'-o)*</small> ==**to reason**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+<small>from **<big>[[G5424|‎φρήν‎]]</big>**</small>
 
 $\quad$ set the affection on, (be) care(-ful), (be like-, + be of one, + be of the same, + let this) mind(-ed), regard, savour, think.
 - to exercise the mind, i.e. entertain or have a sentiment or opinion

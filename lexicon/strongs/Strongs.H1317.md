@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בׇּשְׁנָה‎</span></big> **boshnâh** <small>*(bosh-naw')*</small> ==**shame**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>feminine from <span class="ashebrew">‎בּוּשׁ‎</span><sup><small>[[H0954]]</small></sup></small>
+**<big><span class="ashebrew">‎בׇּשְׁנָה‎</span></big>** **boshnâh** <small>*(bosh-naw')*</small> ==**shame**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>feminine from **<big>[[H0954|‎בּוּשׁ‎]]</big>**</small>
 
 $\quad$ shame.
 - ***shamefulness***

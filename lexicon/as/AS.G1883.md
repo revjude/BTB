@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐπ-άνω </span></span></span>    <span class="asgramGrp"><span class="aspos">adv.</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">מַעֲלָה</span> <small><sup>[[H4609]]</sup></small>, <span class="ashebrew">עַל</span> <small><sup>[[H5921]]</sup></small>, <span class="ashebrew">מֵעָל</span> <small><sup>[[H4606]]</sup></small>, etc. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐπ-άνω </span></span></span>    <span class="asgramGrp"><span class="aspos">adv.</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H4609|מַעֲלָה]]</big>**, **<big>[[H5921|עַל]]</big>**, **<big>[[H4606|מֵעָל]]</big>**, etc. ;\]</span> </span>
 <span class="asitalic">above</span>;
 <span class="asbullet"><span class="asbold">1.</span> adverbially;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of place: [[Luke.11.44|Lk 11:44]];</span>

@@ -7,29 +7,29 @@ With thee also will I break in pieces man and woman; and with thee will I break 
 With you I shatter man and woman; with you I shatter the old man and the youth; with you I shatter the young man and the maiden.<small><sub>**MT:**</sub></small>
 [[Jer.51.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.21|<< Jeremiah 51:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.23|Jeremiah 51:23 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασκορπιώ</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| husband | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασκορπιώ</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] old man | <big><span class="asgreek">πρεσβύτην</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| child. | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will scatter | <big><span class="asgreek">διασκορπιώ</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] young man | <big><span class="asgreek">νεανίσκον</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| virgin. | <big><span class="asgreek">παρθένον</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1287\|διασκορπιώ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| husband | **<big>[[G0435\|άνδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| wife. | **<big>[[G1135\|γυναίκα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1287\|διασκορπιώ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] old man | **<big>[[G4246\|πρεσβύτην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| child. | **<big>[[G3813\|παιδίον]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will scatter | **<big>[[G1287\|διασκορπιώ]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| you | **<big>[[G1473\|σοι]]</big>** |
+| \[the\] young man | **<big>[[G3495\|νεανίσκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| virgin. | **<big>[[G3933\|παρθένον]]</big>** |
 [[Jer.51.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.21|<< Jeremiah 51:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.23|Jeremiah 51:23 >>]]</td></tr></table>
 
 

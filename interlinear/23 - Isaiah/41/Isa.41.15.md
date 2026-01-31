@@ -6,21 +6,21 @@ Behold, I will make you into a threshing sledge, new and sharp, with many teeth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.14|<< Isaiah 41:14]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.16|Isaiah 41:16 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will make you  | <span class="ashebrew"><big>שַׂמְתִּ֗י </big></span><small><small><sup>[[H7760A]]</sup></small></small> <span class="ashebrew"><big>ךְ </big></span><small><small><sup>[[H9032]]</sup></small></small> &#8207;| sam.Ti <small><sup>[[HVqp1cs]]</sup></small> kh <small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> a threshing-sledge  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מוֹרַג֙ </big></span><small><small><sup>[[H4173]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> mo.Rag <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sharp  | <span class="ashebrew"><big>חָר֣וּץ </big></span><small><small><sup>[[H2742A]]</sup></small></small> &#8207;| cha.Rutz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| new  | <span class="ashebrew"><big>חָדָ֔שׁ </big></span><small><small><sup>[[H2319H]]</sup></small></small> &#8207;| cha.Dash <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an owner of  | <span class="ashebrew"><big>בַּ֖עַל </big></span><small><small><sup>[[H1167J]]</sup></small></small> &#8207;| Ba.'al <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teeth  | <span class="ashebrew"><big>פִּֽיפִיּ֑וֹת </big></span><small><small><sup>[[H6374]]</sup></small></small> &#8207;| pi.fi.Yot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will thresh  | <span class="ashebrew"><big>תָּד֤וּשׁ </big></span><small><small><sup>[[H1758]]</sup></small></small> &#8207;| ta.Dush <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountains  | <span class="ashebrew"><big>הָרִים֙ </big></span><small><small><sup>[[H2022G]]</sup></small></small> &#8207;| ha.Rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so you may crush [them]  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>תָדֹ֔ק </big></span><small><small><sup>[[H1854]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ta.Dok <small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and hills  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גְבָע֖וֹת </big></span><small><small><sup>[[H1389I]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ge.va.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> chaff  | <span class="ashebrew"><big>כַּ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>מֹּ֥ץ </big></span><small><small><sup>[[H4671]]</sup></small></small> &#8207;| ka. <small><sup>[[HRd]]</sup></small> Motz <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will make  | <span class="ashebrew"><big>תָּשִֽׂים </big></span><small><small><sup>[[H7760A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.Sim <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will make you  |**<big>&#8207;[[H7760A\|שַׂמְתִּ֗י]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| sam.Ti<small><sup>[[HVqp1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a threshing-sledge  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4173\|מוֹרַג֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.Rag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sharp  |**<big>&#8207;[[H2742A\|חָר֣וּץ]]&#8207; </big>**| cha.Rutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new  |**<big>&#8207;[[H2319H\|חָדָ֔שׁ]]&#8207; </big>**| cha.Dash<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an owner of  |**<big>&#8207;[[H1167J\|בַּ֖עַל]]&#8207; </big>**| Ba.'al<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teeth  |**<big>&#8207;[[H6374\|פִּֽיפִיּ֑וֹת]]&#8207; </big>**| pi.fi.Yot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will thresh  |**<big>&#8207;[[H1758\|תָּד֤וּשׁ]]&#8207; </big>**| ta.Dush<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  |**<big>&#8207;[[H2022G\|הָרִים֙]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so you may crush [them]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1854\|תָדֹ֔ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.Dok<small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hills  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1389I\|גְבָע֖וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> chaff  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4671\|מֹּ֥ץ]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Motz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  |**<big>&#8207;[[H7760A\|תָּשִֽׂים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Sim<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.14|<< Isaiah 41:14]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.16|Isaiah 41:16 >>]]</td></tr></table>
 
 

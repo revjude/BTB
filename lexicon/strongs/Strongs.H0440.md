@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֵלוֹנִי‎</span></big> **ʼÊlôwnîy** <small>*(ay-lo-nee')*</small> ==**Elonite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>or rather (shortened) <span class="ashebrew">אֵלֹנִי</span> **ʼÊlônîy** <small>*(ay-lo-nee')*</small>; patron from <span class="ashebrew">‎אַלּוֹן‎</span><sup><small>[[H0438]]</small></sup></small>
+**<big><span class="ashebrew">‎אֵלוֹנִי‎</span></big>** **ʼÊlôwnîy** <small>*(ay-lo-nee')*</small> ==**Elonite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>or rather (shortened) **<big><span class="ashebrew">אֵלֹנִי</span></big>** **ʼÊlônîy** <small>*(ay-lo-nee')*</small>; patron from **<big>[[H0438|‎אַלּוֹן‎]]</big>**</small>
 
 $\quad$ Elonites.
 - § Elonite = *"might" or "terebinth: a plain"*

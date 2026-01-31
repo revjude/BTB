@@ -7,28 +7,28 @@ And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousan
 where he summoned Zebulun and Naphtali. Ten thousand men followed him, and Deborah also went with him.<small><sub>**MT:**</sub></small>
 [[Judg.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.9|<< Judges 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.11|Judges 4:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Barak summoned | <big><span class="asgreek">παρήγγειλε</span></big> <sup><small><small>[[G3853]]</small></small></sup> <big><span class="asgreek">Βαράκ</span></big> <sup><small><small>[[G0913]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Naphtali | <big><span class="asgreek">Νεφθαλί</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Kedesh. | <big><span class="asgreek">Καδές</span></big> <sup><small><small>[[H6943]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
-| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| his feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
-| men; | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Deborah ascended | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> <big><span class="asgreek">Δεββωρά</span></big> <sup><small><small>[[H1683]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Barak summoned | **<big>[[G3853\|παρήγγειλε]]</big>** **<big>[[G0913\|Βαράκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Zebulun | **<big>[[G2194\|Ζαβουλών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Naphtali | **<big>[[G3508\|Νεφθαλί]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| Kedesh. | **<big>[[H6943\|Καδές]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| ascended | **<big>[[G0305\|ανέβησαν]]</big>** |
+| by | **<big>[[G2596\|κατά]]</big>** |
+| his feet | **<big>[[G4228\|πόδας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
+| men; | **<big>[[G0435\|ανδρών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Deborah ascended | **<big>[[G0305\|ανέβη]]</big>** **<big>[[H1683\|Δεββωρά]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
 [[Judg.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.9|<< Judges 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.11|Judges 4:11 >>]]</td></tr></table>
 
 

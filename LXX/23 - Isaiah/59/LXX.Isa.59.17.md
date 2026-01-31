@@ -11,27 +11,27 @@ He put on righteousness like a breastplate, and the helmet of salvation on His h
 > $\quad$ referenced by: [[Eph.6.14|Eph 6:14]] ☩ [[Eph.6.17|Eph 6:17]] ☩ [[1Thess.5.8|1Thess 5:8]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he clothed himself \[with\] | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a chest \[plate\]; | <big><span class="asgreek">θώρακα</span></big> <sup><small><small>[[G2382]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put | <big><span class="asgreek">περιέθετο</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
-| a helmet | <big><span class="asgreek">περικεφαλαίαν</span></big> <sup><small><small>[[G4030]]</small></small></sup> |
-| of deliverance | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[his\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he put around himself | <big><span class="asgreek">περιεβάλετο</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
-| a cloak | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
-| of vengeance -- | <big><span class="asgreek">εκδικήσεως</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| a wrap-around garment, | <big><span class="asgreek">περιβόλαιον</span></big> <sup><small><small>[[G4018]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he clothed himself \[with\] | **<big>[[G1746\|ενεδύσατο]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνην]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a chest \[plate\]; | **<big>[[G2382\|θώρακα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put | **<big>[[G4060\|περιέθετο]]</big>** |
+| a helmet | **<big>[[G4030\|περικεφαλαίαν]]</big>** |
+| of deliverance | **<big>[[G4992\|σωτηρίου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[his\]\<obj.> | **<big>[[G3588\|της]]</big>** |
+| head. | **<big>[[G2776\|κεφαλής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he put around himself | **<big>[[G4016\|περιεβάλετο]]</big>** |
+| a cloak | **<big>[[G2440\|ιμάτιον]]</big>** |
+| of vengeance -- | **<big>[[G1557\|εκδικήσεως]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| a wrap-around garment, | **<big>[[G4018\|περιβόλαιον]]</big>** |
 [[Isa.59.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.16|<< Isaiah 59:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.18|Isaiah 59:18 >>]]</td></tr></table>
 
 

@@ -6,15 +6,15 @@ The woman named Folly is loud; she is naive and knows nothing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.12|<< Proverbs 9:12]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.14|Proverbs 9:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a woman of  | <span class="ashebrew"><big>אֵ֣שֶׁת </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'E.shet <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| folly  | <span class="ashebrew"><big>כְּ֭סִילוּת </big></span><small><small><sup>[[H3687]]</sup></small></small> &#8207;| Ke.si.lut <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] boisterous  | <span class="ashebrew"><big>הֹֽמִיָּ֑ה </big></span><small><small><sup>[[H1993]]</sup></small></small> &#8207;| ho.mi.Yah <small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| naivete  | <span class="ashebrew"><big>פְּ֝תַיּ֗וּת </big></span><small><small><sup>[[H6615]]</sup></small></small> &#8207;| pe.tai.Yut <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בַל </big></span><small><small><sup>[[H1077]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> val- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she knows  | <span class="ashebrew"><big>יָ֥דְעָה </big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| Ya.de.'ah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whatever  | <span class="ashebrew"><big>מָּֽה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Mah <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman of  |**<big>&#8207;[[H0802G\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| folly  |**<big>&#8207;[[H3687\|כְּ֭סִילוּת]]&#8207; </big>**| Ke.si.lut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] boisterous  |**<big>&#8207;[[H1993\|הֹֽמִיָּ֑ה]]&#8207; </big>**| ho.mi.Yah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| naivete  |**<big>&#8207;[[H6615\|פְּ֝תַיּ֗וּת]]&#8207; </big>**| pe.tai.Yut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1077\|בַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she knows  |**<big>&#8207;[[H3045\|יָ֥דְעָה]]&#8207; </big>**| Ya.de.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whatever  |**<big>&#8207;[[H4100\|מָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.12|<< Proverbs 9:12]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.14|Proverbs 9:14 >>]]</td></tr></table>
 
 

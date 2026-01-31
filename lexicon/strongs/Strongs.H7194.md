@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎קָשַׁר‎</span></big> **qâshar** <small>*(kaw-shar')*</small> ==**to conspire**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎קָשַׁר‎</span></big>** **qâshar** <small>*(kaw-shar')*</small> ==**to conspire**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bind (up), (make a) conspire(-acy, -ator), join together, knit, stronger, work (treason).
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1c4)** to bind to oneself
 $\quad$ **1d)** (Pual) robust, vigorous (participle)
 $\quad$ **1e)** (Hithpael) to conspire
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δέω</span><sup><small>[[G1210]]</small></sup> · <span class="asgreek">ἐκκρέμαμαι</span><sup><small>[[G1582]]</small></sup> · <span class="asgreek">ἐπίσημος</span><sup><small>[[G1978]]</small></sup> · <span class="asgreek">ἐπιτίθημι</span><sup><small>[[G2007]]</small></sup> · <span class="asgreek">περιτίθημι</span><sup><small>[[G4060]]</small></sup> · <span class="asgreek">συγκαθίζω</span><sup><small>[[G4776]]</small></sup> · <span class="asgreek">συνάγω</span><sup><small>[[G4863]]</small></sup> · <span class="asgreek">συνδέω</span><sup><small>[[G4887]]</small></sup> · <span class="asgreek">συντίθεμαι</span><sup><small>[[G4934]]</small></sup> · <span class="asgreek">συστρέφω</span><sup><small>[[G4962]]</small></sup> · <span class="asgreek">συστροφή</span><sup><small>[[G4963]]</small></sup>
+<small>See Greek: </small>**<big>[[G1210|δέω]]</big>** · **<big>[[G1582|ἐκκρέμαμαι]]</big>** · **<big>[[G1978|ἐπίσημος]]</big>** · **<big>[[G2007|ἐπιτίθημι]]</big>** · **<big>[[G4060|περιτίθημι]]</big>** · **<big>[[G4776|συγκαθίζω]]</big>** · **<big>[[G4863|συνάγω]]</big>** · **<big>[[G4887|συνδέω]]</big>** · **<big>[[G4934|συντίθεμαι]]</big>** · **<big>[[G4962|συστρέφω]]</big>** · **<big>[[G4963|συστροφή]]</big>**

@@ -7,49 +7,49 @@ Bring ye all the tithes into the storehouse, that there may be meat in mine hous
 Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this,” says the LORD of Hosts. “See if I will not open the windows of heaven and pour out for you blessing without measure.<small><sub>**MT:**</sub></small>
 [[Mal.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.9|<< Malachi 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.11|Malachi 3:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| year | <big><span class="asgreek">έτος</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
-| is completed, | <big><span class="asgreek">συνετελέσθη</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you carried in | <big><span class="asgreek">εισηνέγκατε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| resources | <big><span class="asgreek">εκφόρια</span></big> <sup><small><small>[[G7169]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| storehouses, | <big><span class="asgreek">θησαυρούς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ravaging | <big><span class="asgreek">διαρπαγή</span></big> <sup><small><small>[[G6869]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your houses. | <big><span class="asgreek">οίκοις</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Restore | <big><span class="asgreek">επιστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty! | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| \[And see\] if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| I should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| torrents | <big><span class="asgreek">καταρράκτας</span></big> <sup><small><small>[[G7909]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pour out | <big><span class="asgreek">εκχεώ</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my blessing | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[it is\] enough. | <big><span class="asgreek">ικανωθήναι</span></big> <sup><small><small>[[G2427]]</small></small></sup> |
+| The | **<big>[[G3588\|το]]</big>** |
+| year | **<big>[[G2094\|έτος]]</big>** |
+| is completed, | **<big>[[G4931\|συνετελέσθη]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you carried in | **<big>[[G1533\|εισηνέγκατε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| resources | **<big>[[G7169\|εκφόρια]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| storehouses, | **<big>[[G2344\|θησαυρούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there will be | **<big>[[G1510\|έσται]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| ravaging | **<big>[[G6869\|διαρπαγή]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| your houses. | **<big>[[G3624\|οίκοις]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| Restore | **<big>[[G1994\|επιστρέψατε]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| this, | **<big>[[G3778\|τούτω]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty! | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| \[And see\] if | **<big>[[G1437\|εάν]]</big>** |
+| I should not | **<big>[[G3361\|μη]]</big>** |
+| open | **<big>[[G0455\|ανοίξω]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| torrents | **<big>[[G7909\|καταρράκτας]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| heaven, | **<big>[[G3772\|ουρανού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pour out | **<big>[[G1632\|εκχεώ]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my blessing | **<big>[[G2129\|ευλογίαν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[it is\] enough. | **<big>[[G2427\|ικανωθήναι]]</big>** |
 [[Mal.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.9|<< Malachi 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.11|Malachi 3:11 >>]]</td></tr></table>
 
 

@@ -6,22 +6,22 @@ Then Miriam and Aaron criticized Moses because of the Cushite woman he had marri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.35|<< Numbers 11:35]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.2|Numbers 12:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and she spoke  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>תְּדַבֵּ֨ר </big></span><small><small><sup>[[H1696G]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> te.da.Ber <small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Miriam  | <span class="ashebrew"><big>מִרְיָ֤ם </big></span><small><small><sup>[[H4813G]]</sup></small></small> &#8207;| mir.Yam <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Aaron  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>אַהֲרֹן֙ </big></span><small><small><sup>[[H0175]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'a.ha.Ron <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| against Moses  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>מֹשֶׁ֔ה </big></span><small><small><sup>[[H4872]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> mo.Sheh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on  | <span class="ashebrew"><big>עַל </big></span><small><small><sup>[[H5921A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] causes of  | <span class="ashebrew"><big>אֹד֛וֹת </big></span><small><small><sup>[[H0182]]</sup></small></small> &#8207;| 'o.Dot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the woman  | <span class="ashebrew"><big>הָ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>אִשָּׁ֥ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Cushite  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>כֻּשִׁ֖ית </big></span><small><small><sup>[[H3569G]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ku.Shit <small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| whom  | <span class="ashebrew"><big>אֲשֶׁ֣ר </big></span><small><small><sup>[[H0834A]]</sup></small></small> &#8207;| 'a.Sher <small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had taken  | <span class="ashebrew"><big>לָקָ֑ח </big></span><small><small><sup>[[H3947I]]</sup></small></small> &#8207;| la.Kach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a woman  | <span class="ashebrew"><big>אִשָּׁ֥ה </big></span><small><small><sup>[[H0802G]]</sup></small></small> &#8207;| 'i.Shah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Cushite  | <span class="ashebrew"><big>כֻשִׁ֖ית </big></span><small><small><sup>[[H3569G]]</sup></small></small> &#8207;| khu.Shit <small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had taken  | <span class="ashebrew"><big>לָקָֽח </big></span><small><small><sup>[[H3947I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la.Kach <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|תְּדַבֵּ֨ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.da.Ber<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Miriam  |**<big>&#8207;[[H4813G\|מִרְיָ֤ם]]&#8207; </big>**| mir.Yam<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Aaron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0175\|אַהֲרֹן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against Moses  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] causes of  |**<big>&#8207;[[H0182\|אֹד֛וֹת]]&#8207; </big>**| 'o.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Cushite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3569G\|כֻּשִׁ֖ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ku.Shit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had taken  |**<big>&#8207;[[H3947I\|לָקָ֑ח]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֥ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cushite  |**<big>&#8207;[[H3569G\|כֻשִׁ֖ית]]&#8207; </big>**| khu.Shit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had taken  |**<big>&#8207;[[H3947I\|לָקָֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.35|<< Numbers 11:35]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.2|Numbers 12:2 >>]]</td></tr></table>
 
 

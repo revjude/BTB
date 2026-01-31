@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עַתַּי‎</span> <small>***(at.tay)***</small> ==**Attai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[2Chr.11.20|2Ch.11.20]]
--  son of: Rehoboam ([[H7346]]) and Maacah ([[H4601K]])
--  brother of: Abijah ([[H0029I]]), Ziza ([[H2124H]]) and Shelomith ([[H8019]])
--  half-brother of: Jeush ([[H3266K]]), Shemariah ([[H8114H]]) and Zaham ([[H2093]])
+-  son of: Rehoboam (**<big>[[H7346|רְחַבְעָם]]</big>**) and Maacah (**<big>[[H4601K|מַעֲכָה]]</big>**)
+-  brother of: Abijah (**<big>[[H0029I|אֲבִיָּה]]</big>**), Ziza (**<big>[[H2124H|זִיזָא]]</big>**) and Shelomith (**<big>[[H8019|שְׁלֹמִית]]</big>**)
+-  half-brother of: Jeush (**<big>[[H3266K|יְעוּשׁ]]</big>**), Shemariah (**<big>[[H8114H|שְׁמַרְיָה]]</big>**) and Zaham (**<big>[[H2093|זַהַם]]</big>**)

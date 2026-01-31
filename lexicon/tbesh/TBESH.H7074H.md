@@ -1,8 +1,7 @@
-<span class="ashebrew">‎קְנִזִּי‎</span> <small>***(qe.niz.zi)***</small> ==**Kenizzite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-group of: <small>[[H7073I]]</small> 
+<small>group of:</small> <small>**<big>[[H7073I|קְנַז]]</big>**</small> 
 
 - Someone descended from Kenaz who was a man living at the time of Egypt and Wilderness, first mentioned at [[Num.32.12|Num.32.12]]
--  son of: Jephunneh ([[H3312]])
--  brother of: Caleb ([[H3612]])
--  father of: Othniel ([[H6274]]) and Seraiah ([[H8304J]]); also called Kenizzite at [[Num.32.12|Num.32.12]]
-- Group of <i>qe.naz</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎נ‎</span>ַ<span class='ashebrew'>‎ז‎</span> "Kenaz" [[H7073I]])
+-  son of: Jephunneh (**<big>[[H3312|יְפֻנֶּה]]</big>**)
+-  brother of: Caleb (**<big>[[H3612|כָּלֵב]]</big>**)
+-  father of: Othniel (**<big>[[H6274|עׇתְנִיאֵל]]</big>**) and Seraiah (**<big>[[H8304J|שְׂרָיָה]]</big>**); also called Kenizzite at [[Num.32.12|Num.32.12]]
+- Group of <i>qe.naz</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎נ‎</span>ַ<span class='ashebrew'>‎ז‎</span> "Kenaz" **<big>[[H7073I|קְנַז]]</big>**)

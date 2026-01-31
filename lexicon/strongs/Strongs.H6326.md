@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎פּוּעָה‎</span></big> **Pûwʻâh** <small>*(poo-aw')*</small> ==**Puah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+**<big><span class="ashebrew">‎פּוּעָה‎</span></big>** **Pûwʻâh** <small>*(poo-aw')*</small> ==**Puah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
 <small>from an unused root meaning to glitter; brilliancy</small>
 
 $\quad$ Puah.

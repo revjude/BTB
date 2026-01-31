@@ -6,22 +6,22 @@ Was it not You who dried up the sea, the waters of the great deep, who made a ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ not  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>ל֤וֹא </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] you  | <span class="ashebrew"><big>אַתְּ </big></span><small><small><sup>[[H0859C]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'at- <small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she  | <span class="ashebrew"><big>הִיא֙ </big></span><small><small><sup>[[H1931]]</sup></small></small> &#8207;| hi' <small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who dried up  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּחֲרֶ֣בֶת </big></span><small><small><sup>[[H2717A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> ma.cha.Re.vet <small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sea  | <span class="ashebrew"><big>יָ֔ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] water of  | <span class="ashebrew"><big>מֵ֖י </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| mei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] deep  | <span class="ashebrew"><big>תְּה֣וֹם </big></span><small><small><sup>[[H8415]]</sup></small></small> &#8207;| te.Hom <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  | <span class="ashebrew"><big>רַבָּ֑ה </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bah <small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| who \<she> made  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>שָּׂ֙מָה֙ </big></span><small><small><sup>[[H7760A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTd]]</sup></small> Sa.mah <small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] depths of  | <span class="ashebrew"><big>מַֽעֲמַקֵּי </big></span><small><small><sup>[[H4615]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ma.'a.ma.kei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sea  | <span class="ashebrew"><big>יָ֔ם </big></span><small><small><sup>[[H3220G]]</sup></small></small> &#8207;| Yam <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a way  | <span class="ashebrew"><big>דֶּ֖רֶךְ </big></span><small><small><sup>[[H1870K]]</sup></small></small> &#8207;| De.rekh <small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to pass over  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>עֲבֹ֥ר </big></span><small><small><sup>[[H5674A]]</sup></small></small> &#8207;| la. <small><sup>[[HR]]</sup></small> 'a.Vor <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| redeemed [people]  | <span class="ashebrew"><big>גְּאוּלִֽים </big></span><small><small><sup>[[H1350A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ge.'u.Lim <small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] you  |**<big>&#8207;[[H0859C\|אַתְּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'at-<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  |**<big>&#8207;[[H1931\|הִיא֙]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who dried up  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2717A\|מַּחֲרֶ֣בֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.cha.Re.vet<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea  |**<big>&#8207;[[H3220G\|יָ֔ם]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] water of  |**<big>&#8207;[[H4325G\|מֵ֖י]]&#8207; </big>**| mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deep  |**<big>&#8207;[[H8415\|תְּה֣וֹם]]&#8207; </big>**| te.Hom<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H7227A\|רַבָּ֑ה]]&#8207; </big>**| ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who \<she> made  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7760A\|שָּׂ֙מָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sa.mah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] depths of  |**<big>&#8207;[[H4615\|מַֽעֲמַקֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.'a.ma.kei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea  |**<big>&#8207;[[H3220G\|יָ֔ם]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a way  |**<big>&#8207;[[H1870K\|דֶּ֖רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to pass over  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5674A\|עֲבֹ֥ר]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Vor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| redeemed [people]  |**<big>&#8207;[[H1350A\|גְּאוּלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.'u.Lim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 
 

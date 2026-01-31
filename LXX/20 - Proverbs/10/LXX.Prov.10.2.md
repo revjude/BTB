@@ -7,16 +7,16 @@ Treasures of wickedness profit nothing: but righteousness delivereth from death.
 Ill-gotten treasures profit nothing, but righteousness brings deliverance from death.<small><sub>**MT:**</sub></small>
 [[Prov.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.1|<< Proverbs 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.3|Proverbs 10:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| benefit | <big><span class="asgreek">ωφελήσουσι</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
-| Treasures | <big><span class="asgreek">θησαυροί</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
-| \[the\] lawless; | <big><span class="asgreek">ανόμους</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| but righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| shall rescue | <big><span class="asgreek">ρύσεται</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| death. | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| shall not | **<big>[[G3756\|ουκ]]</big>** |
+| benefit | **<big>[[G5623\|ωφελήσουσι]]</big>** |
+| Treasures | **<big>[[G2344\|θησαυροί]]</big>** |
+| \[the\] lawless; | **<big>[[G0459\|ανόμους]]</big>** |
+| but righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** **<big>[[G1161\|δε]]</big>** |
+| shall rescue | **<big>[[G4506\|ρύσεται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| death. | **<big>[[G2288\|θανάτου]]</big>** |
 [[Prov.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.1|<< Proverbs 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.3|Proverbs 10:3 >>]]</td></tr></table>
 
 

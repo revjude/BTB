@@ -9,34 +9,34 @@ He hath cut off in [his] fierce anger all the horn of Israel: he hath drawn back
 In fierce anger He has cut off every horn of Israel and withdrawn His right hand at the approach of the enemy. He has burned in Jacob like a flaming fire that consumes everything around it.<small><sub>**MT:**</sub></small>
 [[Lam.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.2|<< Lamentations 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.4|Lamentations 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΓΙΜΕΛ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΓΙΜΕΛ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| He broke in pieces | <big><span class="asgreek">συνέκλασεν</span></big> <sup><small><small>[[G9231]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
-| of his rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] horn | <big><span class="asgreek">κέρας</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| He turned | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| back | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| his right \[hand\] | <big><span class="asgreek">δεξιάν</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of \[the\] enemy, | <big><span class="asgreek">εχθρού</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he lit | <big><span class="asgreek">ανήψεν</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| a flame | <big><span class="asgreek">φλόγα</span></big> <sup><small><small>[[G5395]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it devoured | <big><span class="asgreek">κατέφαγε</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| ΓΙΜΕΛ <sup><small>[acrostic title]</small></sup> |  |
+| He broke in pieces | **<big>[[G9231\|συνέκλασεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| anger | **<big>[[G3709\|οργή]]</big>** |
+| of his rage | **<big>[[G2372\|θυμού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| \[the\] horn | **<big>[[G2768\|κέρας]]</big>** |
+| of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
+| He turned | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| back | **<big>[[G1519\|εις]]</big>** **<big>[[G3588\|τα]]</big>** **<big>[[G3694\|οπίσω]]</big>** |
+| his right \[hand\] | **<big>[[G1188\|δεξιάν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of \[the\] enemy, | **<big>[[G2190\|εχθρού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he lit | **<big>[[G0381\|ανήψεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Jacob | **<big>[[G2384\|Ιακώβ]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| fire | **<big>[[G4442\|πυρ]]</big>** |
+| a flame | **<big>[[G5395\|φλόγα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it devoured | **<big>[[G2719\|κατέφαγε]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** |
+| round about. | **<big>[[G2945\|κύκλω]]</big>** |
 [[Lam.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.2|<< Lamentations 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.4|Lamentations 2:4 >>]]</td></tr></table>
 
 

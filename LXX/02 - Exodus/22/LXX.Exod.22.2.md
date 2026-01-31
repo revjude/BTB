@@ -11,20 +11,20 @@ If a thief is caught breaking in and is beaten to death, no one shall be guilty 
 > $\quad$ related to: [[Matt.24.43|Matt 24:43]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ditch | <big><span class="asgreek">διορύγματι</span></big> <sup><small><small>[[G6939]]</small></small></sup> |
-| should be found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thief | <big><span class="asgreek">κλέπτης</span></big> <sup><small><small>[[G2812]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being struck | <big><span class="asgreek">πληγείς</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
-| should die, | <big><span class="asgreek">αποθάνη</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| it is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| murder to him \[striking\]. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">φόνος</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
+| And if | **<big>[[G1437\|εάν]]</big>** **<big>[[G1161\|δε]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| ditch | **<big>[[G6939\|διορύγματι]]</big>** |
+| should be found | **<big>[[G2147\|ευρέθη]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| thief | **<big>[[G2812\|κλέπτης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being struck | **<big>[[G4141\|πληγείς]]</big>** |
+| should die, | **<big>[[G0599\|αποθάνη]]</big>** |
+| it is not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστιν]]</big>** |
+| murder to him \[striking\]. | **<big>[[G1473\|αυτώ]]</big>** **<big>[[G5408\|φόνος]]</big>** |
 [[Exod.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.1|<< Exodus 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.3|Exodus 22:3 >>]]</td></tr></table>
 
 

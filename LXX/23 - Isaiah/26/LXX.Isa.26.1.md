@@ -10,27 +10,27 @@ In that day shall this song be sung in the land of Judah; We have a strong city;
 In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts.<small><sub>**MT:**</sub></small>
 [[Isa.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.12|<< Isaiah 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.2|Isaiah 26:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| In that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
-| they shall sing | <big><span class="asgreek">άσονται</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this song | <big><span class="asgreek">άσμα</span></big> <sup><small><small>[[G6571]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of Judea, | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| a strong | <big><span class="asgreek">ισχυρά</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| our deliverance | <big><span class="asgreek">σωτήριον</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he shall establish | <big><span class="asgreek">θήσει</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| for the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| rampart. | <big><span class="asgreek">περίτειχος</span></big> <sup><small><small>[[G8767]]</small></small></sup> |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| In that day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
+| they shall sing | **<big>[[G0103\|άσονται]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this song | **<big>[[G6571\|άσμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] land | **<big>[[G1093\|γης]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of Judea, | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| Behold, | **<big>[[G2400\|ιδού]]</big>** |
+| city | **<big>[[G4172\|πόλις]]</big>** |
+| a strong | **<big>[[G2478\|ισχυρά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| our deliverance | **<big>[[G4992\|σωτήριον]]</big>** **<big>[[G1473\|ημών]]</big>** |
+| he shall establish | **<big>[[G5087\|θήσει]]</big>** |
+| for the | **<big>[[G3588\|το]]</big>** |
+| wall | **<big>[[G5038\|τείχος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| rampart. | **<big>[[G8767\|περίτειχος]]</big>** |
 [[Isa.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.12|<< Isaiah 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.2|Isaiah 26:2 >>]]</td></tr></table>
 
 

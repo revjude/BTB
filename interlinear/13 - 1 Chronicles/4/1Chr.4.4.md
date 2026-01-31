@@ -6,22 +6,22 @@ Penuel was the father of Gedor, and Ezer was the father of Hushah. These were th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.3|<< 1 Chronicles 4:3]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.5|1 Chronicles 4:5 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Penuel  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פְנוּאֵל֙ </big></span><small><small><sup>[[H6439H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> fe.nu.'El <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] [the] father of  | <span class="ashebrew"><big>אֲבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gedor  | <span class="ashebrew"><big>גְדֹ֔ר </big></span><small><small><sup>[[H1446G]]</sup></small></small> &#8207;| ge.Dor <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Ezer  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>עֵ֖זֶר </big></span><small><small><sup>[[H5829G]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> 'E.zer <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] [the] father of  | <span class="ashebrew"><big>אֲבִ֣י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hushah  | <span class="ashebrew"><big>חוּשָׁ֑ה </big></span><small><small><sup>[[H2364]]</sup></small></small> &#8207;| chu.Shah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| these  | <span class="ashebrew"><big>אֵ֤לֶּה </big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh <small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] descendants of  | <span class="ashebrew"><big>בְנֵי </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hur  | <span class="ashebrew"><big>חוּר֙ </big></span><small><small><sup>[[H2354G]]</sup></small></small> &#8207;| chur <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] firstborn of  | <span class="ashebrew"><big>בְּכ֣וֹר </big></span><small><small><sup>[[H1060]]</sup></small></small> &#8207;| be.Khor <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephrath  | <span class="ashebrew"><big>אֶפְרָ֔תָה </big></span><small><small><sup>[[H0672G]]</sup></small></small> &#8207;| 'ef.Ra.tah <small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] father of  | <span class="ashebrew"><big>אֲבִ֖י </big></span><small><small><sup>[[H0001G]]</sup></small></small> &#8207;| 'a.Vi <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Beth-  | <span class="ashebrew"><big>בֵּ֥ית </big></span><small><small><sup>[[H1035G]]</sup></small></small> &#8207;| beit <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| -lehem  | <span class="ashebrew"><big>לָֽחֶם </big></span><small><small><sup>[[H1035G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| La.chem <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Penuel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6439H\|פְנוּאֵל֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.nu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gedor  |**<big>&#8207;[[H1446G\|גְדֹ֔ר]]&#8207; </big>**| ge.Dor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ezer  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5829G\|עֵ֖זֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hushah  |**<big>&#8207;[[H2364\|חוּשָׁ֑ה]]&#8207; </big>**| chu.Shah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֤לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] descendants of  |**<big>&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hur  |**<big>&#8207;[[H2354G\|חוּר֙]]&#8207; </big>**| chur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֣וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephrath  |**<big>&#8207;[[H0672G\|אֶפְרָ֔תָה]]&#8207; </big>**| 'ef.Ra.tah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֖י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth-  |**<big>&#8207;[[H1035G\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -lehem  |**<big>&#8207;[[H1035G\|לָֽחֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.chem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.3|<< 1 Chronicles 4:3]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.5|1 Chronicles 4:5 >>]]</td></tr></table>
 
 

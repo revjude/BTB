@@ -14,14 +14,14 @@ Jonah, however, was greatly displeased, and he became angry.<small><sub>**MT:**
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jonah was grieved | <big><span class="asgreek">ελυπήθη</span></big> <sup><small><small>[[G3076]]</small></small></sup> <big><span class="asgreek">Ιωνάς</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
-| distress | <big><span class="asgreek">λύπην</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
-| \[with\] great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was confounded. | <big><span class="asgreek">συνεχύθη</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Jonah was grieved | **<big>[[G3076\|ελυπήθη]]</big>** **<big>[[G2495\|Ιωνάς]]</big>** |
+| distress | **<big>[[G3077\|λύπην]]</big>** |
+| \[with\] great | **<big>[[G3173\|μεγάλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| was confounded. | **<big>[[G4797\|συνεχύθη]]</big>** |
 [[Jonah.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.10|<< Jonah 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.2|Jonah 4:2 >>]]</td></tr></table>
 
 

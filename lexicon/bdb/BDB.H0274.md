@@ -1,4 +1,4 @@
-<small>Also see: [[H3170]]</small>
+<small>Also see: **<big>[[H3170|יַחְזֵרָה]]</big>**</small>
 
  <span class="bdbLangHebrew">‎יַחְזֵרָה‎</span> **proper name, masculine** [[1Chr.9.12|1Chr 9:12]] compare <span class="bdbLangHebrew">‎אֲחַזְיָהוּ‎</span> b. <span class="bdbLangHebrew">‎חַח‎</span>, <span class="bdbLangHebrew">‎חָח‎</span> see below <span class="bdbLangHebrew">‎חוח‎</span> 
 

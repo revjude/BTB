@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַנְוָה‎</span></big> **ʻanvâh** <small>*(an-vaw')*</small> ==**gentleness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎עָנָו‎</span><sup><small>[[H6035]]</small></sup></small>
+**<big><span class="ashebrew">‎עַנְוָה‎</span></big>** **ʻanvâh** <small>*(an-vaw')*</small> ==**gentleness**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H6035|‎עָנָו‎]]</big>**</small>
 
 $\quad$ gentleness, meekness.
 - ***mildness*** (royal)
@@ -9,4 +9,4 @@ $\quad$ gentleness, meekness.
 $\quad$ **1a)** humility, meekness
 $\quad$ **1b)** condescension
 
-<sub><small>See Greek: </small></sub><span class="asgreek">πρᾳότης</span><sup><small>[[G4236]]</small></sup> · <span class="asgreek">πραΰτης</span><sup><small>[[G4240]]</small></sup>
+<small>See Greek: </small>**<big>[[G4236|πρᾳότης]]</big>** · **<big>[[G4240|πραΰτης]]</big>**

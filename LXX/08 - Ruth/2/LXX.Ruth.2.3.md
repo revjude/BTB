@@ -7,32 +7,32 @@ And she went, and came, and gleaned in the field after the reapers: and her hap 
 So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech.<small><sub>**MT:**</sub></small>
 [[Ruth.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.2|<< Ruth 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.4|Ruth 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she went. | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| having arrived, | <big><span class="asgreek">ελθούσα</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| she collected together | <big><span class="asgreek">συνέλεξεν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| after | <big><span class="asgreek">κατόπισθε</span></big> <sup><small><small>[[G7974]]</small></small></sup> |
-| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| harvesting. | <big><span class="asgreek">θεριζόντων</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she fell | <big><span class="asgreek">περιέπεσε</span></big> <sup><small><small>[[G4045]]</small></small></sup> |
-| by chance | <big><span class="asgreek">περιπτώματι</span></big> <sup><small><small>[[G8750]]</small></small></sup> |
-| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| portion | <big><span class="asgreek">μερίδι</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| of Boaz, | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
-| the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kin | <big><span class="asgreek">συγγενείας</span></big> <sup><small><small>[[G4772]]</small></small></sup> |
-| of Elimelech. | <big><span class="asgreek">Ελιμέλεχ</span></big> <sup><small><small>[[H0458]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she went. | **<big>[[G4198\|επορεύθη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| having arrived, | **<big>[[G2064\|ελθούσα]]</big>** |
+| she collected together | **<big>[[G4816\|συνέλεξεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| field | **<big>[[G0068\|αγρώ]]</big>** |
+| after | **<big>[[G7974\|κατόπισθε]]</big>** |
+| the ones | **<big>[[G3588\|των]]</big>** |
+| harvesting. | **<big>[[G2325\|θεριζόντων]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| she fell | **<big>[[G4045\|περιέπεσε]]</big>** |
+| by chance | **<big>[[G8750\|περιπτώματι]]</big>** |
+| in the | **<big>[[G3588\|τη]]</big>** |
+| portion | **<big>[[G3310\|μερίδι]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| of Boaz, | **<big>[[G1003\|Βοόζ]]</big>** |
+| the one | **<big>[[G3588\|του]]</big>** |
+| of | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| kin | **<big>[[G4772\|συγγενείας]]</big>** |
+| of Elimelech. | **<big>[[H0458\|Ελιμέλεχ]]</big>** |
 [[Ruth.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.2|<< Ruth 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.4|Ruth 2:4 >>]]</td></tr></table>
 
 

@@ -1,1 +1,0 @@
-<span class="ashebrew">‎נֵר‎</span> <small>***(ner)***</small> ==**lamp**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

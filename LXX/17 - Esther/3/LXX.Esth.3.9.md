@@ -7,25 +7,25 @@ If it please the king, let it be written that they may be destroyed: and I will 
 If it pleases the king, let a decree be issued to destroy them, and I will deposit ten thousand talents of silver into the royal treasury to pay those who carry it out.”<small><sub>**MT:**</sub></small>
 [[Esth.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.8|<< Esther 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.10|Esther 3:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| it seems \[good\] | <big><span class="asgreek">δοκεί</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| let him decree | <big><span class="asgreek">δογματισάτω</span></big> <sup><small><small>[[G1379]]</small></small></sup> |
-| to destroy | <big><span class="asgreek">απολέσαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
-| will circumscribe | <big><span class="asgreek">διαγράψω</span></big> <sup><small><small>[[G6823]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| treasury | <big><span class="asgreek">γαζοφυλάκιον</span></big> <sup><small><small>[[G1049]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
-| ten thousand | <big><span class="asgreek">μύρια</span></big> <sup><small><small>[[G3463]]</small></small></sup> |
+| If | **<big>[[G1487\|ει]]</big>** |
+| it seems \[good\] | **<big>[[G1380\|δοκεί]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king, | **<big>[[G0935\|βασιλεί]]</big>** |
+| let him decree | **<big>[[G1379\|δογματισάτω]]</big>** |
+| to destroy | **<big>[[G0622\|απολέσαι]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| and I | **<big>[[G2504\|καγώ]]</big>** |
+| will circumscribe | **<big>[[G6823\|διαγράψω]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| treasury | **<big>[[G1049\|γαζοφυλάκιον]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| king | **<big>[[G0935\|βασιλέως]]</big>** |
+| of silver | **<big>[[G0694\|αργυρίου]]</big>** |
+| talents | **<big>[[G5007\|τάλαντα]]</big>** |
+| ten thousand | **<big>[[G3463\|μύρια]]</big>** |
 [[Esth.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.8|<< Esther 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.10|Esther 3:10 >>]]</td></tr></table>
 
 

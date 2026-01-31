@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִיאֵל‎</span></big> **ʼĔlîyʼêl** <small>*(el-ee-ale')*</small> ==**Eliel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> repeated; God of (his) God</small>
+**<big><span class="ashebrew">‎אֱלִיאֵל‎</span></big>** **ʼĔlîyʼêl** <small>*(el-ee-ale')*</small> ==**Eliel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** repeated; God of (his) God</small>
 
 $\quad$ Eliel.
 - § Eliel = *"my God is God" or "El is God"*

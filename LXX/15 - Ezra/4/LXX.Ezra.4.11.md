@@ -10,26 +10,26 @@ This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes
 (This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the men west of the Euphrates:<small><sub>**MT:**</sub></small>
 [[Ezra.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| This \[is\] | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| disposition | <big><span class="asgreek">διαταγή</span></big> <sup><small><small>[[G1296]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| letter | <big><span class="asgreek">επιστολής</span></big> <sup><small><small>[[G1992]]</small></small></sup> |
-| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| they sent | <big><span class="asgreek">απέστειλαν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| him -- | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| To | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Artaxerxes | <big><span class="asgreek">Αρθασασθά</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
-| \[the\] king. | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[By\] your servants, | <big><span class="asgreek">παίδές</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| on the other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| river. | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| This \[is\] | **<big>[[G1473\|αυτή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| disposition | **<big>[[G1296\|διαταγή]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| letter | **<big>[[G1992\|επιστολής]]</big>** |
+| which | **<big>[[G3739\|ης]]</big>** |
+| they sent | **<big>[[G0649\|απέστειλαν]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| him -- | **<big>[[G1473\|αυτόν]]</big>** |
+| To | **<big>[[G4314\|προς]]</big>** |
+| Artaxerxes | **<big>[[H0783b\|Αρθασασθά]]</big>** |
+| \[the\] king. | **<big>[[G0935\|βασιλέα]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| \[By\] your servants, | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[the\] men | **<big>[[G0435\|άνδρες]]</big>** |
+| on the other side | **<big>[[G4008\|πέραν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| river. | **<big>[[G4215\|ποταμού]]</big>** |
 [[Ezra.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
 

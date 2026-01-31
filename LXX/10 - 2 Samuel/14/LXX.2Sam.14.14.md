@@ -7,35 +7,35 @@ For we must needs die, and [are] as water spilt on the ground, which cannot be g
 For we will surely die and be like water poured out on the ground, which cannot be recovered. Yet God does not take away a life, but He devises ways that the banished one may not be cast out from Him.<small><sub>**MT:**</sub></small>
 [[2Sam.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.13|<< 2 Samuel 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.15|2 Samuel 14:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| we shall die, | <big><span class="asgreek">αποθανούμεθα</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being discharged | <big><span class="asgreek">εκχεόμενον</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| being gathered together; | <big><span class="asgreek">συναχθήσεται</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
-| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| God shall | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[the\] life; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
-| yet | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he himself devises | <big><span class="asgreek">ελογίσατο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
-| a device | <big><span class="asgreek">λογισμόν</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| thrust away | <big><span class="asgreek">απώσασθαι</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
-| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] one being thrusted away. | <big><span class="asgreek">απωσμένον</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| to death | **<big>[[G2288\|θανάτω]]</big>** |
+| we shall die, | **<big>[[G0599\|αποθανούμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| water | **<big>[[G5204\|ύδωρ]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| being discharged | **<big>[[G1632\|εκχεόμενον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| earth, | **<big>[[G1093\|γην]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| being gathered together; | **<big>[[G4863\|συναχθήσεται]]</big>** |
+| that | **<big>[[G2532\|και]]</big>** |
+| not | **<big>[[G3756\|ου]]</big>** |
+| God shall | **<big>[[G2983\|λήψεται]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G2316\|θεός]]</big>** |
+| \[the\] life; | **<big>[[G5590\|ψυχήν]]</big>** |
+| yet | **<big>[[G2532\|και]]</big>** |
+| he himself devises | **<big>[[G3049\|ελογίσατο]]</big>** |
+| a device | **<big>[[G3053\|λογισμόν]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| thrust away | **<big>[[G0683\|απώσασθαι]]</big>** |
+| from | **<big>[[G0575\|απ΄]]</big>** |
+| him | **<big>[[G1473\|αυτού]]</big>** |
+| \[the\] one being thrusted away. | **<big>[[G0683\|απωσμένον]]</big>** |
 [[2Sam.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.13|<< 2 Samuel 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.15|2 Samuel 14:15 >>]]</td></tr></table>
 
 

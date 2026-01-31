@@ -1,4 +1,4 @@
-Greek of: <small>[[H3794H]]</small> 
+Greek of: <small>**<big>[[H3794H|כִּתִּי]]</big>**</small> 
 
 
 1. <b>==Κύπριος==, Cyprian </b>, [<a href="javascript:void(0)" title="Herdotus Historicus">Refs 5th c.BC</a>], etc. 

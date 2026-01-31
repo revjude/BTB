@@ -7,57 +7,57 @@ Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that
 See, my father, look at the corner of your robe in my hand. For I cut it off, but I did not kill you. Know and see that there is no evil or rebellion in my hands. I have not sinned against you, even though you are hunting me down to take my life.<small><sub>**MT:**</sub></small>
 [[1Sam.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.10|<< 1 Samuel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.12|1 Samuel 24:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| O my father, | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| border | <big><span class="asgreek">πτερύγιον</span></big> <sup><small><small>[[G4419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your doubled garment | <big><span class="asgreek">διπλοϊδος</span></big> <sup><small><small>[[G6943]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand. | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| removed | <big><span class="asgreek">αφείλον</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| border | <big><span class="asgreek">πτερύγιον</span></big> <sup><small><small>[[G4419]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your doubled garment, | <big><span class="asgreek">διπλοϊδος</span></big> <sup><small><small>[[G6943]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| kill | <big><span class="asgreek">απέκτεινά</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| know | <big><span class="asgreek">γνώθι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| today! | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| annulment, | <big><span class="asgreek">αθέτησις</span></big> <sup><small><small>[[G0115]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| impiety, | <big><span class="asgreek">ασέβεια</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I have not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| sinned | <big><span class="asgreek">ημάρτηκα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
-| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| bind | <big><span class="asgreek">δεσμεύεις</span></big> <sup><small><small>[[G1195]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And, | **<big>[[G2532\|και]]</big>** |
+| O my father, | **<big>[[G3962\|πατήρ]]</big>** **<big>[[G1473\|μου]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| border | **<big>[[G4419\|πτερύγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your doubled garment | **<big>[[G6943\|διπλοϊδος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand. | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| removed | **<big>[[G0851\|αφείλον]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| border | **<big>[[G4419\|πτερύγιον]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your doubled garment, | **<big>[[G6943\|διπλοϊδος]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I did not | **<big>[[G3756\|ουκ]]</big>** |
+| kill | **<big>[[G0615\|απέκτεινά]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| know | **<big>[[G1097\|γνώθι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold | **<big>[[G1492\|ίδε]]</big>** |
+| today! | **<big>[[G4594\|σήμερον]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| there is no | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1510\|έστι]]</big>** |
+| evil | **<big>[[G2549\|κακία]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| my hand, | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| annulment, | **<big>[[G0115\|αθέτησις]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| impiety, | **<big>[[G0763\|ασέβεια]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I have not | **<big>[[G3756\|ουχ]]</big>** |
+| sinned | **<big>[[G0264\|ημάρτηκα]]</big>** |
+| against | **<big>[[G1519\|εις]]</big>** |
+| you. | **<big>[[G1473\|σε]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| bind | **<big>[[G1195\|δεσμεύεις]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my life | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[1Sam.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.10|<< 1 Samuel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.12|1 Samuel 24:12 >>]]</td></tr></table>
 
 

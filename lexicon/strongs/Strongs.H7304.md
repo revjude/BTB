@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָוַח‎</span></big> **râvach** <small>*(raw-vakh')*</small> ==**be wide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (identical with <span class="ashebrew">‎רוּחַ‎</span><sup><small>[[H7306]]</small></sup>)</small>
+**<big><span class="ashebrew">‎רָוַח‎</span></big>** **râvach** <small>*(raw-vakh')*</small> ==**be wide**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (identical with **<big>[[H7306|‎רוּחַ‎]]</big>**)</small>
 
 $\quad$ be refreshed, large.
 - properly, ***to breathe freely***, i.e. ***revive***

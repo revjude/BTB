@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יִרְאוֹן‎</span></big> **Yirʼôwn** <small>*(yir-ohn')*</small> ==**Yiron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎יָרֵא‎</span><sup><small>[[H3372]]</small></sup>; fearfulness</small>
+**<big><span class="ashebrew">‎יִרְאוֹן‎</span></big>** **Yirʼôwn** <small>*(yir-ohn')*</small> ==**Yiron**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H3372|‎יָרֵא‎]]</big>**; fearfulness</small>
 
 $\quad$ Iron.
 - § Iron = *"fearing"*

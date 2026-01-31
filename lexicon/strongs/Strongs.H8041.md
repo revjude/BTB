@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂמַאל‎</span></big> **sâmaʼl** <small>*(saw-mal')*</small> ==**to go left**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (denominative from <span class="ashebrew">‎שְׂמֹאול‎</span><sup><small>[[H8040]]</small></sup>)</small>
+**<big><span class="ashebrew">‎שָׂמַאל‎</span></big>** **sâmaʼl** <small>*(saw-mal')*</small> ==**to go left**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (denominative from **<big>[[H8040|‎שְׂמֹאול‎]]</big>**)</small>
 
 $\quad$ (go, turn) (on the, to the) left.
 - ***to use the left hand*** or ***pass in that direction)***

@@ -11,42 +11,42 @@ And he said, I have been very jealous for the LORD God of hosts: because the chi
 > $\quad$ referenced by: [[Rom.11.3|Rom 11:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elijah said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| Being zealous, | <big><span class="asgreek">ζηλών</span></big> <sup><small><small>[[G2206]]</small></small></sup> |
-| I am zealous | <big><span class="asgreek">εζήλωκα</span></big> <sup><small><small>[[G2206]]</small></small></sup> |
-| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| God | <big><span class="asgreek">θεω</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| almighty, | <big><span class="asgreek">παντοκράτορι</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| abandoned | <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your altars | <big><span class="asgreek">θυσιαστήριά</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they razed, | <big><span class="asgreek">κατέσκαψαν</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| they killed | <big><span class="asgreek">απέκτειναν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
-| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| am left | <big><span class="asgreek">υπολέλειμμαι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| alone | <big><span class="asgreek">μονώτατος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they seek | <big><span class="asgreek">ζητούσι</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elijah said, | **<big>[[G2036\|είπεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| Being zealous, | **<big>[[G2206\|ζηλών]]</big>** |
+| I am zealous | **<big>[[G2206\|εζήλωκα]]</big>** |
+| for the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| God | **<big>[[G2316\|θεω]]</big>** |
+| almighty, | **<big>[[G3841\|παντοκράτορι]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| abandoned | **<big>[[G1459\|εγκατέλιπον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your covenant | **<big>[[G1242\|διαθήκην]]</big>** **<big>[[G1473\|σου]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your altars | **<big>[[G2379\|θυσιαστήριά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they razed, | **<big>[[G2679\|κατέσκαψαν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| your prophets | **<big>[[G4396\|προφήτας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
+| by | **<big>[[G1722\|εν]]</big>** |
+| \[the\] broadsword, | **<big>[[G4501\|ρομφαία]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| am left | **<big>[[G5275\|υπολέλειμμαι]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| alone | **<big>[[G3441\|μονώτατος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they seek | **<big>[[G2212\|ζητούσι]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my life | **<big>[[G5590\|ψυχήν]]</big>** **<big>[[G1473\|μου]]</big>** |
+| to take | **<big>[[G2983\|λαβείν]]</big>** |
+| it. | **<big>[[G1473\|αυτήν]]</big>** |
 [[1Kgs.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.13|<< 1 Kings 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.15|1 Kings 19:15 >>]]</td></tr></table>
 
 

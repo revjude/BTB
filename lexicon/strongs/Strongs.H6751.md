@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צָלַל‎</span></big> **tsâlal** <small>*(tsaw-lal')*</small> ==**to shade**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (identical with through the idea of hovering over (compare <span class="ashebrew">‎צֶלֶם‎</span><sup><small>[[H6754]]</small></sup>))</small>
+**<big><span class="ashebrew">‎צָלַל‎</span></big>** **tsâlal** <small>*(tsaw-lal')*</small> ==**to shade**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (identical with through the idea of hovering over (compare **<big>[[H6754|‎צֶלֶם‎]]</big>**))</small>
 
 $\quad$ begin to be dark, shadowing.
 - ***to shade***, ***as twilight*** or ***an opaque object***

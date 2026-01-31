@@ -7,17 +7,17 @@ Because thou hast made the LORD, [which is] my refuge, [even] the most High, thy
 Because you have made the LORD your dwelling—my refuge, the Most High—<small><sub>**MT:**</sub></small>
 [[Ps.91.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.8|<< Psalm 91:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.10|Psalm 91:10 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of my hope; | <big><span class="asgreek">ελπίς</span></big> <sup><small><small>[[G1680]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest | <big><span class="asgreek">ύψιστον</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| you made | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
-| your refuge. | <big><span class="asgreek">καταφυγήν</span></big> <sup><small><small>[[G7950]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| you, | **<big>[[G1473\|συ]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| the one | **<big>[[G3588\|η]]</big>** |
+| of my hope; | **<big>[[G1680\|ελπίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| highest | **<big>[[G5310\|ύψιστον]]</big>** |
+| you made | **<big>[[G5087\|έθου]]</big>** |
+| your refuge. | **<big>[[G7950\|καταφυγήν]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.91.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.8|<< Psalm 91:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.10|Psalm 91:10 >>]]</td></tr></table>
 
 

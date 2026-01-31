@@ -7,29 +7,29 @@ And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; an
 Ahaz was the father of Jehoaddah, Jehoaddah was the father of Alemeth, Azmaveth, and Zimri, and Zimri was the father of Moza.<small><sub>**MT:**</sub></small>
 [[1Chr.8.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.35|<< 1 Chronicles 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.37|1 Chronicles 8:37 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ahaz | <big><span class="asgreek">Αχάζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jehoadah; | <big><span class="asgreek">Ιωδά</span></big> <sup><small><small>[[G6043]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jehoadah | <big><span class="asgreek">Ιωδά</span></big> <sup><small><small>[[G6043]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Alemeth, | <big><span class="asgreek">Αλεμέθ</span></big> <sup><small><small>[[H5964]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Azmaveth, | <big><span class="asgreek">Ασμώθ</span></big> <sup><small><small>[[H5820]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Zimri; | <big><span class="asgreek">Ζαμβρί</span></big> <sup><small><small>[[H2174b]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Zimri | <big><span class="asgreek">Ζαμβρί</span></big> <sup><small><small>[[H2174b]]</small></small></sup> |
-| engendered | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moza; | <big><span class="asgreek">Μωσά</span></big> <sup><small><small>[[H4162]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ahaz | **<big>[[G0881\|Αχάζ]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Jehoadah; | **<big>[[G6043\|Ιωδά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jehoadah | **<big>[[G6043\|Ιωδά]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Alemeth, | **<big>[[H5964\|Αλεμέθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Azmaveth, | **<big>[[H5820\|Ασμώθ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Zimri; | **<big>[[H2174b\|Ζαμβρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Zimri | **<big>[[H2174b\|Ζαμβρί]]</big>** |
+| engendered | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Moza; | **<big>[[H4162\|Μωσά]]</big>** |
 [[1Chr.8.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.35|<< 1 Chronicles 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.37|1 Chronicles 8:37 >>]]</td></tr></table>
 
 

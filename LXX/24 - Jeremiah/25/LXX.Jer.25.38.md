@@ -7,24 +7,24 @@ He hath forsaken his covert, as the lion: for their land is desolate because of 
 He has left His den like a lion, for their land has been made a desolation by the sword of the oppressor, and because of the fierce anger of the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.25.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.37|<< Jeremiah 25:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.1|Jeremiah 26:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| He abandoned | <big><span class="asgreek">εγκατέλιπεν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
-| his lodging | <big><span class="asgreek">κατάλυμα</span></big> <sup><small><small>[[G2646]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| an | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| untrodden \[place\] | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sword | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| great | <big><span class="asgreek">μεγάλης</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| He abandoned | **<big>[[G1459\|εγκατέλιπεν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a lion | **<big>[[G3023\|λέων]]</big>** |
+| his lodging | **<big>[[G2646\|κατάλυμα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| became | **<big>[[G1096\|εγενήθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| their land | **<big>[[G1093\|γη]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| an | **<big>[[G1519\|εις]]</big>** |
+| untrodden \[place\] | **<big>[[G6101\|άβατον]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| in front | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| sword | **<big>[[G3162\|μαχαίρας]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| great | **<big>[[G3173\|μεγάλης]]</big>** |
 [[Jer.25.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.37|<< Jeremiah 25:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.1|Jeremiah 26:1 >>]]</td></tr></table>
 
 

@@ -7,30 +7,30 @@ And he cried unto the LORD, and said, O LORD my God, hast thou also brought evil
 Then he cried out to the LORD, “O LORD my God, have You also brought tragedy on this widow who has opened her home to me, by causing her son to die?”<small><sub>**MT:**</sub></small>
 [[1Kgs.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.19|<< 1 Kings 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.21|1 Kings 17:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Elijah yelled out | <big><span class="asgreek">ανεβόησεν</span></big> <sup><small><small>[[G0310]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| also indeed | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| widow | <big><span class="asgreek">χήραν</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
-| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| whom | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικώ</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| with her, | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| have you inflicted evil | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κεκάκωκας</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to kill | <big><span class="asgreek">θανατώσαι</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her son? | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Elijah yelled out | **<big>[[G0310\|ανεβόησεν]]</big>** **<big>[[G2243\|Ηλίας]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he said, | **<big>[[G2036\|είπεν]]</big>** |
+| O <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριε]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my God, | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| also indeed | **<big>[[G2532\|και]]</big>** **<big>[[G1065\|γε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| widow | **<big>[[G5503\|χήραν]]</big>** |
+| with | **<big>[[G3326\|μεθ΄]]</big>** |
+| whom | **<big>[[G3739\|ης]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| dwell | **<big>[[G2730\|κατοικώ]]</big>** |
+| with her, | **<big>[[G3326\|μετ΄]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| have you inflicted evil | **<big>[[G1473\|συ]]</big>** **<big>[[G2559\|κεκάκωκας]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to kill | **<big>[[G2289\|θανατώσαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| her son? | **<big>[[G5207\|υιόν]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[1Kgs.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.19|<< 1 Kings 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.21|1 Kings 17:21 >>]]</td></tr></table>
 
 

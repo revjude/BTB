@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Arvad</span>, an island city whose inhabitants served as sailors and soldiers for Tyre.
 - A location first mentioned at [[Ezek.27.8|Ezk.27.8]]; 
-- only referred to as Arvad<[[H0719]]> \(<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ַ<span class='tipnrLangHebrew'>ד</span>\).
+- only referred to as Arvad **<big>[[H0719|אַרְוַד]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.856082,35.858485&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ Apart from its appearance in Ezekiel's prophecy, Arvad is not mentioned elsewher
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Arvad | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ַ<span class='tipnrLangHebrew'>ד</span>](H0719) <small>*Hebrew*</small> | 2x | [[Ezk.27.8] & [Ezk.27.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arvad\*\|reference=Ezk.27.8;Ezk.27.11) |
-All Strong's for **Arvad**: \[[[H0719]]\]
+| Arvad | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ו</span>ַ<span class='tipnrLangHebrew'>ד</span>](H0719) | 2x | [[Ezk.27.8] & [Ezk.27.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arvad\*\|reference=Ezk.27.8;Ezk.27.11) |
+All entries for **Arvad**:  **<big>[[H0719|אַרְוַד]]</big>**

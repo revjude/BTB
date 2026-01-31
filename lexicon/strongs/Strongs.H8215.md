@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎שְׁפַל‎</span></big> **shᵉphal** <small>*(shef-al')*</small> ==**low**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
-<small>(Aramaic) from <span class="asaramaic">‎שְׁפַל‎</span><sup><small>[[H8214]]</small></sup></small>
+**<big><span class="asaramaic">‎שְׁפַל‎</span></big>** **shᵉphal** <small>*(shef-al')*</small> ==**low**==  <sup><small>[[TEHMC#A:A|A:A]]</small></sup> 
+<small>(Aramaic) from **<big>[[H8214|‎שְׁפַל‎]]</big>**</small>
 
 $\quad$ basest.
 - ***low***

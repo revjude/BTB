@@ -7,43 +7,43 @@ And, behold, [one] like the similitude of the sons of men touched my lips: then 
 And suddenly one with the likeness of a man touched my lips, and I opened my mouth and said to the one standing before me, “My lord, because of the vision, I am overcome with anguish, and I have no strength.<small><sub>**MT:**</sub></small>
 [[Dan.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.15|<< Daniel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.17|Daniel 10:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a likeness | <big><span class="asgreek">ομοίωσις</span></big> <sup><small><small>[[G3669]]</small></small></sup> |
-| of a son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| touched | <big><span class="asgreek">ήψατο</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lips, | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I opened | <big><span class="asgreek">ήνοιξα</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth, | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I spoke, | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| standing | <big><span class="asgreek">εστώτα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
-| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O lord, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| apparition | <big><span class="asgreek">οπτασία</span></big> <sup><small><small>[[G3701]]</small></small></sup> |
-| of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| turned | <big><span class="asgreek">εστράφη</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my within | <big><span class="asgreek">εντός</span></big> <sup><small><small>[[G1787]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I had not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσχον</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| strength. | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a likeness | **<big>[[G3669\|ομοίωσις]]</big>** |
+| of a son | **<big>[[G5207\|υιόυ]]</big>** |
+| of man | **<big>[[G0444\|ανθρώπου]]</big>** |
+| touched | **<big>[[G0680\|ήψατο]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| my lips, | **<big>[[G5491\|χειλέων]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I opened | **<big>[[G0455\|ήνοιξα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my mouth, | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I spoke, | **<big>[[G2980\|ελάλησα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| said | **<big>[[G2036\|είπα]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| the one | **<big>[[G3588\|τον]]</big>** |
+| standing | **<big>[[G2476\|εστώτα]]</big>** |
+| before | **<big>[[G1726\|εναντίον]]</big>** |
+| me, | **<big>[[G1473\|εμού]]</big>** |
+| O lord, | **<big>[[G2962\|κύριε]]</big>** |
+| at | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| apparition | **<big>[[G3701\|οπτασία]]</big>** |
+| of you | **<big>[[G1473\|σου]]</big>** |
+| turned | **<big>[[G4762\|εστράφη]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| my within | **<big>[[G1787\|εντός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me, | **<big>[[G1473\|εμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| I had not | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2192\|έσχον]]</big>** |
+| strength. | **<big>[[G2479\|ισχύν]]</big>** |
 [[Dan.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.15|<< Daniel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.17|Daniel 10:17 >>]]</td></tr></table>
 
 

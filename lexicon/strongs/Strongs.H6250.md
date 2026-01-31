@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎עֶשְׁתֹּנָה‎</span></big> **ʻeshtônâh** <small>*(esh-to-naw')*</small> ==**thought**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎עָשַׁת‎</span><sup><small>[[H6245]]</small></sup></small>
+**<big><span class="ashebrew">‎עֶשְׁתֹּנָה‎</span></big>** **ʻeshtônâh** <small>*(esh-to-naw')*</small> ==**thought**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H6245|‎עָשַׁת‎]]</big>**</small>
 
 $\quad$ thought.
 - ***thinking***
 
 **1)** thought
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διαλογισμός</span><sup><small>[[G1261]]</small></sup>
+<small>See Greek: </small>**<big>[[G1261|διαλογισμός]]</big>**

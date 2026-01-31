@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎כָּנַע‎</span></big> **kânaʻ** <small>*(kaw-nah')*</small> ==**be humble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎כָּנַע‎</span></big>** **kânaʻ** <small>*(kaw-nah')*</small> ==**be humble**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ bring down (low), into subjection, under, humble (self), subdue.
@@ -13,4 +13,4 @@ $\quad$ **1b)** (Hiphil)
 $\quad$ $\quad$ **1b1)** to humble
 $\quad$ $\quad$ **1b2)** to subdue
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αἰσχύνομαι</span><sup><small>[[G0153]]</small></sup> · <span class="asgreek">ἀποστρέφω</span><sup><small>[[G0654]]</small></sup> · <span class="asgreek">ἐντρέπω</span><sup><small>[[G1788]]</small></sup> · <span class="asgreek">ἐπιστρέφω</span><sup><small>[[G1994]]</small></sup> · <span class="asgreek">κατανύσσω</span><sup><small>[[G2660]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup>
+<small>See Greek: </small>**<big>[[G0153|αἰσχύνομαι]]</big>** · **<big>[[G0654|ἀποστρέφω]]</big>** · **<big>[[G1788|ἐντρέπω]]</big>** · **<big>[[G1994|ἐπιστρέφω]]</big>** · **<big>[[G2660|κατανύσσω]]</big>** · **<big>[[G5013|ταπεινόω]]</big>**

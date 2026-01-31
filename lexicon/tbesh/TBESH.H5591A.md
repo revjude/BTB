@@ -1,5 +1,4 @@
-<span class="ashebrew">‎סַ֫עַר‎</span> <small>***(sa.ar)***</small> ==**tempest**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-spelling of: <small>[[H5591B]]</small> 
+<small>spelling of:</small> <small>**<big>[[H5591B|סַעַר]]</big>**</small> 
 
 - tempest
-- Another spelling of <i>se.a.rah</i> (<span class='ashebrew'>‎ס‎</span>ְ<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ה‎</span> "tempest" [[H5591B]])
+- Another spelling of <i>se.a.rah</i> (<span class='ashebrew'>‎ס‎</span>ְ<span class='ashebrew'>‎ע‎</span>ָ<span class='ashebrew'>‎ר‎</span>ָ<span class='ashebrew'>‎ה‎</span> "tempest" **<big>[[H5591B|סַעַר]]</big>**)

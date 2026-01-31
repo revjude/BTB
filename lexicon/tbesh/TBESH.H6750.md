@@ -1,1 +1,0 @@
-<span class="ashebrew">‎צָלַל‎</span> <small>***(tsa.lal)***</small> ==**to tingle**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 

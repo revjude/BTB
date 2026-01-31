@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎סָכַן‎</span></big> **çâkan** <small>*(saw-kan')*</small> ==**be useful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎סָכַן‎</span></big>** **çâkan** <small>*(saw-kan')*</small> ==**be useful**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ acquaint (self), be advantage, [idiom] ever, (be, (un-)) profit(-able), treasurer, be wont.
@@ -12,4 +12,4 @@ $\quad$ $\quad$ **1a2)** servitor, steward (participle)
 $\quad$ $\quad$ **1a3)** to benefit, profit
 $\quad$ **1b)** (Hiphil) to be used, be wont, exhibit use or habit, show harmony with, be familiar with, know intimately
 
-<sub><small>See Greek: </small></sub><span class="asgreek">διδάσκω</span><sup><small>[[G1321]]</small></sup> · <span class="asgreek">ἐπισκοπή</span><sup><small>[[G1984]]</small></sup> · <span class="asgreek">θάλπω</span><sup><small>[[G2282]]</small></sup> · <span class="asgreek">προελπίζω</span><sup><small>[[G4276]]</small></sup>
+<small>See Greek: </small>**<big>[[G1321|διδάσκω]]</big>** · **<big>[[G1984|ἐπισκοπή]]</big>** · **<big>[[G2282|θάλπω]]</big>** · **<big>[[G4276|προελπίζω]]</big>**

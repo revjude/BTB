@@ -7,39 +7,39 @@ And when the morning arose, then the angels hastened Lot, saying, Arise, take th
 At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”<small><sub>**MT:**</sub></small>
 [[Gen.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.14|<< Genesis 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.16|Genesis 19:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| dawn | <big><span class="asgreek">όρθρος</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
-| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| hurried | <big><span class="asgreek">εσπούδαζον</span></big> <sup><small><small>[[G4704]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| angels | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Lot, | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| In rising up, | <big><span class="asgreek">αναστάς</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your wife | <big><span class="asgreek">γυναίκά</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
-| daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| whom | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| you have, | <big><span class="asgreek">έχεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| come forth! | <big><span class="asgreek">έξελθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| should | <big><span class="asgreek">συναπόλη</span></big> <sup><small><small>[[G4881]]</small></small></sup> |
-| in the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| lawlessnesses | <big><span class="asgreek">ανομίαις</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And when | **<big>[[G2259\|ηνίκα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| dawn | **<big>[[G3722\|όρθρος]]</big>** |
+| came | **<big>[[G1096\|εγένετο]]</big>** |
+| hurried | **<big>[[G4704\|εσπούδαζον]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| angels | **<big>[[G0032\|άγγελοι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Lot, | **<big>[[G3091\|Λωτ]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| In rising up, | **<big>[[G0450\|αναστάς]]</big>** |
+| take | **<big>[[G2983\|λάβε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your wife | **<big>[[G1135\|γυναίκά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| two | **<big>[[G1417\|δύο]]</big>** |
+| daughters | **<big>[[G2364\|θυγατέρας]]</big>** |
+| your | **<big>[[G1473\|σου]]</big>** |
+| whom | **<big>[[G3739\|ας]]</big>** |
+| you have, | **<big>[[G2192\|έχεις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| come forth! | **<big>[[G1831\|έξελθε]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| you | **<big>[[G1473\|συ]]</big>** |
+| should | **<big>[[G4881\|συναπόλη]]</big>** |
+| in the | **<big>[[G3588\|ταις]]</big>** |
+| lawlessnesses | **<big>[[G0458\|ανομίαις]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| city. | **<big>[[G4172\|πόλεως]]</big>** |
 [[Gen.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.14|<< Genesis 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.16|Genesis 19:16 >>]]</td></tr></table>
 
 

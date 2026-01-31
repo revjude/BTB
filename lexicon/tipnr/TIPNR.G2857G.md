@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Colossae</span> was a city in the region of Phrygia in Asia Minor, to which Paul addressed one of his epistles.
 - A location first mentioned at [[Col.1.2|Col.1.2]]; 
-- referred to as Colossae<[[G2857G]]> \(<span class='tipnrLangGreek'>Κολοσσαί</span>\), or Colossae \(Var, KJV= Colosse\) <[[G2857H]]> \(<span class='tipnrLangGreek'>Κολασσαί</span>\), or - \(KJV= Colossians\) <[[G2858]]> \(<span class='tipnrLangGreek'>Κολ</span>a<span class='tipnrLangGreek'>σσαεύς</span>\).
+- referred to as Colossae **<big>[[G2857|Κολοσσαί]]</big>**, or Colossae \(Var, KJV= Colosse\)  **<big>[[G2857|Κολοσσαί]]</big>**, or - \(KJV= Colossians\)  **<big>[[G2858|Κολοσσαεύς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.78333333333333,29.25&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,7 +20,7 @@ Colossae was known for its wool and dye industry, particularly a unique purple d
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Colossae (KJV= Colosse) | [<span class='tipnrLangGreek'>Κολοσσαί</span>](G2857G) <small>*Greek*</small> | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
-| Colossae (Var, KJV= Colosse) | [<span class='tipnrLangGreek'>Κολασσαί</span>](G2857H) <small>*Greek*</small> | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
-| - (KJV= Colossians) <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κολ</span>a<span class='tipnrLangGreek'>σσαεύς</span>](G2858) <small>*Greek*</small> | 1x | [Col.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Col.4.18) |
-All Strong's for **Colossae**: \[[[G2857G]]\] \[[[G2857H]]\] \[[[G2858]]\]
+| Colossae (KJV= Colosse) | [<span class='tipnrLangGreek'>Κολοσσαί</span>](G2857G) | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
+| Colossae (Var, KJV= Colosse) | [<span class='tipnrLangGreek'>Κολασσαί</span>](G2857H) | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
+| - (KJV= Colossians) <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κολ</span>a<span class='tipnrLangGreek'>σσαεύς</span>](G2858) | 1x | [Col.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Col.4.18) |
+All entries for **Colossae**:  **<big>[[G2857|Κολοσσαί]]</big>** ☩  **<big>[[G2857|Κολοσσαί]]</big>** ☩  **<big>[[G2858|Κολοσσαεύς]]</big>**

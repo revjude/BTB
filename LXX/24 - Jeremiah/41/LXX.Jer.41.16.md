@@ -7,55 +7,55 @@ Then took Johanan the son of Kareah, and all the captains of the forces that [we
 Then Johanan son of Kareah and all the commanders of the armies with him took the whole remnant of the people from Mizpah whom he had recovered from Ishmael son of Nethaniah after Ishmael had killed Gedaliah son of Ahikam: the soldiers, women, children, and court officials he had brought back from Gibeon.<small><sub>**MT:**</sub></small>
 [[Jer.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.15|<< Jeremiah 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.17|Jeremiah 41:17 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Johanan took, | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Ιωάναν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| leaders | <big><span class="asgreek">ηγεμόνες</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| remnant | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he returned | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Ishmael | <big><span class="asgreek">Ισμαήλ</span></big> <sup><small><small>[[H3458]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Nethaniah | <big><span class="asgreek">Ναθανίου</span></big> <sup><small><small>[[H5418]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Mizpah -- | <big><span class="asgreek">Μασσηφάθ</span></big> <sup><small><small>[[H4708]]</small></small></sup> |
-| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his striking | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Gedaliah | <big><span class="asgreek">Γοδολίαν</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ahikam -- | <big><span class="asgreek">Αηικάμ</span></big> <sup><small><small>[[H0296]]</small></small></sup> |
-| mighty | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| war, | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| women, | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest \[of the things\], | <big><span class="asgreek">λοιπά</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| eunuchs, | <big><span class="asgreek">ευνούχους</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| he returned | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| Gibeon. | <big><span class="asgreek">Γαβαών</span></big> <sup><small><small>[[H1391]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| Johanan took, | **<big>[[G2983\|έλαβεν]]</big>** **<big>[[H3110\|Ιωάναν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| leaders | **<big>[[G2232\|ηγεμόνες]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| force | **<big>[[G1411\|δυνάμεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτού]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| remnant | **<big>[[G2645\|καταλοίπους]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| people | **<big>[[G2992\|λαού]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| he returned | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Ishmael | **<big>[[H3458\|Ισμαήλ]]</big>** |
+| son | **<big>[[G5207\|υιόυ]]</big>** |
+| of Nethaniah | **<big>[[H5418\|Ναθανίου]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Mizpah -- | **<big>[[H4708\|Μασσηφάθ]]</big>** |
+| after | **<big>[[G3326\|μετά]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his striking | **<big>[[G3960\|πατάξαι]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
+| Gedaliah | **<big>[[H1436b\|Γοδολίαν]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Ahikam -- | **<big>[[H0296\|Αηικάμ]]</big>** |
+| mighty | **<big>[[G1415\|δυνατούς]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| war, | **<big>[[G4171\|πολέμω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τας]]</big>** |
+| women, | **<big>[[G1135\|γυναίκας]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rest \[of the things\], | **<big>[[G3062\|λοιπά]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| eunuchs, | **<big>[[G2135\|ευνούχους]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| he returned | **<big>[[G0654\|απέστρεψεν]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| Gibeon. | **<big>[[H1391\|Γαβαών]]</big>** |
 [[Jer.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.15|<< Jeremiah 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.17|Jeremiah 41:17 >>]]</td></tr></table>
 
 

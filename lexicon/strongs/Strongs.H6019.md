@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַמְרָם‎</span></big> **ʻAmrâm** <small>*(am-rawm')*</small> ==**Amram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably from <span class="ashebrew">‎עַם‎</span><sup><small>[[H5971]]</small></sup> and <span class="ashebrew">‎רוּם‎</span><sup><small>[[H7311]]</small></sup>; high people</small>
+**<big><span class="ashebrew">‎עַמְרָם‎</span></big>** **ʻAmrâm** <small>*(am-rawm')*</small> ==**Amram**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably from **<big>[[H5971|‎עַם‎]]</big>** and **<big>[[H7311|‎רוּם‎]]</big>**; high people</small>
 
 $\quad$ Amram.
 - § Amram = *"exalted people"*

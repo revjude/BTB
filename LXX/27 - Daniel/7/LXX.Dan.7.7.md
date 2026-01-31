@@ -11,50 +11,50 @@ After this, as I watched in my vision in the night, suddenly a fourth beast appe
 > $\quad$ referenced by: [[Rev.12.3|Rev 12:3]] ☩ [[Rev.13.1|Rev 13:1]] ☩ [[Rev.17.3|Rev 17:3]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| After | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
-| this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| I viewed, | <big><span class="asgreek">εθεώρουν</span></big> <sup><small><small>[[G2334]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| wild beast | <big><span class="asgreek">θηρίον</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| a fourth | <big><span class="asgreek">τέταρτον</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
-| fearful | <big><span class="asgreek">φοβερόν</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| utterly astonishing, | <big><span class="asgreek">εκθάμβον</span></big> <sup><small><small>[[G1569]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| great | <big><span class="asgreek">ισχυρόν</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
-| extremely | <big><span class="asgreek">περισσώς</span></big> <sup><small><small>[[G4057]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its teeth | <big><span class="asgreek">οδόντες</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| iron, | <big><span class="asgreek">σιδηροί</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
-| strong, | <big><span class="asgreek">μεγάλοι</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| eating, | <big><span class="asgreek">εσθίον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| making fine, | <big><span class="asgreek">λεπτύνον</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rest | <big><span class="asgreek">επίλοιπα</span></big> <sup><small><small>[[G1954]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| its feet | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| it trampled. | <big><span class="asgreek">συνεπάτει</span></big> <sup><small><small>[[G9271]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it \[was\] | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| diverse | <big><span class="asgreek">διάφορον</span></big> <sup><small><small>[[G1313]]</small></small></sup> |
-| extremely | <big><span class="asgreek">περισσώς</span></big> <sup><small><small>[[G4057]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts, | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
-| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
-| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
-| \[were\] to it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| After | **<big>[[G3694\|οπίσω]]</big>** |
+| this | **<big>[[G3778\|τούτου]]</big>** |
+| I viewed, | **<big>[[G2334\|εθεώρουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| wild beast | **<big>[[G2342\|θηρίον]]</big>** |
+| a fourth | **<big>[[G5067\|τέταρτον]]</big>** |
+| fearful | **<big>[[G5398\|φοβερόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| utterly astonishing, | **<big>[[G1569\|εκθάμβον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| great | **<big>[[G2478\|ισχυρόν]]</big>** |
+| extremely | **<big>[[G4057\|περισσώς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| its teeth | **<big>[[G3599\|οδόντες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| iron, | **<big>[[G4603\|σιδηροί]]</big>** |
+| strong, | **<big>[[G3173\|μεγάλοι]]</big>** |
+| eating, | **<big>[[G2068\|εσθίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| making fine, | **<big>[[G8183\|λεπτύνον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| rest | **<big>[[G1954\|επίλοιπα]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| its feet | **<big>[[G4228\|ποσίν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| it trampled. | **<big>[[G9271\|συνεπάτει]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it \[was\] | **<big>[[G1473\|αυτό]]</big>** |
+| diverse | **<big>[[G1313\|διάφορον]]</big>** |
+| extremely | **<big>[[G4057\|περισσώς]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| wild beasts, | **<big>[[G2342\|θηρία]]</big>** |
+| the ones | **<big>[[G3588\|τα]]</big>** |
+| before | **<big>[[G1715\|έμπροσθεν]]</big>** |
+| it. | **<big>[[G1473\|αυτού]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| horns | **<big>[[G2768\|κέρατα]]</big>** |
+| ten | **<big>[[G1176\|δέκα]]</big>** |
+| \[were\] to it. | **<big>[[G1473\|αυτώ]]</big>** |
 [[Dan.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.6|<< Daniel 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.8|Daniel 7:8 >>]]</td></tr></table>
 
 

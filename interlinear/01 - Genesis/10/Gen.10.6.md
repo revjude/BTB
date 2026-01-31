@@ -6,14 +6,14 @@ The sons of Ham: Cush, Mizraim, Put, and Canaan.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.5|<< Genesis 10:5]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.7|Genesis 10:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and [the] sons of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בְנֵ֖י </big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ham  | <span class="ashebrew"><big>חָ֑ם </big></span><small><small><sup>[[H2526G]]</sup></small></small> &#8207;| Cham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] Cush  | <span class="ashebrew"><big>כּ֥וּשׁ </big></span><small><small><sup>[[H3568G]]</sup></small></small> &#8207;| kush <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Mizraim  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִצְרַ֖יִם </big></span><small><small><sup>[[H4714H]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mitz.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Put  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פ֥וּט </big></span><small><small><sup>[[H6316G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Fut <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Canaan  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כְנָֽעַן </big></span><small><small><sup>[[H3667G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> khe.Na.'an <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ham  |**<big>&#8207;[[H2526G\|חָ֑ם]]&#8207; </big>**| Cham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] Cush  |**<big>&#8207;[[H3568G\|כּ֥וּשׁ]]&#8207; </big>**| kush<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Mizraim  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4714H\|מִצְרַ֖יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mitz.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Put  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6316G\|פ֥וּט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Fut<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Canaan  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3667G\|כְנָֽעַן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Na.'an<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.5|<< Genesis 10:5]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.7|Genesis 10:7 >>]]</td></tr></table>
 
 

@@ -6,16 +6,16 @@ When words are many, sin is unavoidable, but he who restrains his lips is wise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.18|<< Proverbs 10:18]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.20|Proverbs 10:20 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| in a multitude of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>רֹ֣ב </big></span><small><small><sup>[[H7230]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Ro <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| words  | <span class="ashebrew"><big>דְּ֭בָרִים </big></span><small><small><sup>[[H1697G]]</sup></small></small> &#8207;| De.va.rim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>לֹ֣א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it ceases  | <span class="ashebrew"><big>יֶחְדַּל </big></span><small><small><sup>[[H2308]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| yech.dal- <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| transgression  | <span class="ashebrew"><big>פָּ֑שַׁע </big></span><small><small><sup>[[H6588]]</sup></small></small> &#8207;| Pa.sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] restrains  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>חֹשֵׂ֖ךְ </big></span><small><small><sup>[[H2820]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> cho.Sekh <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| lips his  | <span class="ashebrew"><big>שְׂפָתָ֣י </big></span><small><small><sup>[[H8193G]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| se.fa.Ta <small><sup>[[HNcfdc]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] acting prudently  | <span class="ashebrew"><big>מַשְׂכִּֽיל </big></span><small><small><sup>[[H7919A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| mas.Kil <small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a multitude of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֣ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words  |**<big>&#8207;[[H1697G\|דְּ֭בָרִים]]&#8207; </big>**| De.va.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it ceases  |**<big>&#8207;[[H2308\|יֶחְדַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yech.dal-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgression  |**<big>&#8207;[[H6588\|פָּ֑שַׁע]]&#8207; </big>**| Pa.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] restrains  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2820\|חֹשֵׂ֖ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cho.Sekh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips his  |**<big>&#8207;[[H8193G\|שְׂפָתָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| se.fa.Ta<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] acting prudently  |**<big>&#8207;[[H7919A\|מַשְׂכִּֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mas.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.18|<< Proverbs 10:18]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.20|Proverbs 10:20 >>]]</td></tr></table>
 
 

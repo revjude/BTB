@@ -4,9 +4,9 @@ Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Molid</span> was the son of Abisur and Abihail, mentioned in the genealogy of Judah.
 - A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.2.29|1Ch.2.29]]; 
-- only referred to as Molid<[[H4140]]> \(<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יד</span>\); 
--  son of Abishur<[[H0051]]> and Abihail<[[H0032H]]>; 
-- a brother of Ahban<[[H0257]]>.
+- only referred to as Molid **<big>[[H4140|מוֹלִיד]]</big>**; 
+-  son of Abishur **<big>[[H0051|אֲבִישׁוּר]]</big>** and Abihail **<big>[[H0032|אֲבִיהַיִל]]</big>**; 
+- a brother of Ahban **<big>[[H0257|אַחְבָן]]</big>**.
 
 Molid is mentioned in [[1Chr.2.29|1 Chronicles 2:29]] as part of the genealogy of the tribe of Judah. He was the son of Abisur and his wife, Abihail. 
 
@@ -20,8 +20,8 @@ As with many of the individuals mentioned in these genealogies, Molid's contribu
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Molid | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יד</span>](H4140) <small>*Hebrew*</small> | 1x | [1Ch.2.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Molid\*\|reference=1Ch.2.29) |
-All Strong's for **Molid**: \[[[H4140]]\]
+| Molid | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יד</span>](H4140) | 1x | [1Ch.2.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Molid\*\|reference=1Ch.2.29) |
+All entries for **Molid**:  **<big>[[H4140|מוֹלִיד]]</big>**
 #### Related Profiles:
 - **[Abishur](H0051)** (father)
 - **[Abihail](H0032H)** (mother)

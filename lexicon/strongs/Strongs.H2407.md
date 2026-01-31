@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חַטּוּשׁ‎</span></big> **Chaṭṭûwsh** <small>*(khat-toosh')*</small> ==**Hattush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎חַטּוּשׁ‎</span></big>** **Chaṭṭûwsh** <small>*(khat-toosh')*</small> ==**Hattush**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root of uncertain signification</small>
 
 $\quad$ Hattush.

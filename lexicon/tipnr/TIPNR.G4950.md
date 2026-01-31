@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Syrtis</span>, a dangerous area of shallow waters off the coast of Libya, feared by sailors \(Acts 27:17\).
 - A location only mentioned at [[Mark.7.26|Act.27.17]]; 
-- only referred to as Syrtis<[[G4950]]> \(<span class='tipnrLangGreek'>σύρτις</span>\).
+- only referred to as Syrtis **<big>[[G4950|σύρτις]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.766667,18.505556&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Syrtis is mentioned in Acts 27:17 as a dangerous area of shallow waters that sai
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Syrtis | [<span class='tipnrLangGreek'>σύρτις</span>](G4950) <small>*Greek*</small> | 1x | [Act.27.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Syrtis\*\|reference=Act.27.17) |
-All Strong's for **Syrtis**: \[[[G4950]]\]
+| Syrtis | [<span class='tipnrLangGreek'>σύρτις</span>](G4950) | 1x | [Act.27.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Syrtis\*\|reference=Act.27.17) |
+All entries for **Syrtis**:  **<big>[[G4950|σύρτις]]</big>**

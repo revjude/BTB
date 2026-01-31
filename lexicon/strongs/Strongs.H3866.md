@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לוּדִי‎</span></big> **Lûwdîy** <small>*(loo-dee')*</small> ==**Ludite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-<small>or <span class="ashebrew">לוּדִיִּי</span> **Lûwdîyîy** <small>*(loo-dee-ee')*</small>; patrial from <span class="ashebrew">‎לוּד‎</span><sup><small>[[H3865]]</small></sup></small>
+**<big><span class="ashebrew">‎לוּדִי‎</span></big>** **Lûwdîy** <small>*(loo-dee')*</small> ==**Ludite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>or **<big><span class="ashebrew">לוּדִיִּי</span></big>** **Lûwdîyîy** <small>*(loo-dee-ee')*</small>; patrial from **<big>[[H3865|‎לוּד‎]]</big>**</small>
 
 $\quad$ Ludim. Lydians.
 - § Ludim or Lydians = *"to the firebrands: travailings"*

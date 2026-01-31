@@ -6,19 +6,19 @@ Does the snow of Lebanon ever leave its rocky slopes? Or do its cool waters flow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.13|<< Jeremiah 18:13]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.15|Jeremiah 18:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ does it leave  | <span class="ashebrew"><big>הֲ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>יַעֲזֹ֥ב </big></span><small><small><sup>[[H5800A]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> ya.'a.Zo <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from [the] rock of  | <span class="ashebrew"><big>מִ </big></span><small><small><sup>[[H9006]]</sup></small></small> <span class="ashebrew"><big>צּ֛וּר </big></span><small><small><sup>[[H6697H]]</sup></small></small> &#8207;| mi. <small><sup>[[HR]]</sup></small> Tzur <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] field  | <span class="ashebrew"><big>שָׂדַ֖י </big></span><small><small><sup>[[H7704A]]</sup></small></small> &#8207;| sa.Dai <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] snow of  | <span class="ashebrew"><big>שֶׁ֣לֶג </big></span><small><small><sup>[[H7950]]</sup></small></small> &#8207;| She.leg <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lebanon  | <span class="ashebrew"><big>לְבָנ֑וֹן </big></span><small><small><sup>[[H3844G]]</sup></small></small> &#8207;| le.va.Non <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| or?  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518I]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| are they plucked up  | <span class="ashebrew"><big>יִנָּתְשׁ֗וּ </big></span><small><small><sup>[[H5428]]</sup></small></small> &#8207;| yi.na.te.Shu <small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| waters  | <span class="ashebrew"><big>מַ֛יִם </big></span><small><small><sup>[[H4325G]]</sup></small></small> &#8207;| Ma.yim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strange  | <span class="ashebrew"><big>זָרִ֥ים </big></span><small><small><sup>[[H2114A]]</sup></small></small> &#8207;| za.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cool  | <span class="ashebrew"><big>קָרִ֖ים </big></span><small><small><sup>[[H7119]]</sup></small></small> &#8207;| ka.Rim <small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| flowing  | <span class="ashebrew"><big>נוֹזְלִֽים </big></span><small><small><sup>[[H5140]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| noz.Lim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ does it leave  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5800A\|יַעֲזֹ֥ב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ya.'a.Zo<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] rock of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6697H\|צּ֛וּר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tzur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] field  |**<big>&#8207;[[H7704A\|שָׂדַ֖י]]&#8207; </big>**| sa.Dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] snow of  |**<big>&#8207;[[H7950\|שֶׁ֣לֶג]]&#8207; </big>**| She.leg<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebanon  |**<big>&#8207;[[H3844G\|לְבָנ֑וֹן]]&#8207; </big>**| le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or?  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are they plucked up  |**<big>&#8207;[[H5428\|יִנָּתְשׁ֗וּ]]&#8207; </big>**| yi.na.te.Shu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waters  |**<big>&#8207;[[H4325G\|מַ֛יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strange  |**<big>&#8207;[[H2114A\|זָרִ֥ים]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cool  |**<big>&#8207;[[H7119\|קָרִ֖ים]]&#8207; </big>**| ka.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flowing  |**<big>&#8207;[[H5140\|נוֹזְלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| noz.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.13|<< Jeremiah 18:13]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.15|Jeremiah 18:15 >>]]</td></tr></table>
 
 

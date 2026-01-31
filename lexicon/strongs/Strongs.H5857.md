@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עַי‎</span></big> **ʻAy** <small>*(ah'ee)*</small> ==**Ai**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>or (feminine) <span class="ashebrew">עַיָּא</span> **ʻAyâʼ** <small>*(ah-yaw')*</small>; (Nehemiah 11:31), or <span class="ashebrew">עַיָּת</span> **ʻAyâth** <small>*(ah-yawth')*</small>; (Isaiah 10:28), for <span class="ashebrew">‎עִי‎</span><sup><small>[[H5856]]</small></sup></small>
+**<big><span class="ashebrew">‎עַי‎</span></big>** **ʻAy** <small>*(ah'ee)*</small> ==**Ai**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>or (feminine) **<big><span class="ashebrew">עַיָּא</span></big>** **ʻAyâʼ** <small>*(ah-yaw')*</small>; (Nehemiah 11:31), or **<big><span class="ashebrew">עַיָּת</span></big>** **ʻAyâth** <small>*(ah-yawth')*</small>; (Isaiah 10:28), for **<big>[[H5856|‎עִי‎]]</big>**</small>
 
 $\quad$ Ai, Aija, Aijath, Hai.
 - § Ai or Aija or Aiath or Hai = *"heap of ruins"*

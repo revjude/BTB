@@ -7,17 +7,17 @@ When the dust groweth into hardness, and the clods cleave fast together?
 when the dust hardens into a mass and the clods of earth stick together?<small><sub>**MT:**</sub></small>
 [[Job.38.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.37|<< Job 38:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.39|Job 38:39 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and it is poured | <big><span class="asgreek">κέχυται</span></big> <sup><small><small>[[G9721]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| earth's | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| powder, | <big><span class="asgreek">κονία</span></big> <sup><small><small>[[G8062]]</small></small></sup> |
-| and I have cleaved | <big><span class="asgreek">κεκόλληκα</span></big> <sup><small><small>[[G2853]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
-| a stone | <big><span class="asgreek">λίθω</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| cube? | <big><span class="asgreek">κύβον</span></big> <sup><small><small>[[G8115]]</small></small></sup> |
+| and it is poured | **<big>[[G9721\|κέχυται]]</big>** **<big>[[G1161\|δε]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| earth's | **<big>[[G1093\|γη]]</big>** |
+| powder, | **<big>[[G8062\|κονία]]</big>** |
+| and I have cleaved | **<big>[[G2853\|κεκόλληκα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| it | **<big>[[G1473\|αυτόν]]</big>** |
+| as | **<big>[[G5618\|ώσπερ]]</big>** |
+| a stone | **<big>[[G3037\|λίθω]]</big>** |
+| cube? | **<big>[[G8115\|κύβον]]</big>** |
 [[Job.38.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.37|<< Job 38:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.39|Job 38:39 >>]]</td></tr></table>
 
 

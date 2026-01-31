@@ -7,26 +7,26 @@ And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir 
 (The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones.<small><sub>**MT:**</sub></small>
 [[1Kgs.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.10|<< 1 Kings 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.12|1 Kings 10:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ship | <big><span class="asgreek">ναυς</span></big> <sup><small><small>[[G3491]]</small></small></sup> |
-| of Hiram, | <big><span class="asgreek">Χειράμ</span></big> <sup><small><small>[[H2438]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one carrying | <big><span class="asgreek">αίρουσα</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| Ophir, | <big><span class="asgreek">Σωφείρ</span></big> <sup><small><small>[[H0211]]</small></small></sup> |
-| brought | <big><span class="asgreek">ήνεγκε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
-| timbers | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| hewn | <big><span class="asgreek">πελεκητά</span></big> <sup><small><small>[[G8684]]</small></small></sup> |
-| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
-| valuable | <big><span class="asgreek">τίμιον</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| ship | **<big>[[G3491\|ναυς]]</big>** |
+| of Hiram, | **<big>[[H2438\|Χειράμ]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| one carrying | **<big>[[G0142\|αίρουσα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| gold | **<big>[[G5553\|χρυσίον]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| Ophir, | **<big>[[H0211\|Σωφείρ]]</big>** |
+| brought | **<big>[[G5342\|ήνεγκε]]</big>** |
+| timbers | **<big>[[G3586\|ξύλα]]</big>** |
+| hewn | **<big>[[G8684\|πελεκητά]]</big>** |
+| much | **<big>[[G4183\|πολλά]]</big>** |
+| exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| stone | **<big>[[G3037\|λίθον]]</big>** |
+| valuable | **<big>[[G5093\|τίμιον]]</big>** |
 [[1Kgs.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.10|<< 1 Kings 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.12|1 Kings 10:12 >>]]</td></tr></table>
 
 

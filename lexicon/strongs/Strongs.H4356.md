@@ -1,9 +1,9 @@
-<big><span class="ashebrew">‎מִכְלָאָה‎</span></big> **miklâʼâh** <small>*(mik-law-aw')*</small> ==**fold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מִכְלָה</span> **miklâh** <small>*(mik-law')*</small>; from <span class="ashebrew">‎כָּלָא‎</span><sup><small>[[H3607]]</small></sup></small>
+**<big><span class="ashebrew">‎מִכְלָאָה‎</span></big>** **miklâʼâh** <small>*(mik-law-aw')*</small> ==**fold**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מִכְלָה</span></big>** **miklâh** <small>*(mik-law')*</small>; from **<big>[[H3607|‎כָּלָא‎]]</big>**</small>
 
-$\quad$ (sheep-)fold. Compare <span class="ashebrew">‎מִכְלָה‎</span><sup><small>[[H4357]]</small></sup>.
+$\quad$ (sheep-)fold. Compare **<big>[[H4357|‎מִכְלָה‎]]</big>**.
 - ***a pen*** (for flocks)
 
 **1)** fold, enclosure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">βρῶσις</span><sup><small>[[G1035]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">ποίμνιον</span><sup><small>[[G4168]]</small></sup>
+<small>See Greek: </small>**<big>[[G1035|βρῶσις]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G4168|ποίμνιον]]</big>**

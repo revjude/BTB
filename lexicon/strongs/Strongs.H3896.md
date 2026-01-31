@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎לֶחִי‎</span></big> **Lechîy** <small>*(lekh'-ee)*</small> ==**Lehi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>a form of <span class="ashebrew">‎לְחִי‎</span><sup><small>[[H3895]]</small></sup></small>
+**<big><span class="ashebrew">‎לֶחִי‎</span></big>** **Lechîy** <small>*(lekh'-ee)*</small> ==**Lehi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a form of **<big>[[H3895|‎לְחִי‎]]</big>**</small>
 
-$\quad$ Lehi. Compare also <span class="ashebrew">‎רָמַת לֶחִי‎</span><sup><small>[[H7437]]</small></sup>.
+$\quad$ Lehi. Compare also **<big>[[H7437|‎רָמַת לֶחִי‎]]</big>**.
 - § Lehi = *"jaw"*
 - ***Lechi***, a place in Palestine
 

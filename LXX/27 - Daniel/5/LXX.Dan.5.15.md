@@ -7,31 +7,31 @@ And now the wise [men], the astrologers, have been brought in before me, that th
 Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation.<small><sub>**MT:**</sub></small>
 [[Dan.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.14|<< Daniel 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.16|Daniel 5:16 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
-| there entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
-| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
-| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wise \[men\], | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
-| magi, | <big><span class="asgreek">μάγοι</span></big> <sup><small><small>[[G3097]]</small></small></sup> |
-| \[and\] astrologers, | <big><span class="asgreek">γαζαρηνοί</span></big> <sup><small><small>[[G6708]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this writing | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| they should read | <big><span class="asgreek">αναγνώσι</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| they should make known | <big><span class="asgreek">γνωρίσωσί</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| able | <big><span class="asgreek">ηδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to announce | <big><span class="asgreek">αναγγείλαί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| now | **<big>[[G3568\|νυν]]</big>** |
+| there entered | **<big>[[G1525\|εισήλθον]]</big>** |
+| before | **<big>[[G1799\|ενώπιόν]]</big>** |
+| me | **<big>[[G1473\|μου]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| wise \[men\], | **<big>[[G4680\|σοφοί]]</big>** |
+| magi, | **<big>[[G3097\|μάγοι]]</big>** |
+| \[and\] astrologers, | **<big>[[G6708\|γαζαρηνοί]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| this writing | **<big>[[G1124\|γραφήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
+| they should read | **<big>[[G0314\|αναγνώσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| they should make known | **<big>[[G1107\|γνωρίσωσί]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
+| But | **<big>[[G2532\|και]]</big>** |
+| they were not | **<big>[[G3756\|ουκ]]</big>** |
+| able | **<big>[[G1410\|ηδυνήθησαν]]</big>** |
+| to announce | **<big>[[G0312\|αναγγείλαί]]</big>** |
+| to me. | **<big>[[G1473\|μοι]]</big>** |
 [[Dan.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.14|<< Daniel 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.16|Daniel 5:16 >>]]</td></tr></table>
 
 

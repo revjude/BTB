@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎צְבַע‎</span></big> **tsᵉbaʻ** <small>*(tseb-ah')*</small> ==**to drench**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
-<small>(Aramaic) a root corresponding to that of <span class="ashebrew">‎צֶבַע‎</span><sup><small>[[H6648]]</small></sup></small>
+**<big><span class="asaramaic">‎צְבַע‎</span></big>** **tsᵉbaʻ** <small>*(tseb-ah')*</small> ==**to drench**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) a root corresponding to that of **<big>[[H6648|‎צֶבַע‎]]</big>**</small>
 
 $\quad$ wet.
 - ***to dip***
@@ -8,4 +8,4 @@ $\quad$ wet.
 $\quad$ **1a)** (Pael) to wet
 $\quad$ **1b)** (Ithpael) to be wet
 
-<sub><small>See Greek: </small></sub><span class="asgreek">αὐλίζομαι</span><sup><small>[[G0835]]</small></sup> · <span class="asgreek">βάπτω</span><sup><small>[[G0911]]</small></sup>
+<small>See Greek: </small>**<big>[[G0835|αὐλίζομαι]]</big>** · **<big>[[G0911|βάπτω]]</big>**

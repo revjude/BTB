@@ -6,17 +6,17 @@ A song of ascents. Of David. Behold, how good and pleasant it is when brothers l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.133.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.133.0|<< Psalms 133:0]]</td><td align="center" style="border:none;">[[Ps.133|Psalms 133]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.2|Psalms 133:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| there!  | <span class="ashebrew"><big>הִנֵּ֣ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| how!  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good  | <span class="ashebrew"><big>טּ֭וֹב </big></span><small><small><sup>[[H2896A]]</sup></small></small> &#8207;| Tov <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and how!  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pleasant  | <span class="ashebrew"><big>נָּעִ֑ים </big></span><small><small><sup>[[H5273A]]</sup></small></small> &#8207;| na.'Im <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is the] dwelling of  | <span class="ashebrew"><big>שֶׁ֖בֶת </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| She.vet <small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| brothers  | <span class="ashebrew"><big>אַחִ֣ים </big></span><small><small><sup>[[H0251G]]</sup></small></small> &#8207;| 'a.Chim <small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| also  | <span class="ashebrew"><big>גַּם </big></span><small><small><sup>[[H1571]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| gam- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  | <span class="ashebrew"><big>יָֽחַד </big></span><small><small><sup>[[H3162A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Ya.chad <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  |**<big>&#8207;[[H2896A\|טּ֭וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and how!  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pleasant  |**<big>&#8207;[[H5273A\|נָּעִ֑ים]]&#8207; </big>**| na.'Im<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] dwelling of  |**<big>&#8207;[[H3427\|שֶׁ֖בֶת]]&#8207; </big>**| She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers  |**<big>&#8207;[[H0251G\|אַחִ֣ים]]&#8207; </big>**| 'a.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162A\|יָֽחַד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.133.0|<< Psalms 133:0]]</td><td align="center" style="border:none;">[[Ps.133|Psalms 133]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.2|Psalms 133:2 >>]]</td></tr></table>
 
 

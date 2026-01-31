@@ -7,33 +7,33 @@ Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Jud
 Therefore this is what the LORD says concerning Jehoiakim son of Josiah king of Judah: “They will not mourn for him: ‘Alas, my brother! Alas, my sister!’ They will not mourn for him: ‘Alas, my master! Alas, his splendor!’<small><sub>**MT:**</sub></small>
 [[Jer.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.17|<< Jeremiah 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.19|Jeremiah 22:19 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| Jehoiakim | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3079]]</small></small></sup> |
-| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Josiah | <big><span class="asgreek">Ιωσία</span></big> <sup><small><small>[[G2502]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this man. | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| should they lament | <big><span class="asgreek">κόψονται</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
-| him, \[saying\], | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
-| brother. | <big><span class="asgreek">αδελφέ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| Nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
-| shall they weep \[over\] | <big><span class="asgreek">κλαύσονται</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
-| him, \[saying\], | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Alas, | <big><span class="asgreek">οίμοι</span></big> <sup><small><small>[[G8461]]</small></small></sup> |
-| O lord. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| On account of | **<big>[[G1223\|διά]]</big>** |
+| this, | **<big>[[G3778\|τούτο]]</big>** |
+| thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| Jehoiakim | **<big>[[H3079\|Ιωακείμ]]</big>** |
+| son | **<big>[[G5207\|υιόν]]</big>** |
+| of Josiah | **<big>[[G2502\|Ιωσία]]</big>** |
+| king | **<big>[[G0935\|βασιλέα]]</big>** |
+| of Judah, | **<big>[[G2448\|Ιούδα]]</big>** |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| this man. | **<big>[[G0435\|άνδρα]]</big>** **<big>[[G3778\|τούτον]]</big>** |
+| In no way | **<big>[[G3364\|ου μη]]</big>** |
+| should they lament | **<big>[[G2875\|κόψονται]]</big>** |
+| him, \[saying\], | **<big>[[G1473\|αυτόν]]</big>** |
+| O | **<big>[[G5599\|ω]]</big>** |
+| brother. | **<big>[[G0080\|αδελφέ]]</big>** |
+| Nor | **<big>[[G8565\|ουδέ μη]]</big>** |
+| shall they weep \[over\] | **<big>[[G2799\|κλαύσονται]]</big>** |
+| him, \[saying\], | **<big>[[G1473\|αυτόν]]</big>** |
+| Alas, | **<big>[[G8461\|οίμοι]]</big>** |
+| O lord. | **<big>[[G2962\|κύριε]]</big>** |
 [[Jer.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.17|<< Jeremiah 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.19|Jeremiah 22:19 >>]]</td></tr></table>
 
 

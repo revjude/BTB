@@ -10,45 +10,45 @@ For, behold, the day cometh, that shall burn as an oven; and all the proud, yea,
 “For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”<small><sub>**MT:**</sub></small>
 [[Mal.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.18|<< Malachi 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.2|Malachi 4:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| comes | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| burning | <big><span class="asgreek">καιομένη</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| an oven; | <big><span class="asgreek">κλίβανος</span></big> <sup><small><small>[[G2823]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it shall blaze against them, | <big><span class="asgreek">φλέξει</span></big> <sup><small><small>[[G9645]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| foreigners | <big><span class="asgreek">αλλογενείς</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| doing | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| lawless deeds, | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
-| as stubble. | <big><span class="asgreek">καλάμη</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall light | <big><span class="asgreek">ανάψει</span></big> <sup><small><small>[[G0381]]</small></small></sup> |
-| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| coming | <big><span class="asgreek">ερχομένη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| of \[the\] forces; | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
-| shall there be left | <big><span class="asgreek">υπολειφθή</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| root | <big><span class="asgreek">ρίζα</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| vine branch. | <big><span class="asgreek">κλήμα</span></big> <sup><small><small>[[G2814]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| a day | **<big>[[G2250\|ημέρα]]</big>** |
+| comes | **<big>[[G2064\|έρχεται]]</big>** |
+| burning | **<big>[[G2545\|καιομένη]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| an oven; | **<big>[[G2823\|κλίβανος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it shall blaze against them, | **<big>[[G9645\|φλέξει]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσονται]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| foreigners | **<big>[[G0241\|αλλογενείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντες]]</big>** |
+| \[the\] ones | **<big>[[G3588\|οι]]</big>** |
+| doing | **<big>[[G4160\|ποιούντες]]</big>** |
+| lawless deeds, | **<big>[[G0459\|άνομα]]</big>** |
+| as stubble. | **<big>[[G2562\|καλάμη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall light | **<big>[[G0381\|ανάψει]]</big>** |
+| them | **<big>[[G1473\|αυτούς]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| day | **<big>[[G2250\|ημέρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| coming | **<big>[[G2064\|ερχομένη]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| of \[the\] forces; | **<big>[[G1411\|δυνάμεων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| in no way | **<big>[[G3364\|ου μη]]</big>** |
+| shall there be left | **<big>[[G5275\|υπολειφθή]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| root | **<big>[[G4491\|ρίζα]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| vine branch. | **<big>[[G2814\|κλήμα]]</big>** |
 [[Mal.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.18|<< Malachi 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.2|Malachi 4:2 >>]]</td></tr></table>
 
 

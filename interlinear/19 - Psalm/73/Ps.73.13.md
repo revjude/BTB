@@ -6,15 +6,15 @@ Surely in vain I have kept my heart pure; in innocence I have washed my hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.12|<< Psalms 73:12]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.14|Psalms 73:14 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| surely  | <span class="ashebrew"><big>אַךְ </big></span><small><small><sup>[[H0389]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'akh- <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vanity  | <span class="ashebrew"><big>רִ֭יק </big></span><small><small><sup>[[H7385]]</sup></small></small> &#8207;| rik <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have kept pure  | <span class="ashebrew"><big>זִכִּ֣יתִי </big></span><small><small><sup>[[H2135]]</sup></small></small> &#8207;| zi.Ki.ti <small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  | <span class="ashebrew"><big>לְבָבִ֑ </big></span><small><small><sup>[[H3824]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| le.va.V <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I have washed  | <span class="ashebrew"><big>וָ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>אֶרְחַ֖ץ </big></span><small><small><sup>[[H7364]]</sup></small></small> &#8207;| va. <small><sup>[[Hc]]</sup></small> 'er.Chatz <small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in innocence  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>נִקָּי֣וֹן </big></span><small><small><sup>[[H5356A]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> ni.ka.Yon <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands my  | <span class="ashebrew"><big>כַּפָּֽ </big></span><small><small><sup>[[H3709G]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ka.Pa <small><sup>[[HNcfdc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vanity  |**<big>&#8207;[[H7385\|רִ֭יק]]&#8207; </big>**| rik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have kept pure  |**<big>&#8207;[[H2135\|זִכִּ֣יתִי]]&#8207; </big>**| zi.Ki.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3824\|לְבָבִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.va.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have washed  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7364\|אֶרְחַ֖ץ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.Chatz<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in innocence  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5356A\|נִקָּי֣וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ni.ka.Yon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands my  |**<big>&#8207;[[H3709G\|כַּפָּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Pa<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.12|<< Psalms 73:12]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.14|Psalms 73:14 >>]]</td></tr></table>
 
 

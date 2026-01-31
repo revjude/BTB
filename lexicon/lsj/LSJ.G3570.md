@@ -1,4 +1,4 @@
-form of: <small>[[G3568]]</small> 
+form of: <small>**<big>[[G3568|νῦν]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==νυνί==</span></b>, 

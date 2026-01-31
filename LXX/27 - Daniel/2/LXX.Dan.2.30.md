@@ -7,38 +7,38 @@ But as for me, this secret is not revealed to me for [any] wisdom that I have mo
 And to me this mystery has been revealed, not because I have more wisdom than any man alive, but in order that the interpretation might be made known to the king, and that you may understand the thoughts of your mind.<small><sub>**MT:**</sub></small>
 [[Dan.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.29|<< Daniel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.31|Daniel 2:31 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[there is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| a | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being | <big><span class="asgreek">ούση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| more than | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living; | <big><span class="asgreek">ζώντας</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this mystery | <big><span class="asgreek">μυστήριον</span></big> <sup><small><small>[[G3466]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| was uncovered | <big><span class="asgreek">απεκαλύφθη</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
-| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
-| because | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| to be made known | <big><span class="asgreek">γνωρίσαι</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| thoughts | <big><span class="asgreek">διαλογισμούς</span></big> <sup><small><small>[[G1261]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| you should know | <big><span class="asgreek">γνώς</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| to me | **<big>[[G1473\|εμοί]]</big>** |
+| \[there is\] not | **<big>[[G3756\|ουκ]]</big>** |
+| a | **<big>[[G1722\|εν]]</big>** |
+| wisdom | **<big>[[G4678\|σοφία]]</big>** |
+| \<obj.> | **<big>[[G3588\|τη]]</big>** |
+| being | **<big>[[G1510\|ούση]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| me | **<big>[[G1473\|εμοί]]</big>** |
+| more than | **<big>[[G3844\|παρά]]</big>** |
+| all | **<big>[[G3956\|πάντας]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| living; | **<big>[[G2198\|ζώντας]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| this mystery | **<big>[[G3466\|μυστήριον]]</big>** **<big>[[G3778\|τούτο]]</big>** |
+| was uncovered | **<big>[[G0601\|απεκαλύφθη]]</big>** |
+| but | **<big>[[G0235\|αλλ΄]]</big>** |
+| because | **<big>[[G1752\|ένεκεν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| interpretation | **<big>[[G9241\|σύγκρισιν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| to be made known | **<big>[[G1107\|γνωρίσαι]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| thoughts | **<big>[[G1261\|διαλογισμούς]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your heart | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| you should know | **<big>[[G1097\|γνώς]]</big>** |
 [[Dan.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.29|<< Daniel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.31|Daniel 2:31 >>]]</td></tr></table>
 
 

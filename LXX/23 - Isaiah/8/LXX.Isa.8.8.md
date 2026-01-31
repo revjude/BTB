@@ -11,36 +11,36 @@ It will pour into Judah, swirling and sweeping over it, reaching up to the neck;
 > $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Judea | <big><span class="asgreek">Ιουδαίας</span></big> <sup><small><small>[[G2449]]</small></small></sup> |
-| a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| shall be able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| \[his\] head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
-| to lift | <big><span class="asgreek">άραι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| able | <big><span class="asgreek">δυνατόν</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| to complete | <big><span class="asgreek">συντελέσασθαί</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
-| anything; | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his camp | <big><span class="asgreek">παρεμβολή</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
-| to fill | <big><span class="asgreek">πληρώσαι</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| width | <big><span class="asgreek">πλάτος</span></big> <sup><small><small>[[G4114]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of your place; | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[be\] with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he shall remove | **<big>[[G0851\|αφελεί]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| Judea | **<big>[[G2449\|Ιουδαίας]]</big>** |
+| a man | **<big>[[G0444\|άνθρωπον]]</big>** |
+| who | **<big>[[G3739\|ος]]</big>** |
+| shall be able | **<big>[[G1410\|δυνήσεται]]</big>** |
+| \[his\] head | **<big>[[G2776\|κεφαλήν]]</big>** |
+| to lift | **<big>[[G0142\|άραι]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| able | **<big>[[G1415\|δυνατόν]]</big>** |
+| to complete | **<big>[[G4931\|συντελέσασθαί]]</big>** |
+| anything; | **<big>[[G5100\|τι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his camp | **<big>[[G3925\|παρεμβολή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| so as | **<big>[[G5620\|ώστε]]</big>** |
+| to fill | **<big>[[G4137\|πληρώσαι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| width | **<big>[[G4114\|πλάτος]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of your place; | **<big>[[G5561\|χώρας]]</big>** **<big>[[G1473\|σου]]</big>** |
+| \[be\] with | **<big>[[G3326\|μεθ΄]]</big>** |
+| us | **<big>[[G1473\|ημών]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
 [[Isa.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.7|<< Isaiah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.9|Isaiah 8:9 >>]]</td></tr></table>
 
 

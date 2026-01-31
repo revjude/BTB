@@ -1,4 +1,2 @@
-<span class="ashebrew">‎קְטוּרָה‎</span> <small>***(qe.tu.rah)***</small> ==**Keturah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-- A woman living at the time of the Patriarchs, first mentioned at [[Gen.25.1|Gen.25.1]] married to Abraham ([[H0085]])
--  mother of: Zimran ([[H2175]]), Jokshan ([[H3370]]), Medan ([[H4091]]), Midian ([[H4080]]), Ishbak ([[H3435]]) and Shuah ([[H7744]])
-
+- A woman living at the time of the Patriarchs, first mentioned at [[Gen.25.1|Gen.25.1]] married to Abraham (**<big>[[H0085|אַבְרָהָם]]</big>**)
+-  mother of: Zimran (**<big>[[H2175|זִמְרָן]]</big>**), Jokshan (**<big>[[H3370|יׇקְשָׁן]]</big>**), Medan (**<big>[[H4091|מְדָן]]</big>**), Midian (**<big>[[H4080|מִדְיָן]]</big>**), Ishbak (**<big>[[H3435|יִשְׁבָּק]]</big>**) and Shuah (**<big>[[H7744|שׁוּחַ]]</big>**)

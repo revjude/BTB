@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פָּזַז‎</span></big> **pâzaz** <small>*(paw-zaz')*</small> ==**be agile**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>a primitive root (identical with <span class="ashebrew">‎פָּזַז‎</span><sup><small>[[H6338]]</small></sup>)</small>
+**<big><span class="ashebrew">‎פָּזַז‎</span></big>** **pâzaz** <small>*(paw-zaz')*</small> ==**be agile**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (identical with **<big>[[H6338|‎פָּזַז‎]]</big>**)</small>
 
 $\quad$ leap, be made strong.
 - ***to solidify*** (as if by refining)
@@ -9,4 +9,4 @@ $\quad$ leap, be made strong.
 $\quad$ **1a)** (Qal) to be nimble
 $\quad$ **1b)** (Piel) to leap, show agility
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκλύω</span><sup><small>[[G1590]]</small></sup> · <span class="asgreek">ὀρχέομαι</span><sup><small>[[G3738]]</small></sup>
+<small>See Greek: </small>**<big>[[G1590|ἐκλύω]]</big>** · **<big>[[G3738|ὀρχέομαι]]</big>**

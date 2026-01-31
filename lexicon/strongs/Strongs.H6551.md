@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פַּרְעֹשׁ‎</span></big> **Parʻôsh** <small>*(par-oshe')*</small> ==**Parosh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>the same as <span class="ashebrew">‎פַּרְעֹשׁ‎</span><sup><small>[[H6550]]</small></sup></small>
+**<big><span class="ashebrew">‎פַּרְעֹשׁ‎</span></big>** **Parʻôsh** <small>*(par-oshe')*</small> ==**Parosh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as **<big>[[H6550|‎פַּרְעֹשׁ‎]]</big>**</small>
 
 $\quad$ Parosh, Pharosh.
 - § Parosh or Pharosh = *"flea"*

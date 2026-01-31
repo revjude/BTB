@@ -4,7 +4,7 @@ King living at the time of the New Testament
 
 <span class='tipnrhighlight'>Aretas</span>, the king of the Nabataeans, governed Damascus and tried to arrest Paul.
 - A king living at the time of the New Testament, only mentioned at [[2Cor.11.32|2Co.11.32]]; 
-- only referred to as Aretas<[[G0702]]> \(<span class='tipnrLangGreek'>Ἀρέτας</span>\).
+- only referred to as Aretas **<big>[[G0702|Ἀρέτας]]</big>**.
 
 Aretas is mentioned in the New Testament, in [[2Cor.11.32|2 Corinthians 11:32]], where Paul recounts his escape from Damascus. According to Paul, the governor under King Aretas guarded the city of Damascus in order to arrest him. This event likely occurred shortly after Paul's conversion on the road to Damascus, as he had begun preaching the gospel and faced opposition from both Jewish and Gentile authorities. 
 
@@ -14,5 +14,5 @@ The mention of Aretas in 2 Corinthians provides historical context for Paul's ea
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aretas | [<span class='tipnrLangGreek'>Ἀρέτας</span>](G0702) <small>*Greek*</small> | 1x | [2Co.11.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aretas\*\|reference=2Co.11.32) |
-All Strong's for **Aretas**: \[[[G0702]]\]
+| Aretas | [<span class='tipnrLangGreek'>Ἀρέτας</span>](G0702) | 1x | [2Co.11.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aretas\*\|reference=2Co.11.32) |
+All entries for **Aretas**:  **<big>[[G0702|Ἀρέτας]]</big>**

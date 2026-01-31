@@ -7,33 +7,33 @@ Who hath heard such a thing? who hath seen such things? Shall the earth be made 
 Who has heard of such as this? Who has seen such things? Can a country be born in a day or a nation be delivered in an instant? Yet as soon as Zion was in labor, she gave birth to her children.<small><sub>**MT:**</sub></small>
 [[Isa.66.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.7|<< Isaiah 66:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.9|Isaiah 66:9 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
-| such? | <big><span class="asgreek">τοιούτο</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| has seen | <big><span class="asgreek">εώρακεν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
-| thus? | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[Has\] | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
-| travailed | <big><span class="asgreek">ώδινε</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| \[the\] earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| day? | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
-| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| given birth | <big><span class="asgreek">ετέχθη</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| at once, | <big><span class="asgreek">εισάπαξ</span></big> <sup><small><small>[[G7065]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| travailed | <big><span class="asgreek">ώδινε</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| gave birth to | <big><span class="asgreek">έτεκε</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| her children? | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| heard | **<big>[[G0191\|ήκουσε]]</big>** |
+| such? | **<big>[[G5108\|τοιούτο]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| has seen | **<big>[[G3708\|εώρακεν]]</big>** |
+| thus? | **<big>[[G3779\|ούτως]]</big>** |
+| \[Has\] | **<big>[[G1487\|ει]]</big>** |
+| travailed | **<big>[[G5605\|ώδινε]]</big>** |
+| \[the\] earth | **<big>[[G1093\|γη]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| day? | **<big>[[G2250\|ημέρα]]</big>** |
+| or | **<big>[[G2228\|η]]</big>** |
+| even | **<big>[[G2532\|και]]</big>** |
+| given birth | **<big>[[G5088\|ετέχθη]]</big>** |
+| a nation | **<big>[[G1484\|έθνος]]</big>** |
+| at once, | **<big>[[G7065\|εισάπαξ]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| travailed | **<big>[[G5605\|ώδινε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| gave birth to | **<big>[[G5088\|έτεκε]]</big>** |
+| Zion | **<big>[[G4622\|Σιών]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| her children? | **<big>[[G3813\|παιδία]]</big>** **<big>[[G1473\|αυτής]]</big>** |
 [[Isa.66.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.7|<< Isaiah 66:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.9|Isaiah 66:9 >>]]</td></tr></table>
 
 

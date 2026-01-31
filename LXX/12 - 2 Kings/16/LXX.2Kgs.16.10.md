@@ -7,47 +7,47 @@ And king Ahaz went to Damascus to meet Tiglathpileser king of Assyria, and saw a
 Then King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria. On seeing the altar in Damascus, King Ahaz sent Uriah the priest a model of the altar and complete plans for its construction.<small><sub>**MT:**</sub></small>
 [[2Kgs.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.9|<< 2 Kings 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.11|2 Kings 16:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| went | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Ahaz | <big><span class="asgreek">Άχαζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| meet | <big><span class="asgreek">απαντήν</span></big> <sup><small><small>[[G6398]]</small></small></sup> |
-| Tiglath-pileser | <big><span class="asgreek">Θαγλάθ φαλασάρ</span></big> <sup><small><small>[[H8407]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
-| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| Damascus. | <big><span class="asgreek">Δαμασκόν</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| Damascus. | <big><span class="asgreek">Δαμασκώ</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| Ahaz | <big><span class="asgreek">Άχαζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Urijah | <big><span class="asgreek">Ουρίαν</span></big> <sup><small><small>[[H0223b]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| likeness | <big><span class="asgreek">ομοίωσιν</span></big> <sup><small><small>[[G3669]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| altar, | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| proportions | <big><span class="asgreek">ρυθμόν</span></big> <sup><small><small>[[G9038]]</small></small></sup> |
-| of it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| its makings. | <big><span class="asgreek">ποίησιν</span></big> <sup><small><small>[[G4162]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| went | **<big>[[G4198\|επορεύθη]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Ahaz | **<big>[[G0881\|Άχαζ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| meet | **<big>[[G6398\|απαντήν]]</big>** |
+| Tiglath-pileser | **<big>[[H8407\|Θαγλάθ φαλασάρ]]</big>** |
+| king | **<big>[[G0935\|βασιλεί]]</big>** |
+| of \[the\] Assyrians | **<big>[[H0804\|Ασσυρίων]]</big>** |
+| in | **<big>[[G1519\|εις]]</big>** |
+| Damascus. | **<big>[[G1154\|Δαμασκόν]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| he saw | **<big>[[G1492\|είδε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστήριον]]</big>** |
+| the one | **<big>[[G3588\|το]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| Damascus. | **<big>[[G1154\|Δαμασκώ]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent | **<big>[[G0649\|απέστειλεν]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| Ahaz | **<big>[[G0881\|Άχαζ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Urijah | **<big>[[H0223b\|Ουρίαν]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| priest | **<big>[[G2409\|ιερέα]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| likeness | **<big>[[G3669\|ομοίωσιν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| altar, | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| proportions | **<big>[[G9038\|ρυθμόν]]</big>** |
+| of it, | **<big>[[G1473\|αυτού]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάσαν]]</big>** |
+| its makings. | **<big>[[G4162\|ποίησιν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[2Kgs.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.9|<< 2 Kings 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.11|2 Kings 16:11 >>]]</td></tr></table>
 
 

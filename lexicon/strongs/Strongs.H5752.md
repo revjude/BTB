@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עוֹדֵד‎</span></big> **ʻÔwdêd** <small>*(o-dade')*</small> ==**Oded**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>or <span class="ashebrew">עֹדֵד</span> **ʻÔdêd** <small>*(o-dade')*</small>; from <span class="ashebrew">‎עוּד‎</span><sup><small>[[H5749]]</small></sup>; reiteration</small>
+**<big><span class="ashebrew">‎עוֹדֵד‎</span></big>** **ʻÔwdêd** <small>*(o-dade')*</small> ==**Oded**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or **<big><span class="ashebrew">עֹדֵד</span></big>** **ʻÔdêd** <small>*(o-dade')*</small>; from **<big>[[H5749|‎עוּד‎]]</big>**; reiteration</small>
 
 $\quad$ Oded.
 - § Oded = *"restorer"*

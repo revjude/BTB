@@ -7,36 +7,36 @@ The holy [portion] of the land shall be for the priests the ministers of the san
 It will be a holy portion of the land to be used by the priests who minister in the sanctuary, who draw near to minister before the LORD. It will be a place for their houses, as well as a holy area for the sanctuary.<small><sub>**MT:**</sub></small>
 [[Ezek.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.3|<< Ezekiel 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.5|Ezekiel 45:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Being sanctified | <big><span class="asgreek">ηγιασμένον</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
-| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| there shall be a \[portion\] | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| priests, | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ministering | <big><span class="asgreek">λειτουργούσιν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy \[place\], | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| for the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| approaching | <big><span class="asgreek">εγγίζουσι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
-| to minister | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| being separated | <big><span class="asgreek">αφωρισμένους</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| for their sanctification. | <big><span class="asgreek">αγιασμώ</span></big> <sup><small><small>[[G0038]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Being sanctified | **<big>[[G0037\|ηγιασμένον]]</big>** |
+| of | **<big>[[G0575\|από]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| there shall be a \[portion\] | **<big>[[G1510\|έσται]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| priests, | **<big>[[G2409\|ιερεύσι]]</big>** |
+| to the ones | **<big>[[G3588\|τοις]]</big>** |
+| ministering | **<big>[[G3008\|λειτουργούσιν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| holy \[place\], | **<big>[[G0039\|αγίω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| for the ones | **<big>[[G3588\|τοις]]</big>** |
+| approaching | **<big>[[G1448\|εγγίζουσι]]</big>** |
+| to minister | **<big>[[G3008\|λειτουργείν]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| to them | **<big>[[G1473\|αυτοίς]]</big>** |
+| a place | **<big>[[G5117\|τόπος]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| houses | **<big>[[G3624\|οίκους]]</big>** |
+| being separated | **<big>[[G0873\|αφωρισμένους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| for their sanctification. | **<big>[[G0038\|αγιασμώ]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Ezek.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.3|<< Ezekiel 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.5|Ezekiel 45:5 >>]]</td></tr></table>
 
 

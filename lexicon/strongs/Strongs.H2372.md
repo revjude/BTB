@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎חָזָה‎</span></big> **châzâh** <small>*(khaw-zaw')*</small> ==**to see**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎חָזָה‎</span></big>** **châzâh** <small>*(khaw-zaw')*</small> ==**to see**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ behold, look, prophesy, provide, see.
@@ -15,4 +15,4 @@ $\quad$ $\quad$ $\quad$ **1a3a)** with the intelligence
 $\quad$ $\quad$ $\quad$ **1a3b)** to see (by experience)
 $\quad$ $\quad$ $\quad$ **1a3c)** to provide
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναγγέλλω</span><sup><small>[[G0312]]</small></sup> · <span class="asgreek">βλέπω</span><sup><small>[[G0991]]</small></sup> · <span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">γινώσκω</span><sup><small>[[G1097]]</small></sup> · <span class="asgreek">ἐνύπνιον</span><sup><small>[[G1798]]</small></sup> · <span class="asgreek">θεωρέω</span><sup><small>[[G2334]]</small></sup> · <span class="asgreek">θεωρέω</span><sup><small>[[G2334]]</small></sup> · <span class="asgreek">ἰδού</span><sup><small>[[G2400]]</small></sup> · <span class="asgreek">ὁράω</span><sup><small>[[G3708]]</small></sup>
+<small>See Greek: </small>**<big>[[G0312|ἀναγγέλλω]]</big>** · **<big>[[G0991|βλέπω]]</big>** · **<big>[[G1096|γίνομαι]]</big>** · **<big>[[G1097|γινώσκω]]</big>** · **<big>[[G1798|ἐνύπνιον]]</big>** · **<big>[[G2334|θεωρέω]]</big>** · **<big>[[G2334|θεωρέω]]</big>** · **<big>[[G2400|ἰδού]]</big>** · **<big>[[G3708|ὁράω]]</big>**

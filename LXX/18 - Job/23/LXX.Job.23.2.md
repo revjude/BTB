@@ -7,25 +7,25 @@ Even to day [is] my complaint bitter: my stroke is heavier than my groaning.
 “Even today my complaint is bitter. His hand is heavy despite my groaning.<small><sub>**MT:**</sub></small>
 [[Job.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.1|<< Job 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.3|Job 23:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
-| I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my rebuke | <big><span class="asgreek">έλεγξις</span></big> <sup><small><small>[[G1649]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| heavy | <big><span class="asgreek">βαρεία</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
-| has become | <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| my | <big><span class="asgreek">εμώ</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
-| moaning. | <big><span class="asgreek">στεναγμώ</span></big> <sup><small><small>[[G4726]]</small></small></sup> |
+| For | **<big>[[G2532\|και]]</big>** |
+| indeed | **<big>[[G1211\|δη]]</big>** |
+| I know | **<big>[[G1492\|οίδα]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| out of | **<big>[[G1537\|εκ]]</big>** |
+| my hand | **<big>[[G5495\|χειρός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my rebuke | **<big>[[G1649\|έλεγξις]]</big>** **<big>[[G1473\|μου]]</big>** |
+| is | **<big>[[G1510\|εστί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| heavy | **<big>[[G0926\|βαρεία]]</big>** |
+| has become | **<big>[[G1096\|γέγονεν]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| my | **<big>[[G1699\|εμώ]]</big>** |
+| moaning. | **<big>[[G4726\|στεναγμώ]]</big>** |
 [[Job.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.1|<< Job 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.3|Job 23:3 >>]]</td></tr></table>
 
 

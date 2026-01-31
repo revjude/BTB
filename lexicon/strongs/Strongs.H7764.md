@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שׁוּנִי‎</span></big> **Shûwnîy** <small>*(shoo-nee')*</small> ==**Shuni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+**<big><span class="ashebrew">‎שׁוּנִי‎</span></big>** **Shûwnîy** <small>*(shoo-nee')*</small> ==**Shuni**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 <small>from an unused root meaning to rest; quiet</small>
 
 $\quad$ Shuni.

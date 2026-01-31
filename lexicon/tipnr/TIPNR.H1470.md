@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Gozan</span> was a region in Mesopotamia where Israelite captives from the northern kingdom were deported by the Assyrians \([[2Kgs.17.6|2 Kings 17:6]]; 18:11; 19:12; [[1Chr.5.26|1 Chronicles 5:26]]; [[Isa.37.12|Isaiah 37:12]]\).
 - A location first mentioned at [[2Kgs.17.6|2Ki.17.6]]; 
-- only referred to as Gozan<[[H1470]]> \(<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Gozan **<big>[[H1470|גּוֹזָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=36.840013,40.068890&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Gozan was a region located in Mesopotamia \(modern-day Iraq\) to which Israelite
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Gozan | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1470) <small>*Hebrew*</small> | 5x | [[2Ki.17.6] ... [Isa.37.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gozan\*\|reference=2Ki.17.6;2Ki.18.11;2Ki.19.12;1Ch.5.26;Isa.37.12) |
-All Strong's for **Gozan**: \[[[H1470]]\]
+| Gozan | [<span class='tipnrLangHebrew'>ג</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>ן</span>](H1470) | 5x | [[2Ki.17.6] ... [Isa.37.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gozan\*\|reference=2Ki.17.6;2Ki.18.11;2Ki.19.12;1Ch.5.26;Isa.37.12) |
+All entries for **Gozan**:  **<big>[[H1470|גּוֹזָן]]</big>**

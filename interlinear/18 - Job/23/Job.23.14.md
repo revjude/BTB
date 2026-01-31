@@ -6,14 +6,14 @@ For He carries out His decree against me, and He has many such plans.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.13|<< Job 23:13]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.15|Job 23:15 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֭י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he performs  | <span class="ashebrew"><big>יַשְׁלִ֣ים </big></span><small><small><sup>[[H7999A]]</sup></small></small> &#8207;| yash.Lim <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| decree my  | <span class="ashebrew"><big>חֻקִּ֑ </big></span><small><small><sup>[[H2706H]]</sup></small></small> <span class="ashebrew"><big>י </big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| chu.K <small><sup>[[HNcmsc]]</sup></small> i <small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like them  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>כָ </big></span><small><small><sup>[[H9004]]</sup></small></small> <span class="ashebrew"><big>הֵ֖נָּה </big></span><small><small><sup>[[H9039]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> kha. <small><sup>[[HR]]</sup></small> He.nah <small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  | <span class="ashebrew"><big>רַבּ֣וֹת </big></span><small><small><sup>[[H7227A]]</sup></small></small> &#8207;| ra.Bot <small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] with him  | <span class="ashebrew"><big>עִמּֽ </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| i.M <small><sup>[[HR]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֭י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he performs  |**<big>&#8207;[[H7999A\|יַשְׁלִ֣ים]]&#8207; </big>**| yash.Lim<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| decree my  |**<big>&#8207;[[H2706H\|חֻקִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| chu.K<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H9039\|הֵ֖נָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HR]]</sup></small> He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבּ֣וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.13|<< Job 23:13]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.15|Job 23:15 >>]]</td></tr></table>
 
 

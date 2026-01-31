@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">λοιδορέω</span></span>, <span class="asgreek">-ῶ</span></span>  <span class="asetym">    <span class="asderivation">(&lt; <span class="asgreek">λοίδορος</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">רִיב</span> <small><sup>[[H7378]]</sup></small>;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">λοιδορέω</span></span>, <span class="asgreek">-ῶ</span></span>  <span class="asetym">    <span class="asderivation">(&lt; <span class="asgreek">λοίδορος</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7378|רִיב]]</big>**;\]</span> </span>
 <span class="asitalic">to abuse</span>, <span class="asitalic">revile</span>: c. acc. pers., [[John.9.28|Jo 9:28]], [[Acts.23.4|Ac 23:4]]; pass., [[1Cor.4.12|I Co 4:12]], [[1Pet.2.23|I Pe 2:23]] (cf. <span class="asgreek">ἀντι-λοιδορέω</span>).†
 
 **Abbott-Smith References**

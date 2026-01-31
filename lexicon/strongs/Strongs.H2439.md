@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חִישׁ‎</span></big> **chîysh** <small>*(kheesh)*</small> ==**to haste**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>another form of <span class="ashebrew">‎חוּשׁ‎</span><sup><small>[[H2363]]</small></sup></small>
+**<big><span class="ashebrew">‎חִישׁ‎</span></big>** **chîysh** <small>*(kheesh)*</small> ==**to haste**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>another form of **<big>[[H2363|‎חוּשׁ‎]]</big>**</small>
 
 $\quad$ make haste.
 - ***to hurry***

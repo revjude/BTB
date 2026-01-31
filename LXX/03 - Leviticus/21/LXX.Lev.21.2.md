@@ -7,29 +7,29 @@ But for his kin, that is near unto him, [that is], for his mother, and for his f
 except for his immediate family—his mother, father, son, daughter, or brother,<small><sub>**MT:**</sub></small>
 [[Lev.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.1|<< Leviticus 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.3|Leviticus 21:3 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| members of the family | <big><span class="asgreek">οικείω</span></big> <sup><small><small>[[G3609]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| near | <big><span class="asgreek">έγγιστα</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
-| them -- | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| father, | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| mother, | <big><span class="asgreek">μητρί</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| sons, | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| daughters, | <big><span class="asgreek">θυγατράσι</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| brother, | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| but only | **<big>[[G6227\|αλλ΄ η]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| members of the family | **<big>[[G3609\|οικείω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| near | **<big>[[G1451\|έγγιστα]]</big>** |
+| them -- | **<big>[[G1473\|αυτών]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| father, | **<big>[[G3962\|πατρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| mother, | **<big>[[G3384\|μητρί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| sons, | **<big>[[G5207\|υιοίς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επί]]</big>** |
+| daughters, | **<big>[[G2364\|θυγατράσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1909\|επ΄]]</big>** |
+| brother, | **<big>[[G0080\|αδελφώ]]</big>** |
 [[Lev.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.1|<< Leviticus 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.3|Leviticus 21:3 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎צִדְקָה‎</span></big> **tsidqâh** <small>*(tsid-kaw')*</small> ==**righteousness**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎צְדָקָה‎</span><sup><small>[[H6666]]</small></sup></small>
+**<big><span class="asaramaic">‎צִדְקָה‎</span></big>** **tsidqâh** <small>*(tsid-kaw')*</small> ==**righteousness**==  <sup><small>[[TEHMC#A:N-F|A:N-F]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H6666|‎צְדָקָה‎]]</big>**</small>
 
 $\quad$ righteousness.
 - ***beneficence***

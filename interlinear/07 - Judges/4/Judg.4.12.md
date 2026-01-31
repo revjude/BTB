@@ -6,17 +6,17 @@ When Sisera was told that Barak son of Abinoam had gone up Mount Tabor,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.11|<< Judges 4:11]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.13|Judges 4:13 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and people told  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּגִּ֖דוּ </big></span><small><small><sup>[[H5046]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Gi.du <small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Sisera  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>סִֽיסְרָ֑א </big></span><small><small><sup>[[H5516G]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> si.se.Ra' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֥י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he had gone up  | <span class="ashebrew"><big>עָלָ֛ה </big></span><small><small><sup>[[H5927G]]</sup></small></small> &#8207;| 'a.Lah <small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Barak  | <span class="ashebrew"><big>בָּרָ֥ק </big></span><small><small><sup>[[H1301]]</sup></small></small> &#8207;| ba.Rak <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abinoam  | <span class="ashebrew"><big>אֲבִינֹ֖עַם </big></span><small><small><sup>[[H0042]]</sup></small></small> &#8207;| 'a.vi.No.'am <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] mountain of  | <span class="ashebrew"><big>הַר </big></span><small><small><sup>[[H2022G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| har- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tabor  | <span class="ashebrew"><big>תָּבֽוֹר </big></span><small><small><sup>[[H8396G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ta.Vor <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֖דוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Sisera  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5516G\|סִֽיסְרָ֑א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> si.se.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had gone up  |**<big>&#8207;[[H5927G\|עָלָ֛ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Barak  |**<big>&#8207;[[H1301\|בָּרָ֥ק]]&#8207; </big>**| ba.Rak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abinoam  |**<big>&#8207;[[H0042\|אֲבִינֹ֖עַם]]&#8207; </big>**| 'a.vi.No.'am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tabor  |**<big>&#8207;[[H8396G\|תָּבֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Vor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.11|<< Judges 4:11]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.13|Judges 4:13 >>]]</td></tr></table>
 
 

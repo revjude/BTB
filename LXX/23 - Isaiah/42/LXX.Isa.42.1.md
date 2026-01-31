@@ -14,29 +14,29 @@ Behold my servant, whom I uphold; mine elect, [in whom] my soul delighteth; I ha
 > $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.12.18|Matt 12:18-21]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[Luke.9.35|Luke 9:35]] ☩ [[2Pet.1.17|2Pet 1:17]] ☩ [[Mark.1.11|Mark 1:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my child, | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall take hold of | <big><span class="asgreek">αντιλήψομαι</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
-| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my chosen, | <big><span class="asgreek">εκλεκτός</span></big> <sup><small><small>[[G1588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| favorably received | <big><span class="asgreek">προσεδέξατο</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I have put | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my spirit | <big><span class="asgreek">πνεύμά</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| nations | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
-| he shall bring forth | <big><span class="asgreek">εξοίσει</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| Jacob, | **<big>[[G2384\|Ιακώβ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my child, | **<big>[[G3816\|παις]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I shall take hold of | **<big>[[G0482\|αντιλήψομαι]]</big>** |
+| him. | **<big>[[G1473\|αυτού]]</big>** |
+| Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| my chosen, | **<big>[[G1588\|εκλεκτός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| favorably received | **<big>[[G4327\|προσεδέξατο]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
+| I have put | **<big>[[G1325\|δέδωκα]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| my spirit | **<big>[[G4151\|πνεύμά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επ΄]]</big>** |
+| him, | **<big>[[G1473\|αυτόν]]</big>** |
+| judgment | **<big>[[G2920\|κρίσιν]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| nations | **<big>[[G1484\|έθνεσιν]]</big>** |
+| he shall bring forth | **<big>[[G1627\|εξοίσει]]</big>** |
 [[Isa.42.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.29|<< Isaiah 41:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.2|Isaiah 42:2 >>]]</td></tr></table>
 
 

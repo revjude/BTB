@@ -1,5 +1,4 @@
-<span class="ashebrew">‎עַנְּתֹתִי‎</span> <small>***(an.to.ti)***</small> ==**Anathoth**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
-spelling of: <small>[[H6068G]]</small> 
+<small>spelling of:</small> <small>**<big>[[H6068G|עֲנָתוֹת]]</big>**</small> 
 
 - Anethothite, of Anathoth "affliction"
-- Another spelling of <i>a.na.tot</i> (<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎תו‎</span>ֹ<span class='ashebrew'>‎ת‎</span> "Anathoth" [[H6068]])
+- Another spelling of <i>a.na.tot</i> (<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎נ‎</span>ָ<span class='ashebrew'>‎תו‎</span>ֹ<span class='ashebrew'>‎ת‎</span> "Anathoth" **<big>[[H6068|עֲנָתוֹת]]</big>**)

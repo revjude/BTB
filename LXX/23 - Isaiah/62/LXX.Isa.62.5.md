@@ -7,31 +7,31 @@ For [as] a young man marrieth a virgin, [so] shall thy sons marry thee: and [as]
 For as a young man marries a young woman, so your sons will marry you; and as a bridegroom rejoices over his bride, so your God will rejoice over you.<small><sub>**MT:**</sub></small>
 [[Isa.62.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.4|<< Isaiah 62:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.6|Isaiah 62:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| living with | <big><span class="asgreek">συνοικών</span></big> <sup><small><small>[[G4924]]</small></small></sup> |
-| a young man | <big><span class="asgreek">νεανίσκος</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
-| a virgin, | <big><span class="asgreek">παρθένω</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| dwell | <big><span class="asgreek">κατοικήσουσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
-| shall be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| a groom | <big><span class="asgreek">νυμφίος</span></big> <sup><small><small>[[G3566]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a bride, | <big><span class="asgreek">νύμφη</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
-| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> will be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| living with | **<big>[[G4924\|συνοικών]]</big>** |
+| a young man | **<big>[[G3495\|νεανίσκος]]</big>** |
+| a virgin, | **<big>[[G3933\|παρθένω]]</big>** |
+| so | **<big>[[G3779\|ούτω]]</big>** |
+| dwell | **<big>[[G2730\|κατοικήσουσιν]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| your sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1473\|σου]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| you. | **<big>[[G1473\|σου]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| it will be | **<big>[[G1510\|έσται]]</big>** |
+| in which | **<big>[[G3739\|ον]]</big>** |
+| manner | **<big>[[G5158\|τρόπον]]</big>** |
+| shall be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
+| a groom | **<big>[[G3566\|νυμφίος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| a bride, | **<big>[[G3565\|νύμφη]]</big>** |
+| so | **<big>[[G3779\|ούτως]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> will be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| over | **<big>[[G1909\|επί]]</big>** |
+| you. | **<big>[[G1473\|σοι]]</big>** |
 [[Isa.62.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.4|<< Isaiah 62:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.6|Isaiah 62:6 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בֻּקִּיָּה‎</span></big> **Buqqîyâh** <small>*(book-kee-yaw')*</small> ==**Bukkiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎בָּקַק‎</span><sup><small>[[H1238]]</small></sup> and <span class="ashebrew">‎יָהּ‎</span><sup><small>[[H3050]]</small></sup>; wasting of Jah</small>
+**<big><span class="ashebrew">‎בֻּקִּיָּה‎</span></big>** **Buqqîyâh** <small>*(book-kee-yaw')*</small> ==**Bukkiah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H1238|‎בָּקַק‎]]</big>** and **<big>[[H3050|‎יָהּ‎]]</big>**; wasting of Jah</small>
 
 $\quad$ Bukkiah.
 - § Bukkiah = *"Jehovah has emptied"*

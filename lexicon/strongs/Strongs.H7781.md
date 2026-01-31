@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שׁוּפָמִי‎</span></big> **Shûwphâmîy** <small>*(shoo-faw-mee')*</small> ==**Shuphamite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymic from <span class="ashebrew">‎שְׁפוּפָם‎</span><sup><small>[[H8197]]</small></sup></small>
+**<big><span class="ashebrew">‎שׁוּפָמִי‎</span></big>** **Shûwphâmîy** <small>*(shoo-faw-mee')*</small> ==**Shuphamite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymic from **<big>[[H8197|‎שְׁפוּפָם‎]]</big>**</small>
 
 $\quad$ Shuphamite.
 - § Shuphamites = *see Shupham "bareness"*

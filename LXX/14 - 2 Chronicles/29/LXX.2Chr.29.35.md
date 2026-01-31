@@ -7,31 +7,31 @@ And also the burnt offerings [were] in abundance, with the fat of the peace offe
 Furthermore, the burnt offerings were abundant, along with the fat of the peace offerings and the drink offerings for the burnt offerings. So the service of the house of the LORD was established.<small><sub>**MT:**</sub></small>
 [[2Chr.29.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.34|<< 2 Chronicles 29:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.36|2 Chronicles 29:36 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαύτωσις</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| was abundant | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| fats | <big><span class="asgreek">στέασι</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
-| of the one | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| consecrated | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| deliverance \[offering\], | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| libations | <big><span class="asgreek">σπονδαί</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering. | <big><span class="asgreek">ολοκαυτώσεως</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| was set up | <big><span class="asgreek">κατωρθώθη</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
-| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| whole burnt-offering | **<big>[[G8495\|ολοκαύτωσις]]</big>** |
+| was abundant | **<big>[[G4183\|πολλή]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| fats | **<big>[[G9155\|στέασι]]</big>** |
+| of the one | **<big>[[G3588\|της]]</big>** |
+| consecrated | **<big>[[G5050\|τελειώσεως]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| deliverance \[offering\], | **<big>[[G4992\|σωτηρίου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| libations | **<big>[[G9145\|σπονδαί]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| whole burnt-offering. | **<big>[[G8495\|ολοκαυτώσεως]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| was set up | **<big>[[G7976\|κατωρθώθη]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| work | **<big>[[G2041\|έργον]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
+| \[of the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 [[2Chr.29.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.34|<< 2 Chronicles 29:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.36|2 Chronicles 29:36 >>]]</td></tr></table>
 
 

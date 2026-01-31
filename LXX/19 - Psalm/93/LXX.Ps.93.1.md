@@ -12,25 +12,25 @@ The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength
 The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved.<small><sub>**MT:**</sub></small>
 [[Ps.93.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.15|<< Psalm 92:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.93.2|Psalm 93:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| reigned; | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
-| beauty | <big><span class="asgreek">ευπρέπειαν</span></big> <sup><small><small>[[G2143]]</small></small></sup> |
-| he put on | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> put on | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| power | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| girded himself. | <big><span class="asgreek">περιεζώσατο</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
-|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| he solidified | <big><span class="asgreek">εστερέωσε</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| inhabitable world, | <big><span class="asgreek">οικουμένην</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
-| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
-| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| be shaken. | <big><span class="asgreek">σαλευθήσεται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
+| The | **<big>[[G3588\|ο]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| reigned; | **<big>[[G0936\|εβασίλευσεν]]</big>** |
+| beauty | **<big>[[G2143\|ευπρέπειαν]]</big>** |
+| he put on | **<big>[[G1746\|ενεδύσατο]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> put on | **<big>[[G1746\|ενεδύσατο]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| power | **<big>[[G1411\|δύναμιν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| girded himself. | **<big>[[G4024\|περιεζώσατο]]</big>** |
+|  | **<big>[[G2532\|και]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| he solidified | **<big>[[G4732\|εστερέωσε]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| inhabitable world, | **<big>[[G3611\|οικουμένην]]</big>** |
+| which | **<big>[[G3748\|ήτις]]</big>** |
+| shall not | **<big>[[G3756\|ου]]</big>** |
+| be shaken. | **<big>[[G4531\|σαλευθήσεται]]</big>** |
 [[Ps.93.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.15|<< Psalm 92:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.93.2|Psalm 93:2 >>]]</td></tr></table>
 
 

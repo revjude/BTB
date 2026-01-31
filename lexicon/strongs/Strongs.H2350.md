@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוּפָמִי‎</span></big> **Chûwphâmîy** <small>*(khoo-faw-mee')*</small> ==**Huphamite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymically from <span class="ashebrew">‎חוּפָם‎</span><sup><small>[[H2349]]</small></sup></small>
+**<big><span class="ashebrew">‎חוּפָמִי‎</span></big>** **Chûwphâmîy** <small>*(khoo-faw-mee')*</small> ==**Huphamite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from **<big>[[H2349|‎חוּפָם‎]]</big>**</small>
 
 $\quad$ Huphamites.
 - § Huphamites = *see Hupham*

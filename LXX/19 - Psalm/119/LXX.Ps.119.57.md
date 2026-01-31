@@ -7,16 +7,16 @@ CHETH. [Thou art] my portion, O LORD: I have said that I would keep thy words.
 The LORD is my portion; I have promised to keep Your words.<small><sub>**MT:**</sub></small>
 [[Ps.119.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.56|<< Psalm 119:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.58|Psalm 119:58 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| my portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| You are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| I spoke | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[concerning\] guarding | <big><span class="asgreek">φυλάξασθαι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your law. | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| my portion | **<big>[[G3310\|μερίς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| You are | **<big>[[G1510\|ει]]</big>** |
+| O <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριε]]</big>** |
+| I spoke | **<big>[[G2036\|είπα]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| \[concerning\] guarding | **<big>[[G5442\|φυλάξασθαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| your law. | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|σου]]</big>** |
 [[Ps.119.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.56|<< Psalm 119:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.58|Psalm 119:58 >>]]</td></tr></table>
 
 

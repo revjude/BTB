@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִנְאָה‎</span></big> **qinʼâh** <small>*(kin-aw')*</small> ==**jealousy**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>from <span class="ashebrew">‎קָנָא‎</span><sup><small>[[H7065]]</small></sup></small>
+**<big><span class="ashebrew">‎קִנְאָה‎</span></big>** **qinʼâh** <small>*(kin-aw')*</small> ==**jealousy**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from **<big>[[H7065|‎קָנָא‎]]</big>**</small>
 
 $\quad$ envy(-ied), jealousy, [idiom] sake, zeal.
 - ***jealousy*** or ***envy***
@@ -17,4 +17,4 @@ $\quad$ $\quad$ **1c2)** of God against men
 $\quad$ **1d)** envy (of man)
 $\quad$ **1e)** jealousy (resulting in the wrath of God)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ζῆλος</span><sup><small>[[G2205]]</small></sup> · <span class="asgreek">θρῆνος</span><sup><small>[[G2355]]</small></sup> · <span class="asgreek">θυμός</span><sup><small>[[G2372]]</small></sup>
+<small>See Greek: </small>**<big>[[G2205|ζῆλος]]</big>** · **<big>[[G2355|θρῆνος]]</big>** · **<big>[[G2372|θυμός]]</big>**

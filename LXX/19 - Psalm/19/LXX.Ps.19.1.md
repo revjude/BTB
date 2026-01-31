@@ -12,19 +12,19 @@ To the chief Musician, A Psalm of David. The heavens declare the glory of God; a
 For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.<small><sub>**MT:**</sub></small>
 [[Ps.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.50|<< Psalm 18:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.2|Psalm 19:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| describe | <big><span class="asgreek">διήγουνται</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
-| \[the\] glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
-| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \[the\] making | <big><span class="asgreek">ποίησιν</span></big> <sup><small><small>[[G4162]]</small></small></sup> |
-| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of his hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| announces | <big><span class="asgreek">αναγγέλλει</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| firmament | <big><span class="asgreek">στερέωμα</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| heavens | **<big>[[G3772\|ουρανοί]]</big>** |
+| describe | **<big>[[G1334\|διήγουνται]]</big>** |
+| \[the\] glory | **<big>[[G1391\|δόξαν]]</big>** |
+| of God, | **<big>[[G2316\|θεού]]</big>** |
+| \[the\] making | **<big>[[G4162\|ποίησιν]]</big>** |
+| and | **<big>[[G1161\|δε]]</big>** |
+| of his hands | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| announces | **<big>[[G0312\|αναγγέλλει]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| firmament | **<big>[[G4733\|στερέωμα]]</big>** |
 [[Ps.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.50|<< Psalm 18:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.2|Psalm 19:2 >>]]</td></tr></table>
 
 

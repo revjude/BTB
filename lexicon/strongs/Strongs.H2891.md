@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎טָהֵר‎</span></big> **ṭâhêr** <small>*(taw-hare')*</small> ==**be pure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎טָהֵר‎</span></big>** **ṭâhêr** <small>*(taw-hare')*</small> ==**be pure**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root; properly, to be bright; i.e. (by implication)</small>
 
 $\quad$ be (make, make self, pronounce) clean, cleanse (self), purge, purify(-ier, self).
@@ -25,4 +25,4 @@ $\quad$ $\quad$ $\quad$ **1d1a)** ceremonially
 $\quad$ $\quad$ $\quad$ **1d1b)** morally
 $\quad$ $\quad$ **1d2)** to present oneself for purification
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἁγνίζω</span><sup><small>[[G0048]]</small></sup> · <span class="asgreek">ἁγνισμός</span><sup><small>[[G0049]]</small></sup> · <span class="asgreek">ἀκάθαρτος</span><sup><small>[[G0169]]</small></sup> · <span class="asgreek">ἄμεμπτος</span><sup><small>[[G0273]]</small></sup> · <span class="asgreek">βρέχω</span><sup><small>[[G1026]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">καθαρισμός</span><sup><small>[[G2512]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup>
+<small>See Greek: </small>**<big>[[G0048|ἁγνίζω]]</big>** · **<big>[[G0049|ἁγνισμός]]</big>** · **<big>[[G0169|ἀκάθαρτος]]</big>** · **<big>[[G0273|ἄμεμπτος]]</big>** · **<big>[[G1026|βρέχω]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G2512|καθαρισμός]]</big>** · **<big>[[G2513|καθαρός]]</big>**

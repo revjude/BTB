@@ -4,8 +4,8 @@ Ishmaelite living at the time of United Monarchy
 
 <span class='tipnrhighlight'>Amasa</span>, the son of Jether and Abigail \(David's sister\), was a military commander who served under Absalom and later David, but was killed by Joab. \(2Sa.17.25; 19.13; 20.4-12; [[1Kgs.2.5|1Ki.2.5]],32; 1Ch.2.17\)
 - An Ishmaelite living at the time of United Monarchy, first mentioned at 2Sa.17.25; 
-- only referred to as Amasa<[[H6021G]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>א</span>\); 
-- a son of Jether<[[H3500H]]> and Abigail<[[H0026H]]>.
+- only referred to as Amasa **<big>[[H6021|עֲמָשָׂא]]</big>**; 
+- a son of Jether **<big>[[H3500|יֶתֶר]]</big>** and Abigail **<big>[[H0026|אֲבִיגַיִל]]</big>**.
 
 Amasa was the son of Jether, an Ishmaelite, and Abigail, the sister of King David. He was a cousin of Joab, David's military commander. \(2Sa.17.25; 1Ch.2.17\) 
 
@@ -21,8 +21,8 @@ The story of Amasa highlights the complex relationships and power struggles with
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Amasa | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>א</span>](H6021G) <small>*Hebrew*</small> | 15x | [[2Sa.17.25a] ... [1Ch.2.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amasa\*\|reference=2Sa.17.25;2Sa.17.25;2Sa.19.13;2Sa.20.4;2Sa.20.5;2Sa.20.8;2Sa.20.9;2Sa.20.9;2Sa.20.10;2Sa.20.12;2Sa.20.12;1Ki.2.5;1Ki.2.32;1Ch.2.17;1Ch.2.17) |
-All Strong's for **Amasa**: \[[[H6021G]]\]
+| Amasa | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>א</span>](H6021G) | 15x | [[2Sa.17.25a] ... [1Ch.2.17b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amasa\*\|reference=2Sa.17.25;2Sa.17.25;2Sa.19.13;2Sa.20.4;2Sa.20.5;2Sa.20.8;2Sa.20.9;2Sa.20.9;2Sa.20.10;2Sa.20.12;2Sa.20.12;1Ki.2.5;1Ki.2.32;1Ch.2.17;1Ch.2.17) |
+All entries for **Amasa**:  **<big>[[H6021|עֲמָשָׂא]]</big>**
 #### Related Profiles:
 - **[Jether](H3500H)** (father)
 - **[Abigail](H0026H)** (mother)

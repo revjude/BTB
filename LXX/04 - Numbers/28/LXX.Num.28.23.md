@@ -7,19 +7,19 @@ Ye shall offer these beside the burnt offering in the morning, which [is] for a 
 You are to present these in addition to the regular morning burnt offering.<small><sub>**MT:**</sub></small>
 [[Num.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.22|<< Numbers 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.24|Numbers 28:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαυτώσεως</span></big> <sup><small><small>[[G8495]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| continual | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| early morning | <big><span class="asgreek">πρωϊνης</span></big> <sup><small><small>[[G4407]]</small></small></sup> |
-| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| whole burnt-offering | <big><span class="asgreek">ολοκαύτωμα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
-| a perpetual | <big><span class="asgreek">ενδελεχισμού</span></big> <sup><small><small>[[G7219]]</small></small></sup> |
+| besides | **<big>[[G4133\|πλην]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| whole burnt-offering | **<big>[[G8495\|ολοκαυτώσεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| continual | **<big>[[G1275\|διαπαντός]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| early morning | **<big>[[G4407\|πρωϊνης]]</big>** |
+| which | **<big>[[G3739\|ο]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| whole burnt-offering | **<big>[[G3646\|ολοκαύτωμα]]</big>** |
+| a perpetual | **<big>[[G7219\|ενδελεχισμού]]</big>** |
 [[Num.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.22|<< Numbers 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.24|Numbers 28:24 >>]]</td></tr></table>
 
 

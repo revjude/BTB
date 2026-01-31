@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוּשַׁי‎</span></big> **Chûwshay** <small>*(khoo-shah'-ee)*</small> ==**Hushai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎חוּשׁ‎</span><sup><small>[[H2363]]</small></sup>; hasty</small>
+**<big><span class="ashebrew">‎חוּשַׁי‎</span></big>** **Chûwshay** <small>*(khoo-shah'-ee)*</small> ==**Hushai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2363|‎חוּשׁ‎]]</big>**; hasty</small>
 
 $\quad$ Hushai.
 - § Hushai = *"hasting"*

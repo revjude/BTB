@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎זִכְרִי‎</span></big> **Zikrîy** <small>*(zik-ree')*</small> ==**Zichri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎זָכַר‎</span><sup><small>[[H2142]]</small></sup>; memorable</small>
+**<big><span class="ashebrew">‎זִכְרִי‎</span></big>** **Zikrîy** <small>*(zik-ree')*</small> ==**Zichri**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H2142|‎זָכַר‎]]</big>**; memorable</small>
 
 $\quad$ Zichri.
 - § Zichri = *"memorable"*

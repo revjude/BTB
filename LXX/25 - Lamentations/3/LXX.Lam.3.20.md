@@ -7,15 +7,15 @@ My soul hath [them] still in remembrance, and is humbled in me.
 Surely my soul remembers and is humbled within me.<small><sub>**MT:**</sub></small>
 [[Lam.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| I shall be remembered, | <big><span class="asgreek">μνησθήσομαι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall converse | <big><span class="asgreek">καταδολεσχήσει</span></big> <sup><small><small>[[G7837]]</small></small></sup> |
-| with | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall be remembered, | **<big>[[G3403\|μνησθήσομαι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall converse | **<big>[[G7837\|καταδολεσχήσει]]</big>** |
+| with | **<big>[[G1909\|επ΄]]</big>** |
+| me | **<big>[[G1473\|εμέ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| my soul | **<big>[[G5590\|ψυχή]]</big>** **<big>[[G1473\|μου]]</big>** |
 [[Lam.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
 

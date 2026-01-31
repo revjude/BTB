@@ -7,27 +7,27 @@ Sons of Asher according to their peoples -- \[to\] Jimna, \[the\] people the Jim
 These were the descendants of Asher by their clans: The Imnite clan from Imnah, the Ishvite clan from Ishvi, and the Beriite clan from Beriah.<small><sub>**MT:**</sub></small>
 [[Num.26.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.43|<< Numbers 26:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.45|Numbers 26:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Asher | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| their peoples -- | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jimna, | <big><span class="asgreek">Ιαμίν</span></big> <sup><small><small>[[H3232]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jimnites; | <big><span class="asgreek">Ιαμεινί</span></big> <sup><small><small>[[H3232]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jesui, | <big><span class="asgreek">Ιεσσουί</span></big> <sup><small><small>[[H3441]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Jesuites; | <big><span class="asgreek">Ιεσσουί</span></big> <sup><small><small>[[H3441]]</small></small></sup> |
-| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beriah, | <big><span class="asgreek">Βαριά</span></big> <sup><small><small>[[H1283]]</small></small></sup> |
-| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Beriites; | <big><span class="asgreek">Βαριαί</span></big> <sup><small><small>[[H1283]]</small></small></sup> |
+| Sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Asher | **<big>[[G0768\|Ασήρ]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| their peoples -- | **<big>[[G1218\|δήμους]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jimna, | **<big>[[H3232\|Ιαμίν]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jimnites; | **<big>[[H3232\|Ιαμεινί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Jesui, | **<big>[[H3441\|Ιεσσουί]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Jesuites; | **<big>[[H3441\|Ιεσσουί]]</big>** |
+| \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
+| Beriah, | **<big>[[H1283\|Βαριά]]</big>** |
+| \[the\] people | **<big>[[G1218\|δήμος]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| Beriites; | **<big>[[H1283\|Βαριαί]]</big>** |
 [[Num.26.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.43|<< Numbers 26:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.45|Numbers 26:45 >>]]</td></tr></table>
 
 

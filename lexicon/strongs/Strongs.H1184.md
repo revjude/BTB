@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎בַּעֲלֵי יְהוּדָה‎</span></big> **Baʻălêy Yᵉhûwdâh** <small>*(bah-al-ay' yeh-hoo-daw')*</small> ==**Baale-judah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from the plural of <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1167]]</small></sup> and <span class="ashebrew">‎יְהוּדָה‎</span><sup><small>[[H3063]]</small></sup>; masters of Judah</small>
+**<big><span class="ashebrew">‎בַּעֲלֵי יְהוּדָה‎</span></big>** **Baʻălêy Yᵉhûwdâh** <small>*(bah-al-ay' yeh-hoo-daw')*</small> ==**Baale-judah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the plural of **<big>[[H1167|‎בַּעַל‎]]</big>** and **<big>[[H3063|‎יְהוּדָה‎]]</big>**; masters of Judah</small>
 
 $\quad$ Baale of Judah.
 - § Baale-Judah = *"the lords of Judah"*

@@ -6,26 +6,26 @@ After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dod
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.57|<< Judges 9:57]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.2|Judges 10:2 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he arose  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יָּקָם֩ </big></span><small><small><sup>[[H6965B]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.ya.Kam <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| after  | <span class="ashebrew"><big>אַחֲרֵ֨י </big></span><small><small><sup>[[H0310A]]</sup></small></small> &#8207;| 'a.cha.Rei <small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abimelech  | <span class="ashebrew"><big>אֲבִימֶ֜לֶךְ </big></span><small><small><sup>[[H0040H]]</sup></small></small> &#8207;| 'a.vi.Me.lekh <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to deliver  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הוֹשִׁ֣יעַ </big></span><small><small><sup>[[H3467]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> ho.Shi.a' <small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֗ל </big></span><small><small><sup>[[H3478]]</sup></small></small> &#8207;| Yis.ra.'El <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tola  | <span class="ashebrew"><big>תּוֹלָ֧ע </big></span><small><small><sup>[[H8439H]]</sup></small></small> &#8207;| to.La' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Puah  | <span class="ashebrew"><big>פּוּאָ֛ה </big></span><small><small><sup>[[H6312H]]</sup></small></small> &#8207;| pu.'Ah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן </big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Dodo  | <span class="ashebrew"><big>דּוֹד֖וֹ </big></span><small><small><sup>[[H1734G]]</sup></small></small> &#8207;| do.Do <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> man of  | <span class="ashebrew"><big>אִ֣ישׁ </big></span><small><small><sup>[[H0376G]]</sup></small></small> &#8207;| 'ish <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Issachar  | <span class="ashebrew"><big>יִשָּׂשכָ֑ר </big></span><small><small><sup>[[H3485G]]</sup></small></small> &#8207;| yi.so.sh.Khar <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>הֽוּא </big></span><small><small><sup>[[H1931]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> hu'- <small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] dwelling  | <span class="ashebrew"><big>יֹשֵׁ֥ב </big></span><small><small><sup>[[H3427]]</sup></small></small> &#8207;| yo.Shev <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Shamir  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>שָׁמִ֖יר </big></span><small><small><sup>[[H8069H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> sha.Mir <small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] hill country of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הַ֥ר </big></span><small><small><sup>[[H2022H]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> Har <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ephraim  | <span class="ashebrew"><big>אֶפְרָֽיִם </big></span><small><small><sup>[[H0669G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'ef.Ra.yim <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקָם֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Kam<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֨י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abimelech  |**<big>&#8207;[[H0040H\|אֲבִימֶ֜לֶךְ]]&#8207; </big>**| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to deliver  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3467\|הוֹשִׁ֣יעַ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.Shi.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tola  |**<big>&#8207;[[H8439H\|תּוֹלָ֧ע]]&#8207; </big>**| to.La'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Puah  |**<big>&#8207;[[H6312H\|פּוּאָ֛ה]]&#8207; </big>**| pu.'Ah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dodo  |**<big>&#8207;[[H1734G\|דּוֹד֖וֹ]]&#8207; </big>**| do.Do<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> man of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Issachar  |**<big>&#8207;[[H3485G\|יִשָּׂשכָ֑ר]]&#8207; </big>**| yi.so.sh.Khar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] dwelling  |**<big>&#8207;[[H3427\|יֹשֵׁ֥ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Shamir  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8069H\|שָׁמִ֖יר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Mir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hill country of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022H\|הַ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.57|<< Judges 9:57]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.2|Judges 10:2 >>]]</td></tr></table>
 
 

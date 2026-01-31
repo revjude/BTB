@@ -10,17 +10,17 @@ My son, if thou be surety for thy friend, [if] thou hast stricken thy hand with 
 My son, if you have put up security for your neighbor, if you have struck hands in pledge with a stranger,<small><sub>**MT:**</sub></small>
 [[Prov.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.23|<< Proverbs 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.2|Proverbs 6:2 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| you should guarantee a loan | <big><span class="asgreek">εγγυήση</span></big> <sup><small><small>[[G6999]]</small></small></sup> |
-| for your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| friend, | <big><span class="asgreek">φίλον</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
-| you shall deliver up | <big><span class="asgreek">παραδώσεις</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
-| your | <big><span class="asgreek">σην</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
-| hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| to \[the\] enemy. | <big><span class="asgreek">εχθρώ</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| O son, | **<big>[[G5207\|υιέ]]</big>** |
+| if | **<big>[[G1437\|εάν]]</big>** |
+| you should guarantee a loan | **<big>[[G6999\|εγγυήση]]</big>** |
+| for your | **<big>[[G4674\|σον]]</big>** |
+| friend, | **<big>[[G5384\|φίλον]]</big>** |
+| you shall deliver up | **<big>[[G3860\|παραδώσεις]]</big>** |
+| your | **<big>[[G4674\|σην]]</big>** |
+| hand | **<big>[[G5495\|χείρα]]</big>** |
+| to \[the\] enemy. | **<big>[[G2190\|εχθρώ]]</big>** |
 [[Prov.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.23|<< Proverbs 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.2|Proverbs 6:2 >>]]</td></tr></table>
 
 

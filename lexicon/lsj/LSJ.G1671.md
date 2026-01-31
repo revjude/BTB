@@ -1,4 +1,4 @@
-Greek of: <small>[[H3120H]]</small> 
+Greek of: <small>**<big>[[H3120H|יָוָן]]</big>**</small> 
 
 
 1. <b>==Ἑλλάς== </b>, a city of Thessaly, founded by Hellen, [<a href="javascript:void(0)" title="Iliad by Homer">8th/7th c.BC</a>] 

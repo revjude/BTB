@@ -7,17 +7,17 @@ For the righteous LORD loveth righteousness; his countenance doth behold the upr
 For the LORD is righteous; He loves justice. The upright will see His face.<small><sub>**MT:**</sub></small>
 [[Ps.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.6|<< Psalm 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.1|Psalm 12:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> \[is\] just, | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνας</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| he loves | <big><span class="asgreek">ηγάπησεν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
-| straightness | <big><span class="asgreek">ευθύτητας</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
-| perceived | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> \[is\] just, | **<big>[[G1342\|δίκαιος]]</big>** **<big>[[G2962\|κύριος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνας]]</big>** |
+| he loves | **<big>[[G0025\|ηγάπησεν]]</big>** |
+| straightness | **<big>[[G2118\|ευθύτητας]]</big>** |
+| perceived | **<big>[[G1492\|είδε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his face | **<big>[[G4383\|πρόσωπον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 [[Ps.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.6|<< Psalm 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.1|Psalm 12:1 >>]]</td></tr></table>
 
 

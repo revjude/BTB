@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֲמָנָה‎</span></big> **ʼămânâh** <small>*(am-aw-naw')*</small> ==**sure**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎אָמֵן‎</span><sup><small>[[H0543]]</small></sup></small>
+**<big><span class="ashebrew">‎אֲמָנָה‎</span></big>** **ʼămânâh** <small>*(am-aw-naw')*</small> ==**sure**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine of **<big>[[H0543|‎אָמֵן‎]]</big>**</small>
 
 $\quad$ certain portion, sure.
 - ***something fixed***, i.e. ***a covenant***. ***an allowance***

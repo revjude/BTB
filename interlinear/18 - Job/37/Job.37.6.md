@@ -6,18 +6,18 @@ For He says to the snow, ‘Fall on the earth,’ and to the gentle rain, ‘Pou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.5|<< Job 37:5]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.7|Job 37:7 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֤י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the snow  | <span class="ashebrew"><big>לַ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֶּׁ֨לַג </big></span><small><small><sup>[[H7950]]</sup></small></small> <span class="ashebrew"><big>׀ </big></span><small><small><sup>[[H9015]]</sup></small></small> &#8207;| la. <small><sup>[[HRd]]</sup></small> She.lag <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he says  | <span class="ashebrew"><big>יֹאמַ֗ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| yo.Mar <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fall  | <span class="ashebrew"><big>הֱוֵ֫א </big></span><small><small><sup>[[H1933A]]</sup></small></small> &#8207;| he.Ve' <small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| earth  | <span class="ashebrew"><big>אָ֥רֶץ </big></span><small><small><sup>[[H0776G]]</sup></small></small> &#8207;| 'A.retz <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] shower of  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גֶ֥שֶׁם </big></span><small><small><sup>[[H1653]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ge.shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rain  | <span class="ashebrew"><big>מָטָ֑ר </big></span><small><small><sup>[[H4306]]</sup></small></small> &#8207;| ma.Tar <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] shower of  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גֶ֗שֶׁם </big></span><small><small><sup>[[H1653]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ge.shem <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] rains of  | <span class="ashebrew"><big>מִטְר֥וֹת </big></span><small><small><sup>[[H4306]]</sup></small></small> &#8207;| mit.Rot <small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strength his  | <span class="ashebrew"><big>עֻזּֽ </big></span><small><small><sup>[[H5797]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u.Z <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the snow  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7950\|שֶּׁ֨לַג]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> She.lag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  |**<big>&#8207;[[H0559\|יֹאמַ֗ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fall  |**<big>&#8207;[[H1933A\|הֱוֵ֫א]]&#8207; </big>**| he.Ve'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| earth  |**<big>&#8207;[[H0776G\|אָ֥רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] shower of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1653\|גֶ֥שֶׁם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ge.shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rain  |**<big>&#8207;[[H4306\|מָטָ֑ר]]&#8207; </big>**| ma.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] shower of  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1653\|גֶ֗שֶׁם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ge.shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rains of  |**<big>&#8207;[[H4306\|מִטְר֥וֹת]]&#8207; </big>**| mit.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength his  |**<big>&#8207;[[H5797\|עֻזּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.Z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.5|<< Job 37:5]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.7|Job 37:7 >>]]</td></tr></table>
 
 

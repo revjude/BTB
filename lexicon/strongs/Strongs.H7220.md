@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רֹאשׁ‎</span></big> **Rôʼsh** <small>*(roshe)*</small> ==**Rosh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>probably the same as <span class="ashebrew">‎רֹאשׁ‎</span><sup><small>[[H7218]]</small></sup></small>
+**<big><span class="ashebrew">‎רֹאשׁ‎</span></big>** **Rôʼsh** <small>*(roshe)*</small> ==**Rosh**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably the same as **<big>[[H7218|‎רֹאשׁ‎]]</big>**</small>
 
 $\quad$ Rosh.
 - § Rosh = *"head"*

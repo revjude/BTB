@@ -7,28 +7,28 @@ And the younger, she also bare a son, and called his name Benammi: the same [is]
 The younger daughter also gave birth to a son, and she named him Ben-ammi. He is the father of the Ammonites of today.<small><sub>**MT:**</sub></small>
 [[Gen.19.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.37|<< Genesis 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.1|Genesis 20:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| bore | <big><span class="asgreek">έτεκε</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| younger | <big><span class="asgreek">νεωτέρα</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
-| a son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Ammon, | <big><span class="asgreek">Αμμόν</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| \[he is\] a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of my family. | <big><span class="asgreek">γένους</span></big> <sup><small><small>[[G1085]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \[is\] father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
-| of \[the\] Ammonites | <big><span class="asgreek">Αμμονιτών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
-| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| today's | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| bore | **<big>[[G5088\|έτεκε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| also | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| younger | **<big>[[G3501\|νεωτέρα]]</big>** |
+| a son, | **<big>[[G5207\|υιόν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| she called | **<big>[[G2564\|εκάλεσε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| his name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| Ammon, | **<big>[[H5983\|Αμμόν]]</big>** |
+| \[he is\] a son | **<big>[[G5207\|υιός]]</big>** |
+| of my family. | **<big>[[G1085\|γένους]]</big>** **<big>[[G1473\|μου]]</big>** |
+| This one | **<big>[[G3778\|ούτος]]</big>** |
+| \[is\] father | **<big>[[G3962\|πατήρ]]</big>** |
+| of \[the\] Ammonites | **<big>[[H5983\|Αμμονιτών]]</big>** |
+| until | **<big>[[G2193\|έως]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| today's | **<big>[[G4594\|σήμερον]]</big>** |
+| day. | **<big>[[G2250\|ημέρας]]</big>** |
 [[Gen.19.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.37|<< Genesis 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.1|Genesis 20:1 >>]]</td></tr></table>
 
 

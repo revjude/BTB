@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְכֹחָה‎</span></big> **nᵉkôchâh** <small>*(nek-o-khaw')*</small> ==**upright**==  <sup><small>[[TEHMC#H:A-F|H:A-F]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎נָכֹחַ‎</span><sup><small>[[H5228]]</small></sup></small>
+**<big><span class="ashebrew">‎נְכֹחָה‎</span></big>** **nᵉkôchâh** <small>*(nek-o-khaw')*</small> ==**upright**==  <sup><small>[[TEHMC#H:A-F|H:A-F]]</small></sup> 
+<small>feminine of **<big>[[H5228|‎נָכֹחַ‎]]</big>**</small>
 
 $\quad$ equity, right (thing), uprightness.
 - properly, ***straightforwardness***, i.e. (figuratively) ***integrity***, or (concretely) ***a truth***

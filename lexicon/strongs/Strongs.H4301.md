@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מַטְמוֹן‎</span></big> **maṭmôwn** <small>*(mat-mone')*</small> ==**treasure**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מַטְמֹן</span> **maṭmôn** <small>*(mat-mone')*</small>; or <span class="ashebrew">מַטְמֻן</span> **maṭmun** <small>*(mat-moon')*</small>; from <span class="ashebrew">‎טָמַן‎</span><sup><small>[[H2934]]</small></sup></small>
+**<big><span class="ashebrew">‎מַטְמוֹן‎</span></big>** **maṭmôwn** <small>*(mat-mone')*</small> ==**treasure**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מַטְמֹן</span></big>** **maṭmôn** <small>*(mat-mone')*</small>; or **<big><span class="ashebrew">מַטְמֻן</span></big>** **maṭmun** <small>*(mat-moon')*</small>; from **<big>[[H2934|‎טָמַן‎]]</big>**</small>
 
 $\quad$ hidden riches, (hid) treasure(-s).
 - ***a secret storehouse***
@@ -8,4 +8,4 @@ $\quad$ hidden riches, (hid) treasure(-s).
 
 **1)** hidden treasure, treasure
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀπόκρυφος</span><sup><small>[[G0614]]</small></sup> · <span class="asgreek">θησαυρός</span><sup><small>[[G2344]]</small></sup>
+<small>See Greek: </small>**<big>[[G0614|ἀπόκρυφος]]</big>** · **<big>[[G2344|θησαυρός]]</big>**

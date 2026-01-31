@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Jabbok</span>, a river east of the Jordan, where Jacob wrestled with God.
 - A location first mentioned at [[Gen.32.22|Gen.32.22]]; 
-- only referred to as Jabbok<[[H2999]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ב</span>ֹּ<span class='tipnrLangHebrew'>ק</span>\).
+- only referred to as Jabbok **<big>[[H2999|יַבֹּק]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.193237,35.676305&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ The Jabbok is a river located east of the Jordan River, in the region of Gilead.
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jabbok | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ב</span>ֹּ<span class='tipnrLangHebrew'>ק</span>](H2999) <small>*Hebrew*</small> | 7x | [[Gen.32.22] ... [Jdg.11.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jabbok\*\|reference=Gen.32.22;Num.21.24;Deu.2.37;Deu.3.16;Jos.12.2;Jdg.11.13;Jdg.11.22) |
-All Strong's for **Jabbok**: \[[[H2999]]\]
+| Jabbok | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ב</span>ֹּ<span class='tipnrLangHebrew'>ק</span>](H2999) | 7x | [[Gen.32.22] ... [Jdg.11.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jabbok\*\|reference=Gen.32.22;Num.21.24;Deu.2.37;Deu.3.16;Jos.12.2;Jdg.11.13;Jdg.11.22) |
+All entries for **Jabbok**:  **<big>[[H2999|יַבֹּק]]</big>**

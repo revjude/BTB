@@ -1,4 +1,4 @@
-<small>Hebrew form: [[H3515]]</small>
+<small>Hebrew form: **<big>[[H3515|כָּבֵד]]</big>**</small>
  [<span class="bdbLangAramaic">‎יַקִּיר‎</span>] **adjective** ==honourable, difficult==; — 
 
 **1.** ***honourable***, emphatic <span class="bdbLangAramaic">‎יַקִּירָא‎</span> [[Ezra.4.10|Ezra 4:10]]. 

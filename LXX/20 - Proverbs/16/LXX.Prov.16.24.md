@@ -7,16 +7,16 @@ Pleasant words [are as] an honeycomb, sweet to the soul, and health to the bones
 Pleasant words are a honeycomb, sweet to the soul and healing to the bones.<small><sub>**MT:**</sub></small>
 [[Prov.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.23|<< Proverbs 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.25|Proverbs 16:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[are\] honeycombs | <big><span class="asgreek">κηρία</span></big> <sup><small><small>[[G2781]]</small></small></sup> |
-| of honey | <big><span class="asgreek">μέλιτος</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
-| words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| Good | <big><span class="asgreek">καλοί</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
-| and \[the\] sweetness | <big><span class="asgreek">γλύκασμα</span></big> <sup><small><small>[[G6740]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[is\] healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
-| for \[the\] soul. | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| \[are\] honeycombs | **<big>[[G2781\|κηρία]]</big>** |
+| of honey | **<big>[[G3192\|μέλιτος]]</big>** |
+| words | **<big>[[G3056\|λόγοι]]</big>** |
+| Good | **<big>[[G2570\|καλοί]]</big>** |
+| and \[the\] sweetness | **<big>[[G6740\|γλύκασμα]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of them | **<big>[[G1473\|αυτών]]</big>** |
+| \[is\] healing | **<big>[[G2392\|ίασις]]</big>** |
+| for \[the\] soul. | **<big>[[G5590\|ψυχής]]</big>** |
 [[Prov.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.23|<< Proverbs 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.25|Proverbs 16:25 >>]]</td></tr></table>
 
 

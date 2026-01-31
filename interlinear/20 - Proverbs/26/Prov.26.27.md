@@ -6,16 +6,16 @@ He who digs a pit will fall into it, and he who rolls a stone will have it roll 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.26|<< Proverbs 26:26]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.28|Proverbs 26:28 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [one who] digs  | <span class="ashebrew"><big>כֹּֽרֶה </big></span><small><small><sup>[[H3738B]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ko.re.ho.Sha- <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a pit  | <span class="ashebrew"><big>שַּׁ֭חַת </big></span><small><small><sup>[[H7845H]]</sup></small></small> &#8207;| Sha.chat <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in it  | <span class="ashebrew"><big>בָּ֣ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>הּ </big></span><small><small><sup>[[H9034]]</sup></small></small> &#8207;| ba <small><sup>[[HR]]</sup></small> h <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will fall  | <span class="ashebrew"><big>יִפֹּ֑ל </big></span><small><small><sup>[[H5307G]]</sup></small></small> &#8207;| yi.Pol <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [one who] rolls  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גֹ֥לֵ֥ל </big></span><small><small><sup>[[H1556]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Go.Lel <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a stone  | <span class="ashebrew"><big>אֶ֝בֶן </big></span><small><small><sup>[[H0068G]]</sup></small></small> &#8207;| 'E.ven <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  | <span class="ashebrew"><big>אֵלָ֥י </big></span><small><small><sup>[[H0413]]</sup></small></small> <span class="ashebrew"><big>ו </big></span><small><small><sup>[[H9033]]</sup></small></small> &#8207;| 'e.La <small><sup>[[HR]]</sup></small> v <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will return  | <span class="ashebrew"><big>תָּשֽׁוּב </big></span><small><small><sup>[[H7725G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ta.Shuv <small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] digs  |**<big>&#8207;[[H3738B\|כֹּֽרֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko.re.ho.Sha-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pit  |**<big>&#8207;[[H7845H\|שַּׁ֭חַת]]&#8207; </big>**| Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  |**<big>&#8207;[[H9003\|בָּ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will fall  |**<big>&#8207;[[H5307G\|יִפֹּ֑ל]]&#8207; </big>**| yi.Pol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] rolls  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1556\|גֹ֥לֵ֥ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Go.Lel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a stone  |**<big>&#8207;[[H0068G\|אֶ֝בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָ֥י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will return  |**<big>&#8207;[[H7725G\|תָּשֽׁוּב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Shuv<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.26|<< Proverbs 26:26]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.28|Proverbs 26:28 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חַוְרָן‎</span></big> **Chavrân** <small>*(khav-rawn')*</small> ==**Hauran**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>apparently from <span class="ashebrew">‎חָוַר‎</span><sup><small>[[H2357]]</small></sup> (in the sense of <span class="ashebrew">‎חוּר‎</span><sup><small>[[H2352]]</small></sup>); cavernous</small>
+**<big><span class="ashebrew">‎חַוְרָן‎</span></big>** **Chavrân** <small>*(khav-rawn')*</small> ==**Hauran**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>apparently from **<big>[[H2357|‎חָוַר‎]]</big>** (in the sense of **<big>[[H2352|‎חוּר‎]]</big>**); cavernous</small>
 
 $\quad$ Hauran.
 - § Hauran = *"caverns"*

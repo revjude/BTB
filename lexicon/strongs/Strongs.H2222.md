@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎זַרְזִיף‎</span></big> **zarzîyph** <small>*(zar-zeef')*</small> ==**to drip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎זַרְזִיף‎</span></big>** **zarzîyph** <small>*(zar-zeef')*</small> ==**to drip**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>by reduplication from an unused root meaning to flow</small>
 
 $\quad$ water.

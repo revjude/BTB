@@ -1,4 +1,4 @@
-Greek of: <small>[[H2132G]]</small> 
+Greek of: <small>**<big>[[H2132G|זַיִת]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==ἐλαιών==</span>-<span class='asgreek'>ών</span></b>, <span class='asgreek'>ῶνος</span>, <span class='asgreek'>ὁ</span>, 

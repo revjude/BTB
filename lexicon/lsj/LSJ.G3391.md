@@ -1,4 +1,4 @@
-form of: <small>[[G1520]]</small> 
+form of: <small>**<big>[[G1520|εἷς]]</big>**</small> 
 
 
 Related to: <b> <span class='asgreek'>==μία==</span></b>, <span class='asgreek'>μίᾰ</span>, <span class='asgreek'>ἕν</span> 

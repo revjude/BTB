@@ -7,26 +7,26 @@ And the tribes of Israel sent men through all the tribe of Benjamin, saying, Wha
 And the tribes of Israel sent men throughout the tribe of Benjamin, saying, “What is this wickedness that has occurred among you?<small><sub>**MT:**</sub></small>
 [[Judg.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.11|<< Judges 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.13|Judges 20:13 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| sent out | <big><span class="asgreek">εξαπέστειλαν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tribes | <big><span class="asgreek">φυλαί</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] tribe | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
-| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
-| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| What | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| \[is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| this evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| that | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| took place | <big><span class="asgreek">γενομένη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| you? | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| sent out | **<big>[[G1821\|εξαπέστειλαν]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| tribes | **<big>[[G5443\|φυλαί]]</big>** |
+| of Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] tribe | **<big>[[G5443\|φυλή]]</big>** |
+| of Benjamin, | **<big>[[G0958\|Βενιαμίν]]</big>** |
+| saying, | **<big>[[G3004\|λέγοντες]]</big>** |
+| What | **<big>[[G5100\|τις]]</big>** |
+| \[is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
+| this evil | **<big>[[G2549\|κακία]]</big>** **<big>[[G3778\|αύτη]]</big>** |
+| that | **<big>[[G3588\|η]]</big>** |
+| took place | **<big>[[G1096\|γενομένη]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| you? | **<big>[[G1473\|υμίν]]</big>** |
 [[Judg.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.11|<< Judges 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.13|Judges 20:13 >>]]</td></tr></table>
 
 

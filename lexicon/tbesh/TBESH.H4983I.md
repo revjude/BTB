@@ -1,3 +1,2 @@
-<span class="ashebrew">‎מַתַּנְיָ֫הוּ‎</span> <small>***(mat.tan.yah)***</small> ==**Mattaniah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
 - A man living at the time of Divided Monarchy, only mentioned at [[2Chr.20.14|2Ch.20.14]]
--  father of: Jeiel ([[H3273J]])
+-  father of: Jeiel (**<big>[[H3273J|יְעִיאֵל]]</big>**)

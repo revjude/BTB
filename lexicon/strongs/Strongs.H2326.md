@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חוֹב‎</span></big> **chôwb** <small>*(khobe)*</small> ==**debtor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎חוּב‎</span><sup><small>[[H2325]]</small></sup></small>
+**<big><span class="ashebrew">‎חוֹב‎</span></big>** **chôwb** <small>*(khobe)*</small> ==**debtor**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H2325|‎חוּב‎]]</big>**</small>
 
 $\quad$ debtor.
 - ***debt***

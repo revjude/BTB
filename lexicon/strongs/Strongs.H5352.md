@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎נָקָה‎</span></big> **nâqâh** <small>*(naw-kaw')*</small> ==**to clear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎נָקָה‎</span></big>** **nâqâh** <small>*(naw-kaw')*</small> ==**to clear**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ acquit [idiom] at all, [idiom] altogether, be blameless, cleanse, (be) clear(-ing), cut off, be desolate, be free, be (hold) guiltless, be (hold) innocent, [idiom] by no means, be quit, be (leave) unpunished, [idiom] utterly, [idiom] wholly.
@@ -16,4 +16,4 @@ $\quad$ **1c)** (Piel)
 $\quad$ $\quad$ **1c1)** to hold innocent, acquit
 $\quad$ $\quad$ **1c2)** to leave unpunished
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄθωος</span><sup><small>[[G0121]]</small></sup> · <span class="asgreek">ἄθωος</span><sup><small>[[G0121]]</small></sup> · <span class="asgreek">ἐάω</span><sup><small>[[G1439]]</small></sup> · <span class="asgreek">ἐκζητέω</span><sup><small>[[G1567]]</small></sup> · <span class="asgreek">καθαρίζω</span><sup><small>[[G2511]]</small></sup> · <span class="asgreek">καθαρισμός</span><sup><small>[[G2512]]</small></sup> · <span class="asgreek">καθαρός</span><sup><small>[[G2513]]</small></sup> · <span class="asgreek">καταλείπω</span><sup><small>[[G2641]]</small></sup>
+<small>See Greek: </small>**<big>[[G0121|ἄθωος]]</big>** · **<big>[[G0121|ἄθωος]]</big>** · **<big>[[G1439|ἐάω]]</big>** · **<big>[[G1567|ἐκζητέω]]</big>** · **<big>[[G2511|καθαρίζω]]</big>** · **<big>[[G2512|καθαρισμός]]</big>** · **<big>[[G2513|καθαρός]]</big>** · **<big>[[G2641|καταλείπω]]</big>**

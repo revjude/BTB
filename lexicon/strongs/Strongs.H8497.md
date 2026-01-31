@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎תָּכָה‎</span></big> **tâkâh** <small>*(taw-kaw')*</small> ==**to follow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎תָּכָה‎</span></big>** **tâkâh** <small>*(taw-kaw')*</small> ==**to follow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ sit down.

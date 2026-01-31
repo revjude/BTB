@@ -1,8 +1,8 @@
 <small>*Avva • City conquered by Assyria, people resettled in Samaria.*</small>
 
 <span class='tipnrhighlight'>Ivvah</span> \(or Avva\) was a city conquered by Assyria, whose people were resettled in Samaria. \([[2Kgs.18.34|2 Kings 18:34]], 19:13; [[Isa.37.13|Isaiah 37:13]]; [[2Kgs.17.24|2 Kings 17:24]], 31\)
-- A location near Hena<[[H2012]]> first mentioned at [[2Kgs.17.24|2Ki.17.24]]; 
-- referred to as Ivvah or Avva<[[H5755]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ָּ<span class='tipnrLangHebrew'>ה</span>\), or Avvite<[[H5761I]]> \(<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>ים</span>\).
+- A location near Hena **<big>[[H2012|הֵנַע]]</big>** first mentioned at [[2Kgs.17.24|2Ki.17.24]]; 
+- referred to as Ivvah or Avva **<big>[[H5755|עִוָּה]]</big>**, or Avvite **<big>[[H5761|עַוִּים]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.467725,41.964955&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,7 +10,7 @@ Ivvah, also known as Avva, was a city that was conquered by the Assyrians. It is
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Ivvah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5755) <small>*Hebrew*</small> | 3x | [[2Ki.18.34] ... [Isa.37.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ivvah\*\|reference=2Ki.18.34;2Ki.19.13;Isa.37.13) |
-| Avva | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5755) <small>*Hebrew*</small> | 1x | [2Ki.17.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Avva\*\|reference=2Ki.17.24) |
-| Avvite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H5761I) <small>*Hebrew*</small> | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Avvite\*\|reference=2Ki.17.31) |
-All Strong's for **Ivvah or Avva**: \[[[H5755]]\] \[[[H5761I]]\]
+| Ivvah | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5755) | 3x | [[2Ki.18.34] ... [Isa.37.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ivvah\*\|reference=2Ki.18.34;2Ki.19.13;Isa.37.13) |
+| Avva | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H5755) | 1x | [2Ki.17.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Avva\*\|reference=2Ki.17.24) |
+| Avvite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H5761I) | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Avvite\*\|reference=2Ki.17.31) |
+All entries for **Ivvah or Avva**:  **<big>[[H5755|עִוָּה]]</big>** ☩  **<big>[[H5761|עַוִּים]]</big>**

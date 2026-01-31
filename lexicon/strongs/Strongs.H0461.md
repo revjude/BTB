@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אֱלִיעֶזֶר‎</span></big> **ʼĔlîyʻezer** <small>*(el-ee-eh'-zer)*</small> ==**Eliezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup> and <span class="ashebrew">‎עֵזֶר‎</span><sup><small>[[H5828]]</small></sup>; God of help</small>
+**<big><span class="ashebrew">‎אֱלִיעֶזֶר‎</span></big>** **ʼĔlîyʻezer** <small>*(el-ee-eh'-zer)*</small> ==**Eliezer**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H0410|‎אֵל‎]]</big>** and **<big>[[H5828|‎עֵזֶר‎]]</big>**; God of help</small>
 
 $\quad$ Eliezer.
 - § Eliezer = *"God is help"*
@@ -15,4 +15,4 @@ $\quad$ Eliezer.
 **8)** son of Harim
 **9)** priest with foreign wife
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ἐλιέζερ</span><sup><small>[[G1663]]</small></sup>
+<small>See Greek: </small>**<big>[[G1663|Ἐλιέζερ]]</big>**

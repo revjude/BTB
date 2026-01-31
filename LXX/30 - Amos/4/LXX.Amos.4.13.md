@@ -7,38 +7,38 @@ For, lo, he that formeth the mountains, and createth the wind, and declareth unt
 For behold, He who forms the mountains, who creates the wind and reveals His thoughts to man, who turns the dawn to darkness and strides on the heights of the earth—the LORD, the God of Hosts, is His name.”<small><sub>**MT:**</sub></small>
 [[Amos.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.12|<< Amos 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.1|Amos 5:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
-| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
-| \[the\] one stiffening | <big><span class="asgreek">στερεών</span></big> <sup><small><small>[[G4732]]</small></small></sup> |
-| thunder, | <big><span class="asgreek">βροντήν</span></big> <sup><small><small>[[G1027]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| creating | <big><span class="asgreek">κτίζων</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
-| wind, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| reporting | <big><span class="asgreek">απαγγέλλων</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
-| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his graciousness, | <big><span class="asgreek">χρηστόν</span></big> <sup><small><small>[[G5543]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| producing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] dawn | <big><span class="asgreek">όρθρον</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| fog, | <big><span class="asgreek">ομίχλην</span></big> <sup><small><small>[[G6068]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mounting | <big><span class="asgreek">επιβαίνων</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heights | <big><span class="asgreek">ύψη</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth -- | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| almighty | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| \[is\] his name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | **<big>[[G1360\|διότι]]</big>** |
+| behold, | **<big>[[G2400\|ιδού]]</big>** |
+| \[the\] one stiffening | **<big>[[G4732\|στερεών]]</big>** |
+| thunder, | **<big>[[G1027\|βροντήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| creating | **<big>[[G2936\|κτίζων]]</big>** |
+| wind, | **<big>[[G4151\|πνεύμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| reporting | **<big>[[G0518\|απαγγέλλων]]</big>** |
+| unto | **<big>[[G1519\|εις]]</big>** |
+| men | **<big>[[G0444\|ανθρώπους]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| his graciousness, | **<big>[[G5543\|χρηστόν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| producing | **<big>[[G4160\|ποιών]]</big>** |
+| \[the\] dawn | **<big>[[G3722\|όρθρον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| fog, | **<big>[[G6068\|ομίχλην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mounting | **<big>[[G1910\|επιβαίνων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| heights | **<big>[[G5311\|ύψη]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth -- | **<big>[[G1093\|γης]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God | **<big>[[G2316\|θεός]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| almighty | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| \[is\] his name. | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτώ]]</big>** |
 [[Amos.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.12|<< Amos 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.1|Amos 5:1 >>]]</td></tr></table>
 
 

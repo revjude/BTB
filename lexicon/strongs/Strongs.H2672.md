@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָצַב‎</span></big> **châtsab** <small>*(khaw-tsab')*</small> ==**to hew**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>or <span class="ashebrew">חָצֵב</span> **châtsêb** <small>*(khaw-tsabe')*</small>; a primitive root</small>
+**<big><span class="ashebrew">‎חָצַב‎</span></big>** **châtsab** <small>*(khaw-tsab')*</small> ==**to hew**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>or **<big><span class="ashebrew">חָצֵב</span></big>** **châtsêb** <small>*(khaw-tsabe')*</small>; a primitive root</small>
 
 $\quad$ cut, dig, divide, grave, hew (out, -er), made, mason.
 - ***to cut*** or ***carve*** (wood, stone or other material)
@@ -17,4 +17,4 @@ $\quad$ **1b)** (Niphal) to be cut, be hewn, be engraved
 $\quad$ **1c)** (Hiphil) to hew into pieces, cut up into pieces
 $\quad$ **1d)** (Pual) to be cut from, be hewn from
 
-<sub><small>See Greek: </small></sub><span class="asgreek">κόπτω</span><sup><small>[[G2875]]</small></sup> · <span class="asgreek">λατομέω</span><sup><small>[[G2998]]</small></sup> · <span class="asgreek">ὀρύσσω</span><sup><small>[[G3736]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">τεχνίτης</span><sup><small>[[G5079]]</small></sup>
+<small>See Greek: </small>**<big>[[G2875|κόπτω]]</big>** · **<big>[[G2998|λατομέω]]</big>** · **<big>[[G3736|ὀρύσσω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G5079|τεχνίτης]]</big>**

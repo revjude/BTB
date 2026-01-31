@@ -7,17 +7,17 @@ For destruction [from] God [was] a terror to me, and by reason of his highness I
 For calamity from God terrifies me, and His splendor I cannot overpower.<small><sub>**MT:**</sub></small>
 [[Job.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.22|<< Job 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.24|Job 31:24 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For \[the\] fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| constrained | <big><span class="asgreek">συνέσχε</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
-| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| his concern | <big><span class="asgreek">λήμματος</span></big> <sup><small><small>[[G8189]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| I shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| endure. | <big><span class="asgreek">υποίσω</span></big> <sup><small><small>[[G5297]]</small></small></sup> |
+| For \[the\] fear | **<big>[[G5401\|φόβος]]</big>** **<big>[[G1063\|γαρ]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| constrained | **<big>[[G4912\|συνέσχε]]</big>** |
+| me; | **<big>[[G1473\|με]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| his concern | **<big>[[G8189\|λήμματος]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| I shall not | **<big>[[G3756\|ουχ]]</big>** |
+| endure. | **<big>[[G5297\|υποίσω]]</big>** |
 [[Job.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.22|<< Job 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.24|Job 31:24 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎לְאֻמִּים‎</span></big> **Lᵉʼummîym** <small>*(leh-oom-meem')*</small> ==**Leummim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>plural of <span class="ashebrew">‎לְאֹם‎</span><sup><small>[[H3816]]</small></sup>; communities</small>
+**<big><span class="ashebrew">‎לְאֻמִּים‎</span></big>** **Lᵉʼummîym** <small>*(leh-oom-meem')*</small> ==**Leummim**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>plural of **<big>[[H3816|‎לְאֹם‎]]</big>**; communities</small>
 
 $\quad$ Leummim.
 - § Leummim = *"peoples"*

@@ -7,29 +7,29 @@ Against whom do ye sport yourselves? against whom make ye a wide mouth, [and] dr
 Whom are you mocking? At whom do you sneer and stick out your tongue? Are you not children of transgression, offspring of deceit,<small><sub>**MT:**</sub></small>
 [[Isa.57.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.3|<< Isaiah 57:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.5|Isaiah 57:5 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| what | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| have you reveled in? | <big><span class="asgreek">ενετρυφήσατε</span></big> <sup><small><small>[[G1792]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| whom | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| have you opened | <big><span class="asgreek">ηνοίξατε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mouth? | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| whom | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| have you slackened | <big><span class="asgreek">εχαλάσατε</span></big> <sup><small><small>[[G5465]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your tongue? | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| Are you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| children | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> |
-| of destruction? | <big><span class="asgreek">απωλείας</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
-| a seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
-| without honor? | <big><span class="asgreek">άτιμον</span></big> <sup><small><small>[[G0820]]</small></small></sup> |
+| In | **<big>[[G1722\|εν]]</big>** |
+| what | **<big>[[G5100\|τίνι]]</big>** |
+| have you reveled in? | **<big>[[G1792\|ενετρυφήσατε]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| whom | **<big>[[G5100\|τίνα]]</big>** |
+| have you opened | **<big>[[G0455\|ηνοίξατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| your mouth? | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| whom | **<big>[[G5100\|τίνα]]</big>** |
+| have you slackened | **<big>[[G5465\|εχαλάσατε]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| your tongue? | **<big>[[G1100\|γλώσσαν]]</big>** **<big>[[G1473\|υμών]]</big>** |
+| not | **<big>[[G3756\|ουχ]]</big>** |
+| Are you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1510\|εστέ]]</big>** |
+| children | **<big>[[G5043\|τέκνα]]</big>** |
+| of destruction? | **<big>[[G0684\|απωλείας]]</big>** |
+| a seed | **<big>[[G4690\|σπέρμα]]</big>** |
+| without honor? | **<big>[[G0820\|άτιμον]]</big>** |
 [[Isa.57.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.3|<< Isaiah 57:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.5|Isaiah 57:5 >>]]</td></tr></table>
 
 

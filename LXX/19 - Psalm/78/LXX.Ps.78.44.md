@@ -7,20 +7,20 @@ And had turned their rivers into blood; and their floods, that they could not dr
 He turned their rivers to blood, and from their streams they could not drink.<small><sub>**MT:**</sub></small>
 [[Ps.78.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.43|<< Psalm 78:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.45|Psalm 78:45 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he converted | <big><span class="asgreek">μετέστρεψεν</span></big> <sup><small><small>[[G3344]]</small></small></sup> |
-| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their showers | <big><span class="asgreek">ομβρήματα</span></big> <sup><small><small>[[G8504]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| so as | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
-| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| drink. | <big><span class="asgreek">πίωσιν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| he converted | **<big>[[G3344\|μετέστρεψεν]]</big>** |
+| into | **<big>[[G1519\|εις]]</big>** |
+| blood | **<big>[[G0129\|αίμα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| their rivers | **<big>[[G4215\|ποταμούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| their showers | **<big>[[G8504\|ομβρήματα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| so as | **<big>[[G3704\|όπως]]</big>** |
+| to not | **<big>[[G3361\|μη]]</big>** |
+| drink. | **<big>[[G4095\|πίωσιν]]</big>** |
 [[Ps.78.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.43|<< Psalm 78:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.45|Psalm 78:45 >>]]</td></tr></table>
 
 

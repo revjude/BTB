@@ -1,4 +1,4 @@
-meaning of: <small>[[G2556G]]</small> 
+meaning of: <small>**<big>[[G2556G|κακός]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==κακός==</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 

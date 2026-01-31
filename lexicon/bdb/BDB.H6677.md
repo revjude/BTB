@@ -7,7 +7,7 @@ $\quad$ $\quad$ **l.** ***neck***, especially ***back of neck***, of man, wearin
 
  [<span class="bdbLangHebrew">‎צַוָּרוֺן‎</span>] **noun [masculine] plural** ==necklace==; — suffix <span class="bdbLangHebrew">‎אַחַד‎</span> <span class="bdbLangHebrew">‎עֲנָק מַצַּוָּרֹנָ֑יִִךְ‎</span> [[Song.4.9|Song 4:9]]. 
 
-<small>Also see: [[H6865]]</small>
+<small>Also see: **<big>[[H6865|צֹר]]</big>**</small>
 
  <span class="bdbLangHebrew">‎צוֺר‎</span> ***Tyre*** see  <span class="bdbLangHebrew">‎צֹר‎</span>. <span class="bdbLangHebrew">‎צַוְּרֹנִים צַוָּר‎</span> see  <span class="bdbLangHebrew">‎צַוָּאר‎</span>. 
 

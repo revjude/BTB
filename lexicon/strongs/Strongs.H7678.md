@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁבְּתַי‎</span></big> **Shabbᵉthay** <small>*(shab-beth-ah'-ee)*</small> ==**Shabbethai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎שַׁבָּת‎</span><sup><small>[[H7676]]</small></sup>; restful</small>
+**<big><span class="ashebrew">‎שַׁבְּתַי‎</span></big>** **Shabbᵉthay** <small>*(shab-beth-ah'-ee)*</small> ==**Shabbethai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H7676|‎שַׁבָּת‎]]</big>**; restful</small>
 
 $\quad$ Shabbethai.
 - § Shabbethai = *"sabbatical"*

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קִישׁ‎</span></big> **Qîysh** <small>*(keesh)*</small> ==**Kish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎קוֹשׁ‎</span><sup><small>[[H6983]]</small></sup>; a bow</small>
+**<big><span class="ashebrew">‎קִישׁ‎</span></big>** **Qîysh** <small>*(keesh)*</small> ==**Kish**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H6983|‎קוֹשׁ‎]]</big>**; a bow</small>
 
 $\quad$ Kish.
 - § Kish = *"bent"*
@@ -11,4 +11,4 @@ $\quad$ Kish.
 **4)** a Merarite Levite, son of Mahli and grandson of Merari the progenitor of the family
 **5)** a Merarite Levite, son of Abdi in the time of king Hezekiah of Judah
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Κίς</span><sup><small>[[G2797]]</small></sup>
+<small>See Greek: </small>**<big>[[G2797|Κίς]]</big>**

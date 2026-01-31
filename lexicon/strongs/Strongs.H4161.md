@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוֹצָא‎</span></big> **môwtsâʼ** <small>*(mo-tsaw')*</small> ==**exit**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>or <span class="ashebrew">מֹצָא</span> **môtsâʼ** <small>*(mo-tsaw')*</small>; from <span class="ashebrew">‎יָצָא‎</span><sup><small>[[H3318]]</small></sup></small>
+**<big><span class="ashebrew">‎מוֹצָא‎</span></big>** **môwtsâʼ** <small>*(mo-tsaw')*</small> ==**exit**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or **<big><span class="ashebrew">מֹצָא</span></big>** **môtsâʼ** <small>*(mo-tsaw')*</small>; from **<big>[[H3318|‎יָצָא‎]]</big>**</small>
 
 $\quad$ brought out, bud, that which came out, east, going forth, goings out, that which (thing that) is gone out, outgoing, proceeded out, spring, vein, (water-) course (springs).
 - ***a going forth***, i.e. (the act) ***an egress***, or (the place) ***an exit***
@@ -20,4 +20,4 @@ $\quad$ $\quad$ **1c2)** place of departure
 $\quad$ $\quad$ **1c3)** east (of sun)
 $\quad$ $\quad$ **1c4)** mine (of silver)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἔξοδος</span><sup><small>[[G1841]]</small></sup> · <span class="asgreek">πηγή</span><sup><small>[[G4077]]</small></sup> · <span class="asgreek">πορεία</span><sup><small>[[G4197]]</small></sup> · <span class="asgreek">τόπος</span><sup><small>[[G5117]]</small></sup>
+<small>See Greek: </small>**<big>[[G1841|ἔξοδος]]</big>** · **<big>[[G4077|πηγή]]</big>** · **<big>[[G4197|πορεία]]</big>** · **<big>[[G5117|τόπος]]</big>**

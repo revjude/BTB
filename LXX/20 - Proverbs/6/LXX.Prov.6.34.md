@@ -7,18 +7,18 @@ For jealousy [is] the rage of a man: therefore he will not spare in the day of v
 For jealousy enrages a husband, and he will show no mercy in the day of vengeance.<small><sub>**MT:**</sub></small>
 [[Prov.6.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.33|<< Proverbs 6:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.35|Proverbs 6:35 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[is\] full | <big><span class="asgreek">μεστός</span></big> <sup><small><small>[[G3324]]</small></small></sup> |
-| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
-| of zeal | <big><span class="asgreek">ζήλου</span></big> <sup><small><small>[[G2205]]</small></small></sup> |
-| \[the\] rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| of her husband | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| spare | <big><span class="asgreek">φείσεται</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of judgment. | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| \[is\] full | **<big>[[G3324\|μεστός]]</big>** |
+| For | **<big>[[G1063\|γαρ]]</big>** |
+| of zeal | **<big>[[G2205\|ζήλου]]</big>** |
+| \[the\] rage | **<big>[[G2372\|θυμός]]</big>** |
+| of her husband | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|αυτής]]</big>** |
+| he will not | **<big>[[G3756\|ου]]</big>** |
+| spare | **<big>[[G5339\|φείσεται]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of judgment. | **<big>[[G2920\|κρίσεως]]</big>** |
 [[Prov.6.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.33|<< Proverbs 6:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.35|Proverbs 6:35 >>]]</td></tr></table>
 
 

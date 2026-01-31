@@ -11,36 +11,36 @@ All the stars of heaven will be dissolved. The skies will be rolled up like a sc
 > $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24]] ☩ [[Luke.21.26|Luke 21:26]] ☩ [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.6.14|Rev 6:14]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall melt away | <big><span class="asgreek">τακήσονται</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| powers | <big><span class="asgreek">δυνάμεις</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heavens | <big><span class="asgreek">ουρανών</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall coil up | <big><span class="asgreek">ελιγήσεται</span></big> <sup><small><small>[[G1667]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a scroll, | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stars | <big><span class="asgreek">άστρα</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
-| shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| leaves | <big><span class="asgreek">φύλλα</span></big> <sup><small><small>[[G5444]]</small></small></sup> |
-| \[fall\] from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a grapevine, | <big><span class="asgreek">αμπέλου</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| fall | <big><span class="asgreek">πίπτει</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| leaves | <big><span class="asgreek">φύλλα</span></big> <sup><small><small>[[G5444]]</small></small></sup> |
-| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
-| a fig-tree. | <big><span class="asgreek">συκής</span></big> <sup><small><small>[[G4808]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall melt away | **<big>[[G5080\|τακήσονται]]</big>** |
+| all | **<big>[[G3956\|πάσαι]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| powers | **<big>[[G1411\|δυνάμεις]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| heavens | **<big>[[G3772\|ουρανών]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| shall coil up | **<big>[[G1667\|ελιγήσεται]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| heaven | **<big>[[G3772\|ουρανός]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a scroll, | **<big>[[G0975\|βιβλίον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| stars | **<big>[[G0798\|άστρα]]</big>** |
+| shall fall | **<big>[[G4098\|πεσείται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| leaves | **<big>[[G5444\|φύλλα]]</big>** |
+| \[fall\] from | **<big>[[G1537\|εξ]]</big>** |
+| a grapevine, | **<big>[[G0288\|αμπέλου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| fall | **<big>[[G4098\|πίπτει]]</big>** |
+| leaves | **<big>[[G5444\|φύλλα]]</big>** |
+| from | **<big>[[G0575\|από]]</big>** |
+| a fig-tree. | **<big>[[G4808\|συκής]]</big>** |
 [[Isa.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.3|<< Isaiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.5|Isaiah 34:5 >>]]</td></tr></table>
 
 

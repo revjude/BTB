@@ -2,7 +2,7 @@
 
 The <span class='tipnrhighlight'>Forum of Appius</span>, a marketplace on the Appian Way, where Christians from Rome met Paul during his journey to the city as a prisoner.
 - A location only mentioned at [[2Sam.18.6|Act.28.15]]; 
-- only referred to as Forum\_of\_Appius<[[G0675]]><[[G0675]]> \(<span class='tipnrLangGreek'>Φόρον</span> <span class='tipnrLangGreek'>Ἄππιος</span>\).
+- only referred to as Forum\_of\_Appius **<big>[[G0675|Ἄππιος]]</big>** **<big>[[G0675|Ἄππιος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=41.468706,12.993929&zoom=10&maptype=satellite"></iframe>
 
 
@@ -18,5 +18,5 @@ The mention of the Forum of Appius in the biblical account of Paul's journey to 
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Forum/ of Appius (KJV= Appii forum) | [<span class='tipnrLangGreek'>Φόρον</span>](G5410)[<span class='tipnrLangGreek'>Ἄππιος</span>](G0675) <small>*Greek*</small> | 1x | [Act.28.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Forum\*\|reference=Act.28.15) |
-All Strong's for **Forum_of_Appius**: \[[[G5410]]\] \[[[G0675]]\]
+| Forum/ of Appius (KJV= Appii forum) | [<span class='tipnrLangGreek'>Φόρον</span>](G5410)[<span class='tipnrLangGreek'>Ἄππιος</span>](G0675) | 1x | [Act.28.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Forum\*\|reference=Act.28.15) |
+All entries for **Forum of Appius**:  **<big>[[G5410|Φόρον]]</big>** ☩  **<big>[[G0675|Ἄππιος]]</big>**

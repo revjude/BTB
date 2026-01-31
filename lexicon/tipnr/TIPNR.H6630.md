@@ -1,8 +1,8 @@
 <small>*Zaanan • A town mentioned in Micah's prophecy*</small>
 
 <span class='tipnrhighlight'>Zaanan</span>, a town mentioned in Micah's prophecy, possibly located in the Shephelah region of Judah \(Mic. 1:11\).
-- A location near Shaphir<[[H8208]]> only mentioned at [[Mic.1.11|Mic.1.11]]; 
-- only referred to as Zaanan<[[H6630]]> \(<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- A location near Shaphir **<big>[[H8208|שָׁפִיר]]</big>** only mentioned at [[Mic.1.11|Mic.1.11]]; 
+- only referred to as Zaanan **<big>[[H6630|צַאֲנָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.743719,34.694006&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Zaanan is a town mentioned only once in the Bible, in [[Mic.1.11|Micah 1:11]], a
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Zaanan | [<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6630) <small>*Hebrew*</small> | 1x | [Mic.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaanan\*\|reference=Mic.1.11) |
-All Strong's for **Zaanan**: \[[[H6630]]\]
+| Zaanan | [<span class='tipnrLangHebrew'>צ</span>ַ<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6630) | 1x | [Mic.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zaanan\*\|reference=Mic.1.11) |
+All entries for **Zaanan**:  **<big>[[H6630|צַאֲנָן]]</big>**

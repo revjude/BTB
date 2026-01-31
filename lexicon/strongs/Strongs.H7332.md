@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎רָזוֹן‎</span></big> **râzôwn** <small>*(raw-zone')*</small> ==**leanness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎רָזָה‎</span><sup><small>[[H7329]]</small></sup></small>
+**<big><span class="ashebrew">‎רָזוֹן‎</span></big>** **râzôwn** <small>*(raw-zone')*</small> ==**leanness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H7329|‎רָזָה‎]]</big>**</small>
 
 $\quad$ leanness, [idiom] scant.
 - ***thinness***

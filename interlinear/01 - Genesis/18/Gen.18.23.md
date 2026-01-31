@@ -6,16 +6,16 @@ Abraham stepped forward and said, “Will You really sweep away the righteous wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.22|<< Genesis 18:22]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.24|Genesis 18:24 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and he drew near  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יִּגַּ֥שׁ </big></span><small><small><sup>[[H5066G]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yi.Gash <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֖ם </big></span><small><small><sup>[[H0085]]</sup></small></small> &#8207;| 'av.ra.Ham <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַ֑ר </big></span><small><small><sup>[[H0559]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Mar <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ¿ also  | <span class="ashebrew"><big>הַ </big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>אַ֣ף </big></span><small><small><sup>[[H0637]]</sup></small></small> &#8207;| ha. <small><sup>[[HTi]]</sup></small> 'Af <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you sweep away  | <span class="ashebrew"><big>תִּסְפֶּ֔ה </big></span><small><small><sup>[[H5595]]</sup></small></small> &#8207;| tis.Peh <small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] righteous  | <span class="ashebrew"><big>צַדִּ֖יק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| tza.Dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with  | <span class="ashebrew"><big>עִם </big></span><small><small><sup>[[H5973A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wicked  | <span class="ashebrew"><big>רָשָֽׁע </big></span><small><small><sup>[[H7563]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ra.Sha' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|יִּגַּ֥שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֑ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ also  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0637\|אַ֣ף]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you sweep away  |**<big>&#8207;[[H5595\|תִּסְפֶּ֔ה]]&#8207; </big>**| tis.Peh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֖יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wicked  |**<big>&#8207;[[H7563\|רָשָֽׁע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.22|<< Genesis 18:22]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.24|Genesis 18:24 >>]]</td></tr></table>
 
 

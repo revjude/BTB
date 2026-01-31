@@ -7,54 +7,54 @@ And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asena
 Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.<small><sub>**MT:**</sub></small>
 [[Gen.46.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.19|<< Genesis 46:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.21|Genesis 46:21 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| born | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt, | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Asenath | <big><span class="asgreek">Ασενέθ</span></big> <sup><small><small>[[H0621]]</small></small></sup> |
-| \[the\] daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
-| of Poti-phera, | <big><span class="asgreek">Πετεφρή</span></big> <sup><small><small>[[H6318]]</small></small></sup> |
-| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| of Heliopolis -- | <big><span class="asgreek">Ηλιουπόλεως</span></big> <sup><small><small>[[G9829]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Ephraim. | <big><span class="asgreek">Εφραίμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| And were born | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Manasseh | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
-| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| concubine | <big><span class="asgreek">παλλακή</span></big> <sup><small><small>[[G8589]]</small></small></sup> |
-| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Sura | <big><span class="asgreek">Σύρα</span></big> <sup><small><small>[[G4948]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Machir. | <big><span class="asgreek">Μαχίρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
-| And Machir | <big><span class="asgreek">Μαχίρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Gilead. | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
-| And \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of Ephraim | <big><span class="asgreek">Εφραίμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
-| brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
-| of Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
-| Sutalaam, | <big><span class="asgreek">Σουταλαάμ</span></big> <sup><small><small>[[G9835]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Tam. | <big><span class="asgreek">Ταάμ</span></big> <sup><small><small>[[G9836]]</small></small></sup> |
-| And \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| of Sutalaam -- | <big><span class="asgreek">Σουταλαάμ</span></big> <sup><small><small>[[G9835]]</small></small></sup> |
-| Edem. | <big><span class="asgreek">Εδέμ</span></big> <sup><small><small>[[G9827]]</small></small></sup> |
+| born | **<big>[[G1096\|εγένοντο]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt, | **<big>[[G0125\|Αιγύπτου]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| Asenath | **<big>[[H0621\|Ασενέθ]]</big>** |
+| \[the\] daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
+| of Poti-phera, | **<big>[[H6318\|Πετεφρή]]</big>** |
+| priest | **<big>[[G2409\|ιερέως]]</big>** |
+| of Heliopolis -- | **<big>[[G9829\|Ηλιουπόλεως]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Ephraim. | **<big>[[G2187\|Εφραίμ]]</big>** |
+| And were born | **<big>[[G1096\|εγένοντο]]</big>** **<big>[[G1161\|δε]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Manasseh | **<big>[[G3128\|Μανασσή]]</big>** |
+| whom | **<big>[[G3739\|ους]]</big>** |
+| bore | **<big>[[G5088\|έτεκεν]]</big>** |
+| to him | **<big>[[G1473\|αυτώ]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| concubine | **<big>[[G8589\|παλλακή]]</big>** |
+| the | **<big>[[G3588\|η]]</big>** |
+| Sura | **<big>[[G4948\|Σύρα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Machir. | **<big>[[H4353\|Μαχίρ]]</big>** |
+| And Machir | **<big>[[H4353\|Μαχίρ]]</big>** **<big>[[G1161\|δε]]</big>** |
+| procreated | **<big>[[G1080\|εγέννησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Gilead. | **<big>[[H1568\|Γαλαάδ]]</big>** |
+| And \[the\] sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of Ephraim | **<big>[[G2187\|Εφραίμ]]</big>** |
+| brother | **<big>[[G0080\|αδελφού]]</big>** |
+| of Manasseh -- | **<big>[[G3128\|Μανασσή]]</big>** |
+| Sutalaam, | **<big>[[G9835\|Σουταλαάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Tam. | **<big>[[G9836\|Ταάμ]]</big>** |
+| And \[the\] sons | **<big>[[G5207\|υιοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| of Sutalaam -- | **<big>[[G9835\|Σουταλαάμ]]</big>** |
+| Edem. | **<big>[[G9827\|Εδέμ]]</big>** |
 [[Gen.46.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.19|<< Genesis 46:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.21|Genesis 46:21 >>]]</td></tr></table>
 
 

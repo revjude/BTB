@@ -1,4 +1,4 @@
-spelling of: <small>[[G8943]]</small> 
+spelling of: <small>**<big>[[G8943|πρόσταγμα]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==προσταγή==</span>-<span class='asgreek'>τᾰγή</span></b>, <span class='asgreek'>ἡ</span>, 

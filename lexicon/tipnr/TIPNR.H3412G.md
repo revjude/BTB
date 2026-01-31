@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Jarmuth</span>, a Canaanite city conquered by Joshua, later allotted to Judah.
 - A location first mentioned at [[Josh.10.3|Jos.10.3]]; 
-- only referred to as Jarmuth<[[H3412G]]> \(<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ת</span>\).
+- only referred to as Jarmuth **<big>[[H3412|יַרְמוּת]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.70926894307416,34.96995387025439&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Jarmuth was a Canaanite city mentioned in the book of Joshua. Its king, Piram, j
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jarmuth | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ת</span>](H3412G) <small>*Hebrew*</small> | 6x | [[Jos.10.3] ... [Neh.11.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jarmuth\*\|reference=Jos.10.3;Jos.10.5;Jos.10.23;Jos.12.11;Jos.15.35;Neh.11.29) |
-All Strong's for **Jarmuth**: \[[[H3412G]]\]
+| Jarmuth | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>ת</span>](H3412G) | 6x | [[Jos.10.3] ... [Neh.11.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jarmuth\*\|reference=Jos.10.3;Jos.10.5;Jos.10.23;Jos.12.11;Jos.15.35;Neh.11.29) |
+All entries for **Jarmuth**:  **<big>[[H3412|יַרְמוּת]]</big>**

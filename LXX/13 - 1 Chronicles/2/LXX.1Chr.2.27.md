@@ -7,19 +7,19 @@ And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
 The sons of Ram the firstborn of Jerahmeel: Maaz, Jamin, and Eker.<small><sub>**MT:**</sub></small>
 [[1Chr.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.26|<< 1 Chronicles 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.28|1 Chronicles 2:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Ram | <big><span class="asgreek">Ραμ</span></big> <sup><small><small>[[H7410]]</small></small></sup> |
-| \[the\] first-born | <big><span class="asgreek">πρωτοτόκου</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
-| of Jerahmeel -- | <big><span class="asgreek">Ιεραμεήλ</span></big> <sup><small><small>[[H3396]]</small></small></sup> |
-| Maaz, | <big><span class="asgreek">Μαάς</span></big> <sup><small><small>[[H4619]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Jamin, | <big><span class="asgreek">Ιαμίν</span></big> <sup><small><small>[[H3232]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Eker. | <big><span class="asgreek">Ικάρ</span></big> <sup><small><small>[[H6134]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| \[the\] sons | **<big>[[G5207\|υιοί]]</big>** |
+| of Ram | **<big>[[H7410\|Ραμ]]</big>** |
+| \[the\] first-born | **<big>[[G4416\|πρωτοτόκου]]</big>** |
+| of Jerahmeel -- | **<big>[[H3396\|Ιεραμεήλ]]</big>** |
+| Maaz, | **<big>[[H4619\|Μαάς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Jamin, | **<big>[[H3232\|Ιαμίν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Eker. | **<big>[[H6134\|Ικάρ]]</big>** |
 [[1Chr.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.26|<< 1 Chronicles 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.28|1 Chronicles 2:28 >>]]</td></tr></table>
 
 

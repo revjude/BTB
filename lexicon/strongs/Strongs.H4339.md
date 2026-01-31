@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מֵישָׁר‎</span></big> **mêyshâr** <small>*(may-shawr')*</small> ==**uprightness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎יָשַׁר‎</span><sup><small>[[H3474]]</small></sup></small>
+**<big><span class="ashebrew">‎מֵישָׁר‎</span></big>** **mêyshâr** <small>*(may-shawr')*</small> ==**uprightness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H3474|‎יָשַׁר‎]]</big>**</small>
 
 $\quad$ agreement, aright, that are equal, equity, (things that are) right(-eously, things), sweetly, upright(-ly, -ness).
 - ***evenness***, i.e. (figuratively) ***prosperity*** or ***concord***
@@ -11,4 +11,4 @@ $\quad$ **1a)** evenness, level, smoothness
 $\quad$ **1b)** uprightness, equity
 $\quad$ **1c)** rightly (as adv)
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δικαιοσύνη</span><sup><small>[[G1343]]</small></sup> · <span class="asgreek">εὐθέως</span><sup><small>[[G2112]]</small></sup> · <span class="asgreek">εὐθύς</span><sup><small>[[G2117]]</small></sup>
+<small>See Greek: </small>**<big>[[G1343|δικαιοσύνη]]</big>** · **<big>[[G2112|εὐθέως]]</big>** · **<big>[[G2117|εὐθύς]]</big>**

@@ -22,7 +22,7 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎בְּדִית ׃בַּע�
 
 
 
-<small>Also see: [[H1192]]</small>
+<small>Also see: **<big>[[H1192|בַּעֲלַת בְּאֵר]]</big>**</small>
 
  II. <span class="bdbLangHebrew">‎בַּ֫עַל‎</span> 
 

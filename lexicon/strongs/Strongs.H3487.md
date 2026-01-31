@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎יַת‎</span></big> **yath** <small>*(yath)*</small> ==**whom**==  <sup><small>[[TEHMC#A:Part|A:Part]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎אֵת‎</span><sup><small>[[H0853]]</small></sup></small>
+**<big><span class="asaramaic">‎יַת‎</span></big>** **yath** <small>*(yath)*</small> ==**whom**==  <sup><small>[[TEHMC#A:Part|A:Part]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H0853|‎אֵת‎]]</big>**</small>
 
 $\quad$ [phrase] whom.
 - ***a sign of the object of a verb***

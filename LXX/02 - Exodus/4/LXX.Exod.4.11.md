@@ -7,31 +7,31 @@ And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb,
 And the LORD said to him, “Who gave man his mouth? Or who makes the mute or the deaf, the sighted or the blind? Is it not I, the LORD?<small><sub>**MT:**</sub></small>
 [[Exod.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.10|<< Exodus 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.12|Exodus 4:12 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
-| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| gave | <big><span class="asgreek">έδωκε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| a mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
-| man | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
-| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
-| \[the\] hard of hearing | <big><span class="asgreek">δύσκωφον</span></big> <sup><small><small>[[G6980]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| mute, | <big><span class="asgreek">κωφόν</span></big> <sup><small><small>[[G2974]]</small></small></sup> |
-| \[the\] seeing, | <big><span class="asgreek">βλέποντα</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| blind? | <big><span class="asgreek">τυφλόν</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
-| \[Was it\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God? | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| said | **<big>[[G2036\|είπε]]</big>** |
+| And | **<big>[[G1161\|δε]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| to | **<big>[[G3588\|τω]]</big>** |
+| Moses, | **<big>[[G3475\|Μωυσή]]</big>** |
+| Who | **<big>[[G5100\|τις]]</big>** |
+| gave | **<big>[[G1325\|έδωκε]]</big>** |
+| a mouth | **<big>[[G4750\|στόμα]]</big>** |
+| man | **<big>[[G0444\|ανθρώπω]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| who | **<big>[[G5100\|τις]]</big>** |
+| made | **<big>[[G4160\|εποίησε]]</big>** |
+| \[the\] hard of hearing | **<big>[[G6980\|δύσκωφον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| mute, | **<big>[[G2974\|κωφόν]]</big>** |
+| \[the\] seeing, | **<big>[[G0991\|βλέποντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| blind? | **<big>[[G5185\|τυφλόν]]</big>** |
+| \[Was it\] not | **<big>[[G3756\|ουκ]]</big>** |
+| I | **<big>[[G1473\|εγώ]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| \<obj.> | **<big>[[G3588\|ο]]</big>** |
+| God? | **<big>[[G2316\|θεός]]</big>** |
 [[Exod.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.10|<< Exodus 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.12|Exodus 4:12 >>]]</td></tr></table>
 
 

@@ -10,34 +10,34 @@ Mischief shall come upon mischief, and rumour shall be upon rumour; then shall t
 Disaster upon disaster will come, and rumor after rumor. Then they will seek a vision from a prophet, but instruction from the priests will perish, as will counsel from the elders.<small><sub>**MT:**</sub></small>
 [[Ezek.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.25|<< Ezekiel 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.27|Ezekiel 7:27 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
-| will be, | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| message | <big><span class="asgreek">αγγελία</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| message | <big><span class="asgreek">αγγελίαν</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
-| will be; | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall be sought | <big><span class="asgreek">ζητηθήσεται</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| a vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| a prophet, | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
-| shall be lost | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| counsel | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] elders; | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
-| shall mourn, | <big><span class="asgreek">πενθήσει</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
+| Woe | **<big>[[G3759\|ουαί]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| woe | **<big>[[G3759\|ουαί]]</big>** |
+| will be, | **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| message | **<big>[[G0031\|αγγελία]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| message | **<big>[[G0031\|αγγελίαν]]</big>** |
+| will be; | **<big>[[G1510\|έσται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall be sought | **<big>[[G2212\|ζητηθήσεται]]</big>** |
+| a vision | **<big>[[G3706\|όρασις]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| a prophet, | **<big>[[G4396\|προφήτου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] law | **<big>[[G3551\|νόμος]]</big>** |
+| shall be lost | **<big>[[G0622\|απολείται]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| \[the\] priest, | **<big>[[G2409\|ιερέως]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| counsel | **<big>[[G1012\|βουλή]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] elders; | **<big>[[G4245\|πρεσβυτέρων]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| king | **<big>[[G0935\|βασιλεύς]]</big>** |
+| shall mourn, | **<big>[[G3996\|πενθήσει]]</big>** |
 [[Ezek.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.25|<< Ezekiel 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.27|Ezekiel 7:27 >>]]</td></tr></table>
 
 

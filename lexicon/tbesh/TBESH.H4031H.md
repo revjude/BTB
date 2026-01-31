@@ -1,4 +1,3 @@
-<span class="ashebrew">‎מָגוֹג‎</span> <small>***(ma.gog)***</small> ==**Magog**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
 - Magog = "land of Gog"
 -   the mountainous region between Cappadocia and Media and habitation of the descendants of Magog, son of Japheth and grandson of Noah
-- Also named: <i>Magōg</i> (<span class='asgreek'>Μαγώγ</span> "Magog" [[G3098]])
+- Also named: <i>Magōg</i> (<span class='asgreek'>Μαγώγ</span> "Magog" **<big>[[G3098|Μαγώγ]]</big>**)

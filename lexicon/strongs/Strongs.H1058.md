@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎בָּכָה‎</span></big> **bâkâh** <small>*(baw-kaw')*</small> ==**to weep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎בָּכָה‎</span></big>** **bâkâh** <small>*(baw-kaw')*</small> ==**to weep**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ [idiom] at all, bewail, complain, make lamentation, [idiom] more, mourn, [idiom] sore, [idiom] with tears, weep.
@@ -15,4 +15,4 @@ $\quad$ **1b)** (Piel) participle
 $\quad$ $\quad$ **1b1)** lamenting
 $\quad$ $\quad$ **1b2)** bewailing
 
-<sub><small>See Greek: </small></sub><span class="asgreek">δακρύω</span><sup><small>[[G1145]]</small></sup> · <span class="asgreek">ἐλεέω</span><sup><small>[[G1653]]</small></sup> · <span class="asgreek">ἐπιπίπτω</span><sup><small>[[G1968]]</small></sup> · <span class="asgreek">θρηνέω</span><sup><small>[[G2354]]</small></sup> · <span class="asgreek">κλαίω</span><sup><small>[[G2799]]</small></sup> · <span class="asgreek">κλαυθμός</span><sup><small>[[G2805]]</small></sup> · <span class="asgreek">πενθέω</span><sup><small>[[G3996]]</small></sup>
+<small>See Greek: </small>**<big>[[G1145|δακρύω]]</big>** · **<big>[[G1653|ἐλεέω]]</big>** · **<big>[[G1968|ἐπιπίπτω]]</big>** · **<big>[[G2354|θρηνέω]]</big>** · **<big>[[G2799|κλαίω]]</big>** · **<big>[[G2805|κλαυθμός]]</big>** · **<big>[[G3996|πενθέω]]</big>**

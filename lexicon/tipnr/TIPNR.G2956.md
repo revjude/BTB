@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Cyrene</span>, a city in North Africa, was the hometown of Simon, who carried Jesus' cross, and several early Christians mentioned in Acts.
 - A location first mentioned at [[Matt.27.32|Mat.27.32]]; 
-- referred to as Cyrene or Cyrenian<[[G2956]]> \(<span class='tipnrLangGreek'>Κυρηναῖος</span>\), or Cyrene<[[G2957]]> \(<span class='tipnrLangGreek'>Κυρήνη</span>\).
+- referred to as Cyrene or Cyrenian **<big>[[G2956|Κυρηναῖος]]</big>**, or Cyrene **<big>[[G2957|Κυρήνη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.824979,21.858301&zoom=10&maptype=satellite"></iframe>
 
 
@@ -20,7 +20,7 @@ These references to Cyrene in the New Testament highlight the city's significanc
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Cyrene | [<span class='tipnrLangGreek'>Κυρηναῖος</span>](G2956) <small>*Greek*</small> | 5x | [[Mat.27.32] ... [Act.13.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyrene\*\|reference=Mat.27.32;Mrk.15.21;Luk.23.26;Act.11.20;Act.13.1) |
-| Cyrenian | [<span class='tipnrLangGreek'>Κυρηναῖος</span>](G2956) <small>*Greek*</small> | 1x | [Act.6.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyrenian\*\|reference=Act.6.9) |
-| Cyrene | [<span class='tipnrLangGreek'>Κυρήνη</span>](G2957) <small>*Greek*</small> | 1x | [Act.2.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyrene\*\|reference=Act.2.10) |
-All Strong's for **Cyrene**: \[[[G2956]]\] \[[[G2957]]\]
+| Cyrene | [<span class='tipnrLangGreek'>Κυρηναῖος</span>](G2956) | 5x | [[Mat.27.32] ... [Act.13.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyrene\*\|reference=Mat.27.32;Mrk.15.21;Luk.23.26;Act.11.20;Act.13.1) |
+| Cyrenian | [<span class='tipnrLangGreek'>Κυρηναῖος</span>](G2956) | 1x | [Act.6.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyrenian\*\|reference=Act.6.9) |
+| Cyrene | [<span class='tipnrLangGreek'>Κυρήνη</span>](G2957) | 1x | [Act.2.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cyrene\*\|reference=Act.2.10) |
+All entries for **Cyrene**:  **<big>[[G2956|Κυρηναῖος]]</big>** ☩  **<big>[[G2957|Κυρήνη]]</big>**

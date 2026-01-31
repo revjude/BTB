@@ -1,8 +1,8 @@
-<big><span class="asgreek">‎ἐπιούσιος‎</span></big> **epioúsios** <small>*(ep-ee-oo'-see-os)*</small> ==**daily**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
-<small>perhaps from the same as <span class="asgreek">ἐπιοῦσα</span><sup><small>[[G1966]]</small></sup></small>
+**<big><span class="asgreek">‎ἐπιούσιος‎</span></big>** **epioúsios** <small>*(ep-ee-oo'-see-os)*</small> ==**daily**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+<small>perhaps from the same as **<big>[[G1966|‎ἐπιοῦσα‎]]</big>**</small>
 
 $\quad$ daily.
 - tomorrow's
--  but more probably from <span class="asgreek">ἐπί</span><sup><small>[[G1909]]</small></sup> and a derivative of the present participle feminine of <span class="asgreek">εἰμί</span><sup><small>[[G1510]]</small></sup>
+-  but more probably from **<big>[[G1909|‎ἐπί‎]]</big>** and a derivative of the present participle feminine of **<big>[[G1510|‎εἰμί‎]]</big>**
 -  for subsistence, i.e. needful
 

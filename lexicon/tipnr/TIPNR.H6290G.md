@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Paran</span> was a desert region in the Sinai Peninsula, associated with the Israelites' wanderings and the early life of Ishmael.
 - A location first mentioned at [[Gen.21.21|Gen.21.21]]; 
-- only referred to as Paran<[[H6290G]]> \(<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Paran **<big>[[H6290|פָּארָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.151667,33.541944&zoom=10&maptype=satellite"></iframe>
 
 
@@ -14,5 +14,5 @@ The exact boundaries of the wilderness of Paran are not clearly defined in the B
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Paran | [<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6290G) <small>*Hebrew*</small> | 9x | [[Gen.21.21] ... [1Ki.11.18b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Paran\*\|reference=Gen.21.21;Num.10.12;Num.12.16;Num.13.3;Num.13.26;Deu.1.1;1Sa.25.1;1Ki.11.18;1Ki.11.18) |
-All Strong's for **Paran**: \[[[H6290G]]\]
+| Paran | [<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>אר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H6290G) | 9x | [[Gen.21.21] ... [1Ki.11.18b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Paran\*\|reference=Gen.21.21;Num.10.12;Num.12.16;Num.13.3;Num.13.26;Deu.1.1;1Sa.25.1;1Ki.11.18;1Ki.11.18) |
+All entries for **Paran**:  **<big>[[H6290|פָּארָן]]</big>**

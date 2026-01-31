@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎צַלְמוֹן‎</span></big> **Tsalmôwn** <small>*(tsal-mone')*</small> ==**(Mount) Zalmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎צֶלֶם‎</span><sup><small>[[H6754]]</small></sup>; shady</small>
+**<big><span class="ashebrew">‎צַלְמוֹן‎</span></big>** **Tsalmôwn** <small>*(tsal-mone')*</small> ==**(Mount) Zalmon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6754|‎צֶלֶם‎]]</big>**; shady</small>
 
 $\quad$ Zalmon.
 - § Zalmon = *"shady"*

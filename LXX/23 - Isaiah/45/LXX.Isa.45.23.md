@@ -11,31 +11,31 @@ By Myself I have sworn; truth has gone out from My mouth, a word that will not b
 > $\quad$ referenced by: [[Rom.14.11|Rom 14:11]] ☩ [[Phil.2.10|Phil 2:10]] ☩ [[Phil.2.11|Phil 2:11]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| According to | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| myself | <big><span class="asgreek">εμαυτού</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
-| I swear by an oath, | <big><span class="asgreek">ομνύω</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| that | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
-| shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my mouth | <big><span class="asgreek">στόματός</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my words | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| shall not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| perverted. | <big><span class="asgreek">αποστραφήσονται</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| shall bend to me | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κάμψει</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| knee | <big><span class="asgreek">γόνυ</span></big> <sup><small><small>[[G1119]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| shall swear by an oath | <big><span class="asgreek">ομείται</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
-| by | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| According to | **<big>[[G2596\|κατ΄]]</big>** |
+| myself | **<big>[[G1683\|εμαυτού]]</big>** |
+| I swear by an oath, | **<big>[[G3660\|ομνύω]]</big>** |
+| that | **<big>[[G1508\|ει μη]]</big>** |
+| shall come forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
+| from out of | **<big>[[G1537\|εκ]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my mouth | **<big>[[G4750\|στόματός]]</big>** **<big>[[G1473\|μου]]</big>** |
+| righteousness | **<big>[[G1343\|δικαιοσύνη]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my words | **<big>[[G3056\|λόγοι]]</big>** **<big>[[G1473\|μου]]</big>** |
+| shall not be | **<big>[[G3756\|ουκ]]</big>** |
+| perverted. | **<big>[[G0654\|αποστραφήσονται]]</big>** |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| shall bend to me | **<big>[[G1473\|εμοί]]</big>** **<big>[[G2578\|κάμψει]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| knee | **<big>[[G1119\|γόνυ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| shall swear by an oath | **<big>[[G3660\|ομείται]]</big>** |
+| every | **<big>[[G3956\|πάσα]]</big>** |
+| tongue | **<big>[[G1100\|γλώσσα]]</big>** |
+| by | **<big>[[G3588\|τον]]</big>** |
+| God, | **<big>[[G2316\|θεόν]]</big>** |
 [[Isa.45.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.22|<< Isaiah 45:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.24|Isaiah 45:24 >>]]</td></tr></table>
 
 

@@ -7,20 +7,20 @@ The families of the sons of Kohath shall pitch on the side of the tabernacle sou
 The clans of the Kohathites were to camp on the south side of the tabernacle,<small><sub>**MT:**</sub></small>
 [[Num.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.28|<< Numbers 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.30|Numbers 3:30 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| peoples | <big><span class="asgreek">δήμοι</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| of Kohath | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
-| shall camp | <big><span class="asgreek">παρεμβαλούσιν</span></big> <sup><small><small>[[G6070]]</small></small></sup> |
-| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| \[the\] side | <big><span class="asgreek">πλαγίων</span></big> <sup><small><small>[[G8800]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
-| towards | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| \[the\] south. | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| The | **<big>[[G3588\|οι]]</big>** |
+| peoples | **<big>[[G1218\|δήμοι]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| sons | **<big>[[G5207\|υιών]]</big>** |
+| of Kohath | **<big>[[H6955\|Καάθ]]</big>** |
+| shall camp | **<big>[[G6070\|παρεμβαλούσιν]]</big>** |
+| by | **<big>[[G1537\|εκ]]</big>** |
+| \[the\] side | **<big>[[G8800\|πλαγίων]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| tent | **<big>[[G4633\|σκηνής]]</big>** |
+| towards | **<big>[[G2596\|κατά]]</big>** |
+| \[the\] south. | **<big>[[G3047\|λίβα]]</big>** |
 [[Num.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.28|<< Numbers 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.30|Numbers 3:30 >>]]</td></tr></table>
 
 

@@ -11,34 +11,34 @@ Awake, O sword, against My Shepherd, against the man who is My Companion, declar
 > $\quad$ referenced by: [[Matt.26.31|Matt 26:31]] ☩ [[Mark.14.27|Mark 14:27]]
 
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| O broadsword, | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| awaken | <big><span class="asgreek">εξεγέρθητι</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
-| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my shepherds, | <big><span class="asgreek">ποιμένας</span></big> <sup><small><small>[[G4166]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| a man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| my fellow-countryman! | <big><span class="asgreek">πολίτην</span></big> <sup><small><small>[[G4177]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| almighty. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
-| Strike | <big><span class="asgreek">πάταξον</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherd! | <big><span class="asgreek">ποιμένα</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were dispersed | <big><span class="asgreek">διασκορπισθήτωσαν</span></big> <sup><small><small>[[G1287]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shepherds. | <big><span class="asgreek">ποιμένας</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
+| O broadsword, | **<big>[[G4501\|ρομφαία]]</big>** |
+| awaken | **<big>[[G1825\|εξεγέρθητι]]</big>** |
+| against | **<big>[[G1909\|επί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my shepherds, | **<big>[[G4166\|ποιμένας]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| against | **<big>[[G1909\|επ΄]]</big>** |
+| a man, | **<big>[[G0435\|άνδρα]]</big>** |
+| my fellow-countryman! | **<big>[[G4177\|πολίτην]]</big>** **<big>[[G1473\|μου]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριος]]</big>** |
+| almighty. | **<big>[[G3841\|παντοκράτωρ]]</big>** |
+| Strike | **<big>[[G3960\|πάταξον]]</big>** |
+| the | **<big>[[G3588\|τον]]</big>** |
+| shepherd! | **<big>[[G4166\|ποιμένα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were dispersed | **<big>[[G1287\|διασκορπισθήτωσαν]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατα]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will bring | **<big>[[G1863\|επάξω]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| my hand | **<big>[[G5495\|χείρά]]</big>** **<big>[[G1473\|μου]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| shepherds. | **<big>[[G4166\|ποιμένας]]</big>** |
 [[Zech.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.6|<< Zechariah 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.8|Zechariah 13:8 >>]]</td></tr></table>
 
 

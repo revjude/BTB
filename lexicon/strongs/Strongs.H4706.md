@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מִצְעָר‎</span></big> **Mitsʻâr** <small>*(mits-awr')*</small> ==**(Mount) Mizar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מִצְעָר‎</span><sup><small>[[H4705]]</small></sup></small>
+**<big><span class="ashebrew">‎מִצְעָר‎</span></big>** **Mitsʻâr** <small>*(mits-awr')*</small> ==**(Mount) Mizar**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H4705|‎מִצְעָר‎]]</big>**</small>
 
 $\quad$ Mizar.
 - § Mizar = *"small"*

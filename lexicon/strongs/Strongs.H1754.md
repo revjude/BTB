@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דּוּר‎</span></big> **dûwr** <small>*(dure)*</small> ==**circle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-<small>from <span class="ashebrew">‎דּוּר‎</span><sup><small>[[H1752]]</small></sup></small>
+**<big><span class="ashebrew">‎דּוּר‎</span></big>** **dûwr** <small>*(dure)*</small> ==**circle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from **<big>[[H1752|‎דּוּר‎]]</big>**</small>
 
 $\quad$ ball, turn, round about.
 - ***a circle***, ***ball*** or ***pile***

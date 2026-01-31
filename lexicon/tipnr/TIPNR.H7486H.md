@@ -1,8 +1,8 @@
 <small>*Raamses • A store city built by the Israelites in Egypt*</small>
 
 <span class='tipnrhighlight'>Raamses</span> was one of the store cities built by the Israelites during their enslavement in Egypt, along with Pithom.
-- A location near Pithom<[[H6619]]> only mentioned at [[Exod.1.11|Exo.1.11]]; 
-- only referred to as Raamses<[[H7486H]]> \(<span class='tipnrLangHebrew'>ר</span>ַֽ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ס</span>ֵ<span class='tipnrLangHebrew'>ס</span>\).
+- A location near Pithom **<big>[[H6619|פִּתֹם]]</big>** only mentioned at [[Exod.1.11|Exo.1.11]]; 
+- only referred to as Raamses **<big>[[H7486|רַעְמְסֵס]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.59385132817632,32.18555803140015&zoom=10&maptype=satellite"></iframe>
 
 
@@ -10,5 +10,5 @@ Raamses, also known as Rameses, was one of the store cities built by the Israeli
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Raamses | [<span class='tipnrLangHebrew'>ר</span>ַֽ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ס</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H7486H) <small>*Hebrew*</small> | 1x | [Exo.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Raamses\*\|reference=Exo.1.11) |
-All Strong's for **Raamses**: \[[[H7486H]]\]
+| Raamses | [<span class='tipnrLangHebrew'>ר</span>ַֽ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ס</span>ֵ<span class='tipnrLangHebrew'>ס</span>](H7486H) | 1x | [Exo.1.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Raamses\*\|reference=Exo.1.11) |
+All entries for **Raamses**:  **<big>[[H7486|רַעְמְסֵס]]</big>**

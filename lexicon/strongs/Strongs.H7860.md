@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שֹׁטֵר‎</span></big> **shôṭêr** <small>*(sho-tare')*</small> ==**official**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+**<big><span class="ashebrew">‎שֹׁטֵר‎</span></big>** **shôṭêr** <small>*(sho-tare')*</small> ==**official**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
 <small>active participle of an otherwise unused root probably meaning to write</small>
 
 $\quad$ officer, overseer, ruler.
@@ -6,4 +6,4 @@ $\quad$ officer, overseer, ruler.
 
 **1)** (Qal) official, officer
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀναγκάζω</span><sup><small>[[G0315]]</small></sup> · <span class="asgreek">γραμματεύς</span><sup><small>[[G1122]]</small></sup> · <span class="asgreek">κριτής</span><sup><small>[[G2923]]</small></sup>
+<small>See Greek: </small>**<big>[[G0315|ἀναγκάζω]]</big>** · **<big>[[G1122|γραμματεύς]]</big>** · **<big>[[G2923|κριτής]]</big>**

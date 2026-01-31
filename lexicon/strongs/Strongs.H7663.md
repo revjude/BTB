@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שָׂבַר‎</span></big> **sâbar** <small>*(saw-bar')*</small> ==**to inspect**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>erroneously <span class="ashebrew">שָׁבַר</span> **shâbar** <small>*(shaw-bar')*</small>; (Nehemiah 2:13,15), a primitive root</small>
+**<big><span class="ashebrew">‎שָׂבַר‎</span></big>** **sâbar** <small>*(saw-bar')*</small> ==**to inspect**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>erroneously **<big><span class="ashebrew">שָׁבַר</span></big>** **shâbar** <small>*(shaw-bar')*</small>; (Nehemiah 2:13,15), a primitive root</small>
 
 $\quad$ hope, tarry, view, wait.
 - ***to scrutinize***

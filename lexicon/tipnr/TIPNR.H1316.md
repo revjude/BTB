@@ -2,7 +2,7 @@
 
 <span class='tipnrhighlight'>Bashan</span> was a region east of the Jordan River, known for its fertility and allotted to the half-tribe of Manasseh. \(Multiple references, see article for details\)
 - A location first mentioned at Num.21.33; 
-- only referred to as Bashan<[[H1316]]> \(<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>\).
+- only referred to as Bashan **<big>[[H1316|בָּשָׁן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=32.80007552505443,35.93730130476259&zoom=10&maptype=satellite"></iframe>
 
 
@@ -16,5 +16,5 @@ Several Old Testament passages use Bashan as a symbol of God's power and judgmen
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Bashan | [<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H1316) <small>*Hebrew*</small> | 60x | [[Num.21.33a] ... [Zec.11.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bashan\*\|reference=Num.21.33;Num.21.33;Num.32.33;Deu.1.4;Deu.3.1;Deu.3.1;Deu.3.3;Deu.3.4;Deu.3.10;Deu.3.10;Deu.3.11;Deu.3.13;Deu.3.13;Deu.3.14;Deu.4.43;Deu.4.47;Deu.29.7;Deu.32.14;Deu.33.22;Jos.9.10;Jos.12.4;Jos.12.5;Jos.13.11;Jos.13.12;Jos.13.30;Jos.13.30;Jos.13.30;Jos.13.31;Jos.17.1;Jos.17.5;Jos.20.8;Jos.21.6;Jos.21.27;Jos.22.7;1Ki.4.13;1Ki.4.19;2Ki.10.33;1Ch.5.11;1Ch.5.12;1Ch.5.16) |
-All Strong's for **Bashan**: \[[[H1316]]\]
+| Bashan | [<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H1316) | 60x | [[Num.21.33a] ... [Zec.11.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bashan\*\|reference=Num.21.33;Num.21.33;Num.32.33;Deu.1.4;Deu.3.1;Deu.3.1;Deu.3.3;Deu.3.4;Deu.3.10;Deu.3.10;Deu.3.11;Deu.3.13;Deu.3.13;Deu.3.14;Deu.4.43;Deu.4.47;Deu.29.7;Deu.32.14;Deu.33.22;Jos.9.10;Jos.12.4;Jos.12.5;Jos.13.11;Jos.13.12;Jos.13.30;Jos.13.30;Jos.13.30;Jos.13.31;Jos.17.1;Jos.17.5;Jos.20.8;Jos.21.6;Jos.21.27;Jos.22.7;1Ki.4.13;1Ki.4.19;2Ki.10.33;1Ch.5.11;1Ch.5.12;1Ch.5.16) |
+All entries for **Bashan**:  **<big>[[H1316|בָּשָׁן]]</big>**

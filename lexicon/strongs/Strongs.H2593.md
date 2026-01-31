@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎חָנִיךְ‎</span></big> **chânîyk** <small>*(kaw-neek')*</small> ==**trained**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎חָנַךְ‎</span><sup><small>[[H2596]]</small></sup></small>
+**<big><span class="ashebrew">‎חָנִיךְ‎</span></big>** **chânîyk** <small>*(kaw-neek')*</small> ==**trained**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H2596|‎חָנַךְ‎]]</big>**</small>
 
 $\quad$ trained.
 - ***initiated***
@@ -7,4 +7,4 @@ $\quad$ trained.
 
 **1)** trained, instructed, trained servant, tried, experienced
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἴδιος</span><sup><small>[[G2398]]</small></sup>
+<small>See Greek: </small>**<big>[[G2398|ἴδιος]]</big>**

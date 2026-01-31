@@ -6,16 +6,16 @@ if I have beheld the sun in its radiance or the moon moving in splendor,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.25|<< Job 31:25]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.27|Job 31:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if  | <span class="ashebrew"><big>אִם </big></span><small><small><sup>[[H0518A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'im- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I saw  | <span class="ashebrew"><big>אֶרְאֶ֣ה </big></span><small><small><sup>[[H7200G]]</sup></small></small> &#8207;| 'er.'Eh <small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a light  | <span class="ashebrew"><big>א֖וֹר </big></span><small><small><sup>[[H0216]]</sup></small></small> &#8207;| 'or <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּ֣י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it shone  | <span class="ashebrew"><big>יָהֵ֑ל </big></span><small><small><sup>[[H1984A]]</sup></small></small> &#8207;| ya.Hel <small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] moon  | <span class="ashebrew"><big>וְ֝ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָרֵ֗חַ </big></span><small><small><sup>[[H3394]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Re.ach <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| splendid  | <span class="ashebrew"><big>יָקָ֥ר </big></span><small><small><sup>[[H3368]]</sup></small></small> &#8207;| ya.Kar <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] going  | <span class="ashebrew"><big>הֹלֵֽךְ </big></span><small><small><sup>[[H1980I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ho.Lekh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I saw  |**<big>&#8207;[[H7200G\|אֶרְאֶ֣ה]]&#8207; </big>**| 'er.'Eh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a light  |**<big>&#8207;[[H0216\|א֖וֹר]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it shone  |**<big>&#8207;[[H1984A\|יָהֵ֑ל]]&#8207; </big>**| ya.Hel<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] moon  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H3394\|יָרֵ֗חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| splendid  |**<big>&#8207;[[H3368\|יָקָ֥ר]]&#8207; </big>**| ya.Kar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] going  |**<big>&#8207;[[H1980I\|הֹלֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.25|<< Job 31:25]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.27|Job 31:27 >>]]</td></tr></table>
 
 

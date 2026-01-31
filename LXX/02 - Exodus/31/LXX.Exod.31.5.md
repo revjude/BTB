@@ -7,28 +7,28 @@ And in cutting of stones, to set [them], and in carving of timber, to work in al
 to cut gemstones for settings, and to carve wood, so that he may be a master of every craft.<small><sub>**MT:**</sub></small>
 [[Exod.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.4|<< Exodus 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.6|Exodus 31:6 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| linen | <big><span class="asgreek">βύσσον</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being twined, | <big><span class="asgreek">κεκλωσμένην</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| stonecutting | <big><span class="asgreek">λιθουργικά</span></big> <sup><small><small>[[G8193]]</small></small></sup> |
-| works, | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| woodworkers | <big><span class="asgreek">τεκτονικά</span></big> <sup><small><small>[[G9413]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| \[works of\] wood -- | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| to work | <big><span class="asgreek">εργάζεσθαι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
-| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| works. | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| linen | **<big>[[G1040\|βύσσον]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| being twined, | **<big>[[G8029\|κεκλωσμένην]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| stonecutting | **<big>[[G8193\|λιθουργικά]]</big>** |
+| works, | **<big>[[G2041\|έργα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| woodworkers | **<big>[[G9413\|τεκτονικά]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| \[works of\] wood -- | **<big>[[G3586\|ξύλων]]</big>** |
+| to work | **<big>[[G2038\|εργάζεσθαι]]</big>** |
+| according to | **<big>[[G2596\|κατά]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| works. | **<big>[[G2041\|έργα]]</big>** |
 [[Exod.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.4|<< Exodus 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.6|Exodus 31:6 >>]]</td></tr></table>
 
 

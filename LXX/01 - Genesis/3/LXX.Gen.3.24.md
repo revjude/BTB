@@ -7,37 +7,37 @@ So he drove out the man; and he placed at the east of the garden of Eden Cherubi
 So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.<small><sub>**MT:**</sub></small>
 [[Gen.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.23|<< Genesis 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.1|Genesis 4:1 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he cast out | <big><span class="asgreek">εξέβαλε</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Adam, | <big><span class="asgreek">Αδάμ</span></big> <sup><small><small>[[G0076]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| settled | <big><span class="asgreek">κατώκισεν</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
-| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
-| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| paradise | <big><span class="asgreek">παραδείσου</span></big> <sup><small><small>[[G3857]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| delicacy, | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| ordered | <big><span class="asgreek">έταξε</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
-| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| cherubim, | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| flaming | <big><span class="asgreek">φλογίνην</span></big> <sup><small><small>[[G9648]]</small></small></sup> |
-| broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| turning | <big><span class="asgreek">στρεφομένην</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
-| to guard | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| tree | <big><span class="asgreek">ξύλου</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of life. | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| he cast out | **<big>[[G1544\|εξέβαλε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| Adam, | **<big>[[G0076\|Αδάμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| settled | **<big>[[G6052\|κατώκισεν]]</big>** |
+| him | **<big>[[G1473\|αυτόν]]</big>** |
+| before | **<big>[[G0561\|απέναντι]]</big>** |
+| the | **<big>[[G3588\|του]]</big>** |
+| paradise | **<big>[[G3857\|παραδείσου]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| delicacy, | **<big>[[G5172\|τρυφής]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| ordered | **<big>[[G5021\|έταξε]]</big>** |
+| the | **<big>[[G3588\|τα]]</big>** |
+| cherubim, | **<big>[[G5502\|χερουβίμ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| flaming | **<big>[[G9648\|φλογίνην]]</big>** |
+| broadsword | **<big>[[G4501\|ρομφαίαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| turning | **<big>[[G4762\|στρεφομένην]]</big>** |
+| to guard | **<big>[[G5442\|φυλάσσειν]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| way | **<big>[[G3598\|οδόν]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| tree | **<big>[[G3586\|ξύλου]]</big>** |
+| \<obj.> | **<big>[[G3588\|της]]</big>** |
+| of life. | **<big>[[G2222\|ζωής]]</big>** |
 [[Gen.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.23|<< Genesis 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.1|Genesis 4:1 >>]]</td></tr></table>
 
 

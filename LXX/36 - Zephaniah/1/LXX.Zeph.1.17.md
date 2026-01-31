@@ -7,31 +7,31 @@ And I will bring distress upon men, that they shall walk like blind men, because
 I will bring such distress on mankind that they will walk like the blind, because they have sinned against the LORD. Their blood will be poured out like dust and their flesh like dung.<small><sub>**MT:**</sub></small>
 [[Zeph.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.16|<< Zephaniah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.18|Zephaniah 1:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| I will squeeze out | <big><span class="asgreek">εκθλίψω</span></big> <sup><small><small>[[G7095]]</small></small></sup> |
-| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men, | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| they shall go | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| blind men, | <big><span class="asgreek">τυφλοί</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| against the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| they led into sin, | <big><span class="asgreek">εξήμαρτον</span></big> <sup><small><small>[[G7292]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he shall pour out | <big><span class="asgreek">εκχεεί</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dust, | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| their flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| dung. | <big><span class="asgreek">βόλβιτα</span></big> <sup><small><small>[[G6681]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| I will squeeze out | **<big>[[G7095\|εκθλίψω]]</big>** |
+| the | **<big>[[G3588\|τους]]</big>** |
+| men, | **<big>[[G0444\|ανθρώπους]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| they shall go | **<big>[[G4198\|πορεύσονται]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| blind men, | **<big>[[G5185\|τυφλοί]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| against the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίω]]</big>** |
+| they led into sin, | **<big>[[G7292\|εξήμαρτον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he shall pour out | **<big>[[G1632\|εκχεεί]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| their blood | **<big>[[G0129\|αίμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dust, | **<big>[[G5522\|χουν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|τας]]</big>** |
+| their flesh | **<big>[[G4561\|σάρκας]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| dung. | **<big>[[G6681\|βόλβιτα]]</big>** |
 [[Zeph.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.16|<< Zephaniah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.18|Zephaniah 1:18 >>]]</td></tr></table>
 
 

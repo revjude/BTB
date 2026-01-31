@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎נְתַנְאֵל‎</span></big> **Nᵉthanʼêl** <small>*(neth-an-ale')*</small> ==**Nethanel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎נָתַן‎</span><sup><small>[[H5414]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; given of God</small>
+**<big><span class="ashebrew">‎נְתַנְאֵל‎</span></big>** **Nᵉthanʼêl** <small>*(neth-an-ale')*</small> ==**Nethanel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5414|‎נָתַן‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; given of God</small>
 
 $\quad$ Nethaneel.
 - § Nethaneel = *"given of God"*
@@ -17,4 +17,4 @@ $\quad$ Nethaneel.
 **10)** a Levite of the sons of Asaph who played a musical instrument at the dedication of the wall of Jerusalem
 $\quad$ **10a)** perhaps the same as 5
 
-<sub><small>See Greek: </small></sub><span class="asgreek">Ναθαναήλ</span><sup><small>[[G3482]]</small></sup>
+<small>See Greek: </small>**<big>[[G3482|Ναθαναήλ]]</big>**

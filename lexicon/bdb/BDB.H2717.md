@@ -1,4 +1,4 @@
-<small>Aramaic form: [[H2718]]</small>
+<small>Aramaic form: **<big>[[H2718|חֲרַב]]</big>**</small>
  I. [<span class="bdbLangHebrew">‎חָרֵב‎</span>] **verb** ==be dry, dried up== (compare <span class="bdbLangHebrew">‎יָבֵשׁ‎</span>) (Aramaic <span class="bdbLangAramaic">‎חֲרוֺב‎</span> ***be dry***, <span class="bdbLangHebrew">‎חוּרְבָּא‎</span> ***drought***); — 
 
 **Qal** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎חָֽרְבוּ‎</span> [[Gen.8.13|Gen 8:13]] (twice in verse), [[Isa.19.6|Isa 19:6]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יֶחֱרַב‎</span> [[Hos.13.15|Hos 13:15]] + 2 t., <span class="bdbLangHebrew">‎וַיֶּחֱרָ֑ב‎</span> [[Ps.106.9|Ps 106:9]] ***Imperative*** feminine singular <span class="bdbLangHebrew">‎חֳרָ֑בִי‎</span> [[Isa.44.27|Isa 44:27]] — ***be dry, dried up:*** 

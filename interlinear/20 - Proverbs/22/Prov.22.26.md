@@ -6,14 +6,14 @@ Do not be one who gives pledges, who puts up security for debts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.25|<< Proverbs 22:25]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.27|Proverbs 22:27 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| may not  | <span class="ashebrew"><big>אַל </big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al- <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be  | <span class="ashebrew"><big>תְּהִ֥י </big></span><small><small><sup>[[H1961]]</sup></small></small> &#8207;| te.Hi <small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among [those who] strike  | <span class="ashebrew"><big>בְ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>תֹֽקְעֵי </big></span><small><small><sup>[[H8628]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ve. <small><sup>[[HR]]</sup></small> to.ke.'ei- <small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> a palm  | <span class="ashebrew"><big>כָ֑ף </big></span><small><small><sup>[[H3709G]]</sup></small></small> &#8207;| Khaf <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| among \<the> [those who] stand surety for  | <span class="ashebrew"><big>בַּ֝ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֹרְבִ֗ים </big></span><small><small><sup>[[H6148]]</sup></small></small> &#8207;| ba. <small><sup>[[HRd]]</sup></small> 'o.re.Vim <small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| debts  | <span class="ashebrew"><big>מַשָּׁאֽוֹת </big></span><small><small><sup>[[H4859]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ma.sha.'ot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be  |**<big>&#8207;[[H1961\|תְּהִ֥י]]&#8207; </big>**| te.Hi<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among [those who] strike  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8628\|תֹֽקְעֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> to.ke.'ei-<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> a palm  |**<big>&#8207;[[H3709G\|כָ֑ף]]&#8207; </big>**| Khaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among \<the> [those who] stand surety for  |**<big>&#8207;[[H9003\|בַּ֝]]&#8207;&#8207;[[H6148\|עֹרְבִ֗ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'o.re.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| debts  |**<big>&#8207;[[H4859\|מַשָּׁאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.sha.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.25|<< Proverbs 22:25]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.27|Proverbs 22:27 >>]]</td></tr></table>
 
 

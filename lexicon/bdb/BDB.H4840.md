@@ -1,4 +1,4 @@
-<small>Also see: [[H4026]]</small>
+<small>Also see: **<big>[[H4026|מִגְדָּל]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎מֶרְקָח‎</span>] **noun [masculine]** ==spice, perfume== (of cheeks); plural <span class="bdbLangHebrew">‎מֶרְקָחִים‎</span> [[Song.5.13|Song 5:13]] (see also <span class="bdbLangHebrew">‎מִגְדָּל‎</span> **3**). 
 

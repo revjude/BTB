@@ -9,31 +9,31 @@ I called for my lovers, [but] they deceived me: my priests and mine elders gave 
 I called out to my lovers, but they have betrayed me. My priests and elders perished in the city while they searched for food to keep themselves alive.<small><sub>**MT:**</sub></small>
 [[Lam.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.18|<< Lamentations 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.20|Lamentations 1:20 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| ΚΩΦ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΚΩΦ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
-| I called | <big><span class="asgreek">εκάλεσα</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my lovers, | <big><span class="asgreek">εραστάς</span></big> <sup><small><small>[[G7492]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| but they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
-| misled | <big><span class="asgreek">παρελογίσαντό</span></big> <sup><small><small>[[G3884]]</small></small></sup> |
-| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| My priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my elders | <big><span class="asgreek">πρεσβύτεροί</span></big> <sup><small><small>[[G4245]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
-| failed | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
-| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| they sought | <big><span class="asgreek">εζήτησαν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
-| food | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| for themselves, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| they should restore | <big><span class="asgreek">επιστρέψωσι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
-| their lives. | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ΚΩΦ <sup><small>[acrostic title]</small></sup> |  |
+| I called | **<big>[[G2564\|εκάλεσα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τους]]</big>** |
+| my lovers, | **<big>[[G7492\|εραστάς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| but they | **<big>[[G1473\|αυτοί]]</big>** **<big>[[G1161\|δε]]</big>** |
+| misled | **<big>[[G3884\|παρελογίσαντό]]</big>** |
+| me. | **<big>[[G1473\|με]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| My priests | **<big>[[G2409\|ιερείς]]</big>** **<big>[[G1473\|μου]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \<obj.> | **<big>[[G3588\|οι]]</big>** |
+| my elders | **<big>[[G4245\|πρεσβύτεροί]]</big>** **<big>[[G1473\|μου]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τη]]</big>** |
+| city | **<big>[[G4172\|πόλει]]</big>** |
+| failed | **<big>[[G1587\|εξέλιπον]]</big>** |
+| for | **<big>[[G3754\|ότι]]</big>** |
+| they sought | **<big>[[G2212\|εζήτησαν]]</big>** |
+| food | **<big>[[G1035\|βρώσιν]]</big>** |
+| for themselves, | **<big>[[G1473\|αυτοίς]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| they should restore | **<big>[[G1994\|επιστρέψωσι]]</big>** |
+| their lives. | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 [[Lam.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.18|<< Lamentations 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.20|Lamentations 1:20 >>]]</td></tr></table>
 
 

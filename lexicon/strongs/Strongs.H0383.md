@@ -1,5 +1,5 @@
-<big><span class="asaramaic">‎אִיתַי‎</span></big> **ʼîythay** <small>*(ee-thah'ee)*</small> ==**there is**==  <sup><small>[[TEHMC#A:Part|A:Part]]</small></sup> 
-<small>(Aramaic) corresponding to <span class="ashebrew">‎יֵשׁ‎</span><sup><small>[[H3426]]</small></sup></small>
+**<big><span class="asaramaic">‎אִיתַי‎</span></big>** **ʼîythay** <small>*(ee-thah'ee)*</small> ==**there is**==  <sup><small>[[TEHMC#A:Part|A:Part]]</small></sup> 
+<small>(Aramaic) corresponding to **<big>[[H3426|‎יֵשׁ‎]]</big>**</small>
 
 $\quad$ art thou, can, do ye, have, it be, there is (are), [idiom] we will not.
 - properly, ***entity***
@@ -8,4 +8,4 @@ $\quad$ art thou, can, do ye, have, it be, there is (are), [idiom] we will not.
 **1)** there is, there are
 **2)** particle denoting existence
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">ἔχω</span><sup><small>[[G2192]]</small></sup>
+<small>See Greek: </small>**<big>[[G1096|γίνομαι]]</big>** · **<big>[[G2192|ἔχω]]</big>**

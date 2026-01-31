@@ -7,29 +7,29 @@ For [there were] many in the congregation that were not sanctified: therefore th
 Since there were many in the assembly who had not consecrated themselves, the Levites were in charge of slaughtering the Passover lambs for every unclean person to consecrate the lambs to the LORD.<small><sub>**MT:**</sub></small>
 [[2Chr.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.16|<< 2 Chronicles 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.18|2 Chronicles 30:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| a multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| assembly | <big><span class="asgreek">εκκλησίας</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
-| was not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| purified. | <big><span class="asgreek">ηγνίσθη</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
-| were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| to sacrifice | <big><span class="asgreek">θύειν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| passover | <big><span class="asgreek">φασέκ</span></big> <sup><small><small>[[G9622]]</small></small></sup> |
-| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
-| able | <big><span class="asgreek">δυναμένω</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
-| to be purified | <big><span class="asgreek">αγνισθήναι</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
-| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| a multitude | **<big>[[G4128\|πλήθος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| assembly | **<big>[[G1577\|εκκλησίας]]</big>** |
+| was not | **<big>[[G3756\|ουχ]]</big>** |
+| purified. | **<big>[[G0048\|ηγνίσθη]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| Levites | **<big>[[G3017\|Λευίται]]</big>** |
+| were | **<big>[[G1510\|ήσαν]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| to sacrifice | **<big>[[G2380\|θύειν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| passover | **<big>[[G9622\|φασέκ]]</big>** |
+| to all | **<big>[[G3956\|παντί]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| not | **<big>[[G3361\|μη]]</big>** |
+| able | **<big>[[G1410\|δυναμένω]]</big>** |
+| to be purified | **<big>[[G0048\|αγνισθήναι]]</big>** |
+| to the | **<big>[[G3588\|τω]]</big>** |
+| <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
 [[2Chr.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.16|<< 2 Chronicles 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.18|2 Chronicles 30:18 >>]]</td></tr></table>
 
 

@@ -7,33 +7,33 @@ And as David came to Ornan, Ornan looked and saw David, and went out of the thre
 David came to Ornan, and when Ornan looked out and saw David, he left the threshing floor and bowed facedown before David.<small><sub>**MT:**</sub></small>
 [[1Chr.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.20|<< 1 Chronicles 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.22|1 Chronicles 21:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| David came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
-| Ornan, | <big><span class="asgreek">Ορνάν</span></big> <sup><small><small>[[H0771]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ornan | <big><span class="asgreek">Ορνάν</span></big> <sup><small><small>[[H0771]]</small></small></sup> |
-| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
-| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| threshing-floor. | <big><span class="asgreek">άλω</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| Ornan looked up, | <big><span class="asgreek">επίβλεψεν</span></big> <sup><small><small>[[G1914]]</small></small></sup> <big><span class="asgreek">Ορναν</span></big> <sup><small><small>[[H0771]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he saw | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he did obeisance to | <big><span class="asgreek">προσεκύνησε</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
-| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| David came | **<big>[[G2064\|ήλθε]]</big>** **<big>[[G4622\|Δαυίδ]]</big>** |
+| to | **<big>[[G4314\|προς]]</big>** |
+| Ornan, | **<big>[[H0771\|Ορνάν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| Ornan | **<big>[[H0771\|Ορνάν]]</big>** |
+| came forth | **<big>[[G1831\|εξήλθεν]]</big>** |
+| from | **<big>[[G1537\|εκ]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| threshing-floor. | **<big>[[G0257\|άλω]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| Ornan looked up, | **<big>[[G1914\|επίβλεψεν]]</big>** **<big>[[H0771\|Ορναν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he saw | **<big>[[G1492\|είδε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τον]]</big>** |
+| David, | **<big>[[G4622\|Δαυίδ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he did obeisance to | **<big>[[G4352\|προσεκύνησε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| David | **<big>[[G4622\|Δαυίδ]]</big>** |
+| with | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| ground. | **<big>[[G1093\|γην]]</big>** |
 [[1Chr.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.20|<< 1 Chronicles 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.22|1 Chronicles 21:22 >>]]</td></tr></table>
 
 

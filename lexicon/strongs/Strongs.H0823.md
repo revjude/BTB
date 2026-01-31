@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎אַשְׁנָה‎</span></big> **ʼAshnâh** <small>*(ash-naw')*</small> ==**Ashnah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>probably a variation for <span class="ashebrew">‎יְשָׁנָה‎</span><sup><small>[[H3466]]</small></sup></small>
+**<big><span class="ashebrew">‎אַשְׁנָה‎</span></big>** **ʼAshnâh** <small>*(ash-naw')*</small> ==**Ashnah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>probably a variation for **<big>[[H3466|‎יְשָׁנָה‎]]</big>**</small>
 
 $\quad$ Ashnah.
 - § Ashnah = *"I will cause change"*

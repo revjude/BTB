@@ -7,38 +7,38 @@ Each charger of silver [weighing] an hundred and thirty [shekels], each bowl sev
 Each silver platter weighed a hundred and thirty shekels, and each silver bowl seventy shekels. The total weight of the silver articles was two thousand four hundred shekels, according to the sanctuary shekel.<small><sub>**MT:**</sub></small>
 [[Num.7.85|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.84|<< Numbers 7:84]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.86|Numbers 7:86 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| to the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| saucer | <big><span class="asgreek">τρυβλίον</span></big> <sup><small><small>[[G5165]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| seventy | <big><span class="asgreek">εβδομήκοντα</span></big> <sup><small><small>[[G1440]]</small></small></sup> |
-| shekels | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| to the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| bowl | <big><span class="asgreek">φιάλη</span></big> <sup><small><small>[[G5357]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
-| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| items -- | <big><span class="asgreek">σκευών</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
-| two thousand | <big><span class="asgreek">δισχίλιοι</span></big> <sup><small><small>[[G1367]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| four hundred | <big><span class="asgreek">τετρακόσιοι</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
-| shekels, | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| \[the\] shekels | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| according to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| shekel | <big><span class="asgreek">σίκλω</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| holy | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| a hundred | **<big>[[G1540\|εκατόν]]</big>** |
+| shekels | **<big>[[G9079\|σικλών]]</big>** |
+| to the | **<big>[[G3588\|το]]</big>** |
+| saucer | **<big>[[G5165\|τρυβλίον]]</big>** |
+| \<obj.> | **<big>[[G3588\|το]]</big>** |
+| one | **<big>[[G1520\|εν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| seventy | **<big>[[G1440\|εβδομήκοντα]]</big>** |
+| shekels | **<big>[[G9079\|σικλών]]</big>** |
+| to the | **<big>[[G3588\|η]]</big>** |
+| bowl | **<big>[[G5357\|φιάλη]]</big>** |
+| \<obj.> | **<big>[[G3588\|η]]</big>** |
+| one | **<big>[[G1520\|μία]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| silver | **<big>[[G0694\|αργύριον]]</big>** |
+| of the | **<big>[[G3588\|των]]</big>** |
+| items -- | **<big>[[G4632\|σκευών]]</big>** |
+| two thousand | **<big>[[G1367\|δισχίλιοι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| four hundred | **<big>[[G5071\|τετρακόσιοι]]</big>** |
+| shekels, | **<big>[[G9079\|σίκλοι]]</big>** |
+| \[the\] shekels | **<big>[[G9079\|σίκλοι]]</big>** |
+| according to | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τω]]</big>** |
+| shekel | **<big>[[G9079\|σίκλω]]</big>** |
+| \<obj.> | **<big>[[G3588\|τω]]</big>** |
+| holy | **<big>[[G0039\|αγίω]]</big>** |
 [[Num.7.85|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.84|<< Numbers 7:84]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.86|Numbers 7:86 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎נִמְרִים‎</span></big> **Nimrîym** <small>*(nim-reem')*</small> ==**Nimrim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>plural of a masculine corresponding to <span class="ashebrew">‎נִמְרָה‎</span><sup><small>[[H5247]]</small></sup>; clear waters</small>
+**<big><span class="ashebrew">‎נִמְרִים‎</span></big>** **Nimrîym** <small>*(nim-reem')*</small> ==**Nimrim**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>plural of a masculine corresponding to **<big>[[H5247|‎נִמְרָה‎]]</big>**; clear waters</small>
 
-$\quad$ Nimrim. Compare <span class="ashebrew">‎בֵּית נִמְרָה‎</span><sup><small>[[H1039]]</small></sup>.
+$\quad$ Nimrim. Compare **<big>[[H1039|‎בֵּית נִמְרָה‎]]</big>**.
 - § Nimrim = *"limpid" or "pure"*
 - ***Nimrim***, a place East of the Jordan
 

@@ -7,28 +7,28 @@ The shield of his mighty men is made red, the valiant men [are] in scarlet: the 
 The shields of his mighty men are red; the valiant warriors are dressed in scarlet. The fittings of the chariots flash like fire on the day they are prepared, and the spears of cypress have been brandished.<small><sub>**MT:**</sub></small>
 [[Nah.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.2|<< Nahum 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.4|Nahum 2:4 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| \[The\] weapons | <big><span class="asgreek">όπλα</span></big> <sup><small><small>[[G3696]]</small></small></sup> |
-| of his command | <big><span class="asgreek">δυναστείας</span></big> <sup><small><small>[[G6973]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
-| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
-| \[are\] mighty | <big><span class="asgreek">δυνατούς</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
-| mocking | <big><span class="asgreek">εμπαίζοντας</span></big> <sup><small><small>[[G1702]]</small></small></sup> |
-| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
-| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| reins | <big><span class="asgreek">ηνίαι</span></big> <sup><small><small>[[G7632]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of their chariots | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
-| of his preparation, | <big><span class="asgreek">ετοιμασίας</span></big> <sup><small><small>[[G2091]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| horsemen | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
-| shall be making a disruption. | <big><span class="asgreek">θορυβηθήσονται</span></big> <sup><small><small>[[G2350]]</small></small></sup> |
+| \[The\] weapons | **<big>[[G3696\|όπλα]]</big>** |
+| of his command | **<big>[[G6973\|δυναστείας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| of | **<big>[[G1537\|εξ]]</big>** |
+| men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| men | **<big>[[G0435\|άνδρας]]</big>** |
+| \[are\] mighty | **<big>[[G1415\|δυνατούς]]</big>** |
+| mocking | **<big>[[G1702\|εμπαίζοντας]]</big>** |
+| with | **<big>[[G1722\|εν]]</big>** |
+| fire; | **<big>[[G4442\|πυρί]]</big>** |
+| the | **<big>[[G3588\|αι]]</big>** |
+| reins | **<big>[[G7632\|ηνίαι]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of their chariots | **<big>[[G0716\|αρμάτων]]</big>** **<big>[[G1473\|αυτών]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| \[the\] day | **<big>[[G2250\|ημέρα]]</big>** |
+| of his preparation, | **<big>[[G2091\|ετοιμασίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| horsemen | **<big>[[G2460\|ιππείς]]</big>** |
+| shall be making a disruption. | **<big>[[G2350\|θορυβηθήσονται]]</big>** |
 [[Nah.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.2|<< Nahum 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.4|Nahum 2:4 >>]]</td></tr></table>
 
 

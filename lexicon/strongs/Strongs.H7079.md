@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎קְנָת‎</span></big> **Qᵉnâth** <small>*(ken-awth')*</small> ==**Kenath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָנָה‎</span><sup><small>[[H7069]]</small></sup>; possession</small>
+**<big><span class="ashebrew">‎קְנָת‎</span></big>** **Qᵉnâth** <small>*(ken-awth')*</small> ==**Kenath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H7069|‎קָנָה‎]]</big>**; possession</small>
 
 $\quad$ Kenath.
 - § Kenath = *"possession"*
@@ -7,4 +7,4 @@ $\quad$ Kenath.
 
 **1)** a city in Gilead east of the Jordan taken possession of by a certain Nobah and renamed in his own honour
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἄκρον</span><sup><small>[[G0206]]</small></sup> · <span class="asgreek">μερίς</span><sup><small>[[G3310]]</small></sup> · <span class="asgreek">μέρος</span><sup><small>[[G3313]]</small></sup> · <span class="asgreek">μέσος</span><sup><small>[[G3319]]</small></sup> · <span class="asgreek">πέρας</span><sup><small>[[G4009]]</small></sup>
+<small>See Greek: </small>**<big>[[G0206|ἄκρον]]</big>** · **<big>[[G3310|μερίς]]</big>** · **<big>[[G3313|μέρος]]</big>** · **<big>[[G3319|μέσος]]</big>** · **<big>[[G4009|πέρας]]</big>**

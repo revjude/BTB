@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שׂוּג‎</span></big> **sûwg** <small>*(soog)*</small> ==**to turn back**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שׂוּג‎</span></big>** **sûwg** <small>*(soog)*</small> ==**to turn back**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ turn back.

@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְהוֹיָדָע‎</span></big> **Yᵉhôwyâdâʻ** <small>*(yeh-ho-yaw-daw')*</small> ==**Jehoiada**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎יְהֹוָה‎</span><sup><small>[[H3068]]</small></sup> and <span class="ashebrew">‎יָדַע‎</span><sup><small>[[H3045]]</small></sup>; Jehovah-known</small>
+**<big><span class="ashebrew">‎יְהוֹיָדָע‎</span></big>** **Yᵉhôwyâdâʻ** <small>*(yeh-ho-yaw-daw')*</small> ==**Jehoiada**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3068|‎יְהֹוָה‎]]</big>** and **<big>[[H3045|‎יָדַע‎]]</big>**; Jehovah-known</small>
 
-$\quad$ Jehoiada. Compare <span class="ashebrew">‎יוֹיָדָע‎</span><sup><small>[[H3111]]</small></sup>.
+$\quad$ Jehoiada. Compare **<big>[[H3111|‎יוֹיָדָע‎]]</big>**.
 - § Jehoiada = *"Jehovah knows"*
 - ***Jehojada***, the name of three Israelites
 

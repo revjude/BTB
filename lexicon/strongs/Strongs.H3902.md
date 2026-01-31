@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎לַחְמִי‎</span></big> **Lachmîy** <small>*(lakh-mee')*</small> ==**Lahmi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎לֶחֶם‎</span><sup><small>[[H3899]]</small></sup>; foodful; (or perhaps erroneous transcription) for <span class="ashebrew">‎בֵּית הַלַּחְמִי‎</span><sup><small>[[H1022]]</small></sup></small>
+**<big><span class="ashebrew">‎לַחְמִי‎</span></big>** **Lachmîy** <small>*(lakh-mee')*</small> ==**Lahmi**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H3899|‎לֶחֶם‎]]</big>**; foodful; (or perhaps erroneous transcription) for **<big>[[H1022|‎בֵּית הַלַּחְמִי‎]]</big>**</small>
 
-$\quad$ Lahmi. See also <span class="ashebrew">‎יָשֻׁבִי לֶחֶם‎</span><sup><small>[[H3433]]</small></sup>.
+$\quad$ Lahmi. See also **<big>[[H3433|‎יָשֻׁבִי לֶחֶם‎]]</big>**.
 - § Lahmi = *"my bread"*
 - ***Lachmi***, an Israelite
 -  or rather probably a brief form

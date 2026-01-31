@@ -1,4 +1,4 @@
-name of: <small>[[H7676]]</small> 
+name of: <small>**<big>[[H7676|שַׁבָּת]]</big>**</small> 
 
 
 <b> <span class='asgreek'>==προσάββατον==</span></b>, <span class='asgreek'>τό</span>, 

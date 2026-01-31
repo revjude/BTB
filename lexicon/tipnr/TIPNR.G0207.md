@@ -4,8 +4,8 @@ Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Aquila</span>, along with his wife Priscilla, was a Jewish Christian who worked as a tentmaker and played a significant role in the early church, partnering with Paul in his ministry.
 - A man living at the time of the New Testament, first mentioned at [[Phlm.1.2|Act.18.2]]; 
-- only referred to as Aquila<[[G0207]]> \(<span class='tipnrLangGreek'>Ἀκύλας</span>\); 
-- husband of Priscilla<[[G4252]]>.
+- only referred to as Aquila **<big>[[G0207|Ἀκύλας]]</big>**; 
+- husband of Priscilla **<big>[[G4252|Πρίσκιλλα]]</big>**.
 
 Aquila was a Jewish Christian from Pontus who, along with his wife Priscilla, played a significant role in the early church. He is first mentioned in the book of Acts as a tentmaker who had recently come to Corinth from Italy due to the emperor Claudius' decree expelling all Jews from Rome. Paul, also a tentmaker, stayed and worked with Aquila and Priscilla during his time in Corinth. 
 
@@ -17,7 +17,7 @@ Aquila and Priscilla are mentioned again in Paul's first letter to the Corinthia
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Aquila | [<span class='tipnrLangGreek'>Ἀκύλας</span>](G0207) <small>*Greek*</small> | 6x | [[Act.18.2] ... [2Ti.4.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aquila\*\|reference=Act.18.2;Act.18.18;Act.18.26;Rom.16.3;1Co.16.19;2Ti.4.19) |
-All Strong's for **Aquila**: \[[[G0207]]\]
+| Aquila | [<span class='tipnrLangGreek'>Ἀκύλας</span>](G0207) | 6x | [[Act.18.2] ... [2Ti.4.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aquila\*\|reference=Act.18.2;Act.18.18;Act.18.26;Rom.16.3;1Co.16.19;2Ti.4.19) |
+All entries for **Aquila**:  **<big>[[G0207|Ἀκύλας]]</big>**
 #### Related Profiles:
 - **[Priscilla](G4252)** (spouse)

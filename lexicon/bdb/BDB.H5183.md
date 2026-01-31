@@ -1,4 +1,4 @@
-<small>Also see: [[H5184]]</small>
+<small>Also see: **<big>[[H5184|נַחַת]]</big>**</small>
 
  I. <span class="bdbLangHebrew">‎נַ֫חַת‎</span> **noun [feminine]** (apparently **masculine** [[Job.36.16|Job 36:16]], but see below) ==quietness, rest== (under this √ [[BDB#Thes|Thes]] Ol<sup>§ 164 c</sup> [[BDB#Sta|Sta]]<sup>§ 201 d</sup> [[BDB#Kö|Kö]]<sup>ii. 172 f.</sup>; &gt; below <span class="bdbLangHebrew">‎נחת‎</span> [[BDB#Dl|Dl]]<sup>Prol. 118 ff.</sup>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Isa.30.15|Isa 30:15]] + 2 t., <span class="bdbLangHebrew">‎נָ֑חַת‎</span> [[Job.17.16|Job 17:16]] + 2 t.; construct <span class="bdbLangHebrew">‎נַ֫חַת‎</span> [[Job.36.16|Job 36:16]] — 
 

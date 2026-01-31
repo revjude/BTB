@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָצַר‎</span></big> **yâtsar** <small>*(yaw-tsar')*</small> ==**to form: formed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
-<small>probably identical with <span class="ashebrew">‎יָצַר‎</span><sup><small>[[H3334]]</small></sup> (through the squeezing into shape); (compare <span class="ashebrew">‎יַצַע‎</span><sup><small>[[H3331]]</small></sup>)</small>
+**<big><span class="ashebrew">‎יָצַר‎</span></big>** **yâtsar** <small>*(yaw-tsar')*</small> ==**to form: formed**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>probably identical with **<big>[[H3334|‎יָצַר‎]]</big>** (through the squeezing into shape); (compare **<big>[[H3331|‎יַצַע‎]]</big>**)</small>
 
 $\quad$ [idiom] earthen, fashion, form, frame, make(-r), potter, purpose.
 - ***to mould into a form***
@@ -19,4 +19,4 @@ $\quad$ **1b)** (Niphal) to be formed, be created
 $\quad$ **1c)** (Pual) to be predetermined, be pre-ordained
 $\quad$ **1d)** (Hophal) to be formed
 
-<sub><small>See Greek: </small></sub><span class="asgreek">γίνομαι</span><sup><small>[[G1096]]</small></sup> · <span class="asgreek">ἵστημι</span><sup><small>[[G2476]]</small></sup> · <span class="asgreek">κατασκευάζω</span><sup><small>[[G2680]]</small></sup> · <span class="asgreek">κεραμεύς</span><sup><small>[[G2763]]</small></sup> · <span class="asgreek">κέραμος</span><sup><small>[[G2766]]</small></sup> · <span class="asgreek">κτίζω</span><sup><small>[[G2936]]</small></sup> · <span class="asgreek">πλάσσω</span><sup><small>[[G4111]]</small></sup> · <span class="asgreek">ποιέω</span><sup><small>[[G4160]]</small></sup> · <span class="asgreek">συντάσσω</span><sup><small>[[G4929]]</small></sup>
+<small>See Greek: </small>**<big>[[G1096|γίνομαι]]</big>** · **<big>[[G2476|ἵστημι]]</big>** · **<big>[[G2680|κατασκευάζω]]</big>** · **<big>[[G2763|κεραμεύς]]</big>** · **<big>[[G2766|κέραμος]]</big>** · **<big>[[G2936|κτίζω]]</big>** · **<big>[[G4111|πλάσσω]]</big>** · **<big>[[G4160|ποιέω]]</big>** · **<big>[[G4929|συντάσσω]]</big>**

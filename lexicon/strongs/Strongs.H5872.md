@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎עֵין גֶּדִי‎</span></big> **ʻÊyn Gedîy** <small>*(ane geh'-dee)*</small> ==**Engedi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup> and <span class="ashebrew">‎גְּדִי‎</span><sup><small>[[H1423]]</small></sup>; fountain of a kid</small>
+**<big><span class="ashebrew">‎עֵין גֶּדִי‎</span></big>** **ʻÊyn Gedîy** <small>*(ane geh'-dee)*</small> ==**Engedi**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H5869|‎עַיִן‎]]</big>** and **<big>[[H1423|‎גְּדִי‎]]</big>**; fountain of a kid</small>
 
 $\quad$ En-gedi.
 - § En-gedi = *"fount of the kid"*

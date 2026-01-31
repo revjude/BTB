@@ -6,15 +6,15 @@ Mocker is the name of the proud and arrogant man—of him who acts with excessiv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.23|<< Proverbs 21:23]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.25|Proverbs 21:25 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| proud  | <span class="ashebrew"><big>זֵ֣ד </big></span><small><small><sup>[[H2086]]</sup></small></small> &#8207;| zed <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| arrogant  | <span class="ashebrew"><big>יָ֭הִיר </big></span><small><small><sup>[[H3093]]</sup></small></small> &#8207;| Ya.hir <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] mocker  | <span class="ashebrew"><big>לֵ֣ץ </big></span><small><small><sup>[[H3887]]</sup></small></small> &#8207;| letz <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  | <span class="ashebrew"><big>שְׁמ֑ </big></span><small><small><sup>[[H8034]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| she.M <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [one who] acts  | <span class="ashebrew"><big>ע֝וֹשֶׂ֗ה </big></span><small><small><sup>[[H6213A]]</sup></small></small> &#8207;| o.Seh <small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in [the] overflowing of  | <span class="ashebrew"><big>בְּ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>עֶבְרַ֥ת </big></span><small><small><sup>[[H5678]]</sup></small></small> &#8207;| be. <small><sup>[[HR]]</sup></small> 'ev.Rat <small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pride  | <span class="ashebrew"><big>זָדֽוֹן </big></span><small><small><sup>[[H2087]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| za.Don <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| proud  |**<big>&#8207;[[H2086\|זֵ֣ד]]&#8207; </big>**| zed<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrogant  |**<big>&#8207;[[H3093\|יָ֭הִיר]]&#8207; </big>**| Ya.hir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] mocker  |**<big>&#8207;[[H3887\|לֵ֣ץ]]&#8207; </big>**| letz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] acts  |**<big>&#8207;[[H6213A\|ע֝וֹשֶׂ֗ה]]&#8207; </big>**| o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] overflowing of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5678\|עֶבְרַ֥ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ev.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pride  |**<big>&#8207;[[H2087\|זָדֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.23|<< Proverbs 21:23]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.25|Proverbs 21:25 >>]]</td></tr></table>
 
 

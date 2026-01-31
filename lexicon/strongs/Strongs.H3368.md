@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָקָר‎</span></big> **yâqâr** <small>*(yaw-kawr')*</small> ==**precious**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎יָקַר‎</span><sup><small>[[H3365]]</small></sup></small>
+**<big><span class="ashebrew">‎יָקָר‎</span></big>** **yâqâr** <small>*(yaw-kawr')*</small> ==**precious**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H3365|‎יָקַר‎]]</big>**</small>
 
 $\quad$ brightness, clear, costly, excellent, fat, honourable women, precious, reputation.
 - ***valuable*** (objectively or subjectively)
@@ -13,4 +13,4 @@ $\quad$ **1b)** rare
 $\quad$ **1c)** glorious, splendid
 $\quad$ **1d)** weighty, influential
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἐκλεκτός</span><sup><small>[[G1588]]</small></sup> · <span class="asgreek">πολυτελής</span><sup><small>[[G4185]]</small></sup> · <span class="asgreek">τίμιος</span><sup><small>[[G5093]]</small></sup> · <span class="asgreek">χρηστός</span><sup><small>[[G5543]]</small></sup>
+<small>See Greek: </small>**<big>[[G1588|ἐκλεκτός]]</big>** · **<big>[[G4185|πολυτελής]]</big>** · **<big>[[G5093|τίμιος]]</big>** · **<big>[[G5543|χρηστός]]</big>**

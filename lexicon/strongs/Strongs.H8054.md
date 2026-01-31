@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎שַׁמּוֹת‎</span></big> **Shammôwth** <small>*(sham-moth')*</small> ==**Shammoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>plural of <span class="ashebrew">‎שַׁמָּה‎</span><sup><small>[[H8047]]</small></sup>; ruins</small>
+**<big><span class="ashebrew">‎שַׁמּוֹת‎</span></big>** **Shammôwth** <small>*(sham-moth')*</small> ==**Shammoth**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>plural of **<big>[[H8047|‎שַׁמָּה‎]]</big>**; ruins</small>
 
 $\quad$ Shamoth.
 - § Shammoth = *"desolations"*

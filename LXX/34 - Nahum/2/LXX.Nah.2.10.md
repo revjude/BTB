@@ -7,31 +7,31 @@ She is empty, and void, and waste: and the heart melteth, and the knees smite to
 She is emptied! Yes, she is desolate and laid waste! Hearts melt, knees knock, bodies tremble, and every face grows pale!<small><sub>**MT:**</sub></small>
 [[Nah.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.9|<< Nahum 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.11|Nahum 2:11 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thrusting | <big><span class="asgreek">εκτιναγμός</span></big> <sup><small><small>[[G7155]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| violent shaking, | <big><span class="asgreek">ανατιναγμός</span></big> <sup><small><small>[[G6315]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| tumult, | <big><span class="asgreek">εκβρασμός</span></big> <sup><small><small>[[G7082]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
-| breaking, | <big><span class="asgreek">θραυσμός</span></big> <sup><small><small>[[G7689]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| loosening | <big><span class="asgreek">υπόλυσις</span></big> <sup><small><small>[[G9579]]</small></small></sup> |
-| of \[the\] knees, | <big><span class="asgreek">γονάτων</span></big> <sup><small><small>[[G1119]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
-| on | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| loin, | <big><span class="asgreek">οσφύν</span></big> <sup><small><small>[[G3751]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
-| a burnt | <big><span class="asgreek">πρόσκαυμα</span></big> <sup><small><small>[[G8928]]</small></small></sup> |
-| earthen pot. | <big><span class="asgreek">χύτρας</span></big> <sup><small><small>[[G9766]]</small></small></sup> |
+| Thrusting | **<big>[[G7155\|εκτιναγμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| violent shaking, | **<big>[[G6315\|ανατιναγμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| tumult, | **<big>[[G7082\|εκβρασμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| heart | **<big>[[G2588\|καρδίας]]</big>** |
+| breaking, | **<big>[[G7689\|θραυσμός]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| loosening | **<big>[[G9579\|υπόλυσις]]</big>** |
+| of \[the\] knees, | **<big>[[G1119\|γονάτων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| pangs | **<big>[[G5604\|ωδίνες]]</big>** |
+| on | **<big>[[G1909\|επί]]</big>** |
+| every | **<big>[[G3956\|πάσαν]]</big>** |
+| loin, | **<big>[[G3751\|οσφύν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| face | **<big>[[G4383\|πρόσωπον]]</big>** |
+| of all | **<big>[[G3956\|πάντων]]</big>** |
+| as | **<big>[[G5613\|ως]]</big>** |
+| a burnt | **<big>[[G8928\|πρόσκαυμα]]</big>** |
+| earthen pot. | **<big>[[G9766\|χύτρας]]</big>** |
 [[Nah.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.9|<< Nahum 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.11|Nahum 2:11 >>]]</td></tr></table>
 
 

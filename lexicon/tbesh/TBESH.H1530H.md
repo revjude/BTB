@@ -1,4 +1,3 @@
-<span class="ashebrew">‎גַּל‎</span> <small>***(gal)***</small> ==**heap: wave**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
-meaning of: <small>[[H1530G]]</small> 
+<small>meaning of:</small> <small>**<big>[[H1530G|גַּל]]</big>**</small> 
 
 - : wave

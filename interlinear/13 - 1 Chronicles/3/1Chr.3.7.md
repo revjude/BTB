@@ -6,11 +6,11 @@ Nogah, Nepheg, Japhia,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.6|<< 1 Chronicles 3:6]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.8|1 Chronicles 3:8 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and Nogah  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נֹ֥גַהּ </big></span><small><small><sup>[[H5052]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> No.gah <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Nepheg  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>נֶ֖פֶג </big></span><small><small><sup>[[H5298H]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Ne.feg <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Japhia  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>יָפִֽיעַ </big></span><small><small><sup>[[H3309I]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ya.Fi.a' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nogah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5052\|נֹ֥גַהּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> No.gah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nepheg  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5298H\|נֶ֖פֶג]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.feg<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Japhia  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3309I\|יָפִֽיעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Fi.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.6|<< 1 Chronicles 3:6]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.8|1 Chronicles 3:8 >>]]</td></tr></table>
 
 

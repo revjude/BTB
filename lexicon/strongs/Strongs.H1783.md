@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎דִּינָה‎</span></big> **Dîynâh** <small>*(dee-naw')*</small> ==**Dinah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
-<small>feminine of <span class="ashebrew">‎דִּין‎</span><sup><small>[[H1779]]</small></sup>; justice</small>
+**<big><span class="ashebrew">‎דִּינָה‎</span></big>** **Dîynâh** <small>*(dee-naw')*</small> ==**Dinah**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of **<big>[[H1779|‎דִּין‎]]</big>**; justice</small>
 
 $\quad$ Dinah.
 - § Dinah = *"judgment"*

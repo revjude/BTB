@@ -7,27 +7,27 @@ melting \[them\] away in hunger, and being food of fowls, and incurable convulsi
 They will be wasted from hunger and ravaged by pestilence and bitter plague; I will send the fangs of wild beasts against them, with the venom of vipers that slither in the dust.<small><sub>**MT:**</sub></small>
 [[Deut.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.23|<< Deuteronomy 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.25|Deuteronomy 32:25 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| melting \[them\] away | <big><span class="asgreek">τηκόμενοι</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
-| in hunger, | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| being food | <big><span class="asgreek">βρώσει</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
-| of fowls, | <big><span class="asgreek">ορνέων</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| convulsion | <big><span class="asgreek">οπισθότονος</span></big> <sup><small><small>[[G8533]]</small></small></sup> |
-| incurable | <big><span class="asgreek">ανίατος</span></big> <sup><small><small>[[G6345]]</small></small></sup> |
-| \[The\] teeth | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
-| of wild beasts | <big><span class="asgreek">θηρίων</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| I will send as a successor | <big><span class="asgreek">επαποστελώ</span></big> <sup><small><small>[[G7369]]</small></small></sup> |
-| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
-| dragging \[them\] | <big><span class="asgreek">συρόντων</span></big> <sup><small><small>[[G4951]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| ground. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| melting \[them\] away | **<big>[[G5080\|τηκόμενοι]]</big>** |
+| in hunger, | **<big>[[G3042\|λιμώ]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| being food | **<big>[[G1035\|βρώσει]]</big>** |
+| of fowls, | **<big>[[G3732\|ορνέων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| convulsion | **<big>[[G8533\|οπισθότονος]]</big>** |
+| incurable | **<big>[[G6345\|ανίατος]]</big>** |
+| \[The\] teeth | **<big>[[G3599\|οδόντας]]</big>** |
+| of wild beasts | **<big>[[G2342\|θηρίων]]</big>** |
+| I will send as a successor | **<big>[[G7369\|επαποστελώ]]</big>** |
+| to | **<big>[[G1519\|εις]]</big>** |
+| them, | **<big>[[G1473\|αυτούς]]</big>** |
+| with | **<big>[[G3326\|μετά]]</big>** |
+| rage | **<big>[[G2372\|θυμού]]</big>** |
+| dragging \[them\] | **<big>[[G4951\|συρόντων]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| the | **<big>[[G3588\|της]]</big>** |
+| ground. | **<big>[[G1093\|γης]]</big>** |
 [[Deut.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.23|<< Deuteronomy 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.25|Deuteronomy 32:25 >>]]</td></tr></table>
 
 

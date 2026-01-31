@@ -6,14 +6,14 @@ I have indeed received a command to bless; He has blessed, and I cannot change i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.19|<< Numbers 23:19]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.21|Numbers 23:21 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| here!  | <span class="ashebrew"><big>הִנֵּ֥ה </big></span><small><small><sup>[[H2009]]</sup></small></small> &#8207;| hi.Neh <small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [surely] blessing  | <span class="ashebrew"><big>בָרֵ֖ךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| va.Rekh <small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have received  | <span class="ashebrew"><big>לָקָ֑חְתִּי </big></span><small><small><sup>[[H3947H]]</sup></small></small> &#8207;| la.Ka.che.ti <small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he has blessed  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>בֵרֵ֖ךְ </big></span><small><small><sup>[[H1288]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ve.Rekh <small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and not  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לֹ֥א </big></span><small><small><sup>[[H3808]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> Lo' <small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will turn back it  | <span class="ashebrew"><big>אֲשִׁיבֶֽ </big></span><small><small><sup>[[H7725I]]</sup></small></small> <span class="ashebrew"><big>נָּה </big></span><small><small><sup>[[H9034]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'a.shi.Ve. <small><sup>[[HVhi1cs]]</sup></small> nah <small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [surely] blessing  |**<big>&#8207;[[H1288\|בָרֵ֖ךְ]]&#8207; </big>**| va.Rekh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have received  |**<big>&#8207;[[H3947H\|לָקָ֑חְתִּי]]&#8207; </big>**| la.Ka.che.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has blessed  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1288\|בֵרֵ֖ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Rekh<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will turn back it  |**<big>&#8207;[[H7725I\|אֲשִׁיבֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.shi.Ve.<small><sup>[[HVhi1cs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.19|<< Numbers 23:19]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.21|Numbers 23:21 >>]]</td></tr></table>
 
 

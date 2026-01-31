@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎פְּלֶשֶׁת‎</span></big> **Pᵉlesheth** <small>*(pel-eh'-sheth)*</small> ==**Philistia**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎פָּלַשׁ‎</span><sup><small>[[H6428]]</small></sup>; rolling, i.e. migratory</small>
+**<big><span class="ashebrew">‎פְּלֶשֶׁת‎</span></big>** **Pᵉlesheth** <small>*(pel-eh'-sheth)*</small> ==**Philistia**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6428|‎פָּלַשׁ‎]]</big>**; rolling, i.e. migratory</small>
 
 $\quad$ Palestina, Palestine, Philistia, Philistines.
 - § Philistia = *"land of sojourners"*
@@ -7,4 +7,4 @@ $\quad$ Palestina, Palestine, Philistia, Philistines.
 
 **1)** the general territory on the west coast of Canaan or the entire country of Palestine
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ἀλλόφυλος</span><sup><small>[[G0246]]</small></sup>
+<small>See Greek: </small>**<big>[[G0246|ἀλλόφυλος]]</big>**

@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מָרָה‎</span></big> **Mârâh** <small>*(maw-raw')*</small> ==**Marah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>the same as <span class="ashebrew">‎מַר‎</span><sup><small>[[H4751]]</small></sup> feminine; bitter</small>
+**<big><span class="ashebrew">‎מָרָה‎</span></big>** **Mârâh** <small>*(maw-raw')*</small> ==**Marah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as **<big>[[H4751|‎מַר‎]]</big>** feminine; bitter</small>
 
 $\quad$ Marah.
 - § Marah = *"bitter"*

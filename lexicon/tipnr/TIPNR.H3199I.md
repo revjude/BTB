@@ -4,7 +4,7 @@ Levite living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Jachin</span> was a priest who resided in Jerusalem after the Babylonian exile \([[1Chr.9.10|1Ch.9.10]]; [[Neh.11.10|Neh.11.10]]\).
 - A priest from the tribe of Levi  living at the time of Exile and Return, first mentioned at [[1Chr.9.10|1Ch.9.10]]; 
-- only referred to as Jachin<[[H3199I]]> \(<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>ין</span>\).
+- only referred to as Jachin **<big>[[H3199|יָכִין]]</big>**.
 
 Jachin is mentioned in two post-exilic lists of priests who lived in Jerusalem. In [[1Chr.9.10|1 Chronicles 9:10]] and [[Neh.11.10|Nehemiah 11:10]], he is identified as one of the priests who settled in Jerusalem after the Babylonian exile. 
 
@@ -16,5 +16,5 @@ No other specific details are provided about Jachin's life or role within the pr
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Jachin | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H3199I) <small>*Hebrew*</small> | 2x | [[1Ch.9.10] & [Neh.11.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jachin\*\|reference=1Ch.9.10;Neh.11.10) |
-All Strong's for **Jachin**: \[[[H3199I]]\]
+| Jachin | [<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>כ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H3199I) | 2x | [[1Ch.9.10] & [Neh.11.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jachin\*\|reference=1Ch.9.10;Neh.11.10) |
+All entries for **Jachin**:  **<big>[[H3199|יָכִין]]</big>**

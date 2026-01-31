@@ -7,20 +7,20 @@ Then she said, Did I desire a son of my lord? did I not say, Do not deceive me?
 Then she said, “Did I ask you for a son, my lord? Didn’t I say, ‘Do not deceive me?’”<small><sub>**MT:**</sub></small>
 [[2Kgs.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.27|<< 2 Kings 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.29|2 Kings 4:29 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| \[Did\] I ask | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ητησάμην</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
-| a son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
-| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| my master? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Did I not say, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| Do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| mislead | <big><span class="asgreek">πλανήσεις</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
-| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
-| me? | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | **<big>[[G2532\|και]]</big>** |
+| she said, | **<big>[[G2036\|είπε]]</big>** |
+| \[Did\] I ask | **<big>[[G3361\|μη]]</big>** **<big>[[G0154\|ητησάμην]]</big>** |
+| a son | **<big>[[G5207\|υιόν]]</big>** |
+| from | **<big>[[G3844\|παρά]]</big>** |
+| \<obj.> | **<big>[[G3588\|του]]</big>** |
+| my master? | **<big>[[G2962\|κυρίου]]</big>** **<big>[[G1473\|μου]]</big>** |
+| Did I not say, | **<big>[[G3756\|ουκ]]</big>** **<big>[[G2036\|είπα]]</big>** |
+| Do not | **<big>[[G3756\|ου]]</big>** |
+| mislead | **<big>[[G4105\|πλανήσεις]]</big>** |
+| with | **<big>[[G3326\|μετ΄]]</big>** |
+| me? | **<big>[[G1473\|εμού]]</big>** |
 [[2Kgs.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.27|<< 2 Kings 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.29|2 Kings 4:29 >>]]</td></tr></table>
 
 

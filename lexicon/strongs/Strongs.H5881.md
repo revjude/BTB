@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎עֵינָן‎</span></big> **ʻÊynân** <small>*(ay-nawn')*</small> ==**Enan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
-<small>from <span class="ashebrew">‎עַיִן‎</span><sup><small>[[H5869]]</small></sup>; having eyes</small>
+**<big><span class="ashebrew">‎עֵינָן‎</span></big>** **ʻÊynân** <small>*(ay-nawn')*</small> ==**Enan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from **<big>[[H5869|‎עַיִן‎]]</big>**; having eyes</small>
 
-$\quad$ Enan. Compare <span class="ashebrew">‎חֲצַר עֵינָן‎</span><sup><small>[[H2704]]</small></sup>.
+$\quad$ Enan. Compare **<big>[[H2704|‎חֲצַר עֵינָן‎]]</big>**.
 - § Enan = *"having eyes"*
 - ***Enan***, an Israelite
 

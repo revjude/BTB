@@ -7,21 +7,21 @@ O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
 Satisfy us in the morning with Your loving devotion, that we may sing for joy and be glad all our days.<small><sub>**MT:**</sub></small>
 [[Ps.90.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.13|<< Psalm 90:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.15|Psalm 90:15 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| We were filled up | <big><span class="asgreek">ενεπλήσθημεν</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
-| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
-| \[with\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your mercy, | <big><span class="asgreek">ελέους</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| we exulted | <big><span class="asgreek">ηγαλλιασάμεθα</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| were glad | <big><span class="asgreek">ευφράνθημεν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| our days. | <big><span class="asgreek">ημεραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| We were filled up | **<big>[[G1705\|ενεπλήσθημεν]]</big>** |
+| in the morning | **<big>[[G4404\|τοπρωϊ]]</big>** |
+| \[with\]\<obj.> | **<big>[[G3588\|του]]</big>** |
+| your mercy, | **<big>[[G1656\|ελέους]]</big>** **<big>[[G1473\|σου]]</big>** |
+| O <span class="smallcaps">lord</span>, | **<big>[[G2962\|κύριε]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| we exulted | **<big>[[G0021\|ηγαλλιασάμεθα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| were glad | **<big>[[G2165\|ευφράνθημεν]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάσαις]]</big>** |
+| \<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| our days. | **<big>[[G2250\|ημεραις]]</big>** **<big>[[G1473\|ημών]]</big>** |
 [[Ps.90.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.13|<< Psalm 90:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.15|Psalm 90:15 >>]]</td></tr></table>
 
 

@@ -1,5 +1,5 @@
-<small>Aramaic form: [[H1289]]</small>
-<small>Also see: [[H1263]]</small>
+<small>Aramaic form: **<big>[[H1289|בְּרַךְ]]</big>**</small>
+<small>Also see: **<big>[[H1263|בָּרוּךְ]]</big>**</small>
 
  [<span class="bdbLangHebrew">‎בָּרַךְ‎</span>]<sub>329</sub> **verb** ==kneel, bless== (Late Hebrew ***id.***; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIQAgAIAAAP///wAAACH5BAAAAAAALAAAAAAhACAAAAJhhI+py+0PTQixykktnLr7r2QggyVlxB3ntW4i+aUj+c7hTHFvvfAXkNu5ehLgyXdLZo4ongjzbCZhCNkvhLQagy0V9Ks1AscNMJSo+TqcSEs4nG6PurZzfUuP2W38vl9TAAA7">; Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKwATAIAAAP///wAAACH5BAAAAAAALAAAAAArABMAAAJlhI+py+0Po2whTFQz1SDb23kV4xnlxXHKeYbQaKpHK4rJF+NtDodlKlPtfDei8XjcyTAwYS/pxN16y6kOKLXOnisqdpXbXqXRT7DpHTPRbPM3DOdZbL5a/Hdu66Z3MhcEGCjIUAAAOw==">: Aramaic <span class="bdbLangAramaic">‎בְּרֵךְ‎</span> <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIAAcAIAAAP///wAAACH5BAAAAAAALAAAAAAgABwAAAJNhI+py+0PTwixgontmzfr3X0Ox4nmiZoYdZbG6n1uB7MSMr9j7MVaX+PNbBJX0HgMJo7F5Krho0Uj09yPmGpmFdOs1YvddlNf8fbcKAAAOw=="> (***praise***), Palmyrene especially in <span class="bdbLangHebrew">‎בריך שמו לעלמא‎</span> [[BDB#Vog|Vog]]<sup>Palm. 74 ff.</sup> compare 94, 144) — 
 

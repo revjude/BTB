@@ -7,48 +7,48 @@ Say thou thus unto them, Thus saith the Lord GOD; [As] I live, surely they that 
 Tell them that this is what the Lord GOD says: ‘As surely as I live, those in the ruins will fall by the sword, those in the open field I will give to be devoured by wild animals, and those in the strongholds and caves will die by plague.<small><sub>**MT:**</sub></small>
 [[Ezek.33.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.26|<< Ezekiel 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.28|Ezekiel 33:28 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
-| to them! | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
-| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
-| \[the\] Lord | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| \[As\] I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| assuredly | <big><span class="asgreek">ημήν</span></big> <sup><small><small>[[G2228]][[G3361]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| places being made desolate | <big><span class="asgreek">ηρημωμέναις</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
-| swords | <big><span class="asgreek">μαχαίραις</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
-| shall fall by | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| plain | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
-| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| wild beasts | <big><span class="asgreek">θηρίοις</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
-| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
-| shall be given | <big><span class="asgreek">δοθήσονται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
-| a thing \[to be\] devoured, | <big><span class="asgreek">κατάβρωμα</span></big> <sup><small><small>[[G7825]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| behind | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the \[places\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| being walled, | <big><span class="asgreek">τετειχισμέναις</span></big> <sup><small><small>[[G9409]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| caves | <big><span class="asgreek">σπηλαίοις</span></big> <sup><small><small>[[G4693]]</small></small></sup> |
-| by plague | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
-| I will kill | <big><span class="asgreek">αποκτενώ</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| say | **<big>[[G2036\|ερείς]]</big>** |
+| to them! | **<big>[[G1473\|αυτοίς]]</big>** |
+| Thus | **<big>[[G3592\|τάδε]]</big>** |
+| says | **<big>[[G3004\|λέγει]]</big>** |
+| \[the\] Lord | **<big>[[G2962\|κύριος]]</big>** |
+| \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
+| \[As\] I live, | **<big>[[G2198\|ζω]]</big>** **<big>[[G1473\|εγώ]]</big>** |
+| assuredly | **<big>[[G2228\|ημήν]]</big>**<sup><small>[[G3361\| [ • ] ]]</small></sup> |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| places being made desolate | **<big>[[G2049\|ηρημωμέναις]]</big>** |
+| swords | **<big>[[G3162\|μαχαίραις]]</big>** |
+| shall fall by | **<big>[[G4098\|πεσούνται]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| upon | **<big>[[G1909\|επί]]</big>** |
+| \[the\] face | **<big>[[G4383\|προσώπου]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| plain | **<big>[[G8676\|πεδίου]]</big>** |
+| to the | **<big>[[G3588\|τοις]]</big>** |
+| wild beasts | **<big>[[G2342\|θηρίοις]]</big>** |
+| of the | **<big>[[G3588\|του]]</big>** |
+| field | **<big>[[G0068\|αγρού]]</big>** |
+| shall be given | **<big>[[G1325\|δοθήσονται]]</big>** |
+| for | **<big>[[G1519\|εις]]</big>** |
+| a thing \[to be\] devoured, | **<big>[[G7825\|κατάβρωμα]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| behind | **<big>[[G1722\|εν]]</big>** |
+| the \[places\]\<obj.> | **<big>[[G3588\|ταις]]</big>** |
+| being walled, | **<big>[[G9409\|τετειχισμέναις]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| the ones | **<big>[[G3588\|τους]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| caves | **<big>[[G4693\|σπηλαίοις]]</big>** |
+| by plague | **<big>[[G2288\|θανάτω]]</big>** |
+| I will kill | **<big>[[G0615\|αποκτενώ]]</big>** |
 [[Ezek.33.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.26|<< Ezekiel 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.28|Ezekiel 33:28 >>]]</td></tr></table>
 
 

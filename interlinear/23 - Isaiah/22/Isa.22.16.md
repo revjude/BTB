@@ -6,26 +6,26 @@ What are you doing here, and who authorized you to carve out a tomb for yourself
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.15|<< Isaiah 22:15]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.17|Isaiah 22:17 >>]]</td></tr></table>
 
-| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| what?  | <span class="ashebrew"><big>מַה </big></span><small><small><sup>[[H4100]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| mah- <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to you  | <span class="ashebrew"><big>לְּ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֥ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here  | <span class="ashebrew"><big>פֹה֙ </big></span><small><small><sup>[[H6311]]</sup></small></small> &#8207;| foh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and who?  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מִ֣י </big></span><small><small><sup>[[H4310]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> Mi <small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to you  | <span class="ashebrew"><big>לְ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֣ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here  | <span class="ashebrew"><big>פֹ֔ה </big></span><small><small><sup>[[H6311]]</sup></small></small> &#8207;| Foh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  | <span class="ashebrew"><big>כִּֽי </big></span><small><small><sup>[[H3588A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ki- <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have dug out  | <span class="ashebrew"><big>חָצַ֧בְתָּ </big></span><small><small><sup>[[H2672]]</sup></small></small> &#8207;| cha.Tzav.ta <small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for yourself  | <span class="ashebrew"><big>לְּ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>ךָ֛ </big></span><small><small><sup>[[H9031]]</sup></small></small> &#8207;| le. <small><sup>[[HR]]</sup></small> Kha <small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| here  | <span class="ashebrew"><big>פֹּ֖ה </big></span><small><small><sup>[[H6311]]</sup></small></small> &#8207;| poh <small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a tomb  | <span class="ashebrew"><big>קָ֑בֶר </big></span><small><small><sup>[[H6913]]</sup></small></small> &#8207;| Ka.ver <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| digging out  | <span class="ashebrew"><big>חֹצְבִ֤י </big></span><small><small><sup>[[H2672]]</sup></small></small> &#8207;| cho.tze.Vi <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| high place  | <span class="ashebrew"><big>מָרוֹם֙ </big></span><small><small><sup>[[H4791]]</sup></small></small> &#8207;| ma.rOm <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| tomb his  | <span class="ashebrew"><big>קִבְר֔ </big></span><small><small><sup>[[H6913]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9023]]</sup></small></small> &#8207;| kiv.R <small><sup>[[HNcmsc]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| cutting  | <span class="ashebrew"><big>חֹקְקִ֥י </big></span><small><small><sup>[[H2710]]</sup></small></small> &#8207;| cho.ke.Ki <small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the rock  | <span class="ashebrew"><big>בַ </big></span><small><small><sup>[[H9003]]</sup></small></small> <span class="ashebrew"><big>סֶּ֖לַע </big></span><small><small><sup>[[H5553H]]</sup></small></small> &#8207;| va. <small><sup>[[HRd]]</sup></small> Se.la' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a dwelling  | <span class="ashebrew"><big>מִשְׁכָּ֥ן </big></span><small><small><sup>[[H4908]]</sup></small></small> &#8207;| mish.Kan <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> himself  | <span class="ashebrew"><big>לֽ </big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>וֹ </big></span><small><small><sup>[[H9033]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| l <small><sup>[[HRd]]</sup></small> o <small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to you  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  |**<big>&#8207;[[H6311\|פֹה֙]]&#8207; </big>**| foh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  |**<big>&#8207;[[H6311\|פֹ֔ה]]&#8207; </big>**| Foh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have dug out  |**<big>&#8207;[[H2672\|חָצַ֧בְתָּ]]&#8207; </big>**| cha.Tzav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for yourself  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֛]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  |**<big>&#8207;[[H6311\|פֹּ֖ה]]&#8207; </big>**| poh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tomb  |**<big>&#8207;[[H6913\|קָ֑בֶר]]&#8207; </big>**| Ka.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| digging out  |**<big>&#8207;[[H2672\|חֹצְבִ֤י]]&#8207; </big>**| cho.tze.Vi<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high place  |**<big>&#8207;[[H4791\|מָרוֹם֙]]&#8207; </big>**| ma.rOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tomb his  |**<big>&#8207;[[H6913\|קִבְר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| kiv.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cutting  |**<big>&#8207;[[H2710\|חֹקְקִ֥י]]&#8207; </big>**| cho.ke.Ki<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the rock  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5553H\|סֶּ֖לַע]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Se.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a dwelling  |**<big>&#8207;[[H4908\|מִשְׁכָּ֥ן]]&#8207; </big>**| mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> himself  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.15|<< Isaiah 22:15]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.17|Isaiah 22:17 >>]]</td></tr></table>
 
 

@@ -1,4 +1,3 @@
-<span class="ashebrew">‎יְהֻדִיָּה‎</span> <small>***(ye.hu.diy.yah)***</small> ==**Judahite wife**==  <sup><small>[[TEHMC#N:N-F-PG|N:N-F-PG]]</small></sup> 
-- A woman of the tribe of Judah, only mentioned at [[1Chr.4.18|1Ch.4.18]] married to Mered ([[H4778]])(?)
--  mother of: Jered ([[H3382H]]), Heber ([[H2268I]]) and Jekuthiel ([[H3354]])
+- A woman of the tribe of Judah, only mentioned at [[1Chr.4.18|1Ch.4.18]] married to Mered (**<big>[[H4778|מֶרֶד]]</big>**)
+-  mother of: Jered (**<big>[[H3382H|יֶרֶד]]</big>**), Heber (**<big>[[H2268I|חֶבֶר]]</big>**) and Jekuthiel (**<big>[[H3354|יְקוּתִיאֵל]]</big>**)
 - Jehudijah = Jewess

@@ -7,43 +7,43 @@ This matter [is] by the decree of the watchers, and the demand by the word of th
 This decision is the decree of the watchers, the verdict declared by the holy ones, so that the living will know that the Most High rules over the kingdom of mankind and gives it to whom He wishes, setting over it the lowliest of men.’<small><sub>**MT:**</sub></small>
 [[Dan.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.16|<< Daniel 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.18|Daniel 4:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
-| \[the\] interpretation | <big><span class="asgreek">συγκρίματος</span></big> <sup><small><small>[[G9240]]</small></small></sup> |
-| of a sentinel | <big><span class="asgreek">ειρ</span></big> <sup><small><small>[[G7064]]</small></small></sup> |
-| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| word \[is\] | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[the\] saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
-| of holy ones | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| response, | <big><span class="asgreek">επερώτημα</span></big> <sup><small><small>[[G1906]]</small></small></sup> |
-| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
-| should know | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
-| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| living | <big><span class="asgreek">ζώντες</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
-| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριός</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| highest | <big><span class="asgreek">ύψιστος</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| to whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
-| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
-| it should seem good | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
-| he shall give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
-| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| \[that which is\] in contempt | <big><span class="asgreek">εξουδένωμα</span></big> <sup><small><small>[[G7351]]</small></small></sup> |
-| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| he will raise up | <big><span class="asgreek">αναστήσει</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
-| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
-| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| through | **<big>[[G1223\|διά]]</big>** |
+| \[the\] interpretation | **<big>[[G9240\|συγκρίματος]]</big>** |
+| of a sentinel | **<big>[[G7064\|ειρ]]</big>** |
+| The | **<big>[[G3588\|ο]]</big>** |
+| word \[is\] | **<big>[[G3056\|λόγος]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[the\] saying | **<big>[[G4487\|ρήμα]]</big>** |
+| of holy ones | **<big>[[G0039\|αγίων]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| response, | **<big>[[G1906\|επερώτημα]]</big>** |
+| that | **<big>[[G2443\|ίνα]]</big>** |
+| should know | **<big>[[G1097\|γνώσιν]]</big>** |
+| the ones | **<big>[[G3588\|οι]]</big>** |
+| living | **<big>[[G2198\|ζώντες]]</big>** |
+| that | **<big>[[G3754\|ότι]]</big>** |
+| \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κύριός]]</big>** |
+| is | **<big>[[G1510\|εστιν]]</big>** |
+| the | **<big>[[G3588\|ο]]</big>** |
+| highest | **<big>[[G5310\|ύψιστος]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| kingdom | **<big>[[G0932\|βασιλείας]]</big>** |
+| \<obj.> | **<big>[[G3588\|των]]</big>** |
+| of men, | **<big>[[G0444\|ανθρώπων]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| to whom | **<big>[[G3739\|ω]]</big>** |
+| ever | **<big>[[G1437\|εάν]]</big>** |
+| it should seem good | **<big>[[G1380\|δόξη]]</big>** |
+| he shall give | **<big>[[G1325\|δώσει]]</big>** |
+| it, | **<big>[[G1473\|αυτήν]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| \[that which is\] in contempt | **<big>[[G7351\|εξουδένωμα]]</big>** |
+| of men | **<big>[[G0444\|ανθρώπων]]</big>** |
+| he will raise up | **<big>[[G0450\|αναστήσει]]</big>** |
+| over | **<big>[[G1909\|επ΄]]</big>** |
+| it | **<big>[[G1473\|αυτήν]]</big>** |
 [[Dan.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.16|<< Daniel 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.18|Daniel 4:18 >>]]</td></tr></table>
 
 

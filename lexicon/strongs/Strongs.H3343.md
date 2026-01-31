@@ -1,7 +1,7 @@
-<big><span class="ashebrew">‎יְקַבְצְאֵל‎</span></big> **Yᵉqabtsᵉʼêl** <small>*(yek-ab-tseh-ale')*</small> ==**Jekabzeel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
-<small>from <span class="ashebrew">‎קָבַץ‎</span><sup><small>[[H6908]]</small></sup> and <span class="ashebrew">‎אֵל‎</span><sup><small>[[H0410]]</small></sup>; God will gather</small>
+**<big><span class="ashebrew">‎יְקַבְצְאֵל‎</span></big>** **Yᵉqabtsᵉʼêl** <small>*(yek-ab-tseh-ale')*</small> ==**Jekabzeel**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from **<big>[[H6908|‎קָבַץ‎]]</big>** and **<big>[[H0410|‎אֵל‎]]</big>**; God will gather</small>
 
-$\quad$ Jekabzeel. Compare <span class="ashebrew">‎קַבְצְאֵל‎</span><sup><small>[[H6909]]</small></sup>.
+$\quad$ Jekabzeel. Compare **<big>[[H6909|‎קַבְצְאֵל‎]]</big>**.
 - § Jekabzeel = *"God gathers"*
 - ***Jekabtseel***, a place in Palestine
 

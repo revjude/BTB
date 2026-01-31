@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎יָבֵשׁ‎</span></big> **yâbêsh** <small>*(yaw-bashe')*</small> ==**dry**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
-<small>from <span class="ashebrew">‎יָבֵשׁ‎</span><sup><small>[[H3001]]</small></sup></small>
+**<big><span class="ashebrew">‎יָבֵשׁ‎</span></big>** **yâbêsh** <small>*(yaw-bashe')*</small> ==**dry**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from **<big>[[H3001|‎יָבֵשׁ‎]]</big>**</small>
 
 $\quad$ dried (away), dry.
 - ***dry***
@@ -7,4 +7,4 @@ $\quad$ dried (away), dry.
 **1)** dry
 **2)** dried
 
-<sub><small>See Greek: </small></sub><span class="asgreek">ξηρός</span><sup><small>[[G3584]]</small></sup> · <span class="asgreek">ξηρός</span><sup><small>[[G3584]]</small></sup>
+<small>See Greek: </small>**<big>[[G3584|ξηρός]]</big>** · **<big>[[G3584|ξηρός]]</big>**

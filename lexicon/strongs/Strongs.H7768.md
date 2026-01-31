@@ -1,4 +1,4 @@
-<big><span class="ashebrew">‎שָׁוַע‎</span></big> **shâvaʻ** <small>*(shaw-vah')*</small> ==**to cry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+**<big><span class="ashebrew">‎שָׁוַע‎</span></big>** **shâvaʻ** <small>*(shaw-vah')*</small> ==**to cry**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
 <small>a primitive root</small>
 
 $\quad$ cry (aloud, out), shout.

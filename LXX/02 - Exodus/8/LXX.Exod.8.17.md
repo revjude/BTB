@@ -7,46 +7,46 @@ And they did so; for Aaron stretched out his hand with his rod, and smote the du
 This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.16|<< Exodus 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.18|Exodus 8:18 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| stretched out | <big><span class="asgreek">εξέτεινεν</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
-| Then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
-| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
-| \[with\] the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
-| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| he struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| embankment | <big><span class="asgreek">χώμα</span></big> <sup><small><small>[[G9771]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| there were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midges | <big><span class="asgreek">σκνίπες</span></big> <sup><small><small>[[G9110]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| men \[and\] | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| four-footed \[creatures\]. | <big><span class="asgreek">τετράποσι</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
-| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| embankments | <big><span class="asgreek">χώματι</span></big> <sup><small><small>[[G9771]]</small></small></sup> |
-| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| there were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
-| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| midges | <big><span class="asgreek">σκνίπες</span></big> <sup><small><small>[[G9110]]</small></small></sup> |
-| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
-| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| stretched out | **<big>[[G1614\|εξέτεινεν]]</big>** |
+| Then | **<big>[[G3767\|ουν]]</big>** |
+| Aaron | **<big>[[G0002\|Ααρών]]</big>** |
+| \[with\] the | **<big>[[G3588\|τη]]</big>** |
+| hand | **<big>[[G5495\|χειρί]]</big>** |
+| the | **<big>[[G3588\|την]]</big>** |
+| rod | **<big>[[G4464\|ράβδον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| he struck | **<big>[[G3960\|επάταξε]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| embankment | **<big>[[G9771\|χώμα]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| earth, | **<big>[[G1093\|γης]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| there were | **<big>[[G1096\|εγένοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| midges | **<big>[[G9110\|σκνίπες]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| both | **<big>[[G5037\|τε]]</big>** |
+| \<obj.> | **<big>[[G3588\|τοις]]</big>** |
+| men \[and\] | **<big>[[G0444\|ανθρώποις]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| also | **<big>[[G5037\|τε]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| four-footed \[creatures\]. | **<big>[[G5074\|τετράποσι]]</big>** |
+| And | **<big>[[G2532\|και]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|παντί]]</big>** |
+| embankments | **<big>[[G9771\|χώματι]]</big>** |
+| of the | **<big>[[G3588\|της]]</big>** |
+| land | **<big>[[G1093\|γης]]</big>** |
+| there were | **<big>[[G1096\|εγένοντο]]</big>** |
+| the | **<big>[[G3588\|οι]]</big>** |
+| midges | **<big>[[G9110\|σκνίπες]]</big>** |
+| in | **<big>[[G1722\|εν]]</big>** |
+| all | **<big>[[G3956\|πάση]]</big>** |
+| \[the\] land | **<big>[[G1093\|γη]]</big>** |
+| of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
 [[Exod.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.16|<< Exodus 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.18|Exodus 8:18 >>]]</td></tr></table>
 
 

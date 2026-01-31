@@ -1,5 +1,5 @@
-<big><span class="ashebrew">‎מוּשִׁי‎</span></big> **Mûwshîy** <small>*(moo-shee')*</small> ==**Mushite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
-<small>patronymical from <span class="ashebrew">‎מוּשִׁי‎</span><sup><small>[[H4187]]</small></sup></small>
+**<big><span class="ashebrew">‎מוּשִׁי‎</span></big>** **Mûwshîy** <small>*(moo-shee')*</small> ==**Mushite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymical from **<big>[[H4187|‎מוּשִׁי‎]]</big>**</small>
 
 $\quad$ Mushites.
 - § Mushites = *see Mushi "yielding"*

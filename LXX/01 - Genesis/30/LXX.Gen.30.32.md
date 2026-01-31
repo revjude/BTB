@@ -10,33 +10,33 @@ I will pass through all thy flock to day, removing from thence all the speckled 
 Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb, and every spotted or speckled goat. These will be my wages.<small><sub>**MT:**</sub></small>
 [[Gen.30.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.31|<< Genesis 30:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.33|Genesis 30:33 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| go by | <big><span class="asgreek">παρελθέτω</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
-| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| your flocks | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| you part | <big><span class="asgreek">διαχώρισον</span></big> <sup><small><small>[[G1316]]</small></small></sup> |
-| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
-| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| sheep | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
-| gray | <big><span class="asgreek">φαιόν</span></big> <sup><small><small>[[G9613]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| rams, | <big><span class="asgreek">αρνάσι</span></big> <sup><small><small>[[G0704]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
-| white-mixed | <big><span class="asgreek">διάλευκον</span></big> <sup><small><small>[[G6842]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| speckled | <big><span class="asgreek">ραντόν</span></big> <sup><small><small>[[G9011]]</small></small></sup> |
-| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
-| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| goats! | <big><span class="asgreek">αιξίν</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
-| It will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| a wage. | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
+| go by | **<big>[[G3928\|παρελθέτω]]</big>** |
+| all | **<big>[[G3956\|πάντα]]</big>** |
+| \<obj.> | **<big>[[G3588\|τα]]</big>** |
+| your flocks | **<big>[[G4263\|πρόβατά]]</big>** **<big>[[G1473\|σου]]</big>** |
+| today, | **<big>[[G4594\|σήμερον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| you part | **<big>[[G1316\|διαχώρισον]]</big>** |
+| from there | **<big>[[G1564\|εκείθεν]]</big>** |
+| every | **<big>[[G3956\|παν]]</big>** |
+| sheep | **<big>[[G4263\|πρόβατον]]</big>** |
+| gray | **<big>[[G9613\|φαιόν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|τοις]]</big>** |
+| rams, | **<big>[[G0704\|αρνάσι]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| all | **<big>[[G3956\|παν]]</big>** |
+| white-mixed | **<big>[[G6842\|διάλευκον]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| speckled | **<big>[[G9011\|ραντόν]]</big>** |
+| among | **<big>[[G1722\|εν]]</big>** |
+| the | **<big>[[G3588\|ταις]]</big>** |
+| goats! | **<big>[[G6167\|αιξίν]]</big>** |
+| It will be | **<big>[[G1510\|έσται]]</big>** |
+| to me | **<big>[[G1473\|μοι]]</big>** |
+| a wage. | **<big>[[G3408\|μισθός]]</big>** |
 [[Gen.30.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.31|<< Genesis 30:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.33|Genesis 30:33 >>]]</td></tr></table>
 
 

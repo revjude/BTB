@@ -7,30 +7,30 @@ But there the glorious LORD [will be] unto us a place of broad rivers [and] stre
 But there the Majestic One, our LORD, will be for us a place of rivers and wide canals, where no galley with oars will row, and no majestic vessel will pass.<small><sub>**MT:**</sub></small>
 [[Isa.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.20|<< Isaiah 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.22|Isaiah 33:22 >>]]</td></tr></table>
 
-| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| Translation | Greek |
 | - | - |
-| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
-| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
-| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
-| great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
-| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
-| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
-| with rivers | <big><span class="asgreek">ποταμοί</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| aqueducts | <big><span class="asgreek">διώρυγες</span></big> <sup><small><small>[[G6953]]</small></small></sup> |
-| spacious | <big><span class="asgreek">πλατείς</span></big> <sup><small><small>[[G4116]]</small></small></sup> |
-| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
-| broad | <big><span class="asgreek">ευρύχωροι</span></big> <sup><small><small>[[G2149]]</small></small></sup> |
-| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύση</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
-| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
-| way, | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
-| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
-| go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
-| a boat | <big><span class="asgreek">πλοίον</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
-| being rowed | <big><span class="asgreek">ελαύνον</span></big> <sup><small><small>[[G1643]]</small></small></sup> |
+| For | **<big>[[G3754\|ότι]]</big>** |
+| the | **<big>[[G3588\|το]]</big>** |
+| name | **<big>[[G3686\|όνομα]]</big>** |
+| of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
+| great | **<big>[[G3173\|μέγα]]</big>** |
+| to you | **<big>[[G1473\|υμίν]]</big>** |
+| will be | **<big>[[G1510\|έσται]]</big>** |
+| with rivers | **<big>[[G4215\|ποταμοί]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| aqueducts | **<big>[[G6953\|διώρυγες]]</big>** |
+| spacious | **<big>[[G4116\|πλατείς]]</big>** |
+| and | **<big>[[G2532\|και]]</big>** |
+| broad | **<big>[[G2149\|ευρύχωροι]]</big>** |
+| You shall not | **<big>[[G3756\|ου]]</big>** |
+| go | **<big>[[G4198\|πορεύση]]</big>** |
+| this | **<big>[[G3778\|ταύτην]]</big>** |
+| \<obj.> | **<big>[[G3588\|την]]</big>** |
+| way, | **<big>[[G3598\|οδόν]]</big>** |
+| nor | **<big>[[G3761\|ουδέ]]</big>** |
+| go | **<big>[[G4198\|πορεύσεται]]</big>** |
+| a boat | **<big>[[G4143\|πλοίον]]</big>** |
+| being rowed | **<big>[[G1643\|ελαύνον]]</big>** |
 [[Isa.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.20|<< Isaiah 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.22|Isaiah 33:22 >>]]</td></tr></table>
 
 
